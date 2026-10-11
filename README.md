@@ -8,12 +8,14 @@ Part of [LawCodex](https://github.com/LawCodex): the legislation of every countr
 - Jurisdiction: Spain (`es`), language: Spanish (castellano)
 - Source: BOE open-data API — <https://www.boe.es/datosabiertos/api/legislacion-consolidada>
 - Retrieved: 2026-10-11
-- Total: **10,001** norms (6,823 state-level, 3,178 autonomous-community)
+- Total: **10,003** norms (6,825 state-level, 3,178 autonomous-community)
 
 ## Coverage
 
 Everything the BOE consolidated-legislation database marks as **in force** (`vigencia_agotada = N`),
 in its latest consolidated version (all amendments applied, as published by the BOE).
+A small number of these (127) carry a BOE note saying the norm has just been repealed or
+annulled (the catalogue flag lags behind); they are kept with `status: repealed`.
 
 ### State legislation (ámbito estatal)
 
@@ -26,6 +28,7 @@ in its latest consolidated version (all amendments applied, as published by the 
 | `reales-decretos-leyes/` | Reales Decretos-leyes | 264 |
 | `reales-decretos/` | Reales Decretos (incl. Código Civil, Código de Comercio) | 2,715 |
 | `decretos/` | Decretos (pre-1978 / misc.) | 107 |
+| `decretos-leyes/` | Decretos-leyes (pre-1978) | 2 |
 | `ordenes/` | Órdenes ministeriales | 1,722 |
 | `resoluciones/` | Resoluciones | 555 |
 | `circulares/` | Circulares (Banco de España, CNMV...) | 118 |
@@ -33,7 +36,7 @@ in its latest consolidated version (all amendments applied, as published by the 
 | `acuerdos/` | Acuerdos | 24 |
 | `acuerdos-internacionales/` | Acuerdos internacionales (tratados) | 240 |
 | `reglamentos/` | Reglamentos | 2 |
-| | **Total state** | **6,823** |
+| | **Total state** | **6,825** |
 
 ### Autonomous-community legislation (ámbito autonómico)
 

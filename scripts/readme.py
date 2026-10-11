@@ -16,6 +16,7 @@ STATE_DIRS = [
     ("reales-decretos-leyes", "Reales Decretos-leyes"),
     ("reales-decretos", "Reales Decretos (incl. Código Civil, Código de Comercio)"),
     ("decretos", "Decretos (pre-1978 / misc.)"),
+    ("decretos-leyes", "Decretos-leyes (pre-1978)"),
     ("ordenes", "Órdenes ministeriales"),
     ("resoluciones", "Resoluciones"),
     ("circulares", "Circulares (Banco de España, CNMV...)"),
@@ -46,6 +47,7 @@ def count_md(path):
 
 def main():
     retrieved = None
+    repealed = 0
     codes = []
     for root, _, files in os.walk(REPO):
         if "/.git" in root or root.endswith("/scripts"):
@@ -56,6 +58,8 @@ def main():
             with open(os.path.join(root, f), encoding="utf-8") as fh:
                 head = fh.read(2500)
             m = re.search(r"^retrieved: (\S+)", head, re.M)
+            if re.search(r"^status: repealed$", head, re.M):
+                repealed += 1
             if m and not retrieved:
                 retrieved = m.group(1)
             if re.search(r"^type: code$", head, re.M) and "/autonomicas/" not in root:
@@ -112,6 +116,8 @@ Part of [LawCodex](https://github.com/LawCodex): the legislation of every countr
 
 Everything the BOE consolidated-legislation database marks as **in force** (`vigencia_agotada = N`),
 in its latest consolidated version (all amendments applied, as published by the BOE).
+A small number of these ({repealed:,}) carry a BOE note saying the norm has just been repealed or
+annulled (the catalogue flag lags behind); they are kept with `status: repealed`.
 
 ### State legislation (ámbito estatal)
 
