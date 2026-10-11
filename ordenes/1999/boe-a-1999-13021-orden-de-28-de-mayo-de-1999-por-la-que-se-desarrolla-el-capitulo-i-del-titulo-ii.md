@@ -1,0 +1,281 @@
+---
+title: "Orden de 28 de mayo de 1999 por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de expedición de certificados de capacitación profesional"
+identifier: "BOE-A-1999-13021"
+eli: "https://www.boe.es/eli/es/o/1999/05/28/(5)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 1999-05-28
+published: 1999-06-11
+in_force_from: 1999-09-01
+last_amended: 2019-02-20
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 139"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-13021"
+retrieved: 2026-10-11
+---
+
+# Orden de 28 de mayo de 1999 por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de expedición de certificados de capacitación profesional
+
+La Orden de 23 de julio de 1997, por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres en materia de expedición de certificados de capacitación profesional, regula las condiciones necesarias para la obtención de dichos certificados de acuerdo con las especificaciones establecidas por la Directiva 96/26/CE, del Consejo, de 29 de abril de 1996, relativa al acceso a la profesión de transportista de mercancías y de transportista de viajeros por carretera, así como al reconocimiento recíproco de los diplomas, certificados y otros títulos destinados a favorecer el ejercicio de la libertad de establecimiento de estos transportistas en el sector de los transportes nacionales e internacionales.
+
+La Directiva 98/76/CE, del Consejo, de 1 de octubre de 1998, ha modificado parcialmente la Directiva 96/26/CE en aspectos que afectan tanto a la práctica de los exámenes para la obtención del certificado de capacitación profesional, como a las reglas para su calificación, al programa de materias que constituyen el contenido de aquéllos y al propio modelo normalizado de certificado de capacitación.
+
+Ello hace necesario adaptar el régimen de expedición de los certificados de capacitación profesional hasta ahora vigente. Algunas materias reguladas en la Directiva 98/76/CE, tales como el nuevo programa de materias y el modelo de certificado, carecen de regulación en la Orden de 23 de julio de 1997 y, en consecuencia, deben ser establecidas. Las restantes, que afectan particularmente al desarrollo y calificación de los exámenes, sí están reguladas en la Orden de 1997, con arreglo a criterios compatibles con la Directiva 98/76/CE. Sin embargo, se ha estimado conveniente introducir algunas modificaciones también en la regulación de dichas materias, con objeto de conseguir un nivel de exigencia más equilibrado para la obtención de los certificados.
+
+En su virtud, previo informe del Comité Nacional del Transporte por Carretera y del Consejo Nacional de Transportes Terrestres, dispongo:
+
+## CAPÍTULO I — De los certificados de capacitación profesional y su expedición
+
+### Artículo 1. Clases de certificados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+### Artículo 2. Competencia para su expedición.
+
+Los certificados de capacitación profesional serán expedidos por el Ministerio de Fomento o por las Comunidades Autónomas que resulten competentes en virtud de las facultades delegadas por la Ley Orgánica 5/1987, de 30 de julio, a las personas previstas en el artículo 34.1 del ROTT y en esta Orden. Dichas personas serán inscritas en el apartado correspondiente del Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte, en los términos que señala el número 1 del artículo 50 del ROTT, a cuyo fin, las Comunidades Autónomas habrán de remitir relación de los que expidan a la Dirección General de Ferrocarriles y Transportes por Carretera, haciendo constar los datos que ésta determine.
+
+### Artículo 3. Modelo oficial de certificado.
+
+Los certificados expedidos conforme a lo previsto en este capítulo se ajustarán al modelo oficial recogido en el anexo A de esta Orden.
+
+## CAPÍTULO II — De las pruebas para la obtención del certificado de capacitación profesional en sus distintas modalidades
+
+### Artículo 4. Programa oficial de las pruebas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 5. Periodicidad de las pruebas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 6. Convocatoria de las pruebas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 7. Designación de Tribunales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 8. Composición de los Tribunales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 9. Derecho a concurrir a las pruebas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 10. Contenido de las pruebas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 11. Estructura de los ejercicios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 12. Calificación de los ejercicios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+### Artículo 13. Expedición de los certificados.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este artículo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)
+
+## CAPÍTULO III — Del reconocimiento de los requisitos de capacitación profesional y honorabilidad a los titulares de certificados expedidos por otros Estados de la Unión Europea
+
+### Artículo 14. Reconocimiento de la capacitación para realizar una actividad de transporte.
+
+Sólo se reconocerá como prueba suficiente de la capacitación profesional de los ciudadanos de otros Estados miembros de la Unión Europea, el certificado expedido conforme al modelo recogido en el anexo I bis de la Directiva 98/76/CE, de 1 de octubre de 1998, por las autoridades o entidades designadas por los Estados.
+
+### Artículo 15. Cumplimiento del requisito de honorabilidad.
+
+Sin perjuicio de la obligación de observar las condiciones establecidas por la normativa española a efectos del cumplimiento del requisito de honorabilidad, los ciudadanos de otros Estados miembros de la Unión Europea podrán, en el momento de su establecimiento en España, justificar el cumplimiento de dichas condiciones mediante los correspondientes documentos expedidos en sus respectivos Estados.
+
+### Disposición adicional única.
+
+A las personas que, de conformidad con lo establecido en el Real Decreto 1654/1994, de 22 de julio, por el que se establece el título de Técnico Superior en Gestión del Transporte y las correspondientes enseñanzas mínimas, obtengan el título de formación profesional de Técnico Superior en Gestión del Transporte, se les expedirá el certificado de capacitación profesional establecido en el artículo 1 de esta Orden, siempre que el programa de materias exigido para la obtención del referido título de formación profesional incluya en su totalidad el recogido en el anexo I de la Directiva 98/76/CE, del Consejo, de 1 de octubre de 1998. Cuando el programa tan sólo recoja el contenido relativo a una de las dos modalidades de certificado de capacitación profesional -mercancías o viajeros-, se expedirá únicamente el certificado correspondiente a dicha modalidad.
+
+> Se añade por el art. 3 de la Orden de 26 de junio de 2001. [Ref. BOE-A-2001-13053](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-13053)
+
+### Disposición transitoria primera.
+
+Los certificados de capacitación profesional para la modalidad de transporte interior de mercancías o de viajeros y para una o todas las actividades auxiliares y complementarias del transporte de mercancías, expedidos con anterioridad a la entrada en vigor de esta Orden, seguirán conservando validez de acuerdo con las normas vigentes en el momento de su obtención. Sin embargo, la obtención de los certificados de capacitación profesional regulados en esta Orden, en cualquiera de sus modalidades exigirá la superación del ejercicio previsto en el artículo 10.
+
+Quienes tuvieran reconocida exclusivamente capacitación para el ejercicio de la actividad de transporte de mercancías en virtud de las normas vigentes anteriores a esta Orden, sólo podrán capacitar a una empresa titular de una autorización de operador de transporte si, previamente, obtienen el certificado para el ejercicio de la actividad de transporte interior e internacional de mercancías mediante la superación del correspondiente ejercicio.
+
+### Disposición transitoria segunda.
+
+El órgano competente, conforme a lo previsto en el artículo 2, expedirá un certificado de capacitación profesional referido exclusivamente a las actividades de transporte interior de mercancías o de transporte interior de viajeros a:
+
+1.º Las personas físicas titulares de concesiones o autorizaciones de transporte público por carretera que tengan reconocido el requisito de capacitación profesional para la actividad de transporte interior de viajeros o de mercancías, en virtud de lo dispuesto en los números 1 y 3 de la disposición transitoria primera de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres (LOTT).
+
+2.º Las personas a quienes, en virtud de lo previsto en el número 2 de la disposición transitoria primera de la LOTT, deba reconocerse el requisito de capacitación profesional para la actividad de transporte interior de viajeros o de mercancías, por ejercer la dirección efectiva de empresas titulares de concesiones o autorizaciones de transporte público por carretera y así lo soliciten, adjuntando documentación acreditativa del cumplimiento, durante el tiempo mínimo previsto en la citada disposición transitoria, de dicho extremo.
+
+### Disposición transitoria tercera.
+
+La Dirección General de Ferrocarriles y Transportes por Carretera expedirá el certificado de capacitación profesional para el ejercicio de la actividad de transporte interior e internacional de mercancías a:
+
+1.º Las personas físicas titulares de autorizaciones de transporte público de mercancías por carretera que, por haber realizado transporte internacional de mercancías, tengan reconocido el requisito de capacitación profesional, tanto para la actividad de transporte interior como para la de transporte internacional de mercancías, en virtud de lo dispuesto en los números 1 y 3 de la disposición transitoria primera de la LOTT.
+
+2.º Las personas a quienes, en virtud de lo dispuesto en el número 2 de la disposición transitoria primera de la LOTT, deba reconocerse el requisito de capacitación profesional, tanto para la actividad de transporte interior como para la de transporte internacional de mercancías, por ejercer la dirección efectiva de empresas titulares de autorizaciones de transporte público que hubieran realizado transporte internacional de mercancías y así lo soliciten, adjuntando documentación acreditativa del cumplimiento, durante el tiempo mínimo previsto en la citada disposición transitoria, de dicho extremo.
+
+### Disposición transitoria cuarta.
+
+La Dirección General Ferrocarriles y Transportes por Carretera expedirá el certificado de capacitación profesional para el ejercicio de la actividad de transporte interior e internacional de viajeros a las personas físicas titulares de autorizaciones de transporte público de viajeros, o que realicen o hayan ejercido la dirección efectiva de empresas titulares de tales autorizaciones, a quienes, en virtud de lo previsto en los números 1, 2 y 3 de la disposición transitoria primera de la LOTT, deba reconocerse el requisito de capacitación profesional tanto para la actividad de transporte interior como para la de transporte internacional de viajeros y así lo soliciten, adjuntando la correspondiente documentación ASOR o, en su defecto, certificación de una asociación representativa de las empresas de transporte de viajeros en autobús, que acredite la realización de transporte internacional en los plazos previstos en la citada disposición transitoria, así como, en su caso, la documentación acreditativa de haber ejercido, durante los mismos plazos, la dirección efectiva de la correspondiente empresa.
+
+### Disposición transitoria quinta.
+
+El órgano competente, conforme a lo previsto en el artículo 2, expedirá un certificado de capacitación profesional referido exclusivamente a la actividad de agencia de transporte de mercancías a:
+
+1.º Las personas físicas titulares de autorizaciones de agencia de transporte de mercancías o de autorizaciones de las clases MR, EC o DC en la fecha de entrada en vigor de la LOTT.
+
+2.º Las personas que, en el momento de entrada en vigor de la LOTT, ejercían la dirección efectiva de empresas titulares de las autorizaciones a que hace referencia el apartado anterior que así lo soliciten, adjuntando documentación acreditativa de que en dicha fecha cumplían tal requisito.
+
+3.º Las personas que, en el momento de entrada en vigor de la LOTT, ejercían la dirección efectiva de cooperativas de transportistas que así lo soliciten, adjuntando documentación acreditativa de que en dicha fecha cumplían tal requisito.
+
+### Disposición transitoria sexta.
+
+El órgano competente, conforme a lo previsto en el artículo 2, expedirá un certificado de capacitación profesional referido exclusivamente a las actividades de transitario o de almacenista-distribuidor a las personas que así lo soliciten y justifiquen que, en la fecha de entrada en vigor de la LOTT, realizaban en nombre propio una de dichas actividades o dirigían efectivamente una empresa dedicada a las mismas, adjuntando la siguiente documentación:
+
+a) Justificación de que ellos mismos o, en su caso, la empresa que dirigían estaban dados de alta en la antigua licencia fiscal de actividades comerciales e industriales, correspondiente a la actividad de que se trate.
+
+b) Justificación de que ellos mismos o, en su caso, la empresa que dirigían contaban con los locales u oficinas necesarios para el ejercicio de la actividad.
+
+c) Justificación de que ellos mismos o, en su caso, la empresa que dirigían cumplían las obligaciones fiscales inherentes al ejercicio de la actividad y, en particular, las correspondientes a los impuestos sobre el Valor Añadido y sobre la Renta de las Personas Físicas o sobre Sociedades.
+
+d) Justificación de que ellos mismos o, en su caso, la empresa que dirigían desarrollaban efectivamente la actividad de que se trate mediante certificados de su inscripción en organizaciones profesionales, contratos, facturas u otros documentos análogos.
+
+e) Justificación, en su caso, de que cumplían el requisito de dirección efectiva de la empresa.
+
+### Disposición transitoria séptima.
+
+Las pruebas para la obtención de los certificados de capacitación profesional que se celebren a partir de la publicación de esta Orden en el «Boletín Oficial del Estado» y antes de su entrada en vigor, se desarrollarán con arreglo a lo dispuesto en la Orden del Ministro de Fomento de 23 de julio de 1997, si bien la calificación de los ejercicios que en la misma se prevén se realizará con arreglo a lo dispuesto en el artículo 12 de esta Orden.
+
+### Disposición derogatoria.
+
+A la entrada en vigor de esta Orden quedará derogada la Orden del Ministro de Fomento de 23 de julio de 1997, por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de expedición de certificados de capacitación profesional, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la misma.
+
+### Disposición final primera.
+
+Se autoriza a la Dirección General de Ferrocarriles y Transportes por Carretera para adoptar las medidas necesarias para la ejecución de esta Orden, así como para establecer las reglas de coordinación que resulten necesarias para su aplicación, de conformidad con lo dispuesto en el artículo 16.2 de la Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los Transportes por Carretera y por Cable.
+
+### Disposición final segunda.
+
+Las Comunidades Autónomas a quienes corresponda expedir los certificados previstos en las disposiciones transitorias segunda, quinta y sexta podrán, respetando las fechas que en las mismas se señalan, establecer las reglas y plazos que estimen procedentes para la más ágil y ordenada expedición de los mismos.
+
+### Disposición final tercera.
+
+Esta Orden, con la salvedad prevista en la disposición transitoria séptima, entrará en vigor el día 1 de septiembre de 1999.
+
+Madrid, 28 de mayo de 1999.
+
+ARIAS-SALGADO MONTALVO
+
+## ANEXO A
+
+**COMUNIDAD EUROPEA**
+
+(Papel fuerte de color beige - Formato: DIN A4)
+
+(Texto redactado en la, las o una de las lenguas oficiales del Estado miembro de expedición del certificado)
+
+| Distintivo del Estado miembro interesado (<sup>1</sup>) |  | Denominación de la autoridad o de la entidad competente (<sup>2</sup>) |
+|---|---|---|
+|  |  |  |
+
+**CERTIFICADO DE COMPETENCIA PROFESIONAL PARA EL TRANSPORTE NACIONAL [E INTERNACIONAL] (<sup>3</sup>) DE MERCANCÍAS [VIAJEROS] (<sup>3</sup>) POR CARRETERA**
+
+| N.º .................... |
+|---|
+
+Por la presente (<sup>2</sup>) ..............................................................................................
+
+certifica:
+
+a) que (<sup>4</sup>) ............................................................................................
+
+nacido/a en .............................................., el .............................................
+
+ha superado satisfactoriamente las pruebas del examen (año: .....................................; convocatoria: ......................) (<sup>5</sup>) organizado para la obtención del certificado de competencia profesional para el transporte nacional [e internacional] (<sup>3</sup>) de mercancías [viajeros] (<sup>3</sup>) por carretera, conforme a lo dispuesto en (<sup>6</sup>) ....................................
+
+b) que la persona mencionada en la letra a) está facultada para invocar su competencia profesional en una empresa de transportes de mercancías [de viajeros] (<sup>3</sup>) por carretera:
+
+– que efectúe únicamente transportes nacionales en el Estado miembro que expide el certificado (<sup>3</sup>);
+
+– que efectúe transportes internacionales (<sup>3</sup>).
+
+| El presente certificado constituye prueba suficiente de la competencia profesional mencionada en el apartado 1 del artículo 10 de la Directiva 96/26/CE del Consejo, de 29 de abril de 1996, relativa al acceso a la profesión de transportistas de mercancías y de transportistas de viajeros por carretera, así como el reconocimiento recíproco de los diplomas, certificados y otros títulos destinados a favorecer el ejercicio efectivo a la libertad de establecimiento de estos transportistas en el sector de los transportes nacionales e internacionales. |
+|---|
+
+Expedido en ................................... , el ...................................
+
+....................................... (<sup>7</sup>)
+
+(1) Distintivo del Estado: (B) Bélgica, (BG) Bulgaria, (CZ) República Checa, (DK) Dinamarca, (D) Alemania, (EST) Estonia, (GR) Grecia, (E) España, (F) Francia, (IRL) Irlanda, (I) Italia, (CY) Chipre, (LV) Letonia, (LT) Lituania, (L) Luxemburgo, (H) Hungría, (M) Malta, (NL) Países Bajos, (A) Austria, (PL) Polonia, (P) Portugal, (RO) Rumanía, (SLO) Eslovenia, (SK) Eslovaquia, (FIN) Finlandia, (S) Suecia, (UK) Reino Unido.
+
+(<sup>2</sup>) Autoridad o entidad previamente designada a tal efecto por cada miembro de la Comunidad Europea para expedir el presente certificado.
+
+(<sup>3</sup>) Táchese lo que no proceda.
+
+(<sup>4</sup>) Nombre y apellidos; lugar y fecha de nacimiento.
+
+(<sup>5</sup>) Identificación del examen.
+
+(<sup>6</sup>) Referencia a las disposiciones de Derecho interno adoptadas en la materia, conforme a la mencionada Directiva.
+
+(<sup>7</sup>) Sello y firma de la autoridad o entidad competente que expide el certificado.
+
+> Se modifica la nota (1) a pie de página por la Resolución de 25 de enero de 2007. [Ref. BOE-A-2007-3691](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3691).
+
+## ANEXO B
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+> Téngase en cuenta que este anexo se continuará aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera hasta el 1 de enero de 2022, según establece la disposición transitoria 5 del citado Real Decreto, en la redacción dada por la disposición final 7 del Real Decreto-ley 26/2020, de 7 de julio. [Ref. BOE-A-2020-7432](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7432)

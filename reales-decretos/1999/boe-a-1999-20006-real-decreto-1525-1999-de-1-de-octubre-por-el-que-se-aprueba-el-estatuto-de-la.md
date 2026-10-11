@@ -1,0 +1,627 @@
+---
+title: "Real Decreto 1525/1999, de 1 de octubre, por el que se aprueba el Estatuto de la Entidad Pública Empresarial de Suelo (SEPES)"
+identifier: "BOE-A-1999-20006"
+eli: "https://www.boe.es/eli/es/rd/1999/10/01/1525"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-10-01
+published: 1999-10-08
+in_force_from: 1999-10-09
+last_amended: 2025-12-11
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 241"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-20006"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1525/1999, de 1 de octubre, por el que se aprueba el Estatuto de la Entidad Pública Empresarial de Suelo (SEPES)
+
+Esta norma pasa a denominarse **"Real Decreto 1525/1999, de 1 de octubre, por el que se aprueba el Estatuto de CASA 47 Entidad Pública Empresarial"**, según establece el art. único.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+La disposición transitoria tercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, establecía que se efectuaría la correspondiente adaptación de los organismos autónomos y demás entidades de derecho público a los dos tipos de organismo autónomo y entidad pública empresarial regulados en la Ley.
+
+En cumplimiento del obligado proceso de adaptación, y conforme a lo prevenido en el apartado 2 de la citada disposición transitoria, el Real Decreto 370/1999, de 5 de marzo, procedió a la adaptación de diversas entidades de derecho público a las previsiones de la Ley 6/1997, quedando la Sociedad Estatal de Promoción y Equipamiento de Suelo acomodada a las exigencias de la Ley como entidad pública empresarial adscrita al Ministerio de Fomento.
+
+Considerando que la hoy Entidad Pública Empresarial sigue rigiéndose, sustancialmente, por el Real Decreto 2640/1981, de 30 de octubre, por el que se constituyó la Sociedad Estatal en ejecución de lo establecido en el apartado 3 de la disposición final del Real Decreto-ley 12/1980, de 26 de septiembre, y los Estatutos aprobados por el mismo Real Decreto y modificados parcialmente por Acuerdos del Consejo de Ministros de 18 de octubre de 1996 y de 3 de julio de 1998, resulta necesaria la adaptación de las previsiones y régimen contenidos en estos últimos a las novedades normativas que les afectan, producidas a lo largo del dilatado lapso de tiempo transcurrido y, en especial, a las contenidas en la Ley 6/1997, citada.
+
+En su virtud, a iniciativa del Ministro de Fomento y a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda y previa deliberación del Consejo de Ministros en su reunión del día 1 de octubre de 1999,
+
+#### DISPONGO:
+
+##### Artículo único. Aprobación del Estatuto.
+
+De acuerdo con lo previsto en el artículo 62.3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, se aprueba el Estatuto de la Entidad Pública Empresarial de Suelo (SEPES), nueva denominación de la Sociedad Estatal de Promoción y Equipamiento de Suelo (SEPES), cuyo texto se inserta a continuación.
+
+> Téngase en cuenta que la referencia a "SEPES Entidad Pública Empresarial de Suelo (en anagrama SEPES)" se entenderá efectuada a "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+##### Disposición adicional única. Subrogación en los derechos y obligaciones de la Sociedad Estatal.
+
+SEPES Entidad Pública Empresarial de Suelo (SEPES) se subroga en todos los derechos y obligaciones de la Sociedad Estatal de Promoción y Equipamiento de Suelo (SEPES).
+
+Las referencias existentes a la Sociedad Estatal en la legislación vigente, que sean anteriores al presente Real Decreto, se entenderán realizadas, a todos los efectos, a SEPES Entidad Pública Empresarial de Suelo.
+
+> Téngase en cuenta que la referencia a "SEPES Entidad Pública Empresarial de Suelo (en anagrama SEPES)" se entenderá efectuada a "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+##### Disposición transitoria única. Régimen económico-financiero y de presupuestación.
+
+En tanto se procede a la modificación del texto refundido de la Ley General Presupuestaria, SEPES se regirá, en lo relativo a presupuestación y régimen económico-financiero, por los preceptos del citado texto refundido aplicables a las entidades de derecho público del párrafo b) del apartado 1 de su artículo 6.
+
+> Téngase en cuenta que la referencia a "SEPES Entidad Pública Empresarial de Suelo (en anagrama SEPES)" se entenderá efectuada a "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto y en particular:
+
+a) El Real Decreto 2640/1981, de 30 de octubre, sobre constitución de la Sociedad Estatal de Promoción y Equipamiento de Suelo, en cuanto regula el régimen jurídico de dicha Entidad, así como los Estatutos aprobados por el mismo.
+
+b) El Real Decreto 1186/1998, de 12 de junio, sobre medidas de financiación de actuaciones protegibles en materia de vivienda y suelo para el período 1998-2001, en su disposición adicional cuarta.
+
+##### Disposición final única. Desarrollo y entrada en vigor.
+
+Se autoriza al Ministro de Fomento, en el ámbito de sus competencias, para dictar y adoptar cuantas disposiciones y medidas se estimen necesarias para el desarrollo y aplicación del presente Real Decreto.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 1 octubre de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno<br> y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ESTATUTO DE CASA 47 ENTIDAD PÚBLICA EMPRESARIAL
+
+> Se modifica la referencia a "SEPES Entidad Pública Empresarial de Suelo" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+## CAPÍTULO I — Disposiciones generales
+
+##### Artículo 1. Naturaleza jurídica.
+
+1\. CASA 47 Entidad Pública Empresarial, se configura como una entidad pública empresarial de las previstas en los artículos 84.1.a).2.º y 103 y siguientes de Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, adscrita al Ministerio de Vivienda y Agenda Urbana, a través de la Secretaría de Estado de Vivienda y Agenda Urbana a quien, como órgano de adscripción, corresponde la dirección estratégica, la evaluación de los resultados de su actividad y el control de eficacia, este último a través de la Subdirección General de Recursos Humanos e Inspección de Servicios dependiente de la Subsecretaría del departamento, en los términos previstos en el artículo 85 de la citada Ley 40/2015, de 1 de octubre.
+
+2\. CASA 47 Entidad Pública Empresarial goza de personalidad jurídica pública diferenciada de la del Estado, plena capacidad jurídica y de obrar para el cumplimiento de sus fines, patrimonio y tesorería propios, así como autonomía de gestión, rigiéndose por la Ley 40/2015, de 1 de octubre, la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas, la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y por el presente Estatuto.
+
+> Se modifica por el art. único.2 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica por el art. único.1 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 2. Régimen jurídico.
+
+Los actos de la Entidad se rigen por el derecho privado, excepto en la formación de la voluntad de sus órganos, en el ejercicio de las potestades administrativas que le pudieran ser atribuidas y en los aspectos específicamente regulados para las entidades públicas empresariales en la Ley 40/2015, de 1 de octubre, legislación presupuestaria y administrativa en vigor, resto de normas de derecho administrativo general y especial que le sean de aplicación, y por el presente Estatuto.
+
+> Se modifica por el art. único.2 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 3. Domicilio.
+
+1\. El domicilio legal de CASA 47 Entidad Pública Empresarial se fija en Madrid, paseo de la Castellana, número 91.
+
+2\. El Consejo Rector queda facultado para variar el domicilio legal dentro de la misma capital, así como para establecer, modificar o suprimir oficinas, sucursales, agencias, representaciones o dependencias en cualquier lugar, con el cometido, facultades y modalidades de funcionamiento que el propio Consejo determine.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial" y la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.1 y 3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+## CAPÍTULO II — Objeto y funciones de la CASA 47 Entidad Pública Empresarial
+
+> Se modifica la referencia a "SEPES Entidad Pública Empresarial de Suelo" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+##### Artículo 4. Objeto.
+
+1\. Constituyen el objeto de la Entidad:
+
+1.º Promoción, adquisición y preparación de suelo para asentamientos industriales, residenciales, terciarios y de servicios, así como su correspondiente equipamiento.
+
+2.º Adquisición, por cualquier título, de terrenos destinados a la formación de reservas de suelo, preparación de solares o cualquier otra finalidad análoga.
+
+3.º **(Anulado)**
+
+4.º Ejecución de planes y proyectos de urbanización, creación y ejecución de infraestructuras urbanísticas y las actuaciones protegidas en materia de vivienda que le encomienden las Administraciones competentes.
+
+5.º Realización de las actuaciones que, en materia de su objeto social, le encomienden las administraciones Públicas de cualquier tipo e incluso las que se conviniere con la iniciativa privada.
+
+6.º Cualquier otra actividad relacionada con las expresadas en los apartados anteriores, incluso la construcción, arrendamiento y enajenación de edificaciones de cualquier uso.
+
+7.º Participación en negocios, sociedades y empresas a los fines recogidos en los apartados anteriores.»
+
+2\. CASA 47 Entidad Pública Empresarial, en el desarrollo de sus fines, podrá llevar a cabo cuantas actuaciones estime convenientes en los aspectos de estudios, redacción de proyectos y planes, ejecución de obras, adquisición, comercialización, permuta y enajenación a título oneroso de suelo y equipamiento, constitución de derechos reales y gravámenes sobre sus bienes, gestión y explotación de obras y servicios y cualesquiera otras que estime necesarias, sin otros límites que los establecidos por el ordenamiento jurídico.
+
+3\. CASA 47 Entidad Pública Empresarial podrá llevar a cabo las actuaciones de adquisición de suelo que convenga al cumplimiento de sus fines, incluso mediante expropiación, a cuyo efecto podrá ostentar la condición de beneficiaria prevista en la legislación de expropiación forzosa, correspondiendo la facultad expropiatoria al Ministerio de Fomento o a cualquier otra Administración competente.
+
+> Se modifican las referencias a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se declara la nulidad del inciso 3º del apartado 1, en la redacción dada por el art. único.3 del Real Decreto 855/2021, de 5 de octubre, por Sentencia del TS de 22 de septiembre de 2022. [Ref. BOE-A-2022-17478](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17478)
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 5. Autonomía de gestión.
+
+La Entidad ejercerá sus funciones con autonomía de gestión, dentro de los límites establecidos en la Ley o en el presente Estatuto; a tales efectos, la Entidad sujetará su actuación al derecho privado y a los buenos usos comerciales, sin más excepciones que las que resulten de las disposiciones legales o reglamentarias en vigor.
+
+##### Artículo 6. Régimen funcional.
+
+Para el cumplimiento de sus funciones, la Entidad podrá realizar toda clase de actos de administración y disposición previstos en la legislación civil y mercantil. Asimismo, podrá realizar cuantas actividades comerciales o industriales estén relacionadas con dichas funciones, incluso mediante la promoción o constitución de sociedades o empresas o mediante participación en ellas.
+
+##### Artículo 7. Convenios.
+
+1\. La Entidad podrá celebrar convenios y específicamente podrá suscribir convenios en materia de actuaciones de preparación, promoción y equipamiento de suelo que, con carácter urbanístico o sin él, la Entidad pueda concluir con entidades públicas y privadas para el mejor cumplimiento de dichos fines.
+
+2\. Adicionalmente a los trámites normativamente previstos, también será necesaria la autorización de la persona titular del Ministerio de Vivienda y Agenda Urbana cuando de dichos convenios pudiera derivarse incidencia presupuestaria en cuantía superior a la previamente fijada por el mismo.
+
+3\. Los convenios celebrados por la Entidad se sujetarán a las prescripciones establecidas para los convenios en los artículos 47 y siguientes de la Ley 40/2015, de 1 de octubre cuando reúnan los requisitos subjetivos y objetivos previstos en esa ley.
+
+4\. No obstante lo establecido en el apartado anterior, en el caso de que CASA 47 Entidad Pública Empresarial celebre convenios de carácter urbanístico o necesarios para la ejecución de actuaciones urbanísticas, éstos se ajustarán a las prescripciones que establezca la normativa urbanística autonómica o local en vigor, así como a la normativa urbanística estatal y de régimen del suelo y de vivienda del Estado.
+
+El plazo de vigencia de estos convenios será el que determine la normativa urbanística aplicable. En defecto de previsión, deberán tener una duración determinada que no podrá ser superior a 12 años, de conformidad con lo establecido en el artículo 49.h) 1° de la Ley 40/2015, de 1 de octubre, pudiendo ser prorrogados por un periodo de hasta cuatro años más, con arreglo al artículo 49.h) 2°.
+
+> Se modifica por el art. único.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Véase, en cuanto al régimen transitorio de los convenios de carácter urbanístico vigentes, la disposición transitoria única del citado Real Decreto.
+
+> Se modifica por el art. único.4 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+## CAPÍTULO III — Organización y funcionamiento
+
+### Sección primera. Disposición general
+
+##### Artículo 8. Órganos de gobierno y dirección.
+
+1\. Los órganos de gobierno y dirección de la Entidad son:
+
+a) El Consejo Rector.
+
+b) La Presidencia.
+
+2\. De la Presidencia dependerán como órganos ejecutivos de dirección la Secretaría General y el resto de los recogidos en el artículo 22, con la competencia de establecer un modelo de control orientado a conseguir una seguridad razonable en el cumplimiento de los objetivos de la Entidad, de acuerdo con lo señalado en el párrafo tercero del artículo 90.1 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.4 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+### Sección segunda. El Consejo Rector
+
+> Se modifica la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+##### Artículo 9. Composición.
+
+1\. La entidad estará regida por un Consejo Rector, que tendrá a su cargo la superior dirección de su administración y gestión, y que estará integrado por:
+
+a) La Presidencia de la entidad y de su Consejo Rector.
+
+b) Siete vocalías, de las que cinco serán designadas a propuesta de la persona titular del Ministerio Vivienda y Agenda Urbana y dos a propuesta de la persona titular del Ministerio de Hacienda.
+
+2\. Entre las siete vocalías se elegirá por el Consejo una Vicepresidencia, con las funciones que se establecen en el artículo 20.
+
+3\. Igualmente, formará parte del Consejo Rector una Secretaría, cuyo nombramiento y cese corresponderá al Consejo Rector, a propuesta de su Presidencia, y que asistirá a las sesiones con voz pero sin voto, si no tuviera la condición de vocal.
+
+4\. Asimismo, aunque sin formar parte del Consejo Rector, los órganos de dirección ejecutiva de la Entidad podrán asistir a sus reuniones cuando sean convocados por la Presidencia del Consejo, con voz pero sin voto.
+
+5\. En su designación, se atenderá al principio de presencia equilibrada de mujeres y hombres, de conformidad con lo dispuesto en el artículo 84 bis de la Ley 40/2015, de 1 de octubre, y conforme a la Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres, así como a criterios de idoneidad.
+
+> Se modifica por el art. único.5 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica el apartado 1.a) y b) por el art. único.5 y disposición final 1.1 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+> Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto 30/2011, de 14 de enero. [Ref. BOE-A-2011-972](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-972).
+
+> Se modifican los apartados 1 y 2 por el art. único del Real Decreto 1092/2010, de 3 de septiembre. [Ref. BOE-A-2010-14139](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14139).
+
+> Se deja sin efecto la referencia al Director General de la Vivienda, la Arquitectura y el Urbanismo y se entiende referida al Presidente de la entidad, según establece la disposición final 1 del Real Decreto 1718/2004, de 23 de julio. [Ref. BOE-A-2004-13904](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-13904).
+
+##### Artículo 10. Nombramiento y cese de sus miembros.
+
+Los miembros del Consejo Rector de la Entidad serán nombrados y, en su caso, cesados por la persona titular del Ministerio de Vivienda y Agenda Urbana. Las designaciones y, en su caso, ceses se producirán a favor de las personas y en función de lo dispuesto en el artículo 9.1 anterior.
+
+> Se modifica por el art. único.6 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+##### Artículo 11. Funciones.
+
+1\. Al Consejo Rector de la Entidad le corresponden, conforme al presente Estatuto y de acuerdo con lo previsto en la legislación vigente, las siguientes competencias:
+
+1.ª Representar a la Entidad en juicio y fuera de él, en cualesquiera actos o contratos y ante toda persona o entidad, ya sea pública o privada. El Consejo, sin perjuicio de las facultades de representación, asimismo, atribuidas a la Presidencia por el artículo 16.1, o, en su caso, a otro de los órganos de dirección ejecutiva, podrá conferir y revocar a persona o personas determinadas poderes generales, especiales y para la representación en juicio de la Entidad.
+
+2.ª Organizar, dirigir e inspeccionar el funcionamiento de la Entidad. Aprobar los criterios generales sobre la organización y estructura de la Entidad y las directrices para la elaboración y la modificación de la plantilla de personal, adaptando la denominación de la Direcciones en atención a los mismos.
+
+3.ª Dictar las normas de funcionamiento del propio Consejo en lo no previsto en el presente Estatuto, y en tanto no se opongan a lo previsto en la sección 3.ª del capítulo ll del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+4.ª Elaborar el programa de actuación plurianual a que se refiere la Ley 47/2003, de 26 de noviembre, y acordar su remisión, junto con el resto de documentación adicional, de conformidad con lo dispuesto en dicha Ley, al Ministerio de Hacienda y Función Pública a través del Ministerio de Transportes, Movilidad y Agenda Urbana. Asimismo, le corresponde elaborar el plan anual de actuación, así como sus modificaciones, con arreglo a lo previsto en el artículo 92 de la Ley 40/2015, y elevarlos al Ministerio de Transportes, Movilidad y Agenda Urbana para su aprobación.
+
+5.ª Aprobar inicialmente los presupuestos anuales de explotación y capital de la Entidad y elevarlos al Ministerio de Transportes, Movilidad y Agenda Urbana para su tramitación conforme a lo establecido en la Ley 47/2003, de 26 de noviembre.
+
+6.ª Aprobar el balance, la cuenta de pérdidas y ganancias y la memoria explicativa de la gestión anual de la Entidad y la aplicación de resultados.
+
+7.ª Solicitar del Ministerio de Transportes, Movilidad y Agenda Urbana autorización para concertar los empréstitos, operaciones de crédito y demás operaciones de financiación para la Entidad.
+
+8.ª Determinar las actuaciones de preparación de suelo que realice la Entidad a iniciativa propia.
+
+9.ª Aceptar las actuaciones de infraestructura urbanística, así como las que, en materia de preparación de suelo, encomienden a la Entidad las Administraciones públicas de cualquier tipo, señalando las condiciones para su realización.
+
+10.ª Convenir con la iniciativa privada actuaciones en materias propias de su objeto social.
+
+11.ª Aprobar las Normas de Comercialización de los bienes y derechos de la Entidad y sus modificaciones, así como los precios y condiciones de enajenación de los terrenos, urbanizados o no.
+
+12.ª Actuar como órgano de contratación de la Entidad, aprobando los acuerdos, pactos y convenios y celebrando los contratos que sean necesarios o convenientes para la realización de los fines de la Entidad, incluidos los referentes a la adquisición o enajenación de inmuebles, constitución de derechos reales y suscripción de arrendamientos, así como resolver sobre toda clase de negocios y operaciones permitidas a la Entidad por la Ley y el presente Estatuto.
+
+13.ª Decidir sobre la participación en negocios, sociedades mercantiles o empresas, nacionales o extranjeras, cuyo objeto esté relacionado con los fines y objetivos de la Entidad, así como acordar la participación de la Entidad y la creación de unas y otras, fijando sus formas y condiciones, todo ello de acuerdo con las disposiciones al respecto de la Ley General Presupuestaria y demás legislación concordante.
+
+14.ª Autorizar los gastos y disponer de los fondos y bienes de la Entidad, así como reclamarlos y cobrarlos, con arreglo a las normas y usos comerciales.
+
+15.ª Acordar lo conveniente sobre el ejercicio de las acciones y la interposición de recursos que correspondan a la Entidad, tanto judiciales como administrativos, en defensa de sus intereses ante las Administraciones públicas y los Tribunales de Justicia de cualquier orden, grado y jurisdicción.
+
+16.ª Nombrar y separar al personal directivo de la Entidad, de conformidad con los criterios establecidos en el apartado 11 del artículo 55, en relación con el apartado 2.a) del artículo 106, de la Ley 40/2015, de 1 de octubre, determinando sus funciones y retribución, de acuerdo con los principios y procedimientos establecidos en la normativa vigente, y el contenido del presente Estatuto.
+
+17.ª Aprobar los criterios generales de actuación en materia de personal para cada ejercicio, así como sus modificaciones y condiciones retributivas básicas, de acuerdo con los principios establecidos en la normativa laboral o presupuestaria vigente.
+
+18.ª Aprobar el inventario de bienes y derechos, tanto propios como adscritos, previsto en los artículos 32 y 33 de la Ley 33/2003, de 3 de noviembre, y en el artículo 26 del presente Estatuto.
+
+19.ª El ejercicio de las potestades administrativas que fueran atribuidas a la Entidad, de conformidad con lo previsto en el artículo 105.1 de la Ley 40/2015, de 1 de octubre.
+
+20.ª Las demás que se le atribuyen en el presente Estatuto y en cualquier otra normativa legal en vigor.
+
+2\. La anterior determinación de competencias del Consejo Rector no limita en manera alguna las amplias facultades que le competen en cuanto a la representación, gobierno, disposición, gestión y administración de la Entidad, que no tendrá otras excepciones más que las señaladas en la Ley y en el presente Estatuto de la Entidad.
+
+3\. Los actos del Consejo Rector dictados en ejercicio de potestades administrativas ponen fin a la vía administrativa.
+
+> Se modifica el apartado 1.1ª y las referencias a "Consejo de Administración" por "Consejo Rector", por el art. único.7 y la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 1 por el art. único.6 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 12. Constitución de Comisiones y delegación de competencias.
+
+1\. El Consejo Rector, para la mejor realización de sus funciones, podrá:
+
+a) Constituir, en su seno, una o más Comisiones ejecutivas, con delegación permanente o temporal de parte de sus facultades, fijando, a su constitución, su cometido y, en su caso, las normas para su funcionamiento.
+
+b) Constituir una o más Comisiones consultivas, sin que necesariamente todas las personas que las compongan hayan de ser Consejeros de la sociedad, fijando a su constitución su cometido y, en su caso, las normas de su funcionamiento.
+
+Las Comisiones anteriores, tanto las ejecutivas como las consultivas, serán presididas por el Presidente de la Entidad, que podrá delegar en el Consejero de la Comisión que estime más conveniente.
+
+2\. Asimismo, el Consejo Rector podrá:
+
+a) Delegar, con carácter permanente o temporal, determinadas de sus funciones en la Presidencia o en alguno de los órganos de dirección ejecutiva y en las vocalías del Consejo.
+
+b) Delegar y conferir apoderamientos.
+
+3\. Sin perjuicio de lo anterior, no podrán ser objeto de delegación las facultades que corresponden al Consejo Rector a tenor de los párrafos 3, 4, 5, 6, 7, 8, 11, 13, 16, 17, 18 y 19 del artículo 11.1, ni aquellos actos de disposición que supongan compromisos económicos por cuantía superior a 1.000.000 euros. Será necesaria la autorización de la persona titular del Ministerio de Vivienda y Agenda Urbana para actualizar dicha cantidad.
+
+4\. Toda delegación permanente de facultades del Consejo requerirá el voto favorable de las dos terceras partes de los componentes del mismo y deberá ser expresa, indicando con claridad las facultades que se delegan.
+
+> Se modifican la letra a) del apartado 2 y el apartado 3, y las referencias a "Consejo de Administración" por "Consejo Rector", por el art. único.8 y 9 y la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 3 por el art. único.7 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 13. Funcionamiento.
+
+1\. El Consejo Rector se reunirá, previa convocatoria de su Presidente, a su iniciativa o a petición de, al menos, tres Consejeros, tantas veces como sea necesario para el buen funcionamiento de la Entidad y, al menos, una vez al trimestre.
+
+2\. La convocatoria del Consejo se cursará por el Secretario con, al menos, cuarenta y ocho horas de antelación, fijando el orden de los asuntos a tratar. El contenido de la convocatoria será comunicado por escrito directa y personalmente a cada uno de los interesados.
+
+3\. El Consejo quedará válidamente constituido cuando concurran a la reunión el Presidente y el Secretario o, en su caso, quienes los sustituyan, y se encuentren presentes o debidamente representados la mitad, al menos, de todos sus componentes. Los acuerdos se adoptarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
+
+4\. De las sesiones se levantará acta, que podrá aprobarse en la propia sesión a que se refiere o en la siguiente, a partir de cuyo momento tendrá fuerza ejecutiva. El acta irá firmada por el Secretario, con el visto bueno del Presidente, expidiéndose certificación de los acuerdos del Consejo en igual forma.
+
+5\. Previa convocatoria de la Presidencia, a iniciativa propia o de la mayoría de los miembros del Consejo, podrá asistir cualquier persona directiva o técnica de la Entidad. Dichas asistencias se harán con voz, pero sin voto.
+
+6\. El régimen de constitución y funcionamiento del Consejo Rector, en todo lo no regulado en el presente Estatuto, se ajustará a las normas contenidas en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica el apartado 5 y las referencias a "Consejo de Administración" por "Consejo Rector", por el art. único.10 y la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 6 por el art. único.8 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 14. Régimen de compensaciones por asistencia al Consejo Rector.
+
+Los miembros del Consejo Rector podrán percibir asistencias cuando así se autorice por el Ministerio de Hacienda y Función Pública, en las cuantías que se fijen por el propio Consejo y siempre que no se superen las que se pudieran haber determinado por dicho Ministerio como cuantía máxima y se cumplan los requisitos previstos en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio. Todo ello, sin perjuicio del cumplimiento de lo dispuesto en el artículo 8 del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+> Se modifican las referencias a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica por el art. único.9 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+### Sección tercera. El Presidente
+
+##### Artículo 15. Nombramiento y cese de la Presidencia de la Entidad.
+
+1\. La persona titular de la Presidencia de la Entidad y de su Consejo Rector será nombrada y cesada de su cargo por el Consejo de Ministros, a propuesta de la persona titular del Ministerio de Vivienda y Agenda Urbana.
+
+2\. Su retribución será autorizada por el Ministerio de Hacienda de conformidad con la normativa vigente.
+
+> Se modifica por el art. único.11 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica por la disposición final 1.1 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+> Se modifica por la disposición final 1.2 del Real Decreto 30/2011, de 14 de enero. [Ref. BOE-A-2011-972](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-972).
+
+##### Artículo 16. Funciones de la Presidencia de la Entidad.
+
+1\. El Consejo Rector, reservándose las facultades necesarias para asegurar el gobierno de la Entidad, asignará a la Presidencia el ejercicio permanente y efectivo de aquellas facultades de representación, administración y gestión de la misma, que estime oportunas, así como las ejecutivas correspondientes, dentro de los límites y de acuerdo con las directrices señaladas por el propio Consejo.
+
+2\. Corresponden, en todo caso, a la Presidencia de la Entidad las siguientes funciones y facultades:
+
+a) La representación permanente de la Entidad y de su Consejo Rector ante toda clase de personas y entidades.
+
+b) Velar por el cumplimiento de este Estatuto y de los acuerdos tomados por el Consejo Rector y sus Comisiones.
+
+c) Dirigir las tareas del Consejo Rector, ordenar la convocatoria de las reuniones de éste y de sus Comisiones ejecutivas o consultivas, fijar el orden del día de las reuniones de aquél y éstas, presidirlos, dirigir las deliberaciones, dirimir los empates con su voto de calidad y levantar las sesiones.
+
+d) Elevar y proponer al Consejo Rector cuantos asuntos hayan de ser objeto de su consideración y, concretamente, los presupuestos de explotación y capital, el programa de actuación plurianual, el plan anual de actuación y la aplicación de resultados, así como las cuentas anuales.
+
+e) Proponer al Consejo Rector el nombramiento de la Secretaría del Consejo y demás personal directivo, así como las retribuciones de los mismos, que deberán adecuarse a la normativa laboral y presupuestaria vigente.
+
+f) Las demás facultades y funciones que se le atribuyan en el presente Estatuto y las que hayan delegado el Consejo Rector, así como aquellas que no estén conferidas expresamente a otros órganos de la Entidad por este Estatuto, incluidas las ejecutivas y representativas o que le correspondan de conformidad con la normativa vigente.
+
+> Se modifica por el art. único.12 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifican los apartados 5º y 6º por el art. único.10 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 16 bis. Incompatibilidad de la persona titular de la Presidencia.
+
+La persona titular de la Presidencia estará sometida al régimen de incompatibilidad de actividades y control de intereses establecido por la legislación de incompatibilidades de los altos cargos de la Administración General del Estado y sus disposiciones concordantes o de desarrollo y, en particular, por lo que dispone la Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado.
+
+> Se añade por el art. único.13 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+### Sección cuarta. El Director General
+
+> Se suprime por el art. único.14 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+##### Artículo 17. Nombramiento y cese del Director general. Retribuciones.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.14 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica por el art. único.11 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 18. Funciones del Director general.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.14 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica el apartado 2 y el 3.9º por el art. único.12 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 19. Incompatibilidad del Director General.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.14 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica por el art. único.13 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+### Sección quinta. Otros órganos
+
+##### Artículo 20. Vicepresidencia del Consejo Rector.
+
+Corresponde a la Vicepresidencia del Consejo Rector, elegida conforme a lo dispuesto en el artículo 9.2, sustituir a la Presidencia en los casos de vacante, ausencia, enfermedad o impedimento legítimo, y ejercer, asimismo, las atribuciones que la Presidencia, en su caso, le delegue. En defecto de la Vicepresidencia actuará como tal la persona titular de vocalía del Consejo de mayor jerarquía, antigüedad y edad, por este orden.
+
+> Se modifica por el art. único.15 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+##### Artículo 21. Secretario del Consejo.
+
+1\. El Secretario del Consejo, designado conforme a lo dispuesto en el artículo 9.3, lo será del Consejo Rector y de sus Comisiones. Competerá al Secretario cursar la convocatoria para la reunión del Consejo y la de sus Comisiones, preparar las sesiones, levantar acta de lo acaecido en ellas, dar fe de sus acuerdos y tramitar éstos para su ejecución.
+
+2\. En los casos de vacante, ausencia, enfermedad o impedimento legítimo del Secretario, en las reuniones del Consejo Rector y de sus Comisiones, será sustituido por el Consejero de menor edad.
+
+3\. La retribución del Secretario será determinada por el Consejo Rector, a propuesta de su Presidente, previos los trámites señalados en la normativa presupuestaria, de conformidad con la normativa vigente.
+
+> Se modifican las referencias a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 3 por el art. único.14 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 22. Direcciones generales.
+
+1\. La estructura orgánica a nivel directivo ejecutivo de la Entidad se organiza en ocho Direcciones generales, creadas previos los trámites señalados en la normativa presupuestaria. El Consejo Rector será el encargado de precisar las funciones atribuidas a las mismas para el cumplimiento de los fines que tienen encomendados, en el marco de los criterios que, a tal efecto, se establezcan por el Ministerio de Hacienda, siendo sus funciones generales las que se describen a continuación:
+
+a) La Secretaría General, a la que corresponde la gestión del personal de la Entidad, la coordinación general y el apoyo y prestación de servicios básicos al resto de las áreas, Direcciones, Divisiones y Unidades orgánicas, teniendo asignados aquellos cometidos de carácter general y excepcional que, con carácter ejecutivo, pudieran incidir en la marcha de la Entidad.
+
+La persona titular de la Secretaría General lo será también de la Secretaría del Consejo.
+
+b) La Dirección general Económico-Financiera, que ejercerá las funciones de planificación y gestión financiera, presupuestaria y tributaria de la Entidad, así como de interlocución con la Intervención General de la Administración del Estado y con el Tribunal de Cuentas, en el desarrollo de las auditorías de las cuentas y de la actividad de la Entidad, así como con el Ministerio de Hacienda en todos los asuntos con trascendencia tributaria.
+
+c) La Dirección general de Urbanización y Agenda Urbana, a la que corresponde la gestión y dirección de los procesos para la concertación de actuaciones, la gestión del suelo y el desarrollo urbanístico hasta la puesta a disposición de los solares.
+
+d) La Dirección general de Edificación, a la que corresponde la gestión y dirección de los procesos para formulación de documentos y proyectos técnicos de edificación, así como la ejecución de las obras de construcción de las viviendas, hasta su puesta a disposición.
+
+e) La Dirección general de Promoción y Colaboración, que tiene como función la definición de la política comercial y la comercialización y explotación de los activos de la Entidad, en los términos y condiciones aprobados por el Consejo Rector. Dicho cometido incluye nuevas formas de comercialización que derivan fundamentalmente de procesos de concertación y colaboración tanto con el sector público como con el privado, entre otras, derechos de concesión de obras y servicios, cesión de derechos de usufructo, o derechos de superficie.
+
+f) La Dirección general de Coordinación y Transformación, que asume funciones de unificación informativa de planificaciones, agenda y el control de resultados, la supervisión de procesos y el seguimiento, la gestión de la calidad y la transparencia.
+
+g) La Dirección general de Parque de Vivienda Asequible, encargada de la incorporación de viviendas para conformar un parque público de vivienda estable, así como de su gestión, en régimen de alquiler, en condiciones asequibles.
+
+h) La Dirección general de Comunicación, asume las funciones de comunicación y relación con los medios, así como las relativas a la imagen de la Entidad y su proyección al exterior.
+
+2\. El desarrollo de dicha estructura orgánica, dentro de los criterios generales de actuación en materia de personal que pudiera señalar el Consejo Rector, conforme el artículo 11.1.17 del presente Estatuto, será competencia de la Secretaría General de la Entidad, de acuerdo con el apartado 1 a) anterior.
+
+> Se modifica por el art. único.16 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270)
+
+> Se modifica por el art. único.15 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+## CAPÍTULO IV — Régimen patrimonial
+
+##### Artículo 23. Patrimonio de la Entidad.
+
+1\. El régimen patrimonial de la Entidad será el establecido en el presente Estatuto, en las Normas de comercialización de los bienes y derechos de la Entidad, y en lo no previsto en los mismos, por lo establecido en la Ley 33/2003, de 3 de noviembre, de conformidad con lo dispuesto en el artículo 107 de la Ley 40/2015, de 1 de octubre.
+
+2\. El patrimonio de la Entidad estará integrado, además de por sus bienes y derechos propios, por aquellos bienes de titularidad estatal cuya adscripción se hubiere acordado a favor de CASA 47 Entidad Pública Empresarial, conforme a lo establecido en el artículo 6, apartados 1 y 2, del Real Decreto ley 12/1980, de 26 de septiembre, o que se le adscriban en el futuro, por cualquier persona o Entidad.
+
+3\. Además, a CASA 47 Entidad Pública Empresarial podrán adscribírsele bienes inmuebles para el cumplimiento específico de sus fines propios.
+
+4\. Asimismo, conforme a lo dispuesto en el artículo 110 de la Ley 31/1991, de 30 de diciembre, el aprovechamiento urbanístico que pudiera corresponder al Estado respecto del terreno afectado por las actuaciones del Estado en carreteras y demás obras públicas a cargo del Ministerio de Fomento, así como el suelo desafectado del uso previo de dichas obras públicas, también se transferirá a la CASA 47 Entidad Pública Empresarial, adscribiéndose a su patrimonio para el cumplimiento de sus fines propios.
+
+> Se modifica la referencia a "SEPES Entidad Pública Empresarial de Suelo" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 1 por el art. único.16 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 24. Recursos de la Entidad.
+
+CASA 47 Entidad Pública Empresarial tendrá, para el cumplimiento y ejecución de sus fines, un patrimonio propio, distinto del de la Administración General del Estado, integrado por el conjunto de los bienes, obligaciones y derechos de que sea titular.
+
+Los recursos económicos de CASA 47 Entidad Pública Empresarial, de conformidad con el artículo 107 de la Ley 40/2015, de 1 de octubre, estarán integrados por:
+
+a) Los bienes y valores que constituyan su patrimonio o que la Entidad adquiera en el futuro, por cualquier título, en el curso de su gestión.
+
+b) Los productos y rentas de su gestión patrimonial, así como los productos y rentas derivados de su participación en otras sociedades, y los ingresos que se deriven o sean generados por el ejercicio de sus actividades y la prestación de sus servicios.
+
+c) Las aportaciones o consignaciones específicas que, con destino a CASA 47 Entidad Pública Empresarial, se consignen en los Presupuestos Generales del Estado para cada ejercicio.
+
+d) Las transferencias corrientes o de capital que pudieran realizársele desde la Administración pública o por otras entidades públicas.
+
+e) Los ingresos ordinarios y extraordinarios que la Entidad perciba como consecuencia del desarrollo de su objeto social.
+
+f) Las donaciones, legados y otras aportaciones de entidades privadas y de particulares.
+
+g) Los recursos financieros procedentes de las operaciones a las que se refiere el artículo 28 del presente Estatuto.
+
+h) Las subvenciones, aportaciones y cualquier otra adquisición a título lucrativo.
+
+i) Cualquier otro recurso que pueda serle atribuido o que pueda integrarse dentro de su patrimonio.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el párrafo 2 por el art. único.17 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 25. Facultades de disposición.
+
+CASA 47 Entidad Pública Empresarial tendrá la libre disposición de los bienes y derechos de cualquier clase de los que sea titular, correspondiendo al Consejo Rector la plena competencia para acordar su adquisición, uso, arrendamiento, permuta y enajenación por cualquier modo o título.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", y la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.1 y 3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+##### Artículo 26. Inventario.
+
+CASA 47 Entidad Pública Empresarial formará y mantendrá actualizado un inventario de la totalidad de sus bienes y derechos que constituyan su patrimonio, de conformidad con la Ley 33/2003, de 3 de noviembre, así como los que le hayan sido adscritos para el cumplimiento de sus fines, con la única excepción de los de carácter fungible.
+
+El inventario se revisará, en su caso, anualmente, con referencia al 31 de diciembre de cada año, y se someterá a la aprobación del Consejo Rector, para su remisión anual al Ministerio de Hacienda y Función Pública.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial" y la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.1 y 3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica por el art. único.18 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+## CAPÍTULO V — Régimen económico-financiero
+
+### Sección primera. Contratación, financiación y planificación
+
+##### Artículo 27. Régimen de contratación.
+
+1\. La contratación de CASA 47 Entidad Pública Empresarial se rige por las previsiones contenidas al respecto en la legislación de contratos del Sector Público, sin perjuicio de lo dispuesto en los artículos 2 y 5 del presente Estatuto.
+
+2\. Será necesaria la autorización del titular del Ministerio de Fomento para celebrar contratos de cuantía superior a la previamente fijada por el mismo.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 1 por el art. único.19 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 28. Operaciones financieras.
+
+CASA 47 Entidad Pública Empresarial podrá realizar todo tipo de operaciones financieras y, en particular, podrá concertar operaciones activas o pasivas de crédito y préstamo, cualquiera que sea la forma en la que se instrumenten, de conformidad con lo establecido a este respecto en la Ley General Presupuestaria y de acuerdo con los límites previstos en las Leyes anuales de Presupuestos.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+##### Artículo 29. Programa de actuación plurianual. Plan anual de actuación.
+
+1\. CASA 47 Entidad Pública Empresarial elaborará y tramitará anualmente un programa de actuación plurianual, que responderá a los planes y previsiones plurianuales que se elaboraren, conforme a lo dispuesto en la Ley 47/2003, de 26 de noviembre, General Presupuestaria. Tal programa, acompañado de la documentación adicional de conformidad con lo dispuesto en dicha ley, se remitirá al Ministerio de Hacienda y Función Pública a través del Ministerio de Transportes, Movilidad y Agenda Urbana, a los efectos establecidos en el artículo 66 de la citada ley.
+
+2\. En el supuesto de que la Administración General del Estado y CASA 47 Entidad Pública Empresarial hayan concluido un contrato-programa, el programa de actuación plurianual deberá ser coherente con sus previsiones.
+
+3\. Asimismo CASA 47 Entidad Pública Empresarial elaborará el Plan anual de actuación previsto en el artículo 92 de la Ley 40/2015, de 1 de octubre, que deberá ser aprobado en el último trimestre del año natural por el Ministerio de Transportes, Movilidad y Agenda Urbana y que deberá guardar coherencia con el Programa de actuación plurianual previsto en la normativa presupuestaria. El Plan de actuación incorporará, cada tres años, una revisión de la programación estratégica de la Entidad.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica por el art. único.20 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+### Sección segunda. Contabilidad, control y régimen tributario
+
+##### Artículo 30. Contabilidad.
+
+CASA 47 Entidad Pública Empresarial, conforme a lo establecido en el artículo 108 de la Ley 40/2015, de 1 de octubre, estará sometida al régimen de contabilidad previsto en la Ley 47/2003, de 26 de noviembre, para las entidades públicas empresariales.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica por el art. único.21 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 31. Ejercicio económico.
+
+El ejercicio económico tendrá una duración anual y comenzará el primer día de enero de cada año.
+
+##### Artículo 32. Régimen de control.
+
+De acuerdo con lo establecido en el artículo 108 de la Ley 40/2015, de 1 de octubre, el régimen de control de la gestión económico-financiera de CASA 47 Entidad Pública Empresarial se realizará de conformidad con lo establecido en la Ley 47/2003, de 26 de noviembre.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica por el art. único.22 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 33. Régimen tributario.
+
+De conformidad con lo establecido en la disposición adicional vigésima tercera de la Ley 31/1991, de 30 de diciembre, de Presupuestos Generales del Estado para 1992, SEPES queda sometida al régimen tributario general.
+
+### Sección tercera. Régimen presupuestario
+
+##### Artículo 34. Elaboración y variación del presupuesto.
+
+1\. CASA 47 Entidad Pública Empresarial elaborará anualmente sus presupuestos estimativos de explotación y de capital, con la estructura que determine el Ministerio de Hacienda y Función Pública, y una vez aprobados inicialmente por el Consejo Rector de la Entidad, serán tramitados en la forma establecida por la Ley General Presupuestaria para las entidades públicas empresariales. Al presupuesto de capital se acompañará el detalle plurianual de los proyectos de inversión financiados por el mismo.
+
+2\. El régimen de variaciones presupuestarias para CASA 47 Entidad Pública Empresarial será el establecido con carácter general para las entidades públicas empresariales en la legislación presupuestaria de aplicación a la Entidad.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial" y la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.1 y 3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 1 por el art. único.23 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 35. Cuentas anuales.
+
+Las cuentas anuales serán sometidas al Consejo Rector para su aprobación. Su formulación y rendición se efectuará por el Presidente de la Entidad dentro de los plazos establecidos por la normativa presupuestaria.
+
+> Se modifica la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+##### Artículo 36. Aplicación de resultados.
+
+Los beneficios que arroje anualmente la cuenta de pérdidas y ganancias de la Entidad podrán aplicarse a reservas o, en su caso, a dividendos a favor del Tesoro Público. Asimismo, las reservas derivadas de beneficios de ejercicios anteriores podrán aplicarse a dividendos a favor del Tesoro Público.
+
+## CAPÍTULO VI — Personal al servicio de la Entidad
+
+##### Artículo 37. Competencias en materia de personal.
+
+1\. Las actuaciones en materia de personal se ajustarán a los criterios que, para cada ejercicio, apruebe el Consejo Rector, conforme a lo establecido con carácter general en la normativa presupuestaria y con las peculiaridades recogidas en el presente Estatuto.
+
+2\. El Ministerio de Hacienda y Función Pública, de acuerdo con lo establecido en el artículo 106.4 de la Ley 40/2015, de 1 de octubre, establecerá, con la periodicidad adecuada, los controles específicos sobre la evolución de los gastos de personal y sobre la gestión de los recursos humanos, conforme a los criterios previamente establecidos.
+
+> Se modifica la referencia a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifica el apartado 2 por el art. único.24 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 38. Personal directivo.
+
+1\. Tendrá la consideración de personal directivo de la Entidad los Directores que asuman la jefatura o se encuentre al frente de las Direcciones, con arreglo a lo dispuesto en el artículo 22 del presente Estatuto.
+
+2\. El personal directivo de la Entidad será nombrado y separado libremente por el Consejo Rector, a propuesta del Presidente. Su nombramiento se efectuará por designación directa, atendiendo a criterios establecidos en el apartado 11 del artículo 55, en relación con el apartado 2.a) del artículo 106 de la Ley 40/2015, de 1 de octubre, de competencia profesional y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada.
+
+3\. El personal directivo desempeñará las funciones que tenga asignadas, con carácter de responsabilidad profesional, personal y directa, sobre la gestión desarrollada, si bien sometidos al control y evaluación de su gestión.
+
+4\. Las retribuciones del personal directivo serán determinadas por el Consejo Rector, a propuesta de su Presidente, previos los trámites señalados en la normativa presupuestaria, de conformidad con la normativa vigente.
+
+> Se modifican las referencias a "Consejo de Administración" por "Consejo Rector", según establece la disposición final 2.3 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Se modifican los apartados 1, 2 y 4 por el art. único.25 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 39. Personal laboral.
+
+1\. El resto del personal al servicio de la Entidad, no comprendido en el artículo anterior, estará sometido a relación determinada por el derecho laboral.
+
+2\. Su selección se efectuará mediante convocatoria pública y de acuerdo con sistemas basados en los principios de igualdad, mérito y capacidad.
+
+3\. Sus retribuciones se determinarán y fijarán por los órganos competentes en materia de determinación de retribuciones, en los términos y condiciones a que se hace referencia en el presente Estatuto y conforme a la normativa laboral o presupuestaria en cada momento aplicable.
+
+> Se modifica el apartado 3 por el art. único.26 del Real Decreto 855/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16235](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16235)
+
+##### Artículo 40. Incompatibilidades.
+
+El personal al servicio de la Entidad estará sujeto al régimen de incompatibilidades establecido en la legislación en materia de incompatibilidades del personal al servicio de las Administraciones Públicas.
+
+## CAPÍTULO VII — Jurisdicción
+
+##### Artículo 41. Jurisdicción.
+
+CASA 47 Entidad Pública Empresarial estará sometida a las normas comunes sobre competencia y jurisdicción aplicables a las personas de derecho privado, sin perjuicio de la intervención de la jurisdicción contencioso-administrativa, cuando se trate de la revisión de actos adoptados al amparo de la normativa administrativa aplicable a las entidades públicas empresariales.
+
+> Se modifica la referencia a "SEPES" por "CASA 47 Entidad Pública Empresarial", según establece la disposición final 2.1 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).
+
+> Información relacionada
+
+> Téngase en cuenta que las referencias hechas en el presente Real Decreto a los órganos suprimidos por el Real Decreto 208/2024, de 27 de febrero, se entenderán realizadas a los que, por esta última norma, se crean y los sustituyen o asumen sus competencias, según establece la disposición final 2.2 del Real Decreto 1123/2025, de 10 de diciembre. [Ref. BOE-A-2025-25270](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-25270).

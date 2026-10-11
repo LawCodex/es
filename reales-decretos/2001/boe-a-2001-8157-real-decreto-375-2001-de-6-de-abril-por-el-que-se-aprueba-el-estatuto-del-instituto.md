@@ -1,0 +1,721 @@
+---
+title: "Real Decreto 375/2001, de 6 de abril, por el que se aprueba el Estatuto del Instituto de Salud \"Carlos III\""
+identifier: "BOE-A-2001-8157"
+eli: "https://www.boe.es/eli/es/rd/2001/04/06/375"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2001-04-06
+published: 2001-04-27
+in_force_from: 2001-04-28
+last_amended: 2022-10-26
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 101"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-8157"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 375/2001, de 6 de abril, por el que se aprueba el Estatuto del Instituto de Salud "Carlos III"
+
+El Instituto de Salud «Carlos III» fue creado por la Ley 14/1986, de 25 de abril, General de Sanidad, con la naturaleza de Organismo autónomo, adscrito al Ministerio de Sanidad y Consumo, como órgano de apoyo científico-técnico del Departamento de Sanidad y de los distintos Servicios de Salud de las Comunidades Autónomas.
+
+El Real Decreto 10/1988, de 8 de enero, derogado parcialmente por el Real Decreto 1893/1996, de 2 de agosto, determinó la estructura, organización y régimen de funcionamiento del Instituto de Salud «Carlos III».
+
+Posteriormente, el artículo 120 de la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del
+
+Estado para 1989, estableció que el Instituto de Salud «Carlos III» se regirá por la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, lo que le configura como un Organismo público de investigación.
+
+Por otra parte, el Real Decreto 809/2000, de 19 de mayo, por el que se establece la estructura orgánica básica del Ministerio de Sanidad y Consumo, adscribe el Instituto de Salud «Carlos III» a la Secretaría General de Gestión y Cooperación Sanitaria. A su vez el Real Decreto 1450/2000, de 28 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad y Consumo, dota al Instituto de Salud «Carlos III» de una nueva estructura.
+
+La Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, ha racionalizado y actualizado la normativa aplicable a los Organismos públicos, determinando en su disposición transitoria tercera la necesidad de adaptar los Organismos autónomos y demás entidades de derecho público actualmente existentes a los dos tipos de Organismo autónomo y Entidad pública empresarial regulados en la citada Ley.
+
+Asimismo, el artículo 61 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, dispone que el Instituto de Salud «Carlos III» adoptará la configuración de Organismo autónomo establecido en el artículo 43.1 a) de la Ley 6/1997, con las siguientes peculiaridades:
+
+a) El personal perteneciente a estos Organismos seguirá teniendo la condición de funcionario o laboral en los mismos términos que los establecidos para la Administración General del Estado, si bien en los Estatutos respectivos se establecerán, en el marco de la Ley 30/1984 y demás normativa de rango legal en materia de función pública, las peculiaridades precisas en materia de acceso, adscripción de puestos, carrera, promoción y régimen de movilidad personal. Podrán contratar en régimen laboral el personal a que se refiere el artículo 17 de la Ley 13/1986, de 14 de abril.
+
+b) Sus recursos económicos podrán provenir de cualquiera de los relacionados en el apartado 1 del artículo 65 de la Ley 6/1997, así como los ingresos derivados de sus operaciones.
+
+c) El régimen presupuestario, económico-financiero, de contabilidad, intervención y control financiero será el establecido para los Organismos autónomos en la Ley General Presupuestaria y demás disposiciones vigentes sobre estas materias.
+
+No obstante, en tanto se proceda a la modificación del Real Decreto legislativo 1091/1988, de 23 de septiembre, por el que se aprueba el texto refundido de la Ley General Presupuestaria, en la cual se tendrán en cuenta las especialidades requeridas por las actividades de investigación científica y desarrollo tecnológico, los Organismos públicos de investigación se regirán, en las correspondientes materias, por los preceptos del texto refundido de la Ley General Presupuestaria aplicables a los Organismos autónomos de carácter comercial, industrial, financiero o análogos, con las especificaciones contenidas en el artículo 18 de la Ley 13/1986, de 14 de abril.
+
+El presente Real Decreto, en cumplimiento de los mandatos contenidos en las leyes precedentes, aprueba el Estatuto del Instituto de Salud «Carlos III». En él se definen las funciones, objetivos, órganos de gobierno y estructura organizativa del Organismo. Al mismo tiempo se establecen las pautas relativas al desarrollo de su actividad de gestión y coordinación de la investigación y de su actividad propia investigadora y ordena el marco de sus relaciones institucionales. La regulación de los aspectos de estructura y funcionamiento pretende que esta institución pueda adaptarse sin dificultades a los cambios derivados de la evolución científica y tecnológica y de los servicios, en los sectores propios de este Instituto. El diseño del sistema organizativo no supone coste añadido y tiende a conseguir la óptima utilización de los recursos disponibles.
+
+En su virtud, a iniciativa de la Ministra de Sanidad y Consumo, a propuesta conjunta de los Ministros de Administraciones Públicas y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de abril de 2001,
+
+#### D I S P O N G O :
+
+##### Artículo único. Aprobación del Estatuto.
+
+Se aprueba el Estatuto del Organismo autónomo Instituto de Salud «Carlos III», cuyo texto se inserta a continuación.
+
+##### Disposición adicional única. Adscripción de la Escuela Nacional de Medicina del Trabajo y del Instituto Nacional de Medicina y Seguridad del Trabajo al Instituto de Salud «Carlos III».
+
+1\. Se adscriben al Instituto de Salud «Carlos III» la Escuela Nacional de Medicina del Trabajo y el Instituto Nacional de Medicina y Seguridad del Trabajo con el nivel orgánico que se determine en la correspondiente relación de puestos de trabajo.
+
+2\. El personal adscrito a la Escuela Nacional de Medicina del Trabajo y el Instituto Nacional de Medicina y Seguridad del Trabajo conservará su actual situación administrativa o laboral y continuará percibiendo las retribuciones que le correspondan hasta tanto no se desarrolle el presente Real Decreto y se apruebe la correspondiente relación de puestos de trabajo, que en ningún caso podrá suponer incremento del gasto público.
+
+##### Disposición transitoria única. Consejo Rector.
+
+El Consejo Rector regulado en el artículo 16.4 del Real Decreto 1450/2000, de 28 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad y Consumo, continuará en el desempeño de sus funciones hasta tanto se constituya el nuevo Consejo Rector previsto en el Estatuto. En todo caso, los miembros electos de dicho Consejo cuya composición y características no hubieran sufrido variación en el Estatuto permanecerán en los mismos hasta tanto se produzcan los nuevos nombramientos.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor del presente Real Decreto quedarán derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el mismo, y en particular las siguientes:
+
+a) El Real Decreto 10/1988, de 8 de enero, por el que se determina la estructura, organización y régimen de funcionamiento del Instituto de Salud «Carlos III».
+
+b) La disposición final primera del Real Decreto 2001/1980, de 3 de octubre, por el que se modifica la estructura del Instituto Nacional de la Salud, fija la dependencia del de Servicios Sociales y extingue determinadas Entidades y Servicios, y la Orden de 28 de octubre de 1981 del Ministerio de Trabajo, Sanidad y Seguridad Social, sobre competencias en materia de medicina laboral, en lo que se opongan al presente Estatuto.
+
+c) El artículo 16 del Real Decreto 1450/2000, de 28 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio de Sanidad y Consumo.
+
+##### Disposición final primera. Facultad de desarrollo.
+
+1\. Se autoriza a la Ministra de Sanidad y Consumo para que adopte las medidas que sean necesarias para el desarrollo y ejecución del presente Real Decreto.
+
+2\. Por el Ministerio de Hacienda se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en el presente Real Decreto, sin que ello suponga incremento del gasto público.
+
+##### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado">El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 6 de abril de 2001.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JUAN JOSÉ LUCAS GIMÉNEZ
+
+## ESTATUTO DEL INSTITUTO DE SALUD «CARLOS III»
+
+## CAPÍTULO I — Disposiciones generales
+
+##### Artículo 1. Naturaleza jurídica, adscripción, principios de actuación y denominación.
+
+1\. El Instituto de Salud Carlos III es un organismo público de investigación con carácter de organismo autónomo, de los previstos en el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, cuya misión es desarrollar y ofrecer servicios científico-tecnológicos de la más alta calidad dirigidos al Sistema Nacional de Salud y al conjunto de la sociedad, adscrito orgánicamente al Ministerio de Economía y Competitividad, a través de la Secretaría de Estado de Investigación, Desarrollo e Innovación, y funcionalmente a los Ministerios de Sanidad, Servicios Sociales e Igualdad y de Economía y Competitividad, en la esfera de sus respectivas competencias.
+
+2\. Al Ministerio de Ciencia e Innovación le corresponde la dirección estratégica, la evaluación y el control de los resultados de la actividad del Instituto de Salud Carlos III, a través de la Secretaría de Estado de Investigación, sin perjuicio de las competencias atribuidas a la Intervención General de la Administración del Estado en cuanto a la evaluación y control de resultados de los organismos públicos integrantes del sector público estatal.
+
+3\. El Organismo autónomo Instituto de Salud Carlos III tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad jurídica y de obrar y, dentro de su esfera de competencia, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos previstos en este Estatuto, salvo la potestad expropiatoria.
+
+4\. El Instituto de Salud Carlos III respetará en su actuación los principios de ética profesional y responsabilidad pública, entendido como el compromiso de su personal de observar en su actuación los valores contenidos en el código de ética profesional del personal del ISCIII y en las normas de conducta aplicables a los empleados públicos de la Administración General del Estado. La realización de cualquier actividad de investigación en la que participe directamente el ISCIII estará sometida a la observancia de los principios y garantías previstos en el artículo 2 de la Ley 14/2007 de 3 de julio de Investigación Biomédica.
+
+5\. La denominación de la entidad es Instituto de Salud ‛Carlos III’, O.A., M.P.
+
+> Se modifica la rúbrica y se añade el apartado 5 por la disposición final 2.4 del Real Decreto 531/2017, de 26 de mayo. [Ref. BOE-A-2017-5859](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5859)
+
+> Se modifica el apartado 1 por la disposición final 6.1 del Real Decreto 200/2012, de 23 de enero. [Ref. BOE-A-2012-1034](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1034).
+
+> Se modifica por el art. único.1 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifican los apartados 1 y 2 por el art. único.1 Real Decreto 590/205, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 2. Régimen jurídico.
+
+El Instituto de Salud Carlos III se rige por las disposiciones contenidas en la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica; por la Ley 14/1986, de 25 de abril, General de Sanidad; por la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud; por la Ley 14/2007, de 3 de julio, de Investigación Biomédica; por la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado; por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; por la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público; por la Ley 47/2003, de 26 de noviembre, General Presupuestaria; por la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; por la Ley 38/2003, de 17 de noviembre, General de Subvenciones; por este estatuto y, en general, por las normas que desarrollen las disposiciones citadas y por aquellas otras que resulten de aplicación.
+
+> Se modifica por el art. único.2 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.2 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+## CAPÍTULO II — Funciones y objetivos del Instituto de Salud «Carlos III»
+
+##### Artículo 3. Funciones.
+
+La misión del Instituto de Salud «Carlos III» es desarrollar y ofrecer servicios científico-técnicos e investigación de la más alta calidad, dirigidos al Sistema Nacional de Salud y al conjunto de la sociedad.
+
+El Instituto de Salud Carlos III, como órgano de apoyo científico-técnico de la Administración General del Estado y de los distintos Servicios de Salud de las Comunidades Autónomas y en colaboración con otras Administraciones públicas, desarrollará las funciones que hayan sido o le sean asignadas. Asimismo contribuirá a la vertebración de la investigación en el Sistema Nacional de Salud en los términos previstos en el artículo 48 de la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, y fomentará y coordinará la investigación en biomedicina mediante la realización de investigación básica y aplicada, el impulso de la investigación epidemiológica y en salud pública, acreditación y prospectiva científica y técnica, asesoramiento científico-técnico y formación y educación sanitaria en biomedicina.
+
+Como Organismo público de investigación asumirá la planificación, fomento y coordinación de la investigación y la innovación biomédica y sanitaria, conforme a las directrices y objetivos propuestos por el Gobierno en materia de política científica, especialmente en el Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica, sin perjuicio de las competencias de la Comisión Delegada del Gobierno para Política Científica y Tecnológica.
+
+Asimismo, participará en los programas de investigación de las Comunidades Autónomas y de la Unión Europea, en los términos que se puedan establecer mediante convenios y contratos apropiados.
+
+Corresponden, por tanto, al Instituto de Salud «Carlos III» las siguientes funciones:
+
+1\. Como Organismo de investigación:
+
+a) La investigación básica y aplicada en biomedicina y ciencias de la salud, que comprende su fomento y coordinación mediante la realización de investigación básica y aplicada; el fomento de la investigación biomédica traslacional con el objeto de acortar el intervalo de tiempo transcurrido entre la generación de conocimientos y su aplicación a la práctica clínica y a los servicios de salud; y el desarrollo de actividades de investigación en el ámbito de la biomedicina y las ciencias de la salud al servicio del Sistema Nacional de Salud.
+
+b) El desempeño de los cometidos derivados de su actividad como Instituto de referencia a nivel estatal en las vertientes de diagnóstico, control de calidad, reactivos, patrones, documentación e información científico-técnica, sin perjuicio de las competencias que la normativa vigente atribuya a otros órganos en esta materia.
+
+c) El asesoramiento y colaboración con los Organismos competentes en la innovación y desarrollo tecnológico en las materias de la competencia del Instituto.
+
+d) La elaboración de estudios en salud pública y servicios de salud.
+
+e) El desarrollo de innovaciones en materia de promoción de la salud que sirvan de apoyo a los programas de la Administración General del Estado y de las comunidades autónomas.
+
+f) La investigación sobre los distintos aspectos relacionados con la aplicación del conocimiento genético en el diagnóstico, la terapia, el desarrollo de nuevos fármacos y la epidemiología.
+
+g) El desarrollo de innovaciones en materia de telemática, bioinformática, genómica y proteómica, y otras nuevas tecnologías aplicadas a la salud.
+
+h) La planificación y gestión de los programas de investigación biomédica y en ciencias de la salud incluidos en la Acción Estratégica en Salud del Plan Nacional de I+D+I.
+
+2\. Como Organismo de control sanitario en el área de las enfermedades transmisibles y no transmisibles, alimentación y nutrición, salud ambiental y ocupacional, productos sanitarios, productos biológicos y aquellos potencialmente peligrosos para la salud pública:
+
+a) La emisión de informes y dictámenes científicotécnicos.
+
+b) La coordinación de las labores técnico-científicas de vigilancia y la asesoría técnico-científica en estas materias, sin perjuicio de las competencias de otros órganos de la Administración General del Estado.
+
+c) La colaboración técnica en la elaboración de las normas legales, en los casos que así se le requiera.
+
+d) La conservación de patrones internacionales y la preparación y conservación de patrones nacionales.
+
+3\. Como Organismo proveedor y asesor en materia de formación y educación sanitaria:
+
+a) La formación, perfeccionamiento y especialización del personal, tanto sanitario como no sanitario, en el campo de la salud y la administración y gestión sanitaria, sin perjuicio de las competencias de otros órganos públicos.
+
+b) El desarrollo de las disciplinas metodológicas, ciencias sociales y económicas aplicadas a la salud.
+
+4\. Como Organismo de fomento y coordinación de las actividades de investigación biomédica en ciencias de la salud, en el marco de la Ley de Fomento y Coordinación General de la Investigación Científica y Técnica, de la Ley General de Sanidad, y de la Ley de Investigación Biomédica, sin perjuicio de las competencias de la Comisión Delegada del Gobierno para Política Científica y Tecnológica y del Ministerio de Ciencia e Innovación:
+
+a) La planificación, la coordinación y apoyo a la investigación en el Sistema Nacional de Salud.
+
+b) La concesión de ayudas y subvenciones a la investigación y su seguimiento.
+
+c) Gestionar y promover programas de investigación nacionales e internacionales, por encargo del Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica, o aquellos que se deriven de acuerdos en Comunidades Autónomas o con la Unión Europea, gestionando, manteniendo y desarrollando instalaciones y fondos al servicio de la actividad científico-tecnológica que le sean encomendados.
+
+5\. Como Organismo de acreditación científica y técnica de carácter sanitario: la acreditación científica y técnica de aquellas entidades y centros que alcancen el nivel de servicios de salud pública e investigación que se determine reglamentariamente.
+
+6\. Como Organismo de asesoramiento científico y técnico:
+
+a) La elaboración de informes sobre tecnologías sanitarias y servicios de salud dirigidos a fundamentar la toma de decisiones en los diferentes niveles del Sistema Nacional de Salud.
+
+b) La asesoría científica y técnica, a nivel nacional e internacional, para el diseño, puesta en marcha, desarrollo, mantenimiento y evaluación de servicios de salud.
+
+c) Cualquier otra asesoría que se le demande por las distintas administraciones o entidades públicas o privadas nacionales o internacionales en el marco de las competencias que el Instituto de Salud «Carlos III» tiene atribuidas.
+
+7\. Como Organismo de información sanitaria y documentación científica:
+
+a) La custodia y gestión de todo tipo de registro de interés sanitario que le sea encomendada por la autoridad y los Organismos científicos y profesionales.
+
+b) El diseño, implantación y gestión de nuevos registros de interés sanitario.
+
+c) Coordinación, gestión y difusión de catálogos colectivos de publicaciones de bibliotecas del Sistema Nacional de Salud y Comunidades Autónomas ; interconexión con centros documentales y bibliotecas de referencia de instituciones y organizaciones sanitarias internacionales.
+
+d) Elaboración y mantenimiento de índices bibliográficos de publicaciones de interés sanitario.
+
+8\. Como organismo colaborador de control del dopaje en la actividad deportiva:
+
+a) La realización material de procedimientos analíticos y complementarios de control del dopaje, cuya finalidad es comprobar la presencia de alguna sustancia prohibida, o de alguno de sus metabolitos o de alguno de sus marcadores, o de la utilización de un método no reglamentario, en su caso detectados en una muestra extraída a tal efecto, según se establece en la Ley Orgánica 11/2021, de 28 de diciembre, de lucha contra el dopaje, y sus disposiciones de desarrollo. Regirá todas sus actuaciones por la normativa establecida en los Estándares Internacionales de Laboratorios aprobados por la Agencia Mundial Antidopaje y las normas de procedimiento que al efecto se aprueben en desarrollo de la Ley Orgánica 11/2021, de 28 de diciembre.
+
+b) La elaboración de estadísticas de control del dopaje, tanto de muestras nacionales como internacionales, o de otras entidades de ámbito privado que pudieren encomendarle procedimientos analíticos de control del dopaje, con pleno respeto a la normativa sobre protección de datos.
+
+c) La participación y apoyo a las actividades de investigación y desarrollo experimental que permitan actualizar los procedimientos analíticos, así como los servicios que se prestan en control del dopaje, con la finalidad de fomentar la salud y el bienestar de la ciudadanía.
+
+d) Cualesquiera otras que se determinen para los Laboratorios de control del dopaje homologados por la Agencia Mundial Antidopaje.
+
+9\. El Instituto de Salud Carlos III tiene la consideración de medio propio y servicio técnico de la Administración General del Estado y de sus organismos y entidades de derecho público, en las materias que constituyen sus fines, y realizará los trabajos, servicios, estudios, proyectos, asistencias técnicas, obras y cuantas actuaciones le encomienden dichos organismos en la forma establecida en la presente disposición.
+
+Las encomiendas de gestión serán de ejecución obligatoria para el ISCIII, se retribuirán mediante tarifas sujetas al régimen previsto en el párrafo siguiente, y llevarán aparejada la potestad para el órgano que confiere el encargo de dictar las instrucciones necesarias para su ejecución.
+
+La tarifa o la retribución de la encomienda deberán cubrir el valor de las actuaciones encargadas, teniendo en cuenta para su cálculo los costes directos y los indirectos, y márgenes razonables, acordes con el importe de aquellas prestaciones, para atender desviaciones e imprevistos.
+
+La cuantía de la tarifa o la retribución será fijada por el titular del Ministerio de Ciencia e Innovación.
+
+El Instituto de Salud Carlos III, actuando con el carácter de medio propio y servicio técnico de la Administración General del Estado y de sus organismos y entidades de derecho público, no podrá participar en licitaciones públicas convocadas por los poderes adjudicadores pertenecientes a los mismos, sin perjuicio de que, cuando no concurra ningún licitador, pueda encargársele la ejecución de la prestación objeto de las mismas.
+
+> Se añade el apartado 8 y el anterior 8 pasa a ser el 9 por la disposición final 1.1 y 2 del Real Decreto 908/2022, de 25 de octubre. [Ref. BOE-A-2022-17477](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17477)
+
+> Se modifica por el art. único.3 a 8 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se añade el apartado 8 por el art. 5 del Real Decreto 246/2009, de 27 de febrero. [Ref. BOE-A-2009-3984](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3984).
+
+##### Artículo 4. Acciones.
+
+Para el desarrollo efectivo de las funciones señaladas en el artículo 3, el Instituto de Salud «Carlos III» podrá ejercer las siguientes competencias y potestades:
+
+a) Promover mediante convenios la creación de centros asociados y unidades mixtas de investigación y/o formación con instituciones de carácter público o privado.
+
+b) Crear o participar en sociedades mercantiles cuyo objetivo sea la realización de actividades de investigación científica o desarrollo tecnológico y la prestación de servicios técnicos relacionados con sus fines.
+
+c) Crear fundaciones de acuerdo con la Ley 50/2002, de 26 de diciembre, de Fundaciones, y el Real Decreto 1337/2005, de 11 de noviembre, por el que se aprueba el Reglamento de Fundaciones de competencia estatal, para la realización de actividades de investigación científica, desarrollo tecnológico y prestación de servicios técnicos relacionadas con los fines de interés público del Instituto.
+
+La rendición de cuentas de las fundaciones se regirá por lo dispuesto en el 129 de la Ley General Presupuestaria, y sus presupuestos estarán integrados en los Presupuestos Generales del Estado, conforme a la estructura que determine su legislación específica.
+
+d) Establecer convenios, acuerdos y contratos con centros del Sistema Nacional de Salud, instituciones y organismos públicos de investigación biomédica y en ciencias de la salud nacionales e internacionales, universidades y entidades privadas que realicen actividades de investigación científica y desarrollo tecnológico, para la realización de proyectos y actividades de investigación, desarrollo tecnológico, innovación y otras actividades de carácter científico, docente y asesor.
+
+e) Formalizar los negocios jurídicos con entidades públicas y privadas o con personas físicas que resulten necesarios para obtener los ingresos que permitan financiar las actividades que se requieran.
+
+f) Establecer mecanismos de transferencia de los resultados de su actividad investigadora.
+
+g) Promover la edición de publicaciones y la organización de actividades de carácter científico de ámbito nacional e internacional.
+
+h) Representar, cuando proceda, a la Administración General del Estado ante los Órganos y Organismos de carácter científico y tecnológico de ámbito nacional e internacional en las materias de competencia del Instituto de Salud Carlos III, en coordinación con el Ministerio de Asuntos Exteriores y de Cooperación, en lo referido a la representación internacional que lleve a cabo el mismo, de acuerdo con el artículo 8.2.d) de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+i) Impulsar la cooperación en las áreas de su competencia con las comunidades autónomas, a través del Consejo General de la Ciencia y la Tecnología y del Consejo Interterritorial del Sistema Nacional de Salud.
+
+j) Desarrollar programas y actividades de cooperación internacional.
+
+k) Elaborar, coordinar y gestionar los programas de investigación científica, desarrollo e innovación tecnológica en biomedicina y ciencias de la salud en coordinación con otros Departamentos, de acuerdo con las directrices de la Comisión Delegada del Gobierno para Política Científica y Tecnológica.
+
+> Se modifica por el art. único.9 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+## CAPÍTULO III — Organización general del Organismo
+
+### SECCIÓN 1.ª DISPOSICIÓN GENERAL
+
+##### Artículo 5. Órganos de Dirección.
+
+Los Órganos de Dirección del Instituto de Salud «Carlos III» son los siguientes:
+
+a) El Consejo Rector.
+
+b) El Director.
+
+### SECCIÓN 2.ª CONSEJO RECTOR
+
+##### Artículo 6. Régimen jurídico del Consejo Rector.
+
+El Consejo Rector es un órgano colegiado cuyo régimen jurídico se ajusta a las normas contenidas en el capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, con los requisitos establecidos en el capítulo IV del Título II de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+##### Artículo 7. El Consejo Rector.
+
+1.El Consejo Rector estará compuesto por:
+
+a) El Presidente, que será el titular de la Secretaría de Estado de Investigación, Desarrollo e Innovación.
+
+b) El Vicepresidente primero, que será el titular de la Secretaría General de Sanidad y Consumo.
+
+c) El Vicepresidente segundo, que será el titular de la Dirección del Instituto de Salud Carlos III.
+
+d) Los Vocales.
+
+2\. Serán Vocales del Consejo Rector:
+
+a) Dos representantes del Ministerio de Economía y Competitividad, con rango mínimo de Director General, propuestos por el titular de la Secretaría de Estado de Investigación, Desarrollo e Innovación.
+
+b) Dos representantes del Ministerio de Sanidad, Servicios Sociales e Igualdad, con rango mínimo de Director General, propuestos por el titular del Departamento.
+
+c) Un representante del Ministerio de Hacienda y Administraciones Públicas, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+d) Un representante del Ministerio de Industria, Energía y Turismo, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+e) Un representante del Ministerio de Agricultura, Alimentación y Medio Ambiente, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+f) Un representante del Ministerio de Educación, Cultura y Deporte, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+g) Un representante de las comunidades autónomas, propuesto por el Consejo de Política Científica, Tecnológica y de Innovación. Su mandato será de dos años.
+
+3\. Los Vocales serán nombrados por el titular del Ministerio de Economía y Competitividad.
+
+4\. La designación de los Vocales se ajustará a la normativa vigente garantizando su idoneidad profesional y una composición equilibrada entre mujeres y hombres.
+
+5\. Actuará como Secretario del Consejo Rector el titular de la Secretaría General del Instituto de Salud Carlos III, que asistirá a las reuniones con voz pero sin voto.
+
+6\. Los titulares de las Vicepresidencias sustituirán al titular de la Presidencia y ejercerán las funciones del mismo en caso de vacante, ausencia o enfermedad. En primer lugar la sustitución se ejercerá por el titular de la Vicepresidencia Primera, y en su defecto, por el titular de la Vicepresidencia Segunda.
+
+> Se modifica por el art. 5 del Real Decreto 622/2014, de 18 de julio. [Ref. BOE-A-2014-8446](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8446).
+
+> Se modifica el apartado 1 por la disposición final 6.2 del Real Decreto 200/2012, de 23 de enero. [Ref. BOE-A-2012-1034](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1034).
+
+> Se modifica por el art. único.10 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.3 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 8. Funciones del Consejo Rector.
+
+Corresponden al Consejo Rector las siguientes funciones:
+
+1\. Conocer y asesorar sobre las líneas y criterios de actuación del Instituto.
+
+2\. Conocer e informar el anteproyecto de presupuestos y la memoria anual del Organismo.
+
+3\. Supervisar la gestión desarrollada por el Instituto, sin perjuicio de las competencias del Ministerio de Ciencia e Innovación.
+
+4\. Conocerá y será informado por el Director del Instituto del plan y programa anual de actividades y del estado de ejecución presupuestaria.
+
+5\. Aprobar las propuestas de creación o participación en el capital de sociedades mercantiles a que se refiere el artículo 4.b) del presente Estatuto.
+
+> Se modifica el apartado 3 por el art. único.11 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+##### Artículo 9. Régimen de Funcionamiento del Consejo Rector.
+
+1\. El Consejo Rector se reunirá, previa convocatoria de su Presidente y a iniciativa del mismo o de la cuarta parte de los vocales, al menos una vez al año en sesión ordinaria.
+
+El Presidente podrá acordar la celebración de reuniones extraordinarias tantas veces como sea necesario para el desarrollo de las funciones que el Consejo Rector tiene encomendadas, a iniciativa propia o a petición de, al menos, la cuarta parte de los vocales.
+
+2\. El Presidente, a petición del Consejo Rector o a iniciativa propia, podrá convocar a las reuniones del Consejo Rector, con voz pero sin voto, a aquellas personas que, por su experiencia en la materia o por su posición institucional en el Organismo, puedan aportar una información relevante sobre temas incluidos en el orden del día.
+
+### SECCIÓN 3.ª EL DIRECTOR
+
+##### Artículo 10. Nombramiento, cese y sustitución.
+
+El Director del Instituto de Salud Carlos III, con rango de director general, es nombrado y separado mediante real decreto acordado en Consejo de Ministros, a propuesta del Ministerio de Sanidad, Servicios Sociales e Igualdad, de conformidad con el Ministerio de Economía y Competitividad.
+
+El Director del Instituto estará sometido al régimen de incompatibilidades y control de intereses establecido por la Ley 5/2006, de 10 de abril, de conflictos de intereses de los miembros del Gobierno y de los altos Cargos de la Administración General del Estado.
+
+Su nombramiento habrá de efectuarse con los criterios establecidos en el artículo 18.2 de la Ley de Organización y Funcionamiento de la Administración General del Estado.
+
+En caso de ausencia, vacante o enfermedad, el Director será suplido por el Secretario General.
+
+> Se modifica el párrafo primero por la disposición final 6.3 del Real Decreto 200/2012, de 23 de enero. [Ref. BOE-A-2012-1034](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1034).
+
+> Se modifican los párrafos primero y segundo por el art. único.12 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica el último párrafo por el art. único.4 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 11. Funciones.
+
+Al Director le corresponden las siguientes funciones:
+
+1\. Ostentar la representación del Organismo.
+
+2\. Programar, dirigir y coordinar las actividades del Instituto que sean necesarias para el desarrollo de sus funciones.
+
+3\. Ejercer la dirección del Organismo y de su personal, en los términos previstos en las disposiciones vigentes.
+
+4\. Aprobar el anteproyecto de presupuesto anual de gastos e ingresos, así como la rendición de cuentas del Organismo.
+
+5\. Aprobar los gastos y ordenar los pagos, así como proponer las modificaciones presupuestarias que sean pertinentes.
+
+6\. La coordinación de las relaciones internacionales y de los programas y proyectos que se lleven a cabo con centros de otros países, en coordinación con el Departamento y sin perjuicio de las atribuciones que tiene asignadas el Ministerio de Asuntos Exteriores y de Cooperación.
+
+7\. Elaborar las memorias anuales de actividades.
+
+8\. Celebrar toda clase de actos, convenios, acuerdos, contratos y encomiendas de gestión en nombre del Organismo.
+
+9\. Proponer al Ministro, de acuerdo con la legislación vigente, la concesión de condecoraciones y el reconocimiento como asesores científicos, a título honorífico, a profesionales de reconocido prestigio en el campo de la investigación en ciencias de la salud, dándose cuenta de ello al Consejo Rector.
+
+10\. Fomentar la calidad en los procedimientos y actividades del Instituto.
+
+11\. Evaluar la actividad de los centros y unidades del Instituto.
+
+12\. Desempeñar cuantas otras funciones se le atribuyan por norma legal o reglamentaria.
+
+> Se modifican los apartados 6 y 8 por el art. único.13 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se reenumera el apartado 10 como 12 y se añaden los apartados 10 y 11 por el art. único.5 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 12. Actos y resoluciones del Director.
+
+Ponen fin a la vía administrativa todos los actos y resoluciones del Director del Instituto de Salud «Carlos III», de conformidad con lo establecido en la disposición adicional decimoquinta de la Ley de Organización y Funcionamiento de la Administración General del Estado.
+
+Contra los actos y resoluciones del Director cabrá interponer recurso contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### SECCIÓN 4.ª INTERVENCIÓN DELEGADA
+
+##### Artículo 13. Intervención Delegada.
+
+La Intervención Delegada estará adscrita al Director, sin perjuicio de su dependencia funcional de la Intervención General de la Administración del Estado, con el nivel que se determine en la correspondiente relación de puestos de trabajo.
+
+### SECCIÓN 5.ª OTROS ÓRGANOS
+
+##### Artículo 14. Subdirecciones Generales y otros órganos.
+
+1\. Como órganos responsables inmediatos dependientes del Director, en las competencias que se les asignan, se determinan las siguientes unidades con nivel orgánico de subdirección general:
+
+a) La Secretaría General.
+
+b) La Subdirección General de Servicios Aplicados, Formación e Investigación.
+
+c) La Subdirección General de Evaluación y Fomento de la Investigación.
+
+d) La Subdirección General de Redes y Centros de Investigación Cooperativa.
+
+e) La Subdirección General de Investigación en Terapia Celular y Medicina Regenerativa.
+
+f) La Subdirección General de Programas Internacionales de Investigación y Relaciones Institucionales.
+
+2\. Del Director dependerán con el nivel orgánico que se determine en la relación de puestos de trabajo, la Unidad de Calidad y Planificación cuya función es coordinar a los distintos centros y unidades del Instituto en las actividades de evaluación para promover su acreditación y promocionar una cultura de calidad de los servicios, y la Unidad de Apoyo que prestará asesoramiento y asistencia directa al Director.
+
+> Se modifica el apartado 2 por el art. único.14 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.6 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 15. Secretaría General.
+
+1\. Corresponde a la Secretaría General, sin perjuicio de las atribuciones de otros órganos del departamento, el ejercicio de las siguientes funciones:
+
+a) Las de administración general del Instituto.
+
+b) La gestión de personal y de los servicios generales del organismo.
+
+c) La gestión económico-financiera y presupuestaria.
+
+d) La gestión de régimen interior, del patrimonio, de las obras e infraestructuras y de los servicios técnicos de mantenimiento.
+
+e) La difusión e imagen corporativa del Instituto.
+
+f) El diseño, el desarrollo y la implantación de las aplicaciones informáticas de gestión del organismo, así como la provisión y gestión de equipamientos y recursos informáticos, y la provisión y gestión de comunicaciones tanto de voz como de datos; el estudio, la preparación y la propuesta de los suministros de material y equipamiento informático y de los servicios y asistencias técnicas necesarias para el ejercicio de las funciones encomendadas.
+
+g) El impulso en la utilización de las nuevas tecnologías por los órganos del Instituto, que permita la tramitación telemática; así mismo, impulsar el uso de las nuevas tecnologías en la cooperación con otras Administraciones públicas y organismos internacionales y supranacionales.
+
+h) El informe de los proyectos de disposiciones normativas.
+
+i) Las relaciones y la coordinación, en relación con la tramitación de disposiciones normativas, con las unidades o centros del Instituto y con los demás órganos del departamento.
+
+j) El estudio y tramitación de las propuestas de resolución en los recursos administrativos interpuestos contra actos y disposiciones del Instituto y procedimientos de revisión de oficio en relación con aquéllos, en las reclamaciones previas a la vía judicial civil o laboral y en las reclamaciones por responsabilidad patrimonial, así como las correspondientes relaciones con los órganos de la Administración de justicia.
+
+k) La tramitación de las propuestas de los proyectos de convenios y acuerdos en las materias que competen al Instituto.
+
+l) La elaboración del programa editorial y la gestión de las publicaciones oficiales del Instituto.
+
+m) Las actuaciones relacionadas con la promoción y protección de la salud laboral que sean de la competencia del Instituto, de acuerdo con la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+n) **(Suprimida)**
+
+2\. La Secretaría General actuará como coordinadora entre el Instituto y las fundaciones en las que aquél participa, en el ejercicio de la actividad derivada del cumplimiento de lo dispuesto en el artículo 129.3 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se suprime la letra n) del apartado 1 por el art. único.15 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.6 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 16. Subdirección General de Servicios Aplicados, Formación e Investigación.
+
+1\. Corresponde a la Subdirección General de Servicios Aplicados, Formación e Investigación, sin perjuicio de las atribuciones de otros órganos de la Administración General del Estado, el ejercicio de las siguientes funciones:
+
+a) La investigación, caracterización y evaluación de los riesgos medioambientales como condicionantes de la salud, y las que puedan corresponderle como laboratorio de referencia en la materia.
+
+b) La investigación, caracterización y diagnóstico microbiológico y las que puedan corresponderle como laboratorio de referencia.
+
+c) El desarrollo de acciones técnicas para el cumplimiento de lo estipulado en el Real Decreto 2210/1995, de 28 de diciembre, por el que se crea la Red Nacional de Vigilancia Epidemiológica.
+
+d) La investigación basada en el método epidemiológico con aplicación a los problemas de salud de las poblaciones y a los factores de riesgo.
+
+e) La planificación, coordinación, seguimiento, gestión y evaluación de la investigación intramural del Instituto de Salud Carlos III.
+
+f) Otras actividades de investigación y el desarrollo de nuevas tecnologías en relación con la investigación de información sanitaria y salud pública.
+
+g) La formación de los profesionales en el campo de la salud pública y en las áreas temáticas de investigación en biomedicina y ciencias de la salud a través de los órganos y unidades del Instituto de Salud Carlos III y la impartición de cursos de postgrado en salud en el marco del Espacio Europeo de Educación Superior.
+
+h) Impulsar la creación de redes de formación, multidisciplinares e interdisciplinares, formadas por centros o grupos de formación.
+
+i) Desarrollar e impulsar la formación en línea.
+
+j) Promover y colaborar en el desarrollo de estudios e investigación en el ámbito de la salud pública y la gestión de servicios y ejercer funciones de asesoría nacional e internacional en dichas áreas de actividad.
+
+k) El desarrollo de los recursos y funciones atribuidos a la Escuela Nacional de Medicina del Trabajo, a la que se le asignarán los programas docente-asistenciales que se le encomienden, con arreglo a lo establecido en la disposición adicional segunda de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+l) Desarrollar programas de formación e innovación en salud laboral.
+
+m) La gestión del Museo de Sanidad.
+
+2\. El Laboratorio de Control del Dopaje del Instituto de Salud Carlos III está adscrito orgánicamente a la Subdirección general de Servicios Aplicados, Formación e Investigación y actúa con independencia funcional con objeto de garantizar la plena confianza en su competencia, imparcialidad, juicio o integridad operativa, de conformidad con lo previsto en la sección 4.1.5.d) de la Norma ISO/IEC 17025, que establece los requisitos generales para la competencia de los laboratorios de ensayo y de calibración. El Laboratorio de Control del Dopaje del Instituto de Salud Carlos III será el responsable de las siguientes actuaciones:
+
+a) La realización de los procedimientos analíticos y complementarios de control del dopaje, cuya finalidad es comprobar la presencia de alguna sustancia prohibida, o de alguno de sus metabolitos o de alguno de sus marcadores, o de la utilización de un método no reglamentario, en su caso detectados en una muestra extraída a tal efecto, según se establece en la Ley Orgánica 11/2021, de 28 de diciembre, y sus disposiciones de desarrollo. Regirá todas sus actuaciones por la normativa establecida en los Estándares Internacionales de Laboratorios aprobados por la Agencia Mundial Antidopaje y las normas de procedimiento que al efecto se aprueben en desarrollo de la Ley Orgánica 11/2021, de 28 de diciembre.
+
+b) La elaboración de las estadísticas de control del dopaje, tanto de muestras nacionales como internacionales, o de otras entidades de ámbito privado que pudieren encomendarle procedimientos analíticos de control del dopaje, con pleno respeto a la normativa sobre protección de datos.
+
+c) La participación y apoyo a las actividades de investigación y desarrollo experimental que permitan actualizar los procedimientos analíticos, así como los servicios que se prestan en control del dopaje, con la finalidad de fomentar la salud y el bienestar de la ciudadanía.
+
+d) Cualesquiera otras que se determinen para los Laboratorios de control del dopaje homologados por la Agencia Mundial Antidopaje.
+
+En atención a la especial responsabilidad, competencia técnica y relevancia de las tareas asignadas, la persona titular de la Dirección del Laboratorio de Control del Dopaje será considerada personal directivo, y será nombrado por la persona titular de la Dirección del Instituto de Salud Carlos III.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 908/2022, de 25 de octubre. [Ref. BOE-A-2022-17477](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-17477)
+
+> Se modifica el párrafo primero, la letra g) y se añade la m) por el art. único.16 a 18 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art.único.6 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 17. Subdirección General de Evaluación y Fomento de la Investigación.
+
+1\. Corresponde a la Subdirección General de Evaluación y Fomento de la Investigación, sin perjuicio de las atribuciones de otros órganos del departamento, el ejercicio de las siguientes funciones:
+
+a) La promoción, gestión, evaluación y seguimiento de la investigación extramural en ciencias de la salud con especial atención a la investigación biomédica y sanitaria traslacional.
+
+b) La coordinación de las actividades de investigación en biomedicina y en ciencias de la salud, en relación con el Plan Nacional de I+D+I y con los Programas Marco de Investigación, Desarrollo Tecnológico y Demostración de la Unión Europea.
+
+c) Las acciones que favorezcan y consoliden la investigación en el Sistema Nacional de la Salud.
+
+d) La implantación y la gestión de un sistema de Evaluación de la capacidad investigadora de los Institutos de Investigación promovidos por el Sistema Nacional de Salud.
+
+e) La difusión de las tareas investigadoras.
+
+f) La identificación y evaluación de las tecnologías nuevas o establecidas que necesiten evaluación y que permita fundamentar técnicamente la selección, incorporación y difusión en el sistema sanitario y la elaboración de estudios prospectivos sobre las nuevas y emergentes tecnologías sanitarias.
+
+g) La producción, revisión, evaluación y síntesis de la información científica y el establecimiento sobre estas bases del impacto médico, ético, social y económico, determinado por el uso de diferentes tecnologías, tanto de nuevas tecnologías como de las ya existentes, y el fomento de la coordinación de la evaluación socioeconómica de la tecnología médica.
+
+2\. Queda adscrita a la Subdirección General de Evaluación y Fomento de la Investigación, con el nivel orgánico que se determine en las relaciones de puestos de trabajo, la Agencia de Evaluación de Tecnologías Sanitarias.
+
+> Se modifican las letras a), b) y d) del apartado 1 por el art. único.19 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.6 del Real Decreto 590/2005, de 20 de mayo. Ref. BOE-A-2005-8836.
+
+##### Artículo 18. Subdirección General de Redes y Centros de Investigación Cooperativa.
+
+1\. Corresponde a la Subdirección General de Redes y Centros de Investigación Cooperativa el ejercicio de las siguientes funciones:
+
+a) La coordinación, evaluación, seguimiento y potenciación de las estructuras de investigación en red en el Sistema Nacional de Salud en conexión con el resto de agentes del Sistema Nacional de Ciencia y Tecnología.
+
+b) La gestión de las estructuras de investigación en red, a partir de las redes temáticas de investigación cooperativa.
+
+c) La difusión de los recursos y resultados para su utilización conjunta en red informática.
+
+d) Impulsar unidades mixtas, centros asociados y centros propios de investigación.
+
+e) Fomentar y coordinar la investigación traslacional y multidisciplinar en problemas de salud, en enfermería y en aspectos estratégicos para el Sistema Nacional de Salud.
+
+f) La coordinación de todas las bibliotecas del Instituto.
+
+g) El desarrollo de actividades de divulgación y prestación de servicios documentales al conjunto del Sistema Nacional de Salud.
+
+h) La gestión de la red de comunicaciones de la biblioteca virtual.
+
+2\. A la Subdirección General de Redes y Centros de Investigación Cooperativa le corresponden las actividades de planificación, coordinación, seguimiento y evaluación científica de las fundaciones en las que el Instituto participa.
+
+> Se modifica el primer párrafo y la letra d) del apartado 1 por el art. único.20 y 21 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.6 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 19. Subdirección General de Investigación en Terapia Celular y Medicina Regenerativa.
+
+1\. Corresponde a la Subdirección General de Investigación en Terapia Celular y Medicina Regenerativa, sin perjuicio de las competencias de otros órganos de la Administración General del Estado, el ejercicio de las siguientes funciones:
+
+a) El fomento, la evaluación, la coordinación y el seguimiento de la investigación en terapia celular y medicina regenerativa que se realice en el Sistema Nacional de Salud y en el resto del sistema de ciencia y tecnología.
+
+b) La representación en instituciones nacionales, comunitarias e internacionales y la coordinación de actuaciones relativas a la protección de los derechos fundamentales de las personas y los postulados éticos que afectan a la investigación biomédica.
+
+c) La coordinación de los centros de investigación sobre terapia celular y medicina regenerativa en los que participe el Instituto.
+
+d) El registro y seguimiento de los proyectos de investigación autorizados sobre terapia celular y medicina regenerativa.
+
+e) La dirección del Banco nacional de líneas celulares, así como la coordinación de los distintos nodos que lo compongan.
+
+f) El ejercicio de las funciones y competencias que se derivan de la aplicación de la Ley de Investigación Biomédica en las materias atribuidas al Instituto de Salud Carlos III.
+
+2\. A la Subdirección General de Investigación en Terapia Celular y Medicina Regenerativa le corresponde la Secretaría de la Comisión de Garantías para la donación y Utilización de Células y Tejidos.
+
+> Se modifica por el art. único.22 a 24 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+> Se modifica por el art. único.6 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 20. Subdirección General de Programas Internacionales de Investigación y Relaciones Institucionales.
+
+Corresponde a la Subdirección General de Programas Internacionales de Investigación y Relaciones Institucionales, sin perjuicio de las atribuciones de otros órganos del departamento, el ejercicio de las siguientes funciones:
+
+a) Mantener las relaciones institucionales con las Administraciones y organismos nacionales, comunitarios e internacionales competentes en materias propias del Instituto.
+
+b) La gestión de las relaciones internacionales y la participación en organismos comunitarios e internacionales.
+
+c) La implantación y el desarrollo de iniciativas adoptadas por la Unión Europea en materias propias del Instituto, en coordinación con las comunidades autónomas.
+
+d) La promoción de la incorporación efectiva de los recursos españoles de investigación a los programas y políticas científicas de la Unión Europea, para lograr el máximo aprovechamiento de las oportunidades que se ofrecen a los investigadores de los Estados miembros de la Unión.
+
+e) La asistencia a los centros e investigadores del Sistema Nacional de Salud, sobre el modo de acceder a los servicios, procedimientos, ayudas y subvenciones en relación con la actividad investigadora y de formación del Instituto y de los proyectos europeos.
+
+f) Promover planes de actuación conjunta con las comunidades autónomas y coordinar con sus servicios de salud las actuaciones relacionadas con la actividad del Instituto, sin perjuicio de las competencias atribuidas a otras Subdirecciones Generales.
+
+g) Promover, impulsar y desarrollar relaciones con otros organismos de las Administraciones públicas españolas, así como con entidades públicas o privadas, y participar en los foros que se refieran a éstas, señaladamente en los que patrocinen y organicen las comunidades autónomas, sin perjuicio de las competencias atribuidas a otras Subdirecciones Generales.
+
+h) La dirección y coordinación de la actividad de transferencia de los resultados de la investigación a través de la Oficina de Transferencia de los Resultados de Investigación.
+
+> Se modifica por el art. único.6 del Real Decreto 590/2005, de 20 de mayo. [Ref. BOE-A-2005-8836](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8836).
+
+##### Artículo 21. Creación, modificación y supresión de estructuras organizativas del Instituto de Salud «Carlos III».
+
+La ejecución de las actividades de carácter investigador, científico, técnico y docente encomendadas al Instituto de Salud «Carlos III» se realizará a través de centros o institutos, cuyo nivel orgánico será inferior al de Subdirección General.
+
+Al frente de estas unidades existirá un Director o Coordinador que será nombrado por el Director del Instituto de Salud «Carlos III», de acuerdo con los requisitos establecidos en la relación de puestos de trabajo.
+
+La creación, modificación y supresión de estas unidades se efectuará por Orden del titular del Ministerio de Ciencia e Innovación, previa aprobación del titular del Ministerio de la Presidencia.
+
+> Se modifica el último párrafo por el art. único.25 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+## CAPÍTULO IV — Régimen económico-financiero
+
+##### Artículo 22. Recursos económicos.
+
+1\. Los recursos económicos del Instituto de Salud «Carlos III» podrán provenir de las siguientes fuentes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas de dicho patrimonio.
+
+c) Las consignaciones específicas que tuviera asignadas en los Presupuestos Generales del Estado.
+
+d) Las transferencias corrientes o de capital que procedan de las Administraciones o Entidades públicas.
+
+e) Los ingresos ordinarios y extraordinarios que esté autorizado a percibir.
+
+f) Las donaciones, legados y otras aportaciones de entidades privadas y de particulares.
+
+g) Los ingresos que se deriven de sus operaciones.
+
+h) Cualquier otro recurso que pudiera serle atribuido.
+
+2\. Los ingresos y pagos a realizar por el Organismo se harán a través de la cuenta que mantenga, bien en el Banco de España, bien en otras entidades de crédito, para cuya apertura se precisará previa autorización de la Dirección General del Tesoro y Política Financiera en los términos establecidos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica el apartado 2 por el art. único.26 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+##### Artículo 23. Régimen económico-financiero, de contabilidad, intervención y control financiero.
+
+1\. El régimen económico-financiero, de contabilidad, intervención y control financiero del Instituto de Salud Carlos III será el establecido para los Organismos autónomos por la Ley 47/2003, de 26 de noviembre, General Presupuestaria y demás disposiciones vigentes en la materia.
+
+2\. Sin perjuicio de las competencias fiscalizadoras atribuidas al Tribunal de Cuentas por su Ley Orgánica, y por las demás leyes que desarrollan sus competencias, el Instituto de Salud Carlos III estará sometido al control de la Intervención General de la Administración del Estado en los términos que establece la Ley 47/2003, de 26 de noviembre, General Presupuestaria. Dicho control se realizará por la Intervención Delegada en el Instituto bajo la dependencia funcional de la Intervención general de la Administración del estado.
+
+3\. Igualmente, el Instituto de Salud Carlos III estará sometido a un control de eficacia, ejercido por el Ministerio de Ciencia e Innovación, que tendrá como finalidad comprobar el grado de cumplimiento de sus objetivos y la adecuada utilización de los recursos asignados, sin perjuicio de las competencias que corresponden a la Intervención General de la Administración del Estado en estas materias.
+
+> Se modifica por el art. único.27 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+##### Artículo 24. Contratación.
+
+1\. El régimen jurídico aplicable para la contratación de bienes y servicios será el establecido en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público y demás normativa de desarrollo para el resto de la Administración General del Estado.
+
+2\. Los contratos de servicios y suministro celebrados por el Instituto de Salud Carlos III que tengan por objeto prestaciones o productos necesarios para la ejecución de proyectos de investigación, desarrollo e innovación tecnológica o servicios técnicos, cuando la presentación y obtención de resultados derivados de los mismos este ligada a retornos científicos, tecnológicos o industriales susceptibles de incorporarse al trafico jurídico y su realización haya sido encomendada a equipos de investigación del organismo mediante procesos de concurrencia competitiva, quedan exceptuados del ámbito de aplicación de la Ley de Contratos del Sector Público y se regirán por las normas del Derecho Civil y Mercantil que les sean de aplicación.
+
+> Se modifica por el art. único.28 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+##### Artículo 25. Régimen presupuestario.
+
+1\. El régimen presupuestario del Instituto de Salud «Carlos III» será el establecido en el texto refundido de la Ley General Presupuestaria para los Organismos públicos de investigación como Organismos autónomos con especialidades requeridas por las actividades de investigación científica y desarrollo tecnológico. A estos efectos, se entiende por operaciones típicas de la actividad del Organismo aquellas que sean necesarias para la realización de sus objetivos fundacionales, y en especial los proyectos de investigación, las operaciones de transferencia de tecnología y los programas de formación de investigadores y técnicos.
+
+2\. De acuerdo con lo establecido en el artículo 18.2 de la Ley 13/1986, de 14 de abril, para la realización de trabajos de carácter científico o de asesoramiento técnico, para la cesión de derechos de la propiedad industrial o intelectual o para el desarrollo de cursos de especialización, el órgano competente podrá autorizar respecto al organismo, y previo informe de la Intervención Delegada, generaciones de crédito en los estados de gastos de su presupuesto cuando se financien con ingresos derivados de los negocios jurídicos celebrados por el Instituto de Salud «Carlos III» con entidades públicas o privadas o con personas físicas, o bien mediante los recursos aportados por el sector público, dentro del Plan Nacional, a los que se refiere la Ley de Fomento y Coordinación de la Investigación Científica y Técnica.
+
+No obstante lo señalado en el párrafo anterior, cuando la generación de crédito se pretenda que afecte a la dotación del complemento de productividad o gratificaciones a que se refieren los párrafos c) y d) del apartado 3 del artículo 23 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, así como la de cualquier otro incentivo al rendimiento, se requerirá informe favorable del Ministerio de Hacienda.
+
+## CAPÍTULO V — Régimen patrimonial
+
+##### Artículo 26. Patrimonio del Organismo.
+
+1\. El régimen patrimonial del Instituto de Salud Carlos III será el establecido en la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+2\. Además de los bienes que integren su propio patrimonio, el Organismo tendrá adscritos al mismo, para el cumplimiento de sus fines, los bienes patrimoniales de titularidad estatal cuya adscripción se acuerde, de conformidad con lo dispuesto en la Ley de Patrimonio de las Administraciones Públicas, que conservarán su calificación jurídica originaria y que únicamente podrán ser utilizados para el cumplimiento de sus fines, correspondiendo al Instituto de Salud Carlos III su utilización, administración y cuantas prerrogativas referentes al dominio público estén legalmente establecidas.
+
+> Se modifica por el art. único.29 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+##### Artículo 27. Inventario.
+
+1\. El Instituto de Salud «Carlos III» formará y mantendrá actualizado el inventario de sus bienes y derechos, con la única excepción de los de carácter fungible. El inventario se revisará, en su caso, anualmente con referencia al 31 de diciembre y se incluirá en el balance que se incorpore a la cuenta anual del Organismo.
+
+2.**(Suprimido)**
+
+> Se suprime el apartado 2 por el art. único.30 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+## CAPÍTULO VI — Personal del Instituto de Salud «Carlos III»
+
+##### Artículo 28. Régimen de personal.
+
+El personal del Instituto de Salud «Carlos III», estará formado por:
+
+1\. El personal funcionario y estatutario destinado en el Instituto de Salud Carlos III, incluido el de carácter investigador y el de apoyo a la investigación, de acuerdo a lo que establezcan las relaciones de puestos de trabajo.
+
+2\. El personal investigador, científico o técnico contratado para la ejecución de proyectos y actividades investigadoras, conforme a lo establecido en el artículo 17.1.a) de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica. El personal en formación especializada en ciencias de la salud en el Instituto de Salud Carlos III, que se regirá por su normativa específica.
+
+3\. El personal en formación y contratado en prácticas para su formación científica y técnica, de conformidad con lo establecido en el Estatuto del personal investigador en formación, aprobado por Real Decreto 63/2006, de 27 de enero, por el que se aprueba el Estatuto del personal investigador en formación, y en el artículo 17.1.b) de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+4\. El personal laboral fijo y temporal del Instituto de Salud «Carlos III», el cual se regulará por lo establecido en el convenio colectivo que le resulte de aplicación.
+
+El Instituto de Salud «Carlos III», podrá celebrar convenios de colaboración con el resto de Organismos públicos de investigación y con centros universitarios que regulen la movilidad y el intercambio de personal con los mismos, cumpliendo así lo establecido por la disposición adicional cuarta de la Ley 13/1986, de 14 de abril.
+
+> Se modifican los apartados 1 a 3 por el art. único.31 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+##### Artículo 29. Becarios.
+
+Como Organismo público de investigación, el Instituto podrá designar y formar en sus instalaciones cuantos becarios se estimen oportunos, de acuerdo con sus disponibilidades presupuestarias y capacidad formativa. El régimen de incorporación y seguimiento de los becarios se regirá por lo previsto en el Estatuto del personal investigador en formación, aprobado por Real Decreto 63/2006, de 27 de enero, por el que se aprueba el Estatuto del personal investigador en formación, por el Programa de incorporación y seguimiento de becarios del Instituto de Salud Carlos III, y por lo establecido en la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+La concesión de las becas no implicará, en ningún caso, relación laboral ni de empleo con el Instituto de Salud Carlos III ni con el Ministerio de Ciencia e Innovación, cualquiera que sea su naturaleza jurídica, ni supondrá compromiso alguno de incorporación posterior de los becarios a sus plantillas.
+
+> Se modifica por el art. único.32 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).
+
+## CAPÍTULO VII — Invenciones
+
+##### Artículo 30. Invenciones y patentes.
+
+Corresponde al Instituto de Salud Carlos III la titularidad de las invenciones realizadas por el personal como consecuencia de sus funciones. El personal tendrá derecho, en todo caso, a participar en los beneficios que obtenga el Instituto de Salud Carlos III de la explotación o de la cesión de sus derechos sobre las invenciones, de acuerdo con lo previsto en la legislación vigente y en el Real Decreto 55/2002, de 18 de enero, sobre explotación y cesión de invenciones realizadas en los entes públicos de investigación, de conformidad con lo establecido en el artículo 20 de la Ley 11/1986, de 20 de marzo, de Patentes.
+
+> Se modifica por el art. único.33 del Real Decreto 1672/2009, de 6 de noviembre. [Ref. BOE-A-2009-18289](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18289).

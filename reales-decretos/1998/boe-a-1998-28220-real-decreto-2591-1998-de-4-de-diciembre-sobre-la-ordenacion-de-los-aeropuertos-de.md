@@ -1,0 +1,299 @@
+---
+title: "Real Decreto 2591/1998, de 4 de diciembre, sobre la Ordenación de los Aeropuertos de Interés General y su Zona de Servicio, en ejecución de lo dispuesto por el artículo 166 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social"
+identifier: "BOE-A-1998-28220"
+eli: "https://www.boe.es/eli/es/rd/1998/12/04/2591"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 1998-12-04
+published: 1998-12-07
+in_force_from: 1998-12-08
+last_amended: 2025-09-30
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 292"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-28220"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2591/1998, de 4 de diciembre, sobre la Ordenación de los Aeropuertos de Interés General y su Zona de Servicio, en ejecución de lo dispuesto por el artículo 166 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social
+
+El artículo 166 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, ha establecido dentro del régimen jurídico de los aeropuertos de interés general de la competencia exclusiva del Estado, según el artículo 149.1.20.ª de la Constitución, la necesidad de que el aeropuerto y su zona de servicio sean ordenados mediante un nuevo instrumento de planificación, de naturaleza estrictamente aeroportuaria y no urbanística, denominado Plan Director, que permita dar respuesta a los problemas derivados de la complejidad de las modernas infraestructuras aeroportuarias y del creciente desarrollo del tráfico y transporte aéreos, y al que se asigna la función de delimitación de la zona de servicio de los aeropuertos de interés general, con la inclusión de los espacios de reserva que garanticen el desarrollo y expansión del aeropuerto, y la determinación de las actividades aeroportuarias o complementarias a desarrollar en las distintas zonas comprendidas dentro del recinto del aeropuerto y su zona de servicio.
+
+Por otra parte, el citado precepto de la Ley ha establecido la necesidad de que los aeropuertos de interés general y su zona de servicio sean calificados como sistema general aeroportuario en los planes generales o instrumentos equivalentes de ordenación urbana, los cuales no podrán incluir determinación alguna que interfiera o perturbe el ejercicio de las competencias estatales sobre los aeropuertos calificados de interés general; este sistema general se habrá de desarrollar por medio de un plan especial o instrumento equivalente respecto de cuyo contenido y para cuya aprobación se establecen los mecanismos de colaboración precisos entre la autoridad aeronáutica y las administraciones urbanísticas competentes, así como las medidas de coordinación necesarias para asegurar el ejercicio de la competencia estatal.
+
+De conformidad con la habilitación conferida por la disposición final 7.ª de la Ley 13/1996, este Real Decreto tiene por objeto determinar los objetivos, contenido y normas para la aprobación de los Planes Directores de los aeropuertos de interés general, de forma que se asegure el desarrollo del aeropuerto, su eficaz integración en el territorio y la coordinación con las actuaciones de las Administraciones públicas que ostentan competencias en materia de ordenación del territorio y urbanismo, a cuyo fin igualmente se determina el modo de aprobación del plan especial o instrumento equivalente de ordenación urbanística, aunque exclusivamente desde el punto de vista de las competencias estatales sobre los aeropuertos de interés general.
+
+En su virtud, a propuesta del Ministro de Fomento, previo informe del Ministerio de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1998,
+
+DISPONGO:
+
+## Artículo 1. Zona de servicio de los aeropuertos de interés general.
+
+El Ministerio de Fomento delimitará para los aeropuertos de interés general una zona de servicio que incluirá las superficies necesarias para la ejecución de las actividades aeroportuarias, las destinadas a las tareas complementarias de éstas y los espacios de reserva que garanticen la posiblidad de desarrollo y crecimiento del conjunto y aprobará el correspondiente Plan Director de la misma, en el que se incluirán, además de las actividades contempladas en el artículo 39 de la Ley de Navegación Aérea, de 21 de julio de 1960, los usos industriales y comerciales cuya localización en ella resulte necesaria o conveniente por su relación con el tráfico aéreo o por los servicios que presten a los usuarios del aeropuerto.
+
+## Artículo 2. Plan Director del aeropuerto y de su zona de servicio.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) de la Ley 8/2025, de 29 de septiembre. [Ref. BOE-A-2025-19339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19339)
+
+> Se modifica el apartado 1.a) por el art. único.1 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 3. Contenido del Plan Director.
+
+1\. A los efectos previstos en el artículo anterior, el Plan Director del aeropuerto contendrá necesariamente:
+
+a) Los espacios aeronáuticos integrados en la red nacional de ayudas a la navegación aérea.
+
+b) Los servicios de control del tránsito aéreo.
+
+c) Las infraestructuras para el movimiento de las aeronaves.
+
+d) Las zonas de actividades aeroportuarias con las edificaciones e instalaciones complementarias para el servicio de las aeronaves.
+
+e) Las edificaciones e instalaciones del aeropuerto que fueran necesarias para el movimiento y tránsito de los viajeros y de las mercancías.
+
+f) Las zonas de estacionamiento y de acceso de personas y vehículos.
+
+g) Los espacios para las actividades complementarias.
+
+h) Las redes de servicios necesarios para el correcto funcionamiento de la infraestructura aeroportuaria.
+
+i) Las vías de servicio del aeropuerto.
+
+j) Los accesos viarios y ferroviarios del aeropuerto.
+
+k) La representación del estado final del sistema general aeroportuario.
+
+2\. El Plan Director del aeropuerto incluirá también las determinaciones necesarias para que las autoridades públicas no aeronáuticas dispongan de los espacios precisos para el desarrollo de las actividades y servicios que hayan de prestar en el recinto aeroportuario.
+
+3\. El Plan Director contendrá asimismo la determinación de los espacios o superficies necesarias para posibilitar, en su caso, el despliegue de aeronaves militares y de sus medios de apoyo y recogerá las especificaciones necesarias en relación con los intereses de la defensa nacional y el control del espacio aéreo español que establezca el Ministerio de Defensa.
+
+## Artículo 4. Documentación del Plan Director.
+
+El Plan Director del aeropuerto contendrá los siguientes documentos:
+
+a) Memoria, que incluirá un estudio de los antecedentes y de la situación actual del aeropuerto; sus necesidades futuras derivadas del análisis de los tráficos de pasajeros y de mercancías y de la evolución previsible de la demanda; la delimitación de la zona de servicio, con la motivación del ámbito propuesto y las modificaciones que en su caso se introduzcan sobre la superficie vigente; las actividades previstas para cada una de las áreas de la zona de servicio del aeropuerto, con la justificación de su necesidad o conveniencia, y la relación con el planeamiento urbanístico, así como la integración de los objetivos ambientales propuestos como resultado de la evaluación ambiental estratégica; asimismo, incluirá las infraestructuras terrestres de acceso al aeropuerto existentes o que se deriven de la ejecución de planes o proyectos aprobados, así como el estudio de las que se entiendan necesarias para la conexión del aeropuerto con los sistemas generales de transporte terrestre y redes de suministros, teniendo en cuenta el volumen del tráfico aeroportuario actual y del previsible, y reflejará igualmente el ámbito territorial afectado por las servidumbres aeronáuticas establecidas, y por las propuestas de servidumbres aeronáuticas, incluidas las acústicas, resultantes de las instalaciones planificadas en la zona de servicio del Plan Director.
+
+b) Plano general de situación del aeropuerto, de su actual zona de servicio y de la zona de servicio propuesta, y planos de cada una de las áreas en que se estructura la zona de servicio aeroportuaria, con las actividades previstas; así como planos del espacio territorial afectado por las servidumbres aeronáuticas establecidas, y por las propuestas de servidumbres aeronáuticas, incluidas las acústicas, resultantes de las instalaciones planificadas en la zona de servicio del Plan Director.
+
+c) Estudio de la incidencia del aeropuerto y de las infraestructuras aeroportuarias en el ámbito territorial y el entorno natural circundante.
+
+d) Estudio de las magnitudes económicas del Plan Director, a nivel de planificación y estudio coste-beneficio económico y social de la propuesta.
+
+e) Descripción de las operaciones aéreas previstas en términos que permitan estimar su incidencia sobre el territorio y el medio ambiente.
+
+f) Resumen de la ordenación establecida por el Plan Director, en su desarrollo previsible, señalando los subsistemas, las zonas en que se divide su ámbito y las condiciones fijadas para ellas.
+
+g) Cuando corresponda, la declaración ambiental estratégica, el informe ambiental estratégico o, en su caso, el acuerdo previsto en el artículo 12 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+
+h) Cuando proceda, la resolución del Secretario de Estado de Infraestructuras, Transporte y Vivienda a la que hace referencia el artículo 7.5.
+
+> Se modifica por el art. único.2 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 5. Competencias para la elaboración y aprobación de los Planes Directores.
+
+1\. La elaboración de los Planes Directores de los aeropuertos de interés general se realizará por el promotor del plan, con arreglo a las directrices establecidas, en su caso, por el Secretario de Estado de Infraestructuras, Transporte y Vivienda del Ministerio de Fomento.
+
+Se entiende por promotor del plan, cualquier persona física o jurídica, pública o privada, que pretende elaborar un Plan Director de un aeropuerto de interés general.
+
+2\. Corresponde al Ministro de Fomento, a propuesta del Secretario de Estado de Infraestructuras, Transporte y Vivienda, aprobar los Planes Directores de los aeropuertos de interés general.
+
+3\. Corresponde a la Dirección General de Aviación Civil la instrucción, impulso y tramitación del procedimiento de aprobación de los Planes Directores de los aeropuertos de la red gestionados por Aena S.M.E., S.A., y de su evaluación ambiental estratégica, así como de los demás aeropuertos de interés general.
+
+> Se modifica por el art. único.3 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+> Se modifica el apartado 2 por la disposición final 2 del Real Decreto 184/2008, de 8 de febrero. [Ref. BOE-A-2008-2595](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2595).
+
+## Artículo 5 bis. Inicio de la tramitación de los Planes Directores.
+
+1\. El promotor del Plan Director remitirá a la Dirección General de Aviación Civil una solicitud de aprobación de dicho plan acompañada de su borrador, y de una petición de inicio de evaluación ambiental estratégica ordinaria o simplificada, según proceda, junto a un documento inicial estratégico en los términos previstos en los artículos 18.1 y 29.1 respectivamente de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental. El borrador de Plan Director se presentará junto con el informe de conformidad de la entidad pública empresarial Enaire en relación con las materias de su competencia, en particular sobre planificación y diseño de la estructura, organización y utilización del espacio aéreo, así como respecto a la propuesta de maniobras que condicionan la utilización, explotación y crecimiento del aeropuerto.
+
+2\. La Dirección General de Aviación Civil comprobará que la documentación remitida por el promotor del plan se ajusta a lo previsto en el presente real decreto, a las directrices que, en su caso, se hayan establecido por el Secretario de Estado de Infraestructuras, Transporte y Vivienda, y a los artículos 18.1 y 29.1 de la Ley 21/2013, de 9 de diciembre.
+
+En el supuesto de que la documentación no se ajuste a dichas previsiones, la Dirección General de Aviación Civil requerirá al promotor del plan para que complete o subsane la documentación aportada en el plazo de diez días hábiles, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su petición, previa resolución dictada en los términos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. El promotor del plan podrá solicitar una extensión del plazo de subsanación por un máximo de 5 días hábiles cuando la aportación de los documentos requeridos presente dificultades especiales.
+
+> Se añade por el art. único.4 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 5 ter. Evaluación ambiental estratégica ordinaria o simplificada y tramitación de los Planes Directores
+
+1\. La Dirección General de Aviación Civil trasladará al órgano ambiental la solicitud de iniciación junto con la documentación recibida conforme a lo previsto en los artículos 18.3 y 29.3 de la Ley 21/2013, de 9 de diciembre.
+
+2\. Iniciada la evaluación ambiental estratégica simplificada, si el informe ambiental estratégico determina que el plan no tiene efectos significativos en el medio ambiente, proseguirá la tramitación sectorial prevista en los siguientes apartados de este artículo, con exclusión de los trámites propios de la evaluación ambiental estratégica ordinaria que se citan en los mismos*.*
+
+3\. En los supuestos de evaluación ambiental estratégica ordinaria, previstos, respectivamente, en los artículos 19.2 y 31.2.a) de la Ley 21/2013, de 9 de diciembre, el documento de alcance del estudio ambiental estratégico elaborado por el órgano ambiental se pondrá a disposición del público a través de las sedes electrónicas del citado órgano ambiental y del Ministerio de Fomento, así como en la página web del promotor del Plan Director.
+
+En el plazo máximo de nueve meses contados a partir de la recepción del documento de alcance, el promotor del Plan Director elaborará la versión inicial del mismo y el estudio ambiental estratégico, teniendo en cuenta el documento de alcance elaborado por el órgano ambiental y las indicaciones de la Dirección General de Aviación Civil, y remitirá ambos documentos, junto con un resumen no técnico del estudio ambiental estratégico, a la Dirección General de Aviación Civil.
+
+4\. A efectos de la realización de los trámites de información pública y consultas previstos en los párrafos siguientes, y en particular, en su caso, de los trámites de información pública y consultas previstos en los artículos 21 y 22 de la Ley 21/2013, de 9 de diciembre, corresponde al Ministerio de Fomento acordar un período de información pública y consultas, que se extenderá a las Administraciones publicas afectadas y las personas previamente consultadas, así como a las asociaciones representativas de usuarios del sector, entendiendo por tales las asociaciones de ámbito nacional e internacional que estén integradas por compañías aéreas que representen un volumen significativo de tráfico en España, así como las quince principales compañías por volumen de pasajeros si no estuvieran representadas por aquellas.
+
+En aquellos aeropuertos en los que el transporte de carga o los usuarios de aeronaves de aviación general o deportiva, trabajos aéreos y de aeronaves históricas tengan una presencia significativa, se considerarán asociaciones representativas de usuarios las asociaciones de ámbito nacional e internacional que estén integradas por dichos operadores que representen un volumen significativo de tráfico anual en el aeropuerto o aeropuertos de que se trate.
+
+Entre las Administraciones públicas afectadas se incluirán, en todo caso, las que ostenten competencias en materia de ordenación del territorio y de urbanismo, así como de protección del medioambiente, afectadas por la delimitación de la zona de servicio del aeropuerto.
+
+Todo ello sin perjuicio, de que cuando corresponda, se realicen las consultas transfronterizas pertinentes en los términos previstos en los artículos 49 y siguientes de la Ley 21/2013, de 9 de diciembre.
+
+El trámite de información pública y consultas tendrá una duración mínima de 45 días hábiles y se iniciará con la previa publicación del correspondiente anuncio en el “Boletín Oficial del Estado” y en la página web del promotor del Plan Director y, en su caso, la sede electrónica del Ministerio de Fomento.
+
+A los efectos del trámite de información pública y consultas, la propuesta de Plan Director y su memoria se publicarán en la página web del promotor del plan y en la sede electrónica del Ministerio de Fomento.
+
+5\. Asimismo, de manera simultánea a la información pública, la Dirección General de Aviación Civil solicitará el informe del Ministerio del Interior en cuanto a las materias de su competencia, y si la delimitación de la zona de servicio propuesta incluye bienes patrimoniales o de dominio público de titularidad de la Administración General del Estado, el informe preceptivo y vinculante, según proceda, del Ministerio de Hacienda o del Ministerio u organismo público que tenga afectados o adscritos los bienes de dominio público. El informe del Ministerio del Interior se entenderá favorable si, transcurridos cuarenta y cinco días hábiles desde la recepción de la documentación, no ha sido emitido expresamente.
+
+Además, respecto a los aeropuertos integrados en la red de Aena S.M.E., S.A., se solicitará informe de la Comisión Nacional de los Mercados y la Competencia con el objeto de que emita informe en relación con el ámbito de sus competencias.
+
+6\. Finalizado el trámite de información pública y consultas e informes de los departamentos ministeriales competentes por razón de la materia, la Dirección General de Aviación Civil trasladará, en su caso, al promotor del Plan Director las alegaciones e informes recibidos, para su valoración.
+
+7\. El promotor del Plan Director remitirá a la Dirección General de Aviación Civil, en el plazo de tres meses, una propuesta final de Plan Director que incorporará el contenido del estudio ambiental estratégico, la correspondiente valoración del resultado de la información pública y las consultas o informes y un documento resumen en el que se describa la integración en la propuesta final del Plan Director de los aspectos ambientales, del estudio ambiental estratégico y de su adecuación al documento de alcance, del resultado de los informes y las consultas realizados y de cómo éstos se han tomado en consideración.
+
+8\. Recibida la documentación a que se refieren los apartados anteriores, la Dirección General de Aviación Civil remitirá al órgano ambiental el expediente de evaluación ambiental estratégica ordinaria completo en los términos previstos en el artículo 24.1 de la Ley 21/2013, de 9 de diciembre, a efectos de que formule la correspondiente declaración ambiental estratégica prevista en el artículo 25 de dicha ley.
+
+9\. Antes de su aprobación, la propuesta de los Planes Directores de los aeropuertos integrados en la red de Aena S.M.E., S.A., será remitida al Comité de Coordinación Aeroportuaria correspondiente, en virtud de lo establecido en el Real Decreto-ley 13/2010, de 3 de diciembre, que deberá emitir su informe en el plazo de treinta días hábiles, transcurridos los cuales se entenderá emitido en sentido favorable. Corresponde a la Dirección General de Aviación Civil la remisión de estas propuestas a dicho comité, así como la valoración del informe que éste emita.
+
+> Se añade por el art. único.5 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 5 quáter. Aprobación y publicación de los Planes Directores.
+
+1\. Publicada la declaración ambiental estratégica, o el informe ambiental estratégico en el “Boletín Oficial del Estado”, de acuerdo con lo previsto, respectivamente, en los artículos 25 y 31 de la Ley 21/2013, de 9 de diciembre, la Dirección General de Aviación Civil requerirá al promotor del Plan para que en el plazo máximo de diez días se pronuncie sobre la conveniencia de iniciar el trámite de resolución de discrepancias previsto en el artículo 12 de la Ley 21/2013, de 9 de diciembre, y en el caso de estimarlo necesario o conveniente, remitirá al órgano ambiental el escrito de discrepancias del citado artículo 12 a los efectos previstos en el mismo.
+
+2\. En el supuesto de que no sea necesario el trámite de resolución de discrepancias previsto en el artículo 12 de la Ley 21/2013, de 9 de diciembre, la Dirección General de Aviación Civil requerirá al promotor del Plan Director para que integre el contenido de la declaración ambiental estratégica en el Plan Director y lo remita a dicha Dirección General en el plazo de treinta días.
+
+3\. Recibida la documentación a que hace referencia el artículo anterior, la Dirección General de Aviación Civil remitirá a la Secretaría de Estado de Infraestructuras, Transporte y Vivienda la propuesta de resolución.
+
+4\. La aprobación por el Ministro de Fomento de los Planes Directores será objeto de publicación en el “Boletín Oficial del Estado” en los términos previstos en el artículo 26 y, en su caso, en el artículo 32, de la Ley 21/2013, de 9 de diciembre.
+
+> Se añade por el art. único.6 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 6. Declaración de utilidad pública.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) de la Ley 8/2025, de 29 de septiembre. [Ref. BOE-A-2025-19339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19339)
+
+## Artículo 7. Revisión, modificación y actualización de los Planes Directores.
+
+1\. Los Planes Directores se revisarán siempre que las necesidades exijan introducir modificaciones de carácter sustancial en su contenido de acuerdo con el procedimiento establecido en este real decreto para su aprobación.
+
+2\. A los efectos previstos en el apartado 1, se consideran modificaciones sustanciales las que, sin perjuicio de lo dispuesto en el apartado 4 de este artículo:
+
+a) Supongan creación o modificación de elementos estructurantes del campo de vuelos del aeropuerto u otros elementos que alteren el funcionamiento previsto del mismo, o;
+
+b) supongan una variación fundamental de la estrategia de desarrollo del aeropuerto.
+
+3\. Las modificaciones no sustanciales de los Planes Directores tendrán la consideración de modificaciones menores, siempre que cumplan las condiciones establecidas en el artículo 5.2.f) de la Ley 21/2013, de 9 de diciembre, y en tal caso, se tramitarán por el procedimiento de evaluación ambiental estratégica simplificada, de conformidad con el artículo 6.2 de la Ley 21/2013, de 9 de diciembre. A tales efectos, el promotor del Plan Director remitirá a la Dirección General de Aviación Civil el borrador de modificación del mismo acompañado del informe de la entidad pública empresarial Enaire y de la solicitud de inicio de la evaluación ambiental estratégica simplificada y un documento ambiental estratégico con el contenido previsto en el artículo 29 de la citada Ley 21/2013, de 9 de diciembre.
+
+Estas modificaciones se aprobarán mediante orden del Ministro de Fomento, previa realización de los trámites previstos en los artículos 30 y 31 de la Ley 21/2013, de 9 de diciembre, y se publicará en el “Boletín Oficial del Estado” en los términos previstos en el artículo 32 de la citada Ley.
+
+4\. La exclusión de terrenos de la zona de servicio por carecer éstos de interés para el desarrollo futuro de la actividad aeroportuaria, así como la inclusión de nuevos terrenos en la zona de servicio del Plan Director vigente, en los casos que no tengan cabida en los apartados 2 y 3 de este artículo, por tratarse de modificaciones de escasa entidad sin afección medioambiental, en los términos previstos en la Ley 21/2013, de 9 de diciembre, se aprobarán mediante orden ministerial tras la realización de los trámites previstos en el apartado 4 del artículo 5 ter, en lo que se refiere a la información pública, a la consulta a las administraciones territoriales afectadas, y cuando proceda, a los informes de los departamentos ministeriales afectados.
+
+5\. La actualización de las previsiones de tráfico que no encuentren cabida en los demás apartados de este artículo, así como la alteración de su calendario u horizontes temporales no tendrá la consideración de modificación del Plan Director, y será aprobada por resolución del Secretario de Estado de Infraestructuras, Transporte y Vivienda, cuando tenga un efecto neutro o favorable para el entorno y los afectados. Dicha resolución formará parte de la documentación del Plan Director
+
+6\. La iniciación del procedimiento de revisión, modificación y actualización de los Planes Directores podrá realizarse a instancia del promotor o del Ministerio de Fomento.
+
+> Se modifica por el art. único.7 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 8. Sistema general aeroportuario.
+
+A los efectos de asegurar la necesaria coordinación entre las Administraciones públicas con competencias concurrentes sobre el espacio aeroportuario, los planes generales y demás instrumentos generales de ordenación urbana calificarán a los aeropuertos y a sus respectivas zonas de servicio como sistema general aeroportuario y no podrán incluir determinaciones que supongan interferencia o perturbación en el ejercicio de las competencias de explotación aeroportuaria.
+
+El sistema general aeroportuario se desarrollará a través de un plan especial o instrumento equivalente, que deberá incluir entre sus determinaciones las medidas y previsiones necesarias para garantizar una eficiente gestión y explotación del aeropuerto, su desarrollo y su conexión con los sistemas generales de transporte terreste.
+
+## Artículo 9. Tramitación y aprobación del plan especial.
+
+1\. El Plan Especial de ordenación del espacio aeroportuario o instrumento equivalente se formulará por el gestor de acuerdo con las previsiones contenidas en el correspondiente Plan Director del aeropuerto, y se tramitará y aprobará por la administración urbanística competente de conformidad con lo establecido por la legislación urbanística aplicable.
+
+El gestor del aeropuerto será designado, en su caso, por el promotor conforme a lo que establezca la normativa aeronáutica vigente, pudiendo concurrir en el mismo sujeto ambas condiciones.
+
+2\. **(Derogado)**
+
+3\. La evaluación ambiental de los Planes Especiales tendrá en cuenta lo dispuesto en las disposiciones adicionales quinta y sexta de la Ley 21/2013, de 9 de diciembre.
+
+4\. La aprobación definitiva de los Planes Especiales de ordenación del espacio aeroportuario o instrumentos equivalentes deberá ser notificada al gestor aeroportuario en la forma y plazos establecidos por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. El citado gestor dará traslado de la aprobación definitiva y del contenido del Plan Especial o instrumento equivalente a la Secretaría de Estado de Infraestructuras, Transporte y Vivienda.
+
+> Se deroga el apartado 2 por la disposición derogatoria única.h) de la Ley 8/2025, de 29 de septiembre. [Ref. BOE-A-2025-19339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19339)
+
+> Se modifica por el art. único.8 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Artículo 10. Ejecución de obras en el recinto aeroportuario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.h) de la Ley 8/2025, de 29 de septiembre. [Ref. BOE-A-2025-19339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19339)
+
+> Se modifica por el art. único.9 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Disposición adicional primera. Plazo para la aprobación de los Planes Directores.
+
+En el plazo de dos años se aprobarán, con arreglo a lo establecido en este Real Decreto, los Planes Directores de todos los aeropuertos de interés general.
+
+## Disposición adicional segunda. Remisión al Ministerio de Transportes, Movilidad y Agenda Urbana de los proyectos urbanísticos que afecten a la zona de servicio de aeropuertos de interés general.
+
+1\. Las administraciones u organismos competentes para la tramitación de los planes o instrumentos de ordenación territorial o urbanístico remitirán al Ministerio de Transportes, Movilidad y Agenda Urbana, antes de su aprobación inicial o trámite equivalente, los proyectos de planes o instrumentos de ordenación urbanística o territorial, o de cualquier otra índole que ordenen físicamente el territorio, así como sus revisiones o modificaciones, siempre que incluyan dentro de su ámbito la zona de servicio aeroportuaria o espacios sujetos a las servidumbres aeronáuticas legalmente establecidas, o a las afectaciones aeronáuticas al planeamiento, incluidas las acústicas, previstas respecto a las actuaciones planificadas en la zona de servicio de los planes directores.
+
+La Dirección General de Aviación Civil emitirá informe preceptivo y vinculante respecto a dichos proyectos de planes o instrumentos en el ámbito de las competencias exclusivas del Estado en materia de aeropuertos de interés general y planificación aeroportuaria, en particular sobre la calificación de la zona de servicio aeroportuaria como sistema general y las condiciones de alturas y usos que se pretendan asignar a los espacios afectados por las servidumbres aeronáuticas legalmente establecidas o por las afectaciones aeronáuticas al planeamiento, incluidas las acústicas, previstas respecto a las actuaciones planificadas en la zona de servicio de los planes directores.
+
+El informe previo, tanto en relación con las afecciones sobre las servidumbres aeronáuticas legalmente establecidas, como sobre las afectaciones aeronáuticas al planeamiento, incluidas las acústicas, correspondientes a las instalaciones planificadas en la zona de servicio del Plan Director se adecuará a lo previsto en la normativa específica sobre servidumbres aeronáuticas, en relación a los informes similares que igualmente la Dirección General de Aviación Civil debe emitir sobre instrumentos de ordenación urbanística o territorial previstos en dicha normativa.
+
+2\. La Dirección General de Aviación Civil podrá, mediante resolución, delimitar áreas geográficas en las que no será necesario solicitar informe sobre los proyectos de planes o instrumentos de ordenación urbanística o territorial, cuando conste acreditado que no se compromete la seguridad o regularidad de las operaciones, el normal funcionamiento de las ayudas a la navegación aérea y la planificación y desarrollo de los aeropuertos de interés general y de las instalaciones para la navegación aérea y que no incluyan dentro de su ámbito construcciones o instalaciones de altura igual o superior a 100 metros de altura o aerogeneradores.
+
+La exención prevista en el párrafo anterior podrá formularse para los planes o instrumentos de ordenación de desarrollo de planes o instrumentos de ordenación previamente informados favorablemente.
+
+3\. **(Derogado)**
+
+4\. Los informes emitidos por la Dirección General de Aviación Civil son preceptivos y vinculantes en lo que se refiere al ejercicio de las competencias del Estado, y se emitirán en el plazo de seis meses a contar desde la recepción de la documentación requerida para su emisión, incluido, en su caso, el informe de la comunidad autónoma.
+
+Transcurrido el plazo previsto en el párrafo anterior sin que se haya emitido el informe de la Dirección General de Aviación Civil, se entenderá que reviste carácter disconforme.
+
+5\. A falta de solicitud del informe preceptivo, así como en el supuesto de disconformidad, no se podrá aprobar definitivamente el instrumento de planificación territorial o urbanística en lo que afecte al ejercicio de las competencias estatales.
+
+> Se deroga el apartado 3 y se modifican las referencias indicadas por las disposiciones derogatoria única.h) y adicional 1 de la Ley 8/2025, de 29 de septiembre. [Ref. BOE-A-2025-19339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19339)
+
+> Se modifica, con efectos de 1 de julio de 2023, por la disposición final 1 del Real Decreto 369/2023, de 16 de mayo. [Ref. BOE-A-2023-13092](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-13092)
+
+> Se modifica el apartado 1 por el art. único.10 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+> Se modifica por la disposición final 1 del Real Decreto 297/2013, de 26 de abril. [Ref. BOE-A-2013-5166](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5166).
+
+> Se modifica el párrafo segundo por la disposición final 3 del Real Decreto 1189/2011, de 19 de agosto. [Ref. BOE-A-2011-14118](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14118).
+
+## Disposición adicional tercera. Aprobación de los Planes Directores de los aeródromos de utilización conjunta civil y militar.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.h) de la Ley 8/2025, de 29 de septiembre. [Ref. BOE-A-2025-19339](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-19339)
+
+## Disposición adicional cuarta.
+
+En los procedimientos de elaboración de los Planes Directores, previo el trámite de información pública, se recabará informe vinculante del Ministerio de Defensa si el contenido del proyecto pudiera incidir sobre terrenos, edificaciones e instalaciones, incluidas sus zonas de protección, afectos a la defensa nacional, que deberá ser evacuado en el plazo de dos meses.
+
+> Se añade por el art. único.11 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Disposición transitoria única. Régimen transitorio del ámbito de la zona de servicio de los aeropuertos de interés general.
+
+En tanto se proceda a la aprobación de los Planes Directores regulados por este Real Decreto, el ámbito de la zona de servicio de los aeropuertos de interés general será el delimitado con anterioridad a su entrada en vigor o, en su defecto, el comprendido por el dominio público aeroportuario y el que resulte de la ejecución de proyectos de obras de construcción o ampliación de las infraestructuras aeroportuarias y de las comprendidas en el apartado 1 del artículo 3.
+
+El Ministro de Fomento hará públicas las delimitaciones de las actuales zonas de servicio de los aeropuertos de interés general. Las correspondientes Órdenes se publicarán en el «Boletín Oficial del Estado».
+
+## Disposición final primera. Habilitación para el desarrollo y ejecución.
+
+Se autoriza al Ministro de Fomento para dictar, en el ámbito de sus propias competencias, las normas de ejecución y desarrollo del presente real decreto.
+
+> Se añade por el art. único.12 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+## Disposición final segunda. Entrada en vigor.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se enumera por el art. único.13 del Real Decreto 1267/2018, de 11 de octubre. [Ref. BOE-A-2018-15405](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-15405)
+
+> Su anterior denominación era disposición final única.
+
+Dado en Madrid a 4 de diciembre de 1998.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+RAFAEL ARIAS-SALGADO MONTALVO

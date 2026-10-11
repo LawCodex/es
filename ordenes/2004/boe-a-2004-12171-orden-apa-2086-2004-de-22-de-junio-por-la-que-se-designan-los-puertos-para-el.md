@@ -1,0 +1,91 @@
+---
+title: "Orden APA/2086/2004, de 22 de junio, por la que se designan los puertos para el desembarque de más de dos toneladas de merluza del norte procedentes de determinadas zonas del Consejo Internacional de Exploración del Mar"
+identifier: "BOE-A-2004-12171"
+eli: "https://www.boe.es/eli/es/o/2004/06/22/apa2086"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2004-06-22
+published: 2004-06-29
+in_force_from: 2004-06-30
+last_amended: 2005-11-15
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 156"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-12171"
+retrieved: 2026-10-11
+---
+
+# Orden APA/2086/2004, de 22 de junio, por la que se designan los puertos para el desembarque de más de dos toneladas de merluza del norte procedentes de determinadas zonas del Consejo Internacional de Exploración del Mar
+
+El artículo 9 del Reglamento (CE) 811/2004 del Consejo, de 21 de abril de 2004, por el que se establecen medidas para la recuperación de la población de merluza norte, establece la obligación de desembarcar en determinados puertos designados aquellas cantidades de esta especie superiores a dos toneladas.
+
+Esta medida tiene por objeto garantizar el cumplimiento de las medidas de control establecidas para la merluza del norte y posibilitar la función inspectora en los Estados miembros.
+
+En este sentido, la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado, para garantizar el cumplimiento de la normativa de pesca marítima en aguas exteriores dispone en su artículo 39 sobre medidas de control, que el Ministerio de Agricultura, cuando sea necesario para el ejercicio de la función inspectora, podrá establecer que la descarga o desembarque de ciertos productos pesqueros se realice en determinados puertos, de entre los autorizados por las Comunidades Autónomas.
+
+En consecuencia, la presente Orden tiene por objeto dar cumplimiento a la obligación del Estado español de designar los puertos en los que se pueden desembarcar cantidades superiores a dos toneladas de merluza del norte.
+
+El criterio utilizado para la selección de los citados puertos, de entre los autorizados por las Comunidades Autónomas, es el de designar aquellos en los que se han producido la gran mayoría de desembarques de esta especie en el pasado, y que además cumplen con las disposiciones de pesado a que se refiere el artículo 12 del Reglamento (CE) 811/2004 del Consejo, de 21 de abril.
+
+En la elaboración de la presente disposición se ha consultado al sector afectado y a las Comunidades Autónomas interesadas.
+
+En su virtud, dispongo:
+
+## Artículo único. Puertos de desembarque de merluza del norte.
+
+Los desembarques de más de dos toneladas de merluza del norte capturadas en las zonas del Consejo Internacional de Exploración del Mar (CIEM) siguientes: División IIIa, subzona IV, divisiones Vb y VIa –aguas comunitarias– subzona VII y divisiones VIIIa, b, d, e, sólo podrán realizarse en los muelles pesqueros de los puertos españoles que figuran en el anexo único de la presente disposición.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a la presente disposición y en particular la Orden de 24 de julio de 2001 por la que se establecen los puertos donde pueden realizarse los desembarques superiores a 500 kilogramos de merluza procedentes de las zonas CIEM (Consejo Internacional de Exploración del Mar) V, VI, VIIbcfghijk y VIIIabde.
+
+## Disposición final primera. Habilitación.
+
+Se faculta al Secretario General de Pesca Marítima para dictar las resoluciones y adoptar las medidas necesarias para la aplicación de la presente disposición y, en particular, para modificar la lista de puertos designados que figuran en el anexo único.
+
+## Disposición final segunda. Entrada en vigor.
+
+Esta Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 22 de junio de 2004.
+
+ESPINOSA MANGANA
+
+## ANEXO ÚNICO — Lista de puertos designados
+
+Los puertos designados para los desembarques de merluza del norte que superen las dos toneladas, son los siguientes:
+
+Pasaia.
+
+Ondárroa.
+
+Santander.
+
+Santoña.
+
+Avilés.
+
+Gijón.
+
+Celeiro.
+
+Burela.
+
+A Coruña.
+
+Cedeira.
+
+Cariño.
+
+Vigo.
+
+Marín.
+
+Ribeira.
+
+> Se modifica por el apartado 1 y anexo de la Resolución de 31 de octubre de 2005. [Ref. BOE-A-2005-18757](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-18757)
+
+> Se modifica por el apartado 1 y anexo de la Resolución de 21 de junio de 2005. [Ref. BOE-A-2005-11958](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11958)

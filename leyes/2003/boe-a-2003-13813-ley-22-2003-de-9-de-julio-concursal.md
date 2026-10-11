@@ -1,0 +1,1695 @@
+---
+title: "Ley 22/2003, de 9 de julio, Concursal"
+identifier: "BOE-A-2003-13813"
+eli: "https://www.boe.es/eli/es/l/2003/07/09/22"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2003-07-09
+published: 2003-07-10
+in_force_from: 2004-09-01
+last_amended: 2020-05-07
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 164"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-13813"
+retrieved: 2026-10-11
+---
+
+# Ley 22/2003, de 9 de julio, Concursal
+
+Téngase en cuenta que, con fecha 1 de septiembre de 2020, entró en vigor el texto refundido de la Ley Concursal, aprobado por Real Decreto Legislativo 1/2020, de 5 de mayo, [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859).
+
+##### JUAN CARLOS I
+
+##### REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+##### EXPOSICIÓN DE MOTIVOS I
+
+Esta ley persigue satisfacer una aspiración profunda y largamente sentida en el derecho patrimonial español: la reforma de la legislación concursal. Las severas y fundadas críticas que ha merecido el derecho vigente no han ido seguidas, hasta ahora, de soluciones legislativas, que, pese a su reconocida urgencia y a los meritorios intentos realizados en su preparación, han venido demorándose y provocando, a la vez, un agravamiento de los defectos de que adolece la legislación en vigor: arcaísmo, inadecuación a la realidad social y económica de nuestro tiempo, dispersión, carencia de un sistema armónico, predominio de determinados intereses particulares en detrimento de otros generales y del principio de igualdad de tratamiento de los acreedores, con la consecuencia de soluciones injustas, frecuentemente propiciadas en la práctica por maniobras de mala fe, abusos y simulaciones, que las normas reguladoras de las instituciones concursales no alcanzan a reprimir eficazmente.
+
+El arcaísmo y la dispersión de las normas vigentes en esta materia son defectos que derivan de la codificación española del siglo XIX, estructurada sobre la base de la dualidad de códigos de derecho privado, civil y de comercio, y de la regulación separada de la materia procesal respecto de la sustantiva, en una Ley de Enjuiciamiento Civil. Pero también contribuye a aumentar esos defectos y a dificultar la correcta composición del sistema la multiplicidad de procedimientos concursales ; así, junto a las clásicas instituciones de la quiebra y del concurso de acreedores, para el tratamiento de la insolvencia de comerciantes y de no comerciantes, respectivamente, se introducen otras, preventivas o preliminares, como la suspensión de pagos y el procedimiento de quita y espera, de presupuestos objetivos poco claros y, por tanto, de límites muy difusos respecto de aquéllas. La Ley de Suspensión de Pagos, de 26 de julio de 1922, promulgada con carácter provisional, porque se dictó para resolver un caso concreto, llegó a convertirse en pieza básica de nuestro derecho concursal gracias a la flexibilidad de su regulación, que, si bien palió el tratamiento de las situaciones de crisis patrimonial de los comerciantes, complicó aún más la falta de coherencia de un conjunto normativo carente de los principios generales y del desarrollo sistemático que caracterizan a un sistema armónico, y permitió corruptelas muy notorias.
+
+Aún más se agrava la situación del derecho concursal español con fenómenos tan anacrónicos como la actual vigencia de un buen número de artículos de nuestro primer Código de Comercio, promulgado por Fernando VII el 30 de mayo de 1829, en virtud de la invocación que de ellos hace la Ley de Enjuiciamiento Civil de 3 de febrero de 1881, anterior al Código de Comercio de 22 de agosto de 1885, y vigente en esta materia, conforme al apartado 1 de la disposición derogatoria única de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, hasta la entrada en vigor de esta Ley Concursal.
+
+El legislador español no ha puesto hasta ahora remedio a estos males. Pese a la pronta reforma que en el Código de Comercio de 1885 introdujo la Ley de 10 de junio de 1897 y de la muy importante que supuso la citada Ley de Suspensión de Pagos de 1922, las modificaciones legislativas han sido muy parciales y limitadas a materias concretas, lo que, lejos de mejorar el sistema concursal, ha contribuido a complicarlo con mayor dispersión de normas especiales y excepcionales, y, frecuentemente, con la introducción de privilegios y de alteraciones del orden de prelación de los acreedores, no siempre fundada en criterios de justicia.
+
+No han faltado, sin embargo, meritorios trabajos prelegislativos en la senda de la reforma concursal. Además del realizado por la Comisión General de Codificación, en virtud de la Real Orden de 10 de junio de 1926, que concluyó con la elaboración de un anteproyecto de Código de Comercio, publicado, en lo que se refiere a esta materia, en la Gaceta de Madrid de 15 de octubre de 1929, y orientado en la más precisa distinción de los supuestos de la quiebra y de la suspensión de pagos, hay que señalar fundamentalmente los siguientes:
+
+a) El anteproyecto elaborado por la Sección de Justicia del Instituto de Estudios Políticos, concluso en 1959 y no publicado oficialmente, en el que por vez primera se ensayaba la regulación conjunta, sustantiva y procesal, de las instituciones concursales, para comerciantes y no comerciantes, si bien se mantenía la dualidad de procedimientos en función de los diversos supuestos objetivos que determinaba la de sus respectivas soluciones: la liquidación y el convenio.
+
+b) El anteproyecto elaborado por la Comisión General de Codificación en virtud de lo dispuesto en las Órdenes Ministeriales de 17 de mayo de 1978, publicado en su texto articulado por la Secretaría General Técnica del Ministerio de Justicia con fecha 27 de junio de 1983, que se basaba en los principios de unidad legal -material y formal-, de disciplina -para deudores comerciantes y no comerciantes- y de sistema -un único procedimiento, flexible, con diversas soluciones posibles: el convenio, la liquidación y la gestión controlada-. Ese texto, posteriormente revisado, fue seguido, en 1987-, de otro anteproyecto de Ley de Bases por la que se delegaba en el Gobierno la potestad de dictar normas con rango de ley sobre el concurso de acreedores.
+
+c) La propuesta de anteproyecto elaborada en la Comisión General de Codificación conforme a los criterios básicos comunicados por el Ministro de Justicia e Interior el 23 de junio de 1994, conclusa el 12 de diciembre de 1995 y publicada por la Secretaría General Técnica con fecha 15 de febrero de 1996, en la que se mantienen los principios de unidad legal y de disciplina, pero se vuelve a la dualidad de concurso de acreedores y suspensión de pagos, sobre la base de la diferencia entre insolvencia e iliquidez, reservando este último procedimiento, con alto grado de desjudicialización, como beneficio de deudores solventes y de buena fe.
+
+d) El anteproyecto de Ley Concursal elaborado por la Sección Especial para la Reforma Concursal, creada durante la anterior legislatura en el seno de la Comisión General de Codificación por Orden del Ministerio de Justicia de 23 de diciembre de 1996, y concluso en mayo de 2000, que es el que constituye antecedente del proyecto origen de esta ley, con el que el Gobierno ha dado cumplimiento a la disposición final decimonovena de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, conforme a la cual, en el plazo de seis meses a contar desde la fecha de entrada en vigor de esta ley, debía remitir a las Cortes Generales un proyecto de Ley Concursal.
+
+Se aborda, así, la tan esperada como necesaria reforma global del derecho concursal español, sin duda una de las más importantes tareas legislativas pendientes en la modernización de nuestro ordenamiento jurídico.
+
+La reforma no supone una ruptura con la larga tradición concursal española, pero sí una profunda modificación del derecho vigente, en la que se han tenido en cuenta las aportaciones doctrinales y prelegislativas realizadas en el ámbito nacional y las más recientes concreciones producidas en la legislación comparada, así como los instrumentos supranacionales elaborados para la unificación y la armonización del derecho en esta materia.
+
+El resultado de esa delicada tarea es un texto legal que se propone corregir las deficiencias del anterior derecho con soluciones en las que puede apreciarse el propósito de coordinar la originalidad del nuevo sistema concursal con su armónica inserción en el conjunto de nuestro ordenamiento, preocupación a la que responde el cuidado puesto en las disposiciones adicionales, transitorias, derogatoria y finales que cierran esta ley.
+
+##### II
+
+La ley opta por los principios de unidad legal, de disciplina y de sistema.
+
+La regulación en un solo texto legal de los aspectos materiales y procesales del concurso, sin más excepción que la de aquellas normas que por su naturaleza han exigido el rango de ley orgánica, es una opción de política legislativa que venía ya determinada por la nueva Ley 1/2000, de Enjuiciamiento Civil, al excluir esta materia de su ámbito y remitirla expresamente a la Ley Concursal.
+
+La superación de la diversidad de instituciones concursales para comerciantes y no comerciantes es una fórmula que, además de estar justificada por la desaparición del carácter represivo de la insolvencia mercantil, viene determinada por la tendencia a simplificar el procedimiento, sin que ello suponga ignorar determinadas especialidades del concurso de los empresarios sometidos a un estatuto propio (llevanza obligatoria de contabilidad, inscripción en el Registro Mercantil) y de la existencia en la masa activa de unidades productivas de bienes o de servicios, especialidades que son tenidas en cuenta a lo largo de la regulación del concurso, desde su solicitud hasta su solución mediante convenio o liquidación.
+
+La unidad del procedimiento de concurso se consigue en virtud de la flexibilidad de que la ley lo dota, que permite su adecuación a diversas situaciones y soluciones, a través de las cuales puede alcanzarse la satisfacción de los acreedores, finalidad esencial del con curso. A mayor abundamiento, se han previsto reglas especialmente ágiles para los concursos de menor entidad.
+
+El nombre elegido para denominar el procedimiento único es el de "concurso", expresión clásica que, desde los tratadistas españoles del siglo XVII, fundamentalmente de Amador Rodríguez (Tractatus de concursu, 1616) y de Francisco Salgado de Somoza (Labyrinthus creditorum concurrentium, 1646), pasó al vocabulario procesal europeo y que, por antonomasia, describe la concurrencia de los acreedores sobre el patrimonio del deudor común. No se persigue con ello solamente rescatar un vocablo tradicional en la terminología jurídica española, sino utilizarlo para significar el fenómeno unificador de los diversos procedimientos de insolvencia e identificar así gráficamente el procedimiento único, como ha ocurrido en otras legislaciones.
+
+La unidad del procedimiento impone la de su presupuesto objetivo, identificado con la insolvencia, que se concibe como el estado patrimonial del deudor que no puede cumplir regularmente sus obligaciones. Pero ese concepto unitario es también flexible y opera de manera distinta según se trate de concurso necesario o voluntario. Los legitimados para solicitar el concurso del deudor (sus acreedores y, si se trata de una persona jurídica, quienes respondan personalmente de sus deudas) han de basarse en alguno de los hechos que como presuntos reveladores de la insolvencia enuncia la ley:desde la ejecución singular infructuosa hasta el sobreseimiento, general o sectorial, según afecte al conjunto de las obligaciones o a alguna de las clases que la ley considera especialmente sensibles en el pasivo del deudor, entre otros hechos tasados.
+
+Incumbe al solicitante del concurso necesario la prueba de los hechos en que fundamente su solicitud ; en todo caso, la declaración ha de hacerse con respeto de las garantías procesales del deudor, quien habrá de ser emplazado y podrá oponerse a la solicitud, basándose en la inexistencia del hecho en que ésta se fundamente o en la de su estado de insolvencia, incumbiéndole en este caso la prueba de su solvencia. Las garantías del deudor se complementan con la posibilidad de recurrir la declaración de concurso.
+
+Si la solicitud de concurso la insta el propio deudor, deberá justificar su endeudamiento y su estado de insolvencia, si bien en este caso no sólo podrá ser actual, sino futuro, previsto como "inminente". El deudor tiene el deber de solicitar la declaración de concurso cuando conozca o hubiera debido conocer su estado de insolvencia ; pero tiene la facultad de anticiparse a éste.
+
+El sistema legal combina así las garantías del deudor con la conveniencia de adelantar en el tiempo la declaración de concurso, a fin de evitar que el deterioro del estado patrimonial impida o dificulte las soluciones más adecuadas para satisfacer a los acreedores. Los estímulos a la solicitud de concurso voluntario, las sanciones al deudor por incumplimiento del deber de solicitarlo y el otorgamiento al crédito del acreedor instante de privilegio general hasta la cuarta parte de su importe son medidas con las que se pretende alcanzar ese objetivo.
+
+La unidad y la flexibilidad del procedimiento se reflejan en su propia estructura, articulada, en principio, en una fase común que puede desembocar en otra de convenio o de liquidación. La fase común se abre con la declaración de concurso y concluye una vez presentado el informe de la administración concursal y transcurrido el plazo de impugnaciones o resueltas las formuladas contra el inventario o contra la lista de acreedores, con lo que se alcanza el más exacto conocimiento del estado patrimonial del deudor a través de la determinación de las masas activa y pasiva del concurso. A todo lo cual se suma la posibilidad de utilizar, en determinados supuestos, un procedimiento abreviado.
+
+##### III
+
+La flexibilidad del procedimiento se percibe también en el régimen de los efectos que produce la declaración de concurso. Respecto del deudor, se atenúan los establecidos por la legislación anterior y se suprimen los que tienen un carácter represivo de la insolvencia. La "inhabilitación" se reserva para los supuestos de concurso calificado como culpable, en los que se impone como sanción de carácter temporal a las personas afectadas. Declarado el concurso, el ejercicio de las facultades patrimoniales del deudor se somete a intervención o se suspende, con sustitución en este caso por la administración concursal. En principio, la primera de estas situaciones corresponde al concurso voluntario y la segunda al necesario ; pero se reconocen al juez del concurso amplias facultades para adoptarlas o modificarlas.
+
+Se atenúa también la sanción de los actos realizados por el deudor con infracción de estas limitaciones, que pasa a ser de anulabilidad, además de la prohibición de su acceso a registros públicos.
+
+La ley limita los efectos de la declaración de concurso, reduciéndolos, con un sentido funcional, a aquellos que beneficien la normal tramitación del procedimiento y, en la medida en que ésta lo exija, confiriendo al juez la potestad de graduarlos y de adecuarlos a las circunstancias concretas de cada caso. Todo ello, además de los efectos que, por alcanzar a derechos fundamentales de la persona del deudor, como son los de libertad, secreto de las comunicaciones, residencia y circulación por el territorio nacional, se regulan en la Ley Orgánica para la Reforma Concursal.
+
+Se establece, con un sentido positivo, el deber del deudor de colaborar con los órganos del concurso, informarles de cuanto sea de interés de éste, auxiliarles en la conservación y administración de la masa activa y poner a disposición de la administración concursal los libros y documentos relativos al ejercicio de su actividad profesional o empresarial.
+
+La declaración de concurso, por sí sola, no interrumpe el ejercicio de la actividad profesional o empresarial del deudor, sin perjuicio de los efectos que produce sobre las facultades patrimoniales de éste ; pero goza el juez del concurso de amplias potestades para acordar el cierre de sus oficinas, establecimientos o explotaciones, e incluso, cuando se trate de una actividad empresarial, el cese o la suspensión, total o parcial, de ésta, previa audiencia del deudor y de los representantes de los trabajadores.
+
+Especial atención dedica la ley a los supuestos de concurso de persona jurídica y a los efectos que en este caso produce la declaración, materia de gran importancia, como corresponde a la que estos entes y, fundamentalmente, las sociedades revisten en el moderno tráfico. Así como la ley orgánica permite extender las medidas relativas a las comunicaciones y a la residencia del deudor, en caso de persona jurídica, a sus administradores y liquidadores, la Ley Concursal impone a éstos y a los apoderados generales del deudor los deberes de colaboración e información.
+
+Durante la tramitación del concurso se mantienen los órganos de la persona jurídica deudora. Los administradores concursales están legitimados para ejercer las acciones de responsabilidad contra los administradores, auditores y liquidadores, sin necesidad de previo acuerdo de la junta o asamblea de socios. El efecto más severo que la ley establece es el del embargo de bienes y derechos de los administradores y liquidadores, que el juez puede acordar cuando exista fundada posibilidad de que el concurso se califique como culpable y de que la masa activa resulte insuficiente para satisfacer todas las deudas.
+
+Original es también, respecto del derecho anterior, la regulación de los efectos del concurso de la sociedad sobre los socios subsidiariamente responsables de las deudas de ésta, que se reduce a atribuir a la administración concursal la legitimación exclusiva para ejercitar la correspondiente acción una vez aprobado el convenio o abierta la liquidación. Se evitan así tanto la extensión automática del concurso a personas que, aun responsables de las deudas sociales, pueden ser solventes, como las reclamaciones individuales de los acreedores contra los socios, perturbadoras del buen orden del concurso.
+
+La ley regula asimismo con criterios de funcionalidad los efectos de la declaración de concurso sobre los acreedores, ordenando la paralización de las acciones individuales promovidas por éstos contra el patrimonio del concursado. Esta paralización, consecuencia natural de la integración de los acreedores en la masa pasiva del concurso, no afecta a las declarativas de los órdenes civil o social ya en tramitación en el momento de declararse el concurso, que continuarán hasta la firmeza de la sentencia, ni a las de naturaleza contencioso-administrativa o penal con trascendencia sobre el patrimonio del deudor, incluso si se ejercitan con posterioridad a la declaración, pero sí a todas las de carácter ejecutivo, incluidos los apremios administrativos o tributarios, que quedarán en suspenso si se hallasen en tramitación, salvo los acordados con anterioridad a la declaración de concurso, y no podrán iniciarse una vez declarado el concurso.
+
+Una de las novedades más importantes de la ley es el especial tratamiento que dedica a las acciones de ejecución de garantías reales sobre bienes del concursado. Se respeta la naturaleza propia del derecho real sobre cosa ajena, que impone una regulación diferente de la aplicable a los derechos de crédito integrados en la masa pasiva del concurso, pero al mismo tiempo se procura que la ejecución separada de las garantías no perturbe el mejor desarrollo del procedimiento concursal ni impida soluciones que puedan ser convenientes para los intereses del deudor y de la masa pasiva. La fórmula que combina estos propósitos es la de paralización temporal de las ejecuciones, en tanto se negocie un convenio o se abra la liquidación, con el máximo de un año a partir de la declaración de concurso. Salvo que al tiempo de la declaración de concurso ya estuviese anunciada la subasta, las actuaciones de ejecución iniciadas con anterioridad se suspenderán y no se reanudarán, ni podrán iniciarse otras, hasta que transcurran los plazos señalados. Este efecto de obligatoria y limitada espera para los titulares de garantías reales se considera justo en el tratamiento de todos los intereses implicados en el concurso, que han de sufrir un sacrificio en aras de la solución definitiva y más beneficiosa del estado de insolvencia.
+
+Naturalmente, los créditos con garantía real gozan en el concurso de privilegio especial y el convenio sólo les afectará si su titular firma la propuesta, vota a su favor o se adhiere a ella o al convenio aprobado.
+
+De no estar afectados por un convenio, los créditos con privilegio especial se pagarán con cargo a los bienes y derechos sobre los que recaiga la garantía. La ejecución se tramitará ante el juez del concurso. No obstante, en tanto subsista la paralización temporal de estas acciones, la administración concursal podrá optar por atender con cargo a la masa el pago de estos créditos. Aun en caso de realización, el juez podrá autorizarla con subsistencia de la carga y subrogación del adquirente en la obligación del deudor, que quedará excluida de la masa pasiva, o mediante venta directa, con aplicación del precio al pago del crédito especialmente privilegiado. Se articulan, así una serie de fórmulas flexibles tendentes a evitar que el ejercicio de los derechos reales de garantía perturbe innecesariamente a los demás intereses implicados en el concurso.
+
+A estos efectos, la ley extiende el tratamiento de las acciones de ejecución de garantías reales a las de recuperación de bienes muebles vendidos a plazo y a los cedidos en arrendamientos financieros, siempre que los correspondientes contratos o documentos estén inscritos en los respectivos registros, así como a las resolutorias de ventas de inmuebles por falta de pago de precio aplazado.
+
+Se ha procurado así permitir planteamientos realistas, que sin menoscabar la naturaleza de estos derechos ni perturbar el mercado del crédito, muy sensible a la protección de las garantías en caso de insolvencia del deudor, no impidan sino que hagan viables soluciones beneficiosas para los intereses del concurso.
+
+Fórmulas flexibles en interés del concurso y sin perjuicio de los de la contraparte se establecen también para permitir la rehabilitación de los contratos de crédito o de adquisición de bienes con precio aplazado, así como la enervación de desahucio en arrendamientos urbanos, afectados por incumplimientos del deudor concursado.
+
+Objeto de especial atención ha sido también la regulación de los efectos de la declaración de concurso sobre los contratos, una de las materias más deficientemente tratadas en el anterior derecho y, por tanto, de mayor originalidad en la nueva ley. Conforme a ésta, la declaración de concurso no afecta, en principio, a la vigencia de los contratos con prestaciones recíprocas pendientes de cumplimiento por ambas partes ; no obstante, en interés del concurso y con garantías para el derecho de la contraparte, se prevé tanto la posibilidad de una declaración judicial de resolución del contrato como la de enervarla en caso de que exista causa para una resolución por incumplimiento. No se admiten las cláusulas contractuales de resolución o extinción en caso de declaración de concurso, pero sí la aplicación de normas legales que dispongan la extinción o expresamente faculten a las partes para pactarla o para denunciar el contrato.
+
+Cuestión tratada con especial cuidado es la relativa a los contratos de trabajo existentes a la fecha de declaración del concurso y en los que sea empleador el concursado. Al amparo de la reforma introducida en la Ley Orgánica del Poder Judicial por la Ley Orgánica para la Reforma Concursal, se atribuye al juez del concurso jurisdicción para conocer de materias que, en principio, son de la competencia de los juzgados y tribunales del orden social, pero que por su especial trascendencia en la situación patrimonial del concursado y en aras de la unidad del procedimiento no deben resolverse por separado. Pero conciliando todo ello con la regulación material actualmente contenida en la legislación laboral.
+
+Se remiten a lo establecido por su regulación especial los efectos de la declaración de concurso sobre los contratos de carácter administrativo celebrados por el deudor.
+
+La ley da un nuevo tratamiento al difícil tema de los efectos de la declaración de concurso sobre los actos realizados por el deudor en período sospechoso por su proximidad a ésta. El perturbador sistema de retroacción del concurso se sustituye por unas específicas acciones de reintegración destinadas a rescindir los actos perjudiciales para la masa activa, perjuicio que en unos casos la ley presume y en los demás habrá de probarse por la administración concursal o, subsidiariamente, por los acreedores legitimados para ejercitar la correspondiente acción. Los terceros adquirentes de bienes o derechos afectados por estas acciones gozan de la protección que derive, en su caso, de la buena fe, de las normas sobre irreivindicabilidad o del registro.
+
+##### IV
+
+La ley simplifica la estructura orgánica del concurso.
+
+Sólo el juez y la administración concursal constituyen órganos necesarios en el procedimiento. La junta de acreedores únicamente habrá de constituirse en la fase de convenio cuando no se haya aprobado por el sistema de adhesiones escritas una propuesta anticipada. La intervención como parte del Ministerio Fiscal se limita a la sección sexta, de calificación del concurso, cuando proceda su apertura, sin perjuicio de la actuación que se establece en esta ley cuando intervenga en delitos contra el patrimonio o el orden socioeconómico.
+
+La reducción de los órganos concursales tiene como lógica consecuencia la atribución a éstos de amplias e importantes competencias. La ley configura al juez como órgano rector del procedimiento, al que dota de facultades que aumentan el ámbito de las que le correspondían en el derecho anterior y la discrecionalidad con que puede ejercitarlas, siempre motivando las resoluciones.
+
+La competencia para conocer del concurso se atribuye a los nuevos Juzgados de lo Mercantil, que se crean, al hilo de esta ley, en la Ley Orgánica para la Reforma Concursal, mediante la pertinente modificación de la Ley Orgánica del Poder Judicial.
+
+Los criterios de competencia territorial parten del dato económico-real de la ubicación del centro de los intereses principales del deudor, ya adoptado en reglas internacionales, que se prefiere al del domicilio, de predominante carácter jurídico-formal. No obstante, si el centro de los intereses principales y el domicilio del deudor no coincidieran, se concede al acreedor solicitante del concurso la facultad de elegir cualquiera de ellos a efectos de competencia territorial. En caso de persona jurídica, se presume que ambos lugares coinciden, pero se considera ineficaz a estos efectos el cambio de domicilio efectuado en los seis meses anteriores a la solicitud de concurso, para evitar que la competencia se configure con criterios ficticios.
+
+Conforme a las reglas generales de la nueva Ley de Enjuiciamiento Civil, no se admite más cuestión de competencia que la planteada mediante declinatoria, pero ésta no suspenderá el procedimiento concursal y todo lo actuado será válido aunque se estime.
+
+La Ley Orgánica del Poder Judicial, modificada por la Ley Orgánica para la Reforma Concursal, atribuye al juez del concurso jurisdicción exclusiva y excluyente en aquellas materias que se consideran de especial trascendencia para el patrimonio del deudor, aunque sean de naturaleza social, así como las de ejecución y las cautelares, cualquiera que sea el órgano del que hubieran dimanado. El carácter universal del concurso justifica la concentración en un solo órgano jurisdiccional del conocimiento de todas estas materias, cuya dispersión quebranta la necesaria unidad procedimental y de decisión.
+
+Además, la Ley Concursal concede al juez del concurso una amplia discrecionalidad en el ejercicio de sus competencias, lo que contribuye a facilitar la flexibilidad del procedimiento y su adecuación a las circunstancias de cada caso. Las facultades discrecionales del juez se manifiestan en cuestiones tan importantes como la adopción de medidas cautelares con anterioridad a su declaración o a la entrada en funcionamiento de la administración concursal ; la ampliación de la publicidad que haya de darse a la declaración de concurso y a otras resoluciones de interés de terceros ; la acumulación de concursos ; el nombramiento, la separación y el régimen de funcionamiento de los administradores concursales ; la graduación de los efectos de la declaración de concurso sobre la persona del deudor, los acreedores y los contratos ; la aprobación del plan de liquidación o el régimen de pago de créditos.
+
+La administración concursal se regula conforme a un modelo totalmente diferente del hasta ahora en vigor y se opta por un órgano colegiado en cuya composición se combina la profesionalidad en aquellas materias de relevancia para todo concurso -la jurídica y la económica- con la presencia representativa de un acreedor que sea titular de un crédito ordinario o con privilegio general, que no esté garantizado. Las únicas excepciones al régimen de composición de este órgano vienen determinadas por la naturaleza de la persona del concursado -cuando se trate de entidad emisora de valores cotizados en bolsa, empresa de servicios de inversión, entidad de crédito o aseguradora-, o por la escasa importancia del concurso -en cuyo caso el juez podrá nombrar un solo administrador, de carácter profesional-.
+
+A la administración concursal se encomiendan funciones muy importantes, que habrá de ejercer de forma colegiada, salvo las que el juez atribuya individualizadamente a alguno de sus miembros. Cuando la complejidad del procedimiento lo exija, el juez podrá autorizar la delegación de determinadas funciones en auxiliares.
+
+La ley prevé la reglamentación mediante arancel de la retribución de los administradores concursales y fija como criterios los de cuantía del activo y del pasivo y la previsible complejidad del concurso. En todo caso, compete al juez aprobar la retribución.
+
+Se regula el régimen de responsabilidad de los administradores frente al deudor y a los acreedores y el de su separación por justa causa.
+
+Son funciones esenciales de este órgano las de intervenir los actos realizados por el deudor en ejercicio de sus facultades patrimoniales o sustituir al deudor cuando haya sido suspendido en ese ejercicio, así como la de redactar el informe de la administración concursal al que habrán de unirse el inventario de la masa activa, la lista de acreedores y, en su caso, la evaluación de las propuestas de convenio presentadas.
+
+La ley establece reglas precisas para la elaboración de estos documentos. El inventario contendrá la relación y el avalúo de los bienes y derechos que integran la masa activa. Se regula el tratamiento de los bienes conyugales conforme al régimen económico del matrimonio del deudor persona casada, así como el derecho de separación de los bienes de propiedad ajena en poder del deudor.
+
+La lista de acreedores comprenderá una relación de los reconocidos y otra de los excluidos, así como una adicional, separada, de los que conforme a la ley tienen la consideración de créditos contra la masa.
+
+La administración concursal habrá de pronunciarse sobre la inclusión de todos los créditos puestos de manifiesto en el procedimiento, tanto de los que hayan sido comunicados en el plazo y en la forma que la ley establece como de los que resultaran de los libros y documentos del deudor o que por cualquier otro medio consten en el concurso. En la relación de los reconocidos, los créditos se clasificarán, conforme a la ley, en privilegiados -con privilegio especial o general-, ordinarios y subordinados.
+
+##### V
+
+La regulación de esta materia de clasificación de los créditos constituye una de las innovaciones más importantes que introduce la ley, porque reduce drásticamente los privilegios y preferencias a efectos del concurso, sin perjuicio de que puedan subsistir en ejecuciones singulares, por virtud de las tercerías de mejor derecho.
+
+Se considera que el principio de igualdad de tratamiento de los acreedores ha de constituir la regla general del concurso, y que sus excepciones han de ser muy contadas y siempre justificadas.
+
+Las excepciones que la ley admite son positivas o negativas, en relación con los créditos ordinarios. Las primeras se concretan en los privilegios, especiales o generales, por razón de las garantías de que gocen los créditos o de la causa o naturaleza de éstos. A los acreedores privilegiados, en principio, sólo afectará el convenio con su conformidad y, en caso de liquidación, se les pagará con prioridad respecto de los ordinarios. Pero esos privilegios se reducen en número e incluso se limitan en su cuantía a algunos de los tradicionalmente reconocidos, como los tributarios y los de cuotas de la Seguridad Social (hasta el 50 por ciento de su importe en cada caso). Por su parte, los salarios de los últimos 30 días de trabajo anteriores a la declaración del concurso y en cuantía que no supere el doble del salario mínimo interprofesional, y los devengados con posterioridad a la declaración de concurso, así como los de indemnización por extinción del contrato de trabajo, acordada por el juez del concurso, tendrán la consideración de créditos contra la masa y serán satisfechos con preferencia respecto de los créditos concursales ; los salarios del artículo 32.1 del Estatuto de los Trabajadores serán satisfechos con anterioridad al resto de créditos concursales ; y los salariales del artículo 32.3 del mismo texto gozarán de privilegio general, al igual que las indemnizaciones derivadas de accidente de trabajo y los recargos sobre las prestaciones por incumplimiento de las obligaciones en materia de salud laboral devengadas con anterioridad a la declaración del concurso. Se pretende así evitar que el concurso se consuma con el pago de algunos créditos, y, sin desconocer el interés general de la satisfacción de éstos, conjugarlo con el de la masa pasiva en su conjunto, a la vez que se fomentan soluciones de convenio que estén apoyadas por los trabajadores y la Administración pública en la parte en que sus créditos no gozan de privilegio.
+
+Las excepciones negativas son las de los créditos subordinados, una nueva categoría que introduce la ley para clasificar aquellos que merecen quedar postergados tras los ordinarios, por razón de su tardía comunicación, por pacto contractual, por su carácter accesorio (intereses), por su naturaleza sancionadora (multas) o por la condición personal de sus titulares (personas especialmente relacionadas con el concursado o partes de mala fe en actos perjudiciales para el concurso). A estos efectos, conviene precisar que la categoría de créditos subordinados incluye los intereses devengados y sanciones impuestas con ocasión de la exacción de los créditos públicos, tanto tributarios como de la Seguridad Social. Los titulares de estos créditos subordinados carecen de derecho de voto en la junta de acreedores y, en caso de liquidación, no podrán ser pagados hasta que hayan quedado íntegramente satisfechos los ordinarios.
+
+La subordinación por motivo de especiales relaciones personales con el concursado no sólo se basa en las de parentesco o de convivencia de hecho, sino que, en caso de persona jurídica, se extiende a los socios con responsabilidad por las deudas sociales o con una participación significativa en el capital social, así como a los administradores de derecho o de hecho, a los liquidadores y a las sociedades del mismo grupo. En todo caso, la clasificación afecta también a los cesionarios o adjudicatarios de créditos pertenecientes a personas especialmente relacionadas con el concursado si la adquisición se produce dentro de los dos años anteriores a la declaración de concurso.
+
+##### VI
+
+Las soluciones del concurso previstas en la ley son el convenio y la liquidación para cuya respectiva tramitación se articulan específicas fases en el procedimiento.
+
+El convenio es la solución normal del concurso, que la ley fomenta con una serie de medidas, orientadas a alcanzar la satisfacción de los acreedores a través del acuerdo contenido en un negocio jurídico en el que la autonomía de la voluntad de las partes goza de una gran amplitud.
+
+Entre las medidas para facilitar esta solución del concurso destaca la admisión de la propuesta anticipada de convenio que el deudor puede presentar con la propia solicitud de concurso voluntario o, incluso, cuando se trate de concurso necesario, hasta la expiración del plazo de comunicación de créditos, siempre que vaya acompañada de adhesiones de acreedores en el porcentaje que la ley establece. La regulación de esta propuesta anticipada permite, incluso, la aprobación judicial del convenio durante la fase común del concurso, con una notoria economía de tiempo y de gastos respecto de los actuales procedimientos concursales.
+
+En otro caso, si no se aprueba una propuesta anticipada y el concursado no opta por la liquidación de su patrimonio, la fase de convenio se abre una vez concluso el trámite de impugnación del inventario y de la lista de acreedores.
+
+La ley procura agilizar la tramitación de las propuestas de convenio. La propuesta anticipada que no hubiese alcanzado adhesiones suficientes para su aprobación podrá ser mantenida en junta de acreedores. El concursado que no hubiese presentado propuesta anticipada ni solicitado la liquidación y los acreedores que representen una parte significativa del pasivo podrán presentar propuestas incluso hasta 40 días antes del señalado para la celebración de la junta. Hasta el momento del cierre de la lista de asistentes a ésta podrán admitirse adhesiones a las propuestas, lo que contribuirá a agilizar los cómputos de votos y, en general, el desarrollo de la junta.
+
+También es flexible la ley en la regulación del contenido de las propuestas de convenio, que podrá consistir en proposiciones de quita o de espera, o acumular ambas ; pero las primeras no podrán exceder de la mitad del importe de cada crédito ordinario, ni las segundas de cinco años a partir de la aprobación del convenio, sin perjuicio de los supuestos de concurso de empresas de especial trascendencia para la economía y de presentación de propuesta anticipada de convenio cuando así se autorice por el juez. Se admiten proposiciones alternativas, como las ofertas de conversión del crédito en acciones, participaciones o cuotas sociales, o en créditos participativos. Lo que no admite la ley es que, a través de cesiones de bienes y derechos en pago o para pago de créditos u otras formas de liquidación global del patrimonio del concursado, el convenio se convierta en cobertura de solución distinta de aquella que le es propia. Para asegurar ésta y la posibilidad de cumplimiento, la propuesta de convenio ha de ir acompañada de un plan de pagos.
+
+La finalidad de conservación de la actividad profesional o empresarial del concursado puede cumplirse a través de un convenio, a cuya propuesta se acompañará un plan de viabilidad. Aunque el objeto del concurso no sea el saneamiento de empresas, un convenio de continuación puede ser instrumento para salvar las que se consideren total o parcialmente viables, en beneficio no sólo de los acreedores, sino del propio concursado, de los trabajadores y de otros intereses. El informe preceptivo de la administración concursal es una garantía más de esta solución.
+
+Al regular las mayorías necesarias para la aceptación de las propuestas de convenio, la ley prima a las que menor sacrificio comportan para los acreedores, reduciendo la mayoría a la relativa del pasivo ordinario.
+
+El convenio necesita aprobación judicial. La ley regula la oposición a la aprobación, las personas legitimadas y los motivos de oposición, así como los de rechazo de oficio por el juez del convenio aceptado.
+
+La aprobación del convenio no produce la conclusión del concurso, que sólo se alcanza con el cumplimiento de aquél.
+
+##### VII
+
+La ley concede al deudor la facultad de optar por una solución liquidatoria del concurso, como alternativa a la de convenio, pero también le impone el deber de solicitar la liquidación cuando durante la vigencia de un convenio conozca la imposibilidad de cumplir los pagos comprometidos y las obligaciones contraídas con posterioridad a su aprobación. En los casos de apertura de oficio o a solicitud de acreedor, la liquidación es siempre una solución subsidiaria, que opera cuando no se alcanza o se frustra la de convenio. La unidad y la flexibilidad del procedimiento permiten en estos supuestos pasar de forma rápida y simple a la fase de liquidación. Es ésta una de las principales y más ventajosas novedades que introduce la ley, frente a la anterior diversidad de procedimientos concursales y, concretamente, frente a la necesidad de solicitar la declaración de quiebra en los casos en que no se alcanzara o se incumpliera un convenio en el expediente de suspensión de pagos.
+
+Los efectos de la liquidación son, lógicamente, más severos. El concursado quedará sometido a la situación de suspensión en el ejercicio de sus facultades patrimoniales de administración y disposición y sustituido por la administración concursal ; si fuese persona natural, perderá el derecho a alimentos con cargo a la masa ; si fuese persona jurídica, se declarará su disolución, de no estar ya acordada, y, en todo caso, el cese de sus administradores o liquidadores.
+
+La ley reserva para esta fase de liquidación los clásicos efectos concursales de vencimiento anticipado de los créditos aplazados y conversión en dinero de los que consistan en otras prestaciones.
+
+No obstante la mayor imperatividad de las normas que regulan esta fase, la ley las dota también de la conveniente flexibilidad, como se refleja en el plan de liquidación, que habrá de preparar la administración concursal y sobre el que podrán formular observaciones o propuestas el deudor y los acreedores concursales antes de su aprobación por el juez. Sólo si ésta no se produce y, en su caso, en lo que no prevea el plan aprobado, se aplicarán supletoriamente las reglas legales sobre realización de bienes y derechos de la masa activa del concurso.
+
+Aun en este último caso, la ley procura la conservación de las empresas o unidades productivas de bienes o servicios integradas en la masa, mediante su enajenación como un todo, salvo que resulte más conveniente a los intereses del concurso su división o la realización aislada de todos o alguno de sus elementos componentes, con preferencia a las soluciones que garanticen la continuidad de la empresa.
+
+La ley quiere evitar la excesiva prolongación de las operaciones liquidatorias, a cuyo fin impone a la administración concursal la obligación de informar trimestralmente del estado de aquéllas y le señala el plazo de un año para finalizarlas, con las sanciones, si lo incumpliera, de separación de los administradores y pérdida del derecho a retribución.
+
+Las operaciones de pago a los acreedores se regulan dentro de la fase de liquidación. Los créditos contra la masa operan con el carácter de prededucibles, en el sentido de que, antes de proceder al pago de los concursales, han de deducirse de la masa activa los bienes y derechos, no afectos a créditos singularmente privilegiados, que sean necesarios para satisfacer aquéllos a sus respectivos vencimientos.
+
+Como ya ha quedado expuesto al tratar de los efectos de la declaración de concurso sobre los créditos con garantía real, la ley regula el pago de los créditos con privilegio especial de forma muy flexible, para evitar, en interés de la masa, la realización de los bienes o derechos afectos, autorizarla con subsistencia del gravamen o mediante venta directa.
+
+La regulación legal establece el orden de los pagos con privilegio general, de los ordinarios y de los subordinados, y contempla los supuestos especiales de pagos anticipados, de deudas solidarias y de los realizados en fase de cumplimiento de convenio anterior a la de liquidación.
+
+##### VIII
+
+Una de las materias en las que la reforma ha sido más profunda es la de calificación del concurso. La ley limita la formación de la sección de calificación a supuestos muy concretos: la aprobación de un convenio que, por la cuantía de la quita o la duración de la espera, resulte especialmente gravoso para los acreedores, y la apertura de la liquidación.
+
+En estos supuestos, el concurso se calificará como fortuito o como culpable. La última calificación se reserva a aquellos casos en los que en la generación o agravación del estado de insolvencia hubiera mediado dolo o culpa grave del deudor, o de sus representantes legales, administradores o liquidadores.
+
+La ley formula el criterio general de calificación del concurso como culpable y la continuación enuncia una serie de supuestos que, en todo caso, determinan esa calificación, por su intrínseca naturaleza, y otra de supuestos que, salvo prueba en contrario, son presuntivos de dolo o culpa grave, por constituir incumplimiento de determinadas obligaciones legales relativas al concurso.
+
+Si el preceptivo informe de la administración concursal y el dictamen del Ministerio Fiscal coincidieran en la calificación del concurso como fortuito, se archivarán las actuaciones sin más trámites. En otro caso, la calificación como culpable se decidirá tras un contradictorio, en el que serán partes el Ministerio Fiscal, la administración concursal, el deudor y todas las personas que pudieran resultar afectadas por la calificación.
+
+La oposición se sustanciará por los trámites del incidente concursal. La sentencia que califique el concurso como culpable habrá de determinar las personas afectadas y, en su caso, las declaradas cómplices ; impondrá a todas aquéllas la inhabilitación para administrar bienes ajenos y para representar a cualquier persona, sanción que será temporal, durante un período de dos a 15 años ; les impondrá, asimismo, la pérdida de cualquier derecho que tuvieran como acreedores concursales o de la masa y la condena a devolver los bienes y derechos que indebidamente hubieren obtenido del deudor o recibido de la masa activa, más la de indemnizar los daños y perjuicios causados.
+
+Es novedad la previsión de un procedimiento para asegurar el registro público de las sentencias que declaren concursados culpables y de aquellas resoluciones que acuerden la designación o la inhabilitación de los administradores concursales en los casos que la propia ley prevé.
+
+Los efectos de la calificación se limitan a la esfera civil, sin trascender a la penal ni constituir condición de prejudicialidad para la persecución de las conductas que pudieran ser constitutivas de delitos. La ley mantiene la neta separación de ilícitos civiles y penales en esta materia.
+
+##### IX
+
+La ley regula detalladamente las causas de conclusión del concurso, cuya naturaleza puede ser muy diversa: bien porque la apertura no se ajustó a derecho (revocación del auto de declaración de concurso), bien porque el procedimiento alcanzó su finalidad (cumplimiento del convenio, íntegra satisfacción de todos los acreedores), bien por su frustración (inexistencia de bienes y derechos con los que satisfacer a los acreedores), bien por el ejercicio del derecho de disposición de las partes sobre el procedimiento (desistimiento o renuncia de la totalidad de los acreedores reconocidos transacción del deudor con ellos, causas éstas que, por sus características, sólo pueden operar una vez terminada la fase común del procedimiento y que exigen aceptación u homologación del juez, previo informe de la administración concursal).
+
+En los casos de conclusión por inexistencia de bienes y derechos, del concursado o de terceros responsables, con los que satisfacer a los acreedores, que conservan su derecho a hacer efectiva la responsabilidad del deudor sobre los que en el futuro aparezcan, la ley contempla también la reapertura del concurso, tanto si se trata de deudor persona natural como de persona jurídica. En este último caso, puesto que la conclusión por inexistencia de activos patrimoniales lleva consigo la extinción de la persona jurídica, la reapertura por aparición posterior de bienes y derechos se concretará a liquidarlos ; pero si se trata de persona natural, la continuación de su actividad patrimonial habrá podido reflejarse tanto en la aparición de activos como de nuevos pasivos, lo que habrá de tenerse en cuenta en la actualización del inventario y de la lista de acreedores.
+
+##### X
+
+La flexibilidad que inspira todo el procedimiento concursal se combina con las características de rapidez y simplicidad. La Ley de Enjuiciamiento Civil actúa como supletoria de la Ley Concursal, en cuanto ésta no contemple normas procesales especiales. La finalidad que se persigue es la de reconducir la complejidad del concurso a un procedimiento que permita su más pronta, eficaz y económica tramitación, sin merma de las garantías que exige la tutela judicial efectiva de todos los interesados.
+
+Pieza básica en este sistema procesal de la nueva ley es el incidente concursal, un procedimiento especial a través del cual se ventilarán todas las cuestiones que se susciten durante el concurso y que no tengan señalada en la ley otra tramitación distinta. Este incidente se configura con dos modalidades procesales distintas, según la materia sobre la que verse: una que tiene por objeto resolver aquellas materias de índole laboral que se planteen en el marco del procedimiento concursal, y otra modalidad para tratar las materias estrictamente concursales. Con estas dos modalidades de incidente se obtiene una mayor eficacia del proceso concursal.
+
+La celeridad de este procedimiento se complementa con un adecuado sistema de recursos, en el que, en principio, sólo se admite el de reposición contra providencias y autos y el de apelación contra sentencias que aprueben o rechacen el convenio, su cumplimiento o incumplimiento y la conclusión del concurso, aunque en este recurso pueden volver a plantearse las cuestiones resueltas en reposición o en incidentes concursales durante la fase común o la de convenio. Contra las sentencias resolutorias de incidentes planteados con posterioridad o durante la fase de liquidación, cabrá también recurso de apelación.
+
+Sólo se admite el recurso de casación y el extraordinario de infracción procesal contra las sentencias que resuelvan la apelación cuando se trate de aprobar o rechazar un convenio, declarar su cumplimiento o incumplimiento, calificar el concurso, resolver sobre acciones de reintegración o acordar la conclusión del concurso.
+
+Igualmente, y para hacer plenamente efectiva la aplicación de la legislación social a las cuestiones de esta naturaleza y unificar la doctrina en tan sensible materia, se introduce el recurso de suplicación y los demás que prevé la ley contra las resoluciones de los Juzgados de lo Mercantil de la comunidad autónoma en materia laboral y las que resuelvan los incidentes concursales que versen sobre la misma materia.
+
+De este modo, en línea con la orientación de la nueva Ley de Enjuiciamiento Civil, se elimina la multiplicidad de recursos de apelación interlocutorios, de naturaleza parcial o relativos a resoluciones no definitivas, que actualmente dificultan y dilatan la tramitación de los procedimientos concursales, y se ordena, sin merma de las garantías procesales, un sistema de recursos que obliga a las partes a concentrar y racionalizar sus motivos de disconformidad y facilita su resolución con la necesaria visión de conjunto.
+
+##### XI
+
+Especial atención dedica la ley a las cuestiones que plantea el concurso con elemento extranjero, fenómeno carente de adecuada regulación en el derecho anterior y cada vez más frecuente en una economía globalizada.
+
+La Ley Concursal contiene unas normas de derecho internacional privado sobre esta materia, que siguen, con las convenientes adaptaciones, el modelo del Reglamento (CE) n.º 1346/2000, sobre procedimientos de insolvencia. Así, se facilita la aplicación de ambos textos en el ámbito intracomunitario y se ajusta el mismo modelo normativo a la regulación de otras relaciones jurídicas que están fuera de ese ámbito. En este sentido, la nueva regulación se inspira también en la Ley Modelo de la Comisión de las Naciones Unidas para el Derecho Mercantil Internacional (CNUDMI-UNCITRAL) sobre Insolvencia Transfronteriza, recomendada por la Asamblea General de la Organización de las Naciones Unidas en su Resolución 52/158, de 15 de diciembre de 1997.
+
+La competencia internacional para declarar y tramitar el concurso se basa en el lugar de situación del centro de los intereses principales del deudor, teniendo el carácter de "principal" el concurso que se declare sobre esa base, sin perjuicio de que puedan abrirse otros concursos "territoriales" en aquellos Estados en los que el deudor tenga establecimientos.
+
+Se regulan las relaciones entre procedimiento principal y territorial y sus respectivos efectos, el reconocimiento en España de los abiertos en el extranjero y de sus administradores o representantes, con el fin de establecer la mejor coordinación entre ellos, en beneficio de la seguridad jurídica y de la eficiencia económica en el tratamiento de estos fenómenos, lo que constituye una de las materias en las que con mayor relieve se pone de manifiesto la modernización introducida por la reforma concursal.
+
+##### XII
+
+La profundidad de la reforma tiene su más clara expresión en las disposiciones adicionales, transitorias, dero gatoria y finales que cierran la ley. El alcance de la nueva regulación se extiende a múltiples sectores de nuestro ordenamiento jurídico y afecta a numerosas normas, que, en virtud de la reforma, han de quedar modificadas, en unos casos y, derogadas, en otros. Se pretende así armonizar el derecho vigente con la reforma introducida por esta ley y, al propio tiempo, limitar el ámbito de ésta a la materia concursal. Ello explica que de las disposiciones contenidas en el título XVII del libro IV del Código Civil ("De la concurrencia y prelación de créditos") se deroguen las relativas a los procedimientos colectivos de quita y espera y de concurso y se mantengan las de preferencia de créditos para los supuestos de ejecución singular. Del mismo modo, subsisten para esos supuestos los llamados "privilegios" mercantiles, aunque en el concurso no se admitan más que los expresamente reconocidos en esta ley. Objeto de regulación específica son los privilegios sobre buques y aeronaves, a cuyos titulares se reconoce en el concurso derecho de separación para su ejecución extraconcursal.
+
+La delimitación de los ámbitos concursal y extraconcursal de la concurrencia y prelación de créditos, si bien responde a una correcta definición de la materia propia de esta ley, puede ocasionar en la práctica problemas de desajuste, por la muy diversa regulación que mantiene el viejo derecho respecto de la que establece la reforma concursal, pero el alcance de ésta no puede extenderse a una revisión completa de toda la materia de preferencias de créditos que rigen fuera del concurso. Resulta necesaria esa revisión, y ahora no sólo por el arcaísmo de un sistema formado por sedimentos históricos carente del orden lógico que debe presidir esta materia, sino por la acuciante exigencia de su armonización con la reforma concursal. Por ello, la disposición final trigésima primera encomienda al Gobierno que en el plazo de seis meses a contar desde la fecha de entrada en vigor de esta ley presente a las Cortes Generales un proyecto de ley sobre reforma de los Códigos Civil y de Comercio en materia de concurrencia y prelación de créditos en caso de ejecuciones singulares.
+
+La ley ha respetado la legislación específica aplicable a las entidades de crédito, a las aseguradoras y a las operaciones relativas a los sistemas de pagos y de compensación de valores o instrumentos financieros derivados, en gran parte impuesta por el derecho de la Unión Europea, y que afecta a determinados aspectos del concurso. Sólo en defecto de normas especiales y en la medida en que sean compatibles con la naturaleza de aquellos sistemas, se aplicarán en esta materia las de esta ley.
+
+Materia especialmente delicada es la relativa al derecho transitorio, en la que la ley ha optado por respetar el principio de irretroactividad con algunas excepciones, dos de ellas muy señaladas: la primera, para hacer posible la aplicación a los procedimientos que se encuentran en trámite de las normas sobre conclusión del concurso ; la segunda, para permitir la aplicación a aquellos procedimientos del régimen más flexible de propuesta de convenio y de adhesiones que establece esta ley, lo que contribuirá a facilitar la tramitación de los que se hallan en curso e incluso, en algunos casos, la conclusión de aquellos que se encuentren paralizados. Se ha previsto también, transitoriamente, la competencia de los Juzgados de Primera Instancia, hasta la entrada en funcionamiento de los Juzgados de lo Mercantil.
+
+A través de estas medidas legislativas, con plenas garantías constitucionales, se inserta en el ordenamiento jurídico español la reforma concursal, una de las más importantes piezas hasta ahora pendientes en el proceso de modernización de nuestro derecho.
+
+## TÍTULO I — De la declaración de concurso
+
+### CAPÍTULO I — De los presupuestos del concurso
+
+###### Artículos 1 a 7.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — Del procedimiento de declaración
+
+#### Sección 1.ª Jurisdicción y competencia
+
+###### Artículos 8 a 12.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 2.ª De la provisión sobre la solicitud
+
+###### Artículos 13 a 20.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 3.ª De la declaración de concurso
+
+###### Artículos 21 a 24.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO III — De los concursos conexos
+
+> Se añade por el art. único.18 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Artículos 25 a 25 ter.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO II — De la administración concursal
+
+###### Artículo 26. Formación de la sección segunda.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO I — Del nombramiento de los administradores concursales
+
+###### Artículo 27. Condiciones subjetivas para el nombramiento de administradores concursales.
+
+**(Derogado)**
+
+> Téngase en cuenta que este artículo se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859).
+
+> No obstante, permanecerá en vigor hasta que se apruebe el reglamento a que se refiere la disposición transitoria segunda de la Ley 17/2014, de 30 de septiembre [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896), en la redacción anterior a la entrada en vigor de dicha Ley 17/2014, según establece la disposición transitoria única.1 del citado Real Decreto Legislativo.
+
+> Redacción anterior a la entrada en vigor de la Ley 17/2014:
+
+> "1. La administración concursal estará integrada por un único miembro, que deberá reunir alguna de las siguientes condiciones:
+
+> 1.º Ser abogado en ejercicio con cinco años de experiencia profesional efectiva en el ejercicio de la abogacía, que hubiera acreditado formación especializada en Derecho Concursal.
+
+> 2.º Ser economista, titulado mercantil o auditor de cuentas con cinco años de experiencia profesional, con especialización demostrable en el ámbito concursal.
+
+> También podrá designarse a una persona jurídica en la que se integre, al menos, un abogado en ejercicio y un economista, titulado mercantil o auditor de cuentas, y que garantice la debida independencia y dedicación en el desarrollo de las funciones de administración concursal.
+
+> 2\. Como excepción a lo dispuesto en el apartado 1:
+
+> 1.º En caso de concurso de una entidad emisora de valores o instrumentos derivados que se negocien en un mercado secundario oficial, de una entidad encargada de regir la negociación, compensación o liquidación de esos valores o instrumentos, o de una empresa de servicios de inversión, será nombrado administrador concursal un miembro del personal técnico de la Comisión Nacional del Mercado de Valores u otra persona propuesta por ésta con la cualificación del número 2.º del apartado anterior, a cuyo efecto la Comisión Nacional del Mercado de Valores comunicará al juez la identidad de aquélla.
+
+> 2.º En caso de concurso de una entidad de crédito o de una entidad aseguradora, el juez nombrará al administrador concursal de entre los propuestos respectivamente por el Fondo de Garantía de Depósitos y el Consorcio de Compensación de Seguros.
+
+> 3.º En caso de concursos ordinarios de especial trascendencia el juez nombrará, además del administrador concursal previsto en el apartado 1 de este artículo, a un administrador concursal acreedor titular de créditos ordinarios o con privilegio general no garantizado de entre los que figuren en el primer tercio de mayor importe.
+
+> A estos efectos, cuando el conjunto de las deudas con los trabajadores por los créditos señalados en el párrafo anterior estuviera incluida en el primer tercio de mayor importe, el juez podrá nombrar como administrador acreedor a la representación legal de los trabajadores, si la hubiere, que deberá designar un profesional que reúna la condición de economista, titulado mercantil, auditor de cuentas o abogado, quedando sometido al mismo régimen de incapacidades, incompatibilidades, prohibiciones, remuneración y responsabilidad que los demás miembros de la administración concursal.
+
+> El primer administrador concursal designado será el que ostente la representación de la administración concursal frente a terceros en los términos previstos en esta ley para los supuestos de administración concursal única.
+
+> Cuando el acreedor designado sea una Administración pública o una entidad de Derecho Público vinculada o dependiente de ella, la designación del profesional podrá recaer en cualquier empleado público con titulación universitaria, de graduado o licenciado en ámbitos pertenecientes a las ciencias jurídicas o económicas, y su régimen de responsabilidad será el específico de la legislación administrativa.
+
+> 3\. En los decanatos de los juzgados competentes existirá una lista integrada por los profesionales y las personas jurídicas que hayan puesto de manifiesto su disponibilidad para el desempeño de tal función, su formación en materia concursal y, en todo caso, su compromiso de continuidad en la formación en esta materia.
+
+> A tal efecto, el Registro Oficial de Auditores de Cuentas y los correspondientes colegios profesionales presentarán, en el mes de diciembre de cada año, para su utilización desde el primer día del año siguiente, los respectivos listados de personas disponibles, incluidas las personas jurídicas. Los profesionales cuya colegiación no resulte obligatoria podrán solicitar, de forma gratuita, su inclusión en la lista en ese mismo período justificando documentalmente la formación recibida y la disponibilidad para ser designados. Igualmente las personas jurídicas recogidas en el inciso final del apartado 1 de este artículo podrán solicitar su inclusión, reseñando los profesionales que las integran y, salvo que ya figuraran en las listas, su formación y disponibilidad.
+
+> Las personas implicadas podrán solicitar la inclusión en la lista de su experiencia como administradores concursales o auxiliares delegados en otros concursos, así como de otros conocimientos o formación especiales que puedan ser relevantes a los efectos de su función.
+
+> 4\. Los administradores concursales profesionales se nombrarán por el juez procurando una distribución equitativa de designaciones entre los incluidos en las listas que existan.
+
+> No obstante, el juez:
+
+> 1.º Podrá, apreciándolo razonadamente, designar a unos concretos administradores concursales cuando el previsible desarrollo del proceso exija una experiencia o unos conocimientos o formación especiales, como los vinculados a asegurar la continuidad de la actividad empresarial o que se puedan deducir de la complejidad del concurso.
+
+> 2.º Para concursos ordinarios deberá designar a quienes acrediten su participación como administradores o auxiliares delegados en otros concursos ordinarios o, al menos, tres concursos abreviados, salvo que el juez considere, de manera motivada, idónea la formación y experiencia de los que designe en atención a las características concretas del concurso.
+
+> 5\. En supuestos de concursos conexos, el juez competente para la tramitación de éstos podrá nombrar, en la medida en que ello resulte posible, una administración concursal única designando auxiliares delegados.
+
+> En caso de acumulación de concursos ya declarados, el nombramiento podrá recaer en una de las administraciones concursales ya existentes.
+
+> 6\. Cualquier interesado podrá plantear al Decanato las quejas sobre el funcionamiento o requisitos de la lista oficial u otras cuestiones o irregularidades de las personas inscritas con carácter previo a su nombramiento, de acuerdo con lo previsto en el artículo 168 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial."
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Téngase en cuenta la disposición transitoria única.1 del citado Real Decreto Legislativo.
+
+> Se modifica por el art. único.2 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+> Téngase en cuenta que esta modificación entrará en vigor cuando se apruebe su desarrollo reglamentario, según establece la disposición transitoria 2 de la citada norma.
+
+> Se modifica por el art. único.19 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> Se modifica el apartado 4 por el art. 7.1 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311).
+
+###### Artículos 27 bis a 32.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — Funciones de los administradores concursales
+
+> Se añade por el art. único.8 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+> Se añade el segundo párrafo al apartado 1 por el art. único.24 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Artículo 33. Funciones de la administración concursal.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifican los puntos 1.º y 3.º de la letra c) del apartado 1 por el art. único.Uno.1 de la Ley 9/2015, de 25 de mayo. [Ref. BOE-A-2015-5744](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5744).
+
+> Se añade por el art. único.8 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+### CAPÍTULO III — Estatuto jurídico de los administradores concursales
+
+> Se renumera por el art. único.9 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+###### Artículo 34. Retribución.
+
+**(Derogado)**
+
+> Téngase en cuenta que este artículo se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859).
+
+> No obstante, permanecerá en vigor hasta que se apruebe el reglamento a que se refiere la disposición transitoria segunda de la Ley 17/2014, de 30 de septiembre [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896), en la redacción anterior a la entrada en vigor de dicha Ley 17/2014, según establece la disposición transitoria única.1 del citado Real Decreto Legislativo.
+
+> Redacción anterior a la entrada en vigor de la Ley 17/2014:
+
+> "1. Los administradores concursales tendrán derecho a retribución con cargo a la masa, salvo cuando se trate del personal de las entidades a que se refieren los párrafos 1.º y 2.º del apartado 2 del artículo 27.
+
+> 2\. La retribución de la administración concursal se determinará mediante un arancel que se aprobará reglamentariamente y que atenderá a la cuantía del activo y del pasivo, al carácter ordinario o abreviado del procedimiento, a la acumulación de concursos y a la previsible complejidad del concurso.
+
+> El arancel se ajustará necesariamente a las siguientes reglas:
+
+> a) Exclusividad. Los administradores concursales sólo podrán percibir por su intervención en el concurso las cantidades que resulten de la aplicación del arancel.
+
+> b) Limitación. La administración concursal no podrá ser retribuida por encima de la cantidad máxima que se fije reglamentariamente para el conjunto del concurso.
+
+> c) Efectividad. En aquellos concursos en que la masa sea insuficiente, se garantizará el pago de un mínimo retributivo establecido reglamentariamente, mediante una cuenta de garantía arancelaria que se dotará con aportaciones obligatorias de los administradores concursales. Estas dotaciones se detraerán de las retribuciones que efectivamente perciban los administradores concursales en los concursos en que actúen en el porcentaje que se determine reglamentariamente.
+
+> 3\. El juez, previo informe de la administración concursal, fijará por medio de auto y conforme al arancel la cuantía de la retribución, así como los plazos en que deba ser satisfecha.
+
+> 4\. En cualquier estado del procedimiento, el juez, de oficio o a solicitud de deudor o de cualquier acreedor, podrá modificar la retribución fijada, si concurriera justa causa y aplicando el arancel a que se refiere el apartado 2 de este artículo.
+
+> 5\. El auto por el que se fije o modifique la retribución de los administradores concursales será apelable por cualquiera de éstos y por las personas legitimadas para solicitar la declaración de concurso".
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Téngase en cuenta la disposición transitoria única.1 del citado Real Decreto Legislativo.
+
+> Se modifica el párrafo 1 y las letras b) y c) del apartado 2 por el art. 1.4.1 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
+
+> Se modifica por el art. único.10 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+> Téngase en cuenta que esta modificación entrará en vigor cuando se apruebe su desarrollo reglamentario, según establece la disposición transitoria 2 de la citada norma.
+
+> Se suprime el 2.b) y se renumeran las letras c) y d) como b) y c) por el art. único.25 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> Se modifica el apartado 2 por el art. 7.2 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311).
+
+> Véase la disposición adicional 2 y la disposición transitoria 3 del Real Decreto-ley 3/2009, de 27 marzo.
+
+###### Artículos 34 bis a 39.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO III — De los efectos de la declaración de concurso
+
+### CAPÍTULO I — De los efectos sobre el deudor
+
+###### Artículos 40 a 48 quáter
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — De los efectos sobre los acreedores
+
+#### Sección 1.ª De la integración de los acreedores en la masa pasiva
+
+###### Artículo 49. Integración de la masa pasiva.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifica por el art. único.38 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+#### Sección 2.ª De los efectos sobre las acciones individuales
+
+###### Artículos 50 a 57.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 3.ª De los efectos sobre los créditos en particular
+
+###### Artículos 58 a 60.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO III — De los efectos sobre los contratos
+
+###### Artículos 61 a 70.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO IV — De los efectos sobre los actos perjudiciales para la masa activa
+
+###### Artículos 71 a 73.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO IV — Del informe de la administración concursal y de la determinación de las masas activa y pasiva del concurso
+
+### CAPÍTULO I — De la presentación del informe de la administración concursal
+
+###### Artículos 74 y 75.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — De la determinación de la masa activa
+
+#### Sección 1.ª De la composición de la masa activa y composición de la sección tercera
+
+###### Artículos 76 a 81.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 2.ª Del inventario de la masa activa
+
+###### Artículos 82 y 83.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO III — De la determinación de la masa pasiva
+
+#### Sección 1.ª De la composición de la masa pasiva
+
+> Se modifica la rúbrica por el art. único.56 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Artículo 84. Créditos concursales y créditos contra la masa.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifica el apartado 2.11 por el art. único.16 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+> Téngase en cuenta que esta modificación no será de aplicación hasta el 2 de octubre de 2016 y hasta entonces resultará aplicable el régimen jurídico contenido en la disposición adicional 2 de la citada Ley.
+
+> Se modifica el apartado 2.11 por el art. único.7 del Real Decreto-ley 4/2014, de 7 de marzo. [Ref. BOE-A-2014-2485](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2485).
+
+> Se modifica por el art. único.57 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> El apartado 2.11º entra en vigor el 12 de octubre de 2011, según establece la disposición final 3.2
+
+#### Sección 2.ª De la comunicación y reconocimiento de créditos
+
+###### Artículos 85 a 88.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 3.ª De la clasificación de los créditos
+
+###### Artículos 89 a 93.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 4.ª De la lista de acreedores
+
+###### Artículo 94. Estructura y contenido.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifican los apartados 2 y 5 por el art. único.Uno.5 de la Ley 9/2015, de 25 de mayo. [Ref. BOE-A-2015-5744](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5744).
+
+> Téngase en cuenta que esta modificación será de aplicación a los procedimientos concursales en tramitación en los que no se haya presentado el texto definitivo del informe de la administración concursal, según establece la disposición transitoria 1.2 de la citada norma.
+
+> Se modifica el apartado 5 por el art. 1.3.3 del Real Decreto-ley 1/2015, de 27 de febrero. [Ref. BOE-A-2015-2109](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2109).
+
+> Téngase en cuenta que esta modificación será de aplicación a los procedimientos concursales en tramitación en los que no se haya presentado el texto definitivo del informe de la administración concursal, según establece la disposición transitoria 1.1 del citado Real Decreto-ley.
+
+> Se modifica el apartado 2 y se añade el apartado 5 por el art. único.1.3 del Real Decreto-ley 11/2014, de 5 de septiembre. [Ref. BOE-A-2014-9133](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9133).
+
+> Véase, en cuanto al régimen transitorio, la disposición transitoria 1.1 del citado Real Decreto-ley.
+
+> Se modifica el apartado 4 por el art. único.65 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+### CAPÍTULO IV — De la publicidad y de la impugnación del informe
+
+###### Artículos 95 a 97 ter.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO V — De las fases de convenio o de liquidación
+
+### CAPÍTULO I — De la fase de convenio
+
+#### Sección 1.ª De la finalización de la fase común de concurso
+
+###### Artículo 98. Resolución judicial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> Se modifica por la disposición adicional 2 de la Ley 4/2010, de 10 de marzo. [Ref. BOE-A-2010-4048](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-4048).
+
+> Se modifica por el art. 17.14 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+> Se añade el párrafo 2 por el art. 12.7 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311).
+
+#### Sección 2.ª De la propuesta de convenio y de las adhesiones
+
+###### Artículos 99 a 103.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 3.ª De la propuesta anticipada de convenio
+
+###### Artículos 104 a 110.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 4.ª. De la apertura de la fase de convenio y apertura de la sección quinta
+
+###### Artículos 111 a 115 bis.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 5.ª De la junta de acreedores
+
+###### Artículos 116 a 126.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 6.ª De la aprobación judicial del Convenio
+
+###### Artículos 127 a 132.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 7.ª De la eficacia del convenio
+
+###### Artículos 133 a 136.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 8.ª Del cumplimiento del convenio
+
+###### Artículos 137 a 141.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — De la fase de liquidación
+
+#### Sección 1.ª De la apertura de la fase de liquidación
+
+###### Artículos 142 a 144.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 2.ª De los efectos de la liquidación
+
+###### Artículos 145 a 147.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 3.ª De las operaciones de liquidación
+
+###### Artículos 148 a 153.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 4.ª Del pago a los acreedores
+
+###### Artículos 154 a 162.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO VI — De la calificación del concurso
+
+### CAPÍTULO I — Disposiciones generales
+
+###### Artículos 163 a 166.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — De la sección de calificación
+
+#### Sección 1.ª De la formación y tramitación
+
+###### Artículos 167 a 173.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 2.ª De la calificación en caso de intervención administrativa
+
+###### Artículos 174 y 175.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO VII — De la conclusión y de la reapertura del concurso
+
+### CAPÍTULO ÚNICO
+
+###### Artículos 176 a 182.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO VIII — De las normas procesales generales, del procedimiento abreviado y del sistema de recursos
+
+> Se modifica la rúbrica por el art. único.105 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+### CAPÍTULO I — De la tramitación del procedimiento
+
+###### Artículos 183 a 189.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — Del procedimiento abreviado
+
+> Se modifica por el art. único.107 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Artículos 190 a 191 quáter.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO III — Del incidente concursal
+
+###### Artículos 192 a 196.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO IV — De los recursos
+
+###### Artículo 197. Recursos procedentes y tramitación.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifican los apartados 4 a 6 por el art. único.109 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> Se modifica por el art. 17.48 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+### CAPÍTULO V — Registro Público Concursal
+
+> Se modifica la rúbrica por el art. 6.10 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311).
+
+###### Artículo 198. Registro Público Concursal.
+
+**(Derogado)**
+
+> Téngase en cuenta que este artículo se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859).
+
+> No obstante, permanecerá en vigor hasta que se apruebe el reglamento a que se refiere la disposición transitoria segunda de la Ley 17/2014, de 30 de septiembre [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896), en la redacción anterior a la entrada en vigor de dicha Ley 17/2014, según establece la disposición transitoria única.1 del citado Real Decreto Legislativo.
+
+> Redacción anterior a la entrada en vigor de la Ley 17/2014:
+
+> "1. El Registro Público Concursal se llevará bajo la dependencia del Ministerio de Justicia y constará de tres secciones:
+
+> a) En la sección primera, de edictos concursales, se insertarán ordenados por concursado y fechas, las resoluciones que deban publicarse conforme a lo previsto en el artículo 23 y en virtud de mandamiento remitido por el secretario judicial.
+
+> b) En la sección segunda, de publicidad registral, se harán constar, ordenadas por concursado y fechas, las resoluciones registrales anotadas o inscritas en todos los registros públicos de personas referidos en el artículo 24.1, 2 y 3, incluidas las que declaren concursados culpables o acuerden la designación o inhabilitación de los administradores concursales y en virtud de certificaciones remitidas de oficio por el encargado del registro una vez practicado el correspondiente asiento.
+
+> c) En la sección tercera, de acuerdos extrajudiciales, se hará constar la apertura de las negociaciones para alcanzar tales acuerdos y su finalización.
+
+> 2\. La publicación de las resoluciones judiciales o sus extractos tendrá un valor meramente informativo o de publicidad notoria.
+
+> 3\. Reglamentariamente se desarrollarán la estructura, contenido y sistema de publicidad a través de este registro y los procedimientos de inserción y acceso, bajo los principios siguientes:
+
+> 1.º Las resoluciones judiciales podrán publicarse en extracto, en el que se recojan los datos indispensables para la determinación del contenido y alcance de la resolución con indicación de los datos registrables cuando aquéllas hubieran causado anotación o inscripción en los correspondientes registros públicos.
+
+> 2.º La inserción de las resoluciones o sus extractos se realizará preferentemente, a través de mecanismos de coordinación con el Registro Civil, el Registro Mercantil o los restantes registros de personas en que constare el concursado persona jurídica, conforme a los modelos que se aprueben reglamentariamente.
+
+> 3.º El registro deberá contar con un dispositivo que permita conocer y acreditar fehacientemente el inicio de la difusión pública de las resoluciones e información que se incluyan en el mismo.
+
+> 4.º El contenido del registro será accesible de forma gratuita por Internet u otros medios equivalentes de consulta telemática".
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Téngase en cuenta la disposición transitoria única.1 del citado Real Decreto Legislativo.
+
+> Se modifica el apartado 1 por el art. único.22 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+> Téngase en cuenta que esta modificación entrará en vigor cuando se apruebe su desarrollo reglamentario, según establece la disposición transitoria 2 de la citada norma.
+
+> Se modifica el apartado 1 por el art. 21.6 de la Ley 14/2013, de 27 de septiembre. [Ref. BOE-A-2013-10074](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10074).
+
+> Se modifica por el art. único.110 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> Se modifica por el art. 6.11 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311).
+
+## TÍTULO IX — De las Normas de Derecho Internacional Privado
+
+### CAPÍTULO I — Aspectos generales
+
+###### Artículos 199 y 200.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO II — De la ley aplicable
+
+#### Sección 1.ª Del procedimiento principal
+
+###### Artículos 201 a 209.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 2.ª Del procedimiento territorial
+
+###### Artículos 210 a 213.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+#### Sección 3.ª De las reglas comunes a ambos tipos de procedimientos
+
+###### Artículos 214 a 219.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO III — Del reconocimiento de procedimientos extranjeros de insolvencia
+
+###### Artículos 220 a 226.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+### CAPÍTULO IV — De la coordinación entre procedimientos paralelos de insolvencia
+
+###### Artículos 227 a 230.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+## TÍTULO X — El acuerdo extrajudicial de pagos
+
+> Se añade por el art. 21.7 de la Ley 14/2013, de 27 de septiembre. [Ref. BOE-A-2013-10074](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10074).
+
+###### Artículos 231 a 242 bis.
+
+**(Derogados)**
+
+> Se derogan, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+###### Disposición adicional primera. Referencias legales a los procedimientos concursales anteriormente vigentes.
+
+Los jueces y tribunales interpretarán y aplicarán las normas legales que hagan referencia a los procedimientos concursales derogados por esta ley poniéndolas en relación con las del concurso regulado en ésta, atendiendo fundamentalmente a su espíritu y finalidad y, en particular, a las siguientes reglas:
+
+1.ª Todas las referencias a la suspensión de pagos o al procedimiento de quita y espera contenidas en preceptos legales que no hayan sido expresamente modificados por esta ley se entenderán realizadas al concurso en el que no se haya producido la apertura de la fase de liquidación.
+
+2.ª Todas las referencias a la quiebra o al concurso de acreedores contenidas en preceptos legales que no hayan sido expresamente modificados por esta ley se entenderán realizadas al concurso en el que se haya producido la apertura de la fase de liquidación.
+
+3.ª Todas las declaraciones de incapacidad de los quebrados o concursados y las prohibiciones para el desempeño por éstos de cargos o funciones o para el desarrollo de cualquier clase de actividades establecidas en preceptos legales no modificados expresamente por esta ley se entenderán referidas a las personas sometidas a un procedimiento de concurso en el que se haya producido la apertura de la fase de liquidación.
+
+###### Disposición adicional segunda. Régimen especial aplicable a entidades de crédito, empresas de servicios de inversión y entidades aseguradoras.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añaden las letras m), n) y ñ) al apartado 2 por el art. 1.3.2 de la Ley 25/2015, de 28 de julio. [Ref. BOE-A-2015-8469](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8469).
+
+> Se modifica el apartado 2.h) por la disposición final 5.2 de la Ley 20/2015, de 14 de julio. [Ref. BOE-A-2015-7897](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-7897).
+
+> Se modifica por la disposicion final 5 de la Ley 11/2015, de 18 de junio. [Ref. BOE-A-2015-6789](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6789).
+
+> Redactada conforme a la corrección de errores publicada en el BOE núm. 212, de 4 de septiembre de 2015. [Ref. BOE-A-2015-9580](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9580).
+
+> Se modifica el apartado 2.d) por la disposición final 1 de la Ley 5/2015, de 27 de abril. [Ref. BOE-A-2015-4607](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-4607).
+
+> Se añade la letra l) al apartado 2 por la disposición final 7.1 de la Ley 26/2013, de 27 de diciembre. [Ref. BOE-A-2013-13723](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13723).
+
+> Se modifica el apartado 2.k) por la disposición final 6 de la Ley 9/2012, de 14 de noviembre. [Ref. BOE-A-2012-14062](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14062).
+
+> Se modifica el apartado 2.k) por la disposición final 6 del Real Decreto-ley 24/2012, de 31 de agosto. [Ref. BOE-A-2012-11247](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11247).
+
+> Se añade un apartado 2.k) por la disposición final 5 del Real Decreto-ley 9/2009, de 26 de junio. [Ref. BOE-A-2009-10575](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-10575)
+
+> Se modifica el apartado 2.a) por el art. 8.4 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311)
+
+> Se modifica el apartado 2 por la disposición final 4 de la Ley 30/2007, de 30 de octubre. [Ref. BOE-A-2007-18874](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18874)
+
+> Se modifica el apartado 2 por la disposición final 2 de la Ley 25/2005, de 24 de noviembre. [Ref. BOE-A-2005-19412](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19412)
+
+> Se modifica el apartado 2 por la disposición final 3.2 de la Ley 6/2005, de 22 de abril. [Ref. BOE-A-2005-6562](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-6562)
+
+> Se modifica el apartado 2 por la disposición adicional 3 del Real Decreto-ley 5/2005 , de 11 de marzo. [Ref. BOE-A-2005-4172](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4172)
+
+> Se añade el apartado 3 por la disposición adicional 3 de la Ley 36/2003, de 11 de noviembre. [Ref. BOE-A-2003-20695](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20695)
+
+###### Disposición adicional segunda bis. Régimen especial aplicable a las situaciones de insolvencia de las sociedades deportivas.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añade por el art. único.111 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición adicional segunda ter. Régimen especial aplicable a las situaciones de insolvencia de las empresas concesionarias de obras y servicios públicos, o contratistas de las Administraciones Públicas.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añade por el art. único.Uno.21 de la Ley 9/2015, de 25 de mayo. [Ref. BOE-A-2015-5744](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5744).
+
+> Téngase en cuenta que esta modificación será de aplicación a todos los contratos administrativos que no se hayan extinguido, cualquiera que sea su fecha de adjudicación, con independencia de la fase en que se hallen los procedimientos concursales, según establece la disposición transitoria 1.8 de la citada norma.
+
+> Se añade por el art. único.1.10 del Real Decreto-ley 11/2014, de 5 de septiembre. [Ref. BOE-A-2014-9133](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9133).
+
+> Véase, en cuanto al régimen transitorio, la disposición transitoria 1.4 del citado Real Decreto-ley.
+
+###### Disposición adicional tercera. Reforma de las leyes de Sociedades Anónimas y de Responsabilidad Limitada.
+
+El Gobierno remitirá al Congreso de los Diputados un Proyecto de Ley de modificación de la Ley de Sociedades Anónimas, texto refundido aprobado por Real Decreto Legislativo 1564/1989, de 12 de diciembre, y de la Ley 21/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada, a fin de adecuarlas a esta ley.
+
+###### Disposición adicional cuarta. Homologación de los acuerdos de refinanciación.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifican los apartados 1 y 2 por el art. único.Cuatro.4 de la Ley 9/2015, de 25 de mayo. [Ref. BOE-A-2015-5744](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5744).
+
+> Se modifica por el art. único.23 de la Ley 17/2014, de 30 de septiembre. [Ref. BOE-A-2014-9896](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9896).
+
+> Se modifica por el art. único.13 del Real Decreto-ley 4/2014, de 7 de marzo. [Ref. BOE-A-2014-2485](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2485).
+
+> Se modifica el apartado 1 por la disposición final 7.2 de la Ley 26/2013, de 27 de diciembre. [Ref. BOE-A-2013-13723](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13723).
+
+> Se modifica el apartado 1 por el art. 31.2 de la Ley 14/2013, de 27 de septiembre. [Ref. BOE-A-2013-10074](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10074).
+
+> Se modifica por el art. único.112 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+> Se añade por el art. 8.3 del Real Decreto-ley 3/2009, de 27 de marzo. [Ref. BOE-A-2009-5311](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5311).
+
+###### Disposición adicional quinta. Escrituras públicas de formalización de acuerdos de refinanciación.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añade por el art. único.113 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición adicional sexta. Grupo de sociedades.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añade por el art. único.114 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición adicional séptima. Tratamiento de créditos de derecho público en caso de acuerdo extrajudicial de pagos.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añade por el art. 21.8 de la Ley 14/2013, de 27 de septiembre. [Ref. BOE-A-2013-10074](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10074).
+
+###### Disposición adicional octava. Remuneración de los mediadores concursales.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se añade por el art. 21.9 de la Ley 14/2013, de 27 de septiembre. [Ref. BOE-A-2013-10074](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10074).
+
+###### Disposición transitoria primera. Procedimientos concursales en tramitación.
+
+Los procedimientos de concurso de acreedores, quiebra, quita y espera y suspensión de pagos que se encuentren en tramitación a la entrada en vigor de esta ley continuarán rigiéndose hasta su conclusión por el derecho anterior, sin más excepciones que las siguientes:
+
+1\. Será de inmediata aplicación lo dispuesto en los artículos 176 a 180 de esta ley, con exclusión de los incisos 1.º y 2.º del apartado 1 del artículo 176. A estos efectos, se entenderá: que la referencia a la fase común del concurso del apartado 1.5.º del artículo 176 está hecha al trámite de reconocimiento de créditos o su equivalente ; que la referencia al incidente concursal del apartado 5 del mismo precepto está hecha al procedimiento del artículo 393 de la Ley de Enjuiciamiento Civil ; que contra la sentencia que resuelva la oposición a la conclusión del concurso cabrá el recurso de apelación ; y que contra la sentencia que resuelva este último cabrá el recurso de casación o el de infracción procesal en los términos previstos en la referida ley.
+
+2\. La resolución judicial que declare el incumplimiento de un convenio aprobado en cualquiera de los procedimientos concursales a que se refiere esta disposición transitoria y gane firmeza después de la entrada en vigor de esta ley producirá la apertura de oficio del concurso del deudor a los solos efectos de tramitar la fase de liquidación regulada en ella. Conocerá de este concurso el mismo juzgado que hubiere tramitado el precedente procedimiento concursal.
+
+3\. En la quiebra de cualquier clase de sociedades no podrá aprobarse ninguna proposición de convenio antes de que haya concluido el trámite de reconocimiento de créditos.
+
+4\. Las proposiciones de convenio que se formulen con posterioridad a la entrada en vigor de esta ley en cualquiera de los procedimientos concursales a que se refiere esta disposición transitoria deberán cumplir los requisitos establecidos en los artículos 99 y 100 de la referida Ley. En la tramitación y aprobación de estas proposiciones conforme al procedimiento que en cada caso corresponda, será de aplicación lo establecido en el artículo 103, en el apartado 3 del artículo 118 y en el párrafo segundo del apartado 4 del artículo 121 de esta ley, debiendo entenderse que el plazo para la presentación de adhesiones escritas comprende desde la presentación de la propuesta de convenio hasta el momento de formación de la lista de asistentes a la junta en que será sometida a aprobación, salvo que se trate de suspensiones de pagos o quiebras de sociedades en las que el convenio deba aprobarse sin celebración de junta, en cuyo caso ese plazo será el señalado para presentar adhesiones en el correspondiente procedimiento.
+
+5\. Las resoluciones que se dicten con posterioridad a la entrada en vigor de esta ley serán recurribles con arreglo a las especialidades previstas en el artículo 197.
+
+###### Disposición transitoria segunda. Juzgados de lo Mercantil.
+
+Hasta el momento en que entren en funcionamiento los Juzgados de lo Mercantil, las funciones atribuidas a los mismos serán asumidas por los actuales Juzgados de Primera Instancia e Instrucción competentes conforme a la Ley de Demarcación y Planta Judicial, aplicándose las reglas de competencia establecidas en el artículo 10 y concordantes de esta ley.
+
+###### Disposición derogatoria única.
+
+1\. Se deroga la Ley de Suspensión de Pagos de 26 de julio de 1922.
+
+2\. Quedan también derogadas las siguientes leyes:
+
+1.ª La Ley de 12 de noviembre de 1869, sobre quiebra de las compañías de ferrocarriles, concesionarias de canales y demás obras públicas análogas.
+
+2.ª La Ley de 19 de septiembre de 1896, sobre convenios entre las compañías de ferrocarriles y sus acreedores sin llegar al estado de suspensión de pagos.
+
+3.ª La Ley de 9 de abril de 1904, sobre aprobación de convenios de sociedades o empresas de canales, ferrocarriles y demás concesionarios de obras públicas.
+
+4.ª La Ley de 2 de enero de 1915, sobre suspensión de pagos de las compañías y empresas de ferrocarriles y demás obras de servicio público general.
+
+3\. Quedan, asimismo, derogados los siguientes preceptos y disposiciones:
+
+1.º El libro IV del Código de Comercio de 1829.
+
+2.º Los artículos 1.912 a 1.920 y los párrafos A) y G) del apartado 2.º del artículo 1.924 del Código Civil.
+
+3.º Los artículos 376 y 870 a 941 del Código de Comercio de 1885.
+
+4.º El párrafo L) de la Base quinta del artículo 1 de la Ley de 2 de marzo de 1917, sobre suspensión de pagos o quiebra de las entidades deudoras del Estado y del Banco de Crédito Industrial para protección y fomento de la producción nacional.
+
+5.º El capítulo segundo de la Ley de 21 de abril de 1949, sobre fomento de las ampliaciones y mejora de los ferrocarriles de vía estrecha y de ordenación de los auxilios a los de explotación deficitaria.
+
+6.º El artículo 281 del texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre.
+
+7.º El artículo 124 de la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada.
+
+8.º El apartado 7 del artículo 73 y la disposición adicional cuarta de la Ley 27/1999, de 16 de julio, de Cooperativas.
+
+9.º El artículo 54 del texto refundido de la Ley de Propiedad Intelectual, regularizando, aclarando y armonizando las disposiciones legales vigentes sobre la materia, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril.
+
+10.º El artículo 51 de la Ley de 21 de agosto de 1893, de Hipoteca Naval.
+
+11.º El artículo 568 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+12.º El apartado 10 del artículo 51 del Estatuto de los Trabajadores.
+
+4\. Asimismo, quedan derogadas cuantas normas se opongan o sean incompatibles con lo dispuesto en esta ley.
+
+###### Disposición final primera. Reforma del Código Civil.
+
+Se añade al artículo 1.921 del Código Civil un párrafo segundo, con la siguiente redacción:
+
+"En caso de concurso, la clasificación y graduación de los créditos se regirá por lo establecido en la Ley Concursal."
+
+###### Disposición final segunda. Reforma del Código de Comercio.
+
+El Código de Comercio queda modificado en los términos siguientes:
+
+1\. El apartado 2.º del artículo 13 queda redactado de la forma siguiente:
+
+"2.º Las personas que sean inhabilitadas por sentencia firme conforme a la Ley Concursal mientras no haya concluido el período de inhabilitación. Si se hubiera autorizado al inhabilitado a continuar al frente de la empresa o como administrador de la sociedad concursada, los efectos de la autorización se limitarán a lo específicamente previsto en la resolución judicial que la contenga."
+
+2\. El artículo 157 queda redactado de la siguiente forma:
+
+"Con independencia de las causas de disolución previstas en la Ley de Sociedades Anónimas, la sociedad se disolverá por fallecimiento, cese, incapacidad o apertura de la fase de liquidación en el concurso de todos los socios colectivos, salvo que en el plazo de seis meses y mediante modificación de los estatutos se incorpore algún socio colectivo o se acuerde la transformación de la sociedad en otro tipo social."
+
+3\. La causa 3.ª de las previstas en el artículo 221 queda redactada de la forma siguiente:
+
+"3.ª La apertura de la fase de liquidación de la compañía declarada en concurso."
+
+4\. La causa 3.ª de las previstas en el artículo 222 queda redactada de la forma siguiente:
+
+"3.ª La apertura de la fase de liquidación en el concurso de cualquiera de los socios colectivos."
+
+5\. El artículo 227 queda redactado de la forma siguiente:
+
+"En la liquidación y división del haber social se observarán las reglas establecidas en la escritura de compañía y, en su defecto, las que se expresan en los artículos siguientes. No obstante, cuando la sociedad se disuelva por la causa 3.ª prevista en los artículos 221 y 222, la liquidación se realizará conforme a lo establecido en el capítulo II del título V de la Ley Concursal."
+
+6\. El párrafo segundo del artículo 274 queda redactado de la forma siguiente:
+
+"Si el asegurador fuera declarado en concurso, el comisionista tendrá la obligación de concertar nuevo contrato de seguro, salvo que el comitente le hubiera prevenido otra cosa."
+
+> Se modifica el apartado 1 y se deroga el 7 por el art. único.115 y disposición derogatoria única de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final tercera. Reforma de la Ley de Enjuiciamiento Civil.
+
+La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, queda modificada en los términos siguientes:
+
+1\. Se añade un apartado 8 al artículo 7 con la siguiente redacción:
+
+"8. Las limitaciones a la capacidad de quienes estén sometidos a concurso y los modos de suplir las se regirán por lo establecido en la Ley Concursal."
+
+2\. Se añade un apartado 3 al artículo 17 con la siguiente redacción:
+
+"3. La sucesión procesal derivada de la enajenación de bienes y derechos litigiosos en procedimientos de concurso se regirá por lo establecido en la Ley Concursal. En estos casos, la otra parte podrá oponer eficazmente al adquirente cuantos derechos y excepciones le correspondieran frente al concursado."
+
+3\. El párrafo segundo del apartado 1.2.º del artículo 98 queda redactado de la forma siguiente:
+
+"Se exceptúan de la acumulación a que se refiere este número los procesos de ejecución en que sólo se persigan bienes hipotecados o pignorados, que en ningún caso se incorporarán al proceso sucesorio, cualquiera que sea la fecha de iniciación de la ejecución."
+
+4\. El apartado 1 del artículo 463 queda redactado de la forma siguiente:
+
+"1. Interpuestos los recursos de apelación y presentados, en su caso, los escritos de oposición o impugnación, el tribunal que hubiere dictado la resolución apelada ordenará la remisión de los autos al tribunal competente para resolver la apelación, con emplazamiento de las partes por término de 30 días ; pero si se hubiere solicitado la ejecución provisional, quedará en el de primera instancia testimonio de lo necesario para dicha ejecución."
+
+5\. El artículo 472 queda redactado de la forma siguiente:
+
+"Presentado el escrito de interposición, dentro de los cinco días siguientes se remitirán todos los autos originales a la sala citada en el artículo 468, con emplazamiento de las partes ante ella por término de 30 días, sin perjuicio de que, cuando un litigante o litigantes distintos de los recurrentes por infracción procesal hubiesen preparado recurso de casación contra la misma sentencia, se deban enviar a la sala competente para el recurso de casación testimonio de la sentencia y de los particulares que el recurrente en casación interese, poniéndose nota expresiva de haberse preparado recurso extraordinario por infracción procesal, a los efectos de lo que dispone el artículo 488 de esta ley."
+
+6\. El apartado 1 del artículo 482 queda redactado de la forma siguiente:
+
+"1. Presentado el escrito de interposición, dentro de los cinco días siguientes se remitirán todos los autos originales al tribunal competente para conocer del recurso de casación, con emplazamiento de las partes ante él por término de 30 días."
+
+7\. El apartado 2 del artículo 568 pasa a tener la siguiente redacción:
+
+"2. El secretario judicial decretará la suspensión de la ejecución en el estado en que se halle en cuanto conste en el procedimiento la declaración del concurso. El inicio de la ejecución y la continuación del procedimiento ya iniciado que se dirija exclusivamente contra bienes hipotecados y pignorados estarán sujetos a cuanto establece la Ley Concursal."
+
+> Se modifica el apartado 7 por el art. único.116 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final cuarta. Reforma de la Ley de Asistencia Jurídica Gratuita.
+
+Se modifica el párrafo d) del artículo 2 de la Ley 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita, al que se le da la siguiente redacción:
+
+"d) En el orden jurisdiccional social, además, los trabajadores y beneficiarios del sistema de Seguridad Social, tanto para la defensa en juicio como para el ejercicio de acciones para la efectividad de los derechos laborales en los procedimientos concursales."
+
+###### Disposición final quinta. Derecho procesal supletorio.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+> Se modifica por el art. 17.49 de la Ley 13/2009, de 3 de noviembre. [Ref. BOE-A-2009-17493](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-17493).
+
+###### Disposición final sexta. Funciones de los secretarios judiciales.
+
+**(Derogada)**
+
+> Se deroga, con efectos de 1 de septiembre de 2020, por la disposición derogatoria única.1 del Real Decreto Legislativo 1/2020, de 5 de mayo. [Ref. BOE-A-2020-4859](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4859)
+
+###### Disposición final séptima. Reforma de la Ley Hipotecaria.
+
+El párrafo séptimo del artículo 127 de la Ley Hipotecaria, de 8 de febrero de 1946, queda redactado de la forma siguiente:
+
+"Será juez o tribunal competente para conocer del procedimiento el que lo fuera respecto del deudor. No se suspenderá en ningún caso el procedimiento ejecutivo por las reclamaciones de un tercero, si no estuvieren fundadas en un título anteriormente inscrito, ni por la muerte del deudor o del tercer poseedor. En caso de concurso regirá lo establecido en la Ley Concursal."
+
+###### Disposición final octava. Reforma de la Ley de Hipoteca Mobiliaria y Prenda sin Desplazamiento.
+
+La Ley de Hipoteca Mobiliaria y Prenda sin Desplazamiento de Posesión, de 16 de diciembre de 1954, queda modificada en los términos siguientes:
+
+1\. El párrafo segundo del artículo 10 queda redactado de la forma siguiente:
+
+"En caso de concurso, la preferencia y prelación del acreedor hipotecario o pignoraticio se regirán por lo establecido en la Ley Concursal."
+
+2\. El artículo 66 queda redactado de la forma siguiente:
+
+"No obstante lo establecido en el párrafo primero del artículo 10, serán satisfechos con prelación al crédito pignoraticio:
+
+1.º Los créditos debidamente justificados por semillas, gastos de cultivo y recolección de las cosechas o frutos.
+
+2.º Los de alquileres o rentas de los últimos doce meses de la finca en que se produjeren, almacenaren o depositaren los bienes pignorados.
+
+En caso de concurso, se estará a lo dispuesto en la Ley Concursal."
+
+###### Disposición final novena. Reforma de la Ley de Hipoteca Naval.
+
+La Ley de 21 de agosto de 1893, de Hipoteca Naval, queda modificada en los términos siguientes:
+
+1\. Se añade un nuevo párrafo al final del artículo 31, como párrafo segundo, con la siguiente redacción:
+
+"Por excepción, si en caso de concurso no se hubiere ejercitado el derecho de separación del buque conforme a lo previsto en la Ley Concursal, la clasificación y graduación de créditos se regirá por lo establecido en ella."
+
+2\. Se añade un nuevo párrafo al final del artículo 32, como párrafo segundo, con la siguiente redacción:
+
+"Por excepción, si en caso de concurso no se hubiere ejercitado el derecho de separación del buque conforme a lo previsto en la Ley Concursal, la clasificación y graduación de créditos se regirá por lo establecido en ella."
+
+###### Disposición final décima. Reforma de la Ley General Presupuestaria.
+
+El artículo 39 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre, queda redactado de la forma siguiente:
+
+"1. Salvo en caso de concurso, no se podrá transigir judicialmente ni extrajudicialmente sobre los derechos de la Hacienda Pública ni someter a arbitraje las contiendas que se susciten respecto de los mismos, sino mediante real decreto acordado en Consejo de Ministros previa audiencia del de Estado en Pleno.
+
+2\. La suscripción y celebración por la Hacienda Pública de convenios en el seno de procedimientos concursales requerirán únicamente autorización del Ministerio de Hacienda, pudiéndose delegar esta competencia en los órganos de la Agencia Estatal de Administración Tributaria.
+
+No obstante, será suficiente la autorización del órgano competente de la Agencia Estatal de Administración Tributaria para la suscripción y celebración de los referidos convenios cuando afecten a créditos cuya gestión recaudatoria le corresponda a aquélla de conformidad con la ley o en virtud de convenio, con observancia en este último caso de lo convenido. En el caso del Fondo de Garantía Salarial, la suscripción y celebración de convenios en el seno de procedimientos concursales requerirá la autorización del órgano competente de acuerdo con la normativa reguladora del organismo autónomo.
+
+3\. Lo dispuesto en el apartado anterior será aplicable para la suscripción de los convenios previstos en la Ley Concursal o, en su caso, para la adhesión a ellos, así como para acordar, de conformidad con el deudor y con las garantías que se estimen oportunas, unas condiciones singulares de pago que no sean más favorables para el deudor que las establecidas en convenio para los demás créditos. Igualmente, se podrá acordar la compensación de los créditos a que se refiere ese apartado en los términos previstos en la legislación tributaria."
+
+###### Disposición final undécima. Modificación de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+1\. El apartado 2 del artículo 77 quedará redactado de la forma siguiente:
+
+“2. En el proceso concursal, los créditos tributarios quedarán sometidos a lo establecido en la Ley 22/2003, de 9 de julio, Concursal.”
+
+2\. El artículo 164 tendrá la siguiente redacción:
+
+“Artículo 164. Concurrencia de procedimientos.
+
+1\. Sin perjuicio del respeto al orden de prelación que para el cobro de los créditos viene establecido por la ley en atención a su naturaleza, en caso de concurrencia del procedimiento de apremio para la recaudación de los tributos con otros procedimientos de ejecución, ya sean singulares o universales, judiciales o no judiciales, la preferencia para la ejecución de los bienes trabados en el procedimiento vendrá determinada con arreglo a las siguientes reglas:
+
+1.º Cuando concurra con otros procesos o procedimientos singulares de ejecución, el procedimiento de apremio será preferente si el embargo efectuado en el curso del procedimiento de apremio fuera el más antiguo.
+
+2.º Cuando concurra con otros procesos o procedimientos concursales o universales de ejecución, el procedimiento de apremio será preferente para la ejecución de los bienes o derechos embargados en el mismo, siempre que el embargo acordado en el mismo se hubiera efectuado con anterioridad a la fecha de declaración del concurso.
+
+Para ambos casos, se estará a la fecha de la diligencia de embargo del bien o derecho.
+
+2\. En caso de concurso de acreedores se aplicará lo dispuesto en la Ley 22/2003, de 9 de julio, Concursal y, en su caso, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria, sin que ello impida que se dicte la correspondiente providencia de apremio y se devenguen los recargos del período ejecutivo si se dieran las condiciones para ello con anterioridad a la fecha de declaración del concurso o bien se trate de créditos contra la masa.
+
+3\. Los jueces y tribunales colaborarán con la Administración tributaria facilitando a los órganos de recaudación los datos relativos a procesos concursales o universales de ejecución que precisen para el ejercicio de sus funciones.
+
+Asimismo tendrán este deber de colaboración, respecto de sus procedimientos, cualesquiera órganos administrativos con competencia para tramitar procedimientos de ejecución.
+
+4\. El carácter privilegiado de los créditos tributarios otorga a la Hacienda Pública el derecho de abstención en los procesos concursales. No obstante, la Hacienda Pública podrá suscribir en el curso de estos procesos los acuerdos o convenios previstos en la legislación concursal, así como acordar, de conformidad con el deudor y con las garantías que se estimen oportunas, unas condiciones singulares de pago, que no pueden ser más favorables para el deudor que las recogidas en el convenio o acuerdo que ponga fin al proceso judicial. Este privilegio podrá ejercerse en los términos previstos en la legislación concursal. Igualmente podrá acordar la compensación de dichos créditos en los términos previstos en la normativa tributaria.
+
+Para la suscripción y celebración de los acuerdos y convenios a que se refiere el párrafo anterior se requerirá únicamente la autorización del órgano competente de la Administración tributaria.”
+
+> Se modifica por el art. único.117 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final undécima bis. Reforma de la Ley del Impuesto sobre el Valor Añadido.
+
+La Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido queda modificada en los siguientes términos:
+
+1\. Se introduce una letra e) al artículo 84.1.2.º, con el siguiente tenor:
+
+“e) Cuando se trate de entregas de bienes inmuebles efectuadas como consecuencia de un proceso concursal.”
+
+2\. La disposición adicional sexta pasa a tener la siguiente redacción:
+
+“Disposición adicional sexta. Procedimientos administrativos y judiciales de ejecución forzosa.
+
+En los procedimientos administrativos y judiciales de ejecución forzosa, los adjudicatarios que tengan la condición de empresario o profesional a efectos de este impuesto están facultados, en nombre y por cuenta del sujeto pasivo, y con respecto a las entregas de bienes y prestaciones de servicios sujetas al mismo que se produzcan en aquéllos, para:
+
+1.º Expedir la factura en que se documente la operación y se repercuta la cuota del impuesto, presentar la declaración-liquidación correspondiente e ingresar el importe del impuesto resultante.
+
+2.º Efectuar, en su caso, la renuncia a las exenciones prevista en el artículo 20.2.
+
+Reglamentariamente se determinarán las condiciones y requisitos para el ejercicio de estas facultades.
+
+Lo dispuesto en la presente disposición no se aplicará a las entregas de bienes inmuebles en las que el sujeto pasivo de las mismas sea su destinatario de acuerdo con lo dispuesto en la letra e) del artículo 84.1.2.º "
+
+> Se añade por el art. único.118 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final undécima ter. Modificación de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias.
+
+Se añade una nueva letra g) al artículo 19.1.2.º de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, que queda redactada de la siguiente manera:
+
+“g) Cuando se trate de entregas de bienes inmuebles efectuadas como consecuencia de un proceso concursal.”
+
+> Se añade por el art. único.119 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final duodécima. Reforma de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+El texto refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto Legislativo 1/1993, de 24 de septiembre, queda modificado en los términos siguientes:
+
+1\. Se añade un nuevo número en la letra B) del apartado 1 del artículo 45, como número 19, con la siguiente redacción:
+
+"19. Las ampliaciones de capital realizadas por personas jurídicas declaradas en concurso para atender una conversión de créditos en capital establecida en un convenio aprobado judicialmente conforme a la Ley Concursal."
+
+2\. Se añade un apartado 5 al artículo 46 con la siguiente redacción:
+
+"5. Se considerará que el valor fijado en las resoluciones del juez del concurso para los bienes y derechos transmitidos corresponde a su valor real, no procediendo en consecuencia comprobación de valores, en las transmisiones de bienes y derechos que se produzcan en un procedimiento concursal, incluyendo las cesiones de créditos previstas en el convenio aprobado judicialmente y las enajenaciones de activos llevadas a cabo en la fase de liquidación."
+
+###### Disposición final decimotercera. Reforma de la Ley de Contratos de las Administraciones Públicas.
+
+El texto refundido de la Ley de Contratos de las Administraciones Públicas, aprobado por Real Decreto Legislativo 2/2000, de 16 de junio, queda modificado en los términos siguientes:
+
+1\. El párrafo "b" del artículo 20 queda redactado de la forma siguiente:
+
+"b) Haber solicitado la declaración de concurso, haber sido declaradas insolventes en cualquier procedimiento, hallarse declaradas en concurso, estar sujetas a intervención judicial o haber sido inhabilitadas conforme a la Ley Concursal sin que haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso."
+
+2\. El párrafo "b" del artículo 111 queda redactado de la forma siguiente:
+
+"b) La declaración de concurso o la declaración de insolvencia en cualquier otro procedimiento."
+
+3\. Los apartados 2 y 7 del artículo 112 quedan redactados, respectivamente, de la forma siguiente:
+
+"2. La declaración de insolvencia en cualquier procedimiento y, en caso de concurso, la apertura de la fase de liquidación originarán siempre la resolución del contrato.
+
+En los restantes casos de resolución de contrato el derecho para ejercitarla será potestativo para aquella parte a la que no le sea imputable la circunstancia que diere lugar a la misma, sin perjuicio de lo establecido en el apartado 7 y de que en los supuestos de modificaciones en más del 20 por ciento previstos en los artículos 149, párrafo e) ; 192, párrafo c), y 214, párrafo c), la Administración también pueda instar la resolución."
+
+"7. En caso de declaración de concurso y mientras no se haya producido la apertura de la fase de liquidación, la Administración potestativamente continuará el contrato si el contratista prestare las garantías suficientes a juicio de aquélla para su ejecución."
+
+###### Disposición final decimocuarta. Reforma del Estatuto de los Trabajadores.
+
+El texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, queda modificado en los términos siguientes:
+
+1\. El artículo 32 queda redactado de la forma siguiente:
+
+"1. Los créditos salariales por los últimos treinta días de trabajo y en cuantía que no supere el doble del salario mínimo interprofesional gozarán de preferencia sobre cualquier otro crédito, aunque éste se encuentre garantizado por prenda o hipoteca.
+
+2\. Los créditos salariales gozarán de preferencia sobre cualquier otro crédito respecto de los objetos elaborados por los trabajadores mientras sean propiedad o estén en posesión del empresario.
+
+3\. Los créditos por salarios no protegidos en los apartados anteriores tendrán la condición de singularmente privilegiados en la cuantía que resulte de multiplicar el triple del salario mínimo interprofesional por el número de días del salario pendientes de pago, gozando de preferencia sobre cualquier otro crédito, excepto los créditos con derecho real, en los supuestos en los que éstos, con arreglo a la Ley, sean preferentes. La misma consideración tendrán las indemnizaciones por despido en la cuantía correspondiente al mínimo legal calculada sobre una base que no supere el triple del salario mínimo.
+
+4\. El plazo para ejercitar los derechos de preferencia del crédito salarial es de un año, a contar desde el momento en que debió percibirse el salario, transcurrido el cual prescribirán tales derechos.
+
+5\. Las preferencias reconocidas en los apartados precedentes serán de aplicación en todos los supuestos en los que, no hallándose el empresario declarado en concurso, los correspondientes créditos concurran con otro u otros sobre bienes de aquél. En caso de concurso, serán de aplicación las disposiciones de la Ley Concursal relativas a la clasificación de los créditos y a las ejecuciones y apremios."
+
+2\. Se añade al capítulo III del título I una nueva sección que, como sección 5.ª y bajo el título "Procedimiento concursal", estará integrada por el siguiente artículo:
+
+"Artículo 57 bis. Procedimiento concursal.
+
+En caso de concurso, a los supuestos de modificación, suspensión y extinción colectivas de los contratos de trabajo y de sucesión de empresa, se aplicarán las especialidades previstas en la Ley Concursal".
+
+3\. Se modifica el apartado 3 del artículo 33, que pasa a tener la siguiente redacción:
+
+“3. En caso de procedimientos concursales, desde el momento en que se tenga conocimiento de la existencia de créditos laborales o se presuma la posibilidad de su existencia, el juez, de oficio o a instancia de parte, citará al FOGASA, sin cuyo requisito no asumirá éste las obligaciones señaladas en los apartados anteriores. El Fondo se personará en el expediente como responsable legal subsidiario del pago de los citados créditos, pudiendo instar lo que a su derecho convenga y sin perjuicio de que, una vez realizado, continúe como acreedor en el expediente. A los efectos del abono por el FOGASA de las cantidades que resulten reconocidas a favor de los trabajadores, se tendrán en cuenta las reglas siguientes:
+
+Primera.
+
+Sin perjuicio de los supuestos de responsabilidad directa del organismo en los casos legalmente establecidos, el reconocimiento del derecho a la prestación exigirá que los créditos de los trabajadores aparezcan incluidos en la lista de acreedores o, en su caso, reconocidos como deudas de la masa por el órgano del concurso competente para ello en cuantía igual o superior a la que se solicita del FOGASA, sin perjuicio de la obligación de aquellos de reducir su solicitud o de reembolsar al FOGASA la cantidad que corresponda cuando la cuantía reconocida en la lista definitiva fuese inferior a la solicitada o a la ya percibida.
+
+Segunda.
+
+Las indemnizaciones a abonar a cargo del FOGASA, con independencia de lo que se pueda pactar en el proceso concursal, se calcularán sobre la base de veinte días por año de servicio, con el límite máximo de una anualidad, sin que el salario diario, base del cálculo, pueda exceder del triple del salario mínimo interprofesional, incluyendo la parte proporcional de las pagas extraordinarias.
+
+Tercera.
+
+En el supuesto de que los trabajadores perceptores de estas indemnizaciones solicitaran del FOGASA el abono de la parte de indemnización no satisfecha por el empresario, el límite de la prestación indemnizatoria a cargo del Fondo se reducirá en la cantidad ya percibida por aquellos.”
+
+> Se añade el apartado 3 por el art. único.120 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final decimoquinta. Reforma de la Ley de Procedimiento Laboral.
+
+El texto refundido de la Ley de Procedimiento Laboral, aprobado por Real Decreto Legislativo 2/1995, de 7 de abril, queda modificado en los términos siguientes:
+
+1\. El párrafo "a" del artículo 2 queda redactado de la forma siguiente:
+
+"a) Entre empresarios y trabajadores como consecuencia del contrato de trabajo, salvo lo dispuesto en la Ley Concursal."
+
+2\. Se añade párrafo d) al apartado 1 del artículo 3 con la siguiente redacción:
+
+"d) De las pretensiones cuyo conocimiento y decisión esté reservado por la Ley Concursal a la jurisdicción exclusiva y excluyente del juez del concurso."
+
+3\. El apartado 1 del artículo 4 queda redactado de la forma siguiente:
+
+"1. La competencia de los órganos jurisdiccionales del orden social se extenderá al conocimiento y decisión de las cuestiones previas y prejudiciales no pertenecientes a dicho orden, que estén direc tamente relacionadas con las atribuidas al mismo, salvo lo previsto en el apartado 3 de este artículo y en la Ley Concursal."
+
+4\. El artículo 6 queda redactado de la forma siguiente:
+
+"Los Juzgados de lo Social conocerán en única instancia de todos los procesos atribuidos al orden jurisdiccional social, salvo lo dispuesto en los artículos 7 y 8 de esta ley y en la Ley Concursal."
+
+5\. El apartado 1 del artículo 188 queda redactado de la forma siguiente:
+
+"Las Salas de lo social de los Tribunales Superiores de Justicia conocerán de los recursos de suplicación que se interpongan contra las resoluciones dictadas por los juzgados de lo social de su circunscripción, así como contra los autos y sentencias que puedan dictar los jueces de lo mercantil que se encuentren en su circunscripción y que afecten al derecho laboral."
+
+6\. Se añade un párrafo 5 al artículo 189 con la siguiente redacción:
+
+"Los autos y sentencias que se dicten por los juzgados de lo mercantil en el proceso concursal y que resuelvan cuestiones de carácter laboral."
+
+7\. Se añade un apartado 5 al artículo 235 con la siguiente redacción:
+
+"5. En caso de concurso, se estará a lo establecido en la Ley Concursal."
+
+8\. El apartado 3 del artículo 246 queda redactado de la forma siguiente:
+
+"3. En caso de concurso, las acciones de ejecución que puedan ejercitar los trabajadores para el cobro de los salarios que les puedan ser adeudados quedan sometidas a lo establecido en la Ley Concursal."
+
+9\. Se añade un apartado 5 al artículo 274 con la siguiente redacción:
+
+"5. La declaración de insolvencia del ejecutado se publicará en el "Boletín Oficial del Registro Mercantil"."
+
+10\. Se añade una nueva disposición adicional octava con la siguiente redacción:
+
+"Disposición adicional octava.
+
+Las disposiciones de esta ley no resultarán de aplicación en las cuestiones litigiosas sociales que se planteen en caso de concurso y cuya resolución corresponda al Juez del concurso conforme a la Ley Concursal, con las excepciones expresas que se contienen en dicha Ley."
+
+###### Disposición final decimosexta. Reforma de la Ley General de la Seguridad Social.
+
+El texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, queda modificado en los términos siguientes:
+
+1\. El artículo 22 queda redactado de la forma siguiente:
+
+"Artículo 22. Prelación de créditos.
+
+Los créditos por cuotas de la Seguridad Social y conceptos de recaudación conjunta y, en su caso, los recargos o intereses que sobre aquéllos procedan gozarán, respecto de la totalidad de los mismos, de igual orden de preferencia que los créditos a que se refiere el apartado 1.º del artículo 1.924 del Código Civil. Los demás créditos de la Seguridad Social gozarán del mismo orden de preferencia establecido en el apartado 2.º, párrafo E), del referido precepto.
+
+En caso de concurso, los créditos por cuotas de la Seguridad Social y conceptos de recaudación conjunta y, en su caso, los recargos e intereses que sobre aquéllos procedan, así como los demás créditos de Seguridad Social, quedarán sometidos a lo establecido en la Ley Concursal.
+
+Sin perjuicio del orden de prelación para el cobro de los créditos establecido por la ley, cuando el procedimiento de apremio administrativo concurra con otros procedimientos de ejecución singular, de naturaleza administrativa o judicial, será preferente aquel en el que primero se hubiera efectuado el embargo."
+
+2\. El artículo 24 queda redactado de la forma siguiente:
+
+"Artículo 24. Transacciones sobre los derechos de la Seguridad Social.
+
+No se podrá transigir judicial ni extrajudicialmente sobre los derechos de la Seguridad Social ni someter a arbitraje las contiendas que se susciten respecto de los mismos, sino mediante real decreto acordado en Consejo de Ministros, previa audiencia del Consejo de Estado.
+
+El carácter privilegiado de los créditos de la Seguridad Social otorga a la Tesorería General de la Seguridad Social el derecho de abstención en los procesos concursales. No obstante, la Tesorería General de la Seguridad Social podrá suscribir en el curso de estos procesos los acuerdos o convenios previstos en la legislación concursal, así como acordar, de conformidad con el deudor y con las garantías que se estimen oportunas, unas condiciones singulares de pago, que no pueden ser más favorables para el deudor que las recogidas en el convenio o acuerdo que ponga fin al proceso judicial.”
+
+3\. El párrafo a) del apartado 1.1 del artículo 208 queda redactada de la forma siguiente:
+
+"a) En virtud de expediente de regulación de empleo o de resolución judicial adoptada en el seno de un procedimiento concursal."
+
+4\. El número 2 del apartado 1 del artículo 208 queda redactado de la forma siguiente:
+
+"2. Cuando se suspenda su relación laboral en virtud de expediente de regulación de empleo o de resolución judicial adoptada en el seno de un procedimiento concursal."
+
+5\. El número 3 del apartado primero del artículo 208 queda redactado de la siguiente forma:
+
+“3. Cuando se reduzca temporalmente la jornada ordinaria diaria de trabajo, en virtud de expediente de regulación de empleo o de resolución judicial adoptada en el seno de un proceso concursal, en los términos del artículo 203.3.”
+
+> Se modifica el apartado 2 y se añade el 5 por el art. único.122 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final decimoséptima. Reforma de la Ley Cambiaria y del Cheque.
+
+El artículo 50 de la Ley 19/1985, de 16 de julio, Cambiaria y del Cheque, queda redactado de la forma siguiente:
+
+"El tenedor podrá ejercitar su acción de regreso contra los endosantes, el librador y las demás personas obligadas, una vez vencida la letra, cuando el pago no se haya efectuado.
+
+La misma acción podrá ejercitarse antes del vencimiento en los siguientes casos:
+
+a) Cuando se hubiere denegado total o parcialmente la aceptación.
+
+b) Cuando el librado, sea o no aceptante, se hallare declarado en concurso o hubiere resultado infructuoso el embargo de sus bienes.
+
+c) Cuando el librador de una letra, cuya presentación a la aceptación haya sido prohibida, se hallare declarado en concurso.
+
+En los supuestos de los párrafos b) y c) los demandados podrán obtener del juez un plazo para el pago que en ningún caso excederá del día del vencimiento de la letra."
+
+###### Disposición final decimoctava. Reforma de la Ley del Mercado de Valores.
+
+La Ley 24/1988, de 28 de julio, del Mercado de Valores, queda modificada en los términos siguientes:
+
+1\. Los apartados 8 y 9 del artículo 44 bis quedan redactados de la forma siguiente:
+
+"8. Declarado el concurso de una entidad participante en los sistemas gestionados por la sociedad de sistemas, esta última gozará de derecho absoluto de separación respecto de los bienes o derechos en que se materialicen las garantías constituidas por dichas entidades participantes en los sistemas gestionados por aquélla. Sin perjuicio de lo anterior, el sobrante que reste después de la liquidación de las operaciones garantizadas se incorporará a la masa activa del concurso del participante.
+
+9\. Declarado el concurso de una entidad participante en los sistemas a que se refiere este artículo, la Comisión Nacional del Mercado de Valores, sin perjuicio de las competencias del Banco de España, podrá disponer, de forma inmediata y sin coste para el inversor, el traslado de sus registros contables de valores a otra entidad habilitada para desarrollar esta actividad. De igual forma, los titulares de tales valores podrán solicitar el traslado de los mismos a otra entidad. Si ninguna entidad estuviese en condiciones de hacerse cargo de los registros señalados, esta actividad será asumida por la sociedad de sistemas de modo provisional, hasta que los titulares soliciten el traslado del registro de sus valores. A estos efectos, tanto el juez del concurso como la administración concursal facilitarán el acceso de la entidad a la que vayan a traspasarle los valores a la documentación y registros contables e informáticos necesarios para hacer efectivo el traspaso. La existencia del procedimiento concursal no impedirá que se haga llegar a los titulares de los valores el efectivo procedente del ejercicio de sus derechos económicos o de su venta."
+
+2\. Se introduce un nuevo apartado 6 en el artículo 58 con la siguiente redacción:
+
+"6. Declarado el concurso de una entidad gestora del Mercado de Deuda Pública en Anotaciones, el Banco de España podrá disponer, de forma inmediata y sin coste para el inversor, el traspaso de los valores anotados a cuenta de terceros de otras entidades gestoras. De igual forma, los titulares de los valores podrán solicitar el traslado de los mismos a otra entidad gestora. A estos efectos, tanto el juez del concurso como la administración concursal facilitarán el acceso de la entidad gestora destinataria a la documentación y registros contables e informáticos necesarios para hacer efectivo el traspaso, asegurándose de este modo el ejercicio de los derechos de los titulares de los valores. La existencia del procedimiento concursal no impedirá que se haga llegar a los titulares de los valores el efectivo procedente del ejercicio de los derechos económicos o de su venta."
+
+3\. El párrafo g) del apartado 2 del artículo 67 queda redactado de la forma siguiente:
+
+"g) Que ninguno de los miembros de su Consejo de Administración, así como ninguno de sus Directores Generales o asimilados, se halle inhabilitado, en España o en el extranjero, como consecuencia de un procedimiento concursal; se encuentre procesado o, tratándose del procedimiento a que se refiere el título III del libro IV de la Ley de Enjuiciamiento Criminal, se hubiera dictado auto de apertura del juicio oral; tenga antecedentes penales por delitos de falsedad, contra la Hacienda Pública, de infidelidad en la custodia de documentos, de violación de secretos, de blanqueo de capitales, de malversación de caudales públicos, de descubrimiento y revelación de secretos o contra la propiedad; o esté inhabilitado o suspendido, penal o administrativamente, para ejercer cargos públicos o de administración o dirección de entidades financieras."
+
+4\. El párrafo h) del artículo 73 queda redactado de la forma siguiente:
+
+"h) Si la empresa de servicios de inversión o la persona o entidad es declarada judicialmente en concurso."
+
+5\. El artículo 76 bis queda redactado de la forma siguiente:
+
+"La Comisión Nacional del Mercado de Valores estará legitimada para solicitar la declaración de concurso de las empresas de servicios de inversión, siempre que de los estados contables remitidos por las entidades, o de las comprobaciones realizadas por los servicios de la propia Comisión, resulte que se encuentran en estado de insolvencia conforme a lo establecido en la Ley Concursal."
+
+###### Disposición final decimonovena. Reforma de la Ley del Mercado Hipotecario y de la Ley de Medidas de Reforma del Sistema Financiero.
+
+1\. Se añaden dos nuevos párrafos al artículo 14 de la Ley 2/1981, de 25 de marzo, de regulación del Mercado Hipotecario, como apartado segundo, con la siguiente redacción:
+
+"En caso de concurso, los tenedores de cédulas y bonos hipotecarios gozarán del privilegio especial establecido en el número 1.º del apartado 1 del artículo 90 de la Ley Concursal.
+
+Sin perjuicio de lo anterior, se atenderán durante el concurso, de acuerdo con lo previsto en el número 7.º del apartado 2 del artículo 84 de la Ley Concursal, y como créditos contra la masa, los pagos que correspondan por amortización de capital e intereses de las cédulas y bonos hipotecarios emitidos y pendientes de amortización en la fecha de solicitud del concurso hasta el importe de los ingresos percibidos por el concursado de los préstamos hipotecarios que respalden las cédulas y bonos hipotecarios."
+
+2\. Se añade un apartado séptimo al artículo 13 de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, con la siguiente redacción:
+
+"Séptimo. En caso de concurso, los tenedores de cédulas territoriales gozarán del privilegio especial establecido en el número 1.º del apartado 1 del artículo 90 de la Ley Concursal.
+
+Sin perjuicio de lo anterior, se atenderán durante el concurso, de acuerdo con lo previsto en el número 7.º del apartado 2 del artículo 84 de la Ley Concursal, y como créditos contra la masa, los pagos que correspondan por amortización de capital e intereses de las cédulas territoriales emitidas y pendientes de amortización en la fecha de solicitud del concurso hasta el importe de los ingresos percibidos por el concursado de los préstamos que respalden las cédulas."
+
+###### Disposición final vigésima. Reforma de la Ley de Sociedades Anónimas.
+
+El texto refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre, queda modificado en los términos siguientes:
+
+1\. El artículo 124 quedará redactado de la forma siguiente:
+
+"Artículo 124. Prohibiciones.
+
+1\. No pueden ser administradores los menores de edad no emancipados, los judicialmente incapacitados, las personas inhabilitadas conforme a la Ley Concursal mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso y los condenados por delitos contra la libertad, contra el patrimonio o contra el orden socio-económico, contra la seguridad colectiva, contra la Administración de Justicia o por cualquier clase de falsedad, así como aquéllos que por razón de su cargo no puedan ejercer el comercio.
+
+2\. Tampoco podrán ser administradores los funcionarios al servicio de la Administración pública con funciones a su cargo que se relacionen con las actividades propias de las sociedades de que se trate, los jueces o magistrados y las demás personas afectadas por una incompatibilidad legal."
+
+2\. El apartado 2 del artículo 260 queda redactado de la forma siguiente:
+
+"2. La declaración de concurso no constituirá, por si sola, causa de disolución, pero si en el procedimiento se produjera la apertura de la fase de liquidación la sociedad quedará automáticamente disuelta. En este último caso, el juez del concurso hará constar la disolución en la resolución de apertura y, sin nombramiento de liquidadores, se realizará la liquidación de la sociedad conforme a lo establecido en el capítulo II del título V de la Ley Concursal."
+
+3\. El número 4.º del apartado 1 del artículo 260 tendrá la siguiente redacción:
+
+"4.º Por consecuencia de pérdidas que dejen reducido el patrimonio a una cantidad inferior a la mitad del capital social, a no ser que éste se aumente o se reduzca en la medida suficiente, y siempre que no sea procedente solicitar la declaración de concurso conforme a lo dispuesto en la Ley Concursal."
+
+4\. El apartado 2 del artículo 262 pasa a tener la siguiente redacción:
+
+"2. Los administradores deberán convocar Junta General en el plazo de dos meses para que adopte el acuerdo de disolución.
+
+Asimismo podrán solicitar la declaración de concurso por consecuencia de pérdidas que dejen reducido el patrimonio a una cantidad inferior a la mitad del capital social, a no ser que éste se aumente o se reduzca en la medida suficiente, siempre que la referida reducción determine la insolvencia de la sociedad, en los términos a que se refiere el artículo 2 de la Ley Concursal.
+
+Cualquier accionista podrá requerir a los administradores para que se convoque la Junta si, a su juicio, existe causa legítima para la disolución, o para el concurso."
+
+5\. El apartado 4 del artículo 262 tendrá la siguiente redacción:
+
+"4. Los administradores están obligados a solicitar la disolución judicial de la sociedad cuando el acuerdo social fuese contrario a la disolución o no pudiera ser logrado. La solicitud habrá de formularse en el plazo de dos meses a contar desde la fecha prevista para la celebración de la junta, cuando ésta no se haya constituído, o desde el día de la junta, cuando el acuerdo hubiera sido contrario a la disolución o no se hubiera adoptado."
+
+6\. El apartado 5 del artículo 262 tendrá la siguiente redacción:
+
+"5. Responderán solidariamente de las obligaciones sociales los administradores que incumplan la obligación de convocar en el plazo de dos meses la Junta General para que adopte, en su caso, el acuerdo de disolución, así como los administradores que no soliciten la disolución judicial o, si procediere, el concurso de la sociedad, en el plazo de dos meses a contar desde la fecha prevista para la celebración de la junta, cuando ésta no se haya constituido, o desde el día de la junta, cuando el acuerdo hubiera sido contrario a la disolución o al concurso."
+
+###### Disposición final vigésima primera. Reforma de la Ley de Sociedades de Responsabilidad Limitada.
+
+La Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada, queda modificada en los términos siguientes:
+
+1\. El apartado 3 del artículo 58 queda redactado de la forma siguiente:
+
+"3. No pueden ser administradores los menores de edad no emancipados, los judicialmente incapacitados, las personas inhabilitadas conforme a la Ley Concursal mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso y los condenados por delitos contra la libertad, contra el patrimonio o contra el orden socio-económico, contra la seguridad colectiva, contra la Administración de Justicia o por cualquier clase de falsedad, así como aquéllos que por razón de su cargo no puedan ejercer el comercio. Tampoco podrán ser administradores los funcionarios al servicio de la Administración pública con funciones a su cargo que se relacionen con las actividades propias de las sociedades de que se trate, los jueces o magistrados y las demás personas afectadas por una incompatibilidad legal."
+
+2\. El párrafo e) del apartado 1 del artículo 104 quedará redactado como sigue:
+
+"e) Por consecuencia de pérdidas que dejen reducido el patrimonio contable a menos de la mitad del capital social, a no ser que éste se aumente o se reduzca en la medida suficiente, y siempre que no sea procedente solicitar la declaración de concurso conforme a lo dispuesto en la Ley Concursal."
+
+3\. El apartado 2 del artículo 104 queda redactado de la forma siguiente:
+
+"2. La declaración de concurso no constituirá, por sí sola, causa de disolución, pero si en el procedimiento se produjera la apertura de la fase de liquidación la sociedad quedará automáticamente disuelta. En este último caso, el juez del concurso hará constar la disolución en la resolución de apertura y, sin nombramiento de liquidadores, se realizará la liquidación de la sociedad conforme a lo establecido en el capítulo II del título V de la Ley Concursal."
+
+4\. Los apartados 1 y 5 del artículo 105 de la Ley de Sociedades de Responsabilidad Limitada quedan redactados de la forma siguiente:
+
+"1. En los casos previstos en los párrafos c) a g) del apartado 1 del artículo anterior, la disolución, o la solicitud de concurso, requerirá acuerdo de la Junta General adoptado por la mayoría a que se refiere el apartado 1 del artículo 53. Los administradores deberán convocar la Junta General en el plazo de dos meses para que adopte el acuerdo de disolución o inste el concurso. Cualquier socio podrá solicitar de los administradores la convocatoria si, a su juicio, concurriera alguna de dichas causas de disolución, o concurriera la insolvencia de la sociedad, en los términos a que se refiere el artículo 2 de la Ley Concursal."
+
+"5. El incumplimiento de la obligación de convocar Junta General o de solicitar la disolución judicial o, si procediera, el concurso de acreedores de la sociedad determinará la responsabilidad solidaria de los administradores por todas las deudas sociales."
+
+5\. El apartado 2 del artículo 128 queda redactado de la forma siguiente:
+
+"2. En caso de concurso del socio único o de la sociedad, no serán oponibles a la masa aquellos contratos comprendidos en el apartado anterior que no hayan sido transcritos al libro-registro y no se hallen referenciados en la memoria anual o lo hayan sido en memoria no depositada con arreglo a la ley."
+
+###### Disposición final vigésima segunda. Reforma de la Ley de Cooperativas.
+
+El párrafo d) del artículo 41 de la Ley 27/1999, de 16 de julio, de Cooperativas, queda redactado de la forma siguiente:
+
+"d) Las personas que sean inhabilitadas conforme a la Ley Concursal mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso, quienes se hallen impedidos para el ejercicio de empleo o cargo público y aquellos que por razón de su cargo no puedan ejercer actividades económicas lucrativas."
+
+###### Disposición final vigésima tercera. Reforma de la Ley de Sociedades de Garantía Recíproca.
+
+La Ley 1/1994, de 11 de marzo, de Régimen Jurídico de las Sociedades de Garantía Recíproca, queda modificada en los términos siguientes:
+
+1\. El párrafo segundo del apartado 2 del artículo 43 queda redactado de la forma siguiente:
+
+"Concurre honorabilidad comercial y profesional en quienes hayan venido observando una trayectoria personal de respeto a las leyes mercantiles u otras que regulan la actividad económica y la vida de los negocios, así como a las buenas prácticas comerciales, financieras y bancarias. En todo caso, se entenderá que carecen de tal honorabilidad quienes tengan antecedentes penales por delitos de blanqueo de capitales relacionados con los delitos contra la salud pública, de falsedad, contra la Hacienda Pública, de infidelidad de la custodia de documentos, de violación de secretos, de malversación de caudales públicos, de descubrimiento y revelación de secretos o contra la propiedad, los bilitados para ejercer cargos públicos o de administración o dirección en entidades financieras y los inhabilitados conforme a la Ley Concursal mientras no haya concluido el período de inhabilitación fijado en la sentencia de calificación del concurso."
+
+2\. El párrafo g) del artículo 59 queda redactado de la forma siguiente:
+
+"g) Por la apertura de la fase de liquidación, cuando la sociedad se hallare declarada en concurso."
+
+3\. Se añade un apartado 3 al artículo 59 con la siguiente redacción:
+
+"3. En el supuesto previsto en el párrafo g) del apartado primero, la sociedad quedará automáticamente disuelta al producirse en el concurso la apertura de la fase de liquidación. El juez del concurso hará constar la disolución en la resolución de apertura y, sin nombramiento de liquidadores, se realizará la liquidación de la sociedad conforme a lo establecido en el capítulo II del título V de la Ley Concursal."
+
+###### Disposición final vigésima cuarta. Reforma de la Ley de entidades de capital riesgo.
+
+La Ley 1/1999, de 5 de enero, reguladora de las entidades de capital riesgo y de sus sociedades gestoras, queda modificada en los términos siguientes:
+
+1\. El párrafo c) del apartado 2 del artículo 8 queda redactado de la forma siguiente:
+
+"c) Que ninguno de los miembros de su Consejo de Administración, así como ninguno de sus Directores Generales o asimilados, se halle inhabilitado, en España o en el extranjero, como consecuencia de un procedimiento concursal, se encuentre procesado, o, tratándose del procedimiento a que se refiere el título III del libro IV de la Ley de Enjuiciamiento Criminal, se hubiera dictado auto de apertura del juicio oral, o tenga antecedentes penales, por delitos de falsedad, contra la Hacienda Pública y contra la Seguridad Social, de infidelidad en la custodia de documentos y violación de secretos, de blanqueo de capitales, de receptación y otras conductas afines, de malver sación de caudales públicos, contra la propiedad, o esté inhabilitado o suspendido, penal o administrativamente, para ejercer cargos públicos o de administración o dirección de entidades financieras."
+
+2\. El párrafo b) del artículo 13 quedará redactado de la forma siguiente:
+
+"b) Por haber sido declarada en concurso."
+
+3\. El apartado 2 del artículo 33 queda redactado de la forma siguiente:
+
+"2. En caso de declaración de concurso de la sociedad gestora, la administración concursal deberá solicitar el cambio conforme al procedimiento descrito en el apartado anterior. La Comisión Nacional del Mercado de Valores podrá acordar dicha sustitución cuando no sea solicitada por la administración concursal, dando inmediata comunicación de ella al juez del concurso."
+
+###### Disposición final vigésima quinta. Reforma de la Ley de agrupaciones de interés económico.
+
+La Ley 12/1991, de 29 de abril, de agrupaciones de interés económico, queda modificada en los términos siguientes:
+
+1\. El número 3.º del apartado 1 del artículo 18 queda redactado de la forma siguiente:
+
+"3.º Por la apertura de la fase de liquidación, cuando la Agrupación se hallare declarada en concurso."
+
+2\. Se añade un nuevo apartado al artículo 18 como apartado 2, con la siguiente redacción:
+
+"2. En el supuesto previsto en el número 3.º del apartado anterior, la agrupación quedará automáticamente disuelta al producirse en el concurso la apertura de la fase de liquidación. El juez del concurso hará constar la disolución en la resolución de apertura y, sin nombramiento de liquidadores, se realizará la liquidación de la agrupación conforme a lo establecido en el capítulo II del título V de la Ley Concursal."
+
+3\. El apartado 2 del artículo 18 pasará a ser apartado 3 con la siguiente redacción:
+
+"3. En los supuestos contemplados en los números 4.º y 5.º del apartado 1, la disolución precisará acuerdo mayoritario de la asamblea. Si dicho acuerdo no se adoptare dentro de los tres meses siguientes a la fecha en que se produjere la causa de disolución cualquier socio podrá pedir que ésta se declare judicialmente."
+
+4\. Los apartados 3 y 4 del artículo 18 pasan a ser apartados 4 y 5, respectivamente, conservando su actual redacción.
+
+###### Disposición final vigésima sexta. Reforma del Estatuto Legal del Consorcio de Compensación de Seguros.
+
+**(Derogada)**
+
+> Se deroga por la dispodición derogatoria única 1.d) del Real Decreto Legislativo 7/2004, de 29 de octubre. [Ref. BOE-A-2004-18910](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-18910).
+
+###### Disposición final vigésima séptima. Reforma de la Ley de Ordenación y Supervisión de los Seguros Privados.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto Legislativo 6/2004, de 29 de octubre. [Ref. BOE-A-2004-18908](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-18908).
+
+###### Disposición final vigésima octava. Reforma de la Ley de Contrato de Seguro.
+
+El artículo 37 de la Ley 50/1980, de 8 de octubre, de Contrato de Seguro, queda redactado de la forma siguiente:
+
+"Las normas de los artículos 34 a 36 se aplicarán en caso de muerte del tomador del seguro o del asegurado y, declarado el concurso de uno de ellos, en caso de apertura de la fase de liquidación."
+
+###### Disposición final vigésima novena. Reforma de la Ley sobre Contrato de Agencia.
+
+El párrafo b) del apartado 1 del artículo 26 de la Ley 12/1992, de 27 de mayo, sobre Contrato de Agencia, queda redactado de la forma siguiente:
+
+"b) Cuando la otra parte hubiere sido declarada en concurso."
+
+###### Disposición final trigésima. Reforma de la Ley de Navegación Aérea.
+
+Se añaden dos nuevos párrafos al final del artículo 133 de la Ley 48/1960, de 21 de julio, sobre Normas Reguladoras de Navegación Aérea, como párrafos tercero y cuarto, con la siguiente redacción:
+
+“Los privilegios y el orden de prelación establecidos en los apartados anteriores regirán únicamente en los supuestos de ejecución singular.
+
+En caso de concurso, el derecho de separación de la aeronave previsto en la Ley Concursal se reconocerá a los titulares de los créditos privilegiados comprendidos en los números 1.º a 5.º del apartado primero.”
+
+> Se modifica por el art. único.122 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).
+
+###### Disposición final trigésima primera. Reforma de la Ley de Defensa de Consumidores y Usuarios.
+
+Se añade un nuevo apartado 4 al artículo 31 de la Ley 26/1984, de 19 de julio, para la Defensa de Consumidores y Usuarios, con la siguiente redacción:
+
+"4. Quedarán sin efecto los convenios arbitrales y las ofertas públicas de sometimiento al arbitraje de consumo formalizados por quienes sean declarados en concurso de acreedores. A tal fin, el auto de declaración de concurso será notificado al órgano a través del cual se hubiere formalizado el convenio y a la Junta Arbitral Nacional, quedando desde ese momento el deudor concursado excluido a todos los efectos del sistema arbitral de consumo."
+
+###### Disposición final trigésima segunda. Título competencial.
+
+La presente Ley se dicta al amparo de la competencia que corresponde al Estado conforme al artículo 149.1.6.ª y 8.ª de la Constitución, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las comunidades autónomas.
+
+###### Disposición final trigésima tercera. Proyecto de Ley reguladora de la concurrencia y prelación de créditos.
+
+En el plazo de seis meses a contar desde la entrada en vigor de esta Ley, el Gobierno remitirá a las Cortes Generales un proyecto de ley reguladora de la concurrencia y prelación de créditos en caso de ejecuciones singulares.
+
+###### Disposición final trigésima cuarta. Arancel de retribuciones.
+
+En un plazo no superior a nueve meses, el Gobierno aprobará, mediante real decreto, el arancel de las retribuciones correspondientes a la administración concursal.
+
+###### Disposición final trigésima quinta. Entrada en vigor.
+
+La presente Ley entrará en vigor el día 1 de septiembre de 2004, salvo en lo que se refiere a la modificación de los artículos 463, 472 y 482 de la Ley de Enjuiciamiento Civil efectuada por la disposición final tercera y al mandato contenido en la Disposición final trigesimosegunda, que entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+
+Madrid, 9 de julio de 2003.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno en funciones,
+
+MARIANO RAJOY BREY
+
+> Información relacionada
+
+> Puede consultarse, con efectos meramente informativos, la tabla de correspondencias de los preceptos de la Ley 22/2003, de 9 de julio, Concursal, con los del texto refundido de la Ley Concursal, aprobado por Real Decreto Legislativo 1/2020, de 5 de mayo, en virtud de la disposición adicional tercera del mismo, a través de la página web de los [Ministerios de Justicia y de Asuntos Económicos y Transformación Digital](https://www.notariosyregistradores.com/web/wp-content/uploads/2020/07/Tabla-equivalencias-Ley-Concursal-1.pdf)
+
+> Téngase en cuenta que las referencias hechas a "los administradores concursales" se entenderán hechas a "la administración concursal", según establece la disposición final 1 de la Ley 38/2011, de 10 de octubre. [Ref. BOE-A-2011-15938](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15938).

@@ -1,0 +1,269 @@
+---
+title: "Real Decreto 219/2001, de 2 de marzo, sobre organización y funcionamiento del Consejo para el Fomento de la Economía Social"
+identifier: "BOE-A-2001-5061"
+eli: "https://www.boe.es/eli/es/rd/2001/03/02/219"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2001-03-02
+published: 2001-03-15
+in_force_from: 2001-03-16
+last_amended: 2021-02-24
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 64"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-5061"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 219/2001, de 2 de marzo, sobre organización y funcionamiento del Consejo para el Fomento de la Economía Social
+
+La disposición adicional segunda de la Ley 27/1999, de 16 de julio, de Cooperativas, crea el Consejo para el Fomento de la Economía Social como órgano asesor y consultivo para las actividades relacionadas con la economía social, integrado, a través del Ministerio de Trabajo y Asuntos Sociales, en la Administración General del Estado, aunque sin participar en la estructura jerárquica de ésta y actuando como un órgano de colaboración y coordinación del movimiento asociativo y la Administración General del Estado.
+
+Asimismo, la disposición final quinta establece que el Gobierno, a propuesta del Ministro de Trabajo y Asuntos Sociales, podrá dictar normas para la aplicación y desarrollo de la mencionada Ley.
+
+Se hace, por tanto, preciso dictar un Real Decreto para la aplicación de lo dispuesto en la citada disposición adicional, especialmente en lo concerniente al desarrollo de aquellos aspectos que la indicada Ley se limita a enunciar y que requiere su concreción para la efectiva constitución y funcionamiento del referido Consejo.
+
+En el proceso de elaboración de la norma han sido consultadas las Comunidades Autónomas y las organizaciones representativas de los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de marzo de 2001,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El Consejo para el Fomento de la Economía Social se configura como un órgano colegiado, asesor y consultivo para las actividades relacionadas con la economía social, integrado, a través del Ministerio de Trabajo y Economía Social, en la Administración General del Estado, sin participar de la estructura jerárquica de esta. Actuará como un órgano de colaboración, coordinación e interlocución de la economía social y la Administración General del Estado.
+
+> Se modifica por el art. único.1 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Artículo 2. Funciones y ámbito del Consejo.
+
+1\. El Consejo para el Fomento de la Economía Social tendrá las funciones siguientes:
+
+a) Informar y colaborar en la elaboración de proyectos sobre cualquier disposición legal o reglamentaria que afecten a entidades de la economía social.
+
+b) Elaborar los informes que se soliciten por el Ministerio de Trabajo y Economía Social y demás departamentos ministeriales.
+
+c) Evacuar informe previo en la elaboración y actualización del catálogo de entidades de la economía social del Ministerio de Trabajo y Economía Social.
+
+d) Informar las estrategias y los programas de desarrollo y fomento de la economía social.
+
+e) Realizar estudios e informes sobre cuestiones y problemas que afecten a la economía social y en especial sobre el refuerzo del conocimiento, presencia institucional y proyección internacional de la economía social.
+
+f) Velar por la promoción y el respeto a los principios orientadores contemplados en el artículo 4 de la Ley 5/2011, de 29 de marzo, de Economía Social.
+
+g) Emitir informe previo en la adopción de las medidas de información estadística de las entidades de economía social.
+
+h) Cuantas otras funciones y competencias se le atribuyan por disposiciones legales y reglamentarias.
+
+2\. Las funciones a que se refiere el apartado anterior alcanzan al fomento de la economía social de ámbito territorial suprautonómico y al de las Ciudades de Ceuta y Melilla, sin perjuicio de las de colaboración y cooperación interinstitucional.
+
+3\. Se entiende por economía social el conjunto de las actividades económicas y empresariales que, en el ámbito privado, llevan a cabo aquellas entidades que, de conformidad con los principios orientadores contemplados en el artículo 4 de la Ley 5/2011, de 29 de marzo, persiguen bien el interés colectivo de sus integrantes, bien el interés general económico o social, o ambos.
+
+> Se modifican los apartados 1 y 3 por el art. único.2 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Artículo 3. Composición.
+
+1\. El Consejo estará compuesto por:
+
+a) La Presidencia, ostentada por la persona titular de la Secretaría de Estado de Empleo y Economía Social.
+
+b) Veinte vocalías, con rango de Director o Directora General, en representación de la Administración General del Estado, con la distribución siguiente: Dos por cada uno de los Ministerios de Trabajo y Economía Social; de Asuntos Económicos y Transformación Digital; de Derechos Sociales y Agenda 2030, y de Agricultura, Pesca y Alimentación; y uno por cada uno de los Ministerios de Inclusión, Seguridad Social y Migraciones; de Transportes, Movilidad y Agenda Urbana; de Hacienda; de Industria, Comercio y Turismo; de Política Territorial y Función Pública; de Consumo; de Igualdad; de Universidades; de Presidencia, Relaciones con las Cortes y Memoria Democrática; para la Transición Ecológica y el Reto Demográfico; de Educación y Formación Profesional, y de Sanidad.
+
+c) Veinte vocalías de las administraciones autonómica y local, de las cuales, diecinueve vocalías en representación de cada una de las comunidades autónomas y de las ciudades de Ceuta y Melilla, y una vocalía designada por la Federación Estatal de Municipios y Provincias, en representación de las entidades locales.
+
+d) Veinte vocalías en representación de las entidades de la economía social de ámbito estatal, en la forma siguiente: Dieciocho de ellas, a propuesta de las confederaciones intersectoriales representativas de ámbito estatal, y las otras dos, a propuesta de entidades sectoriales mayoritarias de la economía social que no estén representadas por las confederaciones intersectoriales anteriores.
+
+e) Tres vocalías en representación de organizaciones sindicales más representativas de ámbito estatal.
+
+f) Cinco vocalías designadas por el Ministerio de Trabajo y Economía Social entre personas de reconocido prestigio en el ámbito de la economía social, oídas las entidades de la economía social a que se refiere la letra d) de este apartado.
+
+2\. Cada vocalía del Consejo, salvo las mencionadas en la letra f) del apartado anterior, tendrá una persona suplente, que la sustituirá en los supuestos de vacante, ausencia, enfermedad, u otra causa legal de imposibilidad de asistencia.
+
+3\. La Presidencia del Consejo será sustituida por la persona titular de la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas.
+
+4\. La Secretaría del Consejo corresponderá a la persona titular de la Subdirección General de la Economía Social y de la Responsabilidad Social de las Empresas, o a la persona de la misma Subdirección General que la sustituya en los supuestos de vacante, ausencia, enfermedad, u otra causa legal de imposibilidad de asistencia. La persona que ejerza la Secretaría actuará con voz y sin voto.
+
+5\. Las vocalías del Consejo y sus suplentes serán nombradas por la persona titular del Ministerio de Trabajo y Economía Social, a propuesta de los respectivos departamentos ministeriales, comunidades autónomas y ciudades autónomas, organizaciones y entidades representadas, produciéndose su cese en la misma forma que su nombramiento.
+
+6\. La duración máxima del mandato de las vocalías en representación de las entidades de la economía social de ámbito estatal y de sus suplentes, de las vocalías en representación de organizaciones sindicales de ámbito estatal y sus suplentes, así como de las vocalías designadas por el Ministerio de Trabajo y Economía Social entre personas de reconocido prestigio en el ámbito de la economía social será de cuatro años. Estas vocalías podrán ser reelegidas en un segundo mandato.
+
+7\. La composición del Consejo será paritaria en toda su estructura. Se garantizará la presencia equilibrada de mujeres y hombres en las designaciones de cada una de las organizaciones que componen el Consejo que haya de nominar a más de una persona representante. En ambos casos, salvo por razones fundadas y objetivas, debidamente motivadas.
+
+> Se modifica por el art. único.3 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+> Se modifica el apartado 1.b) por el art. único del Real Decreto 1506/2008, de 12 de septiembre. [Ref. BOE-A-2008-15407](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-15407).
+
+> Se modifica el apartado 1.b) por el art. único del Real Decreto 177/2005, de 18 de febrero. [Ref. BOE-A-2005-3599](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3599).
+
+## Artículo 4. Funcionamiento.
+
+El Consejo para el Fomento de la Economía Social funcionará en Pleno y en Comisión Permanente. El Pleno del Consejo se reunirá, al menos, dos veces al año en sesión ordinaria y, de forma extraordinaria, cuando así lo acuerde la Presidencia, a iniciativa propia o a solicitud de un tercio de sus miembros. El Pleno del Consejo podrá acordar su régimen de funcionamiento y elaborará una memoria anual, que será elevada a la persona titular del Ministerio de Trabajo y Economía Social.
+
+> Se modifica por el art. único.4 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Artículo 5. Presidente.
+
+Corresponde al Presidente del Consejo:
+
+a) Ostentar la representación del Consejo.
+
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias, estableciendo, en su caso, el carácter de urgencia y la fijación del orden del día, teniendo en cuenta las peticiones de los demás miembros formuladas con la suficiente antelación.
+
+c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+d) Ejercer su derecho al voto de calidad.
+
+e) Asegurar el cumplimiento de las leyes y la regularidad de las deliberaciones.
+
+f) Visar las actas y certificaciones de los acuerdos del Consejo.
+
+g) Ejercer cuantas otras funciones sean inherentes a su condición de Presidente del Consejo.
+
+## Artículo 6. Vocales.
+
+1\. Corresponde a los vocales del Consejo:
+
+a) Ser convocados con el orden del día de las reuniones y disponer de la información precisa sobre los asuntos incluidos en el mismo, conforme a lo establecido en el artículo 9.
+
+b) Asistir a las sesiones y participar en sus debates.
+
+c) Ejercer su derecho al voto y formular, en su caso, su voto particular, así como expresar el sentido del mismo y los motivos que lo justifican. Los representantes de las Administraciones públicas no podrán abstenerse en las votaciones.
+
+d) Formular y proponer la inclusión de asuntos a tratar en el orden del día, tanto en las sesiones ordinarias como extraordinarias.
+
+e) Formular ruegos y preguntas, cuando proceda.
+
+f) El derecho a la información necesaria para cumplir las funciones asignadas.
+
+g) Cuantas otras funciones sean inherentes a su condición de vocal.
+
+2\. Salvo su Presidente, los miembros del Consejo no podrán atribuirse las funciones de representación reconocidas a éste, de no contar con otorgamiento expreso por acuerdo adoptado para cada caso concreto por el propio Consejo.
+
+## Artículo 7. Secretario.
+
+1\. Corresponde al Secretario del Consejo:
+
+a) Asistir a las reuniones del Consejo con voz, pero sin voto.
+
+b) Efectuar la convocatoria de las sesiones del Consejo por orden de su Presidente, así como las citaciones a los miembros del mismo.
+
+c) Recibir los actos de comunicación de los miembros con el Consejo y, por tanto, las notificaciones, peticiones de datos, rectificaciones o cualquier clase de escritos que deba tener conocimiento el Consejo.
+
+d) Preparar el despacho de los asuntos que ha de conocer el Consejo, así como redactar y autorizar las actas de las sesiones.
+
+e) Expedir certificaciones de las consultas, informes y acuerdos aprobados por el Consejo.
+
+f) Custodiar la documentación del Consejo.
+
+g) Cuantas otras funciones sean inherentes a su condición de Secretario.
+
+2\. En los casos de ausencia, vacante, enfermedad u otras causas de imposibilidad de asistencia del Secretario, será sustituido por el funcionario que disponga el reglamento de régimen de funcionamiento.
+
+3\. La Secretaría facilitará a los miembros del Consejo información y asistencia técnica, para el mejor desarrollo de sus funciones.
+
+## Artículo 8. Comisión Permanente.
+
+1\. En el seno del Consejo, y como órgano permanente para el ejercicio de sus funciones y cometidos relativos a asuntos de trámite, de preparación o estudio, o que le sean encomendados por el Pleno del Consejo, se establece la Comisión Permanente del Consejo, que tendrá la siguiente composición:
+
+a) Presidencia: La del Consejo y, por sustitución, la persona que ostente la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas.
+
+b) Tres vocalías en representación de los Departamentos ministeriales, dos en representación de las comunidades y ciudades autónomas, una en representación de las entidades locales, tres en representación de las entidades de la economía social de ámbito estatal, y una vocalía en representación de las organizaciones sindicales de ámbito estatal.
+
+c) Secretaría: La del Consejo.
+
+2\. Las personas integrantes de la Comisión Permanente serán designadas por la Presidencia, de entre las vocalías del Consejo, a propuesta de cada uno de los grupos de representación a que se refiere el artículo 3. Junto a estas, podrán asistir con voz, pero sin voto, personas expertas convocadas por la Presidencia, a sugerencia de los grupos representados.
+
+3\. El régimen de funcionamiento de la Comisión Permanente responderá a las mismas reglas que se establecen para el Pleno del Consejo.
+
+4\. La Comisión Permanente someterá al Pleno del Consejo la adopción de acuerdos que a este correspondan; en cada sesión ordinaria del Pleno del Consejo, la Comisión Permanente rendirá cuentas del desarrollo de sus funciones.
+
+> Se modifica por el art. único.5 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Artículo 9. Convocatorias.
+
+1\. Las convocatorias se efectuarán por escrito, utilizando los medios idóneos para garantizar su recepción. La comunicación de cada convocatoria deberá efectuarse con una antelación mínima de siete días a la fecha prevista para la celebración de la sesión, salvo en los casos de urgencia, en que será de dos días.
+
+2\. La convocatoria contendrá el día, hora y lugar de la reunión a celebrar, así como el orden del día, y acompañará la documentación necesaria para estudio previo o indicará que obra en la Secretaría a disposición de los miembros del órgano.
+
+3\. En la misma citación para la primera convocatoria se incluirá la de la segunda, para media hora después del momento señalado para la primera.
+
+## Artículo 10. Orden del día.
+
+1\. El orden del día de las sesiones ordinarias contendrá la lectura y, en su caso, la aprobación del acta de la sesión anterior, así como los asuntos que disponga la Presidencia.
+
+2\. No podrá ser objeto de deliberación o acuerdo ningún asunto que no figure incluido en el orden del día, salvo que estén presentes todos los miembros del Consejo y sea declarada la urgencia del asunto por el voto favorable de la mayoría.
+
+3\. El orden del día de las sesiones extraordinarias contendrá exclusivamente los puntos que motiven su convocatoria.
+
+## Artículo 11. Constitución del Consejo.
+
+El Consejo se entenderá constituido validamente a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, cuando concurran dos tercios, al menos, de sus componentes en primera convocatoria, y, en segunda convocatoria, cualquiera que sea el número de miembros asistentes. En todo caso se requerirá la presencia del Presidente y Secretario del Consejo o de quienes les sustituyan.
+
+## Artículo 12. Adopción de acuerdos. Acta del Consejo.
+
+1\. Los acuerdos del Consejo serán adoptados buscando el consenso o, en su defecto, por mayoría de votos de los miembros presentes.
+
+2\. De cada sesión que celebre el Consejo se levantará acta por la Secretaría, que especificará necesariamente las personas asistentes, el orden del día de la reunión, las circunstancias de lugar y tiempo en que se ha celebrado, los puntos principales de las deliberaciones, las intervenciones para las que se haya solicitado expresa constancia en acta, así como el contenido de los acuerdos adoptados y, en su caso, el resultado de las votaciones y los votos particulares por escrito formulados si se hubiesen producido.
+
+Los miembros del Consejo podrán solicitar que conste en acta su voto contra el acuerdo adoptado, su abstención motivada o el sentido de su voto favorable. Asimismo, quienes discrepen del acuerdo mayoritario podrán formular voto particular por escrito, en el plazo de dos días desde la adopción del acuerdo, que se incorporará al texto aprobado.
+
+Las actas serán redactadas y firmadas por la Secretaría, con el visto bueno de la Presidencia, y se aprobarán en la misma o en la siguiente sesión, acompañándose, en este segundo caso, el correspondiente texto del acta a la convocatoria.
+
+La Secretaría podrá emitir certificación sobre los acuerdos específicos que se hayan adoptado, sin perjuicio de la ulterior aprobación del acta. Quienes acrediten la titularidad de un interés legítimo, podrán dirigirse a la Secretaría del Consejo para que les sea expedida certificación de sus acuerdos.
+
+3\. Cualquier miembro del Consejo tiene derecho a solicitar la transcripción íntegra de su intervención o propuesta, siempre que aporte en el acto o en el plazo que señale la Presidencia el texto que se corresponda fielmente con su intervención, haciéndolo constar así en el acta o uniéndose copia de aquel.
+
+4\. En cumplimiento del principio de transparencia en la actuación de los poderes públicos, los acuerdos adoptados por el Consejo tendrán carácter público.
+
+> Se modifica por el art. único.6 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Artículo 13. Grupos de trabajo.
+
+1\. Podrán constituirse en el seno del Consejo los grupos de trabajo que acuerde su Pleno para la realización de estudios o propuestas en temas que afecten a los cometidos del Consejo. Los grupos de trabajo podrán recabar, a través de la Secretaría, cuanta información sea precisa para el cumplimiento de sus funciones.
+
+2\. En los grupos de trabajo podrán participar personas expertas de reconocido prestigio designadas al efecto.
+
+> Se añade el apartado 2 por el art. único.7 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Disposición adicional primera. Financiación.
+
+Los créditos necesarios para el funcionamiento del Consejo se consignarán en los presupuestos del Ministerio de Trabajo y Economía Social, sin que, en ningún caso, pueda originarse aumento del gasto público.
+
+> Se numera y se modifica por el art. único.8 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+> Su anterior denominación era disposición adicional única.
+
+## Disposición adicional segunda. Lenguaje no sexista.
+
+De conformidad con el artículo 14.11 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, que establece como criterio general de actuación de los Poderes Públicos la implantación de un lenguaje no sexista en el ámbito administrativo, todas las referencias al Presidente y al Secretario del Consejo para el Fomento de la Economía Social, y en particular las contenidas en el presente real decreto, se entenderán hechas a la Presidencia y la Secretaria, respectivamente.
+
+> Se añade por el art. único.9 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+## Disposición final primera. Normativa aplicable.
+
+En lo no previsto en el presente real decreto, será de aplicación lo dispuesto para los órganos colegiados en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica por el art. único.10 del Real Decreto 117/2021, de 23 de febrero. [Ref. BOE-A-2021-2844](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-2844)
+
+## Disposición final segunda. Facultad de ejecución.
+
+Se autoriza al Ministro de Trabajo y Asuntos Sociales para dictar cuantas normas sean necesarias para la ejecución de lo dispuesto en este Real Decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Barcelona a 2 de marzo de 2001.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Asuntos Sociales,
+
+JUAN CARLOS APARICIO PÉREZ

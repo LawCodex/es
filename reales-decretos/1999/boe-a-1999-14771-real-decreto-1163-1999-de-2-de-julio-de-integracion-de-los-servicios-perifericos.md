@@ -1,0 +1,129 @@
+---
+title: "Real Decreto 1163/1999, de 2 de julio, de integración de los servicios periféricos del organismo autónomo Parque Móvil del Estado en las Delegaciones y Subdelegaciones del Gobierno"
+identifier: "BOE-A-1999-14771"
+eli: "https://www.boe.es/eli/es/rd/1999/07/02/1163"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 1999-07-02
+published: 1999-07-03
+in_force_from: 1999-07-04
+last_amended: 2012-11-30
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 158"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-14771"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1163/1999, de 2 de julio, de integración de los servicios periféricos del organismo autónomo Parque Móvil del Estado en las Delegaciones y Subdelegaciones del Gobierno
+
+La Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, configura una nueva dimensión de la Administración periférica del Estado, al posibilitar la integración en las Delegaciones del Gobierno de todos los servicios territoriales de la Administración General del Estado y sus organismos públicos, salvo aquellos casos en que por las singularidades de sus funciones o por el volumen de gestión resulte aconsejable su dependencia directa de los órganos centrales correspondientes, en aras de una mayor eficacia en su actuación.
+
+El presente Real Decreto aborda la integración de los servicios periféricos del organismo autónomo, adscrito a la Subsecretaría del Ministerio de Economía y Hacienda, Parque Móvil del Estado (PME), en las Delegaciones del Gobierno, lo que supone un paso más hacia el cumplimiento del mandato legal contenido en la Ley 6/1997, y permite avanzar en el nuevo modelo de Administración periférica desde un punto de vista de racionalidad en la gestión y eficiencia en la asignación de los recursos públicos.
+
+En este sentido, el artículo 33 de la Ley de Organización y Funcionamiento de la Administración General del Estado dispone la integración de los servicios territoriales de la Administración General del Estado y sus organismos públicos en las Delegaciones y Subdelegaciones del Gobierno. Por ello, es necesario que los reducidos servicios que en la periferia presta el Parque Móvil del Estado, y que en la mayoría de los casos se limitan a los que realiza a los propios Delegados y Subdelegados del Gobierno, hasta ahora dependientes del Ministerio de Economía y Hacienda, pasen a integrarse en el Ministerio de Administraciones Públicas, a través de las Delegaciones del Gobierno.
+
+El Tribunal de Cuentas, en el informe de fiscalización del extinto Parque Móvil Ministerial, referido al ejercicio de 1994, recomienda la realización de una profunda remodelación estructural del organismo, debiendo contemplarse también la supresión de los parques provinciales.
+
+Así, la reciente aprobación del Real Decreto 146/1999, de 29 de enero, por el que se modifica la estructura orgánica básica y funciones, y se transforma el organismo autónomo Parque Móvil Ministerial en Parque Móvil del Estado, ha previsto en su disposición final primera la integración de los servicios periféricos del organismo en las Delegaciones y Subdelegaciones del Gobierno.
+
+Por último, el Real Decreto establece las reglas precisas para la incorporación gradual al Ministerio de Administraciones Públicas de los recursos humanos y medios presupuestarios y materiales, a través de resoluciones conjuntas de los Subsecretarios de Administraciones Públicas y de Economía y Hacienda, a propuesta del Director general del Parque Móvil del Estado.
+
+En su virtud, a propuesta del Ministro de Administraciones Públicas, de acuerdo con el Ministro de Economía y Hacienda y con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de julio de 1999,
+
+DISPONGO:
+
+## Artículo 1. Integración de los servicios periféricos del Parque Móvil del Estado en las Delegaciones del Gobierno.
+
+En aplicación del artículo 33 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, se integran en las Delegaciones y Subdelegaciones del Gobierno, en los términos de este Real Decreto, las actuales Delegaciones Territoriales y parques provinciales del Parque Móvil del Estado con la misma denominación.
+
+## Artículo 2. Adscripción orgánica de los servicios periféricos del Parque Móvil del Estado.
+
+Los servicios periféricos del Parque Móvil del Estado se encuadran como servicios comunes en las Secretarías Generales de las Delegaciones y Subdelegaciones del Gobierno, cuyos titulares dirigen los servicios integrados del Parque Móvil del Estado, bajo la supervisión de los Delegados y Subdelegados del Gobierno correspondientes.
+
+## Artículo 3. Dependencia funcional de las unidades integradas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+## Artículo 4. Prestación de servicios de las unidades periféricas integrados.
+
+Las unidades integradas del Parque Móvil del Estado prestarán, en los términos que se determinen por Orden del Ministro de Hacienda y Administraciones Públicas, los siguientes servicios:
+
+1\. De representación a los altos cargos de la Administración General del Estado y de los organismos públicos vinculados o dependientes de aquélla, así como a los órganos constitucionales del Estado.
+
+2\. Los de carácter general y ordinario que dispongan las Delegaciones y Subdelegaciones del Gobierno en su ámbito competencial.
+
+> Se modifica por la disposición final 1 del Real Decreto 1527/2012, de 8 de noviembre. [Ref. BOE-A-2012-14647](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14647).
+
+## Artículo 5. Adscripción de bienes y medios.
+
+Todos los bienes inmuebles, vehículos y maquinaria, equipos informáticos y de comunicaciones, equipamientos y demás bienes muebles, así como los restantes medios materiales de las antiguas Delegaciones Territoriales y parques provinciales del Parque Móvil del Estado, se adscribirán, mediante la correspondiente acta, al Ministerio de Administraciones Públicas, de conformidad con lo dispuesto en la legislación del Patrimonio del Estado.
+
+## Artículo 6. Adscripción del personal.
+
+1\. El personal funcionario y laboral que actualmente está destinado a los servicios periféricos del Parque Móvil del Estado pasa a integrarse en las Secretarías Generales de las Delegaciones del Gobierno, Subdelegaciones del Gobierno y Direcciones Insulares de la Administración General del Estado dependientes del Ministerio de Administraciones Públicas, mediante modificación de las relaciones de puestos de trabajo de personal funcionario y catálogos de personal laboral.
+
+2\. Los Subsecretarios de los Ministerios de Economía y Hacienda y de Administraciones Públicas, mediante resolución conjunta, dispondrán la adscripción de aquellos puestos de trabajo y del personal funcionario o laboral que los desempeñen que, como consecuencia de la integración de los servicios periféricos del Parque Móvil del Estado en las Delegaciones y Subdelegaciones del Gobierno, deban transferirse de los servicios centrales de un Departamento a otro.
+
+En especial, será objeto de traspaso aquel personal del Parque Móvil del Estado que desarrolle funciones de coordinación, supervisión o gestión de los servicios periféricos que se integran.
+
+3\. El Ministerio de Administraciones Públicas ejercerá las competencias propias del Departamento ministerial, en relación con el personal adscrito.
+
+## Artículo 7. Financiación presupuestaria.
+
+Los créditos presupuestarios necesarios para financiar el coste de los servicios integrados serán dados de baja en las correspondientes partidas presupuestarias del Parque Móvil del Estado, y de alta en los conceptos equivalentes del Ministerio de Administraciones Públicas. Con esta finalidad, el Parque Móvil del Estado iniciará la tramitación de los oportunos expedientes de modificación presupuestaria.
+
+## Artículo 8. Integración de las viviendas en el Patrimonio del Estado.
+
+Todas las viviendas, adscritas o en propiedad, que forman parte del patrimonio del organismo autónomo Parque Móvil del Estado, se integrarán en el Patrimonio del Estado, de conformidad con lo dispuesto en la legislación del mismo, toda vez que no se consideran necesarias para el cumplimiento de sus fines.
+
+## Disposición adicional primera. Repercusión presupuestaria.
+
+El cumplimiento y desarrollo de las previsiones contenidas en el presente Real Decreto en ningún caso podrán suponer incremento alguno del gasto público.
+
+## Disposición adicional segunda. Competencias centralizadas.
+
+1\. Será competencia del organismo autónomo Parque Móvil del Estado la prestación de los servicios de representación extraordinarios que pudieran surgir en las Delegaciones y Subdelegaciones del Gobierno como consecuencia de eventos, comitivas de personalidades del Estado o Estados extranjeros, o de aquellas circunstancias especiales análogas que hicieran necesario el despliegue de los medios personales y materiales que demande la situación.
+
+2\. El Parque Móvil del Estado establecerá los modelos de vehículos con que se prestan los diferentes servicios, tanto de representación a los altos cargos de la Administración General del Estado como los de carácter general y ordinario.
+
+Para los vehículos de representación de los Delegados del Gobierno, Subdelegados del Gobierno y Directores insulares de la Administración General del Estado, así como los de carácter general y ordinario de los servicios periféricos integrados, será preceptivo el informe de la Comisión establecida en el artículo 3 de este Real Decreto.
+
+3\. La matriculación con la contraseña «PME» y el registro correspondiente, así como los permisos y autorizaciones necesarios para poder circular los vehículos integrados en las Delegaciones y Subdelegaciones del Gobierno, serán expedidos por el Director general del Parque Móvil del Estado.
+
+## Disposición adicional tercera. Encuadramiento del personal y vehículos de los servicios periféricos no integrados en las Delegaciones del Gobierno.
+
+El 1 de enero del año 2000, los vehículos y el personal conductor que prestan sus servicios a las unidades periféricas del Ministerio de Justicia pasarán a integrarse en el mencionado Departamento.
+
+## Disposición transitoria única. Incorporación gradual de las unidades territoriales y provinciales del Parque Móvil del Estado en las Delegaciones y Subdelegaciones del Gobierno.
+
+1\. Por resoluciones conjuntas de los Subsecretarios de los Ministerios de Administraciones Públicas y de Economía y Hacienda, a propuesta del Director general del Parque Móvil del Estado, se llevará a cabo de manera gradual la efectiva integración material de las unidades territoriales y provinciales del PME en las correspondientes Delegaciones y Subdelegaciones del Gobierno.
+
+2\. Como anexo a las resoluciones mencionadas se incluirá la correspondiente acta de adscripción de los bienes objeto de integración citados en el artículo 5 del presente Real Decreto.
+
+3\. Las unidades y puestos de trabajo de los servicios periféricos del Parque Móvil del Estado continuarán subsistentes y se adscribirán provisional y gradualmente, por resolución del Subsecretario de Administraciones Públicas, a las Delegaciones y Subdelegaciones del Gobierno hasta tanto entre en vigor la nueva relación de puestos de trabajo.
+
+## Disposición final primera. Autorización normativa.
+
+Por Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros de Administraciones Públicas y de Economía y Hacienda, se desarrollarán, en cuanto resulte preciso, las previsiones de este Real Decreto.
+
+## Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Economía y Hacienda se realizarán las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en este Real Decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 2 de julio de 1999.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+ÁNGEL ACEBES PANIAGUA

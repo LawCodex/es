@@ -1,0 +1,191 @@
+---
+title: "Orden PRE/1874/2005, de 17 de junio, por la que se regula la composición y funcionamiento de la Comisión Nacional del Chopo"
+identifier: "BOE-A-2005-10382"
+eli: "https://www.boe.es/eli/es/o/2005/06/17/pre1874"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2005-06-17
+published: 2005-06-18
+in_force_from: 2005-06-19
+last_amended: 2023-01-30
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 145"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-10382"
+retrieved: 2026-10-11
+---
+
+# Orden PRE/1874/2005, de 17 de junio, por la que se regula la composición y funcionamiento de la Comisión Nacional del Chopo
+
+La Comisión Internacional del Álamo se creó en París en 1947, quedando integrada en la Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO). La Comisión Internacional del Álamo promueve la organización de comisiones nacionales dentro de los países productores y cultivadores de álamos y sauces que deseen pertenecer a ella.
+
+España se encuentra entre los países miembros de la Comisión Internacional del Álamo, creándose, mediante Orden de 25 de enero de 1952, la Comisión Nacional del Chopo, modificada por Orden de 25 de mayo de 1956, que fue modificada a su vez por Orden de 25 de noviembre de 1983, por la que se actualiza la composición y cometidos de la Comisión Nacional del Chopo.
+
+La Orden de 25 de noviembre de 1983 obedecía a la necesidad de coordinar e impulsar las actividades de los diversos órganos y Organismos de la Administración General del Estado interesados, para obtener una mayor eficacia en la gestión y mejor logro de los objetivos pretendidos con la Orden Ministerial de 9 de julio de 1982, sobre fomento de las plantaciones de chopo en los montes de régimen privado.
+
+Sin embargo, la Orden Ministerial de 25 de noviembre de 1983, ha quedado poco operativa, debido al tiempo transcurrido y a las modificaciones estructurales producidas en la configuración de la Administración General del Estado, además de haberse producido una evolución de la sensibilidad institucional en el sentido no solo de potenciar los valores productivos tradicionales de estos cultivos, sino también en el de contemplar los beneficios medioambientales y sociales que proporcionan, ordenando y gestionando los mismos.
+
+De ahí la necesidad de regular la composición de la Comisión Nacional del Chopo, para adaptarla a la actual realidad administrativa, respecto de la que ha quedado claramente desfasada. No sólo su constitución es anterior al Estado de las Autonomías, sino que además parte de las competencias que dependían del Ministerio de Agricultura, Pesca y Alimentación y que afectan a la Comisión Nacional del Chopo, han pasado a depender de otros Ministerios como son las competencias en materia de Conservación de la Naturaleza y Parques Nacionales que han sido asumidas por el Ministerio de Medio Ambiente y las competencias en materia de investigación forestal que han pasado al Ministerio de Educación y Ciencia.
+
+Finalmente, en el artículo 6.1, letra a), del Real Decreto 1417/2004, de 11 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Agricultura, Pesca y Alimentación, se atribuye a la Dirección General de Agricultura la función de elaborar la normativa estatal y desarrollar y coordinar las actividades relacionadas con la producción agrícola.
+
+En la tramitación de la presente Orden Ministerial han sido consultadas las Comunidades Autónomas y las entidades y organizaciones representativas de los intereses del sector que resultan afectadas por la misma.
+
+En su virtud, a propuesta de las Ministras de Agricultura, Pesca y Alimentación, de Medio Ambiente y de Educación y Ciencia, previa aprobación del Ministro de Administraciones Públicas, dispongo:
+
+## Primero. Naturaleza y adscripción.
+
+La Comisión Nacional del Chopo tiene la naturaleza de órgano colegiado interministerial, adscrito a la Dirección General de Biodiversidad, Bosques y Desertificación del Ministerio para la Transición Ecológica y el Reto Demográfico, con la composición y funcionamiento que se determina a continuación.
+
+> Se modifica por el art. único.1 de la Orden PCM/71/2023, de 25 de enero. [Ref. BOE-A-2023-2296](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2296)
+
+> Se modifica por el art. único.1 de la Orden PRE/845/2013, de 9 de mayo. [Ref. BOE-A-2013-5167](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5167).
+
+## Segundo. Fines.
+
+La Comisión Nacional del Chopo tendrá como objeto el fomento racionalizado del cultivo de chopos y sauces, así como la mejor utilización de las tierras disponibles para tal fin, además de estimular el aprovechamiento, transformación y comercialización de los productos que se obtengan, teniendo en cuenta su importancia para la economía nacional y su relevante contribución medioambiental en términos de reducción del efecto invernadero y su papel fitorremediador.
+
+## Tercero. Composición.
+
+1\. La Comisión Nacional del Chopo estará constituida por:
+
+a) Presidente: La persona titular de la Dirección General de Biodiversidad, Bosques y Desertificación del Ministerio para la Transición Ecológica y el Reto Demográfico.
+
+b) Vicepresidentes: La persona titular de la Dirección del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA) de la Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC) y la persona titular de la Dirección General de Producciones y Mercados Agrarios del Ministerio de Agricultura, Pesca y Alimentación. En caso de vacante, ausencia, enfermedad u otra causa legal el titular de la Presidencia será sustituido por los Vicepresidentes en el orden indicado.
+
+c) Vocales:
+
+1.º Cuatro Vocales del Ministerio para la Transición Ecológica y el Reto Demográfico, que serán funcionarios y pertenecerán:
+
+Dos a la Dirección General de Biodiversidad, Bosques y Desertificación: Uno, el titular de la Subdirección General de Política Forestal y Lucha contra la Desertificación, y otro perteneciente a la Subdirección General de Biodiversidad Terrestre y Marina que tendrá, al menos, la categoría de Jefe de Servicio y será designado por el titular de dicha Dirección General.
+
+Dos a la Dirección General del Agua. Tendrán, al menos, la categoría de Jefe de Servicio y serán designados por el titular de dicha Dirección General.
+
+2.º Dos Vocales del Ministerio de Agricultura, Pesca y Alimentación, que serán funcionarios y pertenecerán:
+
+Uno a la Dirección General de Producciones y Mercados Agrarios de la Subdirección General de Medios Producción Agrícola y Oficina Española de Variedades Vegetales, y otro a la Dirección General de Sanidad de la Producción Agraria, perteneciente a la Subdirección General de Sanidad e Higiene Vegetal y Forestal. Tendrán, al menos, la categoría de Jefe de Servicio y serán designados por el titular correspondiente de la Dirección General.
+
+3.º Dos Vocales del Ministerio de Ciencia e Innovación que recaerán en la persona titular de la Dirección del Instituto de Ciencias Forestales del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria de la Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC) y en el Coordinador del Departamento de dicho Instituto donde se realice la actividad de investigación sobre populicultura.
+
+4.º Un Vocal designado por cada una de las comunidades autónomas que decidan integrarse en la Comisión.
+
+5.º Dos Vocales designados por las organizaciones nacionales de industrias de transformación de la madera del chopo, de entre sus miembros.
+
+6.º Un Vocal designado por las asociaciones nacionales de propietarios forestales productores de madera de chopo, de entre sus miembros.
+
+7.º Un Vocal en representación de cada una de las tres Organizaciones Profesionales Agrarias (OPAS).
+
+d) Secretario: Será nombrado por el titular de la Presidencia de la Comisión entre los funcionarios de la Subdirección General de Política Forestal y Lucha contra la Desertificación, con nivel mínimo de Jefe de Servicio, con voz pero sin voto.
+
+2\. Sin perjuicio de lo señalado en el punto 1 de este apartado, el Presidente, oída la Comisión, podrá incorporar a ésta, a representantes de otros órganos directivos de la Administración General del Estado o de otras Administraciones Públicas, así como a las entidades más representativas del sector o científicas, para que con voz pero sin voto, colaboren y asesoren en los trabajos de la Comisión.
+
+3\. El régimen de suplencias de los miembros de la Comisión queda establecido de la siguiente manera:
+
+a) Presidencia: En caso de vacante, ausencia, enfermedad u otra causa justificada, el Presidente será sustituido por los Vicepresidentes en el orden indicado en el apartado tercero, punto primero, y en ausencia de estos por la persona designada por la Subdirección General de Política Forestal y Lucha contra la Desertificación y en su defecto, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
+
+b) Secretaría: En caso de vacante, ausencia o enfermedad, el Secretario será sustituido por el funcionario de la Subdirección General de Política Forestal y Lucha contra la Desertificación que designe el Presidente.
+
+c) Otros miembros: En caso de vacante o ausencia cualquier miembro de la Comisión podrá ser sustituido por otro siempre que el sustituto haya sido designado por la misma Unidad u Organismo que hizo el nombramiento o la propuesta de nombramiento inicial.
+
+> Se modifican los puntos 1 y 3 por el art. único.2 y 3 de la Orden PCM/71/2023, de 25 de enero. [Ref. BOE-A-2023-2296](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2296)
+
+> Se modifica el punto 1 por el art. único.2 de la Orden PRE/845/2013, de 9 de mayo. [Ref. BOE-A-2013-5167](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5167).
+
+## Cuarto. Funciones.
+
+1\. La Comisión Nacional del Chopo tendrá las siguientes funciones:
+
+1.º Analizar y estudiar los resultados globales que proporcionan las estadísticas nacionales en materia de plantaciones, cortas, aprovechamientos y comercio interior y exterior de la madera de chopos y sauces.
+
+2.º Proponer a las autoridades competentes las medidas, tanto técnicas como legislativas, que estime oportunas para mejorar o corregir los resultados reflejados en el análisis global de la situación nacional.
+
+3.º Elaborar los informes pertinentes ante la Comisión Internacional del Álamo de la FAO y mantener el debido contacto y colaboración con dicho organismo internacional o con otros similares en aspectos relacionados con chopos y sauces.
+
+4.º Incentivar todas las medidas y acciones que contribuyen a fomentar, mejorar y racionalizar el cultivo de chopos y sauces, así como el aprovechamiento, comercialización y transformación de los productos obtenidos.
+
+5.º Velar por la conservación de los recursos genéticos de chopos y sauces para mantener la estabilidad y biodiversidad de los ecosistemas de ribera y por la utilización de material de base autorizado para la comercialización de los materiales forestales de reproducción del género «Populus sp.» y su inclusión en el Catálogo Nacional.
+
+6.º Fomentar la Investigación-Experimentación sobre populicultura; impulsando especialmente los estudios de introducción y comparación de nuevos clones de chopos y sauces; la obtención y caracterización de clones de chopos y sauces ibéricos adaptados a nuestro medio, y las técnicas de cultivo más adecuadas para cada clon y para cada región, a través de su participación en la definición de los programas de investigación.
+
+7.º Colaborar, asesorar e informar a los diferentes órganos y Organismos oficiales, entidades, industrias y particulares en temas relacionados con los viveros, el cultivo y los aprovechamientos de chopos y sauces, así como en la elección de los materiales forestales de reproducción y en la prevención y tratamiento de enfermedades y plagas.
+
+8.º Coordinar e impulsar las actividades en los diversos ámbitos, tanto de la Administración General del Estado como de los diferentes sectores que tienen relación con el proceso productivo y de transformación de la madera de chopo y sauce, orientando en lo posible la producción hacia las exigencias y la demanda de la industria maderera, sin olvidar los aspectos medioambientales vinculados a este tipo de plantaciones.
+
+2\. Para la realización de las funciones relacionadas en los apartados anteriores y en especial, para las señaladas en los puntos 6.º, 7.º y 8.º, la Comisión podrá promover la suscripción de Convenios de Colaboración entre la Administración General del Estado y otras entidades públicas o privadas.
+
+## Quinto. Funcionamiento.
+
+Sin perjuicio de las particularidades previstas en esta orden, el régimen jurídico y de actuación de la Comisión Nacional del Chopo se ajustará a lo dispuesto en el capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+La Comisión podrá convocar, celebrar sesiones, adoptar acuerdos y remitir actas de forma presencial o a distancia por medios electrónicos, de acuerdo con el artículo 17 de Ley 40/2015, de 1 de octubre.
+
+La Comisión se convocará una vez al año en reunión ordinaria, pudiendo celebrarse tantas reuniones extraordinarias como fuese necesario.
+
+El Presidente convocará las reuniones de la Comisión y fijará el orden del día, a iniciativa propia o a solicitud de, al menos, la mitad más uno de los miembros.
+
+La Comisión funcionará a través de una Secretaría permanente que asumirá la Dirección General de Biodiversidad, Bosques y Desertificación, a través del personal técnico y auxiliar que dicha dirección considere necesario a tal efecto, sin que ello suponga incremento de la estructura ni de la dotación de personal.
+
+La Comisión podrá aprobar las normas de régimen interno que estime procedentes para el mejor desarrollo de sus trabajos, al amparo de lo dispuesto en el apartado 2 del artículo 15 de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica por el art. único.4 de la Orden PCM/71/2023, de 25 de enero. [Ref. BOE-A-2023-2296](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2296)
+
+> Se modifica el párrafo 4 por el art. único.3 de la Orden PRE/845/2013, de 9 de mayo. [Ref. BOE-A-2013-5167](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5167).
+
+## Sexto. Comité Técnico.
+
+1\. Se crea un Comité Técnico de especialistas para asistir a la Comisión del que formarán parte:
+
+a) Seis asesores del Ministerio para la Transición Ecológica y el Reto Demográfico y que pertenecerán:
+
+1.º Tres asesores a la Dirección General de Biodiversidad, Bosques y Desertificación, de los que uno será técnico especialista del Inventario Forestal Nacional, un técnico especialista en Recursos Genéticos Forestales, y el tercero será un técnico forestal o de montes y pertenecerá a la Subdirección General de Política Forestal y Lucha contra la Desertificación.
+
+2.º Tres asesores por parte de las Confederaciones Hidrográficas, integradas en la Dirección General del Agua.
+
+b) Dos asesores del Ministerio de Agricultura, Pesca y Alimentación, que pertenecerán a la Dirección General de Producciones y Mercados Agrarios.
+
+c) Tres asesores especialistas del Ministerio de Ciencia e Innovación, que pertenecerán al Instituto de Ciencias Forestales del Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria de la Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC).
+
+d) Un asesor especialista por parte de cada centro de investigación que exista en las comunidades autónomas que decidan integrarse en la Comisión.
+
+2\. Los miembros del Comité Técnico serán nombrados por el Presidente de la Comisión a propuesta de los respectivos órganos directivos y entes públicos y privados, en su caso.
+
+3\. Serán funciones del Comité Técnico de especialistas, el asesorar, informar y proponer actuaciones a la Comisión Nacional del Chopo en todas las materias concernientes al cultivo de chopos y sauces, así como asistir a las reuniones de la misma con voz y voto y realizar los cometidos que el pleno les encomiende.
+
+4\. Cuando los miembros de la Comisión y del Comité Técnico cesen en el cargo que determinó su nombramiento, perderán tal condición.
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden PCM/71/2023, de 25 de enero. [Ref. BOE-A-2023-2296](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2296)
+
+> Se modifica el punto 1 por el art. único.4 de la Orden PRE/845/2013, de 9 de mayo. [Ref. BOE-A-2013-5167](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5167).
+
+## Séptimo. Comisiones y Grupos de Trabajo.
+
+La Comisión podrá constituir Comisiones o Grupos de Trabajo para el estudio de temas concretos y para consultas y cooperación en las materias que en el momento se estimen prioritarias dentro del sector de los chopos y sauces. Podrán formar parte de los mismos, no sólo los vocales de la Comisión y los asesores del Comité Técnico, sino expertos que se consideren necesarios para el grupo de trabajo, tanto de entidades públicas como privadas en función de su experiencia y conocimiento de los temas a estudiar.
+
+## Disposición adicional única. Repercusión económica.
+
+El funcionamiento de la Comisión no supondrá un incremento del gasto público y será atendido por los medios materiales y personales de la Dirección General de Biodiversidad, Bosques y Desertificación del Ministerio para la Transición Ecológica y el Reto Demográfico.
+
+> Se modifica por el art. único.6 de la Orden PCM/71/2023, de 25 de enero. [Ref. BOE-A-2023-2296](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2296)
+
+> Se modifica por el art. único.5 de la Orden PRE/845/2013, de 9 de mayo. [Ref. BOE-A-2013-5167](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5167).
+
+## Disposición derogatoria única.
+
+Quedan derogadas cuantas normas de igual rango se opongan a lo establecido en la presente Orden y en particular las siguientes:
+
+1\. Órdenes de 25 de enero de 1952, de creación de la Comisión Nacional del Chopo y de 23 de mayo de 1956 de Modificación de la Comisión Nacional del Chopo, en lo relativo a la composición y funciones de la Comisión Nacional del Chopo.
+
+2\. Orden de 25 de noviembre de 1983 por la que se actualiza la composición y cometidos de la Comisión Nacional del Chopo.
+
+## Disposición final única. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 17 de junio de 2005.
+
+FERNÁNDEZ DE LA VEGA SANZ
+
+Sras. Ministras de Agricultura, Pesca y Alimentación, de Medio Ambiente y de Educación y Ciencia.

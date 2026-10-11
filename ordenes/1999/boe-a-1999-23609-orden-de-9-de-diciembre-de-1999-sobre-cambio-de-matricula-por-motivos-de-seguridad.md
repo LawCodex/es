@@ -1,0 +1,195 @@
+---
+title: "Orden de 9 de diciembre de 1999 sobre cambio de matrícula por motivos de seguridad y sobre autorizaciones de circulación para vehículos con dispositivos retrorreflectantes"
+identifier: "BOE-A-1999-23609"
+eli: "https://www.boe.es/eli/es/o/1999/12/09/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-12-09
+published: 1999-12-11
+in_force_from: 1999-12-12
+last_amended: 2010-01-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 296"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-23609"
+retrieved: 2026-10-11
+---
+
+# Orden de 9 de diciembre de 1999 sobre cambio de matrícula por motivos de seguridad y sobre autorizaciones de circulación para vehículos con dispositivos retrorreflectantes
+
+El Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, publicado en el «Boletín Oficial del Estado» de 26 de enero de 1999, desarrolla lo dispuesto en los títulos I y IV del texto articulado de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial y deroga, entre otras disposiciones, los artículos del Código de la Circulación reguladores de la materia relativa a vehículos.
+
+En su artículo 27.3 se establece la posibilidad de conceder una nueva matrícula distinta de la que figure inicial o posteriormente asignada cuando así lo solicite el titular del vehículo por razones de seguridad personal debidamente acreditadas, y en su artículo 15.5 se prevé que la Jefatura Central de Tráfico pueda autorizar temporalmente, para la circulación dentro del territorio nacional y previo informe del órgano competente en materia de homologación de vehículos, la instalación de dispositivos o materiales retrorreflectantes en los vehículos ya matriculados con la finalidad de experimentar mejoras en la seguridad vial.
+
+La disposición final primera del citado Reglamento de Vehículos faculta a los Ministros del Interior y de Industria y Energía para dictar o promover, por sí o conjuntamente con los titulares de los restantes Departamentos ministeriales afectados por razón de la materia, las disposiciones oportunas para su aplicación e interpretación, siendo imprescindible especificar el procedimiento que debe seguirse tanto para obtener un cambio de matrícula por motivos de seguridad personal como para conseguir una autorización temporal de circulación para vehículos que lleven dispositivos retrorreflectantes con la finalidad de estudiar su incidencia en la mejora de la seguridad vial.
+
+Por otra parte, el artículo 7 del Real Decreto 146/1999, de 29 de enero, por el que se modifica la estructura orgánica básica y funciones, y se transforma el organismo autónomo Parque Móvil Ministerial en Parque Móvil del Estado, publicado en el «Boletín Oficial del Estado» de 30 de enero de 1999, fija como contraseña para las matrículas de los vehículos del mismo la de PME, en lugar de la contraseña PMM, establecida en el anexo XVIII del Reglamento General de Vehículos. Al ser el Real Decreto 146/1999 norma posterior de igual rango, que se opone a lo establecido en el Reglamento General de Vehículos, procede su adecuación al mismo.
+
+Asimismo, como consecuencia de la reestructuración de los Departamentos ministeriales efectuada por Real Decreto 758/1996, de 5 de mayo, se crearon, entre otros, el Ministerio de Fomento y el Ministerio de Medio Ambiente. Estos dos Departamentos asumieron, por razón de la materia, diferentes competencias atribuidas hasta ese momento al Ministerio de Obras Públicas, Transportes y Medio Ambiente, cuyo parque móvil utilizaba las placas de matrícula con la contraseña MOP establecida en el artículo 234 del Código de la Circulación, que ha sido derogado expresamente por la disposición derogatoria primera del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos.
+
+El citado Reglamento General de Vehículos adaptó la contraseña del parque del Ministerio de Fomento MF, sin tener en cuenta que parte del parque del extinto Ministerio de Obras Públicas, Transportes y Medio Ambiente se asignó al Ministerio de Medio Ambiente, y que dicho parque carece en la actualidad de contraseña propia, razón por la que se propone la contraseña MMA.
+
+Mediante la inclusión de una disposición adicional única en el proyecto de Orden sobre cambio de matrícula por motivos de seguridad y sobre autorizaciones de circulación para vehículos con dispositivos retrorreflectantes, se pretende la modificación del anexo XVIII.II.B) del Reglamento General de Vehículos, para cambiar la contraseña PMM por PME, de acuerdo con la nueva denominación de Parque Móvil del Estado, y para introducir una nueva contraseña: MMA, referida a los vehículos del parque del Ministerio de Medio Ambiente, procedentes del extinto Ministerio de Obras Públicas, Transportes y Medio Ambiente, actualizando de esta manera las contraseñas de los vehículos pertenecientes al Estado que figuran en el citado anexo XVIII.
+
+En base a la habilitación establecida en la disposición final tercera del Real Decreto 2822/1998, la modificación del referido anexo XVIII se deberá efectuar por Orden conjunta de los Ministros del Interior y de Industria y Energía.
+
+En su virtud, a propuesta de los Ministros del Interior y de Industria y Energía y previa aprobación del Ministro de Administraciones Públicas, dispongo:
+
+## CAPÍTULO I — Cambio de matrícula por motivos de seguridad
+
+### Sección 1.ª Autorización de cambio de matrícula
+
+#### Artículo 1. Objeto.
+
+Podrá concederse una nueva matrícula distinta de la que figure inicial o posteriormente asignada cuando así lo solicite el propietario del vehículo por razones de seguridad personal debidamente acreditada.
+
+#### Artículo 2. Solicitud.
+
+La solicitud motivada de autorización de cambio de matrícula por razones de seguridad se podrá presentar en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, dirigida a la Secretaría de Estado de Seguridad. Cuando la solicitud no se presente en la sede de dicha Secretaría de Estado, el órgano o unidad receptora la remitirá a aquélla en el plazo máximo de cinco días naturales.
+
+#### Artículo 3. Plazo para resolver.
+
+En el plazo máximo de un mes a contar desde el día siguiente al de la entrada de la solicitud en cualquiera de los registros del Ministerio del Interior, el titular de la Secretaría de Estado de Seguridad, previa petición de los informes que estime oportunos, dictará y notificará la resolución.
+
+A los efectos de cómputo del plazo a que se refiere este artículo y el artículo 6, la fecha de entrada en cualquiera de los registros del Ministerio del Interior se comunicará al interesado, dentro de los tres días siguientes.
+
+#### Artículo 4. Informe de la Comunidad Autónoma.
+
+En los supuestos en los que la solicitud proceda de un propietario cuyo vehículo esté matriculado en el territorio de una Comunidad Autónoma con competencias para la protección de personas y bienes y el mantenimiento del orden público, la Secretaría de Estado de Seguridad solicitará informe al órgano competente de la misma, que lo emitirá en el plazo máximo de diez días naturales.
+
+#### Artículo 5. Solicitante miembro de un Cuerpo de Seguridad.
+
+Cuando el peticionario sea miembro de un Cuerpo de Seguridad, la solicitud se remitirá por su responsable máximo, junto con el informe aludido, a la Secretaría de Estado de Seguridad.
+
+#### Artículo 6. Silencio positivo.
+
+La solicitud se considerará estimada por el transcurso del plazo de un mes a contar desde el día siguiente al de la entrada de la solicitud en cualquiera de los registros del Ministerio del Interior, sin que se hubiere dictado resolución expresa.
+
+#### Artículo 7. Comunicación a la Dirección General de Tráfico.
+
+Las resoluciones otorgando la autorización del cambio de matrícula por razones de seguridad, además de ser notificadas al solicitante, serán comunicadas a la Dirección General de Tráfico, a los efectos oportunos.
+
+### Sección 2.ª Expedición de una nueva tarjeta ITV
+
+#### Artículo 8. Expedición de nueva tarjeta ITV.
+
+Una vez concedida la autorización de cambio de matrícula por razones de seguridad, el interesado deberá solicitar la expedición de una nueva tarjeta de inspección técnica en una estación ITV autorizada por el órgano competente de la Comunidad Autónoma.
+
+El vehículo será sometido a inspección técnica previa comprobación, si se estima necesario, de sus antecedentes, interesándolos, en su caso, del órgano competente de la Comunidad Autónoma donde está matriculado.
+
+Cuando la inspección técnica y, en su caso, la comprobación de antecedentes sean favorables, la estación ITV emitirá una nueva tarjeta ITV tipo A, haciendo constar en el apartado «observaciones»: «Fecha», «cambio de matrícula según artículo 27.3, Real Decreto 2822/1998», «matrícula anterior», «fecha de primera matriculación», «plazo de validez de la inspección efectuada» y «firma y sello de la estación».
+
+La validez se determinará conforme a la antigüedad del vehículo.
+
+El apartado «matrícula» de la tarjeta se dejará en blanco.
+
+La estación ITV entregará la tarjeta y sus copias al interesado, quedándose con la copia amarilla para su control.
+
+Presentada la solicitud de expedición de una nueva tarjeta de inspección técnica, se deberá acreditar ante la estación ITV el abono de las tasas correspondientes a dicha expedición.
+
+### Sección 3.ª Expedición del nuevo permiso de circulación
+
+#### Artículo 9. Documentación.
+
+La solicitud de formalización de la nueva matrícula por razones de seguridad se dirigirá por el interesado a la Jefatura de Tráfico de la provincia en que tenga su domicilio legal, utilizando a tal efecto el impreso oficial correspondiente.
+
+Junto a la solicitud se acompañarán los documentos siguientes:
+
+a) Documento nacional de identidad en vigor o, en su defecto, resguardo de haberlo solicitado, así como Libro de Familia u otro documento que acredite los datos que figuran en el documento nacional de identidad que no presenta.
+
+Si el solicitante es extranjero, deberá presentar tarjeta de residencia.
+
+En el supuesto de extranjeros que no tengan tarjeta de residencia, presentarán el número de identificación de extranjero o, en caso de que no se expida éste, certificación de la policía acreditativa de dicho extremo, así como documento de identidad del país de origen, si se trata de ciudadanos de Estados parte en el Acuerdo sobre el Espacio Económico Europeo (EEE), o pasaporte o certificado de nacionalidad si se trata de ciudadanos de terceros países, y además justificarán su domicilio en España mediante cualquier documento que así lo acredite, tales como la propiedad o alquiler de una vivienda, o estar censado en algún municipio.
+
+Cuando el solicitante sea persona jurídica, presentará número de identificación fiscal, así como el documento nacional de identidad, pasaporte o tarjeta de residencia de la persona que la representa y documento que acredite tener poder para actuar en su nombre.
+
+Los originales de los documentos mencionados podrán sustituirse por fotocopias de los mismos, que los interesados o sus representantes deberán aportar en el momento de presentación de su solicitud, siempre que sean debidamente cotejados por los registros de los órganos en los que se haya presentado la correspondiente solicitud, conforme a lo establecido en el artículo 38.4, a) y b), de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; sin perjuicio de la posibilidad del ejercicio de esta función por parte de un Gestor Administrativo Colegiado en los términos que se determinen en los acuerdos que puedan establecerse con los Colegios de Gestores Administrativos.
+
+Las solicitudes presentadas por organismos o entidades dependientes de las Administraciones Públicas, General, Autonómica, Provincial o Municipal, serán suscritas por el Jefe del organismo o entidad al que pertenezca el vehículo o persona en quien delegue, acompañadas de la preceptiva documentación.
+
+b) Permiso de circulación del vehículo.
+
+c) La tarjeta de inspección técnica correspondiente a la matrícula anterior.
+
+d) La nueva tarjeta de inspección técnica, con sus copias correspondientes.
+
+e) Original y fotocopia del documento acreditativo de haberse abonado el último recibo puesto al cobro del Impuesto sobre Vehículos de Tracción Mecánica o de su exención, así como el alta y baja correspondientes a dicho impuesto.
+
+#### Artículo 10. Tasas.
+
+La formalización del cambio de matrícula por razones de seguridad personal ante la Jefatura de Tráfico está exenta del pago de las tasas establecidas en la Ley 16/1979, de 2 de octubre, sobre tasas de la Jefatura Central de Tráfico.
+
+#### Artículo 11. Expedición de nuevo permiso de circulación.
+
+La Jefatura de Tráfico, a la vista de la solicitud y de la documentación presentadas, concederá, si procede, una nueva matrícula al vehículo, expedirá un nuevo permiso de circulación y anotará en el Registro de Vehículos la anulación y la baja definitiva de la matrícula anterior. En el permiso de circulación que se expida se harán constar necesariamente, en su apartado B, las mismas fechas que figurasen en el permiso de circulación correspondiente a la matrícula anterior.
+
+La Jefatura de Tráfico comunicará a la Secretaría de Estado de Seguridad la nueva matrícula concedida.
+
+En el supuesto de que no se presente, total o parcialmente, la documentación indicada en el artículo 9, la Jefatura de Tráfico devolverá la nueva tarjeta de inspección técnica al órgano competente de la Comunidad Autónoma que la hubiese expedido y entregará la anterior al interesado, lo que se comunicará a la Secretaría de Estado de Seguridad, a los efectos oportunos.
+
+La solicitud se considerará estimada por el transcurso del plazo de tres meses a contar desde el día siguiente al de la entrada de la solicitud en el registro de la Jefatura de Tráfico de la provincia en que tenga su domicilio legal el interesado, sin que se hubiere dictado resolución expresa.
+
+#### Artículo 12. Anotación de la nueva matrícula en la tarjeta ITV.
+
+La Jefatura de Tráfico anotará la matrícula asignada en el original y copias de la nueva tarjeta de inspección técnica, devolviendo el original al interesado, junto con el permiso de circulación.
+
+La copia azul quedará en el expediente de la Jefatura de Tráfico, la cual remitirá a continuación la copia rosa al organismo de industria que hubiera expedido la nueva tarjeta de inspección técnica. Si se trata de un vehículo especial agrícola, se enviará la copia blanca a los Servicios Provinciales de Agricultura de la Comunidad Autónoma.
+
+#### Artículo 13. Devolución de la anterior tarjeta ITV.
+
+La tarjeta de inspección técnica correspondiente a la matrícula anterior se remitirá al órgano competente de la Comunidad Autónoma donde el vehículo estuvo matriculado.
+
+## CAPÍTULO II — Autorizaciones temporales de circulación para vehículos con dispositivos retrorreflectantes
+
+> Se deroga por la disposición derogatoria única de la Orden PRE/52/2010, de 21 de enero. [Ref. BOE-A-2010-1011](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1011).
+
+#### Artículos 14 a 23.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única de la Orden PRE/52/2010, de 21 de enero. [Ref. BOE-A-2010-1011](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1011).
+
+#### Disposición adicional única. Modificación del anexo XVIII del Reglamento General de Vehículos, aprobado mediante Real Decreto 2822/1998, de 23 de diciembre.
+
+Se modifica el apartado II, letra B), del anexo XVIII del Reglamento General de Vehículos, aprobado mediante Real Decreto 2822/1998, de 23 de diciembre, que queda redactado en los siguientes términos:
+
+«B) Contraseñas de los vehículos pertenecientes al Estado:
+
+ET, FN y EA: Para los vehículos pertenecientes al Ministerio de Defensa, correspondientes, respectivamente, al Ejército de Tierra, Armada y Ejército del Aire.
+
+MF: Para los del Parque del Ministerio de Fomento.
+
+MMA: Para los del Parque del Ministerio de Medio Ambiente.
+
+PME: Para los del Parque Móvil del Estado.
+
+PGC: Para los de la Dirección General de la Guardia Civil.
+
+DGP: Para los adscritos a la Dirección General de la Policía.
+
+En el caso de vehículos especiales, figurarán las contraseñas anteriores y, separadas por un guión, las letras VE.»
+
+#### Disposición final única.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de diciembre de 1999.
+
+ÁLVAREZ-CASCOS FERNÁNDEZ
+
+Excmos. Sres. Ministros del Interior y de Industria y Energía.
+
+## ANEXO I — Autorización temporal de circulación para pruebas con dispositivos o materiales retrorreflectantes
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden PRE/52/2010, de 21 de enero. [Ref. BOE-A-2010-1011](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1011).
+
+## ANEXO II
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden PRE/52/2010, de 21 de enero. [Ref. BOE-A-2010-1011](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1011).

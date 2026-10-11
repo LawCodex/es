@@ -1,0 +1,353 @@
+---
+title: "Real Decreto 810/2006, de 30 de junio, de organización, funciones y provisión de puestos de trabajo de las Consejerías de Turismo en las Misiones Diplomáticas de España"
+identifier: "BOE-A-2006-12690"
+eli: "https://www.boe.es/eli/es/rd/2006/06/30/810"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 2006-06-30
+published: 2006-07-14
+in_force_from: 2006-07-15
+last_amended: 2016-01-28
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 167"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-12690"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 810/2006, de 30 de junio, de organización, funciones y provisión de puestos de trabajo de las Consejerías de Turismo en las Misiones Diplomáticas de España
+
+La importancia del sector turístico español queda de manifiesto en su aportación en un 12 por ciento al producto interior bruto de nuestro país, de lo que se deduce su importancia vital como sector dinamizador de la economía española y, en particular, como generador de empleo. Sería imposible entender la presente estructura económica de España sin el efecto del turismo, que por su propia naturaleza ha facilitado el paso de una economía cerrada y casi autárquica a otra ágil y abierta.
+
+Coadyuvantes en el proceso de aumento de las cifras de visitantes y de ingresos por turista, las Oficinas Españolas de Turismo han sido decisivas en la formación de la imagen de España como destino y en la promoción de los productos turísticos españoles para la captación de la demanda que ha situado a España en el segundo puesto de la clasificación mundial de países receptores de turistas.
+
+La evolución de la industria turística mundial, en un entorno cada vez más competitivo y especializado, no ha hecho sino ahondar en el carácter técnico de estas Oficinas, cuyas labores se concentran en el desarrollo de las relaciones económicas internacionales en el ámbito del turismo mediante su promoción exterior, el fomento de las relaciones turísticas internacionales y la asistencia e información a las empresas y entidades turísticas españolas, todo ello en el marco de la política económica del Gobierno.
+
+Ante el siglo XXI, en que las más rigurosas previsiones señalan que el turismo será el sector de mayor tamaño y crecimiento de la economía mundial, España se encuentra en una posición muy ventajosa como mercado receptor. Sin embargo, la competitividad es cada vez mayor en este sector, con mercados emergentes que se van perfilando como nuevos competidores, al tiempo que los turistas de nuestros tradicionales mercados emisores demandan cada vez un producto más especializado. Por ello, se hace necesario reforzar la acción exterior encaminada a ampliar las cuotas de mercados, segmentando y orientando la promoción de nuevos destinos y productos españoles a los distintos sectores de población en cada mercado. Por otro lado, el alto nivel de calidad alcanzado en los productos del sector turístico español ha permitido a sus empresas iniciar un proceso de internacionalización, cuyas amplias posibilidades sólo pueden recibir apoyo especializado de la Administración Turística del Estado.
+
+Estas perspectivas, retos y posibilidades imponen a la Secretaría de Estado de Turismo y Comercio, para poder desarrollar los objetivos encomendados de política turística, la necesidad de contar con una red de Oficinas Españolas de Turismo en las Misiones Diplomáticas españolas con una organización puesta al día, una actualización de sus funciones y unos efectivos que respondan al alto grado de especialización alcanzado en las tareas propias de las Oficinas Españolas de Turismo. Esta especialización y la naturaleza administrativa exterior de la red de Oficinas Españolas de Turismo requieren normas específicas que regulen las peculiaridades del personal destinado en ellas según el Art. 1.2 de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública y el Art. 1.2. b) del Reglamento General de ingreso del personal al servicio de la Administración General del Estado y de provisión de puestos de trabajo y promoción profesional de los funcionarios civiles de la Administración General del Estado aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+Por todo ello, se hace necesario actualizar y completar la normativa sobre el funcionamiento de las Oficinas Españolas de Turismo al amparo de las habilitaciones contenidas en el artículo 1.2 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y de la disposición final primera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, para, de esta forma, adaptarlas a las nuevas circunstancias y necesidades de las empresas, organismos y entes turísticos, dentro del marco legislativo que forma tanto la citada Ley 6/1997, de 14 de abril, el Real Decreto 632/1987, de 8 de mayo, sobre Organización de la Administración del Estado en el Exterior, el Real Decreto 562/2004, de 19 de abril, por el que se establece la estructura orgánica básica de los departamentos ministeriales y el Real Decreto 723/2005, de 20 de junio, por el que se aprueba el Estatuto del Instituto de Turismo de España.
+
+En su virtud, a iniciativa conjunta del Ministro de Industria, Turismo y Comercio y del Ministro de Asuntos Exteriores y de Cooperación, a propuesta del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de junio de 2006,
+
+DISPONGO:
+
+## Artículo 1. Definición.
+
+1\. Las Consejerías de Turismo son órganos técnicos especializados de las Misiones Diplomáticas Permanentes de España, cuyo objetivo esencial es el desarrollo de las relaciones económicas en el ámbito del turismo entre el Estado acreditante y el Estado receptor de conformidad con el artículo 3.1. e) del Convenio de Viena de 18 de abril de 1961 sobre relaciones diplomáticas.
+
+2\. Las Consejerías de Turismo se articulan como Oficinas Españolas de Turismo en el exterior para el ejercicio de las funciones que, en el marco de las competencias de la Secretaría de Estado de Turismo del Ministerio de Industria, Energía y Turismo, les encomienda este real decreto, sin perjuicio de las facultades de supervisión, dirección, impulso y coordinación de los Jefes de las Misiones Diplomáticas.
+
+En todo caso esas funciones deberán ser ejercidas conforme a las directrices, planes y programas que el Gobierno establezca como estratégicos en relación con la acción exterior en materia de turismo.
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 2. Dependencia.
+
+Las Consejerías de Turismo son órganos técnicos especializados de la Misión Diplomática que, bajo la dependencia jerárquica del Embajador, le prestan asesoramiento y apoyo técnico y asisten a éste y a la Misión en el desempeño de sus funciones, en el desarrollo de la acción exterior en materia de turismo, sin perjuicio de su dependencia orgánica y funcional de la Secretaría de Estado de Turismo, a través del Instituto de Turismo de España y del Director General del mismo, a los que corresponde su organización interna y dotación presupuestaria.
+
+> Se modifica por el art. único.2 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 3. Funciones de las Consejerías de Turismo.
+
+1\. Con carácter general, la actuación de las Consejerías de Turismo, en el ámbito de la acción exterior en materia de turismo, se centrará en el apoyo al ejercicio en el exterior de las funciones que corresponden a la Secretaría de Estado de Turismo y al Instituto de Turismo de España conforme a la estrategia de acción exterior fijada por el Gobierno.
+
+En concreto, la actuación de las Consejerías de Turismo, en el ámbito de la acción exterior en materia de turismo, se orientará a la promoción de la imagen de España como destino turístico y a la planificación, desarrollo, ejecución y seguimiento de actividades de carácter promocional del sector turístico español en los mercados internacionales, así como al apoyo a la comercialización de productos turísticos españoles en el exterior.
+
+Asimismo, dicha acción incluirá el ejercicio de las relaciones turísticas internacionales tanto de carácter bilateral como con las organizaciones turísticas internacionales de carácter multilateral, así como el fomento de la cooperación turística internacional.
+
+También comprenderá la asistencia e información a las entidades y empresas turísticas españolas en su actividad internacional y el respaldo a su implantación en el exterior y contribuirá especialmente a la difusión en el exterior de la «Marca España» al ser la acción turística un aspecto decisivo de la imagen de España en el exterior.
+
+2\. En particular, en el ámbito de los Estados receptores o mercados emisores de su demarcación, y conforme al principio de unidad de acción en el exterior, desempeñarán las funciones siguientes:
+
+a) El desarrollo de las relaciones que correspondan con las autoridades competentes en materia turística de los Estados de su demarcación y con las organizaciones públicas o privadas con sede en los mismos en el ámbito de sus competencias. En particular, fomentarán con todas ellas la cooperación en materia turística.
+
+b) El seguimiento e información sobre la política turística de los Estados integrantes de la demarcación de cada oficina.
+
+c) La ejecución de los planes de actividades de promoción y de apoyo a la comercialización de los productos turísticos españoles.
+
+d) La difusión e impulso a los productos turísticos españoles entre las empresas y consumidores extranjeros así como su promoción a través de los medios de información más adecuados.
+
+e) El seguimiento e información sobre los factores que inciden sobre el sector turístico de los mercados emisores de su demarcación, así como la recopilación de documentación y el análisis e interpretación de los datos sobre el turismo en los mercados emisores.
+
+f) El apoyo a la cooperación empresarial de las empresas turísticas españolas en el exterior, en coordinación con los servicios administrativos cuyas funciones afectan a las enumeradas.
+
+g) El desarrollo de la colaboración con comunidades autónomas, entes locales y sector privado en el ejercicio de las funciones anteriores, sin perjuicio de las funciones de coordinación y seguimiento que en esta materia corresponden al Ministerio de Asuntos Exteriores y de Cooperación.
+
+h) Cualquier otra función que les sea encomendada en el marco de sus competencias por las autoridades turísticas del Estado.
+
+3\. De las actividades que realicen las Consejerías de Turismo en el ejercicio de sus funciones se mantendrá debidamente informado al Jefe de la Misión Diplomática.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 4. Dotación de personal y presupuestaria.
+
+1\. Para el desempeño de sus funciones las Consejerías de Turismo contarán con una dotación de personal recogida en las correspondientes relaciones de puestos de trabajo para el personal funcionario y en los catálogos para el personal laboral.
+
+2\. Asimismo contarán con las dotaciones presupuestarias asignadas en los Presupuestos Generales del Estado a través del Instituto de Turismo de España.
+
+## Artículo 5. Creación y supresión.
+
+La creación o supresión de una Consejería de Turismo se realizará por real decreto, a iniciativa del Ministro de Industria, Energía y Turismo, previo informe del Ministerio de Asuntos Exteriores y de Cooperación, y a propuesta del Ministro de Hacienda y Administraciones Públicas, previo informe del Consejo Ejecutivo de Política Exterior. En el anexo de este real decreto se recoge la relación de Consejerías existentes.
+
+> Se modifica por el art. único.4 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 6. Convocatoria y forma de provisión de los puestos de funcionarios en las Consejerías de Turismo.
+
+1\. Los puestos de trabajo de funcionarios serán provistos por el procedimiento de libre designación en atención a sus especiales características de responsabilidad, de conformidad con lo establecido en la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y en el Reglamento General de ingreso del personal al servicio de la Administración General del Estado y de provisión de puestos de trabajo y promoción profesional de los funcionarios civiles de la Administración General del Estado, aprobado por Real Decreto 364/1995, de 10 de marzo.
+
+2\. En todo caso, será preceptivo oír, con carácter previo, a la Comisión Asesora de Destinos en el Exterior de la Secretaría de Estado de Turismo, a que se refiere el artículo 8 del presente real decreto.
+
+3\. En el primer cuatrimestre de cada año se publicará la convocatoria ordinaria para la provisión de vacantes en las Consejerías de Turismo que deban cubrirse durante el mismo año. Podrán efectuarse además, en cualquier momento, cuantas convocatorias extraordinarias se precisen, si así lo exigieran las necesidades del servicio.
+
+> Se modifica por el art. único.5 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 7. Requisitos para la designación en los puestos de Consejeros y Consejeros Adjuntos de Turismo.
+
+Para poder ser designado para un puesto de Consejero o Consejero Adjunto en una Consejería de Turismo se exigirán los siguientes requisitos:
+
+a) Pertenecer a alguno de los cuerpos de funcionarios de la Administración General del Estado clasificados en el Subgrupo A 1, según lo establecido en la correspondiente relación de puestos de trabajo, y cumplir los demás requisitos establecidos en este real decreto.
+
+b) Encontrarse en la fecha de publicación de la convocatoria en alguna de las situaciones administrativas relacionadas en el artículo 85 de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, y en el artículo 2 del Reglamento de Situaciones Administrativas de los Funcionarios Civiles de la Administración General del Estado, aprobado por Real Decreto 365/1995, de 10 de marzo, excluidas la excedencia voluntaria por interés particular, la excedencia voluntaria incentivada y la suspensión de funciones.
+
+c) Conocer los idiomas que requiera la correspondiente relación de puestos de trabajo.
+
+> Se modifica por el art. único.6 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 8. Comisión Asesora de Destinos en el Exterior de las Consejerías de Turismo.
+
+1\. La Comisión Asesora de Destinos en el Exterior es el órgano consultivo encargado de asesorar al titular de la Secretaría de Estado de Turismo sobre las propuestas de resolución de las convocatorias para la provisión de puestos de personal funcionario en las Consejerías Españolas de Turismo. Estará formada por:
+
+a) Presidente: El titular de la Dirección General del Instituto de Turismo de España, cuyo voto dirimirá los posibles empates en los acuerdos a adoptar.
+
+b) Vocales:
+
+1.º Dos designados por el titular de la Presidencia del Instituto de Turismo de España, entre personal funcionario del organismo con nivel orgánico de subdirector general.
+
+2.º Uno designado por el titular de la Subsecretaría de Industria, Energía y Turismo, entre titulares de las subdirecciones generales de ese órgano.
+
+3.º Uno designado por el titular de la Dirección General de la Función Pública del Ministerio de Hacienda y Administraciones Públicas, entre su personal funcionario de este órgano directivo con nivel orgánico de subdirector general.
+
+4.º Uno designado por el titular de la Dirección General del Servicio Exterior del Ministerio de Asuntos Exteriores y de Cooperación, entre su personal funcionario de este órgano directivo con nivel orgánico de subdirector general.
+
+c) Secretario, con voz y voto, el titular de la Subdirección General de Gestión Económico-Administrativa y Tecnologías de la Información del Instituto de Turismo España que, en los casos de vacante, ausencia, enfermedad, o cualquier otra causa justificada, podrá ser sustituido por el titular de la Subdirección General Adjunta de Gestión Económico-Administrativa y Tecnologías de la Información.
+
+Asimismo, podrán ser convocados a las reuniones de la Comisión otros funcionarios que, en virtud de su puesto de trabajo, la Comisión considere oportuno consultar, que asistirán con voz pero sin voto.
+
+2\. La Comisión Asesora de Destinos en el Exterior tendrá como función elevar al Secretario de Estado de Turismo una propuesta no vinculante sobre los siguientes aspectos:
+
+a) La resolución de las respectivas convocatorias de puestos en las Consejerías Españolas de Turismo.
+
+b) El análisis sobre las propuestas de modificaciones de la presente normativa, a la vista de las especiales características de la acción exterior en materia de turismo y de la heterogeneidad de los países en que tienen su sede las Consejerías Españolas de Turismo.
+
+c) La concesión de las prórrogas de los períodos de estancia y los ceses de los funcionarios destinados en las Consejerías Españolas de Turismo previstos en este real decreto, oída la Comisión Técnica de Valoración de las Consejerías Españolas de Turismo.
+
+> Se modifica por el art. único.8 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+> Su anterior numeración era art. 9.
+
+## Artículo 9. Criterios para la designación de funcionarios en los puestos de Consejero y Consejero Adjunto de Turismo.
+
+Para la elaboración de la propuesta de resolución de las convocatorias para la provisión de puestos, la Comisión Asesora de Destinos en el Exterior tendrá en cuenta los siguientes méritos:
+
+a) Servicios prestados y naturaleza y nivel de los puestos o cargos desempeñados.
+
+b) Formación y experiencia acreditada en las materias objeto de la competencia de la secretaría de Estado de Turismo.
+
+c) Idoneidad, preparación técnica y profesional para el adecuado desempeño del puesto en relación con las características específicas de cada destino en el exterior.
+
+d) El conocimiento de los idiomas que, en su caso, se establezca en la convocatoria.
+
+e) Los informes de la Comisión Técnica de Valoración que existieren, en su caso, de destinos anteriores.
+
+f) Otros requisitos especificados en la convocatoria.
+
+> Se modifica por el art. único.7 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+> Su anterior numeración era art. 8.
+
+## Artículo 10. Comisión Técnica de Valoración de las Consejerías Españolas de Turismo.
+
+1\. La Comisión Técnica de Valoración de las Consejerías Españolas de Turismo, se constituye como un órgano colegiado, adscrito a la Secretaría de Estado de Turismo, para el análisis y la valoración del funcionamiento de las Consejerías Españolas de Turismo y del desempeño del personal destinado en ellas.
+
+2\. La Comisión Técnica de Valoración de las Consejerías Españolas de Turismo estará compuesta por los siguientes miembros:
+
+a) Presidente: el Director General del Instituto de Turismo de España.
+
+b) Vocales:
+
+1.º Dos designados por el titular de la Presidencia del Instituto de Turismo de España, entre personal funcionario del organismo con nivel orgánico de Subdirector General.
+
+2.º Uno designado por el titular de la Subsecretaría de Industria, Energía y Turismo, entre titulares de las subdirecciones generales de ese órgano.
+
+c) Secretario: El titular de la Subdirección General de Gestión Económico-Administrativa y Tecnologías de la Información que, en los casos de vacante, ausencia, enfermedad, o cualquier otra causa justificada, podrá ser sustituido por el titular de la Subdirección General Adjuntade Gestión Económico-Administrativa y Tecnologías de la Información.
+
+3\. Las funciones de esta Comisión serán las siguientes:
+
+a) Informar a la Comisión Asesora de Destinos en el Exterior sobre la concesión de las prórrogas y los ceses de los funcionarios en las Consejerías Españolas de Turismo.
+
+b) Valorar el desempeño en el puesto de trabajo de todos los funcionarios destinado en las Consejerías Españolas de Turismo en el exterior.
+
+c) Proponer recomendaciones o sugerencias que considere oportunas relativas al funcionamiento y a la organización del trabajo en las Consejerías Españolas de Turismo en el Exterior y al desempeño en el puesto de trabajo de los funcionarios destinados en el exterior.
+
+4\. La Comisión podrá reunirse cuantas veces sea convocada por su presidente para atender al ejercicio de sus funciones. En cualquier caso, deberá convocarse y reunirse antes de la convocatoria ordinaria para la provisión de vacantes en las Consejerías de Turismo en el exterior.
+
+5\. La Comisión se regulará, en lo no previsto en este real decreto, por las disposiciones del capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica por el art. único.9 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 11. Nombramiento.
+
+1\. El Secretario de Estado de Turismo nombrará a los funcionarios. Una vez efectuados los nombramientos, se dará traslado de los mismos al Ministerio de Asuntos Exteriores y de Cooperación, a quien corresponde la acreditación ante el Estado receptor u organización de que se trate.
+
+2\. La resolución de las convocatorias ordinarias se producirá, salvo circunstancias excepcionales, antes del 1 de mayo.
+
+> Se modifica por el art. único.10 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+> Su anterior numeración era art. 10.
+
+## Artículo 12. Tomas de posesión y ceses.
+
+1\. Las tomas de posesión, correspondientes a las convocatorias ordinarias, tendrán lugar durante el tercer trimestre del año, excepto cuando se indique de otra forma en la convocatoria. En el caso de convocatorias extraordinarias, se realizarán en las fechas establecidas en las mismas, en función de las necesidades del servicio.
+
+Dentro de estos límites, las fechas concretas de relevo serán fijadas por el Director General del Instituto de Turismo de España y comunicadas a los funcionarios entrantes y salientes.
+
+2\. A todos los efectos, los periodos a que se refiere la presente norma se computarán tomando en cuenta las fechas efectivas de toma de posesión o de cese del funcionario en el correspondiente destino.
+
+> Se modifica por el art. único.11 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+## Artículo 13. Plazos de permanencia de los funcionarios en las Consejerías de Turismo.
+
+1\. El período de permanencia de los funcionarios en un puesto de trabajo en una Consejería de Turismo se determinará en la convocatoria y al final del mismo se producirá el cese. El plazo de permanencia de los funcionarios en el puesto de trabajo será de un máximo de cinco años, con un mínimo de tres años.
+
+Dicho período mínimo de permanencia de tres años podrá ser prorrogado por el órgano competente para el nombramiento por períodos anuales, a petición del interesado, hasta el indicado máximo de cinco años. -Los funcionarios deberán solicitar las correspondientes prórrogas por escrito antes del 1 de enero del año en que finalice el plazo mínimo o la prórroga concedida.
+
+2\. Lo establecido en el apartado 1 de este artículo se entiende sin perjuicio de lo dispuesto en el artículo 58 del Reglamento General de ingreso del personal al servicio de la Administración General del Estado y de provisión de puestos de trabajo y promoción profesional de los funcionarios de la Administración General del Estado, aprobado por Real Decreto 364/1995, de 10 de marzo.
+
+3\. Una vez producido el cese de un funcionario en el puesto que ocupase en una Consejería, por cualquiera de las causas previstas en la normativa aplicable, incluidas las del apartado 1, no podrá ser destinado a ningún puesto de la misma o de otra de estas Consejerías hasta que haya transcurrido un mínimo de tres años continuados en servicio activo en España a contar desde la fecha del cese.
+
+4\. Todos los plazos empezarán a contar desde el día de la ocupación efectiva del puesto o del cese efectivo en el mismo.
+
+> Se añade por el art. único.12 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+> Su anterior numeración era art. 11.
+
+## Artículo 14. Personal laboral.
+
+Los puestos de personal laboral se cubrirán previa superación de pruebas de selección adecuadas al puesto convocadas por el Instituto de Turismo de España, que formalizará el correspondiente contrato laboral con arreglo a la legislación laboral del lugar en que se encuentre la Consejería Española de Turismo.
+
+Los sistemas de selección establecidos no serán aplicables en aquellos países en los que la contratación de personal debe hacerse obligatoriamente a través de sus respectivos servicios de contratación.
+
+> Se añade por el art. único.13 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+> Su anterior numeración era art. 12.
+
+## Disposición adicional primera. Representaciones o misiones permanentes ante organizaciones internacionales.
+
+En las representaciones o misiones permanentes de España ante organizaciones internacionales de carácter turístico, con competencias turísticas o que afecten al turismo podrán existir puestos de Consejeros y Consejeros Adjuntos de Turismo, que se regirán por las normas específicas de esas representaciones y misiones y, en la medida en que les sea de aplicación, por lo dispuesto en este real decreto.
+
+## Disposición adicional segunda. Cambio de denominación.
+
+Las menciones a Directores y Directores Adjuntos de la Oficinas Españolas de Turismo en las relaciones de puestos de trabajo vigentes se entenderán referidas a Consejeros de Turismo y Consejeros Adjuntos de Turismo hasta que se adapte esa relación de puestos de trabajo a las denominaciones de este real decreto.
+
+## Disposición adicional tercera. No incremento de gasto público.
+
+La aplicación de las previsiones de este real decreto así como la ejecución de las medidas organizativas derivadas del mismo no implicarán aumento del gasto público.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Decreto 377/1972, de 24 de febrero, por el que se regulan las funciones y actividades de los Consejeros de Información y Turismo en el exterior, en cuanto se refiere al turismo, y el artículo 5 del Real Decreto 723/2005, de 20 de junio, por el que se aprueba el Estatuto del Instituto de Turismo de España.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza a los Ministros de Industria, Turismo y Comercio y de Asuntos Exteriores y de Cooperación a dictar las disposiciones necesarias de desarrollo y aplicación de este real decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 30 de junio de 2006.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+JORDI SEVILLA SEGURA
+
+## ANEXO — Relación de Consejerías de Turismo
+
+Consejería de Turismo en Berlín.
+
+Consejería de Turismo en Frankfurt.
+
+Consejería de Turismo en Múnich.
+
+Consejería de Turismo en Buenos Aires.
+
+Consejería de Turismo en Bruselas.
+
+Consejería de Turismo en Sao Paulo.
+
+Consejería de Turismo en Toronto.
+
+Consejería de Turismo en Cantón.
+
+Consejería de Turismo en Pekín.
+
+Consejería de Turismo en Copenhague.
+
+Consejería de Turismo en Abu Dabi.
+
+Consejería de Turismo en Nueva York.
+
+Consejería de Turismo en Chicago.
+
+Consejería de Turismo en Los Ángeles.
+
+Consejería de Turismo en Miami.
+
+Consejería de Turismo en Helsinki.
+
+Consejería de Turismo en París.
+
+Consejería de Turismo en Mumbay.
+
+Consejería de Turismo en Milán.
+
+Consejería de Turismo en Roma.
+
+Consejería de Turismo en Dublín.
+
+Consejería de Turismo en Tokio.
+
+Consejería de Turismo en México.
+
+Consejería de Turismo en Oslo.
+
+Consejería de Turismo en La Haya.
+
+Consejería de Turismo en Varsovia.
+
+Consejería de Turismo en Lisboa.
+
+Consejería de Turismo en Londres.
+
+Consejería de Turismo en Singapur.
+
+Consejería de Turismo en Moscú.
+
+Consejería de Turismo en Estocolmo.
+
+Consejería de Turismo en Zúrich.
+
+Consejería de Turismo en Viena.
+
+> Se añade la Consejería de Turismo en Abu Dabi por la disposición final 1 del Real Decreto 14/2016, de 15 de enero. [Ref. BOE-A-2016-771](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-771)
+
+> Se modifica por el art. único.14 del Real Decreto 217/2015, de 27 de marzo. [Ref. BOE-A-2015-3325](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3325)
+
+> Se suprime la Consejería de Turismo en Düsseldorf por la disposición final 3 del Real Decreto 726/2014, de 29 de agosto. [Ref. BOE-A-2014-9260](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9260)

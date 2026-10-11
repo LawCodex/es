@@ -1,0 +1,1381 @@
+---
+title: "Real Decreto 117/2003, de 31 de enero, sobre limitación de emisiones de compuestos orgánicos volátiles debidas al uso de disolventes en determinadas actividades"
+identifier: "BOE-A-2003-2515"
+eli: "https://www.boe.es/eli/es/rd/2003/01/31/117"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2003-01-31
+published: 2003-02-07
+in_force_from: 2003-02-08
+last_amended: 2013-10-19
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-2515"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 117/2003, de 31 de enero, sobre limitación de emisiones de compuestos orgánicos volátiles debidas al uso de disolventes en determinadas actividades
+
+Incluye la corrección de error y errata publicada en BOE núm. 79, de 2 de abril de 2003. [Ref. BOE-A-2003-6596](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6596).
+
+El uso de disolventes en ciertas actividades da lugar a emisiones de compuestos orgánicos a la atmósfera que pueden ser nocivas para la salud y producir importantes perjuicios a los recursos naturales. Consciente de lo anterior, el Consejo de Ministros de la Unión Europea aprobó, el 11 de marzo de 1999, la Directiva 1999/13/CE, que tiene por objeto prevenir o reducir los efectos nocivos que para las personas y el medio ambiente pueden derivarse de algunas actividades que utilizan en sus procedimientos de fabricación o de trabajo disolventes orgánicos en cantidades importantes.
+
+Esta directiva impone a los titulares de instalaciones en las que se realicen dichas actividades determinadas obligaciones, entre ellas, la de no superar los distintos valores límite de emisión que se especifican o la de reducir sus emisiones por otros medios, como el uso de productos con bajo contenido en disolvente o exentos de ellos. Asimismo, de conformidad con la citada norma comunitaria, las autoridades competentes deberán comprobar el cumplimiento de las obligaciones impuestas, quedando obligados los titulares de las instalaciones a facilitar a aquéllas los datos e informaciones necesarios para el desarrollo de su labor.
+
+Para garantizar el control de las citadas actividades, la directiva establece que las que no estén sometidas a autorización, de conformidad con lo establecido en la Directiva 96/61/CE del Consejo, de 24 de septiembre de 1996, relativa a la prevención y al control integrado de la contaminación, deberán notificarse para su registro a la autoridad competente.
+
+De acuerdo con lo anterior, la incorporación al derecho interno de la Directiva 1999/13/CE quedaba supeditada a la previa transposición de la Directiva 96/61/CE, lo que se ha llevado a cabo a través de la recientemente aprobada Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, disposición que somete a autorización ambiental integrada determinadas actividades que se detallan en su anejo 1, entre otras, las instalaciones para el tratamiento de superficies de materiales, objetos o productos con utilización de disolventes orgánicos, con una capacidad de consumo de más de 150 kg. de disolvente hora o más de 200 toneladas por año.
+
+La citada Ley impone, asimismo, en el artículo 7.2, la obligación de cumplir, en tanto en cuanto el Gobierno no fije los valores límite para las actividades industriales incluidas en su ámbito de aplicación, los valores establecidos en las disposiciones que se citan en su anejo 2, en el que además se incluye una referencia genérica a la normativa sobre limitación de emisiones de compuestos orgánicos volátiles debidas al uso de disolventes en determinadas actividades e instalaciones industriales, normativa que se establece mediante este Real Decreto.
+
+Por último, la disposición final quinta de la Ley faculta al Gobierno para imponer a los titulares de instalaciones en las que se desarrollen determinadas categorías de actividades, no incluidas en su ámbito de aplicación, la obligación de notificarlas a las respectivas Comunidades Autónomas, para su registro por éstas y posterior control, debiendo las normas que regulen dicha obligación determinar, asimismo, los requisitos a los que deberá ajustarse el funcionamiento de las instalaciones. El incumplimiento de la obligación de notificación o de los requisitos indicados dará lugar a la imposición, respectivamente, de sanciones leves o graves, que podrán convertirse en muy graves cuando se produzca un daño importante para el medio ambiente o para la salud y seguridad de las personas.
+
+Al amparo de lo anterior, este Real Decreto incorpora al derecho interno la Directiva 1999/13/CE y establece los requisitos que deberán cumplir las nuevas instalaciones que utilicen determinadas cantidades de disolventes para el desarrollo de sus actividades, bien para que puedan ser autorizadas de conformidad con la Ley 16/2002, si se trata de actividades incluidas en su ámbito de aplicación, bien registradas, si se trata de actividades sometidas a notificación previa a la autoridad competente de conformidad con lo establecido en la disposición adicional quinta de dicha Ley. Asimismo, para las instalaciones existentes se fijan plazos para su adaptación a los citados requisitos.
+
+Por último, este Real Decreto se dicta de conformidad con las competencias exclusivas que al Estado otorga el artículo 149.1.16.ªy 23.ª de la Constitución, en materia de bases y coordinación general de la sanidad y legislación básica sobre protección del medio ambiente.
+
+En su virtud, a propuesta de los Ministros de Medio Ambiente, de Sanidad y Consumo y de Ciencia y Tecnología, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de enero de 2003,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+Este Real Decreto tiene por objeto evitar o, cuando ello no sea posible, reducir los efectos directos o indirectos de las emisiones de compuestos orgánicos volátiles sobre el medio ambiente y la salud de las personas.
+
+Quedan incluidas en su ámbito de aplicación las instalaciones en las que se desarrollen algunas de las actividades incluidas en el anexo I, siempre que se realicen superando los umbrales de consumo de disolvente establecidos en el anexo II.
+
+## Artículo 2. Definiciones.
+
+A efectos de lo dispuesto en este Real Decreto, se entiende por:
+
+«Instalación»: cualquier unidad técnica fija en donde se desarrolle una o más de las actividades industriales enumeradas en el anexo I de este Real Decreto, así como cualesquiera otras actividades directamente relacionadas con aquéllas que guarden relación de índole técnica con las actividades llevadas a cabo en dicho lugar y puedan tener repercusiones sobre las emisiones y la contaminación.
+
+«Instalación existente»: toda instalación en funcionamiento el 29 de marzo de 1999, o a la que se hubiera concedido una autorización o se hubiera inscrito antes del 1 de abril de 2001 o para la que el titular de la misma haya presentado una solicitud completa de autorización antes del 1 de abril de 2001, siempre y cuando tal instalación se hubiera puesto en funcionamiento, a más tardar, el 1 de abril de 2002.
+
+«Pequeña instalación»: toda instalación incluida en la zona de umbrales mínimos de los puntos 1, 3, 4, 5, 8, 10, 13, 16 ó 17 del anexo II A, o para las demás actividades de dicho anexo con un consumo de disolventes inferior a 10 toneladas/año.
+
+«Modificación sustancial»: lo definido en el párrafo e) del artículo 3 de la Ley 16/2002, para las instalaciones incluidas en su anejo 1. Para las restantes instalaciones, aquellas modificaciones que en opinión de la autoridad competente puedan tener repercusiones perjudiciales o importantes en la seguridad, la salud humana o el medio ambiente. En todo caso, tendrá dicha consideración la modificación de la capacidad nominal de la instalación que suponga un aumento de las emisiones de compuestos orgánicos volátiles de más del 25 por ciento, cuando se trate de pequeñas instalaciones, o de más del 10 por ciento, en las restantes.
+
+«Órgano competente»: el órgano designado por la Comunidad Autónoma en la que se ubique la instalación. En tanto no se produzca una designación específica por parte de la Comunidad Autónoma, se entenderá competente el órgano de dicha Administración que ostente las competencias en materia de medio ambiente.
+
+«Titular»: cualquier persona física o jurídica que explote o controle la instalación.
+
+«Notificación»: la comunicación al órgano competente de la intención de explotar una instalación.
+
+«Emisión»: toda descarga al medio ambiente de compuestos orgánicos volátiles procedentes de una instalación.
+
+«Emisiones difusas»: toda emisión, no contenida en gases residuales, de compuestos orgánicos volátiles al aire, suelo o agua, así como, salvo indicación en contrario en el anexo II, los disolventes contenidos en cualquier producto. Quedan incluidas las emisiones no capturadas liberadas al ambiente exterior por las ventanas, puertas, respiraderos y aberturas similares.
+
+«Gases residuales»: toda descarga gaseosa final al aire que contenga compuestos orgánicos volátiles u otros contaminantes procedente de una chimenea o equipo de reducción. El caudal volumétrico debe expresarse en m<sup>3</sup>/h en condiciones normales.
+
+«Emisiones totales»: la suma de las emisiones difusas y de las emisiones de gases residuales.
+
+«Valor límite de emisión»: la masa de compuestos orgánicos volátiles, calculada en condiciones normales y expresada en relación con determinados parámetros específicos, la concentración, el porcentaje y el nivel de emisión, cuyo valor no debe superarse dentro de uno o varios períodos determinados.
+
+«Sustancia»: todo elemento químico y sus compuestos, en estado natural o producidos por la industria, ya sean en forma sólida, líquida o gaseosa.
+
+«Mezcla»: solución compuesta por dos o más sustancias.
+
+«Compuesto orgánico»: todo compuesto que contenga carbono y uno o más de los siguientes elementos: hidrógeno, halógenos, oxígeno, azufre, fósforo, silicio o nitrógeno, salvo los óxidos de carbono y los carbonatos y bicarbonatos inorgánicos.
+
+«Compuesto orgánico volátil (COV)»: todo compuesto orgánico que tenga a 293,15 K una presión de vapor de 0,01 kPa o más, o que tenga una volatilidad equivalente en las condiciones particulares de uso. Se incluye en esta definición la fracción de creosota que sobrepase este valor de presión de vapor a la temperatura indicada de 293,15 K.
+
+«Disolvente orgánico»: todo compuesto orgánico volátil que se utilice sólo o en combinación con otros agentes, sin sufrir ningún cambio químico, para disolver materias primas, productos o materiales residuales, o se utilice como agente de limpieza para disolver la suciedad, o como disolvente, o como medio de dispersión, o como modificador de la viscosidad, o como agente tensoactivo, plastificante o protector.
+
+«Disolvente orgánico halogenado»: todo disolvente orgánico que contenga al menos un átomo de bromo, cloro, flúor o yodo por molécula.
+
+«Recubrimiento»: todo Mezcla, incluidos todos los disolventes orgánicos o Mezclas que contengan disolventes orgánicos necesarios para su debida aplicación, que se utilice para obtener un efecto decorativo, protector o de otro tipo sobre una superficie.
+
+«Adhesivo»: todo Mezcla, incluidos todos los disolventes orgánicos o Mezclas que contengan disolventes orgánicos necesarios para su debida aplicación, utilizado para pegar partes separadas de un producto.
+
+«Tinta»: todo Mezcla, incluidos todos los disolventes orgánicos o Mezclas que contengan disolventes orgánicos necesarios para su debida aplicación, que se utilice en una actividad de imprenta para imprimir texto o imágenes en una superficie.
+
+«Barniz»: todo recubrimiento transparente.
+
+«Consumo»: cantidad total de disolventes orgánicos utilizados en una instalación en un año natural o en cualquier otro período de doce meses, excluidos los compuestos orgánicos volátiles recuperados para su posterior reutilización.
+
+«Entrada»: cantidad de disolventes orgánicos, aislados o integrados en los Mezclas utilizados al desarrollar una actividad, incluidos los disolventes reciclados dentro o fuera de la instalación, que se contabilizan cada vez que se utilizan para desarrollar la actividad.
+
+«Reutilización de disolventes orgánicos»: toda utilización de disolventes orgánicos recuperados de una instalación con cualquier fin técnico o comercial, incluida su utilización como combustible y excluida su eliminación definitiva como residuos.
+
+«Caudal másico»: la cantidad de compuestos orgánicos volátiles liberados, expresada en unidad de masa/hora.
+
+«Capacidad nominal»: media diaria de masa de disolventes orgánicos utilizados en una instalación, en condiciones de funcionamiento normal y con el rendimiento previsto.
+
+«Funcionamiento normal»: todo los períodos de funcionamiento de una instalación o actividad, excepto las operaciones de puesta en marcha y parada y las de mantenimiento del equipo.
+
+«Condiciones confinadas»: condiciones de funcionamiento de una instalación en la que los compuestos orgánicos volátiles liberados durante la actividad se recogen y descargan de modo controlado, bien mediante una chimenea o un equipo de reducción, por lo que no son totalmente difusas.
+
+«Condiciones normales»: la temperatura de 273,15 K y la presión de 101,3 kPa.
+
+«Media de 24 horas»: la media aritmética de todas las lecturas válidas tomadas durante un período de 24 horas de funcionamiento normal.
+
+«Operaciones de puesta en marcha y parada»: toda operación realizada al poner en servicio, fuera de servicio o ralentizar una instalación, un elemento del equipo o un depósito. No se consideran operaciones de puesta en marcha y parada las fases de oscilación que se producen en circunstancias normales de funcionamiento.
+
+«Mejores técnicas disponibles»: las definidas como tal en el párrafo ñ) del artículo 3 de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 815/2013, de 18 de octubre. [Ref. BOE-A-2013-10949](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10949).
+
+> Se modifica por el art. 2.1 y 2 del Real Decreto 1436/2010, de 5 de noviembre. [Ref. BOE-A-2010-17240](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17240).
+
+## Artículo 3. Régimen de intervención administrativa.
+
+1\. Las instalaciones incluidas en el ámbito de aplicación de este Real Decreto y que a su vez estén incluidas en el de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, estarán sometidas a la autorización ambiental integrada regulada en la mencionada Ley. La citada autorización deberá incluir los valores límite de emisión o los sistemas de reducción de emisiones, así como los demás requisitos que en este Real Decreto se establecen.
+
+2\. Las instalaciones incluidas en el ámbito de aplicación de este Real Decreto y que no lo estén en el de la Ley 16/2002, de 1 de julio, quedarán sometidas a notificación, antes de su puesta en funcionamiento, al órgano competente para su registro y control.
+
+Esta obligación no será exigible a estas actividades cuando estén sometidas a autorización por los órganos competentes de las Comunidades Autónomas, de acuerdo con la legislación aprobada por aquéllas en ejercicio de sus competencias para dictar normas adicionales de protección.
+
+3\. Cuando una instalación sea objeto de una modificación sustancial o quede incluida en el ámbito de aplicación del presente Real Decreto por primera vez como consecuencia de una modificación sustancial, la parte de la instalación que sea objeto de dicha modificación será considerada como una instalación nueva y su titular deberá solicitar la autorización o efectuar la notificación referidas en los apartados 1 y 2 de este artículo, así como cumplir con las restantes obligaciones que se establecen en este Real Decreto.
+
+No obstante lo anterior, será considerada como instalación existente si las emisiones totales de la instalación modificada no superan en su conjunto el nivel que se habría alcanzado si la parte sustancialmente modificada hubiese sido tratada como instalación nueva.
+
+## Artículo 4. Régimen general aplicable a las instalaciones para la limitación de emisiones.
+
+1\. Las instalaciones en las que se desarrolle alguna de las actividades incluidas en el ámbito de aplicación de este Real Decreto deberán:
+
+a) Cumplir los valores límite de emisión en los gases residuales y los valores de emisión difusa establecidos en el anexo II, o los valores límite de emisión total, así como las demás disposiciones establecidas en dicho anexo II ; o
+
+b) Establecer un sistema de reducción de emisiones, de acuerdo con lo señalado en el anexo III.
+
+En las instalaciones que no se utilice el sistema de reducción de emisiones, todo equipo de reducción que se instale deberá permitir el cumplimiento de lo establecido en el anexo II.
+
+2\. Las instalaciones en que se realicen dos o más actividades que superen cada una de ellas los umbrales establecidos en el anexo II deberán:
+
+a) Cumplir los requisitos del apartado 1 de este artículo respecto de cada actividad individual, o
+
+b) Realizar unas emisiones totales que no superen las que resultarían de la aplicación del párrafo anterior.
+
+Si en estas actividades se utiliza alguna de las sustancias especificadas en el artículo 5, deberán cumplirse los valores límite de emisión y los restantes requisitos exigidos en dicho artículo para cada actividad.
+
+3\. El titular de una instalación que pueda acreditar ante el órgano competente que está utilizando la mejor técnica disponible, podrá ser dispensado del cumplimiento de los siguientes valores límite:
+
+a) Los valores de emisión difusa, en los supuestos en que se pueda demostrar ante el órgano competente que dichos valores no son factibles ni técnica ni económicamente para la instalación, y siempre que no quepa esperar un riesgo significativo para la salud humana o el medio ambiente.
+
+b) Los valores que se determinan en el anexo II para aquellas actividades que no puedan llevarse a cabo de forma confinada, siempre que en dicho anexo se mencione explícitamente esta posibilidad. En tal caso, deberá establecerse un sistema de reducción de emisiones de acuerdo con lo señalado en el anexo III, salvo que se pueda demostrar ante el órgano competente que esta posibilidad no es factible ni técnica ni económicamente.
+
+4\. Durante las fases de puesta en marcha y parada de las instalaciones deberán adoptarse las precauciones necesarias para minimizar las emisiones.
+
+## Artículo 5. Régimen especial de las instalaciones en las que se utilicen sustancias o mezclas de riesgo.
+
+> Téngase en cuenta que el Real Decreto 1436/2010, de 5 de noviembre, da dos redacciones distintas a este artículo, a continuación se incorporan ambas redacciones:
+
+**[Redacción dada por el art. 2.4, con aplicación a partir del 1 de junio de 2015]:**
+
+1\. Cuando en una instalación se utilicen sustancias o mezclas que, debido a su contenido en compuestos orgánicos volátiles clasificados como carcinógenos, mutágenos o tóxicos para la reproducción, tengan asignadas determinadas indicaciones de peligro, de acuerdo con lo establecido en el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, se deberán cumplir, en todo caso y con independencia de que se establezca un sistema de reducción de emisiones, los siguientes valores límite de emisión:
+
+a) 2 mgINm<sup>3</sup>, en el caso de emisiones de compuestos orgánicos volátiles que tengan asignadas las indicaciones de peligro H340, H350, H350i, H360D o H360F, cuando el caudal másico de la suma de los compuestos que justifica el etiquetado con alguna de esas indicaciones de peligro sea mayor o igual a 10 glh.
+
+b) 20 mg/Nm<sup>3</sup>, en el caso de emisiones de compuestos orgánicos volátiles halogenados que tengan asignadas las indicaciones de peligro H341 o H351, cuando el caudal másico de la suma de los compuestos que justifica el etiquetado con alguna de esas indicaciones de peligro sea mayor o igual a 100 glh.
+
+En ambos casos, el valor límite de emisión se refiere a la suma de las masas de los distintos compuestos.
+
+2\. Las emisiones de compuestos orgánicos volátiles contempladas en este artículo deberán controlarse como emisiones procedentes de una instalación en condiciones confinadas, en la medida que ello sea técnica o económicamente posible, para proteger la salud humana y el medio ambiente.
+
+3\. Las instalaciones que emitan compuestos orgánicos volátiles a los que, con posterioridad a la entrada en vigor de este real decreto, se asigne una de las indicaciones de peligro mencionadas en el apartado 1, deberán cumplir los valores límite de emisión fijados en el citado apartado en el plazo más corto posible que, en todo caso, no podrá ser superior al de un año, a partir de la fecha de la entrada en vigor de la disposición que así lo establezca.
+
+4\. No obstante lo regulado en los apartados anteriores, las instalaciones que utilicen sustancias o mezclas que tengan asignadas las indicaciones de peligro H340, H350, H350i, H360D o H360F deberán sustituirlas, en la medida de lo posible, por sustancias y .mezclas menos peligrosas. A estos efectos, cuando se haya demostrado que existen alternativas de sustitución, ésta se llevará a cabo lo antes posible.
+
+**[Redacción dada por la disposición transitoria única.1, con aplicación desde el 1 de diciembre de 2010 hasta el 31 de mayo de 2015]:**
+
+1\. Cuando en una instalación se utilicen sustancias o mezclas que, debido a su contenido en compuestos orgánicos volátiles clasificados como carcinógenos, mutágenos o tóxicos para la reproducción, tengan asignados determinadas indicaciones de peligro o frases de riesgo, de acuerdo con lo establecido en el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, sobre clasificación, etiquetado y envasado de sustancias y mezclas, se deberán cumplir, en todo caso y con independencia de que se establezca un sistema de reducción de emisiones, los siguientes valores límite de emisión:
+
+a) 2 mg/Nm<sup>3</sup>, en el caso de emisiones de compuestos orgánicos volátiles que tengan asignadas las indicaciones de peligro H340, H350, H350i, H360D o H360F, o las frases de riesgo R45, R46, R49, R60 o R61, cuando el caudal másico de la suma de los compuestos que justifica el etiquetado con alguna de esas indicaciones de peligro o frases de riesgo sea mayor o igual a 10 g/h.
+
+b) 20 mg/Nm<sup>3</sup>, en el caso de emisiones de compuestos orgánicos volátiles halogenados que tengan asignadas las indicaciones de peligro H341 o H351, o las frases de riesgo R40 o R68, cuando el caudal másico de la suma de los compuestos que justifica el etiquetado con alguna de esas indicaciones de peligro o frases de riesgo sea mayor o iguala 100 g/h.
+
+En ambos casos, el valor límite de emisión se refiere a la suma de las masas de los distintos compuestos.
+
+2\. Las emisiones de compuestos orgánicos volátiles contempladas en este artículo deberán controlarse como emisiones procedentes de una instalación en condiciones confinadas, en la medida que ello sea técnica o económicamente posible, para proteger la salud humana y el medio ambiente.
+
+3\. Las instalaciones que emitan compuestos orgánicos volátiles a los que, con posterioridad a la entrada en vigor de este Real Decreto, se asigne una de las indicaciones de peligro o de las frases de riesgo mencionadas en el apartado 1, deberán cumplir los valores límite de emisión fijados en el citado apartado en el plazo más corto posible que, en todo caso, no podrá ser superior al de un año, a partir de la fecha de la entrada en vigor de la disposición que así lo establezca.
+
+4\. No obstante lo regulado en los apartados anteriores, las instalaciones que utilicen sustancias o mezclas que tengan asignadas las indicaciones de peligro H340, H350, H350i, H360D o H360F o las frases de riesgo R45, R46, R49, R60 o R61 deberán sustituirlas, en la medida de lo posible, por sustancias y mezclas menos peligrosas. A estos efectos, cuando se haya demostrado que existen alternativas de sustitución, ésta se llevará a cabo lo antes posible.
+
+> Se modifica por el art. 2.4 y disposición transitoria única.1 del Real Decreto 1436/2010, de 5 de noviembre. [Ref. BOE-A-2010-17240](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17240).
+
+> Redactado el apartado 4 conforme a la corrección de errata y error publicada en BOE núm. 79, de 2 de abril de 2003. [Ref. BOE-A-2003-6596](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6596).
+
+## Artículo 6. Medidas de control.
+
+1\. El titular de cualquiera de las instalaciones incluidas en el ámbito de aplicación de este Real Decreto deberá facilitar los datos necesarios al órgano competente para que éste pueda comprobar el cumplimiento de las obligaciones en él establecidas. Esta información se suministrará, al menos, una vez al año, y siempre que sea solicitada por el órgano competente.
+
+2\. Los conductos a los que esté conectado un equipo de reducción en cuyo punto final de descarga se emitan más de 10 kg/h, en media, de carbono orgánico total deberán ser objeto de supervisión y control continuos para asegurar el cumplimiento de las disposiciones de este Real Decreto. A estos efectos, al realizar los cálculos para la aplicación de este artículo y del artículo 7, el órgano competente deberá tener en cuenta posibles fraccionamientos de las emisiones.
+
+En los demás casos se realizarán mediciones bien continuas, bien periódicas. En caso de mediciones periódicas, se realizarán al menos tres lecturas en cada ejercicio de medición.
+
+3\. No se requerirán mediciones en el caso en que no se necesite un equipo de reducción al final de proceso para cumplir con el presente Real Decreto.
+
+## Artículo 7. Cumplimiento de valores límite de emisión y requisitos.
+
+1\. El titular de toda instalación incluida en el ámbito de aplicación de este Real Decreto deberá demostrar al órgano competente el cumplimiento de los valores y requisitos siguientes que, en cada caso, le resulten de aplicación:
+
+a) Los valores límite de emisión en gases residuales, valores de emisión difusa y valores límite totales de emisión.
+
+b) Los requisitos del sistema de reducción de emisiones previsto en el anexo III.
+
+c) Las disposiciones del apartado 3 del artículo 4.
+
+A efectos de lo establecido en este apartado, se podrán añadir volúmenes de gas a los gases residuales con fines de refrigeración o dilución cuando ello esté técnicamente justificado, pero no se tomarán en consideración en el cálculo de la concentración másica del contaminante en los gases residuales.
+
+2\. El control del cumplimiento de los valores y requisitos indicados en el apartado anterior podrá realizarse a través de planes de gestión de disolventes, para cuya realización se contienen orientaciones en el anexo IV.
+
+3\. Después de una modificación sustancial, el titular de la instalación deberá demostrar al órgano competente el cumplimiento de los valores y requisitos especificados en el apartado 1.
+
+4\. En caso de mediciones continuas, se considerará que se cumplen los valores límite de emisión si:
+
+a) Ninguna de las medias, obtenidas en condiciones normales de 24 horas de funcionamiento normal, supera los valores límite de emisión; y
+
+b) Ninguna de las medias horarias supera los valores límite de emisión en un factor superior a 1,5.
+
+5\. En caso de mediciones periódicas, se considerará que se cumplen los valores límite de emisión si, en un ejercicio de supervisión:
+
+a) La media de todas las mediciones no supera los valores límite de emisión; y
+
+b) Ninguna de las medias de una hora supera los valores límite de emisión en un factor superior a 1,5.
+
+6\. El cumplimiento de los límites de emisión fijados en el apartado 1 del artículo 5 se verificará basándose en la suma de las concentraciones másicas de cada uno de los distintos compuestos orgánicos volátiles. En los demás casos, el cumplimiento se comprobará basándose en la masa total de carbono orgánico emitido, salvo que en el anexo II se especifique otra cosa.
+
+## Artículo 8. Acceso del público a la información.
+
+1\. Las comunidades autónomas pondrán a disposición del público, en particular a través de Internet, en relación con las instalaciones en las cuales se desarrollen actividades cubiertas por este real decreto, la siguiente información:
+
+a) Nombre y dirección de la instalación.
+
+b) Actividades reguladas por el presente real decreto que en ella se desarrollan, y capacidad de consumo de disolvente.
+
+c) Autorización de la instalación prevista en la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación o en la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera.
+
+d) Resultado de las mediciones para el control de las emisiones requeridas en el artículo 6, que obren en poder del órgano competente.
+
+2\. El apartado anterior se aplicará de conformidad con la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente.
+
+> Se modifica por la disposición final 2.2 del Real Decreto 815/2013, de 18 de octubre. [Ref. BOE-A-2013-10949](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10949).
+
+## Artículo 9. Intercambio de información.
+
+1\. Los titulares de las instalaciones y los órganos competentes intercambiarán las informaciones de que dispongan sobre el uso de sustancias orgánicas y sus posibles sucedáneos, con miras a proporcionar orientaciones sobre el uso de sustancias y técnicas que tengan los menores efectos posibles sobre la atmósfera, las aguas, el suelo, los ecosistemas y la salud humana.
+
+2\. Las Comunidades Autónomas remitirán al Ministerio de Medio Ambiente, con periodicidad trianual, la información de que dispongan sobre la aplicación de lo establecido en este Real Decreto, incluida la mencionada en el apartado anterior, y en todo caso la requerida por la Decisión 2002/529/CE de la Comisión, de 27 de junio de 2002, o normas que la sustituyan, a efectos de su comunicación a la Comisión Europea, de conformidad con el artículo 10 de la Ley 30/1992, de 30 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Artículo 10. Régimen sancionador.
+
+El incumplimiento de las obligaciones establecidas en este Real Decreto se calificará, en cada caso, como infracción leve, grave o muy grave y se sancionará de conformidad con lo establecido en el Título IV de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrado de la Contaminación.
+
+## Artículo 11. Incumplimiento de valores límite de emisión y requisitos.
+
+Cuando se superen los valores límite de emisión o se incumplan los requisitos establecidos en este Real Decreto, el titular de la instalación deberá:
+
+a) Comunicarlo al órgano competente y adoptar las medidas necesarias para volver a la situación de cumplimiento en el plazo más breve posible.
+
+b) Suspender el funcionamiento de la instalación cuando exista un peligro inminente para la salud, a instancias del órgano competente de conformidad con lo establecido en el artículo 26 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+## Disposición transitoria única. Régimen aplicable a las instalaciones existentes.
+
+1\. Los titulares de las instalaciones existentes deberán adaptarse a lo establecido en este Real Decreto y cumplir las obligaciones y requisitos que en él se establecen antes del día 31 de octubre de 2007.
+
+2\. Las instalaciones existentes que funcionen con un equipo de reducción y cumplan los valores límite de emisión siguientes:
+
+a) 50 mg C/Nm<sup>3</sup> en caso de incineración, y
+
+b) 150 mg C/Nm<sup>3</sup> en caso de cualquier otro equipo de reducción, quedan exentas del cumplimiento de los valores límite de emisión de gases residuales del anexo II hasta, como máximo, abril de 2013, siempre que las emisiones totales de la instalación no superen las que se producirían en caso de que se cumplieran todos los requisitos de dicho anexo.
+
+3\. Las instalaciones existentes que apliquen el sistema de reducción previsto en el anexo III de este Real Decreto deberán notificarlo al órgano competente antes del 31 de octubre del año 2005.
+
+## Disposición adicional única. Tramitación electrónica.
+
+Los interesados podrán tramitar las obligaciones de información y los procedimientos que deriven de esta norma por vía electrónica. Las administraciones públicas promoverán que se habiliten los medios necesarios para hacer efectiva esta forma de tramitación.
+
+> Se añade por el art. 17 del Real Decreto 367/2010, de 26 de marzo. [Ref. BOE-A-2010-5037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5037).
+
+## Disposición final primera. Fundamento constitucional.
+
+Este Real Decreto se dicta al amparo de las competencias exclusivas que al Estado otorga el artículo 149.1.16.<sup>a</sup> y 23.<sup>a</sup> de la Constitución, en materia de bases y coordinación general de la sanidad y de legislación básica sobre protección del medio ambiente.
+
+## Disposición final segunda. Habilitación de desarrollo.
+
+Se autoriza al Ministro de Medio Ambiente para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo y aplicación de este Real Decreto.
+
+## Disposición final tercera. Entrada en vigor.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 31 de enero de 2003.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno
+
+y Ministro de la Presidencia,
+
+MARIANO RAJOY BREY
+
+## ANEXO I — Ámbito de aplicación
+
+Este anexo incluye las categorías de actividades mencionadas en el artículo 1, siempre que se realicen superando los umbrales fijados en el anexo II. En cada caso, la actividad incluye la limpieza del equipo, pero no la limpieza del producto, a menos que se especifique lo contrario.
+
+1\. Recubrimiento con adhesivos
+
+Toda actividad en la que se aplique a una superficie un adhesivo, con excepción del recubrimiento con adhesivos y el laminado junto con actividades de imprenta.
+
+2\. Actividades de recubrimiento
+
+Toda actividad en la que se aplique una o varias veces una película continua de recubrimiento sobre:
+
+a) Vehículos, según se recoge a continuación:
+
+1.º Coches nuevos, los definidos en el Real Decreto 2028/1986, de 6 de junio, sobre homologación de tipos de vehículos, remolques, semiremolques y sus partes o piezas, como vehículos de la categoría M1 y de la categoría N1, en la medida en que se recubran en la misma instalación que los vehículos M1.
+
+2.º Cabinas de camiones, definidas como el habitáculo del conductor y todo el espacio integrado para el equipo técnico de los vehículos de categorías N2 y N3 en el Real Decreto 2028/1986.
+
+3.º Furgonetas y camiones, definidos como vehículos de las categorías N1, N2 y N3, pero sin incluir las cabinas de camiones, en el Real Decreto 2028/1986.
+
+4.º Autobuses, definidos como vehículos de las categorías M2 y M3 en el Real Decreto 2028/1986.
+
+5.º Remolques, tal y como se finen en las categorías O1, O2, O3 y O4 del Real Decreto 2028/1986.
+
+b) Superficies metálicas y de plástico incluidas las superficies de aviones, barcos, trenes, etc.
+
+c) Superficies de madera.
+
+d) Superficies de tejidos, telas, película y papel.
+
+e) Cuero.
+
+No se incluyen los recubrimientos de sustratos con metales mediante técnicas de atomización química y electroforesis. Si la actividad de recubrimiento incluye una fase en que se imprime el mismo artículo, dicha fase de impresión se considera como parte de la actividad de recubrimiento. No obstante, no se incluyen las actividades de impresión que funcionen como actividades independientes, pero se podrán incluir en este Real Decreto siempre y cuando la actividad de impresión entre dentro de su ámbito.
+
+3\. Recubrimiento de bobinas
+
+Toda actividad en la que se recubra con una película o un recubrimiento laminado, en un proceso continuo, acero, acero inoxidable, acero recubierto, aleaciones de cobre o tiras de aluminio en forma de bobina.
+
+4\. Limpieza en seco
+
+Toda actividad industrial o comercial en el que se utilicen compuestos orgánicos volátiles en una instalación para eliminar la suciedad de las prendas de vestir, mobiliario y bienes de consumo similares, con excepción de la eliminación manual de manchas en la industria de tejidos y prendas de vestir.
+
+5\. Fabricación de calzado
+
+Cualquier actividad de producción de calzado completo o de partes del mismo.
+
+6\. Fabricación de recubrimiento, barnices, tintas y adhesivos
+
+La fabricación de los mencionados productos finales, y de sus productos intermedios cuando se haga en la misma instalación, mediante mezcla de pigmentos, resinas y materiales adhesivos con disolventes orgánicos u otros medios, con inclusión de actividades de dispersión y predispersión, ajustes de viscosidad y del tinte y operaciones de envasado del producto final en su recipiente.
+
+7\. Fabricación de productos farmacéuticos
+
+Síntesis química, fermentación, extracción, formulación y terminación de productos farmacéuticos y sus productos intermedios cuando se lleven a cabo en el mismo sitio.
+
+8\. Imprenta
+
+Actividad de reproducción de texto o imágenes en el que, mediante el uso de un portador de imagen, se transfiere tinta a cualquier tipo de superficie. Quedan incluidas las técnicas seleccionadas de barnizado, recubrimiento y laminación. Sin embargo, sólo están sujetos al presente Real Decreto los subprocesos siguientes:
+
+a) Flexografía: actividad de impresión que utiliza un portador de imagen de caucho o fotopolímeros elásticos en que las tintas de imprenta están por encima de las zonas de no impresión, utilizando tintas líquidas que se secan por evaporación.
+
+b) Offset de bobinas por secado al calor: actividad de impresión de bobinas que utilizan un portador de imagen donde las áreas de impresión y de no impresión están en el mismo plano, y entendiéndose por «de bobinas» que el material que se va a imprimir se introduce en la máquina a partir de un carrete y no de hojas separadas. El área de no impresión se trata para atraer agua y así rechazar la tinta. La zona de impresión se trata para recibir y transmitir la tinta a la superficie que se desea imprimir. La evaporación se realiza en un horno donde se utiliza aire caliente para calentar el material impreso.
+
+c) Laminación asociada a una actividad de impresión: la adhesión de dos o más materiales flexibles para producir laminados.
+
+d) Grabado de publicaciones: rotograbado utilizado para imprimir papel destinado a revistas, folletos, catálogos o productos similares, con tintas a base de tolueno.
+
+e) Rotograbado: actividad de impresión que utiliza un portador cilíndrico de imagen donde el área de impresión está por debajo del área de no impresión, utilizando tintas líquidas que se secan por evaporación. Los huecos se rellenan con tinta y el excedente se elimina del área de no impresión antes de que la superficie que se va a imprimir entre en contacto con el cilindro y levante la tinta de los huecos.
+
+f) Impresión serigráfica rotativa: actividad de impresión de bobinas donde la tinta se hace llegar a la superficie que se a va a imprimir pasándola a través de un portador de imagen poroso, donde el área de impresión está abierta, y el área de no impresión está cerrada, utilizando tintas líquidas que se secan sólo por evaporación. «De bobinas» significa que el material que se va a imprimir llega a la máquina a partir de un carrete y no de hojas separadas.
+
+g) Barnizado: actividad por el que se aplica a un material flexible un barniz o un recubrimiento adhesivo con el fin de sellar posteriormente el material del envase.
+
+9\. Conversión de caucho natural o sintético
+
+Mezclado, triturado, homogeneización, calandrado, extrusión y vulcanizado de caucho sintético o natural y operaciones auxiliares para convertir el caucho sintético o natural en un producto terminado.
+
+10\. Limpieza de superficies
+
+Toda actividad, salvo la limpieza en seco, con disolventes orgánicos para eliminar la suciedad de las superficies de materiales, con inclusión del desengrasado. Una actividad de limpieza que consista en más de una fase, antes o después de cualquier otra fase de tratamiento debe considerarse como una única actividad de limpieza de superficies. Esta actividad se refiere a la limpieza de la superficie del producto y no a la limpieza del equipo.
+
+11\. Actividades de extracción de aceite vegetal y de refinado de grasa y aceite vegetal
+
+Toda actividad de extracción de aceite vegetal de semillas y otras materias vegetales, procesado de residuos secos para producir piensos animales, purificación de grasas y aceites vegetales obtenidos de semillas, materia vegetal o materia animal.
+
+12\. Renovación del acabado de vehículos
+
+Toda actividad industrial o comercial de recubrimiento y actividades conexas de desengrasado mediante las que se efectúe:
+
+a) El recubrimiento original del vehículo de carretera, o de una parte de aquél, con materiales del tipo de renovación del acabado, cuando se realice fuera de la línea de fabricación original, o
+
+c) El recubrimiento de remolques (incluidos los semirremolques) (categoría O).
+
+13\. Recubrimiento de alambre en bobinas
+
+Todo recubrimiento de conductores metálicos utilizados para bobinar transformadores, motores, etc.
+
+14\. Impregnación de fibras de madera
+
+Toda actividad que suponga impregnar la madera de conservantes.
+
+15\. Laminación de madera y plástico
+
+Toda actividad de pegado de madera y plástico para producir laminados.
+
+> Se modifica el apartado 12 por la disposición final 1 del Real Decreto 227/2006, de 24 de febrero. [Ref. BOE-A-2006-3377](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3377).
+
+## ANEXO II
+
+## A) Umbrales de consumo y límites de emisión.
+
+Los valores límite de emisión expresados como concentraciones o niveles de emisión se entenderán referidos a condiciones normales y gas seco.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td rowspan="2">
+<p>Actividad (umbral de consumo</p>
+<p>de disolvente en t/año)</p>
+</td>
+<td rowspan="2">
+<p>Umbral (umbral de consumo de disolventes en t/año)</p>
+</td>
+<td rowspan="2">
+<p>Valores límite de emisión en gases residuales (mg C/Nm<sup>3</sup>)</p>
+</td>
+<td colspan="2">
+<p>Valores</p>
+<p>de emisión</p>
+<p>difusa</p>
+<p>(porcentaje</p>
+<p>de entrada</p>
+<p>de disolventes</p>
+</td>
+<td colspan="2">
+<p>Valores límite</p>
+<p>de emisión</p>
+<p>total</p>
+</td>
+<td rowspan="2">
+<p>Disposiciones especiales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instalac.</p>
+<p>nuevas</p>
+</td>
+<td>
+<p>Instalac.</p>
+<p>exist.</p>
+</td>
+<td>
+<p>Instalac.</p>
+<p>nuevas</p>
+</td>
+<td>
+<p>Instalac.</p>
+<p>exist.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Impresión en Offset de bobinas por calor (&gt;15).</p>
+</td>
+<td>
+<p>15-25</p>
+<p>&gt;25</p>
+</td>
+<td>
+<p>100</p>
+<p>20</p>
+</td>
+<td colspan="2">
+<p>30(1)</p>
+<p>30(1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) El residuo de disolvente en el producto terminado no se considera como parte de las emisiones difusas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Rotograbado de publicaciones (&gt;25).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>75</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Otras unidades de rotograbado, flexografía, impresión serigráfica rotativa, laminado o barnizado (&gt;15), impresión serigráfica rotativa sobre textil o en cartón/cartulina (&gt;30).</p>
+</td>
+<td>
+<p>15-25</p>
+<p>&gt;25</p>
+<p>&gt;30(1)</p>
+</td>
+<td>
+<p>100</p>
+<p>100</p>
+<p>100</p>
+</td>
+<td colspan="2">
+<p>25</p>
+<p>20</p>
+<p>20</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) Umbral para impresión serigráfica rotativa sobre textil y en cartón o cartulina.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Limpieza de superficies utilizando compuestos especificados en el apartado 1 del artículo 5 (&gt;1).</p>
+</td>
+<td>
+<p>1-5</p>
+<p>&gt;5</p>
+</td>
+<td>
+<p>20(1)</p>
+<p>20(1)</p>
+</td>
+<td colspan="2">
+<p>15</p>
+<p>10</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) El límite se refiere a la masa de compuestos en mg/Nm<sup>3</sup>, y no al carbono total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Otra limpieza de superficies (&gt;2).</p>
+</td>
+<td>
+<p>2-10</p>
+<p>&gt;10</p>
+</td>
+<td>
+<p>75(1)</p>
+<p>75(1)</p>
+</td>
+<td colspan="2">
+<p>20(1)</p>
+<p>15(1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) Las instalaciones que demuestren al órgano competente que el contenido medio de disolventes orgánicos de todo el material de limpieza utilizado no supera el 30 por 100 en peso estarán exentas de la aplicación de estos valores.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Recubrimiento de vehículos (&lt;15) y renovación del acabado de vehículos.</p>
+</td>
+<td>
+<p>&gt;0,5</p>
+</td>
+<td>
+<p>50(1)</p>
+</td>
+<td colspan="2">
+<p>25</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) Se debería demostrar el cumplimiento de lo dispuesto en el apartado 4 del artículo 7 basándose en mediciones de una media de quince minutos.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Recubrimiento de bobinas (&gt;25).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>50(1)</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) En las instalaciones que utilicen disolventes nitrogenados con técnicas que permitan la reutilización de los disolventes recuperados, el límite de emisión será de 150.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Otros tipos de recubrimiento, incluido el recubrimiento de metal, plástico, textil (5), tejidos, películas y papel (&gt;5).</p>
+</td>
+<td>
+<p>5-15</p>
+<p>&gt;15</p>
+</td>
+<td>
+<p>100</p>
+<p>(1)(4)</p>
+<p>50/75</p>
+<p>(2)</p>
+<p>(3)(4)</p>
+</td>
+<td colspan="2">
+<p>25(4)</p>
+<p>20(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) El valor límite de emisión se aplica a las actividades de recubrimiento y secado llevados a cabo en condiciones confinadas.</p>
+<p>(2) El primer valor límite de emisión se aplica a las actividades de secado y el segundo a los de recubrimiento.</p>
+<p>(3) En las instalaciones para recubrimiento de textil que utilicen disolventes nitrogenados con técnicas que permitan la reutilización de los disolventes recuperados, el límite de emisión aplicado a las actividades de recubrimiento y secado en conjunto será de 150.</p>
+<p>(4) Las actividades de recubrimiento que no se puedan aplicar en condiciones confinadas (como la construcción de barcos, la pintura de aviones) quedarán exentos de dichos valores, con arreglo a lo dispuesto en la letra b) del apartado 3 del artículo 4.</p>
+<p>(5) La impresión serigráfica rotativa sobre textil quedará incluida en la actividad n.<sup>o</sup> 3.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Recubrimiento de alambre de bobinas (&gt;5).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+<td>
+<p>10 g/kg(1)</p>
+<p>5 g/kg(2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) Se aplica a las instalaciones cuando el diámetro medio del alambre es de ≤ 0,1 mm.</p>
+<p>(2) Se aplica a todas las demás instalaciones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Recubrimiento de madera (&gt;15).</p>
+</td>
+<td>
+<p>15-25</p>
+<p>&gt;25</p>
+</td>
+<td>
+<p>100(1)</p>
+<p>50/75(2)</p>
+</td>
+<td colspan="2">
+<p> </p>
+<p>25</p>
+<p>20</p>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p>(1) El límite de emisión se aplica a las actividades de recubrimiento y secado llevados a cabo en condiciones confinadas.</p>
+<p>(2) El primer valor se aplica a las actividades de secado y el segundo a los de recubrimiento.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>Limpieza en seco.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+<td>
+<p>20 g/kg</p>
+<p>(1)(2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(1) Expresado en masa de disolvente emitido por kilogramo de producto limpiado y secado.</p>
+<p>(2) El límite de emisión de la letra b) del apartado 1 del artículo 5 no se aplica en este sector.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Impregnación de fibras de madera (&gt;25).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>100(1)</p>
+</td>
+<td colspan="2">
+<p> </p>
+<p>45</p>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+<p>11 kg/m<sup>3</sup></p>
+<p> </p>
+</td>
+<td>
+<p>(1) No se aplica a la impregnación con creosota.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>Recubrimiento de cuero (&gt;10).</p>
+</td>
+<td>
+<p>10-25</p>
+<p>&gt;25</p>
+<p>&gt;10(1)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>85 g/m<sup>2</sup></p>
+<p>75 g/m<sup>2</sup></p>
+<p>150 g/m<sup>2</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Los límites de emisión se expresan en gramos de disolvente emitidos por metro cuadrado de producto producido.</p>
+<p>(1) Para los procesos de recubrimiento de cuero en mobiliario y bienes especiales de cuero utilizados como pequeños productos de consumo tales como bolsos, cinturones, carteras, etc.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Fabricación de calzado (&gt;5).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+<td>
+<p>25 g por par</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Los valores límite de emisión total se expresan en gramos</p>
+<p>de disolvente emitido por par completo de calzado producido.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>Laminación de madera y plástico (&gt;5).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+</td>
+<td>
+<p>30 g/m<sup>2</sup></p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Recubrimiento con adhesivos (&gt;5).</p>
+</td>
+<td>
+<p>5-15</p>
+<p>&gt;15</p>
+</td>
+<td>
+<p>50(1)</p>
+<p>50(1)</p>
+</td>
+<td colspan="2">
+<p> </p>
+<p>25</p>
+<p>20</p>
+<p> </p>
+</td>
+<td colspan="2">
+<p> </p>
+<p> </p>
+</td>
+<td>
+<p>(1) Si se utilizan técnicas que permiten la reutilizacion del disolvente recuperado, el límite de emisión será de 150.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>Fabricación de mezclas de recubrimientos, barnices, tintas y adhesivos (&gt; 100).</p>
+</td>
+<td>
+<p>100-1.000</p>
+<p>&gt;1.000</p>
+</td>
+<td>
+<p>150</p>
+<p>150</p>
+</td>
+<td colspan="2">
+<p> </p>
+<p>5</p>
+<p>3</p>
+<p> </p>
+</td>
+<td colspan="2">
+<p>5 por 100 de entrada de disolvente.</p>
+<p>3 por 100 de entrada de disolvente.</p>
+</td>
+<td>
+<p>El límite de emisión difusa no incluye los disolventes vendidos como parte de una mezcla de recubrimiento en un recipiente cerrado.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>Conversión de caucho (&gt;15).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>20(1)</p>
+</td>
+<td>
+<p>25(2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p>25 por 100 de entrada de disolvente.</p>
+</td>
+<td>
+<p>(1) Si se utilizan técnicas que permiten la reutilización del disolvente recuperado, el valor límite de emisión en gases residuales será de 150.</p>
+<p>(2) El valor límite de emisión difusa no incluye el disolvente vendido como parte de productos o mezclas en un recipiente hermético.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>Extracción de aceite vegetal y grasa animal y actividades de refinado de aceite vegetal (&gt;10).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="2">
+<p>Grasa animal: 1,5 kg/t.</p>
+<p>Ricino: 3,0 kg/t.</p>
+<p>Colza: 1,0 kg/t.</p>
+<p>Girasol: 1,0 kg/t.</p>
+<p>Soja (prensada normal): 0,8 kg/t.</p>
+<p>Soja (láminas blancas): 1,2 kg/t.</p>
+<p>Otras semillas y otra materia vegetal:</p>
+<p>3 kg/t (1).</p>
+<p>1,5 kg/t (2).</p>
+<p>4 kg/t (3).</p>
+</td>
+<td>
+<p>(1) Los valores límite de emisión total para instalaciones que procesan series especiales de semillas y otras materias vegetales deberán ser establecidos por las autoridades competentes sobre la base de casos individuales, aplicando las mejores técnicas disponibles.</p>
+<p>(2) Se aplica a todo proceso de fraccionamiento, excluido el desgomado (eliminacion de la goma del aceite).</p>
+<p>(3) Se aplica al desgomado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>Fabricación de productos farmacéuticos (&gt; 50).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>20(1)</p>
+</td>
+<td>
+<p>5(2)</p>
+</td>
+<td>
+<p>15(2)</p>
+</td>
+<td>
+<p>5 por 100</p>
+<p>de entrada</p>
+<p>de disolvente.</p>
+</td>
+<td>
+<p>15 por 100</p>
+<p>de entrada</p>
+<p>de disolvente.</p>
+</td>
+<td>
+<p>(1) Si se utilizan técnicas que permiten la reutilización del disolvente recuperado, el valor límite de emisión en gases residuales será de 150.</p>
+<p>(2) El valor límite de emisión difusa no incluye el disolvente vendido como parte de productos o mezclas en un recipiente hermético.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**B) Umbrales de consumo y valores límite de emisión total para las industrias de recubrimiento de vehículos**
+
+Los valores límite de emisión total se expresan en gramos de disolvente emitido con relación a la superficie del producto en metros cuadrados y en kilogramos de disolvente emitido con relación a la carrocería del vehículo.
+
+El área superficial de cualquier producto citado en el cuadro que figura más abajo se define de la forma siguiente: el área superficial calculada a partir del área total de recubrimiento electroforético, y el área superficial de las partes que puedan añadirse en fases sucesivas del proceso de recubrimiento que se recubran con el mismo recubrimiento que se haya utilizado para el producto correspondiente, o el área superficial total del producto recubierto en la instalación.
+
+La superficie del área de recubrimiento electroforético se calcula con la fórmula siguiente:
+
+(2 × peso total del objeto metálico) / (espesor medio de la lámina metálica × densidad de la lámina metálica)
+
+Este método se aplicará también a las demás partes recubiertas que estén hechas de láminas.
+
+Deberá utilizarse el diseño con ayuda de ordenador u otro método equivalente para calcular el área superficial de las demás partes añadidas, o el área superficial total recubierta en la instalación.
+
+El valor límite de emisión total del cuadro que figura más abajo se refiere a todas las fases del proceso realizadas en la misma instalación desde el recubrimiento electroforético, o cualquier otro tipo de proceso de recubrimiento, hasta el encerado y pulido final de recubrimiento superior inclusive, así como el disolvente utilizado en la limpieza del equipo del proceso incluidas las cabinas de pulverizado y otros equipos fijos, tanto durante como fuera del tiempo de producción. El valor límite de emisión total se expresa como la suma de la masa de los compuestos orgánicos por m<sup>2</sup> del área superficial total del producto recubierto y como la suma de la masa de los compuestos orgánicos por carrocería del vehículo.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Actividad (umbral de consumo de disolvente en t/año)</p>
+</td>
+<td rowspan="2">
+<p>Umbral de la producción (se refiere a la producción anual de los artículos recubiertos)</p>
+</td>
+<td colspan="2">
+<p>Valor límite de emisión total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instalaciones nuevas</p>
+</td>
+<td>
+<p>Instalaciones existentes</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>Recubrimiento de coches nuevos (&gt;15).</p>
+</td>
+<td>
+<p>&gt;5000</p>
+</td>
+<td>
+<p>45 g/m<sup>2</sup> ó 1,3 kg/carrocería +33 g/m<sup>2</sup>.</p>
+</td>
+<td>
+<p>60 g/m<sup>2</sup> ó 1,9 kg/carrocería +41 g/m<sup>2</sup>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>≤ 5000 monocasco o &gt;3500 de bastidor</p>
+</td>
+<td>
+<p>90 g/m<sup>2</sup> ó 1,5 kg/carrocería +70 g/m<sup>2</sup>.</p>
+</td>
+<td>
+<p>90 g/m<sup>2</sup> ó 1,5 kg/carrocería + 70 g/m<sup>2</sup>.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Límite emisión total (g/m<sup>2</sup>).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recubrimiento de cabinas de camiones nuevos (&gt;15)</p>
+</td>
+<td>
+<p>≤5000</p>
+<p>&gt;5000</p>
+</td>
+<td>
+<p>65</p>
+<p>55</p>
+</td>
+<td>
+<p>85</p>
+<p>75</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recubrimiento de furgonetas y camiones nuevos (&gt;15).</p>
+</td>
+<td>
+<p>≤2500</p>
+<p>&gt;2500</p>
+</td>
+<td>
+<p>90</p>
+<p>70</p>
+</td>
+<td>
+<p>120</p>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Recubrimiento de autobuses nuevos (&gt;15).</p>
+</td>
+<td>
+<p>≤2000</p>
+<p>&gt;2000</p>
+</td>
+<td>
+<p>210</p>
+<p>150</p>
+</td>
+<td>
+<p>290</p>
+<p>225</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Las instalaciones de recubrimiento de vehículos que estén por debajo de los umbrales de consumo de disolventes indicados en el cuadro anterior deberán cumplir los requisitos del sector de renovación del acabado de vehículos mencionados en el presente anexo II.
+
+> Se modifica el apartado A) por la disposición final 2.3 del Real Decreto 815/2013, de 18 de octubre. [Ref. BOE-A-2013-10949](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10949).
+
+> Se modifica por el art. 2.2 del Real Decreto 1436/2010, de 5 de noviembre. [Ref. BOE-A-2010-17240](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17240).
+
+> Se modifica el apartado A) por la disposición final 1 del Real Decreto 795/2010, de 16 de junio. [Ref. BOE-A-2010-10103](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10103).
+
+> Redactado el apartado A) conforme a la corrección de errata y error publicada en BOE núm. 79, de 2 de abril de 2003. [Ref. BOE-A-2003-6596](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6596).
+
+## ANEXO III — Sistema de reducción
+
+I. Principios
+
+El objetivo del sistema de reducción es dar al titular la oportunidad de lograr, utilizando otros medios, reducciones de emisión equivalentes a las logradas si se aplican los valores límite de emisión. Para ello, el titular podrá aplicar cualquier sistema de reducción, específicamente concebido para su instalación, siempre que al final se logre una reducción equivalente de las emisiones.
+
+II. Ejemplo práctico
+
+1\. El sistema que se señala a continuación podrá utilizarse cuando se apliquen recubrimientos, barnices, adhesivos o tintas. Si el método indicado a continuación no resulta adecuado, el órgano competente podrá permitir al operador aplicar cualquier sistema alternativo de exención del que piense que cumple los principios aquí recogidos. El diseño del sistema tendrá en cuenta los aspectos siguientes:
+
+A) Cuando aún se hallen en fase de desarrollo sustitutos que contengan una baja concentración de disolventes o estén exentos de éstos, deberá darse al operador un tiempo suplementario para aplicar sus planes de reducción de emisiones.
+
+B) El punto de referencia de las reducciones de emisiones debería corresponder lo más fielmente posible a las emisiones que se habrían producido en caso de no adoptarse ninguna medida de reducción.
+
+2\. El sistema siguiente debe aplicarse a instalaciones en que pueda aceptarse y utilizarse para definir el punto de referencia de las reducciones de emisiones un contenido constante del producto en sólidos.
+
+A) El titular presentará un plan de reducción de las emisiones que incluya en particular un descenso en el contenido medio de disolventes de la cantidad total utilizada y/o una mayor eficacia en el uso de sólidos para lograr una reducción de las emisiones totales procedentes de la instalación en un porcentaje determinado de las emisiones anuales de referencia, denominada emisión objetivo. Debe hacerse con arreglo al calendario siguiente:
+
+<table>
+<tr>
+<td colspan="2">
+<p>Período</p>
+</td>
+<td rowspan="2">
+<p>Emisiones anuales totales permitidas como máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Instalaciones nuevas</p>
+</td>
+<td>
+<p>Instalaciones existentes</p>
+</td>
+</tr>
+<tr>
+<td>
+</td>
+<td>
+<p>Para el 31-10-2005.</p>
+</td>
+<td>
+<p>Emisiones objetivo x 1,5.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Para el 31-10-2004.</p>
+</td>
+<td>
+<p>Para el 31-10-2007</p>
+</td>
+<td>
+<p>Emisiones objetivo.</p>
+</td>
+</tr>
+</table>
+
+B) La emisión anual de referencia se calcula de la forma siguiente:
+
+a) Se determina la masa total de sólidos en la cantidad de recubrimiento, tinta, barniz o adhesivo consumida en un año. Por sólidos se entienden todos los materiales presentes en los recubrimientos, tintas, barnices y adhesivos que se solidifican al evaporar el agua o los compuestos orgánicos volátiles.
+
+b) Las emisiones anuales de referencia se calculan multiplicando la masa determinada en el párrafo a) por el factor correspondiente que figura en el siguiente cuadro. Los órganos competentes podrán modificar estos factores según las distintas instalaciones para reflejar una mayor eficacia que les conste en el uso de los sólidos.
+
+| Actividad | Factor de multiplicación<br>Utilizado en el párrafo b)<br>del inciso B) |
+|---|---|
+| Impresión por rotograbado; impresión por flexografía; laminación como parte de una actividad de impresión; barnizado como parte de una actividad de impresión; recubrimiento de madera; recubrimiento de tejidos, película de fibras o papel; recubrimiento con adhesivos | 4 |
+| Recubrimiento de bobinas; renovación del acabado de vehículos | 3 |
+| Recubrimiento de contacto alimentario; recubrimiento aeroespacial | 2,33 |
+| Otros recubrimientos y serigrafía rotativa | 1,5 |
+
+c) La emisión objetivo es igual a la emisión anual de referencia multiplicada por un porcentaje igual a:
+
+1.º (el valor de emisión difusa + 15) para las instalaciones incluidas en el apartado 6 y la banda inferior de umbral de los apartados 8 y 10 del anexo II.
+
+2.º (el valor de emisión difusa + 5) para todas las demás instalaciones.
+
+d) Se considera alcanzado el cumplimiento si la emisión real de disolvente determinada según el plan de gestión de disolventes es inferior o igual a la emisión objetivo.
+
+## ANEXO IV — Plan de gestión de disolventes
+
+1\. Introducción
+
+En el presente anexo se dan orientaciones sobre la realización de un plan de gestión de disolventes. Contiene los principios que deben aplicarse (punto 2), informa sobre cómo hacer el balance de masa (punto 3) y da una indicación sobre los requisitos de verificación del cumplimiento (punto 4).
+
+2\. Principios
+
+El plan de gestión de disolventes sirve para los objetivos siguientes:
+
+a) Verificar el cumplimiento según se especifica en el apartado 1 del artículo 7.
+
+b) Identificar opciones de reducción futuras.
+
+c) Posibilitar la disponibilidad de información al público sobre consumo de disolventes, emisiones de disolventes y cumplimiento de este Real Decreto.
+
+3\. Definiciones
+
+Las siguientes definiciones sirven para calcular el balance de masa.
+
+Entrada de disolventes orgánicos (I):
+
+I1. Cantidad de disolventes orgánicos o su cantidad en mezclas adquiridas utilizadas como materia prima en el proceso durante el período a lo largo del cual se calcula el balance de masa.
+
+I2. Cantidad de disolventes orgánicos o su cantidad en mezclas recuperadas y reutilizadas como entrada de disolventes en el proceso (se cuenta el disolvente reciclado cada vez que se utilice para realizar la actividad).
+
+Salida de disolventes orgánicos (O):
+
+O1. Emisiones en gases residuales.
+
+O2. Disolventes orgánicos perdidos en el agua, en caso necesario teniendo en cuenta el tratamiento del agua residual al calcular O5.
+
+O3. Cantidad de disolventes orgánicos que permanecen como contaminación o residuo en la salida de productos del proceso.
+
+O4. Emisiones no capturadas de disolventes orgánicos al aire. Aquí se incluye la ventilación general de las salas, cuando se libera aire al entorno exterior a través de las ventanas, puertas, respiraderos y aberturas similares.
+
+O5. Disolventes orgánicos o compuestos orgánicos perdidos debido a reacciones químicas o físicas (se incluyen, por ejemplo, los que se destruyen, como por incineración u otro tratamiento de gases residuales o aguas residuales, o se captan, como por adsorción, en la medida en que no se contabilicen en O6, O7 u O8).
+
+O6. Disolventes orgánicos contenidos en los residuos recogidos.
+
+O7. Disolventes orgánicos o disolventes orgánicos contenidos en mezclas, vendidas como productos comerciales.
+
+O8. Disolventes orgánicos contenidos en mezclas recuperadas para su reutilización en la medida en que no se contabilicen en O7.
+
+O9. Disolventes orgánicos liberados por otras vías.
+
+4\. Orientaciones sobre el uso del plan de gestión de disolventes para verificar el cumplimiento
+
+El uso que se haga del plan de gestión de disolventes dependerá del requisito particular que se vaya a verificar, de la forma siguiente:
+
+1.º Verificación del cumplimiento de la opción de reducción mencionada en el anexo III, con un valor límite de emisión total expresado en emisiones de disolvente por producto unitario, o conforme a otras disposiciones contenidas en el anexo II.
+
+a) Para todas las actividades que sigan el anexo III, debe hacerse anualmente el plan de gestión de disolventes para determinar el consumo (C). El consumo puede calcularse con arreglo a la ecuación siguiente:
+
+C = I1 – O8
+
+Debería procederse a un ejercicio en paralelo para determinar los sólidos utilizados en el recubrimiento a fin de obtener cada año la emisión anual de referencia y la emisión objetivo.
+
+b) Para evaluar el cumplimiento con un valor límite de emisión total expresado en emisiones de disolvente por producto unitario o conforme a otras disposiciones contenidas en el anexo II debe hacerse anualmente el plan de gestión de disolventes para determinar las emisiones (E). Las emisiones pueden calcularse con arreglo a la ecuación siguiente:
+
+E = F + O1
+
+Donde F es la emisión difusa según se define en el párrafo a) del inciso 2.º a continuación. La cifra de emisión debería dividirse entonces por el parámetro del producto pertinente.
+
+c) Para evaluar el cumplimiento de los requisitos del párrafo b) del apartado 2 del artículo 4, el plan de gestión de disolventes debería hacerse anualmente para determinar las emisiones totales procedentes de todas las actividades afectados, y la cifra obtenida debería compararse con las emisiones totales que habría en el caso de que se hubieran cumplido los requisitos mencionados en el anexo II y III en cada actividad por separado.
+
+2.º Determinación de las emisiones difusas por comparación con los valores de emisión difusa del anexo II:
+
+a) Metodología: la emisión difusa puede calcularse con arreglo a la ecuación siguiente:
+
+F = I1 - O1 - O5 - O6 - O7 - O8
+
+o bien
+
+F = O2 + O3 + O4 + O9
+
+Esta cantidad puede determinarse por medición directa de las cantidades. De forma alternativa, puede hacerse un cálculo equivalente por otros medios, por ejemplo, utilizando la eficacia de la captura del proceso.
+
+El valor de emisión difusa se expresa como proporción de la entrada, que puede calcularse según la ecuación siguiente:
+
+I = I1 + I2
+
+b) Frecuencia: la determinación de las emisiones difusas puede hacerse mediante un breve pero exhaustivo conjunto de mediciones. No es necesario volver a hacerlo hasta que se modifique el equipo.
+
+> Se modifica por el art. 2.2 del Real Decreto 1436/2010, de 5 de noviembre. [Ref. BOE-A-2010-17240](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17240).

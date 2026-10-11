@@ -1,0 +1,113 @@
+---
+title: "Orden APA/1593/2006, de 19 de mayo, por la que se crea y regula el Comité de Expertos en Fertilización"
+identifier: "BOE-A-2006-9189"
+eli: "https://www.boe.es/eli/es/o/2006/05/19/apa1593"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2006-05-19
+published: 2006-05-26
+in_force_from: 2006-05-27
+last_amended: 2022-12-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 125"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-9189"
+retrieved: 2026-10-11
+---
+
+# Orden APA/1593/2006, de 19 de mayo, por la que se crea y regula el Comité de Expertos en Fertilización
+
+El Capítulo VI titulado «Adaptación de los anexos» del Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes, establece el procedimiento para adecuar sus anexos al progreso técnico y a los conocimientos científicos.
+
+La disposición final segunda del Real Decreto 824/2005, de 8 de julio, en su apartado 1, faculta a los Ministerios de Agricultura, Pesca y Alimentación, de Sanidad y Consumo, de Medio Ambiente, de Industria, Turismo y Comercio, en el ámbito de sus respectivas competencias, a adoptar las normas de aplicación y desarrollo de este real decreto.
+
+El artículo 28.4 del citado Real Decreto indica expresamente que la propuesta de inclusión de un nuevo tipo de productos fertilizantes será informada por un comité de expertos.
+
+Por otra parte, se estima necesario contar con un órgano asesor del que formen parte reconocidos especialistas procedentes de diversas instituciones docentes o investigadores, para dar respaldo y apoyo técnico y científico a las actividades de la Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación en relación con los fertilizantes.
+
+En la elaboración de la presente disposición, han sido consultadas las Comunidades Autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud, con la aprobación previa del Ministro de Administraciones Públicas, dispongo:
+
+## Artículo 1. Creación y funciones del Comité de Expertos en Fertilización.
+
+Se crea el Comité de Expertos en Fertilización, en adelante Comité, adscrito a la Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación, como órgano asesor en materias de nutrición vegetal, edafología y caracterización de los productos utilizables en la fertilización, que desarrollará las siguientes funciones:
+
+a) Informar las propuestas y juzgar su idoneidad para la inclusión de un nuevo tipo de productos fertilizantes y su incorporación al anexo I del Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes, y proponer los ensayos necesarios para evaluar sus características y comportamiento.
+
+b) Informar en relación con las propuestas de la Comisión Europea, en materia de fertilizantes y su regulación normativa, cuando le sea requerido por la Dirección General de Agricultura.
+
+c) Proponer las modificaciones necesarias para adecuar la normativa española al progreso técnico y a los avances científicos en el campo de la fertilización agronómica.
+
+d) Asesorar en fertilización sostenible en el marco del Real Decreto 1051/2022, de 27 de diciembre, por el que se establecen normas para la nutrición sostenible en los suelos agrarios.
+
+> Se añade, con efectos de 1 de enero de 2024, la letra d), por la disposición final 3.1 del Real Decreto 1051/2022, de 27 de diciembre. [Ref. BOE-A-2022-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23052)
+
+## Artículo 2. Composición.
+
+1\. El Comité de Expertos tendrá la siguiente composición:
+
+a) Presidente: El Director General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación.
+
+b) Vicepresidente: El Subdirector General de Medios de Producción Agrícolas del Ministerio de Agricultura, Pesca y Alimentación.
+
+c) Vocales: Un representante designado por el titular respectivo, de cada uno de las siguientes unidades, órganos y organismos:
+
+1.º Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación.
+
+2.º Laboratorio Arbitral Agroalimentario de la Dirección General de Industria Agroalimentaria y Alimentación del Ministerio de Agricultura, Pesca y Alimentación.
+
+3.º Dirección General de Salud Pública del Ministerio de Sanidad y Consumo.
+
+4.º Dirección General de Calidad y Evaluación Ambiental del Ministerio de Medio Ambiente.
+
+5.º Dirección General de Desarrollo Industrial del Ministerio de Industria, Turismo y Comercio.
+
+6.º Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria.
+
+7.º Centro de Ciencias Medioambientales del Consejo Superior de Investigaciones Científicas.
+
+8.º Instituto de Salud Carlos III.
+
+d) Un representante de cada una de las Comunidades Autónomas que decidan su integración en el Comité.
+
+e) Hasta un máximo de diez investigadores y técnicos de reconocido prestigio y probada experiencia en la materia, pertenecientes a Universidades y Centros de Investigación, designados por el Director General de Agricultura.
+
+2\. Actuará como Secretario del Comité, con voz pero sin voto, un funcionario designado por el Director General de Agricultura.
+
+3\. A las reuniones del Comité podrá convocarse, en calidad de asesores, a representantes de las Organizaciones Profesionales Agrarias, de las Confederaciones de Cooperativas Agrarias o de las Asociaciones de fabricantes de productos fertilizantes, cuando se traten temas específicos relacionados con su actividad.
+
+4\. El Presidente del Comité podrá convocar a las reuniones de Grupos de Trabajo a otros especialistas y asesores ajenos al Comité.
+
+> Se modifica, con efectos de 1 de enero de 2024, la letra e) del apartado 1 por la disposición final 3.2 del Real Decreto 1051/2022, de 27 de diciembre. [Ref. BOE-A-2022-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23052)
+
+## Artículo 3. Funcionamiento.
+
+1\. El Comité podrá funcionar de alguna de las formas siguientes:
+
+a) En Pleno, que se convocará una vez al año y, en todo caso, cuando haya que informar sobre la aprobación de un nuevo tipo de fertilizante, formular propuestas de modificación de la normativa española o adopción de las guías de buenas prácticas en fertilización.
+
+b) En los siguientes Grupos de Trabajo, formados por las personas que acuerde el propio Comité, asistido por otros especialistas y asesores adecuados:
+
+1.º Grupo de trabajo de fertilizantes, que elevará al pleno las propuestas correspondientes, referidas a las funciones contempladas en las letras a) a c), ambas incluidas, del artículo 1.
+
+2.º Grupo de trabajo de fertilización sostenible, que elevará al pleno las propuestas correspondientes, referidas a las funciones contempladas en la letra d) del artículo 1. En sus sesiones se incorporarán como vocales un vocal de la Dirección General de Desarrollo Rural, Innovación y Formación Agroalimentaria del Ministerio de Agricultura, Pesca y Alimentación y tres representantes de la Secretaría de Estado de Medio Ambiente del Ministerio para la Transición Ecológica y el Reto Demográfico, nombrados por sus titulares entre funcionarios del grupo A.
+
+2\. Para el mejor cumplimiento de sus funciones, el Comité podrá aprobar un Reglamento de Régimen Interior en el que se detallen sus normas de organización y funcionamiento. En todo lo no previsto en estas normas internas, su funcionamiento se ajustará a las normas generales de los órganos colegiados previstos en el Capítulo II, del Título II, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica, con efectos de 1 de enero de 2024, el apartado 1, por la disposición final 3.3 del Real Decreto 1051/2022, de 27 de diciembre. [Ref. BOE-A-2022-23052](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23052)
+
+## Disposición adicional única. Dotación de medios.
+
+El funcionamiento del Comité no supondrá incremento alguno del gasto público y será atendido con los medios personales y materiales del Ministerio de Agricultura, Pesca y Alimentación.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 19 de mayo de 2006.
+
+ESPINOSA MANGANA

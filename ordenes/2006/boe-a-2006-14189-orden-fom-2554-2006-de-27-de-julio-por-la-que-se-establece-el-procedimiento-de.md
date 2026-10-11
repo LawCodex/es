@@ -1,0 +1,258 @@
+---
+title: "Orden FOM/2554/2006, de 27 de julio, por la que se establece el procedimiento de control para el reintegro a las empresas navieras del importe de las bonificaciones al transporte marítimo para los residentes en las Comunidades Autónomas de Canarias y de las Illes Balears y en las Ciudades de Ceuta y Melilla"
+identifier: "BOE-A-2006-14189"
+eli: "https://www.boe.es/eli/es/o/2006/07/27/fom2554"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2006-07-27
+published: 2006-08-04
+in_force_from: 2006-10-01
+last_amended: 2019-03-05
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 185"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-14189"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/2554/2006, de 27 de julio, por la que se establece el procedimiento de control para el reintegro a las empresas navieras del importe de las bonificaciones al transporte marítimo para los residentes en las Comunidades Autónomas de Canarias y de las Illes Balears y en las Ciudades de Ceuta y Melilla
+
+El Real Decreto 1316/2001, de 30 de noviembre, por el que se regula la bonificación en las tarifas de los servicios regulares de transporte aéreo y marítimo para los residentes en las Comunidades Autónomas de Canarias y de las Illes Balears y en las Ciudades de Ceuta y Melilla, establece en su disposición adicional única que el Ministerio de Fomento podrá establecer procedimientos de control, inspección y verificación, mediante sistemas electrónicos o informáticos, que sustituyan total o parcialmente los previstos en dicho real decreto para el transporte marítimo.
+
+Durante el tiempo transcurrido desde la aprobación del real decreto se ha incrementado notablemente el grado de tecnificación e informatización en el ámbito empresarial a lo que, lógicamente, no han sido ajenas las empresas navieras.
+
+Parece pues razonable dar cumplimiento ahora a lo dispuesto en la disposición adicional antes mencionada, garantizando con ello una mayor capacidad de análisis de la información y una mejora en la eficacia y agilidad del procedimiento de control.
+
+En su virtud, a propuesta de la Ministra de Fomento y con la aprobación previa del Ministro de Administraciones Públicas, dispongo:
+
+> Se suprime el párrafo 4 por el art. único.1 de la Orden FOM/1658/2015, de 27 de julio. [Ref. BOE-A-2015-8867](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8867).
+
+## Artículo 1. Objeto.
+
+Esta orden tiene por objeto regular el procedimiento de control, inspección y verificación mediante sistemas electrónicos e informáticos, que será de aplicación para el reintegro a las empresas navieras del importe de las bonificaciones en las tarifas de los servicios regulares del transporte marítimo que se contemplan en el Real Decreto 1316/2001, de 30 de noviembre por el que se regula la bonificación en las tarifas de los servicios regulares de transporte aéreo y marítimo para los residentes en las Comunidades Autónomas de Canarias y de las Illes Balears y en las Ciudades de Ceuta y Melilla.
+
+## Artículo 2. Ámbito de aplicación.
+
+El procedimiento de control regulado en esta orden se aplicará a los servicios de transporte marítimo regular que se mencionan a continuación.
+
+a) Trayectos directos entre la Comunidad Autónoma de Canarias y el resto del territorio nacional, sean de ida, vuelta, o ida y vuelta.
+
+b) Trayectos directos entre la Comunidad Autónoma de las Illes Balears y el resto del territorio nacional, sean de ida, vuelta o ida y vuelta.
+
+c) Trayectos directos entre las Ciudades de Ceuta y de Melilla, correspondientes a trayectos directos entre estas ciudades y el resto del territorio nacional, sean de ida, vuelta o ida y vuelta.
+
+d) Trayectos interinsulares en la Comunidad Autónoma de Canarias y en la Comunidad Autónoma de las Illes Balears sean de ida, vuelta o ida y vuelta.
+
+> Se modifica por el art. único.2 de la Orden FOM/1658/2015, de 27 de julio. [Ref. BOE-A-2015-8867](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8867).
+
+## Artículo 3. Procedimiento de inspección y control, mediante sistemas electrónicos e informáticos.
+
+1\. Las empresas navieras remitirán a la Dirección General de la Marina Mercante del Ministerio de Fomento, junto con la certificación que indica el artículo 11 del Real Decreto 1316/2001, la siguiente documentación:
+
+a) Un fichero en soporte informático, en adelante fichero informático, que contenga la relación de los embarques correspondientes a billetes bonificados referidos a la totalidad de la certificación. Este fichero informático se adecuará a las especificaciones técnicas que se indican en las letras A y D del Anexo 1.
+
+b) La relación completa de acomodaciones existentes en los trayectos descritos en el artículo 2. Esta relación de acomodaciones contendrá tanto la codificación de las mismas utilizada en los billetes bonificados, como la descripción de sus características.
+
+2\. La Dirección General de la Marina Mercante dispondrá de un plazo de diez días para verificar si el fichero informático se adecúa a las especificaciones técnicas.
+
+a) Si no se adecúa, se otorgará un plazo de veinte días para subsanación, que, de no producirse, supondrá el rechazo del fichero informático sin más trámite, no aceptándose por lo tanto la certificación presentada.
+
+b) Si se adecúa, la Dirección General de la Marina Mercante, junto con la notificación de admisión del fichero informático, solicitará a la empresa naviera la entrega de una muestra de billetes bonificados, correspondientes a embarques contenidos en el fichero informático.
+
+Este requerimiento contendrá los números de serie de los billetes que componen la muestra, que serán seleccionados por la Dirección General de la Marina Mercante de forma aleatoria.
+
+El número total de billetes que componen la muestra se determinará en función del número de embarques contenidos en el soporte informático, conforme a la tabla 1 del Anexo 2.
+
+3\. La empresa naviera dispondrá de un plazo de veinte días para la entrega de los billetes que componen la muestra. De no hacerlo así, el fichero informático, así como la certificación correspondiente, serán rechazados sin más trámite.
+
+4\. La Dirección General de la Marina Mercante dispondrá de un plazo de veinte días para verificar si los datos de estos billetes coinciden con la información contenida en el fichero informático. Se considerará como billete erróneo todo aquél cuyos datos no coincidan en su totalidad con los datos contenidos en el fichero informático, relativos al mismo número de serie de billete. El número total de billetes considerados como erróneos será comparado con los valores indicados en la tabla 2 del Anexo 2.
+
+a) Si este número es igual o menor que el indicado en la columna de «Número de Errores de Aceptación», el fichero informático será aceptado, procediéndose de conformidad con lo dispuesto en el apartado 6 y siguientes del presente artículo.
+
+b) Si este número es igual o mayor que el indicado en la columna «Número de Errores de Rechazo», el fichero informático, así como la certificación correspondiente, serán rechazados.
+
+c) Si este número es mayor que el indicado en la columna de «Número de Billetes de Aceptación», pero menor que el indicado en la columna «Número de Errores de Rechazo», la Dirección General de la Marina Mercante solicitará a la empresa naviera la entrega de una muestra adicional de billetes, que se acumulará a la inicialmente entregada. El número total de billetes de la muestra adicional será igual al de la entregada con anterioridad, debiendo cumplirse seguidamente los requisitos y trámites descritos en el apartado 2 b) y 3 de este artículo.
+
+5\. La Dirección General de la Marina Mercante dispondrá de un nuevo plazo de veinte días para verificar si el contenido de los billetes de la muestra adicional coincide con la información contenida en el fichero informático. Igualmente, se considerará como billete erróneo todo aquél cuyos datos no coincidan en su totalidad con los datos contenidos en el fichero informático, relativos al mismo número de serie de billete. El número total de billetes considerados como erróneos, acumulado entre ambas muestras, será comparado con los valores indicados en la tabla 3 del Anexo 2.
+
+a) Si este número es igual o menor que el indicado en la columna de «Número de Errores de Aceptación», el fichero informático será aceptado.
+
+b) Si este número es mayor que el indicado en la columna «Número de Errores de Aceptación», el fichero informático, así como la certificación correspondiente, serán rechazados.
+
+6\. Dentro de los plazos establecidos en los apartados 4 y, en su caso, 5 del presente artículo, la Dirección General de la Marina Mercante realizará las siguientes verificaciones, adicionales a las anteriormente previstas:
+
+a) Si los datos de los embarques contenidos en el fichero informático se corresponden con embarques reales producidos en los puertos correspondientes. Para ello, las Autoridades Portuarias a través del Organismo Público Puertos del Estado, para los puertos de interés general, así como los órganos competentes en materia portuaria de las Comunidades Autónomas, para el resto de los puertos, remitirán mensualmente a la Dirección General de la Marina Mercante, la relación de todos los embarques producidos en los puertos correspondientes a los trayectos descritos en el artículo 2. Dicha relación de embarques será remitida en soporte informático, conforme a las especificaciones técnicas descritas en las letras B y D del Anexo 1.
+
+b) Si, según los datos contenidos en los embarques recogidos en el fichero informático, se cumplen los requisitos generales establecidos para la bonificación.
+
+7\. Se considerará como erróneo todo embarque contenido en el fichero informático que no cumpla alguna de las condiciones previstas en el apartado anterior.
+
+8\. La Dirección General de la Marina Mercante notificará a las empresas navieras la relación de billetes y/o embarques considerados erróneos, con objeto de que éstas, en el plazo de diez días, aporten documentación complementaria que acredite, en su caso, la subsanación de los errores.
+
+9\. Todo billete y/o embarque considerado como erróneo, y no subsanado, será considerado, a todos los efectos, como billete y/o embarque no bonificable, y por lo tanto será detraído de la cuenta justificativa del período correspondiente.
+
+## Artículo 4. Emisión de cupones de embarque.
+
+1\. Las empresas navieras deberán proceder a la emisión de cupones de embarque con medios informáticos, en los trayectos descritos en el artículo 2 de esta orden.
+
+2\. Los citados cupones de embarque deberán disponer de un medio para que los órganos competentes del control de embarques puedan leer y registrar, por medios electrónicos e informáticos, la información contenida en los mismos.
+
+La citada información deberá contener los datos establecidos en el apartado C de Anexo 1.
+
+## Disposición final primera. Modificación de los Anexos.
+
+Se autoriza al Director General de la Marina Mercante para modificar el contenido de los Anexos de esta orden.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el 1 de octubre de 2006.
+
+No obstante lo anterior, las empresas navieras que cumplan con anterioridad a dicha fecha los requisitos establecidos en la presente orden, podrán solicitar acogerse a este procedimiento a partir del primer día del trimestre natural siguiente a su solicitud, para los tráficos con origen en puertos que tengan también la capacidad de proporcionar a la Dirección General de la Marina Mercante los datos de embarques que se produzcan en ellos de acuerdo con lo indicado en el apartado 6 a) del artículo 3.
+
+Madrid, 27 de julio de 2006.–La Ministra de Fomento, Magdalena Álvarez Arza.
+
+## ANEXO I — Especificaciones técnicas de los ficheros informáticos
+
+A. Contenido del fichero informático entregado por las empresas navieras con la relación de embarques correspondientes a los billetes bonificados
+
+El fichero informático contendrá un registro individualizado por cada uno de los embarques cuyo billete haya sido objeto de bonificación, y que soportan la totalidad de la certificación trimestral presentada por la empresa naviera.
+
+Cada registro del fichero informático contendrá los datos de un único embarque, distribuidos en los siguientes campos:
+
+| Número de orden | Denominación del campo | Contenido del campo |
+|---|---|---|
+| 1 | Año facturación. | Código numérico de 4 dígitos con el año de facturación.<br>Caracteres permitidos: 0 a 9. |
+| 2 | Trimestre facturación. | Código numérico de 1 dígito con el número de orden anual del trimestre de facturación con un digito, correspondiendo el 1 al primer trimestre del año (enero a marzo) y, consecutivamente, hasta el 4, que corresponde a octubre-diciembre.<br>Caracteres permitidos: 1 a 4. |
+| 3 | Código de Compañía. | Código alfanumérico de 3 dígitos con el código que identifica a la empresa naviera responsable de la facturación, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de embarque con derecho a subvención<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 4 | Número de Tarjeta de Embarque. | Código numérico de 12 dígitos con el número de billete. En caso de que el número de dígitos significativos sea menor de 12, se deberá rellenar con ceros a la izquierda hasta completar las 12 posiciones.<br>Caracteres permitidos: 0 a 9. |
+| 5 | Número de Cupón del Billete. | Código alfanumérico de 15 dígitos con el número de cupón del billete, formado, empezando por la izquierda, por el número de cupón del billete a 1 dígito numérico (1 para el de ida y 2 para el de vuelta), código de la compañía a 3 dígitos alfanuméricos conforme a lo especificado en el campo 3, código de formulario y número de serie del billete a 10 dígitos (3 dígitos alfanuméricos y 7 dígitos numéricos) y dígito de control a 1 dígito numérico.<br>En caso de que el número de dígitos significativos del número de serie del billete sea menor que 7, este segmento del campo se deberá rellenar con ceros a la izquierda hasta completar las 7 posiciones, al igual que si el código de formulario tiene un número de dígitos inferior a tres o si la compañía no utiliza digito de control para el billete.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 6 | Punto de Venta del Billete. | Código alfanumérico de 15 dígitos con el código con que la empresa naviera identifica el punto de venta. Se ajustará a la izquierda y en el caso de que el número de dígitos significativos sea menor de 15, se completarán el número de posiciones sobrantes con el carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 7 | Tipo de subvención. | Código numérico de 2 dígitos con un valor numérico que se corresponda con la tabla siguiente:<br>• Canarias-resto del territorio nacional: 01.<br>• Baleares-resto del territorio Nacional: 02.<br>• Interinsular Canarias: 03.<br>• Interinsular Balear: 04.<br>• Melilla: 05.<br>• Ceuta: 06.<br>• Obligaciones de servicio público: 07.<br>Caracteres permitidos: 0 a 9.<br>Esta tabla es susceptible de variación en el futuro. |
+| 8 | Fecha de emisión del billete. | Código alfanumérico de 10 dígitos en el formato DD/MM/AAAA, en el que: DD es el número de día del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), MM es el número del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda) y AAAA es el año con cuatro dígitos.<br>Caracteres permitidos: 0 a 9 y «/» (ASCII 47 decimal).<br>Nota: No se aceptará el carácter «espacio» (ASCII 32 decimal). |
+| 9 | Trayecto. | Código alfabético de 10 dígitos con el UN/LOCODE del puerto de embarque de 5 dígitos seguido del UN/LOCODE del puerto de desembarque de 5 dígitos.<br>Caracteres permitidos: A a Z. |
+| 10 | Compañía de utilización. | Código alfanumérico de 3 dígitos, que identifica a la empresa naviera que realiza realmente el transporte, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de embarque con derecho a subvención.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 11 | Fecha de utilización o embarque. | Código alfanumérico de 16 dígitos con la fecha y hora de utilización del cupón de embarque, en el formato DD/MM/AAAA HH:MM, en el que DD/MM/AAA es la fecha y HH:MM es la hora, ambos de inicio del viaje, donde DD es el número de día del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), MM es el número del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), AAAA es el año con cuatro dígitos, HH es la hora de comienzo del viaje en formato 24 h (si es inferior a 2 dígitos, se añadirá un cero a la izquierda) y MM es el minuto de comienzo del viaje (si es inferior a 2 dígitos, se añadirá un cero a la izquierda). El grupo fecha estará separado del grupo hora mediante un único carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: 0-9, «/» (ASCII 47 decimal), «:» (ASCII 58 decimal) y «espacio» (ASCII 32 decimal). |
+| 12 | Indicador de adulto o menor. | Código numérico de 1 dígito en el que se pondrá un 1 si el billete se ha emitido a un adulto y un 2 si se ha emitido a un menor.<br>Caracteres permitidos: 1 y 2. |
+| 13 | Código de Acomodación. | Código alfanumérico de 10 dígitos con el código con que la empresa naviera identifica la acomodación. En caso de que el número de dígitos significativos sea menor de 10, se deberá rellenar con ceros a la izquierda hasta completar las 10 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9.<br>Nota: No se aceptará el carácter «espacio» (ASCII 32 decimal). |
+| 14 | Tarifa cobrada por el trasporte del pasajero. | Código numérico de 6 dígitos con el importe de la tarifa inicial o importe efectivo del billete una vez detraídos previamente de su precio nominal cualesquiera descuentos comerciales, promociones o conceptos asimilados, y antes de deducir las bonificaciones de residente, de familia numerosa y/o militar en su caso. Cuando la normativa vigente así lo establezca, podrá no coincidir con cualquiera de las cuantías base para aplicar los porcentajes de las referidas bonificaciones. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos.<br>Caracteres permitidos: 0-9. |
+| 15 | Porcentaje de bonificación por residente (Estatal). | Código numérico de 4 dígitos donde se indicará, si aplica a este billete, el porcentaje estatal de bonificación por residentes, con 2 dígitos enteros y 2 decimales. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 4 dígitos. Por ejemplo: 3,5% se expresará como 0350. Si no aplicara reducción por este concepto se rellenará con 0000.<br>Caracteres permitidos: 0-9. |
+| 16 | Porcentaje de bonificación por familia numerosa. | Código numérico de 4 dígitos donde se indicará, si aplica a este billete, el porcentaje de bonificación por familia numerosa, con 2 dígitos enteros y 2 decimales. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 4 dígitos. Por ejemplo: 3,5% se expresara como 0350. Si no aplicara reducción por este concepto se rellenará con 0000.<br>Caracteres permitidos: 0-9. |
+| 17 | Porcentaje de bonificación por militar. | Código numérico de 4 dígitos donde se indicará, si aplica a este billete, el porcentaje de bonificación por militar, con 2 dígitos enteros y 2 decimales. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 4 dígitos. Por ejemplo: 3,5% se expresara como 0350. Si no aplicara reducción por este concepto se rellenará con 0000.<br>Caracteres permitidos: 0-9. |
+| 18 | Precio final pagado por el transporte del pasajero. | Código numérico de 6 dígitos con el importe final pagado por el pasajero por su transporte después de aplicar las bonificaciones. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos.<br>Caracteres permitidos: 0-9. |
+| 19 | Tipo de acreditación de residencia y condición de beneficiario. | Código numérico de 2 dígitos con un valor numérico que se corresponda con el tipo de documento de acreditación, siendo el situado más a la izquierda un cero (ASCII 48 decimal), presentado según la siguiente tabla:<br>• 00 Acreditación telemática a través del Ministerio de Fomento.<br>• 02 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y NIE o «Certificado de registro de ciudadano de la Unión Europea» para residentes extranjeros ciudadanos de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza.<br>• 03 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 para españoles.<br>• 04 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 para menores sin DNI.<br>• 05 Senador o Diputado.<br>• 06 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y «Tarjeta de Residencia de familiar de ciudadano de la Unión Europea» para ciudadanos nacionales de terceros países que sean familiares de ciudadanos de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza.<br>• 07 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y «Autorización de residencia de larga duración» para ciudadanos nacionales de terceros países que sean residentes de larga duración.<br>• 08 Titulo o carnet de Familia Numerosa expedido por la Comunidad Autónoma.<br>• 99 No beneficiario de subvención al transporte por residencia ni por familia numerosa.<br>Caracteres permitidos: 0 a 9. |
+| 20 | Numero de documento. | Código alfanumérico de 12 dígitos con el número de DNI o NIE, incluyendo carácter de comprobación (dígito de control). En caso de que el número de dígitos significativos sea menor de 12, se deberá rellenar con ceros a la izquierda hasta completar las 12 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9.<br>Nota: No se aceptará el carácter «espacio» (ASCII 32 decimal). |
+| 21 | Nombre y apellidos del pasajero. | Código alfanumérico de 100 dígitos con el nombre y apellidos del pasajero. Si se trata de nombres compuestos se separaran estos por un solo carácter «espacio» (ASCII 32 decimal). Se ajustará a la izquierda y en el caso de que el número de dígitos significativos sea menor de 100, se completaran el numero de posiciones sobrantes con el carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: A a Z y carácter «espacio» » (ASCII 32 decimal). |
+| 22 | Código municipio. | Código numérico de 6 dígitos con el código del municipio de residencia (según anexo II del R.D. 1316/2001), o de la circunscripción en el caso de Senador o Diputado. Constará de 6 caracteres numéricos, incluyendo los ceros no significativos. Cuando la acreditación de la residencia se haya realizado telemáticamente a través del Ministerio de Fomento, se rellenará con ceros.<br>Caracteres permitidos: 0-9. |
+| 23 | Número de tarjeta de familia numerosa. | Código alfanumérico de 15 dígitos con el número de la tarjeta de familia numerosa otorgada por la administración competente. En caso de que el número de dígitos significativos sea menor de 15, se deberá rellenar con ceros a la izquierda hasta completar las 15 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 24 | Porcentaje de bonificación por residente (Autonómico). | Código numérico de 4 dígitos donde se indicará, si aplica a este billete, el porcentaje autonómico de bonificación por residentes, con 2 dígitos enteros y 2 decimales. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 4 dígitos. Por ejemplo: 3,5% se expresará como 0350. Si no aplicara reducción por este concepto se rellenará con 0000.<br>Caracteres permitidos: 0-9. |
+| 25 | Importe de la subvención por residente (Estatal). | Código numérico de 6 dígitos con el importe correspondiente a la subvención, calculado como el resultado de aplicar el porcentaje estatal de la subvención por residente sobre la cuantía base para dicha subvención. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos.<br>Caracteres permitidos: 0-9. |
+| 26 | Importe de la subvención por residente (Autonómico). | Código numérico de 6 dígitos con el importe correspondiente a la subvención, calculado como el resultado de aplicar el porcentaje autonómico de la subvención por residente sobre la cuantía base para dicha subvención. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos.<br>Caracteres permitidos: 0-9. |
+| 27 | Importe de la subvención por familias numerosas. | Código numérico de 6 dígitos con el importe correspondiente a la subvención, calculado como el resultado de aplicar el porcentaje correspondiente de la subvención a miembros de Familias Numerosas, sobre la cuantía base para dicha subvención. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos<br>Caracteres permitidos: 0-9. |
+| 28 | Código de Verificación de consulta telemática. | Código alfanumérico de 60 dígitos generado por la consulta telemática. Caracteres permitidos: A a Z y 0 a 9.<br>Este código se deducirá informáticamente a partir de los 14 caracteres alfanuméricos previamente comunicados a la Plataforma de verificación telemática con la siguiente estructura:<br>Posición 1: Letra S cuando se trate de un billete sencillo (Single ticket), o letra R cuando se trate de un billete de ida y vuelta (Return ticket).<br>Posiciones 2-4: código de la empresa naviera responsable de la facturación, compuesto por 3 dígitos alfanuméricos rellenos a ceros por la izquierda si la longitud del código de la naviera fuera menor de 3.<br>Posiciones 5-7: código de formulario, compuesto por 3 dígitos alfanuméricos rellenos a ceros por la izquierda si la longitud del código de formulario fuera menor de 3.<br>Posiciones 8-14: número de serie del billete, compuesto por 7 dígitos numéricos, rellenos a ceros por la izquierda si la longitud del número de serie del billete fuera menor de 7.<br>El campo se rellenará con nueves cuando la acreditación de la condición de beneficiario no se haya realizado por medio de consulta telemática. |
+| 29 | Código de Respuesta de consulta telemática. | Código numérico de 3 dígitos de la respuesta a la consulta telemática, de acuerdo con la siguiente tabla:<br>• 000 No constan las condiciones de bonificación.<br>• 001 Si constan las condiciones de bonificación.<br>• 002 Error técnico.<br>Caracteres permitidos: 0-2 y 9.<br>El campo se rellenará con nueves cuando la acreditación de la condición de beneficiario no se haya realizado por medio de consulta telemática. |
+| 30 | Importe de la subvención por militar. | Código numérico de 6 dígitos con el importe correspondiente a la subvención, calculado como el resultado de aplicar el porcentaje correspondiente de la subvención a militares, sobre la cuantía base para dicha subvención. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos.<br>Caracteres permitidos: 0-9. |
+| 31 | Importe servicios adicionales. | Código numérico de 6 dígitos con el importe correspondiente a los servicios adicionales contratados por el pasajero e incluidos en el billete. Deberá figurar en céntimos de euro. El importe se redondeará por exceso al céntimo, de acuerdo a la norma establecida. El valor aparecerá sin separador decimal. El campo se rellenará con ceros a la izquierda si el importe tiene menos de 6 dígitos.<br>Caracteres permitidos: 0-9. |
+
+B. Contenido del fichero informático mensual de embarques reales facilitado por el Organismo Público Puertos del Estado y por los órganos competentes en materia portuaria de las Comunidades Autónomas
+
+El fichero informático remitido por el Organismo Público Puertos del Estado y por los órganos competentes en materia portuaria de las Comunidades Autónomas contendrá un registro individualizado por cada uno de los embarques que se han realizado en los trayectos en los que pueda existir billete bonificado. Cada registro del fichero informático contendrá los datos de un único embarque, distribuidos en los campos descritos a continuación:
+
+| Número de orden | Denominación del campo | Contenido del campo |
+|---|---|---|
+| 1 | Año de referencia. | Código numérico de 4 dígitos con el año de facturación.<br>Caracteres permitidos: 0 a 9. |
+| 2 | Mes de referencia. | Código numérico de 2 dígitos con el número de orden del mes correspondiente. En caso de que el número de dígitos significativos sea 1, se deberá rellenar con un cero a la izquierda.<br>Caracteres permitidos: 0 a 9. |
+| 3 | Número de Tarjeta de Embarque. | Código numérico de 12 dígitos con el número de billete. En caso de que el número de dígitos significativos sea menor de 12, se deberá rellenar con ceros a la izquierda hasta completar las 12 posiciones.<br>Caracteres permitidos: 0 a 9. |
+| 4 | Número de Cupón del Billete. | Código alfanumérico de 15 dígitos con el número de cupón del billete, formado, empezando por la izquierda, por el número de cupón del billete a 1 dígito numérico (1 para el de ida y 2 para el de vuelta), código de la compañía a 3 dígitos alfanuméricos conforme a lo especificado en el campo 6, código de formulario a 3 dígitos alfanuméricos, número de serie del billete a 7 dígitos numéricos y dígito de control a 1 dígito numérico. En caso de que el número de dígitos significativos del número de serie del billete sea menor que 7, este segmento del campo se deberá rellenar con ceros a la izquierda hasta completar las 7 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 5 | Trayecto. | Código alfabético de 10 dígitos con el UN/LOCODE del puerto de embarque de 5 dígitos seguido del UN/LOCODE del puerto de desembarque de 5 dígitos.<br>Caracteres permitidos: A a Z. |
+| 6 | Código de compañía. | Código alfanumérico de 3 dígitos con el código que identifica a la empresa naviera responsable de la facturación, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de embarque con derecho a subvención.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 7 | Compañía de utilización. | Código alfanumérico de 3 dígitos, que identifica a la empresa naviera que realiza realmente el transporte, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de embarque con derecho a subvención.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 8 | Fecha de embarque. | Código alfanumérico de 16 dígitos con la fecha y hora de utilización del cupón de embarque, en el formato DD/MM/AAAA HH:MM, en el que DD/MM/AAAA es la fecha y HH:MM es la hora, ambos de inicio del viaje, donde DD es el número de día del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), MM es el número del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), AAAA es el año con cuatro dígitos, HH es la hora de comienzo del viaje en formato 24 h (si es inferior a 2 dígitos, se añadirá un cero a la izquierda) y MM es el minuto de comienzo del viaje (si es inferior a 2 dígitos, se añadirá un cero a la izquierda). El grupo fecha estará separado del grupo hora mediante un único carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: 0-9, «/» (ASCII 47 decimal), «:» (ASCII 58 decimal) y «espacio» (ASCII 32 decimal). |
+| 9 | Indicador de adulto o menor. | Código numérico de 1 dígito en el que se pondrá un 1 si el billete se ha emitido a un adulto y un 2 si se ha emitido a un menor.<br>Caracteres permitidos: 1 y 2. |
+| 10 | Tipo de acreditación de residencia y condición de beneficiario. | Código numérico de 2 dígitos con un valor numérico que se corresponda con el tipo de documento de acreditación, siendo el situado más a la izquierda un cero (ASCII 48 decimal), presentado según la siguiente tabla:<br>• 00 Acreditación telemática a través del Ministerio de Fomento.<br>• 02 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y NIE o «Certificado de registro de ciudadano de la Unión Europea» para residentes extranjeros ciudadanos de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza.<br>• 03 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 para españoles.<br>• 04 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 para menores sin DNI.<br>• 05 Senador o Diputado.<br>• 06 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y «Tarjeta de Residencia de familiar de ciudadano de la Unión Europea» para ciudadanos nacionales de terceros países que sean familiares de ciudadanos de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza.<br>• 07 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y «Autorización de residencia de larga duración» para ciudadanos nacionales de terceros países que sean residentes de larga duración.<br>• 08 Titulo o carnet de Familia Numerosa expedido por la Comunidad Autónoma.<br>• 99 No beneficiario de subvención al transporte por residencia ni por familia numerosa.<br>Caracteres permitidos: 0 a 9. |
+| 11 | Número de documento. | Código alfanumérico de 12 dígitos con el número de DNI o NIE, incluyendo carácter de comprobación (dígito de control). En caso de que el número de dígitos significativos sea menor de 12, se deberá rellenar con ceros a la izquierda hasta completar las 12 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9.<br>Nota: No se aceptará el carácter «espacio» (ASCII 32 decimal). |
+| 12 | Nombre y apellidos del pasajero. | Código alfanumérico de 100 dígitos con el nombre y apellidos del pasajero. Si se trata de nombres compuestos se separarán éstos por un solo carácter «espacio» (ASCII 32 decimal). Se ajustará a la izquierda y en el caso de que el número de dígitos significativos sea menor de 100, se completarán el número de posiciones sobrantes con el carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: A-Z y carácter «espacio» (ASCII 32 decimal). |
+
+C. Relaciones de los embarques reales producidos en cada escala, obtenible electrónicamente en el puerto
+
+Los cupones o sistemas de control de embarque utilizados por las compañías deberán disponer de un medio para que los órganos competentes del control de embarques puedan obtener, por medios electrónicos e informáticos, la siguiente información contenida en los mismos:
+
+| Número de orden | Denominación del campo | Contenido del campo |
+|---|---|---|
+| 1 | Número de Tarjeta de Embarque. | Código numérico de 12 dígitos con el número de billete. En caso de que el número de dígitos significativos sea menor de 12, se deberá rellenar con ceros a la izquierda hasta completar las 12 posiciones.<br>Caracteres permitidos: 0 a 9. |
+| 2 | Número de Cupón del Billete. | Código alfanumérico de 15 dígitos con el número de cupón del billete, formado, empezando por la izquierda, por el número de cupón del billete a 1 dígito numérico (1 para el de ida y 2 para el de vuelta), código de la compañía a 3 dígitos alfanuméricos conforme a lo especificado en el campo 4, código de formulario a 3 dígitos numéricos, número de serie del billete a 7 dígitos numéricos y dígito de control a 1 dígito numérico. En caso de que el número de dígitos significativos del número de serie del billete sea menor que 7, este segmento del campo se deberá rellenar con ceros a la izquierda hasta completar las 7 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 3 | Trayecto. | Código alfabético de 10 dígitos con el UN/LOCODE del puerto de embarque de 5 dígitos seguido del UN/LOCODE del puerto de desembarque de 5 dígitos.<br>Caracteres permitidos: A a Z. |
+| 4 | Código de compañía. | Código alfanumérico de 3 dígitos con el código que identifica a la empresa naviera responsable de la facturación, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de embarque con derecho a subvención.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 5 | Compañía de utilización. | Código alfanumérico de 3 dígitos, que identifica a la empresa naviera que realiza realmente el transporte, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de embarque con derecho a subvención.<br>Caracteres permitidos: A a Z y 0 a 9. |
+| 6 | Fecha de embarque. | Código alfanumérico de 16 dígitos con la fecha y hora de utilización del cupón de embarque, en el formato DD/MM/AAAA HH:MM, en el que DD/MM/AAAA es la fecha y HH:MM es la hora, ambos de inicio del viaje, donde DD es el número de día del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), MM es el número del mes (si es inferior a 2 dígitos, se añadirá un cero a la izquierda), AAAA es el año con cuatro dígitos, HH es la hora de comienzo del viaje en formato 24 h (si es inferior a 2 dígitos, se añadirá un cero a la izquierda) y MM es el minuto de comienzo del viaje (si es inferior a 2 dígitos, se añadirá un cero a la izquierda). El grupo fecha estará separado del grupo hora mediante un único carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: 0-9, «/» (ASCII 47 decimal), «:» (ASCII 58 decimal) y «espacio» (ASCII 32 decimal). |
+| 7 | Indicador de adulto o menor. | Código numérico de 1 dígito en el que se pondrá un 1 si el billete se ha emitido a un adulto y un 2 si se ha emitido a un menor.<br>Caracteres permitidos: 1 y 2. |
+| 8 | Tipo de acreditación de residencia y condición de beneficiario. | Código numérico de 2 dígitos con un valor numérico que se corresponda con el tipo de documento de acreditación, siendo el situado más a la izquierda un cero (ASCII 48 decimal), presentado según la siguiente tabla:<br>• 00 Acreditación telemática a través del Ministerio de Fomento.<br>• 02 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y NIE o «Certificado de registro de ciudadano de la Unión Europea» para residentes extranjeros ciudadanos de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza.<br>• 03 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 para españoles.<br>• 04 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 para menores sin DNI.<br>• 05 Senador o Diputado.<br>• 06 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y «Tarjeta de Residencia de familiar de ciudadano de la Unión Europea» para ciudadanos nacionales de terceros países que sean familiares de ciudadanos de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo o de la Confederación Suiza.<br>• 07 Certificado de Empadronamiento o Certificado de residencia expedido por el ayuntamiento conforme al R.D. 1316/2001 y «Autorización de residencia de larga duración» para ciudadanos nacionales de terceros países que sean residentes de larga duración.<br>• 08 Titulo o carnet de Familia Numerosa expedido por la Comunidad Autónoma.<br>• 99 No beneficiario de subvención al transporte por residencia ni por familia numerosa.<br>Caracteres permitidos: 0 a 9. |
+| 9 | Número de documento. | Código alfanumérico de 12 dígitos con el número de DNI o NIE, incluyendo carácter de comprobación (dígito de control). En caso de que el número de dígitos significativos sea menor de 12, se deberá rellenar con ceros a la izquierda hasta completar las 12 posiciones.<br>Caracteres permitidos: A a Z y 0 a 9<br>Nota: No se aceptará el carácter «espacio» (ASCII 32 decimal). |
+| 10 | Nombre y apellidos del pasajero. | Código alfanumérico de 100 dígitos con el nombre y apellidos del pasajero. Si se trata de nombres compuestos se separarán éstos por un solo carácter «espacio» (ASCII 32 decimal). Se ajustará a la izquierda y en el caso de que el número de dígitos significativos sea menor de 100, se completarán el número de posiciones sobrantes con el carácter «espacio» (ASCII 32 decimal).<br>Caracteres permitidos: A-Z y carácter «espacio» (ASCII 32 decimal). |
+
+D. Formato de los ficheros informáticos.
+
+La denominación de los ficheros informáticos entregados por las empresas navieras con la relación de embarques correspondientes a los billetes bonificados y de los ficheros que contienen la certificación a la correspondiente deberá cumplir las siguientes especificaciones:
+
+El nombre de los ficheros informáticos presentados por las empresas navieras con la relación de embarques correspondientes a los billetes bonificados por residentes y por familias numerosas en todos los trayectos directos estará compuesto por un código de un dígito que identifica el grupo de tráfico («P» para el tráfico con la Península, «I» para el tráfico Interinsular), seguido del código de tres dígitos de la empresa naviera, seguido del año a cuatro dígitos, seguido del número de orden del trimestre («1» para el primer trimestre enero-marzo, «2» para el segundo trimestre abril-junio, «3» para el tercer trimestre julio-septiembre y «4» para el cuarto trimestre octubre-diciembre), seguido del carácter «_» (ASCII95) y un dígito para identificar el sector de tráfico («1» para Ceuta, «2» para Baleares, «3» para Canarias y «4» para Melilla) y seguido de un código de un dígito que identifica el tipo de bonificación tráfico («R» para residentes, «N» para familias numerosas), todo ello sin espacios ni caracteres adicionales. Estos ficheros informáticos se entregarán en formato texto ASCII con extensión txt o comprimidos con extensión zip.
+
+El nombre de los ficheros informáticos de las certificaciones presentadas por las compañías navieras tendrá la misma denominación que el fichero que contiene la correspondiente relación de embarques referida en el párrafo anterior, seguido del carácter «_» (ASCII95) y de los dígitos «CERT» y se entregarán en formato pdf.
+
+Para los órganos gestores de los puertos, el nombre del fichero informático de embarques reales estará compuesto por el código de tres dígitos UN/LOCODE del puerto, seguido del año a cuatro dígitos y del número de orden del mes a dos dígitos («01» para el mes de enero, «02» para el mes de febrero, y así sucesivamente hasta el «12» para el mes de diciembre), todo ello sin espacios ni caracteres adicionales.
+
+Cada registro del fichero será una línea de texto que contendrá los datos descritos, con el mismo número de campos, su misma codificación y en el mismo orden.
+
+Cada línea contendrá la información correspondiente a un solo billete para las empresas marítimas, y a un solo embarque para los órganos gestores de los puertos.
+
+Cada línea irá separada por un final de línea tipo DOS: CR y LF (ASCII 13 y ASCII 10, respectivamente). Los campos de cada línea estarán separados por el carácter «|» (ASCII 124).
+
+Todos los ficheros informáticos referidos serán entregados en la Sede Electrónica del Ministerio de Fomento.
+
+> Se modifica el apartado D por la Orden FOM/1658/2015, de 27 de julio, en la redacción dada por la Resolución de 26 de diciembre de 2018. [Ref. BOE-A-2019-3161](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3161)
+
+> Esta modificación será aplicable a las liquidaciones que sean presentadas a partir del día 1 de abril de 2019.
+
+> Se sustituye por el art. único.3 de la Orden FOM/1658/2015, de 27 de julio. [Ref. BOE-A-2015-8867](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8867).
+
+> Se modifica por la Resolución de 8 de abril de 2013. [Ref. BOE-A-2013-4048](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4048).
+
+> Se modifica el cuadro A por la Resolución de 8 de septiembre de 2006. [Ref. BOE-A-2006-16663](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16663).
+
+## ANEXO II — Tablas del procedimiento
+
+Tabla 1. Número total de billetes que componen la muestra:
+
+| Número de embarques del fichero informático | Número de billetes de la muestra |
+|---|---|
+| De 0 a 3.200 embarques | 80 billetes. |
+| De 3.201 a 10.000 embarques | 125 billetes. |
+| De 10.001 a 35.000 embarques | 200 billetes. |
+| De 35.001 a 150.000 embarques | 315 billetes. |
+| De 150.001 a 500.000 embarques | 500 billetes. |
+| Más de 500.001 embarques | 800 billetes. |
+
+Tabla 2. Número total de errores de aceptación y rechazo de la primera muestra:
+
+| Número de billetes de la muestra | Número de errores de aceptación | Número de errores de rechazo |
+|---|---|---|
+| 80 billetes | 1 error. | 4 errores. |
+| 125 billetes | 2 errores. | 5 errores. |
+| 200 billetes | 3 errores. | 7 errores. |
+| 315 billetes | 5 errores. | 9 errores. |
+| 500 billetes | 7 errores. | 11 errores. |
+| 800 billetes | 11 errores. | 16 errores. |
+
+Tabla 3. Número total de errores de aceptación y rechazo entre ambas muestras:
+
+| Número total de billetes de las dos muestras | Número de errores de aceptación |
+|---|---|
+| 160 billetes | 4 errores. |
+| 250 billetes | 6 errores. |
+| 400 billetes | 8 errores. |
+| 630 billetes | 12 errores. |
+| 1.000 billetes | 18 errores. |
+| 1.600 billetes | 26 errores. |
+
+> Se sustituye por el art. único.3 de la Orden FOM/1658/2015, de 27 de julio. [Ref. BOE-A-2015-8867](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8867).

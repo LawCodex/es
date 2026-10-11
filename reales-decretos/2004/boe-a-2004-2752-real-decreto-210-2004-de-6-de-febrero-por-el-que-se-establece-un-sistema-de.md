@@ -1,0 +1,893 @@
+---
+title: "Real Decreto 210/2004, de 6 de febrero, por el que se establece un sistema de seguimiento y de información sobre el tráfico marítimo"
+identifier: "BOE-A-2004-2752"
+eli: "https://www.boe.es/eli/es/rd/2004/02/06/210"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2004-02-06
+published: 2004-02-14
+in_force_from: 2004-02-15
+last_amended: 2025-12-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 39"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-2752"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 210/2004, de 6 de febrero, por el que se establece un sistema de seguimiento y de información sobre el tráfico marítimo
+
+El 27 de junio de 2002 fue aprobada la Directiva 2002/59/CE del Parlamento Europeo y del Consejo, relativa al establecimiento de un sistema comunitario de seguimiento y de información sobre el tráfico marítimo y por la que se deroga la Directiva 93/75/CEE del Consejo, que constituye una importante iniciativa orientada a la implantación de un sistema europeo uniforme de control de la navegación marítima, que haga compatible la libertad de navegación en las aguas comunitarias con la protección de la seguridad marítima y la prevención de la contaminación del medio marino.
+
+El precedente inmediato de dicha norma se encuentra en la Directiva 93/75/CEE del Consejo, de 13 de septiembre de 1993, sobre condiciones mínimas exigidas a los buques con destino a los puertos marítimos de la Comunidad o que salgan de ellos y transporten mercancías peligrosas o contaminantes, que estableció un sistema en virtud del cual las autoridades competentes de los Estados miembros reciben información sobre los buques con origen o destino en puertos comunitarios que transporten mercancías peligrosas o contaminantes, así como de los accidentes acaecidos en el mar. La transposición de dicha directiva se llevó a cabo mediante el Real Decreto 1253/1997, de 24 de julio, sobre condiciones mínimas exigidas a los buques que transporten mercancías peligrosas o contaminantes, con origen o destino en puertos marítimos nacionales.
+
+La Directiva 2002/59/CE pretende, en primer término, establecer un sistema más completo e integrado de seguimiento y de información del tráfico marítimo. También, obliga a la utilización de avances tecnológicos fundamentales para la seguridad marítima, tales como los que permiten una identificación automática de los buques (sistema SIA) o registrar los datos de la travesía (sistema RDT o "cajas negras") para facilitar las investigaciones posteriores a un accidente marítimo.
+
+Otra novedad importante de la Directiva 2002/59/CE consiste en abordar la regulación de la asistencia a los buques que se encuentren en situación de peligro en consonancia con las directrices aprobadas por la Asamblea de la Organización Marítima Internacional (en adelante OMI) el 5 de diciembre de 2003, mediante la Resolución A. 949(23) sobre directrices relativas a lugares de refugio para barcos necesitados de asistencia, conforme a las cuales, si bien los Estados ribereños no están obligados a autorizar el acceso de los buques a un lugar de refugio, sí deben sopesar equilibradamente los factores que dicha medida conlleva, razón por la cual la Directiva 2002/59/CE impone a los Estados miembros el deber de elaborar planes para albergar en las aguas bajo su jurisdicción a buques en peligro.
+
+El artículo 108 de la Ley 62/2003, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, ha iniciado la incorporación al ordenamiento español de la Directiva 2002/59/CE, al prever que los órganos competentes en materia de marina mercante podrán establecer condiciones para autorizar la entrada de un buque que solicite refugio en un puerto o lugar de abrigo, con la finalidad de proteger adecuadamente la seguridad de las personas, del tráfico marítimo, del medio ambiente o de los bienes afectados, y al establecer que dicha medida, cuyas eventuales consecuencias resultan de imposible evaluación previa, podrá quedar igualmente condicionada a la prestación de una garantía económica por parte del propietario, del operador o del cargador del buque.
+
+Este real decreto tiene por finalidad completar la incorporación al ordenamiento jurídico español de la Directiva 2002/59/CE y, al propio tiempo, desarrollar el mandato contenido en el artículo 108 de la Ley 62/2003, de 30 de diciembre. No siendo obligatorio, como se ha indicado, el otorgamiento de autorización a los buques que soliciten acceso a un lugar de refugio, mediante este real decreto se determinan los criterios y las reglas conforme a los cuales la autoridad marítima debe actuar cuando un buque necesitado de auxilio solicite la entrada, para que el perjuicio que previsiblemente pueda derivarse del acceso al lugar de refugio sea inferior al que se seguiría de utilizarse otras medidas alternativas de auxilio al buque.
+
+En su virtud, a propuesta del Ministro de Fomento, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de febrero de 2004,
+
+### D I S P O N G O :
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+1\. Este real decreto tiene por objeto el establecimiento de un sistema de seguimiento y de información sobre el tráfico marítimo en aguas en las que España ejerce soberanía, derechos soberanos o jurisdicción, con la finalidad de incrementar la seguridad marítima y la eficacia de dicho tráfico, mejorar la capacidad de respuesta de la Administración marítima a los problemas, accidentes o situaciones potencialmente peligrosas en el mar, incluidas las operaciones de búsqueda y rescate y contribuir a una más temprana detección y a una mejor prevención de la contaminación que pueda ser ocasionada por los buques.
+
+2\. Los capitanes, los operadores y los agentes de los buques, así como los expedidores o los propietarios de mercancías peligrosas o contaminantes transportadas a bordo de aquéllos quedarán obligados al cumplimiento de los requisitos y condiciones que se establecen en este real decreto. La Administración marítima adoptará las medidas de policía administrativa y de índole sancionadora que, a tal efecto, resulten necesarias.
+
+#### Artículo 2. Ámbito de aplicación.
+
+1\. Este real decreto se aplicará a los buques de arqueo bruto igual o superior a 300 toneladas, siempre que expresamente no se establezca otra cosa distinta.
+
+2\. Salvo que expresamente se disponga otra cosa y sin perjuicio de lo establecido en la disposición adicional cuarta, este real decreto no será de aplicación a los buques afectos a la defensa nacional u otros buques de titularidad o uso público, siempre que presten servicios públicos de carácter no comercial.
+
+3\. Los buques de pesca, los buques históricos o de época y las embarcaciones de recreo de eslora inferior a 45 metros estarán sujetos exclusivamente a las normas contenidas en los artículos 17 al 25, salvo que expresamente se disponga otra cosa.
+
+4\. A efectos de la aplicación de las reglas de notificación y seguimiento de buques, no se considerarán como mercancía sujeta a las obligaciones que se regulan en este real decreto las provisiones y el equipo de a bordo de todos los buques, así como el combustible para uso propio de los buques de arqueo bruto inferior a 1.000 toneladas.
+
+> Se modifica el apartado 4 por el art. único.1 del Real Decreto 201/2012, de 23 de enero. [Ref. BOE-A-2012-1678](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1678).
+
+> Se modifican los apartados 2 a 4 por el art. único.1 y 2 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 3. Definiciones.
+
+A efectos de este real decreto, se entenderá por:
+
+a) Instrumentos internacionales aplicables pertinentes: los instrumentos siguientes en su versión actualizada.
+
+1.º MARPOL: el Convenio internacional para la prevención de la contaminación por los buques, de 1973, y su Protocolo de 1978.
+
+2.º SOLAS: el Convenio internacional para la seguridad de la vida humana en el mar, así como los protocolos y enmiendas correspondientes.
+
+3.º El Convenio internacional sobre arqueo de buques, de 1969.
+
+4.º El Convenio internacional relativo a la intervención en alta mar en casos de accidentes que causen una contaminación por hidrocarburos, de 1969, y el Protocolo de 1973 relativo a la intervención en alta mar en casos de contaminación por sustancias distintas de los hidrocarburos.
+
+5.º Convenio SAR: el Convenio internacional sobre búsqueda y salvamento marítimos, de 1979.
+
+6.º Código IGS: el Código internacional de gestión de la seguridad.
+
+7.º Código IMDG: el Código marítimo internacional para el transporte de mercancías peligrosas.
+
+8.º Código CIQ: el Código internacional de la OMI para la construcción y el equipo de buques que transporten productos químicos peligrosos a granel.
+
+9.º Código CIG: el Código internacional de la OMI para la construcción y el equipo de buques que transporten gases licuados a granel.
+
+10.º Código BC: el Código de la OMI de prácticas de seguridad relativas a las cargas sólidas a granel.
+
+11.º Código CNI: el Código de la OMI para la seguridad del transporte de combustible nuclear irradiado, plutonio y residuos radiactivos de alto índice de radiactividad en cargas a bordo de los buques.
+
+12.º Resolución A 851(20) de la OMI: la Resolución 851(20) de la Organización Marítima Internacional titulada "Principios generales para los sistemas de notificación de buques y requisitos de notificación de buques, incluidas las directrices para notificar sucesos en que intervengan mercancías peligrosas, sustancias perjudiciales o contaminantes del mar".
+
+13.º Resolución A.917(22) de la OMI: la Resolución 917(22) de la Organización Marítima Internacional titulada “Directrices relativas a la utilización en el buque del sistema de identificación automática (SIA)” de a bordo, enmendada por la Resolución A.956(23) de la OMI.
+
+14.º Resolución A.949(23) de la OMI: la Resolución 949(23) de la Organización Marítima Internacional titulada “Directrices relativas a los lugares de refugio para los buques necesitados de asistencia”.
+
+15.º Resolución A.950(23) de la OMI: la Resolución 950(23) de la Organización Marítima Internacional titulada “Servicios de asistencia marítima (MAS)”.
+
+16.º Directrices de la OMI sobre el trato justo de la tripulación en caso de accidente marítimo: las Directrices anejas a la Resolución LEG. 3(91) del Comité Jurídico de la OMI de 27 de abril de 2006, aprobadas por el Consejo de administración de la OIT en su 296 a sesión, de los días 12 al 16 de junio de 2006.
+
+b) Operador: el propietario o armador del buque.
+
+c) Salvadores: compañía contratada por el operador o por la empresa naviera para tratar de salvar el buque y la carga.
+
+d) Agente: el consignatario del buque y, en general, toda persona encargada o autorizada para entregar información en nombre del operador del buque.
+
+e) Expedidor: toda persona física o jurídica que haya celebrado o en cuyo nombre o por cuya cuenta se haya celebrado con un transportista un contrato de transporte de mercancías por mar.
+
+f) Empresario o empresa naviera: la persona física o jurídica que, utilizando buques mercantes propios o ajenos, se dedique a su explotación, aun cuando ello no constituya su actividad principal, bajo cualquier modalidad admitida por los usos internacionales.
+
+g) Buque: todos los buques o embarcaciones que naveguen por mar.
+
+h) Mercancías peligrosas: son las siguientes:
+
+1.ª Las mercancías clasificadas en el Código IMDG, incluidas las radiactivas a las que se hace referencia en el Código CNI.
+
+2.ª Las sustancias líquidas peligrosas enumeradas en el capítulo 17 del Código CIQ.
+
+3.ª Los gases licuados enumerados en el capítulo 19 del Código CIG.
+
+4.ª Las sustancias sólidas referidas en el apéndice B del Código BC.
+
+5.ª Las mercancías para cuyo transporte se hayan establecido las condiciones previas apropiadas según lo dispuesto en el apartado 1.1.3 del Código CIQ o del apartado 1.1.6 del Código CIG.
+
+i) Mercancías contaminantes:
+
+1.ª Los hidrocarburos según la definición del anexo I del Convenio MARPOL.
+
+2.ª Las sustancias nocivas líquidas, según se definen en el anexo II del Convenio MARPOL.
+
+3.ª Las sustancias perjudiciales según se definen en el anexo III del Convenio MARPOL.
+
+j) Unidades de transporte de carga: los vehículos para el transporte de mercancías por carretera, los vagones para el transporte de mercancías por ferrocarril, los contenedores, los vehículos cisterna de carretera, los vagones cisterna o las cisternas móviles.
+
+k) Dirección: la denominación social o el nombre y los enlaces de comunicación que permitan establecer contacto en caso de necesidad con el operador, el agente, la Administración marítima, Puertos del Estado o la entidad gestora del puerto u otra persona u organismo habilitado en posesión de información detallada sobre la carga del buque.
+
+l) Autoridades competentes: la Dirección General de la Marina Mercante y, bajo su dirección, las capitanías marítimas y la entidad pública empresarial Sociedad de Salvamento y Seguridad Marítima (SASEMAR), integradas todas ellas en la Administración marítima.
+
+m) Administración portuaria: el ente público Puertos del Estado y las Autoridades Portuarias en el ámbito de la Administración General del Estado, y los órganos portuarios correspondientes respecto de los puertos dependientes de las comunidades autónomas.
+
+n) Lugar de refugio: un puerto o parte del puerto, cualquier atracadero o fondeadero sea natural o artificial, o bien cualquiera otra zona que se establezca por la Administración marítima para acoger buques necesitados de asistencia.
+
+ñ) Estación costera: los centros de coordinación de salvamento adscritos a la entidad pública empresarial Sociedad de Salvamento y Seguridad Marítima (SASEMAR).
+
+o) Servicio de tráfico marítimo (STM): el que se establece para mejorar la seguridad y la eficacia del tráfico marítimo y para proteger el medio ambiente marino, con capacidad de actuar sobre el tráfico y de responder a las situaciones que en relación con éste se plantean en la zona STM.
+
+p) Sistemas de organización del tráfico: todo sistema de una o varias rutas o segmentos de éstas establecidas para reducir el riesgo de accidentes, incluyendo los dispositivos de separación de tráfico, las rutas en sentido doble, las derrotas recomendadas, las zonas que deben evitarse, las zonas de tráfico costero, los giros, las zonas de precaución y las derrotas de aguas profundas.
+
+q) Buques históricos o de época: toda clase de buques históricos y sus réplicas, incluidas las diseñadas para fomentar y promover los oficios tradicionales y la náutica, que sirven como monumentos culturales vivos, gobernados con arreglo a los principios tradicionales de la náutica y la técnica.
+
+r) Accidente: el definido como tal en el Código de la OMI para la investigación de los accidentes e incidentes marítimos.
+
+s) Sistema EDI: sistema electrónico de intercambio de datos.
+
+t) RDT: sistema registrador de datos de la travesía.
+
+u) Sistema SIA/AIS: sistema de identificación automática de los buques.
+
+v) Sistema obligatorio de notificación de buques: las zonas, rutas o segmentos de éstas previamente delimitadas y aprobadas como tales por la OMI, en las que los buques que las recorran o atraviesen quedan obligados a notificar a la Administración marítima los datos que se consideran relevantes a efectos de preservar la seguridad marítima y la integridad del medio marino.
+
+w) Aguas marítimas españolas: aquellas en las que España ejerce soberanía, derechos soberanos o jurisdicción.
+
+x) “SafeSeaNet”: Sistema comunitario de intercambio de información marítima creado por la Comisión Europea en cooperación con los Estados miembros a fin de garantizar la aplicación de la normativa comunitaria.
+
+y) “Servicio regular”: Una serie de travesías efectuadas entre dos o más puertos, bien ajustándose a unos horarios públicos, bien con un grado de regularidad o frecuencia que constituya una serie sistemática reconocible.
+
+z) “Buque pesquero”: Cualquier buque equipado para la explotación comercial de los recursos acuáticos vivos.
+
+z’) “LRIT”: Sistema de identificación y seguimiento de largo alcance de buques de conformidad con la regla V/19-1 del Convenio SOLAS.
+
+> Se modifica por el art. único.3 a 6 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+## CAPÍTULO II — Notificación y seguimiento de los buques
+
+#### Artículo 4. Notificación previa a la entrada en los puertos españoles.
+
+1\. El operador, agente o capitán de un buque con destino a un puerto español notificará la información recogida en el apartado 1 del anexo I a la entidad gestora del puerto, al menos con 24 horas de antelación a la llegada al puerto o en el momento en que el buque abandone el puerto anterior, si la duración de la travesía es inferior a 24 horas, o bien en cuanto dicha información esté disponible, si el puerto de escala no se conoce o ha cambiado durante la travesía.
+
+2\. Los buques procedentes de un puerto extracomunitario y con destino a un puerto español que transporten mercancías peligrosas o contaminantes deberán cumplir las obligaciones de notificación previstas en el artículo 13.
+
+#### Artículo 5. Seguimiento de los buques que penetren en la zona de sistemas obligatorios de notificación de buques.
+
+1\. Siempre que se haya implantado un sistema obligatorio de notificación de buques, adoptado por la OMI según lo dispuesto en la regla 11 del capítulo V del Convenio SOLAS y aplicado por uno o varios Estados, de los que al menos uno sea miembro de la Unión Europea, la Administración marítima adoptará las medidas pertinentes para que los buques que entren en el ámbito de dicho sistema puedan notificar la información que proceda, sin perjuicio de la información adicional que pueda serles solicitada con base en la Resolución A. 851 (20) de la OMI.
+
+2\. Cuando la Dirección General de la Marina Mercante proponga un nuevo sistema obligatorio de notificación de buques a la OMI para su implantación o cuando formule una propuesta para modificar un sistema de notificación establecido, incluirá en su propuesta, al menos, la información a la que se refiere el apartado 4 del anexo I.
+
+#### Artículo 6. Uso de los sistemas de identificación automática.
+
+1\. Cualquier buque que haga escala en un puerto español deberá ir equipado, de conformidad con el calendario establecido en el apartado 1 del anexo II, con un sistema SIA que cumpla los requisitos establecidos por la OMI.
+
+2\. Los buques equipados con un SIA lo mantendrán en funcionamiento en todo momento, salvo en los casos en los que los acuerdos, reglas o normas internacionales estipulen la protección de la información náutica.
+
+#### Artículo 6 bis. Uso de los sistemas de identificación automática (SIA) por los buques pesqueros.
+
+Los buques pesqueros con una eslora total superior a 15 metros abanderados y registrados en un Estado miembro de la Unión Europea, o que faenen en aguas interiores o en el mar territorial español, o desembarquen sus capturas en un puerto español, deberán ir equipados, de conformidad con el calendario establecido en el anexo II, parte I, con un sistema de identificación automática SIA (clase A) que cumpla las normas de rendimiento establecidas por la OMI.
+
+Los buques pesqueros equipados con un sistema SIA lo mantendrán en funcionamiento en todo momento. En circunstancias excepcionales, el citado sistema podrá ser desconectado si el capitán lo considera necesario para la seguridad del buque.
+
+> Se modifica por el art. único.2 del Real Decreto 201/2012, de 23 de enero. [Ref. BOE-A-2012-1678](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1678).
+
+> Se añade por el art. único.7 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 6 ter. Uso de sistemas de identificación y seguimiento de largo alcance de los buques (LRIT).
+
+Los buques a los que sean aplicables la Regla V/19-1 del Convenio SOLAS y las normas de rendimiento y los requisitos operativos establecidos por la OMI, llevarán equipamiento LRIT, de conformidad con lo dispuesto en dicha regla, siempre que hagan escala en un puerto español.
+
+> Se añade por el art. único.7 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 7. Utilización de los sistemas de organización del tráfico.
+
+1\. La Administración marítima instará a todos los buques que penetren en la zona de un sistema obligatorio de organización del tráfico adoptado por la OMI con base en la regla 10 del capítulo V del Convenio SOLAS y que sea utilizado por España y, en su caso, por algún otro Estado, para que utilicen el sistema con arreglo a las directrices y a los criterios pertinentes fijados por la OMI y efectuará el seguimiento de dichos buques.
+
+2\. Al establecer bajo su responsabilidad un sistema de organización del tráfico que no haya sido adoptado por la OMI, la Administración marítima y, en su caso, la Administración portuaria competente tendrán en cuenta en lo posible las directrices y los criterios establecidos por dicho organismo y difundirá toda la información necesaria para la seguridad y el uso eficaz del citado sistema.
+
+#### Artículo 8. Seguimiento del cumplimiento del servicio de tráfico por parte de los buques.
+
+La Administración marítima efectuará el seguimiento de los buques y adoptará las medidas pertinentes para que:
+
+a) Los buques que penetren, dentro del mar territorial, en las zonas en las que esté en funcionamiento un STM establecido con base en las directrices de la OMI y operado por España y, en su caso, por algún otro Estado cumplen las reglas específicas para dicho STM.
+
+b) Los buques que enarbolen el pabellón de cualquier Estado miembro de la Unión Europea, o que tengan destino a un puerto comunitario y que penetren en una zona no situada en el mar territorial español pero sí en aguas marítimas españolas en las que esté en funcionamiento un STM implantado con base en las directrices de la OMI, cumplan las reglas específicas de aquél.
+
+c) Los buques que enarbolen el pabellón de un Estado que no sea miembro de la Unión Europea, que no tengan por destino un puerto comunitario y que penetren en una zona en la que esté establecido un STM en aguas marítimas españolas distintas del mar territorial, cumplan las reglas específicas para dicho STM, siempre que ello sea posible. Las autoridades competentes deberán informar al Estado del pabellón del buque de que se trate de toda posible violación grave de dichas reglas que se produzca en la citada zona STM.
+
+#### Artículo 9. Infraestructura para los sistemas de notificación de buques, los sistemas de organización del tráfico y los servicios de tráfico de buques.
+
+1\. La Administración marítima supervisará la puesta en funcionamiento de los equipos e instalaciones necesarios para la aplicación de las reglas establecidas en este real decreto en relación con los sistemas de notificación de buques y de organización y seguimiento del tráfico marítimo, de forma que permitan el intercambio de información con la procedente de los sistemas de los restantes Estados miembros de la Unión Europea.
+
+2\. Las estaciones costeras encargadas del seguimiento del cumplimiento de los servicios de tráfico de buques y de los sistemas de organización del tráfico deberán disponer de suficiente personal debidamente cualificado, así como de los medios adecuados de comunicación y de seguimiento de buques y que operan con arreglo a las directrices pertinentes de la OMI.
+
+#### Artículo 10. Sistemas registradores de datos de la travesía (RDT) o "cajas negras".
+
+1\. La Administración marítima exigirá y verificará, mediante controles e inspecciones, que los buques que hagan escala en un puerto español estén equipados con un sistema registrador de datos de la travesía (RDT) de acuerdo con las modalidades establecidas en la sección II del anexo II.
+
+2\. Los datos obtenidos por un sistema RDT se pondrán a disposición de la Administración marítima española y de los órganos competentes de cualquier otro Estado miembro afectado por una investigación llevada a cabo a raíz de un accidente que haya ocurrido en aguas marítimas españolas y serán analizados por la Comisión permanente de investigación de siniestros marítimos, cuyas conclusiones se harán públicas lo antes posible.
+
+#### Artículo 11. Investigación de accidentes.
+
+La investigación de incidentes y accidentes en los que estén involucrados los buques sujetos al ámbito de aplicación de este real decreto se ajustarán a las reglas contenidas en el Código OMI para la investigación de accidentes marítimos.
+
+La Comisión permanente de investigación de siniestros marítimos cooperará con los organismos de investigación de los restantes Estados miembros de la Unión Europea en la investigación de incidentes o accidentes marítimos ocurridos fuera de las aguas marítimas españolas en los que estén involucrados buques matriculados en España.
+
+## CAPÍTULO III — Notificación de mercancías peligrosas o contaminantes a bordo de buques
+
+#### Artículo 12. Requisitos de información para el transporte de mercancías peligrosas.
+
+1\. En los puertos españoles no podrá presentarse para el transporte o cargarse a bordo de un buque, con independencia de su tamaño, ninguna mercancía peligrosa o contaminante, sin la previa entrega al capitán, al operador o al agente antes de que las mercancías sean aceptadas a bordo, de una declaración que contenga la siguiente información:
+
+a) La que se enumera en el anexo I, punto 2;
+
+b) en el caso de las sustancias mencionadas en el anexo I del Convenio MARPOL, la ficha de datos de seguridad en la que se especificarán las características fisicoquímicas de los productos, incluidas, cuando proceda, la viscosidad expresada en cSt a 50 ºC y la densidad a 15 ºC, así como lo demás datos que deban figurar en ella en cumplimiento de la Resolución MSC. 286 (86) de la OMI:
+
+c) el número de teléfono de emergencia del expedidor o de cualquier otra persona u organismo que posea información sobre las características fisicoquímicas de los productos y sobre las medidas que se han de adoptar en caso de emergencia.
+
+2\. Los buques procedentes de un puerto no comunitario que entren en un puerto español y que transporten mercancías peligrosas o contaminantes deberán estar en posesión de una declaración del expedidor que contenga la información exigida en las letras a), b) y c) a las que se refiere el apartado anterior.
+
+3\. Será función y responsabilidad del expedidor facilitar al capitán, al operador o al agente dicha declaración y garantizar que la carga presentada para el transporte corresponda con la efectivamente declarada de conformidad con lo dispuesto en el apartado 1.
+
+> Se modifica el apartado 1.b) por el art. único.3 del Real Decreto 201/2012, de 23 de enero. [Ref. BOE-A-2012-1678](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1678).
+
+> Se modifica por el art. único.8 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 13. Notificación de mercancías peligrosas o contaminantes transportadas a bordo.
+
+1\. El operador, la empresa naviera, el agente o el capitán de un buque, cualquiera que sea su tamaño, que transporte mercancías peligrosas o contaminantes y abandone un puerto español notificará a la Capitanía Marítima que ejerza su competencia en dicho puerto, a más tardar en el momento de la salida, todos los datos enumerados en los apartados 2 y 3 del anexo I.
+
+2\. El operador, la empresa naviera, el agente o el capitán de un buque, cualquiera que sea su tamaño, que transporte mercancías peligrosas o contaminantes con origen en un puerto situado fuera de la Unión Europea y con destino a un puerto español o que tenga que fondear en el mar territorial español, deberá notificar la información mencionada en el apartado anterior a la Capitanía Marítima competente, antes de abandonar el puerto de carga de dichas mercancías o, si esta información no está disponible en el momento de la salida, en cuanto conozca el puerto de destino o de fondeo.
+
+3\. El intercambio de información por medios electrónicos se efectuará de acuerdo con las normas en cada caso establecidas y deberá utilizar la sintaxis y los procedimientos determinados en el anexo III.
+
+#### Artículo 14. Intercambio electrónico de datos entre los Estados miembros.
+
+El Ministerio de Fomento cooperará con las autoridades competentes de los restantes Estados miembros con objeto de asegurar la interconexión e interoperabilidad de los sistemas nacionales utilizados para gestionar la información citada en el anexo I, de acuerdo con las siguientes reglas:
+
+a) El intercambio de datos deberá efectuarse por vía electrónica y permitir la recepción y el tratamiento de mensajes notificados de conformidad con lo dispuesto en el artículo 13.
+
+b) El sistema deberá permitir la transmisión de información de modo ininterrumpido.
+
+c) Se transmitirá sin demora a la autoridad competente de cualquier otro Estado miembro que lo solicite, utilizando el SafeSeaNet, la información sobre un buque y la carga peligrosa o contaminante, en la medida en la que sea estrictamente necesario por razones de seguridad marítima o protección del medio marino.
+
+> Se modifica la letra c) por el art. único.9 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 15. Exenciones.
+
+1\. La Dirección General de la Marina Mercante podrá eximir del cumplimiento de los requisitos de los artículos 4 y 13 a los servicios regulares entre puertos españoles siempre que se cumplan las condiciones siguientes:
+
+a) Que la empresa naviera de que se trate elabore y mantenga actualizada una lista de los buques que operan dicho servicio y la comunique a la capitanía marítima.
+
+b) Que la citada empresa tenga preparada y a disposición de la capitanía marítima, por si ésta la solicitara, la información contemplada en el anexo I, apartados 1 ó 3, según proceda, para cada travesía efectuada. A tal efecto deberá establecer un sistema interno que garantice en todo momento la transmisión de esta información en formato electrónico y sin demora a la capitanía marítima, tras haber recibido el requerimiento correspondiente, de conformidad con el artículo 4.1 o con el artículo 13.3, según proceda.
+
+c) Que se notifique al puerto de destino o a la capitanía marítima, de conformidad con el artículo 4 o el artículo 13, según proceda, toda diferencia de tres o más horas con respecto a la hora probable de llegada al puerto de destino o a la estación de prácticos.
+
+d) Que solamente se concedan exenciones a buques determinados para un servicio específico.
+
+A los efectos del párrafo primero de este apartado, un servicio se considerará como regular únicamente si está previsto prestarlo durante al menos un mes.
+
+Las exenciones de los requisitos de los artículos 4 y 13 se limitarán a los viajes de una duración máxima prevista de doce horas.
+
+2\. Cuando se explote una línea regular entre España y otro u otros Estados, de los que al menos uno sea miembro de la Unión Europea, la Administración marítima española podrá solicitar del Estado o Estados miembros participantes que se otorguen exenciones a dicho servicio de línea regular.
+
+La mencionada Administración colaborará con todos los Estados miembros que participen, incluidos los Estados miembros ribereños afectados, para el otorgamiento de exenciones al servicio de que se trate, con las condiciones establecidas en el apartado 1 anterior.
+
+3\. La Dirección General de la Marina Mercante verificará periódicamente el cumplimiento de las condiciones establecidas en los apartados 1 y 2 anteriores. Si alguna de ellas dejara de cumplirse, se retirará inmediatamente la exención a la empresa afectada, sin perjuicio de las posibles sanciones que pudieran imponerse a dicha empresa.
+
+4\. La Dirección General de la Marina Mercante remitirá a la Comisión Europea una lista de empresas y buques exentos en virtud de lo dispuesto en este artículo, así como las actualizaciones de dicha lista.
+
+> Se modifica por el art. único.10 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+## CAPÍTULO IV — Seguimiento de los buques peligrosos e intervención en caso de problemas y accidentes en el mar
+
+#### Artículo 16. Transmisión de la información relativa a determinados buques.
+
+1\. Serán considerados como un riesgo potencial para la navegación o una amenaza para la seguridad marítima, la seguridad de la vida humana en el mar o para la integridad del medio ambiente marino los buques que se encuentren en alguno de los supuestos que a continuación se indican:
+
+a) Los que, en el transcurso de su travesía, se hayan visto involucrados en incidentes o accidentes descritos en el artículo 17, hayan incumplido las obligaciones de notificación e información impuestas por este real decreto o hayan incumplido las reglas aplicables en los sistemas de organización del tráfico y los STM bajo responsabilidad de la Administración marítima española.
+
+b) Aquellos respecto de los cuales se haya probado o se presuma que han efectuado vertidos voluntarios de hidrocarburos o que hayan cometido infracciones al Convenio MARPOL en aguas marítimas españolas.
+
+c) Aquellos a los que se haya denegado el acceso a uno o más puertos de algún Estado miembro de la Unión Europea, que hayan sido objeto de un informe o notificación por un Estado miembro de conformidad con el apartado 1 del anexo I del Reglamento por el que se regulan las inspecciones de buques extranjeros en puertos españoles, aprobado por el Real Decreto 91/2003, de 24 de enero.
+
+d) Los que no tengan en vigor las pólizas de seguro o la garantía financiera, o no lo hayan notificado, o carezcan de ellas, según lo dispuesto en la normativa comunitaria europea y en la normativa internacional.
+
+e) Aquellos que, según comuniquen los prácticos o la Administración portuaria competente, presenten aparentes anomalías que puedan comprometer la seguridad de la navegación o suponer un riesgo para el medio ambiente marino.
+
+2\. Las estaciones costeras españolas que tengan información relevante sobre los buques citados en el apartado 1 la comunicarán a las estaciones costeras competentes de los demás Estados miembros de la Unión Europea situados a lo largo del itinerario previsto del buque.
+
+3\. La Administración marítima transmitirá a la Administración portuaria competente y, en su caso, al organismo designado por aquélla la información recibida de otros Estados miembros respecto de buques que se encuentren en las circunstancias previstas en el apartado 1.
+
+4\. La Administración marítima, teniendo en cuenta los inspectores disponibles, llevará a cabo, de oficio o a petición de otro Estado miembro, las inspecciones o verificaciones oportunas e informarán a todos los Estados miembros interesados de los resultados de aquéllas.
+
+> Se añaden las letras d) y e) al apartado 1 por el art. único.11 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 17. Notificación de incidentes y accidentes en el mar.
+
+1\. Sin perjuicio de lo dispuesto en las normas internacionales y con objeto de prevenir o reducir riesgos significativos para la seguridad marítima, la seguridad de la vida humana en el mar o el medio ambiente marino, la Administración marítima efectuará el seguimiento y adoptará las medidas adecuadas para que los capitanes de los buques, que naveguen por la zona SAR bajo su responsabilidad o por la zona económica exclusiva, comuniquen inmediatamente a las estaciones costeras de otros Estados miembros de la Unión Europea, que se encuentren situadas en dicha zona geográfica, los extremos siguientes:
+
+a) Cualquier incidente o accidente que afecte a la seguridad del buque, tales como abordajes, varadas, daños, fallos o averías, inundaciones o corrimientos de la carga, o cualquier defecto en el casco o fallo estructural.
+
+b) Cualquier incidente o accidente que comprometa la seguridad de la navegación, tales como los fallos que puedan afectar a la maniobrabilidad o navegabilidad del buque, y los defectos de los sistemas de propulsión o aparatos de gobierno, de la instalación de producción de electricidad o de los equipos de navegación o comunicación.
+
+c) Cualquier situación que pueda desembocar en una contaminación de las aguas o del litoral de un Estado miembro, tales como vertidos o riesgo de vertidos de productos contaminantes en el mar.
+
+d) Cualquier mancha de materiales contaminantes o contenedores o bultos a la deriva observados en el mar.
+
+2\. El mensaje de aviso deberá incluir al menos la identidad del buque, su posición, el puerto de origen y el de destino, la dirección en la que pueda obtenerse información sobre mercancías peligrosas y contaminantes transportadas a bordo, el número de personas a bordo, detalles del accidente o del incidente y cualquier información pertinente mencionada en la Resolución A.851 (20) de la OMI.
+
+#### Artículo 18. Medidas en casos de condiciones meteorológicas excepcionalmente desfavorables.
+
+1\. Si las Capitanías Marítimas consideran que, en condiciones meteorológicas o del mar excepcionalmente desfavorables, existe un riesgo grave de contaminación de las aguas marítimas o de las zonas costeras españolas o de otros Estados o que existen riesgos para la vida humana, podrán adoptar las siguientes medidas:
+
+a) Facilitar al capitán de un buque que se encuentre en la zona portuaria afectada y que desee entrar o salir del puerto, siempre que ello sea posible, toda la información sobre el estado del mar y sobre las condiciones meteorológicas y, cuando sea pertinente y posible, sobre el peligro que pueden entrañar para el buque, la carga, la tripulación y los pasajeros.
+
+b) Cualesquiera otras medidas o decisiones que, sin perjuicio de la asistencia a los buques en peligro de conformidad con el artículo 20, se consideren adecuadas, tales como recomendar o prohibir, a un buque en particular o a todos los buques en general, la entrada o la salida del puerto, en las zonas afectadas, hasta que se haya determinado que ya no existen riesgos para la vida humana o para el medio ambiente.
+
+c) Limitar al máximo, o prohibir si fuera necesario, que los buques carguen combustible en terminales sitas en sus aguas territoriales.
+
+2\. El capitán informará a la empresa naviera de las medidas o recomendaciones adecuadas a que se refiere el apartado 1 que, sin embargo, no prejuzgan la decisión del capitán basada en su juicio profesional tal como establece el Convenio SOLAS.
+
+En los casos en que la decisión adoptada por el capitán no se ajuste a las medidas adoptadas en aplicación de lo previsto en el apartado 1, informará a la Capitanía Marítima competente sobre las razones que justifiquen su decisión. La Capitanía Marítima, en tal caso, podrá reconsiderar o mantener la autorización, prohibición o medida inicialmente acordada y comunicará, por cualquier medio, al capitán del buque la resolución finalmente adoptada, para su cumplimiento.
+
+3\. Las medidas adoptadas por las Capitanías Marítimas habrán de basarse en el pronóstico de las condiciones meteorológicas y del estado del mar facilitado por el Instituto Nacional de Meteorología.
+
+#### Artículo 19. Medidas relativas a los incidentes o accidentes en el mar.
+
+1\. La Administración marítima adoptará, en caso de incidente o accidente en el mar, las medidas apropiadas, de conformidad con las normas internacionales, para garantizar la seguridad marítima y de la vida humana en el mar y la protección del medio ambiente marino y costero.
+
+2\. Cuando la Administración marítima considere que, en caso de accidente o incidente de un buque de los previstos en el artículo 17, sea necesario alejar, reducir o eliminar un peligro grave e inminente que amenace al litoral o a los intereses de la zona costera afectada, a la seguridad de los demás buques, de sus tripulaciones, de los pasajeros o de las personas en tierra, o proteger el medio marino, podrá adoptar, entre otras, las medidas siguientes:
+
+a) Restringir los movimientos del buque o imponerle un rumbo determinado. Esta exigencia no afecta a la responsabilidad del capitán en lo que respecta al gobierno seguro de su buque.
+
+b) Emplazar al capitán del buque a que ponga fin al riesgo para el medio ambiente o para la seguridad marítima.
+
+c) Embarcar en el buque un equipo de evaluación con la misión de determinar el grado de riesgo, ayudar al capitán a remediar la situación y mantener informada a la estación costera competente.
+
+d) Ordenar al capitán del buque a dirigirse a un lugar de refugio en caso de peligro inminente, o imponer el practicaje o el remolque del buque a costa del operador o de la empresa naviera.
+
+3\. El operador, la empresa naviera, el capitán del buque y el propietario de las mercancías peligrosas o contaminantes transportadas a bordo deberán prestar toda la cooperación que, con respeto al ordenamiento jurídico nacional e internacional, le sea requerida por la Administración marítima con la finalidad de reducir al mínimo las consecuencias de un incidente o accidente en el mar.
+
+A tal efecto transmitirán a las autoridades competentes, si éstas así lo requiriesen, la información contemplada en el artículo 12.
+
+4\. El capitán de un buque al que se apliquen las disposiciones del Código IGS informará a la empresa naviera, con base en dicho código, de cualquier incidente o accidente a los que se refiere el apartado 1 del artículo 17. En cuanto haya sido informada de tal situación, la empresa deberá ponerse en comunicación con la estación costera competente y ponerse a su disposición en la medida necesaria.
+
+5\. Las autoridades españolas, de conformidad con el ordenamiento jurídico interno, tendrán en cuenta las disposiciones aplicables de las Directrices de la OMI sobre el trato justo a la tripulación en el caso de accidentes marítimos en aguas en las que España ejerza soberanía, derechos soberanos o jurisdicción.
+
+> Se modifica el apartado 3 y se añade el apartado 5 por el art. único.12 y 13 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 20. Autoridad competente para la acogida de buques necesitados de asistencia.
+
+1\. El Director General de la Marina Mercante, como autoridad competente para la toma de decisiones respecto de los buques necesitados de asistencia, podrá, según convenga, adoptar cualquiera de las medidas contenidas en la lista, no exhaustiva, del anexo IV, especialmente en caso de amenaza para la seguridad marítima o para el medio ambiente marino.
+
+La mencionada autoridad estará asistida por un comité técnico cuyo asesoramiento podrá recabar.
+
+Formarán parte del mismo el capitán marítimo, el jefe del distrito marítimo, los coordinadores de inspección y de seguridad marítima y cualesquiera otras personas cuyo criterio pudiera ser relevante en las decisiones a adoptar, a criterio del director general.
+
+Las deliberaciones del comité tendrán carácter confidencial.
+
+2\. La autoridad mencionada en el punto 1 anterior se reunirá periódicamente, y podrá hacerlo en cualquier momento, con las autoridades de los demás Estados miembros, con el fin de intercambiar experiencias y conocimientos técnicos e introducir mejoras en las medidas que puedan adoptarse en virtud de lo dispuesto en el apartado 1 anterior.
+
+> Se modifica por el art. único.14 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 21. Planes de acogida de buques necesitados de asistencia.
+
+1\. La Administración marítima elaborará planes para la acogida de buques necesitados de asistencia con el fin de evitar o minimizar los riesgos que presenten dichos buques cuando se encuentren en aguas en las que España ejerza soberanía, derechos soberanos o jurisdicción, especialmente cuando se vean amenazadas la vida humana en la mar y la integridad del medio ambiente marino.
+
+El Director General de la Marina Mercante participará en la elaboración de dichos planes.
+
+2\. Los planes mencionados en el apartado 1 anterior se elaborarán previa consulta de los sectores afectados, e informe, que no será determinante, de Puertos del Estado y con fundamento en las Resoluciones A. 949 (23) y A. 950 (23) de la OMI. Los citados planes incluirán, como mínimo, la siguiente información:
+
+a) Identidad de los órganos u organismos encargados de recibir y dar curso a las alertas,
+
+b) identidad de la autoridad competente de evaluar la situación, y tomar una decisión de admisión o de rechazo de un buque necesitado de asistencia en el lugar de refugio establecido;
+
+c) información sobre el litoral español y todos aquellos elementos que permitan efectuar una evaluación previa y una adopción rápida de decisiones en relación con el lugar de refugio para un buque, con inclusión de los factores ambientales, económicos y sociales, así como de las condiciones naturales;
+
+d) procedimientos de evaluación para la admisión o rechazo de un buque necesitado de asistencia en un lugar de refugio;
+
+e) medios e instalaciones adecuados para asistencia, salvamento y lucha contra la contaminación;
+
+f) procedimientos de coordinación y decisión internacionales;
+
+g) procedimientos de garantía financiera y responsabilidad establecidos respecto de los buques acogidos en un lugar de refugio.
+
+3\. La Administración marítima española publicará el nombre y dirección de contacto del Director General de la Marina Mercante así como los órganos u organismos designados para recibir y atender las alertas.
+
+4\. La citada Administración notificará a las de los Estados miembros vecinos, previa petición de éstos, la información pertinente sobre los planes de acogida.
+
+5\. La Administración marítima, al seguir los procedimientos establecidos en los planes de acogida de buques necesitados de asistencia, se ocupará de que la información pertinente se facilite a las partes implicadas en las operaciones.
+
+> Se modifica por el art. único.15 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 22. Constitución de la garantía.
+
+1\. En los supuestos en los que un buque necesitado de asistencia sea acogido en un lugar de refugio, la garantía financiera, que en su caso se exija, deberá de presentarse en una entidad bancaria con domicilio en España por el operador, la empresa naviera, el salvador del buque, el expedidor, el propietario o el receptor de la carga a favor de la Dirección General de la Marina Mercante y con sometimiento expreso a los tribunales españoles, y deberá precisarse claramente que se constituye de manera irrevocable para responder, en cualquier cuantía, de las reclamaciones de indemnización que se deriven de todos los posibles daños que pudieran ser causados a personas, entidades públicas o bienes de cualquier naturaleza por el buque o su carga como consecuencia de eventos catastróficos tales como incendio, explosión, avería, incluidos los fallos mecánicos o estructurales, abordaje, contaminación, disminución de la estabilidad o varada, entre otros.
+
+Asimismo responderá de los gastos previos en los que se incurra para evitar o minimizar dicho daño, así como del coste de las medidas de extracción o remoción del buque o de su carga y de restauración del medio ambiente costero o marino que se adopten como consecuencia del suceso o bien durante el desplazamiento del buque para entrar o salir del lugar de refugio o su estancia en éste.
+
+2\. Si no fuera posible formalizar inmediatamente la garantía, por tratarse de día inhábil u hora intempestiva, el operador, el expedidor, el salvador el agente o la persona en quien deleguen formalizará cualquier otra garantía de efectos equivalentes, a criterio de la Dirección General de la Marina Mercante, por la cuantía que corresponda de acuerdo con el baremo establecido en el artículo 23, hasta tanto sea posible prestar la garantía, en cuyo momento se procederá a la devolución de aquélla.
+
+Todo ello con independencia de los demás requisitos que para la constitución de la garantía se exijan en su normativa reguladora específica.
+
+> Se modifica por el art. único.16 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 23. Cuantía y ejecución de la garantía.
+
+1\. Para los buques tanque que transporten mercancías con las características reseñadas en el Reglamento (CE) n.o1726/2003 del Parlamento Europeo y del Consejo, de 22 de julio de 2003, por el que se modifica el Reglamento (CE) n.o417/2002 relativo a la introducción acelerada de normas en materia de doble casco o de diseño equivalente para petroleros de casco único, la cuantía de la garantía será la siguiente:
+
+Buques cuyo arqueo no exceda de 2.000 GT, hasta siete millones de euros, y por cada unidad de arqueo que exceda de 2.000 GT, hasta 10.000 euros.
+
+2\. Para el resto de los buques, la cuantía de la garantía será la siguiente:
+
+Buques cuyo arqueo no exceda de 2.000 GT, hasta 2,5 millones de euros, y por cada unidad de arqueo que exceda de 2.000 GT, hasta 600 euros.
+
+3\. El montante de la garantía, que deberá satisfacer los fines previstos en el artículo 22.2, se determinará teniendo en cuenta el costo íntegro de los daños previsibles que pudieran producirse, en razón de la naturaleza y cantidad de la carga transportada y características y estado del buque, con los límites máximos fijados en los dos apartados anteriores.
+
+4\. Si, constituida la garantía, no se ocasionaran finalmente daños ni se generaran costes de los cubiertos por aquélla, la Dirección General de la Marina Mercante liberará la garantía.
+
+En caso contrario, podrá librar cargos contra ésta por los daños o costes ocasionados. Si la cantidad ejecutada no fuera suficiente para hacer frente en cualquier cuantía a todos los daños y perjuicios ocasionados, el operador, el agente, el expedidor o el salvador satisfarán dichos daños de la manera más rápida posible.
+
+#### Artículo 24. Procedimiento de actuación.
+
+1\. La autorización de acceso de un buque a un lugar de refugio corresponde al Director General de la Marina Mercante, de conformidad con lo dispuesto en la disposición adicional vigésimo quinta de la Ley 27/1992.
+
+2\. El procedimiento se iniciará a solicitud del capitán del buque afectado o de un representante del operador o de la empresa naviera, quienes deberán indicar las razones por las que el buque está necesitado de asistencia, facilitando cuanta información estimen relevante, así como aquella otra que les sea requerida por la Capitanía Marítima.
+
+3\. La capitanía marítima realizará cuantos actos de instrucción considere necesarios para fundamentar la decisión final, incluyendo, en su caso, una inspección del buque. En particular, podrá proponer que se condicione la entrada del buque a la ponderación del conjunto de circunstancias que se precisan en la disposición transitoria segunda de este real decreto.
+
+4\. La resolución que autorice el acceso a un lugar de refugio deberá ser expresamente acordada y podrá, por causa de urgente necesidad, adoptarse verbalmente y sin sujeción a formalidades especiales, sin perjuicio de la obligación de notificar a los interesados el acto y su motivación por escrito a la mayor brevedad posible y, en todo caso, en un plazo no superior a 96 horas.
+
+5\. Contra la resolución, que pondrá fin a la vía administrativa, podrán los interesados interponer recurso de reposición.
+
+6\. En el supuesto de que no sea autorizada la entrada del buque en el lugar de refugio, la Administración marítima, si lo estimara necesario, establecerá las medidas alternativas que considere adecuadas en orden a proteger los bienes jurídicos, tanto públicos como privados, que puedan verse comprometidos por la situación precaria del buque o de su carga y por las circunstancias externas, fundamentalmente de tipo meteorológico, que afecten o puedan afectar al buque.
+
+> Se modifican los apartados 1 y 3 por el art. único.17 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 25. Sistema de seguimiento e información del tráfico marítimo (SafeSeaNet).
+
+1\. El Ministerio de Fomento establecerá sistemas de gestión de la información marítima que garanticen el tratamiento de la información prevista en este real decreto.
+
+Dichos sistemas harán posible la plena utilización de la información recogida y cumplirán, en particular, las condiciones establecidas en el artículo 14.
+
+2\. A fin de garantizar un intercambio eficaz de la información contemplada en este real decreto, el Ministerio de Fomento procurará que los sistemas mencionados, creados para recoger, tratar y conservar dicha información puedan interconectarse con el SafeSeaNet, que deberá estar operativo permanentemente y cuya descripción y principios básicos se recogen en el anexo III.
+
+3\. Sin perjuicio de lo dispuesto en el apartado 2 anterior, cuando se trate de actuaciones en el ámbito de acuerdos intracomunitarios o en el marco de acuerdos regionales o proyectos transfronterizos, interregionales o transnacionales dentro de la Unión Europea, el Ministerio de Fomento se asegurará de que los sistemas o las redes e información que se establezcan cumplan los requisitos de este real decreto y sean compatibles y estén interconectados con el sistema comunitario de intercambio de información marítima SafeSeaNet.
+
+> Se modifica por el art. único.18 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Artículo 25 bis. Información a las partes interesadas.
+
+1\. La estación costera española correspondiente transmitirá, cuando sea preciso, avisos por radio que puedan escucharse en los sectores potencialmente afectados por cualquier incidente o accidente notificado de conformidad con lo dispuesto en el artículo 17.1 e informará de la presencia de cualquier buque que constituya una amenaza a la seguridad marítima y de la vida humana en la mar o el medio ambiente.
+
+2\. Las autoridades competentes que hayan recibido información notificada con base en los artículos 13 y 17 facilitarán en todo momento esa información, previa solicitud y por razones de seguridad marítima o de prevención de la contaminación marina, a la autoridad competente de cualquier otro Estado miembro de la Unión Europea.
+
+3\. Cuando las mencionadas autoridades hayan sido informadas, de acuerdo con lo establecido en este real decreto o por cualquier otro procedimiento, de hechos que generen o incrementen el riesgo en zonas marítimas y costeras de otro Estado miembro, adoptarán las medidas pertinentes para informar de ello al Estado afectado y para consultarle sobre las actuaciones previstas.
+
+Llegado el caso, serán adoptadas las modalidades de una intervención común por las autoridades competentes españolas en cooperación con las de otros Estados miembros.
+
+> Se añade por el art. único.19 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+## CAPÍTULO V — Medidas complementarias
+
+#### Artículo 26. Publicidad e información relativas a los organismos competentes.
+
+La Administración marítima informará periódicamente al sector marítimo sobre aquellos datos que se estimen relevantes, en especial acerca de la zona geográfica de competencia de los diferentes órganos responsables, de los procedimientos para notificar la información prevista en este real decreto y sus destinatarios.
+
+#### Artículo 27. Medidas de policía administrativa.
+
+La Administración marítima podrá denegar la entrada en puerto de aquellos buques que falseen, no trasmitan o transmitan de forma incorrecta o incompleta la información regulada en este real decreto, cuando ello comprometa gravemente la seguridad de la navegación marítima o suponga un peligro grave para el medio ambiente marino.
+
+#### Artículo 28. Inspecciones, sanciones y transmisión de la información.
+
+1\. Se inspeccionará periódicamente el funcionamiento de los sistemas telemáticos establecidos en cumplimiento de este real decreto y, en particular, su capacidad para cumplir los requisitos de recepción y envío sin demora, de forma ininterrumpida, de la información notificada según lo dispuesto en los artículos 13 y 16.
+
+2\. Las acciones y omisiones que contravengan lo dispuesto en este real decreto constituyen infracciones administrativas tipificadas en el capítulo III del título IV de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+
+3\. La Administración marítima informará sin demora al Estado de abanderamiento y a cualquier otro Estado afectado de las medidas adoptadas en aplicación de lo dispuesto en los artículos 17 y 19 y de las sanciones, en su caso, impuestas.
+
+4\. Cuando, con ocasión de un incidente o accidente a los que se refiere el artículo 17, se compruebe que la empresa naviera no ha podido establecer ni mantener un enlace con el buque o con las estaciones costeras competentes, la Administración marítima informará de ello al Estado que haya expedido o en cuyo nombre se haya expedido el documento IGS de conformidad y el certificado asociado de gestión de la seguridad.
+
+5\. Si la gravedad del fallo demuestra la existencia de un defecto importante en el funcionamiento del sistema de gestión de la seguridad de una empresa naviera establecida en España, la Dirección General de la Marina Mercante iniciará de inmediato el procedimiento de revocación del documento de conformidad o del certificado asociado de gestión de la seguridad que hayan sido expedidos en España.
+
+#### Disposición adicional primera. Confidencialidad de la información.
+
+La Administración marítima y, en su caso, la Administración portuaria competente, de conformidad con la normativa interna española o comunitaria europea adoptarán las medidas necesarias para asegurar la confidencialidad de la información que les sea transmitida en aplicación de este real decreto y la utilizarán exclusivamente cumpliendo lo dispuesto en la disposición adicional vigésimo quinta de la Ley 27/1992.
+
+> Se modifica por el art. único.20 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Disposición adicional segunda. Sistema EDI de transmisión de información.
+
+La transmisión de la información que los capitanes, navieros u operadores de los buques deban de cursar a las autoridades portuarias o marítimas, así como la que se curse por estas últimas a las de los restantes Estados miembros de la Unión Europea se hará, preferentemente, a través del sistema EDI.
+
+#### Disposición adicional tercera. Extinción de exenciones.
+
+Quedan extinguidas las exenciones concedidas a los transbordadores de carga rodada o a las naves de pasaje de gran velocidad en virtud del artículo 4.d) del Reglamento sobre reconocimientos obligatorios para garantizar la seguridad de la navegación de determinados buques de pasaje, aprobado por el Real Decreto 1907/2000, de 24 de noviembre.
+
+#### Disposición adicional cuarta. Buques de titularidad pública.
+
+Por orden del Ministro de Fomento se determinará el procedimiento conforme al cual los buques de titu laridad o uso públicos a los que se refiere el artículo 2.2 pueden acceder a los lugares de refugio. La orden ministerial será aprobada conjuntamente por los Ministros de Defensa y de Fomento cuando los citados buques estén adscritos a la defensa nacional.
+
+#### Disposición adicional quinta. Aprobación de planes y protocolos sobre lugares de refugio.
+
+En el plazo de dos años la Administración marítima adaptará los planes existentes a las directrices de la OMI y aprobará los planes y protocolos sobre lugares de refugio previstos en este real decreto, que deberán abarcar todo el litoral español.
+
+Dicha operación se llevará a cabo con criterios homogéneos a los seguidos por las autoridades competentes de los demás Estados miembros de la Unión Europea.
+
+#### Disposición adicional sexta. Regulación de las comunicaciones.
+
+Para garantizar la efectividad de las obligaciones de cooperación en materia de intercambio de información a las que se refiere el artículo 14, por orden del Ministro de Fomento se regularán las comunicaciones entre las autoridades competentes nacionales, y entre éstas y las de los Estados miembros de la Unión Europea.
+
+El ente público Puertos del Estado actuará como enlace de comunicación, y le corresponderá el establecimiento y mantenimiento de los necesarios sistemas de información e intercambio de datos.
+
+#### Disposición transitoria primera. Plazo de establecimiento de los equipos e instalaciones.
+
+1\. La Administración marítima pondrá en funcionamiento gradualmente, de acuerdo con el calendario previsto en la sección I del anexo II, los equipos e instalaciones en tierra adecuados para recibir y utilizar la información de los sistemas SIA, teniendo en cuenta el radio de acción necesario para la transmisión de dicha información.
+
+2\. El proceso de establecimiento de los equipos y de las instalaciones en tierra a los que se refiere el artículo 9 habrá de culminarse no más tarde del 31 de diciembre de 2007 y deberá estar en condiciones para transmitir la información e intercambiarla con los sistemas de los restantes Estados miembros de la Unión Europea un año después.
+
+3\. Las Administraciones marítima y portuaria coordinarán el posible aprovechamiento de los sistemas SIA como elementos de señalización marítima y ayuda a la navegación.
+
+> Se numera por el art. único.21 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+> Su anterior numeración era disposción transitoria única.
+
+#### Disposición transitoria segunda. Circunstancias para la acogida de buques en lugares de refugio.
+
+Hasta tanto no se elaboren los planes de acogida, la Dirección General de la Marina Mercante, con el fin de valorar si procede la acogida de un buque necesitado de asistencia en un lugar de refugio, evaluará las circunstancias que concurran en cada caso teniendo en cuenta los siguientes elementos de juicio:
+
+a) Navegabilidad del buque, en particular: flotabilidad, estabilidad, disponibilidad de medios de propulsión y de producción de energía y capacidad de atraque.
+
+b) Naturaleza y estado de la carga, provisiones y combustible y, en particular, mercancías peligrosas.
+
+c) Distancia y tiempo estimado de navegación hasta un lugar de refugio.
+
+d) Presencia o ausencia del capitán en el buque y colaboración en el siniestro de toda la dotación con las Autoridades competentes.
+
+e) Número de los demás tripulantes u otras personas que se encuentran a bordo en funciones de auxilio o por cualquier otro motivo y una evaluación de los factores humanos, incluida la fatiga.
+
+f) Si el buque está o no asegurado, incluida la responsabilidad civil. Si lo estuviera, identificación del asegurador, y los límites de responsabilidad aplicables si los hubiera.
+
+g) Renuncia al beneficio de limitación o exoneración de responsabilidad por parte de quien lo invoque para el caso de aceptación del refugio.
+
+h) Conformidad del capitán, operador o de la empresa naviera con las propuestas de la Administración marítima sobre continuar la travesía o dirigirse a un lugar de refugio.
+
+i) Conformidad y justificación técnica de la sociedad de clasificación emisora del correspondiente certificado de clase, así como de los salvadores, si los hubiera, en cuanto a continuar la travesía o dirigirse a un lugar de refugio.
+
+j) Prestación de la garantía financiera que, en su caso, se haya exigido o cumplimiento de las medidas provisionales al respecto.
+
+k) Contratos de salvamento suscritos por el capitán, operador o empresa naviera.
+
+l) Información sobre las intenciones del capitán o la empresa que vaya a prestar el salvamento, o de ambos.
+
+m) Designación de un representante de la empresa naviera en España con aceptación de su domicilio para notificaciones.
+
+> Se añade por el art. único.22 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 1253/1997, de 24 de julio, sobre condiciones mínimas exigidas a los buques que transporten mercancías peligrosas o contaminantes con origen o destino en puertos marítimos nacionales, y el Real Decreto 701/1999, de 30 de abril, que modifica el anterior, así como cuantas disposiciones del mismo e inferior rango se opongan a lo dispuesto en este real decreto.
+
+#### Disposición final primera. Habilitación competencial.
+
+Este real decreto se dicta al amparo de la competencia atribuida al Estado por el artículo 149.1.20.ª de la Constitución en materia de marina mercante.
+
+#### Disposición final segunda. Facultad de desarrollo.
+
+Se autoriza al Ministro de Fomento a dictar las disposiciones necesarias para el desarrollo y aplicación de lo dispuesto en este real decreto.
+
+En particular, se faculta al Ministro de Fomento para adaptar el contenido de los anexos a las necesidades de protección de la seguridad y de la prevención y lucha contra la contaminación del medio marino y a lo que establezcan las normas internacionales en dicha materia.
+
+Se faculta igualmente al titular del citado Departamento para introducir en los anexos las modificaciones técnicas derivadas de los cambios en la normativa internacional, especialmente las que se adopten a iniciativa del Comité de seguridad marítima y prevención de la contaminación para los buques («Comité COSS»), creado por el Reglamento (CE) n.º 2099/2002, de 5 de noviembre.
+
+> Se modifica por el art. único.4 del Real Decreto 201/2012, de 23 de enero. [Ref. BOE-A-2012-1678](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1678).
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Dado en Madrid, a 6 de febrero de 2004.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO I — Lista de la información que deberá notificarse
+
+1\. Información que deberá notificarse con base en el artículo 4. Información general.
+
+a) Identificación del buque (nombre, distintivo de llamada, número OMI de identificación o número MMSI).
+
+b) Puerto de origen y de destino.
+
+c) Día y hora probable de llegada al puerto de destino o a la zona de espera de los buques y de embarque y desembarque de los prácticos según lo requiera la autoridad competente, y día y hora probable de salida de dicho puerto.
+
+d) Número total de personas a bordo.
+
+e) Copia del certificado de gestión de la seguridad (IGS).
+
+2\. Información que deberá notificarse con base en el artículo 12. Información sobre la carga.
+
+a) La denominación técnica correcta de las mercancías peligrosas o contaminantes, los números de las Naciones Unidas, cuando existan, precedidos de las letras "UN", las categorías de riesgo según la OMI, siguiendo la nomenclatura de los Códigos IMDG, CIQ y CIG y, en su caso, la clase del buque necesario para las cargas CNI, tal como se definen en la regla 14.2 del capítulo VII del Convenio SOLAS, las cantidades de dichas mercancías y, si se están transportando en unidades de transporte de carga que no sean cisternas, su número de identificación. Dirección en la que pueda obtenerse información detallada sobre la carga. Estos datos no sustituyen a la documentación que se debe de presentar de conformidad con el Código IMDG, cuando éste sea de aplicación.
+
+b) Cualquier otra información detallada y relevante, especialmente a efectos de las decisiones que hubieren de adoptarse en casos de emergencia.
+
+3\. Información que deberá notificarse con base en el artículo 13.
+
+A. Información general.
+
+a) Identificación del buque (nombre, distintivo de llamada, número OMI de identificación o número MMSI).
+
+b) Puerto de origen y de destino, con especificación de quiénes sean el expedidor y el receptor concreto de la carga.
+
+c) Para un buque que abandone un puerto español, hora probable de salida del puerto de salida o de la zona de espera de los buques y de embarque y desem barque de los prácticos según lo requiera la autoridad competente, y hora probable de llegada al puerto de destino.
+
+d) Para un buque procedente de un puerto situado fuera de la Unión Europea y con destino a un puerto español, hora probable de llegada al puerto de destino o a la zona de espera de los buques y de embarque y desembarque de los prácticos según lo requiera la autoridad competente.
+
+e) Número total de personas a bordo.
+
+f) Sociedad de clasificación, con expresión de la fecha de su entrada en dicha sociedad.
+
+B. Información relativa a la carga.
+
+a) Ficha de datos de seguridad con la denominación técnica correcta de las mercancías peligrosas o contaminantes, los números de las Naciones Unidas, cuando existan, precedidos de las letras "UN", las categorías de riesgo según la OMI siguiendo la nomenclatura de los Códigos IMDG, CIQ y CIG y, en su caso, la clase del buque tal como la defina el Código CNI, tal como se define en la regla 14.2 del capítulo VII del Convenio SOLAS, las cantidades de dichas mercancías, su localización a bordo y, si se están transportando en unidades de transporte de carga que no sean cisternas, su número de identificación ; procedimientos de emergencia previstos en la hoja de seguridad de la mercancía, así como la dirección en la que se pueda obtener información detallada sobre la carga.
+
+b) Confirmación de que se encuentra a bordo una lista o un manifiesto o un plan apropiado de carga que dé detalles de las mercancías peligrosas o contaminantes transportadas y de su situación en el buque.
+
+c) Cualquier otra información detallada y relevante, especialmente a efectos de las decisiones que hubieren de adoptarse en casos de emergencia.
+
+4\. Información referida en el artículo 5.
+
+A. Identificación del buque (nombre, distintivo de llamada, número OMI o número MMSI).
+
+B. Fecha y hora.
+
+C o D. Posición en latitud y longitud o demora verdadera y distancia en millas náuticas a una marca en tierra claramente identificada.
+
+E. Rumbo.
+
+F. Velocidad.
+
+I. Puerto de destino y hora estimada de llegada.
+
+P. Carga y, si hay mercancías peligrosas a bordo, cantidad y clase OMI.
+
+T. Nombre, dirección y otros datos de contacto del propietario y la compañía del buque para obtener información relativa a la carga.
+
+W. Número total de personas a bordo.
+
+X. Varios:
+
+1\. Características y cantidad estimada de combustible, para los buques de arqueo bruto superior a 1.000.
+
+2\. Condiciones de navegación.
+
+3\. Uno o varios certificados de seguro, expedidos por su proveedor y transportados a bordo del buque, que acrediten la existencia de un seguro para las reclamaciones de derecho marítimo, de conformidad con el artículo 5 del Real Decreto 1616/2011, de 14 de noviembre, por el que se regula el seguro de los propietarios de los buques civiles para reclamaciones de derecho marítimo.
+
+4\. Certificados de responsabilidad civil expedidos de conformidad con los siguientes convenios:
+
+a) El Convenio Internacional sobre responsabilidad civil nacida de daños debidos a contaminación por hidrocarburos, 1992, en su versión vigente (Convenio de Responsabilidad Civil, 1992).
+
+b) El Convenio Internacional sobre responsabilidad civil nacida de daños debidos a contaminación por hidrocarburos para combustible de los buques, 2001 (Convenio Bunkers, 2001).
+
+c) El Convenio Internacional de Nairobi sobre la remoción de restos de naufragio, 2007 (Convenio de Nairobi, 2007).
+
+> Se modifica el apartado 4 por el art. único de la Orden TRM/1376/2025, de 25 de noviembre. [Ref. BOE-A-2025-24551](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24551)
+
+> Se modifica la letra L del apartado 4 por el art. único.23 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+## ANEXO II — Prescripciones aplicables al equipo de a bordo
+
+I. Buques pesqueros.
+
+Los buques pesqueros de eslora total superior a 15 metros estarán equipados de un sistema de identificación automática (SIA) según lo dispuesto en el artículo 6 bis, con arreglo al siguiente calendario:
+
+– Buques pesqueros de eslora total, igual o superior a 24 metros e inferior a 45 metros: no más tarde del 31 de mayo de 2012.
+
+– Buques pesqueros de eslora total igual o superior a 18 metros e inferior a 24 metros: no más tarde del 31 de mayo de 2013.
+
+– Buques pesqueros de eslora total superior a 15 metros e inferior a 18 metros no más tarde del 31 de mayo de 2014.
+
+– Los buques pesqueros de nueva construcción y eslora superior a 15 metros se atendrán a lo dispuesto en el artículo 6 bis a partir del 30 de noviembre de 2010.
+
+II. Buques que realizan travesías internacionales.
+
+Los buques de pasaje, cualquiera que sea su tamaño, así como todos los buques que no sean de pasaje de arqueo bruto igual o superior a 300 toneladas, que realicen travesías internacionales y hagan escala en un puerto español, llevarán instalado un sistema de identificación automática (SIA) de conformidad con las normas técnicas y de rendimiento establecidas en el capítulo V del Convenio SOLAS. Los buques de pasaje, cualquiera que sea su tamaño, así como todos los buques que no sean de pasaje de arqueo bruto igual o superior a 3.000 toneladas, que realicen travesías internacionales y hagan escala en un puerto español, llevarán instalado un registrador de datos de la travesía (RDT) de conformidad con las normas técnicas y de rendimiento establecidas en el capítulo V del Convenio SOLAS. En los buques de carga construidos antes del 1 de julio de 2002, el RDT podrá ser un registrador de datos de la travesía simplificado (RDT-S) que cumpla las normas técnicas y de rendimiento elaboradas con arreglo al capítulo V del Convenio SOLAS.
+
+III. Buques que realizan travesías no internacionales.
+
+1\. Sistemas de identificación automática (SIA).
+
+Los buques de pasaje, cualquiera que sea su tamaño, así como todos los demás buques de arqueo bruto igual o superior a 300 toneladas, que realicen travesías no internacionales, llevarán instalado un sistema de identificación automática (SIA) que cumpla las normas técnicas y de rendimiento establecidas en el capítulo V del Convenio SOLAS.
+
+2\. Sistemas de registro de datos de la travesía (RDT).
+
+a) Los buques de pasaje, cualquiera que sea su tamaño, así como todos los buques que no sean de pasaje de arqueo bruto igual o superior a 3.000 toneladas construidos a partir del 1 de julio de 2002 que realicen travesías no internacionales, llevarán instalado un registrador de datos de la travesía (RDT) que cumpla las normas técnicas y de rendimiento elaboradas de conformidad con el capítulo V del Convenio SOLAS.
+
+b) Los buques de carga de arqueo bruto igual o superior a 3.000 toneladas construidos antes del 1 de julio de 2002 que realicen travesías no internacionales llevarán instalado un registrador de datos de la travesía (RDT) o un registrador de datos de la travesía simplificado (RDT-S) que cumpla las normas técnicas y de rendimiento elaboradas de conformidad con el capítulo V del Convenio SOLAS.
+
+IV. Exenciones.
+
+1\. Exenciones de la obligación de llevar un SIA a bordo.
+
+a) La Dirección General de la Marina Mercante, siempre que no se pongan en riesgo la seguridad marítima ni la integridad del medio marino, podrá eximir de la aplicación de las prescripciones relativas al SIA que figuran en el presente anexo a los buques de pasaje de menos de 15 metros de eslora o arqueo bruto inferior a 300 toneladas dedicados a travesías no internacionales.
+
+b) La Dirección General de la Marina Mercante, siempre que no se pongan en riesgo la seguridad marítima ni la integridad del medio marino, podrá eximir de la obligación de llevar instalado un SIA establecida en el presente anexo a los buques distintos de los de pasaje, de arqueo bruto igual o superior a 300 toneladas pero inferior a 500 toneladas que naveguen exclusivamente por aguas marítimas interiores españolas fuera de las rutas normalmente utilizadas por otros buques provistos de SIA.
+
+2\. Exenciones de la obligación de llevar a bordo un registrador de los datos de la travesía (RDT) o un registrador de datos de la travesía simplificado (RDT-S).
+
+La Dirección General de la Marina Mercante, siempre que no se pongan en riesgo la seguridad marítima ni la integridad del medio marino, podrá conceder exenciones a la obligación de llevar instalado un RDT o un RDT-S, en los supuestos que se indican a continuación:
+
+a) Los buques de pasaje que únicamente realicen travesías por zonas marítimas no incluidas en la clase A mencionada en el artículo 4 del Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles podrán ser eximidos de la obligación de llevar instalado un RDT.
+
+b) Los buques que no sean buques de pasaje de transbordo rodado y hayan sido construidos antes del 1 de julio de 2002 podrán ser eximidos de la obligación de llevar instalado un RDT siempre que se demuestre que la interfaz de un RDT con los aparatos existentes del buque no es razonable ni factible.
+
+c) Los buques de carga construidos antes del 1 de julio de 2002 que realicen travesías tanto internacionales como no internacionales, podrán ser eximidos de la obligación de llevar instalado un RDT-S en caso en que vayan a ser retirados permanentemente del servicio durante los dos años siguientes a la fecha de aplicación especificada en el capítulo V del Convenio SOLAS.
+
+> Se modifica por el art. único.5 y anexo I del Real Decreto 201/2012, de 23 de enero. [Ref. BOE-A-2012-1678](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1678).
+
+> Se añade el apartado 3 al punto I por el art. único.24 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+## ANEXO III
+
+**Mensajes electrónicos y sistema de la Unión de intercambio de información marítima (SafeSeaNet)**
+
+1\. Concepto general y arquitectura
+
+El sistema de la Unión de intercambio de información marítima, SafeSeaNet, permitirá la recepción, el almacenamiento, la recuperación y el intercambio de información para la seguridad marítima, la protección portuaria y marítima, la protección del medio marino y la eficacia del tráfico y del transporte marítimos.
+
+SafeSeaNet es un sistema especializado creado para facilitar el intercambio de información en formato electrónico entre los Estados miembros y para proporcionar a la Comisión y a los Estados miembros la información pertinente según la normativa de la Unión. Se compone de una red de sistemas nacionales SafeSeaNet que se encuentran en los Estados miembros y un SafeSeaNet central que actúa de punto nodal.
+
+La red de la Unión de intercambio de información marítima vinculará todos los sistemas nacionales SafeSeaNet, establecidos en cumplimiento de la Directiva 2014/100/UE de la Comisión, de 28 de octubre de 2014, por la que se modifica la Directiva 2002/59/CE del Parlamento Europeo y del Consejo, relativa al establecimiento de un sistema comunitario de seguimiento y de información sobre el tráfico marítimo, e incluirá el sistema central SafeSeaNet.
+
+2\. Gestión, funcionamiento, desarrollo y mantenimiento
+
+2.1 Responsabilidades.
+
+2.1.1 Sistema nacional de SafeSeaNet.
+
+Puertos del Estado establecerá y mantendrá un sistema nacional de SafeSeaNet que permita el intercambio de información marítima y portuaria entre usuarios autorizados bajo la responsabilidad del Ministerio de Fomento, que será la autoridad nacional competente de España (ANC).
+
+La ANC será responsable de la gestión del sistema nacional, que incluye la coordinación de usuarios y suministradores de datos a nivel nacional, así como de garantizar que se designe UN LOCODES y que se establezca y mantenga la infraestructura informática nacional necesaria y los procedimientos descritos en el documento de control de la interfaz y de las funcionalidades al que se hace referencia en el punto 2.3.
+
+El sistema nacional SafeSeaNet permitirá la interconexión de usuarios, autorizados bajo la responsabilidad de la ANC y deberá ser accesible para los participantes en el transporte marítimo identificados (propietarios de buques, agentes, capitanes, operadores y otros) siempre que cuenten con la autorización de la ANC, en particular para facilitar la presentación y recepción de informes por vía electrónica de conformidad con la legislación de la Unión Europea.
+
+El sistema nacional SafeSeaNet permitirá también la interconexión con el «Sistema de Información y vigilancia Integrado para el Conocimiento del Entorno Marítimo» de la Armada, con el objeto de facilitar el cumplimiento de lo establecido en el punto 3 de la disposición adicional quinta del Texto Refundido de la Ley Puertos del Estado y Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre, relativo a la comunicación por parte de la Dirección General de la Marina Mercante a la Armada de las posiciones geográficas de los buques mercantes españoles en navegación.
+
+2.1.2 Sistema central SafeSeaNet.
+
+La Comisión es responsable de la gestión y el desarrollo a nivel de política del sistema central SafeSeaNet y de la supervisión del sistema SafeSeaNet, en cooperación con los Estados miembros mientras que, de conformidad con el Reglamento (CE) no 1406/2002 del Parlamento Europeo y del Consejo <sup>1</sup>, la Agencia Europea de Seguridad Marítima, en cooperación con los Estados miembros y la Comisión, es responsable tanto de la ejecución técnica y de la documentación de SafeSeaNet como del desarrollo, funcionamiento e integración de los mensajes electrónicos y los datos, así como del mantenimiento de las interfaces con el sistema central SafeSeaNet, incluidos los datos AIS recogidos por satélite, y los diferentes sistemas de información establecidos en la Directiva 2014/100/UE, según lo dispuesto en el punto 3.
+
+<sup>1</sup> Reglamento (CE) N.º 1406/2002 del Parlamento Europeo y del Consejo, de 27 de junio de 2002, por el que se crea la Agencia Europea de Seguridad Marítima (DO L 208 de 5.8.2002, p. 11).
+
+El sistema central SafeSeaNet, que actúa como punto nodal, interconectará todos los sistemas nacionales SafeSeaNet y establecerá la infraestructura informática necesaria y los procedimientos tal como se describen en el documento de control de la interfaz y de las funcionalidades al que se hace referencia en el punto 2.3.
+
+2.2 Principios de gestión.
+
+La Comisión creará un grupo de gestión de alto nivel, compuesto por representantes de los Estados miembros y de la Comisión, que adoptará su reglamento interno y que tendrá las siguientes funciones:
+
+– Formular recomendaciones para mejorar la eficacia y la seguridad del sistema.
+
+– Facilitar orientaciones adecuadas para el desarrollo del sistema.
+
+– Asistir a la Comisión en la revisión del rendimiento del sistema.
+
+– Facilitar orientaciones adecuadas para el desarrollo de la plataforma de intercambio de datos interoperable que combina información de SafeSeaNet con información de otros sistemas de información según lo dispuesto en el punto 3.
+
+– Aprobar el documento de control de la interfaz y de las funcionalidades a que se hace referencia en el punto 2.3 y sus futuras modificaciones.
+
+– Adoptar directrices para la recogida y difusión de información a través de SafeSeaNet relacionadas con las autoridades competentes designadas por los Estados miembros para desempeñar las funciones pertinentes conforme a la Directiva 2014/100/UE.
+
+– Coordinarse con otros grupos de trabajo pertinentes, en especial con el grupo para la simplificación administrativa marítima y los servicios de información electrónica.
+
+2.3 Documento de control de la interfaz y de las funcionalidades y documentación técnica.
+
+La Comisión desarrollará y mantendrá, en estrecha cooperación con los Estados miembros, un documento de control de la interfaz y de las funcionalidades (IFCD).
+
+Este IFCD describirá en detalle los requisitos de rendimiento y los procedimientos aplicables a los elementos nacionales y centrales del sistema SafeSeaNet con el fin de garantizar el cumplimiento de la legislación pertinente de la Unión.
+
+El IFCD incluirá reglas sobre las siguientes materias:
+
+– Orientaciones en materia de derechos de acceso para la gestión de la calidad de los datos.
+
+– La integración de datos, a que se refiere el punto 3, y su distribución a través del sistema SafeSeaNet.
+
+– Procedimientos operativos de la Agencia y de los Estados miembros que definen los mecanismos de control de calidad de los datos de SafeSeaNet.
+
+– Especificaciones en materia de seguridad de la transmisión y de intercambio de datos.
+
+– El archivo de la información a nivel nacional y central.
+
+El IFCD indicará los medios de almacenamiento y la disponibilidad de la información sobre productos peligrosos y contaminantes relativos a los servicios regulares para los que se haya otorgado una exención de conformidad con el artículo 15 de este Real Decreto.
+
+La Agencia, en cooperación con los Estados miembros, elaborará y mantendrá la documentación técnica relativa a SafeSeaNet, como las normas sobre el formato de intercambio de datos, la interoperabilidad con otros sistemas y aplicaciones, los manuales para los usuarios, las especificaciones de seguridad de la red y las bases de datos de consulta utilizadas para el apoyo de obligaciones de información.
+
+3\. Intercambio y uso compartido de datos
+
+El sistema utilizará normativa industrial y tendrá la capacidad de interactuar con los sistemas públicos y privados utilizados para crear, facilitar o recibir información en el marco del SafeSeaNet.
+
+La Comisión y los Estados miembros cooperarán para examinar la viabilidad y el desarrollo de funcionalidades que, en la medida de lo posible, garanticen que los suministradores de datos, incluidos capitanes, propietarios de buques, agentes, operadores, cargadores y las autoridades competentes únicamente tengan que transmitir la información una sola vez, teniendo en cuenta las obligaciones establecidas en la Directiva 2010/65/UE (1) y en otras normas aplicables de la Unión.
+
+(1) Directiva 2010/65/UE del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, sobre las formalidades informativas exigibles a los buques a su llegada o salida de los puertos de los Estados miembros y por la que se deroga la Directiva 2002/6/CE (DO L 283 de 29.10.2010, p. 1).
+
+Puertos del Estado se asegurará de que la información transmitida sea accesible para su uso en todos los sistemas pertinentes de información, notificación y uso compartido de información, y en el sistema de seguimiento y de información sobre el tráfico marítimo (VTMIS). A estos efectos el formato de puesta a disposición, la estructura y la sintaxis se establecerán por Resolución del Presidente de Puertos del Estado.
+
+Puertos del Estado desarrollará y mantendrá las interfaces necesarias para la transmisión de datos por vía electrónica a SafeSeaNet. El sistema central SafeSeaNet se utilizará para la distribución de mensajes electrónicos y para el intercambio o difusión de datos de conformidad con la Directiva 2014/100/UE y con la legislación pertinente de la Unión, en particular:
+
+– La Directiva 2000/59/CE del Parlamento Europeo y del Consejo, de 27 de noviembre de 2000, sobre instalaciones portuarias receptoras de desechos generados por buques y residuos de carga (2), por lo que respecta a su artículo 12, apartado 3,
+
+(2) DO L 332 de 28.12.2000, p. 81.
+
+– La Directiva 2005/35/CE del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, relativa a la contaminación procedente de buques y a la introducción de sanciones, incluidas las sanciones penales, para las infracciones de contaminación (3), por lo que respecta a su artículo 10,
+
+(3) DO L 255 de 30.9.2005, p. 11.
+
+– La Directiva 2009/16/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, sobre el control de los buques por el Estado rector del puerto (4), por lo que respecta a su artículo 24,
+
+(4) DO L 131 de 28.5.2009, p. 57.
+
+– La Directiva 2010/65/UE del Parlamento Europeo y del Consejo, de 20 de octubre de 2010, sobre las formalidades informativas exigibles a los buques a su llegada o salida de los puertos de los Estados miembros y por la que se deroga la Directiva 2002/6/CE, en la medida en que sea aplicable su artículo 6.
+
+La utilización del sistema SafeSeNet deberá facilitar el funcionamiento y establecimiento de un espacio europeo de transporte marítimo sin barreras.
+
+Cuando la normativa internacional admita el encaminamiento de la información LRIT relativa a buques de terceros países, las redes SafeSeaNet se utilizarán para distribuir entre los Estados miembros, con un nivel de seguridad adecuado, la información LRIT recibida de conformidad con el artículo 6 *ter*de este Real Decreto.
+
+4\. Seguridad y derechos de acceso
+
+El sistema español de SafeSeaNet cumplirá los requisitos de este real decreto relativos a la confidencialidad de la información, así como los principios de seguridad y las especificaciones descritas en el IFCD respecto a los derechos de acceso.
+
+Puertos del Estado identificará a todos los usuarios a los que, de conformidad con el IFCD, se atribuirán un papel y una serie de derechos de acceso.
+
+> Se sustituye por el art. único de la Orden FOM/2380/2015, de 6 de noviembre. [Ref. BOE-A-2015-12167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12167).
+
+> Se modifica el apartado 2.1.1 por la disposición final 4 del Real Decreto 1334/2012, de 21 de septiembre. [Ref. BOE-A-2012-11895](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11895).
+
+> Se modifica por el art. único.25 del Real Decreto 1593/2010, de 26 de noviembre. [Ref. BOE-A-2010-18370](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-18370).
+
+## ANEXO IV — Medidas que pueden adoptarse en caso de amenaza para la seguridad marítima y el medio ambiente
+
+(En aplicación del artículo 19, apartado 1)
+
+Cuando, a raíz de un incidente o de circunstancias como las descritas en el artículo 17 que involucren a un buque, la Administración marítima considere que, de conformidad con el derecho internacional, sea necesario evitar, reducir o eliminar una amenaza grave e inminente que pese sobre su litoral o intereses anejos, la seguridad de los demás buques y de sus tripulaciones y pasajeros o de las personas en tierra, o que se debe de proteger el medio marino podrá, entre otras cosas:
+
+a) Restringir los movimientos del buque u ordenarle que siga un rumbo determinado, sin que esta decisión afecte a la responsabilidad del capitán en lo que respecta al gobierno seguro de su buque.
+
+b) Emplazar al capitán del buque a que ponga fin a la amenaza para el medio ambiente o la seguridad marítima.
+
+c) Enviar a bordo del buque a un equipo de evaluación con la misión de determinar el grado de riesgo, de ayudar al capitán a remediar la situación y de mantener informada a la estación costera competente.
+
+d) Ordenar al capitán dirigirse a un lugar de refugio en caso de peligro inminente, o imponer el practicaje o el remolque del buque a costa del operador o de la empresa naviera.
+
+e) Cualesquiera otras medidas que la Administración marítima considere necesarias para salvaguardar la vida humana en la mar y la protección y lucha contra la contaminación del medio marino.
+
+En el caso de que el buque esté siendo remolcado en virtud de un acuerdo de remolque o salvamento, las medidas adoptadas por la Administración marítima según lo dispuesto en las letras a) y d) podrán aplicarse asimismo a las empresas de asistencia, salvamento y remolque involucradas.
+
+> Se modifica por el art. único.5 y anexo II del Real Decreto 201/2012, de 23 de enero. [Ref. BOE-A-2012-1678](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-1678).

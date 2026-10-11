@@ -1,0 +1,143 @@
+---
+title: "Resolución de 16 de noviembre de 1998, de la Secretaría de Estado de Seguridad, por la que se aprueban los modelos oficiales de los Libros-Registro que se establecen en el Reglamento de Seguridad Privada"
+identifier: "BOE-A-1998-28505"
+eli: "https://www.boe.es/eli/es/res/1998/11/16/(3)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 1998-11-16
+published: 1998-12-10
+in_force_from: 1998-12-11
+last_amended: 2024-10-21
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 295"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-28505"
+retrieved: 2026-10-11
+---
+
+# Resolución de 16 de noviembre de 1998, de la Secretaría de Estado de Seguridad, por la que se aprueban los modelos oficiales de los Libros-Registro que se establecen en el Reglamento de Seguridad Privada
+
+El Reglamento de Seguridad Privada, aprobado por Real Decreto 2364/1994, de 9 de diciembre, determina que los diferentes Libros-Registro, cuyas características describe en distintos artículos, se ajustarán al modelo que apruebe el Ministerio de Justicia e Interior.
+
+El artículo 19 recoge los Libros-Registro que obligatoriamente deberán llevar las empresas de seguridad, los cuales son: El de contratos, el de personal de seguridad, el libro catálogo de medidas de seguridad y el de comunicaciones a las Fuerzas y Cuerpos de Seguridad.
+
+De igual modo, a las empresas de seguridad autorizadas para el ejercicio de determinadas actividades, se les exige Libros-Registro específicos como son: en las de vigilancia y protección, el de entrada y salida de armas (artículo 25); en las de protección de personas, el de escoltas (artículo 30); en las de depósito de objetos valiosos o peligrosos, el de depósitos (artículo 31); en las de transporte y distribución de objetos valiosos o peligrosos, el de transporte y el de títulos-valores (artículos 34 y 35); en las de instalación y mantenimiento de aparatos y dispositivos de sistemas de seguridad, el de revisiones (artículo 43) y en las de explotación de centrales de alarmas, el de alarmas (artículo 51).
+
+Por otro lado, los titulares de instalaciones de seguridad y las entidades o establecimientos obligados a tener medidas de seguridad electrónicas llevarán el libro-catálogo de instalaciones y revisiones (artículos 43 y 135).
+
+La Orden del Ministerio del Interior, de 23 de abril de 1997, por la que se concretan determinados aspectos en materia de empresas de seguridad en cumplimiento de la Ley y el Reglamento de Seguridad Privada, determina, en el apartado decimoquinto, que los Libros-Registro generales y específicos que se establecen en el Reglamento de Seguridad Privada y que deberán llevar las empresas de seguridad, se ajustarán a los modelos oficiales aprobados por Resolución de la Secretaría de Estado de Seguridad.
+
+Igualmente, la Orden de la misma fecha, por la que se concretan determinados aspectos en materia de medidas de seguridad, en cumplimiento del Reglamento de Seguridad Privada, encomienda, en la disposición final primera, a la Secretaría de Estado de Seguridad, la aprobación del modelo de libro-catálogo de medidas de seguridad.
+
+Los formatos de los referidos libros, conforme a lo previsto en el Reglamento de Seguridad Privada, pueden ser objeto de tratamiento y archivo mecanizado e informatizado, en cuyo caso, sin perjuicio de cumplir lo previsto en el apartado decimoquinto de la Orden del Ministerio del Interior de 23 de abril de 1997, por la que se concretan determinados aspectos en materia de empresas de seguridad, en cumplimiento de la Ley y el Reglamento de Seguridad Privada, resulta necesario contemplar dicha posibilidad y regular el modo en que se realizará para posibilitar las funciones de inspección a que se refiere el artículo 144 del repetido Reglamento de Seguridad Privada.
+
+En su virtud, en uso de las facultades que me han sido conferidas por el artículo 2 del Real Decreto 1885/1996, de 2 de agosto, de Estructura Orgánica del Ministerio del Interior, y las normas anteriormente referenciadas, a propuesta de las Direcciones Generales de la Policía y de la Guardia Civil, dispongo:
+
+## Primero.
+
+Los Libros-Registro generales y específicos que se establecen en el Reglamento de Seguridad Privada y que deben llevar las empresas de seguridad, se ajustarán a los modelos oficiales, según anexos números 1 al 11, ambos inclusive.
+
+En la actividad de transporte de objetos valiosos o peligrosos el libro-registro de transporte se confeccionará mensualmente con las hojas de ruta de acuerdo con el modelo recogido en el anexo 8, las cuales deben ser objeto del diligenciado a que se refiere el apartado decimoquinto de la Orden de 23 de abril de 1997, por la que se concretan determinados aspectos en materia de empresas de seguridad, en cumplimiento de la Ley y el Reglamento de Seguridad Privada.
+
+En el caso del transporte y distribución de explosivos, las indicadas hojas de ruta serán sustituidas por la documentación análoga que, para la circulación de dichas sustancias, se regula en el Reglamento de Explosivos.
+
+## Segundo.
+
+El libro-catálogo de instalaciones y revisiones al que se hace referencia en los artículos 43 y 135 del Reglamento de Seguridad Privada, que deben llevar los titulares de instalaciones de seguridad y las entidades o establecimientos obligados a tener medidas de seguridad electrónicas, se ajustará al modelo descrito en el anexo 12.
+
+## Tercero.
+
+Los Libros-Registro que se establecen en el Reglamento de Seguridad Privada cuando sean informatizados, deberán atenerse a lo siguiente:
+
+1\. Cumplimentar, respecto al diligenciado previo de las hojas o soportes que se utilicen para la formación posterior de los libros, lo dispuesto en las Órdenes ministeriales que desarrollan dicho Reglamento.
+
+2\. Imprimir diariamente el contenido de los asientos o anotaciones realizados en las citadas hojas o soportes, salvo que correspondan a los libros de depósitos y alarmas, en cuyo caso se imprimirán en el momento en que se haga la anotación.
+
+3\. Ajustarse en su utilización a lo previsto en la legislación vigente sobre protección de datos. A este respecto, los órganos competentes en materia de seguridad privada pondrán en conocimiento de la Agencia de Protección de Datos cualquier anomalía que se descubriese en su funcionamiento.
+
+4\. Los asientos en el Libro Registro de entrada y salida de Armas y en el libro de entrada y salida de munición de ejercicios de tiro, deberán ser anotados en el momento de la entrega, depósito o recogida de cada arma o lote de munición. El sistema deberá generar un registro por cada asiento realizado que garantice la integridad, autenticidad, confidencialidad, calidad, protección y conservación de estos. En especial, deberá asegurar de forma inequívoca la identificación de las personas intervinientes y el momento en que se realiza.
+
+En caso de error o necesidad de rectificación de un asiento, el sistema deberá poder generar un nuevo registro directamente vinculado con el erróneo, sin que este pueda ser eliminado o modificado.
+
+> Se modifica el punto 2 y se añade el 4 por el apartado 2 y 3 de la Resolución de 16 de septiembre de 2024. [Ref. BOE-A-2024-21561](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21561)
+
+## Disposición transitoria. Libros-Registro abiertos.
+
+Se podrán utilizar los Libros-Registro que estuvieran abiertos hasta que transcurra el plazo de un año, a partir de la entrada en vigor de esta Resolución. Finalizado dicho plazo, los Libros-Registro deberán ser sustituidos por los nuevos modelos aprobados.
+
+## Disposición final.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 16 de noviembre de 1998.–El Secretario de Estado, Ricardo Martí Fluxá.
+
+## Anexo nº 1 — Libro registro de contratos
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_001.png)
+
+## Anexo nº 2 — Libro registro de personal de seguridad
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_003.png)
+
+## Anexo nº 3 — Libro catálogo de medidas de seguridad
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_005.png)
+
+## Anexo Nº 4 — Libro registro de comunicaciones a las fuerzas y cuerpos de seguridad
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_006.png)
+
+## Anexo Nº 5 — Libro registro de entrada y salida de armas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_009.png)
+
+## Anexo 5 bis — Libro de entrada y salida de munición para ejercicios de tiro
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/254/21561_14908448_1.png)
+
+> Se añade por el apartado 1, conforme al que figura como anexo de la Resolución de 16 de septiembre de 2024. [Ref. BOE-A-2024-21561](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-21561)
+
+## Anexo Nº 6 — Libro registro de escoltas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_010.png)
+
+## Anexo nº 7 — Libro registro de depósitos
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_011.png)
+
+## Anexo nº 8 — Libro registro de transportes
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_012.png)
+
+## Anexo nº 9 — Libro registro de títulos valores
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_013.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_014.png)
+
+## Anexo nº 10 — Libro registro de revisiones
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_015.png)
+
+## Anexo nº 11 — Libro registro de alarmas
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_016.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_017.png)
+
+## Anexo nº 12 — Libro catálogo de instalaciones y revisiones
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_018.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1998/295/28505_019.png)

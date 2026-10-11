@@ -1,0 +1,906 @@
+---
+title: "Real Decreto 208/2003, de 21 de febrero, por el que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de vid"
+identifier: "BOE-A-2003-3835"
+eli: "https://www.boe.es/eli/es/rd/2003/02/21/208"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2003-02-21
+published: 2003-02-25
+in_force_from: 2003-02-26
+last_amended: 2020-05-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 48"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-3835"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 208/2003, de 21 de febrero, por el que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de vid
+
+La Directiva 68/193/CEE del Consejo, de 9 de abril de 1968, referente a la comercialización de los materiales de multiplicación vegetativa de la vid, fue incorporada al ordenamiento jurídico español mediante la Orden de 1 de julio de 1986, que fue modificada por Orden de 24 de junio de 1991.
+
+La citada Directiva ha sido modificada por la Directiva 2002/11/CE del Consejo, de 19 de febrero de 2002. Dicha modificación se produce, tal como se señala en uno de los considerandos de la norma comunitaria, con la finalidad de eliminar todas las barreras comerciales que puedan impedir la libre circulación de los materiales de multiplicación de la vid en la Comunidad. Con tal objeto, se han suprimido todas las posibilidades de inaplicación unilateral por parte de los Estados miembros de la Directiva 68/193/CEE, a cuyo efecto se han derogado o modificado algunas de sus disposiciones.
+
+Las novedades aportadas por la nueva normativa comunitaria en la materia imponen la necesidad de adaptar la normativa española, por lo que se han derogado aquellas disposiciones del Reglamento técnico de control y certificación de plantas de vivero de vid, aprobado por Orden de 1 de julio de 1986, que son objeto de regulación por la Directiva 2002/11/CE, manteniéndose, en cambio, la vigencia de aquellos preceptos del citado Reglamento técnico referentes a aspectos no contemplados por la directiva que mediante el presente Real Decreto se transpone.
+
+Es necesario señalar que al amparo del artículo 4 de la Directiva, que permite a los Estados miembros fijar para su producción propia condiciones suplementarias o más rigurosas, se efectúa una regulación de la producción destinada a la exportación, de la producción por el método de la multiplicación en verde y de los organismos nocivos a controlar en el proceso, si bien esta regulación se aplicará exclusivamente a las plantas de vivero producidas en España. El material de multiplicación proveniente de otro país comunitario y que se comercialice en España no estará sujeto a ninguna restricción distinta de las fijadas en la Directiva comunitaria.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de febrero de 2003,
+
+D I S P O N G O :
+
+#### Artículo único. Aprobación del Reglamento técnico de control y certificación de plantas de vivero de vid.
+
+Se aprueba el Reglamento técnico de control y certificación de plantas de vivero de vid, en los términos que figuran en el anexo al presente Real Decreto.
+
+#### Disposición transitoria primera. Patrones de categoría estándar.
+
+No obstante lo previsto en el artículo 13 del Reglamento que se aprueba, se autoriza la comercialización en el territorio nacional, hasta el 1 de enero de 2005, de los materiales de multiplicación de la categoría estándar destinados a ser utilizados como portainjertos que procedan de cepas madre de material de multiplicación estándar que existiesen a la fecha del 23 de febrero de 2002.
+
+#### Disposición transitoria segunda. Cepas madre de prebase.
+
+Las cepas madre de prebase autorizadas y existentes a la fecha de entrada en vigor de este Reglamento técnico de control y certificación de plantas de vivero de vid serán clasificadas por la autoridad competente en las categorías aprobadas en este Reglamento en función del cumplimiento de las condiciones fijadas en cada caso en el anexo I.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden de 1 de julio de 1986, por la que se aprueba el Reglamento técnico de control y certificación de plantas de vivero de vid, salvo los epígrafes VII y VIII que continúan en vigor.
+
+#### Disposición final primera. Habilitación competencial.
+
+El presente Real Decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación general de la actividad económica, a excepción de los artículos 26 y 27, que se dictan al amparo del artículo 149.1.10.ª, que otorga al Estado competencia exclusiva en materia de comercio exterior.
+
+#### Disposición final segunda. Facultad de aplicación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las disposiciones que sean necesarias para la aplicación de lo dispuesto en este Real Decreto y en especial para modificar los anexos, cuando resulte necesario o en caso de modificación de la normativa comunitaria.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 21 de febrero de 2003.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO — Reglamento técnico de control y certificación de plantas de vivero de vid
+
+## CAPITULO I — Ambito de aplicación
+
+#### Artículo 1. Ambito de aplicación.
+
+1\. Quedan sujetas al ámbito de aplicación del presente Reglamento técnico las plantas de vivero de vid que se comercialicen de las distintas especies cultivadas del género botánico «Vitis L.», así como sus híbridos interespecíficos e intervarietales.
+
+2\. El presente Reglamento se aplicará sin perjuicio de lo dispuesto en el Reglamento (CEE) n.º 234/68 del Consejo, de 27 de febrero de 1968, sobre el establecimiento de una organización común de mercados en el sector de las plantas vivas y de los productos de la floricultura.
+
+3\. El presente Reglamento no se aplicará a los materiales de multiplicación cuando se haya comprobado que están destinados a la exportación a países terceros.
+
+## CAPITULO II — Definiciones y categorías
+
+#### Artículo 2. Definiciones generales.
+
+A efectos del presente Reglamento, se entenderá por:
+
+a) «Vid»: las plantas del género «Vitis L.» que se destinan a la producción de uvas o a la utilización como materiales de multiplicación para estas mismas plantas.
+
+b) «Variedad»: un conjunto vegetal de un único taxón botánico, del rango más bajo conocido, que pueda:
+
+1.º Definirse mediante la expresión de los caracteres resultantes de un determinado genotipo o de una determinada combinación de genotipos.
+
+2.º Distinguirse de cualquier otro conjunto vegetal mediante la expresión de uno de esos caracteres, como mínimo.
+
+3.º Considerarse una entidad por su aptitud para ser reproducido sin cambio alguno.
+
+c) «Clon»: una descendencia vegetativa de una variedad conforme a una cepa de vid elegida por la identidad de su variedad, sus caracteres fenotípicos y su estado sanitario.
+
+#### Artículo 3. Definiciones de plantas de vivero.
+
+1\. «Materiales de multiplicación».
+
+a) Plantones de vid.
+
+1.º «Barbados»: fracciones de sarmientos o ramas herbáceas de vid enraizadas y sin injertar, destinadas a la plantación franco de pie o a ser utilizadas como portainjerto para un injerto.
+
+2.º «Plantas injerto»: fracciones de sarmientos o de ramas herbáceas de vid, unidas entre sí por injerto, cuya parte subterránea esté enraizada.
+
+b) Partes de plantas de vid.
+
+1.º «Sarmientos»: ramas de un año.
+
+2.º «Ramas herbáceas»: ramas no agostadas.
+
+3.º «Estacas injertables de portainjertos»: fracciones de sarmientos o de ramas herbáceas de vid, destinadas a formar la parte subterránea cuando se preparen plantas injerto.
+
+4.º «Injertos»: fracciones de sarmientos o de ramas herbáceas de vid, destinadas a formar la parte aérea cuando se preparen plantas injerto o se realicen injertos sobre el terreno.
+
+5.º «Estaquillas»: fracciones de sarmientos o de ramas herbáceas de vid, destinadas a la producción de barbados.
+
+2\. «Cepas-madres»: cultivos de vides destinados a la producción de estacas, estaquillas o injertos.
+
+3\. «Viveros»: cultivos de vides destinados a la producción de barbados o de plantas-injerto.
+
+#### Artículo 4. Categorías de plantas de vivero.
+
+1\. «Materiales de multiplicación iniciales»: los materiales de multiplicación que cumplan los siguientes requisitos:
+
+a) Que se hayan producido bajo la responsabilidad del productor, mediante métodos aceptados generalmente, con vistas a mantener la identidad de la variedad y, en su caso, del clon, así como a prevenir enfermedades.
+
+b) Que se destinen a la producción de materiales de multiplicación de base o de materiales de multiplicación certificados.
+
+c) Que cumplan las condiciones previstas en los anexos I y II para los materiales de multiplicación iniciales.
+
+d) Con respecto a los cuales se haya comprobado en un examen oficial que se han observado las condiciones antes mencionadas.
+
+2\. «Materiales de multiplicación de base»: los materiales de multiplicación que cumplan los siguientes requisitos:
+
+a) Que se hayan producido bajo la responsabilidad del productor, mediante métodos aceptados generalmente, con vistas a mantener la identidad de la variedad y, en su caso, del clon, así como a prevenir enfermedades, y que procedan directamente de materiales de multiplicación iniciales por vía vegetativa.
+
+b) Que estén destinados a la producción de materiales de multiplicación certificados.
+
+c) Que cumplan las condiciones previstas en los anexos I y II para los materiales de multiplicación de base.
+
+d) Con respecto a los cuales se haya comprobado en un examen oficial que se han observado las condiciones antes mencionadas.
+
+3\. «Materiales de multiplicación certificados»: los materiales de multiplicación que cumplan los siguientes requisitos:
+
+a) Que proceden directamente de materiales de multiplicación de base o de materiales de multiplicación iniciales.
+
+b) Que están destinados:
+
+1.º A la producción de plantas o de partes de plantas que sirvan para la producción de uvas.
+
+2.º A la producción de uvas.
+
+c) Que cumplen las condiciones previstas en los anexos I y II para los materiales de multiplicación certificados.
+
+d) Para los que se ha comprobado, al realizar un examen oficial, que se han respetado las condiciones mencionadas.
+
+4\. «Materiales de multiplicación estándar»: los materiales de multiplicación que cumplan los siguientes requisitos:
+
+a) Que poseen la identidad y la pureza varietales.
+
+b) Que están destinados:
+
+1.º A la producción de plantas o de partes de plantas que sirvan para la producción de uvas.
+
+2.º A la producción de uvas.
+
+c) Que cumplen las condiciones previstas en los anexos I y II para los materiales de multiplicación estándar.
+
+d) Para los que se ha comprobado, al realizar un examen oficial, que se han respetado las condiciones antes mencionadas.
+
+#### Artículo 5. Otras definiciones.
+
+1\. «Comercialización»: la venta, la posesión con miras a la venta, la oferta de venta y cualquier cesión, entrega o transmisión de materiales de multiplicación a terceros, tanto mediante remuneración como sin ella, con vistas a su explotación comercial.
+
+No se consideran comercialización los intercambios de materiales de multiplicación cuya finalidad no sea la explotación comercial de la variedad, como es el caso de las operaciones siguientes:
+
+a) La entrega de materiales de multiplicación a organismos de experimentación e inspección.
+
+b) La entrega de materiales de multiplicación a productores de servicios para la transformación o al acondicionamiento, siempre que el productor de servicios no adquiera derechos sobre el material de multiplicación suministrado.
+
+2\. «Autoridad competente»: el Ministerio de Agricultura, Pesca y Alimentación, respecto a la ordenación y coordinación en materia de control y certificación de plantas de vivero de vid, así como en relación con el Registro de variedades comerciales y en los supuestos de comercio exterior, y los órganos competentes de las Comunidades Autónomas, respecto a la aplicación del control y certificación de plantas de vivero de vid en sus respectivos territorios.
+
+## CAPITULO III — Variedades comerciales
+
+#### Artículo 6. Registro de variedades comerciales.
+
+1\. **(Derogado)**
+
+2\. También se admitirá la comercialización de las variedades inscritas en los catálogos o registros de los demás Estados miembros, sin perjuicio de lo dispuesto en el Reglamento (CE) n.º 1493/1999 del Consejo, de 17 de mayo de 1999, por el que se establece la organización común del mercado vitivinícola en lo que respecta a las normas generales referentes a la clasificación de las variedades de vid.
+
+3\. **(Derogado)**
+
+> Se derogan los apartados 1 y 3 por la disposición derogatoria única.c) del Real Decreto 170/2011, de 11 de febrero. [Ref. BOE-A-2011-2705](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2705).
+
+#### Artículo 7. Admisión de variedades en el Registro de variedades comerciales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 170/2011, de 11 de febrero. [Ref. BOE-A-2011-2705](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2705).
+
+#### Artículo 8. Listas de clones admitidos a certificación.
+
+1\. Con base en la información facilitada por los órganos competentes de las Comunidades Autónomas sobre las plantas de vivero calificadas dentro del sistema de certificación, el Ministerio de Agricultura, Pesca y Alimentación establecerá la lista de clones admitidos a certificación en España.
+
+2\. Los clones incluidos en la listas correspondientes de otro Estado miembro de la Unión Europea también serán admitidos a la certificación en España.
+
+#### Artículo 9. Conservación de las variedades comerciales.
+
+1\. Las variedades inscritas en el Registro de variedades comerciales o, en su caso, los clones admitidos se mantendrán mediante selección conservadora.
+
+2\. La selección conservadora debe poderse controlar en todo momento gracias a los registros efectuados por el encargado o los encargados de conservar la variedad y, en su caso, el clon.
+
+3\. Podrán pedirse muestras de la variedad al encargado de conservarla. Si fuese necesario, podrán ser tomadas oficialmente.
+
+4\. Cuando la selección conservadora se efectúe en España para una variedad admitida en otro Estado miembro, el Ministerio de Agricultura, Pesca y Alimentación, a través del cauce correspondiente, remitirá al Estado que tenga admitida la variedad en su catálogo el resultado de los controles que se realicen, si se le requiere la asistencia administrativa.
+
+## CAPITULO IV — Producción de plantas de vivero
+
+#### Artículo 10. Condiciones referentes a la producción.
+
+La producción de plantas de vivero cumplirá las condiciones correspondientes del anexo I.
+
+#### Artículo 11. Producción por el método «in vitro».
+
+La producción de material de multiplicación inicial, base o certificado por el método «in vitro» sólo se admitirá en la medida que la Unión Europea establezca condiciones y disposiciones específicas para ello.
+
+#### Artículo 12. Producción por el método de «multiplicación en verde».
+
+La producción de material de multiplicación por el método de «multiplicación en verde» se realizará de acuerdo con las condiciones fijadas en el anexo VII.
+
+## CAPITULO V — Condiciones del material de multiplicación
+
+#### Artículo 13. Materiales que se pueden comercializar.
+
+1\. Sólo se podrán comercializar los materiales de multiplicación si:
+
+a) Han sido certificados oficialmente como «materiales de multiplicación iniciales», «materiales de multiplicación de base» o «materiales de multiplicación certificados» o, en el caso de los materiales de multiplicación que no estén destinados a ser utilizados como portainjertos, si se trata de materiales de multiplicación estándar controlados oficialmente.
+
+b) Si cumplen las condiciones previstas en el anexo II.
+
+2\. Si se comprobara que las plantas de vivero no cumplen los requisitos del presente Reglamento, la autoridad competente adoptará las medidas adecuadas para que no se comercialice hasta tanto no se adecuen a aquéllos.
+
+3\. La autoridad competente podrá autorizar a productores radicados en España a comercializar cantidades apropiadas de materiales de multiplicación que no cumplan los requisitos del presente Reglamento en los siguientes casos:
+
+a) Cuando estén destinados a pruebas o con finalidad científica.
+
+b) Cuando estén destinados para trabajos de selección.
+
+c) Cuando estén destinados a medidas encaminadas a la conservación de la diversidad genética.
+
+4\. En el caso del material modificado genéticamente, dicha autorización únicamente podrá concederse si se han adoptado todas las medidas apropiadas para evitar riesgos para la salud humana y el medio ambiente de conformidad con la normativa en vigor.
+
+#### Artículo 14. Lotes.
+
+1\. Los materiales de multiplicación serán, en el momento de la recolección, del acondicionamiento, del almacenamiento, del transporte y del cultivo, conservados en lotes separados y marcados según su variedad y, en su caso, para los materiales de multiplicación iniciales, los materiales de multiplicación de base y para los materiales de multiplicación certificados, según el clon.
+
+2\. Los materiales de multiplicación sólo podrán comercializarse en lotes suficientemente homogéneos y en envases o haces cerrados, provistos de un sistema de cierre y de un etiquetado.
+
+#### Artículo 15. Precintado.
+
+Los envases y haces de materiales de multiplicación se cerrarán oficialmente o bajo control oficial de tal modo que no puedan abrirse sin que el sistema de cierre quede deteriorado o sin que queden rastros de manipulación en la etiqueta oficial establecida en el artículo 16, o en el envase, cuando se trate de envases. Para garantizar el cierre, el sistema de cierre llevará como mínimo la etiqueta oficial o un precinto oficial.
+
+La composición de los haces y embalajes será la fijada en el anexo III.
+
+#### Artículo 16. Etiquetado.
+
+1\. Los envases y haces de materiales de multiplicación irán provistos de una etiqueta oficial exterior que esté redactada, al menos, en la lengua española oficial del Estado; su fijación se garantizará por medio del sistema de cierre. La etiqueta tendrá las informaciones fijadas en el anexo IV.
+
+2\. Dicha etiqueta será blanca cruzada diagonalmente por una raya violeta para los materiales de multiplicación iniciales, blanca para los materiales de multiplicación de base, azul para los materiales de multiplicación certificados y amarillo oscuro para los materiales de multiplicación estándar. Sus dimensiones serán las fijadas en el anexo IV.
+
+3\. Los órganos competentes de las Comunidades Autónomas podrán autorizar a los productores establecidos en su territorio a comercializar varios envases o varios haces de plantas injerto o de barbados de las mismas características con una sola etiqueta. En este caso, los envases o haces estarán unidos de tal forma que, al separarlos, la ligadura que los una se deteriore y no pueda recomponerse. La fijación de la etiqueta se realizará por medio de esa ligadura. No se autorizará un nuevo cierre.
+
+4\. La etiqueta oficial podrá también incluir todos los datos correspondientes al pasaporte fitosanitario previsto en el Real Decreto 2071/1993, de 26 de noviembre, relativo a las medidas de protección contra la introducción y difusión en el territorio nacional y de la Comunidad Económica Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros. En ese caso, los datos del pasaporte fitosanitario irán claramente diferenciados, se respetarán sus condiciones y la etiqueta oficial se reconocerá equivalente al pasaporte fitosanitario.
+
+5\. En las etiquetas colocadas en los lotes de materiales de multiplicación de una variedad que haya sido modificada genéticamente y en cualquier otro documento que los acompañe en virtud de lo dispuesto en el presente Reglamento, tanto si es oficial como si no lo es, se indicará claramente que la variedad ha sido modificada genéticamente, especificándose el nombre de los organismos modificados genéticamente.
+
+#### Artículo 17. Conservación de las etiquetas.
+
+El destinatario de los materiales de multiplicación vegetativa de la vid deberá conservar las etiquetas oficiales durante al menos un año y ponerlas a disposición de la autoridad competente para el control.
+
+#### Artículo 18. Albarán.
+
+1\. Toda partida de material de multiplicación producido en España y que se comercialice deberá ir amparada por un albarán del productor numerado correlativamente en el que se harán constar, al menos, los datos fijados en el anexo VI.
+
+2\. El productor deberá conservar dichos albaranes, cuyo conjunto se considerará como libro registro de salidas.
+
+#### Artículo 19. Exigencias reducidas.
+
+Cuando la Comisión de las Comunidades Europeas autorice la comercialización de un determinado conjunto de materiales de multiplicación de una categoría sometida a exigencias reducidas de una variedad determinada, el color de la etiqueta será el previsto para la categoría correspondiente, y en todos los demás casos, será marrón. La etiqueta indicará siempre que se trata de materiales de multiplicación de una categoría sometida a exigencias reducidas.
+
+## CAPITULO VI — Controles
+
+#### Artículo 20. Controles por los productores.
+
+Los productores tomarán las medidas necesarias para garantizar el cumplimiento de las normas fijadas en el presente Reglamento en todas las etapas de la producción y de la comercialización de las plantas de vivero.
+
+Con dicha finalidad, los productores, bien por ellos mismos o, en su caso, en colaboración con otro productor, deberán efectuar controles que comprendan lo siguiente:
+
+a) La elaboración y puesta en marcha de métodos de vigilancia y de control en las fases fundamentales de su proceso de producción y comercio.
+
+b) La toma de muestras, que deberán analizarse en un laboratorio reconocido por la autoridad competente, deberá asegurar que:
+
+1.º Las muestras se tomen durante las distintas fases del proceso de producción y en los intervalos establecidos, en su caso, por la autoridad competente al efectuar la comprobación de los métodos de producción para la concesión de la autorización del productor.
+
+2.º El muestreo se realice de un modo técnicamente correcto y siguiendo un procedimiento estadísticamente fiable teniendo en cuenta el tipo de análisis a realizar.
+
+3.º Las personas que tomen las muestras deben ser competentes para ello.
+
+c) La anotación por escrito, o por algún otro medio que garantice una conservación duradera, de los datos correspondientes a los párrafos a) y b) anteriores, y el mantenimiento de un registro de la producción y de la comercialización de las plantas de vivero, los cuales se tendrán a disposición de la autoridad competente. Estos documentos y registros se conservarán durante un período de tres años como mínimo y contendrán información completa sobre:
+
+1.º Las plantas de vivero compradas para su almacenamiento o utilización en su proceso de producción.
+
+2.º Las plantas de vivero en proceso de producción.
+
+3.º Las plantas de vivero expedidas a otros, o registro de salidas compuesto por el conjunto de los albaranes emitidos, ordenados correlativamente.
+
+4.º Los tratamientos químicos aplicados a las plantas.
+
+5.º En el caso de producción in vitro, y para cada línea de descendencia distinta: fecha de cada operación, número de plantas e identificación de cada subcultivo.
+
+d) Colaborar con la autoridad competente en cuanto se refiere a su actividad y al control oficial correspondiente y especialmente:
+
+1.º Encargarse personalmente o designar otra persona con experiencia técnica en la producción de plantas y en cuestiones fitosanitarias para relacionarse con dicha autoridad competente.
+
+2.º Facilitar el acceso a las personas facultadas para actuar en nombre de la autoridad competente, a los registros y documentos indicados en el párrafo c).
+
+No obstante, los productores cuya actividad en este ámbito se limite a la mera distribución de plantas de vivero producidas y embaladas fuera de su establecimiento, deberán llevar únicamente un registro, o conservar pruebas duraderas, de las operaciones de compra y venta o entrega de plantas de vivero que hayan realizado.
+
+#### Artículo 21. Presencia de organismos nocivos.
+
+Cuando como consecuencia de los propios controles, o de la información de que dispongan, los productores comprobasen la presencia de uno o varios de los organismos nocivos contemplados en el Real Decreto 2071/1993, o la presencia, en cantidad superior a lo admisible, de los organismos contemplados en el anexo V, informarán de ello inmediatamente a la autoridad competente y tomarán las medidas que ésta les indique, o cualquier otra medida necesaria para reducir el riesgo de diseminación de dichos organismos nocivos en cuestión. Los productores llevarán un registro de todos los casos de detección de organismos nocivos en sus establecimientos y de todas las medidas que se hayan adoptado al respecto.
+
+#### Artículo 22. Control de los productores.
+
+La autoridad competente llevará a cabo regularmente la vigilancia y el control de los productores, así como de sus establecimientos, a fin de asegurar el cumplimiento continuado de los requisitos establecidos en el presente Reglamento. Esta vigilancia o control se llevará a cabo en el momento apropiado y, al menos, una vez al año.
+
+#### Artículo 23. Inspecciones oficiales.
+
+Las inspecciones oficiales podrán ser visuales o por toma de muestras para su análisis, cuando proceda.
+
+Los procesos de producción y comercialización serán objeto de las inspecciones que determine la autoridad competente, la cual podrá tomar muestras en cualquier momento durante dichos procesos.
+
+Cuando se tomen muestras oficiales, se procederá de forma que se garantice la identidad y representatividad de la muestra.
+
+De las circunstancias y resultados de las inspecciones, incluida, en su caso, la toma de muestras, se levantará un acta.
+
+Las descalificaciones de partidas de plantas de vivero serán comunicadas por escrito al productor, indicando los motivos.
+
+#### Artículo 24. Declaraciones y estadísticas.
+
+1\. Los productores enviarán a la autoridad competente, antes del 31 de mayo de cada año, en modelo normalizado que ésta les indique, las siguientes informaciones:
+
+a) La declaración de cultivos en donde figuren, al menos, los datos de localización de las parcelas, metros cuadrados de cultivo, unidades en cultivo, tipo de material, origen del material de multiplicación, para cada variedad, clon y categoría de planta de vivero.
+
+b) La declaración de producción y de comercialización, en donde figuren, al menos, los datos de: unidades, tipo de material, origen del material para cada variedad, clon y categoría de planta de vivero producida o comercializada.
+
+2\. Con el fin de confeccionar las estadísticas nacionales y facilitar la información prevista en la normativa comunitaria, los órganos competentes de las Comunidades Autónomas enviarán a la Dirección General de Agricultura (Oficina Española de Variedades Vegetales), antes del 1 de julio de cada año, los datos de plantas madres, producción y comercialización de la campaña ordenados por variedades, clon, tipo de material y categorías.
+
+#### Artículo 25. Postcontroles.
+
+Para comprobar la calidad del material de multiplicación y la correcta aplicación de este Reglamento, los órganos competentes de las Comunidades Autónomas podrán realizar postcontroles en el material comercializado en su territorio teniendo en cuenta la información proporcionada por los albaranes establecidos en el artículo 18.
+
+El Ministerio de Agricultura, Pesca y Alimentación podrá decidir la realización de postcontroles de ámbito nacional, a fin de comprobar la calidad del material o para armonizar los métodos de control y certificación de las plantas de vivero, así como de los laboratorios de análisis.
+
+Cuando la Comisión de la Unión Europea establezca ensayos comparativos o experimentos temporales en el ámbito comunitario, las autoridades competentes participarán y colaborarán en aquéllos en la medida que sea necesario para ello, con la coordinación del Ministerio de Agricultura, Pesca y Alimentación.
+
+## CAPITULO VII — Comercio exterior
+
+#### Artículo 26. Condiciones generales.
+
+El material de multiplicación que se importe de países terceros, para poder ser introducido en España, deberá ofrecer al menos garantías equivalentes en todos los aspectos a las de los materiales de multiplicación producidos en la Unión Europea.
+
+En cuanto a la tramitación, documentación y condiciones necesarias para efectuar importaciones y exportaciones de y hacia países terceros, se aplicará lo dispuesto en el artículo 5 del Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero, modificado en último lugar por el Real Decreto 2273/1993, de 22 de diciembre, y en la Orden de 23 de mayo de 1986 por la que se aprueba el Reglamento general técnico de control y certificación de semillas y plantas de vivero, sin perjuicio de lo establecido en el Real Decreto 2071/1993.
+
+#### Artículo 27. Documento informativo.
+
+Los materiales importados deberán ir acompañados de un documento en el que figuren las indicaciones siguientes:
+
+a) Especie (denominación botánica).
+
+b) Variedad y, en su caso, el clon, aplicándose estas indicaciones en el caso de las plantas injerto tanto a los portainjertos como a los esquejes para injertos.
+
+c) Categoría.
+
+d) Tipo del material de multiplicación.
+
+e) País de producción y servicio de control oficial.
+
+f) País de expedición si no fuera el mismo que el país de producción.
+
+g) Importador.
+
+h) Cantidad de material.
+
+## CAPITULO VIII — Régimen sancionador
+
+#### Artículo 28. Infracciones y sanciones.
+
+Las posibles infracciones y sanciones en la producción y comercialización de las plantas de vivero se clasificarán y aplicarán de acuerdo con lo preceptuado en la Ley 11/1971, de 30 de marzo, de Semillas y Plantas de Vivero, y disposiciones complementarias, y, en su caso, con lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria.
+
+## ANEXO I — Condiciones referentes al cultivo
+
+### Sección 1. Identidad, pureza y condiciones de cultivo
+
+1\. El cultivo poseerá identidad y pureza en lo relativo a la variedad y, en su caso, al clon.
+
+2\. Las condiciones de cultivo y el estado de desarrollo de las plantas permitirán un control suficiente de la identidad y de la pureza en lo relativo a la variedad y, en su caso, al clon, así como de su estado sanitario.
+
+### Sección 2. Requisitos de sanidad para los campos de cepas madre destinadas a la producción de todas las categorías de materiales de multiplicación y para los viveros de todas las categorías
+
+1\. La presente sección se aplicará a los campos de cepas madre destinadas a la producción de todas las categorías de materiales de multiplicación y a los viveros de todas esas categorías.
+
+2\. Se comprobará, mediante inspección visual, que los campos de cepas madre y los viveros están libres de las plagas reguladas no cuarentenarias enumeradas en las secciones 6 y 7 para el género o la especie de que se trate.
+
+Los campos de cepas madre y los viveros se someterán a muestreo y ensayo en relación con las plagas reguladas no cuarentenarias enumeradas en la sección 7 para el género o la especie de que se trate. En caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en las secciones 6 y 7 para el género o la especie de que se trate se someterán a muestreo y ensayo los campos de cepas madre y los viveros.
+
+3\. Las inspecciones visuales y, en su caso, el muestreo y ensayo de los campos de cepas madre y los viveros en cuestión se llevarán a cabo con arreglo a lo dispuesto en la sección 8.
+
+4\. El muestreo y ensayo contemplado en el punto 2 se efectuará durante el período del año más adecuado, teniendo en cuenta las condiciones climáticas y las condiciones de cultivo de la vid, así como la biología de las plagas reguladas no cuarentenarias pertinentes para la vid.
+
+Por lo que respecta al muestreo y ensayo, los Estados miembros aplicarán los protocolos de la Organización Europea y Mediterránea para la Protección de las Plantas (OEPP) u otros protocolos reconocidos internacionalmente. Cuando no existan tales protocolos, se aplicarán los protocolos pertinentes establecidos en el ámbito nacional. En ese caso, los Estados miembros pondrán dichos protocolos a disposición de los demás Estados miembros y de la Comisión, previa solicitud.
+
+Por lo que respecta al muestreo y ensayo de las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales, los Estados miembros aplicarán la indexación biológica en plantas indicadoras para evaluar la presencia de virus, viroides, enfermedades similares a las víricas y fitoplasmas u otros protocolos equivalentes reconocidos internacionalmente.
+
+### Sección 3. Requisitos relativos al suelo y condiciones de producción para los campos de cepas madre destinadas a la producción de todas las categorías de materiales de multiplicación y para los viveros de todas las categorías de materiales de multiplicación
+
+1\. Tanto en campos de cepas madre como en viveros, las vides solo podrán plantarse en el suelo o, en su caso, en macetas con sustratos de cultivo libres de cualquier plaga que pueda hospedar los virus enumerados en la sección 7. La ausencia de tales plagas se determinará por medio de muestreo y ensayo.
+
+El muestreo y ensayo se llevará a cabo teniendo en cuenta las condiciones climáticas y la biología de las plagas que puedan hospedar los virus enumerados en la sección 7.
+
+2\. No se llevará a cabo el muestreo y ensayo cuando el servicio oficial de control concluya, sobre la base de una inspección oficial, que el suelo está libre de cualquier plaga que pueda hospedar los virus enumerados en la sección 7.
+
+Tampoco se llevará a cabo el muestreo y ensayo cuando en el suelo de producción no se hayan cultivado vides durante al menos cinco años, ni en caso de que no haya dudas relativas a la ausencia en dicho suelo de las plagas que puedan hospedar los virus enumerados en la sección 7.
+
+3\. Por lo que respecta al muestreo y ensayo, los Estados miembros aplicarán los protocolos de la OEPP u otros protocolos reconocidos internacionalmente. Cuando no existan tales protocolos, los Estados miembros aplicarán los protocolos pertinentes establecidos en el ámbito nacional. En ese caso, los Estados miembros pondrán dichos protocolos a disposición de los demás Estados miembros y de la Comisión, previa solicitud.
+
+### Sección 4. Requisitos relativos al sitio de producción, el lugar de producción o el área
+
+1\. Los campos de cepas madre y los viveros se establecerán en las condiciones adecuadas para prevenir todo riesgo de contaminación por plagas que puedan hospedar los virus enumerados en la sección 7.
+
+2\. Los viveros no se establecerán en el interior de un viñedo ni de un campo de cepas madre. La distancia mínima a un viñedo o a un campo de cepas madre será de 3 m.
+
+3\. Además de los requisitos de sanidad, los requisitos relativos al suelo y las condiciones de producción de las secciones 2 y 3, los materiales de multiplicación se producirán de conformidad con los requisitos relativos al sitio de producción, el lugar de producción o el área establecidos en la sección 8, con el fin de limitar la presencia de las plagas enumeradas en dicha sección.
+
+### Sección 5. Inspecciones oficiales
+
+1\. La conformidad con los requisitos de las secciones 2 a 4 de los materiales de multiplicación producidos en campos de cepas madre y en viveros se determinará por medio de inspecciones oficiales anuales en los cultivos.
+
+2\. Las inspecciones oficiales se llevarán a cabo por parte del servicio oficial de control de conformidad con la sección 8.
+
+3\. Cuando existan controversias que puedan resolverse sin perjuicio para la calidad de los materiales de multiplicación, se deberán llevar a cabo inspecciones oficiales adicionales en los cultivos.
+
+### Sección 6. Lista de plagas reguladas no cuarentenarias que requieren inspección visual para determinar su presencia y, en caso de dudas, muestreo y ensayo con arreglo a la sección 2, punto 2
+
+| Género o especie de los materiales de multiplicación de la vid distintos de las semillas | Plagas reguladas no cuarentenarias |
+|---|---|
+|  | Insectos y ácaros |
+| *Vitis vinifera* L. no injertada | *Viteus vitifoliae* Fitch [VITEVI] |
+|  | Insectos y ácaros |
+| *Vitis* L. distinta de *Vitis vinifera* L. no injertada | *Viteus vitifoliae* Fitch [VITEVI] |
+|  | Bacterias |
+| *Vitis* L. | *Xylophilus ampelinus* Willems *et al.* [XANTAM] |
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+| *Vitis* L. | *Candidatus* Phytoplasma *solani* Quaglino *et al.* [PHYPSO] |
+
+### Sección 7. Lista de plagas reguladas no cuarentenarias que requieren inspección visual para determinar su presencia y, en determinados casos, muestreo y ensayo con arreglo a la sección 2, punto 2, y a la sección 8
+
+| Género o especie | Plagas reguladas no cuarentenarias |
+|---|---|
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+| Materiales de multiplicación de *Vitis* L. distintos de las semillas | Virus del mosaico del *Arabis* [ARMV00]<br>Virus del entrenudo corto infeccioso [GFLV00]<br>Virus del enrollado de la vid 1 [GLRAV1]<br>Virus del enrollado de la vid 3 [GLRAV3] |
+|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
+| Portainjertos de *Vitis* spp. y sus híbridos, excepto *Vitis vinifera* L. | Virus del mosaico del *Arabis* [ARMV00]<br>Virus del entrenudo corto infeccioso [GFLV00]<br>Virus del enrollado de la vid 1 [GLRAV1]<br>Virus del enrollado de la vid 3 [GLRAV3]<br>Virus del jaspeado de la vid [GFKV00] |
+
+### Sección 8. Requisitos relativos a las medidas aplicables a los campos de cepas madre de Vitis L. y, en su caso, a los viveros por categoría, con arreglo a la sección 2, punto 2
+
+*Vitis*L.
+
+1\. Materiales de multiplicación iniciales, materiales de multiplicación de base y materiales certificados.
+
+Inspecciones visuales.
+
+El servicio oficial de control llevará a cabo inspecciones visuales de los campos de cepas madre y los viveros al menos una vez por temporada de crecimiento para todas las plagas reguladas no cuarentenarias enumeradas en las secciones 6 y 7.
+
+2\. Materiales de multiplicación iniciales.
+
+Muestreo y ensayo.
+
+Todas las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales será objeto de muestreo y ensayo en relación con la presencia del virus del mosaico del *Arabis,*el virus del entrenudo corto infeccioso, el virus del enrollado de la vid 1 y el virus del enrollado de la vid 3. El muestreo y ensayo se repetirá posteriormente cada cinco años.
+
+Las cepas madre destinadas a la producción de portainjertos, además de someterse a muestreo y ensayo en relación con los virus mencionados en el primer párrafo, se someterán una vez a muestreo y ensayo en relación con la presencia del virus del jaspeado de la vid.
+
+Los resultados del muestreo y ensayo estarán disponibles antes de aceptarse las cepas madre afectadas.
+
+3\. Materiales de multiplicación de base.
+
+Muestreo y ensayo.
+
+Todas las vides de cepas madre destinadas a la producción de materiales de multiplicación de base será objeto de muestreo y ensayo en relación con la presencia del virus del mosaico del *Arabis,* el virus del entrenudo corto infeccioso, el virus del enrollado de la vid 1 y el virus del enrollado de la vid 3.
+
+El muestreo y ensayo se iniciará en las cepas madre de seis años y se repetirá posteriormente cada seis años.
+
+Los resultados del muestreo y ensayo estarán disponibles antes de aceptarse las cepas madre afectadas.
+
+4\. Materiales certificados.
+
+Muestreo y ensayo.
+
+Una porción representativa de las vides de cepas madre destinadas a la producción de materiales certificados será objeto de muestreo y ensayo en relación con la presencia del virus del mosaico del *Arabis,* el virus del entrenudo corto infeccioso, el virus del enrollado de la vid 1 y el virus del enrollado de la vid 3.
+
+El muestreo y ensayo se iniciará en las cepas madre de diez años y se repetirá posteriormente cada diez años.
+
+Los resultados del muestreo y ensayo estarán disponibles antes de aceptarse las cepas madre afectadas.
+
+5\. Materiales de multiplicación iniciales, materiales de multiplicación de base y materiales certificados.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área, en función de las plagas reguladas no cuarentenarias en cuestión.
+
+a)*Candidatus*Phytoplasma *solani*Quaglino *et al.*
+
+i.las vides se producen en áreas de las que se tiene constancia que están libres de *Candidatus* Phytoplasma *solani* Quaglino *et al.;* o
+
+ii. durante la última temporada de crecimiento completa no se han observado en las vides síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.*en el sitio de producción; o
+
+iii. se cumplen las condiciones siguientes por lo que respecta a la presencia de *Candidatus* Phytoplasma *solani* Quaglino *et al.:*
+
+– se han arrancado todas las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales y materiales de multiplicación de base que presentaba síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.,* y
+
+– como mínimo, se han excluido de la multiplicación todas las vides de cepas madre destinadas a la producción de materiales certificados que presentaban síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.,* y
+
+– cuando los materiales de multiplicación destinados a la comercialización presentaban síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.,*el lote entero de dichos materiales se ha sometido a un tratamiento de agua caliente, o a otro tratamiento adecuado de conformidad con los protocolos de la OEPP o con otros protocolos reconocidos internacionalmente, a fin de garantizar la ausencia de *Candidatus* Phytoplasma *solani* Quaglino *et al.;*
+
+b) *Xylophilus ampelinus*Willems*et al.*
+
+i. las vides se producen en áreas de las que se tiene constancia que están libres de *Xylophilus ampelinus*Willems*et al.;* o
+
+ii. durante la última temporada de crecimiento completa no se han observado en las vides síntomas de *Xylophilus ampelinus*Willems*et al*. en el sitio de producción; o
+
+iii. se cumplen las condiciones siguientes por lo que respecta a la presencia de *Xylophilus ampelinus*Willems*et al.:*
+
+– se han arrancado todas las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales, materiales de multiplicación de base y materiales certificados que presentaba síntomas de *Xylophilus ampelinus*Willems*et al*. y se han tomado las medidas oportunas en materia de higiene, y
+
+– después de la poda, se han tratado con un bactericida las vides del sitio de producción que presentaban síntomas de *Xylophilus ampelinus*Willems*et al.,* a fin de garantizar la ausencia de *Xylophilus ampelinus*Willems*et al.,* y
+
+– cuando los materiales de multiplicación destinados a la comercialización presentaban síntomas de *Xylophilus ampelinus*Willems*et al.,* el lote entero de dichos materiales se ha sometido a un tratamiento de agua caliente, o a otro tratamiento adecuado de conformidad con los protocolos de la OEPP o con otros protocolos reconocidos internacionalmente, a fin de garantizar la ausencia de *Xylophilus ampelinus*Willems*et al.;*
+
+c) Virus del mosaico del *Arabis,* virus del entrenudo corto infeccioso, virus del enrollado de la vid 1 y virus del enrollado de la vid 3.
+
+i. con respecto a la presencia del virus del mosaico del *Arabis,*el virus del entrenudo corto infeccioso, el virus del enrollado de la vid 1 y el virus del enrollado de la vid 3, se cumplirán las condiciones siguientes:
+
+– no se han observado síntomas de ninguno de estos virus en las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales y materiales de multiplicación de base, y
+
+– se han observado síntomas de esos virus en un máximo del 5 % de las vides de cepas madre destinadas a la producción de materiales certificados, y esas vides se han arrancado y destruido; o
+
+ii. todas las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales, así como los materiales de multiplicación iniciales, se mantienen en instalaciones a prueba de insectos, a fin de garantizar la ausencia del virus del enrollado de la vid 1 y el virus del enrollado de la vid 3;
+
+d) *Viteus vitifoliae* Fitch
+
+i. las vides se producen en áreas de las que se tiene constancia que están libres de *Viteus vitifoliae* Fitch; o
+
+ii. las vides se injertan en portainjertos resistentes a *Viteus vitifoliae*Fitch, o
+
+– todas las vides de cepas madre destinadas a la producción de materiales de multiplicación iniciales, así como todos los materiales de multiplicación iniciales, se mantienen en instalaciones a prueba de insectos y, durante la última temporada de crecimiento completa, no se han observado en esas vides síntomas de *Viteus vitifolia*e Fitch, y
+
+– cuando los materiales de multiplicación destinados a la comercialización presentaban síntomas de *Viteus vitifoliae* Fitch, el lote entero de dichos materiales se ha sometido a fumigación, a un tratamiento de agua caliente, o a otro tratamiento adecuado de conformidad con los protocolos de la OEPP o con otros protocolos reconocidos internacionalmente, a fin de garantizar la ausencia de *Viteus vitifoliae*Fitch.
+
+6\. Materiales estándar.
+
+Inspecciones visuales.
+
+El servicio oficial de control llevará a cabo inspecciones visuales de los campos de cepas madre y los viveros al menos una vez por temporada de crecimiento para todas las plagas reguladas no cuarentenarias enumeradas en las secciones 6 y 7.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área, en función de las plagas reguladas no cuarentenarias en cuestión.
+
+a)*Candidatus* Phytoplasma *solani* Quaglino *et al.*
+
+i. las vides se producen en áreas de las que se tiene constancia que están libres de *Candidatus* Phytoplasma *solani* Quaglino *et al.;* o
+
+ii. durante la última temporada de crecimiento completa no se han observado en las vides síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.* en el sitio de producción; o
+
+iii. se cumplen las condiciones siguientes por lo que respecta a la presencia de *Candidatus* Phytoplasma *solani* Quaglino *et al.:*
+
+– al menos se han excluido de la multiplicación todas las vides de cepas madre destinadas a la producción de materiales estándar que presentaban síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.,* y
+
+– cuando los materiales de multiplicación destinados a la comercialización presentaban síntomas de *Candidatus* Phytoplasma *solani* Quaglino *et al.,* el lote entero de dichos materiales se ha sometido a un tratamiento de agua caliente o a otro tratamiento adecuado, de conformidad con los protocolos de la OEPP o con otros protocolos reconocidos internacionalmente, a fin de garantizar la ausencia de *Candidatus* Phytoplasma *solani* Quaglino *et al.;*
+
+b) *Xylophilus ampelinus*Willems*et al.*
+
+i. las vides se producen en áreas de las que se tiene constancia que están libres de *Xylophilus ampelinus Willems et al.;*o
+
+ii. durante la última temporada de crecimiento completa no se han observado en las vides síntomas de *Xylophilus ampelinus*Willems*et al.* en el sitio de producción; o
+
+iii. se cumplen las condiciones siguientes por lo que respecta a la presencia de *Xylophilus ampelinus*Willems*et al.:*
+
+– se han arrancado todas las vides de cepas madre destinadas a la producción de materiales estándar que presentaban síntomas de *Xylophilus ampelinus*Willems*et al.* y se han tomado las medidas oportunas en materia de higiene, y
+
+– después de la poda, se han tratado con un bactericida las vides del sitio de producción que presentaban síntomas de *Xylophilus ampelinus*Willems*et al.,* a fin de garantizar la ausencia de *Xylophilus ampelinus*Willems*et al.,* y
+
+– cuando los materiales de multiplicación destinados a la comercialización presentaban síntomas de *Xylophilus ampelinus*Willems*et al.,* el lote entero de dichos materiales se ha sometido a un tratamiento de agua caliente, o a otro tratamiento adecuado de conformidad con los protocolos de la OEPP o con otros protocolos reconocidos internacionalmente, a fin de garantizar la ausencia de *Xylophilus ampelinus*Willems*et al.;*
+
+c) Virus del mosaico del *Arabis,* virus del entrenudo corto infeccioso, virus del enrollado de la vid 1 y virus del enrollado de la vid 3
+
+No se han observado síntomas de ninguno de los virus (virus del mosaico del *Arabis,*virus del entrenudo corto infeccioso, virus del enrollado de la vid 1 y virus del enrollado de la vid 3) en más del 10 % de las vides de cepas madre destinadas a la producción de materiales estándar, y esas vides se han eliminado de la multiplicación.
+
+d) *Viteus vitifoliae* Fitch.
+
+i. las vides se producen en áreas de las que se tiene constancia que están libres de *Viteus vitifoliae* Fitch, o
+
+ii. las vides se injertan en portainjertos resistentes a *Viteus vitifoliae* Fitch, o
+
+iii. cuando los materiales de multiplicación destinados a la comercialización presentaban síntomas de *Viteus vitifoliae* Fitch, el lote entero de dichos materiales se ha sometido a fumigación, a un tratamiento de agua caliente, o a otro tratamiento adecuado de conformidad con los protocolos de la OEPP o con otros protocolos reconocidos internacionalmente, a fin de garantizar la ausencia de *Viteus vitifoliae*Fitch.
+
+> Se modifica por el art. 3.1 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. [Ref. BOE-A-2006-13846](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13846)
+
+## ANEXO II — Condiciones referentes al material de multiplicación
+
+1\. Pureza Varietal: El material de multiplicación poseerá identidad y pureza en lo que concierne a la variedad, y en su caso, al clon de acuerdo con el cuadro siguiente:
+
+| Categoría | % de Pureza |
+|---|---|
+| Inicial | 100 |
+| Base | 100 |
+| Certificado | 100 |
+| Estándar | 99 |
+
+2\. Pureza técnica: Los materiales de multiplicación deberán tener una pureza técnica mínima del 96 %.
+
+Se considerarán como técnicamente impuros:
+
+a) Los materiales de multiplicación desecados en su totalidad o en parte, aunque hayan sido sumergidos en agua tras su desecación.
+
+b) Los materiales de multiplicación estropeados, torcidos o dañados, en particular deteriorados por el granizo o las heladas, aplastados o rotos.
+
+c) Los materiales que no cumplan los requisitos contemplados más adelante en el punto 6.
+
+3\. Madurez: Los sarmientos habrán llegado a un grado suficiente de madurez de la madera. La proporción madera-pulpa será la normal para la variedad.
+
+4\. Los materiales de multiplicación estarán prácticamente libres de cualquier plaga que reduzca su utilidad y calidad y en particular los citados en los anexos I y III.
+
+Los materiales de multiplicación también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión y las plagas cuarentenarias de zonas protegidas contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+5\. Clasificación de plantas injerto: Las plantas injerto procedentes de una combinación patron-injerto, ambos de la misma categoría, se considerarán de esa categoría. Las plantas de vivero procedentes de una combinación patron-injerto de distinta categoría, se considerarán de acuerdo con el componente de inferior categoría.
+
+6\. Calibrado:
+
+1\. Estacas, estaquillas e injertos.
+
+Diámetro: Se trata del diámetro mayor de la sección. Esta norma no se aplica a las ramas herbáceas.
+
+a) Estacas injertables e injertos:
+
+aa) diámetro del extremo superior: 6,5 a 12 mm;
+
+ab) diámetro máximo del extremo más grueso: 15 mm, salvo si se trata de injertos destinados al injerto in situ.
+
+b) Estaquillas: Diámetro mínimo del extremo superior: 3,5 mm.
+
+2\. Barbados.
+
+A. Diámetro: El diámetro, medido en la mitad del entrenudo, bajo el brote superior y siguiendo el eje mayor, será al menos igual a 5 mm. Esta norma no es aplicable a los barbados derivados de materiales de multiplicación herbáceos.
+
+B. Longitud: La longitud entre el punto inferior de inserción de las raíces y la bifurcación del brote superior será al menos igual:
+
+a) a 30 cm para los barbados destinados al injerto; no obstante, para los barbados destinados a Sicilia, la longitud exigida será 20 cm;
+
+b) a 20 cm para los otros barbados.
+
+Esta norma no es aplicable a los barbados derivados de materiales de multiplicación herbáceos.
+
+C. Raíces: Cada planta tendrá al menos tres raíces bien desarrolladas y repartidas convenientemente. No obstante, la variedad 420 A podrá tener sólo dos raíces bien desarrolladas, siempre que sean opuestas.
+
+D. Base: El corte deberá haberse efectuado por debajo del diafragma, a una distancia suficiente para no dañarlo pero a no más de un centímetro.
+
+3\. Plantas injerto.
+
+A. Longitud: El tallo tendrá al menos 20 cm de longitud.
+
+Esta norma no es aplicable a las plantas injerto derivadas de materiales de multiplicación herbáceos.
+
+B. Raíces: Cada planta tendrá al menos tres raíces bien desarrolladas y repartidas convenientemente. No obstante, la variedad 420 A podrá tener sólo dos raíces bien desarrolladas, siempre que sean opuestas.
+
+C. Soldadura: Cada planta presentará una soldadura adecuada, regular y segura.
+
+D. Base: El corte se efectuará por debajo del diafragma, a una distancia suficiente para no dañarlo pero a no más de un centímetro.
+
+4\. Plantas cultivadas en recipientes, alvéolos o bandejas.
+
+Estas plantas han de presentar un sarmiento o un brote bien desarrollado y un sistema radicular equilibrado con la parte aérea.
+
+> Se modifica el apartado 4 por el art. 3.2 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. [Ref. BOE-A-2006-13846](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13846)
+
+## ANEXO III — Organismos nocivos
+
+1\. Tratamiento en cultivo: Deberán realizarse los tratamientos fitosanitarios periódicos necesarios, principalmente para el control de nematodos, ácaros, insectos, hongos y bacterias.
+
+2\. Plantas de vivero portadoras de plagas y enfermedades: El material de multiplicación, así como las cepas madre, estarán libres de las siguientes plagas o enfermedades:
+
+Nematodos: «Xiphinema sp.»; «Longidorus sp.».
+
+Ácaros: «Phillocoptes vitis», «Panonychus ulmi» y «Eotetranychus carpini».
+
+Cochinillas: «Pseudococus citri» y «Quadraspidiotus perniciosus».
+
+Podredumbres: «Armillariella mellea» y «Rosellinia necatrix».
+
+Excoriosis: «Phomosis sp.».
+
+Eutiopiosis: «Eutypa armeniaca».
+
+Yesca: «Estereum sp.».
+
+Bacteriosis: «Xylophillus ampelinus, Agrobacterium spp.».
+
+Se admitirá la presencia de ligeras infestaciones de las plagas y enfermedades citadas, siempre que se hubieran realizado los oportunos tratamientos.
+
+3\. Virosis:
+
+a) el virus del entrenudo corto infeccioso de la vid (GFLV) y el virus del mosaico del Arabis (ArMV),
+
+b) la enfermedad del enrollado de la viña: virus del enrollado de la viña I (GLRVI) y virus del enrollado de la viña III (GLRVIII), y
+
+c) el virus del jaspeado de la vid (GFkV) (sólo para los patrones).
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. [Ref. BOE-A-2006-13846](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13846)
+
+## ANEXO IV — Acondicionamiento
+
+Composición de los haces o embalajes
+
+| 1. Tipo | 2. Número de unidades | 3. Cantidad máxima |
+|---|---|---|
+| 1. Plantas injerto. | 25, 50, 100 o múltiplos de 100. | 500 |
+| 2. Barbados. | 50, 100 o múltiplos de 100. | 500 |
+| 3. Injertos. |  |  |
+| - con al menos cinco yemas utilizables. | 100 ó 200. | 200 |
+| - con una yema utilizable. | 500 o múltiplos de 500. | 5.000 |
+| 4. Estacas. | 100 o múltiplos de 100. | 1.000 |
+| 5. Estaquillas. | 100 o múltiplos de 100. | 500 |
+
+Condiciones particulares:
+
+I. Pequeñas cantidades: Si fuese necesario, el tamaño (número de unidades) de los embalajes y haces de todos los tipos y categorías de materiales de multiplicación enumerados en la columna 1, incluidos los materiales de multiplicación iniciales, podrán ser inferiores a las cantidades mínimas indicadas en la columna 2.
+
+II. Plantas de vid con raíces en cualquier sustrato, en macetas, cajas y cartones: No son aplicables el número de unidades ni la cantidad máxima.
+
+III. Plantas embaladas en contenedor: Las plantas embaladas en contenedores precintados podrán llevar una sola etiqueta por contenedor por la cantidad total de plantas que contenga. La cantidad total será un múltiplo de las fijadas para el tipo de material correspondiente, salvo en el caso de las plantas en pot cuyo acondicionado no lo permita.
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. [Ref. BOE-A-2006-13846](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13846)
+
+## ANEXO V — Etiquetado
+
+### 1. Indicaciones obligatorias
+
+La etiqueta oficial tendrá las siguientes informaciones:
+
+1\. Norma CE.
+
+2\. País productor: España.
+
+3\. Organismo responsable de la certificación o el control.
+
+4\. Nombre y dirección de la persona responsable del precintado o su número de identificación.
+
+5\. Especie.
+
+6\. Tipo de material.
+
+7\. Categoría.
+
+8\. Variedad y, en su caso, el clon. Para las plantas injerto esta indicación es aplicable a los portainjertos y los injertos.
+
+9\. Número de referencia del lote.
+
+10\. Cantidad.
+
+11\. Longitud (sólo para las estacas: se refiere a la longitud mínima de las estacas del lote en cuestión).
+
+12\. Año de producción.
+
+### 2. Condiciones mínimas
+
+La etiqueta deberá cumplir los requisitos siguientes:
+
+1\. La etiqueta estará impresa de forma indeleble y será claramente legible.
+
+2\. La etiqueta se colocará en un lugar destacado, de forma que resulte fácilmente visible.
+
+3\. Las indicaciones contempladas en el punto 1 no quedarán en ningún caso disimuladas, veladas o separadas por otras indicaciones o imágenes.
+
+4\. Las indicaciones contempladas en el punto 1 figurarán en un único campo visual.
+
+5\. La dimensión mínima de la etiqueta será de 110 x 67 mm para los haces de estacas, estaquillas e injertos y de 80 x 70 mm para los haces de barbados y plantas-injerto.
+
+### 3. Excepción por lo que respecta a pequeñas cantidades destinadas al usuario final
+
+1\. Más de una unidad: Las indicaciones obligatorias relativas a la etiqueta con arreglo al punto 1.10, rezarán: «Número exacto de unidades por unidad de embalaje o haz».
+
+2\. Sólo una unidad: No serán obligatorias las indicaciones siguientes contempladas en el punto 1:
+
+Tipo de material.
+
+Categoría.
+
+Número de referencia del lote.
+
+Cantidad.
+
+Longitud para las estacas injertables.
+
+Año de producción.
+
+### 4. Excepción con respecto a las vides en macetas, cajas o cartones
+
+En el caso de las plantas de vid con raíces en cualquier sustrato, en macetas, cajas y cartones, siempre que estos materiales no puedan ajustarse a los requisitos de precintado (incluido el etiquetado) debido a su composición:
+
+a) Los materiales de multiplicación se mantendrán en lotes separados que se identificarán adecuadamente atendiendo a la variedad, y en su caso, al clon, así como al número de unidades.
+
+b) La etiqueta oficial no será obligatoria.
+
+c) Los materiales de multiplicación irán acompañados por el documento de acompañamiento o albarán previsto en el artículo 18.
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. [Ref. BOE-A-2006-13846](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13846)
+
+## ANEXO VI — Albarán
+
+### 1. Condiciones que debe cumplir
+
+a) Se realizarán, como mínimo, dos ejemplares del albarán (para el expedidor y el destinatario).
+
+b) El albarán (ejemplar para el destinatario) acompañará la entrega desde el lugar de expedición hasta el lugar de destino.
+
+c) El albarán recogerá todas las indicaciones contempladas en el punto 2 relativas a cada lote que componga la entrega.
+
+d) El albarán se conservará durante un año al menos y se pondrá a disposición del organismo oficial responsable del control.
+
+### 2. Lista de las indicaciones que debe recoger
+
+1\. Norma CE.
+
+2\. País productor: España.
+
+3\. Organismo responsable de la certificación o el control.
+
+4\. Número de orden correlativo.
+
+5\. Expedidor (Nombre, n.º de registro, almacén de partida).
+
+6\. Destinatario (Nombre, almacén de destino).
+
+7\. Especie.
+
+8\. Tipo(s) de material.
+
+9\. Categoría(s).
+
+10\. Variedad(es) y, en su caso, el clon o los clones. Para las plantas injerto esta indicación es aplicable a los portainjertos y los injertos.
+
+11\. Número de lotes de la entrega por tipo de material y por categoría (en su caso).
+
+12\. Número total de lotes.
+
+13\. Fecha de entrega.
+
+14\. Declaración del productor. El productor declara que la mercancía amparada por el presente albarán cumple con todos los requisitos exigidos por la legislación vigente, haciéndose responsable de la veracidad de los datos consignados.
+
+> Se modifica por el art. único de la Orden APA/2474/2006, de 27 de julio. [Ref. BOE-A-2006-13846](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13846)
+
+## ANEXO VII — Producción por multiplicación en verde
+
+1\. Origen del material:
+
+El material de multiplicación provendrá siempre de cepas madre aprobadas por la autoridad competente, de la categoría correspondiente 2.
+
+2\. Multiplicación:
+
+El material vegetal de cepas madre de base se multiplicará en verde y todo el material obtenido durante el año de producción se podrá calificar como material de multiplicación base.
+
+El material vegetal de cepas madre de certificado se multiplicará en verde y todo el material obtenido durante el año de producción se podrá calificar como material de multiplicación certificado.
+
+Las variedades y clones estarán separadas por lotes, debiendo cada lote estar identificado por etiquetaje permanente.
+
+3\. Comunicaciones:
+
+El productor comunicará la declaración de cultivos correspondiente a cada lote en fase de producción antes de un mes desde su plantación.
+
+El conjunto de declaraciones constituirá la base para estimar las necesidades de etiquetas para cada variedad y clon.
+
+4\. Etiquetado:
+
+Las plantas comercializadas en «pots» podrán ir etiquetadas en embalajes amparados por una sola etiqueta.
+
+Las plantas en «pots» que se comercialicen individualmente deberán llevar una etiqueta individual.
+
+Las plantas en «pots» que se comercialicen en embalajes cerrados y precintados podrán llevar su etiqueta adherida a dicho embalaje, en conjuntos de plantas de acuerdo con lo señalado en el anexo III.
+
+En el albarán deberá figurar la información «plantas producidas por multiplicación en verde».

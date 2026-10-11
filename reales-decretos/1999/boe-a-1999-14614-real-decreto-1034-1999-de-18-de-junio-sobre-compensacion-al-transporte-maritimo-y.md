@@ -1,0 +1,313 @@
+---
+title: "Real Decreto 1034/1999, de 18 de junio, sobre compensación al transporte marítimo y aéreo de mercancías, con origen o destino en las Illes Balears"
+identifier: "BOE-A-1999-14614"
+eli: "https://www.boe.es/eli/es/rd/1999/06/18/1034"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-06-18
+published: 1999-07-02
+in_force_from: 1999-07-03
+last_amended: 2023-05-18
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 157"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-14614"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1034/1999, de 18 de junio, sobre compensación al transporte marítimo y aéreo de mercancías, con origen o destino en las Illes Balears
+
+El artículo 7 de la Ley 30/1998, de 29 de julio, del Régimen Especial de las Illes Balears, prevé como medida correctora de los efectos de la insularidad en las Illes Balears el establecimiento de una consignación anual en los Presupuestos Generales del Estado para financiar un sistema de compensaciones al transporte marítimo y aéreo de mercancías interinsular o entre el archipiélago y la península, disponiendo que reglamentariamente se determinará el sistema de concesión de las mismas en sus diversas modalidades, su cuantía, así como sus beneficiarios.
+
+El presente Real Decreto da cumplimiento a dicho mandato, partiendo de la exigencia de abaratar el coste efectivo del transporte aéreo y marítimo de mercancías, teniendo en cuenta el principio de continuidad territorial con la península, y respetando los artículos 87 y 88 del Tratado Constitutivo de la Comunidad Europea, en relación con las exportaciones dirigidas a la Unión Europea.
+
+En este sentido, tal y como se pone de manifiesto en la exposición de motivos de la Ley 30/1998, una de las finalidades primordiales perseguidas por el legislador al introducir bonificaciones al transporte de mercaderías actualmente inexistente en nuestro ordenamiento, es hacer realidad el mandato contenido en el artículo 138.1 de la Constitución, en virtud del cual el Estado garantiza la realización efectiva del principio de solidaridad, velando por el establecimiento de un equilibrio económico, adecuado y justo entre las diversas partes del territorio español, y atendiendo en particular a las circunstancias del hecho insular.
+
+A tal efecto se introducen medidas que, sin implicar privilegio alguno, coadyuven a corregir las desventajas que para las actividades económicas se derivan, tales como las que afectan al abastecimiento de factores productivos, limitaciones a la industria que impiden la diversificación respecto del sector turístico, etc.
+
+Para conseguir estos objetivos, se ha optado por establecer respecto de los sectores de atención preferente relacionados en el antes citado precepto legal, un porcentaje sobre la parte de coste del flete de las mercancías que no supere el correspondiente a un trayecto desde el archipiélago a la península, lo que se complementa con el tratamiento del transporte a las Illes Balears de las mercancías no energéticas susceptibles de ser utilizadas habitualmente y de manera idónea para obtener los productos correspondientes a lo sectores de atención preferente relacionados en el artículo 2 de este Real Decreto, y el del traslado interinsular de residuos no procesables ni reciclables en las islas. Todo ello para después proceder a la distribución proporcional a las cuantías resultantes de la consignación presupuestaria global que en cada anualidad se destine a este fin.
+
+Finalmente, se regula la Comisión mixta, integrada por representantes de la Administración General del Estado y de la Administración de las Illes Balears, encargada, en virtud del artículo 7.4 de la Ley mencionada del Régimen Especial, de efectuar el seguimiento y evaluación de la aplicación del sistema de compensaciones objeto de la norma.
+
+En su virtud, a propuesta de los Ministros de Fomento, de Economía y Hacienda y de Administraciones Públicas, previo informe del Gobierno Balear, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 18 de junio de 1999,
+
+DISPONGO:
+
+## CAPÍTULO I — Sistema de compensaciones
+
+### Artículo 1. Objeto del sistema.
+
+Se establece un sistema de compensaciones destinado a abaratar el coste efectivo del transporte marítimo y aéreo de mercancías entre las Illes Balears, o entre éstas y la península, así como del efectuado entre dichas islas y otros territorios de Estados miembros de la Unión Europea y demás Estados firmantes del Acuerdo sobre el espacio económico europeo.
+
+La aplicación del sistema de compensaciones no podrá dar lugar en ningún caso a un coste efectivo por año natural superior al importe de la consignación que a tal fin figure en los correspondientes Presupuestos Generales del Estado.
+
+### Artículo 2. Transporte marítimo o aéreo de mercancías con origen en las islas y destino en otros territorios.
+
+El transporte de mercancías y productos originarios de las Illes Balears o que hayan sufrido en éstas transformaciones que aumenten su valor, efectuado desde el archipiélago balear a otros territorios de Estados miembros de la Unión Europea y demás Estados firmantes del Acuerdo sobre el Espacio Económico Europeo, o su transporte interinsular, gozará de una compensación. Esta compensación será de hasta el 65 por 100 sobre la parte de coste del flete de dichas mercancías que no supere el promedio, determinado de acuerdo con lo establecido en el artículo 9.2, correspondiente en cada caso al trayecto Palma-Barcelona, Maó-Barcelona o Eivissa-Barcelona según el respectivo puerto de origen si se realiza por vía marítima, o Palma de Mallorca-Madrid, Menorca-Madrid o Ibiza-Madrid por vía aérea desde el aeropuerto de que se trate. Además, será necesario que las mercancías de que se trate se correspondan a alguno de los sectores de atención preferente relacionados a continuación:
+
+a) Productos obtenidos de la industria de la madera, corcho, muebles de madera, incluida la madera tratada para su preparación industrial, la madera semielaborada y las piezas de carpintería de fabricación en serie, parqué, estructuras de madera para la construcción, puertas, ventanas, envases y embalajes de madera.
+
+b) Artículos de peletería natural y artificial, aptos para ser utilizados como piezas de vestir o como accesorios del vestido.
+
+c) Calzado, incluido el ortopédico, tanto en serie como artesanal o a medida.
+
+d) Producciones de la industria del cuero, adobo y acabados de cueros y pieles, incluidos los artículos de marroquinería y de viaje confeccionados con cuero.
+
+e) Confección en serie y a medida de todo tipo de piezas de vestir y sus complementos.
+
+f) Artículos de joyería y bisutería, incluidas las perlas artificiales.
+
+g) Productos artesanales que gocen de la calificación correspondiente, otorgada por la Consejería de Agricultura, Comercio e Industria del Gobierno balear.
+
+h) Productos industriales transformados en las islas, con un valor añadido superior al 20 por 100.
+
+i) Artículos susceptibles de ser utilizados para la nutrición humana, de acuerdo con lo establecido en el Código Alimentario Español.
+
+> Se modifica el primer párrafo por el art. único.1 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Artículo 3. Transporte marítimo o aéreo con destino a las Illes Balears y origen en otros territorios, de artículos sin suficiente producción interior.
+
+El transporte a las Illes Balears desde otros territorios de Estados miembros de la Unión Europea y demás firmantes del Acuerdo sobre el Espacio Económico Europeo, así como el transporte interinsular, de las mercancías no energéticas susceptibles de ser utilizadas habitualmente y de manera idónea para obtener los productos correspondientes a los sectores de atención preferente relacionados en el artículo 2, gozará de una compensación. Esta compensación será de hasta el 60 por 100 sobre la parte de coste del flete de dichas mercancías que no supere el promedio, determinado de acuerdo con lo establecido en el artículo 9.2, correspondiente al trayecto Barcelona-Palma, Barcelona-Maó o Barcelona-Eivissa según el respectivo puerto de destino si se realiza por vía marítima, o Madrid-Palma de Mallorca, Madrid-Menorca o Madrid-Ibiza por vía aérea hasta el aeropuerto de que se trate, siempre que no exista producción interior balear de los mismos o en la medida en que ésta fuera insuficiente.
+
+El Delegado del Gobierno en la Comunidad Autónoma de las Illes Balears elaborará una lista, sin carácter excluyente, de artículos que cumplen los requisitos para acogerse a esta bonificación, y podrá modificarla anualmente, en razón de que exista o no producción interior balear de tales productos y de la variación que registren las partidas arancelarias correspondientes, previo informe del Gobierno Balear y de la Comisión mixta a que se refiere el artículo 13, debiéndose publicar dicha lista y sus modificaciones en el “Boletín Oficial del Estado”.
+
+> Se modifica por el art. único.2 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Artículo 4. Transporte marítimo o aéreo interinsular.
+
+El transporte interinsular marítimo o aéreo de residuos originarios de las Illes Balears, sin plantas para ser procesados o reciclados en la isla donde se han generado, gozará de una compensación sobre el promedio del coste correspondiente a estos fletes de hasta el 60 por 100.
+
+Se exceptúa de esta compensación el traslado a la Península de aquellos flujos de residuos a los que les resulten de aplicación las obligaciones que deriven de la responsabilidad ampliada del productor, de conformidad con lo dispuesto en la disposición adicional tercera de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 332/2023, de 3 de mayo. [Ref. BOE-A-2023-11736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11736)
+
+### Artículo 5. Ámbito de aplicación.
+
+1\. A los efectos de lo establecido en este real decreto se entiende que una mercancía es originaria de las Illes Balears cuando haya sido totalmente producida o transformada en su territorio.
+
+2\. Se entenderá que una mercancía ha sido transformada en las Illes Balears cuando haya sido objeto en su territorio de operaciones productivas de transformación cuyo resultado implique una modificación sustantiva de sus características esenciales, de forma que supongan un cambio de partida arancelaria o, si dicho cambio no se produjera, que incorporen un valor añadido superior al 20 por 100 del valor CIF (coste, seguro y flete) en el puerto o aeropuerto balear correspondiente a las islas donde se hayan transformado las mercancías.
+
+Excepcionalmente, el Delegado del Gobierno en la Comunidad Autónoma de las Illes Balears podrá realizar modificaciones al anterior porcentaje en función de las circunstancias concurrentes, previo informe del Gobierno Balear y de la Comisión mixta a que se refiere el artículo 13, publicándose en el “Boletín Oficial del Estado”.
+
+3\. No se considerará que una mercancía ha sido objeto de transformación cuando las operaciones realizadas sobre la misma, aun implicando un cambio de partida arancelaria, se limiten o consistan en:
+
+a) Las operaciones destinadas a garantizar la conservación de las mercancías en buen estado durante su transporte y su almacenamiento (ventilación, tendido, secado, separación de partes deterioradas y operaciones similares) o facilitar las operaciones de traslado o transporte.
+
+b) Las operaciones simples de desempolvado, cribado, selección, clasificación, preparación de surtidos, lavado y troceado.
+
+c) Los cambios de embalaje y la división y agrupamiento de bultos, el simple envasado en botellas, latas, frascos, bolsas, estuches y cajas, la colocación sobre cartulinas o tableros, etc., y cualquier otra operación sencilla de embalaje.
+
+d) La presentación de mercancías en juegos o conjuntos o la puesta en venta.
+
+e) La colocación de marcas, etiquetas y otros signos distintivos similares en los mismos productos o en sus embalajes.
+
+f) El desmontaje o el cambio de uso.
+
+g) La combinación de dos o más operaciones especificadas en las letras a) a f).
+
+La Delegación del Gobierno en Illes Balears podrá solicitar informe al órgano de la Administración Pública que tenga competencia sobre la materia acerca de las operaciones que no se consideran transformación.
+
+4\. Tampoco se incluirán en el sistema de compensaciones las mercancías transportadas a las Illes Balears destinadas directamente y sin ningún tipo de manipulación a la construcción de inmuebles u obras civiles o a la producción de bienes no susceptibles por sus características de posterior traslado fuera de las islas, siempre que dichas mercancías no estén comprendidas en algunos de los sectores de interés preferente de acuerdo con lo dispuesto en el artículo 2.
+
+5\. La exclusión de ciertas mercancías del régimen de compensación regulado en este real decreto no impedirá la compensación a los productores de dichas mercancías por el transporte de mercancías y productos complementarios (envases y embalajes) elegibles con destino a Illes Balears.
+
+> Se modifica por el art. único.3 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+## CAPÍTULO II — Procedimiento de concesión de las compensaciones
+
+### Artículo 6. Finalidad del procedimiento.
+
+El procedimiento objeto de este capítulo tiene por finalidad regular el otorgamiento del sistema de compensaciones establecido en este Real Decreto, y estará referido a los transportes realizados durante el año natural anterior a aquél en que se concedan las compensaciones.
+
+### Artículo 7. Beneficiarios de las compensaciones.
+
+1\. Serán beneficiarios de las compensaciones las siguientes personas:
+
+a) En el caso de mercancías y productos originarios de las Illes Balears transportadas a otros territorios de Estados miembros de la Unión Europea y demás Estados firmantes del Acuerdo sobre el espacio económico europeo, o transportadas entre islas, el remitente de las mercancías que hayan sido vendidas en cualquier régimen de contratación que obligue al expedidor o exportador a soportar el coste del transporte.
+
+b) En el caso de los envíos interinsulares de residuos será beneficiario de la compensación el receptor de dichos envíos, siempre y cuando a los envíos no les resulten de aplicación las obligaciones derivadas de la responsabilidad ampliada del productor.
+
+c) En el caso de las mercancías sin suficiente producción interior enviadas a las Illes Balears a que se refiere el artículo 3, o enviadas entre islas, los receptores de las mismas que las transformen.
+
+2\. En todos los supuestos será necesario que el beneficiario acredite haber efectuado el pago del importe del flete correspondiente al transporte.
+
+3\. El beneficiario que soporte los costes del transporte no podrá haber repercutido a terceros la parte del coste del flete para la que solicita la subvención.
+
+4\. En los supuestos regulados en las letras a) y c) del apartado 1 de este artículo, los solicitantes deberán hacer constar en sus solicitudes de compensación:
+
+a) El registro integrado industrial del establecimiento donde se transforma o produce la mercancía (división a.– de establecimientos que realicen las actividades o instalaciones, previstas en el artículo 4.1 del Real Decreto 559/2010, de 7 de mayo),
+
+b) la carta de artesano o calificación artesanal, o, en su caso,
+
+c) la justificación de encontrarse incorporado en el censo de industrias agrarias que transformen los productos, de acuerdo con lo dispuesto en la normativa estatal y autonómica vigente.
+
+> Se modifica por el art. único.4 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Artículo 8. Solicitudes, plazos y documentación.
+
+1\. La convocatoria para el otorgamiento de las compensaciones se aprobará en el primer cuatrimestre de cada año, mediante resolución de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana.
+
+De acuerdo con el artículo 20.8.a), de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, el Ministerio de Transportes, Movilidad y Agenda Urbana comunicará a la Base de Datos Nacional de Subvenciones el texto de la convocatoria y la información requerida por esta. La Base de Datos Nacional de Subvenciones dará traslado al “Boletín Oficial del Estado” del extracto de la convocatoria, para su publicación.
+
+2\. Todas las fases del procedimiento, incluso las obligaciones y los derechos posteriores a la resolución, se tramitarán exclusivamente por medios electrónicos, incluyendo a las personas físicas solicitantes de la compensación al transporte. Si no se utilizaran dichos medios y salvo casos de mal funcionamiento de las aplicaciones informáticas, el órgano administrativo competente requerirá la correspondiente subsanación, advirtiendo que, de no ser atendido, la presentación carecerá de validez. A estos efectos, se considerará como fecha de presentación de la solicitud aquella en la que ha sido realizada la subsanación.
+
+Los interesados dirigirán las solicitudes a la Delegación del Gobierno en la Comunidad Autónoma de Illes Balears por medio de la aplicación telemática puesta a disposición de las personas interesadas en la sede electrónica del Ministerio de Política Territorial y Función Pública, en el plazo de un mes a contar desde el día siguiente a la publicación de la convocatoria. El formulario de solicitud y los documentos electrónicos necesarios para cumplimentar y presentar las solicitudes estarán disponibles en esa sede electrónica.
+
+La práctica de la notificación de este procedimiento de compensación al transporte de mercancías se realizará mediante la comparecencia electrónica en la sede electrónica del citado departamento competente en Administraciones territoriales, en la forma regulada en el artículo 41 de la Ley 39/2015, de 1 de octubre.
+
+3\. Las solicitudes deberán referirse a transportes realizados durante el último año natural.
+
+4\. Los solicitantes de las compensaciones deberán presentar los documentos que se relacionan a continuación:
+
+a) La acreditación de la identidad del solicitante y, en su caso, la representación. El incumplimiento de esta obligación, de no subsanarse, dará lugar a que se dé por desistido al interesado de su solicitud.
+
+Las personas que realicen la firma o la presentación electrónica de documentos en representación de las entidades solicitantes o beneficiarias de las ayudas deberán ostentar la representación necesaria para cada actuación. El certificado electrónico deberá corresponder al solicitante de la ayuda o a su representante legal.
+
+La representación podrá acreditarse mediante cualquier medio válido en Derecho que deje constancia fidedigna de su existencia.
+
+b) Acreditación del conocimiento de embarque o, en su defecto, una declaración responsable del solicitante, en la que se harán constar el número de envíos y trayectos realizados, la naturaleza y el peso de las mercancías transportadas, y una certificación del transportista o de la agencia de transporte, en la que habrán de reflejarse los envíos realizados, el destino, el medio y el importe de transporte y, en su caso, el importe del flete. Asimismo, el distribuidor, proveedor o almacenista podrá expedir un certificado con los datos reseñados en el párrafo anterior, equivalente al certificado del transportista, siempre y cuando figuren también los datos del citado transportista. Estos documentos, complementarios de la factura correspondiente, tendrán eficacia administrativa y estarán sometidos a las comprobaciones señaladas en el artículo 14.
+
+En todos los casos se deberá justificar el pago de las facturas, aceptándose todos los medios de pago admisibles en derecho que acrediten fehacientemente el pago material de los transportes.
+
+La Delegación del Gobierno en Illes Balears pondrá a disposición de los interesados, por medios electrónicos, los modelos del certificado y de la declaración responsable, que tendrán la validez temporal que indiquen.
+
+En las solicitudes de compensación superiores a 20.000 euros será preciso aportar el importe del flete, o bien, justificar, mediante certificación del transportista o proveedor, cuando no sea posible conocer el importe efectivo del flete objeto de la compensación.
+
+c) Declaración de que no se han recibido otras subvenciones para la financiación del transporte o, en el caso de que se hubieran recibido, el importe total de las mismas, así como relación de éstas y certificación de los Organismos o entidades concedentes.
+
+La documentación a que se hace referencia en este artículo habrá de presentarse en copia simple o auténtica, y deberá ser compatible con su tratamiento mediante un sistema de intercambio electrónico de datos, siempre que ello se prevea en la normativa comunitaria o interna sobre la materia. Los interesados se responsabilizarán de la veracidad de los documentos que presenten.
+
+> Se modifica por el art. único.5 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+> Se modifican los apartados 1 y 3.b) por el art. 1.1 y 2 del Real Decreto 101/2002, de 25 de enero. [Ref. BOE-A-2002-2329](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2329).
+
+### Artículo 9. Resolución.
+
+1\. El Delegado del Gobierno en la Comunidad Autónoma de las Illes Balears resolverá sobre las solicitudes presentadas y las correspondientes propuestas de gasto, pudiendo aprobar y reconocer las obligaciones correspondientes a transporte realizados durante el año natural anterior hasta el importe total del crédito presupuestario del ejercicio. Sus resoluciones pondrán fin a la vía administrativa.
+
+2\. La Delegación del Gobierno en la Comunidad Autónoma de las Illes Balears determinará los promedios de los costes de los fletes más representativos, teniendo en cuenta el principio de empresa eficiente y bien gestionada, para cada uno de los sectores y trayectos a que se refieren los artículos 2 y 3, a efectos de la aplicación a las solicitudes presentadas de los límites en ellos establecidos. Asimismo, comprobará si los artículos transportados para los que se solicita la compensación corresponden a los sectores y demás supuestos contemplados en este real decreto.
+
+En función de su situación especial se establecerá una tabla específica de fletes promedio para la Isla de Formentera para las mercancías con destino a dicha isla o para aquellas producidas o transformadas en la misma, cuando su destino último sea Madrid o Barcelona, según se utilice avión o barco desde la Isla de Eivissa.
+
+3\. La Delegación del Gobierno en la Comunidad Autónoma de las Illes Balears procederá a ajustar las solicitudes anuales a las cuantías máximas establecidas en los artículos 2, 3 y 4, reduciendo en su caso a continuación aquéllas que sobrepasen los importes señalados en el artículo 11, para darles cumplimiento. En el caso de que el total resultante exceda de las disponibilidades presupuestarias consignadas para este fin se efectuará la modificación proporcional de las cantidades obtenidas hasta anular el exceso de gasto.
+
+4\. Las compensaciones derivadas del procedimiento regulado en los apartados anteriores se concederán mediante resolución general o resoluciones individuales dictadas por el Delegado del Gobierno en la Comunidad Autónoma de las Illes Balears, lo que se notificará a los interesados, poniendo fin a la vía administrativa.
+
+La Delegación del Gobierno en la Comunidad Autónoma de las Illes Balears podrá aplicar, para la determinación de la cuantía de la compensación a otorgar, costes medios representativos calculados conforme a criterios objetivos, cuando, en razón de la concreta modalidad de transporte efectuado, no haya sido posible aportar junto a la solicitud el documento acreditativo del importe efectivo del flete objeto de compensación.
+
+5\. El plazo máximo para notificar la resolución de las solicitudes de compensación será de seis meses a contar desde el día de publicación de la resolución de la convocatoria en el “Boletín Oficial del Estado”. Transcurrido ese plazo sin haberse notificado resolución expresa, los interesados podrán entender desestimada por silencio administrativo la solicitud de concesión de la subvención.
+
+> Se modifican los apartados 2, 3 y 5 por el art. único.6 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+> Se modifican los apartados 1 y 5 y se añade un párrafo segundo al apartado 4 por el art. 1.3 y 4 y art. 2.1 del Real Decreto 101/2002, de 25 de enero. [Ref. BOE-A-2002-2329](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2329).
+
+### Artículo 10. Obligaciones de los beneficiarios.
+
+Los beneficiarios de estas compensaciones vendrán obligados a:
+
+a) Aportar la documentación que acredite que están al corriente de sus obligaciones tributarias y con la Seguridad Social.
+
+b) Facilitar cuanta información les sea requerida tanto por el órgano concedente como por la Intervención General de la Administración del Estado y por el Tribunal de Cuentas, en relación con la subvención concedida.
+
+c) Comunicar al órgano concedente de la compensación, la obtención de subvenciones para la misma actividad de cualquier Administración pública o ente público o privado, nacional o internacional, con carácter posterior a la concesión de las compensaciones.
+
+d) Llevar los registros contables a que vengan obligados de modo que permitan identificar de forma diferenciada las partidas o gastos concretos en que se han materializado las compensaciones concedidas, así como las ayudas y subvenciones concedidas con el mismo objeto, y que por diferencia permitan obtener un estado de rendición de cuentas de las cantidades o fondos públicos percibidos en concepto de subvención.
+
+e) Cuando el órgano concedente lo estime conveniente, para la justificación de subvenciones por un importe superior a 20.000 euros, se realizará a cargo del propio beneficiario un informe de procedimientos acordados de auditor de cuentas inscrito como ejerciente en el Registro oficial de Auditores de Cuentas dependiente del Instituto de Contabilidad y Auditoría de Cuentas. En aquellos casos en que el beneficiario esté obligado a auditar sus cuentas anuales por un auditor sometido a la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, la revisión se llevará a cabo por el mismo auditor.
+
+> Se modifica la letra e) por el art. único.7 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Artículo 11. Concurrencia de ayudas.
+
+El importe de las compensaciones concedidas en ningún caso podrá ser de tal cuantía que, aisladamente o en concurrencia con subvenciones o ayudas de otras Administraciones públicas o entes públicos o privados, nacionales o internacionales, supere el coste del transporte para los trayectos equivalentes al Palma de Mallorca-Barcelona por vía marítima, o Palma de Mallorca-Madrid por vía aérea, en cuanto al transporte de mercancías, ni el del transporte interinsular respecto de los residuos no reciclables ni procesables en las islas.
+
+Si se comprobara que por dicha concurrencia se supera dicho coste procederá el reintegro del exceso.
+
+### Artículo 12. Normativa sobre subvenciones.
+
+1\. A las compensaciones reguladas por este real decreto le será de aplicación lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, así como su Reglamento de aplicación aprobado por el Real Decreto 887/2006, de 21 de julio. En lo no previsto en estas disposiciones se aplicará la Ley 39/2015, de 1 de octubre.
+
+2\. El procedimiento de concesión de las compensaciones será el de concesión directa según lo previsto en el artículo 22.2 de la Ley 38/2003 y el artículo 66 de su Reglamento, relativa a subvenciones de concesión directa impuesta a la Administración por una norma de rango legal.
+
+3\. La presentación de la solicitud por medios electrónicos por parte del beneficiario incluirá su autorización expresa al órgano gestor para recabar los certificados a emitir por la Agencia Estatal de Administración Tributaria y por la Tesorería General de la Seguridad Social.
+
+> Se modifica por el art. único.8 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Artículo 13. Comisión mixta.
+
+Se crea una comisión mixta, compuesta por un representante del Ministerio de Transportes, Movilidad y Agenda Urbana, que actuará como Presidente, un representante del Ministerio de Hacienda, por un representante de la Delegación del Gobierno en Illes Balears, que actuará como Secretario, y por tres representantes del Govern de les Illes Balears. Sus funciones consisten en efectuar el seguimiento y evaluación de la aplicación del sistema de compensación establecido en este real decreto y emitir los informes que en el mismo se preceptúan.
+
+El funcionamiento de la comisión mixta se regirá por lo dispuesto para los órganos colegiados en el título preliminar, capítulo II, de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, pudiendo recabar informes de los órganos de representación de los consumidores y usuarios o de las asociaciones empresariales afectadas.
+
+> Se añade por el art. único.9 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+> Se modifica por el art. 1.5 del Real Decreto 101/2002, de 25 de enero. [Ref. BOE-A-2002-2329](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2329).
+
+### Artículo 14. Inspección y control.
+
+La Delegación del Gobierno en la Comunidad Autónoma de las Illes Balears efectuará comprobaciones periódicas, mediante muestreos aleatorios en proporción al número de compensaciones reconocidas, del contenido de los datos reflejados en las declaraciones a las que se refiere el artículo 8.4.
+
+> Se modifica por el art. único.10 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+> Se añade por el art. 2.2 del Real Decreto 101/2002, de 25 de enero. [Ref. BOE-A-2002-2329](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-2329).
+
+### Disposición adicional primera. Aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis.
+
+La cuantía acumulada de las compensaciones contempladas en este real decreto, por cada persona física o jurídica, no podrá superar el importe máximo total señalado en el Reglamento (UE) 1407/2013, prorrogado por el Reglamento (UE) 2020/972, salvo que se obtenga autorización de la Comisión Europea. En este sentido, y mientras se encuentre vigente, esta ayuda se acoge al Marco Nacional Temporal aprobado por la Comisión Europea en su Decisión SA.102771(2022/N).
+
+Las compensaciones previstas en este real decreto se aplicarán al transporte de los productos según el ámbito de aplicación y los condicionados que establece el citado Reglamento (UE) 1407/2013 de la Comisión o norma que lo modifique o sustituya.
+
+> Se modifica por la disposición final 5 del Real Decreto-ley 14/2022, de 1 de agosto. [Ref. BOE-A-2022-12925](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12925)
+
+> Se modifica por el art. único.11 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Disposición adicional segunda. Publicidad de la subvención por parte del beneficiario.
+
+En cumplimiento de lo dispuesto en el artículo 18 de la Ley 38/2003, de 17 de diciembre, General de Subvenciones, el beneficiario de esta subvención deberá dar adecuada publicidad al carácter público de la bonificación recibida. La medida de difusión que debe adoptar el beneficiario de la ayuda consistirá en la colocación de un letrero, en lugar visible en el establecimiento, con la leyenda “Esta empresa se ha acogido a las subvenciones del Gobierno de España para el transporte de mercancías en Illes Balears, en el ejercicio 20__”, y con la imagen institucional de la entidad concedente.
+
+> Se modifica por el art. único.12 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Disposición adicional tercera. Disponibilidad presupuestaria.
+
+La limitación establecida en los artículos 1 y 9.3 de este real decreto se entenderá sin efecto siempre que los créditos presupuestarios afectados sean declarados ampliables en las respectivas Leyes de Presupuestos Generales del Estado.
+
+> Se añade por el art. único.13 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)
+
+### Disposición adicional cuarta. Régimen de la compensación al transporte de mercancías peligrosas esenciales.
+
+Las mercancías peligrosas que por su tipología, finalidad, destinatario y cantidad sean consideradas esenciales por el Gobierno Balear, con la evaluación positiva de la Comisión Mixta de seguimiento y evaluación, gozarán de un régimen especial de bonificación al transporte.
+
+Esta caracterización se llevará a cabo en el primer trimestre de cada año o, en todo caso, durante el año natural de la adquisición de la mercancía por el beneficiario.
+
+Así, el transporte de estas mercancías peligrosas esenciales por vía marítima a las islas Baleares, desde otros territorios de Estados miembros de la Unión Europea y demás firmantes del Acuerdo sobre el Espacio Económico Europeo, así como el transporte interinsular, gozará de una compensación que será de hasta el 100 por 100 sobre la parte de coste del flete de dichas mercancías que no supere el promedio, determinado de acuerdo con lo establecido en el artículo 9.2, correspondiente al trayecto Barcelona-Palma, Barcelona-Maó o Barcelona-Eivissa según el respectivo puerto de destino.
+
+> Se añade por la disposición final 1.2 del Real Decreto 332/2023, de 3 de mayo. [Ref. BOE-A-2023-11736](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11736)
+
+### Disposición transitoria única. Inicio del procedimiento.
+
+El acuerdo por el que se inicie el procedimiento referido a transportes realizados durante 1998 habrá de ser adoptado antes del transcurso de un mes desde la entrada en vigor del presente Real Decreto, contándose a partir de su publicación los plazos a que se refieren los artículos 8 y 9 anteriores.
+
+### Disposición final primera. Habilitación dispositiva.
+
+Se faculta a los Ministros de Fomento, de Economía y Hacienda y de Administraciones Públicas para dictar, en el ámbito de sus respectivas competencias, cuantas disposiciones sean precisas para la aplicación de este Real Decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de junio de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+> Información relacionada
+
+> Téngase en cuenta que las referencias hechas en el presente Real Decreto a los órganos suprimidos por el Real Decreto 2/2020, de 12 de enero, por el que se reestructuran los departamentos ministeriales, [Ref. BOE-A-2020-410](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-410), se entenderán realizadas a los que, por esta última norma, se crean y los sustituyen o asumen sus competencias, según establece la disposición final 3 del Real Decreto 232/2020, de 4 de febrero. [Ref. BOE-A-2020-2163](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2163)

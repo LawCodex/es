@@ -1,0 +1,269 @@
+---
+title: "Orden de 24 de febrero de 1999 por la que se fija la cuantía de los precios públicos de los servicios prestados por el Instituto de Toxicología"
+identifier: "BOE-A-1999-7412"
+eli: "https://www.boe.es/eli/es/o/1999/02/24/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1999-02-24
+published: 1999-03-31
+in_force_from: 1999-04-01
+last_amended: 2015-07-22
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 77"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-7412"
+retrieved: 2026-10-11
+---
+
+# Orden de 24 de febrero de 1999 por la que se fija la cuantía de los precios públicos de los servicios prestados por el Instituto de Toxicología
+
+Téngase en cuenta que las referencia hechas al "Instituto Nacional de Toxicología" deben entenderse hechas al "Instituto Nacional de Toxicología y Ciencias Forenses", según establece la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. [Ref. BOE-A-2015-8167](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8167) y de conformidad con la Ley Orgánica 19/2003, de 23 de diciembre. [Ref. BOE-A-2003-23644](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23644)
+
+El Instituto de Toxicología es un órgano técnico adscrito al Ministerio de Justicia que tiene como misión fundamental auxiliar a la Administración de Justicia, cuya regulación se establece en la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y, en desarrollo de ésta, en el Reglamento del Instituto de Toxicología, aprobado por Real Decreto 862/1998, de 8 de mayo.
+
+El citado Instituto tiene como funciones, además de las propias de auxilio a la Administración de Justicia, la realización de los análisis y las investigaciones solicitados por organismos y empresas públicas cuando afecten al interés general, y por particulares en el curso de procesos judiciales; respecto de las cuales la propia norma reguladora del Instituto prevé el percibo de una contraprestación económica por la realización de estos servicios, contraprestación que participa de la naturaleza jurídica de precio público.
+
+En consecuencia, la presente disposición tiene como finalidad fijar la cuantía de los precios públicos que ha de regir la prestación de servicios por parte del Instituto de Toxicología, de conformidad con las previsiones de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+
+En su virtud, y a propuesta del Instituto de Toxicología, dispongo:
+
+## Artículo 1. Prestaciones sujetas a precios públicos.
+
+Los análisis e investigaciones realizados por el Instituto de Toxicología a solicitud de organismos y empresas públicas en cuestiones que afecten al interés general, y de particulares en el curso de procesos judiciales estarán sujetos al pago de los precios públicos que figuran en el anexo a esta Orden.
+
+## Artículo 2. Otras prestaciones.
+
+1\. Para la prestación de servicios por el Instituto de Toxicología que no se encuentren recogidos en el anexo a esta Orden, en el que se distingue el tipo de análisis y la clase de muestra, se elaborará un presupuesto previo, calculado con arreglo a los criterios siguientes:
+
+a) El tiempo empleado en la realización de los trabajos por el personal facultativo del Instituto se facturará a 12.000 pesetas/hora.
+
+b) El tiempo empleado en la realización de los trabajos por el personal técnico auxiliar del Instituto se facturará a 6.000 pesetas/hora.
+
+c) Los gastos generales por el consumo de energía eléctrica, agua, materiales, amortización de equipos y demás suministros que se ocasionen con motivo de la realización de los trabajos se facturarán por separado y a su precio de coste.
+
+El citado presupuesto se remitirá al solicitante del servicio para su aprobación con anterioridad al inicio de la prestación.
+
+2\. Las operaciones de limpieza, ajuste y preparación, previas a la realización del correspondiente servicio para el que esté establecido el precio público y que sean necesarios para su prestación, se facturarán de acuerdo con los criterios fijados en el apartado 1 del presente artículo.
+
+## Artículo 3. Impuesto sobre el Valor Añadido.
+
+Los precios públicos establecidos en el anexo a esta Orden estarán sujetos, en su caso, al pago del Impuesto sobre el Valor Añadido, de acuerdo con la legislación tributaria.
+
+## Artículo 4. Disposiciones comunes.
+
+1\. La administración y cobro de los precios públicos a que se refiere la presente Orden se realizará por el Instituto de Toxicología.
+
+2\. El pago de los precios públicos regulados en esta Orden se exigirá desde el momento en el que se inicie la prestación del servicio por el Instituto de Toxicología.
+
+No obstante lo anterior, podrá exigirse la anticipación o depósito previo del importe total o parcial de los precios.
+
+3\. El pago de los precios públicos se realizará en efectivo y su ingreso tendrá lugar en una cuenta restringida de la entidad financiera que, a este efecto, autorice el Ministerio de Economía y Hacienda.
+
+4\. Procederá la devolución del importe satisfecho o la parte proporcional al mismo cuando, por causas no imputables al obligado al pago del precio, el Instituto de Toxicología no haya prestado los servicios solicitados por el interesado.
+
+5\. Para lo no previsto se estará a lo dispuesto en la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+
+## Disposición final única.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Lo que digo a V. I. para su conocimiento y efectos. Madrid, 24 de febrero de 1999.
+
+MARISCAL DE GANTE Y MIRÓN
+
+Ilmo. Sr. Director general de Relaciones con la Administración de Justicia.
+
+## ANEXO
+
+A) análisis toxicológico inorgánico.
+
+1\. Análisis general de cationes de mayor interés toxicológico por A.A:
+
+Determinación en Fluidos: 126,00 euros.
+
+Determinación en Vísceras y productos sólidos: 140,00 euros.
+
+Por muestra adicional: 70,00 euros.
+
+Análisis y cuantificación de elemento concreto por AA: 98,00 euros.
+
+Por muestra adicional: 70,00 euros.
+
+2\. Análisis general por Espectroscopia de emisión con plasma (ICP):
+
+Por cada elemento: 8,00 euros.
+
+3\. Análisis general de aniones de mayor interés toxicológico:
+
+Análisis general: 126,00 euros.
+
+Análisis de un anión concreto: 70,00 euros.
+
+Por muestra adicional: 70,00 euros.
+
+B) Análisis toxicológico orgánico.
+
+1\. Análisis general por técnicas presuntivas y confirmativas:
+
+En fluidos biológicos: 140,00 euros.
+
+En vísceras, cebos y productos sólidos orgánicos: 175,00 euros.
+
+En muestras no biológicas: 84,00 euros.
+
+Por muestra adicional: 42,00 euros.
+
+2\. Análisis de una sustancia concreta: 84,00 euros.
+
+3\. Análisis general de drogas de abuso:
+
+Análisis general por técnicas presuntivas y confirmativas:
+
+En fluidos biológicos: 98,00 euros.
+
+En pelo/por segmento: 140,00 euros.
+
+En muestras no biológicas: 70,00 euros.
+
+Por muestra adicional: 42,00 euros.
+
+Especificación de una droga en concreto:
+
+En fluidos biológicos: 70,00 euros.
+
+En pelo/por segmento: 98,00 euros.
+
+En muestras no biológicas: 42,00 euros.
+
+4\. Análisis de tóxicos volátiles orgánicos
+
+Análisis general por técnicas presuntivas y confirmativas: 168,00 euros.
+
+Por muestra adicional: 49,00 euros.
+
+Por sustancia concreta (alcoholemia): 49,00 euros.
+
+C) Otros análisis.
+
+Trihalometanos en agua: 49,00 euros.
+
+Carboxihemoglobina por técnicas espectroscópicas: 29,50 euros.
+
+Identificación botánica de plantas superiores: 98,00 euros.
+
+Identificación de setas: 90,00 euros.
+
+D) Estudios de ADN.
+
+1\. Investigación biológica de parentesco:
+
+1.a Estudios de filiación (H-M/P) o (H-M-P): 600,00 euros.
+
+Por persona adicional: 200,00 euros.
+
+Con muestras procedentes de exhumación: 800,00 euros.
+
+Con muestras del entorno familiar (cepillos de dientes, maquinilla...): 700,00 euros.
+
+1.b Parentesco vía paterna (hermandad u otro tipo) dos personas, estudio Cromosoma Y: 400,00 euros.
+
+Por persona adicional: 200,00 euros.
+
+Con muestras procedentes de exhumación: 600,00 euros.
+
+Con muestras del entorno familiar (cepillos de dientes, maquinilla...): 500,00 euros.
+
+1.c Parentesco vía materna, dos personas, ADN Mitocondrial: 500,00 euros.
+
+Por persona adicional: 250,00 euros.
+
+Con muestras procedentes de exhumación o del entorno familiar (cepillos de dientes, maquinilla...): 650,00 euros.
+
+2\. Individualización genética (perfil genético de STRs autosómicos):
+
+Por persona o muestra forense (sangre, semen...): 200,00 euros.
+
+Por muestra procedente de exhumación o del entorno familiar (cepillos de dientes, maquinilla...): 300,00 euros.
+
+3\. ADN antiguo:
+
+Por persona de referencia: 300,00 euros.
+
+Por muestra forense: 700,00 euros.
+
+4\. Otros Estudios de ADN:
+
+Por muestra para estudio microbiológico: 200,00 euros.
+
+Por muestra para estudio de especie (animal, vegetal...): 200,00 euros.
+
+E) Análisis bioquímicos:
+
+1\. Diagnóstico de alcoholismo crónico:
+
+Bioquímica en suero: 42,00 euros:
+
+Marcador específico en pelo: 98,00 euros.
+
+F) Medio Ambiente:
+
+1\. Medida del pH por técnicas electroquímicas: 12,00 euros.
+
+2\. Medida de la conductividad por técnicas electroquímicas: 12,00 euros.
+
+3\. Determinación de la salinidad por técnicas electroquímicas: 12,00 euros.
+
+4\. Determinación de la dureza del agua por complexometría: 40.50 euros.
+
+5\. Pérdida de peso a 105 °C por gravimetría: 24,50 euros.
+
+6\. Lixiviación: 81.50 euros.
+
+7\. Determinación de sólidos solubles por técnicas electroquímicas: 12,00 euros.
+
+8\. Determinación de sólidos en suspensión por gravimetría: 24.50 euros.
+
+9\. Determinación de sólidos sedimentables mediante el cono Imhoff: 24.50 euros.
+
+10\. Determinación de DBO5: 57,00 euros.
+
+11\. Determinación de DQO por fotometría de absorción molecular: 49,00 euros.
+
+12\. Determinación de detergentes por el método de azul de metileno: 49,00 euros.
+
+13\. Determinación de fenoles totales por espectrofotometría: 49,00 euros.
+
+14\. Determinación de aceites y grasas por gravimetría: 49,00 euros.
+
+15\. Determinación de amonio mediante electrodo selectivo: 34,00 euros.
+
+16\. Determinación de fluoruros mediante electrodo selectivo: 34,00 euros.
+
+17\. Determinación de carbono orgánico total, carbono total y carbono inorgánico disueltos, por el método de oxidación por combustión catalítica y detección por IR: 64,00 euros.
+
+18\. Determinación de nitrógeno total disuelto, por combustión catalítica, oxidación y detección por quimioluminiscencia: 34,00 euros.
+
+19\. Determinación de metales disueltos por ICP (por cada metal): 8,00 euros.
+
+20\. Ensayo de inhibición de la fluorescencia de Vibrio fischeri: 163,00 euros.
+
+21\. Toxicidad aguda en Daphnia magna: 204,00 euros.
+
+22\. Ensayo de inhibición del crecimiento del alga Chlorella vulgaris: 326,00 euros.
+
+23\. Bioensayo de inhibición de la viabilidad en células de peces: 560,00 euros.
+
+G) Ejercicios interlaboratorios:
+
+Por una muestra/control y un ejercicio/año: 70,00 euros.
+
+Por cada muestra/control adicional: 14,00 euros.
+
+Por cada ejercicio/año adicional: 70,00 euros.
+
+> Se modifica por el art. único y anexo de la Orden JUS/215/2010, de 27 de enero. [Ref. BOE-A-2010-1941](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1941)
+
+> Se convierten a euros las cuantías contempladas por el apartado 2 de la Resolución 7/2001, de 31 de octubre. [Ref. BOE-A-2001-22218](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-22218)

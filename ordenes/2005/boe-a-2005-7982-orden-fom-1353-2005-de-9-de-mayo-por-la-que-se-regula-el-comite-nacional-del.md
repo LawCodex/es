@@ -1,0 +1,171 @@
+---
+title: "Orden FOM/1353/2005, de 9 de mayo, por la que se regula el Comité Nacional del Transporte por Carretera"
+identifier: "BOE-A-2005-7982"
+eli: "https://www.boe.es/eli/es/o/2005/05/09/fom1353"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2005-05-09
+published: 2005-05-17
+in_force_from: 2005-05-18
+last_amended: 2019-02-20
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 117"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-7982"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/1353/2005, de 9 de mayo, por la que se regula el Comité Nacional del Transporte por Carretera
+
+Por Orden de 14 de septiembre de 1993 se reguló la composición, acreditación de la representatividad y la renovación del Comité Nacional del Transporte por Carretera. La experiencia en su aplicación ha puesto de manifiesto la conveniencia de modificarla con el fin de resolver algunas dudas o cuestiones que durante su vigencia se han planteado. Por una parte, se ha puesto de manifiesto en algún caso que la manera de determinar el número de votos que corresponde a cada asociación en la adopción de acuerdos que afecten a más de una sección puede dar lugar, en la práctica, a que se produzcan distorsiones de los resultados obtenidos como consecuencia de la realización de un segundo redondeo. Por otra parte, teniendo en cuenta que, dentro de algunas modalidades de transporte, se han planteado dudas sobre los criterios que deben seguirse para valorar la representatividad de las asociaciones, por razones de seguridad jurídica se considera conveniente establecer los criterios a seguir de manera que quede clara la forma en que ha de procederse. Finalmente, debido a que la citada orden ya ha sido modificada por la Orden de 12 de marzo de 1998, para mayor claridad, se ha optado por dictar una nueva norma que sustituya a las anteriores. En su virtud, de acuerdo con los artículos 55 y siguientes del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, previo informe del Consejo Nacional de Transportes Terrestres:
+
+## Artículo 1. Estructura del Departamento de Transporte de Viajeros.
+
+1\. De conformidad con lo dispuesto en el artículo 57 del Reglamento de la Ley de Ordenación de los Transportes Terrestres (ROTT), aprobado por el Real Decreto 1211/1990, de 28 de septiembre, el Departamento de Transporte de Viajeros del Comité Nacional del Transporte por Carretera se estructura en las siguientes secciones:
+
+a) Sección de transporte público interurbano de viajeros en autobús.
+
+b) Sección de transporte público urbano de viajeros en autobús.
+
+c) Sección de transporte público interurbano de viajeros en vehículos de turismo.
+
+d) Sección de arrendamiento de vehículos con conductor.
+
+e) Sección de transporte público sanitario.
+
+f) Sección de agencias de viaje.
+
+g) Sección de arrendamiento de vehículos sin conductor.
+
+h) Sección de estaciones de autobuses.
+
+2\. Formarán parte de cada una de las secciones reseñadas anteriormente las asociaciones que así lo soliciten siempre que cumplan alguna de las dos siguientes condiciones:
+
+a) Que la suma de sus socios sea al menos el 10 por 100 del total de los socios afiliados al conjunto de las asociaciones que hayan de formar parte de la sección de que se trate.
+
+b) Que sus socios sean titulares al menos del 10 por 100 del total de las autorizaciones que correspondan al conjunto de los socios afiliados a las asociaciones que hayan de formar parte de la sección de que se trate. Dichos porcentajes se reducirán al 4 por 100 en el caso de la sección de transporte público de viajeros en vehículos de turismo.
+
+A los efectos previstos en este número y en el artículo 3, en la sección de transporte urbano de viajeros en autobús se tendrán en cuenta el número de empresas miembro de cada asociación y el número de vehículos de que sean titulares destinados a la modalidad de transporte indicada.
+
+> Se modifica el apartado 1 por el art. 4.1 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 2. Estructura del Departamento de Transporte de Mercancías.
+
+1\. De conformidad con lo dispuesto en el artículo 57 del ROTT, el Departamento de Transporte de Mercancías del Comité Nacional del Transporte por Carretera, se estructura en las siguientes secciones:
+
+a) Sección de transporte público nacional de mercancías.
+
+b) Sección de transporte público internacional de mercancías.
+
+c) Sección de operadores de transporte de mercancías.
+
+d) Sección de centros de transporte y logística de mercancías.
+
+2\. Formarán parte de cada una de las secciones reseñadas anteriormente las asociaciones que así lo soliciten siempre que cumplan alguna de las dos siguientes condiciones:
+
+a) Que la suma de sus socios sea, al menos, del 6 por 100 del total de los socios afiliados al conjunto de las asociaciones que hayan de formar parte de la sección de que se trate.
+
+b) Que sus socios sean titulares, al menos, del 6 por 100 del total de las autorizaciones que correspondan al conjunto de los socios afiliados a las asociaciones que hayan de formar parte de la sección de que se trate.
+
+A los efectos previstos en este número y en el artículo 3, en la sección de transporte público internacional de mercancías se tendrán en cuenta el número de empresas miembro de cada asociación y el número de autorizaciones internacionales o copias autorizadas de que sean titulares, tanto si se trata de licencias comunitarias como de otras autorizaciones bilaterales o multilaterales, siempre que tengan validez temporal para una pluralidad de viajes. Respecto a las autorizaciones bilaterales al viaje se computarán, con un valor 15 veces inferior a las anteriores, las obtenidas en el año en que se realice la renovación del Comité hasta la fecha en que se publique la resolución convocando a las asociaciones para que acrediten su representatividad.
+
+Por su parte, la representatividad de las asociaciones de operadores de transporte se determinará en función del número de empresas asociadas y del número de trabajadores que estas tengan en situación de alta en el régimen que corresponda de la Seguridad Social.
+
+> Se modifica el apartado 1 y el párrafo final del apartado 2 por el art. 4.2 y 3 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 3. Representación de las asociaciones en el Comité.
+
+1\. Conforme a lo previsto en los artículos 55 y 58 del ROTT, las asociaciones estarán representadas en las distintas secciones del Comité con el número de votos que les corresponda por aplicación de las siguientes reglas:
+
+1.1 En las secciones previstas en las letras a), b), c), d) y e) del artículo 1.1 y en las letras a) y b) del artículo 2.1, corresponderá a cada asociación el número de votos que resulte determinado por la aplicación de la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/44/02289_10430.png)
+
+1.2 En la sección prevista en la letra c) del artículo 2.1, corresponderá a cada asociación el número de votos que resulte determinado por la aplicación de la siguiente fórmula:
+
+![2](https://www.boe.es/datos/imagenes/disp/2019/44/02289_10421.png)
+
+1.3 En la sección prevista en la letra g) del artículo 1.1, corresponderá a cada asociación el número de votos que resulte determinado por la aplicación de la siguiente fórmula:
+
+![3](https://www.boe.es/datos/imagenes/disp/2019/44/02289_10413.png)
+
+1.4 En las secciones no incluidas en los apartados anteriores se aplicará la siguiente fórmula:
+
+![4](https://www.boe.es/datos/imagenes/disp/2019/44/02289_10402.png)
+
+Siendo en dichas fórmulas:
+
+V = número de votos que corresponden a la asociación de que se trate dentro de la sección.
+
+e = número de empresas debidamente autorizadas para realizar la actividad a que se refiera la sección, afiliadas a la asociación de que se trate.
+
+a = número de vehículos adscritos a las autorizaciones de la clase a que se refiera la sección de que son titulares, en su conjunto, las empresas computadas en el factor e.
+
+t = número de trabajadores que tengan en situación de alta en la Seguridad Social en su conjunto las empresas computadas en el factor e.
+
+l = número de locales de sede central, sucursales y locales auxiliares comunicados a la Administración por el conjunto de empresas computadas en el factor e.
+
+E = número total de empresas dedicadas a la actividad a que se refiera la sección, afiliadas a las distintas asociaciones representadas en la misma.
+
+A = número de vehículos adscritos a las autorizaciones de la clase a que se refiera la sección de que son titulares, en su conjunto, las empresas computadas en el factor E.
+
+T = número de trabajadores que tengan en situación de alta en la Seguridad Social en su conjunto las empresas computadas en el factor E.
+
+L = número de locales de sede central, sucursales y locales auxiliares comunicados a la Administración por el conjunto de empresas computadas en el factor E.
+
+2\. Sobre las cifras resultantes de la aplicación de las anteriores fórmulas se aplicará, en su caso, el redondeo preciso para suprimir fracciones inferiores a la unidad, el cual se llevará a cabo por defecto para las iguales o inferiores a 0,5 y por exceso para las superiores a dicha fracción.
+
+> Se modifica por el art. 4.4 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 4. Acreditación de su representatividad por las asociaciones.
+
+1\. Para formar parte del Comité Nacional del Transporte por Carretera será necesario que las asociaciones profesionales de transportistas y de actividades auxiliares y complementarias del transporte, además de acreditar la representatividad prevista en los artículos anteriores, justifiquen que realizan su actividad social de manera efectiva en al menos cuatro Comunidades Autónomas, disponiendo de los medios personales y materiales adecuados para ello, y llevando a cabo en cada una de las mismas la generalidad de sus funciones sociales.
+
+2\. La acreditación de la representatividad se realizará de conformidad con las reglas que a tal efecto determine la Dirección General de Transportes por Carretera.
+
+3\. La Dirección General de Transportes por Carretera determinará, de conformidad con las reglas a las que se refiere el punto anterior, las asociaciones que deban formar parte del Comité y su respectiva representatividad, comunicándolo oficialmente a las distintas secciones de aquél. La referida determinación tendrá carácter vinculante para el funcionamiento posterior del Comité.
+
+> Se modifica el apartado 1 por el art. 4.5 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Artículo 5. Revisión de la representatividad de las asociaciones.
+
+1\. La composición de cada una de las secciones del Comité Nacional del Transporte por Carretera se revisará cuadrienalmente, ajustándola, en su caso, a las modificaciones que pudiera haber experimentado el nivel de representatividad ostentado por las distintas asociaciones que integran el correspondiente subsector del transporte.
+
+A tal efecto, la Dirección General de Transportes por Carretera, dentro del último año del correspondiente cuadrienio, procederá a convocar a las asociaciones que forma parte en ese momento de cada sección del Comité, así como a las que deseen entrar a forma parte de alguna o algunas de las mismas, al objeto de que dentro de un plazo no inferior a un mes, justifiquen su representatividad de conformidad con las reglas establecidas al efecto.
+
+2\. No obstante lo dispuesto en el número anterior, cuando existan causas excepcionales que supongan que la representatividad acreditada haya sufrido en la práctica modificaciones sustanciales, la Dirección General de Transportes por Carretera, previas las constataciones pertinentes y oído el propio Comité Nacional de Transporte por Carretera, podrá variar de oficio aquella representatividad antes de que transcurra el plazo ordinario de cuatro años.
+
+## Artículo 6. Adopción de acuerdos que afecten a más de una sección del Comité.
+
+**(Suprimido).**
+
+> Se suprime por el art. 4.6 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Disposición adicional única. Datos computables.
+
+Excepto en las secciones previstas en las letras b), f), g) y h) del artículo 1.1 y d) del artículo 2.1, a efectos de determinación de la representatividad regulada en esta orden, únicamente se computarán las autorizaciones cuyo otorgamiento sea de competencia estatal y las empresas titulares de las mismas que, en ambos casos, estén inscritas en el Registro de Empresas y Actividades de Transporte.
+
+> Se modifica por el art. 4.7 del Real Decreto 70/2019, de 15 de febrero. [Ref. BOE-A-2019-2289](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2289)
+
+## Disposición transitoria única. Composición actual del Comité.
+
+Las normas establecidas en esta orden que puedan afectar a la actual composición del Comité Nacional del Transporte por Carretera no se aplicarán hasta la próxima renovación del mismo.
+
+## Disposición derogatoria única. Derogaciones normativas.
+
+Quedan derogadas las siguientes disposiciones: Orden de 14 de septiembre de 1993 por la que se desarrolla el capítulo V del Título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres en relación con el Comité Nacional del Transporte por Carretera.
+
+Orden de 12 de marzo de 1998, por la que se modifica la Orden de 14 de septiembre de 1993, por la que se desarrolla el capítulo V del Título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en relación con el Comité Nacional del Transporte por Carretera.
+
+## Disposición final única. Entrada en vigor y ejecución.
+
+1\. Sin perjuicio de lo dispuesto en la disposición transitoria única, esta orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+2\. El Director General de Transportes por Carretera adoptará las medidas necesarias para la ejecución de esta orden.
+
+Madrid, 9 de mayo de 2005.
+
+ÁLVAREZ ARZA

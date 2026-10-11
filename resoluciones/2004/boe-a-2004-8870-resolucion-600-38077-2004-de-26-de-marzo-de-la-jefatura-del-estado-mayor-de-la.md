@@ -1,0 +1,58 @@
+---
+title: "Resolución 600/38077/2004, de 26 de marzo, de la Jefatura del Estado Mayor de la Armada, por la que se delega en determinadas autoridades la concesión de licencias de armas a que se refiere el artículo 117 del Reglamento de armas"
+identifier: "BOE-A-2004-8870"
+eli: "https://www.boe.es/eli/es/res/2004/03/26/60038077"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2004-03-26
+published: 2004-05-12
+in_force_from: 2004-05-13
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 115"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-8870"
+retrieved: 2026-10-11
+---
+
+# Resolución 600/38077/2004, de 26 de marzo, de la Jefatura del Estado Mayor de la Armada, por la que se delega en determinadas autoridades la concesión de licencias de armas a que se refiere el artículo 117 del Reglamento de armas
+
+La Orden Ministerial 81/1993, de 29 de julio, por la que se aprueban las Instrucciones para la aplicación del Reglamento de Armas en las Fuerza Armadas atribuye, en su apartado 1.1 al Jefe del Estado Mayor de la Armada, dentro del ámbito de sus competencias, la expedición de las autorizaciones a que se refiere el artículo 117 del Reglamento de Armas.
+
+La Resolución 17/1994, de 11 de febrero, de la Jefatura del Estado Mayor de la Armada, por la que se delega en determinadas Autoridades la concesión de licencias de armas a que se refiere el artículo 117 del Reglamento de Armas, delegaba, para conseguir una mayor eficacia y agilidad administrativa, la expedición de tales licencias en diversas Autoridades cuya relación es necesario actualizar a la vista de lo determinado por la Orden DEF/3537/2003, de 10 de diciembre, por la que se desarrolla la estructura orgánica básica de los Ejércitos.
+
+En su virtud, conforme al artículo 13 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y previa aprobación del Ministro de Defensa, conforme a la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, dispongo:
+
+## Primero.
+
+Se delega la expedición de las autorizaciones a que se refiere el artículo 117 del Reglamento de Armas, en el ámbito de sus respectivas atribuciones, en las siguientes autoridades:
+
+Almirante Jefe de Asistencia y Servicios Generales.
+
+Almirante Jefe del Mando Naval de Canarias.
+
+Almirante Jefe del Arsenal de Ferrol.
+
+Almirante Jefe del Arsenal de Cartagena.
+
+Almirante Jefe del Arsenal de La Carraca.
+
+## Segundo.
+
+Las resoluciones administrativas que se adopten en virtud de la presente delegación indicarán expresamente esta circunstancia haciendo constar en la antefirma la expresión «Por delegación», con cita de esta Resolución.
+
+## Tercero.
+
+Mediante acuerdo motivado de la autoridad delegante se podrá avocar el conocimiento y resolución de cualquier asunto comprendido en la presente delegación.
+
+## Disposición derogatoria única.
+
+Queda derogada la Resolución 17/1994, de 11 de febrero, de la Jefatura del Estado Mayor de la Armada, por la que se delega en determinadas Autoridades la concesión de licencias de armas a que se refiere el artículo 117 del Reglamento de Armas.
+
+## Disposición final única. Entrada en vigor.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 26 de marzo de 2004.–El Almirante, Jefe del Estado Mayor de la Armada, Francisco Torrente Sánchez.

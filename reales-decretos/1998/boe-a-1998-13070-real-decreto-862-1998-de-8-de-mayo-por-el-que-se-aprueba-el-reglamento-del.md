@@ -1,0 +1,405 @@
+---
+title: "Real Decreto 862/1998, de 8 de mayo, por el que se aprueba el Reglamento del Instituto de Toxicología"
+identifier: "BOE-A-1998-13070"
+eli: "https://www.boe.es/eli/es/rd/1998/05/08/862"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 1998-05-08
+published: 1998-06-05
+in_force_from: 1998-06-06
+last_amended: 2015-02-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 134"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-13070"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 862/1998, de 8 de mayo, por el que se aprueba el Reglamento del Instituto de Toxicología
+
+El artículo 505 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, define al Instituto de Toxicología como un órgano técnico adscrito al Ministerio de Justicia, cuya misión es auxiliar a la Administración de Justicia.
+
+Asimismo, la regulación actual del Instituto, recogida en el Decreto 1789/1967, de 13 de julio, modificado por los Reales Decretos 3061/1982, de 15 de octubre, y 833/1983, de 25 de marzo, configura a dicho órgano como un centro técnico en materia toxicológica, que une a su misión específica de auxiliar a la Administración de Justicia, la de informar a la Administración pública, en general, y difundir los conocimientos en materia toxicológica.
+
+Al amparo de esta regulación, el Instituto de Toxicología ha venido desarrollando sus tareas con normalidad, si bien el transcurso del tiempo, los avances en el campo de la investigación toxicológica y la progresiva relevancia de sus funciones aconsejan ahora dictar una nueva normativa que permita su adaptación al momento actual y, especialmente, al nuevo entorno derivado de la simultánea reforma global de la medicina forense.
+
+En efecto, la reforma de la medicina forense, y la consiguiente creación de los Institutos de Medicina Legal, afecta al Instituto de Toxicología en varios aspectos. De un lado, se convierte en alternativa de destino de los médicos forenses, junto a los Institutos de Medicina Legal, de acuerdo con lo previsto en el artículo 501 de la citada Ley Orgánica del Poder Judicial, en la redacción dada por la Ley Orgánica 16/1994, de 8 de noviembre. De otro, se hace imprescindible regular las relaciones entre los Institutos de Medicina Legal y el Instituto de Toxicología, de forma que se logre la coordinación necesaria en las actuaciones periciales que se realizan para la Administración de Justicia. En esta línea, el Instituto de Toxicología actuará como centro de referencia en materia de análisis toxicológico-forenses.
+
+El presente Real Decreto establece una nueva estructura del Instituto de Toxicología integrada por tres Departamentos territoriales y una Delegación, configurándose ésta como una sede desplazada de uno de los Departamentos por razones geográficas y operativas. Los Departamentos se organizan en Servicios y éstos, en Secciones; la Delegación se organiza en Secciones, en coherencia todo ello con la creciente heterogeneidad y especialización de las actuaciones realizadas por el Instituto.
+
+Por su parte, se introduce una nueva regulación de los órganos directivos del Instituto y de sus funciones, creando la Comisión de Coordinación como órgano de asesoramiento del Director del Instituto.
+
+Finalmente, se prevé que pueda prestar servicios en el Instituto de Toxicología el personal que recoge el artículo 506 de la Ley Orgánica del Poder Judicial, en la redacción dada por la Ley Orgánica 16/1994, de 8 de noviembre.
+
+En su virtud, a propuesta de la Ministra de Justicia, previo informe favorable del Consejo General del Poder Judicial, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de mayo de 1998,
+
+DISPONGO:
+
+### Artículo único. Aprobación del Reglamento.
+
+Se aprueba el Reglamento del Instituto de Toxicología, cuyo texto se inserta como anexo a este Real Decreto.
+
+### Disposición adicional única. Cambio de denominación del Instituto de Toxicología.
+
+Cualquier referencia que las normas vigentes hagan al Instituto de Toxicología se entenderán hechas al Instituto Nacional de Toxicología y Ciencias Forenses.
+
+> Se añade por el art. 1.10 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en el presente Real Decreto y en el Reglamento que se aprueba por el mismo.
+
+2\. Quedan derogadas expresamente las siguientes disposiciones:
+
+a) El Decreto 1789/1967, de 13 de julio, de reorganización del Instituto Nacional de Toxicología, y los Reales Decretos 3061/1982, de 15 de octubre, y 833/1983, de 25 de marzo, por los que se modifican diversos artículos de los contenidos en el Decreto de 13 de julio de 1967.
+
+b) No obstante lo dispuesto en el párrafo anterior, se declaran expresamente en vigor los artículos que a continuación se indican:
+
+1.<sup>o</sup> Del Decreto 1789/1967, de 13 de julio, los artículos 46, 50, 52, 55, 57 y los párrafos primero y segundo del artículo 60.
+
+2.<sup>o</sup> De igual Decreto, los artículos 51, 54, 56 y 59, en la redacción dada por el Real Decreto 3061/1982, de 15 de octubre.
+
+3.ºDel mismo Decreto y en la redacción dada por el Real Decreto 833/1983, de 25 de marzo, los artículos 53, debiendo entenderse que la referencia que en este artículo se hace a los párrafos a) y c) del artículo 48, debe considerarse hecha a los párrafos a) y e) del apartado 1 del artículo 12 del Reglamento, y el 58.
+
+### Disposición final única. Desarrollo y entrada en vigor.
+
+1\. Se faculta a los Ministros de Justicia y de Economía y Hacienda para dictar, en el ámbito de sus respectivas competencias, las normas necesarias para el desarrollo, cumplimiento y ejecución de lo dispuesto en el presente Real Decreto y en el Reglamento que se aprueba.
+
+2\. El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 8 de mayo de 1998.
+
+JUAN CARLOS R.
+
+La Ministra de Justicia,
+
+MARGARITA MARISCAL DE GANTE Y MIRÓN
+
+**REGLAMENTO DEL INSTITUTO DE TOXICOLOGÍA**
+
+## CAPÍTULO I — Naturaleza, funciones y organización
+
+### Artículo 1. Naturaleza.
+
+1\. El Instituto de Toxicología es un órgano técnico adscrito al Ministerio de Justicia, cuya misión es auxiliar a la Administración de Justicia. Su organización y supervisión corresponde a la Dirección General de Relaciones con la Administración de Justicia.
+
+2\. En sus funciones técnicas tendrá carácter independiente y emite sus informes conforme a las reglas de investigación científica que estime adecuadas.
+
+3\. En sus actividades de investigación procurará incrementar los conocimientos básicos y los aplicados de las materias que le son propias.
+
+4\. En sus funciones de asesoramiento e información prestará la asistencia necesaria respecto de la prevención de intoxicaciones e información toxicológica.
+
+### Artículo 2. Funciones.
+
+Son funciones del Instituto de Toxicología:
+
+a) Emitir los informes y dictámenes que soliciten las autoridades judiciales y el Ministerio Fiscal.
+
+b) Practicar los análisis e investigaciones toxicológicas que sean ordenados por las autoridades judiciales, las gubernativas, el Ministerio Fiscal y los médicos forenses en el curso de las actuaciones judiciales o en las diligencias previas de investigación efectuadas por el Ministerio Fiscal.
+
+c) Realizar igualmente los análisis e investigaciones interesados por las Administraciones Públicas, o cualquier entidad pública o privada en cuestiones que afecten al interés general, en los supuestos que se prevean según instrucciones del Ministerio de Justicia o en los términos de los acuerdos o convenios realizados al efecto.
+
+d) Realizar los análisis e investigaciones solicitados por particulares en el curso de procesos judiciales.
+
+e) Difundir los conocimientos en materia toxicológica, contribuir a la prevención de las intoxicaciones y atender cuantas consultas se le formulen sobre las mismas.
+
+f) Actuar como centro de referencia en materias propias de su actividad en relación con los Institutos de Medicina Legal, así como con otros organismos nacionales y extranjeros.
+
+g) Efectuar estudios de toxicología y ciencias forenses, según el Plan de Investigación que apruebe el Ministerio de Justicia.
+
+h) Colaborar con las universidades y las instituciones sanitarias en todas aquellas materias que contribuyan al desarrollo de la toxicología y las ciencias forenses.
+
+i) Cooperar con organismos nacionales e internacionales en materias relativas a la investigación toxicológica, recogiendo y ordenando cuanta información se le facilite al respecto.
+
+j) Contribuir a la formación continuada de médicos forenses, jueces, fiscales, y secretarios judiciales en las materias propias de su competencia, así como de las Fuerzas y Cuerpos de Seguridad y otros organismos o instituciones, en virtud de los acuerdos y convenios que se establezcan.
+
+> Se modifica el apartado c) y se añade el apartado j) por el art. 1.1 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Artículo 3. Estructura.
+
+1\. El Instituto Nacional de Toxicología y Ciencias Forenses tendrá su sede en Madrid y su ámbito se extiende a todo el territorio nacional. Además de su sede central, donde radicará la Dirección del Instituto, está integrado por tres Departamentos, que radican respectivamente en Madrid, Barcelona y Sevilla, y una Delegación del Departamento de Sevilla en Santa Cruz de Tenerife.
+
+2\. Corresponde al Departamento de Madrid ejercer las funciones que le son propias en el territorio al que se extiende la jurisdicción de los Tribunales Superiores de Justicia de Asturias, Cantabria, Castilla y León, Castilla-La Mancha, Galicia, Madrid, Región de Murcia, País Vasco y La Rioja.
+
+3\. Corresponde al Departamento de Barcelona ejercer las funciones que le son propias en el territorio al que se extiende la jurisdicción de los Tribunales Superiores de Justicia de Aragón, Illes Balears, Cataluña, Navarra y Comunidad Valenciana.
+
+4\. Corresponde al Departamento de Sevilla ejercer las funciones que le son propias en el territorio al que se extiende la jurisdicción de los Tribunales Superiores de Justicia de Andalucía, Ceuta y Melilla, Canarias y Extremadura.
+
+5\. Esta distribución territorial respecto a los Departamentos se realiza a los solos efectos prácticos organizativos de distribución del trabajo. No obstante, por necesidades del servicio, la Dirección General de Relaciones con la Administración de Justicia podrá acordar que cualquiera de los Departamentos ejerza transitoriamente funciones correspondientes a otro Departamento, por el tiempo que se determine.
+
+6\. Los Departamentos colaborarán entre sí y con los Institutos de Medicina Legal en la realización de los trabajos que les fuesen encomendados, estableciendo criterios de unificación de métodos, técnicas y procedimientos en las materias propias de su competencia.
+
+> Se modifica por el art. 1.2 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Artículo 4. Medios.
+
+1\. Para el cumplimiento de sus fines, el Instituto de Toxicología contará en sus Departamentos y en la Delegación con los medios personales y materiales que presupuestariamente se le asignen.
+
+2\. Aquellos Departamentos o Delegación que no cuenten con los medios técnicos necesarios para la realización de las investigaciones solicitarán la cooperación del Departamento que disponga de ellos.
+
+3\. Cuando realicen análisis e investigaciones interesados por organismos y empresas públicas, así como los solicitados por los particulares en el curso de procesos judiciales, percibirán el coste de los servicios, según normas aprobadas por el Ministerio de Justicia, y su importe se ingresará en el Tesoro Público generando, en su caso, crédito a favor del Instituto, de acuerdo con lo establecido en la normativa aplicable.
+
+### Artículo 5. Servicios.
+
+1\. De la Dirección del Instituto Nacional de Toxicología y Ciencias Forenses dependerá el Servicio de Información Toxicológica.
+
+2\. Cada Departamento contará con los Servicios de Biología, Histopatología, Valoración Toxicológica y Medio Ambiente, Garantía de Calidad, y Química y Drogas. En el Departamento de Madrid este último estará desdoblado en un Servicio de Química y otro de Drogas. Además, en dicho Departamento existirá un Servicio de Criminalística.
+
+> Se modifica por el art. 1.3 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+## CAPÍTULO II — Órganos directivos y personal colaborador
+
+### Artículo 6. Órganos directivos.
+
+El Instituto de Toxicología contará con los siguientes órganos directivos:
+
+1\. El Director del Instituto.
+
+2\. Los Directores de los Departamentos.
+
+3\. El Director de la Delegación del Departamento de Sevilla en Santa Cruz de Tenerife.
+
+4\. La Comisión de Coordinación.
+
+### Artículo 7. Dirección del Instituto.
+
+1\. La Dirección del Instituto tendrá su sede en Madrid.
+
+2\. La Dirección del Instituto será provista por el sistema de libre designación, mediante convocatoria pública en la que podrán participar facultativos del Instituto, médicos forenses y funcionarios del subgrupo A1 o asimilado en servicio activo, siempre que estos últimos estén en posesión de alguna de las titulaciones por las que se puede acceder al Cuerpo de facultativos del Instituto y acrediten experiencia en alguna de sus áreas.
+
+3\. Corresponde a la Dirección del Instituto Nacional de Toxicología y Ciencias Forenses las siguientes funciones:
+
+a) Ostentar la representación del Instituto.
+
+b) La coordinación científica y técnica de los Departamentos y de los Servicios, así como supervisar su funcionamiento.
+
+c) Elaborar y elevar al Ministerio de Justicia el plan de actuación anual y organización del Instituto en colaboración con los Directores de Departamento y de la Delegación.
+
+d) Mantener la debida relación con la Dirección de los Institutos de Medicina Legal.
+
+e) Realizar la inspección periódica de los Departamentos y de la Delegación.
+
+f) Proponer al Ministerio de Justicia la modificación de la relación de puestos de trabajo del Instituto.
+
+g) Promover, ejecutar y evaluar los proyectos establecidos en los planes de actuación y de investigación del Instituto.
+
+h) Impulsar el Sistema de Gestión de la Calidad del Instituto y velar por el cumplimiento de las normas de calidad.
+
+i) Elevar al Ministerio de Justicia los métodos y procedimientos analíticos normalizados por Instituto para su reconocimiento oficial.
+
+j) Proponer el Ministerio de Justicia la adquisición de medios materiales y la realización de obras.
+
+k) Elaborar la propuesta de anteproyecto de presupuesto anual del Instituto.
+
+l) Establecer los criterios de la memoria anual y elevarla al Ministerio de Justicia.
+
+m) Elevar al Ministerio de Justicia el plan de investigación.
+
+n) Mantener la debida relación con los órganos competentes del Ministerio de Justicia en materia de formación.
+
+o) Proponer al Ministerio de Justicia los convenios a los que se refiere el artículo 2, apartado c), que sean de interés para el Instituto.
+
+p) Recabar datos de la Dirección de los Departamentos o Delegación y elaborar los informes sobre el funcionamiento del Instituto que se soliciten por el Ministerio de Justicia.
+
+q) Cualquier otra de análoga consideración a las anteriores, precisa para la correcta dirección y funcionamiento de cualquiera de los Departamentos, Delegación y Servicios que integran el Instituto.
+
+4\. En los supuestos de vacante, ausencia o enfermedad de la persona que ostente la Dirección del Instituto asumirá sus funciones la persona que ostente la Dirección del Departamento de Madrid.
+
+> Se modifica por el art. 1.4 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Artículo 8. Directores de Departamento.
+
+1\. El puesto de Director de Departamento será provisto por el sistema de libre designación, mediante convocatoria pública en la que podrán participar facultativos del Instituto de Toxicología, y en la que se valorará especialmente la competencia técnica y la experiencia de los candidatos.
+
+2\. Corresponden a los Directores de Departamento las siguientes funciones:
+
+a) Ostentar la representación del Departamento.
+
+b) Mantener la debida relación con los Directores de los Institutos de Medicina Legal correspondientes a su ámbito territorial.
+
+c) Ejercer la jefatura del personal adscrito al Departamento y distribuir los trabajos que hayan de realizarse.
+
+d) Vigilar e inspeccionar el cumplimiento del horario de trabajo.
+
+e) Remitir al Director del Instituto la memoria anual del Departamento.
+
+f) Proponer a la Comisión de Coordinación del Instituto de Toxicología los proyectos de investigación del Departamento.
+
+g) Elevar al Director del Instituto las propuestas sobre normalización de métodos y procedimientos analíticos, oídos los Jefes y facultativos del Servicio correspondiente.
+
+Además, compete al Director del Departamento de Sevilla la inspección periódica de la Delegación.
+
+### Artículo 9. El Director de Delegación.
+
+1\. El puesto de Director de Delegación será provisto por el sistema de libre designación, mediante convocatoria pública en la que podrán participar facultativos del Instituto de Toxicología y médicos forenses, y en la que se valorará especialmente la competencia técnica y la experiencia de los candidatos.
+
+2\. Bajo la dependencia del Director del Departamento, ejercerá las funciones indicadas en el artículo 8 que le sean de aplicación, referidas a su ámbito orgánico y territorial.
+
+### Artículo 10. La Comisión de Coordinación.
+
+1\. La Comisión de Coordinación del Instituto estará integrada por la Dirección del Instituto que la presidirá, las Direcciones de los Departamentos y de la Delegación y un representante del Ministerio de Justicia, designado por la Dirección General de Relaciones con la Administración de Justicia. Asimismo, en función de los temas a tratar, la Dirección podrá convocar a cualquier personal del Instituto.
+
+Se reunirá con la periodicidad necesaria para el cumplimiento de sus funciones y, en su caso, a propuesta de cualquiera de sus miembros.
+
+2\. Las funciones de la Comisión de Coordinación serán las siguientes:
+
+a) Colaborar en la coordinación de la actividad de los Departamentos y de la Delegación del Instituto, con especial atención al Sistema de Gestión de Calidad.
+
+b) Informar las propuestas de los Directores de los Departamentos y la Delegación realizadas a la Dirección del Instituto, en relación a los métodos y procedimientos analíticos normalizados o validados por el Instituto para su reconocimiento como método oficial.
+
+c) Elaborar la propuesta de formación del Instituto.
+
+d) Elaborar la memoria anual de acuerdo con los criterios establecidos por la Dirección.
+
+e) Colaborar con la Dirección en la elaboración de los planes de actuación y de investigación del Instituto, así como de las propuestas de modificación de las relaciones de puestos de trabajo, del anteproyecto de presupuesto anual y de la adquisición de medios materiales y realización de obras del Instituto.
+
+> Se modifica por el art. 1.5 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Artículo 11. Jefes de Servicio y de Sección.
+
+1\. Los puestos de Jefe de Servicio y de Sección serán provistos por el sistema de concurso, mediante convocatoria pública en la que podrán participar facultativos del Instituto de Toxicología y médicos forenses.
+
+2\. Las funciones de los Jefes de Servicio serán las siguientes:
+
+a) Coordinar y supervisar la actividad de las diferentes Secciones, así como de los facultativos y demás personal del Servicio.
+
+b) Organizar el funcionamiento del Servicio, tendiendo a obtener el máximo rendimiento del mismo y cuidando el cumplimiento de las obligaciones de cada uno de sus miembros.
+
+c) Transmitir a todos los miembros del Servicio, las directrices recibidas de la Dirección del Departamento.
+
+d) Informar al Director del Departamento de la marcha del Servicio, de los trabajos e incidencias y proponerle la adquisición de nuevos instrumentos, bibliografía o la incorporación de nuevas técnicas.
+
+e) Colaborar con el Servicio de Garantía de Calidad para el desarrollo permanente de las buenas prácticas de laboratorio, en el Servicio correspondiente.
+
+f) Por delegación del Director del Departamento, podrá designar el facultativo o los facultativos que hayan de realizar los análisis e informes.
+
+g) Participar en los trabajos periciales y de investigación desarrollados en el Servicio.
+
+3\. Las funciones de los Jefes de Sección serán aquellas que les sean encomendadas por el Director del Departamento, de la Delegación o, en su caso, por el Jefe de Servicio.
+
+### Artículo 12. Personal del Instituto.
+
+1\. Prestará servicio en el Instituto el siguiente personal funcionario:
+
+a) Facultativos del Instituto Nacional de Toxicología y Ciencias Forenses.
+
+b) Médicos forenses.
+
+c) Técnicos Especialistas del Instituto Nacional de Toxicología y Ciencias Forenses.
+
+d) Ayudantes de Laboratorio del Instituto Nacional de Toxicología y Ciencias Forenses.
+
+e) Personal funcionario al servicio de la Administración de Justicia, así como de otras Administraciones Públicas, en las condiciones y con los requisitos que se establezcan en las correspondientes relaciones de puestos de trabajo.
+
+2\. El personal citado en el apartado anterior podrá prestar servicios en los Institutos de Medicina Legal o en el Instituto de Toxicología, en los términos que se establezcan en la relación de puestos de trabajo correspondiente.
+
+3\. La relación de puestos de trabajo del Instituto de Toxicología será aprobada por el Ministerio de Justicia, previo informe del Consejo General del Poder Judicial, negociación con las organizaciones sindicales más representativas y con la conformidad del Ministerio de Economía y Hacienda cuando suponga incremento del gasto.
+
+4\. Igualmente, en el Instituto Nacional de Toxicología y Ciencias Forenses podrán prestar servicio, en su caso, profesionales u otro personal para la realización de actividades propias de oficios o de carácter instrumental, contratados en régimen laboral.
+
+> Se modifican los apartados 1 y 4 por el art. 1.6 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Artículo 13. Servicios administrativos.
+
+Para su funcionamiento el Instituto contará con el personal de apoyo necesario que se establezca en las relaciones de puestos de trabajo, para realizar funciones técnicas y administrativas de gestión económica, de personal, de obras, de sistemas informáticos y de comunicación y otras análogas.
+
+> Se modifica por el art. 1.7 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+## CAPÍTULO III — Régimen de funcionamiento
+
+### Artículo 14. Naturaleza de los informes.
+
+1\. Cuando actúe como órgano auxiliar de la Administración de Justicia, los informes emitidos por el Instituto de Toxicología tendrán la consideración de dictámenes periciales, de conformidad con lo establecido en las distintas leyes procesales.
+
+2\. Los informes serán ampliados o aclarados a petición de los organismos que hubieran dispuesto o solicitado su realización.
+
+### Artículo 15. Abstención y recusación.
+
+1\. Los facultativos y los médicos forenses destinados en el Instituto de Toxicología estarán obligados a poner en conocimiento del Director del Departamento las circunstancias que en ellos concurran y que pudieran justificar su abstención en una causa o procedimiento determinado.
+
+2\. El Director del Departamento, de oficio o a solicitud de parte, con audiencia del facultativo o del médico forense, adoptará las medidas que procedan para garantizar su imparcialidad en el desempeño de sus funciones.
+
+3\. Se aplicarán a los facultativos y a los médicos forenses las prescripciones que respecto a la recusación de los peritos establecen las leyes procesales.
+
+### Artículo 16. Secreto profesional.
+
+Los facultativos y demás personal del Instituto están obligados a guardar secreto de las actuaciones procesales en que intervengan, o de las que tengan conocimiento.
+
+### Artículo 17. Práctica de peritajes.
+
+1\. Los análisis, trabajos, investigaciones y peritajes que fueran solicitados del Instituto, se practicarán en sus dependencias, salvo que circunstancias excepcionales hicieran aconsejable su realización en otro lugar requiriendo, en su caso, la colaboración de los Institutos de Medicina Legal.
+
+2\. En estos casos, así como en aquellos que el servicio lo requiera a juicio del Director del Departamento correspondiente, éste propondrá el desplazamiento en comisión de servicio de los funcionarios que considere convenientes al lugar que corresponda.
+
+### Artículo 18. Remisión de muestras.
+
+1\. Para la práctica de peritajes y solicitud de los correspondientes informes, se remitirán directamente a los Departamentos o Delegación los objetos, sustancias, muestras o piezas que deban ser examinados y se indicarán los datos o información concreta que se interese.
+
+Siempre se acompañará una información indicativa de los datos clínicos, necrópsicos y procesales que puedan tener interés para orientar la investigación.
+
+En todo caso se remitirán, debidamente cumplimentados, los formularios específicos aprobados por el Ministerio de Justicia, a propuesta del Instituto de Toxicología.
+
+2\. La recogida, preparación y envío de los objetos, sustancias, muestras o piezas que hayan de ser examinados se acomodarán a las instrucciones que establezca el Ministerio de Justicia a propuesta del Instituto de Toxicología.
+
+### Artículo 19. Reparto de trabajo.
+
+El Director del Departamento o de la Delegación del Instituto de Toxicología o, en su caso, el Jefe de Servicio o de Sección correspondiente, por delegación de aquél, designará al facultativo o facultativos que hayan de realizar el peritaje.
+
+### Artículo 20. Contenido de los informes.
+
+1\. Los informes contendrán una breve referencia a los antecedentes de la petición: órgano requirente, asunto en que se hubiese acordado, datos recibidos, descripción de los objetos o sustancias que hayan recibido para dictamen, enumeración de los puntos sobre los que se haya solicitado el informe, así como cuantos otros antecedentes puedan tener relevancia.
+
+Seguidamente se hará una somera descripción del proceso o procesos de investigación practicados, con expresión de los métodos y las técnicas utilizadas y determinación de los resultados.
+
+Finalmente se formularán las conclusiones obtenidas, limitándose a los extremos que se hubiesen interesado, pero planteando las observaciones que el resultado sugiera.
+
+2\. Los informes se redactarán y firmarán por quienes los hubieren realizado y además contarán con la firma del Jefe de Servicio y el visto bueno de la Dirección correspondiente, quien los remitirá al órgano o persona solicitante. En casos justificados de ausencia o necesidades del servicio, la Dirección del Departamento o Delegación podrá designar a los facultativos del respectivo Servicio para colaborar o sustituir al Jefe de Servicio en esta función.
+
+3\. Los facultativos emitirán sus dictámenes con libertad de criterio, aplicando los métodos y procedimientos analíticos validados por el Instituto, que deberán ser uniformes en todos los Departamentos, transformándose en métodos oficiales una vez aprobados por el Ministerio de Justicia.
+
+4\. Cuando no fuera posible realizar un peritaje o los resultados de éste pudieran no corresponder a la realidad por alteración de las sustancias, por efecto del tiempo o por cualquier otra circunstancia, se harán constar los motivos que lo impidan o hayan podido influir en su resultado.
+
+5\. De todos los informes se archivará una copia debidamente clasificada.
+
+> Se modifica el apartado 2 por el art. 1.8 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).
+
+### Artículo 21. Registro de peticiones, muestras e informes.
+
+Los Departamentos y la Delegación del Instituto de Toxicología llevarán un Registro de entrada de peticiones y muestras y salida de informes en el que anotarán todos los dictámenes, informes, análisis o investigaciones que les soliciten, con indicación del órgano o persona solicitante, fecha de entrada de la solicitud, objetos o muestras recibidas, Servicio o Sección encargado del peritaje, fecha de su emisión y envío al órgano o persona requirente, así como cualquier otra observación que se estime de interés.
+
+## CAPÍTULO IV — Relaciones con los Institutos de Medicina Legal
+
+### Artículo 22. Objetivos.
+
+Los Departamentos del Instituto de Toxicología y los Institutos de Medicina Legal deben establecer, a través de sus Directores respectivos, una permanente y fluida relación encaminada a los siguientes objetivos:
+
+1\. Lograr la unidad de criterio necesaria en los análisis que se realizan para la Administración de Justicia y en su interpretación.
+
+2\. Conseguir la coordinación entre los distintos niveles de laboratorios forenses en cuanto a la complejidad de sus instalaciones y de su trabajo analítico.
+
+3\. Asegurar el máximo aprovechamiento de las muestras forenses, colaborando en su distribución para los distintos tipos de estudios que hayan de efectuarse, evitando su pérdida o inutilización.
+
+4\. Contribuir a garantizar la máxima calidad pericial.
+
+### Artículo 23. Centro de referencia.
+
+El Instituto de Toxicología actuará como laboratorio de referencia en materia de análisis toxicológico-forenses.
+
+En tal sentido:
+
+1\. Asesorará al Ministerio de Justicia y contribuirá a la formación continuada, de los facultativos, médicos forenses, técnicos especialistas de laboratorio, ayudantes de laboratorio y demás personal.
+
+2\. Elaborará los métodos normalizados para la unificación de los diferentes tipos de análisis y su interpretación, oídos los distintos laboratorios forenses.
+
+3\. **(Derogado)**
+
+4\. Organizará programas de garantía de calidad que permitan la autovalidación de los distintos laboratorios en los diferentes métodos.
+
+5\. Informará al Ministerio de Justicia sobre acreditación de los diferentes tipos de análisis y resultados de los programas de garantía de calidad.
+
+6\. Realizará aquellos análisis o estudios que por su complejidad requieran instalaciones y personal de superior especialización, en colaboración con los distintos laboratorios forenses.
+
+> Se modifica el apartado 1 y se deroga el apartado 3 por el art. 1.9 y la disposición derogatoria única.2 del Real Decreto 63/2015, de 6 de febrero. [Ref. BOE-A-2015-1788](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1788).

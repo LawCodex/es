@@ -1,0 +1,521 @@
+---
+title: "Real Decreto 903/2007, de 6 de julio, por el que se aprueba el Estatuto del Organismo Autónomo «Programas Educativos Europeos»"
+identifier: "BOE-A-2007-13179"
+eli: "https://www.boe.es/eli/es/rd/2007/07/06/903"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2007-07-06
+published: 2007-07-07
+in_force_from: 2007-07-08
+last_amended: 2023-04-19
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 162"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-13179"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 903/2007, de 6 de julio, por el que se aprueba el Estatuto del Organismo Autónomo «Programas Educativos Europeos»
+
+Incluye la corrección de errores publicada en BOE núm. 204, de 25 de agosto de 2007. [Ref. BOE-A-2007-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-15767)
+
+La Decisión n.º 1720/2006/CE del Parlamento Europeo y del Consejo, de 15 de noviembre de 2006, por la que se establece un Programa de acción en el ámbito del aprendizaje permanente de la Unión Europea, establece un nuevo marco jurídico y organizativo al que deben adaptarse las actuaciones comprendidas en los actuales Programas sectoriales denominados «Comenius» «Erasmus», «Leonardo da Vinci» y «Grundtvig», así como el Programa Transversal y el Programa «Jean Monnet», para el período 2007-2013.
+
+Con el fin de cumplimentar los requerimientos establecidos en la citada decisión a los estados miembros de la Unión Europea, la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales para el año 2007, ha creado en su disposición adicional cuadragésima sexta el Organismo Autónomo «Programas Educativos Europeos», para la ejecución de los créditos presupuestarios que puedan resultar afectados por la gestión coordinada, a escala nacional, de la realización de las acciones del citado programa de la Unión Europea, así como para el desarrollo de todas las demás actividades necesarias para dicha gestión; todo ello sin implicar aumento alguno del gasto público, de acuerdo con lo previsto en el apartado nueve de la disposición adicional cuadragésima sexta de dicha ley.
+
+Asimismo la citada norma legal determina, además de su configuración jurídica como organismo autónomo y su designación como Agencia Nacional, la normativa de ámbito nacional y supranacional que le resulta de aplicación y habilita al Gobierno para aprobar el Estatuto del mencionado organismo.
+
+En consecuencia, a iniciativa de la Ministra de Educación y Ciencia, a propuesta conjunta de los Ministros de Economía y Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 6 de julio de 2007,
+
+### D I S P O N G O :
+
+#### Artículo 1. Aprobación del Estatuto.
+
+Se aprueba el Estatuto del Organismo Autónomo «Programas Educativos Europeos», adscrito al Ministerio de Educación y Ciencia a través de la Secretaría de Estado de Universidades e Investigación, cuyo texto se inserta a continuación.
+
+#### Artículo 2. Agencia Nacional.
+
+De conformidad con lo dispuesto en el artículo 6.2. b) de la Decisión n.º 1720/2006, CE del Parlamento Europeo y del Consejo, de 15 de noviembre de 2006, se designa al Organismo Autónomo «Programas Educativos Europeos» como Agencia Nacional. A los efectos de la revocación de dicha designación, se estará a lo dispuesto en la normativa comunitaria aplicable.
+
+#### Disposición adicional primera. Plan inicial de actuación.
+
+El Ministro de Educación y Ciencia aprobará el Plan Inicial de Actuación del Organismo, previo informe favorable de los Ministerios de Economía y Hacienda y Administraciones Públicas, de conformidad con lo establecido en el artículo 62 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y con la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
+
+#### Disposición adicional segunda. Autoridad Nacional.
+
+1\. El control a que se refiere el artículo 6.2 de la Decisión 1720/2006/CE, del Parlamento Europeo y del Consejo, de 15 de noviembre de 2006, por la que se crea el Programa de acción en el ámbito del aprendizaje permanente, o de la Decisión que la sustituya será ejercido por el Secretario de Estado de Educación, Formación Profesional y Universidades, en cuanto Autoridad Nacional, de conformidad con lo establecido en la disposición adicional cuadragésima sexta de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
+
+Asimismo ejercerá las funciones que le correspondan conforme a la normativa comunitaria.
+
+2\. El Secretario de Estado de Educación, Formación Profesional y Universidades adoptará las medidas necesarias para la efectividad de lo previsto en el apartado anterior y podrá solicitar del organismo autónomo la información que precise para una mejor evaluación de su gestión, así como formular observaciones y requerimientos a aquél para su debida ejecución.
+
+> Se modifica por el art. 1 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+#### Disposición adicional tercera. Supresión de órganos.
+
+Queda suprimida la Subdirección General de Programas Europeos, dependiente de la Dirección General de Cooperación Territorial y Alta Inspección.
+
+#### Disposición adicional cuarta. Garantías.
+
+Previamente a la constitución efectiva del organismo autónomo, la Autoridad Nacional deberá presentar a la Comisión Europea las garantías necesarias de la existencia, pertinencia y funcionamiento correcto en el organismo, conforme a las normas de buena gestión financiera, de los procedimientos aplicables, los sistemas de control y de contabilidad y los procedimientos de contratación y concesión de subvenciones.
+
+#### Disposición transitoria única. Medidas relativas a las unidades afectadas.
+
+Las unidades y puestos de trabajo afectados por el presente real decreto, con nivel orgánico inferior a Subdirección General, responsables de la gestión de las actuales Agencias Nacionales «Sócrates», «Leonardo» y «Erasmus», continuarán subsistentes hasta que se apruebe la relación de puestos de trabajo adaptada a la estructura orgánica prevista en el Estatuto del organismo, al que quedarán adscritos, y desempeñarán las competencias que tienen actualmente asignadas.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+#### Disposición final primera. Modificación del Real Decreto 1553/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Educación y Ciencia.
+
+Se modifica el Real Decreto 1553/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Educación y Ciencia como sigue:
+
+1\. Se incorpora al artículo 2 un nuevo apartado con el número 12, con la siguiente redacción: «El Organismo Autónomo Programas Educativos Europeos se adscribe al Ministerio de Educación y Ciencia, a través de esta Secretaría de Estado».
+
+2\. Se incorpora al artículo 9, apartado 1, letra b) el siguiente inciso: « y de las competencias que corresponden al Organismo Autónomo Programas Educativos Europeos».
+
+3\. Se suprimen las letras i), j) y k) del apartado 1. del artículo11 del citado real decreto.
+
+4\. Se suprime la letra d) del apartado 2 del mismo artículo 11.
+
+#### Disposición final segunda. Habilitación normativa.
+
+Se habilita al Ministro de Educación y Ciencia para el desarrollo y ejecución de lo dispuesto en el presente real decreto, sin perjuicio de las competencias que correspondan a otros Departamentos Ministeriales.
+
+#### Disposición final tercera. Actuaciones complementarias.
+
+Los Ministerios de Educación y Ciencia, Economía y Hacienda y Administraciones Publicas, en el ámbito de sus respectivas competencias, dispondrán lo preciso para la adscripción al organismo de los medios personales, materiales y económicos necesarios para su funcionamiento, de acuerdo con lo establecido en el apartado diez de la disposición adicional cuadragésima sexta de la Ley 42/2006, de 28 de diciembre, de Presupuestos para el año 2007.
+
+#### Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 6 de julio de 2007.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## ESTATUTO DEL ORGANISMO AUTÓNOMO «PROGRAMAS EDUCATIVOS EUROPEOS»
+
+## CAPÍTULO I — Naturaleza y funciones
+
+#### Artículo 1. Naturaleza jurídica, adscripción y fines.
+
+1\. El Organismo Autónomo Programas Educativos Europeos (OAPEE) es un organismo autónomo de los regulados en el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscrito al Ministerio de Educación, Cultura y Deporte a través de la Secretaría General de Universidades/Dirección General de Política Universitaria.
+
+2\. El Organismo se encargará de la ejecución de los créditos presupuestarios afectados por la gestión coordinada, a escala nacional, de la realización de las acciones del «Programa de Aprendizaje Permanente» de la Unión Europea, o del programa comunitario que lo sustituya, así como del desarrollo de todas las demás actividades necesarias para dicha gestión, conforme a lo establecido en el apartado 1 de la disposición adicional cuadragésima sexta de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
+
+Dicha gestión se realizará sin perjuicio de las competencias que, en materia de fondos europeos, puedan corresponder a otros centros o departamentos.
+
+3\. El Organismo Autónomo “Programas Educativos Europeos” tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad de obrar y, dentro de su esfera de competencia, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos establecidos en este Estatuto, salvo la potestad expropiatoria.
+
+4\. El organismo tiene como fines, además de los mencionados en el apartado 2, potenciar la proyección internacional del sistema universitario español y su oferta, así como la movilidad de estudiantes, profesores e investigadores interuniversitaria.
+
+> Se suprime el apartado 5 por la disposición final 2 del Real Decreto 291/2023, de 18 de abril. [Ref. BOE-A-2023-9554](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-9554)
+
+> Se añade el apartado 5 por la disposición final 6.1 del Real Decreto 865/2018, de 13 de julio. [Ref. BOE-A-2018-9860](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9860)
+
+> Se añade el apartado 4 por el art. 1.2 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifican los apartados 1 y 2 por el art. 2.1 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+> Se modifica por el art. único.1 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 2. Régimen jurídico.
+
+1\. El Organismo se regirá por las disposiciones contenidas en la disposición adicional cuadragésima sexta de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007, y por el presente Estatuto, en cuanto no se contradigan con la normativa comunitaria; por la Ley 6/1997, de 14 de abril; por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; por la Ley 47/2003, de 26 de noviembre, General Presupuestaria; por el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre; por la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; por la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público; así como por las normas que desarrollan las disposiciones citadas y por aquellas otras que resulten de aplicación. Son de aplicación, a los efectos de la gestión presupuestaria del organismo autónomo, el Reglamento (UE EURATOM) número 966/2012 del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, sobre las normas financieras aplicables al presupuesto general de la Unión y por el que se deroga el Reglamento (CE EURATOM) número 1605/2002 del Consejo.
+
+2\. Corresponde al Ministerio de Educación, Cultura y Deporte, a través de la Secretaría General de Universidades/Dirección General de Política Universitaria, el control de eficacia a que se refiere el artículo 51 de la Ley 6/1997, de 14 de abril, sin perjuicio de los restantes controles establecidos en la normativa reguladora a que se ha hecho referencia en el apartado anterior y de las funciones que corresponden a la Autoridad nacional.
+
+> Se modifica por el art. 2.2 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+> Se modifica por el art. único.2 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 3. Funciones.
+
+1\. Son funciones del Organismo las siguientes:
+
+a) Llevar a cabo la gestión coordinada de las acciones del Programa ''Erasmus+'' o del programa que lo sustituya, incluida su gestión presupuestaria, de acuerdo con los criterios establecidos por el Reglamento 1288/2013/CE del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, por la que se establece el programa ''Erasmus+'', o en su caso, de acuerdo con los criterios establecidos por la normativa que lo sustituya.
+
+b) Adoptar las medidas necesarias para la amplia difusión del Programaentre los posibles beneficiarios.
+
+c) Realizar una gestión eficiente y transparente de los fondos europeos.
+
+d) Mantener relaciones con la Comisión Europea para la buena gestión del Programa y cumplir con las obligaciones que en su momento se establezcan en esa relación.
+
+e) Colaborar con las Comunidades Autónomas y las Universidades para un adecuado cumplimiento de los objetivos del Programa.
+
+f) Participar en las actividades que, a nivel europeo, se realicen para desarrollar el Programa, así como mantener relaciones con las Agencias Nacionales de los demás países de la Unión Europea.
+
+g) Facilitar la participación de todos los sectores implicados en el Programa a través de redes, seminarios, etc.
+
+h) Contribuir a una mayor internacionalización del sistema universitario español, potenciar su proyección en todos los ámbitos internacionales, promover en el exterior la oferta educativa e investigadora de las universidades y centros de investigación españoles, contribuir a la mejora de la acogida de estudiantes, profesores e investigadores extranjeros en España y de españoles en el extranjero, así como impulsar el Espacio Europeo de Educación Superior y el Espacio Iberoamericano del Conocimiento y generar acciones y procedimientos que posibiliten la captación eficiente de alumnos, investigadores y profesores extranjeros para las universidades españolas.
+
+i) Actuar como punto de contacto de los profesores e investigadores españoles en el extranjero, atendiendo sus necesidades en el ámbito de las competencias previstas en este Real Decreto con objeto de promover la proyección investigadora, científica y tecnológica de España en el exterior.
+
+2\. Para el cumplimiento de las funciones enumeradas en el apartado anterior, el Organismo podrá llevar a cabo las siguientes actividades:
+
+a) Difundir y dar amplia publicidad entre los posibles beneficiarios a las convocatorias generales de los programas, así como los documentos que los acompañan.
+
+b) Establecer los procedimientos de evaluación y selección de los diferentes proyectos que se presentan, con la participación de las Comunidades Autónomas y de las Universidades.
+
+c) Llevar a cabo la gestión administrativa, financiera y contractual de las acciones descentralizadas.
+
+d) Suscribir los contratos con los beneficiarios, sean individuos o instituciones, de las subvenciones correspondientes a las diferentes acciones.
+
+e) Apoyar a los beneficiarios, a lo largo de la vida del proyecto, para que éste llegue a buen fin ejecutando un seguimiento ordenado de los proyectos.
+
+f) Llevar a cabo las necesarias actividades de información, apoyo a los proyectos y difusión de los resultados, en colaboración con las Comunidades Autónomas.
+
+g) Establecer, en colaboración con las Comunidades Autónomas, sistemas de seguimiento de los proyectos y de evaluación final que permitan conocer el impacto obtenido.
+
+h) Desarrollar el procedimiento de control y auditoría interna de los gastos, asegurando su correcta utilización.
+
+i) Promover sinergias entre las diferentes acciones del programa así como con otros programas e iniciativas europeos o nacionales, en colaboración con las Comunidades Autónomas.
+
+j) Prestar servicios de asesoramiento, apoyo a la movilidad y acogida a estudiantes, profesores e investigadores que deseen realizar una estancia académica en España, y de asesoramiento sobre internacionalización educativa a instituciones españolas y extranjeras, para lo que podrá cobrar precios públicos; elaborar informes, estudios y análisis sobre la situación internacional de la educación española y su grado de internacionalización; y cuantas otras sean necesarias para contribuir a una mayor internacionalización del sistema universitario español, potenciar su proyección en todos los ámbitos internacionales, promover en el exterior la oferta educativa e investigadora de las universidades y centros de investigación españoles, contribuir a la mejora de la acogida de estudiantes, profesores e investigadores extranjeros en España y de españoles en el extranjero, así como impulsar el Espacio Europeo de Educación Superior y el Espacio Iberoamericano del Conocimiento y generar acciones y procedimientos que posibiliten la captación eficiente de alumnos, investigadores y profesores extranjeros para las universidades españolas.
+
+> Se añade la letra i) al apartado 1 por la disposición final 6.2 del Real Decreto 865/2018, de 13 de julio. [Ref. BOE-A-2018-9860](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9860)
+
+> Se modifica el párrafo a) y se añade un nuevo párrafo h) al apartado 1 y se añade un nuevo párrafo j) al apartado 2 por los arts. único.2 y 3 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifica el apartado 1 por el art. 2.3 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+## CAPÍTULO II — Órganos de gobierno
+
+#### Artículo 4. Órganos de gobierno.
+
+Los órganos de gobierno del Organismo Autónomo son los siguientes:
+
+1.º Órganos colegiados:
+
+a) El Consejo Rector.
+
+b) El Comité de Coordinación y Control Interno.
+
+2.º Órganos unipersonales:
+
+a) El Presidente.
+
+b) El Vicepresidente.
+
+c) El Director.
+
+> Se modifica por el art. único.3 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 5. El Consejo Rector.
+
+1\. El Consejo Rector estará integrado por los siguientes miembros:
+
+a) El Presidente, que será el Secretario General de Universidades.
+
+b) El Vicepresidente, que será el Director General de Política Universitaria.
+
+c) Los siguientes vocales:
+
+El Director General de Evaluación y Cooperación Territorial.
+
+El Director del organismo autónomo Servicio Español para la Internacionalización de la Educación.
+
+Un representante del Ministerio de Empleo y Seguridad Social, con rango de director general, elegido por el titular del citado Departamento.
+
+Un representante del Ministerio de Asuntos Exteriores y de Cooperación, con rango de director general, elegido por el titular del citado Departamento.
+
+Un rector de universidad, elegido por el Consejo de Universidades.
+
+Un representante designado por las comunidades autónomas, con rango de director general, a las que corresponda ostentar la representación autonómica para el Comité del Programa ''Erasmus+'' de la Comisión Europea o el que lo sustituya.
+
+Un representante de la Autoridad Nacional con rango de subdirector general o asimilado.
+
+d) El Secretario, que será un funcionario del organismo autónomo Servicio Español para la Internacionalización de la Educación y actuará con voz pero sin voto
+
+Podrán asistir igualmente al Consejo Rector los directores de las unidades del organismo, con voz pero sin voto.
+
+2\. El Consejo Rector se regirá por lo dispuesto en el presente Estatuto y por lo establecido en el título II, capítulo II, de la Ley 30/1992, de 26 de noviembre, y en el capítulo IV, título II, de la Ley 6/1997, de 14 de abril.
+
+3\. El Consejo Rector, que será convocado por su Presidente, se reunirá en sesión ordinaria por lo menos dos veces al año y, en sesión extraordinaria, cuando lo juzgue necesario el Presidente o a petición de la mayoría de sus miembros.
+
+Los acuerdos se adoptarán por mayoría de los asistentes y, en caso de empate, dirimirá el voto del Presidente.
+
+La asistencia a las reuniones del Consejo Rector por parte de alguno de sus miembros podrá verificarse por procedimientos telemáticos siempre que ésta sea aprobada por la mayoría de sus miembros.
+
+4\. Por razones de urgencia, o cuando la naturaleza de la materia a tratar lo requiera el Presidente podrá acordar la celebración de una sesión no presencial por procedimientos telemáticos, sin necesidad de constitución presencial del Consejo, con respeto a los trámites esenciales establecidos en los artículos 26 y 27.1 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Acordada la apertura del procedimiento, se enviará a los miembros del Consejo con suficiente antelación la convocatoria y orden del día, así como la documentación correspondiente a cada uno de los asuntos y las propuestas que se consideren oportunas sobre los asuntos a tratar, por correo electrónico o sistema que permita acreditar tanto la fecha y hora en que se produzca la puesta a disposición del interesado del acto de convocatoria, y documentación que debe acompañarle, como la de acceso a su contenido por los miembros del Consejo. Se entenderá constituido el Consejo cuando conste el acceso al contenido de al menos la mitad de sus miembros.
+
+Los miembros del Consejo deberán pronunciarse en el plazo de 72 horas, a contar desde la puesta a disposición del contenido del acto a los interesados, sobre las propuestas recibidas. Los acuerdos se adoptarán por mayoría de los miembros para los que conste el acceso al contenido, y en caso de empate dirimirá el voto del Presidente.
+
+Las actas garantizarán la constancia de las comunicaciones producidas así como el acceso de los miembros al contenido de los acuerdos adoptados.
+
+5\. El Presidente podrá convocar a las reuniones del Consejo Rector, cuando lo considere conveniente, a personas ajenas al organismo en calidad de asesores, por su especial relevancia en los temas que se vayan a tratar, con voz pero sin voto.
+
+6\. El Consejo Rector podrá constituir grupos de trabajo especializados, de carácter temporal, que estime necesarios para el desempeño de sus funciones.
+
+Su composición vendrá determinada por la materia objeto de estudio o informe.
+
+7\. El número máximo de miembros que, en su caso, podrían percibir indemnizaciones por asistencias, dietas o gastos de viaje o cualquier otra indemnización o compensación prevista en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio, en ningún caso podrá superar los límites a los que se refiere el artículo 6.2 del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+> Se modifica por el art. único.4 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifica por el art. 2.4 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+> Se modifica por el art. único.4 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 6. Funciones del Consejo Rector.
+
+Las funciones del Consejo Rector serán las siguientes:
+
+a) Aprobar los objetivos de actuación en el marco de las directrices del Programa ''Erasmus+'' o del programa que lo sustituya, de acuerdo con los criterios establecidos por el Reglamento 1288/2013/CE del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013.
+
+b) Aprobar el anteproyecto de presupuesto del Organismo e informar anualmente las líneas básicas de su elaboración, así como aprobar las cuentas del organismo.
+
+c) Aprobar el Plan de Trabajo del Organismo, que deberá enviarse a la Comisión Europea con la periodicidad establecida por ésta.
+
+d) Aprobar la Memoria anual del Organismo.
+
+e) Aprobar, previo a su remisión a la Autoridad nacional, el Informe Anual solicitado por la Comisión Europea, con la documentación anexa que le corresponda, y garantizar, ante la citada Autoridad nacional, la fiabilidad de los sistemas financieros y de los procedimientos de gestión del propio Organismo autónomo en cuanto Agencia nacional, así como la probidad de las cuentas presentadas.
+
+f) Efectuar el seguimiento, la supervisión y el control de la actuación del organismo, sin perjuicio de las funciones atribuidas a otros órganos.
+
+g) Conocer la política de personal del Organismo y, en especial, las iniciativas sobre modificación de estructura orgánica que se pudieran elevar por el Director del Organismo.
+
+h) Conocer la contratación de prestación de servicios técnicos que realiza el Director del Organismo y las restantes contrataciones.
+
+i) **(Suprimido)**.
+
+> Se modifica la letra a) y se suprime la letra i) por el art. único.5 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifica la letra e) por el art. único.5 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 7. El Comité de Coordinación y Control Interno.
+
+1\. La Presidencia del Comité de Coordinación y Control Interno corresponderá al Director General de Política Universitaria, y estará integrado por los siguientes miembros, con rango mínimo de subdirector general o asimilado:
+
+a) Un representante de la Dirección General de Evaluación y Cooperación Territorial.
+
+b) Un representante de la Dirección General de Formación Profesional.
+
+c) Un representante del Gabinete del Ministro del Educación, Cultura y Deporte.
+
+También formarán parte del Comité los siguientes miembros:
+
+d) Un representante de la Subdirección General de Promoción Exterior Educativa.
+
+e) Un representante del Organismo Autónomo Programas Educativos Europeos.
+
+Los miembros de este Comité serán designados por el presidente del Organismo Autónomo Programas Educativos Europeos, a propuesta del titular del órgano representado.
+
+2\. A las reuniones podrán asistir, previa convocatoria del Presidente, aquellas otras personas que, en su caso, se consideren necesarias para el adecuado ejercicio de sus funciones.
+
+3\. Corresponden al Comité de Coordinación y Control Interno las siguientes funciones:
+
+a) Conocer el Plan de Trabajo del Organismo.
+
+b) Conocer y analizar los resultados de las auditorías que se efectúen sobre el Organismo y, en su caso, proponer las estrategias de corrección necesarias.
+
+c) Conocer los resultados de las acciones de control que efectúen el Tribunal de Cuentas y la Intervención General de la Administración del Estado y, en su caso, proponer las estrategias de corrección necesarias.
+
+d) Coordinar la relación entre las diferentes unidades del Ministerio de Educación y el Organismo Autónomo.
+
+e) Conocer el anteproyecto de presupuesto del Organismo y su ejecución presupuestaria.
+
+f) Informar al Consejo Rector de las actividades realizadas por el propio Comité de Coordinación y Control Interno, y a la Autoridad nacional cuando sea requerido por ésta.
+
+g) Ejercer cuantas otras funciones le encomiende el Consejo Rector del Organismo o su Presidente.
+
+4\. El Comité de Coordinación y Control Interno se reunirá las veces que determine su Presidente y, al menos, cuantas veces establezca el Consejo Rector del Organismo.
+
+> Se modifica el apartado 1 por el art. 2.5 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+> Se modifica por el art. único.6 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 8. El Presidente.
+
+1\. La Presidencia del Organismo corresponde al Secretario General de Universidades.
+
+2\. Son funciones del Presidente:
+
+La representación institucional del organismo
+
+La presidencia de su Consejo Rector.
+
+La aprobación de los gastos y la ordenación de los pagos del organismo.
+
+La firma de contratos que supongan compromisos económicos y la rendición de cuentas del organismo.
+
+Ejercer las demás competencias que le sean atribuidas de acuerdo con el ordenamiento jurídico y especialmente las que le delegue el Consejo Rector.
+
+> Se modifica el apartado 1 por el art. 2.6 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+#### Artículo 9. Actos y resoluciones del Presidente.
+
+Los actos y resoluciones del Presidente y del Consejo Rector dictados en el ejercicio de sus funciones pondrán fin a la vía administrativa, conforme a lo establecido en la Disposición Adicional Decimoquinta, apartado 3, de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, sin perjuicio del recurso potestativo de reposición previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+#### Artículo 10. El Vicepresidente.
+
+1\. La Vicepresidencia del Organismo corresponde a la persona titular de la Dirección General de Política Universitaria.
+
+2\. Serán atribuciones del Vicepresidente:
+
+a) Sustituir al Presidente en los casos de ausencia, vacante, enfermedad o cualquier otra causa legal.
+
+b) Desempeñar las funciones que le delegue el Presidente o el Consejo Rector.
+
+> Se modifica el apartado 1 por la disposición final 4 del Real Decreto 1112/2015, de 11 de diciembre. [Ref. BOE-A-2015-13780](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13780).
+
+> Se modifica por el art. único.7 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 11. El Director.
+
+1\. El Director del Organismo Autónomo Programas Educativos Europeos tendrá nivel orgánico de subdirector general. Será nombrado por el Ministro de Educación, Cultura y Deporte a propuesta del Secretario General de Universidades, entre funcionarios de carrera que pertenezcan a Cuerpos y Escalas clasificados en el Subgrupo A1.
+
+2\. Serán sus funciones:
+
+a) Dirigir las actuaciones del organismo de acuerdo con las directrices que establezca el Consejo Rector y su Presidente, así como las de la Comisión Europea, en el ámbito de los programas europeos, realizando las convocatorias correspondientes a las distintas actuaciones contenidas en el Programa ''Erasmus+'' o del programa europeo que lo sustituya.
+
+b) Elaborar el anteproyecto de presupuesto que ha de ser sometido al Consejo Rector.
+
+c) Elaborar el Plan de Trabajo que se someterá al Consejo Rector para su aprobación.
+
+d) Dirigir, coordinar, evaluar y supervisar todos los servicios del Organismo, así como ejercer la jefatura superior de aquél.
+
+e) Establecer, desarrollar y aplicar procedimientos de control interno del funcionamiento del Organismo autónomo.
+
+f) Establecer, desarrollar y aplicar procedimientos para asegurar y garantizar la regularidad y fiabilidad de las cuentas relativas a los fondos europeos que gestiona, así como acerca de la legalidad de las mismas, de modo que quede garantizado que todas las transacciones efectuadas han respetado la normativa de la Unión Europea.
+
+g) Suscribir los contratos y convenios financieros con la Comisión Europea, así como con los beneficiarios de las subvenciones.
+
+h) Elaborar el Informe anual del organismo que se elevará al Consejo Rector.
+
+i) Aportar la información y documentos del Organismo que le sean requeridos por el Consejo Rector, el Comité de Coordinación y Control Interno y la Autoridad nacional.
+
+j) Las demás funciones que le sean delegadas por el Consejo Rector, el Presidente o el Comité de Coordinación y Control Interno.
+
+> Se modifica el apartado 2.a) por el art. único.6 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifica el apartado 1 por el art. 2.7 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+> Se modifica por el art. único.8 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+#### Artículo 12. Actos y resoluciones del Director.
+
+Los actos y resoluciones del Director del organismo, según lo establecido en la Disposición Adicional decimoquinta, apartado 3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, podrán ser recurridos en alzada ante el Presidente del Organismo.
+
+## CAPÍTULO III — Estructura del Organismo
+
+#### Artículo 13. Estructura básica.
+
+1\. El organismo autónomo contará con las siguientes unidades:
+
+a) Unidad de coordinación, responsable de la ejecución de las tareas asignadas por el Director del organismo autónomo y de los asuntos horizontales que no se correspondan con competencias específicamente atribuidas a otras unidades.
+
+En todo caso, le corresponden las competencias relativas a la gestión presupuestaria del organismo.
+
+b) Unidad de Educación Superior, responsable de la gestión de todas las acciones y/o programas de Educación Superior.
+
+c) Unidad de Formación Profesional, responsable de la gestión de todas las acciones y/o programas de Formación Profesional, salvo la formación profesional de grado superior cuya competencia será de la Unidad de Educación Superior.
+
+d) Unidad de Educación escolar y de personas adultas, responsable de la gestión de todas las acciones y/o programas de estos sectores educativos y acciones transversales.
+
+e) Unidad de evaluación y control, responsable de la ejecución de las competencias del organismo en este ámbito respecto de la gestión de los programas europeos.
+
+f) Unidad de internacionalización de la educación superior española, que se encargará de la realización de actuaciones para contribuir a una mayor internacionalización del sistema universitario español, potenciar su proyección en todos los ámbitos internacionales, promover en el exterior la oferta educativa e investigadora de las universidades y centros de investigación españoles, contribuir a la mejora de la acogida de estudiantes, profesores e investigadores extranjeros en España y de españoles en el extranjero, así como impulsar el Espacio Europeo de Educación Superior y el Espacio Iberoamericano del Conocimiento y generar acciones y procedimientos que posibiliten la captación eficiente de alumnos, investigadores y profesores extranjeros para las universidades españolas, sin perjuicio de las competencias atribuidas a otras unidades del organismo.
+
+2\. Las unidades tendrán el nivel que determine la relación de puestos de trabajo del Organismo.
+
+> Se modifica el apartado 1 por el art. único.7 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifica el apartado 1 por el art. 2.8 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+## CAPÍTULO IV — Régimen económico y de personal
+
+#### Artículo 14. Régimen Económico-financiero.
+
+El régimen presupuestario, económico-financiero, de contabilidad, intervención y control financiero será el establecido para los organismos autónomos en la Ley General Presupuestaria y demás disposiciones que regulen la materia y le resulten de aplicación.
+
+Sin perjuicio de lo anterior, el Organismo ejercerá el seguimiento y control de la adecuada utilización de los fondos comunitarios a través de sus servicios y del Comité de Control con el fin de establecer los mecanismos correctores pertinentes.
+
+El Organismo Autónomo estará sometido al control interno de su gestión económico-financiera, a realizar por una Intervención Delegada de la Intervención General de la Administración del Estado en el Organismo.
+
+> Se suprime su contenido y se renumera el art. 15 como 14 por el art. único.8 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Se modifica el apartado 1 por el art. 2.9 del Real Decreto 231/2013, de 5 de abril. [Ref. BOE-A-2013-3670](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3670).
+
+> Se modifica por el art. único.9 del Real Decreto 391/2011, de 18 de marzo. [Ref. BOE-A-2011-5762](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5762).
+
+> Redactado el apartado 1.b) y el párrafo segundo del apartado 1.c) conforme a la corrección de errores publicada en BOE núm. 204, de 25 de agosto de 2007. [Ref. BOE-A-2007-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-15767)
+
+#### Artículo 15. Régimen Patrimonial.
+
+El Organismo contará, para el cumplimiento de sus fines, además de con su patrimonio propio, con aquellos bienes que le sean adscritos por la Administración General del Estado, los bienes y derechos que adquiera en el curso de su gestión, o que le sean aportados por cualquier persona, pública o privada, y por cualquier título, que se incluirán en el inventario de bienes y derechos del organismo y se gestionará de conformidad con lo dispuesto en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+> Se renumera por el art. único.8 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Su anterior numeración era art. 16.
+
+#### Artículo 16. Recursos económicos.
+
+Los recursos económicos podrán provenir de las siguientes fuentes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas procedentes de sus bienes y valores.
+
+c) Las consignaciones específicas que tuvieran asignadas en los Presupuestos Generales del Estado.
+
+d) Las transferencias corrientes y de capital que procedan de la Unión Europea.
+
+e) Las donaciones, legados y otras aportaciones de Entidades privadas y particulares, españolas o extranjeras.
+
+f) Los ingresos de derecho público o privado que le corresponda percibir y los que se produzcan como consecuencia de sus actividades de gestión y de explotación o por la prestación de sus servicios.
+
+g) Cualquier otro recuso que pudiera serle atribuido.
+
+> Se modifica y se renumera por el art. único.8 y 9 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Su anterior numeración era art. 17.
+
+#### Artículo 17. Régimen de contratación.
+
+De acuerdo con lo previsto en el artículo 49 de la Ley 6/1997, de 14 de abril, el Organismo Autónomo Programas Educativos Europeos se regirá en materia de contratación por el Texto Refundido de la Ley de Contratos del Sector Público, aprobado por Real Decreto Legislativo 3/2011, de 14 de noviembre.
+
+El régimen de contratación incluirá las especificaciones previstas en la normativa comunitaria para las Agencias Nacionales gestoras del Programa de acción en el ámbito del aprendizaje permanente.
+
+> Se renumera por el art. único.8 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Su anterior numeración era art. 18.
+
+#### Artículo 18. Procedimiento relativo a la concesión de subvenciones.
+
+La concesión de subvenciones, que se regirán por los principios de publicidad, concurrencia y objetividad, se realizará conforme a lo establecido en Ley 38/2003, de 17 de noviembre, General de Subvenciones, en lo que resulte de aplicación, y en lo dispuesto en la normativa comunitaria.
+
+En las correspondientes convocatorias se especificarán las formas de justificación de las subvenciones, así como los supuestos de reintegro y las responsabilidades a que quedan sometidos los beneficiarios.
+
+> Se renumera por el art. único.8 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Su anterior numeración era art. 19.
+
+#### Artículo 19. Régimen de personal.
+
+1\. El personal del Organismo Autónomo está integrado por:
+
+a) Funcionarios de carrera.
+
+b) Funcionarios interinos.
+
+c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal.
+
+Este personal quedará vinculado al Organismo por una relación sujeta a las normas del Derecho administrativo o del Derecho laboral que le sea de aplicación.
+
+2\. El Organismo seleccionará y contratará el personal de carácter temporal de acuerdo con la normativa y según los procedimientos vigentes en la materia.
+
+> Se renumera por el art. único.8 del Real Decreto 815/2015, de 11 de septiembre. [Ref. BOE-A-2015-10305](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10305).
+
+> Su anterior numeración era art. 20.

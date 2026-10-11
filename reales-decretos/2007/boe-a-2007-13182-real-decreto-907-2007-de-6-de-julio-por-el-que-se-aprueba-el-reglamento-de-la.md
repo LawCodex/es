@@ -1,0 +1,2709 @@
+---
+title: "Real Decreto 907/2007, de 6 de julio, por el que se aprueba el Reglamento de la Planificación Hidrológica"
+identifier: "BOE-A-2007-13182"
+eli: "https://www.boe.es/eli/es/rd/2007/07/06/907"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Medio Ambiente"
+date: 2007-07-06
+published: 2007-07-07
+in_force_from: 2007-07-08
+last_amended: 2021-12-29
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 162"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-13182"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 907/2007, de 6 de julio, por el que se aprueba el Reglamento de la Planificación Hidrológica
+
+El artículo 129 de la Ley 62/2003, de 30 de diciembre, de medidas fiscales administrativas y del orden social, procedió a la modificación del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, con el objeto de incorporar a nuestro ordenamiento jurídico la Directiva 2000/60/CE, del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario en el ámbito de la política de aguas.
+
+En virtud de tal norma se realizaron las modificaciones correspondientes en el título III del texto refundido de la Ley de Aguas, correspondiente a la planificación hidrológica. Concretamente se modificaron los artículos 40, 41 y 42 y se introdujo el artículo 40 bis. Asimismo se introdujeron modificaciones en otros títulos que están en íntima relación con el proceso de planificación hidrológica y la consecución de sus fines, como la nueva definición de cuenca hidrográfica y la introducción del concepto de demarcación hidrográfica (artículos 16 y 16 bis), las modificaciones en la Administración Pública del Agua, con la creación del Consejo del Agua de la demarcación y el Comité de Autoridades Competentes (artículos 35, 36 y 36 bis), los nuevos objetivos medioambientales, el estado de las masas de agua y los programas de medidas para la consecución de tales objetivos (artículos 92 bis, 92 ter y 92 quáter), el registro de zonas protegidas (artículo 99 bis), la introducción expresa del principio de recuperación de los costes de los servicios relacionados con la gestión de las aguas (artículo 111 bis) o los plazos para la consecución de los objetivos ambientales y para la participación pública (disposiciones adicionales undécima y duodécima).
+
+Posteriormente, la Ley 11/2005, de 22 de junio, por la que se modifica la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, modificó la redacción del apartado 1.b.c’) del artículo 42 del texto refundido de la Ley de Aguas, estableciendo una definición de caudales ecológicos y la figura de las reservas naturales fluviales, y añadió un nuevo apartado 5 al artículo 46, relativo a las obras hidráulicas de interés general.
+
+El marco jurídico de la planificación hidrológica se completa con el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado mediante el Real Decreto 927/1988, de 29 de julio, en desarrollo de los títulos II y III de la Ley de Aguas, y con la Orden de 24 de septiembre de 1992, por la que se aprueban las instrucciones y recomendaciones técnicas complementarias para la elaboración de los planes hidrológicos de cuencas intercomunitarias.
+
+En cumplimiento de lo establecido en la Ley 29/1985, de 2 de agosto, de Aguas, mediante el Real Decreto 1664/1998, de 24 de julio, se aprobaron los planes hidrológicos del Norte I, Norte II, Norte III, Duero, Tajo, Guadiana I, Guadiana II, Guadalquivir, Sur, Segura, Júcar, Ebro y cuencas intracomunitarias de Cataluña. Posteriormente, mediante el Real Decreto 378/2001, de 6 de abril, se aprobó el Plan Hidrológico de las Illes Balears y mediante el Real Decreto 103/2003, de 24 de enero, se aprobó el Plan Hidrológico de Galicia-Costa.
+
+El contenido normativo de estos planes se hizo público mediante las Órdenes Ministeriales de 13 de agosto de 1999 (planes del Norte, Duero, Tajo, Guadiana, Guadalquivir, Segura, Júcar y Ebro) y de 6 de septiembre de 1999 (plan del Sur), y mediante un Edicto de la Junta de Aguas de la Generalidad de Cataluña de 16 de marzo de 1999 (plan de las Cuencas Internas de Cataluña).
+
+Finalmente, el esquema de planificación previsto en la Ley 29/1985, de 2 de agosto, de Aguas, se completó con la aprobación del Plan Hidrológico Nacional mediante la Ley 10/2001, de 5 de julio, que fue posteriormente modificada por la Ley 11/2005, de 22 de junio.
+
+En el marco descrito, y con el objetivo de cumplir los mandatos contenidos en el texto refundido de la Ley de Aguas y en la Directiva 2000/60/CE, así como en la Decisión 2455/2001/CE, se redacta el presente Reglamento de la Planificación Hidrológica que sustituye, entre otras y fundamentalmente, a las disposiciones establecidas en el título II del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica. La modificación de este reglamento ya había sido anunciada en la disposición adicional única del Real Decreto 1664/1998, de 24 de julio, con objeto, aunque con alcance limitado si se comparan los procesos de planificación entonces vigentes con las nuevas exigencias de la Directiva 2000/60/CE, de simplificar el proceso permanente de actualización de los planes hidrológicos de cuenca.
+
+El reglamento que se aprueba ahora se refiere exclusivamente a la planificación hidrológica y no se desarrollan los aspectos correspondientes a la Administración Pública del Agua. Esta circunstancia implica la necesidad de coordinar este desarrollo reglamentario con las modificaciones que se realicen en la regulación de la Administración Pública del Agua, dadas las especiales vinculaciones que lógicamente se producen entre ambas regulaciones, debiendo tenerse en cuenta, sin embargo, la reciente promulgación de los Reales Decretos 125/2007, de 2 de febrero, por el que se fija el ámbito territorial de las demarcaciones hidrográficas, y 126/2007, de la misma fecha, por el que se regulan la composición, funcionamiento y atribución de los comités de autoridades competentes de las demarcaciones hidrográficas con cuencas intercomunitarias.
+
+El desarrollo reglamentario se produce a la luz de las modificaciones introducidas en el texto refundido de la Ley de Aguas y de aquellos aspectos de la Directiva 2000/60/CE relacionados con la planificación hidrológica que, por su excesivo detalle, no fueron incorporados en la transposición que dio lugar a la modificación, en 2003, del texto refundido de la Ley de Aguas. El nuevo Reglamento de la Planificación Hidrológica parte de la regulación existente con el objeto de guardar la mayor coherencia posible con todo el cuerpo normativo del derecho de aguas. Por esta razón, el texto da respuesta a los mandatos de desarrollo reglamentario contenidos en el texto refundido de la Ley de Aguas, teniendo como pilares básicos el actual Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica y la Directiva 2000/60/CE.
+
+Otra modificación reciente de nuestro Ordenamiento, la producida por la entrada en vigor de la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente, debe ser también tenida en cuenta, a efectos de coordinar los trámites y actuaciones en ella previstos con los que se regulan en el presente reglamento.
+
+Como complemento a lo anterior, ha de considerarse la experiencia acumulada en los procesos de planificación hidrológica realizados en España. A este respecto cabe destacar la importancia del informe que el Consejo Nacional del Agua emitió sobre los vigentes planes hidrológicos de cuenca en 1998 y cuyas recomendaciones se han tenido presentes al redactar las modificaciones que se proponen. Igualmente, puede citarse la experiencia obtenida de la participación en la Estrategia Común para la Implementación de la Directiva marco del Agua acordada el 24 de octubre de 2000 por los Estados Miembros, Noruega y la Comisión Europea y, en especial, su aplicación en el caso de la Cuenca Piloto del Júcar.
+
+Finalmente, y como es lógico, se han tenido en cuenta los pronunciamientos habidos en la jurisprudencia española en relación con la planificación hidrológica, en particular la sentencia del Tribunal Constitucional 118/1998, de 4 de junio, sobre conflictos positivos de competencia promovidos por el Gobierno del País Vasco, por el Consejo Ejecutivo de la Generalidad de Cataluña y por el Consejo de Gobierno de la Diputación Regional de Cantabria en relación con el vigente Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica.
+
+Por otra parte, el artículo 100.2 del texto refundido de la Ley de Aguas obliga a la aplicación del enfoque combinado en la redacción de las autorizaciones de vertido. Dicho principio no está contemplado en el artículo 256 del Reglamento del Dominio Público Hidráulico, por lo que se hace necesaria una nueva redacción tal y como se realiza en el artículo 51 del reglamento que se aprueba.
+
+El proyecto preserva las competencias en materia de marina mercante previstas en la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, atribuidas al Estado por el artículo 149.1.20.ª de la Constitución. Así, su disposición final cuarta habilita al Ministerio de Fomento para su aplicación y desarrollo en su ámbito propio, y por tanto en las materias de seguridad marítima, de la navegación, de la vida humana en la mar y de prevención y lucha contra la contaminación del medio marino y transporte marítimo, conforme a lo dispuesto en la Ley 27/1992, de 22 de noviembre, de Puertos del Estado y de la Marina Mercante, así como en la legislación sectorial aplicable.
+
+En cuanto a la estructura formal del reglamento se ha organizado en un título preliminar seguido de otros cuatro títulos. El título preliminar contiene las disposiciones generales y trata de los objetivos y criterios de la planificación hidrológica, su ámbito territorial y las definiciones. El título primero aborda los aspectos sustantivos de la planificación hidrológica, sobre la base de los contenidos de los planes hidrológicos. El título segundo se dedica a los aspectos procedimentales de elaboración y aprobación de los planes hidrológicos y el título tercero a los procedimientos de seguimiento y revisión. Por último, el título cuarto se dedica a los efectos de los planes.
+
+El reglamento ha sido informado favorablemente por el pleno del Consejo Nacional del Agua celebrado el día 30 de octubre de 2006.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 6 de julio de 2007.
+
+DISPONGO:
+
+##### Artículo único. Aprobación del Reglamento de la Planificación Hidrológica.
+
+Se aprueba el Reglamento de la Planificación Hidrológica cuyo texto se incluye a continuación.
+
+##### Disposición adicional única. Condiciones para la realización de actuaciones que suponen la modificación física de las masas de agua.
+
+1\. El acto de aprobación técnica de cualquier obra que pueda implicar la modificación física de una o varias masas de agua conllevando su deterioro o impidiendo el logro de sus objetivos ambientales requerirá verificar el cumplimiento de los requisitos que se indican en el artículo 39 del Reglamento de la Planificación Hidrológica, aprobado por el Real Decreto 907/2007, de 6 de julio.
+
+2\. La verificación de que los requisitos mencionados en el apartado anterior se cumplen deberá ser formalizada, a solicitud del promotor, mediante informe emitido por el organismo de cuenca o Administración hidráulica de la Comunidad Autónoma correspondiente en relación con el dominio público hidráulico. Cuando las obras a las que se refiere el apartado anterior se desarrollen en las aguas costeras o de transición la verificación de los requisitos y la emisión del correspondiente informe, atenderá a la legislación sectorial aplicable en cada caso y corresponderá a la Administración General del Estado o a la de la comunidad autónoma correspondiente, atendiendo a la distribución de competencias que establece la Constitución. Con este fin, las citadas autoridades competentes podrán recabar del promotor de las actuaciones la información que resulte necesaria.
+
+3\. Antes de emitir su informe de verificación la autoridad competente a que se refiere el apartado 2 someterá la propuesta del promotor a un periodo de consulta e información pública específico, conforme a las exigencias de la Ley 27/2006, de 18 de julio. Este proceso específico de consulta podrá ser omitido si se aprovecha con este fin el proceso de consulta requerido, en su caso, por el procedimiento de evaluación ambiental o de planificación hidrológica que pudiera corresponder.
+
+4\. Finalmente, el órgano sustantivo al que corresponda el acto de aprobación indicado en el apartado 1, a la vista del informe emitido por la autoridad competente sobre el cumplimiento de las condiciones preceptuadas en el artículo 39 del Reglamento de la Planificación Hidrológica, decidirá sobre la idoneidad de la actuación. En caso de apartarse del criterio señalado en el informe de la autoridad ambiental, la resolución deberá motivar adecuadamente que concurren los requisitos establecidos en el citado precepto.
+
+> Se añade por el art. 1.1 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Disposición transitoria primera. De los Consejos del Agua de la demarcación.
+
+Si con ocasión de la necesidad de informar sobre el esquema provisional de temas importantes en materia de gestión de las aguas conforme a lo previsto en el artículo 79.6 del Reglamento de la Planificación Hidrológica no estuvieran todavía constituidos los Consejos del Agua de las demarcaciones correspondientes, el citado informe será emitido por los actuales Consejos del Agua de la cuenca o, en su defecto, por la Junta de Gobierno del organismo de cuenca y, además, se requerirá la conformidad del Comité de Autoridades Competentes. En todo caso, el correspondiente informe se completará con las alegaciones recibidas en el proceso de consulta pública.
+
+> Se renumera por el art. 1.2 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Anteriormente numerada como disposición transitoria única.
+
+##### Disposición transitoria segunda. Adaptación de los registros de zonas protegidas.
+
+Los organismos de cuenca y las administraciones hidráulicas competentes en las cuencas comprendidas íntegramente en el ámbito territorial de una comunidad autónoma tendrán de plazo hasta el 31 de diciembre de 2024 para adaptar sus infraestructuras informáticas a lo prescrito en los artículos 24 y siguientes del Reglamento de la Planificación Hidrológica en relación con el registro de zonas protegidas.
+
+> Se añade por el art. 1.2 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto, y en particular:
+
+a) Los artículos 2.2 y 4 y el título II del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, en desarrollo de los títulos II y III de la Ley de Aguas, aprobado mediante Real Decreto 927/1988, de 29 de julio.
+
+b) El artículo 256 del Reglamento del Dominio Público Hidráulico, que desarrolla los títulos preliminar, I, IV, V, VI y VIII de la Ley 29/1985, de 2 de agosto, de Aguas, aprobado mediante Real Decreto 849/1986, de 11 de abril.
+
+##### Disposición final primera. Fundamento competencial.
+
+1\. Los artículos 1.1, 2 y 3, así como los artículos 2, 3, 4, 5, 6, 9.1, 15, 16, 16 bis, 17.1, 2 y 4, 17 bis, 19.1, 40, 42.1, 60 bis, 64, 65, 66.1, 67, 68, 69, 70, 71, 76.1, 78.1, 83, 84, 85, 86, 87.3, 4, 5, 6 y 7, 89.2, 4 y 5, 90, 91.1 y 3 y 92 de este reglamento tienen carácter básico y se dictan al amparo del artículo 149.1.13.ª de la Constitución Española, que reserva al Estado la competencia en materia de bases y coordinación de la planificación general de la actividad económica.
+
+2\. Los artículos 18, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 39 bis, 43, 44, 45 bis, 49 bis, 49 ter, 50, 51, 55 y 59.3 de este reglamento tienen carácter básico y se dictan al amparo del artículo 149.1.23.ª de la Constitución Española, que reserva al Estado la competencia en materia de legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección.
+
+3\. Los artículos 7, 8, 10, 24, 24 bis, 25, 25 bis, 83 bis y 83 ter tienen carácter básico y se dictan conjuntamente al amparo del artículo 149.1 en sus reglas 13.ª y 23.ª de la Constitución. Además el artículo 83 ter también se dicta al amparo del artículo 149.1.3.ª que reserva al Estado la competencia exclusiva sobre las relaciones internacionales.
+
+4\. Los restantes artículos de este reglamento se dictan al amparo del artículo 149.1.22.ª de la Constitución Española, que reserva al Estado competencia sobre la legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una comunidad autónoma.
+
+> Se modifica por el art. 1.3 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica por el art. 2.1 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+> Se modifica por la disposición final 6.1 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Disposición final segunda. Desarrollo temporal.
+
+El desarrollo temporal de las medidas previstas en la norma se hará en función de las disponibilidades económicas de las comunidades autónomas, siempre que esta solución sea compatible con la coordinación de actuaciones entre las administraciones públicas competentes y con la salvedad de que las administraciones competentes deberán garantizar que se alcanzan los objetivos ambientales previstos para las masas de agua en el año 2015.
+
+##### Disposición final tercera. Incorporación de Derecho de la Unión Europea.
+
+Mediante este Reglamento se incorpora al Derecho español la Directiva 2000/60/CE, del Parlamento Europeo y del Consejo, de 23 de octubre de 2000.
+
+##### Disposición final cuarta. Habilitación normativa.
+
+1\. Se autoriza a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para dictar cuantas disposiciones resulten necesarias para la aplicación y desarrollo del Reglamento de la Planificación Hidrológica.
+
+2\. La aprobación de las modificaciones indicadas en el apartado 1 se realizará previo informe del Consejo Nacional del Agua.
+
+> Se modifica por el art. 1.4 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 6 de julio de 2007.
+
+JUAN CARLOS R.
+
+La Ministra de Medio Ambiente,
+
+CRISTINA NARBONA RUIZ
+
+## REGLAMENTO DE LA PLANIFICACIÓN HIDROLÓGICA
+
+## TÍTULO PRELIMINAR — Disposiciones generales
+
+##### Artículo 1. Objetivos y criterios de la planificación hidrológica.
+
+1\. La planificación hidrológica tendrá por objetivos generales conseguir el buen estado y la adecuada protección del dominio público hidráulico y de las aguas objeto del texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio, la satisfacción de las demandas de agua, el equilibrio y armonización del desarrollo regional y sectorial, incrementando las disponibilidades del recurso, protegiendo su calidad, economizando su empleo y racionalizando sus usos en armonía con el medio ambiente y los demás recursos naturales.
+
+2\. Para la consecución de los objetivos a que se refiere el párrafo anterior, la planificación hidrológica se guiará por criterios de sostenibilidad en el uso del agua mediante la gestión integrada y la protección a largo plazo de los recursos hídricos, prevención del deterioro del estado de las aguas, protección y mejora del medio acuático y de los ecosistemas acuáticos y reducción de la contaminación. Asimismo, la planificación hidrológica contribuirá a paliar los efectos de las inundaciones y sequías.
+
+3\. La política del agua está al servicio de las estrategias y planes sectoriales que sobre los distintos usos establezcan las administraciones públicas, sin perjuicio de la gestión racional y sostenible del recurso que debe ser aplicada por el Ministerio de Medio Ambiente, o por las administraciones hidráulicas competentes, que condicionará toda autorización, concesión o infraestructura futura que se solicite.
+
+4\. De conformidad con el artículo 19.1 de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética, la planificación hidrológica, a efectos de su adaptación al cambio climático, tendrá como objetivos conseguir la seguridad hídrica para las personas, para la protección de la biodiversidad y para las actividades socioeconómicas, de acuerdo con la jerarquía de usos, reduciendo la exposición y vulnerabilidad al cambio climático e incrementando la resiliencia.
+
+> Se añade el apartado 4 por el art. 2.1 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 2. Ámbito territorial.
+
+1\. La planificación se realizará mediante los planes hidrológicos de cuenca y el Plan Hidrológico Nacional. El ámbito territorial de cada plan hidrológico de cuenca será coincidente con el de la demarcación hidrográfica correspondiente.
+
+2\. Coordinadamente con los anteriores, se elaborarán planes de gestión del riesgo de inundación, regulados en el Real Decreto 903/2010, de 9 de julio, de evaluación y gestión de riesgos de inundación, y planes especiales de sequía, establecidos conforme al artículo 27 de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional.
+
+3\. En el caso de demarcaciones hidrográficas internacionales en las que no se elabore un plan hidrológico de cuenca internacional, el ámbito territorial del plan hidrológico será el de la parte española de la demarcación.
+
+4\. El ámbito territorial de los planes especiales de sequía será el de la parte terrestre o continental de la demarcación hidrográfica o de la parte española de la demarcación hidrográfica correspondiente.
+
+> Se modifica por el art. 2.2 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 3. Definiciones.
+
+A los efectos de la planificación hidrológica y de la protección de las aguas objeto del texto refundido de la Ley de Aguas se entenderá por:
+
+a) acuífero: una o más capas subterráneas de roca o de otros estratos geológicos que tienen la suficiente porosidad y permeabilidad para permitir ya sea un flujo significativo de aguas subterráneas o la extracción de cantidades significativas de aguas subterráneas.
+
+b) aguas continentales: todas las aguas en la superficie del suelo y todas las aguas subterráneas situadas hacia tierra desde la línea que sirve de base para medir la anchura de las aguas territoriales.
+
+c) aguas superficiales: las aguas continentales, excepto las aguas subterráneas; las aguas de transición y las aguas costeras, y, en lo que se refiere al estado químico, también las aguas territoriales.
+
+d) aguas subterráneas: todas las aguas que se encuentran bajo la superficie del suelo en la zona de saturación y en contacto directo con el suelo o el subsuelo.
+
+e) buen estado cuantitativo de las aguas subterráneas: el estado cuantitativo alcanzado por una masa de agua subterránea cuando la tasa media anual de extracción a largo plazo no rebasa los recursos disponibles de agua y no está sujeta a alteraciones antropogénicas que puedan impedir alcanzar los objetivos medioambientales para las aguas superficiales asociadas, que puedan ocasionar perjuicios significativos a ecosistemas terrestres asociados o que puedan causar una alteración del flujo que genere salinización u otras intrusiones.
+
+f) Buen estado ecológico: estado de una masa de agua superficial en la que los valores de los indicadores de los elementos de calidad biológicos correspondientes al tipo de masa de agua superficial muestran valores bajos de distorsión causada por la actividad humana, desviándose ligeramente de los valores normalmente asociados con el tipo de masa de agua superficial en condiciones inalteradas. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos cumplen con los rangos o límites que garantizan el funcionamiento del ecosistema específico del tipo y la consecución de los valores de los indicadores biológicos. Las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
+
+g) buen estado químico de las aguas subterráneas: el estado químico alcanzado por una masa de agua subterránea cuya composición química no presenta efectos de salinidad u otras intrusiones, no rebasa las normas de calidad establecidas, no impide que las aguas superficiales asociadas alcancen los objetivos medioambientales y no causa daños significativos a los ecosistemas terrestres asociados.
+
+h) Buen estado químico de las aguas superficiales: estado de una masa de agua superficial que cumple las NCA establecidas en el anexo IV del Real Decreto 817/2015, de 11 de septiembre, por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental, así como otras normas comunitarias pertinentes que fijen NCA.
+
+i) Buen potencial ecológico: estado de una masa de agua muy modificada o artificial cuyos indicadores de los elementos de calidad biológicos muestran leves cambios en comparación con los valores correspondientes al tipo de masa más estrechamente comparable. Los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos se encuentran dentro de los rangos de valores que garantizan el funcionamiento del ecosistema y la consecución de los valores de los indicadores biológicos especificados anteriormente. Además las concentraciones de los contaminantes específicos cumplen las NCA pertinentes.
+
+j) caudal ecológico: caudal que contribuye a alcanzar el buen estado o buen potencial ecológico en los ríos o en las aguas de transición y mantiene, como mínimo, la vida piscícola que de manera natural habitaría o pudiera habitar en el río, así como su vegetación de ribera.
+
+k) demanda de agua: volumen de agua, en cantidad y calidad, que los usuarios están dispuestos a adquirir para satisfacer un determinado objetivo de producción o consumo. Este volumen será función de factores como el precio de los servicios, el nivel de renta, el tipo de actividad, la tecnología u otros.
+
+k bis) Escasez: situación de carencia de recursos hídricos para atender las demandas de agua previstas en los respectivos planes hidrológicos una vez aseguradas las restricciones ambientales previas.
+
+k ter) Escasez estructural: situación de escasez continuada que imposibilita el cumplimiento de los criterios de garantía en la atención de las demandas reconocidas en el correspondiente plan hidrológico.
+
+k quater) Escasez coyuntural: situación de escasez no continuada que aun permitiendo el cumplimiento de los criterios de garantía en la atención de las demandas reconocidas en el correspondiente plan hidrológico, limita temporalmente el suministro de manera significativa.
+
+l) estado de las aguas superficiales: la expresión general del estado de una masa de agua superficial, determinado por el peor valor de su estado ecológico y de su estado químico.
+
+m) estado de las aguas subterráneas: la expresión general del estado de una masa de agua subterránea, determinado por el peor valor de su estado cuantitativo y de su estado químico.
+
+n) estado ecológico: una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a las aguas superficiales.
+
+o) estado cuantitativo de las aguas subterráneas: una expresión del grado en que afectan a una masa de agua subterránea las extracciones directas e indirectas.
+
+o bis) Impacto: efecto de las presiones sobre los elementos de calidad de soporte: físicos, químicos e hidromorfológicos, que impide o pone en riesgo la consecución de los objetivos medioambientales señalados en el artículo 92 bis del texto refundido de la Ley de Aguas.
+
+p) masa de agua superficial: una parte diferenciada y significativa de agua superficial, como un lago, un embalse, una corriente, río o canal, parte de una corriente, río o canal, unas aguas de transición o un tramo de aguas costeras.
+
+q) masa de agua subterránea: un volumen claramente diferenciado de aguas subterráneas en un acuífero o acuíferos.
+
+r) masa de agua artificial: una masa de agua superficial creada por la actividad humana.
+
+s) masa de agua muy modificada: una masa de agua superficial que, como consecuencia de alteraciones físicas producidas por la actividad humana, ha experimentado un cambio sustancial en su naturaleza.
+
+t) Máximo potencial ecológico: el estado de una masa de agua muy modificada o artificial cuyos indicadores de los elementos de calidad biológicos pertinentes reflejan, en la medida de lo posible, los valores correspondientes al tipo de masa de agua superficial más estrechamente comparable, dadas las condiciones físicas resultantes de las características artificiales o muy modificadas de la masa de agua. Además, los indicadores hidromorfológicos son coherentes con la consecución de dichos valores y los indicadores químicos y fisicoquímicos corresponden total o casi totalmente a los de condiciones inalteradas del tipo de masa de agua más estrechamente comparable.
+
+u) Muy buen estado ecológico: estado de una masa de agua superficial en la que no existen alteraciones antropogénicas de los valores de los indicadores de los elementos de calidad químicos o fisicoquímicos e hidromorfológicos correspondientes al tipo de masa de agua superficial, o existen alteraciones de muy escasa importancia, en comparación con los normalmente asociados con ese tipo en condiciones inalteradas. Los valores de los indicadores de los elementos de calidad biológicos correspondientes a la masa de agua superficial reflejan los valores normalmente asociados con dicho tipo en condiciones inalteradas, y no muestran indicios de distorsión, o muestran indicios de escasa importancia. Éstas son las condiciones y comunidades específicas del tipo.
+
+v) potencial ecológico: una expresión de la calidad de la estructura y el funcionamiento de los ecosistemas acuáticos asociados a una masa de agua artificial o muy modificada.
+
+w) Presión significativa: Aquella que por sí misma o en combinación con otras, provoca o puede provocar impacto, impidiendo o poniendo en riesgo la consecución de los objetivos medioambientales señalados en el artículo 92bis del texto refundido de la Ley de Aguas.
+
+x) recursos disponibles de agua subterránea: valor medio interanual de la tasa de recarga total de la masa de agua subterránea, menos el flujo interanual medio requerido para conseguir los objetivos de calidad ecológica para el agua superficial asociada, para evitar cualquier disminución significativa en el estado ecológico de tales aguas, y cualquier daño significativo a los ecosistemas terrestres asociados.
+
+x bis) Sequía: fenómeno natural no predecible que se produce principalmente por una falta de precipitación que da lugar a un descenso temporal significativo en los recursos hídricos disponibles.
+
+x ter) Sequía prolongada: sequía producida por circunstancias excepcionales o que no han podido preverse razonablemente. La identificación de estas circunstancias se realiza mediante el uso de indicadores relacionados con la falta de precipitación durante un periodo de tiempo y teniendo en cuenta aspectos como la intensidad y la duración. Será definida, para cada ámbito de planificación, por los planes especiales de sequía.
+
+y) servicios relacionados con el agua: todas las actividades relacionadas con la gestión de las aguas que posibilitan su utilización, tales como la extracción, el almacenamiento, la conducción, el tratamiento y la distribución de aguas superficiales o subterráneas, así como la recogida y depuración de aguas residuales, que vierten posteriormente en las aguas superficiales. Asimismo, se entenderán como servicios las actividades derivadas de la protección de personas y bienes frente a las inundaciones.
+
+z) subcuenca: la superficie de terreno cuya escorrentía superficial fluye en su totalidad a través de una serie de corrientes, ríos y, eventualmente, lagos hacia un determinado punto de un curso de agua (generalmente un lago o una confluencia de ríos).
+
+aa) usos del agua: las distintas clases de utilización del recurso, así como cualquier otra actividad que tenga repercusiones significativas en el estado de las aguas. A efectos de la aplicación del principio de recuperación de costes, los usos del agua deberán considerar, al menos, el abastecimiento de poblaciones, los usos industriales y los usos agrarios.
+
+> Se modifica el apartado w) y se añaden los k bis), k ter), k quater), o bis), x bis) y x ter), por el art. 2.3 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifican los apartados f), h), i), t) y u) por la disposición final 6.2 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+## TÍTULO I — Contenido de los planes
+
+### CAPÍTULO I — Contenido de los planes hidrológicos de cuenca
+
+#### Sección 1.ª Contenido obligatorio de los planes hidrológicos de cuenca
+
+##### Artículo 4. Contenido obligatorio de los planes hidrológicos de cuenca.
+
+1\. Los planes hidrológicos de cuenca comprenderán obligatoriamente:
+
+a) La descripción general de la demarcación hidrográfica, incluyendo:
+
+a’) Para las aguas superficiales tanto continentales como costeras y de transición, mapas con sus límites y localización, ecorregiones, tipos y condiciones de referencia. En el caso de aguas artificiales y muy modificadas, se incluirá asimismo la motivación conducente a tal calificación.
+
+b’) Para las aguas subterráneas, mapas con la localización y límites de las masas de agua.
+
+c’) El inventario de los recursos superficiales y subterráneos incluyendo sus regímenes hidrológicos y las características básicas de calidad de las aguas.
+
+b) Un resumen de las presiones e incidencias significativas de las actividades humanas en el estado de las aguas superficiales y subterráneas, que incluya:
+
+a') Para las masas de aguas superficiales: la contaminación de fuente puntual y difusa; la extracción de agua para los distintos usos; la regulación de caudal; las alteraciones morfológicas; y otros tipos de incidencia antropogénica; así como la evaluación de su posible impacto y la identificación de las masas en riesgo de no cumplir los objetivos medioambientales.
+
+b') Para las masas de agua subterránea: la contaminación de fuente puntual y difusa; la extracción de agua; y la recarga artificial; así como la evaluación de su posible impacto y la identificación de las masas en riesgo de no cumplir los objetivos medioambientales.
+
+b bis) La descripción general de los usos, que incluya:
+
+a') Los usos y demandas actuales y previsibles en los distintos horizontes del plan.
+
+b') Los criterios de prioridad y compatibilidad de usos, así como el orden de preferencia entre los distintos usos y aprovechamientos.
+
+c') La asignación y reserva de recursos para usos y demandas actuales y futuros, así como para la conservación o recuperación del medio natural.
+
+A los efectos de garantizar la conservación o recuperación del medio natural se determinarán los caudales ecológicos y las reservas hidrológicas, de acuerdo con, respectivamente, los artículos 49 ter y siguientes y 244 bis y siguientes del Reglamento del Dominio Público Hidráulico aprobado por el Real Decreto 849/1986, de 11 de abril (RDPH).
+
+d') La definición de un sistema de explotación único para cada plan, en el que, de forma simplificada, queden incluidos todos los sistemas parciales, y con el que se posibilite el análisis global de comportamiento.
+
+c) La identificación y mapas de las zonas protegidas.
+
+d) Las redes de control establecidas para el seguimiento del estado de las aguas superficiales, de las aguas subterráneas y de las zonas protegidas y los resultados de este control.
+
+e) La lista de objetivos medioambientales para las aguas superficiales, las aguas subterráneas y las zonas protegidas, incluyendo los plazos previstos para su consecución, la identificación de condiciones para excepciones y prórrogas, y sus informaciones complementarias.
+
+f) Un resumen del análisis económico del uso del agua, incluyendo una descripción de las situaciones y motivos que puedan permitir excepciones en la aplicación del principio de recuperación de costes.
+
+g) Un resumen de los Programas de Medidas adoptados para alcanzar los objetivos previstos, incluyendo:
+
+a’) Un resumen de las medidas necesarias para aplicar la legislación sobre protección del agua, incluyendo separadamente las relativas al agua potable.
+
+b’) Un informe sobre las acciones prácticas y las medidas tomadas para la aplicación del principio de recuperación de los costes del uso del agua.
+
+c’) Un resumen de controles sobre extracción y almacenamiento del agua, incluidos los registros e identificación de excepciones de control.
+
+d’) Un resumen de controles previstos sobre vertidos puntuales y otras actividades con incidencia en el estado del agua, incluyendo la ordenación de vertidos directos e indirectos al dominio público hidráulico y a las aguas objeto de protección por el texto refundido de la Ley de Aguas, sin perjuicio de la competencia estatal exclusiva en materia de vertidos con origen y destino en el medio marino.
+
+e’) Una identificación de casos en que se hayan autorizado vertidos directos a las agua subterráneas.
+
+f’) Un resumen de medidas tomadas respecto a las sustancias prioritarias.
+
+g’) Un resumen de las medidas tomadas para prevenir o reducir las repercusiones de los incidentes de contaminación accidental.
+
+h’) Un resumen de las medidas adoptadas para masas de agua con pocas probabilidades de alcanzar los objetivos ambientales fijados.
+
+i’) Detalles de las medidas complementarias consideradas necesarias para cumplir los objetivos medioambientales establecidos, incluyendo los perímetros de protección y las medidas para la conservación y recuperación del recurso y entorno afectados.
+
+j’) Detalles de las medidas tomadas para evitar un aumento de la contaminación de las aguas marinas.
+
+k’) Las directrices para recarga y protección de acuíferos.
+
+l’) Las normas básicas sobre mejoras y transformaciones en regadío que aseguren el mejor aprovechamiento del conjunto de recursos hidráulicos y terrenos disponibles.
+
+m’) Los criterios de evaluación de los aprovechamientos energéticos y la fijación de los condicionantes requeridos para su ejecución.
+
+n’) Los criterios sobre estudios, actuaciones y obras para prevenir y evitar los daños debidos a inundaciones, avenidas y otros fenómenos hidráulicos.
+
+o’) Las infraestructuras básicas requeridas por el plan.
+
+h) Un registro de los programas y planes hidrológicos más detallados relativos a subcuencas, sectores, cuestiones específicas o categorías de aguas, acompañado de un resumen de sus contenidos. De forma expresa, se incluirán las determinaciones pertinentes para el plan hidrológico de cuenca derivadas del Plan Hidrológico Nacional.
+
+i) Un resumen de las medidas de información pública y de consulta tomadas, sus resultados y los cambios consiguientes efectuados en el plan.
+
+j) Una lista de las autoridades competentes designadas.
+
+k) Los puntos de contacto y procedimientos para obtener la documentación de base y la información requerida por las consultas públicas.
+
+2\. Las sucesivas actualizaciones de los planes hidrológicos de cuenca incorporarán obligatoriamente, además de los contenidos indicados, los siguientes:
+
+a) Un resumen de todos los cambios o actualizaciones efectuados desde la publicación de la versión precedente del plan.
+
+b) Una evaluación de los progresos realizados en la consecución de los objetivos medioambientales, incluida la presentación en forma de mapa de los resultados de los controles durante el período del plan anterior y una explicación de los objetivos medioambientales no alcanzados.
+
+c) Un resumen y una explicación de las medidas previstas en la versión anterior del plan hidrológico que no se hayan puesto en marcha.
+
+d) Un resumen de todas las medidas adicionales transitorias adoptadas, desde la publicación de la versión precedente del plan hidrológico, para las masas de agua que probablemente no alcancen los objetivos ambientales previstos.
+
+e) Los resultados y el efecto de las medidas tomadas para evitar la contaminación química de las aguas superficiales.
+
+> Se añade el apartado 2 y se numera el anterior contenido como apartado 1 por el art. 2.4 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica la letra b bis).c´) por el art. 2.2 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+> Se modifica la letra b) y se añade la letra b.bis) por la disposición final 6.3 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 4 bis. Adaptación al cambio climático.
+
+1\. En consonancia con el artículo 19 de la Ley 7/2021, de 20 de mayo, a lo largo de cada ciclo de planificación los organismos de cuenca correspondientes elaborarán un estudio específico de adaptación a los riesgos del cambio climático en cada demarcación hidrográfica para su futura consideración en la revisión del plan hidrológico correspondiente. Dicho estudio analizará, al menos, los siguientes aspectos:
+
+a) Escenarios climáticos e hidrológicos, incorporando la variabilidad espacial y la distribución temporal.
+
+b) Identificación y análisis de impactos previsibles, nivel de exposición y vulnerabilidad de los ecosistemas acuáticos y terrestres dependientes del agua, así como de las actividades socioeconómicas relacionadas con los usos del agua en la demarcación.
+
+c) Medidas de adaptación que disminuyan la exposición y la vulnerabilidad, en el marco de una evaluación de riesgos.
+
+2\. En la evaluación de riesgos considerada en el apartado anterior deberán identificarse y analizarse, al menos, los siguientes aspectos:
+
+a) El nivel de exposición y vulnerabilidad de las actividades socioeconómicas y los ecosistemas, proponiendo medidas que disminuyan tal exposición y vulnerabilidad.
+
+b) La afección producida sobre los distintos usos del agua, en términos de alteración de sus necesidades hídricas y de impactos sobre los mismos, incluyendo los usos industriales para la generación de energía.
+
+c) Los impactos sobre la posible deriva en los parámetros definitorios de las tipologías de las masas de agua superficial y sus condiciones de referencia, recogidos en el Real Decreto 817/2015, de 11 de septiembre, por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental.
+
+d) Los impactos derivados de la retención de sedimentos en los embalses y las posibles soluciones para su movilización.
+
+e) La identificación y evaluación de actuaciones que sean consistentes con los principios de la Estrategia del Agua para la Transición Ecológica, reduciendo la exposición y la vulnerabilidad e incrementando la resiliencia de las masas de agua.
+
+3\. El estudio específico de adaptación a los efectos del cambio climático de cada demarcación incluirá, al menos, los siguientes contenidos:
+
+a) Documento de síntesis, donde se describan los escenarios considerados, los principales riesgos asociados al cambio climático en la demarcación, y los principales ejes de las medidas de adaptación propuestas en el estudio.
+
+b) Introducción, con una breve descripción general de la demarcación.
+
+c) Descripción general del marco normativo existente, en el contexto de la Unión Europea y España.
+
+d) Caracterización climática e hidrológica de la demarcación. Incluirá tanto el régimen climático medio (de temperaturas, pluviométrico, nival, hidrológico), como el régimen extremo de sequías y eventos de lluvia.
+
+e) Escenarios de cambio climático seleccionados, con la descripción y análisis de las emisiones de gases de efecto invernadero, y de sus consecuencias sobre el incremento de temperatura y los cambios en la precipitación.
+
+f) Definición del escenario hidrometeorológico probable al horizonte temporal que corresponda según el artículo 21.4.
+
+g) Principales impactos asociados al cambio climático que se identifican en la demarcación, tanto sobre las masas de agua y ecosistemas, como sobre las actividades socioeconómicas.
+
+h) Evaluación de los riesgos asociados al cambio climático derivados de: las variaciones en los regímenes hidrológicos y en los recursos disponibles de los acuíferos, el incremento en la frecuencia e intensidad de fenómenos extremos, el incremento de la temperatura del agua y el ascenso del nivel de mar, valorando su afección sobre los ecosistemas acuáticos y terrestres dependientes del agua, así como sobre los requerimientos hídricos de las actividades económicas.
+
+i) Medidas de adaptación, que permitan reducir la exposición y vulnerabilidad y aumentar la resiliencia, ayudando a conservar el buen estado de las masas de agua, a aumentar la seguridad en el suministro de agua y a afrontar los fenómenos extremos.
+
+> Se añade por el art. 2.5 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+#### Sección 2.ª Descripción general de la demarcación hidrográfica
+
+##### Artículo 5. Identificación y delimitación de masas de agua superficial.
+
+1\. En cada demarcación hidrográfica se determinarán la situación y los límites de las masas de agua superficial y se llevará a cabo una caracterización de dichas masas mediante su clasificación en categorías y tipos. Se podrán agrupar distintas masas de agua superficial a efectos de dicha caracterización. La situación y los límites de las masas de agua superficial se definirán mediante un sistema de información geográfica.
+
+2\. Las masas de agua superficial dentro de cada demarcación hidrográfica se clasificarán en la categoría de ríos, lagos, aguas de transición o aguas costeras, especificando en su caso si se trata de masas de agua artificiales o masas de agua muy modificadas.
+
+##### Artículo 6. Ecorregiones y tipos de masas de agua superficial.
+
+1\. Los ríos y lagos se clasificarán en dos regiones ecológicas o ecorregiones denominadas Pirineos y Región ibérico-macaronésica, la primera de las cuales corresponde a la zona pirenaica y la segunda al resto de España. Las regiones ecológicas de las aguas de transición y costeras serán el Océano Atlántico y el Mar Mediterráneo.
+
+2\. Para cada categoría de agua superficial, las masas de agua se clasificarán por tipos. Estos tipos pueden definirse utilizando las regiones ecológicas definidas en el punto anterior y los descriptores establecidos en las tablas del anexo I (sistema A), o bien mediante los descriptores obligatorios y los descriptores optativos o combinaciones de descriptores indicados en las tablas del anexo II (sistema B).
+
+3\. Si se utiliza el segundo procedimiento del punto anterior se debe lograr, por lo menos, el mismo grado de discriminación que se lograría con el primero y se deben utilizar los valores de los descriptores que se requieran para garantizar que se puedan obtener con fiabilidad las condiciones biológicas de referencia específicas de cada tipo.
+
+4\. Para las masas de agua superficial artificiales y muy modificadas, la clasificación se llevará a cabo de conformidad con los descriptores correspondientes a la categoría de aguas superficiales que más se parezca a la masa de agua artificial o muy modificada de que se trate.
+
+5\. Las tipologías que, conforme a los apartados anteriores, se aplican a las masas de agua superficial son las que se definen en el Real Decreto 817/2015, de 11 de septiembre. Cuando en una determinada demarcación hidrográfica se diferencie alguna masa de agua que por sus características naturales no sea catalogable en alguna de las tipologías definidas, el propio plan hidrológico establecerá la tipología particular que corresponda. La nueva tipología será tomada en consideración por el Ministerio para la Transición Ecológica y el Reto Demográfico para, si procede, integrarla según corresponda en el Real Decreto 817/2015, de 11 de septiembre.
+
+> Se añade el apartado 5 por el art. 2.6 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 7. Condiciones de referencia de los tipos de masas de agua superficial.
+
+1\. Para cada tipo de masa de agua superficial se establecerán condiciones hidromorfológicas y fisicoquímicas específicas que representen los valores de los indicadores de calidad hidromorfológicos y fisicoquímicos correspondientes al muy buen estado ecológico. Asimismo, se establecerán condiciones biológicas de referencia específicas, de tal modo que representen los valores de los indicadores de calidad biológica correspondientes al muy buen estado ecológico.
+
+2\. Las condiciones específicas de cada tipo podrán obtenerse de las mediciones efectuadas en una red de referencia para cada tipo de masas de agua superficial, de una modelización o de una combinación de ambos métodos. Cuando no sea posible utilizar ninguno de estos métodos se podrá recabar el asesoramiento de expertos para establecer dichas condiciones. Al definir el muy buen estado ecológico por lo que se refiere a concentraciones de contaminantes, los límites de detección serán los que puedan lograrse de conformidad con las técnicas disponibles en el momento en que se deben establecer las condiciones específicas del tipo.
+
+3\. La red de referencia para cada tipo de masa de agua superficial contendrá un número suficiente de puntos en muy buen estado con objeto de proporcionar un nivel de confianza suficiente sobre los valores correspondientes a las condiciones de referencia, en función de la variabilidad de los valores de los indicadores de calidad que corresponden a un muy buen estado ecológico para ese tipo de masa de agua superficial y de las técnicas de modelización que se apliquen.
+
+4\. Las condiciones de referencia biológicas del tipo basadas en una modelización podrán obtenerse utilizando modelos de predicción o métodos de análisis a posteriori. Los métodos utilizarán los datos disponibles históricos, paleontológicos y de otro tipo y proporcionarán un nivel de confianza suficiente sobre los valores correspondientes a las condiciones de referencia para garantizar que las condiciones derivadas de esta forma sean coherentes y válidas para cada tipo de masa de agua superficial.
+
+5\. Cuando no sea posible fijar condiciones de referencia fiables específicas del tipo correspondientes a un indicador de calidad en un tipo de masa de agua superficial, debido al alto grado de variabilidad natural de dicho indicador, no sólo como consecuencia de variaciones estacionales, dicho indicador podrá excluirse de la evaluación del estado ecológico correspondiente a ese tipo de aguas superficiales. En tales circunstancias, se declararán las razones de esta exclusión en el plan hidrológico.
+
+6\. Las condiciones de referencia que, conforme a los apartados anteriores, se asocian a las diversas tipologías son las que se definen en el Real Decreto 817/2015, de 11 de septiembre. Cuando en una determinada demarcación hidrográfica se establezca una tipología particular se deberán definir también las condiciones de referencia y el sistema de evaluación del estado que se le aplicará.
+
+> Se añade el apartado 6 por el art. 2.7 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 8. Masas de agua artificiales y muy modificadas.
+
+1\. Una masa de agua superficial se podrá designar como artificial o muy modificada cuando:
+
+a) Los cambios de las características hidromorfológicas de dicha masa que sean necesarios para alcanzar su buen estado ecológico tengan considerables repercusiones negativas en el entorno, en la navegación (incluidas las instalaciones portuarias o actividades recreativas), en las actividades para las que se almacena el agua (como el suministro de agua destinada a la producción de agua de consumo humano, la producción de energía, el riego u otras), en la regulación del agua, en la protección contra las inundaciones, en la defensa de la integridad de la costa y en el drenaje de terrenos u otras actividades de desarrollo humano sostenible igualmente importantes.
+
+b) Los beneficios derivados de las características artificiales o modificadas de la masa de agua no puedan alcanzarse razonablemente, debido a las posibilidades técnicas o a costes desproporcionados, por otros medios que constituyan una opción medioambiental significativamente mejor.
+
+2\. En el caso de las masas de agua superficial muy modificadas o artificiales las referencias al muy buen estado ecológico se interpretarán como referencias al potencial ecológico máximo. Los valores relativos al potencial ecológico máximo correspondiente a una masa de agua, así como los motivos que justifican su consideración como artificial o muy modificada se revisarán cada seis años en el plan hidrológico.
+
+##### Artículo 9. Identificación y delimitación de masas de agua subterránea.
+
+1\. En cada demarcación hidrográfica se determinarán la situación y los límites de las masas de agua subterránea comprendidas íntegramente en su territorio mediante un sistema de información geográfica y se llevará a cabo una caracterización de dichas masas.
+
+2\. Los planes hidrológicos de cuenca realizarán una propuesta de masas de agua subterránea compartidas con otras demarcaciones, que será tomada en consideración en el Plan Hidrológico Nacional para su delimitación y caracterización, conforme a lo indicado en el artículo 67 de este reglamento.
+
+##### Artículo 10. Caracterización de las masas de agua subterránea.
+
+1\. Se llevará a cabo una caracterización inicial de todas las masas de agua subterránea para poder evaluar la medida en que dichas aguas podrían dejar de ajustarse a los objetivos medioambientales. Se podrán agrupar distintas masas de agua subterránea a efectos de dicha caracterización inicial.
+
+2\. En el análisis se utilizarán los datos existentes en materia de hidrología, geología, edafología y uso del suelo y se indicarán la ubicación y los límites de las masas de agua subterránea, las características generales de los estratos suprayacentes en la zona de captación a partir de la cual recibe su alimentación la masa de agua subterránea y las masas de agua subterránea de las que dependan directamente ecosistemas de aguas superficiales o ecosistemas terrestres.
+
+3\. Una vez realizado dicho análisis inicial, se realizará una caracterización adicional de las masas o grupos de masas de agua subterránea que presenten un riesgo de no alcanzar los objetivos medioambientales con objeto de evaluar con mayor exactitud la importancia de dicho riesgo y determinar con mayor precisión las medidas que se deban adoptar.
+
+4\. Para aquellas masas de agua subterránea en riesgo de no alcanzar los objetivos medioambientales se realizará una caracterización adicional que, cuando proceda, incluirá la siguiente información:
+
+a) Identificación: localización, ámbito administrativo, población asentada, marco geográfico y topografía.
+
+b) Características geológicas generales: ámbito geoestructural, naturaleza y extensión de los afloramientos permeables, columna litológica tipo, rangos de espesores y descripción cronoestratigráfica.
+
+c) Características hidrogeológicas: límites hidrogeológicos de la masa (tipo y sentido del flujo), características del acuífero o acuíferos de la masa (litología, geometría, espesor), régimen hidráulico, rango de permeabilidad, transmisividad y de coeficiente de almacenamiento.
+
+d) Características de la zona no saturada: litología, rango de espesor y suelos edáficos.
+
+e) Piezometría y almacenamiento: isopiezas tipo correspondientes al año seco y al año húmedo, sentido del flujo y gradiente medio, estado y variación del almacenamiento.
+
+f) Inventario y descripción de los sistemas de superficie asociados, incluidos los ecosistemas terrestres y las masas de agua superficial, con los que este conectada dinámicamente la masa de agua subterránea, y especificando, en su caso, su relación con los espacios incluidos en el registro de zonas protegidas. Se efectuarán estimaciones sobre direcciones, tasas de intercambio de flujos entre la masa de agua subterránea y los sistemas de superficie asociados.
+
+g) Recarga: infiltración de lluvia, retornos de riego, aportaciones laterales de otras masas y recarga de ríos.
+
+h) Recarga artificial: sistemas e instalaciones, ubicación de los puntos de la masa de agua subterránea en los que tiene lugar directamente la recarga artificial, volumen y tasas de recarga en dichos puntos, origen y composición química del agua de recarga y autorización administrativa.
+
+i) Calidad química de referencia: facies hidrogeoquímicas predominantes, niveles básicos, niveles de referencia y estratificación del agua subterránea.
+
+j) Estado químico: contaminantes detectados y valores umbral.
+
+k) Tendencias significativas y sostenidas de contaminantes: definición de los puntos de partida de las inversiones.
+
+l) Modelización numérica del flujo subterráneo considerando tanto aspectos cuantitativos como el transporte de contaminantes.
+
+> Se añade la letra l) al apartado 4 por el art. 2.8 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica el apartado 4 por la disposición final 2 del Real Decreto 1075/2015, de 27 de noviembre. [Ref. BOE-A-2015-13642](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13642).
+
+##### Artículo 11. Inventario de recursos hídricos naturales.
+
+1\. Por inventario de recursos hídricos naturales se entenderá la estimación cuantitativa, la descripción cualitativa y la distribución temporal de dichos recursos en la demarcación hidrográfica. En el inventario se incluirán las aguas que contribuyan a las aportaciones de los ríos y las que alimenten almacenamientos naturales de agua, superficiales o subterráneos.
+
+2\. A efectos de la realización del inventario la demarcación hidrográfica se podrá dividir en zonas y subzonas. La división se hará en cada caso atendiendo a criterios hidrográficos, administrativos, socioeconómicos, medioambientales u otros que en cada supuesto se estime conveniente tomar en consideración.
+
+3\. El inventario contendrá, en la medida que sea posible:
+
+a) Datos estadísticos que muestren la evolución del régimen natural de los flujos y almacenamientos a lo largo del año hidrológico.
+
+b) Interrelaciones de las variables consideradas, especialmente entre las aguas superficiales y subterráneas, y entre las precipitaciones y las aportaciones de los ríos o recarga de acuíferos.
+
+c) La zonificación y la esquematización de los recursos hídricos naturales en la demarcación hidrográfica.
+
+d) Características básicas de calidad de las aguas en condiciones naturales.
+
+4\. El plan hidrológico evaluará el posible efecto del cambio climático sobre los recursos hídricos naturales de la demarcación. Para ello estimará los recursos que corresponderían a los escenarios climáticos previstos por el Ministerio de Medio Ambiente, que se tendrán en cuenta en el horizonte temporal indicado en el artículo 21.4.
+
+5\. El Ministerio para la Transición Ecológica y el Reto Demográfico, con el apoyo del Centro de Estudios Hidrográficos del Centro de Estudios y Experimentación de Obras Públicas (CEDEX), mantendrá actualizado un inventario de recursos hídricos en régimen natural que se pondrá a disposición de los organismos de cuenca y del público en general. Dicho inventario será utilizado como referencia en la preparación de los planes hidrológicos.
+
+> Se añade el apartado 5 por el art. 2.9 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+#### Sección 3.ª Descripción general de los usos, presiones e incidencias antrópicas significativas
+
+##### Artículo 12. Usos del agua.
+
+El plan hidrológico incluirá una tabla que clasifique los usos contemplados en el mismo, distinguiéndose, al menos, los de abastecimiento de poblaciones, regadíos y usos agrarios, usos industriales para producción de energía eléctrica, otros usos industriales, acuicultura, usos recreativos, navegación y transporte acuático.
+
+##### Artículo 13. Caracterización de las demandas de agua.
+
+1\. Para caracterizar una demanda serán precisos los siguientes datos:
+
+a) El volumen anual y su distribución temporal.
+
+b) Las condiciones de calidad exigibles al suministro.
+
+c) El nivel de garantía.
+
+d) El coste repercutible y otras variables económicas relevantes.
+
+e) El consumo, es decir, el volumen que no retorna al sistema hidráulico.
+
+f) El retorno, es decir, el volumen no consumido que se reincorpora al sistema.
+
+g) Las condiciones de calidad del retorno previas a cualquier tratamiento.
+
+2\. El volumen de la demanda se expresará en términos brutos y netos. En el primer caso, que corresponde al concepto de detracción del medio, se consideran incluidas las pérdidas en transporte, distribución y aplicación. En el segundo caso, que corresponde al concepto de consumo, no se incluyen tales pérdidas.
+
+3\. Las demandas pertenecientes a un mismo uso que compartan el origen del suministro y cuyos retornos se reincorporen básicamente en la misma zona o subzona se agruparán en unidades territoriales más amplias, denominadas unidades de demanda. Estas unidades se definirán en el plan hidrológico y son las que se integrarán como elementos diferenciados a efectos de la realización de balances y de la asignación de recursos y establecimiento de reservas en el sistema de explotación único definido de acuerdo con el artículo 19.
+
+##### Artículo 14. Criterios para la estimación de las demandas de agua.
+
+1\. Los planes hidrológicos de cuenca incorporarán la estimación de las demandas actuales y de las previsibles en los horizontes contemplados en el artículo 19. En particular para los usos de abastecimiento a poblaciones, agrarios, energéticos e industriales se seguirán los siguientes criterios:
+
+a) El cálculo de la demanda de abastecimiento a poblaciones se basará, teniendo en cuenta las previsiones de los planes urbanísticos, en evaluaciones demográficas, económico productivas, industriales y de servicios, e incluirá la requerida por industrias de poco consumo de agua situadas en los núcleos de población y conectadas a la red municipal. En estas evaluaciones se tendrá en cuenta tanto la población permanente como la estacional, así como el número de viviendas principales y secundarias por tipologías. Asimismo se considerarán las dotaciones domésticas básicas y las previsiones de las administraciones competentes sobre los efectos de cambios en los precios, en la eficiencia de los sistemas de abastecimiento y en los hábitos de consumo de la población.
+
+b) La estimación de la demanda agraria comprenderá la demanda agrícola, forestal y ganadera, que deberá estimarse de acuerdo con la previsiones de cada sector y las políticas territoriales y de desarrollo rural. La estimación de la demanda agrícola tendrá en cuenta las previsiones de evolución de la superficie de regadíos y de los tipos de cultivos, los sistemas y eficiencias de riego, el ahorro de agua como consecuencia de la implantación de nuevas técnicas de riego o mejora de infraestructuras, las posibilidades de reutilización de aguas, la revisión concesional al amparo del artículo 65, apartados a) y b) y la disposición transitoria sexta del texto refundido de la Ley de Aguas y la previsión para la atención de aprovechamientos aislados. Asimismo se tendrán en cuenta las previsiones de cambio de los precios de los servicios del agua y las modificaciones en el contexto de los mercados y de las ayudas que perciben los usos agrarios.
+
+c) La estimación de la demanda para usos industriales y energéticos considerará las previsiones actuales y de desarrollo sostenible a largo plazo de cada sector de actividad. El cálculo se realizará para cada uno de ellos, contemplando el número de establecimientos industriales, el empleo, la producción y otras características socioeconómicas. Se tendrán también en cuenta los posibles cambios estructurales en el uso de materias primas y en los procesos productivos, la aplicación de nuevas tecnologías que mejoren el aprovechamiento del agua y las posibilidades de reutilización de las aguas dentro del propio proceso industrial.
+
+2\. Las estimaciones realizadas siguiendo los criterios definidos en el apartado anterior deberán ajustarse, para las demandas correspondientes a la situación actual, con los datos reales disponibles sobre detracciones y consumos en las unidades de demanda más significativas de la demarcación.
+
+3\. En todos los casos se estimarán los retornos al medio natural de las aguas usadas, tanto en sus aspectos cualitativos como cuantitativos. En el caso del abastecimiento a poblaciones el plan hidrológico incluirá una descripción de los sistemas de tratamiento y depuración de las aguas residuales correspondientes a cada unidad de demanda, con indicación de los volúmenes y características de calidad de las aguas a la entrada y a la salida de la instalación.
+
+4\. El Ministerio para la Transición Ecológica y el Reto Demográfico estudiará las previsiones de evolución de los distintos tipos de demanda y pondrá la información resultante a disposición de los organismos de cuenca y del público en general. Dicha información, a falta de otros estudios de mayor detalle, será utilizada como referencia en la revisión de los planes hidrológicos.
+
+> Se añade el apartado 4 por el art. 2.10 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 15. Presiones sobre las masas de agua superficial.
+
+1\. En cada demarcación hidrográfica se recopilará y mantendrá el inventario sobre el tipo y la magnitud de las presiones antropogénicas significativas a las que están expuestas las masas de aguas superficial, tal y como vienen definidas en el artículo 3.
+
+2\. Dicha información incluirá, en especial:
+
+a) La estimación e identificación de la contaminación significativa originada por fuentes puntuales, producida especialmente por las sustancias enumeradas en el anexo II del Reglamento de Dominio Público Hidráulico, procedentes de instalaciones y actividades urbanas, industriales, agrarias y otro tipo de actividades económicas.
+
+b) La estimación e identificación de la contaminación significativa originada por fuentes difusas, producida especialmente por las sustancias enumeradas en el anexo II del Reglamento de Dominio Público Hidráulico, procedentes de instalaciones y actividades urbanas, industriales, agrícolas y ganaderas, en particular no estabuladas, y otro tipo de actividades, tales como zonas mineras, suelos contaminados o vías de transporte.
+
+c) La estimación y determinación de la extracción significativa de agua para usos urbanos, industriales, agrarios y de otro tipo, incluidas las variaciones estacionales y la demanda anual total, y de la pérdida de agua en los sistemas de distribución.
+
+d) La estimación y determinación de la incidencia de la regulación significativa del flujo de agua, incluidos el trasvase y el desvío del agua, en las características globales del flujo y en los equilibrios hídricos.
+
+e) La identificación e incidencia de las alteraciones morfológicas significativas de las masas de agua, incluyendo las alteraciones transversales y longitudinales.
+
+f) La estimación e identificación de otros tipos de incidencia antropogénica significativa en el estado de las aguas superficiales, como la introducción de especies alóctonas, los sedimentos contaminados y las actividades recreativas.
+
+g) Los usos del suelo, incluida la identificación de las principales zonas urbanas, industriales y agrarias, zonas de erosión, zonas afectadas por incendios, zonas de extracción de áridos y otras ocupaciones de márgenes y, si procede, las pesquerías y los bosques.
+
+##### Artículo 16. Presiones sobre las masas de agua subterránea.
+
+1\. En cada demarcación hidrográfica se indicarán las presiones antropogénicas significativas a que están expuestas las masas de agua subterránea, entre las que se cuentan las fuentes de contaminación difusa, las fuentes de contaminación puntual, la extracción de agua y la recarga artificial de agua.
+
+2\. En los casos de masas de agua subterránea que puedan no ajustarse a los objetivos medioambientales establecidos o que crucen la frontera con Francia o Portugal, deberán recogerse, actualizarse y conservarse, si procede, los datos siguientes:
+
+a) La ubicación de los puntos de la masa de agua subterránea utilizados para la extracción de agua, con excepción de los puntos de extracción de agua que suministren menos de 10 m<sup>3</sup> diarios y los puntos de extracción de agua destinada al consumo humano que suministren un promedio diario inferior a 10 m<sup>3</sup> o sirvan a menos de 50 personas.
+
+b) Las tasas anuales medias de extracción a partir de dichos puntos.
+
+c) La composición química del agua extraída de la masa de agua subterránea.
+
+d) La ubicación de los puntos de la masa de agua subterránea en los que tiene lugar directamente una recarga artificial.
+
+e) Las tasas de recarga en dichos puntos.
+
+f) La composición química de las aguas introducidas en la recarga del acuífero.
+
+g) El uso del suelo en la zona o zonas de recarga natural a partir de las cuales la masa de agua subterránea recibe su alimentación, incluidas las entradas contaminantes y las alteraciones antropogénicas de las características de la recarga natural, como por ejemplo la desviación de las aguas pluviales y de la escorrentía mediante la impermeabilización del suelo, la alimentación artificial, el embalsado o el drenaje.
+
+##### Artículo 16 bis. Identificación de impactos y análisis del riesgo.
+
+1\. En cada demarcación hidrográfica se realizará un inventario de los impactos registrados sobre las masas de agua. Dicho inventario especificará, para cada masa de agua superficial y subterránea, si se han registrado o no los tipos de impactos que se indican en el anexo IV.
+
+2\. El plan hidrológico identificará las masas de agua que se encuentran en riesgo de no alcanzar los objetivos ambientales a que alude el artículo 35 en la fecha horizonte a que se refiera el plan. Las masas de agua se catalogarán en riesgo cuando sobre ellas se hayan reconocido impactos o bien, aun careciendo de impactos identificados, se aprecie que sobre ellas actúan presiones significativas al horizonte temporal de cálculo. A tal efecto las autoridades de cuenca podrán utilizar técnicas de modelización que asistan dicha evaluación.
+
+3\. Respecto de las masas de agua en riesgo de no alcanzar los objetivos ambientales se llevará a cabo una caracterización adicional, si procede en las masas de agua superficial y necesaria en las masas de agua subterránea, para optimizar la concepción de los programas de seguimiento del estado de las aguas y de los programas de medidas a los que alude el artículo 43.
+
+> Se añade por el art. 2.11 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 17. Prioridad y compatibilidad de usos.
+
+1\. El plan hidrológico contendrá los criterios de prioridad y de compatibilidad de usos, así como los órdenes de preferencia entre distintos usos y aprovechamientos que deban aplicarse en los sistemas de explotación de la demarcación hidrográfica.
+
+2\. A efectos del otorgamiento de concesiones, se observará el orden de preferencia establecido en el plan hidrológico de cuenca correspondiente, teniendo en cuenta las exigencias para la protección y conservación del recurso y su entorno. En particular, de conformidad con lo establecido en el artículo 60.2 del texto refundido de la Ley de Aguas, toda concesión está sujeta a expropiación forzosa a favor de otro aprovechamiento que le preceda según el orden establecido en el plan hidrológico de cuenca. Dicho orden debe respetar en todo caso la supremacía del uso para abastecimiento de la población, incluyendo en su dotación la necesaria para industrias de poco consumo de agua situadas en los núcleos de población y conectadas a la red municipal.
+
+3\. Al objeto de cumplir los objetivos en materia de energías renovables, las nuevas concesiones que se otorguen, y en particular las dirigidas a la generación de energía eléctrica, tendrán como prioridad el apoyo a la integración de las tecnologías renovables en el sistema eléctrico en los términos previstos en el artículo 7 de la Ley 7/2021, de 20 de mayo.
+
+4\. De conformidad con el artículo 59.7 del Texto refundido de la Ley de Aguas los caudales ecológicos o demandas ambientales no tendrán el carácter de uso, debiendo considerarse como una restricción que se impone con carácter general a los sistemas de explotación. En todo caso, se aplicará también a los caudales ecológicos la regla sobre supremacía del uso para abastecimiento de poblaciones, recogida en el artículo 60.3 del texto refundido de la Ley de Aguas, cuando no exista una alternativa razonable que pueda dar satisfacción a esta necesidad. La definición de esa alternativa razonable se podrá acordar en la revisión de los planes especiales de sequía.
+
+> Se modifica por el art. 2.12 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 17 bis. Declaración de utilidad pública.
+
+1\. La aprobación de los planes hidrológicos de cuenca implicará la declaración de utilidad pública de los trabajos de investigación, estudios, proyectos y obras previstos en el plan, entendiendo como tales los que aparezcan catalogados en el programa de medidas. Igualmente se declaran de utilidad pública los terrenos que no sean de dominio público y resulten necesarios para la materialización de las infraestructuras indicadas.
+
+2\. A los efectos de la expropiación forzosa de las concesiones prevista en el artículo 60.2 del texto refundido de la Ley de Aguas, llevan implícita la declaración de utilidad pública aquellas concesiones de agua cuya finalidad sea el abastecimiento de población. Los planes hidrológicos podrán fijar condiciones para la declaración de utilidad pública de las restantes concesiones teniendo en cuenta los siguientes criterios:
+
+a) Compatibilidad del aprovechamiento con el plan hidrológico de cuenca.
+
+b) Imposibilidad de obtener el recurso de otro modo que no sea mediante la expropiación total o parcial de otros aprovechamientos de menor orden de preferencia.
+
+c) No empeoramiento del rendimiento hídrico global en el sistema de explotación en que se inserta la nueva concesión, de tal forma que los restantes aprovechamientos sigan cumpliendo los criterios de garantía.
+
+d) Que el nuevo aprovechamiento haya sido declarado de interés general del Estado.
+
+3\. En los casos previstos en el artículo 94 del Reglamento del Dominio Público Hidráulico, la autoridad competente para declarar la utilidad pública recabará del organismo de cuenca un informe en relación con el cumplimiento de los requisitos señalados en el apartado anterior.
+
+En la declaración de utilidad pública deberá figurar la relación de bienes afectados y los aprovechamientos de agua con menor orden de preferencia que serían susceptibles de expropiación, describiéndose todos los aspectos materiales y jurídicos de estos bienes y de cualquier otro bien o servicio que pudiera verse afectado.
+
+> Se añade por el art. 2.13 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 18. Caudales ecológicos.
+
+1\. El plan hidrológico determinará el régimen de caudales ecológicos en los ríos y aguas de transición definidos en la demarcación, incluyendo también las necesidades de agua de los lagos y de las zonas húmedas, atendiendo a lo dispuesto en los artículos 49 ter y siguientes del RDPH.
+
+2\. Este régimen de caudales ecológicos se establecerá de modo que permita mantener de forma sostenible la funcionalidad y estructura de los ecosistemas acuáticos y de los ecosistemas terrestres asociados, contribuyendo a alcanzar el buen estado o potencial ecológico en ríos o aguas de transición. Para su establecimiento los organismos de cuenca realizarán estudios específicos en cada tramo de río.
+
+3\. El proceso de implantación del régimen de caudales ecológicos se desarrollará conforme a un proceso de concertación que tendrá en cuenta los usos y demandas actualmente existentes y su régimen concesional, así como las buenas prácticas.
+
+4\. En caso de sequías prolongadas podrá aplicarse un régimen de caudales menos exigente siempre que se cumplan las condiciones que establece el artículo 38 sobre deterioro temporal del estado de las masas de agua. Esta excepción no se aplicará en las zonas incluidas en la red Natura 2000 o en la Lista de humedales de importancia internacional de acuerdo con el Convenio de Ramsar, de 2 de febrero de 1971. En estas zonas se considerará prioritario el mantenimiento del régimen de caudales ecológicos, aunque se aplicará la regla sobre supremacía del uso para abastecimiento de poblaciones.
+
+5\. En la determinación del flujo interanual medio requerido para el cálculo de los recursos disponibles de agua subterránea se tomará como referencia el régimen de caudales ecológicos calculado según los criterios definidos en los apartados anteriores.
+
+> Se modifica el apartado 1 por el art. 2.3 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+##### Artículo 19. Sistemas de explotación.
+
+1\. El plan hidrológico definirá los sistemas de explotación en los que funcionalmente se divida el territorio de la demarcación.
+
+2\. Cada sistema de explotación de recursos está constituido por masas de agua superficial y subterránea, obras e instalaciones de infraestructura hidráulica, normas de utilización del agua derivadas de las características de las demandas y reglas de explotación que, aprovechando los recursos hídricos naturales, y de acuerdo con su calidad, permiten establecer los suministros de agua que configuran la oferta de recursos disponibles del sistema de explotación, cumpliendo los objetivos medioambientales.
+
+3\. Cada sistema de explotación de recursos se referirá a un horizonte temporal debiendo incluirse, en todo caso, el correspondiente a la situación existente al elaborarse el Plan. Los sistemas de explotación se referirán, además, a dos horizontes temporales, 2015 y 2027, en los que se considerará la satisfacción de las demandas previsibles. Estos horizontes se incrementarán en seis años en las sucesivas actualizaciones de los planes.
+
+4\. El estudio de cada sistema de explotación de recursos contendrá:
+
+a) La definición y características de los recursos hídricos disponibles de acuerdo con las normas de utilización del agua consideradas. Dichos recursos incluirán los procedentes de la captación y regulación de aguas superficiales, la extracción de aguas subterráneas, la reutilización, la desalación de aguas salobres y marinas y las transferencias de otras demarcaciones. Asimismo se especificarán los esquemas de uso conjunto de los recursos hídricos superficiales y subterráneos y la recarga artificial de acuíferos.
+
+b) La determinación de los elementos de la infraestructura precisa y las directrices fundamentales para su explotación.
+
+c) Los recursos hídricos naturales no utilizados en el sistema y, en su caso, los procedentes de ámbitos territoriales externos al Plan.
+
+5\. Sin perjuicio de los sistemas de explotación parciales que puedan definirse en cada Plan, se definirá un sistema de explotación único en el que, de forma simplificada, queden incluidos todos los sistemas parciales y con el que se posibilite el análisis global de comportamiento en toda la demarcación hidrográfica. En el Plan se indicará la agrupación de recursos, demandas, infraestructuras de almacenamiento y masas de agua llevada a cabo a partir de los sistemas parciales, en su caso, para definir el sistema de explotación único.
+
+##### Artículo 20. Reserva de recursos.
+
+1\. Se entiende por reserva de recursos la correspondiente a las asignaciones establecidas en previsión de las demandas que corresponde atender para alcanzar los objetivos de la planificación hidrológica.
+
+2\. Las reservas establecidas deberán inscribirse en el Registro de Aguas a nombre del organismo de cuenca, el cual procederá a su cancelación parcial a medida que se vayan otorgando las correspondientes concesiones. Todo ello de acuerdo con el título II, capítulo II, sección 9.ª del Reglamento del Dominio Público Hidráulico.
+
+3\. Las reservas de recursos previstas en los planes hidrológicos de cuenca se aplicarán exclusivamente para el destino concreto y en el plazo máximo fijado en el propio plan. En ausencia de tal previsión, se entenderá como plazo máximo el de seis años establecido en el artículo 89, salvo que en la revisión del correspondiente plan se establezca otro diferente.
+
+##### Artículo 21. Balances, asignación y reserva de recursos.
+
+1\. Los balances entre recursos y demandas a los que se refiere este artículo se realizarán para cada uno de los sistemas de explotación definidos conforme a lo indicado en el artículo anterior. En dicho balance los caudales ecológicos se considerarán como una restricción en la forma indicada en el artículo 17.2. La satisfacción de las demandas se realizará siguiendo los criterios de prioridad establecidos en el plan hidrológico, desde una perspectiva de sostenibilidad en el uso del agua.
+
+2\. El plan hidrológico establecerá para la situación existente al elaborar el Plan, el balance entre los recursos y las demandas consolidadas, considerando como tales las representativas de unas condiciones normales de suministro en los últimos años, sin que en ningún caso puedan consolidarse demandas cuyo volumen exceda el valor de las asignaciones vigentes.
+
+3\. Asimismo establecerá la asignación y reserva de los recursos disponibles para las demandas previsibles al horizonte temporal del año 2015 a los efectos del artículo 91 del Reglamento de Dominio Público Hidráulico y especificará también las demandas que no pueden ser satisfechas con los recursos disponibles en la propia demarcación hidrográfica. Dicho horizonte se incrementará en seis años en las sucesivas actualizaciones de los planes.
+
+4\. Con objeto de evaluar las tendencias a largo plazo, para el horizonte temporal del año 2027 el plan hidrológico estimará el balance o balances entre los recursos previsiblemente disponibles y las demandas previsibles correspondientes a los diferentes usos. Para la realización de este balance se tendrá en cuenta el posible efecto del cambio climático sobre los recursos hídricos naturales de la demarcación de acuerdo con lo establecido en el artículo 11. El citado horizonte temporal se incrementará en seis años en las sucesivas actualizaciones de los planes.
+
+#### Sección 4.ª Zonas protegidas
+
+##### Artículo 22. Reservas hidrológicas.
+
+**(Derogado).**
+
+> Se deroga por el art. 2.14 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica por el art. 2.4 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+##### Artículo 23. Otras zonas protegidas.
+
+**(Derogado).**
+
+> Se deroga por el art. 2.14 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica por el art. 2.5 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+##### Artículo 24. Registro de zonas protegidas.
+
+1\. De conformidad con el artículo 99 bis del texto refundido de la Ley de Aguas, para cada demarcación hidrográfica existirá un registro de las zonas que hayan sido declaradas objeto de protección especial en virtud de norma específica sobre protección de aguas superficiales o subterráneas, o sobre conservación de hábitats y especies directamente dependientes del agua.
+
+2\. En el registro se incluirán los siguientes tipos de zonas protegidas:
+
+a) Las zonas en las que se realiza una captación de agua destinada a la producción de agua de consumo humano, siempre que proporcione un volumen medio de al menos 10 metros cúbicos diarios o abastezca a más de cincuenta personas, así como sus áreas de captación y, en su caso, los perímetros de protección delimitados.
+
+b) Las zonas que, de acuerdo con el respectivo plan hidrológico, se vayan a destinar en un futuro a la captación de agua destinada a la producción de agua de consumo humano.
+
+c) Las zonas que hayan sido declaradas de protección de especies acuáticas significativas desde el punto de vista económico.
+
+d) Las masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño.
+
+e) Las zonas que hayan sido declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias.
+
+f) Las zonas que hayan sido declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas.
+
+g) Las zonas declaradas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección o estado de conservación, incluidos los Lugares de Importancia Comunitaria, las Zonas de Especial Conservación y Zonas de Especial Protección para las Aves integradas en la red Natura 2000, designadas en el marco de la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres y la Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, relativa a la conservación de las aves silvestres.
+
+h) Los perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica.
+
+3\. En el registro se incluirán, además, otros tipos de zonas protegidas; en particular:
+
+a) Las reservas hidrológicas declaradas en virtud del artículo 25 del Plan Hidrológico Nacional, de conformidad con el artículo 244 bis y siguientes del Reglamento del Dominio Público Hidráulico.
+
+b) Las zonas, cuencas o tramos de cuencas, acuíferos o masas de agua protegidos al amparo de otros preceptos de la legislación ambiental y de protección de la naturaleza facilitados por las Administraciones ambientales competentes.
+
+c) Los humedales de importancia internacional incluidos en la Lista del Convenio de Ramsar, de 2 de febrero de 1971, así como las zonas húmedas incluidas en el Inventario Nacional de Zonas Húmedas de acuerdo con el Real Decreto 435/2004, de 12 de marzo, por el que se regula el Inventario Nacional de Zonas Húmedas.
+
+4\. El resumen del registro requerido como parte del plan hidrológico incluirá mapas indicativos de la ubicación de cada zona protegida, información ambiental y estado de conservación, en su caso, y una descripción de la legislación de la Unión Europea, nacional o local con arreglo a la cual han sido designadas.
+
+> Se modifica por el art. 2.15 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica el apartado 3.a) y b) por el art. 2.6 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+##### Artículo 24 bis. Estructura informática del registro de zonas protegidas de la demarcación.
+
+1\. Para cada demarcación hidrográfica, el organismo de cuenca responsable de la elaboración del plan o la administración hidráulica competente en las cuencas comprendidas íntegramente en el ámbito territorial de la comunidad autónoma, mantendrá una infraestructura informática que dé soporte al registro de zonas protegidas y que incluya una infraestructura de datos espaciales que permita el intercambio de información con las administraciones competentes en la declaración, gestión y seguimiento de cada uno de los tipos de zonas protegidas incluidas en el registro.
+
+2\. Esta infraestructura debe permitir la consulta de los datos por parte de cualquier interesado de modo que se cumpla con lo dispuesto en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente; en la Ley 14/2010, de 5 de julio, sobre las infraestructuras y los servicios de información geográfica en España; en la Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público, así como con los demás compromisos y obligaciones internacionales adquiridos por el Estado, especialmente los derivados de su condición como Estado miembro de la Unión Europea y parte firmante de los convenios internaciones.
+
+3\. Los contenidos mínimos del registro incluirán para cada tipo de zona:
+
+a) Legislación específica aplicable.
+
+b) Administraciones competentes de las recogidas en el artículo 64.
+
+c) Procedimiento administrativo de designación y plazos.
+
+d) Tipos de objetivos adicionales.
+
+e) Medidas de protección adicionales.
+
+4\. Los contenidos mínimos del registro incluirán para cada zona:
+
+a) Código único de la zona protegida.
+
+b) Nombre de la zona protegida.
+
+c) Tipo de zona protegida.
+
+d) Geometría.
+
+e) Fechas asociadas a la declaración, revisión, modificación o derogación.
+
+f) Masas de agua asociadas.
+
+g) Requisitos u objetivos adicionales a cumplir.
+
+> Se añade por el art. 2.16 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 25. Revisión, actualización y consulta del registro de zonas protegidas.
+
+1\. El registro de zonas protegidas deberá mantenerse en permanente revisión de modo que su contenido esté siempre actualizado.
+
+2\. Las administraciones competentes por razón de la materia facilitarán al organismo de cuenca correspondiente, la información precisa para mantener actualizado el registro de zonas protegidas de cada demarcación hidrográfica bajo la supervisión del Comité de Autoridades Competentes de la demarcación. Con la citada finalidad se potenciará el acceso directo a los datos mediante servicios interoperables.
+
+3\. El registro de zonas protegidas será de consulta pública permanente, sin perjuicio de atender las solicitudes de información formuladas de conformidad con la Ley 27/2006, de 18 de julio.
+
+4\. La actualización de las diferentes componentes del registro se realizará conforme a la legislación en virtud de la cual haya sido establecida la zona protegida, tanto en forma como en plazo. La revisión continua del registro, prevista en el apartado 1, permitirá la inclusión de las actualizaciones en el momento en el que se produzcan.
+
+> Se modifica por el art. 2.17 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 25 bis. Sistema de información de los registros de zonas protegidas.
+
+1\. La Dirección General del Agua del Ministerio para la Transición Ecológica y el Reto Demográfico mantendrá el Sistema de Información de los Registros de Zonas Protegidas de las demarcaciones hidrográficas como nodo común para facilitar el acceso de los ciudadanos a la información de los registros de las diferentes demarcaciones hidrográficas, así como para facilitar la recopilación de la información exigible por la Comisión Europea.
+
+2\. El sistema servirá también para facilitar el mantenimiento y actualización de los registros de zonas protegidas de las distintas demarcaciones hidrográficas respecto a las zonas protegidas cuya competencia de declaración recae en la Administración General del Estado.
+
+> Se añade por el art. 2.18 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+#### Sección 5.ª Evaluación del estado de las aguas. Redes de control
+
+##### Artículo 26. Clasificación del estado de las aguas superficiales.
+
+1\. El estado de las masas de agua superficial quedará determinado por el peor valor de su estado ecológico y de su estado químico.
+
+2\. El estado ecológico de las aguas superficiales se clasificará como muy bueno, bueno, moderado, deficiente o malo.
+
+3\. Para clasificar el estado ecológico de las masas de agua superficial se considerarán los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de acuerdo con las definiciones normativas incluidas en el anexo V, cuyos indicadores quedan establecidos en el Real Decreto 817/2015, de 11 de septiembre, por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental.
+
+4\. Los elementos de calidad aplicables a las masas de agua artificiales y muy modificadas serán los que resulten de aplicación a la categoría o tipo de aguas superficiales naturales que más se parezca a la masa de agua artificial o muy modificada de que se trate. En el caso de las aguas muy modificadas y artificiales el potencial ecológico se clasificará como bueno o superior, moderado, deficiente o malo.
+
+5\. El estado químico de las aguas superficiales se clasificará como bueno o como que no alcanza el buen estado.
+
+6\. **(Derogado).**
+
+> Se modifican los apartados 3 y 4 por la disposición final 6.4 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+> Se deroga el apartado 6 por la disposición derogatoria 1 del Real Decreto 60/2011, de 21 de enero. [Ref. BOE-A-2011-1139](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1139).
+
+##### Artículo 27. Elementos de calidad para la clasificación del estado ecológico de los ríos.
+
+El estado ecológico de las masas de agua de la categoría ríos se evaluará atendiendo a las condiciones de referencia y límites de cambio de clase de estado de los indicadores de los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de soporte aplicables a cada tipo de masa de agua que se definen en el artículo 10 del Real Decreto 817/2015, de 11 de septiembre.
+
+Las NCA de los contaminantes específicos se calcularán con arreglo al procedimiento descrito en dicho real decreto.
+
+> Se modifica por la disposición final 6.5 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 28. Elementos de calidad para la clasificación del estado ecológico de los lagos.
+
+El estado ecológico de las masas de agua de la categoría lagos se evaluará atendiendo a las condiciones de referencia y límites de cambio de clase de estado de los indicadores de los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de soporte aplicables a cada tipo de masa de agua que se definen en el artículo 11 del Real Decreto 817/2015, de 11 de septiembre.
+
+Las NCA de los contaminantes específicos se calcularán con arreglo al procedimiento descrito en dicho real decreto.
+
+> Se modifica por la disposición final 6.6 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 29. Elementos de calidad para la clasificación del estado ecológico de las aguas de transición.
+
+El estado ecológico de las masas de agua de la categoría aguas de transición se evaluará atendiendo a las condiciones de referencia y límites de cambio de clase de estado de los indicadores de los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de soporte aplicables a cada tipo de masa de agua que se definen en el artículo 12 del Real Decreto 817/2015, de 11 de septiembre.
+
+Las NCA de los contaminantes específicos se calcularán con arreglo al procedimiento descrito en dicho real decreto.
+
+> Se modifica por la disposición final 6.7 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 30. Elementos de calidad para la clasificación del estado ecológico de las aguas costeras.
+
+El estado ecológico de las masas de agua de la categoría aguas costeras se evaluará atendiendo a las condiciones de referencia y límites de cambio de clase de estado de los indicadores de los elementos de calidad biológicos, químicos y fisicoquímicos e hidromorfológicos de soporte aplicables a cada tipo de masa de agua que se definen en el artículo 13 del Real Decreto 817/2015, de 11 de septiembre.
+
+Las NCA de los contaminantes específicos se calcularán con arreglo al procedimiento descrito en dicho real decreto.
+
+> Se modifica por la disposición final 6.8 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 31. Evaluación y presentación del estado de las aguas superficiales.
+
+1\. La evaluación del estado de las masas de agua superficial se realizará conforme a los resultados de los programas de seguimiento y al procedimiento para la evaluación del mismo regulados en el Real Decreto 817/2015, de 11 de septiembre.
+
+2\. El plan hidrológico incluirá mapas en los que se muestre, en cada masa de agua superficial, el estado ecológico o potencial ecológico y el estado químico de dicha masa. En dichos mapas se indicarán las masas de agua en las que no sea posible alcanzar el buen estado ecológico o buen potencial ecológico por el incumplimiento de las NCA en relación con contaminantes específicos.
+
+3\. Sin perjuicio de lo dispuesto en el artículo 92 bis.1.a) y d) del TRLA, así como de la obligación de presentar el estado químico global, los planes hidrológicos de cuenca podrán incluir mapas adicionales, a los previstos en el apartado anterior, que presenten la información sobre el estado químico de una o varias de las siguientes sustancias de forma separada a la información relativa a las demás sustancias identificadas en el anexo IV del Real Decreto 817/2015, de 11 de septiembre:
+
+a) Sustancias indicadas con los números 5, 21, 28, 30, 35, 37, 43 y 44 (sustancias que se comportan como sustancias PBT ubicuas, esto es, persistentes, bioacumulables, tóxicas y ubicuas).
+
+b) Sustancias indicadas con los números 34 a 45 (sustancias identificadas recientemente).
+
+c) Sustancias indicadas con los números 2, 5, 15, 20, 22, 23 y 28 (sustancias para las que se establecen NCA revisadas más estrictas).
+
+Así mismo, se podrá presentar en los planes hidrológicos de cuenca el alcance de cualquier desviación respecto del valor de las NCA para las sustancias a que se refiere los apartados a) a c). En este caso se procurará garantizar su intercomparabilidad a escala de las cuencas hidrográficas y de la Unión.
+
+> Se modifica por la disposición final 6.9 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 32. Clasificación del estado de las aguas subterráneas.
+
+1\. El estado de las masas de agua subterránea quedará determinado por el peor valor de su estado cuantitativo y de su estado químico.
+
+2\. Para clasificar el estado cuantitativo de las masas de agua subterránea se utilizarán indicadores que empleen como parámetro el nivel piezométrico de las aguas subterráneas. Dicho estado podrá clasificarse como bueno o malo.
+
+3\. Para clasificar el estado químico de las masas de agua subterránea se utilizarán indicadores que empleen como parámetros las concentraciones de contaminantes y la conductividad. Dicho estado podrá clasificarse como bueno o malo.
+
+##### Artículo 33. Evaluación y presentación del estado de las aguas subterráneas.
+
+1\. La evaluación del estado cuantitativo de las masas de agua subterránea se realizará de forma global para toda la masa con los indicadores calculados a partir de los valores del nivel piezométrico obtenidos en los puntos de control.
+
+2\. La evaluación del estado químico de las masas de agua subterránea se realizará de forma global para toda la masa con los indicadores calculados a partir de los valores de concentraciones de contaminantes y conductividad obtenidos en los puntos de control.
+
+3\. El plan hidrológico incluirá mapas en los que se muestre, en cada masa de agua subterránea, el estado cuantitativo y el estado químico de dicha masa. En el mapa correspondiente al estado químico se indicarán las masas de agua subterránea con una tendencia significativa y continua al aumento de las concentraciones de cualquier contaminante.
+
+##### Artículo 34. Programas de seguimiento del estado de las aguas.
+
+1\. El plan hidrológico recogerá los programas de seguimiento del estado de las aguas establecidos en la demarcación de conformidad con el título II del Real Decreto 817/2015, de 11 de septiembre, constituidos por los siguientes: el programa de control de vigilancia, el programa de control operativo, y si es necesario el programa de control de investigación, así como los programas de control de las masas de agua del Registro de zonas protegidas.
+
+2\. El plan hidrológico contendrá mapas en los que se muestre la ubicación y las características de estaciones que componen los programas de seguimiento establecidos para las aguas superficiales, las aguas subterráneas y las masas de agua en zonas protegidas.
+
+3\. En el plan hidrológico se ofrecerá una apreciación del nivel de confianza y precisión de los resultados obtenidos mediante los programas de seguimiento.
+
+> Se modifica por la disposición final 6.10 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+#### Sección 6.ª Objetivos medioambientales
+
+##### Artículo 35. Objetivos medioambientales.
+
+Para conseguir una adecuada protección de las aguas, se deberán alcanzar los siguientes objetivos medioambientales:
+
+a) para las aguas superficiales:
+
+a’) Prevenir el deterioro del estado de las masas de agua superficiales.
+
+b’) Proteger, mejorar y regenerar todas las masas de agua superficial con el objeto de alcanzar un buen estado de las mismas.
+
+c’) Reducir progresivamente la contaminación procedente de sustancias prioritarias y eliminar o suprimir gradualmente los vertidos, las emisiones y las pérdidas de sustancias peligrosas prioritarias.
+
+b) Para las aguas subterráneas:
+
+a’) Evitar o limitar la entrada de contaminantes en las aguas subterráneas y evitar el deterioro del estado de todas las masas de agua subterránea.
+
+b’) Proteger, mejorar y regenerar las masas de agua subterránea y garantizar el equilibrio entre la extracción y la recarga a fin de conseguir el buen estado de las aguas subterráneas.
+
+c’) Invertir las tendencias significativas y sostenidas en el aumento de la concentración de cualquier contaminante derivada de la actividad humana con el fin de reducir progresivamente la contaminación de las aguas subterráneas.
+
+c) Para las zonas protegidas: cumplir las exigencias de las normas de protección que resulten aplicables en una zona y alcanzar los objetivos ambientales particulares que en ellas se determinen.
+
+a') En lo que se refiere a todas las masas de agua especificadas con arreglo al artículo 24.a) y b), además de cumplir los objetivos del apartado a) con respecto a las masas de agua superficial, incluidas las normas de calidad ambiental establecidas en el anexo IV del Real Decreto 817/2015, de 11 de septiembre, las demarcaciones hidrográficas velarán por que, en el régimen de depuración de aguas que se aplique, el agua obtenida cumpla los requisitos fijados en el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano. Asimismo, se velará por la necesaria protección de estas masas de agua con objeto de evitar el deterioro de su calidad, contribuyendo así a reducir el nivel del tratamiento de purificación necesario para la producción de agua potable. Cuando sea preciso se podrán establecer perímetros de protección para esas masas de agua.
+
+d) Para las masas de agua artificiales y masas de agua muy modificadas: proteger y mejorar las masas de agua artificiales y muy modificadas para lograr un buen potencial ecológico y un buen estado químico de las aguas superficiales.
+
+> Se añade la letra a') en el apartado c) por la disposición final 6.11 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 36. Plazos para alcanzar los objetivos medioambientales.
+
+En relación con los objetivos medioambientales, deberán satisfacerse los plazos siguientes:
+
+a) Los objetivos deberán alcanzarse antes de 31 de diciembre de 2015.
+
+b) El plazo para la consecución de los objetivos podrá prorrogarse respecto de una determinada masa de agua si, además de no producirse un nuevo deterioro de su estado, se da alguna de las siguientes circunstancias:
+
+a’) Cuando las mejoras necesarias para obtener el objetivo sólo puedan lograrse, debido a las posibilidades técnicas, en un plazo que exceda del establecido.
+
+b’) Cuando el cumplimiento del plazo establecido diese lugar a un coste desproporcionadamente alto.
+
+c’) Cuando las condiciones naturales no permitan una mejora del estado en el plazo señalado.
+
+c) Las prórrogas del plazo establecido, su justificación y las medidas necesarias para la consecución de los objetivos medioambientales relativos a las masas de agua se incluirán en el plan hidrológico de cuenca, sin que puedan exceder la fecha de 31 de diciembre de 2027. Se exceptuará de este plazo el supuesto en el que las condiciones naturales impidan lograr los objetivos.
+
+##### Artículo 37. Objetivos medioambientales menos rigurosos.
+
+1\. Cuando existan masas de agua muy afectadas por la actividad humana o sus condiciones naturales hagan inviable la consecución de los objetivos señalados o exijan un coste desproporcionado, se señalarán objetivos ambientales menos rigurosos en las condiciones que se establezcan en cada caso mediante los planes hidrológicos.
+
+2\. Entre dichas condiciones deberán incluirse, al menos, todas las siguientes:
+
+a) Que las necesidades socioeconómicas y ecológicas a las que atiende dicha actividad humana no puedan lograrse por otros medios que constituyan una alternativa ecológica significativamente mejor y que no suponga un coste desproporcionado.
+
+b) Que se garanticen el mejor estado ecológico y estado químico posibles para las aguas superficiales y los mínimos cambios posibles del buen estado de las aguas subterráneas, teniendo en cuenta, en ambos casos, las repercusiones que no hayan podido evitarse razonablemente debido a la naturaleza de la actividad humana o de la contaminación.
+
+c) Que no se produzca deterioro ulterior del estado de la masa de agua afectada.
+
+##### Artículo 38. Deterioro temporal del estado de las masas de agua.
+
+1\. Se podrá admitir el deterioro temporal del estado de las masas de agua si se debe a causas naturales o de fuerza mayor que sean excepcionales o no hayan podido preverse razonablemente, en particular graves inundaciones y sequías prolongadas, o al resultado de circunstancias derivadas de accidentes que tampoco hayan podido preverse razonablemente.
+
+2\. Para admitir dicho deterioro deberán cumplirse todas las condiciones siguientes:
+
+a) Que se adopten todas las medidas factibles para impedir que siga deteriorándose el estado y para no poner en peligro el logro de los objetivos medioambientales en otras masas de agua no afectadas por esas circunstancias.
+
+b) Que en el plan hidrológico se especifiquen las condiciones en virtud de las cuales pueden declararse dichas circunstancias como racionalmente imprevistas o excepcionales, incluyendo la adopción de los indicadores adecuados. En el caso de situaciones hidrológicas extremas estas condiciones se derivarán de los estudios a realizar de acuerdo con lo indicado en el artículo 59 y deberán contemplarse los indicadores establecidos en los planes de sequía cuyo registro se incluirá en el plan hidrológico, conforme a lo indicado en el artículo 62.
+
+c) Que las medidas que deban adoptarse en dichas circunstancias excepcionales se incluyan en el programa de medidas y no pongan en peligro la recuperación de la calidad de la masa de agua una vez que hayan cesado las circunstancias.
+
+d) Que los efectos de las circunstancias que sean excepcionales o que no hayan podido preverse razonablemente se revisen anualmente y se adopten, tan pronto como sea razonablemente posible, todas las medidas factibles para devolver la masa de agua a su estado anterior a los efectos de dichas circunstancias, sin perjuicio de lo establecido en la disposición adicional undécima 1.b) del texto refundido de la Ley de Aguas.
+
+e) Que en la siguiente actualización del plan hidrológico se incluya un resumen de los efectos producidos por esas circunstancias y de las medidas que se hayan adoptado o se hayan de adoptar.
+
+##### Artículo 39. Condiciones para las nuevas modificaciones o alteraciones.
+
+1\. Bajo las condiciones establecidas en el apartado 2 se podrán admitir nuevas modificaciones de las características físicas de una masa de agua superficial o alteraciones del nivel de las masas de agua subterránea aunque impidan lograr un buen estado ecológico, un buen estado de las aguas subterráneas o un buen potencial ecológico, en su caso, o supongan el deterioro del estado de una masa de agua superficial o subterránea. Asimismo, y bajo idénticas condiciones, se podrán realizar nuevas actividades humanas de desarrollo sostenible aunque supongan el deterioro desde el muy buen estado al buen estado de una masa de agua superficial.
+
+2\. Para admitir dichas modificaciones o alteraciones deberán cumplirse todas las condiciones siguientes:
+
+a) Que se adopten todas las medidas factibles para paliar los efectos adversos en el estado de la masa de agua.
+
+b) Que los motivos de las modificaciones o alteraciones que todavía se encuentren pendientes de autorización o que, cuando proceda, hayan sido autorizadas conforme al procedimiento regulado la disposición adicional única del Real Decreto 907/2007, de 6 de julio, se consignen y expliquen específicamente en el plan hidrológico.
+
+c) Que los motivos de las modificaciones o alteraciones sean de interés público superior o que los beneficios para el medio ambiente y la sociedad que supone el logro de los objetivos medioambientales se vean superados por los beneficios de las nuevas modificaciones o alteraciones para la salud pública, el mantenimiento de la seguridad humana o el desarrollo sostenible.
+
+d) Que los beneficios obtenidos con dichas modificaciones o alteraciones de la masa de agua no puedan conseguirse, por motivos de viabilidad técnica o de costes desproporcionados, por otros medios que constituyan una opción medioambiental significativamente mejor.
+
+> Se modifica por el art. 2.19 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 39 bis. Logro de los objetivos ambientales.
+
+La aplicación de los artículos 8, 36, 37, 38 y 39 se efectuará de modo que no excluya de forma duradera o ponga en peligro el logro de los objetivos medioambientales en otras masas de la misma demarcación hidrográfica y esté en consonancia con la aplicación de otras normas en materia de medio ambiente.
+
+> Se añade por la disposición final 6.12 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 39 ter. Justificación de las exenciones al logro de los objetivos ambientales.
+
+1\. La revisión del plan hidrológico incluirá, para todas las masas de agua que todavía no hayan alcanzado el buen estado, una justificación de la aplicabilidad de las exenciones al logro de los objetivos ambientales conforme a los artículos 36 y 37, según proceda. Asimismo, cuando se prevea una nueva modificación física que conlleve el deterioro de alguna masa de agua en el siguiente ciclo de planificación, se incorporará la justificación de los requisitos señalados en el artículo 39. Además, en la revisión se incluirá la justificación de los deterioros temporales del estado de las masas de agua que hayan podido tener lugar durante la vigencia del plan hidrológico que se revisa, conforme a los requisitos señalados en el artículo 38.
+
+2\. La justificación de exenciones al logro de los objetivos ambientales en virtud de los artículos 36, 37 ó 38 se realizará por masa o grupo de masas de agua afectadas por la misma circunstancia. El análisis se efectuará a nivel de elemento de calidad, indicador, sustancia o grupo de ellos cuando se deba a un único motivo u origen de la presión.
+
+3\. La justificación de exenciones al logro de los objetivos ambientales en virtud del artículo 39 se realizará para el ámbito afectado por la actuación que motiva la modificación física, haciendo en ella referencia a todas las masas de agua involucradas, tanto si a priori se prevé su deterioro como si no.
+
+4\. Las justificaciones a las que se refiere este artículo se recogerán en un anejo a la Memoria del plan hidrológico.
+
+5\. De conformidad con el artículo 82, la Ministra para la Transición Ecológica y el Reto Demográfico podrá establecer instrucciones técnicas para normalizar las justificaciones indicadas.
+
+> Se añade por el art. 2.20 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+#### Sección 7.ª Análisis económico del uso del agua
+
+##### Artículo 40. Análisis económico del uso del agua.
+
+El plan hidrológico incluirá un resumen del análisis económico del uso del agua que comprenderá la caracterización económica del uso de agua y el análisis de recuperación del coste de los servicios del agua.
+
+##### Artículo 41. Caracterización económica del uso del agua.
+
+1\. La caracterización económica del uso del agua incluirá un análisis de su importancia para la economía, el territorio y el desarrollo sostenible de la demarcación hidrográfica, así como de las actividades económicas a las que el agua contribuye de manera significativa, incluyendo una previsión sobre su posible evolución.
+
+2\. La caracterización comprenderá para cada actividad, al menos, los siguientes indicadores: valor añadido, producción, empleo, población dependiente, estructura social y productividad del uso del agua.
+
+3\. Así mismo la caracterización deberá incluir las previsiones sobre los factores determinantes, la evolución de las actividades económicas, las demandas de agua y las presiones correspondientes al escenario tendencial que se produciría en caso de no aplicarse medidas. Dicho escenario será el punto de referencia necesario para analizar la eficacia de los programas de medidas recogidos en el plan hidrológico.
+
+4\. Se consideran factores determinantes, a los efectos indicados en el apartado anterior, los siguientes: el desarrollo urbano, la agricultura, la generación de energía hidroeléctrica o por otros procedimientos, el transporte, la pesca y la acuicultura, la protección frente a avenidas, el turismo y las actividades recreativas, y los efectos del cambio climático. El plan hidrológico incluirá distintas hipótesis de evolución de estos factores.
+
+5\. La caracterización económica de los usos del agua se realizará tanto en las unidades de demanda definidas en el plan hidrológico conforme a lo establecido en el artículo 13 como globalmente para el conjunto de la demarcación hidrográfica.
+
+6\. El Ministerio para la Transición Ecológica y el Reto Demográfico llevará a cabo una caracterización económica general del uso del agua en España, incluyendo un análisis comparativo entre demarcaciones hidrográficas, que pondrá a disposición de los organismos de cuenca y del público en general. Dicha caracterización económica, a falta de otros estudios de mayor detalle, será utilizada como referencia en la preparación de los planes hidrológicos.
+
+> Se modifica por el art. 2.21 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 42. Recuperación del coste de los servicios del agua.
+
+1\. Las autoridades competentes tendrán en cuenta el principio de recuperación de los costes de los servicios relacionados con la gestión de las aguas, incluyendo los costes ambientales y del recurso, en función de las proyecciones a largo plazo de su oferta y demanda.
+
+2\. El plan hidrológico incluirá la siguiente información sobre la recuperación de los costes de los servicios del agua:
+
+a) Los servicios del agua, describiendo los agentes que los prestan, los usuarios que los reciben y las tarifas aplicadas.
+
+b) Los costes de capital de las inversiones necesarias para la provisión de los diferentes servicios de agua, incluyendo los costes contables y las subvenciones, así como los costes administrativos, de operación y mantenimiento.
+
+c) Los costes ambientales y del recurso.
+
+d) Los descuentos, como los debidos a laminación de avenidas o a futuros usuarios.
+
+e) Los ingresos de los usuarios por los servicios del agua.
+
+f) El nivel actual de recuperación de costes, especificando la contribución efectuada por los diversos usos del agua, desglosados, al menos, en abastecimiento, industria y agricultura.
+
+3\. Para cada sistema de explotación se especificarán las previsiones de inversiones en servicios en los horizontes del Plan.
+
+4\. El plan hidrológico incorporará la descripción de las situaciones y motivos que permitan excepciones en la aplicación del principio de recuperación de costes, analizando las consecuencias sociales, ambientales y económicas, así como las condiciones geográficas y climáticas de cada territorio, siempre y cuando ello no comprometa ni los fines ni el logro de los objetivos ambientales establecidos, de acuerdo con lo establecido en el artículo 111 bis 3 del texto refundido de la Ley de Aguas.
+
+5\. El análisis de recuperación de costes se realizará tanto en las unidades de demanda definidas en el plan hidrológico conforme a lo establecido en el artículo 13 como globalmente para el conjunto de la demarcación hidrográfica.
+
+6\. El Ministerio para la Transición Ecológica y el Reto Demográfico estudiará el coste de distintos tipos de servicios del agua en España y los ingresos con que los usuarios finales contribuyen a su sostenimiento. Los resultados del citado estudio se pondrán a disposición de los organismos de cuenca y del público en general y, a falta de otros estudios de mayor detalle, serán usados como referencia en la preparación de los planes hidrológicos.
+
+> Se añade el apartado 6 por el art. 2.22 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+#### Sección 8.ª Programas de medidas
+
+##### Artículo 43. Programas de medidas.
+
+1\. Para cada demarcación hidrográfica se establecerá un programa de medidas en el que se tendrán en cuenta los resultados de los estudios realizados para determinar las características de la demarcación, las repercusiones de la actividad humana en sus aguas, en particular en lo relativo a la identificación de masas en riesgo, así como el estudio económico del uso del agua en la misma.
+
+2\. Los programas de medidas tendrán como finalidad la consecución de los objetivos medioambientales señalados en el artículo 92 bis del texto refundido de la Ley de Aguas.
+
+3\. Los programas de medidas deben ajustarse a criterios de racionalidad económica y sostenibilidad en la consecución de los objetivos medioambientales.
+
+4\. Las medidas podrán ser básicas y complementarias:
+
+a) Las medidas básicas son los requisitos mínimos que deben cumplirse en cada demarcación y se establecen en los artículos 44 a 53, ambos inclusive.
+
+b) Las medidas complementarias son aquellas que en cada caso deban aplicarse con carácter adicional para la consecución de los objetivos medioambientales o para alcanzar una protección adicional de las aguas.
+
+5\. El programa de medidas se integrará por las medidas básicas y las complementarias que, en el ámbito de sus competencias, aprueben las administraciones competentes en la protección de las aguas.
+
+6\. La selección de la combinación de medidas más adecuada, especialmente para el caso de las complementarias, se apoyará en un análisis coste-eficacia. En este análisis se considerarán los aspectos económicos, sociales y ambientales de las medidas.
+
+7\. En la selección del conjunto de medidas se tendrán en cuenta, además de los resultados del análisis coste-eficacia, los efectos de las distintas medidas sobre otros problemas medioambientales y sociales, aunque no afecten directamente a los ecosistemas acuáticos, de acuerdo con el proceso de evaluación ambiental estratégica del plan indicado en este reglamento.
+
+8\. La aplicación de las medidas básicas no podrá originar, bajo ningún concepto, ni directa ni indirectamente, una mayor contaminación de las aguas superficiales, salvo en el caso de que al no aplicarse estas medidas se produjese una mayor contaminación del medio ambiente en su conjunto.
+
+> Se modifica el apartado 1 por la disposición final 6.13 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 44. Relación de medidas básicas.
+
+Se consideran básicas las siguientes medidas:
+
+a) Medidas necesarias para aplicar la legislación sobre protección del agua, incluyendo las relativas a la protección del agua destinada a la producción de agua de consumo humano previstas en la disposición final cuarta del texto refundido de la Ley de Aguas y, en particular, las destinadas a reducir el tratamiento necesario para la producción de agua de consumo humano.
+
+b) Medidas para la aplicación del principio de recuperación de los costes de los servicios relacionados con la gestión de las aguas.
+
+c) Medidas para fomentar un uso eficiente y sostenible del agua con el fin de contribuir a la consecución de los objetivos medioambientales.
+
+d) Medidas de control sobre extracción y almacenamiento del agua, en particular las relativas al Registro de Aguas.
+
+e) Medidas de control sobre vertidos y otras actividades con incidencia en el estado de las aguas, incluyendo la ordenación de vertidos directos e indirectos al dominio público hidráulico y a las aguas objeto de protección por el texto refundido de la Ley de Aguas.
+
+f) Prohibición de vertidos directos a las aguas subterráneas, salvo en ciertas condiciones.
+
+g) Medidas respecto a las sustancias contaminantes recogidas en los anexos IV y V del Real Decreto 817/2015, de 11 de septiembre.
+
+h) Medidas para prevenir o reducir las repercusiones de los episodios de contaminación accidental.
+
+i) Directrices para recarga y protección de acuíferos.
+
+j) Medidas para evitar o controlar la contaminación de fuentes difusas.
+
+k) Medidas para hacer frente a cualquier otro efecto adverso significativo sobre el estado del agua. En particular, medidas para garantizar que las condiciones hidromorfológicas de las masas de agua están en consonancia con el logro del buen estado o buen potencial ecológico.
+
+> Se modifica la letra g) y se añaden las j) y k) por el art. 2.23 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 45. Medidas para aplicar la legislación sobre protección del agua.
+
+1\. Serán todas aquellas medidas necesarias para garantizar el cumplimiento de los objetivos establecidos en la normativa comunitaria sobre protección del agua que se recoge en el anexo III, conforme a la incorporación de la misma realizada por el Derecho español.
+
+2\. El plan hidrológico recogerá todas estas medidas, incluyendo de forma separada las relacionadas con el agua de consumo humano.
+
+3\. Asimismo, el plan hidrológico incluirá los planes y programas que las administraciones competentes hayan desarrollado para cumplir con la legislación sobre protección del agua, incluyendo, en particular, los relativos a saneamiento y depuración de aglomeraciones urbanas y los programas de actuación en las zonas vulnerables a la contaminación por nitratos.
+
+4\. En relación con el agua potable, se incluirán las medidas preventivas que corresponda desarrollar para garantizar la salubridad y limpieza de las aguas destinadas al consumo humano antes de los puntos de extracción, conforme a las disposiciones que se dicten para incorporar al Derecho español el artículo 8.4 de la Directiva 2020/2184/UE, de 16 de diciembre, relativa a la calidad de las aguas destinadas al consumo humano.
+
+> Se añade el apartado 4 por el art. 2.24 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 45 bis. Medidas para aplicar el planteamiento combinado respecto de las fuentes puntuales y difusas.
+
+1\. Las demarcaciones hidrográficas velarán por que todos los vertidos en las aguas superficiales mencionados en el apartado siguiente se controlen con arreglo al planteamiento combinado.
+
+2\. Para ello se tendrá en cuenta el establecimiento o la aplicación de:
+
+a) Los controles de emisión basados en las mejores técnicas disponibles, o
+
+b) los valores límite de emisión que correspondan, o
+
+c) en el caso de impactos difusos, los controles, incluidas, cuando proceda, las mejores prácticas medioambientales.
+
+3\. Los requisitos del apartado 2 quedan establecido en:
+
+a) Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas.
+
+b) La Ley 16/2002, de 1 de julio, de Prevención y el Control integrados de la contaminación.
+
+c) El Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas y el Real Decreto 509/1996, de 15 de marzo, de desarrollo del Real Decreto-ley 11/1995, de 28 de diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas.
+
+d) El Real Decreto 261/1996, de 16 de febrero, sobre protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias.
+
+e) El Real Decreto 817/2015, de 11 de septiembre por el que se establecen los criterios de seguimiento y evaluación del estado de las aguas superficiales y las normas de calidad ambiental
+
+f) Cualquier otra norma pertinente.
+
+4\. Si el objetivo de calidad o una norma de calidad establecidos en virtud del artículo 35 o de cualquier otra norma exige condiciones más estrictas que las que originaría la aplicación del apartado 2 y 3, se establecerán controles de emisión más rigurosos en consecuencia.
+
+> Se añade por la disposición final 6.14 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 46. Medidas para la aplicación del principio de recuperación de los costes del uso del agua.
+
+1\. En el plan hidrológico se incluirá información sobre las medidas que tienen la intención de adoptar las administraciones competentes para tener en cuenta el principio de recuperación de los costes de los servicios relacionados con la gestión de las aguas, incluyendo los costes ambientales y del recurso.
+
+2\. Estas medidas podrán incluir propuestas de revisión y actualización de las estructuras tarifarias, especialmente en relación con la incorporación de los costes ambientales y del recurso, incluyendo fórmulas de valoración de daños al medio ambiente.
+
+##### Artículo 47. Medidas para fomentar un uso eficiente y sostenible del agua.
+
+1\. En el plan hidrológico se incluirá información sobre las medidas a adoptar, en particular relacionadas con la política de precios del agua, que proporcionen incentivos adecuados para que los usuarios utilicen de forma eficiente los recursos hídricos y, por tanto, contribuyan al cumplimiento de los objetivos medioambientales perseguidos.
+
+2\. En caso de que no se hayan podido aplicar políticas de precios del agua que proporcionen incentivos adecuados para el cumplimiento de los objetivos medioambientales, el plan hidrológico deberá incluir un informe que justifique los motivos.
+
+3\. El plan hidrológico incorporará también información sobre otros instrumentos económicos de mercado, incentivos y medidas de carácter voluntario que sirvan para fomentar el uso eficiente y sostenible del agua.
+
+4\. El plan hidrológico contendrá una relación de medidas en materia de abastecimiento urbano conducentes a una gestión racional y sostenible del agua, incluyendo las campañas de concienciación en la sociedad, la utilización de dispositivos de ahorro domésticos, la eliminación de fugas en las redes de abastecimientos de agua, la reutilización de aguas depuradas en el riego de parques y jardines y otras que se encuadren dentro de los principios básicos de conservación del agua y de gestión de la demanda.
+
+5\. En el plan hidrológico se incluirá una relación de las medidas en materia de regadío que contribuyan a la consecución del buen estado de las aguas, incluyendo las normas básicas conducentes a la adopción de los métodos de riego más adecuados para los distintos tipos de climas, tierras y cultivos, las dotaciones de aguas necesarias para las diversas alternativas y las condiciones de drenaje exigibles, así como el fomento de producciones agrícolas adaptadas y de técnicas de riego economizadoras de agua. Incluirán asimismo las condiciones para la reutilización de aguas para riego y cualquier otra que sea precisa para asegurar el mejor aprovechamiento y conservación del conjunto de recursos hídricos y tierras y el desarrollo sostenible. Se recogerán, en su caso, las adaptaciones a introducir tanto por las administraciones competentes como por los particulares en las realizaciones existentes para lograr una utilización racional de dichos recursos naturales.
+
+6\. En el plan hidrológico se establecerán los criterios que habrán de aplicarse para la evaluación de los aprovechamientos industriales y energéticos, que contemplarán fundamentalmente los aspectos económicos, sociales, de demanda y de oportunidad de forma que se asegure la protección de las aguas y la consecución del buen estado.
+
+7\. Para fomentar un uso más eficiente y sostenible del agua, el plan hidrológico establecerá los criterios para la revisión concesional al amparo del artículo 65.c) y de la disposición transitoria sexta del texto refundido de la Ley de Aguas.
+
+8\. En el plan hidrológico se incluirán indicadores de eficiencia y sostenibilidad para realizar el seguimiento de las medidas a lo largo del desarrollo del plan.
+
+##### Artículo 48. Medidas de control sobre extracción y almacenamiento del agua.
+
+1\. Las medidas de control sobre extracción y almacenamiento del agua incluyen la actualización del Registro de Aguas definido en el artículo 80 del texto refundido de la Ley de Aguas y demás medidas establecidas en el título II del Reglamento de Dominio Público Hidráulico.
+
+2\. El plan hidrológico ofrecerá información sobre las medidas adoptadas sobre control de extracción a través de la evolución del número de inscripciones, y volúmenes anuales de captación autorizados, en las distintas secciones del registro de aguas y en el catálogo de aguas privadas a final de cada año del ciclo sexenal de planificación. Igualmente incluirá información anual sobre el número de inspecciones realizadas sobre puntos de captación y los resultados de las mismas.
+
+3\. El plan hidrológico incluirá las medidas a adoptar para controlar los volúmenes detraídos y los consumos reales en la demarcación hidrográfica, incluyendo los criterios para la instalación de contadores y otros instrumentos de medida.
+
+> Se modifica por el art. 2.25 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 49. Medidas de control sobre vertidos puntuales.
+
+1\. En el caso de vertidos puntuales que puedan causar contaminación, las medidas consisten, entre otras, en el requisito de autorización de los vertidos de aguas residuales.
+
+2\. El plan hidrológico ofrecerá información sobre las medidas adoptadas sobre control de vertidos a través de la evolución del número de autorizaciones y volúmenes anuales de vertido autorizados a final de cada año del ciclo sexenal de planificación. Igualmente incluirá información anual sobre el número de inspecciones realizadas sobre puntos de vertido y los resultados de las mismas.
+
+> Se modifica por el art. 2.26 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 49 bis. Medidas para evitar o controlar la contaminación de fuentes difusas.
+
+1\. En el caso de fuentes difusas que puedan generar contaminación, se adoptarán medidas para evitar o controlar la entrada de contaminantes. Dichas medidas podrán consistir en un requisito de reglamentación previa, como la prohibición de la entrada de contaminantes en el agua, la limitación de aplicación en determinadas zonas de compuestos químicos, como plaguicidas, fármacos u otras sustancias, que pongan en riesgo la consecución del buen estado químico de la masa de agua, el requisito de autorización previa de las actividades que generen la contaminación difusa o el de registro basado en normas generales de carácter vinculante, cuando este requisito no esté establecido de otra forma en la legislación. Dichos controles se revisarán periódicamente y, cuando proceda, se actualizarán.
+
+2\. Los planes hidrológicos de cuenca, cuando se considere necesario para alcanzar los objetivos ambientales de las masas de agua en riesgo, podrán establecer dentro de su parte normativa a la que se refiere el artículo 81, umbrales máximos promedio de excedentes de nitrógeno para cada masa de agua o sector de masa afectada por la contaminación por nitratos. Dichos límites máximos serán los que conduzcan al logro de los objetivos ambientales señalados en el mismo plan hidrológico. Estos umbrales deberán ser tomados en consideración por los órganos competentes de las Comunidades Autónomas de cara a la revisión de sus programas de actuación sobre zonas vulnerables.
+
+3\. Así mismo, cuando se considere necesario para alcanzar los objetivos ambientales de las masas de agua en riesgo, los planes hidrológicos podrán establecer dentro de su parte normativa a la que se refiere el artículo 81, limitaciones concretas al otorgamiento de concesiones para la implantación de actividades que aun recurriendo a las mejores técnicas disponibles puedan dar lugar a una indeseada presión significativa.
+
+> Se añade por el art. 2.27 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 49 ter. Medidas para garantizar las condiciones hidromorfológicas y afrontar las presiones de otras actividades con incidencia en el estado de las aguas.
+
+1\. Para cualquier otro efecto adverso significativo sobre el estado del agua se incluirán las medidas para garantizar, en particular, que las condiciones hidromorfológicas de las masas de agua estén en consonancia con el logro del estado ecológico necesario o del buen potencial ecológico de las masas de agua designadas como artificiales o muy modificadas.
+
+2\. Los controles realizados con este fin podrán consistir en el requisito de autorización previa o de registro basado en normas generales de carácter vinculante, cuando este requisito no esté establecido de otra forma en la legislación. Dichos controles se revisarán periódicamente y, cuando proceda, se actualizarán.
+
+3\. Sobre las masas de agua que lo requieran, se plantearán actuaciones específicas de restauración hidromorfológica sobre los ríos, lagos, aguas de transición y costeras. Asimismo, también constituye una medida básica de este tipo la implantación de las distintas componentes del régimen de caudales ecológicos mediante su inclusión en la parte normativa de los planes hidrológicos.
+
+4\. Además se considerarán las medidas establecidas en los títulos II y III del Reglamento del Dominio Público Hidráulico.
+
+> Se añade por el art. 2.28 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 50. Vertidos directos a aguas subterráneas.
+
+1\. Sin perjuicio de la prohibición de vertidos regulada en el artículo 100.1 del texto refundido de la Ley de Aguas, en el plan hidrológico se identificarán, si existen, aquellos casos en los que se autoricen vertidos directos a masas de agua subterránea, así como las condiciones de dicha autorización. A tal efecto, el plan hidrológico incluirá información sobre el número de autorizaciones de vertido a las aguas subterráneas, y sobre los volúmenes anuales de vertido autorizados a final de cada año del ciclo sexenal de planificación. Igualmente, incluirá información anual sobre el número de inspecciones realizadas sobre puntos de vertido y los resultados de las mismas.
+
+2\. Se aplicarán asimismo las medidas establecidas en el título III, capítulo II del Reglamento de Dominio Público Hidráulico, y en particular las previstas en la sección IV relativas a vertidos a las aguas subterráneas.
+
+> Se modifica por el art. 2.29 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 51. Medidas respecto a las sustancias prioritarias.
+
+1\. Las medidas consisten, entre otras, en el requisito de autorización de todos los vertidos de aguas residuales con sustancias prioritarias del anexo IV del del Real Decreto 817/2015, de 11 de septiembre se limitarán conforme a lo establecido en el artículo 100.2 del texto refundido de la Ley de Aguas.
+
+2\. Además, se considerarán las medidas para eliminar o reducir progresivamente la contaminación de las aguas superficiales por las sustancias de la lista prioritaria del anexo IV del Real Decreto 817/2015, de 11 de septiembre, y en particular, se recogerá la información prevista en el título IV de dicho real decreto, tales como:
+
+a) Las medidas relativas al empleo de matrices y taxones de la biota alternativos en los términos del artículo 21.
+
+b) Las medidas relativas a las zonas de mezcla en los términos en el artículo 26.
+
+c) Las medidas relativas al inventario de emisiones, vertidos y pérdidas de sustancias prioritarias y otros contaminantes en los términos del artículo 27.
+
+d) Las medidas relativas a la contaminación transfronteriza en los términos del artículo 29.
+
+> Se modifica por la disposición final 6.15 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 52. Medidas para prevenir o reducir las repercusiones de los episodios de contaminación accidental.
+
+1\. Se adoptarán las medidas para prevenir o reducir los efectos de las contaminaciones accidentales, causadas por la industria, por instalaciones ganaderas, por los tanques de aguas pluviales de las depuradoras urbanas y otras. Estas medidas incluirán el uso de sistemas automáticos para detectar esos fenómenos o alertar sobre ellos.
+
+2\. Las contaminaciones accidentales procedentes de inundaciones incluirán, entre otras medidas, el uso de sistemas automáticos para detectar esos fenómenos o alertar sobre ellos.
+
+3\. Se incluirán todas las medidas apropiadas que deban adoptarse para reducir el riesgo de daños al ecosistema acuático en caso de accidentes que no pudieran haberse previsto razonablemente.
+
+##### Artículo 53. Directrices para la recarga de acuíferos.
+
+1\. El plan hidrológico recogerá, cuando existan, las áreas de recarga artificial de masas de agua subterránea, para las que se detallarán el objetivo de la recarga, así como la procedencia, cuantía y calidad de los recursos aplicados, incluyendo la autorización que permite la recarga. Las sucesivas áreas de recarga que vayan determinándose se incorporarán al Plan a medida que se autoricen.
+
+2\. Los recursos aplicados para la recarga artificial podrán obtenerse de cualquier agua superficial, subterránea, regenerada o desalada, siempre que el uso de la fuente no comprometa la consecución de los objetivos medioambientales establecidos para la fuente o la masa de agua recargada ni pueda generar situaciones de riesgo para la salud pública.
+
+##### Artículo 54. Directrices para la protección de acuíferos.
+
+1\. El plan hidrológico determinará los criterios básicos para la protección de aguas subterráneas frente a las distintas causas de deterioro, incluyendo la intrusión salina.
+
+2\. El plan hidrológico incluirá la relación de las masas de aguas subterránea en riesgo de no alcanzar el buen estado, que hayan sido designadas como tales por el organismo de cuenca, así como las medidas adoptadas para evitar dicho riesgo.
+
+3\. Las medidas indicadas en el párrafo anterior incluirán un programa de actuación para la recuperación del buen estado de la masa de agua. El programa de actuación ordenará el régimen de extracciones y las normas en el uso del agua para lograr una explotación racional de los recursos hasta alcanzar el buen estado de las masas de agua subterránea.
+
+4\. El plan hidrológico establecerá para cada masa de agua subterránea, en la medida que se requiera, normas para el otorgamiento de concesiones, referidas al caudal máximo instantáneo por captación, distancias entre aprovechamientos, profundidades de perforación y de instalación de bombas, sellado de pozos abandonados o en desuso, así como las condiciones que deben reunir las concesiones para que sean consideradas de escasa importancia.
+
+##### Artículo 55. Medidas complementarias.
+
+1\. El programa de medidas incluirá las medidas complementarias que en cada caso deban aplicarse con carácter adicional para la consecución de los objetivos medioambientales o para alcanzar una protección adicional de las aguas.
+
+2\. Entre las medidas complementarias pueden incluirse instrumentos legislativos, administrativos, económicos o fiscales, acuerdos negociados en materia de medio ambiente, códigos de buenas prácticas, creación y restauración de humedales, medidas de gestión de la demanda, reutilización y desalación, proyectos de construcción y rehabilitación, así como proyectos educativos, de investigación, desarrollo y demostración. En particular, el programa de medidas incluirá las medidas complementarias que se detallan en los artículos 56 a 60, ambos inclusive.
+
+##### Artículo 56. Medidas para masas de agua con pocas probabilidades de alcanzar los objetivos ambientales.
+
+1\. En aquellas masas de agua en las que los resultados de la evaluación de riesgos indiquen que probablemente no se lograrán los objetivos medioambientales se establecerán las medidas adicionales necesarias para alcanzarlos, entre las que puede encontrarse el establecimiento de normas de calidad ambiental más estrictas, salvo que se den las circunstancias indicadas en el apartado siguiente.
+
+2\. Cuando las causas de no alcanzar los objetivos medioambientales sean naturales, de fuerza mayor o no hayan podido preverse razonablemente, en particular graves inundaciones y sequías prolongadas, podrá determinarse que no es factible adoptar medidas adicionales y admitir el deterioro temporal de acuerdo con el artículo 38.
+
+##### Artículo 57. Perímetros de protección.
+
+1\. El plan hidrológico podrá fijar los perímetros de protección a que se refiere el artículo 97 del texto refundido de la Ley de Aguas, en los que se prohíba el ejercicio de actividades que pudieran constituir un peligro de contaminación o degradación del dominio público hidráulico. En estos perímetros son de aplicación las normas establecidas en el Reglamento del Dominio Público Hidráulico para las zonas de policía.
+
+2\. Asimismo se recogerán en el plan hidrológico los perímetros referidos en el artículo 56 del texto refundido de la Ley de Aguas, establecidos con objeto de proteger el estado de las masas de agua subterránea.
+
+3\. El Plan recogerá las zonas de protección de captaciones de abastecimientos de agua destinada a consumo humano incluidas en el registro de zonas protegidas.
+
+##### Artículo 58. Medidas para evitar un aumento de la contaminación de aguas marinas.
+
+1\. Serán todas aquellas medidas que tengan por objeto interrumpir o suprimir gradualmente los vertidos, las emisiones y las pérdidas de sustancias peligrosas prioritarias, con el objetivo último de conseguir concentraciones en el medio marino cercanas a los valores básicos por lo que se refiere a las sustancias de origen natural y cercanos a cero en lo que respecta a las sustancias sintéticas artificiales, de acuerdo con lo establecido en el artículo 108 bis del texto refundido de la Ley de Aguas.
+
+2\. Estas medidas resultarán acordes con los objetivos establecidos en las disposiciones normativas vigentes que, para evitar un aumento de la contaminación de las aguas marinas, reconozca el Reino de España en aplicación de los convenios internacionales de protección del medio marino de los que es parte, así como las disposiciones normativas establecidas en el derecho comunitario, el nacional y el autonómico en la materia.
+
+3\. El plan hidrológico recogerá de forma separada las establecidas para evitar un aumento de la contaminación de las aguas marinas.
+
+##### Artículo 59. Situaciones hidrológicas extremas.
+
+1\. El plan hidrológico, con los datos históricos disponibles sobre precipitaciones y caudales máximos y mínimos, establecerá los criterios para la realización de estudios y la determinación de actuaciones y obras relacionadas con situaciones hidrológicas extremas. Como consecuencia de estos estudios se determinarán las condiciones en que puede admitirse en situaciones hidrológicas extremas el deterioro temporal, así como las masas de agua a las que se refiere el artículo 38.
+
+2\. Establecerá las medidas que deben adoptarse en circunstancias excepcionales correspondientes a situaciones hidrológicas extremas, incluyendo la realización de planes o programas específicos como los indicados en el artículo 62.
+
+3\. Las administraciones competentes delimitarán las zonas inundables teniendo en cuenta los estudios y datos disponibles que los organismos de cuenca deben trasladar a las mismas, de acuerdo con lo previsto en el artículo 11.2 del texto refundido de la Ley de Aguas. Para ello contarán con el apoyo técnico de estos organismos y, en particular, con la información relativa a caudales máximos en la red fluvial, que la administración hidráulica deberá facilitar.
+
+##### Artículo 60. Infraestructuras básicas.
+
+1\. A los efectos de su inclusión obligatoria en el plan hidrológico, se entenderá por infraestructuras básicas las obras y actuaciones que forman parte integrante de los sistemas de explotación que hacen posible la oferta de recursos prevista por el Plan para los diferentes horizontes temporales y el cumplimiento de los objetivos medioambientales establecidos para las masas de agua.
+
+2\. El plan hidrológico incorporará el catálogo de infraestructuras básicas que incluirán las actuaciones correctoras para la consecución de los objetivos medioambientales, para los diferentes horizontes temporales a que hace referencia el artículo 19 con el grado de definición de que se disponga en ese momento.
+
+##### Artículo 60 bis. Actuaciones específicas.
+
+1\. A los efectos de su inclusión obligatoria en el plan hidrológico, se entenderán por actuaciones específicas las medidas básicas, complementarias u otras medidas que se concretan en estudios, trabajos, proyectos, obras y actuaciones necesarias para alcanzar los objetivos socioeconómicos y ambientales de la planificación hidrológica. Su puesta en práctica requiere inversiones económicas.
+
+2\. El catálogo de actuaciones específicas de cada plan hidrológico se documentará en la base de datos nacional a que se refiere el artículo 71.7 al objeto de asegurar su correcta actualización, coherencia y completitud, así como para favorecer el seguimiento del programa de medidas y la notificación electrónica a la Unión Europea de esta información cuando corresponda.
+
+3\. El plan hidrológico incorporará en su memoria, o en un anejo a la misma, un resumen del catálogo de actuaciones específicas que el plan hidrológico considera necesario abordar o continuar implementando en el sexenio al que se refiere el plan. Dicho resumen se ofrecerá en la forma de un listado que mostrará para cada medida activa durante el sexenio, al menos y siempre que esté disponible, la siguiente información:
+
+a) Código único identificativo de la medida.
+
+b) Breve denominación identificativa de la medida.
+
+c) Carácter de la medida según Tabla 1 del anexo VI.
+
+d) Tipo y subtipo de la medida según Tabla 2 del anexo VI.
+
+e) Finalidad de la medida según Tabla 3 del anexo VI.
+
+f) Administración pública competente según Tabla 4 del anexo VI.
+
+g) Administración o sociedad pública responsable de la ejecución de la medida según Tabla 5 del anexo VI.
+
+h) Inversión total requerida por la actuación (millones de euros).
+
+i) Inversión a materializar en el sexenio al que se refiere el plan hidrológico (millones de euros).
+
+j) Año en que se inicia la inversión.
+
+k) Año en que finaliza la inversión.
+
+l) Porcentaje de participación de la Administración General del Estado en la financiación, incluyendo en su caso aportaciones de fondos de la Unión Europea u otros.
+
+m) Porcentaje de participación de las comunidades autónomas en la financiación, incluyendo en su caso aportaciones de fondos de la Unión Europea u otros.
+
+n) Porcentaje de participación de la Administración local en la financiación, incluyendo en su caso aportaciones de fondos de la Unión Europea u otros.
+
+o) Porcentaje de participación de los usuarios u otros interesados de ámbito privado en la financiación, incluyendo en su caso aportaciones de fondos de la Unión Europea u otros.
+
+> Se añade por el art. 2.30 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 61. Análisis coste-eficacia de las medidas.
+
+1\. El análisis coste-eficacia será un instrumento a tener en cuenta para la selección de las medidas más adecuadas para alcanzar los objetivos ambientales de las masas de agua, así como para analizar las medidas alternativas en el análisis de costes desproporcionados.
+
+2\. Para realizar el análisis coste-eficacia se partirá de la evaluación del estado de las masas de agua correspondiente al escenario tendencial y su diferencia respecto a los objetivos ambientales. La evaluación de los estados correspondientes a la aplicación de las distintas medidas y la diferencia respecto a los objetivos ambientales permitirá analizar la eficacia de cada una de estas medidas.
+
+#### Sección 9.ª Otros contenidos obligatorios
+
+##### Artículo 62. Registro de los programas y planes más detallados.
+
+1\. Los planes hidrológicos tendrán en cuenta en su elaboración los planes especiales de actuación en situaciones de alerta y eventual sequía, elaborados por los organismos de cuenca en cumplimiento del artículo 27 de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, de los que incorporarán un resumen, incluyendo el sistema de indicadores y umbrales de funcionamiento utilizados y las principales medidas de prevención y mitigación propuestas.
+
+2\. También tendrán en consideración los planes elaborados en el ámbito territorial de la demarcación relacionados con la protección frente a las inundaciones, de los que incorporarán un resumen, incluyendo la evaluación de riesgos y las medidas adoptadas.
+
+3\. El plan hidrológico tendrá en cuenta en su elaboración aquellos planes y programas más detallados sobre las aguas realizados por las administraciones competentes en el ámbito de la demarcación de los que incorporará los resúmenes correspondientes.
+
+##### Artículo 63. Medidas de información pública y de consulta.
+
+El plan hidrológico contendrá un resumen de las medidas de información pública y de consulta que se hayan aplicado durante su tramitación, sus resultados y los cambios consiguientes efectuados en el plan, de acuerdo con lo indicado en los artículos 71 a 80, ambos inclusive.
+
+##### Artículo 64. Lista de autoridades competentes designadas.
+
+El plan hidrológico incluirá la información siguiente sobre las autoridades competentes de la demarcación hidrográfica:
+
+a) Nombre y dirección oficial de las autoridades competentes designadas.
+
+b) Descripción del estatuto o documento jurídico equivalente de las autoridades competentes.
+
+c) Descripción de las responsabilidades legales y administrativas de cada autoridad competente y su función en el seno de la demarcación hidrográfica.
+
+d) Resumen de las relaciones institucionales establecidas para garantizar la coordinación, en el caso de demarcaciones hidrográficas que incluyan cuencas hidrográficas compartidas con otros países.
+
+##### Artículo 65. Puntos de contacto y procedimientos para la obtención de documentación e información.
+
+El plan hidrológico incluirá los puntos de contacto y los procedimientos establecidos para obtener la documentación base y la información requerida por las consultas públicas.
+
+#### Sección 10.ª Previsiones de los planes hidrológicos de cuenca
+
+##### Artículo 66. Reservas de agua y de terrenos.
+
+1\. En los planes hidrológicos de cuenca se podrán establecer reservas, de agua y de terrenos, necesarias para las actuaciones y obras previstas.
+
+2\. La reserva de recursos se establecerá de acuerdo con lo señalado en el artículo 20. La reserva de terrenos comprenderá los necesarios para poder ejecutar las infraestructuras básicas contempladas en el plan hidrológico a que se refiere el artículo 60.
+
+3\. Los organismos de cuenca deberán remitir a las administraciones públicas competentes en materia de ordenación del territorio y planeamiento urbano las delimitaciones de las zonas objeto de reserva a los efectos previstos en el artículo 43.3 del texto refundido de la ley de Aguas.
+
+### CAPÍTULO II — Contenido de los planes especiales de sequía
+
+> Se añade por el art. 2.31 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 66 bis. Contenido de los planes especiales de sequía.
+
+1\. Los planes especiales de sequía comprenderán, al menos, los siguientes apartados:
+
+a) Descripción de la demarcación e identificación de unidades territoriales de análisis de la sequía prolongada y la escasez.
+
+b) Descripción detallada de las unidades territoriales de escasez e información sobre las necesidades hídricas y el origen del recurso hídrico utilizado en dichas unidades.
+
+c) Registro de sequías históricas y consideración del cambio climático.
+
+d) Definición del sistema de indicadores de sequía prolongada y de escasez coyuntural.
+
+e) Procedimiento de diagnóstico.
+
+f) Acciones a aplicar en escenarios de sequía prolongada.
+
+g) Medidas a aplicar en escenarios de escasez coyuntural.
+
+h) Medidas de información pública.
+
+i) Medidas de organización administrativa en situación de sequía.
+
+j) Criterios para la elaboración de informes de evaluación de impactos y de los informes post-sequía.
+
+k) Informe ambiental estratégico.
+
+l) Planes de Emergencia en abastecimientos de más de 20.000 habitantes.
+
+m) Seguimiento y revisión del Plan Especial.
+
+2\. El Ministerio para la Transición Ecológica y el Reto Demográfico desarrollará reglamentariamente las instrucciones técnicas que estime procedentes para la homogeneización y sistematización de los trabajos de actualización y revisión de los planes especiales de sequía, explicando el alcance de los contenidos enumerados.
+
+> Se añade por el art. 2.31 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+### CAPÍTULO III — Contenido del Plan Hidrológico Nacional
+
+> Se renumera por el art. 2.31 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Anteriormente numerado como capítulo II.
+
+##### Artículo 67. Contenido del Plan Hidrológico Nacional.
+
+1\. El Plan Hidrológico Nacional se aprobará por norma o normas con rango de ley y contendrá, en todo caso:
+
+a) Las medidas necesarias para la coordinación de los diferentes planes hidrológicos de cuenca.
+
+b) La solución para las posibles alternativas que aquellos ofrezcan.
+
+c) La previsión y las condiciones de las transferencias de recursos hidráulicos entre ámbitos territoriales de distintos planes hidrológicos de cuenca.
+
+d) Las modificaciones que se prevean en la planificación del uso del recurso y que afecten a aprovechamientos existentes para abastecimiento de poblaciones o regadíos.
+
+2\. El Plan Hidrológico Nacional también contendrá la delimitación y caracterización de las masas de agua subterránea compartidas entre dos o más demarcaciones, incluyendo la asignación de recursos a cada una de ellas.
+
+3\. La declaración como obras hidráulicas de interés general de las infraestructuras necesarias para las transferencias de recursos, a que se refiere el artículo 67.1.c de este reglamento, sólo podrá realizarse por la norma legal que apruebe o modifique el Plan Hidrológico Nacional.
+
+##### Artículo 68. Coordinación de los planes hidrológicos de cuenca.
+
+1\. Las medidas de coordinación de los planes hidrológicos de cuenca se regirán por los principios generales de precaución, racionalidad, sostenibilidad, protección del dominio público hidráulico, del buen estado de las aguas y la protección de los caudales ecológicos.
+
+2\. La coordinación de los diferentes planes hidrológicos se realizará en el Plan Hidrológico Nacional considerando las diversas planificaciones sectoriales de carácter general, en particular la agrícola, la energética, la de ordenación del territorio y la planificación urbanística, así como la protección del medio ambiente y de la naturaleza, todo ello en el marco de la política general del Estado y su planificación económica.
+
+##### Artículo 69. Condiciones de las transferencias.
+
+1\. En la redacción del Plan Hidrológico Nacional se contemplarán y especificarán las transferencias de recursos entre distintas demarcaciones hidrográficas, estableciendo las condiciones a que han de ajustarse.
+
+Para cada una de las transferencias previstas, se establecerá el volumen anual así como los condicionantes que puedan temporalmente modificar dicho volumen.
+
+Así mismo, en el Plan Hidrológico Nacional se incorporará un catálogo de los trasvases existentes en España. Dicho catálogo, que al menos se extenderá a todos aquellos que no puedan ser considerados de pequeña cuantía, especificará las características funcionales de cada uno de ellos y la norma jurídica que los habilita.
+
+2\. Las previsiones y condiciones de las transferencias a las que se refiere el artículo 67.1.c), no podrán producir como resultado el incumplimiento de los objetivos medioambientales establecidos en la sección 6.ª del capítulo I de este título.
+
+3\. El proyecto de Plan Hidrológico Nacional podrá incluir, en su caso, las condiciones determinantes de la explotación técnica y la gestión económica de la transferencia de los recursos hidráulicos que resulte oportuna, o encomendar al Gobierno su establecimiento.
+
+> Se modifica el apartado 1 por la disposición final 1 del Real Decreto 773/2014, de 12 de septiembre. [Ref. BOE-A-2014-9336](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9336).
+
+##### Artículo 70. Modificaciones en la planificación del uso del recurso.
+
+Asimismo, en la redacción del Plan Hidrológico Nacional se concretarán las modificaciones que de acuerdo con la planificación del uso del recurso afecten a aprovechamientos existentes para abastecimiento de poblaciones o regadíos.
+
+## TÍTULO II — Elaboración y aprobación de los planes hidrológicos
+
+### CAPÍTULO I — De los planes hidrológicos de cuenca
+
+#### Sección 1.ª Disposiciones generales
+
+##### Artículo 71. Disposiciones generales.
+
+1\. La elaboración y propuesta de revisiones ulteriores de los planes hidrológicos de cuenca se realizarán por el organismo de cuenca correspondiente o por la administración hidráulica competente, en las cuencas comprendidas íntegramente en el ámbito territorial de la comunidad autónoma.
+
+2\. El procedimiento para la elaboración y revisión de los planes hidrológicos de cuenca se regula en este reglamento y debe contemplar, en todo caso, la programación de calendarios, programas de trabajo, elementos a considerar y borradores previos para posibilitar una adecuada información y consulta pública desde el inicio del proceso.
+
+Desde dicho inicio y en todas las fases del proceso, se procurarán los medios de coordinación adecuados para la efectiva integración de la zona terrestre y marina de la demarcación en la elaboración de los planes.
+
+Asimismo, deberá contemplarse la elaboración previa, por las administraciones competentes, de los programas de medidas básicas y complementarias, contemplados en el artículo 92 quáter del texto refundido de la Ley de Aguas y en los artículos 43 y siguientes de este reglamento, conducentes a la consecución de los objetivos medioambientales previstos en el texto refundido de la Ley de Aguas. Los programas de medidas se coordinarán e integrarán en los planes hidrológicos.
+
+De forma expresa, deberán coordinarse, para su integración en el plan hidrológico, los programas relativos a las aguas costeras y de transición elaborados por la Administración General del Estado, o por las comunidades autónomas que participen en el Comité de Autoridades Competentes de la demarcación y que cuenten con litoral.
+
+3\. En la elaboración y revisión de los planes hidrológicos de cuenca se preverá necesariamente la participación de los departamentos ministeriales interesados, los plazos para presentación de las propuestas por los organismos correspondientes y la actuación subsidiaria del Gobierno en caso de falta de propuesta. Se garantizará, en todo caso, la participación pública en todo el proceso planificador, tanto en las fases de consultas previas como en las de desarrollo y aprobación o revisión del plan. A tales efectos se cumplirán los plazos previstos en la disposición adicional duodécima del texto refundido de la Ley de Aguas.
+
+4\. Los planes hidrológicos se elaborarán en coordinación con las diferentes planificaciones sectoriales que les afecten, tanto respecto a los usos del agua como a los del suelo, y especialmente con lo establecido en la planificación de regadíos y otros usos agrarios.
+
+5\. El Gobierno podrá hacer la declaración de utilidad pública de los trabajos, estudios e investigaciones requeridas para la elaboración y revisión de los planes hidrológicos que se realicen por los servicios del Ministerio de Medio Ambiente, por el Instituto Geológico y Minero de España o por cualquier otro organismo de las administraciones públicas.
+
+6\. Los planes hidrológicos serán objeto del procedimiento de evaluación ambiental estratégica conforme a lo establecido en la Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente.
+
+7\. El Ministerio para la Transición Ecológica y el Reto Demográfico, con el objeto de facilitar los trabajos de coordinación que aseguren la coherencia de la información incluida en los planes hidrológicos y el desarrollo de los programas de medidas en ellos incorporados, mantendrá una base de datos que se actualizará con la información que a tal efecto proporcionarán anualmente las autoridades de cuenca con la conformidad del Comité de Autoridades Competentes, y que servirá de referencia para obtener los informes de seguimiento a los que se refiere el artículo 87, realizar la notificación a que se refiere el artículo 83 ter y proporcionar información al público.
+
+> Se añade el apartado 7 por el art. 2.32 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+#### Sección 2.ª Participación pública
+
+##### Artículo 72. Organización y procedimiento para hacer efectiva la participación pública.
+
+1\. Los organismos de cuenca formularán el proyecto de organización y procedimiento a seguir para hacer efectiva la participación pública en el proceso de planificación.
+
+2\. El citado proyecto incluirá, al menos, los siguientes contenidos:
+
+a) Organización y cronogramas de los procedimientos de información pública, consulta pública y participación activa del plan hidrológico según lo indicado en el presente reglamento.
+
+b) Coordinación del proceso de evaluación ambiental estratégica del plan hidrológico y su relación con los procedimientos anteriores.
+
+c) Descripción de los métodos y técnicas de participación a emplear en las distintas fases del proceso.
+
+##### Artículo 73. Información pública.
+
+1\. El proceso de elaboración de los planes incorporará los requerimientos establecidos en la Ley 27/2006, de 18 de julio, en particular aquellos referentes al suministro activo de información sustantiva para el proceso de planificación y que resulte adicional a la enumerada en el presente reglamento.
+
+2\. Esta información deberá estar accesible en papel y en formato digital en las páginas electrónicas del Ministerio de Medio Ambiente y en las de las respectivas demarcaciones hidrográficas.
+
+##### Artículo 74. Consulta pública.
+
+1\. La consulta pública se realizará sobre los documentos referidos en los artículos 77 a 80, ambos inclusive, a los que podrán añadirse otros documentos, de carácter divulgativo, que faciliten este proceso.
+
+2\. Estos documentos deberán estar accesibles en papel y en formato digital en las páginas electrónicas del Ministerio de Medio Ambiente y en las de las respectivas demarcaciones hidrográficas.
+
+3\. La duración del proceso de consulta pública de cada documento será como mínimo de seis meses. Las aportaciones de la consulta pública se integrarán en informes que formarán parte del proceso de planificación y que se recogerán en un anexo del plan.
+
+##### Artículo 75. Participación activa.
+
+1\. Los organismos de cuenca fomentarán la participación activa de las partes interesadas en el proceso de planificación, extendiendo dicha participación al público en general.
+
+2\. También podrán constituir foros o grupos de trabajo en los que participen, además de las partes interesadas, personas de reconocido prestigio y experiencia en materia de aguas que asesoren en el proceso de elaboración de los planes hidrológicos.
+
+#### Sección 3.ª Elaboración
+
+##### Artículo 76. Etapas en la elaboración de los planes hidrológicos de cuenca.
+
+1\. Con carácter previo a la elaboración y propuesta de revisión del plan hidrológico, se preparará un programa de trabajo que incluya, además del calendario sobre las fases previstas para dicha elaboración o revisión, el estudio general sobre la demarcación correspondiente.
+
+2\. Tras estos trabajos previos, el procedimiento para la elaboración de los planes hidrológicos de cuenca se desarrollará en dos etapas: una primera, en la que se elaborará un esquema de los temas importantes en materia de gestión de las aguas en la demarcación hidrográfica, y otra de redacción del proyecto de plan propiamente dicho.
+
+##### Artículo 77. Programa de trabajo.
+
+1\. La propuesta de programa de trabajo para la elaboración de los planes de cuenca será desarrollada por los organismos de cuenca.
+
+2\. Dicho programa incluirá las principales tareas y actividades a realizar, el calendario previsto, el estudio general de la demarcación y las formulas de consulta.
+
+3\. Recogerá los puntos de contacto y los procedimientos requeridos para obtener la documentación de base y la información requerida por las consultas públicas.
+
+4\. El programa deberá coordinar los procesos de consulta propios del plan y los requeridos por la evaluación ambiental estratégica, tomando como referencia lo indicado a estos efectos en el presente reglamento.
+
+5\. La propuesta de programa de trabajos será puesta a disposición del público con una antelación mínima de tres años con respecto al inicio del procedimiento de aprobación del plan, para la formulación de observaciones y sugerencias durante un plazo no inferior a seis meses, todo ello en la forma establecida en el artículo 74.
+
+##### Artículo 78. Contenidos y elaboración del estudio general sobre la demarcación.
+
+1\. El estudio general sobre la demarcación hidrográfica incluido en el programa de trabajo incorporará una descripción general de las características de la demarcación, un resumen de las repercusiones de la actividad humana en el estado de las aguas superficiales y de las aguas subterráneas y un análisis económico del uso del agua, de acuerdo con lo establecido en el artículo 41.5 del texto refundido de la Ley de Aguas.
+
+2\. La descripción general de las características de la demarcación incluirá:
+
+a) Descripción del marco administrativo, físico y biótico de la demarcación, así como del modelo territorial, incluyendo el paisaje y el patrimonio hidráulico.
+
+b) La localización y límites de las masas de agua superficial, tanto continentales como costeras y de transición, incluyendo masas de agua artificiales y muy modificadas, tipos y condiciones de referencia específicas de cada tipo.
+
+c) La localización, límites y caracterización de las masas de agua subterránea.
+
+d) La estadística hidrológica disponible sobre precipitaciones, evaporaciones, escorrentías y cuanta información sea relevante para la adecuada evaluación cuantitativa y cualitativa de los recursos hídricos superficiales y subterráneos.
+
+e) La información histórica disponible sobre precipitaciones y caudales máximos y mínimos.
+
+3\. El resumen de las repercusiones de la actividad humana en el estado de las aguas superficiales y de las aguas subterráneas incluirá:
+
+a) Las presiones significativas sobre las masas de agua superficial, incluyendo la contaminación de fuente puntual y difusa, la extracción y regulación de caudal, las alteraciones morfológicas y otros tipos de incidencia antropogénica, así como la evaluación del impacto y la identificación de las masas en riesgo de no cumplir los objetivos medioambientales.
+
+b) Las presiones significativas sobre las masas de agua subterránea, incluyendo la contaminación de fuente puntual y difusa, la extracción de agua y la recarga artificial, así como la evaluación del impacto y la identificación de las masas en riesgo de no cumplir los objetivos medioambientales.
+
+c) Las estadísticas de calidad de las aguas.
+
+d) La estadística disponible sobre los suministros y consumos de agua en las diferentes zonas y subzonas especificando los orígenes del recurso aplicado y los usos a que se destina.
+
+e) Los datos sobre niveles piezométricos en acuíferos.
+
+f) El inventario de grandes infraestructuras hidráulicas y sus características fundamentales desde el punto de vista de la regulación y disponibilidad de recursos en cantidad y calidad.
+
+4\. El análisis económico del uso del agua incluirá:
+
+a) El mapa institucional de los servicios relacionados con la gestión de las aguas.
+
+b) La información para efectuar los cálculos sobre recuperación de los costes de los servicios del agua, incluyendo los costes ambientales y del recurso, en función de las proyecciones a largo plazo de su oferta y demanda y, en su caso, las previsiones de volumen, precios, inversiones y costes asociados a dichos servicios.
+
+c) Un resumen, con datos globales para el conjunto de la demarcación, del análisis de recuperación de costes, incluyendo el coste de los servicios para los distintos usos del agua y el grado de recuperación de costes por parte de los usuarios.
+
+d) La información sobre las previsiones de los costes potenciales de las medidas para realizar el análisis coste-eficacia a efectos de su inclusión en el programa de medidas.
+
+e) La caracterización económica del uso del agua, incluyendo el análisis de tendencias.
+
+5\. Los organismos de cuenca, integrando las aportaciones procedentes de las distintas autoridades competentes, elaborarán este estudio general de la demarcación.
+
+##### Artículo 79. Esquema de temas importantes en materia de gestión de las aguas en la demarcación.
+
+1\. El esquema de temas importantes en materia de gestión de las aguas contendrá la descripción y valoración de los principales problemas actuales y previsibles de la demarcación relacionados con el agua y las posibles alternativas de actuación, todo ello de acuerdo con los programas de medidas elaborados por las administraciones competentes. También se concretarán las posibles decisiones que puedan adoptarse para determinar los distintos elementos que configuran el Plan y ofrecer propuestas de solución a los problemas enumerados.
+
+2\. Además de lo indicado en el párrafo anterior el esquema incluirá:
+
+a) Las principales presiones e impactos que deben ser tratados en el plan hidrológico, incluyendo los sectores y actividades que pueden suponer un riesgo para alcanzar los objetivos medioambientales. Específicamente se analizarán los posibles impactos generados en las aguas costeras y de transición como consecuencia de las presiones ejercidas sobre las aguas continentales.
+
+b) Las posibles alternativas de actuación para conseguir los objetivos medioambientales, de acuerdo con los programas de medidas básicas y complementarias, incluyendo su caracterización económica y ambiental.
+
+c) Los sectores y grupos afectados por los programas de medidas.
+
+3\. Los organismos de cuenca elaborarán el esquema de temas importantes en materia de gestión de aguas, previsto en la disposición adicional duodécima del texto refundido de la Ley de Aguas, integrando la información facilitada por el Comité de Autoridades Competentes.
+
+4\. El esquema provisional de temas importantes se remitirá, con una antelación mínima de dos años con respecto al inicio del procedimiento de aprobación del plan, a las partes interesadas. Esta consulta se realizará de acuerdo con el artículo 74, para que las partes interesadas presenten, en el plazo de tres meses, las propuestas y sugerencias que consideren oportunas.
+
+5\. Al mismo tiempo, el esquema provisional será puesto a disposición del público, durante un plazo no inferior a seis meses para la formulación de observaciones y sugerencias, todo ello en la forma establecida en el artículo 74. Durante el desarrollo de esta consulta se iniciará el procedimiento de evaluación ambiental del plan con el documento inicial, que incorporará el esquema provisional de temas importantes.
+
+6\. Ultimadas las consultas a que se refieren los apartados 4 y 5, los organismos de cuenca realizarán un informe sobre las propuestas, observaciones y sugerencias que se hubiesen presentado e incorporarán las que en su caso consideren adecuadas al esquema provisional de temas importantes en materia de gestión de las aguas, que requerirá el informe preceptivo del Consejo del Agua de la demarcación.
+
+##### Artículo 80. Proyecto de plan hidrológico de cuenca.
+
+1\. En la segunda etapa de elaboración del proyecto de plan hidrológico, los organismos de cuenca, con la información facilitada por el Comité de Autoridades Competentes, redactarán el estudio ambiental estratégico y la correspondiente propuesta de plan hidrológico de acuerdo con el esquema de temas importantes en materia de gestión de las aguas, los contenidos del documento de alcance elaborado por el órgano ambiental dentro del proceso de evaluación ambiental del plan hidrológico y teniendo en cuenta todas las consultas efectuadas.
+
+2\. La propuesta de proyecto de plan hidrológico y el estudio ambiental estratégico, se remitirán, con una antelación mínima de un año con respecto al inicio del procedimiento de aprobación del plan, a las partes interesadas para que presenten, en el plazo de seis meses, las propuestas y sugerencias que consideren oportunas.
+
+3\. Al mismo tiempo, la propuesta de proyecto de plan hidrológico estará a disposición del público, durante un plazo no inferior a seis meses para la formulación de observaciones y sugerencias, en la forma establecida en el artículo 74.
+
+4\. Ultimadas las consultas a que se refieren los apartados 2 y 3, los organismos de cuenca realizarán un informe sobre las propuestas, observaciones y sugerencias que se hubiesen presentado e incorporarán las que en su caso consideren adecuadas a la propuesta de proyecto de plan hidrológico, que requerirá el informe preceptivo del Consejo del Agua de la demarcación. En la redacción final de la propuesta se tendrá en cuenta la declaración ambiental estratégica elaborada en el proceso de evaluación ambiental.
+
+5\. Dicha propuesta de proyecto de plan hidrológico, con la conformidad del Comité de Autoridades Competentes sobre el programa de medidas en su correspondiente ámbito competencial, será elevada al Gobierno a través del Ministerio para la Transición Ecológica y el Reto Demográfico, de acuerdo con el artículo 35.2 del texto refundido de la Ley de Aguas.
+
+> Se modifica por el art. 2.33 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 81. Estructura formal del plan hidrológico de cuenca.
+
+1\. El plan hidrológico tendrá la siguiente estructura formal:
+
+a) Memoria: incluirá, al menos, los contenidos obligatorios descritos en el artículo 4 y podrá acompañarse de los anejos que se consideren necesarios. Como orientación general constará de los siguientes capítulos:
+
+1\. Introducción.
+
+2\. Solución a los problemas importantes.
+
+3\. Descripción general de la demarcación.
+
+4\. Usos, demandas, presiones e impactos.
+
+5\. Caudales ecológicos, prioridades de uso y asignación de recursos: seguridad hídrica.
+
+6\. Identificación de las zonas protegidas.
+
+7\. Programas de seguimiento del estado de las aguas.
+
+8\. Evaluación del estado de las masas de agua.
+
+9\. Objetivos ambientales para las masas de agua y zonas protegidas.
+
+10\. Recuperación del coste de los servicios del agua.
+
+11\. Planes y programas relacionados.
+
+12\. Programas de medidas.
+
+13\. Participación pública.
+
+14\. Síntesis de cambios introducidos con la revisión.
+
+15\. Referencias.
+
+b) Normativa: incluirá los contenidos del Plan con carácter normativo que habrán de publicarse en los boletines oficiales que corresponda según se indica en el artículo 83 bis. Se configurará como un texto articulado estructurado en capítulos que irá acompañado de los apéndices que resulten precisos. Desarrollará, en la medida de lo posible, los siguientes aspectos:
+
+1.º Capítulo preliminar:
+
+a) Ámbito territorial
+
+b) Definición de los sistemas de explotación.
+
+c) Sistema de información de la demarcación hidrográfica.
+
+d) Adaptación al cambio climático.
+
+2.º Capítulo primero: definición de masas de agua:
+
+a) Identificación y delimitación de masas de agua superficial.
+
+b) Designación de masas de agua artificiales y masas de agua muy modificadas.
+
+c) Identificación y delimitación de masas de agua subterránea.
+
+d) Condiciones de referencia, límites de cambio de clase y normas de calidad ambiental necesarias para evaluar el estado de las aguas, debidamente motivados, de conformidad con el Real Decreto 817/2015, de 11 de septiembre.
+
+e) Valores umbral para las masas de agua subterránea.
+
+3.º Capítulo segundo: Regímenes de caudales ecológicos:
+
+a) Valores de los componentes que definen los regímenes de caudales ecológicos en situaciones de normalidad hídrica y de sequía prolongada, para ríos y aguas de transición. En concreto, y cuando resulte procedente, se detallarán los valores y la distribución temporal de caudales mínimos y máximos, las máximas tasas de cambio y los regímenes de crecidas.
+
+b) Necesidades hídricas de lagos y zonas húmedas.
+
+4.º Capítulo tercero: Prioridad de usos y asignación de recursos:
+
+a) Prioridad y compatibilidad de usos.
+
+b) Asignación de recursos.
+
+c) Reserva de recursos.
+
+d) Reserva de terrenos.
+
+e) Dotaciones objetivo para los distintos usos del agua.
+
+5.º Capítulo cuarto: Registro de zonas protegidas:
+
+a) Definición del registro de zonas protegidas de la demarcación.
+
+b) Reservas hidrológicas.
+
+c) Perímetros de protección.
+
+6.º Capítulo quinto: Objetivos medioambientales:
+
+a) Objetivos medioambientales para las masas de agua
+
+b) Masas de agua para las que se prorroga el logro de los objetivos ambientales.
+
+c) Masas de agua para las que se establecen objetivos menos rigurosos.
+
+d) Masas de agua sobre las que se plantean nuevas modificaciones.
+
+e) Masas de agua que han sufrido deterioro temporal durante el anterior ciclo de planificación.
+
+7.º Capítulo sexto. Programas de medidas:
+
+a) Resumen de las inversiones previstas en el ciclo de planificación:
+
+a. Por tipo de actuación.
+
+b. Por Administración competente, diferenciando al menos la Administración General del Estado, la de las Comunidades Autónomas y la Local.
+
+b) Instrumentos normativos generales de protección de las masas de agua. En particular estos contenidos darán respuesta, cuando proceda, a los siguientes asuntos:
+
+a. Normas singulares sobre autorizaciones de vertido.
+
+b. Normas específicas para el otorgamiento de concesiones de aguas subterráneas, con especial referencia a las distancias entre pozos y entre pozos y manantiales.
+
+c. Características de las concesiones de agua subterránea para que sean consideradas de escasa importancia.
+
+d. Principales determinaciones de los programas de actuación en masas de agua subterránea declaradas en riesgo de no alcanzar el buen estado.
+
+e. Identificación de presas y canales construidos total o parcialmente con fondos del Estado o propios del organismo de cuenca con posibilidad de utilización con fines hidroeléctricos.
+
+f. Umbrales de variación de caudal para la valoración de la modificación de características de determinadas concesiones.
+
+g. Medidas normativas para hacer frente a la contaminación difusa indicadas en el artículo 49 bis.
+
+h. Costes unitarios del agua a los efectos de la valoración de daños al dominio público hidráulico en los supuestos en que no se vea afectada la calidad del agua.
+
+8.º Capítulo séptimo. Organización y procedimiento para hacer efectiva la participación pública.
+
+2\. La normativa de los planes hidrológicos de cuenca no incorporará contenidos para los que el plan no esté expresamente habilitado mediante una norma legal o reglamentaria. La inclusión en la normativa del plan hidrológico de cualquier contenido distinto de los indicados en el apartado 1 requerirá de la cita expresa de la norma habilitante.
+
+3\. Lo dispuesto en los apartados 1 y 2 no será de aplicación en la demarcación hidrográfica del Cantábrico Oriental a efectos de facilitar la coordinación para la revisión de su plan hidrológico conforme a la disposición adicional sexta del Real Decreto 125/2007, de 2 de febrero, por el que se fija el ámbito territorial de las demarcaciones hidrográficas.
+
+> Se modifica por el art. 2.34 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica el apartado b) por el art. 2.7 del Real Decreto 638/2016, de 9 de diciembre. [Ref. BOE-A-2016-12466](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12466).
+
+> Se modifica el apartado b) por la disposición final 6.16 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 82. Instrucciones y recomendaciones técnicas complementarias.
+
+El Ministerio de Medio Ambiente podrá dictar las instrucciones y recomendaciones técnicas complementarias para la elaboración de los planes hidrológicos que considere convenientes para la homogeneización y sistematización de los trabajos. Estas instrucciones y recomendaciones técnicas deberán ser dictadas oídos los departamentos ministeriales afectados, en cuanto puedan afectar a los mismos.
+
+#### Sección 4.ª Aprobación
+
+##### Artículo 83. Aprobación de los planes hidrológicos de cuenca.
+
+1\. Los proyectos de planes hidrológicos de cuenca elaborados conforme a lo previsto en el artículo 80 de este reglamento o en las normas de procedimiento que pudieran dictar, en su caso, las comunidades autónomas, se remitirán por el Ministerio de Medio Ambiente al Consejo Nacional del Agua para que emita el informe preceptivo previsto en el artículo 20 del texto refundido de la Ley de Aguas.
+
+2\. Emitido este informe, el Ministerio de Medio Ambiente elevará al Gobierno los planes hidrológicos para su aprobación si fuera procedente.
+
+3\. El Gobierno, mediante real decreto, aprobará los planes hidrológicos de cuenca en los términos que estime procedentes en función del interés general, sin perjuicio de lo dispuesto en el apartado siguiente.
+
+4\. Los planes hidrológicos de cuenca que hayan sido elaborados o revisados al amparo de lo dispuesto en el artículo 18 del texto refundido de la Ley de Aguas serán aprobados si se ajustan a las prescripciones de los artículos 40.1, 3 y 4 y 42 del texto refundido de la Ley de Aguas, no afectan a los recursos de otras cuencas y, en su caso, se acomodan a las determinaciones del Plan Hidrológico Nacional.
+
+#### Sección 5.ª Publicación y notificación
+
+> Se añade por el art. 2.35 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 83 bis. Publicación de los planes hidrológicos de cuenca.
+
+1\. Cualquier persona puede consultar el contenido íntegro de los planes hidrológicos en los términos previstos en la Ley 27/2006, de 18 de julio, así como en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
+
+2\. A los efectos de lo dispuesto en el apartado anterior, la información íntegra de los planes hidrológicos estará disponible en las páginas electrónicas de las autoridades de cuenca promotoras. Asimismo, para facilitar el acceso público, el Ministerio para la Transición Ecológica y el Reto Demográfico mantendrá en sus páginas electrónicas una relación de los planes vigentes con vínculos directos a las páginas web de las autoridades de cuenca promotoras.
+
+3\. Los reales decretos aprobatorios de los planes hidrológicos de cuenca se publicarán en el «Boletín Oficial del Estado». En el caso de los planes hidrológicos, o parte de los mismos, elaborados por las confederaciones hidrográficas, la publicación del real decreto aprobatorio anexará la parte normativa del plan a que alude el artículo 81.1.b). En el caso de los planes hidrológicos elaborados por las comunidades autónomas conforme al artículo 18 del texto refundido de la Ley de Aguas, la publicación de la parte normativa se realizará en el boletín o diario oficial de la comunidad autónoma correspondiente.
+
+> Se añade por el art. 2.35 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 83 ter. Notificación de los planes hidrológicos de cuenca.
+
+1\. El Ministerio para la Transición Ecológica y el Reto Demográfico pondrá a disposición de la Comisión Europea y de cualquier Estado miembro interesado los planes hidrológicos aprobados, así como el estudio general de la demarcación a que se alude en el artículo 78.
+
+2\. Asimismo, el Ministerio para la Transición Ecológica y el Reto Demográfico reunirá en el sistema de base de datos mencionado en el artículo 71.7 la información necesaria para realizar la notificación electrónica a la Comisión Europea de los planes hidrológicos aprobados, del seguimiento del programa de medidas y de cualquier otra temática relacionada. Para ello, recabará de las diversas autoridades de cuenca la información alfanumérica y espacial que resulte necesaria.
+
+3\. El Ministerio para la Transición Ecológica y el Reto Demográfico ajustará regularmente el sistema de base de datos para tomar en consideración los requisitos que sobre la notificación vayan incorporando los sistemas con que trabaja la Comisión Europea. Asimismo, se facilitará el acceso telemático al sistema, tanto a los organismos de cuenca como al resto de autoridades competentes, con la finalidad de que dichos agentes puedan materializar por si mismos la integración de la información e, incluso, verificar previamente a la aprobación de los planes la completitud y coherencia de los datos a notificar.
+
+4\. Una vez que los planes hidrológicos hayan sido aprobados, el Ministerio para la Transición Ecológica y el Reto Demográfico pondrá a disposición de la Comisión Europea, en el plazo máximo de tres meses, la información alfanumérica y espacial requerida por los ejercicios de notificación electrónica.
+
+5\. Los organismos de cuenca y demás autoridades competentes concernidas colaborarán con el Ministerio para la Transición Ecológica y el Reto Demográfico tanto en la preparación de los ejercicios de notificación a la Comisión Europea relacionados con las aguas que dicho departamento canaliza como en la revisión crítica de la información notificada, en especial para completarla o corregirla cuando resulte necesario.
+
+> Se añade por el art. 2.35 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+### CAPÍTULO II — De los planes especiales de sequía
+
+> Se añade por el art. 2.36 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 83 quater. Elaboración y aprobación de los planes especiales de sequía o de sus revisiones.
+
+1\. Las propuestas de los planes de sequía se elaborarán por los organismos de cuenca en coordinación con las diferentes planificaciones sectoriales que les afecten, tanto respecto a los usos del agua como a los del suelo, y especialmente con lo establecido en la planificación de regadíos y otros usos agrarios. Así mismo, en su elaboración se preverá necesariamente la participación de los departamentos ministeriales interesados, y la presentación de las propuestas por los organismos correspondientes cuyas competencias estén relacionadas.
+
+Posteriormente se someterán a un periodo de audiencia e información pública no inferior a tres meses. A tal efecto, la fecha de inicio y demás circunstancias de la consulta serán anunciadas en el «Boletín Oficial del Estado».
+
+Superada la consulta el organismo de cuenca elaborará un informe analizando las propuestas, observaciones y sugerencias e incorporará a la propuesta de plan especial aquellas que considere procedentes.
+
+2\. En virtud de lo que establece el artículo 6.2 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, los planes especiales de sequía serán objeto de una evaluación ambiental estratégica simplificada, salvo que se aprecie por el órgano ambiental la necesidad de tramitar una evaluación ordinaria.
+
+El informe del órgano ambiental, resultado de la evaluación ambiental estratégica, deberá integrarse como Anejo a la Memoria del Plan Especial de Sequías, y dará lugar a los ajustes que el proyecto de plan especial en tramitación requiera.
+
+3\. Los organismos de cuenca remitirán la propuesta de plan especial de sequía a la Dirección General de Agua para ser sometida a su informe.
+
+4\. La propuesta de plan especial, una vez incorporadas las pertinentes propuestas, observaciones y sugerencias de la consulta pública, de los departamentos y otros organismos afectados, así como de las que deriven del informe de la Dirección General del Agua, será sometida al informe del Consejo del Agua de la Demarcación.
+
+5\. Superada la fase anterior, el Presidente del Organismo de cuenca remitirá la propuesta de Plan al Ministerio para la Transición Ecológica y el Reto Demográfico a través de la Dirección General del Agua, unidad que manifestará su conformidad o devolverá la misma con sus reparos al organismo de cuenca, antes de elevarla para su aprobación por orden ministerial.
+
+> Se añade por el art. 2.36 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 83 quinquies. Elaboración y aprobación de los planes de emergencia para abastecimiento.
+
+1\. De conformidad con el artículo 27.3 de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, las Administraciones públicas responsables de sistemas de abastecimiento urbano tienen, individual o mancomunadamente, la competencia para la elaboración de los planes de emergencia ante situaciones de sequía.
+
+2\. En caso de que las competencias de la gestión en alta y en baja del abastecimiento urbano correspondan a distintas entidades, estas serán responsables de la redacción de planes de emergencia en el ámbito de su respectiva competencia. Dichos planes deberán ser elaborados de forma coordinada.
+
+3\. Los planes de emergencia deberán tener en cuenta las reglas y medidas previstas en los planes especiales de sequía y, antes de su aprobación, deberán ser informados por el organismo u organismos de cuenca afectados.
+
+4\. Los planes de emergencia deberán actualizarse cada 6 años. El plazo para su presentación ante los organismos de cuenca, a efectos de recabar el correspondiente informe, será de dos años desde la actualización o revisión del plan especial de sequías de su ámbito de aplicación.
+
+> Se añade por el art. 2.36 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+### CAPÍTULO III — Del Plan Hidrológico Nacional
+
+> Se renumera por el art. 2.36 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Anteriormente numerado como capítulo II.
+
+##### Artículo 84. Participación pública en la elaboración del Plan Hidrológico Nacional.
+
+1\. En la elaboración del Plan Hidrológico Nacional se garantizará, en todo caso, la participación pública en todo el proceso planificador, tanto en las fases de consultas previas como en las de desarrollo y aprobación o revisión del Plan, de acuerdo con lo establecido en el artículo 41.3 del texto refundido de la ley de Aguas.
+
+2\. La propuesta de proyecto de Plan Hidrológico Nacional deberá estar accesible en papel y en formato digital en las páginas electrónicas del Ministerio de Medio Ambiente.
+
+3\. Se realizará una consulta directa sobre la propuesta de proyecto de Plan Hidrológico Nacional a las partes interesadas.
+
+4\. La duración del proceso de consulta pública será como mínimo de seis meses. Las aportaciones de la consulta pública se reunirán en un informe que formará parte del proceso de planificación.
+
+5\. El Plan Hidrológico Nacional será objeto del procedimiento de evaluación ambiental estratégica conforme a lo establecido en la Ley 9/2006, de 28 de abril.
+
+6\. El Ministerio de Medio Ambiente adoptará las medidas necesarias para el acceso público a la documentación técnica que constituye los antecedentes y presupuestos del Plan Hidrológico Nacional y, a tal efecto, ordenará una edición oficial del mismo en la que se incluyan la memoria y todos sus anexos.
+
+##### Artículo 85. Elaboración del Plan Hidrológico Nacional.
+
+1\. Corresponderá al Ministerio de Medio Ambiente la elaboración del Plan Hidrológico Nacional, conjuntamente con los departamentos ministeriales relacionados con el uso de los recursos hidráulicos.
+
+2\. A este fin el Gobierno establecerá, a propuesta del Ministerio de Medio Ambiente, los mecanismos adecuados.
+
+##### Artículo 86. Aprobación del Plan Hidrológico Nacional.
+
+1\. El Proyecto de Plan Hidrológico Nacional será remitido por el Ministerio de Medio Ambiente al Consejo Nacional del Agua para que emita su informe preceptivo, según lo previsto en el artículo 20 del texto refundido de la Ley de Aguas.
+
+2\. El Gobierno, visto el informe del Consejo Nacional del Agua, aprobará el proyecto de Plan Hidrológico Nacional y lo remitirá a las Cortes Generales para su discusión y aprobación por ley.
+
+3\. El Plan Hidrológico Nacional, sin perder su carácter unitario, podrá ser aprobado en distintos actos legislativos.
+
+4\. La aprobación del Plan Hidrológico Nacional implicará la adaptación de los planes hidrológicos de cuenca y los programas de medidas a las previsiones de aquél.
+
+## TÍTULO III — Seguimiento y revisión de los planes hidrológicos
+
+##### Artículo 87. Seguimiento de los planes hidrológicos.
+
+1\. Los organismos de cuenca realizarán el seguimiento de sus correspondientes planes hidrológicos, pudiendo requerir, a través del Comité de Autoridades Competentes, cuanta información fuera necesaria a tal fin.
+
+2\. El Comité de Autoridades Competentes de la demarcación promoverá la elaboración y mantenimiento de un sistema de información sobre el estado de las masas de agua que permita obtener una visión general del mismo, teniendo en cuenta también los objetivos ambientales específicos de las zonas protegidas. Este sistema de información, integrado en la base de datos a la que alude el artículo 71.7, además de constituir un elemento básico para la planificación y elaboración de los programas de medidas, se utilizará para el seguimiento del plan hidrológico.
+
+3\. Sin perjuicio de las competencias que correspondan a las distintas administraciones públicas, el Ministerio para la Transición Ecológica y el Reto Demográfico mantendrá una información actualizada sobre el estado de las masas de agua y el desarrollo de la ejecución de las actuaciones del Plan Hidrológico Nacional y de los programas de medidas de los planes de cuenca, pudiendo recabar de los organismos de cuenca o de las administraciones competentes cuantos datos fueran necesarios para tal fin.
+
+4\. Dichos organismos, en el caso de demarcaciones hidrográficas con cuencas intercomunitarias, informarán con periodicidad no superior al año al Consejo del Agua de la demarcación y al Ministerio para la Transición Ecológica y el Reto Demográfico sobre el desarrollo de los planes. Asimismo informarán a las administraciones a las que hubieran consultado sobre los extremos pertinentes. Dentro del plazo de tres años a partir de la publicación del plan hidrológico o de su actualización, presentarán un informe intermedio que detalle el grado de aplicación del programa de medidas previsto.
+
+5\. Las comunidades autónomas deberán establecer el seguimiento de los planes hidrológicos elaborados por ellas, informando con periodicidad no superior al año al Ministerio para la Transición Ecológica y el Reto Demográfico. Asimismo, dentro del plazo de tres años a partir de la publicación del plan hidrológico o de su actualización, presentarán un informe intermedio que detalle el grado de aplicación del programa de medidas previsto.
+
+6\. El Ministerio para la Transición Ecológica y el Reto Demográfico publicará anualmente un informe de seguimiento sobre la aplicación de los planes hidrológicos de cuenca y del Plan Hidrológico Nacional, con el fin de mantener al ciudadano informado de los progresos realizados y facilitar la participación ciudadana en la planificación. A los efectos de su publicación conjunta, las comunidades autónomas facilitarán los informes correspondientes a los planes hidrológicos de las cuencas intracomunitarias.
+
+7\. Dicho informe será sometido a la consideración del Consejo Nacional del Agua, el cual, en función de los resultados obtenidos en la aplicación de los distintos planes hidrológicos, podrá proponer, bien al Gobierno para las cuencas intercomunitarias, bien a la administración autonómica correspondiente para las cuencas intracomunitarias, criterios para la actualización o revisión de los mismos.
+
+> Se modifica por el art. 2.37 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 88. Aspectos objeto de seguimiento específico.
+
+Serán objeto de seguimiento específico los aspectos que a continuación se indican:
+
+a) Evolución de los recursos hídricos naturales y disponibles y su calidad.
+
+b) Evolución de las demandas de agua.
+
+c) Grado de cumplimiento de los regímenes de caudales ecológicos.
+
+d) Estado de las masas de agua superficial y subterránea.
+
+e) Aplicación de los programas de medidas y efectos sobre las masas de agua.
+
+##### Artículo 89. Revisión de los planes hidrológicos de cuenca.
+
+1\. Cuando los cambios o desviaciones que se observen en los datos, hipótesis o resultados de los planes hidrológicos así lo aconsejen, el Consejo del Agua de la demarcación podrá acordar la revisión del Plan, que también podrá ser ordenada, previo acuerdo con los departamentos ministeriales afectados, por el Ministerio para la Transición Ecológica y el Reto Demográfico, que fijará un plazo al efecto; la revisión del plan hidrológico podrá ser interesada, en su caso, por la comunidad autónoma correspondiente cuando se trate de planes elaborados al amparo de lo dispuesto en el artículo 18 del texto refundido de la Ley de Aguas.
+
+2\. En todo caso, se realizará una revisión completa y periódica del Plan cada seis años desde la fecha de su entrada en vigor, o cuando así se requiera para ajustarse al calendario común establecido en la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre de 2000, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas.
+
+3\. Si transcurridos los plazos anteriores no se hubiese remitido el nuevo Plan para su aprobación, el Ministerio para la Transición Ecológica y el Reto Demográfico podrá requerir a los organismos de cuenca la presentación del plan hidrológico. Si transcurridos seis meses desde la fecha del requerimiento no hubiera sido éste atendido, el Gobierno encomendará al Ministerio para la Transición Ecológica y el Reto Demográfico la redacción de la propuesta del correspondiente plan hidrológico, conjuntamente con los departamentos ministeriales afectados, de acuerdo con lo previsto en el artículo 41.2 del texto refundido de la Ley de Aguas.
+
+4\. Cuando, tratándose de un plan hidrológico que haya de ser elaborado por la administración hidráulica de una comunidad autónoma que ejerza competencias sobre el dominio público hidráulico en cuencas hidrográficas comprendidas íntegramente dentro de su territorio, hayan transcurrido los plazos establecidos en los apartados 1 y 2 sin haberse recibido el nuevo Plan para su aprobación, el Gobierno requerirá al Presidente de la Comunidad Autónoma a los efectos procedentes.
+
+5\. El procedimiento de revisión de los planes será igual al previsto para su elaboración en los artículos 76 a 83 ter, ambos inclusive.
+
+> Se modifica por el art. 2.38 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se modifica por la disposición final 6.17 del Real Decreto 817/2015, de 11 de septiembre. [Ref. BOE-A-2015-9806](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-9806).
+
+##### Artículo 89 bis. Aplicación de las previsiones del plan especial de sequías.
+
+Las confederaciones hidrográficas tienen la responsabilidad de aplicar las previsiones del plan especial correspondiente a su ámbito territorial. En particular, de proveer la información necesaria para el mantenimiento del sistema de indicadores y, en consecuencia con los diagnósticos que se produzcan, activar o desactivar los distintos tipos de acciones y medidas, bien sea de forma automática o con la intervención de los órganos que corresponda.
+
+> Se añade por el art. 2.39 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 89 ter. Seguimiento del plan especial de sequías.
+
+Además del seguimiento continuo que se debe realizar mensualmente, en los informes anuales de seguimiento de los planes hidrológicos se incluirá un resumen correspondiente al seguimiento del Plan Especial de Sequía durante ese mismo periodo.
+
+> Se añade por el art. 2.39 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 89 quater. Actualización del plan especial de sequías.
+
+Con carácter general los planes especiales de sequía deberán actualizarse cada 6 años, y en todo caso, manteniendo la distancia de dos años respecto a la fecha de revisión de los planes hidrológicos de cuenca.
+
+> Se añade por el art. 2.39 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+## TÍTULO IV — Efectos de los planes hidrológicos
+
+##### Artículo 90. Disposiciones generales.
+
+1\. Los planes hidrológicos serán públicos y vinculantes, sin perjuicio de su actualización periódica y revisión justificada, y no crearán por sí solos derechos en favor de particulares o entidades, por lo que su modificación no dará lugar a indemnización, sin perjuicio de lo dispuesto en el artículo 65 del texto refundido de la Ley de Aguas.
+
+2\. Las resoluciones de los organismos de cuenca y de cualquier otra administración pública en materias relacionadas con los planes hidrológicos deberán ajustarse a los términos de los mismos.
+
+3\. Cuando como consecuencia de las modificaciones de los planes hidrológicos se proceda a la revisión de algunas concesiones existentes los concesionarios perjudicados tendrán derecho a las correspondientes indemnizaciones de conformidad con lo dispuesto en la legislación de expropiación forzosa.
+
+4\. Los planes hidrológicos de cuenca quedarán en suspenso en aquellas determinaciones que sean contradictorias con las del Plan Hidrológico Nacional. El Consejo de Ministros a propuesta del Ministerio de Medio Ambiente, mediante resolución publicada en el Boletín Oficial del Estado y en el de las Comunidades Autónomas afectadas, iniciará el correspondiente proceso de adaptación de los planes de cuenca. La resolución incluirá los datos esenciales que permitan identificar aquellos puntos del plan hidrológico de cuenca afectados por el Plan Hidrológico Nacional y que deberán ser objeto de adaptación.
+
+5\. En la tramitación de expedientes de concesión o autorización que en el momento de publicarse el nuevo plan hidrológico se encuentren pendientes de resolución final, será preciso ratificar los informes de compatibilidad con el plan hidrológico que se hubieran realizado a la vista del plan anterior cuando se basen en aspectos que hubiesen sufrido modificaciones en el nuevo plan y, en especial, cuando afecten a la disponibilidad de los recursos. En caso de no ratificación, deberá emitirse un nuevo informe de compatibilidad, procediéndose según el caso de conformidad con el artículo 108.3 y 4 o 144.1 del Reglamento del Dominio Público Hidráulico.
+
+> Se añade el apartado 5 por el art. 2.40 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+##### Artículo 91. Otros efectos particulares.
+
+1\. La aprobación de los planes hidrológicos de cuenca implicará la declaración de utilidad pública de los trabajos de investigación, estudios, proyectos y obras previstos en el Plan.
+
+2\. En su consecuencia los organismos de la administración competentes podrán iniciar las actuaciones necesarias para la realización de los mismos debiendo estarse, por lo que respecta a las eventuales indemnizaciones por ocupación temporal de bienes de particulares o expropiación de los mismos, a lo dispuesto en la vigente legislación de expropiación forzosa. El Gobierno podrá de acuerdo con dicha normativa aplicar, de estimarlo necesario, el procedimiento de urgencia.
+
+3\. Las previsiones de los planes hidrológicos a que se refiere el artículo 43.1 y 2 del texto refundido de la Ley de Aguas deberán ser respetadas en los diferentes instrumentos de ordenación urbanística del territorio.
+
+4\. Para que puedan autorizarse construcciones en los terrenos reservados a que se refiere el artículo 43.1 del texto refundido de la Ley de Aguas, los organismos competentes deberán recabar informe previo de la administración hidráulica, a menos que ésta hubiese informado, con carácter general, los correspondientes instrumentos de planeamiento urbanístico.
+
+##### Artículo 92. Declaración de situación excepcional por sequía extraordinaria.
+
+1\. La Presidencia de la Confederación Hidrográfica afectada podrá declarar “situación excepcional por sequía extraordinaria” cuando en una o varias unidades territoriales de diagnóstico, definidas en el Plan Especial de Sequías correspondiente, se dé:
+
+a) Escasez en escenarios de alerta que coincidan temporal y geográficamente con algún ámbito territorial en situación de sequía prolongada, o
+
+b) Escasez en escenarios de emergencia.
+
+De la misma forma, la Presidencia declarará el final de esta situación excepcional cuando se pueda constatar que no se dan las circunstancias objetivas que motivaron la declaración.
+
+2\. La declaración afectará a los ámbitos o sistemas de explotación en que se den las circunstancias señaladas en el apartado anterior. Dicha declaración podrá extenderse a otras zonas de la cuenca o incluso a toda la demarcación cuando se identifique y pueda justificarse un riesgo de avance del problema que así lo aconseje.
+
+3\. En el caso de trasvases entre distintos ámbitos de planificación, al no poder existir correspondencia espacial entre las unidades territoriales para las que se diagnostica sequía prolongada y las unidades en que se diagnostica alerta o emergencia por escasez, el Plan Especial correspondiente tomará en consideración la interrelación de indicadores y unidades territoriales que sea necesaria para fijar los criterios de declaración de ‘situación excepcional por sequía extraordinaria’.
+
+4\. En esta “situación excepcional por sequía extraordinaria” y para la zona afectada por la declaración, la Junta de Gobierno del organismo de cuenca valorará la necesidad y oportunidad de solicitar al Gobierno, a través del Ministerio que ejerza las competencias sobre el agua, la adopción de las medidas que sean precisas en relación con la utilización del dominio público hidráulico, conforme a lo previsto en el artículo 58 del texto refundido de la Ley de Aguas.
+
+5\. Las medidas previstas en los apartados 1 y 2 podrán ser adoptadas por la Administración hidráulica de la comunidad autónoma en el caso de las cuencas intracomunitarias, de acuerdo con su legislación aplicable.
+
+> Se añade por el art. 2.41 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+## ANEXO I — Regiones ecológicas y descriptores para la clasificación en tipos de las masas de agua superficial (sistema A)
+
+Ríos
+
+| Tipología fijada | Descriptores |
+|---|---|
+| Región ecológica | Región ibérico-macaronésica. |
+|  | Pirineos. |
+| Tipo | Tipología en función de la altitud. |
+|  | Alto: >800 m. |
+|  | Altura media: 200 a 800 m. |
+|  | Tierras bajas: <200 m. |
+|  | Tipología según el tamaño en función de la superficie de la cuenca de alimentación. |
+|  | Pequeño: 10 a 100 km<sup>2</sup>. |
+|  | Mediano: >100 a 1.000 km<sup>2</sup>. |
+|  | Grande: >1.000 a 10.000 km<sup>2</sup>. |
+|  | Muy grande: >10.000 km<sup>2</sup>. |
+|  | Geología. |
+|  | Calcáreo. |
+|  | Silíceo. |
+|  | Orgánico. |
+
+Lagos
+
+| Tipología fijada | Descriptores |
+|---|---|
+| Región ecológica | Región ibérico-macaronésica. |
+|  | Pirineos. |
+| Tipo | Tipología en función de la altitud. |
+|  | Alto: >800 m. |
+|  | Altura media: 200 a 800 m. |
+|  | Tierras bajas: <200 m. |
+|  | Tipología según la profundidad medida como profundidad media. |
+|  | <3 m. |
+|  | 3 m a 15 m. |
+|  | >15 m. |
+|  | Tipología según el tamaño medido como superficie del lago. |
+|  | 0,5 a 1 km<sup>2</sup>. |
+|  | 1 a 10 km<sup>2</sup>. |
+|  | 10 a 100 km<sup>2</sup>. |
+|  | > 100 km<sup>2</sup>. |
+|  | Geología. |
+|  | Calcáreo. |
+|  | Silíceo. |
+|  | Orgánico. |
+
+Aguas de transición
+
+| Tipología fijada | Descriptores |
+|---|---|
+| Región ecológica | Océano Atlántico. |
+|  | Mar Mediterráneo. |
+| Tipo | Basado en la salinidad media anual. |
+|  | <0,5 ‰: agua dulce. |
+|  | 0,5 a <5 ‰: oligohalino. |
+|  | 5 a <18 ‰: mesohalino. |
+|  | 18 a <30 ‰: polyhalino. |
+|  | 30 a <40 ‰: euhalino. |
+|  | Basado en la amplitud media de las mareas. |
+|  | <2 m: micromareal. |
+|  | 2 a 4 m: mesomareal. |
+|  | >4 m: macromareal. |
+
+Aguas costeras
+
+| Tipología fijada | Descriptores |
+|---|---|
+| Región ecológica | Océano Atlántico. |
+|  | Mar Mediterráneo. |
+| Tipo | Basado en la salinidad media anual. |
+|  | <0,5 ‰: agua dulce. |
+|  | 0,5 a <5 ‰: oligohalino. |
+|  | 5 a <18 ‰: mesohalino. |
+|  | 18 a <30 ‰: polyhalino. |
+|  | 30 a <40 ‰: euhalino. |
+|  | Basado en la profundidad media. |
+|  | Aguas poco profundas: <30 m. |
+|  | Intermedias: 30 a 200 m. |
+|  | Profundas: >200 m. |
+
+## ANEXO II — Factores obligatorios y optativos para la clasificación en tipos de las masas de agua superficial (sistema B)
+
+Ríos
+
+| Caracterización alternativa | Factores físicos y químicos que determinan las características del río o parte del río y, por ende, la estructura y composición de la comunidad biológica |
+|---|---|
+| Factores obligatorios | Altitud. |
+|  | Latitud. |
+|  | Longitud. |
+|  | Geología. |
+|  | Tamaño. |
+| Factores optativos | Distancia desde el nacimiento del río. |
+|  | Energía de flujo (función del caudal y de la pendiente). |
+|  | Anchura media del agua. |
+|  | Profundidad media del agua. |
+|  | Pendiente media del agua. |
+|  | Forma y configuración del cauce principal. |
+|  | Categoría según la aportación fluvial (caudal). |
+|  | Forma del valle. |
+|  | Transporte de sólidos. |
+|  | Capacidad de neutralización de ácidos. |
+|  | Composición media del sustrato. |
+|  | Cloruros. |
+|  | Oscilación de la temperatura del aire. |
+|  | Temperatura media del aire. |
+|  | Precipitaciones. |
+
+Lagos
+
+| Caracterización alternativa | Factores físicos y químicos que determinan las características del lago y, por ende, la estructura y composición de la comunidad biológica |
+|---|---|
+| Factores obligatorios | Altitud. |
+|  | Latitud. |
+|  | Longitud. |
+|  | Profundidad. |
+|  | Geología. |
+|  | Tamaño. |
+| Factores optativos | Profundidad media del agua. |
+|  | Forma del lago. |
+|  | Tiempo de permanencia. |
+|  | Temperatura media del aire. |
+|  | Oscilación de la temperatura del aire. |
+|  | Régimen de mezcla de estratificación del agua (por ejemplo, monomíctico, dimíctico, polimíctico). |
+|  | Capacidad de neutralización de ácidos. |
+|  | Estado natural de los nutrientes. |
+|  | Composición media del sustrato. |
+|  | Fluctuación del nivel del agua. |
+
+Aguas de transición
+
+| Caracterización | Factores físicos y químicos que determinan las características del lago y, por ende, la estructura y composición de la comunidad biológica |
+|---|---|
+| Factores obligatorios | Latitud. |
+|  | Longitud. |
+|  | Amplitud de las mareas. |
+|  | Salinidad. |
+| Factores optativos | Profundidad. |
+|  | Velocidad de la corriente. |
+|  | Exposición al oleaje. |
+|  | Tiempo de permanencia. |
+|  | Temperatura media del agua. |
+|  | Características de la mezcla de aguas. |
+|  | Turbidez. |
+|  | Composición media del sustrato. |
+|  | Forma. |
+|  | Oscilación de la temperatura del agua. |
+
+Aguas costeras
+
+| Caracterización alternativa | Factores físicos y químicos que determinan las características del lago y, por ende, la estructura y composición de la comunidad biológica |
+|---|---|
+| Factores obligatorios | Latitud. |
+|  | Longitud. |
+|  | Amplitud de las mareas. |
+|  | Salinidad. |
+| Factores optativos | Velocidad de la corriente. |
+|  | Exposición al oleaje. |
+|  | Temperatura media del agua. |
+|  | Características de la mezcla de aguas. |
+|  | Turbidez. |
+|  | Tiempo de permanencia (de bahías cerradas). |
+|  | Composición media del sustrato. |
+|  | Oscilación de la temperatura del agua. |
+
+## ANEXO III — Normativa comunitaria sobre protección de las aguas
+
+Directiva 2006/118/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a la protección de las aguas subterráneas contra la contaminación y el deterioro.
+
+Directiva 2006/7/CE del Parlamento Europeo y del Consejo, de 15 de febrero de 2006, relativa a la gestión de la calidad de las aguas de baño y por la que se deroga la Directiva 76/160/CEE.
+
+Directiva 98/83/CE del Consejo, de 3 de noviembre de 1998, relativa a la calidad de las aguas destinadas al consumo humano.
+
+Directiva 96/61/CE del Consejo, de 24 de septiembre de 1996, relativa a la prevención y al control integrados de la contaminación.
+
+Directiva 96/82/CE del Consejo, de 9 de diciembre de 1996, relativa al control de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas.
+
+Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitat naturales y de la fauna y flora silvestres. Directiva 91/271/CEE del Consejo, de 21 de mayo de 1991, sobre el tratamiento de las aguas residuales urbanas.
+
+Directiva 91/414/CEE del Consejo, de 15 de julio de 1991, relativa a la comercialización de productos fitosanitarios.
+
+Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, relativa a la protección de las aguas contra la contaminación producida por nitratos utilizados en la agricultura.
+
+Directiva 86/278/CEE del Consejo, de 12 de junio de 1986, relativa a la protección del medio ambiente y, en particular, de los suelos, en la utilización de los lodos de depuradora en agricultura.
+
+Directiva 86/280/CEE del Consejo, de 12 de junio de 1986, relativa a los valores límite y los objetivos de calidad para los residuos de determinadas sustancias peligrosas comprendidas en la lista I del Anexo de la Directiva 76/464/CEE.
+
+Directiva 85/337/CEE del Consejo, de 27 de junio de 1985, relativa a la evaluación de las repercusiones de determinados proyectos públicos y privados sobre el medio ambiente.
+
+Directiva 84/156/CEE del Consejo, de 8 de marzo de 1984, relativa a los valores límites y a los objetivos de calidad para los vertidos de mercurio de los sectores distintos de la electrólisis de los cloruros alcalinos.
+
+Directiva 84/491/CEE del Consejo, de 9 de octubre de 1984, relativa a los valores límite y a los objetivos de calidad para los vertidos de hexaclorociclohexano.
+
+Directiva 83/513/CEE del Consejo, de 26 de septiembre de 1983, relativa a los valores límite y a los objetivos de calidad para los vertidos de cadmio.
+
+Directiva 82/176/CEE del Consejo, de 22 de marzo de 1982, relativa a los valores límite y a los objetivos de calidad para los vertidos de mercurio del sector de la electrólisis de los cloruros alcalinos.
+
+Directiva 79/409/CEE del Consejo, de 2 de abril de 1979, relativa a la conservación de las aves silvestres.
+
+## ANEXO IV — Tipos de impactos a inventariar sobre las masas de agua
+
+| Tipo de impacto | Masas de agua sobre la que es relevante | Situación que permite reconocer el impacto |
+|---|---|---|
+| ACID-Acidificación. | Superficiales y subterráneas. | Masa de agua con el pH fuera del rango del buen estado. |
+| CHEM-Contaminación química. | Superficiales y subterráneas. | Masa de agua en mal estado químico. |
+| ECOS-Afección a ecosistemas terrestres dependientes del agua subterránea. | Subterráneas. | Diagnóstico reportado Directiva hábitats. |
+| HHYC-Alteraciones de hábitat por cambios hidrológicos. | Superficiales. | Diagnóstico hidromorfológico de la masa de agua. |
+| HMOC-Alteraciones de hábitat por cambios morfológicos, incluida la conectividad. | Superficiales. | Diagnóstico hidromorfológico de la masa de agua. |
+| INTR-Alteraciones de la dirección del flujo por intrusión salina. | Subterráneas. | Concentración de cloruros. |
+| LITT-Acumulación de basura reconocida en las Estrategias Marinas. | Superficiales. | Presencia de basuras. |
+| LOWT-Descenso piezométrico por extracción. | Subterráneas. | Masa de agua en mal estado cuantitativo. |
+| MICR-Contaminación microbiológica. | Superficiales y subterráneas. | Presencia de contaminación microbiológica. |
+| NUTR-Contaminación por nutrientes. | Superficiales y subterráneas. | Diagnóstico nutrientes en la masa de agua. |
+| ORGA-Contaminación orgánica. | Superficiales y subterráneas. | Presencia de contaminación orgánica. |
+| OTHE-Otro tipo de impacto significativo. | Superficiales y subterráneas. | – |
+| QUAL-Disminución de la calidad del agua superficial asociada por impacto químico o cuantitativo. | Subterráneas. | Diagnóstico del estado de la masa de agua superficial afectada. |
+| SALI-Intrusión o contaminación salina. | Superficiales y subterráneas. | Concentración de cloruros. |
+| TEMP-Elevación de la temperatura. | Superficiales. | Medición de la temperatura. |
+| UNKN-Desconocido. | Superficiales y subterráneas. | A documentar en todas las masas en riesgo sin impacto identificado. |
+
+> Se añade por el art. 2.42 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)
+
+> Se deroga por la disposición derogatoria 2 del Real Decreto 60/2011, de 21 de enero. [Ref. BOE-A-2011-1139](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1139).
+
+## ANEXO V — Definiciones normativas de las clasificaciones del estado ecológico
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_009.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/162/13182_010.png)
+
+## ANEXO VI — Tablas de referencia para documentar las actuaciones específicas del programa de medidas
+
+| Código | Carácter |
+|---|---|
+| BAS | Básica. |
+| COM | Complementaria. |
+| OTR | Otras medidas. |
+
+<table>
+<caption>
+<p>Tabla 2. Tipos y subtipos de medidas</p>
+</caption>
+<thead>
+<tr>
+<th>Código tipo</th>
+<th>Descripción tipo</th>
+<th>Código subtipo</th>
+<th>Descripción subtipo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="13">1</td>
+<td rowspan="13">Reducción de la contaminación de fuente puntual.</td>
+<td>01.01</td>
+<td>Reducción de la contaminación por vertidos urbanos.</td>
+</tr>
+<tr>
+<td>01.02</td>
+<td>Reducción de la contaminación por vertidos urbanos: pretratamiento.</td>
+</tr>
+<tr>
+<td>01.03</td>
+<td>Gestión de aguas pluviales.</td>
+</tr>
+<tr>
+<td>01.04</td>
+<td>Reducción de la contaminación por vertidos industriales.</td>
+</tr>
+<tr>
+<td>01.05</td>
+<td>Reducción de la contaminación por sitios contaminados.</td>
+</tr>
+<tr>
+<td>01.06</td>
+<td>Reducción de contaminación por vertederos.</td>
+</tr>
+<tr>
+<td>01.07</td>
+<td>Reducción de contaminación por dragados.</td>
+</tr>
+<tr>
+<td>01.08</td>
+<td>Reducción de contaminación por desalinizadoras.</td>
+</tr>
+<tr>
+<td>01.09</td>
+<td>Reducción de contaminación portuaria.</td>
+</tr>
+<tr>
+<td>01.10</td>
+<td>Reducción contaminación accidental.</td>
+</tr>
+<tr>
+<td>01.11</td>
+<td>Reducción de la contaminación por vertidos de aguas de achique de minas.</td>
+</tr>
+<tr>
+<td>01.12</td>
+<td>Reducción de la contaminación por vertidos de piscifactorías.</td>
+</tr>
+<tr>
+<td>01.13</td>
+<td>Reducción de la contaminación por vertidos de aguas de refrigeración.</td>
+</tr>
+<tr>
+<td rowspan="13">2</td>
+<td rowspan="13">Reducción de la contaminación difusa.</td>
+<td>02.00</td>
+<td>Reducción de la contaminación difusa en masas de agua subterránea.</td>
+</tr>
+<tr>
+<td>02.01</td>
+<td>Reducción de contaminación difusa por aguas pluviales.</td>
+</tr>
+<tr>
+<td>02.02</td>
+<td>Reducción de contaminación difusa por agricultura.</td>
+</tr>
+<tr>
+<td>02.03</td>
+<td>Reducción de contaminación difusa por selvicultura.</td>
+</tr>
+<tr>
+<td>02.04</td>
+<td>Reducción de contaminación difusa por transporte e infraestructuras.</td>
+</tr>
+<tr>
+<td>02.05</td>
+<td>Reducción de contaminación difusa por suelos contaminados.</td>
+</tr>
+<tr>
+<td>02.06</td>
+<td>Reducción de contaminación difusa por vertidos aislados.</td>
+</tr>
+<tr>
+<td>02.07</td>
+<td>Reducción de contaminación difusa por deposición atmosférica.</td>
+</tr>
+<tr>
+<td>02.08</td>
+<td>Reducción de contaminación difusa por minería.</td>
+</tr>
+<tr>
+<td>02.09</td>
+<td>Reducción de contaminación difusa por acuicultura.</td>
+</tr>
+<tr>
+<td>02.10</td>
+<td>Reducción de contaminación por vertederos incontrolados, vertido incontrolado de residuos.</td>
+</tr>
+<tr>
+<td>02.11</td>
+<td>Reducción de contaminación que alcanza las masas de agua.</td>
+</tr>
+<tr>
+<td>02.12</td>
+<td>Reducción de contaminación por fangos de depuración.</td>
+</tr>
+<tr>
+<td rowspan="8">3</td>
+<td rowspan="8">Reducción de la presión por extracción de agua.</td>
+<td>03.00</td>
+<td>Mejora de la eficiencia y mantenimiento de infraestructuras de uso mixto.</td>
+</tr>
+<tr>
+<td>03.01</td>
+<td>Mejora de la eficiencia en el uso del agua (agricultura).</td>
+</tr>
+<tr>
+<td>03.02</td>
+<td>Mejora de la eficiencia en el uso del agua (urbano).</td>
+</tr>
+<tr>
+<td>03.03</td>
+<td>Mejora de la eficiencia en el uso del agua (industrial).</td>
+</tr>
+<tr>
+<td>03.04</td>
+<td>Progreso en política de precios (agricultura).</td>
+</tr>
+<tr>
+<td>03.05</td>
+<td>Progreso en política de precios (urbano).</td>
+</tr>
+<tr>
+<td>03.06</td>
+<td>Progreso en política de precios (industrial).</td>
+</tr>
+<tr>
+<td>03.07</td>
+<td>Progreso en política de precios (varios usos).</td>
+</tr>
+<tr>
+<td rowspan="4">4</td>
+<td rowspan="4">Mejora de las condiciones morfológicas.</td>
+<td>04.00</td>
+<td>Morfológicas: Medidas de mejora morfológica en masas de agua.</td>
+</tr>
+<tr>
+<td>04.01</td>
+<td>Morfológicas: Mejora de la continuidad longitudinal.</td>
+</tr>
+<tr>
+<td>04.02</td>
+<td>Morfológicas: Mejora de la estructura del lecho y de las riberas y orillas (aguas continentales).</td>
+</tr>
+<tr>
+<td>04.03</td>
+<td>Morfológicas: Mejora de la estructura del lecho y de las riberas y orillas (aguas de transición y costeras).</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Mejora de las condiciones hidrológicas.</td>
+<td>05.01</td>
+<td>Hidrológicas: Mejora del régimen de caudales.</td>
+</tr>
+<tr>
+<td rowspan="3">6</td>
+<td rowspan="3">Medidas de conservación y mejora de la estructura y funcionamiento de los ecosistemas acuáticos.</td>
+<td>06.01</td>
+<td>Lucha contra especies exóticas que afectan a ecosistemas acuáticos.</td>
+</tr>
+<tr>
+<td>06.02</td>
+<td>Lucha contra enfermedades de especies acuáticas.</td>
+</tr>
+<tr>
+<td>06.03</td>
+<td>Protección de especies acuáticas.</td>
+</tr>
+<tr>
+<td rowspan="2">7</td>
+<td rowspan="2">Otras medidas ligadas a impactos.</td>
+<td>07.01</td>
+<td>Medidas para mitigar impactos por extracción.</td>
+</tr>
+<tr>
+<td>07.02</td>
+<td>Medidas para mitigar impactos de contaminación.</td>
+</tr>
+<tr>
+<td rowspan="2">8</td>
+<td rowspan="2">Otras medidas ligadas a los factores desencadenantes.</td>
+<td>08.01</td>
+<td>Condicionalidad.</td>
+</tr>
+<tr>
+<td>08.02</td>
+<td>Desarrollo costero.</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Medidas específicas de la protección del agua potable.</td>
+<td>09.01</td>
+<td>Protección de captaciones de agua potable.</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Medidas específicas para sustancias prioritarias.</td>
+<td>10.01</td>
+<td>Inventario de emisiones, descargas y perdidas de sustancias prioritarias.</td>
+</tr>
+<tr>
+<td rowspan="9">11</td>
+<td rowspan="9">Medidas de gobernanza.</td>
+<td>11.00</td>
+<td>Otras medidas genéricas no ligadas directamente a presiones ni impactos: Gobernanza.</td>
+</tr>
+<tr>
+<td>11.01</td>
+<td>Mejora del conocimiento para reducir la incertidumbre: Redes de control.</td>
+</tr>
+<tr>
+<td>11.02</td>
+<td>Mejora del conocimiento para reducir la incertidumbre: Inventarios y censos de presiones.</td>
+</tr>
+<tr>
+<td>11.03</td>
+<td>Mejora del conocimiento para reducir la incertidumbre: Delimitación y protección.</td>
+</tr>
+<tr>
+<td>11.04</td>
+<td>Mejora del conocimiento para reducir la incertidumbre: Investigación.</td>
+</tr>
+<tr>
+<td>11.05</td>
+<td>Asesoramiento y formación.</td>
+</tr>
+<tr>
+<td>11.06</td>
+<td>Mejora de las estructuras de gobierno.</td>
+</tr>
+<tr>
+<td>11.07</td>
+<td>Medidas de inspección y vigilancia.</td>
+</tr>
+<tr>
+<td>11.08</td>
+<td>Voluntariado.</td>
+</tr>
+<tr>
+<td rowspan="8">12</td>
+<td rowspan="8">Incremento de recursos disponibles.</td>
+<td>12.00</td>
+<td>Incremento de recursos disponibles sin especificar.</td>
+</tr>
+<tr>
+<td>12.01</td>
+<td>Incremento de recursos convencionales.</td>
+</tr>
+<tr>
+<td>12.02</td>
+<td>Incremento de recursos no convencionales: Reutilización.</td>
+</tr>
+<tr>
+<td>12.03</td>
+<td>Incremento de recursos no convencionales: Desalinización.</td>
+</tr>
+<tr>
+<td>12.04</td>
+<td>Obras de conducción / Redes de distribución.</td>
+</tr>
+<tr>
+<td>12.05</td>
+<td>Incremento de recursos: uso de recursos de menor calidad (tratamiento).</td>
+</tr>
+<tr>
+<td>12.06</td>
+<td>Actuaciones de operación y mantenimiento para satisfacer demandas.</td>
+</tr>
+<tr>
+<td>12.07</td>
+<td>Mejora de la garantía ante situaciones hidrológicas extremas (sequías).</td>
+</tr>
+<tr>
+<td rowspan="5">13</td>
+<td rowspan="5">Medidas de prevención de inundaciones.</td>
+<td>13.00</td>
+<td>Medidas genéricas de prevención de inundaciones.</td>
+</tr>
+<tr>
+<td>13.01</td>
+<td>Ordenación territorial y urbanismo.</td>
+</tr>
+<tr>
+<td>13.02</td>
+<td>Relocalización, traslado o retirada de actividades vulnerables.</td>
+</tr>
+<tr>
+<td>13.03</td>
+<td>Reducción de la vulnerabilidad de los bienes afectados e incremento de la resiliencia.</td>
+</tr>
+<tr>
+<td>13.04</td>
+<td>Otras medidas de prevención.</td>
+</tr>
+<tr>
+<td rowspan="5">14</td>
+<td rowspan="5">Medidas de protección frente a inundaciones.</td>
+<td>14.00</td>
+<td>Medidas genéricas de protección frente a inundaciones.</td>
+</tr>
+<tr>
+<td>14.01</td>
+<td>Gestión de la cuenca, de la escorrentía y de la generación de los caudales.</td>
+</tr>
+<tr>
+<td>14.02</td>
+<td>Optimización de la regulación de caudales.</td>
+</tr>
+<tr>
+<td>14.03</td>
+<td>Obras en cauce; costas o llanura de inundación.</td>
+</tr>
+<tr>
+<td>14.04</td>
+<td>Gestión del agua superficial.</td>
+</tr>
+<tr>
+<td rowspan="4">15</td>
+<td rowspan="4">Medidas de preparación ante inundaciones.</td>
+<td>15.01</td>
+<td>Predicción de avenidas y sistemas de alerta.</td>
+</tr>
+<tr>
+<td>15.02</td>
+<td>Planificación de la respuesta frente a inundaciones: Planes de Protección Civil.</td>
+</tr>
+<tr>
+<td>15.03</td>
+<td>Concienciación y preparación de las administraciones, los agentes sociales y los ciudadanos.</td>
+</tr>
+<tr>
+<td>15.04</td>
+<td>Otras medidas de preparación.</td>
+</tr>
+<tr>
+<td rowspan="2">16</td>
+<td rowspan="2">Medidas de recuperación y revisión tras inundaciones.</td>
+<td>16.01</td>
+<td>Recuperación individual y social.</td>
+</tr>
+<tr>
+<td>16.03</td>
+<td>Otras medidas de recuperación y revisión.</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Otras medidas de gestión del riesgo de inundación.</td>
+<td>17.01</td>
+<td>Otras medidas de gestión del riesgo de inundación.</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Sin actuaciones para disminuir el riesgo de inundación.</td>
+<td>18.01</td>
+<td>No se proponen actuaciones para un ARPSI (área con riesgo potencial significativo de inundación) determinado.</td>
+</tr>
+<tr>
+<td rowspan="6">19</td>
+<td rowspan="6">Medidas para satisfacer otros usos asociados al agua.</td>
+<td>19.00</td>
+<td>Medidas para satisfacer otros usos asociados al agua sin especificar.</td>
+</tr>
+<tr>
+<td>19.01</td>
+<td>Transporte.</td>
+</tr>
+<tr>
+<td>19.02</td>
+<td>Regadío.</td>
+</tr>
+<tr>
+<td>19.03</td>
+<td>Energía.</td>
+</tr>
+<tr>
+<td>19.04</td>
+<td>Uso público: Urbano y recreativo.</td>
+</tr>
+<tr>
+<td>19.05</td>
+<td>Otros usos.</td>
+</tr>
+</tbody>
+</table>
+
+| Código | Finalidad de la medida |
+|---|---|
+| 1 | Estudios generales y de planificación hidrológica. |
+| 2 | Gestión y administración del dominio público hidráulico. |
+| 3 | Redes de seguimiento e información hidrológica. |
+| 4 | Restauración y conservación del dominio público hidráulico. |
+| 5 | Gestión del riesgo de inundación. |
+| 6.1 | Infraestructuras de regulación. |
+| 6.2 | Infraestructuras de regadío. |
+| 6.3 | Infraestructuras de saneamiento y depuración. |
+| 6.4 | Infraestructuras de abastecimiento. |
+| 6.5 | Infraestructuras de desalinización. |
+| 6.6 | Infraestructuras de reutilización. |
+| 6.7 | Otras infraestructuras. |
+| 6.8 | Mantenimiento y conservación de infraestructuras. |
+| 7 | Seguridad de infraestructuras. |
+| 8 | Recuperación de acuíferos. |
+| 9 | Otras inversiones. |
+
+| Código | Administración competente |
+|---|---|
+| AGE | Administración General del Estado. |
+| CCAA | Comunidades Autónomas. |
+| EELL | Administración Local. |
+| UNIV | Universidades. |
+| OTRO | Otras instituciones y entidades privadas o particulares. |
+
+| Código | Agente responsable |
+|---|---|
+| DGA | DG del Agua, MITECO. |
+| DGC | DG de Costas, MITECO. |
+| CCHH | Confederación Hidrográfica. |
+| MCT | Mancomunidad de Canales del Taibilla. |
+| ACUAES | Sociedad Estatal ACUAES. |
+| ACUAMED | Sociedad Estatal ACUAMED. |
+| MAPA | Ministerio de Agricultura, Pesca y Alimentación. |
+| SEIASA | Sociedad Estatal SEIASA. |
+| PdE | Puertos del Estado. |
+| OtroAGE | Otras entidades de la AGE. |
+| OCCA | Autoridad de cuenca de Comunidad Autónoma. |
+| SSAA | Sociedad Autonómica. |
+| CCAA | Otras entidades de las Comunidades Autónomas. |
+| MUN | Entidad municipal. |
+| DIP | Diputación provincial o foral. |
+| EECC | Entidad comarcal. |
+| CCUU | Comunidades de usuarios. |
+| PTC | Entidades privadas o particulares. |
+| Otros | Otros agentes. |
+
+> Se añade por el art. 2.43 del Real Decreto 1159/2021, de 28 de diciembre. [Ref. BOE-A-2021-21664](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21664)

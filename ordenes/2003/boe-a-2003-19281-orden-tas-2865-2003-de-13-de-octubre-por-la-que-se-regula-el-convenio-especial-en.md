@@ -1,0 +1,795 @@
+---
+title: "Orden TAS/2865/2003, de 13 de octubre, por la que se regula el convenio especial en el Sistema de la Seguridad Social"
+identifier: "BOE-A-2003-19281"
+eli: "https://www.boe.es/eli/es/o/2003/10/13/tas2865"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2003-10-13
+published: 2003-10-18
+in_force_from: 2004-04-01
+last_amended: 2025-10-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 250"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-19281"
+retrieved: 2026-10-11
+---
+
+# Orden TAS/2865/2003, de 13 de octubre, por la que se regula el convenio especial en el Sistema de la Seguridad Social
+
+Incluye las correcciones de errores publicadas en BOE nums. 265, de 5 de noviembre de 2003. [Ref. BOE-A-2003-20335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20335) y 28, de 2 de febrero de 2004. [Ref. BOE-A-2004-1899](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1899).
+
+Al amparo de lo previsto en el apartado 2 del artículo 125 del Texto Refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, la Orden de 18 de julio de 1991 del entonces Ministerio de Trabajo y Seguridad Social reguló el convenio especial en el Sistema de Seguridad Social, conteniendo en el Capítulo I las normas generales del mismo y en el Capítulo II las relativas a determinados supuestos especiales.
+
+Sin embargo, existían ya o se han dictado posteriormente disposiciones de distinto rango que en función del artículo 97.2.l) de la propia Ley General de la Seguridad Social instrumentaron, mediante el instituto del convenio especial, la inclusión en diversos Regímenes del Sistema, como asimilados a trabajadores por cuenta ajena, de distintos colectivos para los que, por razón de su actividad, así lo determinó el Gobierno por Real Decreto a propuesta del Ministro de Trabajo y Asuntos Sociales.
+
+Todo ello ha originado una nueva dispersión normativa en la regulación de las distintas modalidades de convenios especiales, dispersión que debe ser superada reconduciéndola a un texto unitario que recoja todas las diversas modalidades existentes en la actualidad.
+
+Por otro lado, resulta asimismo necesario clarificar y actualizar las actuales previsiones legales en parte superadas por ulteriores normas de distinto rango que inciden en su regulación, considerándose oportuno, dadas las nuevas figuras contractuales en el ámbito sustantivo laboral y los colectivos incluidos en el Sistema, para que los mismos no resulten perjudicados en su carrera de previsión, que el convenio especial sea instituto jurídico válido no sólo para la conservación, sino también, cuando así se establezca en norma de rango suficiente, para la iniciación de situaciones de alta o asimiladas a la de alta en el Régimen de la Seguridad Social que corresponda en razón de la actividad que el trabajador o asimilado desarrolle o que haya desarrollado.
+
+En otros casos resulta necesario también dar debido cumplimiento a exigencias legales, como en el convenio especial de empresas y trabajadores sujetos a expediente de regulación de empleo que incluyan a trabajadores de 55 o más años y cuyo régimen jurídico general se establece en la Disposición Adicional Trigésima Primera de la Ley General de la Seguridad Social, agregada por el artículo 7 del Real Decreto-Ley 16/2001, de 27 de diciembre, primero, y de la Ley 35/2002, de 12 de julio, después, ambos de medidas para el establecimiento de un sistema de jubilación gradual y flexible.
+
+En fin, la conveniencia y servicio a los ciudadanos hacen necesario facilitar la suscripción de convenios especiales tanto en cuanto al plazo para solicitarlo como en cuanto a los requisitos exigibles para suscribirlos.
+
+A tales finalidades de refundir, al menos formalmente, en un texto normativo único a nivel de Orden Ministerial las diversas disposiciones de este rango reguladoras de los convenios especiales en la actualidad, así como a las de completar las lagunas existentes en la regulación de ciertos tipos de convenios especiales y posibilitar la suscripción de convenio especial para determinadas situaciones y colectivos a los que les estaba vedado de acuerdo con la normativa vigente, responde fundamentalmente la presente Orden.
+
+En su virtud, este Ministerio, en uso de las atribuciones que tiene conferidas, con la previa aprobación del Ministerio de Administraciones Públicas, ha tenido a bien disponer:
+
+## CAPÍTULO I — Regulación general
+
+### Sección 1.ª Disposiciones comunes
+
+#### Artículo 1. Finalidad y objeto generales.
+
+1\. La suscripción de convenio especial con la Seguridad Social en sus diferentes tipos determinará la iniciación o la continuación de la situación de alta o asimilada a la de alta en el Régimen de la Seguridad Social que corresponda en razón de la actividad que el trabajador o asimilado desarrolle o haya desarrollado con anterioridad a la suscripción del convenio en los términos que se establecen en esta Orden y demás disposiciones complementarias.
+
+2\. El convenio especial con la Seguridad Social tendrá como objeto la cotización al Régimen de la misma en cuyo ámbito se suscriba el convenio y la cobertura de las situaciones derivadas de contingencias comunes mediante el otorgamiento de las prestaciones a que se extienda la acción protectora de dicho Régimen de la Seguridad Social por tales contingencias, de la que asimismo quedan excluidas, salvo en los supuestos en que otra cosa resulte de lo dispuesto en el Capítulo II de esta Orden, las situaciones de incapacidad temporal, maternidad y riesgo durante el embarazo y los subsidios correspondientes a las mismas. Asimismo quedarán excluidas del convenio especial la cotización y la protección por Desempleo, Fondo de Garantía Salarial y Formación Profesional.
+
+#### Artículo 2. Suscriptores del convenio especial.
+
+1\. El convenio especial con la Seguridad Social se suscribirá con la Tesorería General de la Seguridad Social a través de los órganos competentes al efecto, de acuerdo con la distribución de competencias que la misma tenga establecida.
+
+2\. Podrán suscribir el convenio especial con la Tesorería General de la Seguridad Social:
+
+a) Los trabajadores o asimilados que causen baja en el Régimen de la Seguridad Social en que se hallen encuadrados y no estén comprendidos en el momento de la suscripción en el campo de aplicación de cualquier otro Régimen del Sistema de la Seguridad Social.
+
+b) Los trabajadores por cuenta ajena con contrato de trabajo de carácter indefinido, así como los trabajadores por cuenta propia incluidos en el Sistema de la Seguridad Social, siempre que unos y otros continúen en situación de alta y tengan cumplidos 65 o más años de edad y acrediten 35 o más años de cotización efectiva, y queden exentos de la obligación de cotizar a la Seguridad Social, en los términos establecidos en el artículo 112.bis y disposición adicional trigésima segunda del Texto Refundido de la Ley General de la Seguridad Social, a excepción en todo caso de los trabajadores que presten sus servicios en las Administraciones Públicas o en los Organismos Públicos regulados en el Título III de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+c) Los trabajadores o asimilados en situación de pluriempleo o de pluriactividad que cesen en alguna de las actividades por cuenta ajena determinantes de la situación de pluriempleo o en la actividad o actividades por cuenta propia o en la prestación o prestaciones de servicios por cuenta ajena constitutivas de su situación de pluriactividad, en los términos regulados en el artículo 23.
+
+d) Los trabajadores o asimilados que cesen en su prestación de servicios por cuenta ajena o en su actividad por cuenta propia y que sean contratados por el mismo u otro empresario con remuneraciones que den lugar a una base de cotización inferior al promedio de las bases de cotización correspondientes a los días cotizados en los doce meses inmediatamente anteriores a dicho cese.
+
+e) Los pensionistas de incapacidad permanente total para la profesión habitual que, con posterioridad a la fecha de efectos de la correspondiente pensión, hayan realizado trabajos determinantes de su inclusión en el campo de aplicación de alguno de los Regímenes que integran el Sistema de la Seguridad Social y se encuentren en las situaciones previstas en los apartados anteriores.
+
+f) Los trabajadores que se encuentren percibiendo prestaciones económicas del nivel contributivo por desempleo y se les extinga el derecho a las mismas o pasen a percibir el subsidio por desempleo, así como los que cesen en la percepción de este último.
+
+g) Los pensionistas de incapacidad permanente, en cualquiera de sus grados, que sean declarados plenamente capaces o con incapacidad permanente parcial para la profesión habitual como consecuencia de un expediente de revisión por mejoría o error de diagnóstico.
+
+h) Los pensionistas de incapacidad permanente o jubilación a quienes se anule su pensión en virtud de sentencia firme o se extinga la misma por cualquier otra causa.
+
+i) Los trabajadores o asimilados que causen baja en el correspondiente Régimen de la Seguridad Social por haber solicitado una pensión del mismo y ésta les sea posteriormente denegada por resolución administrativa o judicial firme.
+
+j) Los demás trabajadores por cuenta propia o por cuenta ajena o asimilados, en los supuestos especiales que se regulan en el Capítulo II de esta Orden.
+
+#### Artículo 3. Requisitos.
+
+Para suscribir el convenio especial con la Seguridad Social será necesario el cumplimiento de los siguientes requisitos:
+
+1\. Solicitar su suscripción ante la dirección provincial de la Tesorería General de la Seguridad Social o administración de la Seguridad Social correspondiente al domicilio del solicitante en el plazo de un año, que se computará de la siguiente forma:
+
+a) En los supuestos previstos en los apartados 2.a), 2.c) y 2.e) del artículo 2, a partir del día siguiente a la fecha de efectos de la baja en el régimen de Seguridad Social en que se estuviera encuadrado.
+
+b) En el supuesto previsto en el apartado 2.b) del artículo 2, a partir de la fecha en que se extinga la obligación de cotizar a la Seguridad Social.
+
+c) En el supuesto previsto en el apartado 2.d) del artículo 2, a partir de la fecha de celebración del nuevo contrato con el mismo o distinto empresario.
+
+d) En el supuesto previsto en el apartado 2.f) del artículo 2, a partir del día siguiente a aquel en que se haya extinguido el derecho a la prestación por desempleo o en que se haya cesado en la percepción del subsidio por desempleo.
+
+e) En los supuestos previstos en los apartados 2.g), 2.h) y 2.i) del artículo 2, a partir de la fecha en que la correspondiente resolución administrativa o judicial sea firme.
+
+Cuando en el supuesto contemplado en el apartado 2.i) se hubiese causado baja en un régimen de la Seguridad Social por causa de la solicitud de una pensión de jubilación, será necesario, en todo caso, que dicha solicitud se haya realizado dentro del año siguiente al de efectos de la baja.
+
+En los supuestos a que se refiere el apartado 2.j) del artículo 2, la solicitud de suscripción del respectivo convenio especial podrá formularse en cualquier momento, salvo que para ello se exija un plazo específico, su suscripción deba efectuarse dentro de un período de tiempo o en el marco de otro procedimiento legalmente establecido o se efectúe una remisión a lo dispuesto en el capítulo I de esta orden.
+
+2\. La solicitud de convenio especial deberá formularse en el modelo oficial establecido al efecto por la Tesorería General de la Seguridad Social, que podrá presentarse en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como también mediante el procedimiento electrónico que establezca el citado servicio común de la Seguridad Social.
+
+3\. Tener cubierto, en la fecha de solicitud del convenio especial, un período de mil ochenta días de cotización al Sistema de la Seguridad Social en los doce años inmediatamente anteriores a la baja en el Régimen de la Seguridad Social de que se trate.
+
+3.1 A tales efectos, se computarán las cotizaciones efectuadas a cualquiera de los Regímenes del Sistema de la Seguridad Social, incluidas las correspondientes a los días-cuotas por pagas extraordinarias, las que hubieren podido realizarse como consecuencia de otro convenio especial para la cobertura de las mismas prestaciones económicas, las relativas a los días que se consideren como período de cotización efectiva durante el primer año de excedencia o período menor, de acuerdo con la legislación aplicable, por razón del cuidado de cada hijo o de familiar hasta el segundo grado por razones de edad, accidente o enfermedad, así como, en su caso, los días cotizados durante el período de percepción de las prestaciones o subsidios por desempleo y los períodos asimismo cotizados en otro de los Estados Miembros del Espacio Económico Europeo o con los que exista Convenio Internacional al respecto, salvo que la norma especial o el Convenio Internacional prevean otra cosa, siempre que no se superpongan y sean anteriores a la fecha de efectos del convenio especial cuya celebración se solicita.
+
+Sin embargo, no se computarán los días en que, siendo el trabajador solicitante el obligado al cumplimiento de la obligación de cotizar, no esté al corriente en el pago de las cuotas anteriores a la fecha de efectos del convenio.
+
+3.2 En el caso de pensionistas de incapacidad permanente o jubilación, a los que se les hubiere anulado o extinguido por cualquier causa el derecho a la pensión, dicho período mínimo de cotización deberá estar cubierto en el momento en que se extinguió la obligación de cotizar.
+
+3.3 No será exigible el período mínimo de cotización en los convenios especiales a que se refieren los artículos 11 a 22 de esta Orden, ni, en general, cuando reglamentariamente se prevea la suscripción de convenio especial para la inclusión en el Sistema de Seguridad Social.
+
+> Se modifica el apartado 1, se renumera el apartado 2 como 3 y se añade un apartado 2 por el art. único.1 a 3 de la Orden TIN/3356/2011, de 30 de noviembre. [Ref. BOE-A-2011-19173](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19173).
+
+#### Artículo 4. Formalización.
+
+1\. La notificación por la Tesorería sobre la procedencia de celebrar el convenio especial solicitado deberá producirse dentro de los tres meses siguientes a la fecha en que la solicitud haya tenido entrada en el registro de la Dirección Provincial o Administración competente para su tramitación.
+
+De acuerdo con lo establecido en la Disposición Adicional Vigésima Quinta del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, la falta de resolución expresa en el plazo previsto en el párrafo anterior tendrá como efecto la estimación de la respectiva solicitud por silencio administrativo.
+
+2\. El convenio especial se entenderá suscrito por la Tesorería General y por el interesado si, una vez notificada a este la resolución sobre su procedencia, en la que se determinarán las condiciones iniciales del convenio, el interesado da su conformidad expresa o no se opone expresamente a ella en un plazo que finalizará el último día del mes siguiente a aquel en que haya recibido la notificación.
+
+> Se modifica el apartado 2, con efectos de 1 de junio de 2024, por la disposición final 1.1 de la Orden ISM/386/2024, de 29 de abril. [Ref. BOE-A-2024-8713](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8713)
+
+### Sección 2.ª Efectos generales
+
+#### Artículo 5. Efectos del convenio especial: Fecha de los mismos.
+
+1\. Las personas que suscriban el convenio especial con la Seguridad Social en cualquiera de sus modalidades se considerarán en situación de alta o asimilada a la de alta en el Régimen o, en su caso, en los Regímenes de la Seguridad Social en que se haya suscrito, respecto de las contingencias y en las condiciones que se establecen en esta Orden desde la fecha de efectos del mismo.
+
+2\. Las fechas de iniciación de los efectos del convenio especial serán las siguientes:
+
+2.1 Si la solicitud del convenio especial se hubiere presentado dentro de los noventa días naturales siguientes a la fecha del cese en la actividad o en la situación que determine la baja en el correspondiente Régimen de la Seguridad Social con extinción de la obligación de cotizar, de la cesación en la actividad determinante de la situación de pluriempleo o pluriactividad, de la vigencia del contrato o situación determinante de la cotización inferior a la que se venía cotizando, en los supuestos previstos respectivamente en los párrafos a), b), c), d) y e) del apartado 2 del artículo 2, o a la fecha en que se haya extinguido el derecho o se hubiere notificado la resolución firme, administrativa o judicial, denegatoria de las prestaciones correspondientes, en los supuestos previstos en los párrafos f), g), h) e i) del mismo apartado 2, el convenio especial surtirá efectos desde el día siguiente a aquel en que haya producido efectos la baja en el Régimen correspondiente, la cesación de la actividad, la vigencia del contrato de trabajo o situación determinante de la cotización inferior a la que se venía cotizando, la extinción o la denegación del derecho a las prestaciones respectivas.
+
+2.2 Si la solicitud del convenio se hubiere presentado fuera del plazo señalado en el apartado precedente, el mismo surtirá efectos desde el día de la presentación de la solicitud de convenio especial en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2.3 En todo caso, en la solicitud del convenio especial presentada en el plazo de noventa días y hasta la suscripción del mismo, el suscriptor podrá optar entre las fechas de efectos indicadas en el apartado 2.1 precedente o la correspondiente a la presentación de la solicitud, entendiéndose que, de no efectuarse tal opción, la fecha de efectos del convenio especial será la que resulta de lo dispuesto en el citado apartado 2.1 anterior.
+
+#### Artículo 6. Obligación de cotizar: Base de cotización.
+
+1\. En la situación de convenio especial, la cotización a la Seguridad Social será obligatoria desde la fecha de efectos del convenio y mientras se mantenga la vigencia del mismo.
+
+2\. La base de cotización por convenio especial tendrá carácter mensual. En los supuestos en que fuese necesario tomar bases diarias, la base anterior se dividirá por treinta en todos los casos.
+
+2.1 En el momento de suscribir el convenio especial el interesado podrá elegir cualquiera de las siguientes bases mensuales de cotización, sin perjuicio de lo que con carácter de especialidad se establece en el Capítulo II de esta orden:
+
+a) La base máxima de cotización por contingencias comunes del grupo de cotización correspondiente a la categoría profesional del interesado o en el régimen en que estuviera encuadrado, en la fecha de baja en el trabajo determinante de la suscripción del convenio especial, siempre que haya cotizado por ella al menos durante veinticuatro meses, consecutivos o no, en los últimos cinco años.
+
+b) La base de cotización que sea el resultado de dividir por 12 la suma de las bases por contingencias comunes por las que se hayan efectuado cotizaciones, respecto del trabajador solicitante del convenio especial, durante los 12 meses consecutivos anteriores al mes anterior a aquel en que haya surtido efectos la baja, se haya extinguido la obligación de cotizar o se haya solicitado el convenio especial para trabajadores contratados a tiempo parcial regulado en el artículo 22, y que sea superior a la base mínima a que se refiere el apartado c) siguiente.
+
+En los casos en que se hubiera autorizado un plazo reglamentario de ingreso de la cotización distinto al establecido con carácter general, los 12 meses consecutivos a que se refiere el párrafo anterior serán los anteriores a aquel cuyo plazo reglamentario de ingreso de cuotas haya finalizado en el momento en que se solicite el convenio especial.
+
+De tener acreditado un período de cotización inferior a 12 meses, esta base estará constituida por el resultado de multiplicar por 30 el cociente de dividir la suma de las bases de cotización entre el número de días cotizados.
+
+c) La base mínima del tramo 1 de la tabla general a que se refiere el artículo 308.1.a).1.ª del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, establecida, en la fecha de efectos del convenio especial, en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
+
+d) Una base de cotización que esté comprendida entre las bases determinadas conforme a lo dispuesto en los apartados a), b) y c) anteriores.
+
+A opción del interesado que las hubiese elegido, las bases de cotización a que se refieren los apartados a) y b) anteriores podrán incrementarse en cada ejercicio posterior a la baja en el trabajo o al cese en la actividad en el mismo porcentaje en que se aumente la base máxima del grupo de cotización correspondiente a su categoría profesional o la del régimen en el que hubiera estado encuadrado.
+
+En el supuesto del apartado 2.b) del artículo 2 de esta orden, la base de cotización estará constituida únicamente por la diferencia entre la base superior por la que se hubiere tenido que cotizar de no gozar de exención y la base a que se refieren, respectivamente, el apartado 6 del artículo 162 y la disposición adicional trigésima segunda de la Ley General de la Seguridad Social.
+
+2.2 Cada vez que, durante el período de vigencia del convenio especial, la base mínima de cotización establecida en el tramo 1 de la tabla general aplicable en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos sea modificada, la base de cotización correspondiente al convenio será incrementada, como mínimo, en el mismo porcentaje que haya experimentado aquella base mínima o, en su caso, en el porcentaje superior que tenga derecho a elegir el interesado, hasta que la cuantía de la base resultante sea como máximo la base prevista en el apartado 2.1.a) anterior.
+
+2.3 Las personas que suscriban el convenio especial y hayan optado por la base de cotización a que se refieren los apartados 2.1.a), b) y d) anteriores podrán solicitar que, mientras mantengan su situación de alta o asimilada a la de alta por la suscripción del convenio, su base de cotización se incremente automáticamente en el mismo porcentaje en que se aumente en lo sucesivo la base máxima de cotización del Régimen de la Seguridad Social de que se trate.
+
+2.4 Asimismo, en ningún caso la base de cotización resultante podrá ser superior al tope máximo de cotización vigente. En los casos de suspensión del convenio especial en los términos previstos en el apartado 1 del artículo 10, cuando el trabajador o asimilado, por los períodos de actividad, fuere objeto de inclusión en el mismo o en otro Régimen de la Seguridad Social y coincidieren cotizaciones por períodos de actividad laboral y por convenio especial, la suma de ambas bases de cotización no podrá exceder del tope máximo de cotización vigente en cada momento, debiendo, en su caso, rectificarse la base de cotización del convenio especial en la cantidad necesaria para que no se produzca la superación del indicado tope máximo.
+
+2.5 En aquellos Regímenes en que han de tenerse en cuenta, a efectos de cotización, distintas categorías profesionales, las bases mínima o máxima, señaladas en los apartados anteriores, se entenderán referidas a las correspondientes al grupo de cotización en que se encuentre comprendida la categoría que tenía el trabajador antes de la baja, siempre que sean superiores a la base mínima a que se refiere el apartado siguiente.
+
+2.6 En ningún caso el importe de la base de cotización por convenio especial podrá ser inferior al de la base mínima a que se refiere el apartado 2.1.c) de este artículo y surtirá efectos en cada caso desde la fecha de vigencia de la disposición modificadora de la base mínima de cotización.
+
+2.7 Las opciones a que se refieren los apartados 2.1 y 2.3 anteriores que se ejerciten con posterioridad a la suscripción del convenio especial deberán efectuarse antes del primero de octubre de cada año y tendrán efectos desde el día 1 de enero del año siguiente a la fecha de solicitud.
+
+La renuncia a estas opciones podrá realizarse en el mismo plazo y tendrá efectos desde el 1 de enero del año siguiente al de la formulación de la renuncia.
+
+> Se modifica el apartado 2.1.b), con efectos de 1 de junio de 2024, por la disposición final 1.2 de la Orden ISM/386/2024, de 29 de abril. [Ref. BOE-A-2024-8713](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8713)
+
+> Se modifican los apartados 2.1.c) y 2.2, por la disposición final 1.1 y 2 de la Orden PCM/74/2023, de 30 de enero. [Ref. BOE-A-2023-2472](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2472)
+
+> Esta modificación produce efectos desde el día 1 de enero de 2023, según establece la disposición final cuarta de la citada Orden.
+
+> Se modifica el apartado 2.1 por el art. único.1 de la Orden TAS/482/2008, de 22 de febrero. [Ref. BOE-A-2008-3744](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3744).
+
+> Se modifica el apartado 2.1.a) por el art. único.1 de la Orden TAS/819/2004, de 12 de marzo. [Ref. BOE-A-2004-5750](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5750).
+
+#### Artículo 7. Tipo de cotización y determinación de la cuota.
+
+1\. El tipo de cotización por convenio especial será único y estará constituido por el vigente en cada momento en el Régimen General de la Seguridad Social.
+
+2\. Para determinar la cuota a ingresar por convenio especial se actuará de la forma siguiente:
+
+a) Se calculará la cuota íntegra aplicando a la base de cotización que corresponda el tipo único de cotización vigente en el Régimen General.
+
+b) El resultado obtenido se multiplicará por el coeficiente o coeficientes reductores aplicables, en función de la acción protectora dispensada por el convenio especial, y el producto que resulte constituirá la cuota líquida a ingresar.
+
+A estos efectos, los coeficientes a aplicar para la cotización en la situación de convenio especial serán los fijados anualmente por el Ministerio de Trabajo y Asuntos Sociales.
+
+c) Cuando los efectos iniciales o finales del convenio especial no sean coincidentes con el primero o el último día del mes, la cuota mensual se dividirá por 30 y el cociente se multiplicará por los días del mes que tenga o haya tenido efectos el convenio.
+
+#### Artículo 8. Sujetos responsables del cumplimiento de la obligación de cotizar y plazo.
+
+1\. Conforme a lo establecido en el apartado 1.1.ª m) del artículo 9 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por el Real Decreto 1637/1995, de 6 de octubre, en la situación de convenio especial es sujeto responsable del cumplimiento de la obligación de cotizar a la Seguridad Social el comprometido en el convenio a abonar a su cargo el importe de la cuota correspondiente en los términos que el convenio establezca y, en su caso, aquel a quien se imponga expresamente dicha obligación en esta Orden u otra norma específica.
+
+No obstante, podrán actuar como sustitutos de los trabajadores o asimilados que suscriban el convenio especial o, en su caso, de los empresarios obligados al pago de la aportación correspondiente las personas físicas o jurídicas que asuman voluntariamente esta obligación con autorización expresa de dichos trabajadores, empresarios o asimilados. En tales casos y a los solos efectos de facilitar la liquidación y cumplimiento de la obligación de cotizar en virtud del convenio especial, la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la misma correspondiente dará traslado de una copia de dicho convenio especial a la persona física o jurídica que sustituya al empresario o al trabajador o asimilado en el cumplimiento de la obligación de ingresar las cuotas respectivas.
+
+La sustitución en la persona del deudor hecha sin consentimiento expreso de la Tesorería General de la Seguridad Social no liberará al suscriptor del convenio, sin perjuicio de que, si el sustituto realizare el pago, éste se considere efectuado por tercero con los efectos previstos en el apartado 3 del artículo 15 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social.
+
+2\. El plazo reglamentario de ingreso de las cuotas correspondientes será el establecido en el apartado 3.1 del artículo 66 de la Orden Ministerial de 26 de mayo de 1999, por la que se desarrolla el Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social.
+
+#### Artículo 9. Acción protectora.
+
+1\. En las situaciones de alta o asimiladas a la de alta por convenio especial, al producirse el respectivo hecho causante se otorgarán, si se reúnen los requisitos necesarios, las prestaciones correspondientes derivadas de contingencias comunes a excepción de los subsidios por incapacidad temporal, maternidad y riesgo durante el embarazo, quedando asimismo excluidas la protección por Desempleo, Fondo de Garantía Salarial y Formación Profesional, sin perjuicio de lo que con carácter de especialidad se establece en el Capítulo II de esta Orden.
+
+2\. Las prestaciones señaladas en el apartado anterior se reconocerán con arreglo a las normas que las regulan en el Régimen o Regímenes de la Seguridad Social en los que figure incluido el suscriptor del convenio especial.
+
+#### Artículo 10. Suspensión y extinción del convenio especial.
+
+1\. El convenio especial con la Seguridad Social regulado en la presente Orden quedará suspendido, respecto de la obligación de cotizar y la protección correspondiente, durante los períodos de actividad del trabajador o asimilado que lo hubiera suscrito cuando los mismos, tanto si tienen carácter continuo como discontinuo, determinen su encuadramiento en el campo de aplicación de alguno de los Regímenes de la Seguridad Social, siempre que la base de cotización a éste sea inferior a la base de cotización aplicada en el convenio especial, salvo que el suscriptor del convenio especial manifieste expresamente su voluntad de que el convenio se extinga o que el mismo siga vigente, en cuyo caso se estará a lo especialmente previsto en el artículo 23 de esta Orden.
+
+A tales efectos, la realización de las actividades que den lugar a dicha suspensión habrá de ser comunicada, por el suscriptor del convenio o por su representante, a la respectiva Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la misma correspondiente, dentro de los diez días naturales siguientes a la citada reanudación de actividades, produciendo efectos la suspensión del convenio especial desde el día anterior al de la incorporación al trabajo. Si se notificare después de dicho plazo, la suspensión únicamente surtirá efectos desde la fecha de comunicación.
+
+Finalizada la causa determinante de la suspensión del convenio especial, podrá reanudarse la efectividad del convenio que se tenía suscrito desde el día siguiente a aquel en que finalizó la causa de la suspensión, si el interesado efectúa comunicación al respecto a la correspondiente Dirección Provincial de la Tesorería o Administración de la misma dentro del mes natural siguiente a aquel en que se produjo el cese en el trabajo determinante de la suspensión. Si se comunicara después de dicho plazo, la reanudación de la efectividad del convenio se producirá desde el día de la presentación de la comunicación, salvo que hubiere efectuado con anterioridad cotizaciones por el convenio, en cuyo caso la reanudación se producirá desde la fecha de efectos del primer pago, en plazo reglamentario, posterior a la fecha en que se haya producido el cese en el trabajo determinante de la suspensión.
+
+2\. El convenio especial se extinguirá por cualquiera de las siguientes causas:
+
+a) Por quedar el interesado comprendido, por la realización de actividad, en el campo de aplicación del mismo Régimen de Seguridad Social en el que se suscribiera el convenio o en otro Régimen de los que integran el Sistema de la Seguridad Social, siempre que el trabajador o asimilado que lo suscribiere preste sus servicios o ejerza su nueva actividad a tiempo completo o a tiempo parcial, por tiempo indefinido o por duración determinada, con carácter continuo o discontinuo, y la nueva base de cotización que corresponda sea igual o superior a la base de cotización del convenio especial.
+
+No obstante, no se producirá la extinción del convenio especial por esta causa, salvo que el interesado manifieste expresamente lo contrario, en los casos de pluriempleo o pluriactividad en los términos establecidos en el Capítulo II de esta Orden.
+
+b) Por adquirir el interesado la condición de pensionista por jubilación o de incapacidad permanente en cualquiera de los Regímenes del Sistema de Seguridad Social.
+
+c) Por falta de abono de las cuotas correspondientes a tres mensualidades consecutivas o a cinco alternativas, salvo causa justificada de fuerza mayor debidamente acreditada. En estos casos el interesado no podrá suscribir nuevo convenio especial hasta que se encuentre al corriente en el pago de las cuotas adeudadas por convenio anterior, en cuyo caso el nuevo convenio únicamente surtirá efectos desde el día de la nueva solicitud.
+
+d) Por fallecimiento del interesado.
+
+e) Por decisión del interesado, comunicada por escrito o por medios técnicos a la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración correspondiente de la misma. En este caso, la extinción del convenio especial tendrá lugar a partir del día primero del mes siguiente a la fecha de la comunicación.
+
+No se extinguirá el convenio especial por desplazamiento del suscriptor al extranjero aunque este desplazamiento supere el plazo de 90 días o, en su caso, la prórroga que pueda concederse, tanto si el trabajador o asimilado queda incluido como si queda excluido del campo de aplicación de la Seguridad Social en el país al que se desplace el suscriptor del convenio.
+
+## CAPÍTULO II — Modalidades de convenio especial
+
+### Sección 1.ª Convenios especiales con determinados órganos u organismos en favor de sus miembros
+
+#### Artículo 11. Convenios especiales aplicables a los Diputados y Senadores de las Cortes Generales y a los Diputados del Parlamento Europeo.
+
+1\. Las Cortes Generales y la Tesorería General de la Seguridad Social podrán suscribir un convenio especial o revisar los ya suscritos con las mismas respecto de estos Diputados y Senadores al amparo de lo dispuesto en las Órdenes de 29 de julio de 1982 y de 1 de junio de 1988, todo ello de acuerdo con los criterios que se fijan en este artículo.
+
+2\. Las Cortes Generales podrán suscribir convenio especial respecto de aquellos Senadores y Diputados que lo deseen a efectos de su inclusión en el Régimen General de la Seguridad Social, aun cuando con anterioridad aquéllos hubieren estado encuadrados en alguno de los Regímenes del Sistema de la Seguridad Social.
+
+3\. La suscripción de este convenio especial determinará para los beneficiarios la consideración de situación asimilada a la de alta en el Régimen General de la Seguridad Social a partir de la fecha de constitución de la legislatura para la que fueron elegidos o, en su caso, desde la posterior fecha de adquisición de la condición de Senador o Diputado de Las Cortes Generales o a partir de la fecha de la solicitud por los Diputados al Parlamento Europeo, siempre que previamente hubiera perfeccionado su condición de acuerdo con lo dispuesto en el artículo 224 de la Ley Orgánica 5/1985, de 19 de junio, y, en uno u otro caso, hasta la fecha de extinción del convenio especial, conforme a lo previsto en el apartado 6 de este artículo.
+
+4\. La acción protectora para los beneficiarios de este convenio especial abarcará la totalidad de la acción protectora del Régimen General de la Seguridad Social, incluida la correspondiente a contingencias profesionales, pero quedarán excluidos de la protección y correspondiente cotización por Desempleo, Fondo de Garantía Salarial y Formación Profesional.
+
+5\. El convenio especial determinará la obligación de cotizar respecto de los miembros de las Cortes Generales y al Parlamento Europeo incluidos en el mismo hasta la fecha de constitución de la legislatura siguiente o hasta la fecha de extinción de su mandato, respecto de los que por cualquier causa perdieren la condición de Senador o Diputado durante la legislatura para la que fueron elegidos.
+
+Respecto de los Diputados y Senadores de las Cortes Generales y de los Diputados al Parlamento Europeo acogidos al convenio, no existirá obligación de cotizar por los conceptos de recaudación conjunta con las cuotas de Seguridad Social.
+
+5.1 La base mensual de cotización de los Diputados y Senadores acogidos al convenio especial estará constituida por la asignación que perciba cada Diputado o Senador por su condición de parlamentario hasta la base máxima vigente del grupo 1 de los grupos de cotización por categorías profesionales del Régimen General establecida para cada ejercicio en la respectiva Ley de Presupuestos Generales del Estado.
+
+En los casos de pluriactividad, se aplicarán las reglas de cotización correspondientes a cada Régimen de la Seguridad Social en que el Senador o Diputado quede incluido y en alta o en situación asimilada a la de alta.
+
+5.2 El tipo de cotización para las contingencias comunes será el vigente en cada momento en el Régimen General.
+
+Para las contingencias de accidentes de trabajo y enfermedades profesionales se aplicará el epígrafe 113 de la tarifa de primas aprobada por el Real Decreto 2930/1979, de 29 de diciembre, por el que se revisa la tarifa de primas para la cotización a la Seguridad Social por accidentes de trabajo y enfermedades profesionales, sin perjuicio de lo que al efecto establezca la Ley de Presupuestos Generales de Estado para cada ejercicio.
+
+5.3 La liquidación e ingreso de las cotizaciones se efectuará por las Cortes Generales de conformidad con lo establecido en la normativa aplicable al Régimen General de la Seguridad Social
+
+6\. El convenio especial a que se refiere el presente artículo se extinguirá cuando el Senador o Diputado cese en su mandato por cualquier causa. No obstante, en caso de disolución de las Cortes Generales o del Parlamento Europeo, la situación de asimilación al alta por convenio especial quedará prorrogada hasta la fecha de constitución de la legislatura siguiente, en cuyo momento se extinguirá el convenio respecto de los Diputados y Senadores que no hubieran sido elegidos para la nueva legislatura.
+
+#### Artículo 12. Convenios especiales respecto de los miembros de los Parlamentos y Gobiernos de las Comunidades Autónomas.
+
+1\. El convenio especial con la Tesorería General de la Seguridad Social y los Parlamentos de las Comunidades Autónomas en favor de sus miembros se regirá por lo establecido en el Real Decreto 705/1999, de 30 de abril, por el que se modifica la regulación relativa a la suscripción del convenio especial con la Administración de la Seguridad Social por los Parlamentos de las Comunidades Autónomas en favor de sus miembros.
+
+2\. El convenio especial con la Tesorería General de la Seguridad Social y los Gobiernos de las Comunidades Autónomas en favor de sus miembros se regirá por lo dispuesto en la Orden de 7 de diciembre de 1981, por la que se regula la suscripción de convenio especial con las Entidades Gestoras de la Seguridad Social por los Gobiernos y Parlamentos de las Comunidades Autónomas, a favor de sus miembros, en la parte de la misma no derogada por el citado Real Decreto 705/1999, de 30 de abril.
+
+3.**(Suprimido)**
+
+> Se suprime el apartado 3 por el art. único.4 de la Orden TAS/3862/2004, de 22 de noviembre. [Ref. BOE-A-2004-20020](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20020).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+### Sección 2.ª Convenios especiales para los que presten servicios en la Administración de la Unión Europea y en Organizaciones Internacionales
+
+#### Artículo 13. Convenio especial para los incluidos en el campo de aplicación del Sistema de Seguridad Social español que pasen a prestar servicios en la Administración de la Unión Europea.
+
+Los incluidos en el ámbito de aplicación del Sistema español de Seguridad Social que pasen a prestar servicios en la Administración de la Unión Europea y que, por ejercer el derecho de opción que les concede el artículo 11, apartado 2, del anexo VIII del Estatuto de Funcionarios de la Unión Europea, causen baja en el Sistema español de Seguridad Social, conforme a lo establecido en la Disposición Adicional Quinta del Texto Refundido de la Ley General de la Seguridad Social, desarrollada por el Real Decreto 2072/1999, de 30 de diciembre, sobre transferencias recíprocas de derechos entre el sistema de previsión social del personal de las Comunidades Europeas y los regímenes públicos de previsión social españoles, podrán continuar en situación asimilada a la de alta en el Sistema de Seguridad Social español si continuaren acogidos al convenio especial con el mismo que tuvieren suscrito con anterioridad o lo suscribieran posteriormente en el plazo, condiciones y efectos establecidos en el Capítulo I de la presente Orden. En todo caso, quedarán excluidos de la obligación de cotizar por el convenio especial respecto de las contingencias de jubilación y muerte y supervivencia y, consiguientemente, de la acción protectora cubierta por el mismo en relación con esas contingencias.
+
+#### Artículo 14. Convenio especial para los españoles que ostenten la condición de funcionarios o empleados de organizaciones internacionales intergubernamentales.
+
+La suscripción del convenio especial a que se refieren los Reales Decretos 2805/1979, de 7 de diciembre; 1975/1982, de 24 de julio, 317/1985, de 6 de febrero, y 1658/1998, de 24 de julio; se regirá por lo dispuesto en el Capítulo I de la presente Orden, con las particularidades siguientes:
+
+1\. Podrán suscribir esta modalidad de convenio especial las personas que reúnan los siguientes requisitos:
+
+a) Ser español que ostenta la condición de empleado o funcionario de organismos internacionales intergubernamentales.
+
+La condición de funcionario o empleado de dichas Organizaciones se acreditará mediante certificación expedida por el correspondiente Organismo, refrendada por el Ministerio de Asuntos Exteriores.
+
+b) No residir en territorio nacional, salvo que se trate de españoles residentes en España que presten servicios en las sedes centrales del Consejo Oleícola Internacional, de ONU Turismo, de la Organización de Estados Iberoamericanos para la Educación, la Ciencia y la Cultura y del Centro de Satélites de la Unión Europea; en los emplazamientos en España de la Agencia Espacial Europea; en la Delegación en España del Alto Comisionado de las Naciones Unidas para los Refugiados; en el Centro de las Naciones Unidas de Tecnología de la Información y las Comunicaciones en Valencia (UNICTF-V); en la subsede en España del Laboratorio Europeo de Biología Molecular o en otro organismo internacional con sede en España que se determine.
+
+c) No tener la condición de funcionario de las Administraciones Públicas españolas que den lugar a la inclusión en algún Régimen de los que integran el Sistema de Seguridad Social español.
+
+2\. La suscripción de esta modalidad de convenio especial determina la afiliación al Sistema de Seguridad Social y la situación de asimilada a la de alta en el Régimen General de la Seguridad Social, con limitación de la cotización y la protección por las contingencias de jubilación, incapacidad permanente y muerte y supervivencia derivadas de enfermedad común y accidente no laboral, así como de los Servicios Sociales que, en su caso, tenga establecidos la Seguridad Social.
+
+No obstante, los españoles residentes en territorio nacional que puedan suscribir esta modalidad de convenio especial, que presten sus servicios en las Organizaciones Internacionales Intergubernamentales con sede, oficinas de representación o delegación en España y no tengan derecho a la asistencia sanitaria, con carácter obligatorio, en cualquier Régimen del Sistema de la Seguridad Social podrán solicitar la inclusión de la asistencia sanitaria por contingencias comunes dentro del ámbito de protección de este convenio especial, o la celebración de un convenio especial limitado únicamente a las prestaciones de asistencia sanitaria, con la cotización correspondiente, tanto para el interesado como para sus familiares, en las condiciones y con la amplitud establecida en el Régimen General para las contingencias comunes.
+
+2.1 La base mensual de cotización será la que elija el interesado entre las fijadas en el apartado 2.1 del artículo 6 de esta Orden, con la particularidad de que la base elegida no podrá sufrir otras modificaciones hasta transcurridos tres años desde la fecha de la elección. Cumplido dicho plazo, podrán elegir otra base de las establecidas en dicho artículo 6, antes del 1 de octubre de cada año, para que surta efectos el 1 de enero siguiente.
+
+2.2 El tipo de cotización aplicable será el vigente en cada momento en el Régimen General de la Seguridad Social, con aplicación, a la cuota íntegra resultante, del coeficiente reductor que fije el Ministerio de Trabajo y Asuntos Sociales en cada ejercicio.
+
+> Se modifica la letra b) del apartado 1 por el art. único de la Orden ISM/1199/2025, de 23 de octubre. [Ref. BOE-A-2025-21730](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21730)
+
+> Se modifica la letra b) del apartado 1 por el art. único de la Orden ISM/1385/2023, de 21 de diciembre. [Ref. BOE-A-2023-26464](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-26464)
+
+> Se modifica el párrafo primero del apartado 1.a) por el art. único.2 de la Orden TAS/819/2004, de 12 de marzo. [Ref. BOE-A-2004-5750](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5750).
+
+### Sección 3.ª Convenios especiales para emigrantes e hijos de éstos y de pensionistas de un sistema de previsión social extranjero residentes en España
+
+#### Artículo 15. Convenio especial para los emigrantes españoles e hijos de estos que trabajen en el extranjero.
+
+1\. De conformidad con lo dispuesto en el Real Decreto 996/1986, de 25 de abril, por el que se regula la suscripción de convenio especial de los emigrantes e hijos de emigrantes, podrán solicitar y suscribir esta modalidad de convenio especial, con el alcance que se determina en el artículo 2 de dicho Real Decreto:
+
+1.1 Los emigrantes españoles y los hijos de estos que posean nacionalidad española, con independencia de que con anterioridad hayan estado o no afiliados a la Seguridad Social española, e independientemente del país en el que trabajen y de que dicho país tenga o no suscrito con España acuerdo o convenio en materia de Seguridad Social.
+
+1.2 Los emigrantes españoles y los hijos de estos que posean nacionalidad española y sea cual fuese el país en el que trabajen, en el momento de su retorno a territorio español, siempre que no se hallen incluidos obligatoriamente en algún régimen público de protección social en España.
+
+1.3 Los seglares, misioneros y cooperantes, dependientes de la Conferencia Episcopal, Diócesis, Órdenes, Congregaciones y otras Instituciones religiosas así como de organizaciones no gubernamentales, que tengan nacionalidad española y que sean enviados por sus respectivas organizaciones o instituciones a los países extranjeros, sin mediar relación laboral con éstas, los cuales, en los supuestos a que se refieren los apartados precedentes, tendrán la consideración de emigrantes a los solos efectos de la suscripción de esta modalidad de convenio especial.
+
+1.4 Los españoles que, sin haber estado previamente afiliados al sistema de la Seguridad Social, participen en el extranjero en programas formativos o de investigación de forma remunerada, cualquiera que sea el concepto o la forma de la remuneración que perciban, sin quedar vinculados por una relación laboral, los cuales tendrán la consideración de emigrantes a los solos efectos de la suscripción de esta modalidad de convenio especial
+
+2\. La solicitud para suscribir esta modalidad de convenio especial podrá formularse en cualquier momento y en los lugares indicados en el artículo 3.2 de esta orden, a efectos de su tramitación por la dirección provincial de la Tesorería General de la Seguridad Social de Madrid, en los supuestos previstos en los apartados 1.1, 1.3 y 1.4, y por la dirección provincial de la Tesorería General de la Seguridad Social o administración de la Seguridad Social correspondiente al domicilio donde se haya fijado la residencia, en el supuesto previsto en el apartado 1.2.
+
+2.1 La estancia en el extranjero podrá acreditarse mediante copia del permiso de residencia o de estancia expedido por las autoridades correspondientes del país de inmigración, compulsada por la consejería de trabajo e inmigración española o consulado español en dicho país, o mediante certificado de inscripción en el registro de matrícula de la embajada o consulado español que corresponda.
+
+2.2 El trabajo, la prestación de servicios o la formación en el extranjero podrá acreditarse por cualquier medio admitido en derecho y, en especial, por alguno de los siguientes:
+
+a) En el supuesto previsto en el apartado 1.1, mediante copia del permiso de trabajo expedido por las autoridades correspondientes del país de inmigración, compulsada por la consejería de trabajo e inmigración española o consulado español en dicho país, o mediante certificado del trabajo expedido por la empresa, compulsado y traducido por la consejería o consulado indicados.
+
+b) En el supuesto previsto en el apartado 1.3, mediante certificado de la condición de seglar, misionero o cooperante enviado al extranjero, expedida por la organización o institución de la que aquél dependa.
+
+c) En el supuesto previsto en el apartado 1.4, mediante certificado de la participación en programas formativos o de investigación expedido por la empresa, entidad o institución que corresponda, compulsado y traducido por la consejería de trabajo e inmigración española o consulado español.
+
+2.3 A efectos de acreditar el retorno a territorio español, será necesario aportar el certificado de baja en el Registro de Matrícula Consular y autorizar a la Tesorería General de la Seguridad Social para comprobar los datos del domicilio y residencia en España mediante consulta al Sistema de Verificación de Datos de Residencia previsto en el Real Decreto 523/2006, de 28 de abril, por el que se suprime la exigencia de aportar el certificado de empadronamiento, como documento probatorio del domicilio y residencia, en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes. De no otorgarse dicha autorización o cuando el empadronamiento se haya realizado en los dos últimos meses, será necesario aportar el certificado de alta en el padrón municipal correspondiente.
+
+3\. La suscripción de esta modalidad de convenio especial determina la situación asimilada a la de alta en el Régimen General respecto de las contingencias de jubilación, así como incapacidad permanente o muerte y supervivencia debidas a cualquier contingencia y surtirá efectos en todo caso desde el día primero del mes siguiente al de la fecha de presentación de la solicitud en cualquiera de los lugares previstos en el artículo 38.4 de la Ley 30/1992, de 26 de noviembre.
+
+4\. La base mensual de cotización en esta modalidad de convenio especial será en todos los casos la base mínima de cotización que, en cada momento, se halle establecida en el Régimen General de la Seguridad Social, aplicando a la misma el tipo y las normas para la determinación de la cuota establecidas en el artículo 7 de la presente Orden.
+
+5\. El plazo reglamentario de ingreso de las cuotas correspondientes será el establecido en el apartado 2 del artículo 8 de esta Orden, salvo cuando se trate de convenio especial suscrito por los emigrantes residentes en el extranjero, en cuyo caso se ingresarán por trimestres vencidos dentro del mes siguiente a cada trimestre natural.
+
+6\. Esta modalidad de convenio especial se extinguirá por las causas establecidas en el apartado 2 del artículo 10 de esta Orden, pero la causa prevista en su apartado c) en esta modalidad de convenio estará referida, para los suscriptores del mismo que no residan en España, a la falta de pago en plazo reglamentario de las cuotas correspondientes a dos trimestres consecutivos.
+
+> Se añade el apartado 1.4 y se modifica el apartado 2 por el art. único.4 y 5 de la Orden TIN/3356/2011, de 30 de noviembre. [Ref. BOE-A-2011-19173](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-19173).
+
+> Se añade el apartado 1.3 por el art. único.3 de la Orden TAS/819/2004, de 12 de marzo. [Ref. BOE-A-2004-5750](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5750).
+
+> Redactado el apartado 2.1 conforme a la corrección de errores publicada en BOE núm. 28, de 2 de febrero de 2004. [Ref. BOE-A-2004-1899](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1899).
+
+#### Artículo 16. Convenio especial para la cobertura de la asistencia sanitaria a emigrantes trabajadores y pensionistas de un sistema de previsión social extranjero que retornen a territorio nacional y a familiares de los mismos.
+
+1\. Esta modalidad de convenio especial tiene como objeto el otorgamiento de las prestaciones de asistencia sanitaria, dentro del territorio español y en la extensión establecida para la misma, por las contingencias comunes de accidente no laboral, enfermedad común, maternidad y riesgo durante el embarazo en el Régimen General de la Seguridad Social.
+
+Las prestaciones de asistencia sanitaria se harán extensivas a los tratamientos que fueren precisos por consecuencia de accidente de trabajo o enfermedad profesional acaecidos en el extranjero al emigrante retornado o desplazado titular del convenio.
+
+2\. Esta modalidad de convenio especial podrá solicitarse y suscribirse para las siguientes personas:
+
+2.1 Los españoles que sean pensionistas de un sistema de previsión social extranjero cuando, al trasladar su residencia a España, no tengan derecho a la asistencia sanitaria por cuenta y a cargo del país extranjero.
+
+También podrán solicitar o suscribir este convenio especial los familiares de los españoles pensionistas de otra Seguridad Social que estuviesen incluidos como beneficiarios en el convenio especial de asistencia sanitaria del causante en el momento del fallecimiento de éste.
+
+Asimismo, podrán solicitar y suscribir esta modalidad de convenio especial, en general, los trabajadores españoles retornados a España que, después de haber desarrollado sus actividades laborales en el extranjero, no tuvieren derecho por título alguno a las prestaciones de asistencia sanitaria de acuerdo con las disposiciones de la legislación de Seguridad Social española, las del Estado de procedencia o de los convenios establecidos al efecto.
+
+También podrán suscribirlo los familiares de emigrantes españoles que en el momento de fallecimiento de éstos estuviesen a su cargo y no tuvieren derecho por otro título a las prestaciones de asistencia sanitaria objeto de esta modalidad de convenio.
+
+El solicitante deberá acompañar a la solicitud los documentos que acrediten los hechos siguientes:
+
+a) Que ostenta la nacionalidad española.
+
+b) Que es titular de un seguro de pensiones o, en su caso, de rentas o de cantidades a tanto alzado sustitutivas de las anteriores exclusivamente en virtud de legislación de Previsión Social o de Seguridad Social distinta de la española.
+
+c) La fecha de fijación de su residencia habitual en España.
+
+d) La existencia, en su caso, de familiares a su cargo que, con arreglo a las normas del Régimen General de la Seguridad Social, puedan ser beneficiarios de las prestaciones de asistencia sanitaria.
+
+e) Cuando el objeto de esta modalidad de convenio especial tenga además por objeto la inclusión de las prestaciones de asistencia sanitaria a los tratamientos precisos como consecuencia de contingencias profesionales ocurridas en el extranjero al titular del derecho, el interesado deberá acreditar que la pensión, renta o cantidad a tanto alzado de la que el causante es o ha sido beneficiario tiene o ha tenido su causa en alguna de tales contingencias.
+
+2.2 Podrán también solicitar la suscripción de esta modalidad de convenio especial los emigrantes españoles y sus familiares que sean beneficiarios de prestaciones derivadas de un seguro de pensiones o de rentas en el país en que desarrollaran su actividad, durante sus estancias temporales en España, y que acrediten los demás hechos que se indican en el anterior apartado 2.1 de este mismo artículo.
+
+Cuando los familiares que soliciten y pretendan suscribir el convenio sean varios, la solicitud deberá ser formulada y el convenio deberá ser suscrito conjuntamente por todos y cada uno de ellos, respondiendo solidariamente de las obligaciones que del mismo se deriven. Cuando se trate de menores o incapacitados, la solicitud y la suscripción será efectuada por la persona que los represente y solamente podrán ser beneficiarios de las prestaciones derivadas del Convenio los propios familiares que lo suscriban, ya sea por sí mismos o a través de la persona que los represente.
+
+3\. La solicitud de esta modalidad de convenio especial podrá ser formulada por el interesado en cualquier momento posterior a la fecha de retorno o desplazamiento temporal al territorio español o al traslado de su residencia a España.
+
+Las solicitudes de los familiares que puedan suscribir este convenio especial podrán formularse desde el día siguiente al de la fecha de fallecimiento del causante, si aquél se produce en territorio español, o desde la fecha de retorno a España de sus familiares, si la defunción del emigrante tiene lugar fuera del territorio español.
+
+4\. El convenio especial a que se refiere este artículo surtirá efectos a partir del día de presentación de la solicitud correspondiente.
+
+5\. El suscriptor del convenio especial abonará la cuota mensual fijada anualmente por el Ministro de Trabajo y Asuntos Sociales y que se ingresará en el plazo señalado en el apartado 3.1 del artículo 66 de la Orden de 26 de mayo de 1999, con la particularidad de que, en el convenio especial suscrito por emigrantes españoles pensionistas o perceptores de rentas y sus familiares que se desplacen temporalmente a España, la Tesorería General de la Seguridad Social, al tiempo de la suscripción del convenio, emitirá los documentos de cotización correspondientes a todo el período de permanencia en España y el sujeto obligado realizará el ingreso de dichas cuotas de una sola vez y con carácter previo a la entrega del documento por el que se le reconozca el derecho a la asistencia sanitaria, aunque los efectos de la cobertura de dicha prestación se produzcan desde la fecha de la solicitud del convenio.
+
+No obstante, la Tesorería General de la Seguridad Social podrá autorizar, previa solicitud del interesado, el pago fraccionado mensual de las cuotas en supuestos de estancias temporales cuya duración sea superior a tres meses. En tal caso, una vez efectuado como mínimo el pago de tres mensualidades completas de una sola vez, el abono del resto de las cuotas se efectuará dentro del mismo mes a que corresponda la liquidación mediante el boletín de cotización antes indicado.
+
+#### Artículo 17. Convenio especial de asistencia sanitaria respecto de trabajadores españoles que realicen una actividad por cuenta propia en el extranjero.
+
+El convenio especial de asistencia sanitaria entre la Tesorería General de la Seguridad Social y los emigrantes españoles en el exterior que pudieran tener la consideración de trabajadores por cuenta propia a efectos de su inclusión en los Regímenes Especiales de Trabajadores por Cuenta Propia o Autónomos, Agrario y de los Trabajadores del Mar del Sistema Español de Seguridad Social, siempre que su actividad se realice en un país extranjero con el que España no tenga ratificado convenio internacional de Seguridad Social o que, teniéndolo, el mismo no regule o no garantice debidamente la prestación de asistencia sanitaria a los referidos trabajadores por cuenta propia en el exterior, en los supuestos de estancia de los mismos y sus familiares en territorio español o de residencia de estos últimos en el referido territorio, se regirá por el Real Decreto 1564/1998, de 17 de julio, por el que se regula este convenio especial y, en lo que en el mismo no se halle previsto, por las normas del capítulo I de esta Orden.
+
+### Sección 4.ª Otros convenios especiales respecto de determinados trabajadores
+
+#### Artículo 18. Convenio especial durante la situación de alta especial como consecuencia de huelga legal o cierre patronal.
+
+1\. Los trabajadores que se encuentren en la situación de alta especial, prevista en el Real Decreto-Ley 17/1977, de 4 de marzo, y regulada por la Orden del Ministerio de Trabajo de 30 de abril de 1977, podrán suscribir con la Tesorería General de la Seguridad Social convenio especial cuyo objeto será el de completar las bases de cotización correspondientes a las contingencias de incapacidad permanente y muerte y supervivencia, derivadas de enfermedad común y accidente no laboral, jubilación y servicios sociales durante el período de huelga legal o cierre patronal legal.
+
+2\. Esta modalidad de convenio especial se rige por lo dispuesto en el capítulo I de esta Orden con las particularidades siguientes:
+
+2.1 La base de cotización será la siguiente:
+
+2.1.1 En los casos de huelga legal total o cierre patronal legal, la base diaria de cotización será el promedio de las bases de cotización por las que hubiera venido cotizando el trabajador durante el mes anterior a la fecha de inicio de la huelga total o del cierre patronal.
+
+2.1.2 En los supuestos de huelga legal parcial, la base diaria de cotización será la diferencia entre la base de cotización calculada conforme al apartado 2.1.1 anterior y la base por la que se cotice diariamente por el trabajador durante la situación de huelga legal parcial.
+
+2.2 El efecto de la suscripción de este convenio especial será la de alta especial, respecto del conjunto de la acción protectora del Régimen de que se trate, de conformidad con lo previsto en el artículo 2 de la citada Orden de 30 de abril de 1977.
+
+#### Artículo 19. Convenio especial durante las situaciones de permanencia en alta sin retribución, cumplimiento de deberes públicos, permisos y licencias.
+
+1\. Podrán suscribir esta modalidad de convenio especial los trabajadores que se encuentren en situación de alta sin retribuciones, cumplimiento de deberes de carácter público, permisos y licencias que no den lugar a excedencia en el trabajo, en las que, conforme a lo establecido en el artículo 69 del Reglamento General sobre Cotización y Liquidación de otros Derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre, se mantenga la obligación de cotizar, si la base de cotización del mes natural anterior a la fecha de iniciación de tales situaciones fuere superior a la base mínima correspondiente al grupo de la categoría profesional del trabajador.
+
+2\. La base de cotización en esta modalidad de convenio estará constituida por la diferencia entre la base de cotización del interesado en el mes anterior a la fecha de inicio de estas situaciones y la base mínima correspondiente al grupo de la categoría profesional del trabajador.
+
+3\. La suscripción de este convenio especial determinará la situación de alta respecto del conjunto de la acción protectora del régimen en que figure incluido dicho trabajador o asimilado.
+
+#### Artículo 20. Convenio especial a suscribir en procedimientos de despido colectivo que incluyan a trabajadores con 55 o más años.
+
+El Convenio especial celebrado en relación con los procedimientos de despido colectivo de empresas no incursas en procedimiento concursal que incluyan trabajadores con 55 o más años de edad que no tuvieren la condición de mutualistas el 1 de enero de 1967, a que se refiere el artículo 51.9 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, se regirá por lo establecido en la disposición adicional decimotercera del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, así como por las disposiciones contenidas en el capítulo I de esta orden, con las particularidades señaladas en los siguientes apartados:
+
+1\. La solicitud de esta modalidad de Convenio especial deberá formularse por el empresario durante la tramitación del procedimiento de despido colectivo y, en todo caso, hasta la fecha en que el empresario notifique individualmente el despido a cada trabajador afectado conforme a lo establecido en el artículo 51.4 del texto refundido de la Ley del Estatuto de los Trabajadores.
+
+El Convenio especial será suscrito por el empresario y el trabajador, por un lado, y la Tesorería General de la Seguridad Social, por otro.
+
+2\. En el caso de que el empresario no proceda a la solicitud del Convenio especial en los términos señalados en el apartado anterior, el trabajador afectado podrá solicitar el Convenio especial dentro de los seis meses naturales siguientes a la fecha en que el empresario le notifique individualmente el despido.
+
+En este supuesto, el Convenio especial será suscrito por el trabajador y la Tesorería General de la Seguridad Social. Recibida la solicitud, la Tesorería General de la Seguridad Social concederá trámite de audiencia al empresario para que, en el plazo de diez días, realice las alegaciones que estime pertinentes.
+
+Una vez finalizado dicho trámite de audiencia, se procederá a la firma del Convenio, del que se dará traslado al empresario junto con la notificación del importe total de las cuotas que debe ingresar a su exclusivo cargo.
+
+3\. Las cuotas correspondientes a estos Convenios especiales, determinadas conforme a lo dispuesto en el apartado 2 de la citada disposición adicional decimotercera del texto refundido de la Ley General de la Seguridad Social serán objeto de totalización por la Tesorería General de la Seguridad Social respecto de cada trabajador hasta que este cumpla 63 años de edad, o 61 años cuando el despido colectivo sea por causas económicas, y por todas las contingencias incluidas en la acción protectora del Convenio especial.
+
+Las cotizaciones a que se refiere el párrafo anterior serán a cargo exclusivo del empresario, que podrá optar, respecto de todos los trabajadores, por realizar un pago único de las mismas, en cuyo caso deberá manifestarlo por escrito a la Tesorería General de la Seguridad Social y efectuar su ingreso dentro del mes siguiente al de la notificación por parte de dicho servicio común de la cantidad a ingresar, o por solicitar de la Tesorería General de la Seguridad Social el fraccionamiento de su pago en tantas anualidades como años le falten al trabajador o trabajadores para cumplir la edad de 63 o, en su caso, de 61 años, con un máximo de ocho o seis años, respectivamente.
+
+De optarse por el pago fraccionado, el ingreso de la primera anualidad se deberá realizar en el plazo de treinta días naturales a partir de la notificación de la cantidad a ingresar, presentando en el mismo plazo, para responder de las cotizaciones pendientes, bien aval solidario suficiente a juicio de la Tesorería General de la Seguridad Social o bien sustituyendo, con el consentimiento de dicho servicio común, la responsabilidad del empresario por la de una entidad financiera inscrita o una entidad aseguradora debidamente autorizada, en los mismos términos que establece el apartado siguiente para el aval.
+
+El plazo para ingresar las anualidades fraccionadas distintas de la primera será el de los treinta días naturales inmediatamente anteriores a la iniciación de la anualidad de que se trate.
+
+En todo caso, estos pagos fraccionados deberán ser objeto de domiciliación en alguna de las entidades financieras habilitadas para actuar como oficinas recaudadoras en los términos establecidos en los Reglamentos generales de recaudación de la Seguridad Social y de la gestión financiera de la Seguridad Social y en sus respectivas normas de desarrollo.
+
+La falta de ingreso de las cotizaciones por este Convenio especial a cargo del empresario, en las formas, condiciones y plazos antes señalados, determinará su reclamación en los términos establecidos en el citado Reglamento general de recaudación de la Seguridad Social.
+
+4\. El aval a que se refiere el apartado anterior habrá de tener validez desde la fecha en que se produzca el cese en el trabajo o, en su caso, en que cese la obligación de cotizar por extinción de la prestación por desempleo contributivo y hasta, al menos, un año después del vencimiento de la anualidad o anualidades que garantiza.
+
+Dicho aval se ajustará al modelo que establezca la Tesorería General de la Seguridad Social y podrá ser presentado por:
+
+a) Una entidad financiera inscrita en el Registro Oficial de Bancos o Banqueros o una cooperativa de crédito inscrita en el Registro Especial del Banco de España. Para que puedan ser aceptados estos avales será necesario:
+
+1.º Que las firmas de los otorgantes del aval estén legitimadas o el documento intervenido por Notario colegiado.
+
+2.º Que conste en el aval su número de inscripción en el Registro Especial de Avales.
+
+3.º Que se acompañe copia, previamente cotejada con el original, de los poderes de las personas firmantes del aval.
+
+b) Una entidad aseguradora debidamente autorizada por el Ministerio de Economía y Empresa para operar en este ramo de caución. Para que puedan ser aceptados estos avales será necesario:
+
+1.º Que las firmas de los otorgantes del aval estén legitimadas o intervenido el documento por Notario.
+
+2.º Que conste el número de inscripción en el Registro Especial de Avales y el número de póliza a la que corresponde.
+
+3.º Que se acompañe copia de las condiciones generales y particulares de la póliza suscrita por el avalado con la compañía avalista.
+
+c) Una sociedad de garantía recíproca. Si el aval fuera prestado por este tipo de sociedad habrán de cumplirse los requisitos establecidos en la Ley 1/1994, de 11 de marzo, sobre el régimen jurídico de las sociedades de garantía recíproca, y demás normas complementarias, acompañando certificado expedido por el secretario del consejo de administración, con el visto bueno de su presidente, en el que se acredite la cantidad avalada y que la sociedad reúne todos los requisitos exigidos por la referida ley, debiendo tener dicha certificación legitimadas las firmas por Notario.
+
+5\. La base de cotización aplicada respecto de cada trabajador en esta modalidad de Convenio especial podrá ser incrementada en cada ejercicio a partir del cumplimiento de los 63 o, en su caso, 61 años, en los términos establecidos en los apartados 2.2 a 2.5 del artículo 6 de esta orden.
+
+Asimismo, la base de cotización aplicable en este Convenio especial respecto de los trabajadores menores de 63 o, en su caso, de 61 años, podrá ser incrementada en cada ejercicio conforme a lo establecido en los apartados 2.2 a 2.5 del artículo 6 de esta orden, en los siguientes términos:
+
+a) En los supuestos en que el Convenio especial se solicite por el empresario conforme a lo establecido en el apartado 1 de este artículo, cuando dicho incremento se pida, con carácter voluntario por el empresario o por el trabajador afectado o por ambos.
+
+A estos efectos, las partes interesadas suscribirán una cláusula adicional al Convenio por la que se determine el responsable del pago del incremento de cuotas resultante, siendo aplicable a la suspensión y extinción de dicha cláusula lo establecido en el artículo 10 de esta orden.
+
+b) En los supuestos en que el Convenio se solicite por el trabajador conforme a lo establecido en el apartado 2 de este artículo, cuando dicho incremento se solicite, con carácter voluntario, por el trabajador afectado.
+
+A estos efectos, el trabajador interesado suscribirá una cláusula adicional al Convenio para determinar su responsabilidad por el pago del incremento de cuotas resultante, siendo aplicable a la suspensión y extinción de dicha cláusula lo establecido en el artículo 10 de esta orden.
+
+6\. En los supuestos de fallecimiento del trabajador y de reconocimiento de una pensión de incapacidad permanente, a que se refiere el apartado 3 de la disposición adicional decimotercera del texto refundido de la Ley General de la Seguridad Social, así como en el supuesto del reconocimiento de una pensión de jubilación, el Convenio especial se extinguirá y la Tesorería General de la Seguridad Social procederá a devolver al empresario las cuotas ingresadas que correspondan al período posterior a la fecha de fallecimiento del trabajador o a la fecha de efectos de la pensión de incapacidad permanente o de jubilación que este hubiera causado, una vez efectuada la liquidación definitiva de la cotización correspondiente a este Convenio.
+
+7\. En el supuesto de realización de actividades por el trabajador durante el período de cotización a cargo del empresario, a que se refiere el apartado 4 de la disposición adicional decimotercera del texto refundido de la Ley General de la Seguridad Social, no procederá la devolución de las cuotas abonadas por este último, que deberá ingresar las anualidades a su cargo que, en su caso, aún estuvieran pendientes de pago, en los términos señalados en el apartado 2.
+
+Cuando el trabajador cumpla 63 o, en su caso, 61 años de edad, la Tesorería General de la Seguridad Social determinará el importe en que la cotización ingresada por el empresario ha resultado coincidente con la efectuada por la realización de actividades por parte del trabajador, acordando su aplicación al pago del Convenio especial durante el período a cargo de este último. La resolución por la que se adopte dicho acuerdo será notificada al empresario y al trabajador.
+
+En tanto no se haya aplicado la totalidad de la cotización realizada por el empresario, la realización de actividades por parte del trabajador no supondrá la extinción del Convenio especial, que únicamente quedará en suspenso si las bases de cotización que correspondan como consecuencia de dichas actividades son iguales o superiores a la de aquel.
+
+Si en la fecha de efectos de la pensión de jubilación que cause el trabajador y, en todo caso, en la fecha en que cumpla la edad a que se refieren el artículo 205.1.a) y la disposición transitoria séptima del texto refundido de la Ley General de la Seguridad Social no se hubiera aplicado al pago del Convenio especial la totalidad de la cotización a cargo del empresario que haya sido objeto de retención, la Tesorería General de la Seguridad Social procederá a la devolución del importe sobrante a este último. También procederá la devolución si el trabajador falleciese o causase una pensión de incapacidad permanente durante el período a su cargo.
+
+8\. Los reintegros a que se refieren los apartados 6 y 7 devengarán el interés legal del dinero vigente en la fecha en que se produzca su hecho causante, calculado desde la fecha del fallecimiento del trabajador, desde la fecha de efectos de las pensiones de incapacidad permanente o de jubilación por él causadas o desde la fecha en que cumpla la edad a que se refieren el artículo 205.1.a) y la disposición transitoria séptima del texto refundido de la Ley General de la Seguridad Social, hasta la respectiva propuesta de pago, pero no darán derecho al cobro del coste de los avales o de las sustituciones del empresario deudor.
+
+Para su abono, la Tesorería General de la Seguridad Social podrá acordar la retención del pago de la devolución en la cuantía estrictamente necesaria para asegurar el cobro de la deuda que el titular del derecho a la devolución tuviera con la Seguridad Social, en los términos regulados por el artículo 54 del Reglamento general de recaudación de la Seguridad Social y sin perjuicio de notificar, en su caso, el crédito por la devolución a la unidad de recaudación ejecutiva correspondiente.
+
+9\. A partir del momento en que el trabajador cumpla la edad de 63 o, en su caso, de 61 años, las aportaciones al Convenio especial serán a cargo del mismo, pudiendo extinguirse por cualquiera de las causas previstas en el artículo 10.2 de esta orden.
+
+> Se modifica por el art. único.1 de la Orden TMS/397/2019, de 4 de abril. [Ref. BOE-A-2019-5143](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5143)
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
+
+> Se modifica el apartado 4 y se añaden los apartados 5 y 6 por el art. único.1 y 2 de la Orden TIN/2077/2009, de 27 de julio. [Ref. BOE-A-2009-12690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12690).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
+
+> Se añaden los párrafos segundo y tercero al apartado 3 y se modifica el párrafo segundo del apartado 4 por el art. único.1 y 2 de la Orden TAS/3862/2004, de 22 de noviembre. [Ref. BOE-A-2004-20020](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20020).
+
+> Téngase en cuenta para su aplicación la disposición transitoria de la citada Orden.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 265, de 5 de noviembre de 2003. [Ref. BOE-A-2003-20335](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-20335).
+
+#### Artículo 21. Convenio especial en determinados supuestos de reducción de la jornada de trabajo con disminución proporcional del salario.
+
+1\. Los trabajadores por cuenta ajena o asimilados que reduzcan su jornada de trabajo con disminución proporcional del salario o retribución, al amparo del artículo 37.4 bis, 5 y 7 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto legislativo 1/1995, de 24 de marzo, o de los artículos 48.1.g) y h) y 49.d) de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, podrán suscribir la modalidad de convenio especial que se regula en este artículo, a fin de mantener las bases de cotización en las cuantías por las que venían cotizando con anterioridad a la reducción de la jornada.
+
+2\. No procederá la suscripción de este convenio especial durante los períodos de reducción de jornada en los que las cotizaciones se computen incrementadas hasta el 100 por 100 de la cuantía que hubiera correspondido si la jornada de trabajo se hubiera mantenido sin dicha reducción, de acuerdo con lo previsto en el artículo 180.3 y 4 del texto refundido de la Ley General de la Seguridad Social.
+
+3\. La base mensual de cotización en este convenio especial estará constituida por la diferencia entre las bases correspondientes a la reducción de jornada y la de cualesquiera de las bases elegida por el interesado de entre las señaladas en el artículo 6.2.1 de esta orden, pero referido el cómputo previsto en sus párrafos a) y b), respectivamente, a los 24 o a los 12 meses anteriores al inicio de la situación de jornada reducida o, en su caso, a la fecha en que se extinguiera la obligación de cotizar.
+
+4\. La cotización a completar en esta modalidad de convenio especial será la correspondiente a las situaciones y contingencias de jubilación, incapacidad permanente y muerte y supervivencia, derivadas de enfermedad común o accidente no laboral, en el régimen de la Seguridad Social en que se suscriba el convenio.
+
+5\. Los trabajadores o asimilados que suscriban el convenio especial serán considerados en situación de alta, a efectos del conjunto de la acción protectora del régimen de Seguridad Social correspondiente.
+
+> Se modifica por el art. único.1 de la Orden TAS/2632/2007, de 7 de septiembre. [Ref. BOE-A-2007-16336](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16336).
+
+#### Artículo 22. Convenio especial de trabajadores contratados a tiempo parcial.
+
+1\. Los trabajadores contratados a tiempo parcial que no estén percibiendo prestaciones de desempleo podrán suscribir convenio especial para completar la cotización derivada del contrato a tiempo parcial hasta la base mínima de cotización establecida con carácter general para su categoría profesional o en el Régimen de encuadramiento, o hasta la base a que se refiere la letra b) del apartado 2.1 del artículo 6 de esta Orden si fuere superior.
+
+2\. La base mensual de cotización estará constituida por la diferencia entre la base de cotización por el contrato a tiempo parcial y, a opción del interesado, la base a que se refieren las letras b) y c) del apartado 2.1 del artículo 6.
+
+La base fijada en el convenio será mantenida hasta la finalización del año en que se suscriba el convenio cuando se modificare durante el mismo la base de cotización por el contrato a tiempo parcial, salvo voluntad expresa en contrario del interesado.
+
+3\. La cotización a completar en la modalidad de convenio especial regulada en este artículo será la correspondiente a las situaciones de jubilación, incapacidad permanente y muerte y supervivencia, derivadas de enfermedad común o accidente no laboral, en el Régimen de la Seguridad Social en que se suscriba el convenio.
+
+4\. Los trabajadores que suscriban esta modalidad de convenio especial serán considerados en situación de alta, a efectos del conjunto de la acción protectora del Régimen de Seguridad Social correspondiente.
+
+> Se modifica el apartado 1 por el art. único. 4 de la Orden TAS/819/2004, de 12 de marzo. [Ref. BOE-A-2004-5750](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5750).
+
+#### Artículo 23. Convenio especial para trabajadores que cesen en las prestaciones de servicios o actividades.
+
+1\. Cuando el trabajador o asimilado preste sus servicios a dos o más empresarios en situación de pluriempleo, sea en régimen de contratación a tiempo completo o sea a tiempo parcial, perciba o no la prestación o subsidio por desempleo, y se extinga alguno o todos sus contratos de trabajo o cuando preste sus servicios en situación de pluriactividad y cese en alguna o todas las actividades que dieron lugar a su inclusión obligatoria en dos o mas Regímenes del Sistema de Seguridad Social, ya sea en forma simultánea o sucesiva, aquél podrá suscribir convenio especial con el objeto de mantener la misma o mismas bases de cotización por las que venía cotizando en situación de pluriempleo o pluriactividad, con las particularidades siguientes:
+
+1.1 Para la suscripción de esta modalidad de convenio especial será necesario acreditar un período específico de cotización previa de, al menos, 1.080 días en la respectiva situación de pluriempleo o de pluriactividad.
+
+1.2 En esta modalidad de convenio especial la base mensual de cotización estará constituida por la misma base o bases de cotización que el trabajador o asimilado tuviere en el mes natural anterior al cese en todas las empresas o actividades, o solamente por la diferencia que resulte de la nueva distribución de las bases si la nueva base fuere inferior a la anterior a la suscripción del convenio, en los casos de cese de la prestación de servicios a alguna o algunas de dichas empresas o en alguna o algunas de las actividades que sigan dando lugar a la situación de pluriempleo o pluriactividad.
+
+1.3 Los suscriptores de esta modalidad de convenio especial serán considerados en situación de alta a efectos del conjunto de la acción protectora en el Régimen o en los Regímenes del Sistema de Seguridad Social en el que se suscribiera el convenio especial.
+
+2\. El trabajador o asimilado a que se refiere el apartado 2.d) del artículo 2 de esta orden podrá suscribir convenio especial con la particularidad de que la base de cotización no podrá ser superior a la diferencia entre la base de cotización en razón de su nueva actividad y el promedio de las bases cotizadas durante los 12 meses anteriores al cese en una anterior. A tal efecto, el interesado podrá optar por el incremento de esas bases, en los términos previstos en el apartado 2.1 del artículo 6.
+
+Será asimismo aplicable a esta modalidad del convenio especial lo previsto en el apartado 1.3 de este artículo.
+
+3.**(Suprimido)**
+
+> Se modifica el párrafo primero del apartado 2 por el art. único.2 de la Orden TAS/482/2008, de 22 de febrero. [Ref. BOE-A-2008-3744](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3744).
+
+> Se suprime el apartado 3 por el art. único.4 de la Orden TAS/3862/2004, de 22 de noviembre. [Ref. BOE-A-2004-20020](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20020).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+> Se modifica el párrafo segundo del apartado 2 por el art. único.5 de la Orden TAS/819/2004, de 12 de marzo. [Ref. BOE-A-2004-5750](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5750).
+
+#### Artículo 24. Convenio especial de trabajadores perceptores del subsidio de desempleo, con derecho a cotización por la contingencia de jubilación.
+
+1\. Los trabajadores perceptores del subsidio de desempleo, con derecho a cotización por la contingencia de jubilación, mayores de 52 años, podrán suscribir convenio especial conforme a lo dispuesto en el capítulo I de la presente Orden, con las particularidades que se indican en los apartados siguientes:
+
+1.1 Para determinar la cotización al convenio especial se aplicarán las siguientes reglas:
+
+1.ª Para las contingencias de incapacidad permanente y muerte y supervivencia, derivadas de enfermedad común y accidente no laboral, la cuota a ingresar será el resultado de aplicar a la cuota íntegra, calculada conforme a la base y tipo previstos en los apartados 2.1 del artículo 6 y 1 del artículo 7, el coeficiente reductor correspondiente a las contingencias citadas fijado por el Ministerio de Trabajo y Asuntos Sociales.
+
+2.ª Para la contingencia de jubilación, la base de cotización al convenio especial estará constituida por la diferencia entre la base de cotización elegida por el interesado según lo previsto en la regla anterior y aquella por la que cotice, en cada momento, el Instituto Nacional de Empleo. A la cuota íntegra resultante se aplicará el coeficiente reductor correspondiente a la contingencia de jubilación fijado al efecto por el Ministerio de Trabajo y Asuntos Sociales.
+
+3.ª La suma de las cuotas que resulten de lo dispuesto en las dos reglas anteriores constituirá el importe total de la cuota a ingresar en esta modalidad de convenio especial.
+
+1.2 El convenio especial surtirá efectos en la fecha en que nazca el derecho al subsidio de desempleo, salvo que el interesado opte porque los efectos del convenio se inicien en la fecha de presentación de la solicitud del mismo.
+
+1.3 Si un trabajador que hubiese suscrito el convenio especial regulado en el capítulo I tuviese posteriormente derecho al subsidio de desempleo, con cotización por la contingencia de jubilación, podrá solicitar la suscripción del convenio especial regulado en este artículo.
+
+1.4 En caso de suspensión de la situación de desempleo asistencial, por alguna de las causas previstas en su normativa reguladora, se suspenderá, asimismo, la situación de convenio especial. Los interesados podrán solicitar la suscripción del convenio especial regulado en el capítulo I que surtirá efectos desde el día siguiente al de la suspensión pero, si lo solicitare fuera de los noventa días naturales siguientes, el convenio surtirá efectos desde la fecha de presentación de la solicitud.
+
+Finalizada la suspensión del percibo del subsidio de desempleo, el interesado podrá reanudar la efectividad del convenio en los términos previstos en el artículo 10.1 de esta Orden.
+
+1.5 Las personas que, teniendo suscrito la modalidad de convenio especial previsto en este artículo, vean extinguido su derecho al subsidio de desempleo con cotización por la contingencia de jubilación, podrán solicitar la suscripción del convenio especial previsto en el capítulo I, en cualquier momento. Si lo solicitase dentro del plazo de noventa días naturales a contar desde la fecha en que la citada extinción haya tenido efectos o bien desde la fecha en que la resolución administrativa o sentencia judicial haya adquirido firmeza, el convenio especial surtirá efectos desde el día en que se haya extinguido el subsidio de desempleo, salvo que el interesado opte porque el convenio especial tenga efectos en la fecha de presentación de la solicitud o fecha de efectos asimismo aplicable cuando la solicitud se formule fuera del plazo indicado de los noventa días naturales.
+
+2\. Lo dispuesto en el apartado 1 anterior es aplicable a los trabajadores fijos discontinuos que sean perceptores del subsidio de desempleo con derecho a cotización a la Seguridad Social por la contingencia de jubilación durante sesenta días, de acuerdo con el apartado 3 del artículo 218 del Texto Refundido de la Ley General de la Seguridad Social.
+
+### Sección 5.ª Convenios especiales de trabajadores incluidos en el Régimen Especial de la Minería del Carbón, para los Trabajadores de Temporada y en los Sistemas Especiales regulados por la Orden de 25 de enero de 1996 y en el Régimen Especial de Trabajadores Autónomos
+
+#### Artículo 25. Convenio especial para los trabajadores incluidos en el Régimen Especial de la Minería del Carbón.
+
+El convenio especial, suscrito por los incluidos en el Régimen Especial de la Minería del Carbón, se regirá por lo dispuesto en el capítulo I de esta Orden, con las particularidades en la cotización que se determinan en los apartados siguientes:
+
+1\. En los supuestos de categorías o especialidades profesionales que tengan fijada base normalizada de cotización en el momento de suscripción del convenio especial, la cotización se sujetará a las siguientes reglas:
+
+1.ª La base inicial de cotización correspondiente al convenio especial será la base normalizada vigente en el momento de la suscripción del convenio para la categoría o especialidad profesional a la que pertenecía el trabajador. Las sucesivas bases de cotización serán equivalentes a las bases normalizadas que, en cada ejercicio económico, se fijen para la respectiva categoría o especialidad profesional.
+
+2.ª Si la base normalizada de la categoría o especialidad profesional de que se trate tuviese, en el ejercicio económico correspondiente, un importe inferior a la base del convenio especial, ésta permanecerá inalterable hasta que la base normalizada que se fije sea de una cuantía igual o superior a la del convenio especial.
+
+3.ª En el supuesto de que desaparezca la categoría o especialidad profesional a la que perteneció, en su momento, el trabajador que suscribió el convenio especial, la base de cotización podrá ser actualizada en los términos establecidos en el apartado 2.7 del artículo 6, pero pudiendo incrementarse dicha base, como máximo, en el porcentaje de variación de la base mínima de cotización por convenio especial.
+
+A partir del momento en que vuelva a fijarse la base normalizada de cotización para la categoría o especialidad profesional correspondiente, al crearse de nuevo, la base de cotización en el convenio especial será dicha base normalizada, sin perjuicio de lo señalado en la regla 2.ª
+
+2\. En los supuestos de categorías o especialidades profesionales de nueva creación, que no tienen fijada base normalizada en el momento de la suscripción del convenio especial, la base de cotización en dicho momento será la que resulte de aplicar la establecida en el apartado 2.1.b) del artículo 6 de esta Orden pero esa base inicial así determinada será sustituida posteriormente por la base normalizada que, para la categoría o especialidad profesional, se fije por el Ministro de Trabajo y Asuntos Sociales.
+
+#### Artículo 26. Convenios especiales para los trabajadores de temporada en períodos de inactividad y para los comprendidos en los Sistemas Especiales de Frutas y Hortalizas y Conservas Vegetales del Régimen General de la Seguridad Social.
+
+1\. Podrán suscribir convenio especial con la Seguridad Social los trabajadores por cuenta ajena incluidos en alguno de los Regímenes del Sistema por el ejercicio de trabajos de temporada llevados a cabo en una actividad que tenga ese carácter, por el período que medie entre dos temporadas consecutivas, cuando hayan trabajado, con ingreso de las correspondientes cuotas, como tales trabajadores de temporada, al menos, durante tres años dentro de los siete inmediatamente anteriores a la fecha del cese en el trabajo de temporada.
+
+2\. Asimismo podrán suscribir convenio especial con la Seguridad Social los trabajadores de temporada que presten servicios en empresas dedicadas a las actividades de manipulación, envasado y comercialización de frutas y hortalizas y de fabricación de conservas vegetales, incluidos en los Sistemas Especiales de Frutas y Hortalizas y de Conservas Vegetales del Régimen General de la Seguridad Social, que causen baja en el mismo y no queden comprendidos en cualquier Régimen del Sistema de la Seguridad Social que tenga establecido con aquél cómputo recíproco de cuotas.
+
+2.1 Para suscribir esta modalidad de convenio especial será necesario el cumplimiento de los siguientes requisitos:
+
+2.1.1 Solicitarlo ante la Dirección Provincial de la Tesorería General de la Seguridad Social o Administración de la misma correspondiente, dentro del mes natural siguiente a aquél en el que se produjo el cese en el trabajo de temporada de que se trate, el agotamiento de la prestación económica del nivel contributivo por desempleo o el transcurso del período de sesenta días de subsidio de desempleo de trabajadores fijos discontinuos con derecho a cotización a la Seguridad Social por la contingencia de jubilación.
+
+2.1.2 Acreditar cotizaciones como trabajador de temporada, al menos, durante tres campañas completas durante los siete años anteriores a la fecha del cese en el trabajo o del agotamiento de prestaciones por desempleo a que se refiere el párrafo anterior.
+
+2.2 La fecha de efectos de esta modalidad de convenio especial será la del día natural siguiente a aquél en que haya surtido efectos la baja en el Régimen General de la Seguridad Social o la extinción del derecho a las prestaciones por desempleo.
+
+2.3 La cotización por el convenio especial será obligatoria desde la fecha de efectos del mismo y mientras se mantenga su vigencia.
+
+La base mensual de cotización en este convenio especial se corresponderá con la base mínima de cotización por contingencias comunes vigente en cada momento en el Régimen General de la Seguridad Social.
+
+2.4 El plazo de ingreso de las cuotas relativas a esta modalidad de convenio especial será el del segundo mes natural siguiente a aquél a que corresponda su devengo.
+
+3\. Estas modalidades de convenio especial quedarán suspendidas durante los períodos de actividad de los trabajadores de temporada que pueden suscribirlo, aplicándose, en lo no establecido en los apartados precedentes, lo dispuesto en el capítulo I de esta Orden.
+
+#### Artículo 27. Convenio especial para deportistas de alto nivel.
+
+1\. Los deportistas de alto nivel, mayores de dieciocho años que, en razón de su actividad deportiva o de cualquier otra actividad profesional que realicen no estén ya incluidos en cualquiera de los Regímenes del Sistema de la Seguridad Social, podrán solicitar su inclusión en el Régimen Especial de Trabajadores por Cuenta Propia o Autónomos mediante la suscripción de un convenio especial con la Tesorería General de la Seguridad Social.
+
+2\. Este convenio especial se sujetará a las particularidades establecidas en el Real Decreto 971/2007, de 13 de julio, sobre deportistas de alto nivel y alto rendimiento, y, en su defecto, se estará a lo dispuesto en el capítulo I de esta orden.
+
+> Se modifica el apartado 2 por el art. único.2 de la Orden TAS/2632/2007, de 7 de septiembre. [Ref. BOE-A-2007-16336](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16336).
+
+### Sección 6.ª Convenio especial para cuidadores de personas en situación de dependencia
+
+> Se añade por el art. único.3 de la Orden TAS/2632/2007, de 7 de septiembre. [Ref. BOE-A-2007-16336](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16336).
+
+#### Artículo 28. Convenio especial de cuidadores no profesionales de personas en situación de dependencia.
+
+El convenio especial entre la Tesorería General de la Seguridad Social y los cuidadores no profesionales de personas en situación de dependencia, a efectos de su inclusión en el Régimen General de la Seguridad Social, se regirá por el Real Decreto 615/2007, de 11 de mayo, por el que se regula la Seguridad Social de los cuidadores de las personas en situación de dependencia, y, conforme a lo dispuesto en su artículo 5, por el capítulo I de esta orden en lo no previsto en su articulado, con las siguientes particularidades:
+
+1\. El convenio especial surtirá efectos desde el mismo día que la prestación económica para cuidados familiares concedida a la persona en situación de dependencia, de acuerdo con la resolución que la haya reconocido, siempre que el cuidador reúna las condiciones exigidas en los artículos 1 y 2 del Real Decreto 615/2007, de 11 de mayo, para su encuadramiento en la Seguridad Social.
+
+En caso de que, con posterioridad a la concesión de la prestación económica a la persona por él atendida, el cuidador no profesional interrumpa la actividad por la que estuviera incluido en el sistema de la Seguridad Social o deje de encontrarse en alguna de las otras situaciones en que no procede la suscripción del convenio especial conforme al artículo 2 del Real Decreto 615/2007, de 11 de mayo, la fecha de efectos del convenio se determinará con arreglo a lo dispuesto en el artículo 5.2 de esta orden.
+
+2\. A efectos de la suscripción de este convenio especial, se considerará que los cuidados no profesionales alcanzan la dedicación completa a que se refiere el artículo 4.1 del Real Decreto 615/2007, de 11 de mayo, cuando se presten durante 40 horas semanales.
+
+3\. En el supuesto de suscripción del convenio especial por parte de trabajadores perceptores del subsidio por desempleo con derecho a cotización por la contingencia de jubilación, la cuota del convenio se reducirá en la parte que corresponda a dicha contingencia. Los interesados que hubieran suscrito el convenio especial regulado en el artículo 24 de esta orden podrán mantener la base por la que vinieran cotizando, no obstante la extinción de este último, en los términos establecidos por los artículos 2.5 y 4.2 del Real Decreto 615/2007, de 11 de mayo.
+
+4\. No procederá la suscripción de este convenio especial durante los períodos de reducción de jornada de trabajo en los que las cotizaciones se computen incrementadas hasta el 100 por 100 de la cuantía que hubiera correspondido si la jornada se hubiera mantenido sin dicha reducción, de acuerdo con lo previsto en el artículo 180.3 y 4 del texto refundido de la Ley General de la Seguridad Social.
+
+5\. Este convenio especial se extinguirá por las causas señaladas en el artículo 10.2 de esta orden, a excepción de las recogidas en sus párrafos c) y e), así como por las siguientes:
+
+a) Por adquirir el cuidador la condición de titular de una pensión de viudedad o en favor de familiares, cuando tenga 65 o más años.
+
+b) Por fallecimiento de la persona en situación de dependencia o extinción de la prestación económica para cuidados familiares por ella percibida.
+
+c) Cuando el cuidador deje de prestar sus servicios como tal o, en general, de reunir las condiciones y requisitos establecidos en el Real Decreto 615/2007, de 11 de mayo.
+
+6\. Cuando el cuidador no profesional haya optado por mantener la base de cotización por la que venía cotizando, en los supuestos a que se refiere el artículo 4.2 del Real Decreto 615/2007, de 11 de mayo, los efectos de la opción coincidirán con los del convenio especial señalados en el apartado 1, de presentarse la solicitud dentro de los 90 días naturales siguientes al de la baja en el régimen que corresponda por la actividad o convenio anterior o al de la reducción de la jornada. Si la opción se formulase fuera del plazo antes indicado, surtirá efectos desde el día de presentación de la solicitud.
+
+En estos supuestos, el derecho a cotizar por parte del cuidador se extinguirá por las siguientes causas:
+
+a) Por renuncia al abono de la parte de cuota a su cargo, comunicada a la Tesorería General de la Seguridad Social. En este caso, los efectos de la renuncia tendrán lugar a partir del día primero del mes siguiente a la fecha de la comunicación.
+
+b) Por falta de abono de tres mensualidades consecutivas o cinco alternativas de la parte de cuota a su cargo, salvo causa justificada de fuerza mayor debidamente acreditada.
+
+> Se modifica por el art. único.3 de la Orden TAS/2632/2007, de 7 de septiembre. [Ref. BOE-A-2007-16336](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16336).
+
+> Se añade por el art. único.3 de la Orden TAS/3862/2004, de 22 de noviembre. [Ref. BOE-A-2004-20020](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20020).
+
+> Téngase en cuenta para su aplicación la disposición transitoria.
+
+#### Artículo 29. Aplicación supletoria.
+
+En lo no previsto en los artículos anteriores de este Capítulo se aplicará lo dispuesto en el Capítulo I de esta Orden.
+
+> Se renumera por el art. único.3 de la Orden TAS/2632/2007, de 7 de septiembre.
+
+> Su anterior numeración era art. 28.
+
+#### Disposición adicional primera. Exclusión de los Regímenes de funcionarios públicos.
+
+La presente Orden no será de aplicación a los Regímenes Especiales de los Funcionarios Civiles del Estado, de las Fuerzas Armadas y del Personal al Servicio de la Administración de Justicia.
+
+#### Disposición adicional segunda. Plazo de suscripción del convenio especial por españoles que ostentaren la condición de funcionarios o empleados de Organizaciones Internacionales después del 1 de febrero de 1997.
+
+Los españoles que hayan adquirido la condición de funcionario o empleado de Organizaciones Internacionales Intergubernamentales entre el 1 de febrero de 1997 y la fecha de entrada en vigor de la presente Orden y que no hubieren suscrito el convenio especial regulado en el Real Decreto 2805/1979, de 7 de diciembre, dentro del plazo de los seis meses siguientes a la adquisición de su condición de funcionario o empleado de tales Organizaciones, podrán suscribir el mismo dentro del plazo de seis meses, a partir del día 1 del mes siguiente al de la publicación de la presente Orden en el Boletín Oficial del Estado, para que surta efectos, a opción del solicitante, bien desde que adquirieron aquella condición de funcionarios o empleados de Organizaciones Internacionales Intergubernamentales o bien desde el día siguiente a la presentación de la solicitud.
+
+#### Disposición adicional tercera. Convenio especial de asistencia sanitaria para pensionistas de nacionalidad suiza residentes en España.
+
+Los beneficiarios de pensiones previstas por la legislación federal suiza de Seguridad Social de esta última nacionalidad, que residan en España, podrán suscribir el convenio especial para la cobertura de la asistencia sanitaria regulado en el artículo 16 de la presente Orden, de conformidad con la dispuesto en el punto 17 del Protocolo Final del Convenio de Seguridad Social entre España y Suiza de 13 de octubre de 1969.
+
+#### Disposición adicional cuarta. Delegación de competencias en el Instituto Social de la Marina.
+
+Al objeto de mantener la necesaria coordinación respecto del sector marítimo pesquero por las especialidades que en el mismo concurren, el Instituto Social de la Marina tramitará y formalizará, por delegación de la Tesorería General de la Seguridad Social, los convenios especiales con trabajadores y asimilados incluidos en el Régimen Especial de la Seguridad Social de los Trabajadores del Mar en los términos establecidos en esta Orden.
+
+#### Disposición adicional quinta. Medidas de fomento de la actividad laboral o profesional.
+
+En el marco de esta orden, se podrán adoptar medidas de fomento de la actividad por cuenta propia o ajena respecto a los trabajadores cuya relación laboral se hubiera extinguido por despido.
+
+> Se añade por el art. único.3 de la Orden TAS/482/2008, de 22 de febrero. [Ref. BOE-A-2008-3744](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3744).
+
+#### Disposición transitoria primera. Vigencia de convenios anteriores.
+
+Los convenios especiales suscritos con anterioridad a la entrada en vigor de esta Orden seguirán rigiéndose por la normativa anterior que les sea de aplicación. No obstante, los suscriptores podrán optar por sustituirlos por alguno de los regulados en esta Orden, siempre que reúnan los requisitos establecidos en la misma.
+
+El nuevo convenio surtirá efectos a partir del día primero del mes en que se hubiere solicitado la suscripción del mismo.
+
+> Se numera por la disposición final 1.3 de la Orden PCM/74/2023, de 30 de enero. [Ref. BOE-A-2023-2472](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2472)
+
+> Su anterior denominación era disposición transitoria.
+
+> Se añade el párrafo segundo por el art. único. 6 de la Orden TAS/819/2004, de 12 de marzo. [Ref. BOE-A-2004-5750](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-5750).
+
+#### Disposición transitoria segunda. Importe de la base mínima de cotización del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos aplicable en determinados convenios especiales con carácter provisional.
+
+Hasta tanto el importe de la base mínima de cotización del tramo 1 de la tabla general de bases de cotización, a la que se refiere el artículo 308 del texto refundido de la Ley General de la Seguridad Social, no alcance la cuantía de la base mínima de cotización del Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos vigente a 31 de diciembre de 2022, la base mínima de cotización aplicable será esta última, también a efectos de lo previsto en el artículo 6.2.2 de esta orden respecto al incremento de la base de cotización del convenio especial.
+
+> Se añade por la disposición final 1.3 de la Orden PCM/74/2023, de 30 de enero. [Ref. BOE-A-2023-2472](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2472)
+
+> Esta modificación produce efectos desde el día 1 de enero de 2023, según establece la disposición final cuarta de la citada Orden.
+
+#### Disposición derogatoria.
+
+1\. Quedan derogadas las siguientes disposiciones:
+
+– La Orden Ministerial de 23 de marzo de 1971, por la que se declara situación asimilable a la de alta en el Régimen General de la Seguridad Social la constituida por los períodos de inactividad entre los trabajos de temporada.
+
+– La Orden Ministerial de 7 de marzo de 1978, por la que se dictan normas para la aplicación en materia de Seguridad Social de los Reglamentos Provisionales del Congreso de los Diputados y del Senado.
+
+– La Orden Ministerial de 14 de febrero de 1980, por la que dictan normas de aplicación y desarrollo del Real Decreto 2805/1979, de 7 de diciembre, sobre inclusión en el campo de aplicación del Régimen General de la Seguridad Social de los españoles no residentes en territorio nacional que ostenten la condición de funcionarios o empleados de Organizaciones Internacionales Intergubernamentales.
+
+– La Orden Ministerial de 5 de mayo de 1980, sobre asistencia sanitaria a los españoles pensionistas de la Seguridad Social de Suiza que trasladen su residencia a España.
+
+– La Orden Ministerial de 18 de febrero de 1981, por la que se establece convenio de asistencia sanitaria en el Régimen General de la Seguridad Social a favor de los españoles emigrantes que retornan al territorio español.
+
+– La Orden Ministerial de 29 de julio de 1982, por la que se regula la suscripción de convenio especial de Seguridad Social entre las Cortes Generales y el Instituto Nacional de la Seguridad Social y se modifica la Orden de 7 de marzo de 1978 y las normas dictadas para su aplicación y desarrollo en lo que respecta a los parlamentarios que con anterioridad hubieren estado afiliados al Régimen General de la Seguridad Social, en cuanto se oponga a lo dispuesto en la presente Orden, con excepción del artículo 7 de la primera que continuará en vigor.
+
+– La Orden Ministerial de 28 de julio de 1987, por la que se desarrolla el Real Decreto 996/1986, de 25 de abril, regulador del convenio especial de los emigrantes e hijos de emigrantes.
+
+– La Orden Ministerial de 1 de junio de 1988, por la que se autoriza a la Tesorería General de la Seguridad Social a suscribir con las Cortes Generales un convenio especial con objeto de incluir en el campo de aplicación del Régimen General de la Seguridad Social a los españoles que ostenten la condición de Diputados al Parlamento Europeo.
+
+– La Orden Ministerial de 18 de julio de 1991, por la que se regula el convenio especial en el Sistema de la Seguridad Social.
+
+– La Orden Ministerial de 4 de agosto de 1992, sobre regulación del convenio especial de los trabajadores fijos discontinuos perceptores del subsidio de desempleo con derecho a la cotización a la Seguridad Social por la contingencia de jubilación.
+
+– La Orden Ministerial de 17 de mayo de 1994, por la que se declaran comprendidos en el Real Decreto 2805/1979, de 7 de diciembre, a los españoles residentes en España que presten servicios para la Agencia Espacial Europea y se abre un nuevo plazo especial para la suscripción del convenio especial con la Seguridad Social por los funcionarios de la Organización de Estados Iberoamericanos para la Ciencia, la Educación y la Cultura, a que se refiere el Real Decreto 317/1985, de 6 de febrero.
+
+– La Orden Ministerial de 25 de enero de 1996, por la que se regula la suscripción de convenio especial por parte de los trabajadores de temporada comprendidos en los Sistemas Especiales de Frutas y Hortalizas y Conservas Vegetales del Régimen General de la Seguridad Social.
+
+– La Orden Ministerial de 22 de diciembre de 1997, por la que se declaran comprendidos en el Real Decreto 2805/1979, de 7 de diciembre, a los españoles residentes en España que presten servicio en la Delegación en España del Alto Comisionado de las Naciones Unidas para los Refugiados.
+
+– La Orden Ministerial de 8 de junio de 1999, de desarrollo del Real Decreto 1658/1998, de 24 de julio, por el que se regula el convenio especial en materia de asistencia sanitaria en el Régimen General de la Seguridad Social a favor de españoles residentes en territorio nacional que ostenten la condición de funcionarios o empleados de Organizaciones Internacionales Intergubernamentales.
+
+– La Orden Ministerial de 14 de enero de 2000, sobre supresión del plazo para la suscripción del convenio especial de Seguridad Social de los emigrantes e hijos de emigrantes, regulado por el Real Decreto 996/1986, de 25 de abril.
+
+– La Orden TAS/1817/2002, de 8 de julio, por la que se declaran comprendidos en el ámbito de aplicación del Real Decreto 2805/1979, de 7 de diciembre, a los españoles residentes en España que prestan servicios en el Cuartel General Conjunto Subregional Sudoeste de la Organización del Tratado del Atlántico Norte.
+
+2\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Orden.
+
+#### Disposición final primera. Habilitación.
+
+Se faculta a la Tesorería General de la Seguridad Social para aprobar y, en su caso, modificar los modelos a los que han de ajustarse los distintos tipos de convenio especial regulados en esta orden, con sujeción en todo caso a lo dispuesto en ella.
+
+> Se modifica por el art. único.3 de la Orden TIN/2077/2009, de 27 de julio. [Ref. BOE-A-2009-12690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12690).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+#### Disposición final segunda. Entrada en vigor.
+
+La presente Orden entrará en vigor el día 1 del sexto mes siguiente al de su publicación en el Boletín Oficial del Estado, salvo lo dispuesto en el artículo 20 que entrará en vigor el día siguiente al de dicha publicación.
+
+Madrid, 13 de octubre de 2003.
+
+ZAPLANA HERNÁNDEZ-SORO
+
+Excmo. Sr. Secretario de Estado de la Seguridad Social
+
+## ANEXO I
+
+**(Suprimido).**
+
+> Se suprime por el art. único.2 de la Orden TMS/397/2019, de 4 de abril. [Ref. BOE-A-2019-5143](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-5143)
+
+## ANEXO II
+
+**(Suprimido)**
+
+> Se suprime por la disposición adicional única de la Orden TIN/2077/2009, de 27 de julio. [Ref. BOE-A-2009-12690](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12690).

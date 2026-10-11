@@ -1,0 +1,191 @@
+---
+title: "Orden INT/1922/2003, de 3 de julio, sobre libros-registro y partes de entrada de viajeros en establecimientos de hostelería y otros análogos"
+identifier: "BOE-A-2003-13865"
+eli: "https://www.boe.es/eli/es/o/2003/07/03/int1922"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 2003-07-03
+published: 2003-07-11
+in_force_from: 2003-07-12
+last_amended: 2021-10-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 165"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-13865"
+retrieved: 2026-10-11
+---
+
+# Orden INT/1922/2003, de 3 de julio, sobre libros-registro y partes de entrada de viajeros en establecimientos de hostelería y otros análogos
+
+Téngase en cuenta, que la presente norma mantendrá su vigencia en lo que no contravenga el contenido del Real Decreto 933/2021, de 26 de octubre de 2021. [Ref. BOE-A-2021-17461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-17461), y en tanto no se produzca el desarrollo de este Real Decreto, según establece en su disposición derogatoria única.
+
+El artículo 12 de la Ley Orgánica 1/1992, de 21 de febrero, de Protección de la Seguridad Ciudadana, señala que las personas naturales o jurídicas que desarrollen actividades relevantes para la seguridad ciudadana, entre ellas las de hospedaje, deberán llevar a cabo las actuaciones de registro documental e información previstas en la normativa vigente.
+
+Asimismo, España se comprometió conforme al artículo 45 del Convenio de aplicación del Acuerdo de Schengen, de 19 de junio de 1990, a adoptar las medidas necesarias para llevar a cabo las actividades de control sobre los viajeros que utilizaran establecimientos de hospedaje.
+
+Según lo dispuesto en el artículo 1 del Decreto 1513/1959, de 18 de agosto, los establecimientos de hostelería tienen la obligación de llevar un libro-registro de viajeros. De igual forma, el artículo 2 del citado Decreto establece que toda persona mayor de dieciséis años, que se aloje en uno de aquellos establecimientos, deberá firmar un parte de entrada.
+
+Disposiciones posteriores, como las Órdenes del Ministerio de Información y Turismo de 28 de julio de 1966 y de 17 de enero de 1967 y el Decreto 393/1974, de 7 de febrero, extendieron los efectos del Decreto 1513/1959, a modalidades de hospedaje surgidas o generalizadas con posterioridad, como campings, apartamentos, «bungalows» y otros alojamientos similares de carácter turístico.
+
+La obligación de cumplimentar el libro-registro, así como la de presentar o remitir a las correspondientes Comisarías de Policía o Puestos de la Guardia Civil, en su caso, el parte de entrada de viajeros, confeccionado con arreglo a modelo oficial, viene impuesta por razón de la naturaleza de la actividad sobre la que recae, sin que ello obste para la aplicación de procedimientos que, de acuerdo con la evolución de la técnica, permitan a los establecimientos una mayor flexibilidad y economía, siempre que ello no constituya merma de la seguridad indispensable para garantizar la efectividad del citado control.
+
+Dado el auge que en nuestra sociedad está teniendo la utilización de medios informáticos y las comunicaciones a través de Internet, es aconsejable proceder a revisar la normativa actual a fin de acomodarla a estos nuevos medios.
+
+Las disposiciones recogidas en esta norma vienen a desarrollar, por otra parte, una de las actuaciones previstas en el Plan Info XXI, aprobado por el Gobierno, relativa a la tramitación de los partes de hospedería a través de Internet.
+
+En su virtud, y en uso de las facultades conferidas en el Decreto 1513/1959,
+
+DISPONGO:
+
+## Primero. Ámbito de aplicación.
+
+Lo dispuesto en la presente Orden sobre libros-registro y partes de entrada de viajeros será de aplicación a los siguientes establecimientos:
+
+a) Los establecimientos de hostelería a que se refiere el artículo 1 del Decreto 1513/1959, de 18 de agosto, definidos en el artículo 2 del Decreto 231/1965, de 14 de enero, como aquellos dedicados de modo profesional o habitual mediante precio, a proporcionar habitación a las personas, con o sin otros servicios de carácter complementario.
+
+b) Los campings, apartamentos, «bungalows» y otros alojamientos similares de carácter turístico regulados en la Orden del Ministerio de Información y Turismo de 28 de julio de 1966 y en el artículo 1 del Decreto 393/1974, de 7 de febrero.
+
+## Segundo. Partes de entrada y libros registro.
+
+1\. Los partes de entrada de viajeros se ajustarán al modelo señalado en el anexo y serán generados por los propios establecimientos a que se refiere esta orden.
+
+2\. Los establecimientos antes mencionados podrán cumplimentar los partes de entrada por procedimientos manuales o por procedimientos informáticos, pero el viajero deberá firmar dicho parte de manera inexcusable, pudiendo recogerse la firma en papel o en un soporte digital.
+
+3\. Una vez cumplimentado y firmado el impreso, quedará en el establecimiento a efectos de confección de un libro-registro en formato impreso o digital. Los libros-registro en formato impreso se ordenarán de forma correlativa, constituyendo libros o cuadernos que integrarán un mínimo de 100 hojas y un máximo de 500. Los libros-registro en formato digital deberán ser compatibles con los medios electrónicos de las Fuerzas y Cuerpos de Seguridad, permitiendo un tratamiento seguro a fin de garantizar la fiabilidad de los datos.
+
+4\. El libro-registro del establecimiento de que se trate constituido conforme a lo previsto en el párrafo anterior, estará en todo momento a disposición de los miembros de las Fuerzas y Cuerpos de Seguridad con competencia en la materia, quedando los establecimientos obligados a exhibirlo cuando a ello sean requeridos.
+
+5\. Los establecimientos deberán conservar los libros-registro durante el plazo de tres años, a contar desde la fecha de la última de las hojas registro que los integran, o, en su caso, desde la fecha de grabación de la información cuando se conserve por medios digitales.
+
+6\. El tratamiento de los datos de carácter personal derivado de la ejecución de esta orden se llevará a cabo conforme a la normativa de protección de datos de carácter personal para fines de prevención, investigación, detección o enjuiciamiento de infracciones penales.
+
+> Se modifica por el art. único de la Orden INT/321/2021, de 31 de marzo. [Ref. BOE-A-2021-5483](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5483)
+
+## Tercero. Comunicación de datos a las dependencias policiales.
+
+1\. Los establecimientos comprendidos en el ámbito de aplicación de la presente Orden deberán comunicar a las dependencias policiales la información contenida en las hojas-registro a que se refiere el apartado anterior, por cualquiera de los siguientes sistemas:
+
+1.1 Presentando directamente o cursando por correo a la Comisaría de Policía o, en su defecto, al Puesto de la Guardia Civil que corresponda, dos copias de la hoja-registro, una de las cuales quedará en la dependencia policial y la otra, convenientemente sellada, se devolverá al establecimiento como acreditación del cumplimiento de su obligación.
+
+La remisión de las copias de las hojas-registro por correo únicamente podrá efectuarse en caso de establecimientos situados en municipios en que no existan dependencias policiales.
+
+1.2 Transmitiendo mediante fax a la Comisaría de Policía o, en defecto de ésta, a la Comandancia de la Guardia Civil correspondiente la información contenida en las hojas-registro o un listado de dicha información, siempre que aquéllas cuenten con los medios de recepción idóneos y tengan capacidad funcional para ello.
+
+Recibida la información, la Comisaría de Policía o, en su caso, la Comandancia de la Guardia Civil acreditarán a los establecimientos dicha recepción, bien mediante el envío a aquéllos de un FAX acusando recibo de la información comunicada, bien remitiéndoles por correo una copia convenientemente sellada.
+
+1.3 Entregando directamente en las correspondientes dependencias policiales los soportes magnéticos que contengan la información requerida, siempre que tales dependencias estén dotadas de medios informáticos idóneos para su recepción y tratamiento.
+
+Dichas dependencias entregarán a los establecimientos un documento acreditativo de la recepción de la información contenida en los soportes magnéticos y los devolverán al respectivo establecimiento.
+
+1.4 Mediante transmisión de ficheros vía Internet al Centro de Proceso de Datos de la Dirección General de la Policía o de la Dirección General la Guardia Civil, según el caso, que darán por recibida la información por el mismo sistema.
+
+2\. La utilización de cualquiera de los sistemas señalados no exime de la obligación de cumplimentar el parte, de su firma por el alojado y de la confección del libro-registro correspondiente.
+
+3\. Los establecimientos deberán proponer a las correspondientes dependencias policiales el sistema, de entre los señalados en el apartado anterior, que utilizarán como medio habitual de comunicación de la información.
+
+## Cuarto. Plazo.
+
+La información contenida en las hojas-registro deberá ser comunicada por cualquiera de los sistemas a que se refiere el apartado anterior a las dependencias policiales dentro de las veinticuatro horas siguientes al comienzo del alojamiento de cada viajero.
+
+## Disposición adicional única. Régimen competencial.
+
+Lo dispuesto en la presente Orden será sin perjuicio de las competencias que en esta materia tienen reconocidas las Comunidades Autónomas con competencias para la protección de personas y bienes y para el mantenimiento de la seguridad ciudadana.
+
+## Disposición derogatoria única. Derogaciones.
+
+Queda derogada la Orden de 14 de febrero de 1992 y cuantas normas de igual o inferior rango se opongan a lo establecido en esta Disposición.
+
+## Disposición final primera. Soportes magnéticos.
+
+Por la Secretaría de Estado de Seguridad se determinarán las características de los soportes magnéticos que podrán utilizar los establecimientos de hostelería, así como las condiciones y forma de utilización de la transmisión de ficheros vía Internet, en virtud de lo dispuesto en los párrafos 1.3 y 1.4 del apartado tercero de la presente Orden.
+
+## Disposición final segunda. Desarrollo.
+
+Se habilita al Secretario de Estado de Seguridad para que el contenido del Anexo pueda modificarse, teniendo en cuenta la experiencia adquirida en la aplicación de la presente norma y su adecuación a los fines previstos legalmente.
+
+## Disposición final tercera. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 3 de julio de 2003.
+
+ACEBES PANIAGUA
+
+Excmos. Sres. Secretario de Estado de Seguridad y Directores generales de la Policía y de la Guardia Civil.
+
+## ANEXO
+
+## Modelo de parte de entrada de viajeros
+
+Hoja-registro
+
+(Rellenar con mayúsculas)
+
+Datos del establecimiento
+
+Parte n.º:
+
+Nombre del establecimiento:
+
+NIF:
+
+Municipio:
+
+Provincia:
+
+Sello del establecimiento<sup>(6)</sup>
+
+Datos del viajero:
+
+Núm. de documento de identidad:
+
+Tipo de documento:<sup>(1)</sup>
+
+Fecha expedición del documento:<sup>(5)</sup>
+
+Primer apellido:
+
+Segundo apellido:
+
+Nombre:
+
+Sexo:<sup>(2)</sup>
+
+Fecha de nacimiento:<sup>(3)</sup>
+
+País de nacionalidad:<sup>(4)</sup>
+
+Fecha de entrada:<sup>(5)</sup>
+
+......................................, de ............ de .........................
+
+Firma del viajero<sup>(7)</sup>
+
+La recogida y tratamiento de estos datos se hará de acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en lo que resulte de aplicación, la relativa a la protección de las personas físicas en lo que respecta al tratamiento de datos personales por parte de autoridades competentes para fines de prevención, investigación, detección o enjuiciamiento de infracciones penales, y al amparo Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, artículo 25.1.
+
+Instrucciones de confección del impreso
+
+<sup>(1)</sup> Se admiten:
+
+– Para españoles: DNI, pasaporte o permiso de conducir.
+
+– Para extranjeros: Pasaporte, carta o documento de identidad (para ciudadanos de la Unión Europea, Andorra, Islandia, Suiza, Noruega, Malta, Mónaco y San Marino). Permiso de residencia español en vigor para los extranjeros residentes en España.
+
+Se cumplimentará: D = DNI, P = Pasaporte, C = Permiso de conducir, I = Carta o documento de identidad, N = Permiso de residencia español, X = Permiso de residencia de otro Estado miembro de la Unión Europea.
+
+<sup><sub>(2)</sub></sup> F = Sexo femenino, y M = Sexo masculino.
+
+<sup>(3)</sup> En el formato AAAAAMMDD, al menos se cumplimentará el año de nacimiento. El mes y el día, si se desconocen, irán como 0000.
+
+<sup>(4)</sup> Nombre del país de nacionalidad.
+
+<sup>(5)</sup> En el formato AAAAMMDD.
+
+<sup>(6)</sup> Únicamente para aquellos establecimientos que no lo cumplimenten en soporte digital.
+
+<sup>(7)</sup> Pudiendo recogerse la firma en papel o en un soporte digital.
+
+> Se modifica por el anexo de la Orden INT/321/2021, de 31 de marzo. [Ref. BOE-A-2021-5483](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5483)

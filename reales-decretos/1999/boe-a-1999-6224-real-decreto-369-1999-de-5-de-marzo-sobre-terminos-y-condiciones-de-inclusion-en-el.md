@@ -1,0 +1,109 @@
+---
+title: "Real Decreto 369/1999, de 5 de marzo, sobre términos y condiciones de inclusión en el Régimen General de la Seguridad Social de los Ministros de Culto de las Iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España"
+identifier: "BOE-A-1999-6224"
+eli: "https://www.boe.es/eli/es/rd/1999/03/05/369"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-03-05
+published: 1999-03-16
+in_force_from: 1999-05-01
+last_amended: 2025-06-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 64"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-6224"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 369/1999, de 5 de marzo, sobre términos y condiciones de inclusión en el Régimen General de la Seguridad Social de los Ministros de Culto de las Iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España
+
+El Real Decreto 2398/1977, de 27 de agosto, por el que se regulaba la Seguridad Social del Clero, establecía en su artículo 1 que los Clérigos de la Iglesia Católica y demás Ministros de otras Iglesias y Confesiones Religiosas, debidamente inscritas en el correspondiente Registro del Ministerio de Justicia, quedarían incluidos en el ámbito de aplicación del Régimen General de la Seguridad Social, en las condiciones que reglamentariamente se determinaran.
+
+Por Orden de 2 de marzo de 1987, y con amparo en lo establecido en el citado Real Decreto, se procedió a incluir en el Régimen General de la Seguridad Social a los Ministros de Culto de la Unión de Iglesias Cristianas Adventistas del Séptimo Día de España.
+
+Posteriormente, en el Acuerdo de Cooperación del Estado Español con la Federación de Entidades Religiosas Evangélicas de España (FEREDE), suscrito el 28 de abril de 1992 y que figura como anexo a la Ley 24/1992, de 10 de noviembre, se prevé, en su artículo 5, que, también de acuerdo con lo dispuesto en el mencionado Real Decreto 2398/1977, de 27 de agosto, los Ministros de Culto de las Iglesias pertenecientes a la FEREDE quedarán incluidos en el Régimen General de la Seguridad Social, precisando que tal inclusión se llevará a efecto a través de la asimilación de los aludidos Ministros a trabajadores por cuenta ajena.
+
+A fin de dar cumplimiento a las previsiones normativas enunciadas se hace preciso dictar la correspondiente norma reglamentaria por la que se incorpore definitivamente a los Ministros de Culto de la totalidad de Iglesias que forman parte de la FEREDE, y en la que se establezcan los términos y condiciones de dicha incorporación y se determine, de acuerdo con lo previsto en el apartado 2 del artículo 114 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, el alcance de la protección que se otorga, en atención a las características del colectivo que se integra.
+
+En su virtud, en uso de las facultades conferidas por la disposición final primera de la Ley 24/1992, de 10 de noviembre, a propuesta conjunta de los Ministros de Justicia y de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de marzo de 1999,
+
+DISPONGO:
+
+## Artículo 1. Asimilación a trabajadores por cuenta ajena.
+
+De acuerdo con lo establecido en el artículo 5 del Acuerdo de Cooperación incluido como anexo a la Ley 24/1992, de 10 de noviembre, quedan asimilados a trabajadores por cuenta ajena, a efectos de su inclusión en el Régimen General de la Seguridad Social, los Ministros de Culto de las Iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España (FEREDE), en los términos y condiciones establecidos en el presente Real Decreto.
+
+## Artículo 2. Ámbito personal de aplicación.
+
+A efectos del presente Real Decreto se entenderá por Ministro de Culto la persona que esté dedicada, con carácter estable, a las funciones de culto o asistencia religiosa, siempre que no desempeñe las mismas a título gratuito.
+
+La acreditación de dicha condición se efectuará mediante certificación expedida por la Iglesia o Federación de Iglesias respectiva, debidamente inscrita en el Registro de Entidades Religiosas. Dicha certificación deberá acompañarse de la conformidad de la comisión permanente de la FEREDE y de la correspondiente certificación emitida por el Registro de Entidades Religiosas del Ministerio de Justicia que acredite la inscripción de la entidad religiosa a la que pertenezca el ministro de culto, y la anotación de dicho ministro de culto, si es que así constara.
+
+> Se modifica el párrafo segundo por el art. único.1 del Real Decreto 839/2015, de 21 de septiembre. [Ref. BOE-A-2015-10146](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10146).
+
+> Esta modificación surte efectos desde el 1 de enero de 2015, según establece la disposición final 2 del citado Real Decreto.
+
+## Artículo 3. Acción protectora.
+
+1\. La acción protectora, por lo que respecta al colectivo al que se refiere el artículo anterior, será la correspondiente al Régimen General de la Seguridad Social, con la única exclusión de la protección por desempleo.
+
+2\. Las contingencias de enfermedad y accidente, cualquiera que sea su origen, se considerarán, en todo caso, como común y no laboral, respectivamente, siéndoles de aplicación el régimen jurídico previsto para éstos en el Régimen General de la Seguridad Social.
+
+## Artículo 4. Cotización.
+
+1\. En la cotización a la Seguridad Social respecto de los ministros de culto a que se refiere el artículo 2 de este real decreto, se aplicarán las normas comunes del Régimen General, con las siguientes reglas específicas:
+
+a) La base de cotización estará constituida por la remuneración total percibida o que tengan derecho a percibir mensualmente los referidos ministros de culto por razón del desempeño de las funciones indicadas en el citado artículo 2. A tal efecto, las bases mensuales de cotización correspondientes a dichos ministros estarán sujetas a los límites máximo y mínimo del grupo 3 de la escala de grupos de cotización vigentes en el Régimen General de la Seguridad Social.
+
+b) La determinación y liquidación de cuotas se efectuarán de conformidad con lo establecido en las normas 2 y 3 del artículo 29 del Reglamento general sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por el Real Decreto 2064/1995, de 22 de diciembre.
+
+2\. En relación con los Ministros de Culto a que se refiere el artículo 2 del presente Real Decreto, no existirá obligación de cotizar con respecto a la contingencia de desempleo, al Fondo de Garantía Salarial ni por Formación Profesional.
+
+> Se modifica el apartado 1 por el art. único del Real Decreto 1138/2007, de 31 de agosto. [Ref. BOE-A-2007-16260](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16260).
+
+## Artículo 5. Obligaciones empresariales.
+
+A efectos de lo previsto en el presente Real Decreto, las respectivas Iglesias o Federaciones de Iglesias asumirán los derechos y obligaciones establecidas para los empresarios en el Régimen General de la Seguridad Social.
+
+## Disposición adicional primera. Régimen jurídico aplicable a los Ministros de Culto de la Unión de Iglesias Cristianas Adventistas del Séptimo Día de España.
+
+A los Ministros de Culto de la Unión de Iglesias Cristianas Adventistas del Séptimo Día de España, incorporados al Régimen General de la Seguridad Social en virtud de la Orden de 2 de marzo de 1987, les será de aplicación lo previsto en el presente Real Decreto, a partir de la fecha de su entrada en vigor.
+
+> Se renumera por el art. único.2 del Real Decreto 839/2015, de 21 de septiembre. [Ref. BOE-A-2015-10146](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10146).
+
+> Esta renumeración surte efectos desde el 1 de enero de 2015, según establece la disposición final 2 del citado Real Decreto.
+
+> Su anterior denominación era disposición adicional única.
+
+## Disposición adicional segunda. Reconocimiento inicial de las prestaciones de jubilación, incapacidad permanente y muerte y supervivencia.
+
+**(Anulada)**
+
+> Se declara la nulidad, en la redacción dada por el art. único.2 del Real Decreto 839/2015, de 21 de septiembre, por Sentencia del TS de 13 de noviembre de 2017. [Ref. BOE-A-2025-11322](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-11322)
+
+> Se añade por el art. único.2 del Real Decreto 839/2015, de 21 de septiembre. [Ref. BOE-A-2015-10146](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-10146).
+
+> Esta modificación surte efectos desde el 1 de enero de 2015, según establece la disposición final 2 del citado Real Decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden de 2 de marzo de 1987, sobre la inclusión en el Régimen General de la Seguridad Social de los Ministros de Culto de la Unión de Iglesias Cristianas Adventistas del Séptimo Día de España, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+## Disposición final primera. Desarrollo reglamentario.
+
+Se faculta al Ministro de Trabajo y Asuntos Sociales para dictar cuantas disposiciones de carácter general resulten necesarias para la aplicación de este Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día primero del segundo mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 5 de marzo de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

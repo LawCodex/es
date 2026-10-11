@@ -1,0 +1,1049 @@
+---
+title: "Real Decreto 1378/1999, de 27 de agosto, por el que se establecen medidas para la eliminación y gestión de los policlorobifenilos, policloroterfenilos y aparatos que los contengan"
+identifier: "BOE-A-1999-18193"
+eli: "https://www.boe.es/eli/es/rd/1999/08/27/1378"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-08-27
+published: 1999-08-28
+in_force_from: 1999-08-29
+last_amended: 2022-12-28
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 206"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-18193"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1378/1999, de 27 de agosto, por el que se establecen medidas para la eliminación y gestión de los policlorobifenilos, policloroterfenilos y aparatos que los contengan
+
+La Ley 10/1998, de 21 de abril, de Residuos; el vigente Reglamento para la ejecución de la derogada Ley 20/1986, de 14 de mayo, básica de Residuos Tóxicos y Peligrosos, aprobado por Real Decreto 833/1988, de 20 de julio, y modificado por el Real Decreto 952/1997, de 20 de junio, y la Orden de 14 de abril de 1989, disposición esta última que incorporó al derecho interno la Directiva 76/403/CEE, regulan en nuestro ordenamiento el régimen aplicable a la gestión, condiciones de tratamiento y eliminación de los policlorobifenilos (PCB) y policloroterfenilos (PCT) en cuanto residuos peligrosos.
+
+Por otra parte, el Real Decreto 1406/1989, de 10 de noviembre, en cumplimiento de las obligaciones impuestas a los Estados miembros por la Directiva 76/769/CEE, sucesivamente modificada, establece limitaciones a la comercialización y uso de ciertas sustancias y preparados peligrosos, entre los que se encuentran los PCB y PCT.
+
+La Directiva 96/59/CE del Consejo, de 16 de septiembre, relativa a la eliminación de PCB y PCT, ha derogado expresamente la Directiva 76/403/CEE, y a diferencia de ésta, impone una serie de obligaciones relacionadas no sólo con los PCB usados y aparatos desechados que los contengan, sino también con los PCB no usados y aparatos en uso.
+
+Se hace por tanto necesario incorporar al derecho interno la Directiva 96/59/CE citada, finalidad que persigue este Real Decreto. En sustitución del anterior, se establece un nuevo régimen sobre la eliminación progresiva de los PCB, bien de forma directa, incluyendo la eliminación de los aparatos que los contengan, o bien mediante su descontaminación.
+
+De conformidad con la normativa comunitaria, se fija el año 2010 como plazo máximo para llevar a cabo la descontaminación o eliminación, con la excepción de los transformadores eléctricos débilmente contaminados, que podrán estar operativos hasta el final de su vida útil. Para el logro de dicho objetivo, se parte de los inventarios que habrán de elaborar las Comunidades Autónomas tomando como referencia la información que aporten los poseedores, quienes también deberán comunicar las previsiones de descontaminación o eliminación.
+
+Asimismo, se impone la obligación de etiquetar todo aparato sometido a inventario y de marcar los transformadores una vez descontaminados, y se prevé la elaboración de una planificación de ámbito estatal y autonómico.
+
+Por otra parte, se establecen limitaciones al uso de PCB y aparatos que los contengan, tomando en consideración el riesgo que representan para la salud de las personas y para el medio ambiente.
+
+El régimen legal aplicable a los PCB y aparatos con PCB que se destinen a la eliminación viene determinado por la Ley 10/1998, de 21 de abril, de Residuos; la habilitación para imponer reglamentariamente las obligaciones pretendidas se encuentra en el apartado 2 de su artículo 1, que atribuye al Gobierno la potestad para establecer normas aplicables a los diferentes tipos de residuos.
+
+Las obligaciones y prohibiciones impuestas en relación con la gestión, uso y comercialización de PCB no usados y aparatos en uso que contienen PCB se fundamentan en el artículo 25.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, que determina que deberán establecerse prohibiciones y requisitos mínimos para el uso y tráfico de los bienes cuando supongan un riesgo o daño para la salud. Asimismo, la Ley 21/1992, de 16 de julio, de Industria, en materia de seguridad industrial, prescribe limitaciones a las actividades y equipos que puedan ocasionar daños a las personas o al medio ambiente.
+
+Este Real Decreto tiene carácter básico, ya que la aplicación en todo el territorio nacional de unas medidas uniformes para la eliminación, descontaminación y gestión de PCB y aparatos que lo contengan se fundamenta, no sólo en la competencia del Estado para establecer la legislación básica sobre protección del medio ambiente, sino también para establecer las bases y coordinación general de la sanidad (artículo 149.1.23. a y 16. a de la Constitución); asimismo, se dicta en ejercicio de la competencia exclusiva del Estado en materia de comercio exterior (artículo 149.1.10. a ).
+
+En la elaboración del presente Real Decreto se ha consultado a las Comunidades Autónomas y a los sectores afectados.
+
+En su virtud, a propuesta de los Ministros de Medio Ambiente, de Industria y Energía y de Sanidad y Consumo, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de agosto de 1999,
+
+### DISPONGO:
+
+#### Artículo 1. Objeto.
+
+Este Real Decreto tiene por objeto establecer medidas para la eliminación o descontaminación de los PCB y aparatos que los contengan, con el fin de prevenir y evitar riesgos al medio ambiente y a la salud humana.
+
+#### Artículo 2. Definiciones.
+
+A los efectos de este Real Decreto se entenderá por:
+
+a) PCB:
+
+1.º Los policlorobifenilos.
+
+2.º Los policloroterfenilos.
+
+3.º El monometiltetraclorodifenilmetano.
+
+4.º El monometildiclorodifenilmetano.
+
+5.º El monometildibromodifenilmetano.
+
+6.º Cualquier mezcla cuyo contenido total de las sustancias anteriormente mencionadas sea superior a 0,005 por 100 en peso (50 ppm).
+
+b) «Aparatos que contienen PCB»: aquellos que contengan o hayan contenido PCB, tales como los transformadores eléctricos, resistencias, inductores, condensadores eléctricos, arrancadores, equipos con fluidos termoconductores, equipos subterráneos de minas con fluidos hidráulicos y recipientes que contengan cantidades residuales, siempre que no hayan sido descontaminados por debajo de 0,005 por 100 en peso de PCB (50 ppm).
+
+Se considera que un aparato contiene PCB si por razones de fabricación, utilización o mantenimiento puede derivarse tal circunstancia, salvo que por su historial se deduzca lo contrario o se acredite que su concentración es inferior a 0,005 por 100 en peso de PCB.
+
+c) «PCB usado»: cualquier PCB considerado como residuo peligroso con arreglo a la legislación vigente.
+
+d) «Poseedor»: la persona física o jurídica que esté en posesión de PCB, PCB usados o aparatos que contengan PCB.
+
+Cuando la propiedad de los aparatos con PCB corresponda a persona física o jurídica distinta de su poseedor, responderá también aquélla del cumplimiento de las obligaciones derivadas de este Real Decreto, en la medida en que la gestión de dichos aparatos no corresponda con carácter exclusivo a su poseedor en los términos en que se haya transferido la posesión.
+
+e) «Descontaminación»: el conjunto de operaciones que permiten que los aparatos, objetos, materiales o fluidos que contengan PCB puedan reutilizarse, reciclarse, valorizarse o eliminarse en condiciones seguras para la salud humana y el medio ambiente. La descontaminación podrá incluir la sustitución de los PCB por fluidos adecuados que no contengan PCB.
+
+f) "Eliminación": exclusivamente las operaciones D9, D10, D12 (solo de acuerdo con lo establecido en el artículo 7, apartado 4, letra b) del Reglamento (UE) 2019/1021 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, sobre contaminantes orgánicos persistentes), D14 y D15, que figuran en el anexo III de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados. Las operaciones D14 y D15 sólo serán admisibles cuando se garantice que el residuo se elimina posteriormente mediante una operación D9, D10 o D12.
+
+g) Aparatos fabricados con fluidos de PCB: aquellos aparatos que contienen PCB debido a que han sido fabricados equipándolos desde su origen con dieléctricos o fluidos constituidos por PCB.
+
+La identificación de los dieléctricos o fluidos constituidos por PCB viene indicada generalmente en las placas o documentación de origen de los aparatos, mediante sus denominaciones comerciales, tales como piraleno, clophen, aroclor, pheneclor, solvol, etc.
+
+h) Aparatos contaminados por PCB: Aparatos que, aunque fabricados con fluidos que originariamente no contenían PCB, a lo largo de su vida se han contaminado, en alguno de sus componentes, con PCB en una concentración igual o superior a 50 ppm.
+
+i) Aparatos que pueden contener PCB: Aquellos de los que exista una razonable sospecha de que pueden haberse contaminado con PCB en su fabricación, utilización o mantenimiento (por haberse podido contaminar en fábrica durante el primer proceso de llenado o durante su servicio en operaciones de desencubados, rellenos de fluido, reparaciones, tratamientos de filtrado, etc.), salvo que por su historial, debidamente acreditado, se deduzca lo contrario o se acredite que su concentración en peso de PCB es inferior a 50 ppm mediante el correspondiente análisis químico.
+
+Los aparatos que pueden contener PCB se considerarán como aparatos con concentración superior a 500 ppm de PCB, a efectos de su inclusión en el inventario y de su descontaminación o eliminación.
+
+En el caso de que no exista información alguna sobre un aparato, perteneciente a alguno de los tipos referidos en el artículo 2 b), deberá considerarse a éste como aparato que puede contener PCB.
+
+> Se modifica la letra f) por la disposición final 1.1 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+> Se añaden las letras g) a i) por el art. único.1 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 3. Obligaciones relativas a los análisis químicos y tomas de muestras.
+
+1\. Los poseedores de aparatos contaminados por PCB, o que puedan contener PCB, deberán tomar las medidas necesarias para comprobar, y así poder acreditar, su contenido en los dieléctricos, aceites u otros fluidos, mediante tomas de muestras y subsiguientes análisis químicos, que se llevarán a cabo cuando sea preceptivo, así lo dispongan las autoridades competentes o sean necesarios para su identificación o catalogación.
+
+2\. Las tomas de muestras deberán ser realizadas y certificadas por Organismos de Control Autorizados o Entidades Colaboradoras de la Administración en materia de medio ambiente, excepto en los casos siguientes:
+
+a) Cuando se desarrollen operaciones de descontaminación o eliminación, momento en que los gestores autorizados que las realicen podrán llevar a cabo y certificar las correspondientes tomas de muestras.
+
+b) Cuando se desarrollen las inspecciones a que se refiere la disposición adicional, en cuyo caso los Organismos de Control Autorizados en materia de reglamentación eléctrica, que realicen esas inspecciones, también podrán llevar a cabo y certificar las correspondientes tomas de muestras en el acto mismo de la inspección. En el marco de sus competencias las comunidades autónomas podrán autorizar a técnicos titulados competentes a realizar y certificar las tomas de muestras, cuando preceptivamente sean éstos quienes realicen dichas inspecciones.
+
+3\. Los análisis químicos deberán ser realizados y certificados por Laboratorios Acreditados para la determinación de PCB, utilizando como método analítico la norma UNE-EN 61619 para determinar los PCB en los líquidos aislantes. Las normas UNE-EN 12766-1 y UNE-EN 12766-2 son las aplicables para determinar los PCB en los productos petrolíferos y en los aceites usados. Los resultados de estos análisis se comunicarán, una vez conocidos, a las autoridades competentes en materia de medio ambiente de las comunidades autónomas y se incluirán en la declaración de posesión referente al año en el que se hayan realizado los análisis que confirmen la concentración permanente de PCB.
+
+> Se modifica por el art. único.2 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 3 bis. Obligaciones generales de los poseedores de PCB y aparatos que los contengan.
+
+1\. Los poseedores de PCB, PCB usados y aparatos con PCB deberán entregarlos a un gestor de residuos autorizado cuando se proceda a su descontaminación o eliminación.
+
+La operación de sustitución de fluidos en transformadores en las propias instalaciones, si no es para su descontaminación, se podrá realizar mediante personal propio o externo capacitado para esta actividad.
+
+2\. Los aparatos que, conteniendo o pudiendo contener PCB, presenten fugas de fluidos deberán ser eliminados o descontaminados lo antes posible a partir del momento en que se hayan detectado las fugas; circunstancia que, inmediatamente, deberá ser puesta en conocimiento de la comunidad autónoma que corresponda.
+
+3\. Cualquier aparato que pueda contener PCB y que haya llegado al final de su vida útil sin haber sido descontaminado o eliminado, podrá ser sometido a las operaciones de toma de muestra y análisis químico en la forma establecida en el artículo 3, con el fin de decidir su forma de gestión en función de su contenido.
+
+Si realizadas estas operaciones, el resultado del análisis químico da una concentración igual o superior a 50 ppm de PCB, el poseedor deberá entregarlo inmediatamente a un gestor autorizado de PCB para su eliminación. Si la concentración resulta ser menor de 50 ppm deberá ser gestionado con arreglo a la legislación aplicable al caso, en particular la relativa a los aceites industriales usados.
+
+En el caso de que, al final de la vida útil de un aparato que pueda contener PCB, no se llevase a cabo dicho análisis químico, el poseedor deberá entregarlo, inmediatamente, a un gestor autorizado para que se proceda a su definitiva eliminación como aparato que contiene PCB.
+
+4\. Tras ser sometido a una operación de descontaminación para su posterior reutilización un aparato con PCB sólo podrá ser declarado como totalmente descontaminado si la concentración en PCB de sus fluidos se mantiene por debajo de las 50 ppm transcurrido un año desde la fecha en que se realizó dicha operación. Esta condición deberá ser acreditada mediante dos análisis químicos, uno tras el tratamiento y el segundo un año después, que se realizarán de acuerdo con el artículo 3.
+
+5\. Cuando un transformador con PCB sea sometido a alguna operación de tratamiento o sustitución para reducir la concentración de PCB en sus fluidos a valores comprendidos entre 50 y 500 ppm en peso, sólo podrá ser declarado transformador con concentración de PCB comprendida entre estos límites transcurrido un año desde la fecha en que se realizó dicha operación, y siempre que, analizada una nueva muestra del dieléctrico, aceites y otros fluidos del aparato un año después, se confirme que su concentración de PCB se sigue manteniendo entre 50 y 500 ppm. Estos análisis se llevarán a cabo de acuerdo con el artículo 3.
+
+6\. Un aparato con PCB que sea sometido a una operación de eliminación no podrá ser declarado como totalmente eliminado hasta que el poseedor disponga del correspondiente certificado de eliminación o destrucción del aparato, emitido por el gestor autorizado responsable de dicha operación. En este certificado se deberá acreditar que los PCB que contenía han sido definitivamente eliminados y que los componentes y materiales que lo componían han sido descontaminados, reciclados y en su caso eliminados, en plantas autorizadas de gestión, conforme a lo establecido en el presente real decreto.
+
+> Se añade por el art. único.2 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 3 ter. Obligaciones específicas de los poseedores de PCB y aparatos que los contengan.
+
+1\. La descontaminación o eliminación de transformadores eléctricos con concentración de PCB superior a 500 ppm, la de los restantes tipos de aparatos con concentración de PCB igual o superior a 50 ppm y la de los PCB contenidos en los mismos deberá realizarse antes del 1 de enero del año 2011; a excepción de los aparatos con volumen de PCB inferior a un decímetro cúbico.
+
+Sin perjuicio de lo establecido en el párrafo anterior, los equipos (por ejemplo, transformadores, condensadores u otros receptáculos que contengan material líquido) que contengan más de 0,005 % de PCB y un volumen superior a 0,05 dm3, deberán ser retirados del uso tan pronto como sea posible, y antes del 31 de diciembre de 2025, y posteriormente serán eliminados o descontaminados como residuos peligrosos en un plazo máximo de seis meses. En supuestos excepcionales, la comunidad autónoma competente podrá modificar este plazo por causas debidamente justificadas y siempre que se garantice la protección de la salud humana y el medio ambiente.
+
+Sin perjuicio de lo establecido en el siguiente apartado, los poseedores de aparatos con PCB deberán dar prioridad, en el orden de descontaminación o eliminación, a aquellos cuyas condiciones los hagan especialmente peligrosos, ya sea por su alto contenido en PCB como por su ubicación u otra circunstancia que implique mayor riesgo para las personas o el medio ambiente.
+
+2\. Los poseedores de los PCB y aparatos con PCB a que hace referencia el primer párrafo del apartado anterior estarán obligados a descontaminarlos o eliminarlos, en las fechas que se indican a continuación:
+
+a) Aparatos fabricados con fluidos de PCB:
+
+| En fecha de fabricación desconocida. | Antes del 1-1-2007. |
+|---|---|
+| En fecha de fabricación anterior al año 1965. | Antes del 1-1-2007. |
+| En fecha de fabricación comprendida entre los años 1965 y 1969, ambos inclusive. | Antes del 1-1-2008. |
+| En fecha de fabricación comprendida entre los años 1970 y 1974, ambos inclusive. | Antes del 1-1-2009. |
+| En fecha de fabricación comprendida entre los años 1975 y 1980, ambos inclusive. | Antes del 1-1-2010. |
+| En fecha de fabricación posterior al año 1980. | Antes del 1-1-2011. |
+
+Si un aparato fabricado con fluido de PCB, que no haya sido inventariado, apareciese en fecha posterior a la que le corresponde para su eliminación/descontaminación, su poseedor deberá inmediatamente dar cuenta de ello a la autoridad competente de la comunidad autónoma que corresponda, explicando las razones por las que ese aparato era desconocido. Asimismo deberá entregarlo, inmediatamente, a un gestor autorizado para que se proceda a su debida eliminación, dándolo de alta en el inventario referente al año de su aparición.
+
+Teniendo en cuenta las circunstancias de cada caso, la comunidad autónoma correspondiente establecerá el plazo máximo para la citada entrega, que deberá ser el más corto posible.
+
+b) Aparatos contaminados por PCB:
+
+Se eliminarán o descontaminarán en los años y porcentajes mínimos siguientes, referidos a la cantidad total en peso (sólido más líquido) de los mismos que posean al comienzo de cada año:
+
+| Año 2006 | 20 % |
+|---|---|
+| Año 2007 | 25 % |
+| Año 2008 | 33 % |
+| Año 2009 | 50 % |
+| Año 2010 | 100 % |
+
+En el caso de que, a lo largo de los próximos años, aparezcan aparatos contaminados por PCB que no estén comprendidos en los correspondientes inventarios, las cantidades de estos aparatos y los PCB que contengan se sumarán a las cantidades a descontaminar/eliminar ese mismo año, o el siguiente año si no hubiese tiempo para ello, que resulten de la aplicación de los porcentajes citados a las cantidades correspondientes ya inventariadas y a continuación se darán de alta en el inventario referente al año de su aparición, consignándose en el mismo esta circunstancia.
+
+Si la aparición de aparatos contaminados por PCB no inventariados se hubiese producido por razones debidamente justificadas ante la autoridad competente de la comunidad autónoma que corresponda, ésta, si lo considerase procedente, podrá permitir que su eliminación o descontaminación se realice sumando los pesos de los mismos a los de los aparatos existentes ya inventariados y aplicando a la cantidad total resultante los porcentajes de eliminación establecidos en el presente apartado.
+
+Si los aparatos contaminados por PCB no inventariados apareciesen en el año 2010, deberán ser descontaminados o eliminados en ese mismo año.
+
+Los poseedores de un número de aparatos contaminados inferior a seis podrán descontaminar o eliminar uno por año siempre que el último se elimine antes del año 2011.
+
+3\. Los poseedores de aparatos que puedan contener PCB estarán obligados a someterlos a los análisis químicos a que hace referencia el artículo 3, en los años y porcentajes mínimos que se indican a continuación, referidos a la cantidad total en peso (sólido más líquido) de los mismos que posean al comienzo de cada año:
+
+| Año 2006 | 33 % |
+|---|---|
+| Año 2007 | 50 % |
+| Año 2008 | 100 % |
+
+Los poseedores de un número de aparatos inferior a cuatro que puedan contener PCB, podrán analizar uno por año siempre que el último se analice antes del año 2009.
+
+Los aparatos cuyos análisis químicos hayan revelado que su concentración real de PCB es igual o superior a 50 ppm deberán ser declarados como aparatos contaminados por PCB en la declaración referente al año en que se ha realizado el análisis, o como aparatos eliminados o descontaminados si así lo fuesen durante dicho año. Si por el contrario los análisis químicos revelasen que su concentración real de PCB es inferior a 50 ppm deberán darse de baja del inventario en dicha declaración y no se contabilizarán, en ningún caso, como aparatos descontaminados o eliminados.
+
+Los aparatos que puedan contener PCB poseídos en el año 2008, que por causas de fuerza mayor debidamente justificadas no hayan podido ser analizados durante ese año, podrán ser analizados antes del 1 de abril de 2009; en el caso de no ser analizados antes de esta fecha, deberán ser declarados como aparatos contaminados con concentración de PCB superior a 500 ppm en la declaración correspondiente al año 2009, o como aparatos eliminados o descontaminados si así lo fuesen durante dicho año.
+
+4\. Las Administraciones Públicas podrán establecer medidas de fomento dirigidas a los poseedores de PCB y aparatos que los contengan, siempre que justifiquen debidamente que el ritmo de descontaminación o eliminación de los aparatos que posean supera la cadencia media contemplada en el Plan Nacional y las cuotas de eliminación establecidas en el presente real decreto.
+
+> Se modifica el apartado 1 por la disposición final 1.2 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+> Se añade por el art. único.2 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 4. Aparatos sometidos a inventario.
+
+1\. Deberán ser inventariados los siguientes aparatos:
+
+a) Aquellos que tengan un volumen de PCB superior a 5 decímetros cúbicos.
+
+b) Los que tengan un volumen de PCB comprendido entre1y5decímetros cúbicos.
+
+2\. Para los aparatos con un volumen de PCB superior a 5 decímetros cúbicos, a su vez, deberán distinguirse los dos grupos siguientes:
+
+a) Aquellos que tengan una concentración de PCB en el fluido aislante superior a 500 ppm en peso. Además, se presume dicha concentración, salvo acreditación en contrario, en los siguientes casos:
+
+1.º Los fabricados con un fluido aislante diferente del PCB que hayan sido desencubados para su reparación o reconversión, o que hayan sido sometidos a tratamiento de filtrado.
+
+2.º Los que hayan sido objeto de operaciones de mantenimiento u otra manipulación que haya ocasionado su contaminación.
+
+b) Aparatos cuya concentración de PCB en su fluido aislante esté comprendida entre 50 y 500 ppm en peso.
+
+3\. En el caso de los condensadores eléctricos, la estimación del volumen de PCB debe incluir el conjunto de los distintos elementos de una unidad completa.
+
+#### Artículo 5. Declaración de posesión de aparatos sometidos a inventario y comunicación de previsiones para descontaminación o eliminación.
+
+1\. Los poseedores de PCB deberán declarar anualmente a las comunidades autónomas los aparatos sometidos a inventario que posean, las previsiones para su descontaminación o eliminación y la identificación de los aparatos ya descontaminados o eliminados, aportando la documentación acreditativa correspondiente.
+
+2\. En el plazo de dos meses a partir del 1 de enero de cada año, los poseedores de aparatos sometidos a inventario deberán acreditar el cumplimiento de lo establecido en los artículos 3 bis y 3 ter, presentando, ante el órgano competente de las comunidades autónomas donde se encuentren ubicados, las declaraciones anuales a que hace referencia el apartado anterior, debidamente actualizadas.
+
+3\. Las declaraciones anuales deberán referirse siempre al año anterior a su fecha de presentación y deberán incluir información detallada y cuantificada tanto de los aparatos con PCB y que puedan contener PCB, existentes a 31 de diciembre de dicho año, como de los eliminados o descontaminados desde la fecha de entrada en vigor del Real Decreto 1378/1999, así como las previsiones anuales de descontaminación o eliminación de los aparatos poseídos.
+
+4\. Los poseedores deberán aportar la información a que se refiere el apartado anterior, incluyendo, como mínimo, los datos que figuran en el Anexo.
+
+5\. Las declaraciones anuales correspondientes, deberán ir acompañadas de la siguiente documentación:
+
+a) Los Documentos de Control y Seguimiento de los aparatos declarados que hayan sido entregados a un gestor autorizado, para su posterior eliminación o descontaminación, durante el año al que se refiere la declaración.
+
+b) Los Certificados de Eliminación o Destrucción, a que hace referencia el apartado 6 del artículo 3 bis, de los aparatos declarados que hayan sido definitivamente eliminados durante el año al que se refiere la declaración.
+
+c) Los Certificados de Descontaminación de los aparatos declarados que hayan sido descontaminados para su posterior reutilización, emitidos por el gestor que haya realizado las operaciones de descontaminación, así como las Actas o Certificados de tomas de muestras y los Boletines o Informes de resultados de los análisis químicos en los que se acredite que su concentración en PCB se ha mantenido por debajo de 50 ppm en el año siguiente a dichas operaciones de descontaminación.
+
+d) Los Certificados de Reducción de PCB de los transformadores declarados que hayan sido sometidos a operaciones de reducción de la concentración de PCB a valores entre 50 y 500 ppm, emitidos por el gestor que haya realizado las operaciones, así como las Actas o Certificados de tomas de muestras y los Informes o Boletines de resultados de los análisis químicos en los que se acredite que su concentración en PCB se ha mantenido en valores comprendidos entre 50 y 500 ppm en el año siguiente a dichas operaciones de reducción.
+
+e) Las Actas o Certificados de tomas de muestras y los Informes o Boletines de resultados de los análisis químicos de los aparatos que, habiendo sido previamente inventariados como aparatos que pueden contener PCB, hayan sido finalmente dados de baja del inventario del poseedor durante el año al que se refiere la declaración como consecuencia de que los resultados de dichos análisis hayan dado valores permanentes de la concentración de PCB inferiores a 50 ppm.
+
+f) Las Actas o Certificados de inspección ocular de los aparatos declarados, tanto de las inspecciones preceptivas como de las no preceptivas, en las que se evalúe su estado y el riesgo de posibles fugas.
+
+6\. Los poseedores de PCB deberán identificar y declarar a las comunidades autónomas los aparatos que contengan más de 0,005 % de PCB y un volumen entre 0,05 dm³ y 1 dm³ de PCB que posean tan pronto como sea posible, y antes del 1 de julio de 2023. Asimismo, deberán declarar anualmente, en el plazo de dos meses a partir del 1 de enero de cada año, los aparatos de este tipo que hayan sido descontaminados o eliminados, aportando la documentación acreditativa correspondiente. Las declaraciones anuales incluirán la documentación contenida en las letras a), b) c) y f) del apartado anterior.
+
+> Se añade el apartado 6 por la disposición final 1.3 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+> Se modifica por el art. único.3 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 6. Inventarios.
+
+1\. Corresponde a las comunidades autónomas la elaboración de los inventarios de aparatos, el control de las cantidades de PCB declaradas y aparatos que los contengan, así como la vigilancia e inspección de las instalaciones pertenecientes a los potenciales poseedores de estos residuos.
+
+2\. A partir de los datos suministrados por los poseedores en sus declaraciones, las comunidades autónomas elaborarán anualmente inventarios de los aparatos relacionados en el artículo 4 que se encuentren ubicados en su ámbito territorial. Dichos inventarios incluirán, al menos, los datos que para cada caso figuran en el Anexo.
+
+3\. Anualmente, y antes del 1 de mayo de cada año, las comunidades autónomas remitirán a la Dirección General de Calidad y Evaluación Ambiental el inventario correspondiente al año anterior debidamente actualizado, desglosado por empresas o poseedores, a efectos de su comunicación a la Comisión Europea a través del cauce reglamentario.
+
+> Se modifica por el art. único.4 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 7. Etiquetado y marcado.
+
+1\. Los poseedores de PCB deberán proceder al etiquetado y marcado de todos los aparatos en su posesión sometidos a inventario, precisando como mínimo los siguientes datos:
+
+Fecha del marcado (día, mes y año).
+
+Aparato (número de identificación asignado y modelo de serie si se conoce).
+
+Tipo de aparato (transformador, condensador, recipiente, arrancador, etc.).
+
+Fecha de fabricación del aparato (día, mes y año, o desconocida).
+
+Volumen del fluido/PCB en decímetros cúbicos.
+
+Concentración de PCB en ppm (real o > 500 ppm si es un aparato que puede contener PCB).
+
+Grupo (fabricado con PCB, contaminado por PCB o aparato que puede contener PCB).
+
+Peso total del aparato, en Kilogramos (sólido más líquido).
+
+Los poseedores de los aparatos con volumen de PCB superior a 5 decímetros cúbicos deberán poner, además, una etiqueta en las puertas de los locales donde se encuentren dichos aparatos.
+
+Cuando los datos correspondientes a la concentración de PCB y al grupo al que pertenece el aparato cambien por haberse reducido la concentración o por haberse identificado su contenido, se añadirá, en el marcado del aparato, la nueva concentración de PCB, el nuevo grupo al que pertenece y la fecha en que se incorporen estas nuevas informaciones en la etiqueta de marcado.
+
+2\. Los poseedores de aparatos con PCB que hayan sido descontaminados los marcarán con las determinaciones fijadas en el Anexo II del Real Decreto 1378/1999.
+
+> Se modifica por el art. único.5 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 8. Normas especiales relativas a los transformadores.
+
+1\. La descontaminación de los transformadores cuyos fluidos contengan más de 0,05 por 100 de su peso de PCB (más de 500 ppm) se realizará en las siguientes condiciones:
+
+a) Debería reducirse el nivel de PCB a menos del 0,05 por 100 en peso y, si es posible, por debajo del 0,005 por 100 en peso.
+
+b) El fluido de sustitución no contendrá PCB ni entrañará riesgos para el medio ambiente, o, al menos, éstos serán menores que los provocados por los PCB.
+
+c) La sustitución del fluido no deberá obstaculizar la posterior eliminación de los PCB.
+
+d) El etiquetado del transformador será sustituido después de su descontaminación por el etiquetado especificado en el anexo II de este Real Decreto.
+
+2\. Los transformadores cuyos fluidos contengan una concentración entre 50 y 500 ppm, en peso de PCB deberán ser retirados del uso tan pronto como sea posible, y antes del 31 de diciembre de 2025, y posteriormente serán eliminados o descontaminados como residuos peligrosos en un plazo máximo de seis meses. En supuestos excepcionales, la comunidad autónoma competente podrá modificar este plazo por causas debidamente justificadas y siempre que se garantice la protección de la salud humana y el medio ambiente. La descontaminación se realizará en las mismas condiciones establecidas en los párrafos b) y d) del apartado 1.
+
+3\. Hasta que sean descontaminados, puestos fuera de servicio o eliminados podrá realizarse el mantenimiento de transformadores que contengan PCB sólo cuando tenga por objeto que los PCB que contienen cumplan con las normas o especificaciones técnicas relativas a la calidad dieléctrica, y siempre que los transformadores se encuentren en buen estado de funcionamiento y no presenten fugas.
+
+4\. Corresponde a las Comunidades Autónomas verificar que la descontaminación y el mantenimiento de los transformadores se realice según lo establecido en los apartados anteriores.
+
+> Se modifica el apartado 2 por la disposición final 1.4 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+#### Artículo 9. Limitaciones en el uso de aparatos con PCB.
+
+Queda prohibido separar los PCB de otras sustancias a efectos de su reutilización, completar el nivel de los aparatos que contienen PCB utilizando PCB, así como rellenar un equipo unitario, situado cerca de otros aparatos que contengan PCB, con un líquido de sustitución que tenga un punto de inflamación inferior a 300 grados centígrados.
+
+#### Artículo 10. Condiciones de manipulación y almacenamiento.
+
+1\. Los aparatos con PCB que no estén sometidos a inventario y que formen parte de otro aparato deberán retirarse y recogerse por separado cuando este último se ponga fuera de uso, se recicle o se elimine.
+
+2\. Hasta que los PCB, PCB usados y aparatos que los contengan sean recogidos para su eliminación o descontaminación, el poseedor adoptará las medidas de precaución necesarias para evitar todo riesgo de incendio, almacenándolos alejados de cualquier producto inflamable.
+
+3\. No se podrá manipular o almacenar PCB junto a explosivos, sustancias inflamables, agentes oxidantes o corrosivos o productos alimenticios. Las zonas en las que se manipulen o almacenen envases, materiales o aparatos con PCB tendrán suelos estancos, capaces de soportar todas las cargas previsibles y de retener todas las fugas de PCB.
+
+La capacidad de retención de las fugas será igual o superior a la mitad de la capacidad máxima de almacenamiento de PCB y superior al volumen total de la masa de PCB contenida en el mayor de los equipos.
+
+4\. En las zonas indicadas en el apartado anterior se cumplirán las vigentes normas de prevención y de protección contra incendios. Los envases de PCB deberán ser impermeables, tener paredes dobles y estar etiquetados.
+
+5\. Las estructuras para la recogida y almacenamiento de PCB y aparatos que contengan PCB se cubrirán de forma impermeable, dotándolas además de un sistema especial de recogida de todos los líquidos contaminados, para evitar su vertido al sistema de evacuación de las aguas.
+
+#### Artículo 11 bis. Obligaciones en materia de información sobre PCB.
+
+Los Organismos de Control Autorizados o Entidades Colaboradoras de la Administración en materia de medio ambiente, así como en materia de reglamentación eléctrica, que detecten, en las analíticas que realicen, concentraciones de PCB que obliguen a la descontaminación o eliminación de los aparatos que los contienen conforme a lo establecido en el artículo 3 ter y el apartado 2 del artículo 8, deberán comunicarlo de manera inmediata a las autoridades competentes en materia de medio ambiente e industria, identificando los datos relativos al aparato en el que se han detectado dichas concentraciones: titular del aparato, tipo de aparato (marca, modelo y número de serie) y ubicación, y concentraciones de PCB en el mismo.
+
+> Se añade por la disposición final 1.5 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+#### Artículo 12. Normas relativas a la eliminación de los PCB y aparatos que los contengan.
+
+1\. La eliminación de los PCB, PCB usados y aparatos que los contengan se realizará mediante incineración, de acuerdo con lo regulado en el Real Decreto 1217/1997, de 18 de julio, sobre incineración de residuos peligrosos.
+
+2\. No obstante podrán utilizarse otros métodos de eliminación, de conformidad con lo establecido en el artículo 19.1 de la Ley 10/1998, siempre que éstos garanticen niveles de protección ambiental similares a los exigidos en el Real Decreto citado en el apartado anterior y cumplan los requisitos técnicos considerados como las mejores técnicas disponibles.
+
+3\. Las instalaciones que eliminen o descontaminen PCB o aparatos que los contengan, cumplirán lo establecido en el artículo 7 apartados 1, 2, 3 y 4 del Reglamento (UE) 2019/1021 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, sobre contaminantes orgánicos persistentes.
+
+> Se modifica el apartado 3 por la disposición final 1.6 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+> Se añade el apartado 3 por el art. único.6 del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+#### Artículo 13. Plan Nacional de descontaminación y eliminación de PCB.
+
+1\. Durante el año 2001 la Administración General del Estado, mediante la integración de los respectivos planes autonómicos de descontaminación y eliminación, elaborará el Plan Nacional de descontaminación y eliminación, contemplando y cuantificando por separado los aparatos con más de 500 ppm y los aparatos y aceites con menos de 500 ppm de PCB.
+
+El Plan Nacional establecerá objetivos, medidas para alcanzarlos, medios de financiación y procedimiento de revisión.
+
+2\. Corresponde al Consejo de Ministros la aprobación del Plan Nacional, previo informe del Ministerio de Sanidad y Consumo y posterior deliberación de la Conferencia Sectorial del Medio Ambiente. En su elaboración deberá incluirse un trámite de información pública.
+
+3\. El Plan Nacional será revisado cada cuatro años y podrá articularse, en su caso, mediante convenios de colaboración suscritos por la Administración General del Estado y las Comunidades Autónomas.
+
+#### Artículo 14. Planes autonómicos de descontaminación y eliminación de PCB.
+
+1\. Las Comunidades Autónomas, a partir de las previsiones de descontaminación o eliminación que realicen los poseedores, elaborarán los planes autonómicos de descontaminación y eliminación, que contendrán la cuantificación de aparatos incluidos, la estimación de los costes de recogida, los objetivos anuales de descontaminación y eliminación así como los lugares e instalaciones apropiadas. Los planes autonómicos se revisarán cada cuatro años.
+
+2\. Las Comunidades Autónomas, antes del 31 de agosto del año 2001, remitirán a la Dirección General de Calidad y Evaluación Ambiental del Ministerio de Medio Ambiente sus respectivos planes autonómicos. Las revisiones de dichos planes autonómicos deberán remitirse asimismo al citado órgano directivo.
+
+#### Artículo 15. Régimen sancionador.
+
+El incumplimiento de lo establecido en este real decreto será sancionado con arreglo a lo dispuesto en el capítulo II título IX de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, así como en el capítulo VI del título I de la Ley 14/1986, de 25 de abril, General de Sanidad y en el título V de la Ley 21/1992, de 16 de julio, de Industria.
+
+> Se modifica por la disposición final 1.7 del Real Decreto 1055/2022, de 27 de diciembre. [Ref. BOE-A-2022-22690](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22690)
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden de 14 de abril de 1989 sobre gestión de los policlorobifenilos y los policloroterfenilos (PCB/PCT) y cuantas normas de igual o inferior rango se opongan a lo establecido en el presente Real Decreto.
+
+#### Disposición final primera. Fundamento constitucional.
+
+Este Real Decreto tiene carácter de legislación básica en materia de protección del medio ambiente y de sanidad, de acuerdo con lo establecido en el artículo 149.1.23.ª y 16.ª de la Constitución, y se dicta, además, de conformidad con la competencia atribuida al Estado por el artículo 149.1.10.ª en materia de comercio exterior.
+
+#### Disposición final segunda. Habilitación de desarrollo.
+
+Se autoriza a los Ministros de Medio Ambiente, de Sanidad y Consumo y de Industria y Energía para dictar, en el ámbito de sus respectivas competencias, las disposiciones necesarias para la aplicación y el desarrollo de lo establecido en este Real Decreto.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 27 de agosto de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO I — Declaración de los poseedores de aparatos sometidos a inventario
+
+## CONSIDERACIONES PARA LA ELABORACIÓN DE LA DECLARACIÓN ANUAL DE PCB Y APARATOS QUE LOS CONTENGAN
+
+1\. Los poseedores deberán completar sus declaraciones anuales añadiendo a los datos mínimos contenidos en el presente anexo cualquier otro dato que se desprenda del contenido de este real decreto (por ejemplo: la identificación de aquellos aparatos que, no estando previamente inventariados, se den de alta en el inventario por haber aparecido durante el año al que se refiere la declaración), así como cualquier observación que sea esencial para aclarar algún dato de la declaración.
+
+2\. Los poseedores deberán facilitar el seguimiento y cuantificación del contenido de sus listas de aparatos, segregando y agrupando adecuadamente, en determinados casos, los aparatos contenidos en las mismas (por ejemplo: agrupar los aparatos que hayan sido entregados a un gestor y, a 31 de diciembre del año al que se refiere la declaración, no se hayan recibido los certificados de su definitiva eliminación).
+
+## DATOS MÍNIMOS QUE INCLUIR EN LA DECLARACIÓN ANUAL DE LOS APARATOS SOMETIDOS A INVENTARIO
+
+1\. AÑO AL QUE SE REFIERE LA DECLARACIÓN:
+
+a)*Indicar el año anterior a la fecha en que se presenta esta declaración del poseedor.*
+
+2\. LUGAR Y FECHA DE LA DECLARACIÓN ANUAL:
+
+b)*Indicar lugar, día, mes y año en el que se cumplimenta la declaración.*
+
+3\. DATOS DEL POSEEDOR:
+
+c) *Indicar el NIF, nombre y apellidos del poseedor, o de la entidad poseedora y el domicilio.*
+
+4\. LISTAS DE APARATOS INVENTARIADOS DEL POSEEDOR (incluirá los aparatos poseídos a 31 de diciembre del año al que se refiere la declaración y los gestionados, descontaminados o eliminados desde la entrada en vigor del R.D. 1378/1999. Cada fila corresponderá a un solo aparato):
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>aparato</p>
+</th>
+<th>
+<p>tipo</p>
+</th>
+<th>
+<p>fecha de fabricación</p>
+</th>
+<th>
+<p>ubicación</p>
+</th>
+<th>
+<p>grupo</p>
+</th>
+<th>
+<p>volumen de fluido con PCB (dm3)</p>
+</th>
+<th>
+<p>concentración del PCB (ppm)</p>
+</th>
+<th>
+<p>justificación del contenido de PCB</p>
+</th>
+<th>
+<p>previsión de eliminación o descontaminación (año previsto y tipo de tratamiento a realizar)</p>
+</th>
+<th>
+<p>fecha de la entrega realizada a un gestor y nombre de éste</p>
+</th>
+<th>
+<p>fecha y tipo de la eliminación o descontaminación realizada y nombre del gestor que la realiza</p>
+</th>
+<th>
+<p>cantidad de fluido con PCB (Kg)</p>
+</th>
+<th>
+<p>peso total del aparato (Kg)</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(6)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(7)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(6)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(7)</p>
+</td>
+</tr>
+<tr>
+<td colspan="9">
+<p>TOTALES DECLARADOS</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td colspan="3"> </td>
+</tr>
+</tbody>
+</table>
+
+(1) Por cada aparato, el poseedor asignará un n.º de identificación y consignará, si se conocen, el n.º de serie, fabricante, modelo y KVA.
+
+(2) Indicar el tipo al que pertenece el aparato de entre los siguientes: Transformador, Resistencia, Industor, Condensador, Arrancador, Equipo con fluido termoconductor, Equipo subterráneo de minas con fluido hidráulico, Recipiente, Otros.
+
+(3) Indicar el nombre del centro o lugar donde se encuentre el aparato, así como la dirección, municipio y comunidad autónoma.
+
+(4) Indicar el grupo al que pertenece el aparato de entre los siguientes: Grupo 1: aparato fabricado con fluidos de PCB; Grupo 2: aparato contaminado por PCB (su concentración de PCB corresponderá al resuldado del análisis químico); Grupo 3, aparato que puede contener PCB (se presumirá una concentración de PCB > 500 ppm); Grupo 4: aparato totalmente eliminado o descontaminado por debajo de 50 ppm (no se declarará como eliminado hasta disponer de su certificado de destrucción y como descontaminado hasta que, un año después de la operación, un análisis revele que la concentración permanece inferior a 50 ppm).
+
+(5) Indicar lo que corresponda: nombre comercial del PCB (piraleno, aroclor, etc.), fecha del análisis químico y laboratorio, aparato que puede contener PCB.
+
+(6) Indicar el tipo de tratamiento: Descontaminación (sustitución de fluido u otros tratamientos) o Eliminación (destrucción con incineración de PCB u otras formas de eliminación contempladas en el presente R.D.).
+
+(7) Se entenderá por peso total del aparato el del conjunto del mismo (sólido más dieléctrico, aceite u otros fluidos), este dato deberá consignarse siempre. Si el poseedor no dispone de este dato real, o no pueda pesar el aparato, deberá realizar una estimación del mismo lo más aproximada posible.
+
+5\. CUADRO RESUMEN DE APARATOS INVENTARIADOS A 31 DE DICIEMBRE DEL AÑO AL QUE SE REFIERE LA DECLARACIÓN, DE ACUERDO CON EL ARTÍCULO 4 DEL R.D. 1378/1999:
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>TIPOS DE APARATOS</p>
+</th>
+<th>
+<p>VOLUMEN Y CONCENTRACIÓN DE PCB</p>
+</th>
+<th colspan="4">
+<p>PESOS POR GRUPOS DE APARATOS</p>
+<p>(Kg)</p>
+</th>
+<th>
+<p>TOTAL (Kg)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td>
+<p>Grupo 1</p>
+</td>
+<td>
+<p>Grupo 2</p>
+</td>
+<td>
+<p>Grupo 3</p>
+</td>
+<td>
+<p>Grupo 4</p>
+</td>
+<td rowspan="5"> </td>
+</tr>
+<tr>
+<td>
+<p>Aparatos fabricados con fluidos de PCB</p>
+</td>
+<td>
+<p>Aparatos contaminados por PCB</p>
+</td>
+<td>
+<p>Aparatos que pueden contener PCB</p>
+</td>
+<td>
+<p>Aparatos totalmente eliminados o descontaminados por debajo de 50 ppm desde el 29-8-1999</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>(1)</p>
+</td>
+<td>
+<p>&gt; 5 dm3 y &gt; 500 ppm</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&gt; 5dm3 y 50 a 500ppm</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 a 5 dm3 y &gt; 50 ppm</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>TOTAL DECLARADO</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Indicar tipos, no unidades, distinguiendo entre los transformadores y los restantes tipos de aparatos.
+
+(2) Casilla no aplicable (los fluidos con PCB incorporados en origen, ye sean dieléctricos u otros, poseen concentraciones de PCB muy superiores a 500 ppm).
+
+(3) Casilla o aplicable (a los aparatos que puedan contener PCB se les presumirá una concentración de PCB > 500 ppm.)
+
+(4) Estas columnas corresponden a los aparatos inventariados que no han sido eliminadas ni descontaminados antes de finalizar el año al que se refiere la declaración.
+
+(5) El total declarado deberá ser igual a la suma de los cuatro Grupos, que corresponde al total inventariado desde el 29-8-1999 menos los dados de baja del inventario porque, habiendo pertenecido al Grupo 3, haya evidencia analítica de que su concentración es inferior a 50 ppm.
+
+6\. CANTIDAD TOTAL, EN KG, DE APARATOS POSEÍDOS AL COMIENZO DEL AÑO AL QUE SE REFIERE LA DECLARACIÓN.
+
+7\. CANTIDAD TOTAL, EN KG, DE APARATOS QUE HAN SIDO ELIMINADOS O DESCONTAMINADOS DURANTE EL AÑO AL QUE SE REFIERE LA DECLARACIÓN.
+
+8\. CANTIDAD TOTAL, EN KG, PREVISTA DE APARATOS A ELIMINAR O DESCONTAMINAR DURANTE EL AÑO SIGUIENTE AL QUE SE REFIERE LA DECLARACIÓN
+
+9\. LISTA DE APARATOS QUE, HABIENDO PERTENECIDO AL GRUPO 3, HAN PASADO A OTRO GRUPO DEL INVENTARIO DURANTE EL AÑO AL QUE SE REFIERE LA DECLARACIÓN, AL SOMETERSE DURANTE ESE AÑO A ANÁLISIS QUÍMICOS QUE HAN PUESTO EN EVIDENCIA QUE SU CONCENTRACIÓN EN PCB ES IGUAL O SUPERIOR A 50 PPM:
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Aparato</p>
+</th>
+<th>
+<p>Tipo</p>
+</th>
+<th>
+<p>Ubicación</p>
+</th>
+<th>
+<p>Fecha de fabricación</p>
+</th>
+<th>
+<p>Resultado del análisis en ppm</p>
+</th>
+<th>
+<p>Fecha del análisis químico</p>
+</th>
+<th>
+<p>Nombre del laboratorio y n.º de identificación del Informe de resultados</p>
+</th>
+<th>
+<p>Grupo al que ha pasado</p>
+</th>
+<th>
+<p>Peso total del aparato (Kg)</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="8">
+<p>TOTAL PASADO A OTRO GRUPO DURANTE EL AÑO</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Indicar, para cada aparato, el n.º de identificación que se le asignó cuando estaba incluido en el Grupo 3 del inventario, consignando igualmente: n.º serie. fabricante, modelo y KVA. cuando se disponga de estos datos.
+
+(2) Indicar el tipo al que pertenece el aparato, de entre los siguientes Transformador, Resistencia, Inductor, Condensador, Arrancador. Equipo con fluido termoconductor, Equipo subterráneo de minas con fluido hidráulico. Recipiente, Otros.
+
+(3) Indicar el nombre del centro o lugar donde se encuentre el aparato así como la dirección, municipio y comunidad autónoma.
+
+(4) Indicar Grupo 2, o Grupo 4 si el aparato es eliminado ese mismo año.
+
+10\. LISTA DE APARATOS QUE, HABIENDO PERTENECIDO AL GRUPO 3, HAN SIDO DADOS DE BAJA DEL INVENTARIO DEL POSEEDOR DURANTE EL AÑO AL QUE SE REFIERE LA DECLARACIÓN, AL SOMETERSE DURANTE ESE AÑO A ANÁLISIS QUÍMICOS QUE HAN PUESTO EN EVIDENCIA QUE SU CONCENTRACIÓN EN PCB ES INFERIOR A 50 PPM:
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Aparato</p>
+</th>
+<th>
+<p>Tipo</p>
+</th>
+<th>
+<p>Ubicación</p>
+</th>
+<th>
+<p>Fecha de fabricación</p>
+</th>
+<th>
+<p>Resultado del análisis en ppm</p>
+</th>
+<th>
+<p>Fecha del análisis químico</p>
+</th>
+<th>
+<p>Nombre del laboratorio y n.º de identificación del Informe de resultados</p>
+</th>
+<th>
+<p>Peso total del aparato (Kg)</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="7">
+<p>TOTAL DADO DE BAJA DURANTE EL AÑO</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Indicar, para cada aparato, el n.º de Identificación que se le asignó cuando estaba incluido en la lista del inventario, consignando igualmente: n.º, fabricante, modelo y KVA, cuando se disponga de estos datos.
+
+(2) Indicar el tipo al que pertenece el aparato, de entre los siguientes: Transformador, Resistencia, Inductor. Condensador, Arrancador. Equipo con fluido termoconductor, Equipo subterráneo de minas con fluido hidráulico, Recipiente, Otros.
+
+(3) Indicar el nombre del centro o lugar donde se encuentre el aparato, así como la dirección, municipio y comunidad autónoma.
+
+11\. LISTA DE TRANSFORMADORES CUYA CONCENTRACIÓN DE PCB SE HA REDUCIDO A VALORES COMPRENDIDOS ENTRE 50 Y 500 PPM DURANTE EL AÑO AL QUE SE REFIERE LA DECLARACIÓN:
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Transformador</p>
+</th>
+<th>
+<p>Ubicación</p>
+</th>
+<th>
+<p>Operación realizada</p>
+</th>
+<th>
+<p>Fecha de operación</p>
+</th>
+<th>
+<p>Responsable que realiza la operación</p>
+</th>
+<th>
+<p>Resultado del análisis químico ppm</p>
+</th>
+<th>
+<p>Fechas de los análisis químicos</p>
+</th>
+<th>
+<p>Nombre del laboratorio y n.º de identificación del informe de resultados</p>
+</th>
+<th>
+<p>Peso total del aparato (Kg)</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(1)</p>
+</td>
+<td>
+<p>(2)</p>
+</td>
+<td>
+<p>(3)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(4)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>(5)</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="8">
+<p>TOTAL REDUCIDO DURANTE EL AÑO ENTRE 50 Y 500 ppm</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) Indicar para cada transformador, el mismo n.º de identificación que se le haya asignado en la lista del inventario, consignando igualmente n.º serie. fabricante, modelo y KVA, cuando se disponga de estos datos.
+
+(2) Indicar el nombre del centro o lugar donde se encuentre el aparato, así como la dirección, municipio y comunidad autónoma.
+
+(3) Indicar la operación que corresponda: sustitución de fluido u otro tipo de tratamiento realizado para reducir la concentración de PCB.
+
+(4) Indicar el nombre de la empresa que realiza la operación.
+
+(5) Indicar las fechas exactas en que se llevó a cabo el primer análisis químico, tras las operaciones de reducción, y el segundo análisis químico comprobatorio (entre ambas fechas deberá haber transcurrido, al menos, un año).
+
+> Se modifica por el art. único.7 y anexo del Real Decreto 228/2006, de 24 de febrero. [Ref. BOE-A-2006-3378](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3378).
+
+## ANEXO II — Marcado de aparatos descontaminados
+
+Aparato descontaminado:
+
+El fluido que contenía PCB se sustituyó:
+
+Por ....................................(nombre del sustituto)
+
+El ..........................................................(fecha)
+
+Por ....................................................(empresa)
+
+Concentración de PCB:
+
+Del fluido anterior..................(porcentaje en peso)
+
+Del nuevo fluido....................(porcentaje en peso)

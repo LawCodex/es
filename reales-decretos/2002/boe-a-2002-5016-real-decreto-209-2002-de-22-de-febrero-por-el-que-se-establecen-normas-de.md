@@ -1,0 +1,481 @@
+---
+title: "Real Decreto 209/2002, de 22 de febrero, por el que se establecen normas de ordenación de las explotaciones apícolas"
+identifier: "BOE-A-2002-5016"
+eli: "https://www.boe.es/eli/es/rd/2002/02/22/209"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2002-02-22
+published: 2002-03-13
+in_force_from: 2002-03-14
+last_amended: 2025-04-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 62"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-5016"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 209/2002, de 22 de febrero, por el que se establecen normas de ordenación de las explotaciones apícolas
+
+La apicultura, como actividad pecuaria, ha alcanzado en los últimos años una considerable importancia y un creciente interés, que, más allá de su repercusión económica en el sector de la producción de la miel y otros productos de la colmena, tiene una importancia fundamental para el desarrollo rural, el equilibrio ecológico y constituye la base para la conservación y la diversidad de las plantas que dependen de la polinización, lo que contribuye a elevar la productividad de gran parte de los cultivos, aprovechando recursos no utilizados por ninguna otra actividad productiva.
+
+Por otra parte, la apicultura profesional debe considerarse como una actividad ganadera fundamentalmente ligada a la trashumancia para el mejor aprovechamiento de las distintas floraciones silvestres y cultivadas, por lo que es conveniente adoptar aquellas medidas que faciliten este movimiento, con plenas garantías sanitarias, y de manera armónica en todo el territorio nacional.
+
+En este sentido, es fundamental un sistema uniforme para la identificación de las colmenas que permita, de una forma rápida, conocer la explotación a la que pertenecen.
+
+Además, en la actualidad, la situación epizootiológica de las explotaciones apícolas ha sufrido diversas transformaciones desde la aparición de la enfermedad de la Varroosis a mediados de los años ochenta, por lo que es necesario implantar nuevas medidas acordes con esta realidad, así como elaborar un programa sanitario común que permita una lucha racional contra este parásito, garantizando con ello la supervivencia de la especie "Apis mellifera".
+
+En este orden de cosas, a nivel comunitario se han dictado diversas normas que regulan fundamentalmente aspectos muy concretos del sector de la apicultura vinculados a la producción y comercialización de la miel y cuestiones de policía sanitaria en relación con determinadas enfermedades de las abejas. Así, el Reglamento (CE) 1221/1997, del Consejo, de 25 de junio, establece las normas generales de aplicación de las medidas destinadas a mejorar la producción y comercialización de la miel, y el Reglamento (CE) 2300/1997, de la Comisión, de 20 de noviembre, establece las disposiciones de aplicación del anterior Reglamento. Por otra parte, la Directiva 92/65/CEE, del Consejo, de 13 de julio, establece las condiciones de policía sanitaria aplicables a los intercambios y a las importaciones en la comunidad de abejas.
+
+En el ordenamiento jurídico interno la materia se ha regulado, fundamentalmente, mediante la Orden de 16 de febrero de 1988 por la que se establecen normas sanitarias de la trashumancia de las abejas. Además, en relación con la normativa comunitaria anteriormente mencionada, el Real Decreto 519/1999, de 26 de marzo, establece un régimen de ayudas a la apicultura en el marco de los programas nacionales anuales, y el Real Decreto 1881/1994, de 16 de septiembre, traspone a la legislación nacional la Directiva 92/65/CEE. A su vez, las Comunidades Autónomas han tratado profusamente el sector de la apicultura mediante normas de diverso carácter y contenido.
+
+En la elaboración del presente Real Decreto han sido consultadas las Comunidades Autónomas y los sectores afectados.
+
+El presente Real Decreto se dicta de acuerdo con lo establecido en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica y sobre bases y coordinación general de la sanidad.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de febrero de 2002,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+El presente Real Decreto establece las normas básicas por las que se regula la aplicación de medidas de ordenación sanitaria y zootécnica de las explotaciones apícolas, así como las condiciones de ubicación, asentamiento y movimiento de colmenas, infraestructura zootécnica, sanitaria y equipamientos, que permitan un eficaz y correcto desarrollo de la actividad apícola en todo el territorio nacional.
+
+### Artículo 2. Definiciones.
+
+A efectos del presente Real Decreto serán aplicables las siguientes definiciones:
+
+a) Enjambre: es la colonia de abejas productoras de miel («Apis mellifera»).
+
+b) Colmena: es el conjunto formado por un enjambre, el recipiente que lo contiene y los elementos propios necesarios para su supervivencia. Puede ser de los siguientes tipos:
+
+1.º Fijista: es aquella que tiene sus panales fijos e inseparables del recipiente.
+
+2.º Movilista: la que posee panales móviles pudiendo separarlos para recolección de miel, limpieza, etc.
+
+De acuerdo con la forma de crecimiento de la colonia y el consiguiente desarrollo de la colmena, se dividen en verticales y horizontales.
+
+c) Asentamiento apícola: lugar donde se instala un colmenar para aprovechamiento de la flora o para pasar la invernada.
+
+d) Colmenar: conjunto de colmenas, pertenecientes a uno o varios titulares y que se encuentren en un mismo asentamiento.
+
+e) Colmenar abandonado: colmenar con más del 50 por 100 de las colmenas muertas.
+
+f) Colmena muerta: colmena en la que se evidencia la falta de actividad biológica de sus elementos vivos (insectos adultos y crías).
+
+g) Explotación apícola: cualquier instalación, construcción o lugar en los que se tengan, críen, manejen o se expongan al público abejas productoras de miel (''Apis mellifera'') cuyas colmenas se encuentren repartidas en uno o varios colmenares. Puede ser:
+
+1.º Explotación apícola trashumante: aquella explotación apícola cuyas colmenas son desplazadas a otro u otros asentamientos a lo largo del año.
+
+2.º Explotación apícola estante: aquella explotación apícola cuyas colmenas permanezcan todo el año en el mismo asentamiento.
+
+A su vez, la explotación apícola, atendiendo al número de colmenas que la integra, podrá ser:
+
+1\. Profesional: la que tiene 150 colmenas o más.
+
+2\. No profesional: la que tiene menos de 150 colmenas.
+
+3\. De autoconsumo: la utilizada para la obtención de productos de las colmenas con destino exclusivo al consumo familiar. El número máximo de colmenas para estas explotaciones no podrá superar las 15.
+
+h) Titular de explotación apícola: persona física o jurídica que ejerce la actividad apícola y asume la responsabilidad y riesgos inherentes a la gestión de la misma.
+
+i) Autoridad competente: los órganos competentes de las Comunidades Autónomas.
+
+> Se modifican los apartados d) y g) por el art. 2.1 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 3. Clasificación zootécnica de las explotaciones apícolas.
+
+Las explotaciones apícolas se clasifican en:
+
+1\. De producción: son las dedicadas a la producción de miel y otros productos apícolas (PD).
+
+2\. De selección y cría: son aquellas explotaciones apícolas dedicadas principalmente a la cría y selección de abejas (SC).
+
+3\. De polinización: son aquellas cuya actividad principal es la polinización de cultivos agrícolas (PZ).
+
+4\. Mixtas: son aquellas en las que se alternan con importancia similar más de una de las actividades de las clasificaciones anteriores (MX).
+
+5\. Otras: las que no se ajustan a la clasificación de los apartados anteriores (OT).
+
+### Artículo 4. Código de identificación de las colmenas y asignación del código de explotación.
+
+**(Derogado)**
+
+> Se deroga, con efectos de 2 de enero de 2024, por la disposición derogatoria única.i) del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+> Se modificia el apartado 1 por la disposición final 2 del Real Decreto 608/2006, de 19 de mayo. [Ref. BOE-A-2006-9740](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9740).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+> Se modifica por el art. 2.2 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 5. Inscripción registral de las explotaciones apícolas.
+
+1\. El registro de las explotaciones apícolas corresponderá a la autoridad competente de la comunidad autónoma en la que radique el domicilio fiscal del titular. No obstante, los titulares de explotaciones estantes cuyas colmenas se sitúen en el ámbito de una o varias comunidades autónomas, que soliciten la correspondiente inscripción en el registro, deberán hacerlo ante la autoridad competente de la comunidad autónoma donde se ubiquen las colmenas, a la que corresponderá, en este caso, proceder al registro.
+
+2\. Los titulares de las explotaciones apícolas deberán presentar ante la citada autoridad competente la correspondiente solicitud, a los efectos del registro de la explotación, a la que acompañará la documentación acreditativa de los siguientes extremos:
+
+a) Datos del titular de la explotación: apellidos y nombre o razón social, número o código de identificación fiscal (NIF o CIF), dirección, código postal, municipio, provincia y teléfono.
+
+b) Datos de otros titulares relacionados con la explotación: apellidos y nombre o razón social, NIF o CIF y relación con la explotación.
+
+c) Tipo de explotación de que se trate según la clasificación establecida en el anexo III del Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el registro general de explotaciones ganaderas.
+
+d) Datos de la ubicación principal: dirección, código postal, municipio y provincia.
+
+e) Indicación de si se trata de una explotación de autoconsumo o no. f) Clasificación según el sistema productivo: trashumante o estante.
+
+g) Clasificación según criterios de sostenibilidad o autocontrol: explotaciones ecológicas, integradas o convencionales.
+
+h) Censo y fecha de actualización.
+
+i) Cuando proceda, código identificativo, razón social, dirección, código postal, municipio y provincia de la agrupación de defensa sanitaria.
+
+3\. Las resoluciones favorables darán lugar a las consiguientes inscripciones en los correspondientes registros.
+
+4\. El titular de explotación deberá comunicar los cambios en los datos consignados en el registro a la autoridad competente en el plazo que ésta determine, que no podrá exceder de un mes desde que se produzcan.
+
+> Se modifica por el art. 2.3 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 6. Registro general de las explotaciones apícolas.
+
+El Registro general de las explotaciones apícolas queda integrado en el Registro general de explotaciones ganaderas (REGA) según lo dispuesto en el Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el registro general de explotaciones ganaderas, y, en concreto, en todo lo relativo al régimen de comunicación que éste establece entre las comunidades autónomas y el Estado respecto de los registros en los apartados 4 y 6 del artículo 3.
+
+> Se modifica por el art. 2.4 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 7. Libro de registro de explotación apícola.
+
+1\. A los efectos zootécnicos y sanitarios, todo titular de una explotación apícola deberá estar en posesión de un libro de registro de la explotación apícola (en adelante libro de registro) facilitado a los apicultores por la autoridad competente del registro. En este documento se recogerán, al menos, los datos que se indican en el anexo I. Dicho libro de registro se completará, excepto en el caso de explotaciones estantes, con hojas en las que conste la información de cada traslado de las colmenas y que contendrán, al menos, las indicaciones previstas en el mencionado anexo I. Esta información es independiente del programa trimestral de traslados establecido en el artículo 11.2.
+
+2\. Este libro de registro deberá estar a disposición de la autoridad competente de la comunidad autónoma donde esté registrada la explotación y de aquellas otras comunidades autónomas donde las colmenas circulen o se asienten por razones de trashumancia u otras y especialmente en los casos en que, ante una situación de alerta sanitaria, se haga necesario introducir medidas, principalmente, en lo que al movimiento de colmenas se refiere.
+
+3\. Los titulares de las explotaciones apícolas deberán actualizar en cada momento los datos contenidos en dicho libro de registro.
+
+4\. El libro de registro regulado en este artículo constituye un requisito indispensable para cualquier traslado de las colmenas por razones de trashumancia u otras.
+
+5\. Según lo establecido en el artículo 4.3 del Real Decreto 479/2004, de 26 de marzo, los titulares de las explotaciones apícolas comunicarán, ante la autoridad competente responsable del registro, antes del 1 de marzo de cada año, el censo de sus colmenas, e indicarán el número de colmenas preparadas para la invernada, entendiéndose como tal el número de colmenas a fecha de 31 de diciembre del año anterior.
+
+> Se modifica el apartado 2, con efectos de 2 de enero de 2024, por la disposición final 1 del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+> Se modifica el apartado 5 por la disposición final 1 del Real Decreto 930/2017, de 27 de octubre. [Ref. BOE-A-2017-12407](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12407)
+
+> Se modifica por el art. 2.5 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 8. Condiciones mínimas de las explotaciones apícolas.
+
+1\. La disposición y naturaleza de las construcciones e instalaciones, utillaje y equipo posibilitarán en todo momento la realización de una eficaz limpieza, desinfección y desparasitación en caso necesario.
+
+2\. Los asentamientos apícolas deberán respetar las distancias mínimas siguientes respecto a:
+
+1.º Establecimientos colectivos de carácter público y centros urbanos, núcleos de población: 400 metros.
+
+2.º Viviendas rurales habitadas e instalaciones pecuarias: 100 metros.
+
+3.º Carreteras nacionales: 200 metros.
+
+4.º Carreteras comarcales: 50 metros.
+
+5.º Caminos vecinales: 25 metros.
+
+6.º Pistas forestales: las colmenas se instalarán en los bordes sin que obstruyan el paso.
+
+No obstante, para las explotaciones de autoconsumo, otras distancias mínimas podrán ser establecidas por cada comunidad autónoma de acuerdo con las específicas características de la producción apícola en su ámbito territorial.
+
+3\. Para el establecimiento de distancias mínimas entre asentamientos apícolas, no se considerarán los asentamientos de menos de 26 colmenas como referencia para determinar distancias mínimas entre asentamientos.
+
+4\. La distancia establecida para carreteras y caminos en el apartado 2 podrá reducirse en un 50 por 100 si el colmenar está en pendiente y a una altura o desnivel superior de dos metros con la horizontal de estas carreteras y caminos.
+
+5\. Las distancias establecidas en el apartado 2 podrán reducirse, hasta un máximo del 75 por 100, siempre que los colmenares cuenten con una cerca de, al menos, dos metros de altura, en el frente que esté situado hacia la carretera, camino o establecimiento de referencia para determinar la distancia. Esta cerca podrá ser de cualquier material que obligue a las abejas a iniciar el vuelo por encima de los dos metros de altura.
+
+Esta excepción no será de aplicación a lo dispuesto para distancias entre asentamientos apícolas.
+
+> Se añade el párrafo último al apartado 2 por el art. 2.6 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 9. Medidas de protección animal.
+
+El titular de la explotación deberá velar por la satisfacción de las necesidades fisiológicas y de comportamiento de las abejas, para favorecer su buen estado de salud y de bienestar.
+
+Se entenderá que el apicultor no cumple con estas obligaciones cuando el colmenar pueda ser catalogado como abandonado, según establece el artículo 2.e).
+
+> Se modifica por el art. 2.7 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 10. Control sanitario.
+
+1\. Los titulares de las explotaciones apícolas deberán aplicar y mantener los programas y normas sanitarias contra las enfermedades que se establezcan, sujetas a control oficial.
+
+2\. En caso de que se advierta una alteración patológica que pudiera poner en peligro la explotación, el titular de la misma lo comunicará urgentemente a la autoridad competente.
+
+3\. En el marco de la lucha coordinada contra las enfermedades de las abejas, el Ministerio de Agricultura, Pesca y Alimentación elaborará y coordinará la aplicación del Plan Nacional de lucha integral contra la Varroosis, cuya ejecución corresponderá a las autoridades competentes. Cuando los apicultores se agrupen para llevar a cabo la lucha contra dichas enfermedades conforme a lo previsto en el Real Decreto 1880/1996, de 2 de agosto, por el que se regulan las agrupaciones de defensa sanitaria ganadera, podrán percibir las correspondientes ayudas en función de las disponibilidades presupuestarias.
+
+4\. Quien tenga la condición de titular de la explotación cumplirá las obligaciones establecidas en el artículo 3 del Real Decreto 346/2025, de 22 de abril, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación.
+
+5\. El titular de explotación de las explotaciones velará por que la visita zoosanitaria se realice de acuerdo con los artículos 4 y 5 del Real Decreto 346/2025, de 22 de abril.
+
+6\. El titular de la explotación puede disponer voluntariamente de un profesional veterinario de explotación de acuerdo con lo establecido en los artículos 7 y 8 del Real Decreto 346/2025, de 22 de abril.
+
+> Se modifican los apartados 4 y 5 y se añade el 6, con efectos de 1 de junio de 2025, por la disposición final 2.1 del Real Decreto 346/2025, de 22 de abril. [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160)
+
+> Se añaden los apartados 4 y 5 por la disposición final 1.1 del Real Decreto 364/2023, de 16 de mayo. [Ref. BOE-A-2023-11639](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11639)
+
+### Artículo 11. Trashumancia.
+
+1\. Podrán practicar la trashumancia en todo el territorio nacional, con las condiciones previstas en los apartados 2 a 5, aquellos apicultores cuya explotación haya sido inscrita como trashumante y que cumplan los requisitos sanitarios y de documentación regulados en este real decreto.
+
+2\. Los apicultores que realicen trashumancia fuera del ámbito de su comunidad autónoma podrán realizarla comunicando a la autoridad competente de la comunidad autónoma donde radique el registro de su explotación, con una antelación mínima de una semana sobre la fecha de comienzo del primer movimiento de colmenas, el programa de traslados previsto para los tres meses siguientes, indicando municipio o comarca, provincia y fecha prevista en que aquéllos van a producirse.
+
+3\. Esta comunicación, una vez visada por la autoridad competente, deberá adjuntarse al libro de registro de explotación apícola y acompañar a las colmenas en sus desplazamientos. Contendrá, al menos, los siguientes datos:
+
+a) Fecha prevista de inicio de los traslados.
+
+b) Número de colmenas trasladadas.
+
+c) Lugar de origen de las colmenas.
+
+d) Lugar de destino de las colmenas.
+
+e) Conformidad con firma del veterinario oficial y sello de la unidad veterinaria.
+
+4\. Cualquier alteración posterior a la comunicación del programa de traslados previsto, que suponga un cambio en la comunidad autónoma de destino, será comunicada por el apicultor, asimismo, a la autoridad competente de origen, inmediatamente o, como máximo, 48 horas después de que aquél se haya producido.
+
+5\. Las autoridades competentes del lugar de origen transmitirán, en el plazo más breve posible, a la autoridad competente del lugar de destino los programas de traslados que les afecten, así como las incidencias o alteraciones al programa que se hayan producido.
+
+6\. El transporte de colmenas se realizará de acuerdo a lo establecido en el artículo 47 de la Ley 8/2003, de 24 de abril. Además, durante el transporte las colmenas deberán ir con la piquera cerrada, y si van con la piquera abierta, cubiertas con una malla o cualquier otro sistema que impida la salida de las abejas.
+
+7\. No obstante lo dispuesto en los apartados 1 a 5, si un apicultor titular de una explotación estante tuviera la necesidad de desplazar colmenas o enjambres, deberá para ello solicitar a la autoridad competente, con carácter previo, la emisión del correspondiente certificado sanitario que ampare el des- plazamiento de las colmenas o enjambres con arreglo a lo establecido en el artículo 50 de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+> Se modifica por el art. 2.8 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Artículo 12. Inspección.
+
+Las autoridades competentes llevarán a cabo inspecciones zootécnicas y sanitarias, para comprobar el cumplimiento de las condiciones y requisitos exigidos en la normativa de ordenación y regulación de las explotaciones apícolas.
+
+### Artículo 13. Incumplimientos.
+
+El incumplimiento de este real decreto será sancionado de acuerdo con lo establecido en la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+> Se modifica por el art. 2.9 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Disposición transitoria primera. Explotaciones existentes pendientes de inscripción.
+
+Los titulares de las explotaciones existentes con anterioridad a la entrada en vigor del presente Real Decreto, que no estuvieran inscritas en el registro correspondiente, así como los titulares de explotaciones ya inscritas, deberán solicitar la inscripción en el registro o la actualización de los datos contenidos en el mismo, según proceda, a la autoridad competente.
+
+### Disposición transitoria segunda. Identificación de colmenas.
+
+1\. En el plazo máximo de sesenta meses tras la entrada en vigor del presente Real Decreto, todas las colmenas deberán estar identificadas según lo establecido en el mismo.
+
+2\. Identificada una colmena con el nuevo código establecido en el presente Real Decreto, deberá figurar en el libro de registro de la explotación apícola junto al mismo, el código anterior, al menos hasta que finalice el plazo señalado en el apartado 1.
+
+> Se modifica el apartado 2 por el art. 2.10 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. Queda derogada la Orden de 16 de febrero de 1988 por la que se establecen normas sanitarias de la trashumancia de las abejas.
+
+2\. Queda derogada cualquier otra disposición de igual o inferior rango, en todo aquello que se oponga al presente Real Decreto.
+
+### Disposición final primera. Modificación del Real Decreto 2459/1996.
+
+Se modifica el Real Decreto 2459/1996, de 2 de diciembre, por el que se establece la lista de enfermedades de declaración obligatoria y se da la normativa para su notificación, incluyéndose en el anexo I, párrafo C, la enfermedad de la Varroosis.
+
+### Disposición final segunda. Modificación del Real Decreto 1880/1996.
+
+Se modifica el Real Decreto 1880/1996, de 2 de agosto, por el que se regulan las agrupaciones de defensa sanitaria ganaderas, quedando redactado el párrafo b) del artículo 3 del modo siguiente:
+
+«b) Integrar, en el ámbito territorial de uno o varios municipios, al menos el 30 por 100 de los ganaderos de cada municipio, salvo en apicultura, o alternativamente, un censo ganadero mínimo a determinar por cada Comunidad Autónoma para cada especie en relación con su estructura ganadera y territorial.»
+
+### Disposición final tercera. Modificación del Real Decreto 519/1999.
+
+Se modifica el Real Decreto 519/1999, de 26 de marzo, por el que se regula el régimen de ayudas a la apicultura en el marco de los programas nacionales anuales, añadiéndose un párrafo segundo en el a) del apartado 1 del artículo 4, del siguiente tenor:
+
+«Los colmenares abandonados y las colmenas muertas no darán derecho al cobro de ayudas por su titular.»
+
+### Disposición final cuarta. Títulos competenciales.
+
+Las disposiciones del presente Real Decreto tendrán carácter de normativa básica estatal, al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia sobre las bases y la coordinación de la planificación general de la actividad económica, y en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre las bases y coordinación general de la sanidad.
+
+### Disposición final quinta. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación, en el ámbito de sus competencias, para dictar las disposiciones necesarias para la ejecución y desarrollo de este Real Decreto.
+
+### Disposición final sexta. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 22 de febrero de 2002.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO I — Contenido mínimo del libro de registro de la explotación apícola
+
+a) Datos identificativos del titular de la explotación (nombre, apellidos y NIF o CIF, domicilio, teléfono, municipio, provincia).
+
+b) Código de identificación de explotación de acuerdo al artículo 5 del Real Decreto 479/2004, de 26 de marzo.
+
+c) Código de identificación de colmenas, de acuerdo a lo dispuesto en el artículo 4 de este real decreto.
+
+d) Tipo de explotación: estante o trashumante, conforme a las definiciones del artículo 2.g) de este real decreto.
+
+e) Clase de explotación: producción (PD), selección y cría (SC), polinización (PZ), mixtas (MX), otras (OT), conforme a la clasificación del artículo 3.
+
+f) Número total de colmenas.
+
+g) Espacios para la actualización y diligencia, como mínimo anual, del veterinario oficial, autorizado o habilitado, de la comunidad autónoma.
+
+h) Fecha de actualización del libro y firma del apicultor.
+
+i) Datos sanitarios: enfermedades diagnosticadas, tratamientos realizados, con fechas de diagnósticos y fecha y lugar de los tratamientos, en su caso.
+
+j) Análisis en laboratorios: fecha y tipo de análisis, identificación del laboratorio actuante y dictamen o resultado emitido por el laboratorio.
+
+k) Traslados de colmenas (sólo en el caso de apicultores trashumantes): número de colmenas trasladadas, origen y destino del desplazamiento y fecha de los traslados.
+
+> Se añaden las letras i) y j), con efectos de 1 de junio de 2025, por la disposición final 2.2 del Real Decreto 346/2025, de 22 de abril. [Ref. BOE-A-2025-8160](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8160)
+
+> Se suprimen las letras i) y j) por la disposición final 1.2 del Real Decreto 364/2023, de 16 de mayo. [Ref. BOE-A-2023-11639](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11639)
+
+> Se modifica por el art. 2.11 y anexo II del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).
+
+## ANEXO II
+
+Comunidad Autónoma de Castilla y León:
+
+Segovia: SG.
+
+Soria: SO.
+
+Valladolid: VA.
+
+Zamora: ZA.
+
+Ávila: AV.
+
+Burgos: BU.
+
+León LE.
+
+Palencia: P.
+
+Salamanca: SA.
+
+Comunidad Autónoma de Castilla-La Mancha:
+
+Albacete: AB.
+
+Ciudad Real: CR.
+
+Cuenca: CU.
+
+Guadalajara: GU.
+
+Toledo: TO.
+
+Comunidad Autónoma de Extremadura:
+
+Badajoz: BA.
+
+Cáceres: CC.
+
+Región de Murcia:
+
+Murcia: MU.
+
+Comunidad Valenciana:
+
+Alicante: A.
+
+Castellón: CS.
+
+Valencia: V.
+
+Comunidad de Madrid:
+
+Madrid: M.
+
+Comunidad Autónoma de Cantabria:
+
+Santander: S.
+
+Comunidad Autónoma de Cataluña:
+
+Barcelona: B.
+
+Girona: GI.
+
+Lleida: L.
+
+Tarragona: T.
+
+Comunidad Autónoma de Galicia:
+
+A Coruña: C.
+
+Lugo: LU.
+
+Ourense: OU.
+
+Pontevedra: PO.
+
+Comunidad Autónoma de Andalucía:
+
+Almería: AL.
+
+Cádiz: CA.
+
+Córdoba: CO.
+
+Granada: GR.
+
+Huelva: H.
+
+Jaén: J.
+
+Málaga: MA.
+
+Sevilla: SE.
+
+Principado de Asturias:
+
+Asturias: O.
+
+Comunidad Autónoma de La Rioja:
+
+La Rioja: LO.
+
+Comunidad Autónoma de Aragón:
+
+Huesca: HU.
+
+Teruel: TE.
+
+Zaragoza: Z.
+
+Comunidad Autónoma de Canarias:
+
+Gran Canaria: GC.
+
+Tenerife: TF.
+
+Comunidad Foral de Navarra:
+
+Navarra: NA.
+
+Comunidad Autónoma de las Islas Baleares:
+
+Baleares: IB.
+
+País Vasco:
+
+Álava: VI.
+
+Guipúzcoa: SS.
+
+Vizcaya: BI.
+
+> Se modifica por el art. 2.12 del Real Decreto 448/2005, de 22 de abril. [Ref. BOE-A-2005-7427](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-7427).

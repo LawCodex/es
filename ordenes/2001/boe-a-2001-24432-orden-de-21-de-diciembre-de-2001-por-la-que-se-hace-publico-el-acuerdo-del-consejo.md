@@ -1,0 +1,148 @@
+---
+title: "Orden de 21 de diciembre de 2001 por la que se hace público el Acuerdo del Consejo de Ministros de 21 de diciembre de 2001, por el que se dispone la numeración de las Órdenes ministeriales que se publican en el \"Boletín Oficial del Estado\""
+identifier: "BOE-A-2001-24432"
+eli: "https://www.boe.es/eli/es/o/2001/12/21/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2001-12-21
+published: 2001-12-22
+in_force_from: 2002-01-01
+last_amended: 2024-01-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 306"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-24432"
+retrieved: 2026-10-11
+---
+
+# Orden de 21 de diciembre de 2001 por la que se hace público el Acuerdo del Consejo de Ministros de 21 de diciembre de 2001, por el que se dispone la numeración de las Órdenes ministeriales que se publican en el "Boletín Oficial del Estado"
+
+El Consejo de Ministros en su reunión de 21 de diciembre de 2001 ha adoptado, a propuesta del Ministro de la Presidencia, un Acuerdo por el que se dispone la numeración de las Órdenes ministeriales que se publican en el «Boletín Oficial del Estado».
+
+Considerando necesario el conocimiento general del mencionado Acuerdo, dispongo su publicación en el «Boletín Oficial del Estado» como anexo a la presente Orden.
+
+Madrid, 21 de diciembre de 2001.
+
+LUCAS GIMÉNEZ
+
+## ANEXO
+
+Los sistemas jurídicos contemporáneos presentan un grado de complejidad creciente. Este fenómeno, al que no es ajeno el ordenamiento español, responde a la necesidad de regular un desarrollo social y económico cada vez más acelerado. Como consecuencia, constantemente se multiplica el número de disposiciones y actos administrativos publicados en los diarios oficiales que deben ser adecuadamente conocidos y manejados por los ciudadanos.
+
+En este inevitable contexto de inflación normativa, la localización de las disposiciones publicadas en el «Boletín Oficial del Estado» se convierte, con demasiada frecuencia, en una tarea difícil, en especial para aquellas personas poco familiarizadas con el ordenamiento. Sin embargo, los principios constitucionales de publicidad de las normas y de seguridad jurídica (artículo 9.3 CE) imponen a la Administración el deber de facilitar al máximo el conocimiento y manejo por los ciudadanos de aquellas normas que pueden afectarles y cuyo cumplimiento se les exige.
+
+Entre las diversas técnicas diseñadas para facilitar la localización y consulta de disposiciones, ocupa un lugar sobresaliente, por su capacidad identificadora, la de su numeración. Así, en nuestro ordenamiento, siguiendo una práctica iniciada con carácter sistemático en 1959, son objeto de numeración las disposiciones de mayor rango: Leyes Orgánicas, Leyes Ordinarias, Reales Decretos-Leyes, Reales Decretos Legislativos y Reales Decretos. La técnica se basa en la atribución de un número secuencial para cada categoría normativa, combinado con una indicación cronológica del año de promulgación.
+
+Hasta el momento presente el sistema no abarca, con carácter general, el amplio y variado sector de las Ordenes ministeriales, lo que resulta injustificado si se tiene en cuenta el importante número a que ascienden cada año y el hecho de que frecuentemente tengan igual fecha, lo que obliga a que su identificación deba hacerse recurriendo a la mención expresa, a veces larga y complicada, del resumen de su contenido.
+
+La inclusión de aquellas Órdenes ministeriales que se publican en el «Boletín Oficial del Estado» entre el grupo de disposiciones objeto de numeración facilitaría extraordinariamente su localización y cita, en beneficio no sólo de los operadores jurídicos privados, sino también de la propia Administración; asimismo, la posibilidad de recuperarlas en las bases informáticas empleando campos de tipo numérico agilizaría notablemente su manejo.
+
+Ahora bien, las Órdenes ministeriales presentan peculiaridades respecto al resto de disposiciones que actualmente se numeran. Así, se trata de productos jurídicos que emanan de cada uno de los Departamentos Ministeriales, por lo que una simple traslación de la técnica de numeración seguida tradicionalmente no incorporaría este elemento identificador básico de las Órdenes. Por ello, debe manejarse un concepto amplio de numeración en el que puedan incluirse secuencias de tipo alfanumérico que, de una manera intuitiva, permitan a sus destinatarios reconocer el Departamento autor de la disposición.
+
+Igualmente, las peculiaridades de las Órdenes ministeriales, en particular la posibilidad de que se adopten por autoridades inferiores en virtud de la correspondiente delegación, así como el procedimiento de gestión de su publicación en el diario oficial, aconsejan que el criterio cronológico determinante de la atribución de su número deba ser el de la fecha de su inserción en el «Boletín Oficial del Estado», y no el de la fecha de adopción, si bien ésta continuará considerándose como uno más de los elementos básicos de identificación de aquellas.
+
+Por el contrario, y dada su naturaleza singular, no se considera conveniente incorporar al sistema de numeración aquellos anuncios, cuantitativamente poco numerosos, que revisten la forma de Orden ministerial y cuya sede de publicación son las secciones V-A y V-B del «Boletín Oficial del Estado».
+
+De conformidad con lo previsto por los artículos 9.1 e) de la Ley 50/1997, de 27 de noviembre, del Gobierno, y el artículo 5.1 d) del Real Decreto 1281/2000, de 30 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de la Presidencia, corresponde al Secretariado del Gobierno, como órgano competente para la ordenación y control de la publicación de las disposiciones y actos administrativos que deban insertarse en el «Boletín Oficial del Estado», la gestión del nuevo sistema de numeración de las Órdenes ministeriales.
+
+En virtud de lo expuesto, de acuerdo con el Consejo de Estado y a propuesta del Ministro de la Presidencia, el Consejo de Ministros aprueba el siguiente Acuerdo:
+
+## Primero.
+
+Se numerarán todas las disposiciones y resoluciones que adopten la forma de Órden ministerial y deban publicarse, de conformidad con lo previsto por el Real Decreto 1511/1986, de 6 de junio, de ordenación del diario oficial del Estado, en las Secciones I, II y III del «Boletín Oficial del Estado».
+
+## Segundo.
+
+La numeración de las Órdenes ministeriales comprenderá tres grupos de caracteres, separados entre sí por el signo de la barra ordenada de izquierda a derecha, de bajo a alto:
+
+1.º Código alfabético de tres letras, indicativo del Departamento ministerial autor de la disposición o resolución, de acuerdo con la clasificación que se recoge en el anexo del presente Acuerdo.
+
+2.º Número correlativo, que se atribuirá en una única serie, según el orden de publicación en el «Boletín Oficial del Estado». La numeración habrá de reiniciarse para las Órdenes que sean adoptadas en el siguiente año.
+
+3.º Año de adopción de la Orden, expresado con cuatro cifras.
+
+## Tercero.
+
+Por el Secretariado del Gobierno, competente para la ordenación y control de la publicación de las disposiciones y actos administrativos que deban insertarse en el «Boletín Oficial del Estado», se adoptarán las medidas necesarias para la ejecución del presente Acuerdo.
+
+## Cuarto.
+
+Se habilita a la Subsecretaría del Ministerio de la Presidencia para adaptar el anexo del presente Acuerdo a las modificaciones que se produzcan en la estructura de los Departamentos ministeriales.
+
+## Quinto.
+
+Lo dispuesto en el presente Acuerdo se aplicará a las Órdenes ministeriales que se adopten a partir de 1 de enero de 2002.
+
+## ANEXO — Tabla de códigos ministeriales
+
+| Ministerio | Códigos |
+|---|---|
+| Ministerio de Asuntos Exteriores, Unión Europea y Cooperación. | AUC |
+| Ministerio de la Presidencia, Justicia y Relaciones con las Cortes. | PJC |
+| Ministerio de Defensa. | DEF |
+| Ministerio de Hacienda. | HAC |
+| Ministerio del Interior. | INT |
+| Ministerio de Transportes y Movilidad Sostenible. | TRM |
+| Ministerio de Educación, Formación Profesional y Deportes. | EFD |
+| Ministerio de Trabajo y Economía Social. | TES |
+| Ministerio de Industria y Turismo. | ITU |
+| Ministerio de Agricultura, Pesca y Alimentación. | APA |
+| Ministerio de Política Territorial y Memoria Democrática. | TMD |
+| Ministerio para la Transición Ecológica y el Reto Demográfico. | TED |
+| Ministerio de Vivienda y Agenda Urbana. | VAU |
+| Ministerio de Cultura. | CLT |
+| Ministerio de Economía, Comercio y Empresa. | ECM |
+| Ministerio de Sanidad. | SND |
+| Ministerio de Derechos Sociales, Consumo y Agenda 2030. | DCA |
+| Ministerio de Ciencia, Innovación y Universidades. | CNU |
+| Ministerio de Igualdad. | IGD |
+| Ministerio de Inclusión, Seguridad Social y Migraciones. | ISM |
+| Ministerio para la Transformación Digital y Función Pública. | TDF |
+| Ministerio de Juventud e Infancia. | JUI |
+
+> Se modifica por Resolución de 5 de enero de 2024. [Ref. BOE-A-2024-343](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-343)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 29 de diciembre de 2023, fecha de la entrada en vigor del Real Decreto 1230/2023, de 29 de diciembre, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 24 de noviembre de 2023. [Ref. BOE-A-2023-23951](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-23951)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 21 de noviembre de 2023, fecha de la entrada en vigor del Real Decreto 829/2023, de 20 de noviembre, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 12 de julio de 2021. [Ref. BOE-A-2021-11682](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-11682)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplicarán desde el 12 de julio de 2021, fecha de la entrada en vigor del Real Decreto 507/2021, de 10 de julio, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 15 de enero de 2020. [Ref. BOE-A-2020-613](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-613)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplicarán desde el 13 de enero de 2020, fecha de la entrada en vigor del Real Decreto 2/2020, de 12 de enero, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 11 de junio de 2018. BOE-A-2018-7916
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 7 de junio de 2018, fecha de la entrada en vigor del Real Decreto 355/2018, de 6 de junio, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 4 de noviembre de 2016. [Ref. BOE-A-2016-10206](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-10206).
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 4 de noviembre de 2016, fecha de la entrada en vigor del Real Decreto 415/2016, de 3 de noviembre, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 26 de diciembre de 2011. [Ref. BOE-A-2011-20371](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20371).
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 22 de diciembre de 2011, fecha de la entrada en vigor del Real Decreto 1823/2011, de 21 de diciembre, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 21 de octubre de 2010. [Ref. BOE-A-2010-16089](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-16089).
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 21 de octubre de 2010, fecha de la entrada en vigor del Real Decreto 1313/2010, de 20 de octubre, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 8 de abril de 2009. [Ref. BOE-A-2009-5928](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5928)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 7 de abril de 2009, fecha de la entrada en vigor del Real Decreto 542/2009, de 7 de abril, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 14 de abril de 2008. [Ref. BOE-A-2008-6575](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-6575)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 14 de abril de 2008, fecha de la entrada en vigor del Real Decreto 432/2008, de 12 de abril, según establece el apartado segundo de la citada Resolución.
+
+> Se modifica por Resolución de 20 de abril de 2004.[Ref. BOE-A-2004-7270](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-7270)
+
+> Téngase en cuenta que los nuevos códigos ministeriales se aplican desde el 18 de abril de 2004, fecha de la entrada en vigor del Real Decreto 553/2004, de 17 de abril, según establece el apartado segundo de la citada Resolución.

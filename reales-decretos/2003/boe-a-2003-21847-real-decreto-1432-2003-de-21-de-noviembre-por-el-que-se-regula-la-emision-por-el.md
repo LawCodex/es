@@ -1,0 +1,349 @@
+---
+title: "Real Decreto 1432/2003, de 21 de noviembre, por el que se regula la emisión por el Ministerio de Ciencia y Tecnología de informes motivados relativos al cumplimiento de requisitos científicos y tecnológicos, a efectos de la aplicación e interpretación de deducciones fiscales por actividades de investigación y desarrollo e innovación tecnológica"
+identifier: "BOE-A-2003-21847"
+eli: "https://www.boe.es/eli/es/rd/2003/11/21/1432"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2003-11-21
+published: 2003-11-29
+in_force_from: 2003-11-30
+last_amended: 2015-11-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 286"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21847"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1432/2003, de 21 de noviembre, por el que se regula la emisión por el Ministerio de Ciencia y Tecnología de informes motivados relativos al cumplimiento de requisitos científicos y tecnológicos, a efectos de la aplicación e interpretación de deducciones fiscales por actividades de investigación y desarrollo e innovación tecnológica
+
+Incluye la corrección de errores publicada en BOE núm. 53, de 2 de marzo de 2004. [Ref. BOE-A-2004-3812](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-3812).
+
+La creciente importancia que para el desarrollo empresarial y el mantenimiento de la competitividad tienen las actividades de investigación y desarrollo e innovación tecnológica (I+D+i) ha determinado que nuestro ordenamiento jurídico haya evolucionado a lo largo de los últimos años para recoger nuevas medidas de apoyo y fomento a tales actividades.
+
+Una de las principales medidas de apoyo y fomento de actividades de I+D+i es la constituida por los beneficios fiscales a los que pueden acogerse las empresas mediante la deducción en la cuota del Impuesto sobre Sociedades, tanto por los gastos incurridos en actividades de investigación y desarrollo como de innovación, de conformidad con lo dispuesto en el artículo 33 de la Ley 43/1995 de 27 de diciembre, del Impuesto sobre Sociedades.
+
+No obstante lo anterior, para que las medidas antes expuestas produzcan el efecto deseado con toda la intensidad posible, resulta necesario ofrecer a los agentes económicos un entorno de seguridad jurídica que les permita conocer si las actividades que planean llevar a cabo merecerán o no la calificación requerida para aplicar los incentivos fiscales considerados. Disponer de una información lo más objetiva posible acerca de la naturaleza y contenidos en I+D+i, así como de los gastos asociados a este tipo de actividades empresariales, supondrá un escenario de mayor certidumbre tanto para la empresa que ha de afrontar la toma de decisión de inversión, como para el resto de los agentes económicos que actúan en el tráfico jurídico mercantil y muy especialmente para la propia Administración tributaria.
+
+En esta línea, la reciente Ley 7/2003, de 1 de abril, de la sociedad limitada Nueva Empresa, por la que se modifica la Ley 2/1995 de 23 de marzo, de sociedades de responsabilidad limitada, en su disposición adicional primera establece que, con efectos para los períodos impositivos iniciados a partir del 1 de enero de 2003, se modifica el apartado 4 del artículo 33 de la Ley 43/1995 de 27 de diciembre, del Impuesto sobre Sociedades, e introduce la posibilidad para los sujetos pasivos de aportar a la Administración tributaria informes motivados relativos al cumplimiento de los requisitos científicos y tecnológicos necesarios para poder aplicar la deducción por actividades de investigación y desarrollo e innovación tecnológica. Asimismo, la ley prevé la posibilidad de aportar estos informes a los efectos de la presentación de consultas vinculantes para la Administración sobre la interpretación y aplicación de la deducción, o bien cuando se pretenda solicitar a la Administración tributaria la adopción de acuerdos previos de valoración de los gastos e inversiones correspondientes a proyectos de investigación y desarrollo o de innovación tecnológica. Estos informes motivados, que tienen carácter vinculante para la Administración tributaria, deben ser elaborados y emitidos por el Ministerio de Ciencia y Tecnología o por un organismo adscrito a éste.
+
+Todo lo anterior justifica cumplidamente la necesidad de regular el procedimiento y el contenido que han de tener los informes considerados, así como la atribución de competencia para su realización.
+
+En su virtud, a propuesta de los Ministros de Ciencia y Tecnología y de Hacienda, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de noviembre de 2003,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto tiene por objeto la regulación del procedimiento de emisión por parte del Ministerio de Industria, Turismo y Comercio, u organismo adscrito a éste, de los informes motivados de carácter vinculante relativos al cumplimento de los requisitos científicos y tecnológicos, a los efectos de la aplicación e interpretación de la deducción por actividades de investigación y desarrollo e innovación tecnológica, prevista en el artículo 35 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, así como a efectos de aplicación de las bonificaciones en la cotización a la Seguridad Social respecto del personal investigador, previstas en la disposición adicional vigésima de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+> Se modifica por la disposición adicional única.1 del Real Decreto 278/2007, de 23 de febrero. [Ref. BOE-A-2007-3941](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3941).
+
+## Artículo 2. Clases de informes.
+
+El Ministerio de Ciencia y Tecnología, de conformidad con lo previsto en el artículo 33.4 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, emitirá informes motivados relativos al cumplimiento de los requisitos científicos y tecnológicos exigidos en el apartado 1.a) de dicho artículo para calificar las actividades del sujeto pasivo como investigación y desarrollo, o en su apartado 2.a), para calificarlas como innovación, teniendo en cuenta en ambos casos las exclusiones establecidas en el apartado 3.
+
+Los informes motivados podrán ser del siguiente tipo:
+
+a) Informe motivado, relativo al cumplimiento de los requisitos científicos y tecnológicos, a los efectos de aplicar la deducción fiscal por actividades de investigación y desarrollo e innovación tecnológica, de conformidad con lo previsto en el artículo 33 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+b) Informe motivado, relativo al cumplimiento de los requisitos científicos y tecnológicos, a los efectos de calificar las actividades del sujeto pasivo como investigación y desarrollo o innovación tecnológica, con el objeto de ser aportado en las consultas sobre interpretación y aplicación de normas previstas en el artículo 107 de la Ley 230/1963, de 28 de diciembre, General Tributaria, todo ello de conformidad con lo previsto en el artículo 33 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+c) Informe motivado, relativo al cumplimiento de los requisitos científicos y tecnológicos, a los efectos de calificar las actividades del sujeto pasivo como investigación y desarrollo, o innovación tecnológica, así como para identificar los gastos e inversiones que puedan ser imputados a dichas actividades, con el objeto de ser aportado para la adopción de los acuerdos previos de valoración que, a solicitud de interesado, la Administración tributaria deberá realizar de conformidad con lo previsto en el artículo 9 de la Ley 1/1998, de 26 de febrero, de Derechos y Garantías de los Contribuyentes, todo ello de acuerdo con lo previsto en el artículo 33 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+d) Informe motivado, relativo al cumplimiento de los requisitos científicos y tecnológicos del personal investigador, a los efectos de aplicar las correspondientes bonificaciones en la cotización a la Seguridad Social que regula la disposición adicional vigésima de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+Los informes motivados referentes a las deducciones del Impuesto sobre Sociedades regulados en este real decreto podrán ser emitidos sobre las actividades y los gastos e inversiones asociados a ellas que sean presentadas en el marco de un proyecto individualizado.
+
+El informe motivado a que se refiere el apartado d) de este artículo se limitará a acreditar que el solicitante tiene personal, de nueva contratación o ya perteneciente a la empresa, dedicado de manera exclusiva y por la totalidad de su tiempo de trabajo a actividades de investigación y desarrollo e innovación tecnológica.
+
+> Se añade el apartado d) y se modifica el último párrafo por la disposición adicional única.2 y 3 del Real Decreto 278/2007, de 23 de febrero. [Ref. BOE-A-2007-3941](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3941).
+
+## Artículo 3. Legitimación.
+
+1\. Podrán solicitar los informes motivados los sujetos pasivos que quieran practicar la deducción fiscal por actividades de investigación y desarrollo e innovación tecnológica prevista en el artículo 35 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, y, en su caso, para ser aportados a las consultas vinculantes y a los acuerdos previos de valoración previstos en la legislación vigente.
+
+Asimismo, se podrán solicitar informes motivados a efectos de la aplicación de las bonificaciones en la cotización a la Seguridad Social respecto del personal investigador según establece el apartado d) del artículo 2.
+
+2\. Los legitimados podrán solicitar informes por sí o por medio de representante. En este caso, habrán de cumplir con los requisitos previstos en el artículo 32 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifica el apartado 1 por la disposición adicional única.4 del Real Decreto 278/2007, de 23 de febrero. [Ref. BOE-A-2007-3941](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3941).
+
+## Artículo 4. Competencia para emitir informes.
+
+1\. El órgano competente para emitir, con carácter general, los informes motivados a los que se refiere este Real Decreto es el Director General de Desarrollo Industrial del Ministerio de Industria, Turismo y Comercio. En aquellos supuestos en los que el informe motivado se refiera a proyectos de investigación y desarrollo e innovación tecnológica que hayan dado lugar a una patente o modelo de utilidad o sobre los que se haya obtenido un Informe Tecnológico de Patentes de la Oficina Española de Patentes y Marcas, se convendrá con el Director de este organismo las condiciones generales de colaboración, en los términos fijados en el apartado 4 del artículo 5.
+
+2\. La competencia para emitir informes motivados corresponderá al Director General del Centro para el Desarrollo Tecnológico Industrial (CDTI), cuando se trate de proyectos que previamente hayan sido financiados como consecuencia de su presentación a cualquiera de las líneas de apoyo financiero a proyectos empresariales que gestiona dicho Centro. En estos casos no será necesaria la aportación del informe técnico a que se refiere el apartado 3 del artículo 5 de este Real Decreto.
+
+3\. Cuando se trate de proyectos sobre eficiencia energética y el uso racional de la energía, así como de apoyo a la diversificación de las fuentes de abastecimiento y el impulso de la utilización de las energías renovables, la competencia para emitir tales informes motivados corresponderá al Director General del Instituto para la Diversificación y Ahorro de la Energía (IDAE).
+
+> Se modifica por el art. único.1 del Real Decreto 2/2007, de 12 de enero. [Ref. BOE-A-2007-742](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-742).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 53, de 2 de marzo de 2004. [Ref. BOE-A-2004-3812](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-3812).
+
+## Artículo 5. Iniciación.
+
+1\. Las solicitudes se presentarán mediante escrito firmado dirigido al órgano competente, de acuerdo con el formulario normalizado que se recoge en el anexo I.
+
+El solicitante deberá manifestar expresamente, en su caso, la existencia de consultas vinculantes presentadas o la solicitud de acuerdos previos de valoración a la Administración tributaria, cuando tengan por objeto la deducción por actividades de investigación, desarrollo e innovación tecnológica y los gastos e inversiones asociados a tales actividades respecto de las que se solicita dicho informe motivado.
+
+2\. Adicionalmente se presentarán dos ejemplares del proyecto individualizado, que describa las actividades que lo integran y los gastos e inversiones asociados a ellas. El solicitante diferenciará en su presentación, que deberá entenderse como una propuesta, las actividades, gastos e inversiones que constituyen, a su juicio, investigación y desarrollo, y las actividades que constituyen innovación tecnológica, atendiendo siempre a los conceptos dados en el artículo 33 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, y según los formatos recogidos en el anexo II, y fundamentará su propuesta.
+
+A los efectos de este real decreto, un proyecto individualizado es aquel proceso único que consiste en un conjunto de actividades coordinadas y controladas con fechas de inicio y fin, llevadas a cabo para lograr un objetivo conforme con requisitos específicos, los cuales incluyen los compromisos de plazos, costes y recursos.
+
+Se considerarán actividades de investigación y desarrollo o de innovación tecnológica las definidas como tales en el artículo 33 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades.
+
+3\. Igualmente, salvo en los supuestos y en los términos que se establezcan por orden del Ministro de Industria, Turismo y Comercio, el solicitante deberá presentar un informe técnico de calificación de las actividades e identificación de los gastos e inversiones asociadas a investigación y desarrollo o innovación, de acuerdo con las definiciones de estos conceptos y los requisitos científicos y tecnológicos contemplados en el artículo 35 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, emitido por una entidad debidamente acreditada por la Entidad Nacional de Acreditación (ENAC).
+
+4\. A los efectos de la emisión del informe técnico recogido en el apartado anterior, las entidades debidamente acreditadas convendrán la realización de una parte del mismo con la Oficina Española de Patentes y Marcas, en los supuestos en que el informe motivado se refiera a proyectos de investigación y desarrollo e innovación tecnológica que hayan dado lugar a una patente o modelo de utilidad o sobre los que se haya obtenido un Informe Tecnológico de Patentes de la Oficina Española de Patentes y Marcas. La Dirección General de Desarrollo Industrial comprobará que se ha producido esta colaboración en la realización del informe técnico aportado por el solicitante.
+
+5\. A efectos de aplicación de las bonificaciones en la cotización a la Seguridad Social respecto del personal investigador, las solicitudes se presentarán mediante escrito firmado dirigido al órgano competente, de acuerdo con el formulario normalizado que se aprobará por orden del Ministro de Industria, Turismo y Comercio y que estará disponible en la sede electrónica del Ministerio de Industria, Turismo y Comercio (www.mityc.es).
+
+Las solicitudes deberán acompañarse de un informe técnico de acreditación del personal investigador, siendo de aplicación lo previsto en el apartado 3 de este artículo.
+
+> Se modifica el apartado 3 y se añade el 5 por la disposición adicional única.5 y 6 del Real Decreto 278/2007, de 23 de febrero. [Ref. BOE-A-2007-3941](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3941).
+
+> Se modifica el apartado 3 y se añade el 4 por el art. único.2 y 3 del Real Decreto 2/2007, de 12 de enero. [Ref. BOE-A-2007-742](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-742).
+
+## Artículo 6. Subsanación.
+
+Si la solicitud o la documentación aportada fuera incompleta o presentara errores subsanables, se requerirá al responsable para que, en el plazo de 10 días hábiles desde el día siguiente al de la recepción de la notificación, subsane la falta o acompañe los documentos preceptivos, con advertencia de que, si no lo hiciese, se le tendrá por desistido de su solicitud, de acuerdo con lo establecido en el artículo 71 de la Ley 30/1992, de 26 de noviembre, y previa resolución, que deberá ser dictada en los términos previstos en el artículo 42 de la citada ley.
+
+## Artículo 7. Instrucción.
+
+1\. El órgano competente podrá requerir al interesado la documentación o informes que estime necesarios para la formación del criterio aplicable al caso planteado de conformidad con lo dispuesto en la legislación vigente. Asimismo podrá solicitar los informes de otros órganos directivos y organismos públicos o privados que estime pertinentes en razón de la materia, estén o no adscritos al Ministerio de Ciencia y Tecnología.
+
+2\. Una vez instruido el procedimiento y con anterioridad a la redacción de la propuesta de resolución, se pondrá de manifiesto a los solicitantes que podrán alegar y presentar los documentos y justificaciones que estimen pertinentes en el plazo de 15 días hábiles.
+
+Se podrá prescindir del trámite de audiencia cuando no figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.
+
+## Artículo 8. Emisión de informes.
+
+1\. El órgano competente emitirá informe motivado sobre cada solicitud presentada, separando, en su caso, sus contenidos en investigación y desarrollo, de conformidad con lo dispuesto en el artículo 35.1.a) del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, o en innovación tecnológica, de acuerdo con lo previsto en el artículo 35.2.a) de la misma ley. En el caso de los informes motivados a que se refieren los párrafos a) y c) del artículo 2 de este real decreto, se detallará la identificación de los gastos e inversiones asociados con cada contenido que merezcan tales calificaciones.
+
+El informe motivado será notificado al interesado por el órgano competente, y se remitirá copia a la Administración tributaria.
+
+En el caso del informe al que se refiere el párrafo d) del artículo 2 a efectos de aplicación de las bonificaciones en la cotización a la Seguridad Social respecto del personal investigador se emitirá informe motivado indicando el nombre, cargo y titulación de las personas de la empresa dedicadas exclusivamente y por la totalidad de su tiempo de trabajo a la realización de actividades de investigación y desarrollo e innovación tecnológica.
+
+2\. El plazo máximo para emitir el informe será de tres meses.
+
+3\. La falta de contestación en el plazo de tres meses no implicará la aceptación de los criterios expresados por el consultante en el escrito de petición de informe ni determinará efectos vinculantes para el Ministerio de Ciencia y Tecnología.
+
+4\. No se emitirá informe respecto de aquellas actividades o proyectos sobre los que se haya resuelto por la Administración tributaria consulta vinculante o acuerdo previo de valoración, ni sobre las actividades o proyectos ya iniciados y que afecten a periodos impositivos cuyo plazo voluntario de declaración haya finalizado con anterioridad a la fecha de la solicitud.
+
+> Se modifica el apartado 1 por la disposición adicional única. 7 del Real Decreto 278/2007, de 23 de febrero. [Ref. BOE-A-2007-3941](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3941).
+
+## Artículo 9. Efectos de los informes.
+
+1\. En los informes a que se refiere el artículo 2.a) evacuados por el Ministerio de Ciencia y Tecnología, el importe de los gastos e inversiones efectivamente incurridos en actividades de investigación y desarrollo o innovación, que pudieran constituir la base de la deducción, deberá, en todo caso, estar debidamente documentado y ajustado a la normativa fiscal vigente, y corresponderá a los órganos competentes de la Administración tributaria la inspección y control de estos extremos.
+
+2\. En los informes a que se refieren los párrafos b) y c) del artículo 2 evacuados por el Ministerio de Ciencia y Tecnología, el importe de los gastos que pudieran constituir la base de la deducción estará condicionado a su realización y la necesaria identidad entre las cuantías presupuestadas consideradas en el informe como asociadas a las actividades de investigación y desarrollo o de innovación y las cuantías efectivamente cargadas o facturadas al proyecto, y deberán practicarse, en su caso, los ajustes correspondientes en la base de deducción.
+
+La Administración tributaria podrá recabar en cualquier momento al sujeto pasivo la justificación de la realidad de los gastos y su directa afectación al proyecto en ulteriores procedimientos de comprobación tributaria.
+
+3\. Los informes motivados emitidos en contestación a solicitudes que cumplan los requisitos de este real decreto vincularán a la Administración tributaria.
+
+## Disposición adicional primera. Aplicación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+El procedimiento administrativo regulado en este real decreto se regirá, en todo lo no previsto en éste, por lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Disposición adicional segunda. Coordinación de actuaciones entre el Ministerio de Hacienda y el Ministerio de Ciencia y Tecnología.
+
+Los Ministerios de Hacienda y de Ciencia y Tecnología preverán los instrumentos de colaboración necesarios que permitan una comunicación adecuada entre las actuaciones desarrolladas en aplicación de este real decreto y los procedimientos relacionados con éste.
+
+## Disposición adicional tercera. Regímenes forales.
+
+Este real decreto no resultará de aplicación en los Territorios Históricos de la Comunidad Autónoma del País Vasco y en la Comunidad Foral de Navarra.
+
+## Disposición transitoria única. Emisión de informes sobre proyectos o actividades iniciados con anterioridad al 1 de enero de 2003.
+
+No obstante lo dispuesto en el artículo 8.4, cuando las actividades o proyectos se hayan iniciado antes del 1 de enero de 2003, se podrán emitir informes con efectos para los períodos impositivos que se inicien a partir de dicha fecha, siempre que sobre éstos la Administración tributaria no haya resuelto previamente consulta vinculante o acuerdo previo de valoración.
+
+## Disposición final primera. Modificación de los anexos del real decreto.
+
+Se habilita al Ministro de Ciencia y Tecnología para modificar por orden el contenido de los anexos recogidos en este real decreto.
+
+## Disposicion final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 21 de noviembre de 2003.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de la Presidencia,
+
+JAVIER ARENAS BOCANEGRA
+
+## ANEXO I — Modelo 1
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_001.png)
+
+> Téngase en cuenta que este modelo ha sido modificado por el art. 1 de la Orden ITC/1469/2007, de 18 de mayo. [Ref. BOE-A-2007-10704](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10704).:
+
+> Uno. El título del anexo I queda redactado del siguiente modo:
+
+> ANEXO I Solicitud de informes motivados relativos al cumplimiento de requisitos científicos y tecnológicos a efectos de aplicación e interpretación de deducciones fiscales y bonificaciones de cotizaciones a la Seguridad Social
+
+> Dos. En el modelo 1 se añade en el «Tipo de Informe Solicitado» un apartado d), con el siguiente contenido:
+
+> d) Informe motivado, relativo al cumplimiento de los requisitos científicos y tecnológicos del personal investigador, a los efectos de aplicar las correspondientes bonificaciones en la cotización a la Seguridad Social que regula la disposición adicional vigésima de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.
+
+> Tres. En el modelo 1 se añade un nuevo apartado en el punto 1.3 (Datos de tamaño de la empresa) que indique la dimensión de la empresa solicitante, quedando redactado del siguiente modo:
+
+> | Dimensión de la empresa | Pyme | SÍ |  | NO |  |
+> |---|---|---|---|---|---|
+
+> Cuatro. En el modelo 1 se añade un nuevo apartado en el punto 1.4 («Datos del Proyecto») que indique si el proyecto ha dado lugar a una patente o modelo de utilidad o ha obtenido un Informe Tecnológico de Patentes de la Oficina Española de Patentes y Marcas, quedando redactado del siguiente modo:
+
+> <table>
+> <tbody>
+> <tr>
+> <td>
+> <p>Título del proyecto</p>
+> </td>
+> <td colspan="3"> </td>
+> </tr>
+> <tr>
+> <td>
+> <p>Fecha de inicio</p>
+> </td>
+> <td> </td>
+> <td>
+> <p>Fecha de finalización</p>
+> </td>
+> <td> </td>
+> </tr>
+> <tr>
+> <td colspan="4">
+> <p> El proyecto ha dado lugar a una patente o modelo de utilidad o ha obtenido un Informe Tecnológico de Patentes de la Oficina Española de Patentes y Marcas, de acuerdo con el apartado 4 del artículo 5 del Real Decreto 1432/2003, de 21 de noviembre, en la redacción dada por el Real Decreto 2/2007, de 12 de enero.</p>
+> </td>
+> </tr>
+> </tbody>
+> </table>
+
+> Cinco. En el modelo 1 se añade un nuevo apartado en el punto 1.4 («Datos del Proyecto») que indique el ejercicio fiscal a que se refieren los gastos deducibles del proyecto, quedando redactado en los siguientes términos:
+
+> | EJERCICIO FISCAL al que se refiere el Informe |  |
+> |---|---|
+
+> Se modifica por el art. 1 de la Orden ITC/1469/2007, de 18 de mayo. [Ref. BOE-A-2007-10704](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10704).
+
+## ANEXO I — Modelo 2
+
+**SOLICITUD AL DIRECTOR GENERAL DEL CDTI DE EMISIÓN DE INFORME MOTIVADO RELATIVO AL CUMPLIMIENTO DE REQUISITOS CIENTÍFICOS Y TECNOLÓGICOS A EFECTOS DE LA APLICACIÓN E INTERPRETACIÓN DE DEDUCCIONES FISCALES**
+
+**DATOS DEL EXPEDIENTE**
+
+Expediente:
+
+Título:
+
+**DATOS DE LA SOLICITUD**
+
+**Identificación del solicitante (representante)**
+
+NIF:
+
+Nombre completo:
+
+Cargo en la empresa:
+
+**Identificación de la empresa**
+
+NIF:
+
+Razón social:
+
+Domicilio social:
+
+Teléfono:
+
+Correo electrónico notificación:
+
+Mes final ejercicio económico:
+
+> Se modifica por el art. 1.a) de la Orden ECC/2326/2015, de 30 de octubre. [Ref. BOE-A-2015-11985](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11985).
+
+> Se modifica por el art. único.1 de la Orden ITC/3289/2007, de 5 de noviembre. [Ref. BOE-A-2007-19669](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19669).
+
+## ANEXO I — Modelo 3
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_003.png)
+
+## ANEXO II
+
+INDICE
+
+1\. Guía de contenidos.
+
+2\. Recursos aplicados al proyecto.
+
+3\. Presupuesto total del proyecto.
+
+Ampliación del apartado 2.1
+
+Ampliación del apartado 2.2
+
+Ampliación del apartado 2.3
+
+Ampliación del apartado 2.4
+
+Ampliación del apartado 2.5
+
+Ficha de desviaciones
+
+Ficha de documentos justificativos del gasto/coste.
+
+4\. **(Sin contenido)**.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_009.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_011.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_012.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_013.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_014.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/286/21847_015.png)
+
+4\. **(Sin contenido)**.
+
+> Se deja sin contenido el apartado 4 por el art. 1.b) de la Orden ECC/2326/2015, de 30 de octubre. [Ref. BOE-A-2015-11985](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-11985).
+
+> Se añade el apartado 4 por el art. único. 2 y 3 de la Orden ITC/3289/2007, de 5 de noviembre. [Ref. BOE-A-2007-19669](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-19669).
+
+## ANEXO III — Bonificaciones de cotizaciones a la Seguridad Social a favor del personal investigador
+
+Personal investigador:
+
+| Nombre | DNI | Titulación | Grupo de cotización | Tipo de contrato |
+|---|---|---|---|---|
+|  |  |  |  |  |
+
+Documentación a presentar:
+
+1\. Solicitud de Informe motivado. Procedimiento telemático.
+
+2\. Relación de personas con los datos del cuadro sobre los que se va a emitir el informe motivado.
+
+3\. Memoria explicativa de las actividades de I+D+i que desempeñan.
+
+4\. Informe técnico emitido por una entidad acreditada por ENAC para certificar actividades de I+D+i (artículo 5.3 del Real Decreto 1432/2003, de 21 de noviembre).
+
+> Se añade por el art. 2 de la Orden ITC/1469/2007, de 18 de mayo. [Ref. BOE-A-2007-10704](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10704).

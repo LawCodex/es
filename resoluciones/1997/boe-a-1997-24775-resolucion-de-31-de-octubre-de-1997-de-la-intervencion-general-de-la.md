@@ -1,0 +1,320 @@
+---
+title: "Resolución de 31 de octubre de 1997, de la Intervención General de la Administración del Estado, por la que se establecen las cuentas justificativas a rendir por los cajeros de pagos especiales a la Dirección General del Tesoro y Política Financiera"
+identifier: "BOE-A-1997-24775"
+eli: "https://www.boe.es/eli/es/res/1997/10/31/(4)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1997-10-31
+published: 1997-11-20
+in_force_from: 1997-11-20
+last_amended: 2010-05-08
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 278"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1997-24775"
+retrieved: 2026-10-11
+---
+
+# Resolución de 31 de octubre de 1997, de la Intervención General de la Administración del Estado, por la que se establecen las cuentas justificativas a rendir por los cajeros de pagos especiales a la Dirección General del Tesoro y Política Financiera
+
+La Resolución conjunta de 28 de febrero de 1997, de la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado, sobre el procedimiento para la realización de ciertos pagos a través de agentes mediadores, establece en su apartado 2.3.4 «Justificación de los pagos» que el cajero de pagos especiales formará trimestralmente la cuenta justificativa correspondiente por cada uno de los tipos de operación regulados en la citada Resolución para su remisión a la Intervención delegada en la Dirección General del Tesoro y Política Financiera para su intervención, y al Ordenador de pagos para su aprobación.
+
+La presente Resolución tiene como finalidad determinar los modelos de cuentas justificativas así como las instrucciones para la formación de las mismas.
+
+En virtud de las competencias que tiene atribuidas esta Intervención General, se dispone:
+
+1\. Modelos de cuentas justificativas.
+
+Los modelos de cuentas justificativas a rendir trimestralmente por los cajeros de pagos especiales a que se refiere la Resolución conjunta de la Dirección General del Tesoro y Política Financiera y de la Intervención General de la Administración del Estado de 28 de febrero de 1997 son los que figuran como anexo de la presente Resolución.
+
+2\. Instrucciones para la formación de la cuenta de pagos especiales «pagos masivos».
+
+1\. *Cabecera.*
+
+En la cabecera figurará el código identificativo de la caja pagadora, así como el ejercicio a que se refiera la información de la cuenta.
+
+2\. *Cuerpo.*
+
+En el cuerpo se consignará el trimestre al que se refiera la información, así como el nombre de la caja pagadora.
+
+En el Debe se anotará para cada uno de los libramientos recibidos, el número de operación de la orden de pago, el número de referencia del pago masivo, el número de perceptores, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+Se anotarán, relacionándose con su libramiento de origen, cada una de las transferencias que no hubieran podido ser abonadas en la cuenta designada por el perceptor, su importe, la fecha de abono y demás datos identificativos, así como el saldo inicial para el caso en que la devolución se hubiera anotado en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+En el Haber se anotarán, con respecto a los libramientos y transferencias devueltas que figuren en la misma fila en el Debe:
+
+Los datos relativos al pago a los perceptores: Fecha de remisión al Banco de España del soporte informático para que efectúe las transferencias e importe del pago.
+
+Los datos relativos a la ejecución de las incidencias: Tipo de incidencia (según códigos recogidos en el pie de la cuenta), fecha de pago e importe.
+
+El saldo final del libramiento o transferencia devuelta en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes a los mismos.
+
+Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor Delegado y del Ordenador de Pagos.
+
+3\. Instrucciones para la formación de la cuenta de pagos especiales «pago de obligaciones a una pluralidad de acreedores».
+
+1\. *Cabecera.*
+
+En la cabecera figurará el código identificativo de la caja pagadora, así como el ejercicio a que se refiera la información de la cuenta.
+
+2\. *Cuerpo.*
+
+En el cuerpo se consignará el trimestre al que se refiera la información, así como el nombre de la caja pagadora.
+
+En el Debe se anotará para cada uno de los libramientos recibidos, el número de operación de la orden de pago, la fecha de su percepción (de abono en cuenta) y el importe, así como el saldo inicial para el caso en que el libramiento se hubiera percibido en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+Se anotarán, relacionándose con su libramiento de origen, cada una de las transferencias que no hubieran podido ser abonadas en la cuenta designada por el perceptor, su importe, la fecha de abono y demás datos identificativos, así como el saldo inicial para el caso en que la devolución se hubiera anotado en un trimestre anterior y todavía no se hubiera cancelado su importe al inicio del actual.
+
+En el Haber se anotarán, con respecto a los libramientos y transferencias devueltas que figuren en la misma fila en el Debe:
+
+Los datos relativos al pago a los perceptores: Fecha de pago (la de la orden de transferencia o de entrega del cheque), forma de pago (transferencia o cheque) e importe.
+
+Los datos relativos a la ejecución de las incidencias: Tipo de incidencia (según códigos recogidos en el pie de la cuenta), fecha de pago e importe.
+
+El saldo final del libramiento o transferencia devuelta en el caso en que no se hubieran satisfecho la totalidad de los importes correspondientes a los mismos.
+
+Existen al pie de la cuenta espacios reservados para las firmas del Cajero Pagador, del Interventor Delegado y del Ordenador de Pagos.
+
+4\. Instrucciones para la formación de la cuenta de pagos especiales «terceros no individualizables mediante número de identificación fiscal».
+
+El contenido es el mismo que el de la cuenta de pagos especiales «pago de obligaciones a una pluralidad de acreedores», con la excepción de que en el haber de la cuenta con respecto a los datos relativos al pago a los perceptores, se incluirá además el código identificativo del perceptor.
+
+5\. Documentación a adjuntar a las cuentas justificativas.
+
+Para cada uno de los libramientos se elaborará una relación de los justificantes que se adjuntan al mismo. La citada relación se identificará por el número de operación de la orden de pago por la que se efectuó el libramiento, que habrá de figurar en el margen superior derecho de la misma.
+
+> Se modifican los apartados 2.2 y 3.2 por la disposición adicional única.1 y 2 de la Resolución de 30 de abril de 2010. [Ref. BOE-A-2010-7328](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7328)
+
+Madrid, 31 de octubre de 1997.–El Interventor general de la Administración del Estado, Rafael Muñoz López-Carmona.
+
+## ANEXO — Modelos de cuentas justificativas
+
+Cuenta de pagos especiales
+
+«Pagos masivos»
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/278/24775_6972672_image1.png)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>* Tipos de incidencias:</p>
+<p> </p>
+<p>1. Retención tributaria AEAT</p>
+<p>2. Retención Seguridad Social</p>
+<p>3. Retención Judicial</p>
+<p>4. Otros</p>
+<p>5. Reintegros</p>
+<p>6. Devoluciones de Transferencias</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>Intervenida la presente cuenta,</p>
+<p>se adjunta informe</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>.................. a ...... / .... / ......</p>
+<p> </p>
+<p>El Cajero Pagador</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>El Interventor Delegado</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>Aprobada:</p>
+<p> </p>
+<p>.................. a ...... / .... / ......</p>
+<p> </p>
+<p>El Ordenador de Pagos</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Cuenta de pagos especiales
+
+«Pago de obligaciones a una pluralidad de acreedores»
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/278/24775_6972672_image2.png)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>* Tipos de incidencias:</p>
+<p> </p>
+<p>1. Retención tributaria AEAT</p>
+<p>2. Retención Seguridad Social</p>
+<p>3. Retención Judicial</p>
+<p>4. Otros</p>
+<p>5. Reintegros</p>
+<p>6. Devoluciones de Transferencias</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>Intervenida la presente cuenta,</p>
+<p>se adjunta informe</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>.................. a ...... / .... / ......</p>
+<p> </p>
+<p>El Cajero Pagador</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>El Interventor Delegado</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>Aprobada:</p>
+<p> </p>
+<p>.................. a ...... / .... / ......</p>
+<p> </p>
+<p>El Ordenador de Pagos</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Cuenta de pagos especiales
+
+«Terceros no individualizables mediante Nif»
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1997/278/24775_6972672_image3.png)
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>* Tipos de incidencias:</p>
+<p> </p>
+<p>1. Retención tributaria AEAT</p>
+<p>2. Retención Seguridad Social</p>
+<p>3. Retención Judicial</p>
+<p>4. Otros</p>
+<p>5. Reintegros</p>
+<p>6. Devoluciones de Transferencias</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>Intervenida la presente cuenta,</p>
+<p>se adjunta informe</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>.................. a ...... / .... / ......</p>
+<p> </p>
+<p>El Cajero Pagador</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td>
+<p>El Interventor Delegado</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+<td> </td>
+<td>
+<p>Aprobada:</p>
+<p> </p>
+<p>.................. a ...... / .... / ......</p>
+<p> </p>
+<p>El Ordenador de Pagos</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se añaden los "tipos de incidencias 5 y 6" por la disposición adicional única.3 de la Resolución de 30 de abril de 2010. [Ref. BOE-A-2010-7328](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7328)

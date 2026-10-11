@@ -1,0 +1,360 @@
+---
+title: "Real Decreto 3482/2000, de 29 de diciembre, por el que se regula la indemnización compensatoria en determinadas zonas desfavorecidas"
+identifier: "BOE-A-2001-1436"
+eli: "https://www.boe.es/eli/es/rd/2000/12/29/3482"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2000-12-29
+published: 2001-01-19
+in_force_from: 2001-01-20
+last_amended: 2006-11-08
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 17"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-1436"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 3482/2000, de 29 de diciembre, por el que se regula la indemnización compensatoria en determinadas zonas desfavorecidas
+
+El Reglamento (CE) 1257/1999, del Consejo, de 17 de mayo, sobre ayudas al desarrollo rural a cargo del Fondo Europeo de Orientación y Garantía Agrarias (FEOGA), establece que las ayudas destinadas a las zonas desfavorecidas y con limitaciones medioambientales específicas tienen como objetivo, entre otros, asegurar un uso continuado de las tierras agrarias contribuyendo al mantenimiento de una comunidad rural viable, a la vez que se fomentan sistemas agrarios sostenibles respetuosos con el medio ambiente.
+
+Las zonas desfavorecidas, objeto del presente Real Decreto, comprenden las zonas de montaña, de despoblamiento y las sometidas a dificultades especiales donde es necesario proseguir la práctica de la actividad agraria, con sujeción a ciertas condiciones, para conservar o mejorar el medio ambiente y el paisaje, manteniendo el campo y preservando el potencial turístico de la zona, o con objeto de proteger las costas.
+
+En consecuencia, en cumplimiento de la normativa comunitaria, las ayudas establecidas en el presente Real Decreto tienen como finalidad compensar las rentas de los agricultores y ganaderos cuya explotación esté ubicada en determinadas zonas desfavorecidas.
+
+El presente Real Decreto, se dicta en virtud de la competencia estatal en materia de bases y coordinación de la planificación general de la actividad económica prevista en el artículo 149.1.13.ª de la Constitución.
+
+En su elaboración han sido consultadas las Comunidades Autónomas y los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de diciembre de 2000,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente Real Decreto tiene por objeto la regulación de la concesión de indemnizaciones compensatorias a los agricultores de las zonas desfavorecidas, previstas en el capítulo V, del Título II del Reglamento (CE) 1257/1999, del Consejo, de 17 de mayo, sobre ayudas al desarrollo rural a cargo del Fondo Europeo de Orientación y Garantía Agrarias (FEOGA).
+
+2\. Las ayudas reguladas en el presente Real Decreto serán de aplicación en todo el territorio nacional, excepto en la Comunidad Foral de Navarra y en la Comunidad Autónoma del País Vasco, en atención a sus regímenes fiscales específicos.
+
+## Artículo 2. Definiciones.
+
+A los efectos del presente Real Decreto, se entiende por:
+
+1\. Explotación agraria: el conjunto de bienes y derechos organizados empresarialmente por su titular en el ejercicio de la actividad agraria, primordialmente con fines de mercado, y que constituye, en sí misma, una unidad técnico-económica.
+
+2\. Titular de la explotación: la persona física o jurídica que ejerce la actividad agraria organizando los bienes y derechos integrantes de la explotación con criterios empresariales y asumiendo los riesgos y responsabilidad civil, social y fiscal que puedan derivarse de la gestión de la explotación.
+
+3\. Agricultor a título principal: el agricultor profesional que obtenga al menos el 50 por 100 de su renta de la actividad agraria ejercida en su explotación y cuyo tiempo de trabajo dedicado a actividades no relacionadas con la explotación sea inferior a la mitad de su tiempo de trabajo total.
+
+4\. Explotaciones agrarias prioritarias: son aquellas explotaciones agrarias familiares y las asociativas que están calificadas como prioritarias conforme a la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias.
+
+5\. Módulo base: es la cantidad unitaria a pagar en la indemnización compensatoria por hectárea de superficie indemnizable.
+
+6\. Unidad de ganado mayor (U.G.M.): se entiende por U.G.M., los toros, vacas y otros animales de la especie bovina de más de dos años y los équidos de más de seis meses. Para otras edades y especies de ganado se establece la siguiente equivalencia:
+
+a) Bóvidos de seis meses a dos años equivalen a 0,6 U.G.M.
+
+b) Ovino y caprino equivalen a 0,15 U.G.M.
+
+7\. Buenas prácticas agrarias: Se entienden como tales las que aplica un agricultor responsable en su explotación y que incluyen el cumplimiento de los requisitos medioambientales obligatorios y las que se han definido expresamente por el Ministerio de Agricultura, Pesca y Alimentación para las actuaciones en zonas desfavorecidas contenidas en el anexo I.
+
+## Artículo 3. Requisitos de los beneficiarios.
+
+1\. Podrán ser beneficiarios de las indemnizaciones compensatorias los agricultores que reúnan los siguientes requisitos:
+
+a) Tener ubicadas sus explotaciones, total o parcialmente, en los municipios incluidos en la lista comunitaria de zonas agrícolas desfavorecidas de España. La ayuda sólo puede recaer sobre la superficie de la explotación incluida en la zona desfavorecida.
+
+b) Ser agricultor a título principal o titular de una explotación agraria calificada como prioritaria, bien a título individual o como socio de una explotación agraria constituida como cooperativa o sociedad agraria de transformación.
+
+c) Residir en el término municipal en que radique su explotación o en algunos de los municipios limítrofes enclavados en zonas desfavorecidas.
+
+d) Comprometerse formalmente a mantener la actividad agraria, al menos, durante los cinco años siguientes a la fecha en que cobre la indemnización, salvo jubilación o causa de fuerza mayor.
+
+e) Comprometerse formalmente a ejercer la agricultura sostenible empleando métodos de buenas prácticas agrícolas habituales, establecidas en el anexo I, adecuadas a las características agrarias de la localidad, compatibles con el medio ambiente, y de mantenimiento del campo y el paisaje.
+
+2\. En el supuesto de que el beneficiario de la ayuda sea socio de una explotación agraria constituida como cooperativa o sociedad agraria de transformación, percibirá la indemnización compensatoria correspondiente a su cuota de participación, la cual podrá acumularse, en su caso, a la que pudiera otorgársele como titular individual de una explotación agraria, a los efectos del cálculo de una indemnización compensatoria única.
+
+## Artículo 4. Requisitos de las explotaciones.
+
+Las explotaciones agrarias para las que se solicite indemnización compensatoria deberán reunir los siguientes requisitos:
+
+a) Tener una carga ganadera máxima de 1 unidad de ganado mayor (U.G.M.) por hectárea de superficie forrajera o de 2 U.G.M., cuando la pluviometría media sea superior a 800 mm/año. En todo caso, la explotación deberá tener una carga ganadera mínima de 0,2 U.G.M. por hectárea.
+
+b) Tener una superficie agrícola superior a 2 hectáreas, excepto para las islas Canarias que será de 1 hectárea.
+
+c) Cumplir las buenas prácticas agrarias habituales establecidas en el anexo I.
+
+d) Las explotaciones solicitantes de la indemnización compensatoria deberán quedar inscritas en el Registro de Explotaciones Agrarias que a tal fin establezca cada Comunidad Autónoma.
+
+## Artículo 5. Módulos de base.
+
+Los módulos base serán los que se relacionan en el apartado 1 del anexo II, a los que serán de aplicación los coeficientes correctores que allí se indican.
+
+## Artículo 6. Superficie agrícola indemnizable.
+
+Las superficies agrícolas indemnizables serán las que se especifican en los siguientes apartados, de acuerdo con los coeficientes que en ellos se determinan:
+
+1\. Superficies de regadío: a efectos del cómputo de las hectáreas de la superficie agrícola indemnizable, sólo se computarán un máximo de 5 hectáreas de regadío por explotación.
+
+2\. Superficie forrajera:
+
+a) Es la superficie agrícola destinada a la alimentación del ganado, en forma de pastoreo o siega. Igualmente, se definen como tales aquellas que el titular de la explotación utilice para el pastoreo del ganado, de forma individual o conjunta, por tener derecho a un aprovechamiento estacional. El cómputo de estas superficies forrajeras se realizará aplicando los coeficientes reductores del apartado 2 del anexo II.
+
+b) En el caso de pastos comunes, la superficie computable será proporcional a la superficie forrajera utilizada por cada beneficiario y que le sea asignado por el órgano competente.
+
+3\. Unidades equivalentes de cultivos: para homogeneizar los diferentes tipos de cultivos, se establecen coeficientes correctores, que permiten determinar las unidades equivalentes de cultivo (U.E.C.).
+
+Se entiende por U.E.C. la hectárea de superficie agrícola, a la que se aplican los siguientes coeficientes establecidos en el apartado 3 del anexo II.
+
+4\. Cálculo de la superficie indemnizable (S.I.): el cálculo de la superficie indemnizable se hará de acuerdo con el procedimiento descrito en el apartado 4 del anexo II.
+
+## Artículo 7. Cálculo de las ayudas.
+
+Las ayudas por explotación se calcularán de acuerdo con el procedimiento descrito en el apartado 5 del anexo II.
+
+## Artículo 8. Solicitudes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 9. Tramitación, resolución y pago de las ayudas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 10. Financiación de las ayudas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 11. Incompatibilidades.
+
+La indemnización compensatoria es incompatible con la percepción por el beneficiario de una pensión de jubilación, del subsidio de desempleo o cualquier otra prestación pública análoga.
+
+## Artículo 12. Deber de información.
+
+Los órganos competentes de las Comunidades Autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Desarrollo Rural, la información relativa a las resoluciones estimatorias y al pago de cada expediente de ayudas. Asimismo, remitirán la información necesaria para el cumplimiento de las obligaciones con las instituciones comunitarias, y la necesaria para el cumplimiento de los objetivos previstos en el presente Real Decreto.
+
+## Artículo 13. Control de las ayudas.
+
+1\. Los controles, cuya realización corresponde a los órganos competentes de las Comunidades Autónomas, tienen como finalidad dar cumplimiento a lo establecido en los artículos 46 a 48 del Reglamento (CE) 1750/1999, de la Comisión, de 23 de julio, por lo que se establecen disposiciones de aplicación del Reglamento (CE) 1257/1999.
+
+2\. Todos los compromisos y obligaciones de un beneficiario estarán sometidos a control.
+
+3\. Las actividades de control de las ayudas comprenderán tanto controles administrativos como inspecciones sobre el terreno, en los términos previstos en el Reglamento (CEE) 3887/1992.
+
+4\. El expediente correspondiente a cada uno de los beneficiarios de las ayudas contendrá toda la información relativa a los resultados de los controles administrativos y, en su caso, de los controles sobre el terreno que permitan deducir que la concesión de estas ayudas se han ajustado a lo establecido en la normativa comunitaria que las regula.
+
+5\. El procedimiento de gestión y control de ayudas se diseñará de acuerdo y en coordinación con el Sistema Integrado de Gestión de Control de ayudas a los productores agrícolas y ganaderos ubicados en el territorio de la Comunidad Autónoma.
+
+6\. En caso de incumplimiento por los beneficiarios de los compromisos contraídos, será de aplicación lo establecido en los artículos 81 y 82 de la Ley General Presupuestaria, aprobada por Real Decreto legislativo 1091/1988, de 23 de septiembre.
+
+## Artículo 14. Seguimiento y evaluación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 15. Comité de Seguimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.a) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Disposición adicional primera. Municipios incluidos en las listas comunitarias de zonas desfavorecidas.
+
+Las Comunidades Autónomas publicarán la relación de municipios incluidos en las listas comunitarias de zonas agrícolas desfavorecidas comprendidos en su ámbito territorial y calificados como de montaña, de despoblamiento o con dificultades especiales.
+
+## Disposición adicional segunda. Título competencial.
+
+El presente Real Decreto se dicta en virtud de la competencia estatal en materia de bases y coordinación de la planificación general de la actividad económica prevista en el artículo 149.1.13.ª de la Constitución.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 466/1990, de 6 de abril, por el que se regula la indemnización compensatoria en determinadas zonas desfavorecidas y cuantas disposiciones de igual o inferior rango se opongan a lo previsto en el presente Real Decreto.
+
+## Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para establecer, en el ámbito de su competencia, las disposiciones para el desarrollo y ejecución del presente Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y no será de aplicación antes del 1 de enero de 2001.
+
+Dado en Madrid a 29 de diciembre de 2000.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO I — Buenas prácticas agrarias habituales
+
+Son consideradas como tales las técnicas normales de explotación que responsa-blemente aplicaría un agricultor en la zona donde ejerza su actividad. Estas buenas prácticas son de obligado cumplimiento para la concesión de las ayudas en zonas desfavorecidas y las primas a medidas agroambientales.
+
+Dada la diversidad de suelo agrario y clima en España, las Comunidades Autónomas, atendiendo a las peculiaridades propias de las diferentes zonas agroclimáticas, podrán establecer otras prácticas beneficiosas para el medio ambiente, cuya observancia será complementaria de las siguientes:
+
+1\. Conservación del suelo y lucha contra la erosión:
+
+a) Prohibición del laboreo convencional a favor de pendiente.
+
+b) Son habituales todo tipo de labores en cuanto a profundidad, tipo de aperos y momento de realización, dependiendo de la profundidad de los suelos, su textura y estructura.
+
+Las Comunidades Autónomas podrán fijar los límites de pendiente y características geométricas de las parcelas excluidas de estas prácticas en función de los factores edáficos, climáticos y socioeconómicos de la zona.
+
+2\. Alternativas y rotaciones.–Se consideran habituales las diferentes opciones de alternativas y rotaciones existentes en las diferentes comarcas para conseguir una agricultura de desarrollo sostenible. El barbecho en cualquiera de sus modalidades es una de las mejores prácticas agrícolas para los secanos españoles.
+
+3\. Optimización del uso de la energía fósil.–Para hacer un uso eficiente de los combustibles fósiles deberá cuidarse el mantenimiento eficiente de la maquinaria agrícola, así como cumplir con la normativa vigente sobre seguridad vial y seguridad e higiene en el trabajo.
+
+4\. Utilización eficiente del agua:
+
+a) Deberá cumplirse la normativa en materia de concesión de agua y limitaciones de uso establecidas por las Confederaciones Hidrográficas.
+
+b) Independientemente de la eficiencia del sistema de riego implantado, deberá cuidarse el mantenimiento de la red interna de la explotación para evitar pérdidas de agua.
+
+5\. Conservación de la biodiversidad:
+
+a) Conservación de los nidos de especies protegidas.
+
+b) Prohibición de quemar los rastrojos y restos de cosecha. Cuando sea aconsejable su quema por motivos sanitarios o fitopatológicos deberán autorizarlo los servicios competentes de la Comunidad Autónoma, haciendo constar expresamente los fundamentos técnicos, así como las medidas de seguridad que deberán tomarse.
+
+c) Las zonas con riesgo de incendio se aislarán mediante franjas labradas de al menos 3 metros de anchura.
+
+6\. Racionalización de uso de fertilizantes:
+
+1.º En las zonas sensibles a nitratos se deberán respetar los programas de actuación establecidos por las Comunidades Autónomas.
+
+2.º Estiércoles y purines:
+
+a) No aplicar sobre terrenos encharcados o con nieve.
+
+b) Cuando las explotaciones se encuentren en zonas vulnerables conforme a la Directiva de Nitratos, se definirá la gestión ambiental adecuada para evitar la lixiviación de purines debiendo respetarse la normativa para purines y estiércoles establecida por la Comunidad Autónoma.
+
+7\. Utilización racional de los herbicidas y productos fitosanitarios:
+
+a) Deberá atenerse a la normativa vigente sobre normas de aplicación, manejo de residuos, utilización de productos autorizados, etc.
+
+b) La gestión de envases se realizará conforme a las normas establecidas por la autoridad competente.
+
+8\. Reducción de la contaminación de origen agrario:
+
+a) Eliminar los materiales residuales utilizados en la producción. Los plásticos y otros residuos deberán retirarse de las parcelas y depositarse en lugares adecuados.
+
+b) Manejo adecuado de los restos de poda procedentes de los cultivos leñosos. La práctica habitual utiliza el ramoneo para consumo del ganado destinando la parte leñosa como combustible energético.
+
+9\. Otras actuaciones:
+
+1.º No deberán abandonarse los cultivos cuando se agote su capacidad productiva y, en cualquier caso, deberán mantenerse libres de plagas.
+
+2.º No podrán percibir ayudas las explotaciones que no cumplan con lo establecido en materia de campañas oficiales de saneamiento ganadero con carácter obligatorio.
+
+3.º No percibirán ayudas las explotaciones que no cumplan la normativa vigente en materia de uso de alimentos prohibidos y de anabolizantes.
+
+4.º La carga ganadera de las superficies forrajeras de la explotación no podrá sobrepasar los siguientes límites:
+
+a) Comarcas con pluviometría anual menor de 600 milímetros: 1 UGM/hectárea y año.
+
+b) Comarcas con pluviometría anual igual o mayor de 600 milímetros y menor de 800 milímetros: 1,50 UGM/hectárea y año.
+
+c) Comarcas con pluviometría anual igual o mayor de 800 milímetros: 2 UGM/hectárea y año.
+
+10\. Normas mínimas medioambientales:
+
+En cualquier caso, además de aplicar las buenas prácticas agrícolas habituales anteriormente expuestas, los beneficiarios deberán respetar la legislación medioambiental al respecto, contenida en la siguiente normativa:
+
+a) Ley 4/1989, de 27 de marzo, modificada por las Leyes 40/1997 y 41/1997, de conservación de los espacios naturales y de la flora y fauna silvestres.
+
+b) Real Decreto 1997/1995, de 7 de diciembre, por el que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de hábitat naturales y de la flora y fauna silvestre [Directiva 92/43 (CE)].
+
+c) Real Decreto 261/1996, de 16 de febrero, sobre protección de las aguas contra la contaminación producida por los nitratos procedentes de fuentes agrarias [Directiva 91/679 (CE)].
+
+d) Ley 10/1998, de 21 de abril, de Residuos.
+
+> Se modifica por la disposición derogatoria única.2 del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## ANEXO II
+
+1\. Módulos de base:
+
+En relación con lo dispuesto en el artículo 5 se establecen los siguientes módulos:
+
+| Zona desfavorecida | Euros por hectárea de superficie indemnizable (S.I.) |
+|---|---|
+| Montaña (art.18) | 94 euros/ha. |
+| Despoblamiento (art.19) | 57 euros/ha. |
+| Dificultades especiales (art. 20) | 120 euros/ha. |
+
+Al módulo de base se le aplican dos coeficientes correctores en función de:
+
+Superficie indemnizable de la explotación (C<sub>1</sub>).
+
+Base imponible general declarada por el titular de la explotación (C<sub>2</sub>).
+
+Coeficiente C<sub>1</sub>
+
+| Superficie indemnizable en las explotaciones | C<sub>1</sub> Coeficiente aplicable <br>al módulo base |
+|---|---|
+| Hasta 5 hectáreas | 1,00 |
+| Más de 5 y hasta 25 hectáreas | 0,75 |
+| Más de 25 y hasta 50 hectáreas | 0,50 |
+| Mas de 50 y hasta 100 hectáreas | 0,25 |
+| Mas de 100 hectáreas (se excluyen las superficies que excedan de 100 hectáreas) | 0,00 |
+
+Coeficiente C<sub>2</sub>
+
+| Base imponible general declarada por el beneficiario | C<sub>2</sub> Coeficiente aplicable <br>al módulo base |
+|---|---|
+| Menor del 50 por 100 de la renta de referencia | 1,20 |
+| Mayor del 50 por 100 de la renta de referencia | 1 |
+
+2\. Coeficientes reductores C<sub>i</sub> aplicables a las superficies forrajeras.
+
+|  | Coeficiente C<sub>i</sub> |
+|---|---|
+| Hectáreas de pastos permanentes | 1,00 |
+| Hectáreas de pasto aprovechables por un periodo de dos a seis meses | 0,50 |
+| Hectáreas de barbecho rastrojera y erial a pastos | 0,15 |
+
+3\. Coeficientes reductores C<sub>j</sub> aplicables a las Unidades Equivalentes de Cultivo (U.E.C.).
+
+|  | Coeficiente C<sub>j</sub> |
+|---|---|
+| Hectáreas de regadío | 1,00 |
+| Hectáreas de cultivo extensivo y plantaciones de secano | 0,50 |
+| Hectáreas de plantaciones no maderables, forestales y arbustivas | 0,30 |
+
+4\. Cálculo de la Superficie Indemnizable (S.I.)
+
+Es el resultado de sumar a la superficie forrajera computable las unidades equivalentes de cultivo.
+
+S.I. (en Ha.) = ∑ Si Ci + ∑ Sj Cj
+
+Siendo:
+
+S.I. = Superficie indemnizable en Ha.
+
+Si = Superficie forrajera en Ha.
+
+Ci = Coeficiente aplicable a las superficies forrajeras.
+
+Sj = Superficie de cultivo en Ha.
+
+Cj =Coeficiente aplicable a las superficies de cultivos.
+
+5\. Cálculo de las ayudas.
+
+Las ayudas por explotaciones se calcularán como sigue:
+
+Ayuda (euros) = [Superficie Indemnizable (Ha)] × [módulo base (euros/Ha) × Coeficientes aplicables al módulo base]
+
+La cuantía de la indemnización compensatoria anual que puede percibir el titular de la explotación no podrá ser inferior a 300 euros.
+
+> Se modifica por el art. 1 y anexo I del Real Decreto 1203/2006, de 20 de octubre. [Ref. BOE-A-2006-19351](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19351).

@@ -1,0 +1,93 @@
+---
+title: "Orden de 27 de julio de 1999 por la que se determinan las condiciones que deben reunir los extintores de incendios instalados en vehículos de transporte de personas o de mercancías"
+identifier: "BOE-A-1999-16887"
+eli: "https://www.boe.es/eli/es/o/1999/07/27/(6)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1999-07-27
+published: 1999-08-05
+in_force_from: 1999-08-06
+last_amended: 2025-04-10
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-16887"
+retrieved: 2026-10-11
+---
+
+# Orden de 27 de julio de 1999 por la que se determinan las condiciones que deben reunir los extintores de incendios instalados en vehículos de transporte de personas o de mercancías
+
+La Orden de 30 de julio de 1975 por la que se determinan las condiciones técnicas que deben reunir los extintores de incendios para ser instalados en vehículos de transporte de personas o de mercancías, establecía la homologación de los citados extintores, así como las características técnicas y número de extintores que el Código de Circulación.
+
+Por Real Decreto 1244/1979, de 4 de abril, por el que se aprueba el Reglamento de Aparatos a Presión, y posteriores ITC, se establecieron las condiciones técnicas que debían cumplir dichos aparatos, y posteriormente en el Real Decreto 1942/1993, de 5 de noviembre, por el que se aprueba el Reglamento de Instalaciones de Protección contra Incendios, se establecía para los extintores la marca de conformidad a norma.
+
+Al estar ya fijados en la reglamentación general de los extintores de incendios las condiciones técnicas y de marcado, resulta conveniente eliminar de la reglamentación específica de los extintores de incendios instalados en vehículos, los requerimientos técnicos y de marcado.
+
+La presente disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas previsto en el Real Decreto 1168/1995, de 7 de julio, por el que se aplican las disposiciones de la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 28 de marzo.
+
+En su virtud, dispongo:
+
+## Primero.
+
+Sin perjuicio de lo que pueda establecerse en otra reglamentación específica, los extintores a instalar en vehículos de nueva matriculación, y los de reposición en el resto de los vehículos que estén obligados por el Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, a llevarlos, serán de tipo portátil y manual, siendo del agente extintor más adecuado para las características del vehículo, preferentemente de polvo seco o bien de otro agente que sea apto para su uso. Dichos extintores deberán cumplir con el Real Decreto 709/2015, de 24 de julio, por el que se establecen los requisitos esenciales de seguridad para la comercialización de los equipos a presión y con el Reglamento de instalaciones de protección contra incendios, aprobado por el Real Decreto 513/2017, de 22 de mayo.
+
+La clasificación de los extintores se establece de acuerdo a la norma UNE-EN 3-7, según el Reglamento de instalaciones de protección contra incendios, aprobado por el Real Decreto 513/2017, de 22 de mayo, del cual los extintores deben cumplir todo lo relativo a los requisitos de producto. Por otra parte, no les será de aplicación lo indicado en dicho Reglamento en lo relativo a los requisitos de instalación, puesta en servicio, inspecciones o mantenimiento, debiendo cumplir, en sustitución de lo anterior, con los siguientes requisitos: Una vez colocados, deben ser supervisados de forma regular por el titular del vehículo u otra persona designada, para verificar su correcto estado y además, debiendo realizarse como mínimo las operaciones recogidas en la tabla II del anexo II del Reglamento de instalaciones de protección contra incendios.
+
+> Se modifica por la disposición final 3 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8ª del citado Real Decreto.
+
+## Segundo.
+
+El número mínimo y calificación mínima de los extintores que deberán llevar los vehículos reglamentariamente obligados será:
+
+a) Vehículo a motor para transporte de personas:
+
+1.º Hasta 9 plazas (incluido el conductor): Uno de clase 5A/21B.
+
+2.º Hasta 23 plazas (incluido el conductor): Uno de clase 8A/34B.
+
+3.º Más de 23 plazas (incluido el conductor): Uno de clase 21A/113B.
+
+b) Vehículos a motor y conjuntos de vehículos para el transporte de mercancías y cosas:
+
+1.º Desde 3.500 kg de MMA hasta 7.000 kg de MMA: Uno de clase 21A/113B.
+
+2.º Hasta 20.000 kg de MMA: Uno de clase 34A/144B.
+
+3.º Más de 20.000 kg de MMA: Dos de clase 34A/144B.
+
+Alternativamente a lo indicado aquí para los vehículos para el transporte de mercancías y cosas, también se considerará cumplido el requisito si se dispone de la dotación mínima de extintores que se recoge en el Acuerdo sobre Transporte Internacional de Mercancías Peligrosas por Carretera (ADR), en función de su MMA.
+
+> Se modifica por la disposición final 3 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8ª del citado Real Decreto.
+
+## Tercero.
+
+A los extintores recogidos en esta orden les podrá ser de aplicación lo dispuesto en la disposición adicional primera del Reglamento de instalaciones de protección contra incendios, aprobado por el Real Decreto 513/2017, de 22 de mayo, relativa al reconocimiento mutuo.
+
+> Se modifica por la disposición final 3 del Real Decreto 164/2025, de 4 de marzo. [Ref. BOE-A-2025-7190](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-7190)
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8ª del citado Real Decreto.
+
+## Cuarto.
+
+Podrán seguir instalándose extintores que cumplan con lo establecido en la Orden de 30 de julio de 1975 en vehículos que se matriculen hasta tres meses después de la entrada en vigor de esta Orden. Estos extintores, y los instalados con anterioridad, podrán utilizarse hasta el final de su vida útil, siempre que sean sometidos a los controles periódicos y otros requerimientos exigidos en la reglamentación aplicable.
+
+## Quinto.
+
+Queda derogada la Orden de 30 de julio de 1975 por la que se determinan las condiciones técnicas que deben reunir los extintores de incendios instalados en vehículos de transporte de personas o de mercancías.
+
+## Sexto.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 27 de julio de 1999.
+
+PIQUÉ I CAMPS
+
+Excmo. Sr. Secretario de Estado de Industria y Energía.

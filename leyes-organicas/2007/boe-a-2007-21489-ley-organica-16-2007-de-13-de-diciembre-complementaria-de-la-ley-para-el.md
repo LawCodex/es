@@ -1,0 +1,60 @@
+---
+title: "Ley Orgánica 16/2007, de 13 de diciembre, complementaria de la Ley para el desarrollo sostenible del medio rural"
+identifier: "BOE-A-2007-21489"
+eli: "https://www.boe.es/eli/es/lo/2007/12/13/16"
+type: organic_law
+rank: "Ley Orgánica"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2007-12-13
+published: 2007-12-14
+in_force_from: 2008-01-03
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 299"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-21489"
+retrieved: 2026-10-11
+---
+
+# Ley Orgánica 16/2007, de 13 de diciembre, complementaria de la Ley para el desarrollo sostenible del medio rural
+
+## JUAN CARLOS I
+
+## REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley orgánica.
+
+## PREÁMBULO
+
+La presente Ley Orgánica procede del desglose de la disposición adicional segunda del proyecto de Ley para el desarrollo sostenible del medio rural, cuyo contenido, conforme a los artículos 81 y 104 de la Constitución, tenía carácter orgánico.
+
+En consecuencia, y atendiendo a las directrices de técnica normativa que aconsejan incluir en texto distintos los preceptos de naturaleza ordinaria y los preceptos de naturaleza orgánica, tal como se desprende de la jurisprudencia constitucional, la Mesa del Congreso de los Diputados, oída la Junta de Portavoces, acordó el mencionado desglose:
+
+### Artículo único. Modificación de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+
+Se añade una nueva Disposición Adicional Quinta, a dicha Ley Orgánica con la siguiente redacción:
+
+«Disposición Adicional Quinta. Colaboración para la prestación de servicios de policía local.
+
+En los supuestos en los que dos o más municipios limítrofes, pertenecientes a una misma Comunidad Autónoma, no dispongan separadamente de recursos suficientes para la prestación de los servicios de policía local, podrán asociarse para la ejecución de las funciones asignadas a dichas policías en esta Ley.
+
+En todo caso, el acuerdo de colaboración para la prestación de servicios por los Cuerpos de Policía Local dependientes de los respectivos municipios respetará las condiciones que se determinen por el Ministerio del Interior y contará con la autorización de éste o, en su caso, de la Comunidad Autónoma correspondiente con arreglo a lo que disponga su respectivo Estatuto de Autonomía.»
+
+### Disposición final. Entrada en vigor.
+
+La presente Ley Orgánica entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Estado.
+
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley orgánica.
+
+Madrid, 13 de diciembre de 2007.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+JOSÉ LUIS RODRÍGUEZ ZAPATERO

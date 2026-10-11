@@ -1,0 +1,53 @@
+---
+title: "Orden de 7 de abril de 2000 sobre manejo de embarcaciones neumáticas o semirrígidas por el personal del Servicio Marítimo de la Guardia Civil"
+identifier: "BOE-A-2000-6882"
+eli: "https://www.boe.es/eli/es/o/2000/04/07/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2000-04-07
+published: 2000-04-12
+in_force_from: 2000-04-13
+last_amended: 2006-03-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 88"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-6882"
+retrieved: 2026-10-11
+---
+
+# Orden de 7 de abril de 2000 sobre manejo de embarcaciones neumáticas o semirrígidas por el personal del Servicio Marítimo de la Guardia Civil
+
+El Real Decreto 246/1991, de 22 de febrero, por el que se regula el Servicio Marítimo de la Guardia Civil, en su disposición final primera autoriza a los Ministerios del Interior y de Defensa para determinar conjuntamente y, en su caso, a través de los procesos normativos correspondientes, entre otros temas, la colaboración que la Armada ha de prestar en la titulación del personal de la Guardia Civil encargado de tripular las embarcaciones de dicho Servicio.
+
+No obstante lo anterior, la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, en su artículo 86 determina las competencias del Ministerio de Fomento en materia de seguridad de la vida humana en la mar y la navegación, así como en la determinación de las condiciones de idoneidad, profesionalidad y titulación para formar parte de las dotaciones de todos los buques civiles españoles. Todo ello, en relación con lo establecido en los artículos 6 y siguientes que determinan los criterios respecto a marina mercante, zonas de navegación y flota civil.
+
+Por otra parte, la Orden de 27 de abril de 1992, por la que se establece el procedimiento que habilita al personal del Servicio Marítimo de la Guardia Civil para el manejo de sus embarcaciones, determina el procedimiento para obtener la titulación que le acredite para el manejo de embarcaciones de dicho Servicio. Sin embargo, el citado Servicio cuenta con embarcaciones neumáticas y semirrígidas que, por su reducido tamaño y zona de operatividad, no es necesario que sean manejadas por un Patrón del Servicio Marítimo, resultando suficiente que lo sean por personal auxiliar, que para su integración en el Servicio Marítimo deben superar un curso de formación teórico y práctico realizado en el propio Servicio, y que les capacita para manejar adecuadamente embarcaciones neumáticas y semirrígidas, con suficiente garantía para la seguridad marítima.
+
+En su virtud, a propuesta de los Ministros de Defensa, del Interior y de Fomento, dispongo:
+
+## Artículo único.
+
+1\. Se autoriza el manejo de embarcaciones auxiliares neumáticas o semirrígidas, de eslora máxima hasta diez metros y de potencia de motores adecuada a las mismas, al personal destinado en el Servicio Marítimo de la Guardia Civil, especialidades Marítima y de Actividades Subacuáticas, que haya superado el curso teórico y práctico impartido por el citado Servicio, de acuerdo con el programa aprobado por la Dirección General de la Marina Mercante.
+
+2\. Para pilotar las embarcaciones de eslora superior a diez metros se requerirá estar en posesión de la titulación a que se refiere la Orden de 27 de abril de 1992.
+
+> Téngase en cuenta que la Orden PRE/874/2006, de 23 de marzo, por la que se modifica la Orden de 7 de abril de 2000. [Ref. BOE-A-2006-5624](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-5624), establece en su art. único:
+
+> "Artículo único.
+
+> 1\. Se autoriza el gobierno de las embarcaciones auxiliares del Servicio Marítimo de la Guardia Civil, de eslora máxima hasta 12 metros y de potencia de motores adecuada a las mismas, y en las aguas marítimas españolas hasta el límite exterior del mar territorial determinado en la legislación vigente, al personal adscrito a dicho Servicio Marítimo, especialidades Marítimas y de Actividades Subacuáticas, que haya superado el curso teórico y práctico impartido por el citado Servicio, de acuerdo con el programa aprobado por la Dirección General de la Marina Mercante.
+
+> 2\. Para pilotar las embarcaciones de eslora superior a doce metros se requerirá estar en posesión de la titulación a que se refiere la Orden de 27 de abril de 1992."
+
+## Disposición final única.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 7 de abril de 2000.
+
+ÁLVAREZ-CASCOS FERNÁNDEZ
+
+Excmos. Sres. Ministros de Defensa, del Interior y de Fomento.

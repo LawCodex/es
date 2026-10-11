@@ -1,0 +1,119 @@
+---
+title: "Real Decreto 1424/1998, de 3 de julio, por el que se constituye y organiza el Real Patronato de la Ciudad de Toledo"
+identifier: "BOE-A-1998-17041"
+eli: "https://www.boe.es/eli/es/rd/1998/07/03/1424"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación y Cultura"
+date: 1998-07-03
+published: 1998-07-17
+in_force_from: 1998-07-18
+last_amended: 2000-09-22
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 170"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-17041"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1424/1998, de 3 de julio, por el que se constituye y organiza el Real Patronato de la Ciudad de Toledo
+
+La ciudad de Toledo es uno de los principales conjuntos monumentales de España, con una gran importancia simbólica por la convivencia en ella de las tres grandes culturas monoteístas que han forjado nuestra civilización; y con una proyección internacional que hizo que fuera declarada, por la UNESCO en 1986, Patrimonio de la Humanidad.
+
+Para fortalecer y potenciar sus posibilidades de desarrollo cultural y turístico, resulta conveniente constituir un Real Patronato que facilite la promoción y coordinación de las actividades en que participen las entidades estatales, autonómicas y locales directamente vinculadas a la ciudad de Toledo. La labor del Real Patronato se verá facilitada por la existencia del Plan Especial del Casco Histórico de la Ciudad de Toledo, aprobado por Acuerdo del Pleno del Ayuntamiento de Toledo de 17 de febrero de 1997 («Boletín Oficial de la Provincia de Toledo» de 10 de marzo de 1997) y realizado en cumplimiento de lo dispuesto en el artículo 20.1 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+
+En su virtud, a propuesta de la Ministra de Educación y Cultura, con la aprobación del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 3 de julio de 1998,
+
+DISPONGO:
+
+## Artículo 1. Constitución.
+
+Se constituye el Real Patronato de la Ciudad de Toledo, que funcionará como órgano permanente colegiado, con el fin de promover y coordinar todas aquellas acciones que deban realizar en Toledo las Administraciones y entidades que lo componen, orientadas a la conservación y revitalización del Patrimonio Cultural de la ciudad de Toledo, a la difusión de los valores que simboliza, así como al desarrollo y potenciación de las actividades culturales y turísticas vinculadas a la ciudad.
+
+## Artículo 2. Atribuciones.
+
+Para la consecución de los fines previstos en el artículo anterior, serán atribuciones específicas del Real Patronato las siguientes:
+
+a) Promover la ejecución de obras, servicios e instalaciones en general, así como la construcción y establecimiento de medios adecuados de transportes y comunicaciones urbanos e interurbanos relacionados con los objetivos del Real Patronato.
+
+b) Impulsar la coordinación de las inversiones que se proyecten por las Administraciones públicas para la realización de las obras, servicios e instalaciones antes referidos.
+
+c) Promover iniciativas y proyectos culturales orientados a la conservación del patrimonio histórico y a la potenciación de la ciudad de Toledo como lugar de encuentro de culturas diversas.
+
+## Artículo 3. Adscripción.
+
+El Real Patronato estará adscrito administrativamente al Ministerio de Educación y Cultura y se reunirá en la ciudad de Toledo.
+
+## Artículo 4. Composición.
+
+1\. Bajo la Presidencia de Honor de Su Majestad el Rey, el Real Patronato tendrá la siguiente composición:
+
+A) Presidente: el Presidente del Gobierno.
+
+B) Vicepresidente: el Ministro de Educación, Cultura y Deporte, que sustituirá al Presidente en casos de vacante, ausencia, enfermedad u otra causa legalmente establecida.
+
+C) Vocales:
+
+a) El Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía.
+
+b) El Ministro de Asuntos Exteriores.
+
+c) El Ministro de Hacienda.
+
+d) El Ministro de Fomento.
+
+e) El Ministro de Administraciones Públicas.
+
+f) El Presidente de la Junta de Comunidades de Castilla-La Mancha.
+
+g) El Secretario de Estado de Cultura.
+
+h) El Delegado del Gobierno en Castilla-La Mancha.
+
+i) El Alcalde de Toledo.
+
+j) El Presidente de la Diputación Provincial de Toledo.
+
+k) El Arzobispo de Toledo.
+
+l) El Rector de la Universidad de Castilla-La Mancha.
+
+m) El Director de la Real Academia de Bellas Artes y Ciencias HIstóricas de Toledo.
+
+n) Un representante de la Real Fundación de Toledo.
+
+D) Secretario: el Subsecretario de Educación, Cultura y Deporte.
+
+2\. A las sesiones del Real Patronato podrán asistir, con voz pero sin voto, aquellas personas que sean expresamente convocadas al efecto por el Presidente.
+
+> Se modifica por el art. único del Real Decreto 1603/2000, de 15 de septiembre. [Ref. BOE-A-2000-17127](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17127).
+
+> Se modifica por el art. único del Real Decreto 2063/1999, de 30 de diciembre. [Ref. BOE-A-2000-124](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-124).
+
+## Artículo 5. Funcionamiento.
+
+1\. El Real Patronato ajustará su funcionamiento a lo dispuesto en el capítulo II, Título II, de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2\. Todos los cargos del Real Patronato serán honoríficos, sin derecho a percibir retribución alguna. El Ministerio de Educación y Cultura facilitará al Real Patronato los recursos humanos y materiales necesarios para su funcionamiento sin que se produzca, en ningún caso, aumento del gasto público.
+
+## Artículo 6. Cooperación.
+
+Para la coordinación institucional derivada de las atribuciones del Real Patronato, así como para la mejor aplicación y desarrollo de sus acuerdos, las Administraciones y entidades que en él participan podrán constituir un consorcio, de conformidad con lo establecido en la legislación vigente.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se autoriza a la Ministra de Educación y Cultura para dictar previa aprobación, en su caso, del Ministro de Administraciones Públicas, cuantas disposiciones exija el desarrollo y aplicación de este Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 3 de julio de 1998.
+
+JUAN CARLOS R.
+
+La Ministra de Educación y Cultura,
+
+ESPERANZA AGUIRRE Y GIL DE BIEDMA

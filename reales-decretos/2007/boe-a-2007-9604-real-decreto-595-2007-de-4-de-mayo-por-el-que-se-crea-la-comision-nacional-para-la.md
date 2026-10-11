@@ -1,0 +1,229 @@
+---
+title: "Real Decreto 595/2007, de 4 de mayo, por el que se crea la Comisión Nacional para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas"
+identifier: "BOE-A-2007-9604"
+eli: "https://www.boe.es/eli/es/rd/2007/05/04/595"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Asuntos Exteriores y de Cooperación"
+date: 2007-05-04
+published: 2007-05-11
+in_force_from: 2007-05-12
+last_amended: 2011-02-05
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 113"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-9604"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 595/2007, de 4 de mayo, por el que se crea la Comisión Nacional para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas
+
+Comenzando en 2008, las distintas Repúblicas Iberoamericanas celebrarán sucesivamente los bicentenarios de la consecución de su independencia. Conmemorarán unos acontecimientos que, hace ahora un par de siglos, determinaron la configuración política de todo un continente y les otorgaron a cada una de esas Repúblicas su identidad institucional específica. Se trata de un fenómeno que ha sido decisivo para la construcción de la realidad contemporánea. Como lo fue asimismo, sin duda, el encuentro entre ambos mundos trescientos años atrás.
+
+Ese gran movimiento emancipador emergió en Europa con un escenario de consagración de los derechos y libertades, que fundamentó el constitucionalismo, primero, y la democracia, después. Un mismo movimiento, germinado en un territorio ideológico común, que arraigó en la España de comienzos del XIX, y cuya celebración conmemoramos igualmente a partir del mismo año de 2008, culminando en 2012, en el bicentenario de la Constitución de Cádiz, arranque impetuoso de nuestro camino a la libertad.
+
+Doscientos años más tarde somos capaces de identificar que un mismo impulso ideológico condujo ambos fenómenos en las dos orillas del Atlántico. Somos capaces de reconocernos mutuamente cada uno en una parte sustancial de la personalidad de todos los demás. Una personalidad forjada a lo largo de un denso periodo de convivencia compleja, fortalecida en torno a lazos familiares compartidos, construida en el espacio cultural y simbólico de una misma lengua, cuya expansión internacional prueba inequívocamente su vitalidad. Una personalidad determinada a potenciar nuestro papel conjunto en el mundo por medio de la Comunidad Iberoamericana que empezamos a levantar juntos hace algo más de década y media. Esa Comunidad es hoy una realidad plenamente consolidada con la que hemos logrado articular una voz común, la voz de un actor global cooperativo ante muchos problemas y dilemas del mundo actual.
+
+Los lazos establecidos entre nosotros se han ido enriqueciendo a lo largo del tiempo, y a los valores fundamentales que siempre nos han unido les acompaña hoy una intensa relación económica, unos vínculos sociales y personales enriquecidos con la integración de nacionales de unos países en otros, una hibridación cultural más intensa que nunca y una más estrecha cercanía conformada en el conocimiento mutuo, la comprensión y la cooperación.
+
+Todo ello constituye la base firme sobre la que se asienta el respeto a la identidad, diversidad y autonomía de cada uno de cuantos integramos esa Comunidad.
+
+Esa es la realidad de nuestro presente. Esa es la vocación de nuestro futuro. Y es precisamente la decisión largamente madurada de caminar juntos la que nos permite celebrar como propios los acontecimientos que cada país celebrará como suyos. De esa manera, el presente y el futuro de la Comunidad Iberoamericana será mejor conocido en el continente europeo.
+
+La España actual, democrática y avanzada, se dispone pues a contribuir a esa conmemoración, a sumarse a las celebraciones que las Repúblicas Iberoamericanas decidan y a aprovechar esta ocasión para profundizar en una relación que, mas allá de su carácter prioritario en la política exterior de nuestro país, consideramos constitutiva del corazón mismo de nuestra personalidad.
+
+Por ello, y con el fin de llevar a cabo un programa amplio de iniciativas y actividades políticas, culturales y de todo tipo destinadas a esa finalidad, constituirá una Comisión Nacional que asuma la promoción, coordinación y organización de las mismas.
+
+En su virtud, a propuesta del Ministro de Asuntos Exteriores y de Cooperación, con la aprobación del Ministerio de Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 4 de mayo de 2007,
+
+## D I S P O N G O :
+
+### Artículo 1. Creación y dependencia orgánica.
+
+Se crea la Comisión Nacional para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas, como órgano de los previstos en el artículo 39 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado. Esta Comisión se adscribirá al Ministerio de la Presidencia, y tiene como finalidad la preparación, programación, organización y coordinación de las actividades destinadas a la celebración de dichos acontecimientos. En este marco programará, impulsará y coordinará las actividades que se lleven a cabo por las Administraciones públicas, entidades públicas, privadas y particulares que participen en estas celebraciones. Igualmente, coordinará sus actuaciones con la Comisión para la Conmemoración del ll Centenario de la Constitución de 1812, creada por el Real Decreto 95/2006, de 3 de febrero.
+
+> Se modifica por el art. único.1 del Real Decreto 147/2011, de 4 de febrero. [Ref. BOE-A-2011-2208](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2208).
+
+### Artículo 2. Composición.
+
+Para el cumplimiento de sus fines, la Comisión Nacional se estructurará en los siguientes órganos:
+
+a) El Presidente.
+
+b) El Pleno.
+
+c) El Comité Ejecutivo.
+
+d) El Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas.
+
+> Se modifica por el art. único.1 del Real Decreto 1258/2007, de 21 de septiembre. [Ref. BOE-A-2007-16826](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16826).
+
+### Artículo 3. El Presidente.
+
+La Comisión Nacional será presidida por el Ministro de la Presidencia.
+
+> Se modifica por el art. único.2 del Real Decreto 147/2011, de 4 de febrero. [Ref. BOE-A-2011-2208](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2208).
+
+### Artículo 4. El Pleno.
+
+1\. El Pleno será presidido por el Presidente de la Comisión Nacional y estará integrado por los siguientes miembros:
+
+a) Pertenecientes a la Administración General del Estado:
+
+El Ministro de Asuntos Exteriores y de Cooperación.
+
+El Ministro de Justicia.
+
+El Ministro de Educación.
+
+El Ministro de Cultura.
+
+El Director del Gabinete de la Presidencia del Gobierno.
+
+El Secretario General de la Presidencia del Gobierno.
+
+El Secretario de Estado de Asuntos Exteriores e Iberoamericanos.
+
+El Secretario de Estado de Cooperación Internacional y Presidente de la Agencia Española de Cooperación Internacional para el Desarrollo
+
+El Secretario de Estado de Defensa.
+
+El Secretario General de Universidades.
+
+El Secretario de Estado de Inmigración y Emigración.
+
+El Secretario General de Turismo y Comercio Interior.
+
+Los Subsecretarios de los Ministerios de Asuntos Exteriores y de Cooperación; de Justicia; de Economía y Hacienda; de Fomento; de Educación; de Cultura; de Trabajo e Inmigración; de Industria, Turismo y Comercio; de la Presidencia; y de Política Territorial y Administración Pública.
+
+El Director General para Iberoamérica del Ministerio de Asuntos Exteriores y de Cooperación, que ejercerá las funciones de Secretario de la Comisión, con voz y voto.
+
+El Director de Relaciones Culturales y Científicas de la Agencia Española de Cooperación Internacional para el Desarrollo.
+
+El Director del Departamento de Educación y Cultura del Gabinete de la Presidencia del Gobierno.
+
+b) Otros miembros:
+
+El Director de la Real Academia de la Lengua Española.
+
+El Director de la Real Academia de la Historia.
+
+El Director del Instituto Cervantes.
+
+El Director del Centro de Estudios Políticos y Constitucionales.
+
+El Presidente de la Sociedad Estatal de Acción Cultural (SEAC).
+
+El Director de la Fundación Carolina.
+
+El Director de la Casa de América.
+
+El Presidente del Real Instituto Elcano.
+
+El Secretario General Iberoamericano, a petición del Presidente y previa su aceptación.
+
+Igualmente, a petición del Presidente y previa su aceptación, hasta 10 personalidades en representación del mundo de la historia, de la cultura, de la economía y de las relaciones internacionales.
+
+c) El Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas.
+
+d) El Adjunto al Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de las Repúblicas Iberoamericanas a que se refiere el artículo 6.3 del presente Real Decreto.
+
+2\. El Presidente de la Comisión Nacional podrá incrementar el número de vocales con el nombramiento de hasta un máximo de otros 10 miembros, en representación de otras instituciones y entidades que lo soliciten.
+
+3\. Son competencias del Pleno:
+
+a) Aprobar el plan general de actuación de la Comisión y supervisar su ejecución.
+
+b) Recabar la colaboración de Administraciones, instituciones públicas o privadas y particulares que se estimen precisas.
+
+c) Coordinar, apoyar y alentar las actividades de otros organismos y entidades que estime adecuadas para la conmemoración de los Bicentenarios.
+
+d) Designar, a propuesta del Presidente, colaboradores para el desarrollo del programa de actuaciones que prevea la Comisión, que actuarán bajo la supervisión del Comité Ejecutivo.
+
+e) Velar por la adecuada coordinación con las Comisiones Nacionales que se creen en los países Iberoamericanos.
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 147/2011, de 4 de febrero. [Ref. BOE-A-2011-2208](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2208).
+
+> Se modifica el apartado 1.c) y se añade el apartado 1.d) por el art. único.2 del Real Decreto 1258/2007, de 21 de septiembre. [Ref. BOE-A-2007-16826](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16826).
+
+### Artículo 5. El Comité Ejecutivo.
+
+1\. Con objeto de asegurar la ejecución y el seguimiento de los acuerdos de la Comisión, se crea un Comité Ejecutivo, presidido por el Ministro de Asuntos Exteriores y de Cooperación, que podrá ser sustituido por el Secretario de Estado de Asuntos Exteriores e Iberoamericanos, y estará integrado por los miembros del Pleno de la Comisión que ésta misma acuerde, con un máximo de siete. Desempeñará la Secretaría del Comité Ejecutivo el Director General para Iberoamérica.
+
+2\. Son competencias del Comité Ejecutivo:
+
+a) Proponer al Pleno, para su aprobación, el plan general de la Comisión.
+
+b) Aprobar los programas de actividades de la Comisión Nacional, con sus plazos estimados, que incluirán un calendario propuesto de actuaciones y un lema específico.
+
+c) El estudio de las actividades conmemorativas propuestas por otros organismos, entidades o particulares, para su elevación al Pleno.
+
+d) El seguimiento de las actividades conmemorativas propuestas por otros organismos, entidades o particulares, para su elevación al Pleno.
+
+e) El estudio, informe y propuesta de cuantos asuntos le encomiende el Presidente o el Pleno.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 147/2011, de 4 de febrero. [Ref. BOE-A-2011-2208](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2208).
+
+### Artículo 6. El Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas.
+
+1\. El Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas será nombrado por Real Decreto, a propuesta del Ministro de Asuntos Exteriores y de Cooperación.
+
+2\. Corresponde al Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas:
+
+a) Elaborar los programas de actividades de la Comisión Nacional, que serán elevados al Comité Ejecutivo; dirigirlos y vigilar su cumplimiento.
+
+b) Solicitar la colaboración de los órganos de la Administración General del Estado en las tareas que le corresponde asumir, proponiendo al Ministro de la Presidencia o al Ministro de Asuntos Exteriores y de Cooperación la adopción de cuantas medidas estime oportunas.
+
+c) Impulsar las relaciones institucionales vinculadas a la Comisión Nacional y sus relaciones con el exterior.
+
+d) Mantener una estrecha colaboración y coordinación con las Comisiones Nacionales que se creen en los países Iberoamericanos.
+
+3\. Con el fin de asesorar y apoyar al Embajador Extraordinario y Plenipotenciario para la Conmemoración de los Bicentenarios de la Independencia de las Repúblicas Iberoamericanas se nombrará un Embajador Adjunto al que corresponderá:
+
+a) Coordinar las relaciones entre la Comisión Nacional y el Comité Ejecutivo con las entidades públicas o privadas con las que colaboren, proponiendo los mecanismos de coordinación necesarios.
+
+b) Dirigir los servicios ordinarios de administración y gestión de la Comisión Nacional y de sus distintos órganos, preparando las propuestas que deban someterse a la Comisión Nacional o al Comité Ejecutivo.
+
+c) Cuantas funciones de asistencia y apoyo le sean encomendadas por el Embajador Extraordinario y Plenipotenciario.
+
+> Se modifica el apartado 2.b) por el art. único.5 del Real Decreto 147/2011, de 4 de febrero. [Ref. BOE-A-2011-2208](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-2208).
+
+> Se modifica por el art. único.3 del Real Decreto 1258/2007, de 21 de septiembre. [Ref. BOE-A-2007-16826](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16826).
+
+### Artículo 7. Apoyo organizativo.
+
+La Comisión Nacional en el cumplimiento de los fines generales de la participación española en los Bicentenarios de la Independencia de las Repúblicas americanas, coordinará sus actuaciones con las restantes Administraciones Públicas, así como con las entidades públicas, privadas y particulares con presencia en su pleno. El Ministerio de Asuntos Exteriores y de Cooperación suscribirá los convenios de colaboración que se estimen necesarios para el logro de estos objetivos.
+
+### Artículo 8. Medios personales y materiales.
+
+1\. Los miembros de la Comisión y del Comité Ejecutivo, relacionados en las letras a), b) y c) del punto 1 y en el punto 2 del artículo 4 tendrán carácter honorífico y no percibirán remuneración alguna por el ejercicio de sus funciones, salvo, en su caso, las indemnizaciones por razón del servicio que les corresponda en aplicación del Real Decreto 462/2002, de 24 de mayo.
+
+2\. Para la financiación de las actividades que se desarrollen y con el fin de que otras entidades públicas o privadas puedan realizar aportaciones, se suscribirán, igualmente, los convenios de colaboración que sean necesarios.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 1258/2007, de 21 de septiembre. [Ref. BOE-A-2007-16826](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16826).
+
+### Artículo 9. Funcionamiento.
+
+Sin perjuicio de las peculiaridades previstas en este Real Decreto, el funcionamiento de la Comisión se regirá por lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 10. Extinción.
+
+La Comisión dejará de desempeñar sus funciones y se considerará extinguida una vez cumplidos los objetivos que determinan su creación.
+
+### Disposición final primera. Habilitación para el desarrollo.
+
+Se habilita al Ministro de Asuntos Exteriores y de Cooperación para dictar las disposiciones y ejecutar las medidas necesarias para el desarrollo de las previsiones de este Real Decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 4 de mayo de 2007.
+
+JUAN CARLOS R.
+
+El Ministro de Asuntos Exteriores y de Cooperación,
+
+MIGUEL ÁNGEL MORATINOS CUYAUBÉ

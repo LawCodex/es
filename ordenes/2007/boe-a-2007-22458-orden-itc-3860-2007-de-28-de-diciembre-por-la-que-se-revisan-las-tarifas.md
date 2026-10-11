@@ -1,0 +1,3359 @@
+---
+title: "Orden ITC/3860/2007, de 28 de diciembre, por la que se revisan las tarifas eléctricas a partir del 1 de enero de 2008"
+identifier: "BOE-A-2007-22458"
+eli: "https://www.boe.es/eli/es/o/2007/12/28/itc3860"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2007-12-28
+published: 2007-12-29
+in_force_from: 2008-01-01
+last_amended: 2017-12-27
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-22458"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/3860/2007, de 28 de diciembre, por la que se revisan las tarifas eléctricas a partir del 1 de enero de 2008
+
+Incluye corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+La Ley 17/2007, de 4 de julio, por la que se modifica la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, para adaptarla a lo dispuesto en la Directiva 2003/54/CE, del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior de la electricidad, establece en su disposición transitoria segunda, al regular el suministro a tarifa de los distribuidores, que hasta el momento de entrada en vigor del mecanismo de suministro de último recurso, continuará en vigor el suministro a tarifa que será realizado por los distribuidores en las condiciones que se establecen en la propia disposición transitoria. También establece que el Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de las tarifas.
+
+El artículo 17.1 de la citada Ley 54/1997, de 27 de noviembre, del Sector Eléctrico establece que el Ministro de Industria, Turismo y Comercio, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para el establecimiento de los peajes de acceso a las redes, que se establecerán en base a los costes de las actividades reguladas del sistema que correspondan, incluyendo entre ellos los costes permanentes y los costes de diversificación y seguridad de abastecimiento.
+
+Por todo ello, mediante la presente orden se revisan los costes y se ajustan las tarifas para la venta de energía eléctrica y las tarifas de acceso a las redes de transporte y distribución de energía eléctrica que aplican las empresas a partir del 1 de enero de 2008.
+
+Asimismo se mantienen los precios de los alquileres de los equipos de medida por parte de los distribuidores a los consumidores finales, excepto los correspondientes a contadores electrónicos con posibilidad de telegestión para consumidores domésticos, que se actualizan igual que los precios de las verificaciones y actuaciones sobre los puntos de medida a realizar por el Operador del Sistema y como los precios de la primera verificación de las instalaciones fotovoltaicas, incrementándose el 3,6 por ciento.
+
+Por otro lado, de acuerdo con lo previsto en el artículo 44.1 y en la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía en régimen especial, se procede a la actualización trimestral de las tarifas y primas para las instalaciones de los subgrupos a.1.1 y a.1.2 (cogeneraciones que utilicen gas natural, gasóleo, fuel-oil o GLP), del grupo c.2 (instalaciones de residuos) y de las acogidas a la disposición transitoria segunda del citado real decreto (instalaciones de cogeneración para el tratamiento y reducción de residuos).
+
+Asimismo, se procede a realizar las actualizaciones anuales del resto de instalaciones de la categoría a) y c) y de las instalaciones de la categoría b) de acuerdo con el citado artículo 44.1, así como de las instalaciones acogidas a la disposición adicional sexta (instalaciones de potencia instalada mayor de 50 MW y no superior a 100 MW) y a la disposición transitoria décima (instalaciones que utilicen la cogeneración para el desecado de los subproductos de la producción de aceite de oliva) del citado Real Decreto 661/2007, de 25 de mayo.
+
+Igualmente se actualizan otros valores de referencia como el complemento por reactiva regulado en el artículo 29, el complemento por continuidad de suministro frente a huecos de tensión previsto en la disposición adicional séptima y el límite superior y la prima máxima de referencia a efectos del procedimiento de concurrencia previsto en el Real Decreto 1028/2007, de 20 de julio, para las instalaciones eólicas marinas.
+
+Las variaciones trimestrales de los índices de referencia utilizados para la actualización han sido, un decremento de 211 puntos básicos para el IPC (variación del 1,846 por ciento en el segundo trimestre y de –0,265 por ciento en el tercer trimestre), un incremento del 1,0975 por ciento para el precio del gas natural y un incremento del 7,57 por ciento para el precio del gasóleo, el GLP y el fuel (valores de referencia de 103,69 y 111,53 para el segundo y tercer trimestre respectivamente).
+
+Las variaciones anuales de los índices de referencia utilizados han sido, un incremento del IPC de 360 puntos básicos y un incremento del precio del carbón del 5,9 por ciento.
+
+El Real Decreto 809/2006, de 30 de junio, por el que se revisa la tarifa eléctrica a partir del 1 de julio de 2006, en su disposición adicional segunda, dispone que, a partir del 1 de julio de 2007, los equipos de medida a instalar para nuevos suministros de energía eléctrica hasta una potencia contratada de 15 kW y aquellos que se sustituyan para los antiguos suministros deben permitir la discriminación horaria de las medidas así como la telegestión, habilitando al Ministro de Industria, Turismo y Comercio para establecer un plan de sustitución de estos contadores.
+
+Por su parte, la disposición adicional vigésima segunda del Real Decreto 1634/2006, de 29 de diciembre, por el que se establece la tarifa eléctrica a partir de 1 de enero de 2007, contiene un mandato a la Comisión Nacional de Energía de elaboración de un informe donde se recojan los criterios para la sustitución de dichos equipos de medida. Este informe fue aprobado por el Consejo de Administración de la Comisión Nacional de Energía el 25 de octubre de 2007.
+
+Tomando como base la información contenida en el informe citado, en la presente orden se establece el plan de sustitución de contadores de medida en los suministros de energía eléctrica de hasta 15 kW de potencia contratada con el fin de impulsar la implantación de los sistemas de telegestión.
+
+La Orden ITC/2794/2007, de 27 septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007 desarrolló en su anexo III, el concepto de pagos por capacidad, conforme lo establecido en el artículo 16.1.c) de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, en el que se incluyen dos tipos de servicios claramente diferenciados.
+
+El apartado quinto.1 de dicha Orden ITC/2794/2007, de 27 septiembre, prevé la posibilidad de establecer un mecanismo transitorio para la dotación del servicio de disponibilidad, por razones de seguridad de suministro en tanto entra en vigor la normativa que lo desarrolle.
+
+En cuanto al incentivo a la inversión, la Orden ITC/2794/2007, de 27 septiembre, prevé la posibilidad de que el Ministro de Industria, Turismo y Comercio autorice un cobro para aquellas instalaciones de régimen ordinario de más de 50MW que acometan inversiones significativas, ampliaciones u otras modificaciones relevantes. Es el caso de las inversiones ambientales en plantas de desulfuración acometidas por las instalaciones de producción de energía eléctrica que utilizan carbón como combustible primario antes de la entrada en vigor de la Orden ITC/2794/2007, de 27 septiembre.
+
+A las instalaciones anteriores se les reconoce el derecho de un cobro anual desde la fecha del acta de puesta en marcha y durante los siguientes diez años.
+
+El artículo 7 del Real Decreto 1435/2002, de 27 de diciembre, por el que se regulan las condiciones básicas de los contratos de adquisición de energía y de acceso a las redes en baja tensión, modificado por el Real Decreto 1454/2005, de 2 de diciembre, por el que se modifican determinadas disposiciones relativas al sector eléctrico, establece el sistema de información de puntos de suministro que las distribuidoras han de poner a disposición de sus clientes y de las empresas comercializadoras.
+
+Al efecto de facilitar el acceso de estas bases de datos de puntos de suministro y de promover la competencia, se homogeneiza el contenido de los registros desarrollando a su vez las condiciones de mantenimiento y acceso a las mismas.
+
+La Orden ITC/913/2006, de 30 de marzo, por la que se aprueban el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares, aprobó el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares (SEIE), asignando dichas liquidaciones al Operador del Mercado.
+
+En la actualidad, tras su modificación por la Ley 17/2007, de 4 de julio, la Ley del Sector Eléctrico asigna al Operador del Sistema las funciones de liquidación de los sistemas eléctricos insulares y extrapeninsulares y establece que el régimen de cobros, pagos y garantías estará sujeto a las mismas condiciones que el mercado de producción peninsular.
+
+Por ello, en esta orden se establece el procedimiento de liquidación de la energía del operador del mercado en los SEIE hasta la fecha en que se produce el traspaso al operador del sistema.
+
+La orden ha sido informada por la Comisión Nacional de Energía con fecha 20 de diciembre de 2007.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos adoptado en su reunión del día 27 de diciembre de 2007,
+
+DISPONGO:
+
+## Artículo 1. Revisión de los costes y tarifas a partir de 1 de enero de 2008.
+
+1\. Se revisan las tarifas para la venta de energía eléctrica que aplican las empresas distribuidoras de energía eléctrica y las tarifas de acceso a las redes de transporte y distribución de energía eléctrica a partir de 1 de enero de 2008, teniendo en cuenta los costes y la demanda previstos para dicho año.
+
+2\. Los costes máximos reconocidos a partir de 1 de enero de 2008 destinados a la retribución de la actividad de transporte ascienden a 1.222.610 miles de euros, de los que 1.022.683 miles de euros corresponden a la retribución de la actividad de transporte de Red Eléctrica de España, S.A., 81.442 miles de euros a la actividad del transporte del resto de empresas peninsulares sometidas a liquidación, de acuerdo con el Real Decreto 2017/1997, de 26 de diciembre, por el que se organiza y regula el procedimiento de liquidación de los costes de transporte, distribución y comercialización a tarifa, de los costes permanentes del sistema y de los costes de diversificación y seguridad de abastecimiento, y 118.485 miles de euros a las empresas insulares y extrapeninsulares.
+
+3\. Los costes reconocidos a partir de 1 de enero de 2008 correspondientes a las empresas distribuidoras sin incluir a las empresas distribuidoras acogidas a la disposición transitoria undécima de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, deducidos los otros ingresos derivados de los derechos de acometida, enganches, verificación y alquiler de aparatos de medida, se calcularán aplicando la siguiente fórmula:
+
+R<sup>i</sup><sub>2008</sub> = R<sup>i</sup><sub>2007</sub> · 1,028 . (1 + ΔD<sup>i</sup><sub>2007</sub> · Fe<sup>i</sup>)
+
+Donde,
+
+Fe<sup>i</sup>, es el factor de escala aplicable a la empresa distribuidora i. Dicho valor para cada empresa distribuidora i, en tanto por uno, se establece en la tabla siguiente:
+
+| Empresa o grupo empresarial | Fe<sup>i</sup> |
+|---|---|
+| Iberdrola Distribución Eléctrica, S.A.U | 0,60638551 |
+| Unión Fenosa Distribución, S.A. | 0,61185609 |
+| Hidrocantábrico Distribución Eléctrica, S.A. | 0,57081165 |
+| Electra de Viesgo Distribución, S.A. | 0,62224200 |
+| Endesa (peninsular) | 0,61164764 |
+| Endesa (extrapeninsular) | 0,61164764 |
+| FEVASA | 0,51620000 |
+| SOLANAR | 0,32570000 |
+
+ΔD<sup>i</sup><sub>2007</sub>, es el incremento de la demanda media anual en abonado final en las instalaciones de distribución de la empresa distribuidora i en el año 2007, una vez corregido el efecto de laboralidad y temperatura, expresado en tanto por uno.
+
+R<sup>i</sup><sub>2007</sub> es el valor que figura en la siguiente tabla:
+
+| Empresa o grupo empresarial | R<sup>i</sup><sub>2007</sub><br>–<br>(miles de euros) |
+|---|---|
+| Iberdrola Distribución Eléctrica, S.A.U. | 1.297.585 |
+| Unión Fenosa Distribución, S.A. | 603.888 |
+| Hidrocantábrico Distribución Eléctrica, S.A. | 123.142 |
+| Electra de Viesgo Distribución, S.A. | 116.750 |
+| Endesa (peninsular) | 1.429.484 |
+| Endesa (extrapeninsular) | 283.382 |
+| FEVASA | 154 |
+| SOLANAR | 212 |
+| Total | 3.854.597 |
+
+A efectos de liquidaciones provisionales, la Comisión Nacional de Energía aplicará para todas las empresas distribuidoras un valor de 0,0384 en concepto de incremento de la demanda media anual en abonado final en las instalaciones de distribución para el año 2007, una vez corregido el efecto de laboralidad y temperatura, hasta que se conozca el valor definitivo particular de cada empresa distribuidora.
+
+A estos costes de distribución se incorporarán 90.000 miles de euros como costes destinados a planes de mejora de calidad del servicio a los que hace referencia el artículo 4 de la presente orden.
+
+Se prevé un coste de 274.635 miles de euros correspondiente a la retribución de los distribuidores acogidos a la disposición transitoria undécima de la Ley 54/1997, de 27 de noviembre. A esta cantidad habrá que añadir la cantidad de 14.800 miles de euros en concepto de interrumpibilidad, régimen especial y otros, que se recaudará como porcentaje a tenor de lo contemplado en el artículo 3 de esta orden.
+
+4\. Los costes reconocidos a partir de 1 de enero de 2008 destinados a la retribución de la gestión comercial realizada por las empresas distribuidoras ascienden a 312.639 miles de euros, desglosados por empresas distribuidoras según establece la siguiente tabla:
+
+| Empresa o grupo empresarial | Coste GC<sub>i</sub><sup>2008</sup><br>–<br>(miles de euros) |
+|---|---|
+| Iberdrola Distribución Eléctrica, S.A.U. | 122.534 |
+| Unión Fenosa Distribución, S.A. | 42.388 |
+| Hidrocantábrico Distribución Eléctrica, S.A. | 7.966 |
+| Electra de Viesgo Distribución, S.A. | 6.861 |
+| Endesa (peninsular) | 113.000 |
+| Endesa (extrapeninsular) | 19.841 |
+| FEVASA | 41 |
+| SOLANAR | 9 |
+| Total | 312.639 |
+
+5\. La anualidad para 2008 que resulta para recuperar el valor actual del desajuste de ingresos en la liquidación de las actividades reguladas, sin tener en cuenta las revisiones de los costes de generación extrapeninsular, según establece el artículo 4.9 del Real Decreto 1432/2002, de 27 de diciembre, generado entre el 1 de enero de 2000 y el 31 de diciembre de 2002, se fija en un máximo de 225.099 miles de euros.
+
+A los efectos de su liquidación y cobro, estos costes se considerarán un ingreso de las actividades reguladas.
+
+6\. La cantidad que en 2008 resulta necesaria para recuperar linealmente el valor actual neto del déficit de ingresos en la liquidación de las actividades reguladas generadas entre el 1 de enero de 2005 y el 31 de diciembre de 2005, se fija en 387.958 miles de euros, valor actual neto que ha de calcularse a 31 de diciembre de 2007 actualizando el importe de dicho déficit a 31 de diciembre de 2006 mediante la aplicación al mismo del EURIBOR a tres meses de la media de las cotizaciones de noviembre de 2006, de conformidad con lo previsto en la disposición adicional segunda del Real Decreto 871/2007, de 29 de junio, por el que se ajustan las tarifas eléctricas a partir del 1 de julio de 2007. Dicha cuantía se recaudará por aplicación de un porcentaje específico sobre las tarifas de suministro y sobre las tarifas de acceso.
+
+7\. La anualidad para 2008 que resulta para recuperar el valor actual del desajuste de ingresos en la liquidación de las actividades reguladas, generado entre el 1 de enero de 2006 y el 31 de diciembre de 2006, se fija en 210.242 miles de euros. Esta cantidad es provisional y podrá ser objeto de modificación una vez que la Comisión Nacional de Energía comunique a la Secretaría General de Energía la cuantía final del déficit del año 2006, a tenor de lo contemplado en el apartado 4 de la disposición adicional única de la Orden ITC/3315/2007, de 15 de noviembre, por la que se regula, para el año 2006, la minoración de la retribución de la actividad de producción de energía eléctrica en el importe equivalente al valor de los derechos de emisión de gases de efecto invernadero asignados gratuitamente.
+
+A los efectos de su liquidación y cobro, estos costes se considerarán un ingreso de las actividades reguladas. Esta cantidad será distribuida entre las empresas en los importes realmente aportados por cada una de ellas.
+
+8\. El valor a 31 de diciembre de 2005 de la cuantía definitiva de los costes específicos destinados a la compensación de los sistemas insulares y extrapeninsulares de las empresas generadoras de Endesa, S.A. para los años 2001, 2002, 2003, 2004 y 2005, una vez descontadas las anualidades correspondiente a los ejercicios 2003, 2004 y 2005 del déficit provisional 2001-2002 e incluidos los costes financieros devengados para cada uno de ellos calculados con un tipo de interés igual a la media anual del EURIBOR a tres meses fijados en el punto primero de la Resolución de la Dirección General de Política Energética y Minas de 2 de octubre de 2007 se recuperará linealmente durante un período de 15 años.
+
+El importe pendiente de pago a 31 de diciembre de cada año se calculará mediante la actualización del saldo pendiente correspondiente a 31 de diciembre del año precedente de acuerdo con el EURIBOR a tres meses de la media de las cotizaciones del mes de noviembre inmediatamente anterior al año durante en el que haya de aplicarse el porcentaje correspondiente, deduciendo los pagos efectivamente realizados durante el año.
+
+La anualidad para 2008 que resulta para recuperar el valor actual del desajuste de ingresos derivado de las revisiones de los costes de generación insular y extrapeninsular entre el 1 de enero de 2001 y el 31 de diciembre de 2005, se fija en 191.292 miles de euros.
+
+A los efectos de su liquidación y cobro, estos costes se considerarán un ingreso de las actividades reguladas.
+
+9\. De acuerdo con lo establecido en el apartado 1 de la disposición adicional vigésima de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, se prevé provisionalmente para el cálculo de las tarifas de 2008 un coste de 75.561 miles de euros, en concepto de plan de viabilidad para Elcogás, S.A. Esta cantidad es provisional. La Dirección General de Política Energética y Minas, previo informe de la Comisión Nacional de Energía, procederá a aprobar la cuantía definitiva que corresponda a dicho año.
+
+A los efectos de su liquidación y cobro, estos costes se considerarán un ingreso de las actividades reguladas.
+
+10\. La anualidad para 2008 que resulta para recuperar el valor actual del desajuste de ingresos en la liquidación de las actividades reguladas, generado entre el 1 de enero de 2007 y el 31 de diciembre de 2007, se fija en 67.950 miles de euros. Esta cantidad es provisional y podrá ser objeto de modificación cuando se conozcan los resultados de las subastas establecidas mediante real decreto a lo largo de dicho año.
+
+Hasta dicha fecha y provisionalmente la Comisión Nacional de Energía liquidará la cantidad que figura en el apartado anterior, entre las diferentes empresas en función de los importes realmente aportados para cubrir el déficit.
+
+A los efectos de su liquidación y cobro, estos costes se considerarán un ingreso de las actividades reguladas. Esta cantidad será distribuida entre las empresas en los importes realmente aportados por cada una de ellas.
+
+11\. Se reconoce ex ante la existencia de un déficit de ingresos en las liquidaciones de las actividades reguladas que se generará entre el 1 de enero de 2008 y el 31 de marzo de 2008 que asciende a un máximo 1.200.000 miles de euros.
+
+12\. De acuerdo con lo establecido en el apartado 2 de la disposición adicional vigésima de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, se prevé un importe provisional de 93.089 miles de euros para incentivar el consumo de carbón autóctono. Una vez aprobado este incentivo, tendrá efectos a partir del 1 de enero de 2008.
+
+A los efectos de su liquidación y cobro, este coste se considerará un ingreso de las actividades reguladas.
+
+La Comisión Nacional de Energía abrirá una cuenta en régimen de depósito a estos efectos y la comunicará mediante circular publicada en el «Boletín Oficial del Estado», donde irá ingresando en cada liquidación la parte que le corresponda a este fin.
+
+13\. Se prevé una partida de 380.000 miles de euros destinada al servicio de gestión de la demanda de interrumpibilidad para los consumidores que adquieren su energía en el mercado de producción regulado en la Orden ITC/2370/2007, de 26 de julio, por la que se regula el servicio de gestión de la demanda de interrumpibilidad para los consumidores que adquieren su energía en el mercado de producción.
+
+> Véase el art. 1 de la Orden ITC/1857/2008, de 26 de junio, por la que se revisan las tarifas eléctricas a partir del 1 de julio de 2008. [Ref. BOE-A-2008-10968](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10968)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## Artículo 2. Revisión de tarifas y precios regulados.
+
+1\. Las tarifas para la venta de energía eléctrica se fijan en el anexo I de la presente orden, donde figuran las tarifas básicas a aplicar con los precios de los términos de potencia y energía.
+
+2\. El precio de los alquileres de los equipos de medida es el que se detalla en el anexo II de esta orden.
+
+3\. Las tarifas de acceso a las redes de transporte y distribución establecidas en el Real Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica, son las que se fija en el anexo III de esta orden, donde figuran las tarifas básicas a aplicar con los precios de sus términos de potencia y energía, activa y reactiva, en cada período tarifario.
+
+4\. De acuerdo con lo establecido en el artículo 44.1 y en el apartado a.1.3 de la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, se procede a la actualización trimestral de las tarifas y primas para su aplicación a partir del 1 de enero de 2008, de las instalaciones de los subgrupos a.1.1 y a.1.2 de las instalaciones del grupo c.2 y de las instalaciones acogidas a la disposición transitoria segunda. En el anexo IV de la presente orden figuran las tarifas y primas que se fijan para las citadas instalaciones.
+
+5\. De acuerdo con lo establecido en el artículo 44.1 y en la disposición transitoria décima del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, se procede a la actualización anual de las tarifas, primas y en su caso límites superior e inferior, para su aplicación a partir del 1 de enero de 2008, de las instalaciones de los subgrupos a.1.3 y a.1.4 del grupo a.2, de las instalaciones de la categoría b), del subgrupo a.1.3, y de la disposición transitoria décima y de las instalaciones de los grupos c.1, c.3 y c.4. En el anexo V de esta orden figuran las tarifas, primas y en su caso límites superior e inferior, que se fijan para las citadas instalaciones.
+
+6\. De acuerdo con lo establecido en el apartado 2 de la disposición adicional sexta del Real Decreto 661/2007, de 25 de mayo, se procede a la actualización anual de la prima de las instalaciones de potencia instalada mayor de 50 MW y no superior a 100 MW acogidas al apartado 2 de la citada disposición adicional, tomando como referencia el incremento del IPC, quedando fijado en 2,4486 c€/kWh, para su aplicación a partir del 1 de enero de 2008.
+
+Igualmente, de acuerdo con lo establecido en el apartado 3 de la disposición adicional sexta del citado real decreto, se efectúa la actualización anual de la prima de las instalaciones de potencia instalada mayor de 50 MW y no superior a 100 MW acogidas al apartado 3 de la citada disposición adicional, con el mismo incremento que les sea de aplicación a las instalaciones de la categoría a.1.1, quedando fijado en 2,3816 c€/kWh, para su aplicación a partir del 1 de enero de 2008.
+
+7\. De acuerdo con lo establecido en el artículo 29.1 del Real Decreto 661/2007, de 25 de mayo, se revisa el valor del complemento por energía reactiva, quedando fijado en 8,1069 c€/kWh, para su aplicación a partir del 1 de enero de 2008.
+
+Igualmente, de acuerdo con lo establecido en la disposición adicional séptima del citado real decreto se revisa el valor del complemento por continuidad de suministro frente a huecos de tensión, quedando fijado en 0,3927 c€/kWh, para su aplicación a partir del 1 de enero de 2008.
+
+8\. Se mantienen las pérdidas de transporte y distribución, homogéneas por cada tarifa de suministro y/o de acceso, para traspasar la energía suministrada a los consumidores a tarifa y a los consumidores en el mercado en sus contadores a energía suministrada en barras de central, a los efectos de las liquidaciones previstas en el Real Decreto 2017/1997, de 26 de diciembre y en el Real Decreto 2019/1997, de 26 de diciembre. Los coeficientes para el cálculo de dichas pérdidas son las establecidas en el Anexo IV del Real Decreto 1634/2006, de 29 de diciembre, por el que se establece la tarifa eléctrica a partir de 1 de enero de 2007.
+
+> Se modifica, para su aplicación a partir del 1 de enero de 2008, el apartado 6 por la disposición final 3.1 del Real Decreto 222/2008, de 15 de febrero. [Ref. BOE-A-2008-5159](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5159)
+
+## Artículo 3. Costes con destinos específicos.
+
+1\. La cuantía de los costes con destinos específicos de acuerdo con el capítulo II del Real Decreto 2017/1997, de 26 de diciembre, que deben satisfacer los consumidores de energía eléctrica por los suministros a tarifa, se establecen a partir del 1 de enero de 2008 en los porcentajes siguientes:
+
+|  | %<br>Sobre<br>Tarifa |
+|---|---|
+| Costes permanentes: |  |
+| Compensación insulares y extrapeninsulares | 5,026 |
+| Operador del Mercado | 0,045 |
+| Operador del Sistema | 0,153 |
+| Tasa de la Comisión Nacional de Energía | 0,069 |
+| Costes de diversificación y seguridad de abastecimiento: |  |
+| Moratoria nuclear | 0,020 |
+| Fondo para la financiación de actividades del Plan General de Residuos Radiactivos | 0,253 |
+| Coste de la compensación por interrumpibilidad, por adquisición de energía a las instalaciones de producción en régimen especial y otras compensaciones | 0,061 |
+| Recargo para recuperar el déficit de ingresos en la liquidación de las actividades reguladas generado entre el 1 de enero de 2005 y el 31 de diciembre de 2005 | 1,577 |
+
+2\. La cuantía de los costes con destinos específicos de acuerdo con el capítulo II del Real Decreto 2017/1997, de 26 de diciembre, que deben satisfacer los consumidores directos en mercado y comercializadores por los contratos de acceso a tarifa, se establecen a partir de 1 de enero de 2008 en los porcentajes siguientes:
+
+|  | % Sobre<br>tarifa<br>de acceso |
+|---|---|
+| Costes permanentes: |  |
+| Compensación insulares y extrapeninsulares | 22,168 |
+| Operador del Mercado | 0,197 |
+| Operador del Sistema | 0,674 |
+| Tasa de la Comisión Nacional de Energía | 0,201 |
+| Costes de diversificación y seguridad de abastecimiento: |  |
+| Moratoria nuclear | 0,020 |
+| Fondo para la financiación de actividades del Plan General de Residuos Radiactivos | 1,116 |
+| Coste de la compensación por interrumpibilidad, por adquisición de energía a las instalaciones de producción en régimen especial y otras compensaciones | 0,271 |
+| Recargo para recuperar el déficit de ingresos en la liquidación de las actividades reguladas generado entre el 1 de enero de 2005 y el 31 de diciembre de 2005 | 6,954 |
+
+El 0,02 por ciento de la cuota de la moratoria nuclear debe aplicarse igualmente sobre las cantidades resultantes de la asignación de la energía adquirida por los comercializadores o consumidores directos en el mercado de la electricidad o a las energías suministradas a través de contratos bilaterales físicos, de acuerdo con lo previsto en el artículo 6 del Real Decreto 2017/1997, de 26 de diciembre.
+
+3\. Los porcentajes a destinar a costes con destinos específicos que se regulan en los apartados anteriores se actualizarán a lo largo de 2008 en función de la evolución del mercado cuando se revisen las tarifas eléctricas.
+
+4\. Exenciones sobre las cuotas a aplicar a las empresas distribuidoras que adquieran su energía a tarifa y a la empresa «ENDESA Distribución Eléctrica, S.L.» para sus suministros a tarifa en Baleares, Canarias, Ceuta y Melilla:
+
+a) Con carácter general las empresas distribuidoras que adquieran su energía a tarifa quedan exentas de hacer entrega de las cuotas expresadas como porcentaje de la factura en concepto de moratoria nuclear, según se establece en el apartado anterior.
+
+b) Las empresas clasificadas en el Grupo 1, de acuerdo con la disposición adicional del Real Decreto 1634/2006, de 29 de diciembre, quedan exentas de hacer entrega de las cuotas previstas en el apartado 1 del presente artículo.
+
+c) Para las empresas clasificadas en el Grupo 2, de acuerdo con la disposición adicional del Real Decreto 1634/2006, de 29 de diciembre, la Dirección General de Política Energética y Minas previo informe de la Comisión Nacional de Energía podrá autorizar un coeficiente reductor que afecte a los fondos a entregar a la Comisión Nacional de Energía a que se refiere el apartado 1 de este artículo.
+
+d) Las restantes empresas distribuidoras que adquieran energía a tarifas ingresarán la totalidad de las cuotas a excepción de la establecida con carácter general en el apartado 4.a) del presente artículo.
+
+e) La empresa «ENDESA Distribución Eléctrica, S. L.» por sus suministros a tarifas en Baleares, Canarias, Ceuta y Melilla quedan exentas de ingresar la cuota correspondiente a su propia compensación por extrapeninsularidad.
+
+## Artículo 4. Planes de calidad de servicio.
+
+De acuerdo con el artículo 48.2 de la Ley 54/1997, de 27 de noviembre, y su normativa de desarrollo, se incluye en la tarifa del año 2008, dentro de los costes reconocidos para la retribución de la distribución, una partida específica que no podrá superar los 90.000 miles de euros con objeto de realizar inversiones en instalaciones para mejorar la calidad del servicio en zonas donde se superen los índices de calidad establecidos para la actividad de distribución.
+
+Dentro de esta partida y a los efectos previstos en el apartado 3 del artículo 9 del Real Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución, los planes de control de tensión que realicen las empresas distribuidoras para cumplir los requisitos de control de tensión exigidos a las mismas respecto a la red de transporte, deberán ser incluidos, en su caso, en los Planes de calidad.
+
+Asimismo, de esta partida de 90.000 miles de euros, 10.000 miles de euros se destinarán a planes para realizar la limpieza de la vegetación de las márgenes por donde discurran líneas eléctricas de distribución.
+
+La ejecución de esta partida deberá realizarse en régimen de cofinanciación con las comunidades autónomas o ciudades de Ceuta y Melilla, mediante convenios de colaboración para la realización de planes de mejora de calidad de servicio suscritos entre la Secretaría General de Energía, del Ministerio de Industria, Turismo y Comercio y las Administraciones territoriales anteriormente indicadas que incluyan inversiones en instalaciones de distribución en las zonas citadas.
+
+La Comisión Nacional de Energía abrirá una cuenta en régimen de depósito a estos efectos y la comunicará mediante circular publicada en el «Boletín Oficial del Estado», donde irá ingresando en cada liquidación la parte que le corresponda a este fin. Dicha cuenta se irá liquidando a las empresas distribuidoras previa autorización de la Dirección General de Política Energética y Minas una vez realizada la puesta en marcha de las instalaciones incluidas en los convenios de colaboración a que se ha hecho referencia en el párrafo anterior.
+
+Los saldos de la cuenta en régimen de depósito abierta por la Comisión Nacional de Energía destinada a la realización de planes de mejora de calidad de servicio con cargo a la tarifa de 2006, no comprometidos en los correspondientes Convenios de Colaboración firmados antes del 31 de marzo de 2008, pasarán a incorporarse como ingresos de actividades reguladas correspondientes al año 2008.
+
+## Artículo 5. Estrategia de ahorro y eficiencia energética en España 2004-2012: Plan de acción 2008-2012.
+
+**(Anulado)**
+
+> Se declara la nulidad por Sentencia del TS de 21 de enero de 2011 [Ref. BOE-A-2011-3101](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-3101) y por Sentencia del TS de 24 de marzo de 2011. [Ref. BOE-A-2011-7216](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7216)
+
+## Artículo 6. Precios de las actuaciones del Operador del Sistema.
+
+Los precios máximos de actuaciones derivadas del Reglamento unificado de puntos de medida del sistema eléctrico, aprobado por Real Decreto 1110/2007, de 24 de agosto, y sus instrucciones técnicas complementarias (ITC), en puntos de medida tipo 1 y 2, a cobrar por el Operador del Sistema serán los que figuran en el anexo VI de esta orden.
+
+El Operador del Sistema deberá presentar antes del mes de noviembre de cada año, los ingresos y gastos correspondientes a dichas actuaciones, desde el 1 de octubre del año anterior hasta el 30 de septiembre del año correspondiente, a la Dirección General de Política Energética y Minas quien lo remitirá para informe a la Comisión Nacional de Energía.
+
+## Artículo 7. Precio de la primera verificación.
+
+1\. El precio máximo para la primera verificación del cumplimiento de la normativa técnica en las instalaciones fotovoltaicas conectadas a la red, a la que hace referencia el artículo 6 del Real Decreto 1663/2000, de 29 de septiembre, sobre conexión de instalaciones fotovoltaicas a la red de baja tensión, será de 103,03 euros.
+
+2\. El precio medio de aplicación como tarifa base del servicio de estimación de medidas, indicado en el apartado 9 de la Orden del Ministerio de Industria y Energía de 12 de abril de 1999 por la que se dictan las Instrucciones Técnicas Complementarias del Reglamento de Puntos de Medida de los Consumos y Tránsitos de Energía Eléctrica es de 0,04 €/kWh.
+
+## Disposición adicional primera. Plan de sustitución de equipos de medida.
+
+1\. Todos los contadores de medida en suministros de energía eléctrica con una potencia contratada de hasta 15 kW deberán ser sustituidos por nuevos equipos que permitan la discriminación horaria y la telegestión antes del 31 de diciembre de 2018. Este cambio se realizará de acuerdo al plan de sustitución que se establece en la presente disposición.
+
+2\. El número de equipos que deberán ser sustituidos por cada una de las compañías distribuidoras se establece como un porcentaje del total del parque de contadores de medida de cada una de dichas empresas para este tipo de suministros y deberá ajustarse a los valores que se señalan a continuación para cada intervalo de tiempo:
+
+a) Antes del 31 de diciembre de 2014 deberá sustituirse un 35 por ciento del total del parque de contadores de hasta 15 kW de potencia contratada de cada empresa distribuidora.
+
+b) Entre el 1 de enero de 2015 y el 31 de diciembre de 2016 deberá sustituirse un 35 por ciento del total del parque de contadores de hasta 15 kW de potencia contratada de cada empresa distribuidora.
+
+c) Entre el 1 de enero de 2017 y el 31 de diciembre de 2018 cada empresa distribuidora deberá sustituir el 30 por ciento del total del parque de contadores de hasta 15 kW de potencia contratada sin perjuicio de lo establecido en el párrafo siguiente.
+
+A partir del 1 de enero de 2019, cada una de las empresas distribuidoras de energía eléctrica podrá mantener hasta un máximo de un dos por ciento del total del parque de contadores sin sustituir siempre que sea debido a causas no imputables a la misma. Este hecho deberá ser debidamente justificado y aprobado por la Comisión Nacional de los Mercados y la Competencia.
+
+A estos efectos, el 1 de marzo de cada año, comenzando el 1 de marzo de 2019, las empresas distribuidoras deberán remitir, tanto a las Administraciones de las comunidades autónomas y de las ciudades de Ceuta y Melilla como a la Dirección General de Política Energética y Minas y la Comisión Nacional de los Mercados y la Competencia, un listado de los equipos de medida pendientes de sustituir alegando las causas por las que no ha sido posible su sustitución y, en su caso, integración en el sistema de telegestión.
+
+Los equipos de medida que se instalen deberán cumplir con los requisitos establecidos en el Reglamento unificado de puntos de medida del sistema eléctrico, aprobado por Real Decreto 1110/2007, de 24 de agosto, y en la Orden ITC/3022/2007, de 10 de octubre, por la que se regula el control metrológico del Estado sobre los contadores de energía eléctrica, estáticos combinados, activa, clases a, b y c y reactiva, clases 2 y 3, a instalar en suministros de energía eléctrica hasta una potencia de 15 kW de activa que incorporan dispositivos de discriminación horaria y telegestión, en las fases de evaluación de la conformidad, verificación después de reparación o modificación y de verificación periódica, así como en cualquier otra norma que les resulte de aplicación. El sistema de telegestión desarrollado por cada empresa distribuidora, los equipos asociados y, en su caso, los protocolos específicos, habrán de ser presentados a la Dirección General de Política Energética y Minas en el plazo de tres meses para su autorización según lo dispuesto en el artículo 9.8 del mencionado Reglamento unificado de puntos de medida del sistema eléctrico.
+
+El cliente podrá optar por instalar los equipos en régimen de alquiler o bien adquirirlos en propiedad, de acuerdo con el mencionado artículo 9.8 del citado Reglamento unificado de puntos de medida del sistema eléctrico.
+
+3\. La implantación efectiva de los sistemas de telegestión y telemedida, así como la integración de los equipos de medida instalados desde el 1 de julio de 2007 en dichos sistemas deberá realizarse antes del 1 de enero de 2014.
+
+Estos sistemas de telegestión, los equipos asociados y, en su caso, los protocolos específicos, deberán contar con la autorización a que hace referencia el penúltimo párrafo del apartado 2 de la presente disposición adicional.
+
+4\. Las empresas distribuidoras deberán presentar en el plazo de tres meses la revisión de los planes de instalación de contadores de medida adecuados a los nuevos hitos del plan definidos en el apartado 2, siempre que los planes presentados con anterioridad no cumplan los nuevos plazos de sustitución. Dicho documento será presentado a las Comunidades Autónomas donde se ubiquen los distintos puntos de suministro y establecerá:
+
+a) Los criterios para la instalación de dichos contadores para cada uno de los periodos contemplados en el apartado 2 de esta disposición adicional.
+
+b) El número de equipos a instalar en cada periodo que, como mínimo, deberá ser para cada empresa distribuidora el porcentaje del total a instalar que corresponda según lo establecido en el mismo apartado 2.
+
+c) El procedimiento para la comunicación por parte de los distribuidores a los consumidores de la obligación que tienen éstos de instalar los equipos y de las opciones de que disponen.
+
+Las Administraciones de las Comunidades Autónomas y de las ciudades de Ceuta y Melilla, resolverán en el plazo de tres meses. Una vez aprobados dichos planes deberán ser remitidos por dichas Comunidades Autónomas y ciudades a la Dirección General de Política Energética y Minas y a la Comisión Nacional de Energía. El cumplimiento de los planes aprobados tendrá carácter vinculante, no pudiendo la empresa distribuidora desviarse del mismo. A estos efectos el cambio de suministrador no podrá ser motivo para exigir la sustitución del equipo de medida, salvo en el caso de que coincida dicho cambio con la fecha en que está prevista la sustitución del equipo en el plan aprobado a la empresa distribuidora.
+
+A partir del 1 de julio de 2012 las empresas distribuidoras deberán poner a disposición de las empresas comercializadoras con un mínimo de un año de antelación, la fecha prevista (trimestre y año) para la sustitución del contador a los clientes, de acuerdo al Plan de Sustitución que se establece en la presente disposición.
+
+Las empresas distribuidoras deberán comunicar directamente a los clientes la fecha prevista para la sustitución de sus contadores tres meses antes de dicha fecha. Dicha comunicación deberá extenderse a las correspondientes empresas comercializadoras para que tengan constancia de la sustitución de contador de sus clientes.
+
+Antes de que transcurran tres meses desde la finalización de cada uno de los periodos en que se divide el plan de sustitución, según el apartado 2 de la presente disposición, las empresas distribuidoras deberán enviar, tanto a las Administraciones de las Comunidades Autónomas y de las ciudades de Ceuta y Melilla como a la Dirección General de Política Energética y Minas y la Comisión Nacional de Energía, un informe de evolución de la ejecución de los planes aprobados que contenga una descripción detallada de las acciones realizadas desde el inicio de los mismos.
+
+5\. Aquellos equipos de medida de suministros de potencia contratada hasta 15 kW que sean propiedad de cliente que no dispongan de capacidad de discriminación horaria y telegestión, afectados por las acciones contempladas en los planes de sustitución aprobados por las administraciones autonómicas, serán sustituidos de acuerdo a lo establecido en dichos planes de sustitución. En este caso, y cuando la sustitución de dichos equipos dentro del correspondiente plan deba realizarse antes de que hayan transcurrido 15 años desde la fecha de instalación y precintado del equipo, dicha sustitución no generará coste alguno para su propietario ni cobro en concepto de alquiler durante el periodo restante de vida del equipo hasta alcanzar los 15 años. En cualquier caso, estos equipos mencionados deberán ser sustituidos antes del 31 de diciembre de 2018.
+
+> Se modifica el apartado 2.c) por la disposición final 2 de la Orden ETU/1282/2017, de 22 de diciembre. [Ref. BOE-A-2017-15521](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15521)
+
+> Se modifican los apartados 2 y 4 por el art. único de la Orden IET/290/2012, de 16 de febrero. [Ref. BOE-A-2012-2538](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2538)
+
+## Disposición adicional segunda. Pago en concepto de Incentivo a la inversión medioambiental.
+
+1\. Según lo dispuesto en el apartado décimo del anexo III de la Orden ITC/2794/2007, de 27 septiembre, tendrán derecho a percibir un pago en concepto de incentivo a la inversión, en los términos establecidos en la presente orden, las instalaciones de producción de energía eléctrica que utilicen carbón como combustible principal y que cumplan los siguientes requisitos:
+
+a) Estar incluidas en el Plan Nacional de Reducción de Emisiones de las Grandes Instalaciones de Combustión Existentes (PNRE-GIC), aprobado por Acuerdo del Consejo de Ministros de fecha 7 de diciembre de 2007.
+
+b) No estar excluidas del cálculo de la burbuja de emisiones por ninguna de las causas previstas al efecto por el PNRE-GIC.
+
+c) Siempre que la fecha de la resolución del órgano competente por la que se aprueba su proyecto de ejecución o la solicitud de aprobación del proyecto de ejecución haya sido presentada en el plazo de tres meses desde la entrada en vigor de la presente orden.
+
+d) Haber acometido inversiones medioambientales en activos que reducen sustancialmente las emisiones de óxidos de azufre a la entrada en vigor de la presente orden.
+
+2\. Las instalaciones que cumplan lo establecido en el apartado anterior tendrán derecho a un cobro de 8.750 euros/MW y año.
+
+3\. El cobro se devengará desde la fecha de la resolución por la que se aprueba el Acta de Puesta en Marcha, durante un período de diez años. Si la fecha fuera anterior a la de la entrada en vigor de la Orden ITC/2794/2007, de 27 septiembre, el cobro se devengará desde esta última y hasta que transcurran diez años desde la fecha del acta de puesta en servicio.
+
+4\. Corresponderá al Operador de Sistema la liquidación del incentivo a cada uno de los titulares de las instalaciones que tengan derecho a la percepción del mismo.
+
+5\. El derecho a percibir la retribución por el incentivo a la inversión requerirá autorización administrativa de la Dirección General de Política Energética y Minas. A estos efectos, el titular de la instalación deberá remitir su solicitud junto con la documentación justificativa del cumplimiento de los requisitos del apartado 1. La autorización supondrá la inclusión de una nota al margen de su inscripción en el en el registro administrativo a que se refiere el artículo 171 del Real Decreto 1955/2000, de 1 de diciembre, expresando que la instalación está autorizada para percibir la retribución del servicio, su cuantía anual y la fecha hasta la que le corresponde su percepción.
+
+> Se modifica el apartado 1 por la disposición final 2 de la Orden ITC/3127/2011, de 17 de noviembre. [Ref. BOE-A-2011-18064](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18064)
+
+> Esta modificación se aplica a partir del día 15 de diciembre de 2011, según establece la disposición final 4 de la citada Orden.
+
+## Disposición adicional tercera. Desarrollo de las condiciones de mantenimiento y acceso relativas a las bases de datos de puntos de suministro.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1011/2009, de 19 de junio. [Ref. BOE-A-2009-10220](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-10220)
+
+> Se añade el apartado 7 por la disposición final 1 de la Orden ITC/694/2008, de 7 de marzo. [Ref. BOE-A-2008-5005](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5005)
+
+## Disposición adicional cuarta. Mandatos.
+
+1\. Antes del 15 de febrero de 2008 la Comisión Nacional de Energía remitirá al Ministerio de Industria Turismo y Comercio un informe donde se detalle la subida que debiera corresponder a cada una de las tarifas de suministro y de acceso de tal forma que se cumpla el principio de aditividad tarifaria. A estos efectos se explicitarán las hipótesis de costes utilizados, así como los criterios de asignación de los mismos entre las diferentes tarifas.
+
+2\. Antes del 1 de abril de 2008 la Comisión Nacional de Energía remitirá al Ministerio de Industria Turismo y Comercio una propuesta motivada sobre los mecanismos de financiación de pagos por capacidad.
+
+3\. Antes del 1 de julio de 2008 la Comisión Nacional de Energía, el Operador del Mercado y el Operador del Sistema presentarán a la Secretaria General de Energía el detalle de las cuentas de balance y de gastos e ingresos de los últimos cuatro años y antes del 1 de octubre de 2008 la previsión de gastos del periodo 2009-2012.
+
+4\. En aplicación de lo previsto en el artículo 28.tres, del Real Decreto Ley 6/2000, de 23 de junio, en su nueva redacción dada por el artículo vigésimo del Real Decreto Ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública, antes de que transcurran dos meses desde la entrada en vigor de la presente Orden, el Operador del Sistema publicará en su página web la potencia de generación eléctrica disponible en régimen ordinario, agregada por tecnologías de generación (nuclear, carbón, hidráulica, fueloil, ciclos combinados) para los horizontes temporales siguientes: Semana, mes, trimestre y año móvil. Esta información se actualizará diariamente.
+
+5\. Antes del 31 de marzo de 2008 la Comisión Nacional de Energía remitirá al Ministerio de Industria Turismo y Comercio un informe detallado donde se justifique el valor del alquiler de los contadores electrónicos con discriminación horaria y con posibilidad de telegestión.
+
+6\. Antes del 31 de marzo de 2008, «Endesa, S. A.» remitirá a la Comisión Nacional de Energía y a la Dirección General de Política Energética y Minas los valores auditados de los costes de operación y mantenimiento, desagregados en fijos y variables, y de los costes de combustible de cada una de las instalaciones de los sistemas insulares y extrapeninsulares desde la entrada en vigor de las órdenes ITC/913 y 914, de 30 de marzo de 2006, hasta el 31 de diciembre de 2007. La Comisión Nacional de Energía antes del 30 de junio de 2008 remitirá al Ministerio de Industria Turismo y Comercio una valoración y propuesta de revisión de los valores unitarios del régimen retributivo de las instalaciones eléctricas de los sistemas eléctricos insulares y extrapeninsulares, de acuerdo con los criterios fijados en la normativa vigente.
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## Disposición adicional quinta. Procedimiento de liquidación de la energías vendidas y compradas a través del despacho económico de la generación en los sistemas eléctricos insulares y extrapeninsulares pendientes hasta la entrada en vigor de la disposición transitoria sexta de le Ley 17/2007, de 4 de julio de 2007.
+
+Las energías vendidas y compradas a través del despacho económico de la generación en los sistemas eléctricos insulares y extrapeninsulares, correspondientes al periodo comprendido entre el 1 de enero de 2006 y el 4 de noviembre de 2007, que estén pendientes de su liquidación definitiva a la fecha de entrada en vigor de la disposición transitoria sexta de la Ley 17/2007, de 4 de julio, se liquidarán y facturarán por el operador del mercado según lo dispuesto a continuación:
+
+1.º Antes del 20 de enero de 2008 el operador del sistema comunicará a los comercializadores la medida horaria de sus clientes elevada a barras de central de todos los meses de 2006 y 2007 cuyo cierre definitivo de medidas haya sido publicado conforme a los procedimientos de operación. Las medidas horarias definitivas se publicarán elevadas a barras de central agregadas por comercializador y por subsistema aislado. Asimismo, el operador del sistema publicará las medidas definitivas elevadas a barras de central correspondientes al agente de cierre de los subsistemas aislados de Baleares y de Canarias, según la metodología establecida en la Orden ITC/913/2006, de 30 de marzo, por la que se aprueban el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares. El operador del sistema comunicará las medidas anteriores al operador del mercado.
+
+2.º El operador del mercado multiplicará la energía horaria de los comercializadores por el precio horario medio final de la energía de los comercializadores destinada a clientes nacionales en el mercado de producción peninsular y la energía horaria del agente de cierre por el precio horario medio final de la energía de los distribuidores en el mercado de producción peninsular. Los precios finales serán calculados por el operador del mercado para el periodo entre el 1 de enero de 2006 y el 31 de mayo de 2006. Los precios finales desde el 1 de junio de 2006 serán los precios finales correspondientes publicados por la Comisión Nacional de Energía según lo dispuesto en la disposición adicional segunda del Real Decreto 1454/2005, de 2 de diciembre, por el que se modifican determinadas disposiciones relativas al sector eléctrico.
+
+A estos efectos el operador del mercado y la Comisión Nacional de Energía publicarán el precio horario medio final de la energía de los comercializadores destinada a clientes nacionales en el mercado de producción peninsular valorando las energías contratadas bilateralmente al precio horario del mercado diario.
+
+A estos mismos efectos, la Comisión Nacional de Energía comunicará al operador del mercado antes del 31 de enero de 2008 la forma de determinación del precio horario medio final de la energía de los distribuidores en el mercado de producción peninsular para el periodo comprendido entre el 1 de enero de 2006 y el 31 de mayo de 2006.
+
+3.º El operador del mercado, en nombre y por cuenta del sujeto productor único, expedirá a cada comercializador y al agente de cierre para cada SEIE y para cada uno de los meses, una factura de compra como adquirente de energía por el importe mensual resultante del apartado anterior.
+
+4.º El operador del mercado remitirá copia de las facturas al sujeto productor único que hasta el 4 de noviembre de 2007 ha participado en el despacho técnico de cada SEIE.
+
+A estos efectos el sujeto productor único de cada SEIE hasta el 4 de noviembre de 2007 ha sido el siguiente:
+
+«Unión Eléctrica de Canarias Generación, S. A. U.» en el Sistema Canario.
+
+«Gas y Electricidad Generación, S. A. U.» en el Sistema Balear.
+
+«Endesa Generación, S. A.» en los Sistemas de Ceuta y de Melilla.
+
+5.º El operador del mercado comunicará con suficiente antelación las fechas de emisión de facturas, de pagos y de cobros de los meses facturados.
+
+6.º Antes del 31 de mayo de 2008 y antes del 30 de septiembre de 2008 el operador del sistema comunicará al operador del mercado, a los comercializadores y al agente de cierre la medida horaria elevada a barras de central del resto de periodos hasta el 4 de noviembre de 2007 que no hayan sido facturados y cuyo cierre definitivo de medidas haya sido publicado conforme a los procedimientos de operación. Tras cada una de las fechas indicadas el operador del mercado procederá a la facturación de los meses comunicados con anterioridad a las mismas, según el procedimiento anteriormente expuesto.
+
+El operador del mercado comunicará a la Comisión Nacional de Energía las energías e importes facturados que sean necesarios para realizar las liquidaciones a las que se refiere el artículo 18 del Real Decreto 1747/2003, de 19 de diciembre, por el que se regulan los sistemas insulares y extrapeninsulares. Al tal efecto, el operador del sistema comunicará a los sujetos productores y a la Comisión Nacional de Energía los parámetros, valores, energías, potencias e importes correspondientes al coste de generación del régimen ordinario establecido en el artículo 7 del citado Real Decreto 1747/2003, de 19 de diciembre.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## Disposición adicional sexta. Minoración de la retribución de la actividad de producción de energía eléctrica por los derechos de emisión de gases de efecto invernadero asignados gratuitamente.
+
+A los exclusivos efectos de la minoración de la retribución de la actividad de producción de energía eléctrica por los derechos de emisión de gases de efecto invernadero asignados gratuitamente a partir de 1 de enero de 2006, las instalaciones a las que hace referencia la Disposición adicional sexta del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, se considerarán como instalaciones de producción en régimen especial.
+
+## Disposición adicional séptima. Financiación de los pagos por capacidad.
+
+1\. Estarán obligados al pago por capacidad todos los comercializadores y consumidores directos en mercado por la energía que efectivamente adquieran a través de las diferentes modalidades de contratación y destinada al consumo interno español.
+
+No estarán sujetos al pago por capacidad los productores por la energía correspondiente al autoconsumo de producción y al consumo de bombeo.
+
+2\. El pago por capacidad del comercializador y del consumidor directo en mercado será la suma de los términos mensuales de cada período tarifario de acuerdo con la definición del último párrafo de este apartado que resultan de multiplicar la demanda de energía elevada a barras de central adquirida en el mercado de producción por el precio unitario por capacidad, tal como se detalla en la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/312/22458_001.png)
+
+siendo
+
+PC(c,m) = Pago por capacidad del comercializador, consumidor directo o agente externo c en el mes m por la energía adquirida en el mercado de producción.
+
+D<sub>bc</sub>(c,m)<sub>i</sub>= Demanda de energía elevada a barras de central adquirida en el mercado de producción por el comercializador, consumidor directo y agente externo en el mes m y en el período tarifario i.
+
+X<sub>i</sub> = Precio unitario por capacidad, que para cada período tarifario i dependiendo de la diferenciación de períodos tarifarios de la tarifa de acceso que aplique, toma los valores que se indican en la siguiente tabla:
+
+Precio unitario por capacidad (€/kWh b.c.
+
+| Tarifa | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 |
+|---|---|---|---|---|---|---|
+| Baja tensión: |  |  |  |  |  |  |
+| 2.0 | 0,005712 |  |  |  |  |  |
+| 2.0.DHA | 0,005885 | 0,000993 |  |  |  |  |
+| 3.0A | 0,010331 | 0,005310 | 0,000071 |  |  |  |
+| Alta tensión: |  |  |  |  |  |  |
+| 3.1.ª | 0,007934 | 0,004272 | 0,000000 |  |  |  |
+| 6.1 | 0,007934 | 0,003662 | 0,002441 | 0,001831 | 0,001831 | 0,000000 |
+| 6.2 | 0,007934 | 0,003662 | 0,002441 | 0,001831 | 0,001831 | 0,000000 |
+| 6.3 | 0,007934 | 0,003662 | 0,002441 | 0,001831 | 0,001831 | 0,000000 |
+| 6.4 | 0,007934 | 0,003662 | 0,002441 | 0,001831 | 0,001831 | 0,000000 |
+
+Los períodos tarifarios, i, serán los definidos para las tarifas de acceso establecidas en la Orden ITC/2794/2007, de 27 septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007.
+
+## Disposición adicional octava. Percepción de cantidades en concepto de retribución fija.
+
+Las cantidades a percibir en concepto de CTC’s o por disminución de la financiación del déficit, correspondientes a las liquidaciones de las actividades reguladas de ejercicios anteriores, así como el fondo de CTC’s pendiente de pago por liquidaciones correspondientes a la liquidación provisional número catorce del ejercicio 2004, pasarán a incorporarse como ingresos de las actividades reguladas correspondientes al año 2008 y siguientes.
+
+## Disposición adicional novena. Modificación de la Orden ITC/913/2006, de 30 de marzo, por la que se aprueban el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares.
+
+La Orden ITC/913/2006, de 30 de marzo, por la que se aprueban el método de cálculo del coste de cada uno de los combustibles utilizados y el procedimiento de despacho y liquidación de la energía en los sistemas eléctricos insulares y extrapeninsulares se modifica como sigue:
+
+1\. Se suprime el párrafo tercero del apartado 4.2 del artículo 11 y se modifica el párrafo segundo del citado apartado, que queda como a continuación se transcribe:
+
+«A cada grupo generador en régimen especial e que participa en el despacho del sistema eléctrico aislado j se le liquidará en la hora h su energía medida, que se denominará etm(e,h,j) o em(e,h,j,d) de acuerdo con lo establecido en el apartado 1 de este artículo.»
+
+2\. Se modifica el apartado 2 del artículo 12, que queda como a continuación se transcribe:
+
+«2. Derechos de cobro de los grupos de producción en régimen especial que participan en el despacho de generación
+
+El derecho de cobro correspondiente a cada grupo generador del régimen especial e del sistema eléctrico aislado j en la hora h que haya elegido la opción b) del artículo 24.1 del Real Decreto 661/2007, de 25 de mayo, será el siguiente:
+
+cg(e,h,j)=e(e,h,j)*[PREP(h)+Prima(e)+Incentivo(e)]– desv(e,h,j)*CDSV (h)
+
+cg(e,h,j): Retribución en la hora h del grupo generador en régimen especial e del sistema eléctrico aislado j.
+
+e(e,h,j): Energía generada en la hora h por el grupo generador en régimen especial e del sistema eléctrico aislado j.
+
+PREP(h): Precio medio final en la hora h resultante para el conjunto de instalaciones de régimen especial que participan en el mercado de producción peninsular de la misma categoría y opción de venta, sin considerar el coste imputado por sus desvíos en la hora h"
+
+Prima (e): Prima que corresponde al tipo de instalación al que pertenece el grupo en régimen especial e, de acuerdo con lo establecido en el Real Decreto 661/2007, de 25 de mayo. A efectos de lo dispuesto en el artículo 27 del Real Decreto 661/2007, de 25 de mayo, el precio del mercado de referencia al que se refiere dicho artículo será PREP(h).
+
+Incentivo (e): Incentivo que corresponde al tipo de instalación al que pertenece el grupo en régimen especial e, de acuerdo con lo establecido en el Real Decreto 661/ 2007, de 25 de mayo.
+
+desv (e,h,j): Valor absoluto de la diferencia en la hora h entre la energía medida en barras de central del generador de régimen especial e del sistema eléctrico aislado j y la producción prevista comunicada al despacho.
+
+CDVS(h): Coste medio de los desvíos del régimen especial peninsular de la misma categoría que participa en el mercado en la hora h. El importe desv(e,h,j)*CDSV (h) se define como coste de desvíos del generador e.
+
+Asimismo, los grupos de generación en régimen especial que participen en el despacho económico de generación tendrán derecho a percibir, cuando les corresponda, los complementos que se determinan en el Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial.»
+
+3\. Se modifica la fórmula y el condicionado de la fórmula del apartado 7 del artículo 12, que quedan como a continuación se transcribe:
+
+«CAG(e,h,j) = –e(e,h,j) * PMCCP(h)
+
+siempre que: e(e,h,j) < 0»
+
+4\. Se modifican las definiciones de PMCP(h) y de PMCCP(h) que figuran en los apartados 4, 5 y 7 del artículo 12, que quedan como a continuación transcribe:
+
+PMCP(h): Precio medio final de adquisición de la energía para los consumidores y comercializadores que adquieren su energía para clientes finales nacionales directamente en el mercado de producción en el sistema eléctrico peninsular en la hora h.
+
+PMCCP(h): Precio medio final de adquisición de la energía para los consumidores y comercializadores que adquieren su energía para clientes finales nacionales directamente en el mercado de producción en el sistema eléctrico peninsular en la hora h.
+
+5\. Se modifica la fórmula de BOLSAG(h) y de D/S(h) del apartado 8 del artículo 12, que quedan como a continuación se transcribe:
+
+![Imagen: /datos/imagenes/disp/2008/44/03098_001.png](https://www.boe.es/datos/imagenes/disp/2008/44/03098_001.png)
+
+Donde: DCRE (e,h,j) es el valor a liquidar en la hora h al generador en régimen especial e del sistema extrapeninsular j por la energía generada, al que se refiere el apartado 9 del artículo 12».
+
+«D/S(h) = BOLSAA(h) – BOLSAG(h)»
+
+6\. Se modifica el apartado 9 del artículo 12, que queda como a continuación se transcribe:
+
+«La liquidación de la energía vertida por el generador en régimen especial que participe en el despacho de los SEIE tanto si ha elegido la opción a) como la opción b) del artículo 24.1 del Real Decreto 661/2007, de 25 de mayo, se calculará con la siguiente expresión sin perjuicio de la liquidación de tarifas reguladas, primas y complementos y tarifas establecidos en el artículo 30 del citado Real Decreto:
+
+“DCRE(e,h,j) = e(e,h,j) * PREP(h) –desvio(e,h,j) * CDSV (h)”»
+
+7\. Se modifica el primer párrafo y la fórmula de D/S(i,h,j) del apartado 10 del artículo 12, que quedan como a continuación se transcribe:
+
+«El déficit/superávit señalado en el apartado 8 será distribuido entre todos los grupos de generación en régimen ordinario del SEIE en proporción al peso relativo de sus costes de generación respecto al total de costes de generación del régimen ordinario.»
+
+«El valor de D/S (i,h,j) se obtendrá según la siguiente expresión:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/312/22458_002.png)
+
+Siendo J los sistemas eléctricos aislados pertenecientes a un determinado SEIE.»
+
+8\. Se modifica el apartado 12 del artículo 12, que queda como a continuación se transcribe:
+
+«El importe complementario por la diferencia con la tarifa regulada o por la prima, incentivo o complemento a percibir por cada grupo generador de régimen especial será liquidado conforme a lo establecido en el artículo 30 del Real Decreto 661/2007, de 25 de mayo, y en su disposición transitoria sexta.»
+
+9\. Se suprimen los apartados 1 y 2 del artículo 13.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## Disposición transitoria primera. Servicio transitorio de disponibilidad.
+
+1\. En virtud de lo dispuesto en el apartado quinto.1 del anexo III de la Orden ITC/2794/2007, de 27 septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007, se autoriza al Operador del Sistema a la provisión de un servicio transitorio de disponibilidad en el período comprendido entre el 1 de enero de 2008 y el 31 de julio de 2008.
+
+El servicio transitorio de disponibilidad tendrá por objeto promover la capacidad a medio plazo de instalaciones de producción y consistirá en la puesta a disposición del Operador del Sistema de determinada potencia en el horizonte temporal arriba indicado, incentivando la disponibilidad de los recursos que presentan un riesgo más elevado de indisponibilidad en los momentos de mayor demanda.
+
+2\. Con el objetivo de garantizar la seguridad del suministro, el Operador del Sistema establecerá las condiciones técnicas de habilitación de las instalaciones de producción de energía eléctrica para la prestación del servicio transitorio de disponibilidad, las cuales serán públicas.
+
+3\. El Operador del Sistema adjudicará la provisión del servicio de manera transparente, objetiva y no discriminatoria, bajo el criterio de mínimo coste y teniendo en cuenta las restricciones técnicas asociadas al diseño de la red y la localización de las instalaciones.
+
+El procedimiento para la prestación de este servicio se formalizará mediante la contratación bilateral entre el Operador del Sistema y el titular de la instalación de generación. El primero deberá remitir copia de los contratos celebrados a la Dirección General de Política Energética y Minas y a la Comisión Nacional de Energía. Los contratos incluirán las eventuales penalizaciones asociadas al incumplimiento del servicio, que serán proporcionales a su gravedad.
+
+Las cantidades facturadas por este servicio tendrán la consideración de costes liquidables del sistema y su cuantía máxima para el período no podrá superar los 80 millones de euros.
+
+Las eficiencias respecto a la cantidad máxima que obtenga el Operador del Sistema en la contratación del servicio transitorio de disponibilidad serán incorporadas, en un 20 por ciento, a la cuantía de la retribución del Operador del Sistema que resulte del cálculo de los costes con destinos específicos a que hace referencia el artículo 3 de la presente orden.
+
+4\. La Comisión Nacional de Energía inspeccionará las condiciones de prestación de este servicio y los pagos realizados por el Operador del Sistema correspondientes a estos contratos. Igualmente, una vez concluido el período de provisión, la Comisión Nacional de Energía remitirá a la Dirección General de Política Energética y Minas un informe sobre las condiciones de prestación de este servicio y las liquidaciones correspondientes.
+
+5\. El Operador del Sistema remitirá a la Dirección General de Política Energética y Minas un informe en el que se justifiquen los criterios empleados para la adjudicación de la provisión del servicio. Asimismo, antes del 1 de septiembre de 2008, el Operador del Sistema remitirá a la Dirección General de Política Energética y Minas un informe de evaluación que incluirá, al menos, los siguientes aspectos:
+
+a) Contratos firmados y cantidades facturadas.
+
+b) Grado de aplicación de cada uno de los servicios contratados en el período.
+
+c) Impacto de la provisión del servicio sobre la seguridad de suministro.
+
+d) Incumplimientos en la prestación del servicio y penalizaciones.
+
+e) Efectos del servicio transitorio de disponibilidad sobre la gestión y el coste de los servicios de ajuste del sistema, regulados por el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el Mercado de Producción de Energía Eléctrica.
+
+## Disposición transitoria segunda. Plazos para la adaptación de las condiciones de mantenimiento y acceso relativas a las bases de datos de puntos de suministro.
+
+1\. Las empresas distribuidoras dispondrán del plazo de dos meses a partir de la entrada en vigor de la presente orden, para adaptar los contenidos de las bases de datos de puntos de suministro referidas en el artículo 7 del Real Decreto 1435/2002, de 27 de diciembre, a los términos estandarizados establecidos en el anexo VII de esta orden a que se refiere el apartado 1 de la disposición adicional tercera.
+
+2\. Asimismo las empresas distribuidoras dispondrán del plazo dos meses a partir de la entrada en vigor de la presente orden, para garantizar el acceso a las bases de datos de puntos de suministro a través de medios telemáticos conforme lo establecido en el apartado 4 de la disposición adicional tercera.
+
+## Disposición transitoria tercera. Adaptación transitoria de la autorización e inscripción de los agentes externos a la figura del comercializador.
+
+Aquellas sociedades que con anterioridad a la finalización del periodo establecido en la disposición transitoria cuarta de la Ley 17/2007, de 4 de julio, por la que se modifica la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, estén autorizadas para ejercer como agentes externos y cuenten con inscripción definitiva en los correspondientes registros administrativos, podrán ejercer su actividad como comercializadores en los términos y condiciones establecidos en su autorización, hasta el momento en que se realice el desarrollo reglamentario de la citada disposición, necesario para proceder a su adaptación a la figura del comercializador.
+
+## Disposición transitoria cuarta. Utilización de perfiles de consumo.
+
+Aquellos suministros que desde la entrada en vigor del Real Decreto 1110/2007, de 24 de agosto, por el que se aprueba el Reglamento unificado de puntos de medida del sistema eléctrico, han cambiado su clasificación de tipo de punto de medida pasando de ser puntos de medida tipo 4 a ser de puntos de medida tipo 3, y que no dispongan de registro horario de consumo, podrán utilizar perfiles de consumo para la liquidación de la energía hasta el momento en que sustituyan el equipo de medida para adaptarlo a lo establecido en el Real Decreto 1110/ 2007, de 24 de agosto.
+
+## Disposición transitoria quinta. Adecuación de equipos de medida a los nuevos periodos horarios.
+
+Durante el plazo contemplado en la disposición transitoria única de la Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007, la facturación de aquellos consumidores a los que no se haya adaptado el equipo de medida se realizará a partir de los datos obtenidos de sus lecturas, excepto para los casos que se detallan a continuación:
+
+1\. Para los clientes acogidos a discriminación horaria Tipo 2 los consumos a facturar para cada periodo se obtendrán como:
+
+Periodo de Invierno:
+
+Consumo a facturar en Punta = Consumo leído Valle x (4/20).
+
+Consumo a facturar en Valle = Consumo leído Valle x (16/20) + Consumo leído Punta.
+
+Periodo de Verano:
+
+Consumo a facturar en Punta = Consumo leído Valle x (1/20) + Consumo leído Punta x (3/4).
+
+Consumo a facturar en Valle = Consumo leído Valle x (19/20) + Consumo leído Punta x (1/4).
+
+2\. Para los clientes acogidos a las tarifas 1.0, 2.0.X y 3.0.1 con discriminación horaria o a la tarifa de acceso 2.0.DHA, los consumos a facturar para cada periodo se obtendrán como:
+
+Períodos de invierno y verano:
+
+Consumo a facturar en Punta = Consumo leído Valle x (1/14) + Consumo leído Punta x (9/10).
+
+Consumo a facturar en Valle = Consumos leído Valle x (13/14) + Consumo leído Punta x (1/10).
+
+3\. Para los clientes acogidos a discriminación horaria Tipo 3 los consumos a facturar para cada periodo se obtendrán como:
+
+Período de Invierno: No varía para las zonas 1 a 6.
+
+Zona 7:
+
+Consumo a facturar en Punta = Consumo leído Punta.
+
+Consumo a facturar en Llano = Consumo leído Llano × (11/12) + Consumo leído Valle × (1/8).
+
+Consumo a facturar en Valle = Consumo leído Llano x (1/12) + Consumo leído Valle × (7/8).
+
+Periodo de Verano:
+
+Zonas 1 y 2:
+
+Consumo a facturar en Punta = Consumo leído Llano x (2/12) + Consumo leído Punta x (2/4).
+
+Consumo a facturar en Llano = Consumo leído Llano x (10/12) + Consumo leído Punta x (2/4).
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+Zonas 3 y 4:
+
+Consumo a facturar en Punta = Consumo leído Llano x (1/12) + Consumo leído Punta x (3/4).
+
+Consumo a facturar en Llano = Consumo leído Llano x (11/12) + Consumo leído Punta x (1/4).
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+Zona 5:
+
+Consumo a facturar en Punta = Consumo leído Llano x (1/12) + Consumo leído Punta × (3/4).
+
+Consumo a facturar en Llano = Consumo leído Valle x (1/8) + Consumo leído Llano × (10/12) + Consumo leído Punta × (1/4).
+
+Consumo a facturar en Valle = Consumo leído Valle × (7/8) + Consumo leído Llano × (1/12).
+
+Zona 6:
+
+Consumo a facturar en Punta = Consumo leído Llano × (4/12).
+
+Consumo a facturar en Llano = Consumo leído Valle × (1/8) + Consumo leído Llano × (7/12) + Consumo leído Punta.
+
+Consumo a facturar en Valle = Consumo leído Valle × (7/8) + Consumo leído Llano × (1/12).
+
+Zona 7:
+
+Consumo a facturar en Punta = Consumo leído Llano × (4/12).
+
+Consumo a facturar en Llano = Consumo leído Llano × (8/12) + Consumo leído Punta.
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+4\. Para los clientes acogidos a discriminación horaria Tipo 4 los consumos a facturar para cada periodo se obtendrán como:
+
+Periodo de Invierno:
+
+Zonas 1 y 3:
+
+Consumo a facturar en Punta = Consumo leído Llano × (1/10) + Consumo leído Punta × (5/6).
+
+Consumo a facturar en Llano = Consumo leído Llano × (9/10) + Consumo leído Punta × (1/6).
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+Zonas 5, 6 y 7:
+
+Consumo a facturar en Punta = Consumo leído Llano × (1/10) + Consumo leído Punta × (5/6).
+
+Consumo a facturar en Llano = Consumo leído Valle × (1/8) + Consumo leído Llano × (8/10) + Consumo leído Punta × (1/6).
+
+Consumo a facturar en Valle = Consumo leído Valle × (7/8) + Consumo leído Llano × (1/10).
+
+Periodo de Verano:
+
+Zonas 1 y 3:
+
+Consumo a facturar en Punta = Consumo leído Llano × (1/10) + Consumo leído Punta × (5/6).
+
+Consumo a facturar en Llano = Consumo leído Llano × (9/10) + Consumo leído Punta × (1/6).
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+Zona 5:
+
+Consumo a facturar en Punta = Consumo leído Punta.
+
+Consumo a facturar en Llano = Consumo leído Valle × (1/8) + Consumo leído Llano × (9/10).
+
+Consumo a facturar en Valle = Consumo leído Valle x (7/8) + Consumo leído Llano × (1/10).
+
+Zonas 6 y 7:
+
+Consumo a facturar en Punta = Consumo leído Llano × (6/10).
+
+Consumo a facturar en Llano = Consumo leído Llano × (4/10) + Consumo leído Punta.
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+5\. Modalidad de tres períodos: Clientes acogidos a Tarifa 3.0A para baja tensión o a tarifa 3.1A de alta tensión. Los consumos a facturar para cada periodo se obtendrán como:
+
+Periodo de Invierno: no varía.
+
+Periodo de Verano:
+
+Consumo a facturar en Punta = Consumo leído Llano x (2/12) + Consumo leído Punta x (2/4).
+
+Consumo a facturar en Llano = Consumo leído Llano x (10/12) + Consumo leído Punta x (2/4).
+
+Consumo a facturar en Valle = Consumo leído Valle.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogados los apartados segundo y quinto de la Orden de 17 de diciembre de 1998 por la que se modifica la de 29 de diciembre de 1997, que desarrolla algunos aspectos del Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica y el apartado decimoctavo del anexo III de la Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007.
+
+2\. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden.
+
+## Disposición final primera. Modificación del apartado décimo del anexo III de la Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007.
+
+Se añade un párrafo al final del apartado décimo del anexo III de la Orden ITC/2794/2007, de 27 de septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007 con la siguiente redacción:
+
+«Para tener derecho a cualquiera de los incentivos a la inversión establecidos en los párrafos anteriores, las instalaciones de generación deberán acreditar una potencia media disponible semestral equivalente al 75 por ciento de su potencia neta.»
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día 1 de enero de 2008.
+
+Madrid, 28 de diciembre de 2007.–El Ministro de Industria, Turismo y Comercio, Joan Clos i Matheu
+
+## ANEXO I
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden ITC/1857/2008, de 26 de junio. [Ref. BOE-A-2008-10968](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10968)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## ANEXO II — Precios medios de los alquileres de los contadores
+
+Los precios medios de los alquileres de los contadores, considerando no solo el precio del propio equipo sino también los costes asociados a su instalación y verificación así como a la operación y el mantenimiento, son los siguientes:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2"> </td>
+<td>
+<p>2008</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Euros /mes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a) Contadores simple tarifa:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Energía Activa</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Monofásicos:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tarifa 1.0</p>
+</td>
+<td>
+<p>0,47</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Resto</p>
+</td>
+<td>
+<p>0,54</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trifásicos o doble monofásicos</p>
+</td>
+<td>
+<p>1,53</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Energía Reactiva</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Monofásicos:</p>
+</td>
+<td>
+<p>0,72</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trifásicos o doble monofásicos</p>
+</td>
+<td>
+<p>1,71</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Contadores discriminación horaria sin posibilidad de telegestión:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Monofásicos (doble tarifa)</p>
+</td>
+<td>
+<p>1,11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trifásicos o doble monofásicos (doble tarifa)</p>
+</td>
+<td>
+<p>2,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trifásicos o doble monofásicos (triple tarifa)</p>
+</td>
+<td>
+<p>2,79</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Contactor</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Servicio de reloj de conmutador</p>
+</td>
+<td>
+<p>0,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c) Interruptor de control de potencia por polo</p>
+</td>
+<td>
+<p>0,03</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>d) Contadores electrónicos con discriminación horaria y con posibilidad de telegestión para consumidores domésticos</p>
+</td>
+<td>
+<p>0,81</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Para el resto de aparatos y equipos auxiliares de medida y control, el canon de alquiler se determinará aplicando una tasa del 1,125 por 100 mensual al precio medio de los mismos considerando no solo el precio del propio equipo sino también los costes asociados a su instalación y verificación así como a la operación y el mantenimiento, siendo este porcentaje aplicable igualmente a los equipos de medida para consumidores cualificados y otros agentes del mercado.
+
+## ANEXO III — Precios de los términos de potencia y términos de energía, activa y reactiva, de las tarifas de acceso definidas en el Real Decreto 1164/2001, de 26 de diciembre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica
+
+1\. º Precios de los términos de potencia y energía activa de las tarifas de baja tensión:
+
+*–*Tarifa 2.0A: Tp: 18,164292 €/kW y año
+
+Te: 0,020871 €/kWh
+
+*–*Tarifa 2.0.DHA:
+
+Tp: 18,164292 €/kW y año
+
+|  | Período 1 | Período 2 |
+|---|---|---|
+| Te: €/kWh | 0,031008 | 0,008945 |
+
+*–*Tarifa 3.0A:
+
+|  | Período tarifario 1 | Período tarifario 2 | Período tarifario 3 |
+|---|---|---|---|
+| Tp: €/kW y año | 15,171381 | 9,355783 | 2,145388 |
+| Te: €/kWh | 0,023479 | 0,022083 | 0,019545 |
+
+**2. º Precios de los términos de potencia y energía activa de las tarifas de acceso de alta tensión:**
+
+*–*Tarifa 3.1A:
+
+|  | Período tarifario 1 | Período tarifario 2 | Período tarifario 3 |
+|---|---|---|---|
+| Tp: €/kW y año | 15,090975 | 9,306199 | 2,134018 |
+| Te: €/kWh | 0,013833 | 0,013011 | 0,011516 |
+
+*–*Tarifa de alta tensión de 6 periodos tarifarios (6.):
+
+**TÉRMINOS DE POTENCIA**
+
+**€/KW y año**
+
+| Tarifa | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 |
+|---|---|---|---|---|---|---|
+| 6.1 | 10,092239 | 5,050488 | 3,696118 | 3,696118 | 3,696118 | 1,686408 |
+| 6.2 | 8,691805 | 4,349664 | 3,183232 | 3,183232 | 3,183232 | 1,452396 |
+| 6.3 | 8,162049 | 4,084557 | 2,989218 | 2,989218 | 2,989218 | 1,363874 |
+| 6.4 | 7,581139 | 3,793852 | 2,776470 | 2,776470 | 2,776470 | 1,266805 |
+| 6.5 | 0,763081 | 0,763081 | 0,347473 | 0,347473 | 0,347473 | 0,347473 |
+
+**TÉRMINOS DE ENERGÍA**
+
+**€/KWh**
+
+| Tarifa | Período 1 | Período 2 | Período 3 | Período 4 | Período 5 | Período 6 |
+|---|---|---|---|---|---|---|
+| 6.1 | 0,019305 | 0,016934 | 0,012870 | 0,007307 | 0,004719 | 0,004290 |
+| 6.2 | 0,006440 | 0,005649 | 0,004294 | 0,002437 | 0,001574 | 0,001431 |
+| 6.3 | 0,005196 | 0,004558 | 0,003464 | 0,001966 | 0,001270 | 0,001155 |
+| 6.4 | 0,004078 | 0,003576 | 0,002718 | 0,001543 | 0,000996 | 0,000906 |
+| 6.5 | 0,002391 | 0,002245 | 0,000991 | 0,000852 | 0,000845 | 0,000991 |
+
+3.º Término de facturación de energía reactiva (Artículo 9.3 del Real Decreto 1164/2001, de 26 de octubre):
+
+| Cos Φ | Euro/kVArh |
+|---|---|
+| Cos Φ < 0,95 y hasta cos Φ = 0,90 | 0,00001 |
+| Cos Φ < 0,90 y hasta cos Φ = 0,85 | 0,013091 |
+| Cos Φ < 0,85 y hasta cos Φ = 0,80 | 0,026182 |
+| Cos Φ < 0,80 | 0,039274 |
+
+**4.º Precios de los excesos de potencia**
+
+En la fórmula de la facturación de los excesos de potencia establecida en el punto b).3 del apartado 1.2. del artículo 9 del Real Decreto 1164/2001, de 26 de octubre, fijada para las tarifas 6. en el caso en que la potencia demandada sobrepase en cualquier período horario la potencia contratada en el mismo, el valor que figura de 234 que viene expresado en pesetas/KW es de 1,4064 expresado en €/ kW.
+
+## ANEXO IV — Actualizaciones trimestrales de las tarifas y primas del régimen especial.
+
+1\. Tarifas y primas para las instalaciones de los subgrupos a.1.1 y a.1.2 y del grupo c.2 del artículo 2 del Real Decreto 661/2007, de 25 de mayo.
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Grupo</p>
+</th>
+<th>
+<p>Subgrupo</p>
+</th>
+<th>
+<p>Combustible</p>
+</th>
+<th>
+<p>Potencia</p>
+</th>
+<th>
+<p>Tarifa regulada<br> c€/kWh</p>
+</th>
+<th>
+<p>Prima de referencia<br> c€/kWh</p>
+</th>
+</tr>
+<tr>
+<td rowspan="14">
+<p>a.1</p>
+</td>
+<td rowspan="5">
+<p>a.1.1</p>
+</td>
+<td rowspan="5"> </td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>12,1533</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>9,9729</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>7,7840</p>
+</td>
+<td>
+<p>3,2593</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>7,3693</p>
+</td>
+<td>
+<p>2,6820</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>6,9741</p>
+</td>
+<td>
+<p>2,3816</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9">
+<p>a.1.2</p>
+</td>
+<td rowspan="5">
+<p>Gasóleo / GLP.</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>14,3153</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>12,1826</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>10,4275</p>
+</td>
+<td>
+<p>5,5449</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>10,1513</p>
+</td>
+<td>
+<p>5,0726</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>9,8100</p>
+</td>
+<td>
+<p>4,6474</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Fuel.</p>
+</td>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>11,1786</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>9,5022</p>
+</td>
+<td>
+<p>4,6315</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>9,2149</p>
+</td>
+<td>
+<p>4,1482</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>8,8803</p>
+</td>
+<td>
+<p>3,7364</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>c.2</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>5,8245</p>
+</td>
+<td>
+<p>2,9722</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. Tarifas para las instalaciones acogidas a la disposición transitoria segunda del Real Decreto 661/2007, de 25 de mayo.
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Combustible</p>
+</th>
+<th>
+<p>Potencia</p>
+</th>
+<th>
+<p>Tratamiento</p>
+<p>y reducción</p>
+<p>de purines</p>
+<p>de explotaciones de porcino</p>
+</th>
+<th>
+<p>Tratamiento</p>
+<p>y reducción</p>
+<p>de lodos derivados de la producción de aceite de oliva</p>
+</th>
+<th>
+<p>Tratamiento</p>
+<p>y reducción de otros lodos</p>
+</th>
+<th>
+<p>Tratamiento</p>
+<p>y reducción de otros residuos</p>
+</th>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Gas Natural</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>10,5886</p>
+</td>
+<td>
+<p>9,4380</p>
+</td>
+<td>
+<p>5,4104</p>
+</td>
+<td>
+<p>4,6433</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>10,5886</p>
+</td>
+<td>
+<p>9,4379</p>
+</td>
+<td>
+<p>5,4104</p>
+</td>
+<td>
+<p>4,6433</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>10,5770</p>
+</td>
+<td>
+<p>9,4276</p>
+</td>
+<td>
+<p>5,4044</p>
+</td>
+<td>
+<p>4,6381</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>10,5751</p>
+</td>
+<td>
+<p>9,4259</p>
+</td>
+<td>
+<p>5,4035</p>
+</td>
+<td>
+<p>4,6373</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>10,5720</p>
+</td>
+<td>
+<p>9,4230</p>
+</td>
+<td>
+<p>5,4019</p>
+</td>
+<td>
+<p>4,6360</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Gasóleo / GLP</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>11,2994</p>
+</td>
+<td>
+<p>10,0714</p>
+</td>
+<td>
+<p>5,7736</p>
+</td>
+<td>
+<p>4,9549</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>11,2994</p>
+</td>
+<td>
+<p>10,0714</p>
+</td>
+<td>
+<p>5,7736</p>
+</td>
+<td>
+<p>4,9549</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>11,4061</p>
+</td>
+<td>
+<p>10,1665</p>
+</td>
+<td>
+<p>5,8280</p>
+</td>
+<td>
+<p>5,0018</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>11,4256</p>
+</td>
+<td>
+<p>10,1840</p>
+</td>
+<td>
+<p>5,8381</p>
+</td>
+<td>
+<p>5,0103</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50MW</p>
+</td>
+<td>
+<p>11,4468</p>
+</td>
+<td>
+<p>10,2029</p>
+</td>
+<td>
+<p>5,8490</p>
+</td>
+<td>
+<p>5,0196</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5">
+<p>Fuel</p>
+</td>
+<td>
+<p>P≤0,5 MW</p>
+</td>
+<td>
+<p>11,2994</p>
+</td>
+<td>
+<p>10,0714</p>
+</td>
+<td>
+<p>5,7736</p>
+</td>
+<td>
+<p>4,9549</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>0,5&lt;P≤1 MW</p>
+</td>
+<td>
+<p>11,2645</p>
+</td>
+<td>
+<p>10,0403</p>
+</td>
+<td>
+<p>5,7557</p>
+</td>
+<td>
+<p>4,9397</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1&lt;P≤10 MW</p>
+</td>
+<td>
+<p>11,3788</p>
+</td>
+<td>
+<p>10,1422</p>
+</td>
+<td>
+<p>5,8141</p>
+</td>
+<td>
+<p>4,9897</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>11,3990</p>
+</td>
+<td>
+<p>10,1603</p>
+</td>
+<td>
+<p>5,8245</p>
+</td>
+<td>
+<p>4,9986</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>11,4300</p>
+</td>
+<td>
+<p>10,1878</p>
+</td>
+<td>
+<p>5,8403</p>
+</td>
+<td>
+<p>5,0121</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica, para su aplicación a partir del 1 de enero de 2008, el apartado 1 por la disposición final 3.2 del Real Decreto 222/2008, de 15 de febrero. [Ref. BOE-A-2008-5159](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5159)
+
+## ANEXO V — Actualizaciones anuales de las tarifas, primas y límites superior e inferior del régimen especial.
+
+1\. Tarifas y primas para las instalaciones del subgrupo a.1.4 y del grupo a.2 del artículo 2 del Real Decreto 661/2007, de 25 de mayo.
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Grupo</p>
+</th>
+<th>
+<p>Subgrupo</p>
+</th>
+<th>
+<p>Combustible</p>
+</th>
+<th>
+<p>Potencia</p>
+</th>
+<th>
+<p>Tarifa regulada<br> c€/kWh</p>
+</th>
+<th>
+<p>Prima de referencia<br> c€/kWh</p>
+</th>
+</tr>
+<tr>
+<td rowspan="6">
+<p>a.1</p>
+</td>
+<td rowspan="6">
+<p>a.1.4</p>
+</td>
+<td rowspan="3">
+<p>Carbón.</p>
+</td>
+<td>
+<p>P≤10 MW</p>
+</td>
+<td>
+<p>6,4885</p>
+</td>
+<td>
+<p>4,5502</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>4,4608</p>
+</td>
+<td>
+<p>2,1072</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>4,0553</p>
+</td>
+<td>
+<p>1,5238</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>Otros.</p>
+</td>
+<td>
+<p>P≤10 MW</p>
+</td>
+<td>
+<p>4,7607</p>
+</td>
+<td>
+<p>2,4678</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>4,3639</p>
+</td>
+<td>
+<p>1,6647</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>3,9673</p>
+</td>
+<td>
+<p>1,0939</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>a.2</p>
+</td>
+<td rowspan="3"> </td>
+<td rowspan="3"> </td>
+<td>
+<p>P≤10 MW</p>
+</td>
+<td>
+<p>4,7656</p>
+</td>
+<td>
+<p>2,4690</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10&lt;P≤25 MW</p>
+</td>
+<td>
+<p>4,3616</p>
+</td>
+<td>
+<p>1,6690</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>25&lt;P≤50 MW</p>
+</td>
+<td>
+<p>3,9679</p>
+</td>
+<td>
+<p>1,1013</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. Tarifas y primas para las instalaciones del subgrupo a.1.3 del artículo 2 y de la disposición transitoria décima del Real Decreto 661/2007, de 25 de mayo.
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Subgrupo</p>
+</th>
+<th>
+<p>Combustible</p>
+</th>
+<th>
+<p>Potencia</p>
+</th>
+<th>
+<p>Plazo</p>
+</th>
+<th>
+<p>Tarifa regulada c€/kWh</p>
+</th>
+<th>
+<p>Prima de referencia c€/kWh</p>
+</th>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.6.1</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>16,5477</p>
+</td>
+<td>
+<p>12,5153</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>12,2820</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>15,1501</p>
+</td>
+<td>
+<p>10,8985</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>12,7606</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.6.2</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>13,2286</p>
+</td>
+<td>
+<p>9,2117</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,9185</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>11,1143</p>
+</td>
+<td>
+<p>6,8626</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,3362</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.6.3</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>13,2286</p>
+</td>
+<td>
+<p>9,2117</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,9185</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>12,2257</p>
+</td>
+<td>
+<p>7,9747</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,3362</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>b.7.1</p>
+</td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>8,5059</p>
+</td>
+<td>
+<p>4,6793</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,9286</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.7.2</p>
+</td>
+<td rowspan="2">
+<p>P≤500 kW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>13,7945</p>
+</td>
+<td>
+<p>10,8859</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a.1.3</p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,8714</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>500 kW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>10,2935</p>
+</td>
+<td>
+<p>6,7691</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,9225</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>b.7.3</p>
+</td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>5,5396</p>
+</td>
+<td>
+<p>3,6516</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>5,5396</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.8.1</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>13,2286</p>
+</td>
+<td>
+<p>9,2117</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,9185</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>11,3165</p>
+</td>
+<td>
+<p>7,0597</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,4879</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.8.2</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>9,7980</p>
+</td>
+<td>
+<p>5,7958</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,8734</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>7,3737</p>
+</td>
+<td>
+<p>3,5601</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>7,3737</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="4">
+<p>b.8.3</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>9,7980</p>
+</td>
+<td>
+<p>6,0647</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,8734</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>9,6116</p>
+</td>
+<td>
+<p>5,5885</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>7,8190</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>a.1.3 dentro de la disp.<br> transitoria 10.ª</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>13,6680</p>
+</td>
+<td>
+<p>9,4191</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+3\. Tarifas, primas y límites, para las instalaciones de la categoría b) del artículo 2 del Real Decreto 661/2007, de 25 de mayo.
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Grupo</p>
+</th>
+<th>
+<p>Subgrupo</p>
+</th>
+<th>
+<p>Potencia</p>
+</th>
+<th>
+<p>Plazo</p>
+</th>
+<th>
+<p>Tarifa regulada c€/kWh</p>
+</th>
+<th>
+<p>Prima de referencia c€/kWh</p>
+</th>
+<th>
+<p>Límite superior c€/kWh</p>
+</th>
+<th>
+<p>Límite inferior c€/kWh</p>
+</th>
+</tr>
+<tr>
+<td rowspan="8">
+<p>b.1</p>
+</td>
+<td rowspan="6">
+<p>b.1.1</p>
+</td>
+<td rowspan="2">
+<p>P≤100 kW</p>
+</td>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>45,5134</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>36,4107</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>100 kW&lt;P≤10 MW</p>
+</td>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>43,1486</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>34,5189</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>10&lt;P≤50 MW</p>
+</td>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>23,7461</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>18,9969</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>b.1.2</p>
+</td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>27,8399</p>
+</td>
+<td>
+<p>26,2509</p>
+</td>
+<td rowspan="2">
+<p>35,5499</p>
+</td>
+<td rowspan="2">
+<p>26,2548</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>22,2717</p>
+</td>
+<td>
+<p>21,0007</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3">
+<p>b.2</p>
+</td>
+<td rowspan="2">
+<p>b.2.1</p>
+</td>
+<td rowspan="2"> </td>
+<td rowspan="2">
+<p>primeros 20 años<br> a partir de entonces</p>
+</td>
+<td>
+<p>7,5681</p>
+</td>
+<td>
+<p>3,0272</p>
+</td>
+<td>
+<p>8,7790</p>
+</td>
+<td>
+<p>7,3663</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6,3250</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b.2.2*</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>8,7124</p>
+</td>
+<td>
+<p>16,9494</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>b.3</p>
+</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 20 años</p>
+</td>
+<td>
+<p>7,1208</p>
+</td>
+<td>
+<p>3,9732</p>
+</td>
+<td rowspan="2">
+<p>4</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7281</p>
+</td>
+<td>
+<p>3,1625</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>b.4</p>
+</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>8,0613</p>
+</td>
+<td>
+<p>2,5883</p>
+</td>
+<td rowspan="2">
+<p>8,8054</p>
+</td>
+<td rowspan="2">
+<p>6,7384</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>7,2552</p>
+</td>
+<td>
+<p>1,3894</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>b.5</p>
+</td>
+<td rowspan="2"> </td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 25 años</p>
+</td>
+<td>
+<p>**</p>
+</td>
+<td>
+<p>2,1749</p>
+</td>
+<td rowspan="2">
+<p>8,2680</p>
+</td>
+<td rowspan="2">
+<p>6,3250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>***</p>
+</td>
+<td>
+<p>1,3894</p>
+</td>
+</tr>
+<tr>
+<td rowspan="12">
+<p>b.6</p>
+</td>
+<td rowspan="4">
+<p>b.6.1</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>16,4213</p>
+</td>
+<td>
+<p>12,3795</p>
+</td>
+<td>
+<p>17,1871</p>
+</td>
+<td>
+<p>15,9262</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>12,1882</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>15,1501</p>
+</td>
+<td>
+<p>10,8985</p>
+</td>
+<td>
+<p>15,5955</p>
+</td>
+<td>
+<p>14,7480</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>12,7606</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>b.6.2</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>12,9921</p>
+</td>
+<td>
+<p>8,9503</p>
+</td>
+<td>
+<p>13,7559</p>
+</td>
+<td>
+<p>12,4950</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,7591</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>11,1143</p>
+</td>
+<td>
+<p>6,8626</p>
+</td>
+<td>
+<p>11,5649</p>
+</td>
+<td>
+<p>10,7267</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,3362</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>b.6.3</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>12,9921</p>
+</td>
+<td>
+<p>8,9503</p>
+</td>
+<td>
+<p>13,7559</p>
+</td>
+<td>
+<p>12,4950</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,7591</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>12,2257</p>
+</td>
+<td>
+<p>7,9747</p>
+</td>
+<td>
+<p>12,6707</p>
+</td>
+<td>
+<p>11,8232</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,3362</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="8">
+<p>b.7</p>
+</td>
+<td rowspan="2">
+<p>b.7.1</p>
+</td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>8,2597</p>
+</td>
+<td>
+<p>4,3688</p>
+</td>
+<td>
+<p>9,2602</p>
+</td>
+<td>
+<p>7,6892</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7281</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>b.7.2</p>
+</td>
+<td rowspan="2">
+<p>P≤500 kW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>13,5068</p>
+</td>
+<td>
+<p>10,5607</p>
+</td>
+<td>
+<p>15,8436</p>
+</td>
+<td>
+<p>12,7637</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7281</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>500 kW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>10,0043</p>
+</td>
+<td>
+<p>6,4348</p>
+</td>
+<td>
+<p>11,3995</p>
+</td>
+<td>
+<p>9,8699</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7281</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>b.7.3</p>
+</td>
+<td rowspan="2"> </td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>5,5396</p>
+</td>
+<td>
+<p>3,6516</p>
+</td>
+<td>
+<p>8,6091</p>
+</td>
+<td>
+<p>5,2709</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>5,5396</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="12">
+<p>b.8</p>
+</td>
+<td rowspan="4">
+<p>b.8.1</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>12,9921</p>
+</td>
+<td>
+<p>8,9503</p>
+</td>
+<td>
+<p>13,7559</p>
+</td>
+<td>
+<p>12,4950</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,7591</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>11,1143</p>
+</td>
+<td>
+<p>6,8626</p>
+</td>
+<td>
+<p>11,5649</p>
+</td>
+<td>
+<p>10,7267</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>8,3362</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>b.8.2</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>9,5909</p>
+</td>
+<td>
+<p>5,5501</p>
+</td>
+<td>
+<p>10,3557</p>
+</td>
+<td>
+<p>9,0845</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7281</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>6,7260</p>
+</td>
+<td>
+<p>2,4744</p>
+</td>
+<td>
+<p>7,1725</p>
+</td>
+<td>
+<p>6,3250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7260</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>b.8.3</p>
+</td>
+<td rowspan="2">
+<p>P≤2 MW</p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>9,5909</p>
+</td>
+<td>
+<p>5,8066</p>
+</td>
+<td>
+<p>10,3557</p>
+</td>
+<td>
+<p>9,0845</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7281</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>primeros 15 años</p>
+</td>
+<td>
+<p>8,2680</p>
+</td>
+<td>
+<p>3,7916</p>
+</td>
+<td>
+<p>9,3015</p>
+</td>
+<td>
+<p>7,7513</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2 MW ≤ P</p>
+</td>
+<td>
+<p>a partir de entonces</p>
+</td>
+<td>
+<p>6,7260</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+\* Prima máxima de referencia a efectos del procedimiento de concurrencia previsto en el Real Decreto 1028/2007, de 20 de julio, y el límite superior, para las instalaciones eólicas marinas.
+
+** La cuantía de la tarifa regulada para las instalaciones del grupo b.5 para los primeros veinticinco años desde la puesta en marcha será: [6,60 + 1,20 x [(50 –P) / 40]] x 1.0335, siendo P la potencia de la instalación.
+
+*** La cuantía de la tarifa regulada para las instalaciones del grupo b.5 para el vigésimo sexto año y sucesivos desde la puesta en marcha será: [5,94 + 1,080 x [(50 –P) / 40]] x 1.0335, siendo P la potencia de la instalación.
+
+4\. Tarifas y primas para las instalaciones de los grupos c.1, c.3 y c.4 del artículo 2 del Real Decreto 661/2007, de 25 de mayo.
+
+| Grupo | Tarifa regulada<br> c€/kWh | Prima de referencia<br> c€/kWh |
+|---|---|---|
+| c.1 | 5,5530 | 2,8478 |
+| c.3 | 3,9679 | 2,8478 |
+| c.4 | 5,4470 | 2,2928 |
+
+> Se modifica, para su aplicación a partir del 1 de enero de 2008, por la disposición final 3.3 del Real Decreto 222/2008, de 15 de febrero. [Ref. BOE-A-2008-5159](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-5159)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 44, de 20 de febrero de 2008. [Ref. BOE-A-2008-3098](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3098)
+
+## ANEXO VI — Precios máximos del operador del sistema por actuaciones derivadas del Reglamento unificado de puntos de medida y sus instrucciones técnicas complementarias
+
+1\. Lecturas locales, verificaciones e inspecciones.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>CONCEPTO</p>
+</td>
+<td>
+<p>PRECIO</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>€</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Desplazamiento a un punto de medida para la realización de cualquier intervención en el mismo incluyendo lectura visual, lectura local con TPL, desprecintado o precintado o conjunto total o parcial de las anteriores.</p>
+</td>
+<td>
+<p>349,12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Inspección y verificación de los equipos de medida, comunicación y control de la interrumpibilidad (EMCC) y del relé de subfrecuencia asociado</p>
+</td>
+<td>
+<p>926,00</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Suplementos:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Realización de la verificación de contador-registrador y actualización de datos en el concentrador correspondiente.</p>
+</td>
+<td>
+<p>279,29</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Realización de la verificación de contador-registrador, con aportación de patrón por el solicitante, y actualización de datos en el concentrador correspondiente.</p>
+</td>
+<td>
+<p>34,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Realización de la verificación de contador-registrador, con aportación de patrón por el solicitante y actualización de datos en el concentrador correspondiente.</p>
+</td>
+<td>
+<p>104,74</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Realización de la inspección de instalación y actualización de inventarios en el concentrador correspondiente.</p>
+</td>
+<td>
+<p>104,74</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Verificación de transformador monofásico de tensión o intensidad, y actualización de datos en el concentrador correspondiente.</p>
+</td>
+<td>
+<p>104,74</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Realización de la parametrización de contador-registrador.</p>
+</td>
+<td>
+<p>69,83</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Realización de la carga de claves para firma electrónica en el concentrador correspondiente.</p>
+</td>
+<td>
+<p>69,83</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Certificaciones.
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>CONCEPTO</p>
+</td>
+<td>
+<p>PRECIO</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>€</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificado de energía en ambos sentidos en un punto de medida o punto frontera o unidad de oferta (1h&lt;período≤7 días).</p>
+</td>
+<td>
+<p>34,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificado de energía en ambos sentidos en un punto de medida o punto frontera o unidad de oferta (7 días&lt;período≤ 1 mes).</p>
+</td>
+<td>
+<p>69,83</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificado de energía en ambos sentidos en un punto de medida o punto frontera o unidad de oferta (1mes&lt;período≤6meses).</p>
+</td>
+<td>
+<p>139,66</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificado de energía en ambos sentidos en un punto de medida o punto frontera o unidad de oferta (6meses&lt;período≤1año).</p>
+</td>
+<td>
+<p>209,48</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificado de energía en ambos sentidos en un punto de medida o punto frontera o unidad de oferta (1año&lt;período≤3años).</p>
+</td>
+<td>
+<p>698,30</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Certificado de energía en ambos sentidos en un punto de medida o punto frontera o unidad de oferta (3años&lt;período≤6años).</p>
+</td>
+<td>
+<p>1117,24</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+2\. Pruebas de validación de protocolos.
+
+Análisis y prueba de que los equipos cumplen los protocolos establecidos por el Operador del Sistema entre el concentrador principal y registradores o concentradores secundarios (red troncal): Estos costes se facturarán por las horas realmente dedicadas a un coste de 103,031420 Euros/hora, con un coste mínimo de 1.396,56 Euros, y se acompañarán cuando hayan superado las pruebas de un certificado de validación del protocolo, que servirá para su aceptación en todo el sistema de medidas.
+
+## ANEXO VII — Contenidos estandarizados de los registros de las bases de datos de puntos de suministro
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1011/2009, de 19 de junio. [Ref. BOE-A-2009-10220](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-10220)

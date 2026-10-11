@@ -1,0 +1,2169 @@
+---
+title: "Real Decreto 1032/1999, de 18 de junio, por el que se determinan las normas de seguridad a cumplir por los buques pesqueros de eslora igual o superior a 24 metros"
+identifier: "BOE-A-1999-14521"
+eli: "https://www.boe.es/eli/es/rd/1999/06/18/1032"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 1999-06-18
+published: 1999-07-01
+in_force_from: 1999-07-02
+last_amended: 2007-06-01
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 156"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-14521"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1032/1999, de 18 de junio, por el que se determinan las normas de seguridad a cumplir por los buques pesqueros de eslora igual o superior a 24 metros
+
+El 11 de diciembre de 1997 la Unión Europea adoptó la Directiva 97/70/CE, del Consejo por la que se establece un régimen armonizado de seguridad para los buques de pesca de eslora igual o superior a 24 metros.
+
+La citada Directiva pretende, ante todo, hacer obligatorias en el ámbito comunitario las prescripciones del Protocolo de Torremolinos de 1993 sobre seguridad de los buques de pesca, que si bien ha sido aprobado, aún no ha entrado en vigor, por no haber sido ratificado por un número suficiente de Estados. Con ello la Directiva viene en realidad a anticipar la aplicación del Protocolo en el ámbito comunitario.
+
+Por otra parte, es propósito de la Directiva ampliar el ámbito de aplicación del Protocolo de Torremolinos –previsto para buques pesqueros de eslora igual o superior a 45 metros–, a los buques pesqueros menores, de eslora de entre 24 y 45 metros, así como incrementar las exigencias del Protocolo.
+
+Este Real Decreto tiene como finalidad, precisamente, incorporar al ordenamiento jurídico español la Directiva 97/70/CE, incluyendo, asimismo, la modificación de ésta operada por la Directiva 99/19/CE, de 18 de marzo.
+
+En lo que atañe a su contenido, el Real Decreto aplica a los buques pesqueros de eslora igual o superior a 45 metros las disposiciones del anexo del Protocolo de Torremolinos, con las modulaciones previstas en su anexo I y asimismo aplica a los buques pesqueros de eslora de entre 24 y 45 metros las disposiciones de los capítulos IV, V, VII y IX del anexo del Protocolo de Torremolinos, con las modulaciones previstas en su anexo II.
+
+Asimismo y para todos estos buques, el Real Decreto establece en su anexo IV requisitos específicos de seguridad más exigentes que los del Protocolo de Torremolinos.
+
+A su vez, el anexo III contiene prescripciones excepcionales justificadas por circunstancias geográficas o climatológicas específicas.
+
+Por último, en el anexo V se fijan modelos para la extensión de los certificados de conformidad, de exención y de inventario del equipo.
+
+En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de junio de 1999,
+
+DISPONGO:
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este Real Decreto tiene por objeto la determinación de las normas de seguridad que han de cumplir los buques pesqueros de eslora igual o superior a 24 metros, tanto nuevos como existentes (siempre, para estos últimos, que les sea aplicable el anexo del Protocolo de Torremolinos), cuando se dé alguna de las siguientes circunstancias:
+
+a) Que estén abanderados en España.
+
+b) Que faenen en aguas interiores o mar territorial español.
+
+c) Que desembarquen sus capturas en puerto español.
+
+2\. Este Real Decreto se entiende sin perjuicio de lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, sus normas de desarrollo y, en particular, el Real Decreto 1216/1997, de 18 de julio, por el que se establecen las disposiciones mínimas de seguridad y salud en el trabajo a bordo de los buques de pesca.
+
+### Artículo 2. Definiciones.
+
+A los efectos de este Real Decreto se entiende por:
+
+1\. «Buque pesquero» o «buque»: todo buque civil equipado o utilizado con criterios comerciales para la captura de peces u otros recursos vivos del mar.
+
+2\. «Buque pesquero nuevo»: todo buque de pesca en el que concurra alguna de las siguientes circunstancias:
+
+a) Que se contrate su construcción o bien alguna transformación de importancia durante el año 1999 o con posterioridad al mismo o bien, si ello ha ocurrido en años anteriores, que la entrega se produzca transcurridos al menos tres años desde el 1 de enero de 1999.
+
+b) Que, a falta de contrato de construcción, se instale la quilla, se inicie una fase de construcción que haga reconocible al buque concreto o bien se comience una fase de montaje que suponga la utilización de, al menos, 50 toneladas del total estimado de los materiales de estructura o de un 1 por cien de dicho total si este segundo valor es inferior al primero, todo ello durante el año 1999 o con posterioridad.
+
+3\. «Buque pesquero existente»: todo buque de pesca que no sea un buque de pesca nuevo.
+
+4\. «Protocolo de Torremolinos»: el Protocolo de Torremolinos de 1993 relativo al Convenio Internacional de Torremolinos sobre la Seguridad de los buques de pesca de 1977, así como las modificaciones correspondientes.
+
+5\. «Certificado»: el certificado de conformidad que acredita el cumplimiento de los requisitos de seguridad del buque al que se hace referencia en el artículo 6 de este Real Decreto.
+
+6\. «Eslora»: salvo disposición en contrario, el 96 por cien de la eslora total en una flotación correspondiente al 85 por cien, del puntal mínimo medido desde la línea de quilla, o la eslora que haya de la cara proel de la roda al eje de la mecha del timón en esa flotación, si esa magnitud es mayor. En los buques proyectados con línea inclinada, la flotación de referencia para medir la eslora será paralela a la flotación de proyecto.
+
+7\. «Faenar»: capturar, acondicionándolos o no, peces u otros recursos marinos vivos, sin perjuicio del derecho de paso inocente a través de aguas territoriales y de la libertad de navegación por la zona económica exclusiva de 200 millas.
+
+8\. «Organización reconocida»: toda organización reconocida de conformidad con lo establecido en el Real Decreto 2662/1998, de 11 de diciembre, sobre reglas y estándares comunes para las organizaciones de inspección y peritaje de buques y para las actividades correspondientes de la Administración marítima.
+
+### Artículo 3. Disposiciones generales.
+
+1\. Los buques pesqueros abanderados en España se encuentran sujetos a las disposiciones del anexo del Protocolo de Torremolinos, salvo precepto en contrario del anexo I de este Real Decreto. Dichos buques deberán, asimismo, cumplir los requisitos específicos de seguridad del anexo IV.
+
+Los buques pesqueros existentes deberán cumplir los requisitos que les sean aplicables del anexo del Protocolo de Torremolinos, salvo en los casos en los que este Real Decreto disponga otra cosa.
+
+2\. Las prescripciones de los capítulos IV, V, VII y IX del anexo del Protocolo de Torremolinos aplicables a los buques de eslora igual o superior a 45 metros serán también de aplicación a los buques pesqueros nuevos de eslora igual o superior a 24 metros abanderados en España, salvo precepto en contrario del anexo II de este Real Decreto.
+
+3\. Los buques pesqueros abanderados en España que faenan en áreas específicas cumplirán los preceptos relativos a dichas áreas, contenidas en el anexo III de este Real Decreto.
+
+4\. Los buques pesqueros abanderados en países no pertenecientes a la Unión Europea no podrán faenar en las aguas interiores o territoriales españolas ni desembarcar sus capturas en puertos españoles salvo que la Administración del Estado de abanderamiento certifique que los buques citados cumplen los requisitos fijados en este artículo y en el artículo 5 de este Real Decreto.
+
+### Artículo 4. Disposiciones específicas, exenciones y equivalencias.
+
+El Ministro de Fomento determinará las medidas específicas de seguridad que, en su caso, podrán adoptarse para los buques pesqueros que faenan en un área determinada en atención a circunstancias locales específicas (tales como la naturaleza de las aguas y las condiciones meteorológicas de dicha área), a las características de tales buques (tales como los materiales de construcción) o a la duración de los viajes que realizan. Dichas medidas se incluirán en el anexo III de este Real Decreto.
+
+### Artículo 5. Normas de diseño, construcción y mantenimiento.
+
+Las normas para el diseño, construcción y mantenimiento del casco, la maquinaria principal y auxiliar y las instalaciones eléctricas y automáticas de un buque serán las que estén en vigor en la fecha de su construcción, especificadas para su clasificación por una organización reconocida o empleada por una Administración.
+
+### Artículo 6. Reconocimientos.
+
+1\. La Dirección General de la Marina Mercante del Ministerio de Fomento, expedirá para los buques pesqueros que cumplan las prescripciones de los artículos 3 y 5 de este Real Decreto un certificado de conformidad, acompañado de un inventario del equipo y, si procede, de certificados de exención, según el modelo del anexo V de este Real Decreto, una vez realizado un reconocimiento inicial del buque, de conformidad con lo dispuesto en el párrafo a) del apartado 1 de la regla 6 del capítulo I del anexo del Protocolo de Torremolinos.
+
+2\. Los períodos de validez en los certificados citados en el apartado 1 no podrán exceder de los cuatro años, prorrogables por un año como máximo, tal y como establece la regla 11 del capítulo I del anexo del Protocolo de Torremolinos. La renovación del certificado de conformidad se realizará cuando se hayan llevado a cabo los reconocimientos periódicos, tal como dispone la regla 6 del capítulo I del anexo del Protocolo de Torremolinos.
+
+### Artículo 7. Criterios de inspección.
+
+1\. Los buques pesqueros en los que, concurriendo alguna de las circunstancias del artículo 1 de este Real Decreto, y que no estén abanderados en España podrán ser inspeccionados de forma no discriminatoria por la Dirección General de la Marina Mercante con el fin de comprobar que cumplen los requisitos de este Real Decreto, de conformidad con el artículo 4 del Protocolo de Torremolinos.
+
+2\. Los buques pesqueros en los que no concurra alguna de las circunstancias del artículo 1 de este Real Decreto y que estén abanderados en algún Estado miembro de la Unión Europea que no sea España podrán ser inspeccionados de forma no discriminatoria por la Dirección General de la Marina Mercante cuando se encuentren en un puerto español, con el fin de comprobar que cumplen los requisitos de este Real Decreto, de conformidad con el artículo 4 del Protocolo de Torremolinos.
+
+3\. Los buques pesqueros abanderados en un Estado que no sea miembro de la Unión Europea y en los que no concurra alguna de las circunstancias del artículo 1 de este Real Decreto podrán ser inspeccionados por la Dirección General de la Marina Mercante cuando se encuentren en puerto español, de conformidad con las disposiciones del artículo 4 del Protocolo de Torremolinos, a fin de comprobar que cumplen los requisitos de dicho Protocolo, cuando éste haya entrado en vigor.
+
+### Artículo 8. Régimen sancionador.
+
+Los incumplimientos a lo dispuesto en este Real Decreto constituyen infracciones administrativas en el ámbito de la marina civil y serán sancionados según lo dispuesto en la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo previsto en este Real Decreto.
+
+### Disposición final primera. Habilitación normativa.
+
+Se habilita al Ministro de Fomento para dictar las disposiciones necesarias en desarrollo y aplicación de este Real Decreto, en especial las relativas a las medidas específicas de seguridad del artículo 4 del mismo.
+
+### Disposición final segunda. Entrada en vigor.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 18 de junio de 1999.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+RAFAEL ARIAS-SALGADO MONTALVO
+
+## ANEXO I
+
+A efectos de este anexo se entenderá por «buque de pesca construido a partir del 1 de enero de 2003» todo buque de pesca en el que concurra alguna de las siguientes circunstancias:
+
+a) Que se haya contratado su construcción o alguna transformación importante a partir del 1 de enero de 2003, o bien que se haya celebrado dicho contrato de construcción o de transformación importante antes del 1 de enero de 2003 y la entrega se produzca transcurridos, al menos, tres años a partir de esa fecha.
+
+b) Que, a falta de un contrato de construcción a partir del 1 de enero de 2003, se haya instalado la quilla, se haya iniciado una fase de construcción que haya reconocido un buque concreto, o bien haya comenzado una fase de montaje que suponga la utilización de, al menos, 50 toneladas del total estimado de las antedichas estructuras o bien de un 1 por 100 de dicho total, si este segundo valor es inferior al primero.
+
+PARTE A
+
+Modificaciones que afectarán a todos los buques de pesca a los que se aplica la Directiva, exceptuando los buques de pesca nuevos construidos a partir del 1 de enero de 2003.
+
+## CAPÍTULO I — Disposiciones generales
+
+Regla 2: definiciones.
+
+Apartado 1. «Buque pesquero nuevo»: todo buque de pesca en el que concurra alguna de las siguientes circunstancias:
+
+a) Que se contrate su construcción o bien alguna transformación de importancia durante el año 1999 o con posterioridad al mismo, o bien, si ello ha ocurrido en años anteriores, que la entrega se produzca transcurridos, al menos, tres años desde el 1 de enero de 1999.
+
+b) Que, a falta de contrato de construcción, se instale la quilla, se inicie una fase de construcción que haga reconocible al buque concreto o bien se comience una fase de montaje que suponga la utilización de, al menos, 50 toneladas del total estimado de los materiales de estructura o de un 1 por 100 de dicho total si este segundo valor es inferior al primero, todo ello durante el año 1999 o con posterioridad.
+
+## CAPÍTULO V — Prevención, detección y extinción de incendios y equipo contra incendios
+
+Regla 2: definiciones.
+
+Apartado 2. «Ensayo estándar de exposición al fuego»: se incluirán al final las siguientes modificaciones en relación con la curva estándar de temperatura:
+
+«... La curva estándar tiempo-temperatura viene definida por una curva continua que pasa por los siguientes puntos indicadores de la temperatura interior del horno:
+
+Temperatura inicial del horno: 20 °C
+
+Al finalizar los cinco primeros minutos: 576 °C.
+
+Al finalizar los diez primeros minutos: 679 °C.
+
+Al finalizar los quince primeros minutos: 738 °C.
+
+Al finalizar los treinta primeros minutos: 841 °C.
+
+Al finalizar los sesenta primeros minutos: 945 °C.»
+
+## CAPÍTULO VII — Dispositivos y normas de salvamento
+
+Regla 1: ámbito de aplicación.
+
+El apartado 2 quedará redactado como sigue:
+
+«Las reglas 13 y 14 se aplicarán también a los buques existentes de eslora igual o superior a 45 m, si bien la Administración marítima podrá aplazar la implantación de las prescripciones de dichas reglas hasta el 1 de febrero de 1999.»
+
+Regla 13: dispositivos radioeléctricos de salvamento.
+
+El apartado 2 quedará redactado como sigue:
+
+«Los aparatos radiotelefónicos bidireccionales de ondas métricas provistos a bordo de los buques existentes que no se ajusten a las normas de funcionamiento aprobadas por la organización podrán ser aceptados por la Administración marítima hasta el 1 de febrero de 1999, siempre que la misma juzgue que son compatibles con los aparatos radiotelefónicos bidireccionales de ondas métricas aprobados.»
+
+## CAPÍTULO IX — Radiocomunicaciones
+
+Regla 1: ámbito de aplicación.
+
+El apartado 1 quedará redactado como sigue:
+
+«No obstante, la Administración marítima podrá diferir la aplicación de lo prescrito a los buques existentes hasta el 1 de febrero de 1999.»
+
+Regla 3: exenciones.
+
+El párrafo c) del apartado 2 quedará redactado como sigue:
+
+«Cuando el buque vaya a ser retirado del servicio de forma permanente antes del 1 de febrero del año 2001.»
+
+PARTE B
+
+Modificaciones que afectarán a los buques de pesca nuevos construidos a partir del 1 de enero de 2003.
+
+El texto actual de las reglas que a continuación se indican quedará redactado como sigue:
+
+## CAPÍTULO I — Disposiciones generales
+
+Regla 2: definiciones.
+
+Inciso ii) del párrafo a) del apartado 22:
+
+«El mamparo de colisión estará ubicado de modo que diste de la perpendicular de proa: no menos de 0,05 L ni más de 0,05 L más 1,35 m en los buques de eslora inferior a 45 m.»
+
+Regla 6: reconocimientos.
+
+Párrafo c) del apartado 1:
+
+«Además del reconocimiento periódico exigido en el inciso i) del párrafo b), los reconocimientos intermedios respecto de la estructura y máquinas del buque a intervalos de dos años más/menos tres meses, en el caso de los buques construidos con materiales distintos de la madera, y a los intervalos especificados por la Administración en el caso de los buques construidos con madera. El reconocimiento se realizará de modo que también garantice que no se han efectuado reformas que pudieran tener un efecto adverso en la seguridad del buque o de la tripulación.»
+
+## CAPÍTULO II — Construcción, integridad de estanqueidad y equipo
+
+Regla 1: construcción.
+
+Apartado 1:
+
+«La resistencia y la construcción del casco, las superestructuras, las casetas, los guardacalores de máquinas, los tambuchos y cualesquiera otras estructuras, así como el equipo del buque, serán tales que permitan hacer frente a todas las condiciones previsibles del servicio a que se destine el buque, y se construirán siguiendo las reglas de una organización reconocida.»
+
+Regla 2: puertas estancas.
+
+Apartado 1:
+
+«El número de aberturas practicadas en los mamparos estancos, de conformidad con lo dispuesto en la regla 1.3) será el mínimo compatible con la disposición general y las necesidades operacionales del buque; dichas aberturas irán provistas de dispositivos de cierre que responderán a las normas de una organización reconocida. Las puertas estancas tendrán una resistencia equivalente a la de la estructura adyacente no perforada.»
+
+Regla 2: puertas estancas.
+
+Párrafo a) del apartado 3:
+
+«En los buques de eslora igual o superior a 45 m, las puertas estancas serán del tipo de corredera en los espacios en que se las haya de abrir en la mar y cuando estén situadas de manera que sus falcas queden por debajo de la máxima flotación de servicio, a menos que la Administración marítima estime esto imposible o innecesario, habida cuenta del tipo de buque y las operaciones que realice.
+
+Las exenciones a esta regla que autorice la Administración marítima española deberán ajustarse al procedimiento que figura en el artículo 4 de este Real Decreto.»
+
+Regla 5: escotillas.
+
+Apartado 3:
+
+«Se proveerán medios que garanticen que las tapas de escotilla de madera quedarán cerradas de modo estanco a la intemperie, de conformidad con las normas establecidas en las reglas 14 y 15 del anexo I del Convenio internacional sobre Líneas de Carga de 1966» (1).
+
+(1) Convenio Internacional sobre líneas de carga de 1966, acordado por la Conferencia internacional sobre líneas de carga el 5 de abril de 1966 y adoptado el 25 de octubre de 1967 por la Organización Marítima Internacional mediante la Resolución A.133 (V).
+
+Regla 9: ventiladores.
+
+Apartado 1:
+
+«En los buques de eslora igual o superior a 45 m, la altura mínima en que los manguerotes que no sean los que ventilan el espacio de máquinas rebase la cubierta será de 900 mm en la de trabajo y de 760 mm en la de superestructura. En los buques de eslora inferior a 45 m, la altura de dichos manguerotes será de 760 mm y de 450 mm, respectivamente. La altura sobre cubierta de las aberturas que ventilan el espacio de máquinas, necesarias para la ventilación continua del espacio de máquinas y, en su caso, para la ventilación inmediata del compartimiento de grupos electrógenos, será conforme, por regla general, a lo dispuesto en el apartado 2 de la regla 9 del capítulo II. Sin embargo, en los casos en que esto resulte impracticable como consecuencia del tamaño y de los medios del buque, podrán aceptarse alturas inferiores, que en todos los casos habrán de respetar un mínimo de 900 mm por encima de la cubierta de trabajo y de la cubierta de superestructura, a condición de que se doten de dispositivos de cierre estancos a la intemperie y conformes a lo dispuesto en el apartado 2 de la regla 9 del capítulo II, en combinación con otros dispositivos oportunos que permitan garantizar una ventilación ininterrumpida y adecuada de los espacios en cuestión.»
+
+Regla 12: portillos.
+
+Apartado 6:
+
+«La Administración marítima podrá aceptar portillos y ventanas sin tapas ciegas en los mamparos laterales y popales de las casetas situadas en la cubierta de trabajo o por encima de ésta, si a juicio suyo no quedara disminuida la seguridad del buque, tomando en consideración las reglas de organizaciones reconocidas basadas en las normas ISO correspondientes.»
+
+Regla 15: equipos de fondeo.
+
+Se proveerá equipo de fondeo proyectado, de modo que se pueda utilizar con rapidez y seguridad y que constará de anclas, cadenas o cables estopores y un molinete u otros dispositivos para dejar caer el ancla o levarla y para mantener el buque fondeado en todas las condiciones de servicio previsibles. También se proveerá a los buques de equipo de amarre adecuado que permita sujetarlos sin riesgos en todas las condiciones operacionales. El equipo de fondeo y amarre habrá de responder a las normas de una organización reconocida.
+
+## CAPÍTULO III — Estabilidad y estado correspondiente de navegabilidad
+
+Regla 1: generalidades.
+
+Los buques se proyectarán y construirán de forma tal que queden satisfechas las prescripciones de este capítulo en las condiciones operacionales a que se hace referencia en la regla 7. Los cálculos de las curvas de brazos adrizantes deberán efectuarse con arreglo al código de estabilidad sin avería para todos los tipos de buques de la OMI (2).
+
+Regla 2: criterios de estabilidad.
+
+Apartado 1:
+
+Se aplicarán los siguientes criterios de estabilidad mínima, a menos que, a juicio de la Administración marítima, la experiencia de orden operacional justifique que se prescinda de ellos. Cualquier desviación respecto de los criterios de estabilidad mínima que autorice la Administración marítima española deberá ajustarse al procedimiento que figura en el artículo 4 del Real Decreto 1032/1999 (3).
+
+(2) Código de estabilidad sin avería para todos los tipos de buques, recogido en los instrumentos aprobados por la Organización Marítima Internacional mediante la Resolución A.749(18) adoptada el 4 de noviembre de 1993, modificada por la Resolución M.S.C. 75(69).
+
+(3) Los criterios de estabilidad relativos a los buques de suministro para instalaciones mar adentro contemplados en los apartados 4.5.6.2.1 a 4.5.6.2.4 del Código de estabilidad sin averías para todos los tipos de buques de la OMI podrán considerarse equivalentes a los criterios de estabilidad de las letras a) a c) del apartado 1 de la regla 2. Dicha equivalencia sólo podrá aplicarse, con la conformidad de la Administración, a los buques de pesca cuyo caso sea similar en forma al de los buques de suministro para instalaciones de mar adentro.
+
+Párrafo d) del apartado 1:
+
+«En los buques de una cubierta, la altura metacéntrica inicial GM no será inferior a 350 mm. En los buques con superestructura completa se podrá reducir la altura metacéntrica, con la conformidad de la Administración marítima, pero sin que nunca sea inferior a 150 mm. Las reducciones de la altura metacéntrica que autorice la Administración marítima deberán ajustarse al procedimiento que figura en el artículo 4 del Real Decreto 1032/1999.»
+
+Apartado 3:
+
+«Cuando se utilice lastre para garantizar que se cumple con lo dispuesto en el apartado 1, su naturaleza y distribución serán las que la Administración Marítima juzgue satisfactorias. En los buques de eslora inferior a 45 m, el lastre habrá de ser permanente. Todo lastre permanente será sólido y se fijará de manera segura al buque. La Administración marítima podrá aceptar lastre líquido, almacenado en tanques completamente llenos que no estén conectados a ningún sistema de bombeo del buque. Cuando se utilice lastre líquido con carácter permanente para garantizar que se cumple con lo dispuesto en el apartado 1, deberán incluirse en el certificado de conformidad y en el cuadernillo de estabilidad los detalles al respecto.
+
+El lastre permanente no podrá retirarse del buque ni cambiarse de emplazamiento sin la aprobación de la Administración marítima.»
+
+Regla 4: métodos especiales de pesca.
+
+Los buques cuyos métodos especiales de pesca sometan el buque a fuerzas externas adicionales durante las faenas de pesca, satisfarán los criterios de estabilidad de la regla 2.1), incrementándose el rigor de éstos, si resulta necesario, en la medida que la Administración marítima juzgue satisfactoria. Los buques que realicen faenas de arrastre con redes de vara habrán de satisfacer criterios más estrictos de estabilidad:
+
+a) Los criterios relativos al área situada bajo los brazos adrizantes y a los brazos adrizantes que figuran en los párrafos a) y b) de la regla 2.1) se verán incrementados en un 20 por ciento;
+
+b) La altura metacéntrica no podrá ser inferior a 500 mm.
+
+c) Los criterios enunciados en la letra a) sólo serán aplicables a los buques cuya potencia propulsora instalada no supere el valor en kilovatios que se especifica en las siguientes fórmulas:
+
+N = 0,6 Ls<sup>2</sup> en los buques de eslora igual o inferior a 35 metros.
+
+N = 0,7 Ls<sup>2</sup> en los buques de eslora igual o superior a 37 metros.
+
+Para eslora intermedia del buque, el coeficiente correspondiente a Ls se obtendrá por interpolación entre 0,6 y 0,7.
+
+Ls es la eslora total que figura en el certificado de arqueo.
+
+Cuando la potencia propulsora instalada supere los valores normalizados que resultan de las fórmulas anteriores, los criterios a que se refiere el párrafo a) se verán incrementados de manera directamente proporcional a la potencia excedente.
+
+La Administración marítima deberá cerciorarse de que se cumplen los criterios más estrictos de estabilidad aplicables a los buques que realicen faenas de arrastre con tangones en las condiciones operacionales mencionadas en la regla 7.1) del presente capítulo.
+
+En los cálculos de estabilidad se supondrá que los tangones deberán formar hasta un ángulo de 45 grados con la horizontal.
+
+Regla 5: viento y balanceo intensos.
+
+Los buques deberán poder resistir los efectos del viento y el balanceo intensos, con las correspondientes condiciones de mar, teniendo en cuenta las condiciones meteorológicas periódicas, los estados de la mar en los que el buque haya de faenar, el tipo de buque y el modo de operar de éste. Los cálculos correspondientes deberán efectuarse con arreglo al Código de estabilidad sin avería para todos los tipos de buques de la OMI.
+
+Regla 8: acumulación de hielo.
+
+La regla será aplicable, si bien no estarán permitidos los márgenes de formación de hielo que quedan a la discreción de la Administración marítima con arreglo a la recomendación 2 (4).
+
+(4) En las «Directrices relativas a la acumulación de hielo», incluidas en la recomendación 2 del documento adjunto que se acompaña al Acta final de la Conferencia de Torremolinos, se indican las zonas marítimas en donde es probable la formación de hielo y las modificaciones que convendrá hacer en la corrección respecto de la acumulación de hielo.
+
+Regla 9: prueba de estabilidad.
+
+Apartado 2:
+
+«Cuando sea objeto de reformas que afecten a su condición de buque vacío y/o a la posición del centro de gravedad, el buque será sometido a una nueva prueba de estabilidad, si la Administración marítima considera esto necesario habida cuenta de sus márgenes de estabilidad, y se revisará la información al respecto. Sin embargo, cuando la variación del desplazamiento en rosca supere en un 2 por ciento el desplazamiento en rosca original y sea imposible demostrar mediante cálculos que el buque sigue cumpliendo los criterios de estabilidad, éste deberá ser objeto de una nueva prueba de estabilidad.»
+
+Regla 12: altura de la proa.
+
+La altura de la proa será la suficiente para impedir que el buque embarque cantidades excesivas de agua.
+
+Cuando se trate de buques que faenen en zonas limitadas situadas a un máximo de 10 millas de la costa, la altura mínima de la proa será la que la Administración marítima juzgue satisfactoria y en su determinación se tendrán en cuenta las condiciones meteorológicas periódicas y los estados de la mar en los que el buque haya de faenar, el tipo de buque y el modo de operar de éste.
+
+Para los buques que faenen en todas las demás zonas:
+
+1\. La altura mínima de la proa deberá calcularse con arreglo al método de cálculo recogido en la recomendación 4 del documento adjunto 3 que acompaña al Acta final de la Conferencia de Torremolinos, siempre que durante las operaciones de pesca las capturas deban almacenarse en las bodegas de pesca a través de escotillas situadas en una cubierta de trabajo expuesta, por delante de la caseta o la superestructura.
+
+2\. La altura mínima de la proa deberá ajustarse a la regla 39 del anexo I del Convenio internacional sobre Líneas de Carga de 1966, no pudiendo ser inferior a 2.000 mm, siempre que las capturas deban almacenarse en las bodegas de pesca a través de escotillas situadas en una cubierta de trabajo expuesta, protegida por una caseta o superestructura. A este respecto, el calado máximo de servicio admisible debe considerarse en lugar de la flotación del francobordo asignado de verano.
+
+Regla 14: compartimentado y estabilidad después de avería.
+
+Los buques cuya eslora sea igual o superior a 100 metros y que lleven 100 o más personas a bordo deberán poder permanecer a flote con estabilidad positiva, después de la inundación de cualquier compartimiento que se suponga averiado, teniendo en cuenta el tipo de buque, el servicio previsto y la zona en que vaya a operar (5). Los cálculos deberán efectuarse con arreglo a las directrices a que se refiere la nota.
+
+(5) La recomendación 5 del documento adjunto que acompaña al acta final de la Conferencia de Torremolinos contiene «Directrices sobre los cálculos relativos al compartimentado y a la estabilidad después de la avería».
+
+## CAPÍTULO IV — Instalaciones de máquinas, instalaciones eléctricas y espacios de máquinas sin dotación permanente
+
+Regla 3: generalidades.
+
+Apartado 1:
+
+«Los sistemas de propulsión principal, de control, de tuberías de vapor, de combustible líquido, de aire comprimido, de circuitos eléctricos y de refrigeración, las máquinas auxiliares, calderas y otros recipientes a presión, la disposición de las tuberías y circuitos de bombeo, el equipo y los aparatos de gobierno, y los ejes y acoplamientos para la transmisión de fuerza, se proyectarán, construirán, probarán, instalarán y mantendrán de conformidad con las normas de una organización reconocida. Tales máquinas y equipo, así como los mecanismos elevadores, los chigres y el equipo de manipulación y elaboración de pescado irán protegidos con miras a reducir al mínimo todo peligro para las personas que se hallen a bordo. Se prestará una atención especial a las piezas móviles, a las superficies calientes y a otros riesgos.»
+
+Apartado 7:
+
+La Administración marítima se cerciorará de que a las Reglas 16 a 18 se les da cumplimiento y aplicación uniformes, de conformidad con las Reglas de una organización reconocida (6).
+
+(6) Veánse las Recomendaciones publicadas por la Comisión Electrotécnica Internacional y en particular la Publicación 92 «Instalaciones Eléctricas del buque.
+
+Apartado 9:
+
+«Se tomarán las medidas que la Administración marítima juzgue satisfactorias para garantizar que todo el equipo funciona correctamente en todas las condiciones operacionales, incluidas las de maniobra, y que se ha dispuesto lo necesario, de conformidad con las normas de una organización reconocida, para la realización de las inspecciones regulares y pruebas ordinarias que garanticen que seguirá funcionando bien.»
+
+Apartado 10:
+
+«Los buques llevarán documentación acorde a las normas de una organización reconocida que demuestre la aptitud del buque para operar con espacios de máquinas sin dotación permanente.»
+
+Regla 6: calderas de vapor y sistemas de alimentación y de tuberías para calderas.
+
+Apartado 1:
+
+«Toda caldera de vapor y todo generador de vapor no expuesto al fuego irá provisto, como mínimo, de dos válvulas de seguridad de capacidad suficiente. Sin embargo, la Administración marítima podrá permitir, teniendo en cuenta el rendimiento o cualesquiera otras características de cualquier caldera de vapor o generador de vapor no expuesto al fuego, que se instale solamente una válvula de seguridad si estima que ésta da protección adecuada contra sobrepresiones, de conformidad con las normas de una organización reconocida.»
+
+Regla 8: mando desde la caseta de gobierno.
+
+Párrafo b) del apartado 1:
+
+«Cuando la máquina propulsora haya de ser telegobernada desde el puente de navegación, regirán las siguientes disposiciones: el telegobierno a que se hace referencia en el párrafo a) se efectuará mediante un dispositivo de gobierno que responda a las normas de una organización reconocida, acompañado, cuando sea necesario, de medios que impidan la sobrecarga de la máquina propulsora.»
+
+Regla 10: medidas relativas al combustible líquido, aceite lubricante y otros aceites inflamables.
+
+Apartado 4:
+
+«Las tuberías de combustible líquido que, si sufren daños, puedan dejar escapar combustible de tanques de almacenamiento, sedimentación o uso diario situados por encima del doble fondo, estarán dotadas en el tanque de un grifo o una válvula susceptibles de ser cerrados desde un lugar seguro situado fuera del espacio de que se trate, si se produjera un incendio en el espacio en que estén esos tanques. En el caso especial de tanques profundos situados en un túnel de eje o de tuberías o espacio similar, se colocarán válvulas en dichos tanques, pero el control, en caso de incendio, se podrá efectuar mediante una válvula suplementaria instalada en la tubería o en las tuberías, fuera del túnel o espacio similar. Si la válvula suplementaria va instalada en el espacio de máquinas habrá de ser accionable fuera de este espacio.»
+
+El párrafo a) del apartado 7:
+
+«Las tuberías de combustible y sus válvulas y accesorios serán de acero o de otro material aprobado, si bien se permitirá el uso de un mínimo de tuberías flexibles. Estas tuberías flexibles y los accesorios de sus extremos tendrán la necesaria solidez y serán de materiales pirorresistentes aprobados o llevarán revestimientos pirorresistentes, de conformidad con las normas de una organización reconocida. Los empalmes de las tuberías flexibles deberán hacerse de conformidad con el documento IMO Circ. MSC. 647 "Directrices para minimizar los derrames procedentes de los sistemas de líquidos inflamables".»
+
+Apartado 10:
+
+«Las medidas relativas a almacenamiento, distribución y consumo del aceite empleado en los sistemas de lubricación a presión habrán de responder a las reglas de una organización reconocida. En los espacios de categoría A para máquinas y, siempre que sea posible, en cualesquiera otros espacios de máquinas, esas medidas satisfarán al menos lo dispuesto en los apartados 1, 3, 6 y 7 y, en la medida en que sea necesario de conformidad con las normas de una organización reconocida, lo dispuesto en los apartados 2 y 4. No obstante, en los sistemas de lubricación podrán utilizarse indicadores visuales de caudal hechos de vidrio a condición de que, sometidos a pruebas, demuestren tener la debida resistencia al fuego.»
+
+Apartado 11:
+
+«Las medidas relativas a almacenamiento, distribución y consumo de aceites inflamables que no sean aquéllos a que se hace referencia en el apartado 10, y estén sometidos a presión en sistemas de transmisión de fuerza, de control y excitación, y de calefacción, habrán de responder a las normas de una organización reconocida. En los lugares en que haya posibles causas de ignición, dichas medidas satisfarán, al menos, lo dispuesto en los apartados 2 y 6 y, por lo que respecta a resistencia y construcción, lo dispuesto en los apartados 3 y 7.»
+
+Regla 12: protección contra el ruido.
+
+Se tomarán medidas que reduzcan los efectos producidos por el ruido en el personal empleado en los espacios de máquinas a los niveles establecidos en el Código sobre niveles sonoros a bordo de los buques de la OMI (7).
+
+(7) Código sobre niveles sonoros a bordo de los buques aprobado por la Organización Marítima Internacional mediante la Resolución A.468 (XII) adoptada el 19 de noviembre de 1981.
+
+Regla 13: aparato de gobierno.
+
+Apartado 1:
+
+«Todo buque contará con un aparato de gobierno principal y un medio auxiliar de accionamiento del timón que respondan a las normas de una organización reconocida. Dichos aparatos de gobierno principal y medio auxiliar de accionamiento del timón estarán dispuestos de modo que, dentro de lo razonable y posible, el fallo de uno de los dos no inutilice al otro.»
+
+Regla 16: fuente de energía eléctrica principal.
+
+El párrafo a) del apartado 1:
+
+«Cuando la energía eléctrica constituya el único medio de mantener los servicios auxiliares esenciales para la propulsión y la seguridad del buque, se proveerá una fuente de energía principal que, cuando menos, comprenderá dos grupos electrógenos, uno de los cuales podrá ser accionado por el motor principal. Se podrán aceptar instalaciones distintas que tengan una capacidad eléctrica equivalente y respondan a las reglas de una organización reconocida.»
+
+## CAPÍTULO V — Prevención, detección y extinción de incendios y equipo contra incendios
+
+Regla 1: generalidades.
+
+El párrafo c):
+
+«Método IIIF: Instalación de un sistema automático de detección de incendios y de alarma en todos los espacios en los que puedan declararse aquéllos, generalmente sin restricciones en cuanto al tipo de mamparos de compartimentado interior, pero a condición de que la superficie de cualesquiera espacios de alojamiento limitados por divisiones de las clases "A" o "B" no exceda en ningún caso de 50 m<sup>2</sup>. No obstante, la Administración marítima podrá aumentar esta superficie si se la destina a espacios públicos, hasta un máximo de 75 m<sup>2</sup>.»
+
+Regla 2: definiciones.
+
+Apartado 1:
+
+«"Material incombustible" es el que no arde ni desprende vapores inflamables en cantidad suficiente para experimentar la ignición cuando se le caliente a 750 °C aproximadamente, característica ésta que será demostrada de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la Organización Marítima Internacional (8). Cualquier otro material será considerado material combustible.»
+
+(8) El Código internacional para la aplicación de procedimientos de ensayo de exposición al fuego, tal y como fue adoptado por el Comité de Seguridad Marítima de la OMI mediante la Resolución MSC 61 (69).
+
+El apartado 2, «Ensayo estándar de exposición al fuego», se redactará como sigue:
+
+«Ensayo estándar de exposición al fuego» es aquél en el que las muestras de los mamparos y cubiertas objeto del ensayo se someten en un horno de pruebas a temperaturas que corresponden aproximadamente a las de la curva estándar de temperatura. Los métodos de ensayo serán acordes con el Código de procedimientos de ensayo de exposición al fuego de la Organización Marítima Internacional.»
+
+Apartado 3 (último párrafo):
+
+«La Administración marítima exigirá que se realice un ensayo con un mamparo o una cubierta prototipos para asegurarse de que estos satisfacen las prescripciones mencionadas en cuanto a integridad y elevación de temperatura, de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Apartado 4 (último párrafo):
+
+«La Administración marítima exigirá que se realice un ensayo con una división prototipo para asegurarse de que ésta satisface las prescripciones mencionadas en cuanto a integridad y elevación de temperatura, de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Apartado 6 (último párrafo):
+
+«La Administración marítima exigirá que se realice un ensayo con una división prototipo para asegurarse de que ésta satisface la prescripción mencionada en cuanto a integridad y elevación de temperatura, de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Apartado 9:
+
+«La expresión "débil propagación de la llama" indica que la superficie considerada impide en medida suficiente que las llamas se propaguen, característica ésta que será demostrada de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Regla 4: mamparos situados dentro de los espacios de alojamiento y de servicio.
+
+Apartado 4:
+
+«Método IIIF: La construcción de los mamparos que, de acuerdo con ésta o con otras reglas de esta Parte, no hayan de ser necesariamente divisiones de clase "A"o "B" no estará sujeta a ninguna restricción. La superficie de cualesquiera espacios de alojamiento limitados por una división continua de clase "A" o "B" no excederá en ningún caso de 50 m<sup>2</sup>, salvo en casos concretos en los que se exijan mamparos de clase "C" de acuerdo con lo indicado en la tabla 1 de la regla 7. No obstante, la Administración marítima podrá aumentar esta superficie si se la destina a espacios públicos, hasta un máximo de 75 m<sup>2</sup>.»
+
+Regla 7: integridad al fuego de los mamparos y cubiertas.
+
+Última nota a las tablas:
+
+(*) Cuando en las tablas aparece un asterisco, ello significa que la división habrá de ser de acero o de un material equivalente, pero no necesariamente de la clase «A».
+
+Cuando una cubierta esté perforada para dar paso a cables eléctricos, tuberías y conductos de ventilación, la abertura se sellará para impedir el paso de las llamas y el humo.
+
+Regla 8: detalles que procede observar en la construcción.
+
+Apartado 3, métodos IF, IIF y IIIF:
+
+«a) Salvo en los espacios de carga y en los compartimientos refrigerados de los espacios de servicio, los materiales de aislamiento serán incombustibles. Los acabados anticondensación y los adhesivos utilizados con el material aislante de los sistemas criógenos y de los accesorios para tuberías de dichos sistemas no necesitan ser incombustibles, pero se aplicarán en la menor cantidad posible y sus superficies descubiertas ofrecerán características de débil propagación de la llama, aspecto este que será demostrado de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI. En los espacios en que puedan penetrar productos del petróleo, la superficie aislante será impenetrable a éste y a sus vapores.»
+
+Regla 9: sistemas de ventilación.
+
+Párrafo a) del apartado 1:
+
+«Los conductos de ventilación serán de material incombustible. No obstante, los tramos de conductos cortos que, en general, no excedan de 2 metros de longitud ni de 0,02 m<sup>2</sup> de sección transversal podrán no ser incombustibles, si se cumplen las siguientes condiciones:
+
+i) que los conductos sean de un material que tenga características de débil propagación de la llama, aspecto éste que será demostrado de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Regla 11: cuestiones diversas.
+
+Apartado 2:
+
+«Las pinturas, los barnices y otros productos de acabado utilizados en superficies interiores descubiertas serán de una calidad tal que no puedan producir cantidades excesivas de humo o de gases o de vapores tóxicos, de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Regla 12: almacenamiento de recipientes de gas y otros materiales peligrosos.
+
+Apartado 4:
+
+«No se permitirán cables ni accesorios eléctricos en el interior de los compartimientos utilizados para almacenar líquidos altamente inflamables o gases licuados, salvo en la medida necesaria para el servicio dentro de tales compartimientos. Cuando se instalen, estos accesorios eléctricos deberán ser de un tipo de seguridad certificada y cumplir lo prescrito en las disposiciones pertinentes de la norma internacional CEI, Publicación 79, "Material eléctrico para atmósferas de gas explosivas". Se hará que toda fuente de calor esté alejada de estos espacios y se colocarán bien a la vista letreros de "Se prohíbe fumar" y "Prohibidas las luces sin protección de seguridad".»
+
+Regla 13: medios de evacuación.
+
+Apartado 1:
+
+«Habrá escaleras y escaleras de acceso a los espacios de alojamiento y a aquéllos en que normalmente trabaje la tripulación, y salida desde tales espacios, exceptuados los de máquinas, y que estén dispuestas de manera que constituyan medios rápidos de evacuación hacia la cubierta expuesta y desde esta hacia las embarcaciones de supervivencia. Se observarán especialmente las siguientes disposiciones:
+
+e) la continuidad de los medios de evacuación responderá a criterios que satisfagan a la Administración marítima. Las escaleras y los pasillos que se utilicen como medios de evacuación deberán presentar una anchura libre no inferior a 700 mm e ir provistos de pasamanos en, al menos, uno de los lados. Los vanos de las puertas que den acceso a una escalera deberán presentar una anchura libre no inferior a 700 mm.»
+
+Apartado 2:
+
+«Cada espacio de categoría A para máquinas tendrá dos medios de evacuación, que consistirán en:
+
+a) dos juegos de escalas de acero, tan separadas entre sí como sea posible, que conduzcan a puertas situadas en la parte superior del espacio de que se trate e igualmente separadas entre sí, y desde las que haya acceso a la cubierta expuesta. En general, una de estas escalas dará protección continua contra el fuego desde la parte inferior del espacio hasta un lugar seguro situado fuera del mismo. No obstante, la Administración marítima podrá no exigir esa protección si, por la disposición o por las dimensiones especiales del espacio de máquinas, se provee una vía segura de evacuación desde la parte inferior de éste. La estructura que dé tal protección será de acero, estará aislada conforme a la norma "A60" e irá provista, en el extremo inferior, de una puerta de acero de cierre automático, asimismo, conforme a dicha norma.»
+
+Regla 14: sistemas automáticos de rociadores, alarma y detección de incendios (Método IIF).
+
+Apartado 11:
+
+«Para cada sección del sistema se dispondrá de cabezales rociadores de respeto, con inclusión de todos los tipos que se encuentren instalados en el buque, a razón de las cantidades que a continuación se indican: menos de 100 cabezales instalados: 3 cabezales de respeto; menos de 300 cabezales instalados: 6 cabezales de respeto; de 300 a 1.000 cabezales instalados: 12 cabezales de respeto.»
+
+Regla 15: sistemas automáticos de alarma y detección de incendios (método IIIF).
+
+Apartado 4:
+
+«El sistema entrará en acción ante una anormal temperatura del aire, una concentración anormal de humos u otros factores que denuncien un conato de incendio en cualquiera de los espacios protegidos. Los sistemas sensibles a variaciones en la temperatura del aire no empezarán a actuar a menos de 54 °C y empezarán a actuar a no más de 78 °C cuando los incrementos de temperatura hasta esos niveles no excedan de 1 °C por minuto. En espacios de secado y análogos con temperatura ambiente normalmente alta, la Administración marítima podrá autorizar que la temperatura permisible de funcionamiento aumente en 30 °C por encima de la máxima prevista para la parte superior de esos locales. Los sistemas que funcionen por variación en la concentración de humos entrarán en funcionamiento cuando la intensidad de un haz de luz transmitido disminuya. Los detectores de humo estarán homologados de modo que entren en acción antes de que la densidad del humo exceda del 12,5 por 100 de oscurecimiento por metro, pero no hasta que haya excedido del 2 por ciento.
+
+La Administración marítima podrá aceptar como buenos otros métodos de funcionamiento igualmente eficaces. El sistema de detección no se utilizará más que para detectar incendios.»
+
+Regla 17: bombas contraincendios.
+
+Apartado 2:
+
+«Para el caso en que un incendio producido en un compartimiento cualquiera pudiera inutilizar todas las bombas contraincendios, existirá además a bordo otro medio de suministrar agua para combatir el incendio. En los buques de eslora igual o superior a 75 m, este otro medio será una bomba fija de emergencia accionada independientemente y capaz de suministrar dos chorros de agua con una presión mínima de 0,25 N/mm<sup>2</sup>.»
+
+Regla 20: extintores de incendios.
+
+Apartado 2:
+
+«1. Por cada tipo de extintor de incendios instalado que sea recargable a bordo, deberá proveerse un 100 por ciento de cargas de respeto para las 10 primeras unidades y un 50 por ciento para las unidades restantes, aunque sin superar un total de 60.
+
+2\. Cuando se trate de extintores de incendios no recargables a bordo, en lugar de las cargas de respeto deberá proveerse, como mínimo, un 50 por ciento de extintores adicionales del mismo tipo y capacidad.
+
+3\. Las instrucciones para la recarga deberán encontrarse a bordo. La recarga sólo podrá hacerse con recambios homologados para los extintores de incendios de que se trate.»
+
+Apartado 4:
+
+«Los extintores de incendios serán examinados anualmente por una persona competente, autorizada por la Administración marítima. Cada extintor se marcará con un rótulo en el que se indique que ha sido examinado. Todos los recipientes de los extintores de incendios presurizados permanentemente y las bombonas de propelente de los extintores no presurizados habrán de ser sometidos a una prueba de presión hidráulica cada 10 años.»
+
+Regla 21: extintores portátiles en los puestos de control y en los espacios de alojamiento y de servicio.
+
+Apartado 2:
+
+«1. Cuando se trate de extintores recargables a bordo, deberá proveerse un 100 por ciento de cargas de respeto para las 10 primeras unidades y un 50 por ciento para las unidades restantes, aunque sin superar un total de 60.
+
+2\. Cuando se trate de extintores de incendios no recargables a bordo, en lugar de las cargas de respeto deberá proveerse, como mínimo, un 50 por ciento de extintores adicionales del mismo tipo y capacidad.
+
+3\. Las instrucciones para la recarga deberán encontrarse a bordo. La recarga sólo podrá hacerse con recambios homologados para los extintores de incendios de que se trate.»
+
+Regla 24: equipos de bombero.
+
+Apartado 1:
+
+«Se llevarán a bordo, por lo menos, dos equipos de bombero. Dichos equipos serán acordes con lo dispuesto en los apartados 2.1, 2.1.1 y 2.1.2 del capítulo III del Código de procedimientos de ensayo de exposición al fuego de la OMI. Deberán proveerse dos cargas de respeto para cada respirador exigido.»
+
+Regla 25: plano de lucha contra incendios.
+
+«Habrá expuesto de modo permanente un plano de lucha contra incendios, cuyo contenido habrá de ser conforme con lo dispuesto en las resoluciones de la OMI A.654(16), "Signos gráficos para los planos de lucha contra incendios", y A.756(18), "Directrices sobre la información que se ha de facilitar en los planos y folletos de lucha contra incendios".»
+
+Regla 28: protección estructural contra incendios.
+
+Párrafo a) del apartado 2:
+
+«En los buques cuyo casco sea de materiales incombustibles, las cubiertas y los mamparos de separación entre los espacios de categoría A para máquinas y los espacios de alojamiento, los de servicio o los puestos de control, serán de clase "A60" cuando el espacio de categoría A para máquinas no esté provisto de un sistema fijo de extinción de incendios, y de clase "A-30" cuando esté equipado con tal sistema. Las cubiertas y los mamparos de separación entre otros espacios de máquinas y los espacios de alojamiento, los de servicio y los puestos de control, serán de clase "A-O".
+
+Las cubiertas y los mamparos de separación entre los puestos de control y los espacios de alojamiento y de servicio serán de clase "A", con arreglo a las tablas 1 y 2 de la regla 7 del presente capítulo, aunque la Administración marítima podrá permitir que, a efectos de separación entre espacios, tales como el camarote del patrón y la caseta de gobierno, se instalen divisiones de la clase "B15", cuando tales espacios se consideren parte integrante de la caseta de gobierno.»
+
+Regla 31: cuestiones diversas.
+
+Apartado 1:
+
+«Las superficies descubiertas que haya en espacios de alojamiento y de servicio, puestos de control, pasillos y troncos de escalera, y las superficies ocultas detrás de mamparos, cielos rasos, empanelados y revestimientos de los espacios de alojamiento, los de servicio y los puestos de control, tendrán características de débil propagación de la llama, determinada de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Apartado 3:
+
+«Las pinturas, los barnices y otros productos de acabado utilizados en superficies interiores descubiertas serán de una calidad tal que no puedan producir cantidades excesivas de humo o de gases o de vapores tóxicos, de conformidad con el Código de procedimientos de ensayo de exposición al fuego de la OMI.»
+
+Regla 32: almacenamiento de recipientes de gas y otros materiales peligrosos.
+
+Apartado 4:
+
+«No se permitirán cables ni accesorios eléctricos en el interior de los compartimientos utilizados para almacenar líquidos altamente inflamables o gases licuados, salvo en la medida necesaria para el servicio dentro de tales compartimientos. Cuando se instalen, estos accesorios eléctricos deberán ser de un tipo de seguridad certificada y cumplir lo prescrito en las disposiciones pertinentes de la norma internacional CEI, Publicación 79, "Material eléctrico para atmósferas de gas explosivas". Se hará que toda fuente de calor esté alejada de estos espacios y se colocarán bien a la vista letreros de "Se prohíbe fumar" y "Prohibidas las luces desnudas".»
+
+Regla 38: extintores de incendios.
+
+Apartado 2:
+
+«1. Salvo en los casos a que se refiere el apartado 2, por cada tipo de extintor de incendios instalado que sea recargable a bordo, deberá proveerse un 100 por ciento de cargas de respeto para las 10 primeras unidades y un 50 por ciento para las unidades restantes, aunque sin superar un total de 60.
+
+2\. Cuando se trate de buques de eslora inferior a 45 m y de extintores de incendios no recargables a bordo, en lugar de las cargas de respeto deberá proveerse, como mínimo, un 50 por ciento de extintores adicionales del mismo tipo y capacidad.
+
+3\. Las instrucciones para la recarga deberán encontrarse a bordo. La recarga sólo podrá hacerse con recambios homologados para los extintores de incendios de que se trate.»
+
+Apartado 4:
+
+«Los extintores de incendios serán examinados anualmente por una persona competente, autorizada por la Administración marítima. Cada extintor se marcará con un rótulo en el que se indique que ha sido examinado. Todos los recipientes de los extintores de incendios presurizados permanentemente y las bombonas de propelente de los extintores no presurizados habrán de ser sometidos a una prueba de presión hidráulica cada 10 años.»
+
+Regla 39: extintores portátiles en los puestos de control y en los espacios de alojamiento y de servicio.
+
+Apartado 2:
+
+«1. Salvo en los casos a que se refiere el apartado 2, por cada tipo de extintor de incendios instalado que sea recargable a bordo, deberá proveerse, como mínimo, un 100 por ciento de cargas de respeto para las 10 primeras unidades y un 50 por ciento para las unidades restantes, aunque sin superar un total de 60.
+
+2\. Cuando se trate de buques de eslora inferior a 45 m y de extintores de incendios no recargables a bordo, en lugar de las cargas de respeto deberá proveerse, como mínimo, un 50 por ciento de extintores adicionales del mismo tipo y capacidad.
+
+3\. Las instrucciones para la recarga deberán encontrarse a bordo. La recarga sólo podrá hacerse con recambios homologados para los extintores de que se trate.»
+
+Regla 41: equipos de bombero.
+
+En los buques de eslora igual o superior a 45 m se llevarán a bordo, por lo menos, dos equipos de bombero, en emplazamientos fácilmente accesibles y muy distantes entre sí, no expuestos a quedar aislados por un incendio. Dichos equipos serán acordes con lo dispuesto en los apartados 2.1, 2.1.1 y 2.1.2 del capítulo III del Código de procedimientos de ensayo de exposición al fuego de la OMI.
+
+Deberán proveerse, como mínimo, dos cargas de respeto para cada respirador exigido.
+
+Regla 42: plano de lucha contra incendios.
+
+Habrá expuesto de modo permanente un plano de lucha contra incendios.
+
+El contenido habrá de ser conforme con lo dispuesto en las resoluciones de la OMI A.654(16), «Signos gráficos para los planos de lucha contra incendios», y A.756(18), «Directrices sobre la información que se ha de facilitar en los planos y folletos de lucha contra incendios».
+
+En los buques de eslora inferior a 45 m, la Administración marítima podrá no exigir el cumplimiento de esta prescripción.
+
+## CAPÍTULO VI — Protección de la tripulación
+
+Regla 3: amuradas, barandillas y otros dispositivos protectores.
+
+Apartado 2:
+
+«La distancia vertical mínima que medie entre la máxima flotación de servicio y el punto más bajo del galón de las amuradas, o el borde de la cubierta de trabajo, si hay barandillas instaladas, será tal que asegure la protección adecuada de la tripulación contra el agua embarcada en cubierta, habida cuenta de los estados de la mar y de las condiciones meteorológicas en que el buque pueda tener que faenar, las zonas de operaciones, el tipo de buque y su método de pesca. El francobordo medido en el centro del buque desde el borde de la cubierta de trabajo desde la que se realiza la pesca no podrá ser inferior a 300 mm o al francobordo correspondiente al calado máximo de servicio admisible, si este fuese mayor. En los buques dotados de cubiertas de trabajo protegidas, dispuestas de tal modo que el agua no pueda entrar en los espacios de trabajo, no se requerirá otro francobordo mínimo que el correspondiente al calado máximo de servicio admisible.»
+
+Regla 4: escaleras y escalas.
+
+Para la seguridad de la tripulación, se proveerán escaleras y escalas de tamaño y resistencia adecuados, con barandillas y peldaños antirresbaladizos, construidas de conformidad con las normas ISO correspondientes.
+
+Regla 5: radiobaliza personal.
+
+Los tripulantes de los buques pesqueros cuya actividad se realice sobre cubierta deberán llevar consigo una radiobaliza personal, aprobada por la Administración marítima española, que permita su localización en el supuesto de caída al mar durante las operaciones de pesca. Además, en el puente de gobierno se dispondrá de un receptor detector de la señal de 121,5 MHz, emitida por estas radiobalizas.
+
+## CAPÍTULO VII — Dispositivos y normas de salvamento
+
+Regla 3: evaluación, ensayo y aprobación de dispositivos y normas de salvamento.
+
+Apartado 2:
+
+«Antes de dar su aprobación a los dispositivos y normas de salvamento, la Administración marítima deberá cerciorarse de que se someten a ensayo para confirmar que cumplen los requisitos del presente capítulo, con arreglo a lo dispuesto en el Real Decreto 809/1999, de 14 de mayo, sobre equipos marinos, entre los que se incluyen las recomendaciones de la OMI relativas al ensayo de dispositivos de salvamento.»
+
+Apartado 6:
+
+«Los dispositivos de salvamento prescritos en el presente capítulo para los que no se enuncien especificaciones detalladas en la parte C responderán a criterios que satisfagan a la Administración marítima, habida cuenta de las especificaciones específicas establecidas para dichos dispositivos en el capítulo III del Convenio Internacional para la Seguridad de la Vida Humana en el Mar (SOLAS) de 1974, en su versión modificada, y en el Código internacional de dispositivos de salvamento de la OMI.»
+
+Regla 6: disponibilidad y estiba de las embarcaciones de supervivencia y de los botes de rescate.
+
+Párrafo a) del apartado 4:
+
+«Cada embarcación de supervivencia irá estibada: de modo que ni ésta ni los medios provistos para su estiba entorpezcan las maniobras de ninguna embarcación de supervivencia o bote de rescate en los otros puestos de arriado, tan cerca de la superficie del agua como sea prudente y posible y, cuando se trate de embarcaciones de salvamento distintas de las balsas que deban lanzarse por la borda, en una posición tal que la embarcación en su posición de embarco quede a no menos de 2 m por encima de la flotación correspondiente a la carga máxima del buque en condiciones adversas de asiento de hasta 10° y con una escora de hasta 20°, a una u otra banda, o de los grados necesarios para que el borde de la cubierta de intemperie se sumerja, si este segundo valor es menor, en un estado de disponibilidad continua, de modo que los tripulantes puedan terminar los preparativos para el embarco y puesta a flote en menos de 5 minutos, totalmente equipada, según lo prescrito en el presente capítulo.»
+
+Regla 8: chalecos salvavidas.
+
+Apartado 3:
+
+«3. Para cada una de las personas que se encuentren a bordo, se llevará el correspondiente chaleco salvavidas de tipo aprobado según el Real Decreto 809/1999 para abandono de buque.
+
+Se dispondrán chalecos de respeto a razón de uno por cada 6 personas.
+
+Los tripulantes de los buques pesqueros cuya actividad se realice sobre cubierta deberán llevar puesto un chaleco o dispositivo salvavidas de inflado automático, cuando el estado de la mar o del viento así lo aconseje que, sin entorpecer sus movimientos, sea apto para mantenerlos a flote en caso de caída al agua.
+
+Estos chalecos o dispositivos salvavidas serán de inflado automático y estarán aprobados de acuerdo con lo prescrito por el Real Decreto 809/1999 o estándar internacional reconocido, y serán distintos a los exigidos en la normativa vigente sobre dispositivos de salvamento exigidos por seguridad en caso de abandono del buque, siempre que reúnan las condiciones de efectividad necesarias para el fin propuesto. Es responsabilidad del Patrón el exigir el uso de estos chalecos cuando la situación así lo requiera.»
+
+Regla 23: botes de rescate.
+
+Párrafo b) del apartado 1:
+
+Los botes de rescate podrán ser rígidos o inflables, o ambas cosas a la vez, y deberán:
+
+i) Tener una eslora no inferior a 3,8 m ni superior a 8,5 m, excepto en los buques de eslora inferior a 45 m en los que, debido al tamaño del buque o a otras razones por las que se considere injustificada o impracticable la instalación de tales botes, la Administración marítima podrá aceptar un bote de rescate de eslora menor, aunque no inferior a 3,3 m.
+
+ii) Poder transportar, como mínimo, cinco personas sentadas y una persona tendida o bien, cuando se trate de buques de eslora inferior a 45 m con un bote de rescate de menos de 3,8 m, poder transportar, como mínimo, cuatro personas sentadas y una persona tendida.
+
+Párrafo c) del apartado 1:
+
+«La Administración marítima establecerá el total de personas al que se podrá dar cabida en un bote mediante un ensayo para determinar el número de asientos. La capacidad mínima de transporte habrá de ser acorde a lo dispuesto en el inciso ii) del párrafo b) del apartado 1 de la regla 23. Los asientos podrán encontrarse en el suelo, exceptuando el del timonel. Ninguna parte de las posiciones sentadas podrá reposar en la regala, el espejo o los dispositivos de flotabilidad situados a los lados del bote.»
+
+> Se modifica el apartado 3 de la regla 8, capítulo VII por la disposición final.1 del Real Decreto 543/2007, de 27 de abril. [Ref. BOE-A-2007-10867](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-10867).
+
+> Se modifica por el art. único y anexo del Real Decreto 1422/2002, de 27 de diciembre. [Ref. BOE-A-2002-25287](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25287).
+
+## ANEXO II — Adaptación de las disposiciones de los capítulos IV, V, VII y IX del anexo del Protocolo de Torremolinos de 1993, de conformidad con el apartado 4 del artículo 3 de este último, para su aplicación a los buques de pesca nuevos de eslora igual o superior a 24 metros.
+
+## CAPÍTULO IV — Instalaciones de máquinas, instalaciones eléctricas y espacios de máquinas sin dotación permanente
+
+Regla 1: ámbito de aplicación.
+
+Se redactará como sigue:
+
+«Las disposiciones del presente capítulo serán aplicables a los buques de pesca nuevos de eslora igual o superior a 24 metros, salvo disposición en contrario.»
+
+Regla 7: comunicación entre la caseta de gobierno y el espacio de máquinas.
+
+Se redactará como sigue:
+
+«Se dispondrá de dos medios distintos de comunicación uno de los cuales será un telégrafo de máquinas; no obstante, en los buques de eslora inferior a 45 metros cuya maquinaria propulsora esté controlada directamente desde la caseta, la Administración podrá aceptar un medio de comunicación que no sea un telégrafo de máquinas.»
+
+Regla 8: control de la maquinaria de propulsión desde la caseta de gobierno.
+
+En el párrafo d) del apartado 1 se añadirá el texto siguiente:
+
+«... o desde la cámara de mando de las máquinas. En los buques de eslora inferior a 45 metros la Administración podrá permitir que el puesto de control situado en el espacio de máquinas sea solamente un puesto de emergencia, siempre que la vigilancia y el control efectuados desde la caseta de gobierno sean adecuados.»
+
+Regla 16: fuente de energía eléctrica principal.
+
+En el párrafo b) del apartado 1 se añadirá el texto siguiente:
+
+«... y conservación de la captura. No obstante, en los buques de eslora inferior a 45 metros, sólo será necesario asegurar el funcionamiento de los servicios esenciales para la propulsión y seguridad del buque, en el caso de que uno de los grupos electrógenos se pare.»
+
+Regla 17: fuente de energía eléctrica de emergencia.
+
+En el apartado 6 se incluirá el texto siguiente:
+
+«Toda batería de acumuladores instalada de conformidad con lo dispuesto en la presente regla, exceptuadas las baterías que para los emisores y receptores de radio se instalen en los buques de eslora inferior a 45 metros, irá situada...»
+
+Regla 22: sistema de alarma.
+
+En el párrafo a) del apartado 2 se incluirá la frase siguiente:
+
+«El sistema (...) que se produzcan. No obstante, en los buques de eslora inferior a 45 metros la Administración podrá permitir que el sistema sea capaz de hacer sonar e indicar visualmente cada alarma distinta en la caseta de gobierno solamente.»
+
+En el párrafo b) del apartado 2 se incluirá el texto siguiente:
+
+«En los buques de eslora igual o superior a 45 metros el sistema estará conectado...»
+
+En el párrafo c) del apartado 2 se incluirá el texto siguiente:
+
+«En los buques de eslora igual o superior a 45 metros funcionará un dispositivo...»
+
+## CAPÍTULO V — Prevención, detección y extinción de incendios y equipo contraincendios
+
+Regla 2: definiciones.
+
+En el párrafo b) del apartado 14 se incluirá el texto siguiente:
+
+«... no inferior a 375 kilovatios.»
+
+Parte C
+
+El título se sustituirá por el texto siguiente:
+
+«Parte C. Medidas de seguridad contra incendios en buques de eslora igual o superior a 24 metros, pero inferior a 60 metros»
+
+Regla 35: bombas contra incendios.
+
+Se incluirá el párrafo siguiente:
+
+«No obstante lo dispuesto en el apartado 1 de la regla 35 del capítulo V, se dispondrá al menos de dos bombas contra incendios.»
+
+En el apartado 8 se añadirá el texto siguiente:
+
+«...ó 25m<sup>3</sup>/h, si éste fuese mayor.»
+
+Regla 40: dispositivos de extinción de incendios en los espacios de máquinas.
+
+En el párrafo a) del apartado 1 se incluye el texto siguiente:
+
+«... no inferior a 375 kilovatios...»
+
+## CAPÍTULO VII — Dispositivos y normas de salvamento
+
+Regla 1: ámbito de aplicación.
+
+El apartado 1 se sustituirá por el texto siguiente:
+
+«1. El presente capítulo se aplicará a los buques nuevos de eslora igual o superior a 24 metros, salvo disposición en contrario.»
+
+Regla 5: cantidades y tipos de embarcaciones de supervivencia y botes de rescate:
+
+1) El principio del apartado 3 se redactará como sigue:
+
+«Los buques de eslora inferior a 75 metros pero igual o superior a 45 metros se ajustarán a lo siguiente:»
+
+2) Se añadirá el apartado siguiente:
+
+«3 bis. Los buques de eslora inferior a 45 metros llevarán:
+
+a) Embarcaciones de supervivencia de un tipo que permita ser arriado desde una u otra banda del buque y con suficiente capacidad conjunta para dar cabida, como mínimo, al 200 por cien del número total de personas que haya a bordo. Así como
+
+b) Un bote de rescate, salvo cuando la Administración considere que por el tamaño del buque y su maniobrabilidad, por la disponibilidad de medios cercanos de búsqueda y salvamento y de sistema de avisos meteorológicos, por el hecho de que el buque faene en zonas no expuestas a mal tiempo o por las características propias de la estación en que se realicen las operaciones, resulte innecesaria la provisión de tal bote.»
+
+3) El principio del apartado 4 se sustituirá por el texto siguiente:
+
+«En lugar de cumplir con las prescripciones del párrafo a) del apartado 2, del párrafo a) del apartado 3 y del párrafo a) del apartado 3 bis, los buques podrán llevar...»
+
+Regla 10: aros salvavidas.
+
+1) El párrafo b) del apartado 1 se redactará como sigue:
+
+«Seis aros salvavidas en los buques de eslora inferior a 75 metros pero igual o superior a 45 metros.»
+
+2) En el apartado 1 se añadirá el siguiente párrafo:
+
+«c) Cuatro aros salvavidas en los buques de eslora inferior a 45 metros.»
+
+Regla 13: dispositivos radioeléctricos de salvamento.
+
+Se incluirá el apartado siguiente:
+
+«1 bis. No obstante, en los buques de eslora inferior a 45 metros, el número de aparatos podrá limitarse a dos, si la Administración considera que el requisito de llevar tres de dichos aparatos no es necesario, habida cuenta del área de faena del buque y del número de personas que trabajan a bordo.»
+
+Regla 14: transpondedor de radar.
+
+Se añadirá al final la frase siguiente:
+
+«... en cada embarcación de supervivencia. En cada buque de eslora inferior a 45 metros se llevará por lo menos un transpondedor de radar.»
+
+## CAPÍTULO IX — Radiocomunicaciones
+
+Regla 1: ámbito de aplicación.
+
+La primera frase del apartado 1 quedará redactada como sigue:
+
+«El presente capítulo es aplicable a los buques nuevos de eslora igual o superior a 24 metros y a los buques existentes de eslora igual o superior a 45 metros, salvo disposición en contrario.»
+
+Regla 7: equipo radioeléctrico-zona marítima A1.
+
+Se añadirá un nuevo apartado 4:
+
+«Sin perjuicio de lo dispuesto en el párrafo a) de la regla 4, la Dirección General de la Marina Mercante podrá eximir a los buques de pesca nuevos de eslora igual o superior a 24 metros pero inferior a 45 metros, que realicen viajes exclusivamente en la zona marítima A1, de las prescripciones del párrafo f) del apartado 1 de la regla 6 y del apartado 3 de la regla 7, siempre que dispongan de los tres equipos siguientes:
+
+a) Una instalación radioeléctrica tal como establece el párrafo a) del apartado 1 de la regla 6.
+
+b) Una instalación adicional con llamada selectiva (LSD) para la transmisión desde el buque a instalaciones situadas en la costa de alertas de socorro, tal como dispone el párrafo a) del apartado 1 de la regla 7.
+
+c) Un equipo de ondas hectométricas/MF provisto de llamada selectiva digital/LSD, prescrito en el párrafo a) del apartado 1 de la regla 8.»
+
+## ANEXO III — Disposiciones regionales y locales (apartado 3 del artículo 3 y apartado 1 del artículo 4).
+
+A) Disposiciones regionales «zona norte»
+
+1\. Ámbito de aplicación. Salvo disposición en contrario, las aguas situadas al norte de los límites indicados en el mapa adjunto al presente anexo, excluido el Mar Báltico. Dicha delimitación corresponde al paralelo 62º norte a partir de la costa occidental de Noruega hasta los 4º de longitud oeste; desde allí al meridiano 4º de longitud oeste hasta la latitud 60º 30’ de latitud norte; desde allí, a los 60º 30’ de latitud norte hasta los 5º de longitud oeste; desde allí, al meridiano 5º oeste hasta los 60º de latitud norte; desde allí, al paralelo 60º norte hasta los 15º de longitud oeste; desde allí, al meridiano 15º oeste hasta los 62º de latitud norte; desde allí, al paralelo 62º norte hasta los 27º de longitud oeste; desde allí, al meridiano 27º oeste hasta los 59º de latitud norte y desde allí al paralelo 59º norte hacia el oeste.
+
+2\. Definiciones. «Hielo a la deriva en gran cantidad»: hielo a la deriva sobre 8/10 o más de la superficie del mar.
+
+3\. Apartado 1 de la regla 7 del capítulo III (condiciones operativas). Además de las condiciones operativas específicas expuestas en el apartado 1 de la regla 7 del capítulo III, también deberán tenerse en cuenta las condiciones operativas siguientes:
+
+«e) Las condiciones operativas b), c) o d), cualquiera que sea la que presente los valores más bajos de los parámetros de estabilidad que figuran entre los criterios de estabilidad incluidos en la regla 2 (del mismo capítulo), se calcularán incluyendo los márgenes de acumulación de hielo de conformidad con las prescripciones de la regla 8 del capítulo III.
+
+f) Para buques de pesca al cerco de jareta, salida del caladero con las artes de pesca, sin capturas y 30 por cien de provisiones, combustible, etc., incluyendo los márgenes de acumulación de hielo de conformidad con las prescripciones de la regla 8 del capítulo III.»
+
+4\. Regla 8 del capítulo III (acumulación de hielo). Los requisitos específicos de la regla 8 del capítulo III y las directrices específicas de la Recomendación número 2 de la Conferencia de Torremolinos se aplicarán en la región de que se trate, es decir, también fuera de los límites indicados en el mapa adjunto a dicha Recomendación.
+
+No obstante las disposiciones de los párrafos a) y b) del apartado 1 de la regla 8 del capítulo III para los buques que faenen en la zona situada al norte de la latitud 63<sup>o</sup> norte entre la longitud 28º W y 11º W, se incluirán en los cálculos de estabilidad los márgenes de formación de hielo siguientes:
+
+a) 40 kilogramos por metro cuadrado de cubiertas a la intemperie y paralelas;
+
+b) 10 kilogramos por metro cuadrado del área lateral proyectada de cada costado del buque, que quede por encima del plano de flotación.
+
+5\. Párrafo b) del apartado 2.b) del apartado 3 de la regla 5 del capítulo VII (número y tipos de embarcaciones de supervivencia y botes de rescate). No obstante lo dispuesto en el párrafo b) del apartado 2, en el párrafo b) del apartado 3 y en el apartado 3 bis de la regla 5 del capítulo VII, para los buques de pesca cuyo casco esté construido de conformidad con las normas de una organización reconocida para faenar en aguas con una elevada concentración de hielo flotante o a la deriva de acuerdo con el apartado 2 de la regla 1 del capítulo II del anexo del Protocolo de Torremolinos, los botes de rescate/salvavidas exigidos en virtud del párrafo b) del apartado 2, el párrafo b) del apartado 3 o el párrafo b) del apartado 3 bis estarán al menos parcialmente cerrados (tal como se define en la regla 18 del capítulo VII) y tendrán capacidad suficiente para acoger a todas las personas que se encuentren a bordo.
+
+6\. Regla 9 del capítulo VII (trajes de inmersión y ayudas térmicas). No obstante lo dispuesto en la regla 9 del capítulo VII, cada una de las personas que estén a bordo dispondrá de un traje de inmersión aprobado, de la talla adecuada, conforme con las disposiciones de la regla 25 del capítulo VII, incluidas las medidas aplicables a dicha regla que figuran en el apartado 8 de la sección A del presente anexo.
+
+7\. Regla 14 del capítulo VII (transpondedor de radar). Además de las disposiciones de la parte B del capítulo VII, cada aro salvavidas, bote de rescate y balsa salvavidas estará permanentemente equipado de un transpondedor de radar que pueda operar en la banda de 9 GHz.
+
+8\. Regla 25 del capítulo VII (trajes de inmersión). No obstante lo dispuesto en la regla 25 del capítulo VII, todos los trajes de inmersión, requeridos en virtud del apartado 6 de la sección A del presente anexo, deberán estar confeccionados, como una unidad, con material intrínsecamente aislante y cumplir los requisitos de flotabilidad del inciso i) del párrafo c) del apartado 1 de la regla 24 del capítulo VII, así como los requisitos correspondientes de la regla 25 del capítulo VII.
+
+9\. Apartado 7 de la regla 3 del capítulo X (instalaciones de radar). No obstante lo dispuesto en el apartado 7 de la regla 3 del capítulo X, los buques de eslora igual o superior a 24 metros estarán equipados con una instalación de radar que sea satisfactoria a juicio de la Administración. Dicha instalación deberá poder operar en la banda de 9 GHz.
+
+10\. Regla 5 del capítulo X (lámparas de señales). Además de lo dispuesto en la regla 5 del capítulo X, los buques que estén faenando en aguas donde pueda haber hielo a la deriva estarán equipados como mínimo con un reflector que tenga una potencia lumínica de al menos 1 lux, medida a una distancia de 750 metros.
+
+B) Disposiciones regionales «zona sur»
+
+1\. Ámbito de aplicación. El mar Mediterráneo y las zonas costeras, dentro de las 20 millas desde la costa de España y Portugal, de la zona de verano del Océano Atlántico, tal como se define en el «Mapa de zonas y áreas estacionales» en el anexo II del Convenio internacional sobre líneas de carga de 1966, adoptado el 5 de abril de 1966 por la Conferencia Internacional sobre líneas de carga celebrada en Londres a invitación de la Organización Consultiva Marítima Intergubernamental.
+
+2\. Apartado 1 de la regla 9 del capítulo VII (trajes de inmersión). Habida cuenta de las disposiciones del apartado 4 de la regla 9 del capítulo VII, al final del apartado 1 se añadirá la frase siguiente:
+
+«Para los buques de eslora inferior a 45 metros no se necesitarán más de dos trajes de inmersión.»
+
+3\. Regla 1 del capítulo XI (radiocomunicaciones-ámbito de aplicación). Se añadirá el apartado siguiente:
+
+«1 bis. El presente capítulo es aplicable también a los buques nuevos de eslora igual o superior a 24 metros, siempre que la zona en la que faenen esté adecuadamente cubierta por una estación costera que opere de conformidad con el plan director de la OMI.»
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1999/156/14521_001.png)
+
+## ANEXO IV — Requisitos específicos de seguridad (apartado 1 del artículo 3).
+
+## CAPÍTULO II — Construcción, integridad de estanqueidad y equipo
+
+Se añadirán las reglas siguientes:
+
+Regla 16: cubiertas de trabajo dentro de una superestructura cerrada.
+
+1\. Dichas cubiertas deberán tener instalado un sistema de drenaje eficaz y con capacidad adecuada para evacuar el agua de lavado y los desperdicios de la pesca.
+
+2\. Todas las aberturas necesarias a las operaciones de pesca deberán disponer de los medios necesarios para que una persona pueda cerrarlos de manera rápida y eficaz. Los medios de cierre deberán ser, al menos, dos y estar situados en lugares diferentes.
+
+3\. En el momento de subir las capturas a dichas cubiertas para su manipulación o acondicionamiento, deberán colocarse en un depósito. Dichos depósitos deberán ajustarse a los requisitos de la regla II del capítulo III. Deberá instalarse un sistema de drenaje eficaz. Deberá preverse una protección adecuada contra la entrada involuntaria de agua en la cubierta de trabajo.
+
+4\. Dichas cubiertas dispondrán al menos de dos salidas, situadas en ambos extremos de las mismas y en bandas opuestas.
+
+5\. La altura libre para estar de pie en el espacio de trabajo no deberá ser inferior a 2 metros en cualquier punto.
+
+6\. Se dispondrá de un sistema fijo de ventilación que permita al menos seis cambios de aire por hora.
+
+Regla 17: marcas de calados.
+
+1\. Todos los buques dispondrán de marcas de calados expresadas en decímetros en ambos lados de la roda y de la popa.
+
+2\. Dichas marcas estarán situadas lo más cerca posible de las perpendiculares.
+
+Regla 18: tanques para la conservación del pescado en agua de mar refrigerado o helada.
+
+1\. En caso de utilizar tanques de agua de mar refrigerada o helada o de otros sistemas de tanques similares, dichos tanques dispondrán de un mecanismo instalado permanentemente para el llenado y vaciado del agua de mar.
+
+2\. Si dichos tanques también se utilizan para transportar carga seca, irán provistos de un sistema de achique y de los medios adecuados para evitar que el agua del sistema de achique pueda penetrar en el tanque.
+
+## CAPÍTULO III — Estabilidad y estado correspondiente de navegabilidad
+
+Regla 9: experiencia de estabilidad.
+
+Se añadirá el apartado siguiente:
+
+«4. La experiencia de estabilidad y la comprobación de las condiciones requeridas en el apartado 1 de la regla 9 del capítulo III se efectuarán al menos cada diez años.»
+
+## CAPÍTULO IV — Instalaciones de máquinas, instalaciones eléctricas y espacios de máquinas sin dotación permanente
+
+Regla 13: aparato de gobierno.
+
+Al apartado 10 se añadirá el siguiente texto:
+
+«Si dicha fuente de energía es eléctrica, la fuente de energía eléctrica de emergencia permitirá que los medios auxiliares activen el timón durante un período no inferior a 10 minutos.»
+
+Regla 16: fuente de energía eléctrica principal.
+
+Se añadirá el apartado siguiente:
+
+«3. Si las luces de navegación son exclusivamente eléctricas, se accionarán mediante un tablero de distribución propio separado y se dispondrá de los medios adecuados –acústicos y visuales–, para el control de dichas luces.»
+
+Regla 17: fuente de energía eléctrica de emergencia.
+
+Sin perjuicio de lo dispuesto en el apartado 2, para buques de eslora igual o superior a 45 metros la fuente de energía eléctrica de emergencia permitirá que las instalaciones enumeradas en dicha regla funcionen durante un período no inferir a 8 horas.
+
+## CAPÍTULO V — Prevención, detección y extinción de incendios y equipo contra incendios
+
+Regla 22: dispositivos de extinción de incendios en los espacios de máquinas.
+
+Sin perjuicio de lo dispuesto en la presente regla, todos los espacios de máquinas de la categoría A dispondrán de un equipo contra incendios fijo.
+
+Regla 40: dispositivos de extinción de incendios en los espacios de máquinas.
+
+Sin perjuicio de lo dispuesto en la presente regla, todos los espacios de máquinas de la categoría A dispondrán de un equipo contra incendios fijo.
+
+## ANEXO V — Modelos de certificado de conformidad, certificado de exención e inventario del equipo.
+
+MINISTERIO DE FOMENTO
+
+Secretaría de Estado de Infraestructuras y Transportes
+
+Dirección General de la Marina Mercante
+
+Certificado de conformidad
+
+Conformity certificate
+
+El presente Certificado llevará como suplemento un Inventario del equipo.
+
+This Certificate should be supplemented by a Record of Equipment.
+
+Para buques de pesca nuevo/existente (1)
+
+For new/existing fishing vessel (1)
+
+Expedido con arreglo a lo dispuesto en el
+
+Issued under the provisions of the
+
+Real Decreto.
+
+En señal de la conformidad del buque citado a continuación con lo dispuesto en la Directiva 97/70/CE, del Consejo por la que se establece un régimen armonizado de seguridad para los buques de pesca de eslora (L) igual o superior a 24 metros.
+
+In basis of the conformity of the following said vessel under the provisions of the Council Directive 97/70/CE, which setting a harmonized safety Regimen for fishing vessels of 24 meters in length and over.
+
+Otorgado en virtud de la autoridad conferida por el Gobierno de ESPAÑA
+
+under the authority of the Government of
+
+por DIRECCIÓN GENERAL DE LA MARINA MERCANTE.
+
+by
+
+Datos del buque (particulars of ship):
+
+| Nombre del buque<br>Name of ship | Indicativo<br>de llamada<br>Distinctive number<br>or letters | Puerto de matrícula<br>Port of Registry | Eslora (L) (2)<br>Length (L) |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+Fecha del contrato de construcción o de transformación importante (3).
+
+Date of building or major conversion contract.
+
+Fecha en que se colocó la quilla del buque o en que la construcción de éste se hallaba en una fase equivalente, de conformidad con lo prescrito en la Regla I/2 1) c) ii) o 11) c) iii) (3).
+
+Date on which keel was laid or vessel was at a similar stage of construction in accordance with Regulation I/2 (1) (c) (ii) or (1) (c) (iii).
+
+Fecha de entrega o en que concluyó la transformación importante (3).
+
+Date of delivery or completion of major conversion.
+
+(1) Táchese lo que no proceda.
+
+Delete as appropriate.
+
+(2) Según se define en el artículo 6.2.º de este Real Decreto.
+
+In accordance with the art. 6, 2.<sup>o</sup> of this R. D.
+
+(3) Según se define en el artículo 6.2.º de este Real Decreto.
+
+In accordance with the art. 6, 2.<sup>o</sup> of this R. D.
+
+Reconocimiento inicial.
+
+Initial survey.
+
+SE CERTIFICA que:
+
+THIS IS TO CERTIFY that:
+
+1 El buque ha sido sometido a reconocimiento conforme a lo dispuesto en la regla I/6(a) del Protocolo de Torremolinos de 1993.
+
+The vessel has been surveyed in accordance with the regulation I/6(a) of the 1993 Torremolinos Protocol.
+
+2 El reconocimiento ha demostrado que:
+
+The survey sowed that
+
+1) El buque cumple íntegramente con lo prescrito en la Directiva 97/70/CE, del Consejo:
+
+The vessel complies in all respects satisfactory with the Directive 97/70/CE.
+
+2) El calado máximo de servicio admisible correspondiente a cada una de las condiciones operacionales de este buque está indicado en el cuadernillo de estabilidad aprobado con fecha
+
+The maximun permissible operating draught associated with each operating condition for the vessel is contained in the approved stability booklet dated.
+
+2 Se ha expedido/no se ha expedido (1) un certificado de exención.
+
+That an exemption certificate has/has not been issued.
+
+El presente certificado es válido hasta el día..............................................................., a reserva de que se efectúen los reconocimientos de conformidad con lo dispuesto en los incisos de la regla I/6 (1) b) ii) iii) y c).
+
+This certificate is valid until..................................................................................., subject to surveys in accordance with regulation I/6 (1) b) ii) iii) and c).
+
+Expedido en: ..................................................................................................................
+
+Issued at.........................................................................................................................
+
+(Lugar y fecha de emisión del certificado/Place and date of issue of certificate)
+
+Firma del funcionario autorizado para expedir el certificado.
+
+(Signature of authorized official issuing the certificate.)
+
+Sello o estampilla, según corresponda, de la autoridad expedidora.
+
+(Seal or stamp of the issuing authority, as appropriate.)
+
+El abajo firmante declara que está debidamente autorizado para expedir el presente certificado.
+
+The undersigned declares that he is duly authorized by the said Government to issue this certificate.
+
+REFRENDO PARA PRORROGAR LA VALIDEZ DEL CERTIFICADO POR UN PERÍODO DE GRACIA CUANDO SEA APLICABLE EL APARTADO DE LA REGLA I/11 (1)
+
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE FOR A PERIOD OF GRACE WHERE REGULATION I/11 (1) APPLIES
+
+El presente certificado se aceptará como válido, de conformidad con lo prescrito en la regla I/11 (1), hasta
+
+This certificate shall, in accordance with regulation I/11 (1), be accepted as valid until
+
+Firmado...........................................................................................................................
+
+Signed: (firma del funcionario autorizado) (signature of authorized official)
+
+Lugar y fecha: .................................................................................................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+REFRENDO PARA PRORROGAR LA VALIDEZ DEL CERTIFICADO HASTA LA LLEGADA A PUERTO EN QUE HA DE HACERSE EL RECONOCIMIENTO, O POR UN PERÍODO DE GRACIA, CUANDO SEAN APLICABLES LA REGLA I/11 (2) O REGLA 1/11 (4)
+
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE REGULATION I/11 (2) OR REGULATION 1/11 (4) APPLIES
+
+El presente certificado se aceptará como válido, de conformidad con lo prescrito en la regla I/11 (2)/regla 1/11 (4) (1)<sup>1</sup> .
+
+This certificate shall, in accordance with regulation I/11 (2)/regulation 1/11 (4)<sup>1</sup> , be accepted as valid until
+
+Firmado ..........................................................................................................................
+
+Signed: (firma del funcionario autorizado) (signature of authorized official)
+
+Lugar y fecha:..................................................................................................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+(1) Táchese lo que no corresponda.
+
+Delete as appropriate.
+
+REFRENDO DE LOS RECONOCIMIENTOS PERIÓDICOS
+
+ENDORSEMENT FOR PERIODICAL SURVEYS
+
+Reconocimiento del equipo.
+
+Equipment survey.
+
+SE CERTIFICA que, en el reconocimiento efectuado de conformidad en la regla I/6 (1) b) ii), se ha comprobado que el buque cumple con las prescripciones pertinentes.
+
+THIS IS TO CERTIFY that, at a survey, requered by regulation I/6 (1) (b) (ii), the vessel was found to comply with the relevant requirements.
+
+Firmado....................................................
+
+Signed: (firma del funcionario autorizado)
+
+(signature of authorized official)
+
+Lugar y fecha:.............................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+Reconocimiento del equipo radioeléctrico.
+
+SE CERTIFICA que, en el reconocimiento efectuado de conformidad en la regla I/6 (1) b) (iii), se ha comprobado que el buque cumple con las prescripciones pertinentes.
+
+THIS IS TO CERTIFY that, at a survey required by regulation I/6 (1) (b) (iii), the vessel was found to comply with the relevant requirements.
+
+Primer reconocimiento periódico del equipo radioeléctrico.
+
+First periodical radio survey.
+
+Firmado ..........................................................................................................................
+
+Signed: (firma del funcionario autorizado)
+
+(signature of authorized official)
+
+Lugar y fecha: .................................................................................................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+Segundo reconocimiento periódico del equipo radioeléctrico.
+
+Second periodical radio survey.
+
+Firmado...........................................................................................................................
+
+Signed: (firma del funcionario autorizado) (signature of authorized official)
+
+Lugar y fecha: .................................................................................................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+Tercer reconocimiento periódico del equipo radioeléctrico.
+
+Third periodical radio survey.
+
+Firmado...........................................................................................................................
+
+Signed: (firma del funcionario autorizado)
+
+(signature of authorized official)
+
+Lugar y fecha: .................................................................................................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+REFRENDO DEL RECONOCIMIENTO INTERMEDIO
+
+ENDORSEMENT FOR INTERMEDIATE SURVEY
+
+SE CERTIFICA que, en el reconocimiento efectuado de conformidad en la regla I/6 (1) (c), se ha comprobado que el buque cumple con las prescripciones pertinentes.
+
+THIS IS TO CERTIFY that, at a survey required by regulation I/6 (1) (c), the vessel was found to comply with the relevant requirements.
+
+Firmado ..........................................................................................................................
+
+Signed: (firma del funcionario autorizado)
+
+(signature of authorized official)
+
+Lugar y fecha: .................................................................................................................
+
+(Place and date)
+
+(Sello o estampilla de la autoridad)
+
+(Seal or stamp of authority, as appropriate)
+
+MINISTERIO DE FOMENTO
+
+Secretaría de Estado de Infraestructuras y Transportes
+
+Dirección General de la Marina Mercante
+
+Certificado de exención
+
+Exemption certificate
+
+Para buques de pesca nuevo/existente (1)
+
+For new/existing fishing vessel (1)
+
+Expedido con arreglo a lo dispuesto en el
+
+Issued under the provisions of the
+
+Real Decreto
+
+En señal de la conformidad del buque citado a continuación con lo dispuesto en la Directiva 97/70/CE, del Consejo, por la que se establece un régimen armonizado de seguridad para los buques de pesca de eslora (L) igual o superior a 24 metros.
+
+In basis of the conformity of the following said vessel under the provisions of the Council Directive 97/70/CE, which setting a harmonized safety regimen for fishing vessels of 24 meters in length and over.
+
+Otorgado en virtud de la autoridad conferida por el Gobierno de ESPAÑA
+
+Under the authority of the Government of
+
+por DIRECCIÓN GENERAL DE LA MARINA MERCANTE.
+
+by
+
+| Nombre del buque<br>Name of ship | Indicativo<br>de llamada<br>Distinctive number<br>or letters | Puerto de matrícula<br>Port of Registry | Eslora (L) (2)<br>Length (L) |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+(1) Táchese lo que no proceda.
+
+Delete as appropriate.
+
+(2) Según se define en el artículo 6.2.º de este Real Decreto.
+
+In accordance with the art. 6, 2.º of this R. D.
+
+SE CERTIFICA que:
+
+THIS IS TO CERTIFY that:
+
+Por aplicación de lo prescrito en la regla .......................................................................el buque queda exento de las prescripciones relativas.........................................................
+
+That the vessel is, under the authority conferred by Regulation/exempted from the requirements.
+
+Condiciones si las hubiere, en que se otorga el certificado de exención:
+
+Conditions, if any, on which the exemption certificate is granted.
+
+El presente certificado es válido hasta el día ..................., a reserva de que el certificado de conformidad al que se adjunta el presente certificado siga siendo válido.
+
+this certificate is valid until ........................................................, subject to the conformity certificate, to which this certificate is attached, remaining valid.
+
+Expedido en: ..................................................................................................................
+
+Issued at (Lugar y fecha de emisión del certificado/Place and date of issue of certificate)
+
+Firma del funcionario autorizado para expedir el certificado.
+
+(Signature of authorized official issuing the certificate.)
+
+Sello o estampilla, según corresponda, de la autoridad expedidora.
+
+(Seal or stamp of the issuing authority, as appropriate.)
+
+El abajo firmante declara que está debidamente autorizado para expedir el presente certificado.
+
+(The undersigned declares that he is duly authorized by the said Government to issue this certificate.)
+
+REFRENDO PARA PRORROGAR LA VALIDEZ DEL CERTIFICADO POR UN PERÍODO DE GRACIA CUANDO SEA APLICABLE EL APARTADO DE LA REGLA I/11 (1).
+
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE FOR A PERIOD OF GRACE WHERE REGULATION I/11 (1) APPLIES.
+
+El presente certificado se aceptará como válido, de conformidad con lo prescrito en la Regla I/11 (1), hasta
+
+This certificate shall, in accordance with Regulation I/11 (1), be accepted as valid until
+
+<table>
+<tr>
+<td>
+<p>Firmado:</p>
+</td>
+<td rowspan="2">
+<p>......................................................................................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Signed:</p>
+</td>
+</tr>
+</table>
+
+(Firma del funcionario autorizado)/
+
+(Signature of authorized official)
+
+<table>
+<tr>
+<td>
+<p>Lugar y fecha:</p>
+</td>
+<td rowspan="2">
+<p>............................................................................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Place and date:</p>
+</td>
+</tr>
+</table>
+
+(Sello o estampilla de la autoridad.)
+
+(Seal or stamp of authority, as appropriate.)
+
+REFRENDO PARA PRORROGAR LA VALIDEZ DEL CERTIFICADO HASTA LA LLEGADA A PUERTO EN QUE HA DE HACERSE EL RECONOCIMIENTO, O POR UN PERÍODO DE GRACIA, CUANDO SEAN APLICABLES LA REGLA I/11 (2) O REGLA 1/11 (4).
+
+ENDORSEMENT TO EXTEND THE VALIDITY OF THE CERTIFICATE UNTIL REACHING THE PORT OF SURVEY OR FOR A PERIOD OF GRACE WHERE REGULATION I/11 (2) OR REGULATION 1/11 (4) APPLIES.
+
+El presente certificado se aceptará como válido, de conformidad con lo prescrito en la regla I/11 (2)/regla I/11 (1)<sup>1</sup> .
+
+This certificate shall, in accordance with regulation I/11 (2)/regulation I/11 (4)<sup>1</sup> , be accepted as valid until
+
+<table>
+<tr>
+<td>
+<p>Firmado:</p>
+</td>
+<td rowspan="2">
+<p>.........................................................................................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Signed:</p>
+</td>
+</tr>
+</table>
+
+(Firma del funcionario autorizado)
+
+(Signature of authorized official)
+
+<table>
+<tr>
+<td>
+<p>Lugar y fecha:</p>
+</td>
+<td rowspan="2">
+<p>............................................................................................................</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Place and date:</p>
+</td>
+</tr>
+</table>
+
+(Sello o estampilla de la autoridad.)
+
+(Seal or stamp of authority, as appropriate.)
+
+(1) Táchese lo que no corresponda/Delete as appropriate.
+
+MINISTERIO DE FOMENTO
+
+Secretaría de Estado de Infraestructuras y Transportes
+
+Dirección General de la Marina Mercante
+
+Inventario del equipo adjunto al certificado de conformidad
+
+Record of equipment for the conformity certificate
+
+El presente Inventario irá siempre unido al Certificado de Conformidad.
+
+This Record shall be permanently attached to the Conformity Certificate.
+
+INVENTARIO DEL EQUIPO NECESARIO PARA CUMPLIR CON LA DIRECTIVA 97/70/CE DEL CONSEJO POR LA QUE SE ESTABLECE UN RÉGIMEN ARMONIZADO DE SEGURIDAD PARA LOS BUQUES DE PESCA DE ESLORA IGUAL O SUPERIOR A 24 METROS.
+
+RECORD OF EQUIPMENT FOR COMPLIANCE WITH THE PROVISIONS OF THE COUNCIL DIRECTIVE 97/70/CE WHICH SETTING A HARMONIZED SAFETY FOR FISHING VESSELS OF 24 METERS AND OVER.
+
+Datos del buque (particulars of ship):
+
+| Nombre del buque<br>Name of ship | Indicativo<br>de llamada<br>Distinctive number<br>or letters | Puerto de matrícula<br>Port of Registry | Eslora (L)(1)<br>Length (L) |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+(1) Según se define en el art. 2.6.º de este Real Decreto.
+
+In accordance with the art. 2, 6.º of the Real Decreto.
+
+2\. PORMENORES RELATIVOS A LOS DISPOSITIVOS DE SALVAMENTO/DETAILS OF LIFE-SAVING APPLIANCES
+
+| Elemento/Item | Número de elementos/Actual provisions |
+|---|---|
+| 1. Número total de personas para las que se ha provisto dispositivos de salvamento.<br>(Total number of persons for which life-saving appliances are provided.) |  |
+
+<table>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>A babor</p>
+<p>Port</p>
+</td>
+<td>
+<p>A estribor</p>
+<p>Starboard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2. Número total de botes salvavidas.</p>
+<p>Total number of lifeboats.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2.1 Número total de personas a las que se puede dar cabida.</p>
+<p>Total number of persons accommodated by them.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2.2 Número de botes salvavidas parcialmente cerrados (Regla VII/18).</p>
+<p>Number of partially enclosed lifeboats (Regulation VII/18).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2.3 Número de botes salvavidas totalmente cerrados (Regla VII/19).</p>
+<p>Number of totally enclosed lifeboats (Regulation VII/19).</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>3. Número de botes de rescate.</p>
+<p>Number of rescue boats.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>3.1 Número de botes comprendidos en el total de botes salvavidas que se acaba de indicar.</p>
+<p>Number of boats which are included in the total lifeboats shown above.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4. Balsas salvavidas.</p>
+<p>Liferafts.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4.1 Balsas salvavidas para las que se necesitan dispositivos aprobados de puesta a flote.</p>
+<p>Liferafts for which suitable means of launching are provided.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4.1.1 Número de balsas salvavidas.</p>
+<p>  Number of liferafts.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4.1.2 Número de personas a las que se puede dar cabida.</p>
+<p>  Number of persons accommodated by them.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4.2 Balsas salvavidas para las que no se necesitan dispositivos aprobados de puesta a flote.</p>
+<p>Liferafts for which not suitable means of launching are provided.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4.2.1 Número de balsas salvavidas.</p>
+<p>   Number of liferafts.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4.2.2 Número de personas a las que se puede dar cabida.</p>
+<p>  Number of persons accommodated by them.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>5. Número de aros salvavidas.</p>
+<p>Number of lifebuoys.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>6. Número de chalecos salvavidas.</p>
+<p>Number of lifejackets.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>7. Trajes de inmersión.</p>
+<p>Inmersion suits.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>7.1 Número total.</p>
+<p>Total number.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>7.2 Número de trajes que cumplen las prescripciones aplicables a los chalecos salvavidas.</p>
+<p>Number of suits complying with the requirements for lifejacktets.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>8. Número de trajes de protección a la intemperie (1).</p>
+<p>Number of anti-exposure suits.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>9. Instalaciones radioeléctricas utilizadas en los dispositivos de salvamento.</p>
+<p>Radio installations used in life-saving appliances.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>9.1 Número de respondedores de radar.</p>
+<p>Number of radar transponders.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>9.2 Número de aparatos radiotelefónicos bidireccionales de ondas métricas.</p>
+<p>Number of two-way VHF radiotelephone apparatus.</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>(1) Excluidas las prescritas en la Regla VII/17 (8)(xxxi) y en la Regla VII/20 (5)(a)(xxiv).</p>
+<p>  Excluding those required by Regulation VII/17 (8)(xxxi) and Regulation VII/20 (5)(xxiv).</p>
+</td>
+</tr>
+</table>
+
+3\. PORMENORES DE LAS INSTALACIONES RADIOELÉCTRICAS/DETAILS OF RADIO FACILITIES
+
+<table>
+<tr>
+<td>
+<p>Elemento/Item</p>
+</td>
+<td>
+<p>Número a bordo/ Actual provisions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Sistemas primarios.</p>
+<p>Primary systems.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1 Instalación radioeléctrica de ondas métricas.</p>
+<p>VHF radio installation.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.1 Codificador de LSD.</p>
+<p>   DSC encoder.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.2 Receptor de escucha de LSD.</p>
+<p> DSC watch receiver.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3 Radiotelefonía.</p>
+<p>  Radiotelephony.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2 Instalación radioeléctrica de ondas hectométricas.</p>
+<p>MF radio installation.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.1 Codificador de LSD.</p>
+<p>  DSC encoder.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.2.2 Receptor de escucha de LSD.</p>
+<p>   DSC watch receiver.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.1.3 Radiotelefonía.</p>
+<p>  Radiotelephony.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3 Instalación radioeléctrica de ondas hectométricas/decamétricas.</p>
+<p>MF/HF radio installation.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.1 Codificador de LSD.</p>
+<p>  DSC encoder.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.2 Receptor de escucha de LSD.</p>
+<p>  DSC wathc receiver.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.3 Radiotelefonía.</p>
+<p> Radiotelephony.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.3.4 Radiotelegrafía de impresión directa.</p>
+<p>   Direct-printing radiotelegraphy.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.4 Estación terrena de buque de INMARSAT.</p>
+<p>Inmarsat ship earth station.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Medios secundarios para emitir la alerta.</p>
+<p>Secondary means of alerting.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Instalaciones para la recepción de información sobre seguridad marítima.</p>
+<p>Facilities for reception of maritime safety information.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.1 Receptor NAVTEX.</p>
+<p>NAVTEX receiver.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.2 Receptor de LIG.</p>
+<p>EGC receiver.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.3 Receptor radiotelegráfico de impresión directa de ondas decamétricas.</p>
+<p>HF direct-printing radiotelegraph receiver.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. RLS por satélite.</p>
+<p>Satellite EPIRB.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.1 COSPAS-SARSAT.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.2 INMARSAT.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. RLS de ondas métricas.</p>
+<p>VHF EPIRB.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Respondedor de radar del buque.</p>
+<p>Ship’s radar transporder.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Receptor de escucha para la frecuencia radiotelefónica de socorro de 2182 kHz <sup>1</sup> .</p>
+<p>Radiotelephone distress frequency watch receiver on 2182 kHz.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8. Dispositivos para generar la señal radiotelefónica de alarma de 2182 kHz <sup>2</sup>.</p>
+<p>Device for generating the radiotelephone alarm signal on 2182 kHz.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><sup>1</sup> A menos que el Comité de Seguridad Marítima determine otra fecha, no será necesario anotar este equipo en el inventario unido a los certificados expedidos después del 1 de febrero de 1999.</p>
+<p>Unless another date is determined by the Maritime Safety Committee, this item need not be reproduced on the record attached to certificates issued after 1 February 1999.</p>
+<p><sup>2</sup> No será necesario anotar este equipo en el inventario unido a los certificados expedidos después de 1 de febrero de 1999.</p>
+<p>This item need not be reproduced on the record attached to certificates issued after 1 February 1999.</p>
+</td>
+</tr>
+</table>

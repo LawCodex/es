@@ -1,0 +1,227 @@
+---
+title: "Orden APU/203/2004, de 29 de enero, por la que se crea un Registro Telemático en el Ministerio de Administraciones Públicas para la presentación de escritos y solicitudes y se establecen los criterios generales de tramitación telemática de determinados procedimientos"
+identifier: "BOE-A-2004-2315"
+eli: "https://www.boe.es/eli/es/o/2004/01/29/apu203"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 2004-01-29
+published: 2004-02-07
+in_force_from: 2004-02-08
+last_amended: 2011-12-01
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-2315"
+retrieved: 2026-10-11
+---
+
+# Orden APU/203/2004, de 29 de enero, por la que se crea un Registro Telemático en el Ministerio de Administraciones Públicas para la presentación de escritos y solicitudes y se establecen los criterios generales de tramitación telemática de determinados procedimientos
+
+El artículo 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, insta a las Administraciones Públicas a que promuevan la incorporación de técnicas electrónicas, informáticas y telemáticas en el desarrollo de su actividad y el ejercicio de sus competencias.
+
+Esta tarea de promoción ha recibido un nuevo impulso legislativo con la reforma operada por la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social, cuyo artículo 68, ha modificado, de una parte, el artículo 38 de la Ley 30/1992, de 26 de noviembre, para habilitar la creación de registros telemáticos que faciliten e impulsen las comunicaciones entre las Administraciones Públicas y los ciudadanos y, de otra, el artículo 59 de esa misma Ley, a fin de proporcionar la necesaria cobertura legal al régimen jurídico regulador de las notificaciones practicadas por medios telemáticos.
+
+El Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado, aborda el desarrollo del artículo 45 de la citada Ley 30/1992, con la pretensión de delimitar en el ámbito de la Administración General del Estado las garantías, requisitos y supuestos de utilización de las técnicas electrónicas, informáticas y telemáticas.
+
+Por otro lado, el Real Decreto 772/1999, de 7 de mayo, regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y la devolución de originales y el régimen y funcionamiento de las oficinas de Registro.
+
+En este contexto, la presentación por vía telemática de solicitudes, escritos y comunicaciones requiere la creación de un Registro Telemático que se ocupe de la recepción y remisión de los mismos.
+
+Por su parte, el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos, incorpora al Real Decreto 263/1996, de 16 de febrero, un Capítulo IV por el que se regulan las Notificaciones Telemáticas, y un Capítulo V por el que se regulan los Certificados telemáticos y transmisiones de datos. Además incorpora un Capítulo VI al Real Decreto 772/1999, de 7 de mayo, por el que se regulan los registros telemáticos y establece el contenido mínimo que deben contener las disposiciones de creación de los mismos.
+
+La presente Orden acomete la regulación de los criterios generales que deben inspirar la presentación telemática, con firma electrónica avanzada, de escritos, solicitudes y comunicaciones, la determinación de los procedimientos a los que resulta de aplicación así como la creación de un Registro Telemático encargado de la llevanza y recepción de dichos escritos y solicitudes, todo ello con sujeción a lo dispuesto en la Ley 59/2003, de 19 de diciembre, de Firma Electrónica, el artículo 45 de la Ley 30/1992 y los Reales Decretos 263/1996, 772/1999 y 209/2003.
+
+No obstante, para evitar que el avance de las tecnologías de la Sociedad de la Información y la incorporación paulatina de las técnicas electrónicas, informáticas y telemáticas a todos los campos de actuación de las Administraciones Públicas, deje obsoletas las previsiones iniciales contenidas en la presente Orden, se prevé una delegación a favor del Subsecretario del Departamento para incorporar estas técnicas a procedimientos, solicitudes y trámites que en la actualidad se tramitan de modo convencional.
+
+En consecuencia, dispongo:
+
+## Primero. Objeto y ámbito de aplicación.
+
+1\. La presente Orden tiene por objeto la determinación de las reglas y criterios que han de observarse para la presentación telemática de los escritos, solicitudes y comunicaciones que se presenten respecto de los procedimientos administrativos incluidos en los anexos I y II a la presente Orden, así como la creación y regulación del régimen de funcionamiento de los Registros telemáticos encargados de la llevanza y recepción de dichos escritos, comunicaciones y solicitudes.
+
+2\. En todo caso resultará de aplicación lo dispuesto en el Real Decreto 263/1996, de 16 de febrero, de utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado y en el Real Decreto 772/1999, de 7 de mayo, que regula presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devoluciones de originales y el régimen de las oficinas de registro, con las modificaciones establecidas por el Real Decreto 209/2003 y su desarrollo posterior contemplado en la Orden PRE/1551/2003.
+
+> Se modifica por el apartado 1 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## Segundo. Sistemas normalizados de solicitudes.
+
+**(Suprimido)**
+
+> Se suprime por el apartado 2 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## Tercero. Creación de un Registro Telemático en el Ministerio de Administraciones Públicas.
+
+1\. Se crea un Registro Telemático para la recepción y llevanza de los escritos, solicitudes y comunicaciones que se remitan y expidan por vía telemática en el ámbito de los procedimientos y actuaciones incluidas en los anexos I y II de la presente Orden. El Registro tendrá la consideración de Registro Telemático del Departamento, de acuerdo con lo previsto en los artículos 38 de la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y 12 y 14 a 18 del Real Decreto 772/1999, de 7 de mayo.
+
+2\. El Registro Telemático del Ministerio de Administraciones Públicas se estructura en dos Secciones:
+
+Sección Principal, encargada de la recepción de los escritos, solicitudes y comunicaciones relativas a los procedimientos y actuaciones incluidas en el anexo I de la presente Orden. Sección Auxiliar, encargada de la recepción de los escritos, solicitudes y comunicaciones relativas a los procedimientos y actuaciones de procesos selectivos convocados por el Ministerio de Administraciones Públicas y aquellos en que se encomiende su gestión al mismo por el órgano competente, conforme se establece en el anexo II de la presente Orden.
+
+3\. Los interesados en acceder al Registro Telemático del Ministerio de Administraciones Públicas deberán hacerlo a través de las direcciones electrónicas www.map.es o www.060.es. En dichas direcciones se encontrará una relación actualizada de las solicitudes, escritos y comunicaciones que pueden presentarse en el registro.
+
+4\. Sin perjuicio de los efectos sustantivos que el ordenamiento atribuye a la presentación de escritos, el Registro Telemático estará en funcionamiento durante las veinticuatro horas del día, todos los días del año.
+
+A los efectos del cómputo de plazos, la recepción en un día inhábil se entenderá efectuada el primer día hábil siguiente. El calendario de días inhábiles a efectos de este Registro Telemático será el que se determine en la Resolución de la Secretaria General para la Administración Pública, por la que se establece el calendario de días inhábiles a efectos de cómputos de plazos en la Administración General del Estado, en cumplimento del artículo 48.7 de la Ley 30/1992.
+
+5\. Cualquier solicitud, escrito y comunicación que el interesado presente ante el Registro Telemático del Ministerio de Administraciones Públicas no relacionado con los procedimientos y actuaciones a que se refiere el apartado Primero de la presente Orden, no producirá ningún efecto, y se tendrá por no presentada, comunicándose al interesado tal circunstancia, indicándole los registros y lugares que para su presentación habilita el artículo 38.4 de la Ley 30/1992, de 26 de noviembre.
+
+> Se modifica por el apartado 3 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## Cuarto. Condiciones generales para la presentación de escritos, solicitudes y comunicaciones.
+
+Para presentar solicitudes, escritos y comunicaciones en el registro telemático del Ministerio de Administraciones Públicas se utilizarán certificados electrónicos reconocidos. Los certificados electrónicos que se utilicen deberán ser certificados reconocidos que cumplan la recomendación UIT X.509 versión 3 o superiores (ISO/IEC 9594-8 de 1997) y estén incluidos en la Declaración de Certificados de la Plataforma de Validación del Ministerio de Administraciones Públicas. En todo caso, una relación actualizada de dichos certificados electrónicos estará disponible en las direcciones www.map.es y www.060.es. No podrán utilizarse certificados electrónicos caducados o revocados.
+
+> Se modifica por el apartado 4 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## Quinto. Delegación al Subsecretario del Ministerio de Administraciones Públicas.
+
+Se delega en la Subsecretaria del Departamento la competencia para incluir nuevos procedimientos, trámites y comunicaciones a los que será de aplicación lo dispuesto en la presente Orden. En todo caso, la admisión de nuevos procedimientos, trámites, preimpresos, solicitudes y modelos será difundida a través de las direcciones www.map.es y www.060.es
+
+> Se modifica por el apartado 5 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## Sexto. Seguridad.
+
+1\. La Subdirección General de Tecnologías de la Información y Comunicaciones del Ministerio de Administraciones Públicas será responsable de la seguridad de la Sección principal del Registro Telemático del Ministerio de Administraciones Públicas. La Subdirección General de Simplificación Administrativa y Programas de Atención al Ciudadano será responsable de la seguridad de la Sección auxiliar del Registro Telemático del Ministerio de Administraciones Públicas.
+
+En las direcciones www.map.es y www.060.es estará disponible para consulta un resumen de los protocolos de seguridad del registro.
+
+> Se modifica por el apartado 6 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## Séptimo. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de enero de 2004.
+
+GARCÍA-VALDECASAS SALGADO
+
+## ANEXO I — Procedimientos administrativos susceptibles de tramitación a través de la Sección principal del registro Telemático
+
+Responsabilidad patrimonial
+
+Reclamaciones de responsabilidad patrimonial cuya resolución competa al Ministerio de Administraciones Públicas.
+
+Revisión de actos en vía administrativa
+
+Solicitudes de revisión de oficio para cuya resolución resulte competente algún órgano del Ministerio de Administraciones Públicas.
+
+Reclamaciones previas
+
+Reclamaciones previas a la vía judicial civil cuya resolución competa al Ministerio de Administraciones Públicas.
+
+Presentación de candidaturas a los premios Tecnimap para Proyectos de Administración Electrónica
+
+Solicitudes de participación en las convocatorias de los Premios Tecnimap para Proyectos de Administración Electrónica.
+
+Liquidación de la tasa con código 055 ''Tasas Fitosanitarias''
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 052 «Tasa por reconocimientos, autorizaciones y concursos»
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 053 «Tasa por prestación de servicios y actividades en materia de seguridad privada»
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 054 «Tasa por servicios prestados por órganos del anterior Ministerio de Industria y Energía»
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Subvenciones de Planes de Formación Continua
+
+Solicitud, Adaptación, Modificación y Justificación de ayudas económicas para la gestión de Planes de Formación Continua.
+
+Liquidación de las tasas con código 057: Tasa por servicios sanitarios
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de las tasas con código 059: Tasa por expedición de títulos y diplomas académicos, docentes y profesionales
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de las tasas con código 061: Tasa por prestación de servicios y actuaciones por la administración en materia de ordenación de los transportes terrestres por carretera
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 062 «Tasa por expedición de permisos de trabajo y autorizaciones a ciudadanos extranjeros
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Procedimiento de solicitud y concesión de recursos del Fondo Estatal de Inversión Local para la financiación de proyectos de inversión generadores de empleo, regulado en el Título I del Real Decreto-ley 9/2008, de 28 de noviembre, por el que se crean un Fondo Estatal de Inversión Local y un Fondo Especial del Estado para la Dinamización de la Economía y el Empleo y se aprueban créditos extraordinarios para atender a su financiación.
+
+Procedimiento de presentación de solicitudes reguladas en el Real Decreto 170/2009, de 13 de febrero, sobre compensación al transporte marítimo y aéreo de mercancías incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias.
+
+Procedimiento de presentación de solicitudes reguladas en el Real Decreto 362/2009, de 20 de marzo, sobre compensación al transporte marítimo y aéreo de mercancías no incluidas en el anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias.
+
+Liquidación de la tasa con código 060: Tasa por Controles de Sanidad Exterior Realizados a Carnes y Productos de Origen Animal de Países no Comunitario.
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 058 «Tasa por Vacunación de Viajeros Internacionales.
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+Liquidación de la tasa con código 056, Tasa por Reconocimientos, Autorizaciones y Concursos.
+
+Este procedimiento comprenderá la liquidación de la mencionada tasa y la recepción de la declaración del pago efectuado.
+
+> Se amplía por el apartado 1 de la Resolución de 17 de noviembre de 2011. [Ref. BOE-A-2011-18904](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18904).
+
+> Se amplía por las Resoluciones de 27 de octubre de 2009 [Ref. BOE-A-2010-1903](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1903). y 23 de diciembre de 2009. [Ref. BOE-A-2010-1904](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1904).
+
+> Se amplía por el apartado 1 de la Resolución de 27 de marzo de 2009. [Ref. BOE-A-2009-5386](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5386).
+
+> Se amplía por el apartado 1 de la Resolución de 9 de diciembre de 2008. [Ref. BOE-A-2008-20062](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-20062).
+
+> Se amplía por el apartado 1 de las Resoluciones de 11 de septiembre de 2008. [Ref. BOE-A-2008-14975](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14975). y [Ref. BOE-A-2008-14976](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14976).
+
+> Se amplía por el apartado 1 de la Resolución de 21 de enero de 2008. [Ref. BOE-A-2008-1326](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-1326).
+
+> Se amplía por el apartado 1 de la Resolución 17 de diciembre de 2007. [Ref. BOE-A-2007-22517](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22517).
+
+> Se amplía por el apartado 1 de la Resolución de 9 de julio de 2007. [Ref. BOE-A-2007-14219](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14219).
+
+> Se modifica por el apartado 7 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+> Se amplía por el apartado 1 de la Resolución de 31 de enero de 2007. [Ref. BOE-A-2007-3017](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3017).
+
+> Se amplía por el apartado 1 de la Resolución de 21 de febrero de 2005. [Ref. BOE-A-2005-4096](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4096).
+
+> Se amplía por el apartado 1 de la Resolución de 26 de mayo de 2004. [Ref. BOE-A-2004-10955](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-10955).
+
+## ANEXO II — Procedimientos Administrativos susceptibles de tramitación a través de la Sección Auxiliar del registro Telemático
+
+Inscripción y pago de la correspondiente tasa en las convocatorias de procesos selectivos para el ingreso en Cuerpos o Escalas de personal funcionario o en plazas de personal laboral adscritos a la Administración General del Estado, cuya convocatoria sea competencia del Ministerio de Administraciones Públicas y cuyos formularios de inscripción figuren en la dirección electrónica de acceso al registro.
+
+Inscripción y pago de la correspondiente tasa en las convocatorias de procesos selectivos para el ingreso en Cuerpos o Escalas de personal funcionario o en plazas de personal laboral adscritos a la Administración General del Estado y sus organismos públicos vinculados o dependientes, cuyos formularios de inscripción figuren en la dirección electrónica de acceso al registro, para las que exista un Acuerdo de encomienda de gestión entre el órgano convocante y el Ministerio de Administraciones Públicas por el cual se encomiende a este último la gestión de la inscripción y pago por vía telemática.
+
+![Imagen: img/disp/2007/176/14219_001.png](https://www.boe.es/datos/imagenes/disp/2007/176/14219_001.png)
+
+![Imagen: img/disp/2007/176/14219_002.png](https://www.boe.es/datos/imagenes/disp/2007/176/14219_002.png)
+
+> Véase el apartado 2 de la Resolución de 17 de diciembre de 2007 [Ref. BOE-A-2007-22517](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22517) en lo referente a la inclusión de determinados trámites.
+
+> Se amplía por el apartado 2 y anexo de la Resolución de 9 de julio de 2007. [Ref. BOE-A-2007-14219](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14219).
+
+> Se modifica por el apartado 8 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+> Se amplía por el apartado 2 y anexo de la Resolución de 31 de enero de 2007. [Ref. BOE-A-2007-3017](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3017).
+
+> Se amplía por el apartado 2 y anexo de la Resolución de 21 de febrero de 2005. [Ref. BOE-A-2005-4096](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-4096).
+
+> Se amplía por el apartado 2 y anexo de la Resolución de 26 de mayo de 2004. [Ref. BOE-A-2004-10955](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-10955).
+
+## ANEXO III — Trámites y criterios específicos de utilización de técnicas telemáticas correspondientes a cada uno de los procedimientos administrativos
+
+**(Suprimido)**
+
+> Se suprime por el apartado 9 de la Orden APU/513/2007, de 1 de marzo. [Ref. BOE-A-2007-4943](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-4943).
+
+## ANEXO IV — Requisitos para la obtención e instalación de un certificado de usuario clase 2 CA emitido por la Fábrica de la Moneda y Timbre-Real Casa de la Moneda
+
+Para poder presentar determinadas solicitudes, escritos y comunicaciones, así como recursos y reclamaciones, por vía telemática, ante el Ministerio de Administraciones Públicas y sus organismos públicos, cuando el interesado desee utilizar el certificado emitido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, deberá proceder de acuerdo con las previsiones de la Fábrica Nacional de Moneda y Timbre que se recogen en su página web http://www.cert.fnmt.es/clase2/main.htm.

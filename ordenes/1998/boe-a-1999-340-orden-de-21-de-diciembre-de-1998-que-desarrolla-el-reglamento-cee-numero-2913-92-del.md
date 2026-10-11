@@ -1,0 +1,279 @@
+---
+title: "Orden de 21 de diciembre de 1998 que desarrolla el Reglamento (CEE) número 2913/92 del Consejo, de 12 de octubre de 1992, por el que se establece el Código Aduanero Comunitario, y el Reglamento (CEE) 2454/93 de la Comisión, del 2 de julio de 1993, por el que se fijan determinadas disposiciones de aplicación del Código Aduanero Comunitario, en lo relativo al procedimiento simplificado de domiciliación"
+identifier: "BOE-A-1999-340"
+eli: "https://www.boe.es/eli/es/o/1998/12/21/(4)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1998-12-21
+published: 1999-01-08
+in_force_from: 1999-01-09
+last_amended: 2021-01-13
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 7"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-340"
+retrieved: 2026-10-11
+---
+
+# Orden de 21 de diciembre de 1998 que desarrolla el Reglamento (CEE) número 2913/92 del Consejo, de 12 de octubre de 1992, por el que se establece el Código Aduanero Comunitario, y el Reglamento (CEE) 2454/93 de la Comisión, del 2 de julio de 1993, por el que se fijan determinadas disposiciones de aplicación del Código Aduanero Comunitario, en lo relativo al procedimiento simplificado de domiciliación
+
+El artículo 76, apartado 1.º , del Código Aduanero Comunitario [Reglamento (CEE) número 2913/92 del Consejo, de 12 de octubre de 1992, DO número L 302/92] prevé la utilización de procedimientos simplificados para la declaración de mercancía a efectos aduaneros. El procedimiento contenido en la letra c) del apartado 1.º del citado artículo, se refiere a la sustitución de la declaración normal escrita por la inscripción de la mercancía en los registros, permitiendo autorizar la no presentación de la mercancía en la Aduana.
+
+El apartado 3.º del artículo 253 del Reglamento de aplicación del Código [Reglamento (CEE) número 2454/93 de la Comisión, de 2 de julio de 1993, DO número L 253/93] en desarrollo del artículo anteriormente citado del Código Aduanero, establece como uno de los procedimientos de simplificación el de domiciliación por el que se «permitirá la inclusión de las mercancías en el régimen aduanero de que se trate en los locales del interesado o en otros lugares designados o autorizados por las autoridades aduaneras». En artículos siguientes y en función del régimen aduanero en el que se pretenda incluir la mercancía se crea el marco general en el que debe desenvolverse este procedimiento, estableciendo que es competencia de las autoridades aduaneras de cada Estado miembro su autorización y desarrollo último.
+
+La eficacia del procedimiento aconseja su desarrollo normativo en combinación con otras figuras establecidas en la normativa aduanera comunitaria que teniendo un desarrollo propio, deben ponerse también en relación con este procedimiento de domiciliación para permitir su adecuado funcionamiento y mejor comprensión por parte de los operadores económicos que puedan estar interesados.
+
+Este procedimiento es una manifestación del acercamiento de la administración tributaria al administrado, suponiendo para la misma un mayor coste en cuanto a recursos humanos y materiales que el que se produciría si los procedimientos administrativos se desarrollaran directamente en las Aduanas. Esta actuación parte de una relación de confianza entre las personas autorizadas y las Aduanas, lo cual justifica que se exijan unos volúmenes mínimos de operaciones de comercio exterior así como ciertas garantías financieras y procedimentales que avalen el cumplimiento de la normativa aduanera y tributaria sin menoscabo del interés público.
+
+El volumen de mercancías que circulan bajo el régimen de tránsito comunitario ha experimentado un considerable aumento desde la implantación del mercado único a partir del 1 de enero de 1993. Dicho aumento ha llevado consigo un incremento del riesgo de fraude que debe ser evitado. A fin de contribuir a este objetivo la comunicación por medios telemáticos de los datos relativos a las mercancías que circulan en tránsito constituye un elemento imprescindible a fin de obtener información en tiempo real de la situación de las mercancías que circulan amparadas en dicho régimen aduanero.
+
+En consecuencia, de conformidad con las atribuciones previstas en el artículo 12 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y la disposición final primera del Real Decreto 2718/1998, de 18 de diciembre, del Ministerio de Economía y Hacienda, y de acuerdo con el Consejo de Estado, he tenido a bien dictar lo siguiente:
+
+## Primero. Competencias.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+## Segundo. Modalidades del procedimiento simplificado de domiciliación.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+## Tercero. Requisitos para acogerse al procedimiento simplificado de domiciliación.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+> Se modifica el apartado A.a) por el apartado 1 de la Orden EHA/2376/2004, de 8 de julio. [Ref. BOE-A-2004-13371](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-13371).
+
+## Cuarto. Requisitos del sistema informático.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+## Quinto. Comunicación con la Aduana.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+> Se modifica por el apartado 2 de la Orden EHA/2376/2004, de 8 de julio. [Ref. BOE-A-2004-13371](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-13371).
+
+## Sexto. Contenido de la solicitud.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+## Séptimo. Autorización.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+> Se reordenan los apartados B.d) a g) como B.c) a f) por el apartado 3 de la Orden EHA/2376/2004, de 8 de julio. [Ref. BOE-A-2004-13371](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-13371).
+
+## Octavo. Ampliación y modificaciones de la autorización de domiciliación.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+## Noveno. Suspensión o revocación de la autorización.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.3 de la Orden PCM/3/2021, de 11 de enero. [Ref. BOE-A-2021-461](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-461)
+
+## Décimo. Procedimiento a la introducción de la mercancía en las instalaciones.
+
+1\. Recepción de la mercancía, comunicación y descarga.
+
+1.1 A la recepción de la mercancía y de la documentación que ampare su circulación en los locales autorizados, el interesado deberá enviar el citado documento, mediante EDI, a la Aduana de control, dentro de un plazo que finalizará a más tardar el primer día hábil siguiente al de la recepción de la mercancía, sin perjuicio de que la descarga pueda realizarse de forma inmediata. Este aviso tendrá la consideración de la declaración sumaria prevista en el artículo 43 del Código Aduanero Comunitario.
+
+Asimismo deberá comunicar a la Aduana de control, mediante EDI, el resultado de la descarga, si es conforme o disconforme, y en este último caso, indicar las diferencias advertidas, la alteración en los precintos u otras irregularidades, de acuerdo con lo previsto en el artículo 408 del Reglamento (CEE) n.o 2454/93, de la Comisión, de 2 de julio de 1993, que fija determinadas disposiciones para la aplicación del Código Aduanero Comunitario.
+
+1.2 El procedimiento previsto en el punto anterior podrá ser sustituido por la solicitud de cambio de ubicación cuando se den las condiciones previstas para su utilización en la norma que lo regula.
+
+1.3 En el supuesto de llegada directa de la mercancía por vía marítima, el aviso de llegada lo constituirá la declaración sumaria para el tráfico marítimo prevista en la Orden de 27 de julio de 1995 («Boletín Oficial del Estado» de 3 de agosto).
+
+1.4 La Aduana responderá, también vía EDI, con uno de los siguientes mensajes:
+
+a) Rechazo por error en la transmisión, con descripción del error encontrado.
+
+b) Aceptación del mensaje y aviso de que va a procederse al reconocimiento de la mercancía antes de que reciba destino aduanero, es decir, que la mercancía debe permanecer en depósito temporal.
+
+c) Aceptación de disponibilidad de la mercancía.
+
+1.5 En el supuesto de mensaje del punto b) anterior, una vez reconocida la mercancía, el permiso de disponibilidad se dará directamente por el Interventor de aduanas en las instalaciones del interesado.
+
+1.6. Además del mensaje anterior, el interesado deberá:
+
+Registrar la mercancía en su sistema informático, en un plazo máximo de veinticuatro horas desde la llegada del medio de transporte, indicando la situación aduanera en que queda la mercancía:
+
+en depósito temporal, si no desea darle destino aduanero de forma inmediata;
+
+despacho a libre práctica y a consumo, o
+
+inclusión en régimen de depósito aduanero o en otro régimen aduanero económico.
+
+1.7 Los documentos de tránsito deberán enviarse a la Aduana de control con la periodicidad que ésta determine, que en ningún caso podrá superar la semana desde la recepción de la mercancía, se hayan detectado o no irregularidades, salvo que por la legislación específica sobre la materia de tránsito se tengan establecidos plazos inferiores.
+
+2\. Mercancía en depósito temporal:
+
+2.1 Podrá permanecer en esta situación durante el plazo previsto en la normativa aduanera.
+
+2.2 A efectos del cómputo de este plazo se partirá de la fecha de la declaración sumaria. Si ésta hubiera sido enviada con posterioridad al plazo señalado en el apartado 1.1, el plazo previsto en el párrafo anterior empezará a computarse desde la llegada real del medio de transporte.
+
+3\. Inclusión de la mercancía en un régimen aduanero:
+
+3.1 Indicaciones generales.-Desde la llegada de la mercancía a las instalaciones autorizadas, o encontrándose en la situación de depósito temporal o vinculada a cualquier régimen aduanero económico, dicha mercancía podrá ser incluida en otro régimen aduanero en las condiciones siguientes:
+
+a) Realizar la inscripción contable de la mercancía en el régimen aduanero de que se trate (previsto en la autorización de domiciliación) indicando la fecha de inclusión en el mismo.
+
+b) Esta inscripción implicará el que el interesado ponga a disposición de las autoridades aduaneras todos los documentos de cuya presentación dependa, en su caso, la aplicación de las disposiciones que regulen dicho régimen aduanero (artículos 266, 273 y 276 del Reglamento CEE 2454/93).
+
+La disposición de la mercancía sin cumplir lo previsto en los punto a) o b) dará lugar al nacimiento de la deuda aduanera de acuerdo con lo previsto en el artículo 204 del Código Aduanero. Si no pudiera determinarse la fecha del incumplimiento de dichas obligaciones a plena satisfacción de las autoridades aduaneras, se considerará como tal la fecha de la recepción de la mercancía.
+
+3.2 Indicaciones referentes al despacho a libre práctica y a consumo de la mercancía:
+
+a) Salvo lo indicado en el último párrafo del punto 3.1 anterior, la fecha de inscripción del despacho a consumo tendrá la consideración de fecha de admisión y, por tanto, supondrá el nacimiento de la deuda aduanera.
+
+b) Deberán incluirse en la inscripción de la mercancía los datos necesarios para el cálculo de los derechos.
+
+c) Asimismo, dicha fecha será la fecha de levante a partir de la cual la persona podrá disponer libremente de la mercancía.
+
+d) El interesado debe estar en posesión de todos los documentos y autorizaciones preceptivos para el despacho.
+
+e) En el supuesto de acogerse a algún contingente arancelario, deberá solicitarse a la Aduana de control a partir del momento en que se haya realizado la inscripción contable.
+
+3.3 Indicaciones referentes a la inclusión en un régimen económico aduanero:
+
+a) Salvo lo indicado en el último párrafo del punto 3.1 anterior, la fecha de inscripción tendrá la consideración de fecha de admisión y vinculación al régimen de que se trate.
+
+b) El incumplimiento en la fecha de inscripción de alguno de los requisitos exigidos para beneficiarse de dicho régimen, implicará el nacimiento de la deuda aduanera en la citada fecha.
+
+4\. Declaración complementaria que deberá presentarse a la Aduana de control de las inclusiones en los diferentes regímenes, excepto tránsito y depósito aduanero:
+
+4.1 A más tardar, el quinto día del mes siguiente a aquel en que se haya dado destino aduanero a alguna de las mercancías anteriores o se produzca la ultimación de un régimen aduanero económico previo mediante despacho a consumo o inclusión en otro régimen aduanero económico excepto el del depósito aduanero, la persona transmitirá, vía EDI, los Documentos Únicos Administrativos (DUA) complementarios a las inscripciones efectuadas durante dicho mes de acuerdo con lo dispuesto en los capítulos 1 y 2 del título VII y anexos 37 y 38 del Reglamento CEE 2454/93 y normativa nacional que lo desarrolla.
+
+4.2 Se transmitirá un DUA por cada inscripción contable, o bien un DUA recapitulativo por aquellas operaciones con un mismo régimen aduanero, en que el proveedor, país de procedencia, divisa facturada y naturaleza de la transacción sean coincidentes.
+
+4.3 La Aduana emitirá un mensaje de respuesta con el contenido siguiente:
+
+Error en la transmisión, por lo que deberá ser corregido y nuevamente enviado.
+
+Aceptación del mensaje. En caso de discrepancia con la liquidación propuesta por el interesado, el mensaje de aceptación incluirá la liquidación de derechos practicada por la Aduana.
+
+4 bis. En los supuestos de vinculación de la mercancía a depósito aduanero, deberá comunicarse a la Aduana de control, mediante los mensajes EDI previstos para ello, la mercancía, detallada por número de declaración sumaria y partida, que ha recibido ese destino.
+
+5\. Liquidación de derechos e ingreso de la deuda tributaria:
+
+5.1 La Aduana, de forma automática, efectuará la liquidación de los derechos.
+
+5.2 El mensaje de respuesta de la Aduana de aceptación de la declaración complementaria tendrá la consideración de notificación de la liquidación de derechos calculada por ésta, tanto si existen como si no discrepancias con la propuesta por el interesado.
+
+5.3 Los plazos para el ingreso de la deuda serán los previstos en el punto 3, apartado b), del artículo 227 del Reglamento CEE 2913/92.
+
+> Se modifica el apartado 1 y se añade el apartado 4bis por el apartado 4 de la Orden EHA/2376/2004, de 8 de julio. [Ref. BOE-A-2004-13371](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-13371).
+
+## Undécimo. Procedimiento a la salida de la mercancía de las instalaciones.
+
+1\. Exportación de mercancía comunitaria o reexportación de mercancía vinculada al régimen de depósito aduanero que no circule amparada en documento de tránsito:
+
+1.1 Se presentará mediante EDI la declaración de exportación en la Aduana de control. La Aduana contestará con uno de los mensajes siguientes:
+
+a) Rechazo del mensaje por error en su contenido.
+
+b) Admisión de la declaración y
+
+-autorización de levante, o
+
+-aviso de que va a procederse al reconocimiento físico de la mercancía.
+
+1.2 La presentación de la declaración de exportación implicará el que la persona ponga a disposición de las autoridades aduaneras todos los documentos de cuya presentación dependa, en su caso, la aplicación de las disposiciones que regulen dicho destino aduanero.
+
+1.3 Autorizado el levante, bien mediante EDI o bien directamente del interventor, consignarán esta situación en el sistema informático, así como la fecha real de salida de la mercancía de sus almacenes.
+
+1.4 El ejemplar 3 del DUA, que deberá ser presentado junto con la mercancía en la Aduana de salida, será firmado y sellado por el Interventor cuando éste haya procedido al reconocimiento físico de la mercancía, o bien incluirá el número de autentificación/autorización de levante, cuando haya obtenido el levante automático.
+
+2\. Exportación/expedición de mercancía que circule amparada en documento de tránsito (Canarias, tránsito común, productos compensadores y otros):
+
+2.1 La persona deberá estar autorizado como expedidor a efectos de tránsitos.
+
+2.2 Se presentará vía EDI un DUA de exportación y tránsito en la Aduana de control. La Aduana contestará con uno de los mensajes siguientes:
+
+a) Rechazo del mensaje por error en su contenido.
+
+b) Admisión de la declaración y
+
+-autorización de levante, o
+
+-aviso de que va a procederse al reconocimiento físico de la mercancía.
+
+2.3 La presentación de la declaración de exportación implicará el que la persona ponga a disposición de las autoridades aduaneras todos los documentos de cuya presentación dependa, en su caso, la aplicación de las disposiciones que regulen dicho destino aduanero.
+
+2.4 Autorizado el levante, mediante EDI o directamente del interventor, consignarán esta situación en el sistema informático, así como la fecha real de salida de la mercancía de sus almacenes.
+
+2.5 En el supuesto de mercancía sujeta a gravámenes a la exportación, la Aduana de control practicará la correspondiente liquidación y contracción de derechos que notificará al interesado. A petición del interesado, la Aduana podrá realizar esta contracción con carácter mensual.
+
+2.6 Autorizada la salida del tránsito, el interesado imprimirá el documento de acompañamiento que amparará la circulación de la mercancía hasta la aduana de destino del tránsito.
+
+2.7 En el supuesto de que la mercancía deba ir acompañada de un documento de control T-5, éste debidamente cumplimentado por la persona será sellado con el sello especial de expedidor autorizado.
+
+2.8 La Aduana de control comunicará al expedidor autorizado, en su caso, las irregularidades e infracciones que se hubieran derivado de la operación de acuerdo con las comunicaciones de la Aduana de destino.
+
+3\. Inclusión en régimen de tránsito comunitario externo de la mercancía que se encuentre en almacén de depósito temporal o vinculada a régimen de depósito aduanero no incluida en el apartado anterior:
+
+3.1 La persona deberá estar autorizada como expedidor a efectos de tránsitos.
+
+3.2 Deberá transmitir, mediante EDI, los datos correspondientes al tránsito que expide. La Aduana responderá, también mediante EDI, con uno de los siguientes mensajes:
+
+a) Rechazo del mensaje por error en su contenido.
+
+b) Aceptación del mensaje y aviso de que se va a proceder al reconocimiento de la mercancía.
+
+c) Aceptación del mensaje y autorización de salida.
+
+3.3 El interesado procederá como se indica en el punto 2.6 del apartado anterior.
+
+3.4 La Aduana de control actuará como se reseña en el punto 2.8 del apartado anterior.
+
+Cualquier error detectado por la persona en la documentación expedida (tránsitos, T-5 o certificados de origen) deberá ser inmediatamente comunicada al Interventor para que tome las medidas oportunas.
+
+> Se modifica por el apartado 5 de la Orden EHA/2376/2004, de 8 de julio. [Ref. BOE-A-2004-13371](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-13371).
+
+## Duodécimo. Simplificación de las formalidades para casos excepcionales.
+
+A petición del interesado podrá autorizarse la simplificación del procedimiento previsto en los apartados anteriores, cuando el proceso productivo o las características específicas funcionales de la empresa así lo aconsejen y dicha simplificación esté contemplada en la normativa aduanera comunitaria, especialmente en los supuestos de no exigencia de aviso previo de llegada, globalización de gestión contable y despachos previos de exportación.
+
+## Décimotercero. Abandono y destrucción de la mercancía.
+
+Cuando la permanencia de la mercancía en las instalaciones de la persona supere el plazo previsto en el Código aduanero sin que haya recibido destino aduanero, se incurrirá en abandono a favor de la Hacienda Pública.
+
+En el supuesto de inutilización de la mercancía, la persona lo comunicará al Interventor con el fin de iniciar el correspondiente expediente de destrucción.
+
+## Disposición transitoria única.
+
+Las empresas que a la publicación de la presente Orden estén autorizadas conforme a los Reales Decretos 1192/1979, de 4 de abril; 2736/1983, de 29 de septiembre, y 242/1984, de 11 de enero, del Ministerio de Hacienda, por los que se regulan el despacho aduanero de mercancías en los recintos de los propios interesados, o conforme al Real Decreto 3434/1981, de 29 de diciembre, de la Presidencia del Gobierno, por el que se regula el régimen de empresas bajo intervención aduanera para fomentar las actividades exportadoras, deseen acogerse al procedimiento simplificado de domiciliación, deberán solicitarlo, especificando la modalidad o modalidades en las que están interesados y adjuntar a dicha solicitud, únicamente, la documentación e información que no estuviera ya incluida en las autorizaciones anteriores, así como declaración expresa de que continúan cumpliendo el resto de los requisitos.
+
+## Disposición final primera.
+
+El Departamento de Aduanas e Impuestos Especiales queda facultado para dictar las instrucciones que fuesen precisas para la aplicación de lo dispuesto en la presente Orden.
+
+## Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 21 de diciembre de 1998.
+
+DE RATO Y FIGAREDO
+
+Ilmo. Sr. Director de la Agencia Estatal de Administración Tributaria. Madrid.

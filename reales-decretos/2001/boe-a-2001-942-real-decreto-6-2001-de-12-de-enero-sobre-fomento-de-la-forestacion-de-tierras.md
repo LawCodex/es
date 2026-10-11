@@ -1,0 +1,1108 @@
+---
+title: "Real Decreto 6/2001, de 12 de enero, sobre fomento de la forestación de tierras agrícolas"
+identifier: "BOE-A-2001-942"
+eli: "https://www.boe.es/eli/es/rd/2001/01/12/6"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2001-01-12
+published: 2001-01-13
+in_force_from: 2001-01-14
+last_amended: 2006-11-08
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 12"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-942"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 6/2001, de 12 de enero, sobre fomento de la forestación de tierras agrícolas
+
+El Reglamento (CE) 1257/1999, del Consejo, de 17 de mayo, sobre ayudas al desarrollo rural a cargo del Fondo Europeo de Orientación y Garantía Agrarias (FEOGA) establece la concesión de una ayuda para la forestación de tierras agrícolas, que podrá incluir los costes de plantación, una prima anual por hectárea forestada para cubrir los costes de mantenimiento durante un período de hasta cinco años y una prima anual por hectárea para cubrir durante un período máximo de veinte años las pérdidas de ingresos que suponga la forestación de tierras cultivadas antes de ella. En la elaboración del presente Real Decreto se ha tenido en cuenta la experiencia adquirida con la aplicación del Reglamento (CEE) 2080/92, del Consejo, de 30 de junio, por el que se establece un régimen comunitario de ayudas a las medidas forestales en la agricultura.
+
+En consecuencia, manteniendo los objetivos de la normativa comunitaria, las ayudas que se establecen en el presente Real Decreto se dirigen principalmente a promover la forestación de tierras agrícolas, contribuyendo a diversificar la actividad agraria, así como las fuentes de renta y de empleo, contribuir a la corrección de los problemas de erosión y desertización que sufren determinadas zonas españolas, así como a la conservación y mejora de los suelos, la conservación de la fauna y flora, la regulación del régimen hidrológico de las cuencas y a una gestión del espacio natural compatible con el equilibrio del medio ambiente, favoreciendo el desarrollo de ecosistemas forestales beneficiosos para la agricultura, y, por último, estas ayudas se dirigen a contribuir a la disminución del riesgo de los incendios forestales y a la mejora de los recursos forestales.
+
+El presente Real Decreto se dicta al amparo de la competencia estatal en materia de bases y coordinación de la planificación general de la actividad económica, prevista en el artículo 149.1.13.ª de la Constitución, así como en el artículo 149.1.23.ª, conforme al cual corresponde al Estado la legislación básica sobre protección del medio ambiente, así como la legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
+
+En su elaboración han sido consultados los sectores afectados y las Comunidades Autónomas.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de enero de 2001,
+
+DISPONGO:
+
+## Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente Real Decreto tiene por objeto establecer un régimen de ayudas para fomentar la forestación de tierras agrícolas, conforme a lo dispuesto en el artículo 31 del Reglamento (CE) 1257/1999, del Consejo, de 17 de mayo, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrarias (FEOGA).
+
+2\. Las ayudas reguladas por el presente Real Decreto serán de aplicación en todo el territorio nacional, excepto en la Comunidad Foral de Navarra y en la Comunidad Autónoma del País Vasco, en atención a sus regímenes fiscales específicos.
+
+## Artículo 2. Definiciones.
+
+1\. A los efectos de aplicación de estas ayudas, se consideran tierras susceptibles de forestación aquellas superficies que no estén catastradas como forestales y hayan tenido aprovechamiento agrícola o ganadero de forma regular desde diez años antes de la fecha de la solicitud.
+
+2\. Dichas tierras deberán estar comprendidas en alguno de los apartados siguientes:
+
+a) Tierras ocupadas por cultivos leñosos: Son aquellas que ocupan el terreno con carácter permanente y no necesitan ser replantadas después de cada cosecha. Incluyen todos los árboles frutales, entre otros el olivo, la vid y los cítricos.
+
+b) Tierras ocupadas por cultivos herbáceos: Son aquellas ocupadas por cultivos temporales.
+
+c) Huertos familiares: Son tierras cuyos productos se dedican al consumo de la familia.
+
+d) Prados naturales: Son terrenos cuya cubierta herbácea es permanente y cuyo aprovechamiento no finaliza al recolectarse o ser aprovechado por el ganado, sino que continúa un período indefinido de años. Requieren humedad y admiten la posibilidad de un aprovechamiento por siega.
+
+e) Pastizales: Se diferencian de los prados naturales en que se dan en climas más secos, no siendo susceptibles normalmente de aprovechamiento por siega sino a diente.
+
+f) Barbechos: Son tierras de cultivo en descanso, aunque puedan aprovecharse para pastos.
+
+g) Eriales a pastos: Son aquellas tierras agrícolas con orientación técnico-económica (OTE) ganadera.
+
+## Artículo 3. Beneficiarios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 4. Superficies objeto de forestación.
+
+1\. Las superficies que hayan sido objeto de forestación se ajustarán a lo dispuesto en el artículo 4, párrafos 1 y 2, del Reglamento de Montes, aprobado por Decreto 485/1962, de 22 de febrero.
+
+2\. Las superficies repobladas en el ámbito de esta medida no podrán dedicarse a ningún otro uso agrícola mientras continúen catastradas como forestales. Igualmente, no podrán dedicarse a ningún uso ganadero en los años en que esta practica pueda dañar las nuevas plantaciones.
+
+## Artículo 5. Especies objeto de la ayuda.
+
+1\. Los géneros y especies objeto de la ayuda prevista en el presente Real Decreto estarán contenidas en los grupos o bloques botánicos que se recogen en el anexo I del mismo.
+
+2\. Dentro de los grupos o bloques botánicos, las Comunidades Autónomas podrán determinar los géneros y especies vegetales que consideren adecuados y establecer las prioridades de acuerdo con el programa de desarrollo rural para las medidas de acompañamiento, aprobado por Decisión 3549/2000/CE, de la Comisión, de 24 de noviembre.
+
+## Artículo 6. Recalificación de las tierras agrícolas forestadas.
+
+Con el fin de garantizar la persistencia de la masa repoblada, una vez realizada la forestación, y para las especies que no sean de crecimiento rápido, el titular de la tierra forestada estará obligado a comunicar al Catastro de Rústicas el cambio de uso de la tierra para que éste proceda a su recalificación.
+
+## Artículo 7. Acciones objeto de ayuda y cuantías.
+
+Se podrán conceder las siguientes ayudas:
+
+1\. Ayudas al establecimiento.–Se concederá ayuda para cubrir los costes de establecimiento, siempre que la plantación se adapte a las condiciones locales y sea compatible con el medio ambiente, cumpliendo con la legislación vigente. A estos efectos, en los lugares integrados en la Red Natura 2000 se valorará, en especial, la compatibilidad de las acciones propuestas con los valores naturales que motivaron la designación de dichos lugares. Esta ayuda al establecimiento podrá incluir:
+
+a) Costes de plantación: Incluirá los gastos necesarios para la preparación previa del terreno, adquisición de planta o semilla, protección de la planta, mediante protectores, tutores y otros materiales necesarios, así como los de plantación propiamente dicha y labores inmediatamente posteriores a la misma.
+
+b) Costes de obras complementarias a la plantación: Podrán incluirse, cuando sean imprescindibles para garantizar el buen fin de la plantación y siempre que se realicen dentro de la parcela o superficie objeto de forestación, los siguientes gastos:
+
+1.º Cerramientos para protección contra el ganado y determinadas especies cinegéticas.
+
+2.º Cortafuegos para prevención de incendios.
+
+3.º Puntos o balsas de agua para prevención y extinción de incendios.
+
+4.º Vías de acceso para prevención de incendios forestales.
+
+Las ayudas comprendidas en los párrafos a) y b) estarán condicionadas al cumplimiento de los requisitos técnicos, sanitarios y de densidad de arbolado mínimo por hectárea para las distintas especies forestales. Las semillas y plantas empleadas en las forestaciones deberán cumplir con la normativa vigente sobre obtención y comercialización de los materiales forestales de reproducción establecidas por la Administración competente.
+
+Los criterios para la elección de las especies a forestar deberán ser estudiados y contrastados por la Comunidad Autónoma, teniendo en cuenta las características de la estación, latitud, altitud, condiciones edáficas y climáticas, temperamento de las especies, protección legal del espacio y finalidad que se pretende. Las propuestas deberán someterse a la normativa vigente en materia de evaluación ambiental, en especial el artículo 6 del Real Decreto 1997/1995, de 7 de diciembre, por el que se establecen medidas para contribuir a garantizar la biodiversidad mediante la conservación de los hábitats naturales de la fauna y flora silvestres, cuando se trate de actuaciones en lugares de la Red Natura 2000, y el plan de protección contra incendios forestales. Esta compatibilidad deberá también ser contrastada para las obras complementarias contenidas en el párrafo b).
+
+Los importes máximos de las ayudas para las actuaciones relacionadas en los apartados 1.a) y 1.b) del presente artículo serán las establecidas en el anexo I del presente Real Decreto.
+
+2\. Ayudas por costes de mantenimiento.–Podrán incluirse los costes derivados del conjunto de cuidados culturales posteriores a la plantación que sean necesarios para el normal desarrollo de las plantas. Estos cuidados culturales consistirán, básicamente, en la reposición de las marras producidas por causas naturales, a partir de un mínimo porcentaje admisible con arreglo al marco de plantación, especie y estación, así como labores de poda, aporcado, abonado y eliminación de vegetación competidora.
+
+Estas ayudas se concederán hasta un período máximo de cinco años, contados a partir del siguiente a la plantación.
+
+No se concederá esta ayuda para:
+
+a) Las forestaciones emprendidas por entidades de derecho público.
+
+b) Las forestaciones realizadas con especies de crecimiento rápido que se cultiven a corto plazo (especies cuyo período de rotación o turno, intervalo que separa dos cortas sucesivas en un mismo lugar, sea inferior a quince años).
+
+Los importes máximos de las ayudas contenidas en este apartado serán los establecidos en el anexo II del presente Real Decreto.
+
+3\. Prima compensatoria.–Se concederá para compensar a los beneficiarios la pérdida de ingresos derivada de la forestación de tierras, antes dedicadas a la agricultura, durante un período máximo de veinte años.
+
+La prima compensatoria para las especies que no sean de crecimiento rápido se basa en la componente de la pérdida de los ingresos netos, lucro cesante, que pudiera obtener el agricultor compensando además la permanencia de las plantaciones hacia el futuro, así como la mejora de la biodiversidad.
+
+No se concederá esta prima para:
+
+a) Las forestaciones emprendidas por entidades de derecho público.
+
+b) Las forestaciones realizadas con especies de crecimiento rápido que se cultiven a corto plazo.
+
+Los importes de las primas compensatorias serán los que recogen los anexos III.1 y III.2 del presente Real Decreto, según sean para los agricultores, definidos en el apartado 2 del artículo 3, o para cualquier otra persona de derecho privado, de acuerdo con lo establecido en el apartado 1 del artículo 3, respectivamente.
+
+4\. Justificación de gastos. Los gastos de los costes de establecimiento y mantenimiento se justificarán mediante factura o documento contable de valor probatorio equivalente. No obstante se dispensará al beneficiario de esta obligación en el caso de que las comunidades autónomas apliquen los baremos a que se refiere el artículo 46 del Reglamento (CE) n.º 817/2004, de la Comisión, de 29 de abril, por el que se establecen disposiciones de aplicación del Reglamento (CE) n.º 1257/1999, del Consejo, sobre la ayuda al desarrollo rural a cargo del Fondo Europeo de Orientación y de Garantía Agrícola (FEOGA).
+
+> Se añade el apartado 4 por el art. 3 del Real Decreto 1203/2006, de 20 de octubre. [Ref. BOE-A-2006-19351](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-19351).
+
+## Artículo 8. Financiación de las ayudas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 9. Solicitudes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 10. Tramitación, resolución y pago de las ayudas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 11. Deber de información.
+
+Los órganos competentes de las Comunidades Autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación, a través de la Dirección General de Desarrollo Rural, la información relativa a las resoluciones estimatorias y al pago de cada expediente de ayudas. Asimismo, remitirán la información necesaria para el cumplimiento de las obligaciones con las instituciones comunitarias y para el cumplimiento de los objetivos previstos en el presente Real Decreto.
+
+Las Comunidades Autónomas remitirán, antes del 31 de mayo y del 30 de noviembre del ejercicio FEOGA en curso, la información técnico-financiera contenida en los anexos IV, V y VI del presente Real Decreto.
+
+## Artículo 12. Control de las ayudas.
+
+1\. Los controles, cuya realización corresponde a los órganos competentes de las Comunidades Autónomas, tendrán como finalidad dar cumplimiento a lo establecido en los artículos 46 a 48 del Reglamento (CE) 1750/99, de la Comisión, de 23 de julio, por el que se establecen disposiciones de aplicación del Reglamento (CE) 1257/1999.
+
+2\. Todos los compromisos y obligaciones de un beneficiario estarán sometidos a control.
+
+3\. Las actividades de control de las ayudas comprenderán tanto controles administrativos como inspecciones sobre el terreno, en los términos previstos en el Reglamento (CEE) 3887/1992, de la Comisión, de 23 de diciembre, por el que se establecen las normas de aplicación del sistema integrado de gestión y control relativo a determinados regímenes de ayudas comunitarias.
+
+4\. El expediente correspondiente a cada uno de los beneficiarios de las ayudas contendrá toda la información relativa a los resultados de los controles administrativos y, en su caso, de los controles sobre el terreno que permitan deducir que la concesión de estas ayudas se han ajustado a lo establecido en la normativa comunitaria que las regula.
+
+5\. El procedimiento de gestión y control de ayudas se diseñará de acuerdo y en coordinación con el sistema integrado de gestión y control de ayudas a los productores agrícolas y ganaderos ubicados en territorio de la Comunidad Autónoma.
+
+6\. En caso de que las visitas sobre el terreno pongan de manifiesto la existencia de irregularidades significativas en una comarca o región, las autoridades competentes efectuarán controles adicionales durante el año en curso y se aumentará el porcentaje de solicitudes que sean objeto de control al año siguiente en dicha región o parte de ella.
+
+7\. En caso de abandono, incendio o destrucción de la plantación u otra causa imputable al beneficiario, se suspenderán todas las ayudas pendientes, hasta que sea restaurada la superficie abandonada o destruida, total o parcialmente, sin perjuicio de los compromisos adquiridos y de las responsabilidades que se deriven.
+
+## Artículo 13. Incumplimiento.
+
+En los casos de incumplimiento de lo previsto en el presente Real Decreto, se estará a lo establecido en los artículos 9 y 10 del Reglamento (CEE) 3887/1992 y en los artículos 81 y 82 de la Ley General Presupuestaria, texto refundido aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+## Artículo 14. Seguimiento y evaluación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Artículo 15. Comité de Seguimiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 708/2002, de 19 de julio. [Ref. BOE-A-2002-14722](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-14722).
+
+## Disposición adicional única. Título competencial.
+
+El presente Real Decreto se dicta al amparo de la competencia estatal en materia de bases y coordinación de la planificación general de la actividad económica, prevista en el artículo 149.1.13.ª de la Constitución, así como en el artículo 149.1.23.ª, conforme al cual, corresponde al Estado la legislación básica sobre protección del medio ambiente, así como la legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
+
+## Disposición transitoria única. Compromisos adquiridos.
+
+Todos los compromisos adquiridos antes del 15 de octubre de 1999, como consecuencia del Reglamento (CEE) 2080/92, serán resueltos conforme a lo establecido en el Real Decreto 152/1996, de 2 de febrero, por el que se establece un régimen de ayudas para fomentar inversiones forestales en explotaciones agrarias y acciones de desarrollo y aprovechamiento de los bosques en las zonas rurales.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 152/1996, de 2 de febrero, por el que se establece un régimen de ayudas para fomentar inversiones forestales en explotaciones agrarias y acciones de desarrollo y aprovechamiento de los bosques en zonas rurales, así como el resto de disposiciones vigentes, en cuanto se opongan a las previsiones del presente Real Decreto.
+
+## Disposición final primera. Facultad de desarrollo.
+
+Se autoriza al Ministro de Agricultura, Pesca y Alimentación para establecer, en el ámbito de sus competencias, las normas precisas para el desarrollo y ejecución de este Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 12 de enero de 2001.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO I — 1. Cuadro de importes máximos de las ayudas aplicables a los costes de plantación
+
+|  | Pts/ha | Eur./ha |
+|---|---|---|
+| I. FRONDOSAS |  |  |
+| I.A.-FRONDOSAS CRECIMIENTO LENTO MASA PURA | 385.000 | 2.314 |
+|  |  |  |
+| I.B.-FRONDOSAS CRECIMIENTO LENTO MASA MEZCLADA | 426.000 | 2.560 |
+|  |  |  |
+| 1 C 1.- FRONDOSAS CRECIMIENTO RÁPIDO RAÍZ PROFUNDA | 306.000 | 1.839 |
+|  |  |  |
+| 1 C.2.- FRONDOSAS CRECIMIENTO RÁPIDO RAIZ SUPERFICIAL | 225.000 | 1.352 |
+| II. RESINOSAS |  |  |
+| II.A.-RESINOSAS CRECIMIENTO LENTO MASA PURA | 210.000 | 1.262 |
+|  |  |  |
+| II.B.-RESINOSAS CRECIMIENTO LENTO MASA MEZCLADA | 230.000 | 1.382 |
+|  |  |  |
+| II.C.-RESINOSAS CRECIMIENTO RÁPIDO | 204.000 | 1.226 |
+| III. MEZCLADAS (FRONDOSAS X RESINOSAS) |  |  |
+| III.A.-FRONDOSAS X RESINOSAS (CRECIMIENTO LENTO) | 296.000 | 1.779 |
+|  |  |  |
+| III.B.-FRONDOSAS X RESINOSAS (CRECIMIENTO RÁPIDO) | 237.000 | 1.424 |
+| IV. OTRAS ARBÓREAS |  |  |
+| IV.A.-OTRAS ARBÓREAS (CRECIMIENTO LENTO) | 475.000 | 2.855 |
+| V. ARBUSTIVAS |  |  |
+| V.A.-ARBUSTIVAS | 259.000 | 1.557 |
+
+2\. Cuadro de los importes máximos de las ayudas aplicables a los costes de obras complementarias.
+
+A) Costes máximos de las unidades
+
+|  | Pts/Ud. | Eur/Ud. |
+|---|---|---|
+| Cerramientos ( Km. ) | 1.027.000 | 6.172 |
+| Cortafuegos (Ha) | 25.000 | 150 |
+| Puntos o balsas de agua para prevención de incendios (Ud.) | 351.000 | 2.110 |
+| Vías de acceso para prevención de incendios ( Km. ) | 1.106.000 | 6.647 |
+
+B) Repercusión máixma/ha. forestada.
+
+|  | Pta/ha forestada | Eur/ha.forestada |
+|---|---|---|
+| Cerramientos | 114.613 | 688,83 |
+| Cortafuegos | 2.761 | 16,59 |
+| Puntos o balsas de agua para prevención de incendios | 7.011 | 42,14 |
+| Vías de acceso para prevención de incendios | 55.287 | 332,26 |
+
+## ANEXO II — Cuadro de los importes máximos de las ayudas aplicables a los costes de mantenimiento.
+
+|  | pts/ha. | eur./ha. |
+|---|---|---|
+| *I FRONDOSAS* |  |  |
+| IA FRONDOSAS CRECIMIENTO LENTO MASA PURA | 48.000 | 288 |
+|  |  |  |
+| IB FRONDOSAS CRECIMIENTO LENTO MASA MEZCLADA | 48.000 | 288 |
+| *II RESINOSAS CRECIMIENTO LENTO* |  |  |
+| IIA RESINOSAS CRECIMIENTO LENTO MASA PURA | 30.000 | 180 |
+|  |  |  |
+| IIB RESINOSAS CRECIMIENTO LENTO MASA MEZCLADA | 30.000 | 180 |
+| *III MEZCLADAS (FRONDOSAS + RESINOSAS)* |  |  |
+| IIIA FRONDOSAS V RESINOSAS (CRECIMIENTO LENTO) | 35.000 | 210 |
+| *IV OTRAS ARBOREAS* |  |  |
+| IVA OTRAS ARBOREAS (CRECIMIENTO LENTO) | 48.000 | 288 |
+| *V ARBUSTIVAS* |  |  |
+| VA ARBUSTIVAS | 15.000 | 90 |
+
+## ANEXO III.1 — Cuadro de importes de primas compensatorias (para agricultores definidos en el apartado 2 del artículo 3.)
+
+<table>
+<tr>
+<td rowspan="3">
+</td>
+<td colspan="4">
+<p>1.-para agricultores</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>masa pura</p>
+</td>
+<td colspan="2">
+<p>masa mezclada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pts/ha</p>
+</td>
+<td>
+<p>eur/ha</p>
+</td>
+<td>
+<p>pts/ha</p>
+</td>
+<td>
+<p>eur/ha</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>I. FRONDOSAS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert, fam.</p>
+</td>
+<td>
+<p>54.000</p>
+</td>
+<td>
+<p>325</p>
+</td>
+<td>
+<p>56.000</p>
+</td>
+<td>
+<p>337</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Prados</p>
+</td>
+<td>
+<p>38.000</p>
+</td>
+<td>
+<p>228</p>
+</td>
+<td>
+<p>41,000</p>
+</td>
+<td>
+<p>240</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>29.000</p>
+</td>
+<td>
+<p>174</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>19.000</p>
+</td>
+<td>
+<p>114</p>
+</td>
+<td>
+<p>20.000</p>
+</td>
+<td>
+<p>120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>II. RESINOSAS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert. fam.</p>
+</td>
+<td>
+<p>52.000</p>
+</td>
+<td>
+<p>313</p>
+</td>
+<td>
+<p>54.000</p>
+</td>
+<td>
+<p>325</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Prados</p>
+</td>
+<td>
+<p>37.000</p>
+</td>
+<td>
+<p>222</p>
+</td>
+<td>
+<p>38.000</p>
+</td>
+<td>
+<p>228</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>28.000</p>
+</td>
+<td>
+<p>168</p>
+</td>
+<td>
+<p>29.000</p>
+</td>
+<td>
+<p>174</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>18.000</p>
+</td>
+<td>
+<p>108</p>
+</td>
+<td>
+<p>19.000</p>
+</td>
+<td>
+<p>114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>9.000</p>
+</td>
+<td>
+<p>54</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>III. MEZCLADAS (FRONDOSAS x RESINOSAS)</p>
+</td>
+<td colspan="2">
+<p>Masa pura/mezclada</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert. fam.</p>
+</td>
+<td>
+<p>56.000</p>
+</td>
+<td>
+<p>337</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>2. Prados</p>
+</td>
+<td>
+<p>40.000</p>
+</td>
+<td>
+<p>240</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>20.000</p>
+</td>
+<td>
+<p>120</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>IV. OTRAS ARBÓREAS ( especial interés ambiental, laurisilva, ins. etc.)</p>
+</td>
+<td colspan="2">
+<p>masa pura/mezclada</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert. fam.</p>
+</td>
+<td>
+<p>59.000</p>
+</td>
+<td>
+<p>355</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>2. Prados</p>
+</td>
+<td>
+<p>42.000</p>
+</td>
+<td>
+<p>252</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>31.000</p>
+</td>
+<td>
+<p>186</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>V. ARBUSTIVAS</p>
+</td>
+<td colspan="2">
+<p>pura/masa mezclada</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>18.000</p>
+</td>
+<td>
+<p>108</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>9.000</p>
+</td>
+<td>
+<p>54</p>
+</td>
+</tr>
+</table>
+
+## ANEXO III.2 — Cuadro de importes de primas compensatorias (para cualquier otra persona de Derecho privado definidos en el apartado 1 del artículo 3)
+
+<table>
+<tr>
+<td rowspan="3">
+<p> </p>
+</td>
+<td colspan="4">
+<p>2.-para cualquier otra persona de Derecho privado</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>masa pura</p>
+</td>
+<td colspan="2">
+<p>masa mezclada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pts/ha</p>
+</td>
+<td>
+<p>eur/ha</p>
+</td>
+<td>
+<p>pts/ha</p>
+</td>
+<td>
+<p>eur/ha</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>I. FRONDOSAS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert, fam.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Prados</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>29.000</p>
+</td>
+<td>
+<p>174</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>19.000</p>
+</td>
+<td>
+<p>114</p>
+</td>
+<td>
+<p>20.000</p>
+</td>
+<td>
+<p>120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>II. RESINOSAS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert. fam.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Prados</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>28.000</p>
+</td>
+<td>
+<p>168</p>
+</td>
+<td>
+<p>29.000</p>
+</td>
+<td>
+<p>174</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>18.000</p>
+</td>
+<td>
+<p>108</p>
+</td>
+<td>
+<p>19.000</p>
+</td>
+<td>
+<p>114</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>9.000</p>
+</td>
+<td>
+<p>54</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>lll. MEZCLADAS (FRONDOSAS x RESINOSAS)</p>
+</td>
+<td colspan="2">
+<p>Masa pura/mezclada</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert. fam.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>2. Prados</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>20.000</p>
+</td>
+<td>
+<p>120</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>10.000</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>IV. OTRAS ARBÓREAS ( especial interés ambiental, laurisilva, ins. etc.)</p>
+</td>
+<td colspan="2">
+<p>masa pura/mezclada</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>1. Tierras ocupadas por cultivos leñosos y/o herbáceos. Huert. fam.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>2. Prados</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>3. Pastizal.</p>
+</td>
+<td>
+<p>30.000</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>V. ARBUSTIVAS</p>
+</td>
+<td colspan="2">
+<p>pura/masa mezclada</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>4. Barbechos y otras tierras no ocupadas</p>
+</td>
+<td>
+<p>18.000</p>
+</td>
+<td>
+<p>108</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>5. Erial a pastos.</p>
+</td>
+<td>
+<p>9.000</p>
+</td>
+<td>
+<p>54</p>
+</td>
+</tr>
+</table>
+
+## ANEXO IV — INFORMACIONES SOBRE LA APLICACIÓN DEL ARTÍCULO 31 DEL REGLAMENTO (CE) Nº 1257/99
+
+Estado miembro: ESPAÑA. *Comunidad Autónoma.*
+
+Regiones del objetivo:
+
+Situación al (inversiones en millones de EUROS.)
+
+| Medidas | Situación acumulativa precedente<br>15/04/t | Renuncias y/o Bajas | Nuevas solicitudes | Situación acumulativa revisada<br>15/10/t |
+|---|---|---|---|---|
+| 1 FORESTACIÓN PRIVADA.–PLANTACIÓN |  |  |  |  |
+| A. Número de solicitudes presentadas desde el origen |  |  |  |  |
+| B. Autorizaciones concedidas |  |  |  |  |
+| número de autorizaciones |  |  |  |  |
+| número de hectáreas subvencionables |  |  |  |  |
+| C. Autorizaciones certificadas definitivamente (tras la realización de los trabajos) |  |  |  |  |
+| 1.–Ayuda a la plantación |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas subvencionables |  |  |  |  |
+| c) Costa total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 2.–Ayuda para el mantenimiento de las superficies forestadas |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas subvencionables |  |  |  |  |
+| c) Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 3.–Prima de compensación por pérdida de rentas |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas por la que se cobra la prima de las cuales: |  |  |  |  |
+| Agricultores |  |  |  |  |
+| Otros titulares de Derecho privado |  |  |  |  |
+| c) Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 2 FORESTACIÓN PRIVADA.–OBRAS COMPLEMENTARIAS |  |  |  |  |
+| 1.–Cerramientos (Km) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 2.–Cortafuegos (Has.) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 3.–Puntos de agua para protección de incendios (Uds.) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 4.–Vías de acceso para prevencirin de incendios (Km) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+
+## ANEXO V — INFORMACIONES SOBRE LA APLICACIÓN DEL ARTÍCULO 31 DEL REGLAMENTO (CE) N° 1257/99
+
+Estado miembro: ESPAÑA *Comunidad Autónoma*.
+
+Situación al
+
+| Medidas | Situación acumulativa precedente<br>15/04/t | Renuncias y/o Bajas | Nuevas solicitudes | Situación acumulativa revisada<br>15/10/t |
+|---|---|---|---|---|
+| 1 FORESTACIÓN PÚBLICA.–PLANTACIÓN |  |  |  |  |
+| A. Número de solicitudes presentadas desde el origen |  |  |  |  |
+| B. Autorizaciones concedidas |  |  |  |  |
+| número de autorizaciones |  |  |  |  |
+| número de hectáreas subvencionables |  |  |  |  |
+| C. Autorizaciones certificadas definitivamente (tras la realización de los trabajos) |  |  |  |  |
+| Ayuda a la plantación |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas subvencionables |  |  |  |  |
+| c) Costa total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 2 FORESTACIÓN PÚBLICA.–OBRAS COMPLEMENTARIAS |  |  |  |  |
+| 1. Cerramientos (Km) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 2. Cortafuegos (Has.) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 3. Puntos de agua para protección de incendios (Uds.) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 4. Vías de acceso para prevencirin de incendios (Km) |  |  |  |  |
+| Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+
+| Coste presupuestario correspondiente a los expedientes aprobados definitivamente | Ejercicio 2000 (Ejercicio t)(’) | Ejercicio<br>2001 | Ejercicio<br>2002 | Ejercicio<br>2003 | Ejercicio<br>2004 | Ejercicio<br>2005 | Ejercicio<br>2006 | TOTAL ACUMULADO<br>Al 2xxx |
+|---|---|---|---|---|---|---|---|---|
+| Total correspondiente a la situación |  |  |  |  |  |  |  |  |
+| Acumulativa revisada (cálculo): |  |  |  |  |  |  |  |  |
+| FEOGA, sección Garantía |  |  |  |  |  |  |  |  |
+
+(’) Para la declaración del 15 de abril, el ejercicio (t) se refiere al ejercicio FEOGA en curso. Para la declaración del 15 de octubre, el año (t) se refiere al ejercicio FEOGA que acaba de finalizar (costes en millones de EUROS.)
+
+## ANEXO VI — INFORMACIONES SOBRE LA APLICACIÓN DEL ARTÍCULO 31 DEL REGLAMENTO (CE) Nº 1257/99 COMPROMISOS DERIVADOS DE LA PROGRAMACIÓN ANTERIOR (Reglamento 20/80/92 – RD 152/1996)
+
+Estado miembro: ESPAÑA *Comunidad Autónoma*.
+
+Situación al
+
+| Medidas | Situación acumulativa precedente<br>15/04/t | Renuncias y/o Bajas | Nuevas solicitudes | Situación acumulativa revisada<br>15/10/t |
+|---|---|---|---|---|
+| 1 FORESTACIÓN PRIVADA |  |  |  |  |
+| C. Autorizaciones certificadas definitivamente (tras la realización de los trabajos).–programación anterior |  |  |  |  |
+| 2.–Ayuda para el mantenimiento de las superficies forestadas |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas subvencionables |  |  |  |  |
+| c) Coste total subvencionable por cofmanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 3.–Prima de compensación por pérdida de rentas |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas por las que se cobra la prima |  |  |  |  |
+| --De las cuales: |  |  |  |  |
+| ----agricultores |  |  |  |  |
+| --otros titulares de derecho privado |  |  |  |  |
+| c) Coste total subvencionable por cofinanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+| 1 FORESTACIÓN PÚBLICA.–PLANTACIÓN |  |  |  |  |
+| 2.–Ayuda para el mantenimiento de las superficies forestadas |  |  |  |  |
+| a) Número de beneficiarios |  |  |  |  |
+| b) Número de hectáreas subvencionables |  |  |  |  |
+| c) Coste total subvencionable por cofmanciación |  |  |  |  |
+| --Del cual corresponde al FEOGA |  |  |  |  |
+
+| Coste presupuestario correspondiente a los expedientes aprobados definitivamente | Ejercicio 2000 (Ejercicio t)(’) | Ejercicio<br>2001 | Ejercicio<br>2002 | Ejercicio<br>2003 | Ejercicio<br>2004 | Ejercicio<br>2005 | Ejercicio<br>2006 | TOTAL ACUMULADO<br>Al 2xxx |
+|---|---|---|---|---|---|---|---|---|
+| Total correspondiente a la situación |  |  |  |  |  |  |  |  |
+| Acumulativa revisada (cálculo): |  |  |  |  |  |  |  |  |
+| FEOGA, sección Garantía |  |  |  |  |  |  |  |  |
+
+(’) Para la declaración del 15 de abril, el ejercicio (t) se refiere al ejercicio FEOGA en curso. Para la declaración del 15 de octubre, el año (t) se refiere al ejercicio FEOGA que acaba de finalizar (costes en millones de EUROS.)
+
+El costo presupuestario de los años 2000-2006 se refieren exclusivamente a los compromisos por los expedientes definitivamente Aprobados en el programa inicial, basado en el derogado Reglamento 20/80/92.

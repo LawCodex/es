@@ -1,0 +1,203 @@
+---
+title: "Orden APA/943/2003, de 16 de abril, por la que se desarrollan y concretan determinados aspectos del Reglamento (CE) 2182/2002 de la Comisión, en relación con las acciones de reconversión financiadas por el Fondo Comunitario del tabaco"
+identifier: "BOE-A-2003-8223"
+eli: "https://www.boe.es/eli/es/o/2003/04/16/apa943"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2003-04-16
+published: 2003-04-22
+in_force_from: 2003-04-23
+last_amended: 2006-02-17
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 96"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-8223"
+retrieved: 2026-10-11
+---
+
+# Orden APA/943/2003, de 16 de abril, por la que se desarrollan y concretan determinados aspectos del Reglamento (CE) 2182/2002 de la Comisión, en relación con las acciones de reconversión financiadas por el Fondo Comunitario del tabaco
+
+Incluye la corrección de errores publicada en BOE núm. 101, de 28 de abril de 2003. [Ref. BOE-A-2003-8672](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-8672).
+
+El Reglamento (CE) 546/2002 del Consejo, de 25 de marzo de 2002, por el que se fijan, por grupos de variedades y por Estados miembros, las primas y los umbrales de garantía del tabaco en hoja para las cosechas de 2002, 2003 y 2004 y se modifica el Reglamento (CEE) 2075/92, por el que se establece la organización común de mercados en el sector del tabaco crudo, ha introducido también una profunda modificación del Fondo Comunitario del tabaco, incrementando su financiación y dando nuevas orientaciones sobre su utilización.
+
+El Fondo se nutre mediante una retención sobre las primas pagadas a los productores de tabaco, que se ha fijado en un 2% para la cosecha 2002, un 3% para la cosecha de 2003 y la posibilidad de alcanzar el 5% en la cosecha de 2004 a propuesta de la Comisión.
+
+Se ha sustituido el ámbito de la investigación agronómica por acciones específicas de apoyo al desarrollo de iniciativas de reconversión de los productores de tabaco hacia otros cultivos o actividades económicas creadoras de empleo, en concordancia con el programa de readquisición de cuotas de tabaco, así como estudios sobre las posibilidades de reconversión de los productores de tabaco hacia otros cultivos o actividades.
+
+El Reglamento (CE) 2182/2002 de la Comisión, de 6 de diciembre de 2002, por el que se establecen disposiciones de aplicación del Reglamento (CEE) 2075/92 del Consejo en lo que se refiere al Fondo Comunitario del tabaco, establece el nuevo marco regulador del mismo.
+
+En lo que atañe al ámbito de las acciones de reconversión se definen las acciones específicas individuales y de interés general, los estudios sobre alternativas de reconversión susceptibles de financiación y los beneficiarios de los diferentes tipos de acciones ; también se describen la intensidad de la ayuda para las distintas acciones, así como el importe total de la ayuda por productor para el conjunto de las acciones ; el plazo y el procedimiento de distribución de los recursos financieros del Fondo entre los Estados miembros productores ; el contenido de los programas que deben elaborar ; los compromisos de los beneficiarios y los controles y sanciones que deben aplicarse ; y, las comunicaciones e informaciones que los Estados miembros deben enviar a la Comisión.
+
+Procede, por ello, adoptar las disposiciones nacionales necesarias para la correcta ejecución del programa y definir los responsables de la misma que serán, con carácter general, las autoridades competentes de las Comunidades Autónomas en el caso de las acciones individuales destinadas a la reconversión de los productores. Dichas autoridades participarán también en el estudio previo y en el control posterior de las llamadas acciones de interés general, cuyas ayudas serán, sin embargo, otorgadas por el Ministerio de Agricultura, Pesca y Alimentación. Ello es debido tanto a las especiales características de los destinatarios de las mismas, por su condición de Organismos o Entidades Públicas no necesariamente localizadas en las zonas de producción del tabaco como a que dichas acciones consistan en actividades de investigación.
+
+La reciente publicación de la referida normativa europea y la necesidad de establecer de un modo inmediato determinados plazos y requisitos que han de tenerse en cuenta por los participantes en el régimen de ayuda, son circunstancias que justifican, por la urgencia del caso, el recurso excepcional a la presente Orden.
+
+La elaboración de la presente norma ha sido sometida a consulta de las Comunidades Autónomas y entidades representativas del sector.
+
+En su virtud, dispongo:
+
+## Artículo 1. Objeto.
+
+La presente Orden tiene por objeto concretar y desarrollar determinados aspectos del Reglamento (CE) 2182/2002, de 6 de diciembre, en relación con las acciones de reconversión previstas en los artículos 13 y 14 del mismo y con la ayuda a estas acciones con cargo al Fondo comunitario del tabaco establecida por la citada disposición comunitaria.
+
+## Artículo 2. Programas relativos a las acciones de reconversión y a las acciones de interés general y estudios sobre las posibilidades de reconversión de los productores de tabaco.
+
+1\. La Dirección General de Agricultura, consultadas las Comunidades Autónomas productoras de tabaco, elaborará anualmente el programa nacional relativo a las acciones individuales de reconversión de los productores y a las acciones de interés general y estudios sobre las posibilidades de reconversión de los productores de tabaco, de conformidad con el artículo 18 del Reglamento (CE) 2182/2002.
+
+2\. Las Comunidades Autónomas productoras de tabaco remitirán al Ministerio de Agricultura, Pesca y Alimentación, antes del 31 de enero de cada año, un informe sobre la situación de su sector de producción de tabaco, la estrategia que propone, los objetivos y prioridades en materia de reconversión de la producción de tabaco, la valoración de las repercusiones sociales, económicas y medioambientales, un cuadro financiero orientativo de las acciones de reconversión, así como cuanta información se considere en relación con la estrategia, objetivos y prioridades que se proponen, dentro de su ámbito territorial.
+
+> Redactado el título del artículo conforme a la corrección de errores publicada en el BOE núm. 101, de 28 de abril de 2003. [Ref. BOE-A-2003-8672](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-8672).
+
+## Artículo 3. Beneficiarios de las acciones de reconversión.
+
+1\. Los beneficiarios de las acciones contempladas en el artículo 13 del Reglamento (CE) n.º 2182/2002, serán los productores de tabaco crudo, titulares de una cuota de producción de tabaco para la cosecha 2005 de conformidad con el artículo 24 del Reglamento (CE) 2848/98, situados en una región en la que se aplique el título IV, capítulo 10 quáter del Reglamento (CE) n.º 1782/2003 del Consejo, y que se comprometan a más tardar el 15 de febrero de 2006, a renunciar al derecho a la ayuda a la producción de tabaco crudo prevista en dicho capítulo, a partir de la cosecha de 2006.
+
+La posibilidad de presentar una solicitud para acogerse a la ayuda del Fondo quedará limitada al año 2006.
+
+2\. Los beneficiarios de las acciones de interés general y de los estudios sobre las posibilidades de reconversión de los productores del tabaco, serán los especificados en el artículo 15.2 del Reglamento (CE) 2182/2002.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 4. Importe de las ayudas según el tipo de beneficiario y de acción.
+
+1\. El importe total de la ayuda comunitaria concedida será la definida en el artículo 16.1 del Reglamento (CE) n.º 2182/2002. Asimismo, la ayuda total por productor para el conjunto de acciones contempladas en el artículo 13 de dicho Reglamento, está definida en su artículo 16.3.
+
+2\. El importe acumulado de la ayuda comunitaria por productor para el conjunto de las acciones contempladas en el artículo 13 del Reglamento (CE) n.º 2182/2002 queda fijado de la manera siguiente:
+
+a) el triple del importe de la prima de 2005 para las cantidades de tabaco crudo de la cuota a la que tenía derecho de conformidad con el artículo 24 del Reglamento (CE) n.º 2848/98 para la cosecha de 2005 hasta 10 toneladas inclusive;
+
+b) el doble del importe de la prima de 2005 para las cantidades de tabaco crudo de la cuota a la que tenía derecho de conformidad con el artículo 24 del Reglamento (CE) n.º 2848/98 para la cosecha de 2005 por encima de las diez toneladas hasta las 40 toneladas inclusive; c) el importe de la prima de 2005 para las cantidades de tabaco crudo de la cuota a la que tenía derecho de conformidad con el artículo 24 del Reglamento (CE) n.º 2848/98 para la cosecha de 2005 por encima de las 40 toneladas.
+
+> Se modifica por el art. único. 2 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 5. Gastos subvencionables.
+
+1\. Las acciones individuales subvencionables destinadas a la reconversión de los productores de tabaco, serán las contempladas en el artículo 13 del Reglamento (CE) n.º 2182/2002. De conformidad con lo indicado en el artículo 16 del citado Reglamento, las acciones contempladas en las letras a) y c) tendrán una limitación en la ayuda del 75 por cien de los gastos subvencionables, pudiendo llegar el importe de la ayuda al 100 por cien de la inversión, en el caso de las acciones contempladas en la letra b). El importe de la ayuda comunitaria total por productor no podrá sobrepasar los límites establecidos en el apartado 3 del artículo 16 del Reglamento 2182/2002.
+
+2\. En las acciones de interés general y los estudios sobre las posibilidades de reconversión de los productores de tabaco descritos en el artículo 14 del Reglamento (CE) 2182/2002, los gastos subvencionables podrán ser, entre otros, la elaboración, publicación y divulgación de los trabajos desarrollados y, la contratación de servicios de consultoría especializada.
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden APA/373/2006, de 16 de abril. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 6. Solicitud de la ayuda.
+
+1\. Los productores que reúnan las condiciones especificadas en el artículo 3.1 de la presente Orden, podrán dirigir al órgano competente de la Comunidad Autónoma donde radica su explotación, antes del 15 de marzo de 2006, una solicitud de ayuda con cargo al Fondo para dicho año 2006, por cualquiera de los cauces previstos en el artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, que deberá contener, al menos, la información prevista en el Anexo de esta Orden.
+
+A la solicitud se acompañarán los documentos justificativos que acrediten los datos incorporados a la misma
+
+2\. Los organismos y entes públicos a que se refiere el artículo 3.2 de la presente Orden interesados en llevar a cabo acciones de interés general y/o estudios sobre las posibilidades de reconversión de los productores de tabaco podrán presentar una solicitud de ayuda, antes cultura, Pesca y Alimentación, por cualquiera de los cauces previstos en el artículo 38 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. Las solicitudes de ayuda deberán ir acompañadas de un proyecto y de una declaración firmada por la que el solicitante se compromete a no presentar para el mismo proyecto una nueva solicitud de ayuda en ningún otro régimen de ayuda.
+
+Cuando las acciones individuales de reconversión o reorientación no precisen la elaboración de un proyecto, se deberá presentar, al menos, un estudio de viabilidad acompañado de facturas proforma.
+
+4\. Las solicitudes deberán contener, al menos, la identificación de cada solicitante, el importe de la inversión desglosado según el tipo de acción y el importe de la ayuda solicitado y, en el caso de los productores se deberán indicar los elementos descriptivos e indicadores básicos de su explotación.
+
+> Se modifica el apartado 1 por el art. único. 4 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en el BOE núm. 101, de 28 de abril de 2003. [Ref. BOE-A-2003-8672](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-8672).
+
+## Artículo 7. Asignación anual de los recursos del Fondo correspondientes a las acciones individuales de reconversión.
+
+1\. Las Comunidades Autónomas productoras de tabaco elaborarán y remitirán al Ministerio de Agricultura, Pesca y Alimentación, antes del 15 de abril de cada año, un plan provisional de financiación de las solicitudes presentadas, diferenciado por tipo de acción.
+
+2\. Para acciones individuales: Una vez que la Comisión Europea realice la asignación anual de recursos del Fondo, provisional y definitiva, de conformidad con lo establecido en el artículo 17 del Reglamento (CE) 2182/2002, la Conferencia Sectorial de Agricultura y Desarrollo Rural procederá a la distribución definitiva por Comunidades Autónomas de los recursos correspondientes a las acciones individuales de reconversión, atendiendo las solicitudes de intervención presentadas.
+
+3\. Para acciones de interés general y estudios: Tras conocer la decisión de la Comisión Europea de distribución orientativa y definitiva de recursos del Fondo, el Ministerio de Agricultura, Pesca y Alimentación especificará y divulgará las cantidades anuales disponibles para financiar acciones generales y estudios.
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 8. Aprobación de proyectos y financiación.
+
+1\. Para seleccionar los proyectos presentados con las solicitudes de acciones de reconversión contempladas en el artículo 13 del Reglamento (CE) n.º 2182/2002 y correspondientes al año 2006, se deberán tener en consideración los criterios de prioridad siguientes:
+
+a) Las acciones individuales que sean viables en sus aspectos técnicos y económicos, y medioambientalmente sostenibles.
+
+b) Las inversiones agrarias localizadas en la misma zona productora de tabaco.
+
+c) Las inversiones que generen más empleo, con la mejor relación de mano de obra fija y eventual, en horas/año, respecto a presupuesto.
+
+d) Las iniciativas conjuntas de varios productores para un mismo proyecto.
+
+Además, las Comunidades Autónomas podrán definir y establecer otros criterios objetivos de prioridad, de conformidad con las necesidades reales de las zonas productoras.
+
+2\. La aprobación de los proyectos de acciones individuales, así como la determinación de la financiación de los mismos, corresponderá al órgano competente de la Comunidad Autónoma productora de tabaco a que se refiere el artículo 6.1 de la presente Orden, que se atendrá a los recursos financieros definitivos asignados de acuerdo con lo dispuesto en el artículo 7.
+
+3\. En los proyectos relativos a acciones de interés general y a estudios, la Dirección General de Agricultura, inmediatamente antes de elaborar la propuesta de resolución, remitirá los expedientes a las Comunidades Autónomas productoras de tabaco para que emitan informe sobre los mismos. Cumplimentado este trámite, y a la vista de los informes citados, la Dirección General de Agricultura elevará la propuesta de resolución al Ministro de Agricultura, Pesca y Alimentación que dictará la correspondiente resolución aprobando o no los proyectos presentados y fijando, en caso positivo, la financiación de los mismos.
+
+4\. Con independencia de las solicitudes presentadas para un tipo u otro de acción, el importe conjunto de los proyectos aprobados no podrá superar el total de los recursos anuales asignados.
+
+> Se añade un nuevo apartado 1 y se renumeran los antiguos apartados 1, 2 y 3 como 2, 3 y 4 por los arts. único.6 y 7 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 9. Plazo de ejecución de los proyectos y acciones.
+
+Los proyectos se ejecutarán en un plazo de dos años a partir de la fecha en la que se haya notificado al beneficiario la aprobación del proyecto. No obstante, este plazo podrá ampliarse en seis meses.
+
+> Se modifica por el art. único.8 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 10. Plazo de pago de la ayuda y anticipos.
+
+1\. La ayuda se abonará por el órgano competente de la Comunidad Autónoma y, en su caso, por el Ministerio de Agricultura, Pesca y Alimentación, previa comprobación de la ejecución del proyecto o estudio en cuestión y, a más tardar, en un plazo de tres años a partir de la fecha de notificación al beneficiario de la aprobación del proyecto o estudio.
+
+2\. Como excepción a lo dispuesto en el apartado 1, los órganos competentes de las Comunidades Autónomas y, en su caso, el Ministerio de Agricultura, Pesca y Alimentación, podrán anticipar el pago de la ayuda, a condición de que:
+
+a) haya comenzado la ejecución del proyecto ; b) el beneficiario haya depositado una garantía por un importe igual al 120% del importe del anticipo. No obstante, las instituciones públicas podrán estar exentas de esta obligación. A efectos de la aplicación del Reglamento (CEE) 2220/85, la obligación consistirá en ejecutar el proyecto en el plazo fijado en el apartado 1.
+
+## Artículo 11. Controles y sanciones.
+
+1\. Los órganos competentes de las Comunidades Autónomas realizarán un control administrativo y un control in situ de todos los proyectos aprobados definitivamente financiados por el Fondo. En particular se controlará que dichos proyectos no se beneficien de otro régimen de ayuda de acuerdo con el compromiso adquirido por el solicitante.
+
+2\. Cuando se incumpla el compromiso referido en el último párrafo del apartado anterior, serán de aplicación las sanciones establecidas en el apartado 2 del artículo 19 del Reglamento (CE) 2182/2002.
+
+3\. En caso de irregularidad deliberada y distinta del incumplimiento del compromiso contemplado en el apartado 1 del presente artículo, el solicitante de una ayuda en virtud de los artículos 13 y 14 abonará un importe igual al importe objeto de la solicitud de intervención. Esta suma se abonará en la cuenta del Fondo Europeo de Orientación y Garantía Agraria (FEOGA).
+
+4\. A efectos de lo dispuesto en el apartado 1 de este artículo se considerarán competentes:
+
+a) Para las acciones individuales de reconversión, el órgano competente de la Comunidad Autónoma que haya aprobado el proyecto y establecido su financiación.
+
+b) Para las acciones de interés general y estudios, el órgano competente de la Comunidad Autónoma en cuyo territorio se encuentre ubicada, íntegramente o en su mayor parte, la zona objeto de aquéllos.
+
+> Se añade un nuevo apartado 3 y se renumera el antiguo apartado 3 como apartado 4 por los arts. único.9 y 10 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Artículo 12. Información y seguimiento.
+
+1\. El fichero informático que incluya todos los elementos de los proyectos financiados por el Fondo, de conformidad con el artículo 20 del Reglamento (CE) 2182/2002, será proporcionado, en su caso, por las Comunidades Autónomas al Ministerio de Agricultura, Pesca y Alimentación para cada beneficiario, así como los correspondientes certificados de ejecución de la acción objeto de ayuda y del cumplimiento de los compromisos contraídos por el beneficiario.
+
+2\. Los órganos competentes y los organismos pagadores de las Comunidades Autónomas, en su caso, serán depositarios en origen, al menos durante los diez años siguientes al de su registro, de la información que se debe disponer a los efectos de cubrir las exigencias de la Comisión Europea en el ejercicio de las funciones de seguimiento, evaluación y control, y remitirán al Ministerio de Agricultura, Pesca y Alimentación la información necesaria para el cumplimiento de las correspondientes obligaciones con las instituciones comunitarias, suministrando en especial los documentos que sirvan de soporte del cumplimiento de los artículos 23 y 24 del Reglamento (CE) 2182/2002.
+
+3\. Los órganos competentes de las Comunidades Autónomas remitirán anualmente al Ministerio de Agricultura, Pesca y Alimentación, antes del 15 de marzo de cada año, un informe detallado referente a los progresos del programa durante el año anterior.
+
+4\. A los efectos de instrumentar el control del cumplimiento de los requisitos de la normativa comunitaria así como para facilitar las actividades que a tal fin realicen las instituciones de la Comunidad Europea, se establecerán con los órganos competentes de las Comunidades Autónomas los mecanismos apropiados de realización y coordinación de dichos controles.
+
+Disposición adicional única.
+
+**(Suprimida)**.
+
+> Se suprime por el art. único.11 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).
+
+## Disposición final primera. Título competencial.
+
+La presente Orden se dicta al amparo de lo dispuesto en el artículo 149.1.13.a de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y de coordinación de la planificación general de la actividad económica, así como en la regla 1.15.a de dicho precepto, sobre el fomento y coordinación general de la investigación científica y técnica.
+
+## Disposición final segunda. Aplicación.
+
+Por la Secretaría General de Agricultura y Alimentación y el Fondo Español de Garantía Agraria, en el ámbito de sus competencias, se dictarán las resoluciones y se adoptarán las medidas para la aplicación de la presente norma.
+
+## Disposición final tercera. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Madrid, 16 de abril de 2003.
+
+ARIAS CAÑETE
+
+## ANEXO
+
+![Imagen: img/disp/2006/041/02780_001.png](https://www.boe.es/datos/imagenes/disp/2006/41/02780_001.png)
+
+![Imagen: img/disp/2006/041/02780_002.png](https://www.boe.es/datos/imagenes/disp/2006/41/02780_002.png)
+
+> Se añade por el art. único.4 de la Orden APA/373/2006, de 13 de febrero. [Ref. BOE-A-2006-2780](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2780).

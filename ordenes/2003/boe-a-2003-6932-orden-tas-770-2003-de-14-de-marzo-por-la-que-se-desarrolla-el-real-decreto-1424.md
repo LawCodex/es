@@ -1,0 +1,785 @@
+---
+title: "Orden TAS/770/2003, de 14 de marzo, por la que se desarrolla el Real Decreto 1424/2002, de 27 de diciembre, por el que se regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo, y el uso de medios telemáticos en relación con aquélla"
+identifier: "BOE-A-2003-6932"
+eli: "https://www.boe.es/eli/es/o/2003/03/14/tas770"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2003-03-14
+published: 2003-04-05
+in_force_from: 2003-04-06
+last_amended: 2013-09-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 82"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-6932"
+retrieved: 2026-10-11
+---
+
+# Orden TAS/770/2003, de 14 de marzo, por la que se desarrolla el Real Decreto 1424/2002, de 27 de diciembre, por el que se regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo, y el uso de medios telemáticos en relación con aquélla
+
+La Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, modificó determinados artículos del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, para suprimir la obligación de registrar en las Oficinas Públicas de Empleo la copia firmada de los contratos de trabajo y sus prórrogas, sustituyéndolo por comunicaciones del contenido del contrato de trabajo.
+
+El Real Decreto 1424/2002, de 27 de diciembre, por el que se regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo, y el uso de medios telemáticos en relación con aquélla, faculta en su disposición final segunda al Ministro de Trabajo y Asuntos Sociales a dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de lo dispuesto en el mismo.
+
+Por otro lado, la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, propugna una modernización y adaptación permanente de las actuaciones administrativas al ritmo de las innovaciones tecnológicas. La Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, modifica la Ley 30/1992, estableciendo además una nueva disposición adicional para impulsar la administración electrónica.
+
+Por tanto, estas modificaciones normativas se han abordado en aras a la necesidad de modernizar los Servicios Públicos de Empleo y acercarlos al ciudadano, así como cumplir con los compromisos del Estado español en el Plan Nacional de Acción para el Empleo del Reino de España de poner en marcha sistemas alternativos para el registro de la contratación que supusieran verdaderos avances en la eliminación de trámites burocráticos.
+
+A dicha finalidad responde la presente Orden, mediante la cual se desarrolla el citado Real Decreto 1424/2002, que regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo y el uso de medios telemáticos en relación con estas comunicaciones.
+
+En su virtud, y en uso de las atribuciones concedidas en las disposiciones finales primera y segunda del mencionado Real Decreto 1424/2002, de 27 de diciembre, previa consulta a los Interlocutores Sociales, Comunidades Autónomas, y con la aprobación del Ministro de Administraciones Públicas, dispongo:
+
+## CAPÍTULO I — Normas generales
+
+### Artículo 1. Objeto.
+
+1\. La presente Orden Ministerial tiene por objeto definir los datos que obligatoriamente deberán comunicarse a los Servicios Públicos de Empleo respecto de las comunicaciones a las que se refiere el artículo tercero del Real Decreto 1424/2002, de 27 de diciembre, por el que se regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo, y el uso de medios telemáticos en relación con aquélla, por cualquiera de los procedimientos que se establecen en el artículo segundo de la citada norma.
+
+2\. Igualmente, tiene por objeto la regulación del uso de medios telemáticos en relación con dichas comunicaciones, así como la aprobación de una aplicación informática por parte del Servicio Público de Empleo Estatal, según lo que se dispone en los Capítulos II y III de la presente Orden Ministerial, respectivamente.
+
+### Artículo 2. Contenido de las comunicaciones.
+
+Los datos que contendrán las comunicaciones a las que se hace referencia en el apartado uno del artículo anterior son los que se relacionan en el anexo I «Relación de datos obligatorios a comunicar».
+
+## CAPÍTULO II — Uso de medios telemáticos en relación con la comunicación del contenido de los contratos de trabajo y de sus copias básicas
+
+### Artículo 3. Autorización para el uso de medios telemáticos.
+
+1\. Los sujetos obligados a comunicar el contenido de la contratación laboral a los Servicios Públicos de Empleo podrán realizarla, previa autorización de éstos, a través de medios telemáticos.
+
+2\. La autorización para el uso de medios telemáticos podrá ser también concedida a empresas y profesionales colegiados que en el ejercicio de su actividad profesional realicen las comunicaciones a las que se refiere esta Orden y ostenten en los términos establecidos en el ordenamiento jurídico, la representación de las empresas en cuyo nombre actúen.
+
+3\. La citada autorización también podrá ser concedida al Ministerio de Industria, Energía y Turismo, así como a los organismos que hayan firmado un convenio con el citado Ministerio de establecimiento de Puntos de Asesoramiento e Inicio de Tramitación (PAIT), para que puedan realizar comunicaciones de la contratación en nombre de terceros a los que se les esté tramitando el Documento Único Electrónico (DUE) regulado en la disposición adicional tercera del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y en su normativa de desarrollo.
+
+También podrá ser concedida esa autorización a los Centros de Ventanilla Única Empresarial (VUE), que por Ley puedan ejercer funciones como PAIT.
+
+La autorización concedida a la que se hace referencia en este apartado sólo podrá ser utilizada dentro de la tramitación del DUE.
+
+> Se añade el apartado 3 por el art. único.1 de la Orden ESS/1727/2013, de 17 de septiembre. [Ref. BOE-A-2013-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10031).
+
+### Artículo 4. Procedimiento para llevar a cabo la solicitud de autorización administrativa y contenido de la misma.
+
+1\. Los Servicios Públicos de Empleo establecerán los documentos en los que se formalizará la solicitud de autorización para el uso de medios telemáticos en relación con la comunicación del contenido de la contratación laboral. En dicho documento se harán constar las cláusulas y condiciones que los solicitantes deben aceptar para ser autorizados.
+
+2\. El documento de solicitud de autorización que los Servicios Públicos de Empleo establezcan podrá ser facilitado a los interesados por medios telemáticos.
+
+3\. Los Servicios Públicos de Empleo establecerán el procedimiento que permita la identificación del solicitante y, en su caso, el título jurídico y profesional en virtud del cual actúa, ya sea mediante aportación de documentación o el uso de medios telemáticos con utilización de la firma electrónica.
+
+### Artículo 5. Contenido de la solicitud de autorización administrativa para el uso de medios telemáticos.
+
+La solicitud de autorización administrativa contendrá como mínimo los siguientes datos:
+
+1\. Datos personales del representante de la empresa o del profesional colegiado que va a realizar la solicitud:
+
+Nombre y apellidos.
+
+NIF/NIE.
+
+2\. Datos de la empresa o del profesional colegiado para el que se solicita la autorización:
+
+NIF/NIE.
+
+Código cuenta de cotización.
+
+Dirección postal: vía, municipio y código postal.
+
+Dirección de correo electrónico.
+
+Si se trata de un profesional colegiado que carezca de código de cuenta de cotización, se aportará en su lugar el dato de número de afiliación a la Seguridad Social.
+
+3\. Datos que permitan identificar si la solicitud se realiza para llevar a cabo comunicaciones en nombre propio o de terceros.
+
+4\. En el caso del Ministerio de Industria, Energía y Turismo, el responsable será la Dirección General de Industria y de la PYME. Los datos de contacto se notificarán al Servicio Público de Empleo Estatal en caso de variación.
+
+> Se modifica el apartado 2 y se añade el apartado 4 por el art. único.2 de la Orden ESS/1727/2013, de 17 de septiembre. [Ref. BOE-A-2013-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10031).
+
+### Artículo 6. Requisitos de los solicitantes de autorización administrativa.
+
+1\. Los solicitantes de la autorización a los que se hace referencia en el artículo 3, para poder ser autorizados, deberán tener asignado a su NIF o NIE una cuenta de cotización por la Tesorería General de la Seguridad Social que deberá existir previamente a la autorización en la Base de Datos del Servicio Público de Empleo Estatal.
+
+2\. No obstante lo anterior, los Servicios Públicos de Empleo podrán autorizar a los profesionales colegiados que no cumplan el requisito indicado anteriormente siempre que estén afiliados a la Seguridad Social y aporten el número de afiliación.
+
+3\. Las empresas cuyas comunicaciones sean efectuadas por los autorizados a los que se hace referencia en los apartados 2 y 3 del artículo 3, deberán tener asignada a su NIF/NIE, una cuenta de cotización por la Tesorería General de la Seguridad Social que deberá existir en la Base de Datos del Servicio Público de Empleo Estatal.
+
+> Se modifican los aparartados 1 y 3 por el art. único.3 de la Orden ESS/1727/2013, de 17 de noviembre. [Ref. BOE-A-2013-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10031).
+
+### Artículo 7. Resolución de la solicitud de autorización por los Servicios Públicos de Empleo.
+
+1\. Los Servicios Públicos de Empleo procederán a resolver las solicitudes de autorización y notificarlas en el plazo máximo de quince días.
+
+2\. La concesión de la autorización para realizar las comunicaciones a las que se refiere la presente Orden permitirá al autorizado realizar dichas comunicaciones sea cual fuere la ubicación de los puestos de trabajo.
+
+3\. La autorización concedida se mantendrá mientras se cumplan las condiciones fijadas en la resolución de concesión.
+
+### Artículo 8. Impresión de documentos.
+
+Los Servicios Públicos de Empleo permitirán la impresión de todos los documentos y certificarán la validez de los datos mediante una huella electrónica de seguridad al objeto de que puedan surtir efectos ante terceros.
+
+## CAPÍTULO III — Aplicación telemática del Servicio Público de Empleo Estatal
+
+### Artículo 9. Aplicación Web del Servicio Público de Empleo Estatal.
+
+1\. Se crea en el Servicio Público de Empleo Estatal un registro telemático para el intercambio de información relativa a la comunicación del contenido de la contratación laboral, a la que se refiere el artículo primero de esta Orden.
+
+2\. A través de la aplicación Web creada a tales efectos, denominada "Comunicación de la Contratación Laboral a través de Internet", los usuarios podrán solicitar las autorizaciones de uso a las que se refiere esta norma, así como realizar las comunicaciones antes mencionadas mediante conexión con la dirección www.sepe.es o con cualquiera de las direcciones conectadas con ésta que se habiliten al efecto por los Servicios Públicos de Empleo de las Comunidades Autónomas.
+
+3\. La aplicación mencionada en los puntos anteriores cumplirá con los requisitos necesarios para asegurar la autenticidad, confidencialidad, integridad, disponibilidad, conservación y demás condiciones establecidas en el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos.
+
+> Se modifican los apartados 2 y 3 por el art. único.4 de la Orden ESS/1727/2013, de 17 de septiembre. [Ref. BOE-A-2013-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10031).
+
+### Artículo 10. Funcionalidad de la Aplicación.
+
+La funcionalidad de esta aplicación se concreta en las siguientes utilidades:
+
+1\. Solicitud y concesión de autorizaciones de uso.
+
+2\. Transmisión del contenido de las comunicaciones a las que se refiere el artículo primero de esta Orden.
+
+3\. Consultas relativas a la gestión de autorizaciones y comunicaciones realizadas por los usuarios.
+
+### Artículo 11. Solicitud y concesión de las autorizaciones.
+
+1\. Las empresas y colegiados profesionales que vayan a utilizar esta aplicación deberán solicitar a los Servicios Públicos de Empleo una autorización de uso de la misma mediante la cumplimentación telemática del «Formulario de Solicitud de Autorización» que figura como anexo II de esta Orden Ministerial y de la confirmación por la misma vía de dicho formulario.
+
+2\. El trámite de solicitud finaliza con la presentación ante el Servicio Público de Empleo al que se solicita la autorización, en el plazo de los treinta días siguientes a la cumplimentación y confirmación telemática indicada en el apartado anterior, del documento impreso de solicitud de autorización que figura en la presente Orden Ministerial como anexo III: «Solicitud de autorización administrativa a empresas», para las empresas que actúan en su propio nombre, y como Anexo IV: «Solicitud de autorización administrativa a empresas y profesionales colegiados que ostentan la representación de empresas en cuyo nombre actúan», para empresas y profesionales colegiados que actúan en nombre de terceros, a los que se deberá de acompañar la documentación indicada en los referidos anexos.
+
+3\. El Servicio Público de Empleo procederá a resolver la solicitud y notificarla en el plazo de los quince días siguientes a la recepción de aquélla.
+
+4\. La concesión de dicha autorización será comunicada por el Servicio Público de Empleo a la dirección de correo electrónico que haya indicado el usuario.
+
+5\. El Ministerio de Industria, Energía y Turismo, a través del Director General de Industria y de la PYME, realizará la solicitud de la autorización al Servicio Público de Empleo Estatal que procederá a resolver dicha solicitud y notificarla en el plazo de los quince días siguientes a la recepción de aquella.
+
+> Se añade apartado 5 por el art. único.5 de la Orden ESS/1727/2013, de 17 de septiembre. [Ref. BOE-A-2013-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10031).
+
+### Artículo 12. Comunicación del contenido de la contratación laboral y de las copias básicas de la misma.
+
+1\. Los usuarios autorizados podrán comunicar el contenido de la contratación laboral de forma individualizada o múltiple.
+
+2\. La Comunicación individualizada podrá llevarse a cabo de dos formas:
+
+a) Comunicando los datos obligatorios del contenido del contrato que previamente haya sido suscrito por las partes.
+
+b) Cumplimentando el modelo de contrato y comunicando provisionalmente el contenido de los datos que obligatoriamente han de reseñarse y confirmando, con posterioridad a la firma del mismo por las partes, dicha comunicación.
+
+3\. La comunicación múltiple permite la transmisión de ficheros al Servicio Público de Empleo de los contratos previamente suscritos por las partes. De la información contenida en los contratos sólo se enviará aquella que contenga los datos obligatorios de la comunicación, de acuerdo a las «Instrucciones Técnicas» que se aprueben mediante Resolución de la Dirección General del Instituto Nacional de Empleo, según se establece en la Disposición Final Primera de la presente Orden Ministerial.
+
+4\. Cuando se utilice la aplicación regulada en este Capítulo para comunicar el contenido de la contratación laboral, podrá utilizarse también para la comunicación de la copia básica de la misma por cualquiera de las alternativas de los apartados 2 y 3 de este artículo. En este caso, la aplicación permitirá la cumplimentación de los datos de la copia básica que no se incluyen en el anexo I como obligatorios respecto del contenido de la contratación.
+
+### Disposición adicional primera. Coste Económico.
+
+El registro telemático que se crea en el Servicio Público de Empleo Estatal al que se hace referencia en el artículo 9.1 de esta Orden, se atenderá con los medios personales y materiales del Instituto Nacional de Empleo.
+
+### Disposición derogatoria única. Derogación de disposiciones.
+
+Quedan derogadas todas las disposiciones de igual o inferior rango en tanto que contradigan o se opongan a lo establecido en esta norma y expresamente la Orden de 2 de enero de 2001, por la que dictan normas para la aplicación de lo dispuesto en los artículos 32 y 33 de la Ley 14/2000, de 29 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+### Disposición final primera. Desarrollo Informático.
+
+Se autoriza a la Dirección General del Instituto Nacional de Empleo a dictar las Resoluciones oportunas para desarrollar la aplicación telemática del Servicio Público de Empleo Estatal, de acuerdo con las necesidades derivadas de las modificaciones normativas y con las oportunidades que ofrezcan los avances tecnológicos en cada momento.
+
+### Disposición final segunda. Entrada en vigor.
+
+La presente Orden Ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 14 de marzo de 2003.
+
+ZAPLANA HERNÁNDEZ-SORO
+
+## ANEXO I — Relación de datos obligatorios a comunicar a los servicios públicos de empleo
+
+1\. Datos comunes a todas las comunicaciones excepto las certificaciones del apartado ocho de este anexo
+
+Datos de la Empresa:
+
+NIF/NIE.
+
+Nombre o Razón Social.
+
+Dirección.
+
+Nombre de vía.
+
+Municipio.
+
+Código postal.
+
+Datos de la Cuenta de Cotización a la Seguridad Social:
+
+Cuenta de cotización:
+
+Régimen de cotización.
+
+Provincia.
+
+Número.
+
+Dígito de control.
+
+Actividad económica.
+
+Datos del Centro de Trabajo:
+
+País.
+
+Municipio (sólo y obligatorio si País es España).
+
+Datos del Trabajador:
+
+NIF/NIE/ (no se consignará en las comunicaciones de copias básicas).
+
+Nombre.
+
+Primer apellido.
+
+Segundo apellido (si posee NIE y carece de segundo apellido, no se consignará).
+
+Fecha de nacimiento (mayor de dieciséis años).
+
+Sexo.
+
+Nacionalidad.
+
+País de domicilio.
+
+Municipio de domicilio (sólo y obligatorio si País de residencia es España).
+
+2\. Datos de la comunicación del contrato
+
+Datos comunes a todos los contratos:
+
+Código del contrato según la siguiente tabla:
+
+Indefinidos:
+
+Tiempo completo:
+
+100: Indefinido ordinario a tiempo completo.
+
+130: Indefinido de discapacitado a tiempo completo.
+
+150: Indefinido bonificado a tiempo completo.
+
+Tiempo parcial:
+
+200: Indefinido ordinario a tiempo parcial.
+
+230: Indefinido de discapacitado a tiempo parcial.
+
+250: Indefinido bonificado a tiempo parcial.
+
+Fijos discontinuos:
+
+300: Fijo discontinuo.
+
+330: Fijo discontinuo de discapacitado.
+
+350: Fijo discontinuo bonificado.
+
+Temporales:
+
+Tiempo completo:
+
+401: Obra o servicio determinado a tiempo completo.
+
+402: Eventual por circunstancias de la producción a tiempo completo.
+
+410: Interinidad a tiempo completo.
+
+420: Prácticas a tiempo completo.
+
+421: Formación a tiempo completo.
+
+430: Temporal de discapacitado a tiempo completo.
+
+441: Relevo a tiempo completo.
+
+450: Temporal bonificado a tiempo completo.
+
+452: Temporal T. Completo Empresas de Inserción.
+
+Tiempo parcial:
+
+501: Obra o servicio determinado a tiempo parcial.
+
+502: Eventual por circunstancias de la producción a tiempo parcial.
+
+510: Interinidad a tiempo parcial.
+
+520: Prácticas a tiempo parcial.
+
+530: Temporal de discapacitado a tiempo parcial.
+
+540: Jubilación parcial.
+
+541: Relevo a tiempo parcial.
+
+550: Temporal bonificado a tiempo parcial.
+
+552: Temporal T. Parcial Empresas de Inserción.
+
+Otros no contenidos en los anteriores a tiempo completo o a tiempo parcial:
+
+970: Adscripción a Colaboración Social.
+
+980: Jubilación especial a los 64 años.
+
+990: Otros contratos.
+
+Fecha de inicio de la relación laboral.
+
+Ocupación o profesión.
+
+Nivel formativo.
+
+Identificador de la oferta de empleo (obligatoria para contratos de Programas de Empleo).
+
+Datos de los contratos según modalidad y otras características del contrato:
+
+Parcial:
+
+Horas de jornada:
+
+Período de tiempo en que se realizan las horas de jornada.
+
+Horas de convenio (sólo si el contrato es subvencionado).
+
+Porcentaje de jubilación parcial (sólo en el contrato de jubilación parcial).
+
+Duración determinada:
+
+Fecha de término de la relación laboral (en el contrato de obra o servicio determinado y en el de interinidad no se consignará la fecha de término si no se conoce).
+
+Convenio que autorice duración superior a la máxima permitida (cuando lo permita la norma).
+
+Prácticas:
+
+Titulación académica.
+
+Formación:
+
+Horas de jornada.
+
+Período de tiempo en que se realizan las horas de jornada.
+
+Horas de formación.
+
+Colectivo de edad permitida para el contrato.
+
+Indicación de discapacidad (cuando proceda).
+
+Convenio que autorice duración distinta a la permitida.
+
+Anexo de Formación.
+
+Interinidad:
+
+Causa objeto de la interinidad para sustituir a trabajadores.
+
+Relevo:
+
+Tipo de trabajador de relevo contratado.
+
+Investigación:
+
+Tipo de empleador que contrata.
+
+Tipo de trabajador contratado.
+
+Acogidos a Medidas de la contratación:
+
+Normativa a la que se acoge.
+
+Colectivo al que pertenece, si procede.
+
+Cualquier otro dato que se solicite en el modelo oficial establecido.
+
+Subsidiado mayor de 52 años:
+
+Indicación de si el trabajador es perceptor de cualquiera de los subsidios recogidos en el artículo 215 del Texto Refundido de la Ley General de la Seguridad Social, o bien es perceptor del subsidio en favor de los trabajadores eventuales agrarios incluidos en el Sistema Especial para Trabajadores por Cuenta Ajena Agrarios incluidos en el Régimen General de la Seguridad Social.
+
+Discapacitados:
+
+Indicador de Bonificación.
+
+Colectivo de Bonificación.
+
+Indicación de si la empresa es un Centro Especial de Empleo.
+
+Contrato de puesta a disposición de una Empresa de Trabajo Temporal:
+
+NIF/NIE de empresa usuaria.
+
+Cuenta de cotización:
+
+Régimen de cotización.
+
+Provincia.
+
+Número.
+
+Dígito de control.
+
+Contrato para Escuelas Taller, Casas de Oficios o Talleres de Empleo:
+
+Tipo de trabajador contratado.
+
+Tipo de programa.
+
+Programa de Empleo:
+
+Programa para el que se contrata.
+
+Interés Social sin ánimo de lucro:
+
+Grupo de Cotización.
+
+Contrato a distancia:
+
+Indicar que el contrato es de esta modalidad.
+
+Contrato de grupo:
+
+Indicar que el contrato es de esta modalidad.
+
+Identificador (NIF/NIE) de los trabajadores del grupo.
+
+3\. Datos de la comunicación de copia básica
+
+Resto de datos contenidos en el contrato y que no estén recogidos en este anexo en el apartado uno y en el apartado dos o siete según se trate de una comunicación de copia básica de un contrato o de una transformación a indefinido de un contrato temporal, respectivamente.
+
+Domicilio del centro de trabajo (dirección completa).
+
+Tipo de firma de la copia básica.
+
+4\. Datos de la comunicación de prórroga
+
+Fecha de inicio de la prórroga.
+
+Fecha de término de la prórroga.
+
+5\. Datos de la comunicación de horas complementarias
+
+Número total de horas complementarias.
+
+Porcentaje de aumento que supone sobre las horas pactadas en el contrato.
+
+Identificador del contrato si se conoce.
+
+6\. Datos de la comunicación de llamamiento de fijo discontinuo
+
+Fecha de inicio del llamamiento.
+
+Fecha de término del llamamiento (si se conoce).
+
+Identificador del contrato (si se conoce).
+
+Nivel Formativo del trabajador.
+
+7\. Datos de la comunicación de transformación a indefinido de contrato temporal
+
+Datos comunes a todas las transformaciones de contratos:
+
+Código del contrato según la siguiente tabla:
+
+Tiempo completo:
+
+109: Conversión a indefinido bonificado a tiempo completo.
+
+139: Conversión a indefinido de discapacitado a tiempo completo.
+
+189: Conversión a indefinido no bonificado a tiempo completo.
+
+Tiempo parcial:
+
+209: Conversión a indefinido bonificado a tiempo parcial.
+
+239: Conversión a indefinido de discapacitado a tiempo parcial.
+
+289: Conversión a indefinido no bonificado a tiempo parcial.
+
+Fijo discontinuo:
+
+309: Conversión a fijo discontinuo bonificado.
+
+389: Conversión a fijo discontinuo no bonificado.
+
+339: Conversión a fijo discontinuo de minusválido.
+
+Fecha de inicio de la transformación.
+
+Ocupación o profesión.
+
+Datos del contrato transformado según modalidad y otras características del contrato:
+
+Parcial:
+
+Horas de jornada.
+
+Período de tiempo en que se realizan las horas de jornada (días, semana, mes o año).
+
+Horas de convenio (sí el contrato es subvencionado).
+
+Acogidos a Medidas de la contratación:
+
+Normativa a la que se acoge.
+
+Colectivo al que pertenece, si procede.
+
+8\. Datos de la comunicación telemática de la certificación expedida por la administración pública o entidad encargada de gestionar la formación de trabajadores sustituidos durante dichos períodos por trabajadores desempleados beneficiarios de prestaciones por desempleo
+
+Datos del Representante de la Administración Pública o Entidad encargada de gestionar la formación:
+
+NIF/NIE.
+
+Nombre.
+
+Primer apellido.
+
+Segundo apellido (si posee NIE y carece de segundo apellido, no se consignará).
+
+Datos de la Administración Pública o Entidad encargada de gestionar la formación:
+
+Administración Pública o Entidad encargada de gestionar la formación (Ministerio de Educación, Cultura y Deporte, Ministerio de Empleo y Seguridad Social, Organismo Autónomo, Organismo Perteneciente a Comunidad Autónoma u Otras Entidades como la Fundación Tripartita para la Formación en el Empleo, etc.).
+
+Nombre de la entidad que subvenciona la acción.
+
+Código identificativo de la subvención.
+
+Datos de la Empresa que tiene contratado al trabajador en formación a sustituir:
+
+NIF/NIE.
+
+Número de inscripción en la Seguridad Social.
+
+Nombre o Razón Social.
+
+Dirección:
+
+Nombre de vía.
+
+Municipio.
+
+Código postal.
+
+Número de trabajadores en plantilla.
+
+Datos del trabajador en formación a sustituir:
+
+NIF/NIE (no se consignará en las comunicaciones de copias básicas).
+
+Número de afiliación a la Seguridad Social.
+
+Nombre.
+
+Primer apellido.
+
+Segundo apellido (si posee NIE y carece de segundo apellido, no se consignará).
+
+Ocupación o profesión.
+
+Categoría profesional.
+
+Datos de las acciones formativas programadas:
+
+Denominación de la acción formativa.
+
+Fecha de inicio de la acción formativa.
+
+Fecha fin de la acción formativa.
+
+Total de horas de la acción formativa.
+
+Horario en que se imparte la acción formativa.
+
+Datos del centro de formación encargado de las acciones formativas:
+
+Nombre o razón social del centro de formación.
+
+Dirección del centro de formación.
+
+Nombre de vía.
+
+Municipio.
+
+Código postal.
+
+Datos del lugar y fecha de expedición de la certificación:
+
+Lugar.
+
+Fecha.
+
+> Se modifica por el art. único.6 de la Orden ESS/1727/2013, de 17 de septiembre. [Ref. BOE-A-2013-10031](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10031).
+
+## ANEXO II — Formulario de solicitud de autorización
+
+Datos del representante de la empresa.
+
+Nombre.
+
+Primer apellido.
+
+Segundo apellido (sí posee NIE y carece de segundo apellido, no se consignará).
+
+NIF/NIE.
+
+Datos de Identificación de la empresa.
+
+CIF/NIF.
+
+Cuenta de cotización.
+
+Régimen de cotización.
+
+Número.
+
+Dígito de control.
+
+Razón Social.
+
+Dirección postal de la empresa.
+
+Vía pública.
+
+Municipio.
+
+Código postal.
+
+Otros datos de la empresa.
+
+Correo electrónico.
+
+Número de teléfono (dato opcional).
+
+Número de fax (dato opcional).
+
+Lugar de Presentación.
+
+Lugar de presentación.
+
+Tipo de Empresa.
+
+Indicación del tipo de empresa que solicita la autorización:
+
+Empresa que va a actuar exclusivamente en nombre propio.
+
+Colegiado profesional o empresa que va a actuar en representación de terceros.
+
+## ANEXO III — Solicitud de autorización administrativa a empresas (para el uso de la Aplicación de Comunicación de la Contratación Laboral a través de Internet)
+
+Fecha de solicitud:
+
+N.º de solicitud:
+
+Don/doña ..............................................................................................., con número de identificación fiscal (N.I.F./N.I.E.) ............................................., en nombre y representación de la empresa ........................................., con C.I.F./N.I.F. ..........................................y código de cuenta de cotización ..............................................., y con domicilio en ..........................................................................., municipio ......................................, provincia ......................................................, C.P. ............................, e-mail ...................................., teléfono ........................................, fax ........................................
+
+Solicita autorización para el uso de la Aplicación de Comunicación de la Contratación Laboral a través de Internet.
+
+Esta autorización supone la aceptación de las cláusulas y condiciones que se detallan en la segunda hoja.
+
+La documentación que se deberá aportar será la siguiente:
+
+Solicitud firmada y sellada, por duplicado.
+
+Si el solicitante es persona física, documento nacional de identidad, o si se tratase de extranjero, pasaporte o documento que lo sustituya y número de identificación de extranjero.
+
+Si el solicitante es persona jurídica, además de la identificación de la persona natural, el título jurídico en virtud del cual la efectúa.
+
+El lugar de presentación de la solicitud y documentación será:
+
+El plazo de presentación de la solicitud y documentación será de treinta días naturales a contar desde la fecha de solicitud que figura en la cabecera de ésta.
+
+| Fecha y sello del Servicio Público de Empleo | Firma del solicitante y sello de la empresa |
+|---|---|
+
+Fdo.:
+
+Fecha: Hora: (huella)
+
+## ANEXO III — Cláusulas y condiciones
+
+La solicitud de autorización supone la aceptación de las siguientes cláusulas y condiciones desde el momento en que los Servicios Públicos de Empleo conceden la autorización:
+
+1\. Se conocen y aceptan las condiciones a que habrá de ajustarse el uso de la Aplicación de Comunicaciones de la Contratación Laboral a través de Internet.
+
+2\. Las empresas y colegiados profesionales velarán por la protección de los datos que gestionen, con sujeción a las leyes y, en particular, a la Ley Orgánica 15/1999, de 13 de diciembre (BOE de 14 diciembre), de regulación y tratamiento automatizado de datos de carácter personal y a sus disposiciones de aplicación y desarrollo.
+
+3\. Los colegiados profesionales autorizados deberán ostentar la representación de las empresas en cuyo nombre actúen, en los términos establecidos en la ley y los Servicios Públicos de Empleo podrán instar de los mismos, en cualquier momento, la acreditación de dicha representación.
+
+4\. A fin de identificar a la empresa autorizada, ésta tendrá una o varias claves de acceso, formada por el usuario y una clave personal. Esta clave es confidencial, personal e intransferible, y el usuario principal o asociado se hace responsable del uso correcto de ella; en otro caso, se podrán exigir las responsabilidades de todo tipo en que se pudiera haber incurrido por tales incumplimientos, a través del procedimiento correspondiente. Estas claves de acceso forman los elementos de seguridad que permiten autentificar y proteger el acceso al sistema. Al realizar cualquier proceso de la aplicación, las claves hacen de firma de dicho envío.
+
+5\. Esta autorización queda referida no sólo para el Código de Cuenta de Cotización para el que se solicite la autorización, sino también para todas las Cuentas de Cotización que estén relacionadas con ese CIF/NIF.
+
+6\. A partir de la concesión de la autorización, dispone del plazo de tres meses para comenzar a realizar comunicaciones de la contratación.
+
+7\. La autorización concedida se mantendrá mientras se cumplan las condiciones fijadas en la resolución de concesión.
+
+8\. El plazo para realizar las comunicaciones de los contratos laborales será el de los 10 días siguientes a la concertación del contrato de trabajo, según se establece en los artículos 32.1 y 33 de la ley 14/2000, de 20 diciembre (BOE de 30 diciembre), de Medidas fiscales, administrativas y del orden social.
+
+9\. El sistema informático del Servicio Público de Empleo dejará constancia a través de la clave de acceso de todos los procesos realizados por las empresas y colegios profesionales.
+
+10\. A las comunicaciones confirmadas por los Servicios Públicos de Empleo se les asignará una «huella electrónica» que permite garantizar a que los datos del proceso no han sido alterados.
+
+11\. La normativa legal que regula el uso de la Aplicación de Comunicación de la Contratación Laboral a través de Internet es el Real Decreto 1424/2002, de 27 de diciembre, por el que se regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo y el uso de medios telemáticos en relación con aquélla (BOE de 19 de febrero de 2003) y la Orden Ministerial de desarrollo.
+
+## ANEXO IV — Solicitud de autorización administrativa a empresas y colegiados profesionales que ostentan la representación de empresas en cuyo nombre actúan (para el uso de la Aplicación de Comunicación de la Contratación Laboral a través de Internet)
+
+Fecha de solicitud:
+
+N.º de solicitud:
+
+Don/doña ................................................................................................, con número de identificación fiscal (N.I.F./N.I.E.) ............................................., en nombre y representación de la empresa ........................................., con C.I.F./N.I.F. ................................................, y código de cuenta de cotización ............................................., y con domicilio en ..........................................................................., municipio ........................................, provincia ...................................., C.P........................., e-mail ................................................., teléfono ....................................................., fax ...................................................
+
+Solicita autorización para el uso de la Aplicación de Comunicación de la Contratación Laboral a través de Internet para realizar comunicaciones de empresas en cuyo nombre actúan y de las que ostentan la representación conforme a la Ley.
+
+Esta autorización supone la aceptación de las cláusulas y condiciones que se detallan en la segunda hoja.
+
+La documentación que se deberá aportar será la siguiente:
+
+Solicitud firmada y sellada, por duplicado.
+
+Si el solicitante es persona física, documento nacional de identidad, o si se tratase de extranjero, pasaporte o documento que lo sustituya y número de identificación de extranjero.
+
+Si el solicitante es persona jurídica, además de la identificación de la persona natural, el título jurídico en virtud del cual la efectúa.
+
+Si el solicitante es un colegiado profesional, además, certificado de colegiación.
+
+El lugar de presentación de la solicitud y documentación será:
+
+El plazo de presentación de la solicitud y documentación será de treinta días naturales a contar desde la fecha de solicitud que figura en la cabecera de ésta.
+
+| Fecha y sello del Servicio Público de Empleo | Firma del solicitante y sello de la empresa |
+|---|---|
+
+Fdo.:
+
+Fecha: Hora: (huella)
+
+## ANEXO IV — Cláusulas y condiciones
+
+La solicitud de autorización supone la aceptación de las siguientes cláusulas y condiciones desde el momento en que los Servicios Públicos de Empleo conceden la autorización:
+
+1\. Se conocen y aceptan las condiciones a que habrá de ajustarse el uso de la Aplicación de Comunicaciones de la Contratación Laboral a través de Internet.
+
+2\. Las empresas y colegiados profesionales velarán por la protección de los datos que gestionen, con sujeción a las leyes y, en particular a la Ley Orgánica 15/1999, de 13 de diciembre (BOE de 14 diciembre), de regulación y tratamiento automatizado de datos de carácter personal y a sus disposiciones de aplicación y desarrollo.
+
+3\. Los colegiados profesionales autorizados deberán ostentar la representación de las empresas en cuyo nombre actúen, en los términos establecidos en la ley y los Servicios Públicos de Empleo podrán instar de los mismos, en cualquier momento, la acreditación de dicha representación.
+
+4\. A fin de identificar a la empresa autorizada, ésta tendrá una o varias claves de acceso, formada por el usuario y una clave personal. Esta clave es confidencial, personal e intransferible, y el usuario principal o asociado se hace responsable del uso correcto de ella; en otro caso, se podrán exigir las responsabilidades de todo tipo en que se pudiera haber incurrido por tales incumplimientos, a través del procedimiento correspondiente. Estas claves de acceso forman los elementos de seguridad que permiten autentificar y proteger el acceso al sistema. Al realizar cualquier proceso de la aplicación, las claves hacen de firma de dicho envío.
+
+5\. Esta autorización queda referida no sólo para el Código de Cuenta de Cotización para el que se solicite la autorización, sino también para todas las Cuentas de Cotización que estén relacionadas con ese CIF/NIF.
+
+A partir de la concesión de la autorización, dispone del plazo de tres meses para comenzar a realizar comunicaciones de la contratación.
+
+La autorización concedida se mantendrá mientras se cumplan las condiciones fijadas en la resolución de concesión.
+
+8\. El plazo para realizar las comunicaciones de los contratos laborales será el de los 10 días siguientes a la concertación del contrato de trabajo, según se establece en los artículos 32.1 y 33 de la ley 14/2000 de 20 diciembre (BOE de 30 diciembre) de Medidas fiscales, administrativas y del orden social.
+
+9\. El sistema informático del Servicio Público de Empleo dejará constancia a través de la clave de acceso de todos los procesos realizados por las empresas y colegios profesionales.
+
+10\. A las comunicaciones confirmadas por los Servicios Públicos de Empleo se les asignará una «huella electrónica» que permite garantizar a que los datos del proceso no han sido alterados.
+
+La normativa legal que regula el uso de la Aplicación de Comunicación de la Contratación Laboral a través de Internet es el Real Decreto 1424/2002, de 27 de diciembre, por el que se regula la comunicación del contenido de los contratos de trabajo y de sus copias básicas a los Servicios Públicos de Empleo y el uso de medios telemáticos en relación con aquélla (BOE, de 19 de febrero de 2003) y la Orden Ministerial de desarrollo.

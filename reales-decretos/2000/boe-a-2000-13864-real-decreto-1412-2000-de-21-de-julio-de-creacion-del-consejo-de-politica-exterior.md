@@ -1,0 +1,125 @@
+---
+title: "Real Decreto 1412/2000, de 21 de julio, de creación del Consejo de Política Exterior"
+identifier: "BOE-A-2000-13864"
+eli: "https://www.boe.es/eli/es/rd/2000/07/21/1412"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Presidencia del Gobierno"
+date: 2000-07-21
+published: 2000-07-22
+in_force_from: 2000-07-23
+last_amended: 2025-12-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 175"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-13864"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1412/2000, de 21 de julio, de creación del Consejo de Política Exterior
+
+La Ley del Gobierno atribuye al Presidente del Gobierno la función de dirigir la acción de éste y coordinar las funciones de sus miembros.
+
+La actividad internacional cada vez más intensa a la que se enfrenta el Estado ha motivado el desarrollo de una creciente actuación de distintos Departamentos ministeriales en el ámbito exterior.
+
+La necesidad de salvaguardar la coherencia y eficacia de esa acción exterior hace preciso coordinar su desarrollo y someterla a unas directrices cuyo cumplimiento es preciso asegurar.
+
+Con el fin de garantizar el logro de esos objetivos, se crea el Consejo de Política Exterior como estructura colegiada de apoyo y asesoramiento al Presidente del Gobierno en el desempeño de su función de dirigir y coordinar la acción del Gobierno en materia de política exterior.
+
+En su virtud, a propuesta del Presidente del Gobierno, de conformidad con lo previsto en el artículo 2.2.j) de la Ley 50/1997, de 27 de noviembre, del Gobierno,
+
+DISPONGO:
+
+## Artículo 1. Creación.
+
+Se crea el Consejo de Política Exterior, como órgano colegiado de apoyo al Presidente del Gobierno en sus funciones de dirección y de coordinación de la acción del Gobierno en materia de política exterior.
+
+## Artículo 2. Composición.
+
+1\. El Consejo de Política Exterior estará presidido por la persona titular de la Presidencia del Gobierno, formando también parte del mismo como miembros permanentes las personas titulares de las Vicepresidencias del Gobierno, las Ministras y Ministros del Gobierno y la persona titular de la Dirección del Gabinete de la Presidencia del Gobierno.
+
+2\. Podrán ser convocados, en función de los asuntos a tratar, autoridades o altos cargos de la Administración General del Estado y autoridades o altos cargos de las comunidades autónomas y entidades locales.
+
+3\. Ejercerá las funciones de secretaría del Consejo de Política Exterior la persona titular del Departamento de Asuntos Exteriores de la Presidencia del Gobierno, que será suplida en caso de ausencia, vacante o enfermedad por quien designe la persona titular del Gabinete de la Presidencia del Gobierno entre personas titulares de órganos con rango, al menos, de Subdirector General adscritos a la Presidencia del Gobierno.
+
+> Se modifica el apartado 3 por el art. 1.1 del Real Decreto 1081/2025, de 2 de diciembre. [Ref. BOE-A-2025-24546](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24546)
+
+> Se modifica el apartado 3 por el art. único del Real Decreto 1244/2024, de 3 de diciembre. [Ref. BOE-A-2024-25204](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-25204)
+
+> Se modifica por el art. único.1 del Real Decreto 236/2021, de 30 de marzo. [Ref. BOE-A-2021-5028](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5028)
+
+> Se modifica la denominación del Alto Comisionado contenida en el apartado 1 por la disposición final 2.1 del Real Decreto 998/2012, en la redacción dada por la disposición final 1 del Real Decreto 49/2018, de 1 de febrero. [Ref. BOE-A-2018-1417](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1417)
+
+> Se modifica el apartado 1 y se añade el 4 por la disposición final 2.1 de la Ley 2/2014, de 25 de marzo. [Ref. BOE-A-2014-3248](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3248).
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 998/2012, de 28 de junio. [Ref. BOE-A-2012-8672](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8672).
+
+> Se modifica por el art. 1 del Real Decreto 1389/2007, de 29 de octubre. [Ref. BOE-A-2007-18766](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18766).
+
+## Artículo 3. Funciones.
+
+Corresponde al Consejo de Política Exterior:
+
+1\. Analizar aquellas materias relativas al ámbito de la política exterior que el Presidente del Gobierno someta a su consideración.
+
+2\. Coadyuvar en el establecimiento y la elaboración de directrices y estrategias que permitan alcanzar los objetivos y satisfacer los intereses de España en los diferentes ámbitos de la acción exterior.
+
+3\. Contribuir a la coordinación de la acción exterior de los diferentes Departamentos ministeriales y organismos públicos.
+
+4\. Asistir al Presidente del Gobierno en su función de velar por el cumplimiento de las directrices de política exterior.
+
+## Artículo 4. Programación de los asuntos encomendados al Consejo.
+
+1\. Corresponde también al Consejo debatir y aprobar anualmente las directrices y medidas a adoptar en relación a los objetivos de política exterior acordados en su seno, así como la adecuación de recursos y medios presupuestarios disponibles para su adecuada ejecución por el Gobierno.
+
+2\. Corresponde al Consejo promover la coherencia de la acción exterior de los diferentes Departamentos ministeriales y organismos públicos.
+
+3\. Las reuniones del Consejo se celebrarán como mínimo dos veces al año y serán convocadas por el Presidente del Gobierno. El Ministro de Asuntos Exteriores y de Cooperación tendrá encomendados el desarrollo y ejecución de las estrategias y directrices aprobadas.
+
+4\. Corresponde al Consejo remitir, a través del Ministro de Asuntos Exteriores y de Cooperación, un Informe Anual al Congreso de los Diputados sobre "Balance, prioridades y perspectivas de la acción exterior del Estado", resultado de los trabajos y decisiones adoptadas en el mismo.
+
+> Se añade por el art. 2 del Real Decreto 1389/2007, de 29 de octubre. [Ref. BOE-A-2007-18766](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18766)
+
+## Artículo 5. Consejo Ejecutivo de Política Exterior.
+
+1\. Para un adecuado ejercicio de sus competencias se crea un Consejo Ejecutivo de Política Exterior en el Consejo de Política Exterior, presidido por la persona titular del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+2\. Por los Departamentos presentes en el Consejo, se determinará su representación en este Consejo Ejecutivo de Política Exterior. Los representantes designados por cada Ministerio tendrán, como mínimo, la categoría de Subsecretario o asimilado.
+
+3\. Asimismo, serán miembros del Consejo Ejecutivo de Política Exterior las personas titulares de la Secretaría de Estado de Presupuestos y Gastos, de la Secretaría de Estado de Política Territorial, de la Secretaría de Estado de Comunicación y de la Secretaría de Estado de Asuntos Exteriores y Globales, que participarán en sus reuniones únicamente cuando los asuntos a tratar afecten a su respectivo ámbito competencial.
+
+4\. Podrán igualmente ser convocados, en función de los asuntos a tratar, autoridades o altos cargos de la Administración General del Estado y autoridades o altos cargos de las Comunidades Autónomas y entidades locales.
+
+5\. Ejercerá las funciones de secretaría del Consejo Ejecutivo de Política Exterior la persona titular del Departamento de Asuntos Exteriores de la Presidencia del Gobierno, que será suplida en caso de ausencia, vacante o enfermedad por quien designe la persona titular del Gabinete de la Presidencia del Gobierno entre personas titulares de órganos con rango al menos de Subdirector General adscritos a la Presidencia del Gobierno.
+
+> Se modifica el apartado 5 por el art. 1.2 del Real Decreto 1081/2025, de 2 de diciembre. [Ref. BOE-A-2025-24546](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-24546)
+
+> Se modifica el apartado 5 por el art. 1 del Real Decreto 707/2024, de 17 de julio. [Ref. BOE-A-2024-14727](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-14727)
+
+> Se modifica por el art. 1 del Real Decreto 982/2021, de 10 de noviembre. [Ref. BOE-A-2021-18397](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18397)
+
+> Se modifican los apartados 3 y 5 por el art. único.2 del Real Decreto 236/2021, de 30 de marzo. [Ref. BOE-A-2021-5028](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5028)
+
+> Se modifica la denominación del Alto Comisionado contenida en el apartado 3 por la disposición final 2.1 del Real Decreto 998/2012, en la redacción dada por la disposición final 1 del Real Decreto 49/2018, de 1 de febrero. [Ref. BOE-A-2018-1417](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1417)
+
+> Se modifica por la disposición final 2.2 de la Ley 2/2014, de 25 de marzo. [Ref. BOE-A-2014-3248](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3248).
+
+> Redactada la rúbrica y los apartados 1, 2 y 3 conforme a la corrección de errores publicada en BOE núm. 155, de 26 de junio de 2014. [Ref. BOE-A-2014-6683](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-6683).
+
+> Se añade el apartado 3 por la disposición final 2.2 del Real Decreto 998/2012, de 28 de junio. [Ref. BOE-A-2012-8672](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-8672).
+
+> Se añade por el art. 3 del Real Decreto 1389/2007, de 29 de octubre. [Ref. BOE-A-2007-18766](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18766)
+
+## Disposición final única. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 21 de julio de 2000.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno,
+
+JOSÉ MARÍA AZNAR LÓPEZ

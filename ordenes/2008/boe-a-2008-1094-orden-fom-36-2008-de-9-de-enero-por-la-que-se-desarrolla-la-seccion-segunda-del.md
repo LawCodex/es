@@ -1,0 +1,315 @@
+---
+title: "Orden FOM/36/2008, de 9 de enero, por la que se desarrolla la sección segunda del capítulo IV del título V, en materia de arrendamiento de vehículos con conductor, del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre"
+identifier: "BOE-A-2008-1094"
+eli: "https://www.boe.es/eli/es/o/2008/01/09/fom36"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2008-01-09
+published: 2008-01-22
+in_force_from: 2008-01-23
+last_amended: 2021-10-02
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 19"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-1094"
+retrieved: 2026-10-11
+---
+
+# Orden FOM/36/2008, de 9 de enero, por la que se desarrolla la sección segunda del capítulo IV del título V, en materia de arrendamiento de vehículos con conductor, del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre
+
+El Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre, regula en su título V, dedicado a las actividades auxiliares y complementarias del transporte por carretera, la de arrendamiento de vehículos con conductor, al que dedica la sección 2.ª del capítulo IV.
+
+Dicho reglamento ha sido modificado por el Real Decreto 1225/2006, de 27 de octubre, lo que obliga a revisar, a su vez, los criterios contenidos en la Orden de 30 de julio de 1998 por la que se establecía el régimen jurídico de las autorizaciones habilitantes para el ejercicio de la actividad de arrendamiento de vehículos con conductor, a fin de adecuarlos a la referida modificación reglamentaria.
+
+Se procede, así, a aprobar una nueva orden ministerial reguladora de la actividad de arrendamiento de vehículos con conductor, mediante la que se adecuan los criterios hasta ahora vigentes para el ejercicio de dicha actividad tanto al nuevo marco jurídico definido por la modificación del Reglamento de la Ley de Ordenación de los Transportes Terrestres, como a los cambios experimentados en el ámbito mercantil y social en que se desarrolla la mencionada actividad.
+
+Con la nueva norma, se pretende, pues, por una parte, el establecimiento de nuevos criterios objetivos, para la prestación de los servicios con vehículos más modernos y de mayor calidad, y, por otra, la simplificación de la tramitación en el otorgamiento de las preceptivas autorizaciones, así como una mejora de la gestión empresarial.
+
+En su virtud, de acuerdo con la autorización contenida en la disposición adicional undécima del Reglamento de la Ley de Ordenación de los Transportes Terrestres, dispongo:
+
+## Artículo 1. Obligatoriedad de la autorización.
+
+Para la realización de la actividad de arrendamiento de vehículos con conductor será precisa la obtención, para cada vehículo que se pretenda dedicar a la misma, de una autorización que habilite para su prestación, de acuerdo con el artículo 180 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre (en adelante ROTT).
+
+## Artículo 2. Domicilio de las autorizaciones.
+
+Las autorizaciones de arrendamiento de vehículos con conductor deberán estar domiciliadas en el lugar en que lo esté el permiso de circulación de los vehículos a los que se hallen referidas.
+
+## Artículo 3. Órgano competente sobre las autorizaciones.
+
+El otorgamiento de las autorizaciones de arrendamiento de vehículos con conductor se realizará por el órgano estatal o autonómico que, directamente o por delegación, tuviera atribuida la competencia para la expedición de las autorizaciones de transporte discrecional interurbano en el lugar en que aquéllas hayan de estar domiciliadas.
+
+## Artículo 4. Ámbito de las autorizaciones.
+
+Las autorizaciones de arrendamiento de vehículos con conductor habilitarán para la realización de servicios, tanto urbanos como interurbanos, en todo el territorio nacional, siempre que el vehículo haya sido previamente contratado de conformidad con lo dispuesto en esta orden.
+
+## Artículo 5. Requisitos para el otorgamiento de las autorizaciones.
+
+El otorgamiento de las autorizaciones de arrendamiento de vehículos con conductor estará condicionado a que la empresa solicitante acredite el cumplimiento de los requisitos señalados en los apartados 1 y 2 del artículo 181 del ROTT de conformidad con lo previsto en los artículos de esta orden.
+
+> Se modifica por el art. único.1 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+> Se modifica por el art. único.1 de la Orden FOM/3203/2011, de 18 de noviembre. [Ref. BOE-A-2011-18459](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18459).
+
+## Artículo 6. Acreditación de la personalidad jurídica y nacionalidad de la empresa.
+
+1\. A efectos del cumplimiento de lo dispuesto en el artículo 181.1 del ROTT en relación con el artículo 43.1 letras a) y b) de la LOTT, la acreditación de los requisitos de personalidad jurídica y nacionalidad de la empresa se realizará mediante la presentación del documento nacional de identidad en vigor del titular de la autorización o, cuando fuera extranjero, del documento de identificación que surta efectos equivalentes en su país de origen o del pasaporte, que habrá de acompañarse de la correspondiente tarjeta de identidad de extranjero y de la autorización de residencia de larga duración o de residencia temporal y trabajo por cuenta propia, y, en todos los supuestos, de la acreditación de encontrarse en posesión del correspondiente número de identificación fiscal.
+
+Cuando el titular de la autorización fuera una persona jurídica deberá presentar el documento de constitución y su tarjeta de identificación fiscal y acreditar su inscripción en el Registro Mercantil o, en su caso, en el Registro que corresponda.
+
+2\. No se exigirá la presentación de la documentación referida en este artículo cuando el órgano competente tuviera conocimiento del cumplimiento de los extremos a que la misma está referida a través del Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte.
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+> Se modifica el apartado 1 por el art. único.2 de la Orden FOM/3203/2011, de 18 de noviembre. [Ref. BOE-A-2011-18459](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18459).
+
+## Artículo 7. Acreditación del cumplimiento de obligaciones fiscales.
+
+1\. A los efectos de la presente orden, únicamente se entenderá que el titular de la autorización cumple sus obligaciones fiscales cuando concurran las siguientes circunstancias:
+
+a) Estar dado de alta en el censo de empresarios, profesionales y retenedores a efectos fiscales.
+
+b) Haber presentado las declaraciones por el Impuesto sobre la Renta de las Personas Físicas o de Sociedades, según se trate de una persona sujeta a uno u otro impuesto, así como las correspondientes declaraciones por pagos fraccionados, a cuenta y retenciones que en cada caso procedan.
+
+c) Haber presentado las declaraciones periódicas por el Impuesto sobre el Valor Añadido, así como la declaración resumen anual.
+
+d) No existir deudas con el Estado o la correspondiente comunidad autónoma en período ejecutivo en relación con los tributos a que se refiere este punto. No obstante, se considerará que se cumple este requisito cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de las correspondientes liquidaciones.
+
+Las circunstancias indicadas en los apartados b) y c) se refieren a declaraciones cuyo plazo reglamentario de presentación hubiese vencido en los doce meses precedentes a la fecha en que el cumplimiento del requisito haya de ser acreditado.
+
+2\. La circunstancia referida en el apartado a) del punto anterior se acreditará mediante la presentación de la correspondiente certificación de la situación censal de la empresa, expedida por la Agencia Estatal de Administración Tributaria, o, alternativamente, copia de la correspondiente declaración censal de comienzo o modificación de actividad.
+
+El resto de las circunstancias mencionadas en el punto anterior se acreditará mediante certificación administrativa expedida por el órgano competente para la recaudación de los referidos tributos. No obstante, el titular de la autorización podrá sustituir la certificación relativa al cumplimiento de las circunstancias previstas en los apartados b) y c) del punto anterior por la presentación material de los documentos acreditativos de haber realizado la correspondiente alta o declaración en relación con los referidos impuestos.
+
+La certificación a que se hace referencia en el párrafo anterior perderá su valor acreditativo, a los efectos perseguidos en la presente orden, una vez transcurrido el plazo de seis meses contados desde la fecha de su expedición.
+
+En aquellos supuestos en que la empresa no hubiera estado obligada a presentar las declaraciones o documentos a que se refiere el punto 1 de este artículo durante el período requerido, lo acreditará mediante una declaración responsable.
+
+3\. No se exigirá la presentación de la documentación referida en el punto 2, cuando el órgano competente tuviera conocimiento del cumplimiento de las obligaciones fiscales de la empresa, a través del Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte.
+
+## Artículo 8. Acreditación del cumplimiento de obligaciones laborales y sociales.
+
+1\. A los efectos de esta orden, se considerará que el titular de la autorización se encuentra al corriente en el cumplimiento de sus obligaciones laborales y sociales, cuando concurran en él las siguientes circunstancias:
+
+a) Estar inscrito en la Seguridad Social y, en su caso, si se trata de un empresario individual, afiliado y en alta en el régimen que corresponda.
+
+b) Haber dado de alta en el régimen de la Seguridad Social que corresponda a los trabajadores que presten servicio en su empresa.
+
+c) Haber presentado los documentos de cotización correspondientes a las cuotas de la Seguridad Social y, si procediese, de los conceptos de recaudación conjunta con las mismas, así como de las asimiladas a aquéllas con efectos recaudatorios, correspondientes a los doce meses anteriores a la fecha en que el cumplimiento del requisito haya de ser acreditado.
+
+d) Estar al corriente en el pago de las cuotas o de otras deudas con la Seguridad Social. A tal efecto, se considerará que la empresa se halla al corriente en el cumplimiento de sus obligaciones con la Seguridad Social cuando las deudas estén aplazadas, fraccionadas o se hubiera acordado su suspensión con ocasión de la impugnación de tales deudas.
+
+2\. Las circunstancias reseñadas en el punto anterior se acreditarán mediante certificación administrativa expedida por el órgano competente en materia de Seguridad Social. Dicha certificación perderá su valor acreditativo, a los efectos de esta orden, una vez transcurrido el plazo de seis meses contados desde la fecha de su expedición.
+
+No obstante, el titular de la autorización podrá sustituir la certificación relativa al cumplimiento de las circunstancias previstas en los apartados a), b) y c) del punto 1 por la presentación material de los documentos acreditativos de haber realizado la correspondiente inscripción, alta o cotización.
+
+En aquellos supuestos en que la empresa no hubiera estado obligada a presentar las declaraciones o documentos a que se refiere el punto 1 durante el período requerido, lo acreditará mediante una declaración responsable.
+
+3\. No se exigirá la presentación de la documentación referida en el punto 2, cuando el órgano competente tuviera conocimiento del cumplimiento de las obligaciones laborales y sociales de la empresa, a través del Registro General de Transportistas y de Empresas de Actividades Auxiliares y Complementarias del Transporte.
+
+## Artículo 9. Acreditación de la disposición del local.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.3 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 10. Acreditación de la disposición de un número mínimo de vehículos.
+
+La disposición efectiva de los vehículos exigidos en el artículo 181.2 del ROTT se acreditará mediante la presentación de los correspondientes permisos de circulación y, cuando éstos no se encuentren expedidos a nombre del titular de la autorización, del correspondiente contrato de arrendamiento.
+
+> Se modifica por el art. único.4 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+> Se modifica por el art. único.3 de la Orden FOM/3203/2011, de 18 de noviembre. [Ref. BOE-A-2011-18459](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18459).
+
+## Artículo 11. Condiciones y características de los vehículos.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.5 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+> Se modifica el apartado 1.a) por el art. único.4 de la Orden FOM/3203/2011, de 18 de noviembre. [Ref. BOE-A-2011-18459](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18459).
+
+## Artículo 12. Conductores de los vehículos.
+
+Los conductores utilizados por las empresas dedicadas al arrendamiento de vehículos con conductor deberán encontrarse encuadrados en su organización empresarial de conformidad con lo que se dispone en el artículo 54.3 de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y estar en posesión del permiso de conducción que resulte pertinente de conformidad con la reglamentación en materia de tráfico, circulación y seguridad vial.
+
+> Se modifica por el art. único.6 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 13. Solicitud de las autorizaciones.
+
+Para iniciar la tramitación del procedimiento tendente a la obtención de las autorizaciones de arrendamiento de vehículos con conductor será necesario presentar la correspondiente solicitud ante el órgano competente, acompañada de la documentación acreditativa del cumplimiento de los requisitos de la personalidad jurídica y nacionalidad de la empresa previstos en el artículo 6.1 de esta orden, sin perjuicio de la acreditación posterior del resto de requisitos previstos.
+
+> Se modifica por el art. único.7 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 14. Otorgamiento de las autorizaciones.
+
+Cuando se cumplan todas las condiciones señaladas en el artículo 5, el órgano competente únicamente podrá denegar las autorizaciones solicitadas si concurren las circunstancias previstas en el artículo 181.3 del ROTT.
+
+> Se modifica por el art. único.8 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 15. Documentación de las autorizaciones.
+
+Las autorizaciones de arrendamiento de vehículos con conductor otorgadas conforme a lo previsto en el artículo anterior, se documentarán mediante la expedición de las correspondientes tarjetas de la clase VTC, en las que se especificará su titularidad, domicilio, vehículo al que estén referidas y demás circunstancias de la actividad que se determinen por la Dirección General de Transportes por Carretera.
+
+## Artículo 16. Visado de las autorizaciones.
+
+1\. La validez de las autorizaciones otorgadas conforme a lo previsto en esta orden quedará condicionada a la constatación periódica del cumplimiento de los requisitos previstos en el artículo 5 de esta orden.
+
+Dicha constatación se llevará a cabo, bienalmente, por el órgano administrativo que haya realizado el otorgamiento de las autorizaciones.
+
+2.**(Suprimido)**
+
+3\. **(Suprimido)**
+
+4\. Una vez realizado el visado de cada autorización, el órgano competente procederá a documentarla en una nueva tarjeta en los términos previstos en el artículo 15.
+
+> Se modifica el apartado 1 y se suprimen los apartados 2 y 3 por el art. único.9 y 10 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 17. Rehabilitación de autorizaciones caducadas por falta de visado.
+
+Las autorizaciones caducadas por falta de visado podrán ser rehabilitadas por el órgano competente para su expedición, cuando así se solicite en el plazo de un año, contado a partir del vencimiento del plazo establecido para la realización del visado y se aporte idéntica documentación a la exigida para el mismo.
+
+En todo caso, el pago de las sanciones pecuniarias impuestas por resolución que ponga fin a la vía administrativa por infracciones a la legislación de transporte será requisito necesario para que proceda la rehabilitación de las autorizaciones en relación con las cuales hayan cometido sus titulares las correspondientes infracciones.
+
+## Artículo 18. Plazos para la realización de los visados.
+
+La realización de los visados previstos en los artículos anteriores se llevará a cabo de acuerdo con los plazos y calendario que al efecto se determinen por la Dirección General de Transportes por Carretera o, de conformidad con lo previsto por ésta, por las comunidades autónomas que por delegación del Estado hayan de realizarlos.
+
+## Artículo 19. Comprobación de las condiciones de la autorización.
+
+La realización del visado periódico previsto en los artículos anteriores no será obstáculo para que la Administración pueda, en todo momento, comprobar el cumplimiento adecuado de los requisitos establecidos en el artículo 5, recabando de la empresa titular de las autorizaciones la documentación acreditativa que estime pertinente.
+
+## Artículo 20. Transmisión de las autorizaciones.
+
+1\. Las autorizaciones de arrendamiento de vehículos con conductor podrán transmitirse a otros titulares, siempre que la Administración así lo posibilite realizando la novación subjetiva de las mismas en favor de sus adquirentes. En ningún caso, la novación subjetiva podrá suponer la domiciliación de la autorización en una comunidad autónoma distinta a aquélla en que originariamente se obtuvo. Dicha novación estará condicionada a que el adquirente cumpla la totalidad de los requisitos previstos para el originario otorgamiento de las autorizaciones o bien sea previamente titular de autorizaciones de arrendamiento de vehículos con conductor domiciliadas en la misma comunidad autónoma.
+
+El adquirente deberá acreditar que dispone de los vehículos a los que adscriba las autorizaciones transmitidas en los términos previstos en el artículo 181.2 del ROTT.
+
+La novación subjetiva de las autorizaciones dará lugar a la sustitución de las tarjetas, en que las mismas estuvieran documentadas por otras cuyas especificaciones se adecuen a la novación autorizada.
+
+2\. El órgano competente no autorizará la transmisión de una autorización de arrendamiento de vehículos con conductor cuando tenga conocimiento oficial de que se ha procedido a su embargo por órgano judicial o administrativo competente para ello.
+
+3\. El pago de todas las sanciones pecuniarias impuestas al cedente mediante resolución que ponga fin a la vía administrativa por infracciones de la legislación de transportes, será requisito necesario para que proceda la transmisión de las autorizaciones de arrendamiento de vehículos con conductor.
+
+> Se modifica el apartado 1 por el art. único.11 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 21. Régimen especial de transmisión de autorizaciones a los herederos forzosos.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.12 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 22. Sustitución de vehículos afectos a las autorizaciones.
+
+Los vehículos a los que estén referidas las autorizaciones de arrendamiento con conductor podrán sustituirse por otros cuando así lo autorice el órgano competente mediante la referencia de la correspondiente autorización al nuevo vehículo.
+
+Dicha sustitución quedará subordinada a que el vehículo sustituto cumpla los requisitos previstos en esta orden.
+
+La sustitución del vehículo al que estuvieran referidas las autorizaciones dará lugar al cambio de las correspondientes tarjetas por otras cuyas especificaciones se adecuen a la sustitución autorizada.
+
+El pago de todas las sanciones pecuniarias impuestas a su titular mediante resolución que ponga fin a la vía administrativa por infracciones de la legislación de transportes, será requisito necesario para que proceda la sustitución del vehículo afecto a una autorización de arrendamiento de vehículos con conductor.
+
+> Se modifica el párrafo primero por el art. único.13 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 23. Condiciones del arrendamiento de vehículos con conductor.
+
+**(Suprimido)**
+
+> Téngase en cuenta que este artículo, suprimido por la disposición derogatoria única.2 del Real Decreto 785/2021, de 7 de septiembre, [Ref. BOE-A-2021-16032](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16032), continuará vigente hasta que esté operativo el registro de comunicaciones y entre en vigor la ley por la que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, en materia de infracciones relativas al arrendamiento de vehículos con conductor, según establece la disposición transitoria 2 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "De conformidad con lo previsto en el artículo 182.1 del ROTT, el contrato de arrendamiento de vehículos con conductor deberá haberse cumplimentado previamente a que se inicie la prestación del servicio contratado, debiendo llevarse a bordo del vehículo bien una copia acreditativa de dicho contrato, siempre que contenga todas las menciones exigidas en el artículo 24, o bien la hoja de ruta a que hace referencia dicho artículo.
+
+> El arrendamiento deberá encontrarse referido, en todo caso, a la capacidad total del vehículo que se haya de utilizar, sin que quepa alquilar sus plazas de forma separada a distintos arrendatarios.
+
+> En todo caso, la actividad de arrendamiento de vehículos con conductor deberá respetar el resto de condiciones previstas en el artículo 182.1 del ROTT."
+
+> Se suprime por la disposición derogatoria única.2 del Real Decreto 785/2021, de 7 de septiembre. [Ref. BOE-A-2021-16032](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16032)
+
+> Téngase en cuenta que este artículo continuará vigente hasta que esté operativo el registro de comunicaciones y entre en vigor la ley por la que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, en materia de infracciones relativas al arrendamiento de vehículos con conductor, según establece la disposición transitoria 2 del citado Real Decreto.
+
+> Se modifica por el art. único.14 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+> Se modifica por el art. único.5 de la Orden FOM/3203/2011, de 18 de noviembre. [Ref. BOE-A-2011-18459](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18459).
+
+## Artículo 24. Hoja de ruta.
+
+**(Suprimido)**
+
+> Téngase en cuenta que este artículo, suprimido por la disposición derogatoria única.2 del Real Decreto 785/2021, de 7 de septiembre, [Ref. BOE-A-2021-16032](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16032), continuará vigente hasta que esté operativo el registro de comunicaciones y entre en vigor la ley por la que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, en materia de infracciones relativas al arrendamiento de vehículos con conductor, según establece la disposición transitoria 2 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "1. A efectos de control administrativo, la empresa titular de autorizaciones de arrendamiento de vehículos con conductor deberá cumplimentar una hoja de ruta por cada servicio, que deberá conservarse durante el plazo de un año, contado a partir de la fecha de celebración del contrato, a disposición de los servicios de inspección del transporte terrestre.
+
+> En cada hoja de ruta se hará constar el nombre y número del documento nacional de identidad o código de identificación fiscal del arrendador y el arrendatario; el lugar y fecha de celebración del contrato; el lugar, fecha y hora en que ha de iniciarse el servicio y el lugar y fecha en que haya de concluir; la matrícula del vehículo; así como el resto de las circunstancias que se establezcan, en su caso, por la Administración o que libremente pacten las partes.
+
+> No obstante lo dispuesto en el párrafo anterior, podrá omitirse la identificación del lugar de finalización del servicio cuando el contrato señale expresamente que dicho lugar será libremente determinado por el cliente durante la prestación del servicio.
+
+> 2\. En aquellos casos en los que, de acuerdo con lo previsto en el artículo anterior, la copia acreditativa del contrato contenga los mismos datos exigibles para la hoja de ruta, no será necesario cumplimentar ésta.
+
+> En todo caso, la empresa arrendadora deberá conservar el contrato de arrendamiento de cada servicio, a disposición de los servicios de inspección del transporte terrestre, durante el plazo de un año contado a partir de su fecha de celebración."
+
+> Se suprime por la disposición derogatoria única.2 del Real Decreto 785/2021, de 7 de septiembre. [Ref. BOE-A-2021-16032](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16032)
+
+> Téngase en cuenta que este artículo continuará vigente hasta que esté operativo el registro de comunicaciones y entre en vigor la ley por la que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, en materia de infracciones relativas al arrendamiento de vehículos con conductor, según establece la disposición transitoria 2 del citado Real Decreto.
+
+> Se modifica por el art. único.15 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+> Se añade el último inciso por el art. único.6 de la Orden FOM/3203/2011, de 18 de noviembre. [Ref. BOE-A-2011-18459](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18459).
+
+## Artículo 25. Precio del arrendamiento.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.16 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Artículo 26. Publicidad y distintivos en los vehículos.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.17 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Disposición adicional primera. Supuestos de no aplicabilidad.
+
+No será de aplicación lo dispuesto en esta orden a los supuestos legalmente previstos de colaboración entre transportistas, que se regirán por lo específicamente establecido para ellos.
+
+## Disposición adicional segunda. Especialidades de las comunidades autónomas.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.18 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Disposición adicional tercera. Illes Balears y Canarias, normas de desarrollo.
+
+Las Comunidades Autónomas de las Illes Balears y de Canarias podrán dictar normas en desarrollo o ejecución de la Ley de Ordenación de los Transportes Terrestres y su Reglamento en materia de arrendamiento de vehículos con conductor, en ejecución de lo dispuesto en el artículo 14.1 de la Ley Orgánica 5/1987, de 30 de julio, considerándose de aplicación supletoria en relación con las citada normas de desarrollo o ejecución, las disposiciones contenidas en la presente orden.
+
+## Disposición transitoria primera. Inexigibilidad de flota mínima.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.19 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Disposición transitoria segunda. Características de los vehículos.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.20 de la Orden FOM/2799/2015, de 18 de diciembre. [Ref. BOE-A-2015-14077](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14077).
+
+## Disposición derogatoria. Derogaciones.
+
+Queda derogada la Orden de 30 de julio de 1998, por la que se desarrolla el Reglamento de la Ley de Ordenación de los Transportes Terrestres en materia de arrendamiento de vehículos con conductor, así como cuantas otras disposiciones de igual o inferior rango se opongan a lo dispuesto en esta orden.
+
+## Disposición final primera. Medidas de ejecución.
+
+La Dirección General de Transportes por Carretera adoptará las medidas necesarias para el cumplimiento de esta orden y las reglas de coordinación que resulten necesarias para su aplicación, de conformidad con lo dispuesto en el artículo 16.2 de la Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas en relación con los Transportes por Carretera y por Cable.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 9 de enero de 2008.—La Ministra de Fomento, Magdalena Álvarez Arza.

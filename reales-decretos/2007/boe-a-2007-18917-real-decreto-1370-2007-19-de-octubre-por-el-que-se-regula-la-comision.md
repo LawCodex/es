@@ -1,0 +1,141 @@
+---
+title: "Real Decreto 1370/2007, 19 de octubre, por el que se regula la Comisión Interministerial de Igualdad entre mujeres y hombres"
+identifier: "BOE-A-2007-18917"
+eli: "https://www.boe.es/eli/es/rd/2007/10/19/1370"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2007-10-19
+published: 2007-11-01
+in_force_from: 2007-11-02
+last_amended: 2013-09-26
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 262"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-18917"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1370/2007, 19 de octubre, por el que se regula la Comisión Interministerial de Igualdad entre mujeres y hombres
+
+La Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, establece la creación de una comisión interministerial responsable de la coordinación de las políticas y medidas adoptadas por los departamentos ministeriales con la finalidad de garantizar el derecho a la igualdad entre mujeres y hombres y promover su efectividad.
+
+A su vez, en su artículo 15, se dispone la integración del principio de igualdad de trato y oportunidades en la adopción y ejecución de las disposiciones normativas de la Administración General del Estado, así como en la definición y dotación presupuestaria de las políticas públicas en todos los ámbitos y en el desarrollo del conjunto de todas sus actividades.
+
+La Ley prevé la ordenación general de las políticas públicas bajo la óptica del principio de igualdad y la perspectiva de género. Como instrumento básico para la consecución de la igualdad entre mujeres y hombres y la eliminación de la discriminación por razón de sexo, establece la aprobación periódica, por parte del Gobierno, de un Plan Estratégico de Igualdad de Oportunidades.
+
+La estructura ministerial de la Administración General del Estado adoptada en el Real Decreto 553/2004, de 17 de abril, junto con la experiencia adquirida en esta materia aconseja atribuir al Ministerio de Trabajo y Asuntos Sociales, la coordinación de las actuaciones de los diferentes departamentos ministeriales, así como la presidencia y la vicepresidencia primera de la Comisión Interministerial.
+
+Asimismo, en atención a las funciones generales de coordinación que corresponden en el ámbito de estas políticas a la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, el real decreto se aprueba a propuesta conjunta con el Ministro de Trabajo y Asuntos Sociales y se incorpora como Vicepresidente Segundo de la Comisión al Subsecretario de la Presidencia.
+
+El presente real decreto se aprueba de conformidad con la Comisión para elaborar la propuesta del Plan Estratégico de Igualdad de Oportunidades y el impulso para el desarrollo y aplicación de la Ley Orgánica 3/2007 para la Igualdad efectiva entre mujeres y hombres en el ámbito de la Administración General del Estado.
+
+Este real decreto se dicta de conformidad con lo dispuesto en el primer apartado de la Disposición final tercera y en el Artículo 76 de la Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad efectiva entre mujeres y hombres; y en el artículo 40 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado. Dicha Comisión continuará ejerciendo sus funciones hasta que se apruebe el Plan Estratégico.
+
+En su virtud, a propuesta conjunta de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia y del Ministro de Trabajo y Asuntos Sociales, con la aprobación previa de la Ministra de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 19 de octubre de 2007,
+
+## D I S P O N G O :
+
+### Artículo 1. Naturaleza.
+
+Se regula la Comisión Interministerial de Igualdad entre mujeres y hombres, como órgano colegiado interministerial adscrito al Ministerio de Sanidad, Servicios Sociales e Igualdad, jerárquicamente dependiente de su titular.
+
+> Se modifica por la disposición final 4.1 del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Se modifica por el art. único.1 del Real Decreto 41/2009, de 23 de enero. [Ref. BOE-A-2009-2031](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2031)
+
+### Artículo 2. Finalidad.
+
+La Comisión Interministerial de Igualdad entre mujeres y hombres tiene como finalidad supervisar la integración, de forma activa, del principio de igualdad de trato y oportunidades en la actuación de la Administración General del Estado, así como la coordinación de los distintos departamentos ministeriales en relación con las políticas y medidas por ellos adoptadas, en materia de igualdad de mujeres y hombres y para la erradicación de la violencia contra la mujer.
+
+> Se modifica por la disposición final 4.2 del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+### Artículo 3. Funciones.
+
+La Comisión Interministerial de Igualdad entre mujeres y hombres desarrollará las siguientes funciones:
+
+a) Seguimiento y coordinación de la aplicación del principio de igualdad de trato y oportunidades entre mujeres y hombres en la Administración General del Estado y de su integración activa en la adopción y ejecución de sus disposiciones normativas, en la definición y dotación presupuestaria de sus políticas públicas y en el desarrollo del conjunto de todas sus actividades.
+
+b) Análisis, debate y seguimiento del «Plan Estratégico de Igualdad de Oportunidades», que el Gobierno aprobará periódicamente, de conformidad con lo establecido en el artículo 17 de la Ley Orgánica 3/2007.
+
+c) La coordinación y supervisión de la elaboración del Informe periódico del Gobierno, establecido en el artículo 18 de la Ley Orgánica de igualdad, sobre la efectividad del principio de igualdad entre mujeres y hombres en el conjunto de sus actuaciones.
+
+d) Seguimiento y coordinación del desarrollo y aplicación de los informes de Impacto de Género y de las actuaciones de las Unidades de Igualdad constituidas en cada departamento ministerial, así como de la participación de las mujeres en los puestos de representación y dirección de la Administración General del Estado.
+
+e) El seguimiento de los acuerdos adoptados y el desarrollo de las actuaciones emprendidas en el seno de la Unión Europea y de los organismos internacionales, en relación con la consecución de la igualdad entre mujeres y hombres y la eliminación de toda discriminación por razón de sexo, sin perjuicio de las competencias atribuidas en la materia a otros órganos.
+
+f) Servir de cauce para el seguimiento y la coordinación en el ámbito de la Administración General del Estado, de la aplicación del principio de transversalidad de las medidas destinadas a la erradicación de la violencia de género, en sus distintas manifestaciones, teniendo en cuenta las necesidades y demandas específicas de las víctimas que se encuentran en situación de mayor vulnerabilidad.
+
+> Se modifica el apartado f) por la disposición final 4.3 del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+### Artículo 4. Composición.
+
+1\. La Comisión Interministerial de Igualdad entre mujeres y hombres estará integrada por:
+
+a) La persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, que la presidirá.
+
+b) Las personas titulares de la Secretaría de Estado de Servicios Sociales e Igualdad y de la Subsecretaría de la Presidencia, que ejercerán la vicepresidencia primera y segunda de la Comisión, respectivamente.
+
+c) Los vocales siguientes:
+
+1\. Las personas titulares de las Subsecretarías de todos los departamentos ministeriales.
+
+2\. La persona titular de la Delegación del Gobierno para la Violencia de Género.
+
+3\. La persona titular de la dirección del Instituto de la Mujer y de la Dirección General para la Igualdad de Oportunidades.
+
+4\. Un representante del Ministerio de la Presidencia, con rango de director general, designado por la persona titular de dicho Ministerio.
+
+5\. Un representante de la Secretaría de Estado de Justicia, con rango de director general, designado por su titular.
+
+6\. Un representante de la Secretaría de Estado de Seguridad, con rango de director general, designado por su titular.
+
+7\. Un representante de la Secretaría de Estado de Empleo, con rango de director general, designado por su titular.
+
+8\. Un representante de la Secretaría de Estado de Administraciones Públicas, con rango de director general, designado por su titular.
+
+2\. Realizará las funciones de secretaría un funcionario o funcionaria, con rango de subdirector general o equivalente, nombrado por la Presidencia de la Comisión, con voz pero sin voto.
+
+3\. En su caso, podrán participar en los trabajos de la Comisión Interministerial de Igualdad entre mujeres y hombres, con voz pero sin voto, personas expertas en materia de igualdad, representantes de otras administraciones públicas y del Consejo de Participación de la Mujer, cuando, por razón de los asuntos que hubieran de tratarse, la Comisión estimase conveniente su presencia.
+
+> Se modifica el apartado 1 por la disposición final 4.4 del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Se modifica por el art. único.2 del Real Decreto 41/2009, de 23 de enero. [Ref. BOE-A-2009-2031](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2031)
+
+### Artículo 5. Funcionamiento.
+
+La Comisión Interministerial se reunirá, al menos, dos veces al año y, en todo caso, cuando lo estime necesario su Presidente. En su funcionamiento estará asistida por la Secretaría General de Políticas de Igualdad, que prestará apoyo y asesoramiento en el desarrollo y puesta en marcha de las funciones establecidas en el artículo 3.
+
+### Artículo 6. Grupos de trabajo.
+
+La Comisión Interministerial podrá crear grupos de trabajo con la composición y funcionamiento que se determinen, y en todo caso, para el seguimiento, asesoramiento y coordinación de las Unidades de Igualdad de los departamentos ministeriales.
+
+### Disposición adicional única. Financiación.
+
+El Ministerio de Sanidad, Servicios Sociales e Igualdad atenderá con sus medios personales y materiales la constitución y funcionamiento de la Comisión Interministerial, sin que ello suponga, en ningún caso, incremento de gasto público.
+
+> Se modifica por la disposición final 4.5 del Real Decreto 701/2013, de 20 de septiembre. [Ref. BOE-A-2013-9968](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9968).
+
+> Se modifica por el art. único.3 del Real Decreto 41/2009, de 23 de enero. [Ref. BOE-A-2009-2031](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2031)
+
+### Disposición transitoria única. Continuación de funciones.
+
+La Comisión para elaborar la propuesta del Plan Estratégico de Igualdad de Oportunidades y el impulso para el desarrollo y aplicación de la Ley Orgánica 3/2007 para la igualdad efectiva entre mujeres y hombres en el ámbito de la Administración General del Estado, creada por Acuerdo del Consejo de Ministros del pasado 27 de abril, continuará sus funciones hasta que apruebe el citado Plan Estratégico.
+
+### Disposición final primera. Aplicación supletoria.
+
+En lo no previsto en este real decreto, la Comisión Interministerial de Igualdad entre mujeres y hombres, se regirá por sus propias normas de organización y funcionamiento y, en todo caso, por lo dispuesto en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 19 de octubre de 2007.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

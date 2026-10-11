@@ -1,0 +1,1004 @@
+---
+title: "Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios"
+identifier: "BOE-A-1999-17996"
+eli: "https://www.boe.es/eli/es/rd/1999/07/31/1334"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-07-31
+published: 1999-08-24
+in_force_from: 1999-08-25
+last_amended: 2015-03-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 202"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-17996"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios
+
+Incluye la corrección de errores publicada en BOE núm. 280, de 23 de noviembre de 1999. [Ref. BOE-A-1999-22454](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-22454).
+
+El Real Decreto 212/1992, de 6 de marzo, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, modificado por el Real Decreto 930/1995, de 9 de junio, incorpora al ordenamiento jurídico nacional la Directiva 79/112/CEE, relativa a la aproximación de las legislaciones de los Estados miembros en materia de etiquetado, presentación y publicidad de los productos alimenticios destinados al consumidor final, así como sus posteriores modificaciones.
+
+Asimismo, para garantizar una información adecuada a los consumidores, se adoptaron las Directivas 94/54/CE y 96/21/CE, relativas a la indicación en el etiquetado de determinados productos alimenticios de otras menciones obligatorias distintas de las previstas en la Directiva 79/112/CEE. La incorporación de estas Directivas al derecho nacional se ha llevado a cabo por los Reales Decretos 1908/1995, de 24 de noviembre, y 1268/1997, de 24 de julio.
+
+En fechas recientes se han producido nuevas modificaciones mediante la Directiva del Parlamento Europeo y del Consejo 97/4/CE, de 27 de enero, cuya finalidad es permitir, por medio de un etiquetado más completo, mejorar la información de los consumidores y respetar la lealtad de las transacciones comerciales.
+
+Esta última Directiva completa, principalmente, las actuales disposiciones relativas a la denominación de venta de los productos alimenticios, colma una laguna técnica en materia de etiquetado de los productos alimenticios compuestos por un solo ingrediente y hace obligatoria la mención de las cantidades de algunos ingredientes.
+
+La incorporación al ordenamiento jurídico interno, de lo dispuesto en la Directiva del Parlamento Europeo y del Consejo 97/4/CE, de 27 de enero, se lleva a cabo por el presente Real Decreto.
+
+Al propio tiempo, se hace oportuno realizar una refundición de la Norma general de etiquetado, presentación y publicidad, aprobada por el Real Decreto 212/1992 y sus posteriores modificaciones, a efectos de una mayor clarificación del texto que haga más fácil su aplicación.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución y de conformidad con el artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En la tramitación del procedimiento llevado a cabo para la aprobación del presente Real Decreto se ha dado audiencia a las asociaciones de consumidores y usuarios y a los sectores afectados, habiendo emitido su informe preceptivo la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo, de Economía y Hacienda, de Industria y Energía y de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de julio,
+
+DISPONGO:
+
+### Artículo único. Aprobación de la Norma general.
+
+Se aprueba la adjunta Norma general de etiquetado, presentación y publicidad de los productos alimenticios.
+
+### Disposición adicional única. Título competencial.
+
+El presente Real Decreto y la Norma general que aprueba se dictan de conformidad con lo dispuesto en el artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad y al amparo de lo establecido en el artículo 149.1.13.ª y 16.ª de la Constitución.
+
+No obstante, la exigencia establecida en el primer párrafo del artículo 18 sólo tendrá carácter básico respecto de las indicaciones relativas a la lista de ingredientes, las instrucciones para la conservación y el modo de empleo.
+
+### Disposición transitoria única. Prórroga de comercialización.
+
+Hasta el 14 de febrero del año 2000, se podrán comercializar los productos alimenticios, que, cumpliendo las disposiciones anteriores, no se ajusten al presente Real Decreto.
+
+No obstante, los productos etiquetados con anterioridad a esta fecha y que no se ajusten a lo dispuesto en este Real Decreto podrán comercializarse hasta que se agoten sus existencias.
+
+### Disposición derogatoria única. Normas que se derogan.
+
+Quedan derogados:
+
+El Real Decreto 212/1992, de 6 de marzo, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios.
+
+El Real Decreto 930/1995, de 9 de junio, por el que se modifica la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, aprobada por el Real Decreto 212/1992, de 6 de marzo.
+
+El Real Decreto 1908/1995, de 24 de noviembre, por el que se modifica la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, aprobada por el Real Decreto 212/1992, de 6 de marzo, a fin de indicar en el etiquetado de determinados productos alimenticios otras menciones obligatorias, y se modifica el Real Decreto 930/1995, de 9 de junio, permitiendo la comercialización de determinados productos.
+
+El Real Decreto 1268/1997, de 24 de julio, relativo a la indicación en el etiquetado de determinados productos alimenticios de otras menciones obligatorias distintas de las previstas en el Real Decreto 212/1992, de 6 de marzo, y por el que se modifica el artículo 20 de la Norma general de etiquetado, presentación y publicidad de los productos alimenticios.
+
+### Disposición final única. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Palma de Mallorca a 31 de julio de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## NORMA GENERAL DE ETIQUETADO, PRESENTACIÓN Y PUBLICIDAD DE LOS PRODUCTOS ALIMENTICIOS
+
+## CAPÍTULO I
+
+### Artículo 1. Ámbito de aplicación.
+
+La presente Norma se aplicará al etiquetado de los productos alimenticios destinados a ser entregados sin ulterior transformación al consumidor final, así como a los aspectos relativos a su presentación y a la publicidad que se hace de ellos y que en esta Norma se regulan.
+
+Se aplicará también a los productos alimenticios destinados a ser entregados a los restaurantes, hospitales, cantinas y otras colectividades similares, denominados en lo sucesivo «colectividades».
+
+### Artículo 2. Productos excluidos.
+
+Quedan excluidos del ámbito de aplicación de la presente Norma, los productos destinados a ser exportados a países no pertenecientes a la Unión Europea.
+
+## CAPÍTULO II
+
+### Artículo 3. Definiciones.
+
+A los efectos de esta Norma, se entiende por:
+
+1\. Etiquetado: las menciones, indicaciones, marcas de fábrica o comerciales, dibujos o signos relacionados con un producto alimenticio que figuren en cualquier envase, documento, rótulo, etiqueta, faja o collarín que acompañen o se refieran a dicho producto alimenticio.
+
+2\. Producto alimenticio envasado: la unidad de venta destinada a ser presentada sin ulterior transformación al consumidor final y a las colectividades, constituida por un producto alimenticio y el envase en el que haya sido acondicionado antes de ser puesto a la venta, ya recubra el envase al producto por entero o sólo parcialmente, pero de forma que no pueda modificarse el contenido sin abrir o modificar dicho envase.
+
+3\. Ingrediente: cualquier sustancia, incluidos los aditivos y los enzimas, utilizada en la fabricación o en la preparación de un producto alimenticio y que todavía se encuentra presente en el producto acabado, aunque sea en una forma modificada.
+
+No se consideran ingredientes:
+
+a) Los componentes de un ingrediente que en el curso del proceso de fabricación se hayan eliminado temporalmente para reincorporarlos después en cantidad que no sobrepase el contenido inicial.
+
+b) Los aditivos y enzimas cuya presencia en un producto alimenticio se deba únicamente al hecho de que estaban contenidos en uno o varios ingredientes de dicho producto, siempre que no cumplan ya una función tecnológica en el producto acabado.
+
+c) Los coadyuvantes tecnológicos.
+
+d) Las sustancias utilizadas en las dosis estrictamente necesarias como disolventes o soportes para aditivos, enzimas y aromas.
+
+e) Las sustancias que no sean aditivos pero que se utilicen del mismo modo y para los mismos fines que los auxiliares tecnológicos y que todavía se encuentren presentes en el producto acabado aunque sea en forma modificada.
+
+4\. Lote: conjunto de unidades de venta de un producto alimenticio producido, fabricado o envasado en circunstancias prácticamente idénticas.
+
+5\. Fecha de duración mínima: fecha hasta la cual el producto alimenticio mantiene sus propiedades específicas en condiciones de conservación apropiadas.
+
+> Se modifica el apartado 3 por el art. único.1 del Real Decreto 890/2011, de 24 de junio. [Ref. BOE-A-2011-11826](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11826).
+
+> Se añade el apartado 3.e) por el art. único.1 del Real Decreto 2220/2004, de 26 de noviembre. [Ref. BOE-A-2004-20122](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20122).
+
+## CAPÍTULO III
+
+### Artículo 4. Principios generales.
+
+1\. El etiquetado y las modalidades de realizarlo no deberán ser de tal naturaleza que induzcan a error al comprador, especialmente:
+
+a) Sobre las características del producto alimenticio y, en particular, sobre su naturaleza, identidad, cualidades, composición, cantidad, duración, origen o procedencia y modo de fabricación o de obtención.
+
+b) Atribuyendo al producto alimenticio efectos o propiedades que no posea.
+
+c) Sugiriendo que el producto alimenticio posee características particulares, cuando todos los productos similares posean estas mismas características.
+
+d) Atribuyendo a un producto alimenticio propiedades preventivas, terapéuticas o curativas de una enfermedad humana, ni mencionando dichas propiedades, sin perjuicio de las disposiciones aplicables a las aguas minerales naturales y a los productos alimenticios destinados a una alimentación especial.
+
+2\. Estas prohibiciones se aplicarán igualmente a la presentación de los productos alimenticios (en especial a la forma o al aspecto que se dé a éstos o a su envase, al material usado para éste y a la forma en que estén dispuestos, así como al entorno en que estén expuestos) y a la publicidad.
+
+## CAPÍTULO IV
+
+### Artículo 5. Información obligatoria del etiquetado
+
+1\. El etiquetado de los productos alimenticios requerirá solamente, salvo las excepciones previstas en este capítulo, las indicaciones obligatorias siguientes:
+
+a) La denominación de venta del producto.
+
+b) La lista de ingredientes.
+
+c) La cantidad de determinados ingredientes o categoría de ingredientes.
+
+d) El grado alcohólico en las bebidas con una graduación superior en volumen al 1,2 por 100.
+
+e) La cantidad neta, para productos envasados.
+
+f) La fecha de duración mínima o la fecha de caducidad.
+
+g) Las condiciones especiales de conservación y de utilización.
+
+h) El modo de empleo, cuando su indicación sea necesaria para hacer un uso adecuado del producto alimenticio.
+
+i) Identificación de la empresa: el nombre, la razón social o la denominación del fabricante o el envasador o de un vendedor establecido dentro de la Unión Europea y, en todo caso, su domicilio.
+
+j) El lote.
+
+k) El lugar de origen o procedencia.
+
+l) Las previstas en el anexo IV para diversas categorías o tipos de productos alimenticios.
+
+2\. Los quesos y los embutidos, en todo caso, deberán cumplir los requisitos de etiquetado establecidos en el presente artículo. No obstante, cuando su venta sea fraccionada se atendrán a lo recogido en el artículo 15.
+
+3\. Las indicaciones obligatorias señaladas en el apartado 1 únicamente podrán complementarse, con carácter obligatorio, con las establecidas en las disposiciones comunitarias de aplicación directa o en las disposiciones nacionales que incorporen la normativa comunitaria.
+
+### Artículo 6. Denominación de venta.
+
+1\. La denominación de venta de un producto alimenticio será la denominación prevista para este producto en las disposiciones de la Comunidad Europea que le sean aplicables.
+
+a) A falta de disposiciones de la Comunidad Europea, la denominación de venta será la denominación prevista por las disposiciones legales, reglamentarias o administrativas que le sean aplicables en España.
+
+En defecto de lo anterior, estará constituida por el nombre consagrado por el uso en España, o por una descripción del producto alimenticio y de su utilización, si fuera necesario, lo suficientemente precisa para permitir al comprador conocer su naturaleza real y distinguirlo de los productos con los que pudiera confundirse.
+
+b) Se admitirá también la utilización de la denominación de venta con la que el producto se fabrique y comercialice legalmente en el Estado miembro de procedencia.
+
+Sin embargo, cuando la aplicación de las disposiciones de la presente Norma, en particular las previstas en el artículo 5, no sean suficientes para permitir a los consumidores conocer la naturaleza real del producto y distinguirlo de los productos con los que pudiera confundirlo, la denominación de venta deberá completarse con otras indicaciones descriptivas que habrán de figurar en su proximidad.
+
+c) En casos excepcionales, la denominación de venta del Estado miembro de procedencia no se utilizará cuando el producto que designe se diferencie, desde el punto de vista de su composición o de su fabricación, del producto conocido bajo esta denominación hasta el punto de que las disposiciones del párrafo b) no basten para garantizar una información correcta a los consumidores.
+
+2\. No podrá ser sustituida la denominación de venta por una marca comercial o de fábrica o una denominación de fantasía.
+
+3\. La denominación de venta incluirá o irá acompañada de una indicación del estado físico en que se encuentra el producto alimenticio o del tratamiento específico a que ha sido sometido (tales como en polvo, liofilizado, congelado, concentrado, ahumado), en caso de que la omisión de dicha indicación pudiera inducir a confusión al comprador.
+
+Todos los productos alimenticios que hayan sido tratados con radiación ionizante deberán llevar una de las menciones siguientes: «irradiado» o «tratado con radiación ionizante».
+
+4\. Acompañarán a la denominación de venta, en aquellos casos en que el anexo IV lo establezca, las menciones que en él se especifican.
+
+5\. Cuando el producto alimenticio está regulado por disposiciones específicas, deberán utilizarse las designaciones de calidad tipificadas, quedando expresamente prohibidos los adjetivos calificativos diferentes a los establecidos en las disposiciones correspondientes.
+
+### Artículo 7. Lista de ingredientes.
+
+1\. La lista de ingredientes irá precedida del título «ingredientes» o de una mención apropiada que incluya tal palabra.
+
+2\. La lista de ingredientes estará constituida por la mención de todos los ingredientes en orden decreciente de sus pesos en el momento en que se incorporen durante el proceso de fabricación del producto.
+
+No obstante:
+
+a) El agua añadida y los ingredientes volátiles se indicarán en la lista en función de su peso en el producto acabado.
+
+La cantidad de agua añadida como ingrediente en un producto alimenticio, se determinará sustrayendo de la cantidad total del producto acabado la cantidad total de los demás ingredientes empleados; esta cantidad podrá no tomarse en consideración si, en peso, no excede del 5 por 100 del producto acabado.
+
+b) Cuando se trate de productos alimenticios concentrados o deshidratados destinados a ser reconstituidos mediante adición de agua, los ingredientes podrán mencionarse por orden decreciente de sus proporciones en el producto alimenticio reconstituido.
+
+La lista de ingredientes deberá ir acompañada en estos casos de expresiones tales como: «Ingredientes del producto reconstituido» o «Ingredientes del producto ya preparado para el consumo».
+
+c) Cuando se utilicen como ingredientes en un producto alimenticio mezclas de frutas, hortalizas o setas, en que ninguna predomine, en peso, de una manera significativa, y se utilicen en proporciones que puedan variar, podrán agruparse en la lista de ingredientes con la denominación "frutas", "hortalizas" o "setas", seguida por la indicación "en proporción variable", seguida inmediatamente de la enumeración de las frutas, hortalizas o setas presentes; en tal caso, la mezcla se indicará en la lista de ingredientes, de conformidad con el párrafo introductorio de este apartado 2, en función del peso del conjunto de las frutas, hortalizas o setas presentes.
+
+d) Cuando se utilicen ingredientes concentrados o deshidratados que se reconstituyan durante la fabricación del producto alimenticio, podrán mencionarse dichos ingredientes en la lista según su cuantía en peso antes de la concentración o deshidratación.
+
+e) No se requerirá mencionar el agua en el caso del líquido de cobertura que normalmente no se consume, ni cuando se utilice en el proceso de fabricación solamente para reconstituir a su estado de origen un ingrediente utilizado en forma concentrada o deshidratada.
+
+f) Los ingredientes que constituyan menos del dos por ciento del producto acabado podrán enumerarse en un orden diferente, a continuación de los demás ingredientes.
+
+g) Cuando puedan utilizarse en la fabricación o la preparación de un producto alimenticio ingredientes similares o intercambiables sin que se altere su composición, su naturaleza o su valor percibido, y siempre que constituyan menos del dos por ciento del producto acabado, su designación en la lista de ingredientes podrá efectuarse con la indicación "contiene... y/o...", en caso de que al menos uno de los dos ingredientes como máximo esté presente en el producto acabado. Esta disposición no se aplicará a los aditivos ni a los ingredientes enumerados en el anexo V.
+
+3\. Cuando un ingrediente de un producto alimenticio haya sido elaborado a partir de varios ingredientes, se considerará a estos últimos como ingredientes de dicho producto.
+
+En tal caso, dicho ingrediente compuesto podrá figurar en la lista de ingredientes bajo su denominación en la medida en que ésta esté regulada o consagrada por el uso, en función de su peso global, a condición de que vaya seguida inmediatamente por la enumeración de sus propios ingredientes.
+
+No obstante, dicha enumeración no será obligatoria:
+
+a) Cuando la composición del ingrediente compuesto se establezca en el marco de una norma comunitaria en vigor, siempre que el ingrediente compuesto constituya menos del dos por ciento del producto acabado; esta disposición no se aplicará a los aditivos, sin perjuicio de lo especificado en el segundo párrafo del apartado 3 del artículo 3.
+
+b) Para ingredientes compuestos que consistan en mezclas de especias y/o de plantas aromáticas que constituyan menos del dos por ciento del producto acabado, salvo los aditivos, sin perjuicio de lo especificado en el segundo párrafo del apartado 3 del artículo 3.
+
+c) Cuando el ingrediente compuesto sea un producto alimenticio para el que no se exija la lista de ingredientes.
+
+4\. Los ingredientes se designarán por su nombre específico, y siempre de acuerdo con las reglas del artículo 6, «Denominación de venta», excepto en los casos especificados en los apartados 5 y 6 del presente artículo.
+
+5\. Los ingredientes que pertenezcan a una de las categorías enumeradas en el anexo I y que sean componentes de otro producto alimenticio podrán designarse sólo con el nombre de dicha categoría, sin embargo, la designación «almidón» que figura en el anexo I deberá completarse siempre con la indicación de su origen vegetal específico, cuando dicho ingrediente pueda contener gluten.
+
+6\. Los ingredientes que pertenezcan a una de las categorías enumeradas en el anexo II se designarán obligatoriamente con el nombre de dicha categoría, seguido de su nombre específico o de su número CE. En el caso de ingredientes que pertenezcan a varias categorías se indicará la que corresponda a su función principal en el producto alimenticio de que se trate.
+
+Las enzimas distintas de las mencionadas en el apartado 3.b) del artículo 3, deben designarse mediante el nombre de una de las categorías de ingredientes que figuran en el anexo II, seguido de su nombre específico.
+
+7\. Los aromas se designarán de conformidad con el anexo III de la presente Norma general.
+
+8\. No precisarán lista de ingredientes:
+
+a) Los productos alimenticios constituidos por un solo ingrediente, siempre que la denominación de venta sea idéntica al nombre del ingrediente, o siempre que la denominación de venta permita determinar la naturaleza del ingrediente sin riesgo de confusión.
+
+b) Las frutas, las hortalizas frescas y las patatas, excepto las mondadas, cortadas o sometidas a cualquier otro tratamiento similar.
+
+c) Las aguas de bebida envasadas gasificadas cuya denominación señale esta característica.
+
+d) Los vinagres de fermentación que procedan de un solo producto base a los que no se les haya incorporado ningún otro ingrediente.
+
+e) Los quesos, la mantequilla, la leche y la nata fermentadas, siempre que no se les hayan añadido más ingredientes que productos lácteos, enzimas y cultivos de microorganismos necesarios para la fabricación de los citados productos, y, en el caso de los quesos distintos de los frescos o fundidos, la sal precisa para su elaboración.
+
+f) Las bebidas con un grado alcohólico adquirido superior en volumen al 1,2 por 100.
+
+9\. No obstante lo dispuesto en el apartado 8.f), todo ingrediente, tal como se define en el apartado 3 del artículo 3, que esté citado en el anexo V, deberá indicarse en la etiqueta cuando se encuentre en bebidas con un grado alcohólico adquirido superior al 1,2 por ciento. Tal indicación incluirá la palabra "contiene", seguida del nombre del ingrediente o de los ingredientes en cuestión. No obstante, podrá prescindirse de dicha indicación cuando el ingrediente figure ya con su nombre especifico en la lista de ingredientes o en la denominación de venta de la bebida.
+
+10\. No obstante lo dispuesto en el tercer párrafo del apartado 3, en los apartados 5, 6, 7 y en los párrafos a), b), c), d) y e) del apartado 8, cualquier ingrediente que se utilice en la producción de un producto alimenticio que siga presente en el producto acabado, aunque sea en forma modificada, y que esté enumerado en el anexo V o proceda de ingredientes enumerados en el anexo V, se indicará en la etiqueta mediante una referencia clara al nombre de dicho ingrediente.
+
+La indicación a que se refiere el párrafo anterior no será necesaria si la denominación comercial del producto se refiere claramente al ingrediente de que se trate.
+
+No obstante lo dispuesto en los párrafos b), c), d) y e) del apartado 3 del artículo 3, cualquier sustancia que se utilice en la producción de un producto alimenticio y que siga presente en el producto acabado, aunque sea en forma modificada, y que proceda de los ingredientes enumerados en el anexo V será considerada como un ingrediente y se indicará en la etiqueta mediante una referencia clara al nombre del ingrediente del que proceda.
+
+> Se modifica el apartado 6 por el art. único.2 del Real Decreto 890/2011, de 24 de junio. [Ref. BOE-A-2011-11826](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11826).
+
+> Se modifica el apartado 2 y el párrafo tercero del apartado 3, y se añaden los apartados 9 y 10 por el art. único.2 a 5 del Real Decreto 2220/2004, de 26 de noviembre. [Ref. BOE-A-2004-20122](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20122).
+
+### Artículo 8. Indicación cuantitativa de ciertos ingredientes.
+
+1\. Se indicará la cantidad de un ingrediente o de una categoría de ingredientes utilizada en la fabricación o preparación de un producto alimenticio siempre que:
+
+a) El ingrediente o la categoría de ingredientes de que se trate figure en la denominación de venta o el consumidor lo asocie en general con la denominación de venta; o
+
+b) En el etiquetado se destaque el ingrediente o la categoría de ingredientes de que se trate por medio de palabras, imágenes o representación gráfica; o
+
+c) Cuando el ingrediente o la categoría de ingredientes de que se trate sea esencial para definir un producto alimenticio y para distinguirlo de los productos con los que se pudiera confundir a causa de su denominación o de su aspecto.
+
+2\. No se aplicará la exigencia contemplada en el apartado 1 del presente artículo, en los siguientes casos:
+
+a) A un ingrediente o una categoría de ingredientes:
+
+1.º Cuyo peso neto escurrido se indique de conformidad con el apartado 6 del artículo 10.
+
+2.º Cuya cantidad debe figurar en el etiquetado en virtud de las disposiciones comunitarias.
+
+3.º Que se utilice en dosis bajas con fines de aromatización.
+
+4.º Que, aun cuando figure en la denominación de venta, no pueda determinar la elección del consumidor toda vez que la variación de cantidad no sea esencial para caracterizar al producto alimenticio o no sea suficiente para distinguir el producto de otros similares.
+
+b) Cuando haya disposiciones comunitarias específicas que determinen de manera precisa la cantidad del ingrediente o de la categoría de ingredientes sin prever la indicación de los mismos en el etiquetado.
+
+c) En los casos contemplados en el apartado 2.c) del artículo 7.
+
+3\. Los párrafos a) y b) del apartado 1 del presente artículo no se aplicarán:
+
+a) Cuando las menciones "edulcorante(s)" o "azúcar(es) y edulcorante(s)" acompañen a la denominación de venta de un producto alimenticio con arreglo a lo establecido en el anexo IV.
+
+b) A las menciones relativas a la incorporación de vitaminas y minerales, cuando dichas sustancias figuren en el etiquetado sobre propiedades nutritivas.
+
+4\. La cantidad mencionada, expresada en porcentaje, corresponderá a la cantidad del o de los ingredientes en el momento de su utilización.
+
+5\. Con excepción al principio establecido en el apartado 4 del presente artículo se aplicará a la indicación de las cantidades de ingredientes lo siguiente:
+
+a) En el caso de los productos alimenticios que hayan perdido humedad como consecuencia de un tratamiento térmico o de otro tipo, la cantidad mencionada será la del ingrediente o ingredientes utilizados, referida al producto acabado ; dicha cantidad se expresará en porcentaje.
+
+No obstante, si la cantidad de un ingrediente o la cantidad total de todos los ingredientes recogida en el etiquetado es superior al 100 por 100, en lugar del porcentaje se indicará el peso del ingrediente o ingredientes utilizados para preparar 100 gramos de producto acabado.
+
+b) La cantidad de ingredientes volátiles se indicará en función de su importancia ponderal en el producto acabado.
+
+La cantidad de los ingredientes utilizados en forma concentrada o deshidratada y reconstituidos podrá expresarse en función de su importancia ponderal antes de la concentración o deshidratación.
+
+En el caso de alimentos concentrados o deshidratados a los que se haya de añadir agua, la cantidad de los ingredientes podrá expresarse en función de su importancia ponderal en el producto reconstituido.
+
+6\. La mención contemplada en el apartado 1 del presente artículo, figurará en la denominación de venta del producto alimenticio, o indicada junto a dicha denominación, o en la lista de ingredientes en relación con el ingrediente o categoría de ingredientes en cuestión.
+
+7\. Este artículo se aplicará sin perjuicio de lo dispuesto en el Real Decreto 930/1992, de 17 de julio, por el que se aprueba la norma de etiquetado sobre propiedades nutritivas de los productos alimenticios.
+
+> Se renumeran los apartados 3, 4 y 5 como 4, 6 y 7 y se añaden los apartados 3 y 5 por el art. único.1 a 3 del Real Decreto 238/2000, de 18 de febrero. [Ref. BOE-A-2000-3371](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3371).
+
+### Artículo 9. Grado alcohólico.
+
+Las bebidas con grado alcohólico superior en volumen al 1,2 por 100 deberán incluir la indicación del grado alcohólico volumétrico adquirido.
+
+La cifra correspondiente al grado alcohólico incluirá un decimal como máximo e irá seguida del símbolo «% vol» y podrá estar precedida de la palabra «alcohol» o de la abreviatura «alc».
+
+Las modalidades de especificación del grado alcohólico volumétrico se determinarán, en lo que respecta a los productos correspondientes a la partida arancelaria 22.04 (vino de uvas frescas, incluso encabezado, mosto de uva, excepto el de la partida 20.09), por las normas obligatorias de la Comunidad Europea o del propio ordenamiento español.
+
+### Artículo 10. Cantidad neta.
+
+1\. La cantidad neta de los productos alimenticios envasados se expresará:
+
+a) En unidades de volumen para los productos líquidos.
+
+b) En unidades de masa para los demás.
+
+Se utilizará, según el caso, el litro (l o L), el centilitro (cl), el mililitro (ml) o bien el kilogramo (kg) o el gramo (g).
+
+Las Reglamentaciones técnico-sanitarias o normas específicas podrán establecer excepciones a esta regla para algunos productos alimenticios.
+
+2\. Las Reglamentaciones técnico-sanitarias o normas específicas podrán establecer otras indicaciones de cantidad para determinados productos alimenticios que estén clasificados en categorías por cantidad. Cuando establezcan la indicación de un tipo de cantidad, tal como: cantidad nominal, cantidad mínima, cantidad media, esta cantidad será, a efectos de la presente Norma general la cantidad neta.
+
+3\. Cuando un envase esté constituido por dos o más envases individuales que contengan la misma cantidad del mismo producto se indicará la cantidad neta mencionando la cantidad neta contenida en cada envase individual y el número total de envases. No obstante, estas indicaciones no serán obligatorias cuando el número total de envases individuales pueda verse claramente y contarse fácilmente desde el exterior y cuando pueda verse claramente desde el exterior por lo menos una indicación de la cantidad neta contenida en cada envase individual.
+
+4\. Cuando un envase esté constituido por dos o más envases individuales que no se consideren unidades de venta se indicará la cantidad neta mencionando la cantidad neta total y el número total de envases individuales. Las Reglamentaciones técnico-sanitarias o normas específicas podrán prever, para ciertos productos alimenticios, que no se indique el número total de envases individuales.
+
+5\. En el caso de productos alimenticios que se vendan normalmente por unidades no será obligatoria la indicación de la cantidad neta, siempre y cuando el número de unidades pueda verse claramente y contarse fácilmente desde el exterior o, en su defecto, que venga indicada en el etiquetado.
+
+6\. Cuando un producto alimenticio sólido se presente en un líquido de cobertura, en el etiquetado se indicará también la masa neta escurrida de dicho producto alimenticio. Por líquido de cobertura se entenderán los productos mencionados a continuación, en su caso, mezclados entre ellos y también cuando se presenten en estado congelado o ultracongelado, siempre que el líquido sea únicamente accesorio respecto a los elementos esenciales del preparado y, en consecuencia, no resulte determinante para la compra: agua, soluciones acuosas de sales, salmueras, soluciones acuosas de ácidos alimentarios, vinagre, soluciones acuosas de azúcares, soluciones acuosas de otras sustancias o materias edulcorantes y de zumo de frutas o de hortalizas en el supuesto de frutas y hortalizas.
+
+7\. La indicación de la cantidad neta no será obligatoria para los productos alimenticios:
+
+a) Que estén sujetos a pérdidas considerables de su volumen o de su masa y se vendan por unidades o se pesen ante el comprador.
+
+b) Cuya cantidad neta sea inferior a 5 gramos o 5 mililitros. Esta excepción no se aplicará en el caso de especias y plantas aromáticas.
+
+Las Reglamentaciones técnico-sanitarias o normas específicas podrán establecer a título excepcional y sin menoscabo de la información del comprador, umbrales superiores a los 5 gramos o a 5 mililitros.
+
+### Artículo 11. Marcado de fechas.
+
+En el etiquetado de todo producto alimenticio figurará la fecha de duración mínima o, en su caso, la fecha de caducidad.
+
+1\. La fecha de duración mínima se expresará mediante las leyendas:
+
+a) «Consumir preferentemente antes del ...» cuando la fecha incluya la indicación del día.
+
+b) «Consumir preferentemente antes del fin de...», en los demás casos.
+
+2\. Las indicaciones previstas en el apartado 1 anterior, irán acompañadas:
+
+a) Bien de la fecha misma.
+
+b) Bien de la indicación del lugar en que figura en el etiquetado.
+
+Si fuere preciso, estas indicaciones se completarán con la referencia a las condiciones de conservación que deben observarse para asegurar la duración indicada.
+
+3\. La fecha estará compuesta por la indicación clara y en orden del día, el mes y el año.
+
+No obstante, en el caso de los productos alimenticios:
+
+a) Cuya duración sea inferior a tres meses bastará indicar el día y el mes.
+
+b) Cuya duración sea superior a tres meses, pero sin sobrepasar los dieciocho meses, bastará indicar el mes y el año.
+
+c) Cuya duración sea superior a dieciocho meses, bastará indicar el año.
+
+4\. Sin perjuicio de las disposiciones comunitarias de directa aplicación o de las nacionales que incorporen la normativa comunitaria que impongan otras indicaciones de fecha, no precisarán indicar la fecha de duración mínima los productos siguientes:
+
+a) Las frutas y las hortalizas frescas, incluidas las patatas que no hayan sido peladas, cortadas o sometidas a cualquier otro tratamiento similar. Esta excepción no se aplicará a las semillas germinantes y a productos similares como los brotes de leguminosas.
+
+b) Los vinos, vinos generosos, vinos espumosos, vinos aromatizados y los productos similares obtenidos a partir de frutas distintas de la uva, así como las bebidas de los códigos NC 2206 00 31 00, 2206 00 51 00 y 2206 00 81 00 y elaboradas a partir de uva o de mosto de uva.
+
+c) Las bebidas con una graduación de un 10 por 100 o más en volumen de alcohol.
+
+d) Las bebidas refrescantes sin alcohol, jugos de frutas, néctares de frutas y bebidas alcohólicas en envases individuales de más de cinco litros destinados a distribuirse a las colectividades.
+
+e) Los productos de panadería o repostería que por su naturaleza se consumen normalmente en el plazo de veinticuatro horas después de su fabricación.
+
+f) Los vinagres.
+
+g) La sal de cocina.
+
+h) Los azúcares en estado sólido.
+
+i) Los productos de confitería consistentes casi exclusivamente en azúcares aromatizados y/o coloreados.
+
+j) Las gomas de mascar y los productos similares de mascar.
+
+k) Las porciones individuales de helados.
+
+5\. En el caso de productos alimenticios microbiológicamente muy perecederos y que por ello puedan suponer un peligro inmediato para la salud humana después de un corto período de tiempo, la fecha de duración mínima se cambiará por la fecha de caducidad, expresada mediante la leyenda «fecha de caducidad», seguida de la misma fecha o de una referencia al lugar donde se indica la fecha en la etiqueta. Dichas informaciones se completarán con una descripción de las condiciones de conservación que habrán de respetarse.
+
+La fecha consistirá en la indicación clara según este orden: día, mes y, eventualmente, año.
+
+> Redactado el apartado 4.b) conforme a la corrección de errores publicada en BOE núm. 280, de 23 de noviembre de 1999. [Ref. BOE-A-1999-22454](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-22454).
+
+### Artículo 12. Lote.
+
+La indicación del lote se efectuará de conformidad con lo dispuesto en el Real Decreto 1808/1991, de 13 de diciembre, por el que se regulan las menciones o marcas que permiten identificar el lote al que pertenece un producto alimenticio.
+
+No obstante lo anterior, cuando se trate de porciones individuales de helados, la indicación que permita identificar el lote debe figurar en los envases de varias unidades.
+
+### Artículo 13. País de origen.
+
+En los productos procedentes de los Estados miembros de la Unión Europea, se deberá indicar el lugar de origen o procedencia solamente en los casos en que su omisión pudiera inducir a error al consumidor sobre el origen o procedencia real del producto alimenticio.
+
+Los productos originarios de países no pertenecientes a la Unión Europea deberán indicar el lugar de origen o procedencia, sin perjuicio de lo dispuesto en los Tratados o Convenios internacionales sobre la materia que resulten de aplicación en España.
+
+### Artículo 14. Pequeños envases.
+
+Cuando la cara mayor de los envases tenga una superficie inferior a 10 centímetros cuadrados solamente será obligatorio indicar la denominación del producto, la cantidad neta y el marcado de fechas.
+
+### Artículo 15. Productos sin envasar.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 126/2015, de 27 de febrero. [Ref. BOE-A-2015-2293](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2293).
+
+### Artículo 16. Productos envasados por los titulares del comercio minorista.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria del Real Decreto 126/2015, de 27 de febrero. [Ref. BOE-A-2015-2293](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2293).
+
+## CAPÍTULO V
+
+### Artículo 17. Presentación de la información obligatoria.
+
+1\. Cuando los productos alimenticios se presenten envasados, las indicaciones de la información obligatoria del etiquetado, previstas en el artículo 5, figurarán en el envase o en una etiqueta unida al mismo.
+
+a) No obstante, sin perjuicio de las obligaciones relativas a las cantidades nominales, las menciones obligatorias del etiquetado podrán figurar solamente en documentos comerciales cuando se garantice que dichos documentos, con todas las menciones del etiquetado, acompañan a los productos alimenticios o se han enviado antes de la entrega o al mismo tiempo que ésta, siempre que los productos alimenticios envasados:
+
+1.º Estén destinados al consumidor final, pero comercializados en una fase anterior a la venta al mismo y cuando en esta fase no se trate de la venta a una colectividad.
+
+2.º Estén destinados a ser entregados a las colectividades para ser preparados, transformados, fragmentados o cortados en ellas.
+
+b) En el caso de los productos contemplados en el apartado anterior, las menciones del etiquetado obligatorio relativas a la denominación de venta, marcado de fechas e identificación de la empresa figurarán también en el embalaje exterior en que se presentan dichos productos en el momento de su comercialización.
+
+2\. Será obligatorio que figuren en el mismo campo visual, salvo para los envases a que se refiere el artículo 14, las indicaciones relativas a:
+
+a) Denominación de venta.
+
+b) Cantidad neta.
+
+c) Marcado de fechas.
+
+d) Grado alcohólico, en su caso.
+
+3\. **(Derogado)**
+
+4\. **(Derogado)**
+
+5\. En todos los casos, las indicaciones obligatorias deberán ser fácilmente comprensibles e irán inscritas en un lugar destacado y de forma que sean fácilmente visibles, claramente legibles e indelebles. Estas indicaciones no deberán ser disimuladas, tapadas o separadas de ninguna forma por otras indicaciones o imágenes.
+
+6\. Sin perjuicio de lo establecido en los artículos 17.1.a) y 17.1.b), los productos alimenticios, en general, destinados a ser entregados al consumidor, deben suministrarse a los minoristas debidamente envasados o acondicionados con la información obligatoria contemplada en el artículo 5, bien sobre el envase o en los documentos correspondientes que acompañen al producto.
+
+> Se derogan los apartados 3, 4 y párrafo segundo del 6 por la disposición derogatoria del Real Decreto 126/2015, de 27 de febrero. [Ref. BOE-A-2015-2293](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2293).
+
+### Artículo 18. Lengua en el etiquetado.
+
+Las indicaciones obligatorias del etiquetado de los productos alimenticios que se comercialicen en España se expresarán, al menos, en la lengua española oficial del Estado.
+
+Lo dispuesto en el apartado anterior no será de aplicación a los productos tradicionales elaborados y distribuidos exclusivamente en el ámbito de una Comunidad Autónoma con lengua oficial propia.
+
+## CAPÍTULO VI
+
+### Artículo 19. Etiquetado facultativo
+
+La información del etiquetado de los productos alimenticios podrá presentar cualquier mención adicional escrita, impresa o gráfica, siempre que no esté en contradicción con lo establecido en la presente Norma general.
+
+## ANEXO I — Categorías de ingredientes para los que la indicación de la categoría puede sustituir a la del nombre específico
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Definición</p>
+</td>
+<td>
+<p>Designación</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Aceites refinados que no sean de oliva.</p>
+</td>
+<td>
+<p>«Aceite», completada:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Bien por el calificativo, según el caso, «vegetal» o «animal».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Bien por la indicación del origen específico vegetal o animal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El calificativo «hidrogenado» deberá acompañar la mención de los aceites hidrogenados.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4">
+<p>Grasas refinadas.</p>
+</td>
+<td>
+<p>«Grasa», completada:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Bien por el calificativo, según el caso, «vegetal» o «animal».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>– Bien por la indicación del origen específico vegetal o animal.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>El calificativo «hidrogenada» deberá acompañar la mención de las grasas hidrogenadas.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mezclas de harinas procedentes de dos o más especies de cereales.</p>
+</td>
+<td>
+<p>«Harina» seguida de la enumeración de las especies de cereales de que proceda, por orden decreciente de peso.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Almidón/es y féculas nativos y almidones y féculas modificados por medios físicos o con enzimas.</p>
+</td>
+<td>
+<p>«Almidón(es) «/» fécula(s)».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cualquier especie de pescado, cuando el pescado constituya un ingrediente de otro producto alimenticio y siempre que la denominación y la presentación de dicho producto no se refieran a una especie precisa de pescado.</p>
+</td>
+<td>
+<p>«Pescado».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cualquier especie de queso, cuando el queso o una mezcla de quesos constituya un ingrediente de otro producto alimenticio y siempre que la denominación y la presentación de dicho producto no se refieran a una especie precisa de queso.</p>
+</td>
+<td>
+<p>«Queso(s)».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todas las especias y sus extractos cuyo peso no sea superior al 2 por 100 del peso del producto.</p>
+</td>
+<td>
+<p>«Especia(s)» o «Mezcla de especias».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todas las plantas o partes de plantas aromáticas cuyo peso no sea superior al 2 por 100 del peso del producto.</p>
+</td>
+<td>
+<p>«Planta(s) aromática(s)» o «Mezcla de plantas aromáticas».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todas las preparaciones de gomas utilizadas en la fabricación de la goma base para chicles.</p>
+</td>
+<td>
+<p>«Goma base».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pan rallado de cualquier origen.</p>
+</td>
+<td>
+<p>«Pan rallado».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todos los tipos de sacarosa.</p>
+</td>
+<td>
+<p>«Azúcar».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dextrosa anhidra o monohidratada.</p>
+</td>
+<td>
+<p>«Dextrosa».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jarabe de glucosa y jarabe de glucosa anhidra.</p>
+</td>
+<td>
+<p>«Jarabe de glucosa».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todas las proteínas de la leche (caseínas, caseinatos y proteínas del suero y del lactosuero) y sus mezclas.</p>
+</td>
+<td>
+<p>«Proteínas de leche».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manteca de cacao de presión «expeller» o refinada.</p>
+</td>
+<td>
+<p>«Manteca de cacao».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>(Suprimido)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Todos los tipos de vino, según la definición recogida en el Reglamento (CEE) número 822/87 del Consejo (1).</p>
+</td>
+<td>
+<p>«Vino».</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(1) DOCE L 84 de 27-3-1987. p. 1
+
+<table>
+<tbody>
+<tr>
+<th colspan="3">
+<p>Definición</p>
+</th>
+<th>
+<p>Designación</p>
+</th>
+</tr>
+<tr>
+<td colspan="3">
+<p>Los músculos del esqueleto (2) de las especies de mamíferos y de aves reconocidas como aptas para el consumo humano con los tejidos naturalmente incluidos o adheridos a ellos, en los que los contenidos totales de materia grasa y tejido conjuntivo no superen los valores que figuran a continuación y cuando la carne constituya un ingrediente de otro producto alimenticio. Los productos cubiertos por la definición comunitaria de «carne separada mecánicamente» son excluidos de la presente definición.</p>
+</td>
+<td rowspan="8">
+<p>«Carne(s) de» y el (los) nombre(s) de la(s) especie(s) animal(es) de la(s) que provenga(n).</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Límites máximos de materia grasa y de tejido conjuntivo para los ingredientes designados por el término «carne(s) de».</p>
+</td>
+</tr>
+<tr>
+<th>
+<p>Especies</p>
+</th>
+<th>
+<p>Materia grasa</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+<th>
+<p>Tejido conjuntivo (*)</p>
+<p>–</p>
+<p>Porcentaje</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>Mamíferos (excepto conejos y cerdos) y mezclas de especies con predominio de mamíferos</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cerdos</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Aves y conejos</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>(*) El contenido de tejido conjuntivo se calcula estableciendo una relación entre los contenidos de colágeno y de proteínas de carne. El contenido de colágeno es ocho veces el contenido de hidroxiprolina.</p>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<p>Cuando se superen los límites máximos de materia grasa o tejido conjuntivo y se cumplan los demás criterios de definición de la «carne(s) de», el contenido de «carne(s) de» deberá ajustarse consecuentemente a la baja y la lista de ingredientes deberá mencionar, además de los términos «carne(s) de», la presencia de materia grasa y/o de tejido conjuntivo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(2) El diafragma y los maséteros forman parte de los músculos del esqueleto, mientras que quedan excluidos el corazón, la lengua, los músculos de la cabeza (distintos de los maséteros), del carpo, del tarso y de la cola.
+
+> Se suprimen las designaciones y definiciones de frutas confitadas y hortalizas por el art. único.6 del Real Decreto 2220/2004, de 26 de noviembre. [Ref. BOE-A-2004-20122](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20122).
+
+> Se modifica por el art. único y anexo del Real Decreto 1324/2002, de 13 de diciembre. [Ref. BOE-A-2002-24908](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24908).
+
+## ANEXO II — Categorías de ingredientes que deben designarse obligatoriamente con el nombre de su categoría seguido de sus nombres específicos o del número CE
+
+Colorante.
+
+Conservador.
+
+Antioxidante.
+
+Emulgente
+
+Espesante
+
+Gelificante.
+
+Estabilizador.
+
+Potenciador del sabor.
+
+Acidulante.
+
+Corrector de acidez.
+
+Antiaglomerante.
+
+Almidón modificado (1).
+
+Edulcorante.
+
+Gasificante.
+
+Antiespumante.
+
+Agente de recubrimiento.
+
+Sales fundentes (2).
+
+Agente de tratamiento de la harina.
+
+Endurecedor.
+
+Humectante.
+
+Agente de carga.
+
+Gas propulsor.
+
+(1) No se exige indicación del nombre específico o del número CE.
+
+(2) Únicamente cuando se trate de quesos fundidos y productos a base de queso fundido.
+
+## **ANEXO III** — Designación de los aromas en la lista de ingredientes
+
+1\. No obstante lo dispuesto en el apartado 2, los aromas serán designados por los siguientes términos:
+
+– “aromas” o una designación o descripción más específica del aroma, si el componente aromatizante contiene aromas tal y como se definen en el artículo 3, apartado 2, letras b), c), d), e), f), g) y h), del Reglamento (CE) n.º 1334/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008, relativo a aromas y determinados ingredientes alimentarios con propiedades aromatizantes utilizados en los alimentos.
+
+– “aroma(s) de humo” o “aroma(s) de humo producidos a partir de alimentos o categorías o fuentes de alimentos” [por ejemplo, aroma(s) de humo a partir de haya] si la parte aromatizante contiene aromas tal como se definen en el artículo 3, apartado 2, letra f), del Reglamento (CE) n.º 1334/2008 y confieren un sabor ahumado a los alimentos.
+
+2\. El término “natural” para describir los aromas se utilizará con arreglo a lo dispuesto en el artículo 16 del Reglamento (CE) n.º 1334/2008.
+
+> Se modifica por el art. único.3 del Real Decreto 890/2011, de 24 de junio. [Ref. BOE-A-2011-11826](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11826).
+
+## ANEXO IV — Lista de los productos alimenticios en cuyo etiquetado deberá figurar una o varias indicaciones obligatorias adicionales
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Tipo o categoría de los productos alimenticios</p>
+</td>
+<td>
+<p>Indicaciones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1. Productos alimenticios de duración prolongada gracias a la utilización de gases de envasado autorizados en aplicación del Real Decreto 1111/1991, de 12 de julio, por el que se modifica la Reglamentación técnico-sanitaria de aditivos alimentarios aprobada por el Real Decreto 3177/1983.</p>
+</td>
+<td>
+<p>«Envasado en atmósfera protectora».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2. Productos alimenticios que contienen uno o varios de los edulcorante(s) autorizado(s) por el Real Decreto 2002/1995, de 7 de diciembre.</p>
+</td>
+<td>
+<p>«Con edulcorante(s)». Esta mención acompañará a la denominación de venta.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3. Productos alimenticios que contienen a la vez uno o varios azúcar(es) añadido(s) y uno o varios de los edulcorante(s) autorizado(s) por el Real Decreto 2002/1995, de 7 de diciembre.</p>
+</td>
+<td>
+<p>«Con azúcar(es) y edulcorante(s)». Esta mención acompañará a la denominación de venta.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4. Productos alimenticios que contienen aspartamo.</p>
+</td>
+<td>
+<p>«Contiene una fuente de fenilalanina».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5. Productos alimenticios a los que se han incorporado polioles en una proporción superior al 10 por 100.</p>
+</td>
+<td>
+<p>«Un consumo excesivo puede tener efectos laxantes».</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6. Dulces o bebidas que contengan ácido glicirrícico o su sal amónica por adición de la sustancia o sustancias en sí, o de la planta del regaliz "Glycyrrhiza glabra", con una concentración superior o igual a 100 mg/kg o 10 mg/l.</p>
+</td>
+<td>
+<p>Se añadirán las palabras "contiene regaliz" inmediatamente después de la lista de ingredientes, a menos que el término "regaliz" ya esté incluido en la lista de ingredientes o en el nombre con el que se comercializa el producto. A falta de una lista de ingredientes, la mención obligatoria se situará cerca del nombre con el que se comercializa el producto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7. Dulces que contengan ácido glicirrícico o su sal amónica por adición de la sustancia o sustancias en sí, o de la planta de regaliz "Glycyrrhiza glabra", con una concentración superior o igual a 4 g/kg</p>
+</td>
+<td>
+<p>Se añadirá el mensaje siguiente después de la lista de ingredientes: "contiene regaliz: las personas que padezcan hipertensión deberían evitar un consumo excesivo". A falta de una lista de ingredientes, la mención obligatoria se situará cerca del nombre con que se comercializa el producto.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8. Bebidas que contengan ácido glicirrícico o su sal amónica por adición de la sustancia o sustancias en sí o de la planta del regaliz "Glycyrrhiza glabra", con concentraciones superiores o iguales a 50 mg/l, o superiores o iguales a 300 mg/l en el caso de las bebidas que contengan más del 1,2 % en volumen de alcohol<sup>(1)</sup></p>
+</td>
+<td>
+<p>Se añadirá el mensaje siguiente después de la lista de ingredientes: "contiene regaliz: las personas que padezcan hipertensión deberán evitar un consumo excesivo". A falta de una lista de ingredientes, la mención obligatoria se situará cerca del nombre con el que se comercializa el producto.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><sup>(1)</sup> .El nivel máximo se aplicará a los productos tal como se presentan listos para su consumo o reconstituidos de acuerdo con las instrucciones de los fabricantes.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. único y anexo del Real Decreto 892/2005, de 22 de julio. [Ref. BOE-A-2005-12706](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12706).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+## ANEXO V — Ingredientes a los que hacen referencia los apartados 9 y 10 del artículo 7
+
+1\. Cereales que contengan gluten (es decir, trigo, centeno, cebada, avena, espelta, kamut o sus variedades híbridas) y productos derivados, salvo:
+
+a) jarabes de glucosa a base de trigo, incluida la dextrosa<sup>(1)</sup>;
+
+b) maltodextrinas a base de trigo<sup>(1)</sup>;
+
+c) jarabes de glucosa a base de cebada;
+
+d) cereales utilizados para hacer destilados o alcohol etílico de origen agrícola para bebidas alcohólicas.
+
+2\. Crustáceos y productos a base de crustáceos.
+
+3\. Huevos y productos a base de huevo.
+
+4\. Pescado y productos a base de pescado, salvo:
+
+a) gelatina de pescado utilizada como soporte de vitaminas o preparados de carotenoides;
+
+b) gelatina de pescado o ictiocola utilizada como clarificante en la cerveza y el vino.
+
+5\. Cacahuetes y productos a base de cacahuetes.
+
+6\. Soja y productos a base de soja, salvo:
+
+a) aceite y grasa de semilla de soja totalmente refinados<sup>(1)</sup>;
+
+b) tocoferoles naturales mezclados (E306), d-alfa tocoferol natural, acetato de d-alfa tocoferol natural y succinato de d-alfa tocoferol natural derivados de la soja;
+
+c) fitosteroles y esteres de fitosterol derivados de aceites vegetales de soja;
+
+d) esteres de fitostanol derivados de fitosteroles de aceite de semilla de soja.
+
+7\. Leche y sus derivados (incluida la lactosa), salvo:
+
+a) lactosuero utilizado para hacer destilados o alcohol etílico de origen agrícola para bebidas alcohólicas;
+
+b) lactitol.
+
+8\. Frutos de cáscara, es decir, almendras (Amygdalus communis L.), avellanas (Corylus avellana), nueces (Juglans regia), anacardos (Anacardium occidentale), pacanas [Carya illinoensis (Wangenh.) K. Koch], castañas de Pará (Bertholletia excelsa), pistachos o alfóncigos (Pistacia vera), macadamias o nueces de Australia (Macadamia ternifolia) y productos derivados, salvo:
+
+a) nueces utilizadas para hacer destilados o alcohol etílico de origen agrícola para bebidas alcohólicas.
+
+9\. Apio y productos derivados.
+
+10\. Mostaza y productos derivados.
+
+11\. Granos de sésamo y productos a base de granos de sésamo.
+
+12\. Dióxido de azufre y sulfitos en concentraciones superiores a 10 mg/kg o 10 mg/litro expresado como SO<sub>2</sub>.
+
+13\. Altramuces y productos a base de altramuces.
+
+14\. Moluscos y productos a base de moluscos.
+
+(1) Se aplica también a los productos derivados, en la medida en que sea improbable que los procesos a que se hayan sometido aumenten el nivel de alergenicidad determinado por la EFSA para el producto del que derivan
+
+> Se modifica por el art. único y anexo del Real Decreto 1245/2008, de 18 de julio. [Ref. BOE-A-2008-13036](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-13036).
+
+> Se añaden los dos últimos párrafos por el art. único del Real Decreto 36/2008, de 18 de enero. [Ref. BOE-A-2008-1402](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-1402).
+
+> Véase el art. único y anexo del Real Decreto 1164/2005, de 30 de septiembre, sobre suspensión de la aplicación de determinados ingredientes hasta el 25 de noviembre de 2007. [Ref. BOE-A-2005-16259](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-16259).
+
+> Se añade por el art. único.7 y anexo del Real Decreto 2220/2004, de 26 de noviembre. [Ref. BOE-A-2004-20122](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-20122).

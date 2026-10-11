@@ -1,0 +1,207 @@
+---
+title: "Real Decreto 342/2007, de 9 de marzo, por el que se regula el desarrollo de las funciones del programa MaB, así como el Comité Español del citado programa, en el organismo autónomo Parques Nacionales"
+identifier: "BOE-A-2007-6241"
+eli: "https://www.boe.es/eli/es/rd/2007/03/09/342"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Medio Ambiente"
+date: 2007-03-09
+published: 2007-03-24
+in_force_from: 2007-03-25
+last_amended: 2013-06-17
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 72"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6241"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 342/2007, de 9 de marzo, por el que se regula el desarrollo de las funciones del programa MaB, así como el Comité Español del citado programa, en el organismo autónomo Parques Nacionales
+
+El programa MaB «Persona y Biosfera» de la UNESCO es desde su establecimiento a principios de los años setenta un interesante instrumento para formular criterios y ejemplificar un nuevo modelo de relación del ser humano con la naturaleza. Esa primera intención demostrativa ha quedado palpablemente avalada con el paso de los años al consolidarse políticas de uso racional y desarrollo sostenible. Un ejemplo particular de estas intenciones y objetivos son las Reservas de la Biosfera, espacios singulares que, sin que ello implique necesariamente un régimen jurídico especial, son así reconocidas por la UNESCO como áreas de referencia donde ejemplificar una nueva manera de relación del hombre con la naturaleza. En este sentido, la misión del Programa Español «Persona y Biosfera» es desarrollar, demostrar, promover y presentar relaciones armoniosas del ser humano con su entorno. A largo plazo, el objetivo del programa es, desde la difusión, la divulgación y la proyección exterior, contribuir a formalizar una alianza entre administraciones, sectores sociales, gestores de espacios y sociedad civil, que proyecte la cooperación, la experimentación y la investigación interdisciplinar, para impulsar la sostenibilidad del desarrollo.
+
+El programa MaB está integrado genéricamente en la Comisión Nacional Española de Cooperación con la UNESCO. Esta Comisión, de conformidad con el artículo 7 del Real Decreto 173/2004, de 30 de enero, por el que se reestructura la Comisión Nacional Española de Cooperación con la UNESCO, se configura como órgano colegiado adscrito a la Agencia Española de Cooperación Internacional del Ministerio de Asuntos Exteriores y de Cooperación. Tal configuración es respetuosa con las competencias de cada uno de los Ministerios representados en el Consejo Ejecutivo de la misma, entre los que se encuentran los Ministerios de Educación y Ciencia y de Medio Ambiente, y, en su caso, con las correspondientes, por la naturaleza del asunto a tratar, a cualquier otro órgano de la Administración General del Estado. Sus funciones principales son las de asesoramiento y canalización de la participación en relación con la UNESCO.
+
+Sobre estas premisas, y desde la óptica de la colaboración institucional, el Real Decreto 1477/2004, de 18 de junio, que desarrolla la estructura orgánica básica del Ministerio de Medio Ambiente, consagró en su artículo 5.4 al Organismo Autónomo Parques Nacionales, del Ministerio de Medio Ambiente, como organismo público encargado de la coordinación del desarrollo del Programa MaB «Persona y Biosfera» de la UNESCO.
+
+A la vista de todo lo anterior, el presente real decreto, además de precisar el alcance de sus funciones, en la perspectiva de su integración global en la actividad que genéricamente desarrolla la Comisión Nacional Española de Cooperación con la UNESCO, incorpora una nueva regulación del actual Comité Español del Programa MaB de la UNESCO, donde se consagra una presencia institucional de la Comisión Nacional Española de Cooperación con la UNESCO, así como la participación de representantes de las administraciones públicas estatal, autonómica y local y demás sectores sociales públicos o privados implicados en los procesos de desarrollo sostenible que se ejemplifican en las Reservas de la Biosfera españolas.
+
+La configuración de dicho Comité Español del Programa MaB de la UNESCO como órgano colegiado interministerial cuyo Presidente tiene rango superior al de Director General requiere una norma con rango de real decreto, de acuerdo con lo previsto en el artículo 40.2 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, previa aprobación del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 9 de marzo de 2007,
+
+D I S P O N G O :
+
+## Artículo 1. Funciones del Organismo Autónomo Parques Nacionales para la coordinación del desarrollo del Programa MaB (Persona y Biosfera) de la UNESCO.
+
+Con carácter general, el Organismo Autónomo Parques Nacionales ejercerá la coordinación del desarrollo del Programa MaB y en particular, sin perjuicio de las competencias atribuidas al Ministerio de Asuntos Exteriores y de Cooperación, desarrollará las siguientes funciones:
+
+a) Ejercer, a través de su Presidente, la representación institucional derivada de la ejecución del Programa MaB, en el marco de la Comisión Nacional Española de Cooperación con la UNESCO y la Representación Permanente del Reino de España ante la UNESCO.
+
+b) Impulsar y coordinar las actividades que constituyen la contribución española al Programa Internacional sobre Persona y la Biosfera, en el campo de la conservación del patrimonio natural, del desarrollo sostenible, de la formación, y en particular de la promoción del concepto de Reserva de la Biosfera.
+
+c) Prestar asistencia, en colaboración con la Comisión Nacional Española de Cooperación con la UNESCO, a las diferentes administraciones públicas españolas en relación con el Programa MaB, asegurando, en estrecha coordinación con el Ministerio de Asuntos Exteriores y de Cooperación, y la Representación Permanente, la participación española en el Comité Internacional de Coordinación del citado programa.
+
+> Se modifica por el art. único.1 del Real Decreto 387/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Artículo 2. Naturaleza y adscripción del Comité Español del Programa MaB de la UNESCO.
+
+El Comité Español del Programa MaB de la UNESCO es un órgano colegiado de naturaleza consultiva que, independientemente de su adscripción al Organismo Autónomo Parques Nacionales, está integrado dentro del conjunto de grupos de trabajos conformados en el marco de la Comisión Nacional Española de Cooperación con la UNESCO.
+
+## Artículo 3. Funciones del Comité Español del Programa MaB de la UNESCO.
+
+El Comité Español del Programa MaB de la UNESCO ejercerá las siguientes funciones específicas:
+
+a) Informar las propuestas de declaración de nuevas reservas de la biosfera y de sus ampliaciones o modificaciones, presentadas por el Organismo Autónomo Parques Nacionales, que sean formuladas por las Administraciones competentes, con anterioridad a su traslado oficial por parte del Ministerio de Asuntos Exteriores y de Cooperación al Consejo Internacional de Coordinación del Programa MaB a través de la Delegación Permanente del Reino de España ante la UNESCO y previa comunicación a la Comisión Nacional Española de Cooperación con la UNESCO.
+
+b) Realizar propuestas y evaluaciones periódicas establecidas por la UNESCO sobre el estado de las reservas de la biosfera.
+
+c) Proponer criterios objetivos que permitan el establecimiento de prioridades para el desarrollo de actividades relacionadas con las Reservas de la Biosfera.
+
+d) Recabar información sobre el grado de ejecución de los programas de actuación en las Reservas de la Biosfera.
+
+> Se modifica por el art. único.2 del Real Decreto 387/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Artículo 4. Composición del Comité Español del Programa MaB de la UNESCO.
+
+El Comité Español del Programa MaB de la UNESCO tendrá la siguiente composición:
+
+a) Presidente: el Vicepresidente del Organismo Autónomo Parques Nacionales, que ejercerá las funciones de impulso, supervisión y toma de decisiones en relación con la labor que desarrolle el Comité Español del Programa MaB de la UNESCO.
+
+b) Vicepresidente: el Director del Organismo Autónomo Parques Nacionales, que substituirá al Presidente en caso de ausencia y ejercerá las funciones que éste le delegue.
+
+c) Vocales:
+
+1.º El Director Adjunto del Organismo Autónomo Parques Nacionales.
+
+2.º Un representante de la Secretaría General de la Comisión Nacional Española de Cooperación con la UNESCO.
+
+3.º Un representante del Ministerio de Agricultura, Alimentación y Medio Ambiente en materia de desarrollo rural.
+
+4.º Un representante del Ministerio de Economía y Competitividad, en materia de investigación y ciencia.
+
+5.º Un representante del Ministerio de Industria, Energía y Turismo, en materia de turismo.
+
+6.º Un representante de cada una de las comunidades autónomas en cuyo territorio estén declaradas por la UNESCO reservas de la biosfera.
+
+7.º Dos representantes de las organizaciones no gubernamentales cuyo objeto sea la defensa del medio ambiente y el desarrollo sostenible.
+
+8.º Un representante de las organizaciones sindicales más representativas a nivel estatal.
+
+9.º Un representante de las asociaciones empresariales más representativas a nivel estatal.
+
+10.º Un representante de las asociaciones profesionales agrarias más representativas a nivel estatal.
+
+11.º Un representante de las asociaciones profesionales pesqueras más representativas a nivel estatal.
+
+12.º Dos representantes del Consejo de Gestores de Reservas de la Biosfera regulado en el artículo 6.
+
+13.º Dos representantes del Consejo Científico regulado en el artículo 7.
+
+14.º Un representante de las entidades locales en cuyos territorios municipales se ubiquen las reservas de la biosfera designados por la asociación de municipios de ámbito estatal de mayor implantación.
+
+15.º El Director de la Fundación Biodiversidad del Ministerio de Agricultura, Alimentación y Medio Ambiente.
+
+d) Secretario: actuará como Secretario, con voz pero sin voto, un funcionario del Organismo Autónomo Parques Nacionales nombrado por su Director.
+
+Los vocales serán nombrados por el Presidente del Comité, previa designación por la administración u organización competente.
+
+> Se modifica por el art. único.3 del Real Decreto 385/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Artículo 5. Órganos adscritos al Comité Español del Programa MaB de la UNESCO.
+
+El Comité Español del Programa MaB de la UNESCO tendrá adscritos un Consejo de Gestores de Reservas de la Biosfera y un Consejo Científico.
+
+> Se modifica el título por el art. único.4 del Real Decreto 387/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Artículo 6. El Consejo de Gestores de Reservas de la Biosfera.
+
+1\. El Consejo de Gestores de Reservas de la Biosfera se constituye como órgano técnico adscrito al Comité Español del Programa MaB de la UNESCO, con las siguientes funciones:
+
+a) Proponer criterios de evaluación de las reservas de la biosfera e indicadores de sostenibilidad de las mismas.
+
+b) Proponer los catálogos de buenas prácticas y Agendas 21 aplicables a las reservas de la biosfera.
+
+c) Asesorar sobre la participación de España en los grupos de trabajo temáticos y las redes territoriales de Reservas de la Biosfera establecidas por la UNESCO, en particular, la redes EuroMaB, IberoMaB y RedBios.
+
+d) Proponer, desde la experiencia práctica de la gestión, cuantas medidas estimen oportunas para el mejor desarrollo del Programa MaB en España.
+
+2\. El Consejo de Gestores de Reservas de la Biosfera estará compuesto por un representante designado por el órgano responsable de la gestión de cada una de las reservas de la biosfera españolas. Su nombramiento y cese como miembros del Consejo corresponderá al Presidente del Comité Español del Programa MaB.
+
+Su Presidente y su Secretario se elegirán entre sus miembros por mayoría absoluta en primera votación o por mayoría simple en segunda votación. La duración de su mandato será de dos años prorrogables, por acuerdo del Consejo, por idéntico período. El Presidente y el Secretario, o las personas en quienes deleguen, serán los representantes del Consejo del Consejo de Gestores de Reservas de la Biosfera en el Comité Español del Programa MaB de la UNESCO.
+
+El Secretario levantará acta de las deliberaciones y acuerdos adoptados por el Consejo de Gestores de las Reservas de la Biosfera y la remitirá al Comité Español del Programa MaB de la UNESCO.
+
+3\. El Consejo de Gestores de Reservas de la Biosfera se reunirá por acuerdo de su Presidente, previa comunicación al Director del Organismo Autónomo Parques Nacionales, al menos una vez al año, y podrá aprobar un reglamento de régimen interior. Aquellas reuniones que generen gastos por indemnización de acuerdo con el Real Decreto 462/2002 deberán ser expresamente aprobadas por el Director del Organismo Autónomo Parques Nacionales con anterioridad a su convocatoria. A todas las reuniones asistirá el funcionario del Organismo Autónomo Parques Nacionales que ejerza las funciones de Secretario del Comité Español del Programa MaB, con voz pero sin voto.
+
+> Se modifica por el art. único.5 del Real Decreto 387/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Artículo 7. El Consejo Científico.
+
+1\. El Consejo Científico se constituye como órgano de asesoramiento en el marco del Comité Español del Programa MaB de la UNESCO con las siguientes funciones:
+
+a) Informar las nuevas propuestas de declaración de Reservas de la Biosfera, así como sus ampliaciones o modificaciones, a propuesta del Organismo Autónomo Parques Nacionales.
+
+b) Realizar las evaluaciones periódicas de las reservas de la biosfera que establezca la UNE*S*CO y remitirlas al Comité Español del Programa MaB.
+
+c) Proponer planes de investigación aplicada al desarrollo sostenible en las reservas de la biosfera.
+
+d) Proponer cuantas medidas estimen oportunas para el mejor desarrollo del Programa MaB en España.
+
+2\. El Consejo Científico estará compuesto por un representante de las Universidades de cada una de las comunidades autónomas que tengan declaradas reservas de la biosfera, designado entre una terna propuesta por la consejería responsable en materia de universidades de la comunidad autónoma correspondiente, de forma que se asegure la representación de las diversas especialidades socio-económicas y científicas asociadas al desarrollo sostenible. También se incluirán tres representantes de los centros e institutos de investigación adscritos al Ministerio de Economía y Competitividad en materia de investigación y ciencia y tres miembros más de libre designación por parte del Presidente del Comité Español del Programa MaB. Todos los miembros del Consejo Científico serán nombrados por el Presidente del Comité Español del Programa MaB.
+
+Las designaciones de los miembros del Consejo Científico del Comité MaB tendrán una duración de cuatro años, prorrogables por idénticos períodos, salvo presentación de una nueva terna por las autoridades que los propusieron.
+
+Su Presidente y su Secretario se elegirán de entre sus miembros por mayoría absoluta en primera votación o por mayoría simple en segunda votación. La duración de su mandato será de dos años prorrogables por acuerdo del Consejo por idéntico período. El Presidente y el Secretario, o las personas en quienes deleguen, serán los representantes del Consejo Científico en el Comité Español del Programa MaB de la UNESCO.
+
+El Secretario levantará acta de las deliberaciones y acuerdos adoptados por el Consejo Científico y la remitirá al Comité Español del Programa MaB de la UNESCO.
+
+3\. El Consejo Científico se reunirá por acuerdo de su Presidente, previa comunicación al Director del Organismo Autónomo Parques Nacionales, al menos una vez al año, y podrá aprobar un reglamento de régimen interior. Aquellas reuniones que generen gastos por indemnización de acuerdo con el Real Decreto 462/2002 deberán ser expresamente aprobadas por el Director del Organismo Autónomo Parques Nacionales con anterioridad a su convocatoria. A todas las reuniones asistirá el funcionario del Organismo Autónomo Parques Nacionales que ejerza las funciones de Secretario del Comité Español del Programa MaB, con voz pero sin voto.
+
+> Se modifica por el art. único.6 del Real Decreto 387/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Artículo 8. Funcionamiento del Comité Español del Programa MaB de la UNESCO.
+
+1\. El Comité Español del Programa MaB de la UNESCO se reunirá en sesiones ordinarias al menos una vez al año, así como en sesiones extraordinarias cuando las circunstancias así lo aconsejen, por iniciativa de su Presidente o acuerdo de, al menos, dos tercios de sus miembros.
+
+2\. Las reuniones ordinarias se convocarán por el Presidente con al menos quince días naturales de antelación por correo ordinario o por medios telemáticos, indicando el lugar, fecha y hora de la reunión, así como el orden del día.
+
+3\. Las sesiones extraordinarias a iniciativa del Presidente se convocarán con la misma antelación que las sesiones ordinarias. Respecto a las acordadas por dos tercios de los miembros, el plazo máximo para su celebración será de quince días naturales desde el acuerdo adoptado.
+
+4\. Sin perjuicio de la celebración de reuniones extraordinarias, se faculta al Comité para que en casos excepcionales y de urgencia adopte las decisiones por medios telemáticos, mediante votación por escrito y sin sesión presencial. En este caso, se remitirá a todos los miembros del Comité por vía telemática el punto o puntos del orden del día y la documentación correspondiente, dando un plazo máximo de quince días para que manifiesten por la misma vía su voluntad u opinión.
+
+5\. Los acuerdos se adoptarán por mayoría simple de los asistentes. En caso de empate, el voto del Presidente o en su ausencia el del Vicepresidente, tendrá carácter dirimente.
+
+6\. Para el mejor cumplimiento de sus funciones, el Comité Español del Programa MaB de la UNESCO podrá aprobar un reglamento de régimen interior en el que se detallen las normas precedentes de organización y funcionamiento.
+
+> Se modifica por el art. único.7 del Real Decreto 387/2013, de 31 de mayo. [Ref. BOE-A-2013-6544](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6544).
+
+## Disposición adicional primera. Régimen jurídico de los órganos colegiados.
+
+En todo lo no previsto por sus normas de funcionamiento, los órganos colegiados que se regulan en este real decreto se regirán por lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+## Disposición adicional segunda. Dotación de medios y actuaciones.
+
+1\. El Organismo Autónomo Parques Nacionales atenderá con sus propios presupuestos, medios humanos y materiales al funcionamiento del Comité Español del Programa MaB de la UNESCO, del Consejo de Gestores de Reservas de la Biosfera, y del Consejo Científico.
+
+2\. En el Presupuesto de Gastos del Organismo Autónomo Parques Nacionales se contemplarán las partidas necesarias para asegurar la ejecución de aquellas actuaciones que en desarrollo de la Red de Reservas de la Biosfera así se determinen, en el ámbito de las competencias de la Administración General del Estado.
+
+3\. Igualmente el Organismo Autónomo Parques Nacionales podrá establecer convenios de colaboración con otras administraciones públicas al objeto de asegurar el cumplimiento de los objetivos de las Reservas de la Biosfera.
+
+## Disposición adicional tercera. Financiación.
+
+La aprobación de este real decreto no supondrá incremento de gasto público.
+
+## Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 9 de marzo de 2007.
+
+JUAN CARLOS R.
+
+La Ministra de Medio Ambiente,
+
+CRISTINA NARBONA RUIZ

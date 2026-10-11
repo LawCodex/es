@@ -1,0 +1,175 @@
+---
+title: "Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones"
+identifier: "BOE-A-1999-6231"
+eli: "https://www.boe.es/eli/es/rd/1999/03/05/375"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 1999-03-05
+published: 1999-03-16
+in_force_from: 1999-03-17
+last_amended: 2025-02-05
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 64"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-6231"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 375/1999, de 5 de marzo, por el que se crea el Instituto Nacional de las Cualificaciones
+
+El nuevo Programa Nacional de Formación Profesional, acordado en el seno del Consejo General de Formación Profesional el pasado 18 de febrero de 1998 y aprobado por el Gobierno por Acuerdo del Consejo de Ministros el 13 de marzo del mismo año, considera prioritaria la creación del Instituto Nacional de las Cualificaciones, como instrumento técnico de carácter independiente, para apoyar al citado Consejo General en el desarrollo de las funciones y cometidos que éste tiene encomendados, en virtud de lo establecido en la Ley 1/1986, de 7 de enero, por la que se crea el Consejo General de Formación Profesional, modificada por la Ley 19/1997, de 9 de junio.
+
+Para poder abordar con coherencia la constitución y puesta en funcionamiento del Instituto Nacional de las Cualificaciones, el Consejo General de Formación Profesional ha considerado necesaria la definición de determinados criterios generales en torno a la normativa básica, pendiente de elaborar, reguladora del Sistema Nacional de Cualificaciones. Todo ello, sin perjuicio de que dentro del plazo previsto al efecto se apruebe la citada norma, que está llamada a garantizar dentro de la dinámica de la unidad de mercado, entendido en el contexto del Estado de las Autonomías, la participación, desarrollo y ejecución de dicho sistema por parte de las Administraciones competentes y de los agentes sociales. De esta manera se pretende hacer posible la articulación de las políticas de formación profesional que emanen de la Administración General del Estado, de las Comunidades Autónomas y de los agentes sociales.
+
+En el marco del Consejo General, se han formulado diversas consideraciones a modo de primeros pasos en torno al contenido que finalmente deba tener la norma básica en sus muy diversos aspectos, buscando siempre eficacia en la definición de las cualificaciones, respaldando un procedimiento que ofrezca garantías técnicas y de colaboración de todos los agentes e instituciones implicados. Dichas consideraciones son las siguientes:
+
+La transparencia de las acreditaciones para que se comprendan por todos los participantes en el proceso productivo y de mercado, tanto a nivel estatal como europeo.
+
+La fiabilidad de las acreditaciones.
+
+Y el impulso de la formación profesional y el aseguramiento de su calidad en el contexto del desarrollo de la política social de la Unión Europea.
+
+Previamente, para el cumplimiento de ese compromiso el Consejo General ha de contar con el apoyo del Instituto, dado que la primera función de éste consiste en proponer el establecimiento y gestión del Sistema Nacional [apartado 2.1.d) del II Programa Nacional].
+
+Tal como se desprende del mismo Programa, los rasgos esenciales del Sistema Nacional de Cualificaciones son desarrollar la integración de las cualificaciones profesionales, promover la integración de las diversas formas de adquisición de las competencias profesionales, y conseguir la integración de la oferta de formación profesional.
+
+Esta dimensión de integración habrá de concretarse, a su vez, en el desarrollo de un catálogo integrado modular de formación asociado al Sistema de Cualificaciones, que requerirá su permanente actualización para mantener plena virtualidad, y una red de centros formativos que oferten este catálogo.
+
+Conseguir que el Sistema Nacional de Cualificaciones cumpla su misión se traducirá en muy importantes resultados que pueden resumirse en mejorar las cualificaciones de la población activa, mejorar la transparencia del mercado, lo que debe justificar el ajuste de la oferta y la demanda, y mejorar, en definitiva, la calidad y la coherencia del sistema de formación profesional.
+
+A su vez, la aplicación de una metodología idónea habrá de permitir que el sistema refleje fielmente las necesidades de cualificaciones, sirva de marco de referencia para la elaboración y articulación de las ofertas formativas de los tres subsistemas y para su actualización permanente, además de facilitar la orientación y calificación profesional de los demandantes de empleo, sin olvidar la importante misión de suministrar información sistematizada al mercado, interior y exterior.
+
+El Sistema Nacional de Cualificaciones va a posibilitar un cambio cultural de trascendencia indudable, tanto a los efectos del mercado de trabajo como del propio prestigio social de la formación profesional. El Instituto Nacional de las Cualificaciones que ahora se crea está llamado a constituirse en respaldo eficaz de todos los gestores de la formación profesional.
+
+El Instituto Nacional de las Cualificaciones se constituye como instrumento específico dotado de capacidad y rigor técnico e independencia de criterios, con vinculación al Consejo General de Formación Profesional, órgano que garantiza la participación adecuada y permanente de las Administraciones competentes y de los agentes sociales.
+
+En atención a estas finalidades, básicas para la articulación del Sistema Nacional de Cualificaciones, serán objetivos prioritarios y específicos del Instituto Nacional de las Cualificaciones, los siguientes: observación de la evolución de las cualificaciones, determinación de las cualificaciones, acreditación de las cualificaciones, integración de las cualificaciones asociadas a los subsistemas de formación profesional, y evaluación del Sistema Nacional de Cualificaciones.
+
+En el apartado 2.2.1 del II Programa Nacional de Formación Profesional se enuncian las funciones para las que se crea el Instituto Nacional de las Cualificaciones en los términos recogidos en la presente disposición, sin perjuicio de otros cometidos, a los que se alude en el Programa [son los que aparecen en los apartados 2.1.3, 2.2.2, 4.2.c) y h) y 5.2 del nuevo Programa Nacional de Formación Profesional, aprobado por el Gobierno el 13 de marzo de 1998], coherentes con los ya señalados, todo ello según lo aprobado por el propio Consejo General y por Acuerdo del Consejo de Ministros de 13 de marzo de 1998.
+
+La presente disposición considera el Instituto Nacional de las Cualificaciones como un órgano vinculado al Consejo General de Formación Profesional. Su estructura orgánica está igualmente constituida mediante cuatro unidades o departamentos:
+
+Área de Observatorio Profesional.
+
+Área de Investigación Metodológica y Articulación del Sistema Nacional de Cualificaciones.
+
+Área de Diseño de las Cualificaciones.
+
+Área de Información y Gestión de Recursos.
+
+En su virtud, a iniciativa de los Ministros de Educación y Cultura y de Trabajo y Asuntos Sociales, a propuesta del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 5 de marzo de 1999,
+
+DISPONGO:
+
+## Artículo 1. Creación y fines.
+
+1\. Se crea el Instituto Nacional de las Cualificaciones, adscrito orgánicamente al Ministerio de Educación, Formación Profesional y Deportes, a través de la Secretaría General de Formación Profesional, y con dependencia funcional del Consejo General de Formación Profesional, como órgano técnico de apoyo de este y responsable de definir, elaborar y mantener actualizado el Catálogo Nacional de Estándares de Competencias Profesionales, así como de desarrollar el resto de las funciones que figuran en la presente disposición.
+
+2\. El Instituto Nacional de las Cualificaciones actuará como instrumento técnico, dotado de capacidad e independencia de criterios, para apoyar al Consejo General de Formación Profesional en la realización de los siguientes objetivos:
+
+a) Observación de los estándares de competencias profesionales y su evolución.
+
+b) Determinación de los estándares de competencias profesionales.
+
+c) Acreditación de los estándares de competencias profesionales.
+
+d) Desarrollo de la integración de los estándares de competencias profesionales.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 69/2025, de 4 de febrero. [Ref. BOE-A-2025-2039](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2039)
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 1326/2002, de 13 de diciembre. [Ref. BOE-A-2002-24348](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24348).
+
+## Artículo 2. Funciones.
+
+Serán funciones del Instituto Nacional de las Cualificaciones:
+
+a) Gestionar el Catálogo Nacional de Estándares de Competencias Profesionales.
+
+b) Establecer criterios para definir los requisitos y características que deben reunir los estándares de competencias profesionales para ser incorporadas al Catálogo Nacional de Estándares de Competencias Profesionales.
+
+c) Establecer una metodología de base para identificar los estándares de competencias profesionales y definir el modelo profesional que deben adoptar para ser incorporados al Catálogo Nacional de Estándares de Competencias Profesionales o actualizados una vez establecidos.
+
+d) Proponer mejoras en el sistema de acreditación y reconocimiento profesional.
+
+e) Establecer el procedimiento que permita corresponsabilizar a las Agencias o Institutos de Cualificaciones que puedan tener las Comunidades Autónomas, así como a los agentes sociales, tanto en la definición del Catálogo Nacional de Estándares de Competencias Profesionales, como en la actualización de las demandas sectoriales.
+
+f) Establecer criterios para regular los métodos básicos que deben observarse en la evaluación de la competencia y en el procedimiento para la concesión de acreditaciones por las autoridades competentes.
+
+g) Desarrollar, en su condición de instrumento básico al servicio del Consejo General de Formación Profesional, actividades esencialmente técnicas de la formación profesional referidas tanto al ámbito nacional como al comunitario tales como: estudios, informes, análisis comparativos, recopilación de documentación, dotación bibliográfica, y seminarios científicos.
+
+h) Elaborar los instrumentos de apoyo necesarios para el desarrollo de los procedimientos de acreditación de competencias profesionales adquiridas por experiencia laboral y vías no formales e informales de formación.
+
+i) Proporcionar información sobre la evolución de la demanda y oferta de las profesiones, ocupaciones y perfiles en el mercado de trabajo, teniendo en cuenta también, entre otros, los sistemas de clasificación profesional surgidos de la negociación colectiva.
+
+j) Realizar y encomendar cuantos informes y estudios sean precisos conforme a las dotaciones presupuestarias que estén previstas.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 69/2025, de 4 de febrero. [Ref. BOE-A-2025-2039](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2039)
+
+## Artículo 3. Funciones de la Comisión Permanente del Consejo General de la Formación Profesional.
+
+**(Suprimido)**
+
+> Se suprime por la disposición final 1.3 del Real Decreto 69/2025, de 4 de febrero. [Ref. BOE-A-2025-2039](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2039)
+
+## Artículo 4. Dirección.
+
+1\. Al frente del Instituto habrá un Director a quien se encomendará la coordinación y el impulso de los trabajos y actividades a cargo de este Instituto.
+
+De él dependerán las unidades o departamentos que se creen para atender las distintas funciones.
+
+2\. Son competencias del Director:
+
+a) Elaborar y presentar a la Comisión Permanente del Consejo General de la Formación Profesional las propuestas de los planes de actividades y, en general, de los cometidos a los que se refiere el artículo anterior.
+
+b) Desarrollar los planes de actividades aprobados por las comisiones del Consejo General de Formación Profesional.
+
+c) Prestar ante las comisiones o el Pleno del Consejo General de Formación Profesional cuantos informes le sean requeridos.
+
+d) Actuar en nombre del Instituto ante las instancias y organismos relacionados con las funciones del mismo.
+
+e) Cuantas otras funciones le sean expresamente encomendadas.
+
+3\. El Director del Instituto será convocado a las reuniones de la Comisión Permanente del Consejo y, cuando proceda, de la Comisión Estatal Estratégica y del Pleno, en lo concerniente al Instituto Nacional de las Cualificaciones.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 69/2025, de 4 de febrero. [Ref. BOE-A-2025-2039](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-2039)
+
+> Se modifica el apartado 1.1º por la disposición final 1.1 del Real Decreto 274/2024, de 19 de marzo. [Ref. BOE-A-2024-5482](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-5482)
+
+## Artículo 5. Nombramiento y cese del Director.
+
+**(Suprimido)**
+
+> Se suprime por la disposición final 1.2 del Real Decreto 274/2024, de 19 de marzo. [Ref. BOE-A-2024-5482](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-5482)
+
+> Se modifica por el art. único.2 del Real Decreto 1326/2002, de 13 de diciembre. [Ref. BOE-A-2002-24348](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24348).
+
+## Disposición adicional única. Supresión de órganos.
+
+Queda suprimida la Subdirección General de Formación Profesional Ocupacional y Continua dentro de la estructura orgánica del Ministerio de Trabajo y Asuntos Sociales.
+
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel inferior a Subdirección General.
+
+Las unidades y puestos de trabajo encuadrados en la Subdirección General de Formación Profesional Ocupacional y Continua se adscriben provisionalmente, hasta tanto entren en vigor las nuevas relaciones de puestos de trabajo, al Instituto Nacional de las Cualificaciones.
+
+## Disposición final primera. Facultades de desarrollo y ejecución.
+
+Se autoriza a los Ministros de Educación y Cultura y de Trabajo y Asuntos Sociales para dictar las disposiciones necesarias para la ejecución y cumplimiento de lo establecido en el presente Real Decreto.
+
+## Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Economía y Hacienda se efectuarán las modificaciones presupuestarias precisas para el cumplimiento de lo dispuesto en el presente Real Decreto. En cualquier caso, ello no podrá suponer incremento en el gasto público.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 5 de marzo de 1999.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+ÁNGEL ACEBES PANIAGUA

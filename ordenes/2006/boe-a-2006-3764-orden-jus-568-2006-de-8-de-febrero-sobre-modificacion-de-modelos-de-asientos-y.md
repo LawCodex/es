@@ -1,0 +1,201 @@
+---
+title: "Orden JUS/568/2006, de 8 de febrero, sobre modificación de modelos de asientos y certificaciones del Registro Civil y del Libro de Familia"
+identifier: "BOE-A-2006-3764"
+eli: "https://www.boe.es/eli/es/o/2006/02/08/jus568"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Justicia"
+date: 2006-02-08
+published: 2006-03-03
+in_force_from: 2006-03-04
+last_amended: 2006-03-09
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 53"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-3764"
+retrieved: 2026-10-11
+---
+
+# Orden JUS/568/2006, de 8 de febrero, sobre modificación de modelos de asientos y certificaciones del Registro Civil y del Libro de Familia
+
+Incluye la corrección de errores publicada en BOE núm. 176, de 25 de julio de 2006. [Ref. BOE-A-2006-13370](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13370)
+
+La Ley 13/2005, de 1 de julio, por la que se modifica el Código civil en materia de derecho a contraer matrimonio, permite que el matrimonio sea celebrado entre personas del mismo o distinto sexo, con plenitud e igualdad de derechos y obligaciones cualquiera que sea su composición. En consecuencia, los efectos del matrimonio serán únicos en todos los ámbitos con independencia del sexo de los contrayentes, incluyendo lógicamente los efectos que se derivan del matrimonio en el ámbito del Registro Civil.
+
+La anterior modificación legal ha ido acompañada de una imprescindible adaptación terminológica de los distintos artículos del Código civil que resultan afectados por el cambio, de forma que las referencias al marido y a la mujer han sido sustituidas por la mención a los cónyuges o a los consortes. Paralelamente, a fin de cubrir el conjunto del Ordenamiento jurídico, la disposición adicional primera de la mencionada Ley 13/2005, establece con carácter general que las referencias al matrimonio contenidas en las disposiciones legales y reglamentarias se entenderán aplicables con independencia del sexo de sus integrantes. Estas adaptaciones tienen una incidencia directa en el ámbito de determinados modelos oficiales a que se han de ajustar los asientos practicados en los libros de los Registros civiles y de las certificaciones expedidas en base a los mismos, incluidas las recogidas en el Libro de Familia, los cuales han de acomodarse a las modificaciones y adaptaciones terminológicas introducidas por la reciente reforma del Código civil. La finalidad de esta Orden es permitir la citada adaptación, precisando su alcance concreto y habilitando a la Dirección General de los Registros y del Notariado para adoptar cuantas medidas sean precisas para el desarrollo y ejecución de esta Orden.
+
+En su virtud, dispongo:
+
+## Artículo primero. Objeto.
+
+Esta Orden tiene por objeto la adecuación a la Ley 13/2005, de 1 de julio, por la que se modifica el Código civil en materia de derecho a contraer matrimonio, del modelo oficial del Libro de Familia, del modelo oficial de certificación en extracto de la inscripción de matrimonio y de los modelos de las inscripciones principales de nacimiento y matrimonio.
+
+## Artículo segundo. Modificación del modelo oficial del Libro de Familia.
+
+1\. Se aprueba la modificación del modelo oficial del Libro de Familia aprobado por la regla 22 de la Orden del Ministerio de Justicia de 24 de diciembre de 1958, reformada por el artículo 3 de la Orden de 20 de julio de 1989, para su adaptación a la Ley 13/2005, de 1 de julio, en los siguientes extremos:
+
+1.º La consignación del nombre y apellidos del titular o titulares del Libro irá precedido del tratamiento «Don/Doña».
+
+2.º La indicación de la fecha del nacimiento de cada uno de los titulares del Libro será precedida por la expresión «nacido/a».
+
+3.º La referencia a su filiación se introducirá por la expresión «hijo/a de».
+
+2\. Se acuerda la publicación del nuevo modelo oficial del Libro de Familia aprobado, que figura en el anexo 1 de esta Orden.
+
+## Artículo tercero. Modificación de la certificación en extracto de la inscripción de matrimonio.
+
+1\. El modelo oficial de certificación en extracto de la inscripción de matrimonio, aprobado por Orden del Ministerio de Justicia de 20 de julio de 1989, sobre determinados Modelos de fe de vida y estado y certificaciones en extracto y literales de las Actas del Registro y por el artículo 4 de la Orden del Ministerio de Justicia de 1 de junio de 2001, sobre libros y modelos de los Registros civiles informatizados, será igualmente empleado para certificar la inscripción de los matrimonios contraídos por personas del mismo sexo con la única variación de sustituir para tales casos las expresiones de «MARIDO» y «MUJER» por las de «CÓNYUGE A» y «CÓNYUGE B», respectivamente, conforme al modelo adaptado que figura en el anexo 2 de esta Orden.
+
+2\. Para el caso de matrimonios entre personas de sexo diferente se mantendrá el modelo actual, sin ninguna variación.
+
+## Artículo cuarto. Modificación de los modelos oficiales de las inscripciones principales de nacimiento.
+
+1\. **(Derogado).**
+
+2\. El apartado actualmente destinado a la constancia de la profesión de los padres y que, en cumplimiento de la Orden de 10 de diciembre de 1993 ha de quedar en blanco y cruzado por una raya, se suprime y en su lugar se consignará el sexo del progenitor.
+
+> Se deroga el apartado 1 por la disposicion derogatoria única Orden JUS/644/2006, de 6 de marzo. [Ref. BOE-A-2006-4203](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4203)
+
+## Artículo quinto. Modificación de los modelos oficiales de las inscripciones principales de matrimonio.
+
+1\. **(Derogado).**
+
+2\. El apartado actualmente destinado a la constancia de la profesión de los cónyuges y que, en cumplimiento de la Orden de 10 de diciembre de 1993 ha de quedar en blanco y cruzado por una raya, se suprime y en su lugar se consignará el sexo del cónyuge.
+
+> Se deroga el apartado 1 por la disposicion derogatoria única Orden JUS/644/2006, de 6 de marzo. [Ref. BOE-A-2006-4203](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4203)
+
+## Artículo sexto. Habilitación a la Dirección General de los Registros y del Notariado para la modificación de los modelos oficiales de las inscripciones marginales.
+
+1\. La Dirección General de los Registros y del Notariado aprobará por medio de Resolución los modelos oficiales de las inscripciones marginales que se hayan de extender en lo sucesivo en las Secciones primera «de Nacimientos y General» y segunda «de Matrimonios», con objeto de adecuarlos a las adaptaciones terminológicas introducidas por la Ley 13/2005, de 1 de julio, debiendo aplicar en lo posible criterios y términos análogos a los recogidos en los artículos precedentes para las inscripciones principales de nacimiento y matrimonio.
+
+2\. La Dirección General de los Registros y del Notariado aprobará la Resolución a que se refiere el apartado anterior en el plazo de dos meses desde la publicación de esta Orden ministerial y será objeto de publicación en el Boletín Oficial del Estado. En esta publicación se incluirán también, a efectos de mayor claridad y de su difusión, los modelos de inscripciones principales modificadas por esta Orden.
+
+## Artículo séptimo. Incorporación de los nuevos modelos aprobados a la aplicación Inforeg 2.0 de los Registros civiles informatizados.
+
+1\. La Dirección General de Relaciones con la Administración de Justicia, a través de la Subdirección General de Nuevas Tecnologías, incorporará a la aplicación Inforeg (versión 2.0) las modificaciones introducidas por los artículos cuarto y quinto de esta Orden ministerial en los modelos oficiales de las inscripciones principales de nacimientos y matrimonios (modelos oficiales 101 y 200, respectivamente, aprobados por Resolución de la Dirección General de los Registros y del Notariado de 25 de enero de 2005) en el plazo de un mes desde la entrada en vigor de esta Orden.
+
+2\. Las modificaciones que apruebe la Dirección General de los Registros y del Notariado en los modelos oficiales de las inscripciones marginales a que se refiere el precedente artículo sexto, serán incorporadas a la aplicación informática Inforeg (versión 2.0) en el plazo de un mes desde su aprobación.
+
+3\. Los modelos a que se refieren los dos apartados anteriores, en su versión informática, deberán recoger las menciones que son objeto de modificación en la presente Orden como «campos variables» de forma que las menciones actuales y las nuevas se ofrezcan al usuario de la aplicación como opciones alternativas, permitiendo de esta manera conservar los términos de «marido» y «mujer» o los de «padre» y «madre» para los supuestos de matrimonios o progenitores de sexo diferente.
+
+## Disposición adicional única. Modificación de las inscripciones marginales relativas a las resoluciones judiciales en materia de separación y divorcio.
+
+Los modelos de inscripciones marginales de la Sección segunda de «Matrimonios» relativas a las resoluciones judiciales de separación y divorcio que han de ser aprobados por Resolución de la Dirección General de los Registros y del Notariado, conforme a lo previsto en el artículo sexto de esta Orden ministerial, se adecuarán a las modificaciones normativas introducidas por la Ley 15/2005, de 8 de julio, por la que se modifican el Código civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio, suprimiendo toda mención relativa a la causa de la separación o del divorcio y a la buena o mala fe de los cónyuges.
+
+## Disposición transitoria única. Utilización de Libros de Familia ya editados. Inscripciones de nacimiento y matrimonios en los libros actuales de los Registros civiles no informatizados.
+
+1\. Respecto de los ejemplares de Libros de Familia que hayan de entregarse inmediatamente después de celebrado el matrimonio, conforme al artículo 37 del Reglamento del Registro Civil, en caso de estar compuesto por personas de sexo diferente, o cuando se inscriba una filiación no matrimonial o una adopción, se podrán utilizar los ejemplares ajustados al modelo hasta ahora vigente, mientras no se agoten los depósitos de los mismos existentes en los Registros civiles.
+
+2\. En caso de matrimonios y adopciones conjuntas entre y por personas del mismo sexo, las respectivas inscripciones de matrimonio y nacimiento que hayan de practicarse en los actuales libros de las Secciones segunda y primera, respectivamente, impresos y editados conforme a los modelos hasta ahora vigentes, de los Registros civiles todavía no informatizados, se realizarán conforme a las instrucciones que dicte al efecto la Dirección General de los Registros y del Notariado con objeto de cumplir las exigencias derivadas de las adaptaciones terminológicas introducidas por la Ley 13/2005, de 1 de julio.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el artículo 3 de la Orden del Ministerio de Justicia de 20 de julio de 1989, sobre determinados Modelos de fe de vida y estado y certificaciones en extracto y literales de las Actas del Registro.
+
+## Disposición final primera. Título competencial.
+
+Esta Orden se dicta al amparo de la competencia exclusiva estatal en materia de ordenación de los Registros e instrumentos públicos, prevista por el artículo 149.1.8.ª de la Constitución.
+
+## Disposición final segunda. Habilitación para la aplicación.
+
+La Dirección General de los Registros y del Notariado dictará las resoluciones e instrucciones necesarias para la ejecución de lo previsto en esta Orden.
+
+## Disposición final tercera. Entrada en vigor.
+
+1\. Esta Orden, con la excepción a que se refiere el apartado 2 de esta disposición, entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+2\. Lo dispuesto en los artículos segundo y tercero de esta Orden entrará en vigor a los treinta días de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 8 de febrero de 2006.
+
+LÓPEZ AGUILAR
+
+Sra. Directora General de los Registros y del Notariado.
+
+## ANEXO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_009.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_010.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_011.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_012.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_013.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_014.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_015.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image6.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image7.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image8.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image10.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_024.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_025.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_026.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_027.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_028.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_029.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_014.png)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 176, de 25 de julio de 2006. [Ref. BOE-A-2006-13370](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13370)
+
+## ANEXO II
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_031.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_032.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/176/13370_9741884_image11.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/53/03764_034.png)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 176, de 25 de julio de 2006. [Ref. BOE-A-2006-13370](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-13370)
+
+> Información relacionada
+
+> Téngase en cuenta la Orden JUS/644/2006, de 6 de marzo, sobre aclaración de la presente Orden. [Ref. BOE-A-2006-4203](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-4203)

@@ -1,0 +1,197 @@
+---
+title: "Real Decreto 1932/1998, de 11 de septiembre, de adaptación de los capítulos III y V de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, al ámbito de los centros y establecimientos militares"
+identifier: "BOE-A-1998-21934"
+eli: "https://www.boe.es/eli/es/rd/1998/09/11/1932"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-09-11
+published: 1998-09-18
+in_force_from: 1998-09-19
+last_amended: 2018-02-10
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 224"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-21934"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1932/1998, de 11 de septiembre, de adaptación de los capítulos III y V de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, al ámbito de los centros y establecimientos militares
+
+La disposición adicional novena de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, habilita al Gobierno para que, previa consulta con las organizaciones sindicales más representativas y a propuesta de los Ministros de Defensa y de Trabajo y Asuntos Sociales, adapte las normas de los capítulos III y V de dicha Ley a las exigencias de la Defensa Nacional, a las peculiaridades orgánicas y al régimen vigente de representación del personal en los establecimientos militares.
+
+En su virtud, consultadas las organizaciones sindicales más representativas, a propuesta de los Ministros de Defensa y de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de septiembre de 1998,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente real decreto, al amparo de la disposición adicional novena de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos laborales, regula la adaptación de las normas de los capítulos III y V de esta ley, sobre derechos y obligaciones en materia de seguridad y salud en el trabajo y de consulta y participación de los trabajadores, para su aplicación en el ámbito de las relaciones de trabajo del personal laboral, estatutario y funcionarios civiles que prestan sus servicios en establecimientos dependientes de la Administración Militar.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 67/2010, de 29 de enero. [Ref. BOE-A-2010-2161](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2161).
+
+## Artículo 2. Riesgo grave e inminente.
+
+1\. Cuando el personal civil esté o pueda estar expuesto a un riesgo grave e inminente con ocasión de su trabajo, el Jefe del establecimiento estará obligado a:
+
+a) Informar lo antes posible a todos los afectados acerca de la existencia de dicho riesgo y de las medidas adoptadas o que, en su caso, deban adoptarse en materia de protección.
+
+b) Adoptar las medidas y dar las instrucciones necesarias para que, en caso de peligro grave, inminente e inevitable, el personal civil pueda interrumpir su actividad y, si fuera necesario, abandonar inmediatamente su lugar de trabajo. En este supuesto, no podrá exigirse al personal civil que reanude su actividad mientras persista el peligro, salvo excepción basada en función de los intereses o seguridad de la Defensa.
+
+c) Disponer lo necesario para que el personal civil que no pudiera ponerse en contacto con su superior jerárquico, ante una situación de peligro grave e inminente para su seguridad, la de otros trabajadores o la de terceros, esté en condiciones, habida cuenta de sus conocimientos y de los medios técnicos puestos a su disposición de adoptar las medidas necesarias para evitar las consecuencias de dicho peligro.
+
+2\. El personal civil tendrá derecho a interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario, cuando considere que dicha actividad entraña un riesgo grave e inminente para su vida o salud, poniéndolo en conocimiento inmediato de su superior jerárquico.
+
+3\. El personal civil no podrá sufrir perjuicio alguno derivado de la adopción de las medidas a que se refieren los apartados 1, c) y 2 anteriores, a menos que hubiese obrado de mala fe o cometido negligencia grave.
+
+## Artículo 3. Consulta de los trabajadores.
+
+El Jefe del establecimiento deberá consultar al personal civil, con la debida antelación y a través de los órganos previstos en el presente Real Decreto, la adopción de las decisiones relativas a:
+
+a) La planificación y la organización del trabajo en el establecimiento y la introducción de nuevas tecnologías, en todo lo relacionado con las consecuencias que ésas pudieran tener para la seguridad y salud de los trabajadores, derivados de la elección de equipos, la determinación y la adecuación de las condiciones de trabajo y el impacto de los factores ambientales en el trabajo, sin que, en ningún caso, se pueda paralizar, retrasar o entorpecer la ejecución de aquellas decisiones que se adopten en función de los intereses o seguridad de la Defensa.
+
+b) La organización y desarrollo de las actividades de protección de la salud y prevención de los riesgos profesionales en el establecimiento, incluida la designación del personal encargado de dichas actividades, o el recurso a un servicio de prevención externo.
+
+c) La designación del personal encargado de las medidas de emergencia.
+
+d) Los procedimientos de información y documentación a que se refieren los artículos 18, apartado 1, y 23, apartado 1, de la Ley 31/1995.
+
+e) El proyecto y la organización de la formación en materia preventiva.
+
+f) Cualquier otra acción que pueda tener efectos sustanciales sobre la seguridad y la salud del personal.
+
+## Artículo 4. Delegados de Prevención.
+
+1\. Los Delegados de Prevención son los representantes del personal civil con funciones específicas en materia de prevención de riesgos en el trabajo y deberán ostentar la condición de personal civil destinado en los propios centros y establecimientos del Ministerio de Defensa.
+
+2\. El ámbito para el que se ejercerá la representación en materia preventiva será el del conjunto del personal funcionario, laboral y estatutario destinado en cada centro o conjunto de establecimientos militares para el que pueda constituirse un comité de seguridad y salud, según lo previsto en el artículo 7.2 de este real decreto.
+
+3\. Con carácter general, los Delegados de Prevención serán designados por los representantes del personal con presencia en los ámbitos de los órganos de representación del personal y entre, por una parte, aquellos funcionarios y personal estatutario que sean miembros de la Junta de Personal correspondiente y, por otra, los representantes del personal laboral miembros del Comité de Empresa o delegados de personal.
+
+4\. El número de Delegados de Prevención que podrán ser designados para el total del personal adscrito a un centro o establecimiento militar se ajustará estrictamente a la escala establecida en el artículo 35.2 de la Ley 31/1995, de 8 de noviembre. El número resultante de la aplicación de dicha escala al total del personal, se distribuirá, posteriormente, entre el personal funcionario y estatutario, de un lado, y el personal laboral, de otro, de manera proporcional al volumen de cada colectivo a fin de determinar el número de ellos cuya elección corresponda a la junta de personal o al comité de empresa.
+
+5\. Cuando el número de representantes de personal en un determinado ámbito fuese insuficiente para alcanzar el número de Delegados de Prevención a designar según lo dispuesto en el artículo 35.2 de la Ley 31/1995, de 8 de noviembre, los representantes de personal o los propios trabajadores podrán designar como Delegados de Prevención, por este orden, a:
+
+a) Otros integrantes del personal civil, que podrán ser elegidos por las centrales sindicales entre delegados sindicales del ámbito de que se trate, de manera proporcional a su representatividad en el mismo.
+
+b) Otros integrantes del personal civil destinados en el centro o establecimiento militar de que se trate aun cuando no tengan la condición de miembros de órganos de representación o de delegados de personal, guardando siempre la proporción señalada en el apartado anterior y respetando lo previsto en el artículo 35.4 de la citada Ley 31/1995, de 8 de noviembre.
+
+> Se modifica por el art. único.1 del Real Decreto 60/2018, de 9 de febrero. [Ref. BOE-A-2018-1830](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1830)
+
+> Se modifican los apartados 2 a 4 por la disposición final 1.2 a 4 del Real Decreto 67/2010, de 29 de enero. [Ref. BOE-A-2010-2161](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2161).
+
+## Artículo 5. Competencias y facultades de los Delegados de Prevención.
+
+1\. Son competencias de los Delegados de Prevención:
+
+a) Colaborar con las Jefaturas de los establecimientos en la mejora de la acción preventiva.
+
+b) Promover y fomentar la cooperación del personal civil en la ejecución de la normativa sobre prevención de riesgos laborales.
+
+c) Ser consultados por los Jefes de los establecimientos, con carácter previo a su ejecución, acerca de las decisiones a las que se refiere el artículo 3.
+
+d) Ejercer una labor de vigilancia y control sobre el cumplimiento de la normativa de prevención de riesgos laborales.
+
+En los establecimientos que, de acuerdo con lo dispuesto en el apartado 2 del artículo 7 de este Real Decreto, no cuenten con Comité de Seguridad y Salud, por no alcanzar el número mínimo de trabajadores establecido al efecto, las competencias atribuidas a aquél, serán ejercidas por los Delegados de Prevención.
+
+2\. En el ejercicio de las competencias atribuidas a los Delegados de Prevención, éstos estarán facultados para:
+
+a) Acompañar a los técnicos en las evaluaciones de carácter preventivo del medio ambiente de trabajo, así como a la Inspección de Trabajo en el Ministerio de Defensa en las visitas y verificaciones que se realicen en los establecimientos para comprobar el cumplimiento de la normativa sobre prevención de riesgos laborales, pudiendo formular ante ellos las observaciones que estimen oportunas.
+
+b) Tener acceso, con las limitaciones previstas en el apartado 4 del artículo 22 de la Ley 31/1995, a la información y documentación relativa a las condiciones de trabajo que sean necesarias para el ejercicio de sus funciones y, en particular, a la prevista en los artículos 18 y 23 de dicha Ley. Cuando la información esté sujeta a las limitaciones reseñadas, sólo podrá ser suministrada de manera que se garantice el respeto de la confidencialidad.
+
+c) Ser informados por el Jefe del establecimiento sobre los daños producidos en la salud del personal civil, con ocasión o como consecuencia del trabajo prestado, una vez que aquél hubiese tenido conocimiento de ellos, teniendo derecho a presentarse, previo cumplimiento del trámite de autorización, en el lugar de los hechos para conocer las circunstancias de los mismos.
+
+d) Recibir del Jefe del establecimiento las informaciones obtenidas por éste, procedentes de las personas u órganos encargados de la actividad de protección y prevención en el establecimiento, así como de los organismos competentes para la seguridad y salud del personal civil, sin perjuicio de lo dispuesto en materia de colaboración con el órgano encargado de las funciones de inspección en materia de seguridad y salud en el trabajo en el Ministerio de Defensa.
+
+e) Realizar visitas a los lugares de trabajo dando cuenta de las mismas al Jefe del establecimiento, para ejercer una labor de vigilancia y control del estado de las condiciones de trabajo, pudiendo, a tal fin, comunicarse durante la jornada con el personal, de manera que no se altere el normal desarrollo del proceso productivo; si se tratara de zonas que tengan algún tipo de limitación en el acceso, la visita pretendida se coordinará con el responsable de seguridad de cada centro.
+
+f) Recabar del Jefe del establecimiento la adopción de medidas de carácter preventivo y para la mejora de los niveles de protección de la seguridad y salud del personal civil, pudiendo, a tal fin, efectuar propuestas al Jefe del establecimiento, así como al Comité de Seguridad y Salud, para su discusión en el mismo.
+
+3\. Los informes que deban emitir los Delegados de Prevención, a tenor de lo dispuesto en el párrafo c) del apartado 1 de este artículo, deberán elaborarse en un plazo de quince días o en el tiempo imprescindible cuando se trate de adoptar medidas dirigidas a prevenir riesgos inminentes. Transcurrido el plazo sin haberse emitido el informe, la Jefatura del establecimiento podrá poner en práctica su decisión.
+
+4\. La decisión negativa del Jefe del establecimiento a la adopción de las medidas propuestas por el Delegado de Prevención, a tenor de lo dispuesto en el párrafo f) del apartado 2 de este artículo, deberá ser motivada.
+
+## Artículo 6. Garantías y sigilo profesional de los Delegados de Prevención.
+
+1\. Los Delegados de Prevención, sea cual sea el sistema por el que hayan sido designados, gozarán en el ejercicio de sus funciones de las garantías inherentes a su condición representativa.
+
+El tiempo utilizado por los Delegados de Prevención para el desempeño de dichas competencias y facultades será considerado como de ejercicio de funciones de representación, a efectos de utilización del crédito de horas mensuales retribuidas previsto en el artículo 68 e) del texto refundido de la Ley del Estatuto de los Trabajadores aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, en el artículo 41. d) del texto refundido la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre y en el artículo 10.3 de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical. Dicho crédito horario será el que les corresponde por su condición previa de miembros de juntas de personal, de comités de empresa o de delegados de personal o, en su caso, de delegados sindicales, sin que existan créditos añadidos, propios ni adicionales, por su condición específica de Delegados de Prevención.
+
+2\. Los Delegados de Prevención, en el supuesto de no ser representantes del personal, tendrán en el desempeño de sus funciones, las garantías establecidas legalmente para éstos en el artículo 41 del texto refundido la Ley del Estatuto Básico del Empleado Público, si son personal funcionario civil y en el artículo 68 a), b), c) y d) y 56.4 del texto refundido de la Ley del Estatuto de los Trabajadores, si son personal laboral, y si no cuentan con otro tipo de crédito horario, se les garantizará el tiempo necesario para la realización de sus funciones como Delegados de Prevención, en los términos en que se acuerde en la negociación colectiva y con un tope equivalente al crédito horario del que disponen los Delegados de Prevención que son previamente representantes de los trabajadores.
+
+3\. Será considerado, en todo caso como tiempo de trabajo efectivo, sin imputación al crédito horario, el correspondiente a las reuniones del Comité de Seguridad y Salud y cualesquiera otras convocadas por la Administración en materia de prevención de riesgos laborales, así como el destinado a las visitas previstas en el artículo 36.2 a) y c) de la Ley 31/1995, de 8 de noviembre. Además, será igualmente considerado como tiempo de trabajo efectivo, sin imputación al crédito horario, el que se dedique por los Delegados de Prevención a las actuaciones derivadas de la aplicación de los protocolos de acoso existentes en el Ministerio de Defensa, siempre que dichas actividades estén previstas en los mismos, hayan sido formalmente solicitadas por alguno de los afectados o se realicen a instancias de la instrucción del caso de que se trate.
+
+4\. El Ministerio de Defensa deberá proporcionar a los Delegados de Prevención los medios y la formación en materia preventiva que resulte necesaria para el ejercicio de sus funciones.
+
+La formación se deberá facilitar por el Ministerio de Defensa, por sus propios medios o mediante conciertos con organismos o entidades especializadas en la materia, y deberá adaptarse a la evolución de los riesgos y a la aparición de otros nuevos, repitiéndose periódicamente si fuera necesario.
+
+El tiempo dedicado a la formación será considerado como tiempo de trabajo a todos los efectos y su coste no podrá recaer, en ningún caso, sobre los Delegados de Prevención.
+
+5\. A los Delegados de Prevención les será aplicable, en razón de su procedencia, lo dispuesto en el apartado 2 del artículo 65 del Estatuto de los Trabajadores y en el párrafo 2 del artículo 10 de la Ley 9/1987, de 12 de junio, en cuanto al sigilo profesional debido respecto de las informaciones a que tuviesen acceso como consecuencia de su actuación en un establecimiento, observando la más estricta reserva cuando, por la naturaleza de la información, así se le requiera.
+
+> Se modifican los apartados 1, 2 y 3 por el art. único.2 del Real Decreto 60/2018, de 9 de febrero. [Ref. BOE-A-2018-1830](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1830)
+
+## Artículo 7. Comité de Seguridad y Salud.
+
+1\. El Comité de Seguridad y Salud es el órgano paritario y colegiado de participación, destinado a la consulta regular y periódica de las actuaciones del Ministerio de Defensa en materia de prevención de riesgos laborales.
+
+2\. En los centros o establecimientos militares que cuenten con 50 o más empleados civiles se constituirá un Comité de Seguridad y Salud integrado por los Delegados de Prevención y por representantes del Ministerio de Defensa, designados por la Dirección General de Personal, en igual número al de Delegados de Prevención. La constitución de los Comités de Seguridad y Salud adoptará una de las dos modalidades siguientes según cual sea su ámbito de representación:
+
+a) Comités unitarios, para una única dependencia, presidido por el jefe del centro o establecimiento militar o personal en quien delegue éste, en aquellas dependencias en las que 50 o más personas realicen tareas del anexo I del Reglamento de los Servicios de Prevención, así como en las sedes centrales de cada uno de los tres Ejércitos y del Ministerio de Defensa.
+
+b) Comités agrupados, para el conjunto de las dependencias existentes en una misma provincia que dispongan de 50 o más empleados públicos en total, en cada caso y presidido por el subdelegado de defensa o en quien delegue éste.
+
+3\. En las reuniones del Comité de Seguridad y Salud podrán participar, con voz pero sin voto, los delegados sindicales del centro o establecimiento militar que no sean además delegados de prevención, los asesores sindicales, en su caso, y los responsables técnicos de prevención en el ámbito correspondiente. Dichos responsables técnicos no podrán, en consecuencia, formar parte del Comité como representantes exclusivos de la Administración.
+
+En las mismas condiciones podrá participar el personal que cuente con una especial cualificación o información respecto de concretas cuestiones que se debatan en este órgano y técnicos en prevención ajenos a la Administración General del Estado, siempre que así lo solicite alguna de las representaciones del Comité.
+
+4\. El Comité de Seguridad y Salud se reunirá trimestralmente y cuando, existiendo causa grave y urgente, lo solicite alguna de las representaciones en el mismo. El Comité adoptará sus propias normas de funcionamiento.
+
+> Se modifica por el art. único.3 del Real Decreto 60/2018, de 9 de febrero. [Ref. BOE-A-2018-1830](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1830)
+
+## Artículo 8. Competencias y facultades del Comité de Seguridad y Salud.
+
+1\. El Comité de Seguridad y Salud tendrá las siguientes competencias:
+
+a) Participar en la elaboración, puesta en práctica y evaluación de los planes y programas de prevención de riesgos en los establecimientos. A tal efecto, en su seno se debatirán, antes de su puesta en práctica, y con las salvedades recogidas en el artículo 3 del presente Real Decreto, y en lo referente a su incidencia en la prevención de riesgos, los proyectos en materia de planificación, organización del trabajo e introducción de nuevas tecnologías, organización y desarrollo de las actividades de protección y prevención y proyecto y organización de la formación en materia preventiva.
+
+b) Promover iniciativas sobre métodos y procedimientos para la efectiva prevención de los riesgos, proponiendo a los Jefes de los establecimientos la mejora de las condiciones o la corrección de las deficiencias existentes.
+
+2\. En el ejercicio de sus competencias, el Comité de Seguridad y Salud estará facultado para:
+
+a) Conocer directamente la situación relativa a la prevención de riesgos en los establecimientos realizando las visitas que estime oportunas.
+
+b) Conocer cuantos documentos e informes relativos a las condiciones de trabajo, sean necesarios para el cumplimiento de sus funciones, así como los procedentes de la actividad del servicio de prevención, en su caso.
+
+c) Conocer y analizar los daños producidos en la salud o en la integridad física del personal civil, al objeto de valorar sus causas y proponer las medidas preventivas oportunas.
+
+d) Conocer e informar la memoria y la programación anual de los servicios de prevención.
+
+3\. A fin de dar cumplimiento a lo dispuesto en este Real Decreto respecto de la colaboración entre establecimientos y empresas ajenas al Ministerio de Defensa en los supuestos de desarrollo simultáneo de actividades en un mismo centro de trabajo, se podrá acordar la realización de reuniones conjuntas de los Comités de Seguridad y Salud, o, en su defecto, de los Delegados de Prevención y empresarios de las empresas que carezcan de dichos Comités u otras medidas de actuación coordinada.
+
+## Artículo 9. Comité Intercentros.
+
+En virtud de pacto alcanzado con la representación legal del personal civil, se podrá acordar la creación de un Comité Intercentros con las funciones que, en materia preventiva, el acuerdo le atribuya.
+
+## Disposición final primera. Facultades de desarrollo.
+
+Se faculta al Ministro de Defensa, previa consulta al Ministro de Hacienda y Función Pública y al Ministro de Empleo y Seguridad Social, para dictar cuantas disposiciones sean necesarias para el desarrollo de este real decreto.
+
+> Se modifica por el art. único.4 del Real Decreto 60/2018, de 9 de febrero. [Ref. BOE-A-2018-1830](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1830)
+
+## Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 11 de septiembre de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno
+
+y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

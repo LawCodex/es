@@ -1,0 +1,135 @@
+---
+title: "Real Decreto 2490/1998, de 20 de noviembre, por el que se crea y regula el título oficial de Psicólogo Especialista en Psicología Clínica"
+identifier: "BOE-A-1998-27709"
+eli: "https://www.boe.es/eli/es/rd/1998/11/20/2490"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-11-20
+published: 1998-12-02
+in_force_from: 1998-12-02
+last_amended: 2008-02-21
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 288"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-27709"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2490/1998, de 20 de noviembre, por el que se crea y regula el título oficial de Psicólogo Especialista en Psicología Clínica
+
+Norma derogada, con efectos de 22 de febrero de 2008, a excepción de la disposición adicional 3 y las disposiciones transitorias 1 a 4, hasta tanto concluyan los procedimientos de acceso al citado título por las mencionadas vías transitorias, por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. [Ref. BOE-A-2008-3176](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3176)
+
+Los Reales Decretos 127/1984, de 11 de enero, y 2708/1982, de 15 de octubre, que regulan la obtención de los títulos de Médico y Farmacéutico Especialista, respectivamente, consagraron un sistema de formación de especialistas sanitarios que asegura el alto nivel profesional de quienes desarrollan su actividad en el ámbito de la atención sanitaria y, con ello, un elevado índice de calidad de los centros, servicios y profesionales a los que corresponde hacer efectivo el derecho a la protección de la salud que proclama el artículo 43 de la Constitución.
+
+La experiencia en el funcionamiento del sistema de residencia motivó que, cuando la evolución científica y técnica en el campo de la salud aconsejó la incorporación de nuevas especializaciones profesionales al sistema sanitario, dicho sistema de formación se aplicará, conforme a las previsiones de la Ley General de Sanidad, a otras titulaciones universitarias, posibilitado su acceso, a través de las oportunas convocatorias, a la formación sanitaria especializada aun cuando la misma no condujera a la obtención de un título oficial de especialista.
+
+Los positivos resultados obtenidos desde que se inició dicho proceso y las crecientes necesidades del sistema sanitario en el ámbito de la salud mental al que expresamente se refiere el capítulo III de la Ley 14/1986, de 14 de abril, General de Sanidad, determinan que el Estado, haciendo uso de las competencias que le atribuye el artículo 149.1.30.<sup>a</sup> de la Constitución, regule la creación y obtención del título oficial de Psicólogo Especialista en Psicología Clínica, sin que ello suponga una modificación de los sistemas vigentes para acceder a los títulos de Médico y Farmacéutico Especialista.
+
+La disposición adicional primera, 2.c), en relación con la disposición final primera de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y el artículo 18.1 del Real Decreto 778/1998, de 30 de abril, por el que se regula el tercer ciclo de estudios universitarios, la obtención y expedición del título de Doctor y otros estudios de postgrado, regulan los títulos de especialización para graduados universitarios. Dichos preceptos, en relación con lo previsto en los artículos 40.10 y 104 de la Ley 14/1986, de 25 de abril, General de Sanidad, constituyen la base legal para la creación del título oficial de Psicólogo Especialista en Psicología Clínica, que se obtendrá por el procedimiento de residencia, lo que implica, entre otras cosas, la acreditación de plazas docentes mediante criterios objetivos, la evaluación anual de conocimientos y la existencia de un vínculo retribuido durante el período en el que se imparta el programa.
+
+En la elaboración de esta norma han sido oídas las corporaciones profesionales correspondientes, los Consejos Nacionales de Especialidades Médicas y de Especializaciones Farmacéuticas, el Consejo de Universidades y el Consejo Interterritorial del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Educación y Cultura, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de noviembre de 1998,
+
+DISPONGO:
+
+## Artículos 1 a 5.
+
+**(Derogados).**
+
+> Se derogan por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. [Ref. BOE-A-2008-3176](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3176)
+
+## Disposición adicional primera.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. [Ref. BOE-A-2008-3176](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3176)
+
+## Disposición adicional segunda.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. [Ref. BOE-A-2008-3176](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3176)
+
+## Disposición adicional tercera. Efectos de la creación del título de Psicólogo Especialista en relación con otros profesionales.
+
+La creación del título oficial de Psicólogo Especialista en Psicología Clínica y la realización por estos titulados de diagnósticos, evaluaciones y tratamientos de carácter psicológico, se entenderá, sin perjuicio de las competencias que corresponden al médico o al especialista en psiquiatría, cuando la patología mental atendida exija la prescripción de fármacos o cuando de dicha patología se deriven procesos biológicos que requieran la intervención de los citados profesionales.
+
+## Disposición transitoria primera. Convocatorias de plazas formativas anteriores al presente Real Decreto.
+
+1\. Podrán obtener el título de Psicólogo Especialista en Psicología Clínica, los Licenciados en Psicología, o poseedores de título homologado o declarado equivalente en los términos previstos en el artículo 1.2.a), que hubieran obtenido plaza para la formación especializada en Psicología Clínica a través de las convocatorias nacionales efectuadas por Orden del Ministerio de Sanidad y Consumo de 8 de octubre de 1993, y por Órdenes del Ministerio de la Presidencia de 21 de julio de 1994, de 3 de octubre de 1995, de 3 de octubre de 1996 y de 19 de noviembre de 1997, una vez concluida, con evaluación favorable, su formación.
+
+El Ministerio de Sanidad y Consumo, tras efectuar las pertinentes comprobaciones, elevará los expedientes al Ministerio de Educación y Cultura para la expedición de los títulos de Especialista que procedan.
+
+2\. Podrán obtener el título de Psicólogo Especialista en Psicología Clínica mediante el procedimiento que se establezca en las disposiciones de desarrollo de este Real Decreto, los Licenciados en Psicología o poseedores de títulos homologados o declarados equivalentes a él, que hayan obtenido plaza de carácter retribuido mediante contrato, nombramiento o beca, para la formación especializada en Psicología Clínica en convocatorias realizadas por las Consejerías de Salud u órgano competente de las Comunidades Autónomas con anterioridad a la primera convocatoria nacional, publicada mediante Orden de 8 de octubre de 1993 («Boletín Oficial del Estado» del 23), previa comprobación por la Comisión Nacional del Psicología Clínica de que se han cumplido los requisitos relativos al período, programa formativo y evaluación en términos análogos a los previstos en las convocatorias citadas en el apartado anterior.
+
+> Se amplía el plazo de presentación de solicitudes hasta el 16 de diciembre de 2005, por el art. 2 del Real Decreto 654/2005, de 6 de junio. [Ref. BOE-A-2005-10071](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10071)
+
+## Disposición transitoria segunda. Vías transitorias de obtención del título por personal vinculado a instituciones sanitarias.
+
+1\. Podrán acceder al título de Psicólogo Especialista en Psicología Clínica, los Licenciados en Psicología, o poseedores de título homologado o declarado equivalente en los términos previstos en el artículo 1.2.a), que, mediante nombramiento administrativo o contrato laboral, desempeñen puesto de trabajo o plaza en Instituciones Sanitarias del Sistema Nacional de Salud o concertadas con él, cuyo contenido funcional se corresponda con el ámbito profesional del Especialista en Psicología Clínica.
+
+A estos efectos los Ministros de Educación y Cultura y Sanidad y Consumo, oída la Comisión Nacional de Psicología Clínica, habilitarán un procedimiento en el que se tendrá en cuenta lo previsto en los apartados siguientes de esta disposición.
+
+2\. El desempeño de los puestos de trabajo, con el contenido funcional que se cita en el apartado 1 de esta disposición transitoria, deberá haberse realizado durante un período no inferior a tres años, dentro de los cinco anteriores a la entrada en vigor del presente Real Decreto.
+
+3\. Las solicitudes serán examinadas por la Comisión Nacional de Psicología Clínica, que formulará una de las siguientes propuestas:
+
+a) Expedición directa del título de Especialista. Para adoptar esta propuesta será preciso que el interesado haya acreditado, al menos, una experiencia profesional durante un período igual o superior al de la duración del programa formativo de la Especialidad de Psicología Clínica y que la Comisión estime que su formación es análoga a la exigida por dicho programa.
+
+b) Seguimiento en una unidad acreditada para la docencia de un programa formativo complementario. Para adoptar esta propuesta será preciso que el interesado haya acreditado una experiencia profesional de, como mínimo, tres años y que la Comisión estime que las carencias de su formación pueden ser suplidas con un programa específico, que una vez concluido deberá ser evaluado por la citada Comisión, que sólo propondrá la expedición del título de Psicólogo Especialista en Psicología Clínica, si la evaluación ha sido favorable.
+
+El programa específico de formación, cuya duración no podrá ser superior a seis meses, no será objeto de retribución y se planificará de tal forma que cause la menor interferencia en la actividad profesional ordinaria del interesado.
+
+c) Desestimación de la solicitud. Se adoptará esta propuesta cuando a juicio de la Comisión Nacional, la formación y experiencia acreditadas por el interesado, aun cuando sea superior al plazo de tres años, que se cita en el apartado 2 de esta disposición, no sea susceptible de ser completado mediante el programa formativo complementario, al que se refiere el apartado 3.b) de esta disposición.
+
+> Véase, sobre modificación del plazo para computar el ejercicio profesional requerido en esta disposición transitoria así como el de presentación de solicitudes, los arts. 1 y 2 del Real Decreto 654/2005, de 6 de junio. [Ref. BOE-A-2005-10071](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10071)
+
+## Disposición transitoria tercera. Vías transitorias de obtención del título por quienes están colegiados para el ejercicio profesional.
+
+1\. Podrán acceder al título de Psicólogo Especialista en Psicología Clínica, los Licenciados en Psicología, o poseedores de título homologado o declarado equivalente en los términos previstos en el artículo 1.2.a), que, mediante certificación expedida por el correspondiente Colegio Profesional, acrediten haber ejercido, con anterioridad a la entrada en vigor de este Real Decreto, las actividades profesionales propias de la Especialidad de Psicología Clínica.
+
+A estos efectos los Ministerios de Educación y Cultura y de Sanidad y Consumo, oída la Comisión Nacional de Psicología Clínica, habilitarán un procedimiento que tendrá en cuenta lo previsto en los apartados siguientes de esta disposición.
+
+2\. El período de tiempo de ejercicio profesional que se cita en el apartado 1 de esta disposición, deberá ser, en todo caso, superior al 150 por 100 del fijado en el programa formativo de la especialidad.
+
+3\. Las solicitudes serán examinadas por la Comisión Nacional de Psicología Clínica, que formulará alguna de las siguientes propuestas:
+
+a) Expedición directa del título. Para adoptar esta propuesta será preciso que la Comisión, a la vista del historial profesional del interesado debidamente documentado, estime que su formación es análoga a la exigida por el programa de la especialidad.
+
+b) Superación de las pruebas que se determinen por los Ministerios de Educación y Cultura y de Sanidad y Consumo, oída la Comisión Nacional de la Especialidad, las cuales versarán sobre los contenidos teóricos-prácticos del correspondiente programa formativo. Esta propuesta se adoptará cuando la Comisión estime, a la vista del historial profesional del interesado debidamente documentado, que su formación no se adecua a la exigida por el programa de la especialidad.
+
+c) Desestimación de la solicitud. Se adoptará esta propuesta cuando a juicio de la Comisión Nacional, la formación y el ejercicio profesional acreditados, aún siendo superior al plazo que se determina en el apartado 2 de esta disposición, no revistan la entidad suficiente para acceder al título de Psicólogo Especialista en Psicología Clínica por los procedimientos previstos en los anteriores párrafos a) y b) de este apartado.
+
+> Véase, sobre modificación del plazo para computar el ejercicio profesional requerido en esta disposición transitoria así como el de presentación de solicitudes, los arts. 1 y 2 del Real Decreto 654/2005, de 6 de junio. [Ref. BOE-A-2005-10071](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10071)
+
+## Disposición transitoria cuarta. Personal docente.
+
+Podrán acceder al título de Psicólogo Especialista en Psicología Clínica, los licenciados en Psicología, o poseedores de título homologado o declarado equivalente a él, perteneciente a los Cuerpos de Catedráticos o Profesores Titulares de Universidad cuyo ejercicio docente e investigador, a la entrada en vigor de este Real Decreto, se corresponda con los contenidos propios de la especialidad de Psicología Clínica y acrediten actividad asistencial durante un tiempo no inferior a tres años.
+
+Los Ministerios de Educación y Cultura y de Sanidad y Consumo, oída la Comisión Nacional de Psicología Clínica, habilitarán el procedimiento para la aplicación de esta disposición transitoria.
+
+> Véase, sobre modificación del plazo para computar el ejercicio profesional requerido en esta disposición transitoria así como el de presentación de solicitudes, los arts. 1 y 2 del Real Decreto 654/2005, de 6 de junio. [Ref. BOE-A-2005-10071](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10071)
+
+## Disposición transitoria quinta.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. [Ref. BOE-A-2008-3176](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3176)
+
+## Disposición final primera a tercera.
+
+**(Derogadas).**
+
+> Se derogan por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. [Ref. BOE-A-2008-3176](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3176)
+
+Dado en Madrid a 20 de noviembre de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

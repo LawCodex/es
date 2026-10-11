@@ -1,0 +1,371 @@
+---
+title: "Real Decreto 200/2000, de 11 de febrero, por el que se aprueba el Reglamento técnico de control de la producción y comercialización de los materiales de reproducción de las plantas ornamentales"
+identifier: "BOE-A-2000-3010"
+eli: "https://www.boe.es/eli/es/rd/2000/02/11/200"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2000-02-11
+published: 2000-02-15
+in_force_from: 2000-02-16
+last_amended: 2023-06-21
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 39"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-3010"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 200/2000, de 11 de febrero, por el que se aprueba el Reglamento técnico de control de la producción y comercialización de los materiales de reproducción de las plantas ornamentales
+
+La Orden de 28 de octubre de 1994 por la que se aprueba el Reglamento técnico de control de la producción y comercialización de los materiales de reproducción de las plantas ornamentales y de las plantas ornamentales, incorporó a nuestro ordenamiento jurídico la Directiva 91/682/CEE, del Consejo, de 19 de diciembre, relativa a la comercialización de los materiales de reproducción de las plantas ornamentales y de las plantas ornamentales, desarrollada por las siguientes directivas: 93/49/CEE, de la Comisión, de 23 de junio; 93/63/CEE, de la Comisión, de 5 de julio, y 93/78/CEE, de la Comisión, de 21 de septiembre.
+
+La Directiva 91/682/CEE tuvo dificultades de interpretación en los Estados miembros y se incluyó en la iniciativa comunitaria de simplificación de la legislación en el mercado interior, puesta en marcha por la Comisión Europea en 1996. Consecuencia de dicha iniciativa, resultaron varias recomendaciones para simplificar el texto original y que se refieren tanto a las personas que deben ser controladas, como a las especies y tipo de material que debe estar cubierto por la norma, así como a la equivalencia con los países terceros.
+
+Tras el examen de dichas recomendaciones, el Consejo de la Unión Europea ha considerado conveniente la promulgación de la nueva Directiva 98/56/CE, del Consejo, de 20 de julio, relativa a la comercialización de los materiales de reproducción de las plantas ornamentales que sustituye a la anteriormente citada.
+
+Por tanto en virtud del presente Real Decreto se incorpora a nuestro ordenamiento jurídico la Directiva 98/56/CE del Consejo, desarrollada por la Comisión mediante las siguientes Directivas:
+
+a) La Directiva 1999/66/CE, de 28 de junio, por la que se establecen los requisitos que deben cumplir las etiquetas u otros documentos expedidos por el proveedor en virtud de la Directiva 98/56/CE.
+
+b) La Directiva 1999/67/CE, de 28 de junio, por la que se modifica la Directiva 93/49/CEE por la que se establece la lista referente a las condiciones que deben cumplir los materiales de reproducción de plantas ornamentales y las plantas ornamentales de conformidad con la Directiva 91/682/CEE, del Consejo.
+
+c) La Directiva 1999/68/CE, de 28 de junio, por la que se fijan disposiciones adicionales sobre las listas de variedades de plantas ornamentales elaboradas por los proveedores en virtud de la Directiva 98/56/CE, del Consejo.
+
+d) La Directiva 1999/69/CE, de 28 de junio, por la que se deroga la Directiva 93/63/CEE por la que se establecen las disposiciones de aplicación para la vigilancia y el control de los proveedores y establecimientos en el marco de la Directiva 91/682/CEE, del Consejo.
+
+En la elaboración de este Real Decreto han sido consultadas las Comunidades Autónomas y los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación y del Ministro de Economía y Hacienda, previo informe del Ministerio de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de febrero de 2000,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Ámbito de aplicación.
+
+1\. El presente Real Decreto se aplicará a la producción y comercialización de los materiales de reproducción de plantas ornamentales, sin perjuicio de las normas de protección de la flora silvestre establecidos por el Reglamento (CE) 338/1997, de lo establecido por la Ley 11/1997, de 24 de abril, de envases y residuos de envases, y de las normas fitosanitarias establecidas por el Real Decreto 2071/1993, de 26 de noviembre, relativo a las medidas de protección contra la introducción y difusión en el territorio nacional y de la Unión Europea de organismos nocivos para los vegetales o productos vegetales, así como para la exportación y tránsito hacia países terceros.
+
+2\. El presente Real Decreto no se aplicará a los materiales de reproducción cuando se demuestre que están destinados a la exportación a países que no pertenezcan a la Unión Europea, siempre que estén correctamente identificados como tales y se mantengan adecuadamente aislados. Tampoco se aplicará a los materiales de reproducción cuyos productos no se destinen a usos ornamentales.
+
+### Artículo 2. Definiciones.
+
+A los efectos del presente Real Decreto se entenderá por:
+
+1\. Materiales de reproducción: materiales vegetales que están destinados a:
+
+a) La reproducción de plantas ornamentales.
+
+b) La producción de plantas ornamentales; sin embargo en caso de producción a partir de plantas completas, esta definición se aplica solamente en la medida en que la planta ornamental resultante esté destinada a la posterior comercialización.
+
+2\. Reproducción: reproducción vegetal o por otros medios.
+
+3\. Proveedor: cualquier persona física o jurídica que se dedique profesionalmente a la comercialización o a la importación de materiales de reproducción.
+
+4\. Comercialización: mantener disponible o en almacén, exponer u ofrecer en venta, vender o entregar a otra persona, sea cual fuere la forma en que se realice, materiales de reproducción de plantas ornamentales.
+
+5\. Lote: un conjunto de unidades de un solo producto, identificables por la homogeneidad de su composición y de su origen.
+
+6\. Organismo oficial responsable:
+
+a) La Dirección General de Agricultura, a través de la Subdirección General de Sanidad Vegetal, respecto a la ordenación y coordinación en materia de control y certificación de semillas y plantas de vivero, así como todas las funciones en lo que se refiere a los intercambios de dicho material con países terceros.
+
+b) Los órganos competentes de las Comunidades Autónomas, respecto a la ejecución de las operaciones necesarias para el control y certificación correspondiente.
+
+Los organismos a que se hace referencia en los dos párrafos anteriores podrán delegar las funciones, que realizan bajo su responsabilidad y control, en cualquier persona jurídica de derecho público o privado que, con arreglo a sus estatutos oficialmente aprobados, sea responsable exclusivamente de funciones públicas específicas, siempre que dicha persona y sus miembros no obtengan provecho personal alguno del resultado de las medidas que adopten.
+
+Las Comunidades Autónomas comunicarán los órganos responsables en su territorio de la ejecución de las operaciones necesarias para el control y certificación correspondientes al Ministerio de Agricultura Pesca y Alimentación el cual a su vez, por el cauce correspondiente, lo comunicará a la Comisión Europea.
+
+## CAPÍTULO II — Requisitos de los materiales de reproducción
+
+### Artículo 3. Requisitos para la comercialización.
+
+1\. Los proveedores sólo podrán comercializar los materiales de reproducción si éstos cumplen los requisitos del presente Real Decreto.
+
+2\. No será necesario el cumplimiento de los requisitos establecidos en el presente Real Decreto para la comercialización de los materiales de reproducción que se destinen:
+
+a) A pruebas o fines científicos.
+
+b) A trabajos de selección.
+
+c) A la conservación de la diversidad genética.
+
+### Artículo 4. Requisitos fitosanitarios de cuarentena.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.2 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+### Artículo 5. Requisitos de calidad.
+
+1\. Sin perjuicio de lo dispuesto en los artículos 1 y 4 del presente Real Decreto, los materiales de reproducción que se comercialicen cumplirán los requisitos siguientes:
+
+a) Los materiales de reproducción de plantas ornamentales en el lugar de producción deberán encontrarse, al menos mediante inspección visual, prácticamente libres de todas las plagas enumeradas en el anexo para los materiales de reproducción de plantas ornamentales correspondientes.
+
+La presencia de plagas reguladas no cuarentenarias en materiales de reproducción de plantas ornamentales destinados a la comercialización no excederá, al menos mediante inspección visual, de los umbrales correspondientes establecidos en el anexo.
+
+Los materiales de reproducción de plantas ornamentales estarán, al menos mediante inspección visual, prácticamente libres de cualquier plaga, distinta de las enumeradas en el anexo para los materiales de reproducción concretos de plantas ornamentales, que reduzca su utilidad y calidad, o de cualquier indicio o síntoma de esas plagas.
+
+Los materiales también cumplirán los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contempladas en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031 del Parlamento Europeo y del Consejo, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+
+b) Estarán esencialmente exentos de defectos que afecten a su calidad como material de reproducción.
+
+c) Tendrán la capacidad y dimensiones que sean necesarios en relación con su valor de utilización como material de reproducción.
+
+d) En el caso de semillas, tendrán el adecuado poder germinativo.
+
+e) Si se comercializan con referencia a una variedad incluida en el artículo 9 del presente Real Decreto presentarán una pureza e identidad varietal satisfactoria.
+
+f) Deberán tener la identidad y pureza del género o especie o del grupo de plantas al que pertenezcan.
+
+2\. Los materiales de reproducción que, por presentar signos o síntomas visibles, no estén esencialmente exentos de organismos nocivos, recibirán un tratamiento adecuado, o, en su caso, serán eliminados.
+
+3\. Además, los materiales de reproducción de cítricos deberán cumplir los requisitos siguientes:
+
+a) Procederán de una planta madre que, habiendo sido sometida a análisis, no haya mostrado síntomas de ningún virus u organismo similar a un virus, ni de ninguna enfermedad.
+
+b) Se habrán sometido a inspecciones de las que hayan resultado estar esencialmente exentos de virus u organismos similares a virus y de enfermedades desde el comienzo del último ciclo vegetativo.
+
+c) En caso de injerto, deberá haber sido injertado en patrones que no sean sensibles a los viroides.
+
+4\. Tratándose de bulbos de flores, se cumplirá además el requisito de que los materiales de reproducción procederán directamente de un material que en la fase de crecimiento se haya sometido a análisis en los que haya resultado estar esencialmente exento de todo organismo nocivo o enfermedad y de sus signos o síntomas.
+
+> Se modifica el apartado 1.a) por el art. 2.1 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se modifica el apartado 3.a) por el art. único.1 del Real Decreto 1270/2018, de 15 de octubre. [Ref. BOE-A-2018-14113](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14113)
+
+### Artículo 5 bis. Materiales de reproducción de Palmae.
+
+**(Suprimido).**
+
+> Se suprime por el art. 2.2 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade por el art. único.2 del Real Decreto 1270/2018, de 15 de octubre. [Ref. BOE-A-2018-14113](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14113)
+
+## CAPÍTULO III — Requisitos para los proveedores de materiales de reproducción
+
+### Artículo 6. Registro oficial de los proveedores.
+
+1\. Los proveedores deberán estar oficialmente registrados para las actividades que ejerzan en lo que se refiere al presente Real Decreto en un Registro oficial.
+
+2\. El organismo oficial responsable podrá considerar que los proveedores inscritos en el Registro a que hace referencia el apartado 7 del artículo 6 del mencionado Real Decreto 2071/1993, se encuentran registrados a los efectos del presente Real Decreto. Dichos proveedores, no obstante, deberán ajustarse a los requisitos del presente Real Decreto.
+
+3\. No será precisa la inscripción en el Registro oficial a que se refiere el apartado 1 de este artículo para los proveedores que tratan solamente con personas no implicadas profesionalmente en la producción o venta de plantas ornamentales o material de reproducción. Estos proveedores deberán, no obstante, cumplir los demás requisitos del presente Real Decreto.
+
+### Artículo 7. Requisitos de los proveedores que se dediquen a la producción de materiales de reproducción.
+
+1\. Los proveedores que se dediquen a la producción de materiales de reproducción deberán:
+
+a) Determinar y controlar los puntos esenciales de su proceso de producción que repercutan en la calidad de los materiales de reproducción.
+
+b) Disponer de información sobre el control a que se refiere el anterior párrafo a) para que la examine, si así lo solicita, el organismo oficial responsable.
+
+c) Cuando proceda, tomar muestras para su análisis en un laboratorio dotado de la experiencia e instalaciones adecuadas. El laboratorio deberá estar reconocido por el organismo oficial responsable.
+
+d) Garantizar que durante el proceso de producción, los lotes de materiales de reproducción puedan identificarse uno a uno.
+
+2\. Los proveedores autorizados conservarán durante al menos doce meses, los registros de las ventas o compras del material de reproducción comercializado.
+
+## CAPÍTULO IV — Comercialización y etiquetado de los materiales de reproducción
+
+### Artículo 8. Comercialización en lotes y etiquetado.
+
+1\. Los materiales de reproducción se comercializarán en lotes. No obstante, los materiales de reproducción de lotes distintos podrán comercializarse en una única partida siempre que el proveedor mantenga un registro de la composición y el origen de los distintos lotes.
+
+2\. Cuando se comercialicen los materiales de reproducción, deberán ir acompañados de una etiqueta u otro documento expedido por el proveedor.
+
+3\. La etiqueta o el documento del proveedor serán de un material adecuado, que no haya sido usado previamente e impresa como mínimo en una de las lenguas oficiales de la Unión Europea y en todo caso al menos en la lengua española oficial del Estado y en el que se indicará la información siguiente:
+
+a) Indicación «calidad CE».
+
+b) Indicación del código del Estado miembro de la Unión Europea.
+
+c) Indicación del organismo oficial responsable o de su código distintivo.
+
+d) Número de registro del proveedor.
+
+e) Número de serie individual, semanal o lote.
+
+f) Nombre botánico.
+
+g) Denominación de la variedad, cuando proceda.
+
+En el caso de patrones, denominación de la variedad o su designación.
+
+h) Denominación del grupo de plantas, cuando proceda.
+
+i) Cantidad.
+
+j) En el caso de importaciones procedentes de terceros países, el nombre del país de producción.
+
+4\. En el caso de que los materiales de reproducción vayan acompañados de un pasaporte fitosanitario de acuerdo con la Orden de 17 de mayo de 1993, por la que se establece la normalización de los pasaportes fitosanitarios destinados a la circulación de determinados vegetales, productos vegetales y otros objetos dentro de la Comunidad, y por la que se establecen los procedimientos para la expedición de tales pasaportes y las condiciones y procedimientos para su sustitución, dicho pasaporte fitosanitario podrá constituir la etiqueta o documento expedido por el proveedor mencionado en el apartado 2 de este artículo. En ese caso, en el citado pasaporte, además, deberá figurar claramente separada del resto la siguiente información: «Calidad CE», el nombre o código del organismo oficial responsable relativo al presente Real Decreto y, cuando proceda, la denominación de la variedad, el patrón o el grupo de plantas. Cuando se trate de importaciones procedentes de terceros países, se deberá indicar también el nombre del país de producción.
+
+5\. La comercialización de los materiales de reproducción en lotes, a que se refiere el apartado 1 de este artículo no se aplicará al material de reproducción comercializado por personas no implicadas profesionalmente en la producción o venta de plantas ornamentales o material de reproducción.
+
+Asimismo, para estas personas los requisitos de etiquetado pueden quedar limitados a una información adecuada del producto.
+
+### Artículo 9. Comercialización con referencia a una variedad.
+
+1\. Los materiales de reproducción solamente podrán comercializarse con una referencia a una variedad si ésta es:
+
+a) Una variedad legalmente protegida por un título de obtención de variedad vegetal de acuerdo con la Ley 3/2000, de 7 de enero, de Régimen Jurídico de la Protección de las Obtenciones Vegetales.
+
+b) Una variedad registrada oficialmente.
+
+c) Una variedad de conocimiento común.
+
+d) Una variedad que figure en una lista elaborada por el proveedor que contenga una descripción detallada de la misma y su denominación.
+
+2\. Las listas elaboradas por los proveedores anteriormente mencionadas deberán incluir lo siguiente:
+
+a) El nombre de la variedad y, cuando proceda, sus sinónimos comúnmente conocidos.
+
+b) Indicaciones de la conservación de la variedad y del sistema de reproducción utilizado.
+
+c) Descripción de la variedad, que comprenda al menos sus características y sus expresiones, según lo especificado de conformidad con las disposiciones sobre las solicitudes presentadas en el marco de la protección comunitaria de obtenciones vegetales en la Unión Europea, cuando éstas sean aplicables.
+
+d) A ser posible, indicación de las divergencias entre esa variedad y las variedades que más se le parezcan.
+
+3\. Los párrafos b) y d) del apartado anterior no serán aplicables a los proveedores cuya actividad se limite a la puesta en el mercado de materiales de reproducción de plantas ornamentales.
+
+4\. Los proveedores deberán poner a disposición del organismo oficial responsable que lo solicite, las listas elaboradas por los mismos.
+
+5\. En la medida de lo posible, cada variedad deberá tener la misma denominación, de conformidad con las normas que se establezcan a nivel comunitario, o en su defecto, con arreglo a directrices internacionalmente aceptadas.
+
+6\. Cuando los materiales de reproducción se comercialicen con una referencia a un grupo de plantas y no a una de las variedades a que se refiere el apartado 1 de este artículo, el proveedor deberá describir y denominar el grupo de plantas de manera que no pueda haber confusión posible con cualquier denominación varietal.
+
+## CAPÍTULO V — Materiales de reproducción producidos en terceros países
+
+### Artículo 10. Importación de los materiales de reproducción producidos en terceros países.
+
+1\. En tanto no se decida por la Comisión Europea si los materiales de reproducción producidos en un país tercero ofrecen garantías equivalentes a los producidos en la Unión Europea, no se podrán importar dichos materiales, a menos que el importador garantice, previamente a la importación, que tales materiales ofrecen garantías equivalentes en todos los aspectos a los producidos en la Unión Europea, en particular en relación con la calidad, identidad y fitosanidad.
+
+2\. El importador de dichos materiales comunicará a la Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación la importación realizada y conservará las pruebas documentales de su contrato de importación con el proveedor del país tercero.
+
+## CAPÍTULO VI — Medidas de control
+
+### Artículo 11. Medidas de control sobre los proveedores.
+
+1\. El organismo oficial responsable velará por que los proveedores tomen las medidas necesarias para garantizar el cumplimiento de los requisitos del presente Real Decreto, por lo que los materiales de reproducción serán inspeccionados oficialmente al menos por muestreo y al menos respecto a la comercialización dirigida a personas profesionalmente implicadas en la producción o venta de plantas ornamentales o materiales de reproducción.
+
+2\. Para comprobar el cumplimiento de dichos requisitos, el organismo oficial responsable podrá tomar las muestras correspondientes.
+
+3\. Para poder efectuar la supervisión y el seguimiento, el organismo oficial responsable deberá tener, en todo momento oportuno, libre acceso a cualquier zona de las instalaciones de los proveedores.
+
+### Artículo 12. Medidas provisionales e infracciones.
+
+1\. Si durante las inspecciones oficiales mencionadas en el artículo 11 de este Real Decreto o al tomar las muestras que se indican en el artículo 13 del presente Real Decreto, se comprobase que los materiales de reproducción no cumplen los requisitos establecidos en el presente Real Decreto, el organismo oficial responsable velará por que el proveedor adopte las medidas correctoras oportunas o, si ello no fuera posible, prohibirá la comercialización de dichos materiales de reproducción.
+
+2\. En el caso de comprobarse que los materiales de reproducción comercializados por un proveedor no cumplen los requisitos del presente Real Decreto, el organismo oficial responsable adoptará las medidas pertinentes con respecto a ese proveedor.
+
+3\. Las medidas adoptadas en relación con el apartado anterior, se retirarán desde el momento en que se compruebe con suficiente certeza que los materiales de reproducción destinados a la comercialización por dicho proveedor cumplirán en el futuro los requisitos del presente Real Decreto.
+
+4\. El incumplimiento de las disposiciones del presente Real Decreto dará lugar a la aplicación de las sanciones previstas en la Ley 11/1971, de 30 de marzo, de Semillas y Plantas de Vivero, así como en la Ley 3/2000, de 7 de enero, de Régimen Jurídico de la Protección de las Obtenciones Vegetales y disposiciones complementarias y, con carácter subsidiario, en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor, y de la producción agroalimentaria.
+
+### Artículo 13. Postcontrol de los materiales de reproducción.
+
+1\. Con objeto de comprobar que los materiales de reproducción producidos o comercializados en España cumplen los requisitos del presente Real Decreto, cuando proceda, bajo la supervisión del organismo oficial responsable, se tomarán muestras de dichos materiales, que se someterán a los correspondientes análisis y ensayos de postcontrol. Los resultados de dichos análisis y ensayos se podrán utilizar para armonizar los métodos técnicos de examen de los materiales de reproducción.
+
+2\. Cuando la Comisión Europea organice ensayos o análisis comunitarios con los mismos objetivos que el apartado 1 de este artículo, en el ámbito de la Unión Europea, el organismo oficial responsable colaborará en la ejecución de los mismos.
+
+## CAPÍTULO VIII — Exención de requisitos del presente Real Decreto
+
+### Artículo 14. Exención de requisitos de determinados géneros y especies.
+
+Los órganos competentes de las Comunidades Autónomas comunicarán al Ministerio de Agricultura, Pesca y Alimentación aquellos tipos de material de reproducción de géneros y especies ornamentales, de importancia insignificante en su territorio que puedan ser eximidos del cumplimiento total o parcialmente de los requisitos establecidos en el presente Real Decreto y que por el Departamento citado se remitirán, en su caso, a través del cauce correspondiente, a la Comisión Europea.
+
+## CAPÍTULO IX — Estadísticas
+
+### Artículo 15. Información de los materiales de reproducción comercializados.
+
+Las Comunidades Autónomas remitirán al Ministerio de Agricultura, Pesca y Alimentación la información sobre las cantidades comercializadas de los materiales de reproducción indicando género, especie y variedad, para la elaboración de las estadísticas nacionales.
+
+### Disposición adicional única. Títulos competenciales.
+
+El presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.13.<sup>a</sup> de la Constitución, que reserva al Estado la competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica, salvo el artículo 10, que se dicta de conformidad con el artículo 149.1.10.<sup>a</sup> de la Constitución, que atribuye al Estado la competencia exclusiva sobre el comercio exterior.
+
+### Disposición derogatoria única. Derogación normativa singular.
+
+Queda derogada la Orden de 28 de octubre de 1994 por la que se aprueba el Reglamento técnico de control de la producción y comercialización de los materiales de reproducción de las plantas ornamentales y de las plantas ornamentales.
+
+### Disposición final única. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación el «Boletín Oficial del Estado».
+
+Dado en Madrid a 11 de febrero de 2000.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO
+
+Bacterias
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Género o especie de los materiales de reproducción de plantas ornamentales | Umbral de presencia de las plagas reguladas no cuarentenarias en los materiales de reproducción de plantas ornamentales |
+|---|---|---|
+| *Erwinia amylovora* (Burrill) Winslow *et al*. [ERWIAM] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Amelanchier* Medik., *Chaenomeles* Lindl., *Cotoneaster* Medik., *Crataegus* Tourn. ex L., *Cydonia* Mill., *Eriobtrya* Lindl., *Malus* Mill., *Mespilus* Bosc ex Spach, *Photinia davidiana* Decne., *Pyracantha* M. Roem., *Pyrus* L., *Sorbus* L. | 0 % |
+| *Pseudomonas syringae* pv. *persicae* (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [PSDMPE] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Prunus persica* (L.) Batsch, *Prunus salicina* Lindl. | 0 % |
+| *Pseudomonas syringae pv. actinidiae* Takikawa, Serizawa, Ichikawa, Tsuyumu & Goto [PSDMAK] | Vegetales para plantación distintos de las semillas.<br>*Actinidia* Lindl. | 0 % |
+| *Spiroplasma citri* Saglio *et al.* [SPIRCI] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Citrus*L., híbridos de *Citrus*L., *Fortunella*Swingle., híbridos de *Fortunella*Swingle., *Poncirus*Raf., híbridos de *Poncirus*Raf. | 0 % |
+| *Xanthomonas arboricola* pv. *pruni* (Smith) Vauterin *et al*. [XANTPR] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Prunus* L. | 0 % |
+| *Xanthomonas euvesicatoria* Jones *et al.* [XANTEU] | *Capsicum annuum* L. | 0 % |
+| *Xanthomonas gardneri (ex Šutič)* Jones *et al.* [XANTGA] | *Capsicum annuum* L. | 0 % |
+| *Xanthomonas perforans* Jones *et al.* [XANTPF] | *Capsicum annuum* L. | 0 % |
+| *Xanthomonas vesicatoria* (ex Doidge) Vauterin *et al.* [XANTVE] | *Capsicum annuum* L. | 0 % |
+
+Hongos y oomicetos
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Género o especie de los materiales de reproducción de plantas ornamentales | Umbral de presencia de las plagas reguladas no cuarentenarias en el material de reproducción de plantas ornamentales |
+|---|---|---|
+| *Cryphonectria parasitica* (Murrill) Barr [ENDOPA] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Castanea* L. | 0 % |
+| *Dothistroma pini* Hulbary [DOTSPI] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Pinus* L. | 0 % |
+| *Dothistroma septosporum* (Dorogin) Morelet [SCIRPI] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Pinus* L. | 0 % |
+| *Lecanosticta acicola* (von Thümen) Sydow [SCIRAC] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Pinus* L. | 0 % |
+| *Phytophthora ramorum* (cepas de la UE) Werres, De Cock & Man in ‘t Veld [PHYTRA] | Vegetales para plantación distintos de las semillas.<br>*Camellia* L., *Castanea sativa* Mill., *Fraxinus excelsior* L., *Larix decidua* Mill., *Larix kaempferi* (Lamb.) Carrière, *Larix × eurolepis* A. Henry, *Pseudotsuga menziesii* (Mirb.) Franco*, Quercus cerris* L., *Quercus ilex* L., *Quercus rubra* L. y *Rhododendron* L. distintos de *R. simsii* L. y *Viburnum* L. | 0 % |
+| *Plasmopara halstedii* (Farlow) Berlese & de Toni [PLASHA] | Semillas<br>*Helianthus annuus* L. | 0 % |
+| *Plenodomus tracheiphilus* (Petri) Gruyter, Aveskamp & Verkley [DEUTTR] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Citrus*L., híbridos de *Citrus*L., *Fortunella*Swingle., híbridos de *Fortunella*Swingle., *Poncirus*Raf., híbridos de *Poncirus*Raf. | 0 % |
+| *Puccinia horiana* P. Hennings [PUCCHN] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Chrysanthemum* L. | 0 % |
+
+Insectos y ácaros
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Género o especie de los materiales de reproducción de plantas ornamentales | Umbral de presencia de las plagas reguladas no cuarentenarias en el material de reproducción de plantas ornamentales |
+|---|---|---|
+| *Aculops fuchsiae* Keifer [ACUPFU] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Fuchsia* L. | 0 % |
+| *Opogona sacchari* Bojer [OPOGSC] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Beaucarnea* Lem., *Bougainvillea* Comm. ex Juss., *Crassula* L., *Crinum* L*., Dracaena* Vand. ex L., *Ficus* L., *Musa* L., *Pachira* Aubl., *Palmae, Sansevieria* Thunb., *Yucca* L. | 0 % |
+| *Rhynchophorus ferrugineus* (Olivier) [RHYCFE] | Materiales de reproducción de plantas ornamentales distintos de las semillas *Palmae*, por lo que respecta a los géneros y especies siguientes:<br>*Areca catechu* L., *Arenga pinnata* (Wurmb) Merr., *Bismarckia* Hildebr. & H. Wendl., *Borassus flabellifer* L., *Brahea armata* S. Watson, *Brahea edulis* H. Wendl., *Butia capitata* (Mart.) Becc*., Calamus merrillii* Becc., *Caryota maxima* Blume, *Caryota cumingii* Lodd. ex Mart., *Chamaerops humilis* L., *Cocos nucifera* L., *Corypha utan* Lam., *Copernicia* Mart., *Elaeis guineensis* Jacq., *Howea forsteriana* Becc., *Jubaea chilensis* (Molina) Baill., *Livistona australis* C. Martius, *Livistona decora* (W. Bull) Dowe, *Livistona rotundifolia* (Lam.) Mart., *Metroxylon sagu* Rottb., *Phoenix canariensis* Chabaud, *Phoenix dactylifera* L., *Phoenix reclinata* Jacq., *Phoenix roebelenii* O’Brien, *Phoenix sylvestris* (L.) Roxb., *Phoenix heophrasti* Greuter, *Pritchardia* Seem. & H. Wendl., *Ravenea rivularis* Jum. & H. Perrier, *Roystonea regia* (Kunth) O.F. Cook, *Sabal palmetto* (Walter) Lodd. ex Schult. & Schult.f., *Syagrus romanzoffiana* (Cham.) Glassman, *Trachycarpus fortunei* (Hook.) H. Wendl., *Washingtonia* H. Wendl. | 0 % |
+
+Nematodos
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Género o especie de los materiales de reproducción de plantas ornamentales | Umbral de presencia de las plagas reguladas no cuarentenarias en el material de reproducción de plantas ornamentales |
+|---|---|---|
+| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | *Allium* L. | 0 % |
+| *Ditylenchus dipsaci* (Kuehn) Filipjev [DITYDI] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Camassia* Lindl., *Chionodoxa* Boiss., *Crocus flavus* Weston, *Galanthus* L., *Hyacinthus* Tourn. ex L, *Hymenocallis* Salisb., *Muscari* Mill., *Narcissus* L., *Ornithogalum* L., *Puschkinia* Adams, *Scilla* L., *Sternbergia* Waldst. & Kit., *Tulipa* L. | 0 % |
+
+Virus, viroides, enfermedades similares a las víricas y fitoplasmas
+
+| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Género o especie de los materiales de reproducción de plantas ornamentales | Umbral de presencia de las plagas reguladas no cuarentenarias en el material de reproducción de la planta ornamental |
+|---|---|---|
+| *Candidatus* Phytoplasma *mali* Seemüller & Schneider [PHYPMA] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Malus* Mill. | 0 % |
+| *Candidatus* Phytoplasma *prunorum* Seemüller & Schneider [PHYPPR] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Prunus* L. | 0 % |
+| *Candidatus* Phytoplasma *pyri* Seemüller & Schneider [PHYPPY] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Pyrus* L. | 0 % |
+| *Candidatus* Phytoplasma *solani* Quaglino *et al.* [PHYPSO] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Lavandula* L. | 0 % |
+| Viroide del enanismo del crisantemo [CSVD00] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Argyranthemum* Webb ex Sch.Bip., *Chrysanthemum* L. | 0 % |
+| Viroide de la exocortis de los cítricos [CEVD00] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Citrus*L. | 0 % |
+| Virus de la tristeza de los cítricos [CTV000] (cepas de la UE) | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Citrus*L., híbridos de *Citrus*L., *Fortunella*Swingle, híbridos de *Fortunella*Swingle, *Poncirus*Raf., híbridos de *Poncirus*Raf. | 0 % |
+| Virus de la mancha necrótica de *Impatiens* [INSV00] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Begonia x hiemalis*<br>Fotsch, híbridos de *Impatiens* L. Nueva Guinea | 0 % |
+| Viroide del tubérculo fusiforme de la patata [PSTVD0] | *Capsicum annuum* L. | 0 % |
+| Virus de la viruela del ciruelo [PPV000] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Prunus armeniaca* L., *Prunus blireiana* Andre, *Prunus brigantina* Vill., *Prunus cerasifera* Ehrh., *Prunus cistena* Hansen, *Prunus curdica* Fenzl & Fritsch., *Prunus domestica* L., *Prunus domestica* ssp. *insititia* (L.) C.K. Schneid, *Prunus domestica* ssp. *italica* (Borkh.) Hegi., *Prunus dulcis* (Miller) Webb, *Prunus glandulosa* Thunb., *Prunus holosericea* Batal., *Prunus hortulana* Bailey, *Prunus japonica* Thunb., *Prunus mandshurica* (Maxim.) Koehne, *Prunus maritima* Marsh., *Prunus mume* Sieb. & Zucc., *Prunus nigra* Ait., *Prunus persica* (L.) Batsch, *Prunus salicina* L., *Prunus sibirica* L., *Prunus simonii* Carr., *Prunus spinosa* L., *Prunus tomentosa* Thunb., *Prunus triloba* Lindl.<br>– otras especies de *Prunus* L. expuestas al virus de la viruela del ciruelo | 0 % |
+| Virus del bronceado del tomate [TSWV00] | Materiales de reproducción de plantas ornamentales distintos de las semillas<br>*Begonia x hiemalis*<br>Fotsch, *Capsicum annuum* L., *Chrysanthemum* L., *Gerbera* L., híbridos de *Impatiens* L. Nueva Guinea, *Pelargonium* L. | 0 % |
+
+Los materiales de reproducción deberán cumplir los requisitos relativos a las plagas reguladas no cuarentenarias de la Unión y las medidas para prevenir la presencia de plagas reguladas no cuarentenarias de la Unión en los materiales de reproducción de las plantas ornamentales y otros vegetales para plantación destinados a usos ornamentales, establecidas por el Reglamento de Ejecución (UE) 2019/2072 de la Comisión, de 28 de noviembre de 2019, y sus modificaciones, en particular en su anexo V, parte C.
+
+> Se modifica por el art. 2 del Real Decreto 525/2023, de 20 de junio. [Ref. BOE-A-2023-14680](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14680)
+
+> Se modifica por el art. 2.3 del Real Decreto 541/2020, de 26 de mayo. [Ref. BOE-A-2020-5321](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-5321)
+
+> Se añade un género por el art. único.3 del Real Decreto 1270/2018, de 15 de octubre. [Ref. BOE-A-2018-14113](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14113)

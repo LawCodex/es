@@ -1,0 +1,1277 @@
+---
+title: "Real Decreto 1091/2000, de 9 de junio, por el que se aprueba la Reglamentación técnico-sanitaria específica de los alimentos dietéticos destinados a usos médicos especiales"
+identifier: "BOE-A-2000-10922"
+eli: "https://www.boe.es/eli/es/rd/2000/06/09/1091"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2000-06-09
+published: 2000-06-10
+in_force_from: 2000-06-11
+last_amended: 2008-06-18
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 139"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-10922"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1091/2000, de 9 de junio, por el que se aprueba la Reglamentación técnico-sanitaria específica de los alimentos dietéticos destinados a usos médicos especiales
+
+Téngase en cuenta que la materia objeto de este real decreto ha sido regulada por el Reglamento (UE) 609/2013, [Ref. DOUE-L-2013-81295](https://www.boe.es/buscar/doc.php?id=DOUE-L-2013-81295), y el Reglamento Delegado (UE) 2016/128. [Ref. DOUE-L-2016-80202](https://www.boe.es/buscar/doc.php?id=DOUE-L-2016-80202)
+
+El Real Decreto 2685/1976, de 16 de octubre, aprobó la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de preparados alimenticios para regímenes dietéticos y/o especiales, modificado posteriormente por los Reales Decretos 1424/1982, de 18 de junio; 2353/1986, de 10 de octubre; 1426/1988, de 25 de noviembre; 1809/1991, de 13 de diciembre, y 431/1999, de 12 de marzo.
+
+El Real Decreto 1809/1991, de 13 de diciembre, establece en su único anexo la relación de los productos alimenticios que deberán ser objeto de legislación específica mediante Reglamentaciones técnico-sanitarias. En dicha relación figuran, entre otros, los alimentos dietéticos destinados a usos médicos especiales.
+
+Por ello, para garantizar por una parte que estos productos satisfacen las necesidades nutricionales particulares de las personas afectadas por una enfermedad, trastorno o afección específicos o desnutridas por su causa y que, por otra, dichos productos se administran bajo supervisión médica, con la asistencia de otros profesionales sanitarios y que además, dada su naturaleza y destino, su etiquetado debe tener establecidas reglas específicas que incorporen excepciones y adiciones a la norma general de etiquetado de los productos alimenticios, la Comisión Europea ha adoptado, recientemente, la Directiva 1999/21/CE, de 25 de marzo, sobre alimentos dietéticos destinados a usos médicos especiales.
+
+No obstante, existen otros productos dietéticos que por su composición y finalidad no están incluidos en el ámbito de aplicación del presente Real Decreto, tal es el caso de los alimentos para prematuros y alimentos de muy bajo valor energético para la pérdida de peso, respecto de los cuales la Comisión ha puesto de manifiesto en el Acta de la 69.ª Reunión del Comité Permanente de Productos Alimenticios, que no están regulados por la citada Directiva 1999/21/CE. Para dichos productos los requisitos específicos se establecerán posteriormente, permaneciendo sujetos a los requisitos generales que para los productos alimenticios destinados a una alimentación especial, están determinados en el Real Decreto 2685/1976, de 16 de octubre, y sus modificaciones posteriores.
+
+Mediante esta disposición que se dicta al amparo del artículo 149.1.16.ª de la Constitución, y de acuerdo con lo establecido en los artículos 40.2 y 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad, excepto el artículo 6, que se dicta en virtud de la competencia exclusiva del Estado en materia de comercio exterior y sanidad exterior, al amparo de lo dispuesto en el artículo 149.1.10.ª y 16.ª de la Constitución y de acuerdo con el artículo 38 de la citada Ley 14/1986, de 25 de abril, se procede a incorporar la citada Directiva a nuestro ordenamiento jurídico.
+
+En la elaboración de este Real Decreto han sido oídos los sectores afectados y se ha emitido el preceptivo informe de la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de junio de 2000,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+El presente Real Decreto establece los requisitos de composición y etiquetado que deben cumplir los alimentos dietéticos destinados a usos médicos especiales definidos en el artículo 2 y presentados como tales.
+
+## Artículo 2. Definiciones y clasificación.
+
+1\. A efectos de la presente disposición se entenderá por:
+
+a) «Lactante», un niño de edad inferior a doce meses.
+
+b) Los «alimentos dietéticos destinados a usos médicos especiales» son aquellos alimentos destinados a una alimentación especial, que han sido elaborados o formulados especialmente para el tratamiento dietético de pacientes bajo supervisión médica. Estos alimentos están destinados a satisfacer total o parcialmente las necesidades alimenticias de los pacientes cuya capacidad para ingerir, digerir, absorber, metabolizar o excretar alimentos normales o determinados nutrientes o metabolitos de los mismos sea limitada o deficiente o esté alterada, o bien que necesiten otros nutrientes determinados clínicamente, cuyo tratamiento dietético no pueda efectuarse únicamente modificando la dieta normal, con otros alimentos destinados a una alimentación especial, o mediante ambas cosas.
+
+2\. Los alimentos dietéticos destinados a usos médicos especiales se clasifican en las siguientes categorías:
+
+a) Alimentos completos con una formulación en nutrientes normal que, si se consumen de acuerdo con las instrucciones de los fabricantes, pueden constituir la única fuente de alimento para las personas a las que van destinados.
+
+b) Alimentos completos con una formulación en nutrientes específica adaptada para determinadas enfermedades, trastornos o afecciones que, si se consumen de acuerdo con las instrucciones de los fabricantes, pueden constituir la única fuente de alimento para las personas a las que van destinados.
+
+c) Alimentos incompletos con una formulación normal o una formulación de nutrientes específica adaptada para determinadas enfermedades, trastornos o afecciones, que no son adecuados para servir de alimento exclusivo.
+
+Los alimentos contemplados en las letras a) y b) de este apartado pueden asimismo utilizarse como sustitutivo parcial o complemento de la dieta del paciente.
+
+## Artículo 3. Elaboración y composición.
+
+1\. La formulación de los alimentos dietéticos destinados a usos médicos especiales se basará en principios médicos y nutricionales sólidos. El consumo de estos alimentos de acuerdo con las instrucciones de los fabricantes será seguro y beneficioso y satisfará eficazmente las necesidades nutricionales particulares de las personas a las que vayan destinados, tal como demuestren datos científicos generalmente aceptados.
+
+2\. Los alimentos dietéticos destinados a usos médicos especiales deberán cumplir los criterios de composición especificados en el anexo.
+
+## Artículo 4. Etiquetado, presentación y publicidad.
+
+1\. En el etiquetado de los productos objeto de este Real Decreto deberán figurar los siguientes datos:
+
+a) La denominación de venta, que será «Alimento dietético para usos médicos especiales».
+
+b) La lista de ingredientes.
+
+c) La cantidad neta.
+
+d) La fecha de duración mínima o la fecha de caducidad, en el caso de alimentos muy perecederos por razones microbiológicas.
+
+e) Las condiciones especiales de conservación y utilización.
+
+f) El nombre o la razón social y la dirección del fabricante o del envasador o de un vendedor establecido en la Unión Europea.
+
+g) El lugar de origen o de procedencia en los casos en que su omisión pueda inducir a error al consumidor sobre el origen o la procedencia real del producto.
+
+h) El valor energético disponible expresado en kJ y en Kcal y el contenido en proteínas, hidratos de carbono y grasas, expresado en cifras, por 100 g o por 100 ml del producto ofrecido para la venta y, en su caso, por 100 g o 100 ml del producto listo para el consumo según las instrucciones del fabricante. Esta información podrá, asimismo, facilitarse por dosis cuantificada en la etiqueta o por porción, siempre y cuando se especifique el número de porciones contenidas en su interior.
+
+i) La cantidad media presente en el producto de cada sustancia mineral y de cada vitamina mencionada en el anexo, expresada en cifras por 100 g o por 100 ml del producto ofrecido para la venta y, en su caso, por 100 g o 100 ml del producto listo para el consumo, según las instrucciones del fabricante. Esta información podrá, asimismo, facilitarse por dosis cuantificada en la etiqueta o por porción, siempre y cuando se especifique el número de porciones contenidas en su interior.
+
+j) El contenido de proteínas, hidratos de carbono, grasas u otros nutrientes y sus componentes cuya declaración sea necesaria para usar el producto apropiadamente en la forma prevista, expresado en cifras por 100 g o por 100 ml del producto ofrecido para la venta y, en su caso, por 100 g o 100 ml del producto listo para el consumo, según las instrucciones del fabricante. Esta información podrá, asimismo, facilitarse por dosis cuantificada en la etiqueta o por porción, siempre y cuando se especifique el número de porciones contenidas en su interior.
+
+k) Información sobre la osmolalidad o la osmolaridad del producto, según proceda.
+
+l) Información sobre el origen y la naturaleza de las proteínas y de los hidrolizados proteicos contenidos en el producto.
+
+2\. En el etiquetado figurarán además obligatoriamente los siguientes extremos, precedidos por las palabras «aviso importante» o su equivalente:
+
+a) Una declaración en la que se diga que el producto debe utilizarse bajo supervisión médica.
+
+b) Una declaración en la que se diga si el producto es o no adecuado para ser consumido como única fuente de alimento.
+
+c) Si procede, una declaración en la que se diga que el producto va destinado a un grupo de edad específico.
+
+d) Si procede, una declaración en la que se diga que el producto puede perjudicar la salud de las personas que lo consuman sin estar afectados por alguna de las enfermedades, trastornos o afecciones para los que vaya destinado.
+
+3\. En el etiquetado figurará asimismo:
+
+a) La declaración «Para el tratamiento dietético de...» en la que el espacio en blanco se completará con las enfermedades, trastornos o afecciones para las que vaya destinado.
+
+b) Si procede, una declaración sobre las precauciones adecuadas y las contraindicaciones.
+
+c) Una descripción de las propiedades y características pertinentes que expliquen la utilidad del producto, en particular en lo que se refiere a los nutrientes que hayan sido añadidos, reducidos, eliminados o modificados de otra forma, así como la justificación para su uso.
+
+d) Si procede, una advertencia de que el producto no debe administrarse por vía parenteral.
+
+4\. En el etiquetado figurarán las instrucciones adecuadas de preparación, uso y almacenamiento del producto tras la apertura del envase, según proceda.
+
+5\. Se prohíbe la publicidad de los alimentos destinados a usos médicos especiales, si bien se autoriza la información a profesionales sanitarios. Los medios de información y promoción utilizados como soporte, ya sean escritos, audiovisuales o de otra naturaleza, tendrán carácter básicamente científico y estarán dirigidos y se distribuirán con exclusividad a profesionales sanitarios.
+
+## Artículo 5. Información sobre comercialización de los productos.
+
+Para facilitar el control eficaz de los alimentos dietéticos destinados a usos médicos especiales, su comercialización deberá ser objeto de notificación a la autoridad competente, de acuerdo con lo dispuesto en el artículo 10 de la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de alimentos para regímenes dietéticos y/o especiales, aprobada por el Real Decreto 2685/1976, de 16 de octubre, y cuya última modificación fue aprobada por el Real Decreto 431/1999, de 12 de marzo.
+
+## Artículo 6. Productos procedentes de países terceros.
+
+Los productos a los que se refiere la presente disposición procedentes de países terceros, deberán cumplir para su comercialización en España los requisitos establecidos en este Real Decreto.
+
+## Artículo 7. Régimen sancionador.
+
+1\. Sin perjuicio de otra normativa que pudiera resultar de aplicación, las infracciones cometidas contra lo establecido en este Real Decreto serán objeto de sanción administrativa, previa instrucción del oportuno expediente administrativo, de acuerdo con lo previsto en el capítulo VI del título I de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+2\. En virtud de lo establecido en el artículo 35.B).1.º de la Ley 14/1986, de 25 de abril, General de Sanidad, se considera falta grave el incumplimiento de las normas de etiquetado, presentación y publicidad de los productos contemplados en esta Reglamentación técnico-sanitaria.
+
+3\. Asimismo, en base a lo dispuesto en el artículo 35.C).1.º de la Ley 14/1986, de 25 de abril, General de Sanidad, se considerará falta muy grave la comercialización de productos objeto de regulación por este Real Decreto, que incumplan los criterios de composición especificados en el anexo.
+
+## Disposición transitoria única. Prórroga de comercialización.
+
+Los productos alimenticios a los que se refiere el presente Real Decreto que no se ajusten a lo en él establecido, pero que cumplan lo dispuesto en la normativa vigente en la fecha de su entrada en vigor, podrán seguir comercializándose hasta el 30 de octubre de 2001.
+
+## Disposición derogatoria única. Disposiciones que se derogan.
+
+Quedan derogados los apartados 3.2.2, 3.2.4, 3.2.5, 3.2.6 y 3.4 del artículo 3 de la Reglamentación técnicosanitaria para la elaboración, circulación y comercio de preparados alimenticios para regímenes dietéticos y/o especiales, aprobada mediante Real Decreto 2685/1976, de 16 de octubre, y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+## Disposición final primera. Título competencial.
+
+El presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.16.ª de la Constitución Española y de acuerdo con lo establecido en los artículos 40.2 y 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad, excepto el artículo 6, que se dicta en virtud de la competencia exclusiva del Estado en materia de comercio exterior y sanidad exterior, al amparo de lo dispuesto en el artículo 149.1.10.ª y 16.ª de la Constitución y de acuerdo con el artículo 38 de la citada Ley 14/1986, de 25 de abril.
+
+## Disposición final segunda. Facultad de desarrollo.
+
+Se faculta a la Ministra de Sanidad y Consumo para que, mediante Orden y previo informe de la Comisión Interministerial para la Ordenación Alimentaria, modifique o actualice el anexo del presente Real Decreto, para adecuarlo a la normativa europea.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 9 de junio de 2000.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+CELIA VILLALOBOS TALERO
+
+## ANEXO
+
+**Composición esencial de los alimentos dietéticos destinados a usos médicos especiales**
+
+Las especificaciones se refieren a los productos listos para el consumo, comercializados como tales o reconstituidos de acuerdo con las instrucciones del fabricante.
+
+1\. Los productos a que se hace referencia en la letra a) del apartado 2 del artículo 2 destinados específicamente a los lactantes contendrán las vitaminas y las sustancias minerales enumeradas en el cuadro 1.
+
+2\. Los productos a que se hace referencia en la letra b) del apartado 2 del artículo 2 destinados específicamente a los lactantes contendrán las vitaminas y sustancias minerales enumeradas en el cuadro 1, salvo si el uso a que van destinados los productos exigiera modificaciones en relación con uno o varios de estos nutrientes.
+
+3\. Los niveles máximos de vitaminas y sustancias minerales presentes en los productos a que se hace referencia en la letra c) del apartado 2 del artículo 2 destinados específicamente a los lactantes no superarán los especificados en el cuadro 1, salvo si el uso a que van destinados los productos exigiera modificaciones en relación con una o varios de estos nutrientes.
+
+4\. Sin perjuicio de los requisitos dictados por su uso previsto, los alimentos dietéticos destinados a usos médicos especiales elaborados específicamente para lactantes cumplirán las disposiciones relativas a otros nutrientes que son de aplicación para los preparados para lactantes y preparados de continuación, según el caso, establecidos en el Real Decreto 867/2008, de 23 de mayo, por el que se aprueba la reglamentación técnico-sanitaria específica de los preparados para lactantes y de los preparados de continuación.
+
+5\. Los productos a que se hace referencia en la letra a) del apartado 2 del artículo 2 que no estén destinados específicamente a los lactantes contendrán las vitaminas y las sustancias minerales enumeradas en el cuadro 2.
+
+6\. Los productos a que se hace referencia en la letra b) del apartado 2 del artículo 2 que no estén destinados específicamente a los lactantes contendrán las vitaminas y sustancias minerales enumeradas en el cuadro 2, salvo si el uso a que van destinados los productos exigiera modificaciones en relación con uno o varios de estos nutrientes.
+
+7\. Los niveles máximos de vitaminas y sustancias minerales presentes en los productos a que se hace referencia en la letra c) del apartado 2 del artículo 2 que no estén destinados específicamente a los lactantes no superarán los especificados en el cuadro 2, salvo si el uso a que van destinados los productos exigiera modificaciones en relación con una o varios de estos nutrientes.
+
+## CUADRO 1 — Contenido de vitaminas, minerales y oligoelementos en los alimentos nutricionalmente completos destinados a los lactantes
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2"> </td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Vitaminas</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina A (µg ER).</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina D (µg).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina K (µg).</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina C (mg).</p>
+</td>
+<td>
+<p>1,9</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiamina (mg).</p>
+</td>
+<td>
+<p>0,01</p>
+</td>
+<td>
+<p>0,075</p>
+</td>
+<td>
+<p>0,04</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riboflavina (mg).</p>
+</td>
+<td>
+<p>0,014</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,06</p>
+</td>
+<td>
+<p>0,45</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>6</sub> (mg).</p>
+</td>
+<td>
+<p>0,009</p>
+</td>
+<td>
+<p>0,075</p>
+</td>
+<td>
+<p>0,035</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Niacina (mg EN).</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>0,8</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido fólico (µg).</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>12</sub> (µg).</p>
+</td>
+<td>
+<p>0,025</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,1</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido pantoténico (mg).</p>
+</td>
+<td>
+<p>0,07</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biotina (µg).</p>
+</td>
+<td>
+<p>0,4</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+<td>
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina E (mg α-ET).</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, pero en ningún caso menos de 0,1 mg por 100 kJ disponibles</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, pero en ningún caso menos de 0,5 mg por 100 kcal disponibles</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Minerales</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sodio (mg).</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>60</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro (mg).</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>125</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potasio (mg).</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>145</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calcio (mg).</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>50</p>
+</td>
+<td>
+<p>250</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fósforo (mg)<sup>1</sup>.</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Magnesio (mg).</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>3,6</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hierro (mg).</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zinz (mg).</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>2,4</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cobre (µg).</p>
+</td>
+<td>
+<p>4,8</p>
+</td>
+<td>
+<p>29</p>
+</td>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Yodo (µg).</p>
+</td>
+<td>
+<p>1,2</p>
+</td>
+<td>
+<p>8,4</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Selenio (µg).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>0,7</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manganeso (µg).</p>
+</td>
+<td>
+<p>0,25</p>
+</td>
+<td>
+<p>25</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>100</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cromo (µg).</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Moligdeno (µg).</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fluoruro (mg).</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> La proporción calcio/fósforo no será inferior a 1,2 ni superior a 2,0.
+
+## CUADRO 2 — Contenido de vitaminas, minerales y oligoelementos en los alimentos nutricionalmente completos que no estén destinados a los lactantes
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2"> </td>
+<td colspan="2">
+<p>Por 100 kJ</p>
+</td>
+<td colspan="2">
+<p>Por 100 kcal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Vitaminas</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina A (µg ER).</p>
+</td>
+<td>
+<p>8,4</p>
+</td>
+<td>
+<p>43</p>
+</td>
+<td>
+<p>35</p>
+</td>
+<td>
+<p>180</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina D (µg).</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,65/0,75<sup>1</sup></p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>2,5/3<sup>1</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina K (µg).</p>
+</td>
+<td>
+<p>0,85</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>20</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina C (mg).</p>
+</td>
+<td>
+<p>0,54</p>
+</td>
+<td>
+<p>5,25</p>
+</td>
+<td>
+<p>2,25</p>
+</td>
+<td>
+<p>22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tiamina (mg).</p>
+</td>
+<td>
+<p>0,015</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,06</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Riboflavina (mg).</p>
+</td>
+<td>
+<p>0,02</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,08</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>6</sub> (mg).</p>
+</td>
+<td>
+<p>0,02</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,08</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Niacina (mg EN).</p>
+</td>
+<td>
+<p>0,22</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>0,9</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido fólico (µg).</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>12,5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina B<sub>12</sub> (µg).</p>
+</td>
+<td>
+<p>0,017</p>
+</td>
+<td>
+<p>0,17</p>
+</td>
+<td>
+<p>0,07</p>
+</td>
+<td>
+<p>0,7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ácido pantoténico (mg).</p>
+</td>
+<td>
+<p>0,035</p>
+</td>
+<td>
+<p>0,35</p>
+</td>
+<td>
+<p>0,15</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Biotina (µg).</p>
+</td>
+<td>
+<p>0,18</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Vitamina E (mg α-ET).</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, pero en ningún caso menos de 0,1 mg por 100 kJ disponibles</p>
+</td>
+<td>
+<p>0,75</p>
+</td>
+<td>
+<p>0,5/g de ácidos grasos poliinsaturados expresados como ácido linoleico, pero en ningún caso menos de 0,5 mg por 100 kcal disponibles</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<em>Minerales</em>
+</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Sodio (mg).</p>
+</td>
+<td>
+<p>7,2</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cloruro (mg).</p>
+</td>
+<td>
+<p>7,2</p>
+</td>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>175</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Potasio (mg).</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>70</p>
+</td>
+<td>
+<p>80</p>
+</td>
+<td>
+<p>295</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Calcio (mg).</p>
+</td>
+<td>
+<p>8,4/12<sup>1</sup></p>
+</td>
+<td>
+<p>42/60<sup>1</sup></p>
+</td>
+<td>
+<p>35/50<sup>1</sup></p>
+</td>
+<td>
+<p>175/250<sup>1</sup></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fósforo (mg).</p>
+</td>
+<td>
+<p>7,2</p>
+</td>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>80</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Magnesio (mg).</p>
+</td>
+<td>
+<p>1,8</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>7,5</p>
+</td>
+<td>
+<p>25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hierro (mg).</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zinz (mg).</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,36</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+<td>
+<p>1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cobre (µg).</p>
+</td>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>125</p>
+</td>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Yodo (µg).</p>
+</td>
+<td>
+<p>1,55</p>
+</td>
+<td>
+<p>8,4</p>
+</td>
+<td>
+<p>6,5</p>
+</td>
+<td>
+<p>35</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Selenio (µg).</p>
+</td>
+<td>
+<p>0,6</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Manganeso (mg).</p>
+</td>
+<td>
+<p>0,012</p>
+</td>
+<td>
+<p>0,12</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+<td>
+<p>0,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cromo (µg).</p>
+</td>
+<td>
+<p>0,3</p>
+</td>
+<td>
+<p>3,6</p>
+</td>
+<td>
+<p>1,25</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Moligdeno (µg).</p>
+</td>
+<td>
+<p>0,72</p>
+</td>
+<td>
+<p>4,3</p>
+</td>
+<td>
+<p>3,5</p>
+</td>
+<td>
+<p>18</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fluoruro (mg).</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,05</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,2</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<sup>1</sup> Para productos destinados a niños de uno a diez años de edad.
+
+> Se modifica el apartado 4 y el cuadro 1 por el art. único.1 y 2 de la Orden SCO/1730/2008, de 6 de junio. [Ref. BOE-A-2008-10390](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-10390).

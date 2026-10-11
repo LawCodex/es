@@ -1,0 +1,2054 @@
+---
+title: "Circular número 6/2001, de 29 de octubre, sobre Titulares de Establecimientos de Cambio de Moneda"
+identifier: "BOE-A-2001-21296"
+eli: "https://www.boe.es/eli/es/cir/2001/10/29/6"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2001-10-29
+published: 2001-11-15
+in_force_from: 2002-01-01
+last_amended: 2020-12-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 274"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-21296"
+retrieved: 2026-10-11
+---
+
+# Circular número 6/2001, de 29 de octubre, sobre Titulares de Establecimientos de Cambio de Moneda
+
+## CIRCULAR NÚMERO 6/2001, DE 29 DE OCTUBRE — Titulares de Establecimientos de Cambio de Moneda
+
+La Orden de 16 de noviembre de 2000, de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes (que desarrolla el Real Decreto 2660/1998, de 14 de diciembre, sobre el cambio de moneda extranjera en establecimientos abiertos al público distintos de las entidades de crédito) concreta las condiciones generales a las que queda sujeto el ejercicio de dicha actividad y dispone determinadas obligaciones de publicidad y transparencia de las operaciones de cambio de moneda extranjera, con objeto de garantizar un adecuado nivel de información y protección de la clientela.
+
+Con igual finalidad, la Orden de 16 de noviembre de 2000, de desarrollo de la Ley 9/1999, de 12 de abril, por la que se regula el régimen jurídico de las transferencias entre los Estados miembros de la Unión Europea así como otras disposiciones en materia de gestión de transferencias en general, establece obligaciones adicionales de transparencia de los titulares de establecimientos de cambio de moneda que realicen operaciones de transferencias con el exterior.
+
+Ambas normas atribuyen al Banco de España competencias de desarrollo y ejecución general de sus mandatos y algunas concretas sobre transparencia de las operaciones.
+
+En la presente Circular se concreta el procedimiento para obtener la autorización que permitirá el ejercicio de las actividades previstas en el Real Decreto 2660/1998, de 14 de diciembre, se establece la información que deben rendir los titulares de establecimientos de cambio de moneda extranjera al Banco de España y se concreta el contenido y alcance de sus obligaciones, y las de sus agentes, tanto de informar al público sobre los tipos de cambio y las comisiones aplicables a las operaciones que realicen, como de adoptar las medidas organizativas previstas en las normas citadas.
+
+En consecuencia, en uso de las facultades que tiene concedidas, el Banco de España ha dispuesto:
+
+## TÍTULO I — Titulares de establecimientos que realicen exclusivamente operaciones de compra de billetes extranjeros o cheques de viajeros con pago en euros
+
+#### Norma primera. Solicitudes de autorización.
+
+1\. Las personas físicas y jurídicas distintas de las entidades de crédito que pretendan efectuar exclusivamente operaciones de compra de billetes extranjeros o cheques de viajero con pago en euros en establecimientos abiertos al público deberán solicitar al Banco de España la autorización prevista en el Real Decreto 2660/1998, de 14 de diciembre, dirigiendo su solicitud, ajustada al modelo que corresponda de los que figuran en los anejos 1.1 y 1.2 de la presente Circular, al Departamento de Instituciones Financieras del Banco de España.
+
+A la solicitud se acompañará la documentación acreditativa del cumplimiento de los requisitos previstos al efecto en el citado Real Decreto, según las indicaciones incluidas en el correspondiente modelo.
+
+2\. En el caso de que la actividad no vaya a tener carácter complementario a otra principal, será necesario presentar respecto a la persona física titular del negocio o, en caso de que el titular sea persona jurídica, respecto a cada uno de sus socios con participación igual o superior al 10 por 100 del capital social, administradores y directores generales o asimilados:
+
+La declaración firmada a la que se refieren los apartados 1 y 2 del artículo 5 del indicado Real Decreto, según el modelo que figura en el anexo 2.1 de la presente Circular.
+
+Documento de autorización expresa para consultar los datos que sobre su persona puedan existir en la Central de Información de Riesgos (C.I.R) a cargo del Banco de España, según el modelo que figura en el anexo 2.2.
+
+3\. En el caso de que la actividad vaya a tener carácter complementario a otra principal, tan sólo será necesario presentar fotocopia de la última liquidación del Impuesto de Actividades Económicas que acredite la actividad principal del solicitante.
+
+4\. Será necesaria la obtención de una nueva autorización previa, en la forma prevista anteriormente:
+
+a) Cuando una persona física o jurídica pretenda realizar la actividad mencionada en el apartado 1 obteniendo la titularidad de alguno o todos los locales abiertos al público por un titular ya autorizado, ya sea como consecuencia de su adquisición a través de operaciones intervivos (traspaso o cesión parcial de negocio), ya mediante operaciones societarias (fusión, escisión, cesión de activos y pasivos) respecto a dicho titular.
+
+No obstante, en el caso de que dichas operaciones societarias afecten a establecimientos en los que la actividad se ejerza con carácter complementario la autorización deberá solicitarse, a más tardar, en los tres meses siguientes al otorgamiento del correspondiente contrato o escritura pública.
+
+b) Cuando la adquisición de la citada titularidad se produzca mortis causa y la actividad de cambio de moneda se ejerza con carácter principal, a cuyo efecto se solicitará la autorización a más tardar en los tres meses siguientes al fallecimiento del anterior titular.
+
+c) Cuando un titular autorizado a efectuar la actividad citada con carácter complementario a su actividad principal pretenda ejercerla con carácter principal.
+
+En otros casos de transmisión mortis causa, es decir, si la actividad de cambio de moneda se ejerce con carácter complementario a otra principal, deberá comunicarse al Banco de España la identidad del nuevo titular, dirigiendo tal comunicación según lo previsto en el apartado 1 de la norma segunda en los tres meses siguientes al fallecimiento del anterior titular.
+
+5\. Una vez notificada la autorización e inscripción en el Registro de Titulares de Establecimientos de Cambio de Moneda a cargo del Banco de España, el titular del establecimiento podrá iniciar la actividad de compra de moneda.
+
+> Se modifica el apartado 1 por la norma 1.1 de la Circular 3/2009, de 18 de diciembre de 2009. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+#### Norma segunda. Información a enviar al Banco de España.
+
+1\. Los titulares de establecimientos de cambio autorizados a realizar operaciones de compra de billetes extranjeros o cheques de viajero remitirán la información que se señala a continuación al Departamento de Instituciones Financieras del Banco de España, en el plazo máximo de un mes desde que se produzcan los hechos a los que la misma se refiere:
+
+a) Los cambios en el domicilio del titular o, caso de tratarse de personas jurídicas, en su denominación o domicilio sociales; en este caso, la comunicación incluirá una referencia a la escritura pública de modificación de estatutos correspondiente y a su fecha de inscripción en el Registro Mercantil.
+
+b) La modificación del carácter de las operaciones de cambio de moneda como actividad principal a actividad complementaria, aportando a tal fin fotocopia de la liquidación del Impuesto de Actividades Económicas que acredite la nueva actividad principal del solicitante.
+
+c) La apertura de locales donde efectúen la actividad autorizada, indicando su dirección completa y si su carácter es permanente o estacional, con detalle de los períodos de actividad, así como el cierre o cualquier otra variación de los datos previamente facilitados de cualquiera de ellos.
+
+d) El cese en el ejercicio de la actividad de cambio de moneda extranjera y, en su caso, renuncia a la autorización concedida.
+
+2\. Los titulares en que concurran las circunstancias señaladas en las letras a) o b) siguientes deberán presentar en el Departamento de Información Financiera y Central de Riesgos del Banco de España un estado-resumen trimestral o anual, dependiendo del importe de las operaciones realizadas por el titular en todos sus locales, mediante el formulario OEC-3 incluido en el anejo 3.3 de la presente Circular, cumplimentado de acuerdo con lo previsto en el mismo y con las siguientes instrucciones:
+
+a) Declaraciones trimestrales. Deberán efectuarse cuando se produzca alguna de las siguientes circunstancias:
+
+Que en el año anterior al de la declaración la suma total del contravalor de las compras de billetes extranjeros y cheques de viajero haya alcanzado la cifra de dos millones de euros. En este caso se presentarán las cuatro declaraciones trimestrales del año, sea cual sea el importe de las compras efectuadas en el trimestre.
+
+Que la suma total de los contravalores en euros de las compras de billetes extranjeros y cheques de viajero efectuadas en cualquiera de los trimestres del año natural alcance o supere la suma de quinientos mil euros. Si ello ocurriera en el primer trimestre del año, la entidad deberá seguir cumplimentando el modelo OEC-3 en los restantes trimestres de ese año, sea cual sea el importe comprado en ellos; cuando suceda en cualquiera de los restantes trimestres, la entidad deberá, además, remitir al mismo tiempo el OEC-3 de todos los trimestres anteriores de ese año.
+
+b) Declaración anual. Deberá realizarse cuando, no estando obligado a presentar las declaraciones trimestrales indicadas en la letra a) anterior de este mismo apartado, la suma total de los contravalores en euros de las compras de billetes extranjeros y cheques de viajero efectuadas durante el año natural haya alcanzado la cifra de quinientos mil euros.
+
+La presentación de los estados se hará dentro del mes natural siguiente a la finalización del período al que se refieran los datos mediante transmisión telemática de conformidad con las especificaciones técnicas que se comuniquen al efecto.
+
+Sin perjuicio de las competencias que correspondan a la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias y a su Servicio Ejecutivo (SEPBLAC) para solicitar informaciones a cualesquiera establecimientos de cambio, tengan o no obligación de efectuar las declaraciones previstas en los párrafos anteriores, el Banco de España podrá requerir en cualquier momento a los titulares que no hayan hecho las citadas declaraciones para que le confirmen, mediante declaración expresa, que no han alcanzado los umbrales de negocio establecidos a tal fin.
+
+> Se modifica por la norma 1. 2 a 4 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+#### Norma tercera. Registro de las operaciones.
+
+1\. Todas las operaciones realizadas por los titulares de establecimientos de cambio de moneda deberán registrarse diariamente, según el modelo de registro OEC-1, incluido en el anexo 3 de la presente Circular.
+
+Dicho registro podrá llevarse por medios electrónicos siempre que el titular disponga de sistemas técnicos adecuados, tanto para su correcta conservación, como para permitir el acceso necesario para la inspección que puedan llevar a cabo las autoridades competentes.
+
+2\. Sin perjuicio de lo que exijan las normas mercantiles aplicables, los titulares de establecimientos de cambio de moneda deberán conservar durante seis años el registro diario de las operaciones que realicen.
+
+#### Norma cuarta. Transparencia y protección de la clientela.
+
+1\. En relación con la información al público sobre tipos de cambio, comisiones y gastos a que se refiere el artículo 6.1 de la Orden del Ministerio de Economía de 16 de noviembre de 2000, de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes, y sin perjuicio de lo que dispongan las autoridades nacionales, autonómicas o locales competentes en materia de protección de los consumidores, los titulares de establecimientos de cambio de moneda que realicen con su clientela operaciones de compra de billetes extranjeros o cheques de viajero contra euros deberán publicar, en un lugar perfectamente visible dentro del local en que las lleven a cabo, los tipos mínimos de compra que aplicarán para los importes que no excedan de 3.000 euros.
+
+La publicación de los tipos de cambio se acompañará, cuando proceda, de la de las comisiones y gastos, incluso mínimos, que apliquen en las operaciones de compra de moneda, explicando el concepto al que respondan cuando no se derive claramente de la propia denominación adoptada en la comisión.
+
+2\. Como justificante de las compras de billetes extranjeros y cheques de viajero se entregará a los clientes un documento de liquidación de la operación en el que se exprese clara y separadamente el importe monetario recibido del cliente, en unidades de la moneda que corresponda, el tipo de cambio y, en su caso, las comisiones aplicadas, así como el importe en euros entregado al cliente.
+
+3\. En cada local en que se realice la actividad de compra de moneda, en lugar perfectamente visible, además de las informaciones a que se refiere el apartado 1 de esta norma, se expondrá copia legible de la comunicación del Banco de España en la que conste la autorización obtenida en virtud de los dispuesto en el Real Decreto 2660/1998, de 14 de diciembre, y el número de inscripción en el Registro correspondiente.
+
+4\. Cuando los titulares de establecimientos a los que se refiere el presente Título realicen la actividad de compra de moneda con carácter complementario a su actividad principal o en el mismo local en que se desarrollen otras actividades económicas, deberán contar con las medidas organizativas necesarias para asegurar que la clientela identifique claramente al prestador de dicho servicio y pueda relacionarle con las informaciones mencionadas en los apartados precedentes.
+
+> Se modifica por la norma 1.5 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## TÍTULO II — Titulares de establecimientos que realizan operaciones de compra-venta de billetes extranjeros o cheques de viajeros y/o gestión de transferencias con el exterior
+
+#### Norma quinta. Solicitudes de Autorización.
+
+1\. Las personas físicas y jurídicas distintas de las entidades de crédito que pretendan realizar la actividad de compra-venta de billetes extranjeros y cheques de viajeros y/o gestión de transferencias con el exterior en establecimientos abiertos al público, deberán solicitar al Banco de España la autorización prevista en el Real Decreto 2660/1998, de 14 de diciembre. Dicha solicitud deberá dirigirse al Departamento de Instituciones Financieras en Madrid.
+
+A la solicitud se acompañará la documentación prevista en el citado Real Decreto acreditativa del cumplimiento de los requisitos establecidos al efecto para obtener la autorización.
+
+2\. La relación de socios que han de constituir la sociedad, en la que se indicará la participación de cada uno en el capital social, deberá acompañarse, cuando dicha participación sea igual o superior al 10 por 100 , de los formularios que, distinguiendo entre accionista persona física y accionista persona jurídica, se incluyen en el anexo 4. En el caso de que el accionista sea una persona jurídica dicha obligación se extenderá a los accionistas de control o mayoritarios de dicha persona jurídica. Respecto a todos ellos se facilitarán también los datos económico-financieros más relevantes de sus dos últimos ejercicios y la composición de sus órganos de administración.
+
+3\. La relación de Administradores y Directores Generales o asimilados deberá acompañarse de los correspondientes formularios, cuyo modelo se recoge en el anexo 4.1 de la presente Circular, debidamente cumplimentados. En dichos formularios deberán declararse también los cargos de administración o dirección del interesado en otras sociedades mercantiles o cooperativas.
+
+A estos efectos, se entiende que ostentan cargos de administración las personas a las que se refiere el apartado 4 del artículo 1.<sup>º</sup> de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito.
+
+4\. También deberá presentarse, respecto a cada uno de los administradores, directores generales o asimilados y accionistas con participación igual o superior al 10 por 100 del capital social del titular, documento de autorización expresa para consultar los datos que sobre su persona puedan existir en la Central de Información de Riesgos (C.I.R.), según el modelo que figura en el anexo 2.2. En el caso de que el accionista sea una persona jurídica dicha obligación se extenderá a los accionistas de control o mayoritarios de dicha persona jurídica.
+
+5\. Una vez obtenida la autorización y tras la correspondiente inscripción en el Registro Mercantil, se procederá a la inscripción del titular autorizado en el Registro de Titulares de Establecimientos de Compra-Venta de Moneda Extranjera y/o Gestión de Transferencias a cargo del Banco de España ; para ello deberán acreditar la correspondiente inscripción en el Registro Mercantil, y aportar, en el caso de ejercer la actividad de gestión de transferencias con el exterior, la póliza de responsabilidad civil prevista en el artículo 4.2.d) del Real Decreto 2660/1998, de 14 de diciembre, definitivamente suscrita, con justificación de pago de la correspondiente prima.
+
+6\. Una vez notificada la inscripción en el Registro a cargo del Banco de España, el titular del establecimiento podrá iniciar sus actividades.
+
+7\. Será necesaria la obtención de una nueva autorización previa cuando un titular autorizado para ejercer alguna de las actividades previstas en este Título o en el Título anterior pretenda ejercer otra de las previstas en este Título o ampliar el concepto objeto de sus transferencias con el exterior.
+
+> Se modifica la referencia a la "Oficina de Instituciones Financieras" del apartado 1 por la norma 1.10 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+#### Norma sexta. Niveles mínimos de capitalización. Actividades y locales.
+
+1\. Las cuantías mínimas de capital social previstas en el apartado 2.c) del artículo 4 del Real Decreto 2660/1998, de 14 de diciembre, sólo se entenderán cumplidas si el patrimonio del titular del establecimiento de cambio de moneda, calculado según determina la legislación mercantil a efectos de reducción de capital o disolución de sociedades, alcanza, en todo momento, tales importes mínimos.
+
+2\. Los titulares autorizados para gestionar transferencias con el exterior en concepto de gastos de estancia en el extranjero y remesas de trabajadores domiciliados en España, podrán realizar el pago de las transferencias recibidas del exterior por conceptos similares a los incluidos en su objeto social.
+
+3\. La apertura de nuevos locales en España por parte de titulares de establecimientos de cambio de moneda autorizados es libre, sin perjuicio de la obligación de comunicarlo al Banco de España, de conformidad con lo previsto en el apartado 1.2 a) de la norma séptima de la presente Circular.
+
+Sin perjuicio de respetar la legislación local que corresponda, la apertura de sucursales en el extranjero de los titulares de establecimientos autorizados para ejercer la actividad de compra-venta de moneda extranjera o de gestión de transferencias con el exterior por conceptos distintos de gastos de estancia en el extranjero y remesas de trabajadores domiciliados en España, deberá comunicarse previamente, con un mes de antelación, al Banco de España (Dirección General de Supervisión), siendo igualmente de aplicación respecto a esos locales lo establecido en el apartado 1.2. a) de la siguiente norma.
+
+#### Norma séptima. Información a enviar al Banco de España.
+
+Los titulares de establecimientos de cambio de moneda autorizados para realizar operaciones de compra-venta de billetes extranjeros o cheques de viajeros y/o gestión de transferencias con el exterior, deberán enviar, en la forma y plazos que se indican al efecto, la siguiente información:
+
+1\. Información relativa a los requisitos para conservar la autorización, a remitir en el plazo máximo de un mes desde que se produzcan los hechos a que la misma se refiera [salvo para la prevista en las letras b), c) y d) del punto 1.2 siguiente, en que se respetarán los plazos allí señalados]:
+
+1.1 Al Departamento de Instituciones Financieras:
+
+a) Cada vez que se produzca una modificación de los Estatutos sociales, testimonio notarial o fotocopia con certificación de autenticidad expedida por el administrador o secretario del consejo de administración, de la escritura pública de modificación debidamente inscrita en el Registro Mercantil, para su constancia en el Registro de Estatutos del Banco de España.
+
+b) Declaración de administradores, de las personas que vayan a ejercer funciones de director general o asimilados, así como de las variaciones posteriores respecto a aquellos inicialmente declarados, detallando los cargos de los mismos en otras sociedades españolas o extranjeras, cumplimentando a tales efectos el formulario incluido como anejo a la Circular del Banco de España 1/2009, de 18 de diciembre, con las instrucciones que en la misma se contienen. En el supuesto de que el Titular no disponga de Consejo de Administración, el apartado de dicho formulario relativo a la “declaración” de la entidad habrá de ser suscrito por sus administradores.
+
+c) El cese en la realización de algún tipo de operación, incluso accesoria o complementaria en el sentido del artículo 5.º.2 de la Orden del Ministerio de Economía, de 16 de noviembre de 2000, de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes, o en todas para las que fue autorizado, y, en su caso, la renuncia a la autorización concedida.
+
+1.2 Al Departamento de Información Financiera y Central de Riesgos:
+
+a) La apertura de locales en España y en el extranjero donde efectúen su actividad, indicando su dirección completa y si su carácter es permanente o estacional, con detalle de los períodos de actividad, así como el cierre o cualquier variación sobre los datos previamente facilitados de cualquiera de ellos, con arreglo al estado que figura en el anejo 4.7.
+
+b) Tan pronto como sean conocidas, y como máximo en el plazo de 10 días hábiles desde la anotación en el libro registro de acciones nominativas, el titular del establecimiento de cambio comunicará las transmisiones (adquisiciones y cesiones) de acciones que determinen que el porcentaje de participación o los derechos de voto que queden en poder de una persona física o jurídica o grupo iguale o traspase, de manera directa o indirecta, el umbral del 10% del capital social o de los derechos de voto del establecimiento, o que, sin llegar a dicho porcentaje, le permitan ejercer una influencia notable en el citado establecimiento. También se comunicarán las pérdidas de la posibilidad de ejercer dicha influencia notable.
+
+Dicha información se actualizará cada vez que se produzcan variaciones netas en la participación directa o indirecta de la persona o grupo que representen al menos un 5% del capital social o de los derechos de voto del establecimiento.
+
+Estas comunicaciones se efectuarán utilizando el modelo incluido en el anejo 4.4.
+
+c) Tan pronto como sean conocidas, y como máximo en el plazo de 10 días hábiles desde la anotación en el libro registro de acciones nominativas, el titular del establecimiento de cambio comunicará las transmisiones de acciones –a las que no sea de aplicación lo dispuesto en la letra b) anterior– que impliquen la adquisición neta por una persona física o jurídica, en una o varias operaciones, de un porcentaje directo igual o superior al 5% del capital social del establecimiento. Estas comunicaciones se efectuarán cumplimentando la parte relativa a participaciones directas del modelo incluido en el anejo 4.4.
+
+d) Anualmente, dentro del primer mes del año, remitirán una relación de los accionistas que tengan inscritas a su nombre acciones en un porcentaje igual o superior al 5% del capital social, con arreglo al estado que figura en el anejo 4.5.
+
+En relación con la letra b) anterior, se utilizará la definición de grupo contenida en el artículo 4 de la Ley del Mercado de Valores y, a los efectos de determinar el porcentaje de participación o los derechos de voto, se estará a lo establecido en el artículo 18 del Real Decreto 1245/1995, de 14 de julio, sobre creación de bancos, actividad transfronteriza y otras cuestiones relativas al régimen jurídico de las entidades de crédito. Ese mismo artículo será aplicable a efectos de determinar lo que se entiende por influencia notable.
+
+1.3 A los Servicios de Inspección:
+
+Copia completa de cualquier modificación en la póliza que asegure frente a terceros la responsabilidad civil que pudiera derivarse de su actividad de gestión de transferencias con el exterior, o, en caso de sustitución de la misma, copia completa de la nueva póliza. Con independencia de ello, se justificará periódicamente el pago de la prima o de sus suplementos.
+
+2\. Información financiera y contable:
+
+a) No más tarde del 28 de febrero, remitirán el balance y cuenta de pérdidas y ganancias correspondientes al ejercicio anterior, utilizando a estos efectos los modelos de los estados reservados I y II que figuran en el anejo 5, aplicando para su confección los principios y criterios del Plan General de Contabilidad, salvo que las cuentas anuales se formulen aplicando el Plan General de Contabilidad de Pequeñas y Medianas Empresas (Pymes) por cumplir el establecimiento los requisitos que establece el Real Decreto 1515/2007, de 16 de noviembre, por el que se aprueba dicho Plan, en cuyo caso se confeccionarán aplicando los principios y criterios del Plan General de Contabilidad de Pymes.
+
+Los titulares de establecimientos de cambio que estén autorizados para realizar la gestión de transferencias con el exterior también deberán enviar, no más tarde del 31 de agosto, los citados estados reservados I y II, referidos al 30 de junio anterior, aplicando en su confección los mismos criterios que utilicen para la formulación de las cuentas anuales.
+
+b) Dentro de los quince días siguientes a la celebración de la Junta General de accionistas que las apruebe, remitirán las cuentas anuales del ejercicio anterior, acompañadas de la certificación del acuerdo de la junta relativo a su aprobación y, en su caso, del informe de auditoría correspondiente.
+
+Caso de que los datos contenidos en los estados reservados I y II sean modificados en las cuentas anuales aprobadas por la Junta General, los estados rectificados se remitirán al mismo tiempo que dichas cuentas anuales.
+
+c) Semestralmente, no más tarde del último día del segundo mes posterior al cierre de cada semestre natural, enviarán un estado-resumen que recoja las operaciones realizadas por el titular en todos sus locales, cumplimentando de acuerdo con lo previsto al efecto el modelo de estado EP 7, sobre compraventa de moneda extranjera, incluido en el anejo 2 de la Circular 5/2020, de 25 de noviembre, a entidades de pago y a entidades de dinero electrónico, sobre normas de información financiera pública y reservada, y modelos de estados financieros, y que modifica la Circular 6/2001, de 29 de octubre, sobre titulares de establecimientos de cambio de moneda, y la Circular 4/2017, de 27 de noviembre, a entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros.
+
+3\. Otra Información a remitir al Departamento de Instituciones Financieras:
+
+a) Información relativa a los agentes de los titulares autorizados para realizar la actividad de gestión de transferencias con el exterior, conforme se establece en el apartado 12 la norma duodécima de la presente Circular.
+
+b) Información relativa a las condiciones generales aplicables a las transferencias conforme prevé el número 1.8 de la norma novena de esta Circular.
+
+4\. La presentación al Banco de España de las informaciones a las que se refieren los puntos 1.2, 1.3 y 2 de esta Norma deberá hacerse mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto para cada una de ellas.
+
+La información a la que se refieren la letra b) del punto 1.2 y las letras a) y b) del punto 2 de esta Norma deberá ser firmada electrónicamente por el administrador único, presidente, consejero delegado o director general.
+
+Con independencia de la obligación de firma electrónica a que se refiere el párrafo anterior, la entidad será responsable, en todo caso, de que los documentos enviados por vía telemática sean copia fiel de los originales, los cuales deberán estar a disposición del Banco de España en todo momento.
+
+El Banco de España, además, podrá solicitar la confirmación en papel de cualquier información enviada mediante transmisión telemática.
+
+Excepcionalmente, y solo por causas debidamente justificadas, el Departamento de Información Financiera y Central de Riesgos podrá autorizar la presentación de todas o alguna de las informaciones en papel, utilizando los impresos preparados por el Banco de España, que se entregarán fechados, sellados y visados en todas su páginas, y firmados por el administrador único, presidente, consejero delegado o director general.
+
+> Se modifica, con efectos de 1 de enero de 2021, la letra c) del apartado 2 por la disposición final 1.a) de la Circular de 25 de noviembre de 2020. [Ref. BOE-A-2020-15602](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15602)
+
+> Se modifican los apartados 1 y 2 y se añade el 4 por la norma 1.6 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+#### Norma octava. Registro de las operaciones.
+
+1\. Todas las operaciones realizadas por los titulares de establecimientos de cambio de moneda deberán registrarse diariamente. El registro de operaciones de compra-venta de moneda extranjera deberá contener como mínimo la siguiente información: fecha, titular de la operación y su documento de identificación, moneda, e importe. El registro de operaciones de gestión de transferencias con el exterior deberá contener como mínimo, además de la información antes citada, la del concepto por el que se realizan las mismas así como los datos (identificación, país, forma de pago) de destino de las transferencias ordenadas y, en su caso, de origen de las pagadas. Dicho registro podrá llevarse por medios electrónicos siempre que el titular disponga de sistemas técnicos adecuados, tanto para su correcta conservación, como para permitir el acceso necesario para la inspección que puedan llevar a cabo las autoridades competentes.
+
+2\. Sin perjuicio de lo que les exijan las normas mercantiles aplicables, los titulares de establecimientos de cambio de moneda deberán conservar durante seis años el registro diario de las operaciones realizadas.
+
+#### Norma novena. Transparencia y protección de la clientela.
+
+1\. Información al público:
+
+1.1 En relación con la información al público sobre tipos de cambio, comisiones y gastos a la que se refiere el artículo 6.1 de la Orden del Ministerio de Economía de 16 de noviembre de 2000, de regulación de determinados aspectos del régimen jurídico de los establecimientos de cambio de moneda y sus agentes, los titulares de establecimientos de cambio de moneda que realicen con su clientela operaciones de compra y/o venta de billetes extranjeros o cheques de viajero contra euros deberán publicar los tipos mínimos de compra y máximos de venta de las principales monedas con las que operen o, en su caso, los tipos únicos que aplicarán para los importes que no excedan de 3.000 euros.
+
+1.2 La información sobre los tipos de cambio incluirá, con la misma relevancia y de forma que capte la atención del público, el detalle de las comisiones y gastos, incluso mínimos, que apliquen en las operaciones citadas en el apartado anterior, y describirá, de manera sencilla y que facilite la comparación entre entidades, los conceptos que devengan comisión, o los gastos aplicables, cuando esta información no se derive claramente de su propia denominación.
+
+1.3 Con carácter previo a la realización de una operación de compra o venta de billetes extranjeros o cheques de viajero contra euros, se proporcionará al cliente, para su conformidad expresa, que deberá quedar debidamente acreditada, información detallada y desglosada del tipo de cambio y de todas las comisiones o gastos asociados a la concreta operación solicitada. Dicha información se facilitará de forma gratuita, en papel o en otro soporte duradero, y se expresará en términos claros y fácilmente comprensibles.
+
+1.4 Los establecimientos de cambio de moneda dispondrán de un tablón de anuncios permanente que se situará en un lugar destacado y visible, de forma que atraiga la atención del público, en cada uno de los locales donde se realicen las operaciones de compra y/o venta de billetes extranjeros o cheques de viajero contra euros, donde se harán constar:
+
+a) La información sobre los tipos de cambio, comisiones y gastos que apliquen en las operaciones con la clientela, de conformidad con lo previsto en los apartados anteriores.
+
+b) La existencia de un departamento o servicio de atención al cliente para atender y resolver las reclamaciones de sus clientes, con indicación expresa de las distintas vías para presentar una reclamación.
+
+c) Los datos de contacto de, al menos, una entidad acreditada de conformidad con lo previsto en la Ley 7/2017, de 2 de noviembre, por la que se incorpora al ordenamiento jurídico español la Directiva 2013/11/UE del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativa a la resolución alternativa de litigios en materia de consumo, para la resolución alternativa de litigios en el ámbito de su actividad, con indicación expresa del procedimiento para presentar una reclamación.
+
+d) Una referencia a la normativa que regula la transparencia de las operaciones con la clientela, en la que se detallará el contenido de las normas de transparencia de la presente circular que les sean de aplicación.
+
+e) Una copia legible de la comunicación del Banco de España en la que consten la autorización obtenida en virtud de lo dispuesto en el Real Decreto 2660/1998, de 14 de diciembre, y el número de inscripción en el registro correspondiente.
+
+2\. Documentos de liquidación de operaciones de compraventa de billetes extranjeros y cheques de viajero:
+
+2.1 Como justificante de las operaciones realizadas, los titulares de establecimientos de cambio de moneda entregarán a los clientes un documento de liquidación de la operación en papel o en otro soporte duradero, en el que se detallarán, de forma clara y separada, los importes monetarios entregados y recibidos en las unidades que corresponda, el tipo de cambio utilizado y, en su caso, las comisiones o gastos aplicados, con indicación expresa de su concepto.
+
+2.2 Cuando se trate de comisiones porcentuales, se especificará la base de cálculo sobre la que se ha aplicado el porcentaje correspondiente, junto con el importe monetario resultante en euros.
+
+3\. Medidas organizativas e identificativas:
+
+3.1 Cuando los titulares de los establecimientos de cambio de moneda realicen la actividad para la que han sido autorizados en el mismo local en el que se desarrollen otras actividades económicas, deberán contar con las medidas organizativas necesarias para asegurar que la clientela identifique claramente al prestador del correspondiente servicio y pueda relacionarlo con las informaciones mencionadas en los apartados precedentes.
+
+3.2 La mención a redes u organizaciones internacionales en la actividad de los establecimientos de cambio de moneda no podrá inducir a confusión al público sobre la identidad o responsabilidad del titular con el que se contratan los servicios.
+
+Cuando se refiera a la condición del establecimiento como miembro de dichas redes u organizaciones internacionales, esta mención se incluirá, vinculada de forma menos destacada a la identidad del titular del establecimiento de cambio de moneda autorizado en España, en todos los locales en que se ejerza la actividad, en los documentos propios de su tráfico y en los anuncios publicitarios en cualquier medio. Esta obligación se extenderá a la actividad de los agentes del establecimiento.
+
+> Se modifica, con efectos de 15 de octubre de 2020, por la disposición final 1 de la Circular 4/2020, de 26 de junio. [Ref. BOE-A-2020-7869](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-7869)
+
+> Se modifican los apartados 1.1 y 1.2 por la norma 1.7 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+#### Norma décima. Póliza de seguro de responsabilidad civil.
+
+1\. La póliza de seguro a que se refiere la letra d) del artículo 4.2 del Real Decreto 2660/1998, de 14 de diciembre, deberá suscribirse con una entidad autorizada para ejercer la actividad en España, de forma exclusiva para la actividad de gestión de transferencias con el exterior del titular obligado.
+
+2\. La póliza deberá cubrir plenamente la responsabilidad civil derivada de culpa o negligencia del titular, alcanzará a todas las transferencias en las que intervenga, incluso cuando los daños procedan de errores o negligencia cometidos por sus agentes o corresponsales. Las indemnizaciones pactadas serán siempre pagaderas en España.
+
+Sea cual sea la naturaleza jurídica de la relación entre el titular del establecimiento y sus agentes o corresponsales, y con independencia de las acciones que puedan ejercer sus clientes frente a éstos, la póliza de seguro no podrá contener cláusulas que limiten la finalidad de aseguramiento de la actividad de gestión de transferencias con el exterior.
+
+#### Norma undécima. Remesas de billetes.
+
+Los titulares de establecimientos de cambio de moneda a los que se refiere este Título realizarán las operaciones de envío y recepción de billetes y moneda metálica españoles o extranjeros con entidades de crédito o con otros titulares de establecimientos de cambio de moneda en el exterior de acuerdo con el procedimiento establecido en las normas sexta a octava, ambas inclusive, de la Circular del Banco de España 1/1994, de 25 de febrero («Boletín Oficial del Estado» de 15 de marzo), si bien las referencias contenidas en éstas a los corresponsales bancarios de las Entidades Registradas se entenderán hechas a las entidades de crédito y otros titulares de establecimientos de cambio de moneda en el exterior con los que opere habitualmente el titular autorizado en España.
+
+#### Norma duodécima. Agentes.
+
+1\. Se consideran agentes las personas físicas o jurídicas a las que el titular de un establecimiento de cambio de moneda haya otorgado poderes para actuar habitualmente frente a la clientela, en nombre y por cuenta del titular mandante, en la ejecución de las operaciones típicas de la actividad del titular. Ello no incluye a los mandatarios con poderes para una sola operación específica, ni a las personas ligadas al titular, o a otros titulares o entidades de su mismo grupo, por una relación laboral.
+
+2\. Los agentes de titulares de establecimientos de cambio no podrán actuar por medio de subagentes ni representar a más de un titular.
+
+3\. Los titulares de establecimientos de cambio de moneda no podrán encomendar a sus agentes la actividad de compra-venta de billetes extranjeros o cheques de viajero, sin perjuicio de atender las solicitudes que al efecto les remitan aquéllos u otros terceros por cuenta de sus propios clientes.
+
+4\. Los contratos de agencia se celebrarán por escrito, limitarán su objeto al tipo de operaciones autorizadas al titular del establecimiento, exigirán de los agentes que tal carácter se manifieste en las relaciones que establezcan con la clientela, identificando de forma inequívoca al titular, y sus cláusulas incluirán las exigencias y limitaciones establecidas legalmente. Los poderes otorgados a los agentes deberán formalizarse ante fedatario público e inscribirse en el Registro Mercantil.
+
+5\. En la contratación de sus agentes, los titulares deberán exigir de los mismos acreditación de estar dado de alta en el correspondiente Impuesto de Actividades Económicas y, cuando se trate de personas físicas, de carecer de antecedentes penales respecto a los delitos mencionados en el artículo 4.3 del Real Decreto 2660/1998, de 14 de diciembre.
+
+6\. Los contratos de agencia celebrados, así como la acreditación de los requisitos exigidos al agente a los que se refiere el número anterior, deberán conservarse en un único expediente por cada agente, en el domicilio social del titular autorizado, a disposición del Banco de España.
+
+7\. Los agentes deberán cumplir frente a la clientela las obligaciones procedentes de las normas de ordenación y disciplina, de las relacionadas con el blanqueo de capitales, o de cualesquiera otras normas, que regulen la actividad de su mandante. Los titulares de establecimientos de cambio serán responsables del cumplimiento por sus agentes de dichas normas y deberán desarrollar los procedimientos de control adecuados para ello.
+
+Los agentes deberán poner a disposición de su clientela el documento que se establece en el apartado 1.6 de la norma novena de la presente Circular, por el que se hacen públicas las condiciones generales aplicables por su mandante a las transferencias con el exterior.
+
+8\. Los titulares de establecimientos de cambio autorizados para realizar operaciones de gestión de transferencias con el exterior tendrán a disposición del público, en cada una de sus oficinas, una relación de sus agentes debidamente actualizada en la que conste el alcance de la representación concedida. Dicha relación figurará igualmente como anexo en la Memoria comprendida en las cuentas anuales.
+
+9\. La identificación inequívoca del titular por sus agentes se realizará incluyendo la denominación social del titular y, en su caso, nombre comercial en cada uno de los locales en los que operen, en los documentos de su tráfico relacionados con esa actividad y en sus anuncios publicitarios sobre la misma.
+
+10\. Los agentes no podrán utilizar sus cuentas bancarias para aceptar el ingreso, directamente por la clientela, de los fondos procedentes de las transferencias ordenadas. No obstante, podrán usar dichas cuentas para obtener las cantidades que deban abonar a los beneficiarios de las transferencias recibidas, y para canalizar a sus mandantes las cantidades recibidas de sus clientes.
+
+11\. En los locales en los que realicen su actividad, y siempre que acepten fondos en monedas diferentes de la de remisión de la transferencia, los agentes deberán publicar, en lugar perfectamente visible y de forma separada de otras informaciones, los tipos mínimos de compra y máximos de venta, o, en su caso, los tipos únicos que aplicará su mandante en las operaciones de compra y/o venta de dichas monedas derivadas de órdenes de transferencias con el exterior para los importes que no excedan de 3.000 euros.
+
+La publicación de los tipos de cambio se acompañará de la de las comisiones y gastos aplicables explicando el concepto al que responden cuando este no se derive claramente de la propia denominación adoptada en la comisión.
+
+12\. Los titulares de establecimientos comunicarán al Banco de España, para su inscripción en un registro con carácter público, tan pronto como se produzcan, y como máximo en el plazo de quince días naturales desde que tengan lugar, los apoderamientos otorgados a sus agentes o cualquier variación de los datos previamente comunicados, así como el cese efectivo de los agentes en la prestación de servicios al titular.
+
+Las comunicaciones a las que se refiere este número se realizarán mediante transmisión telemática, de conformidad con las especificaciones técnicas que se comuniquen al efecto. No obstante, excepcionalmente, por causas justificadas, el Banco de España podrá autorizar la presentación de las correspondientes declaraciones en el formulario que se incluye en el anejo 4.6 de esta Circular, conforme a las especificaciones en él recogidas.
+
+> Se modifican los apartados 11 y 12 por la norma 1.8 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+#### Norma adicional primera.
+
+A efectos del seguimiento estadístico y fiscal de las operaciones de cambio de moneda extranjera:
+
+Cuando el importe de las operaciones de compra o venta de billetes extranjeros y cheques de viajero efectuadas con clientes residentes supere 6010,12 euros, o un importe inferior si constituye un fraccionamiento artificial de una operación que supere la indicada cuantía, los titulares de establecimientos de cambio de moneda deberán obtener de sus clientes, previamente a la liquidación de la operación, una declaración. A tal efecto los establecimientos autorizados para operaciones de compra cumplimentarán el formulario OEC-2 incluido en el anexo 3 de la presente Circular. Los autorizados también para operaciones de venta lo harán en el formulario OEC-4 incluido en mismo anexo 3.
+
+Dicha obligación se entiende sin perjuicio de lo establecido en la Resolución de 9 de julio de 1996 de la Dirección General de Política Comercial e Inversiones Exteriores, modificada por la Resolución de 31 de octubre de 2000 de la Dirección General del Tesoro y Política Financiera. El titular de establecimientos de cambio de moneda estampará al dorso de los formularios B-1 y B-3 previstos en dicha resolución una diligencia en la que conste la operación realizada y su importe.
+
+#### Norma adicional segunda.
+
+Las obligaciones de esta Circular se entienden sin perjuicio de las establecidas por la Ley 19/1993, de 28 de diciembre, de medidas para la Prevención del Blanqueo de Capitales y su normativa de desarrollo.
+
+#### Norma adicional tercera.
+
+La Dirección General de Regulación podrá elaborar aplicaciones técnicas para facilitar la confección de las diferentes informaciones a remitir al Banco de España y establecer correlaciones dentro de cada estado y entre cada uno de ellos.
+
+> Se añade por la norma 1.9 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2001-21296](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-21296).
+
+#### Norma derogatoria.
+
+Queda derogada la Circular 8/1992, de 24 de abril, sobre cambio de moneda extranjera en establecimientos abiertos al público. No obstante los estados-resúmenes trimestrales mencionados en el apartado 2 de la norma segunda y 2.d) de la norma séptima que se refieran al último trimestre de 2001 se cumplimentarán, para cada uno de los locales, en los modelos EC-2 contenidos en dicha Circular y de acuerdo con sus instrucciones.
+
+#### Entrada en vigor.
+
+La presente Circular entrará en vigor el 1 de enero de 2002 salvo en lo que se refiere a las obligaciones previstas en los apartados 1.6 y 2.2 de la norma novena, que entrarán en vigor el 1 de abril de 2002.
+
+Madrid, 29 de octubre de 2001.–El Gobernador, Jaime Caruana Lacorte.
+
+## ANEXO 1.1
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_001.png)
+
+## ANEXO 1.2
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_002.png)
+
+## ANEXO 2.1
+
+## Declaración de honorabilidad comercial y profesional
+
+D./Dña ..............................................................................................................................................................…, con DNI/tarjeta de residencia número ........................................, en su calidad de ............................................................................................................. (1). declara expresamente que ha venido observando una adecuada trayectoria personal de respeto a las leyes mercantiles u otras que regulan la actividad económica y la vida de los negocios, así como a las buenas prácticas comerciales, financieras y bancarias, y que carece de antecedentes penales, en España y en el extranjero, por delitos dolosos, y no se encuentra inhabilitado para ejercer cargos públicos o de administración o dirección de entidades financieras, ni en período de inhabilitación fijado en sentencia de calificación de concurso, conforme a la Ley 22/2003, de 9 de julio, Concursal, ni quebrado o concursado no rehabilitado en procedimientos concursales anteriores a la entrada en vigor de la referida Ley.
+
+Lo cual hace constar ante el Banco de España, a efectos de lo previsto en el Real Decreto 2660/1998, de 14 de diciembre, sobre el cambio de moneda extranjera en establecimientos abiertos al público distintos de las entidades de crédito.
+
+En ………………………, a …… de …………………….. de ……….
+
+(1) Si el solicitante es persona física: titular de la actividad. Si el solicitante es persona jurídica: cargo que desempeña en la entidad solicitante, señalando expresamente el nombre de la misma.
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 2.2
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_004.png)
+
+## ANEXO 3.1
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_005.png)
+
+## ANEXO 3.2
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_006.png)
+
+## ANEXO 3.3
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_001.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_001.png)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 3.4
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_008.png)
+
+## ANEXO 3.5
+
+**(Suprimido)**
+
+> Se suprime, con efectos de 1 de enero de 2021, por la disposición final 1.b) de la Circular de 25 de noviembre de 2020. [Ref. BOE-A-2020-15602](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15602)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 4.1
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_005.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_005.png)
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_006.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_006.png)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 4.2
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_007.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_007.png)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 4.3
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2001/274/21296_015.png)
+
+## ANEXO 4.4
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_008.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_008.png)
+
+![Imagen: img/disp/2009/315/21185_009.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_009.png)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 4.5
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_010.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_010.png)
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_011.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_011.png)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 4.6
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_012.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_012.png)
+
+> Se sustituye por la norma 1.11 de la Circular 3/2009, de 18 de diciembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 4.7
+
+![Imagen facsímil de la edición original: img/disp/2009/315/21185_013.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_013.png)
+
+![Imagen: img/disp/2009/315/21185_014.png](https://www.boe.es/datos/imagenes/disp/2009/315/21185_014.png)
+
+> Se añade por la norma 1.11 de la Circular 3/2009, de 18 de diciembre de 2009. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEJO 5
+
+### Estado I
+
+Balance Reservado
+
+<table>
+<tbody>
+<tr>
+<td colspan="4"> </td>
+<td>
+<p>PGC (a)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Activo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.</p>
+</td>
+<td colspan="3">
+<p>Activo no corriente.</p>
+</td>
+<td>
+<p>A)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1</p>
+</td>
+<td colspan="2">
+<p>Inmovilizado intangible.</p>
+</td>
+<td>
+<p>A).I</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.2</p>
+</td>
+<td colspan="2">
+<p>Inmovilizado material.</p>
+</td>
+<td>
+<p>A).II</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.3</p>
+</td>
+<td colspan="2">
+<p>Inversiones inmobiliarias.</p>
+</td>
+<td>
+<p>A).III</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.4</p>
+</td>
+<td colspan="2">
+<p>Inversiones en empresas del grupo y asociadas a largo plazo.</p>
+</td>
+<td>
+<p>A).IV</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.5</p>
+</td>
+<td colspan="2">
+<p>Inversiones financieras a largo plazo.</p>
+</td>
+<td>
+<p>A).V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.6</p>
+</td>
+<td colspan="2">
+<p>Activos por impuesto diferido.</p>
+</td>
+<td>
+<p>A).VI</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td colspan="3">
+<p>Activo corriente.</p>
+</td>
+<td>
+<p>B)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.1</p>
+</td>
+<td colspan="2">
+<p>Deudores comerciales y otras cuentas a cobrar.</p>
+</td>
+<td>
+<p>B).III</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.1.1</p>
+</td>
+<td>
+<p>Corresponsales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.1.2</p>
+</td>
+<td>
+<p>Agentes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.1.3</p>
+</td>
+<td>
+<p>Accionistas por desembolsos exigidos.</p>
+</td>
+<td>
+<p>B).III.7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.1.4</p>
+</td>
+<td>
+<p>Otros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.2</p>
+</td>
+<td colspan="2">
+<p>Inversiones en empresas del grupo y asociadas a corto plazo.</p>
+</td>
+<td>
+<p>B).IV</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.3</p>
+</td>
+<td colspan="2">
+<p>Inversiones financieras a corto plazo.</p>
+</td>
+<td>
+<p>B).V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.4</p>
+</td>
+<td colspan="2">
+<p>Periodificaciones a corto plazo.</p>
+</td>
+<td>
+<p>B).VI</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5</p>
+</td>
+<td colspan="2">
+<p>Efectivo y otros activos líquidos equivalentes.</p>
+</td>
+<td>
+<p>B).VII</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.1</p>
+</td>
+<td>
+<p>Caja.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.1.1 Euros.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.1.2 Moneda extranjera.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.2</p>
+</td>
+<td>
+<p>Depósitos en entidades de crédito: Cuentas a la vista y cuentas de ahorro.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.2.1 Cuentas asociadas a la gestión de transferencias (b).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.2.2 Resto de cuentas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5.3</p>
+</td>
+<td>
+<p>Otros activos líquidos.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.6</p>
+</td>
+<td colspan="2">
+<p>Otras partidas.</p>
+</td>
+<td>
+<p>B).I + B).II</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Total activo:</p>
+</td>
+<td>
+<p>A) + B)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Patrimonio neto y pasivo:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.</p>
+</td>
+<td colspan="3">
+<p>Patrimonio neto.</p>
+</td>
+<td>
+<p>A)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1</p>
+</td>
+<td colspan="2">
+<p>Fondos propios.</p>
+</td>
+<td>
+<p>A-1)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.1</p>
+</td>
+<td>
+<p>Capital.</p>
+</td>
+<td>
+<p>A-1).I</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.1.1 Capital escriturado.</p>
+</td>
+<td>
+<p>A-1).I.1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.1.2 Capital no exigido (−).</p>
+</td>
+<td>
+<p>A-1).I.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.2</p>
+</td>
+<td>
+<p>Prima de emisión.</p>
+</td>
+<td>
+<p>A-1).II</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.3</p>
+</td>
+<td>
+<p>Reservas.</p>
+</td>
+<td>
+<p>A-1).III</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.4</p>
+</td>
+<td>
+<p>Acciones propias (−).</p>
+</td>
+<td>
+<p>A-1).IV</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.5</p>
+</td>
+<td>
+<p>Resultados de ejercicios anteriores (+ o −).</p>
+</td>
+<td>
+<p>A-1).V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.6</p>
+</td>
+<td>
+<p>Otras aportaciones de socios.</p>
+</td>
+<td>
+<p>A-1).VI</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.7</p>
+</td>
+<td>
+<p>Resultado del ejercicio.</p>
+</td>
+<td>
+<p>A-1).VII</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.8</p>
+</td>
+<td>
+<p>Dividendo a cuenta (−).</p>
+</td>
+<td>
+<p>A-1).VIII</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1.9</p>
+</td>
+<td>
+<p>Otros instrumentos de patrimonio neto.</p>
+</td>
+<td>
+<p>A-1).IX</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.2</p>
+</td>
+<td colspan="2">
+<p>Ajustes por cambios de valor.</p>
+</td>
+<td>
+<p>A-2)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td colspan="3">
+<p>Pasivo no corriente.</p>
+</td>
+<td>
+<p>B)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>2.1 Provisiones a largo plazo.</p>
+</td>
+<td>
+<p>B).I</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>2.2 Deudas a largo plazo.</p>
+</td>
+<td>
+<p>B).II</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.2.1</p>
+</td>
+<td>
+<p>Deudas con entidades de crédito.</p>
+</td>
+<td>
+<p>B).II.2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.2.2</p>
+</td>
+<td>
+<p>Resto de deudas.</p>
+</td>
+<td>
+<p>B).II.1 + B).II.3 + B).II.4 + B).II.5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td colspan="3">
+<p>2.3 Deudas con empresas del grupo y asociadas a largo plazo.</p>
+</td>
+<td>
+<p>B).III</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.3.1</p>
+</td>
+<td>
+<p>Deudas con entidades de crédito.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.3.2</p>
+</td>
+<td>
+<p>Resto de deudas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.4</p>
+</td>
+<td colspan="2">
+<p>Pasivos por impuesto diferido.</p>
+</td>
+<td>
+<p>B).IV</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>2.5</p>
+</td>
+<td colspan="2">
+<p>Periodificaciones a largo plazo.</p>
+</td>
+<td>
+<p>B).V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td colspan="3">
+<p>Pasivo corriente.</p>
+</td>
+<td>
+<p>C)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.1</p>
+</td>
+<td colspan="2">
+<p>Provisiones a corto plazo.</p>
+</td>
+<td>
+<p>C).II</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.2</p>
+</td>
+<td colspan="2">
+<p>Deudas a corto plazo.</p>
+</td>
+<td>
+<p>C).III</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.2.1</p>
+</td>
+<td>
+<p>Deudas con entidades de crédito.</p>
+</td>
+<td>
+<p>C).III.2</p>
+<p>C).III.1 + C).III.3 + C).III.4 +</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.2.2</p>
+</td>
+<td>
+<p>Resto de deudas.</p>
+</td>
+<td>
+<p>C).III.5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.3</p>
+</td>
+<td colspan="2">
+<p>Deudas con empresas del grupo y asociadas a corto plazo.</p>
+</td>
+<td>
+<p>C).IV</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.3.1</p>
+</td>
+<td>
+<p>Deudas con entidades de crédito.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.3.2</p>
+</td>
+<td>
+<p>Resto de deudas.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4</p>
+</td>
+<td colspan="2">
+<p>Acreedores comerciales y otras cuentas a pagar.</p>
+</td>
+<td>
+<p>C).V</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4.1</p>
+</td>
+<td>
+<p>Transferencias pendientes de pago.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4.1.1 Recibidas del exterior.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4.1.2 Para enviar al exterior.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4.2</p>
+</td>
+<td>
+<p>Corresponsales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4.3</p>
+</td>
+<td>
+<p>Agentes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.4.4</p>
+</td>
+<td>
+<p>Resto.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.5</p>
+</td>
+<td colspan="2">
+<p>Periodificaciones a corto plazo.</p>
+</td>
+<td>
+<p>C).VI</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>3.6</p>
+</td>
+<td colspan="2">
+<p>Otras partidas.</p>
+</td>
+<td>
+<p>C).I</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Total pasivo y patrimonio neto:</p>
+</td>
+<td>
+<p>A) + B) + C)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Pro Memoria:
+
+1\. Aplicación de resultados (c).
+
+1.1 Reservas/ Resultados de ejercicios anteriores.
+
+1.2 Dividendos.
+
+2\. Activo: Préstamos y anticipos concedidos a accionistas.
+
+3\. Pasivo: Préstamos y otras financiaciones recibidos de accionistas.
+
+4\. Número de oficinas.
+
+5\. Número de empleados asalariados.
+
+6\. Número de empleados no asalariados.
+
+7\. Número de agentes.
+
+7.1 Personas físicas.
+
+7.2 Personas jurídicas.
+
+8\. Número de locales en que los agentes ejercen la actividad.
+
+Suma de control:
+
+Normas utilizadas en la elaboración de los estados contables (d).
+
+PGC.
+
+PGC de pymes.
+
+(a) Codificación utilizada en el balance del Plan General de Contabilidad (Real Decreto 1514/2007, de 16 de noviembre). El contenido de las partidas del balance reservado coincide con el de las partidas del PGC de idéntico nombre.
+
+(b) La partida “Cuentas asociadas a la gestión de transferencias” recoge el saldo de las cuentas bancarias a las que se refiere la norma 9ª, apartado 3.4, de la Circular 6/2001.
+
+(c) Estas partidas solo presentarán dato en los estados de diciembre.
+
+(d) Se indicarán las normas de contabilidad que se utilizan en la formulación de las cuentas anuales. Solo podrán acogerse a la utilización del PGC de pymes aquellas empresas que cumplan lo establecido en el Real Decreto 1515/2007, de 16 de noviembre, y que opten voluntariamente por su aplicación. El resto cumplirán lo establecido en el Real Decreto 1514/2007, de 16 de noviembre (PGC).
+
+### Estado II
+
+<table>
+<tbody>
+<tr>
+<td colspan="4"> </td>
+<td>
+<p>PGC (a)</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Cuenta de pérdidas y ganancias reservada:</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1.</p>
+</td>
+<td colspan="3">
+<p>Importe neto de la cifra de negocios. Prestación de servicios.</p>
+</td>
+<td>
+<p>A).1.b</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.1</p>
+</td>
+<td colspan="2">
+<p>Comisiones por cambio de moneda.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>1.2</p>
+</td>
+<td colspan="2">
+<p>Comisiones por operaciones de transferencia.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2.</p>
+</td>
+<td colspan="3">
+<p>Otros ingresos de explotación.</p>
+</td>
+<td>
+<p>A).5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3.</p>
+</td>
+<td colspan="3">
+<p>Gastos de personal.</p>
+</td>
+<td>
+<p>A).6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4.</p>
+</td>
+<td colspan="3">
+<p>Otros gastos de explotación.</p>
+</td>
+<td>
+<p>A).7</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1</p>
+</td>
+<td colspan="2">
+<p>Servicios exteriores.</p>
+</td>
+<td>
+<p>A).7.a</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.1</p>
+</td>
+<td>
+<p>Comisiones por servicios relacionados con la actividad.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.1.1 Comisiones cedidas a agentes.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.1.2 Comisiones cedidas a corresponsales.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.1.3 Otras comisiones.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.2</p>
+</td>
+<td colspan="2">
+<p>Arrendamientos y cánones.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.3</p>
+</td>
+<td colspan="2">
+<p>Prima póliza de seguro responsabilidad civil.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.1.4</p>
+</td>
+<td colspan="2">
+<p>Otros.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.2</p>
+</td>
+<td colspan="2">
+<p>Tributos.</p>
+</td>
+<td>
+<p>A).7.b</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.3</p>
+</td>
+<td colspan="2">
+<p>Pérdidas, deterioro y variación de provisiones por operaciones comerciales.</p>
+</td>
+<td>
+<p>A).7.c</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>4.4</p>
+</td>
+<td colspan="2">
+<p>Otros gastos de gestión corriente.</p>
+</td>
+<td>
+<p>A).7.d</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5.</p>
+</td>
+<td colspan="3">
+<p>Amortización del inmovilizado.</p>
+</td>
+<td>
+<p>A).8</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6.</p>
+</td>
+<td colspan="3">
+<p>Excesos de provisiones.</p>
+</td>
+<td>
+<p>A).10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7.</p>
+</td>
+<td colspan="3">
+<p>Deterioro y resultado por enajenaciones del inmovilizado.</p>
+</td>
+<td>
+<p>A).11</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8.</p>
+</td>
+<td colspan="3">
+<p>Otras partidas.</p>
+</td>
+<td>
+<p>A).2 + A).3 + A).4</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>A.1) Resultado de explotación (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9.</p>
+</td>
+<td colspan="3">
+<p>Ingresos financieros.</p>
+</td>
+<td>
+<p>A).12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10.</p>
+</td>
+<td colspan="3">
+<p>Gastos financieros.</p>
+</td>
+<td>
+<p>A).13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11.</p>
+</td>
+<td colspan="3">
+<p>Variación de valor razonable en instrumentos financieros.</p>
+</td>
+<td>
+<p>A).14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12.</p>
+</td>
+<td colspan="3">
+<p>Diferencias de cambio.</p>
+</td>
+<td>
+<p>A).15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13.</p>
+</td>
+<td colspan="3">
+<p>Deterioro y resultado por enajenaciones de instrumentos financieros.</p>
+</td>
+<td>
+<p>A).16</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>A.2) Resultado financiero (9 + 10 + 11 + 12 + 13).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>A.3) Resultado antes de impuestos (A.1 + A.2).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14.</p>
+</td>
+<td colspan="3">
+<p>Impuesto sobre beneficios.</p>
+</td>
+<td>
+<p>A).17</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>A.4) Resultado del ejercicio procedente de operaciones continuadas (A.3 + 14).</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15.</p>
+</td>
+<td colspan="3">
+<p>Resultado del ejercicio procedente de operaciones interrumpidas neto de impuestos (b).</p>
+</td>
+<td>
+<p>B).18</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>A.5) Resultado del ejercicio (A.4 + 15).</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(a) Codificación utilizada en la cuenta de pérdidas y ganancias del Plan General de Contabilidad (Real Decreto 1514/2007, de 16 de noviembre). El contenido de las partidas de la cuenta de pérdidas y ganancias reservada coincide con el de las partidas del PGC de idéntico nombre.
+
+(b) Esta partida no presentará saldo en las entidades que apliquen el PGC de pymes.
+
+> Se sustituye, se renumera como Anejo 5 y se suprime el anejo 5.2 por la norma 1.11 de la Circular 3/2009, de 18 de dicicembre. [Ref. BOE-A-2009-21185](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-21185).
+
+## ANEXO 6.1
+
+## Condiciones generales aplicables a las transferencias
+
+Las informaciones sobre las condiciones generales aplicables a las transferencias de fondos con el exterior se referirán a cualquier tipo de operaciones de esa naturaleza realizadas por el titular del establecimiento de cambio y su contenido mínimo será el siguiente:
+
+1\. Respecto a las transferencias con origen y destino países de la Unión Europea reguladas por la Ley 9/1999.
+
+1.1 Sobre las transferencias ordenadas se informará de:
+
+a) El plazo máximo referido a días laborables bancarios necesario para que, en ejecución de una orden de transferencia dada al establecimiento, se acrediten los fondos en la cuenta de la entidad del beneficiario.
+
+Se indicará con precisión el comienzo del plazo, el cual, salvo cuando el establecimiento acredite haber exigido al cliente condiciones o informaciones adicionales, se presumirá que comenzará, a más tardar, al día siguiente hábil al de la recepción de la orden.
+
+b) Las informaciones que el cliente ordenante deberá facilitar al establecimiento, y las restantes exigencias que éste establezca, para aceptar la orden de transferencia, incluyendo las relativas a si el pago de las comisiones aplicables o de los gastos repercutibles son a cargo del ordenante, del beneficiario o, en su caso, el criterio de reparto entre ambos.
+
+c) La cuantía y modalidades de cálculo de las comisiones máximas aplicables y los gastos repercutibles que deba pagar el cliente ordenante al establecimiento, que se referirán al supuesto de que éste se haga cargo de la totalidad de los mismos, especificando las posibilidades que quepan al cliente para ordenar su repercusión, total o parcial, en el beneficiario.
+
+d) En el caso de transferencias que deban abonarse en divisa distinta de la de la entrega de los fondos, la indicación de los tipos de cambio que se utilicen en la conversión, para lo que deberá tenerse en cuenta lo dispuesto en el segundo párrafo de la letra a) del apartado 1.1 de la norma novena.
+
+2\. Respecto a las transferencias con origen y destino países de la Unión Europea distintas de las reguladas por la Ley 9/1999 y a las restantes transferencias con el exterior.
+
+2.1 Sobre las transferencias ordenadas se informará de:
+
+a) Las informaciones que el cliente ordenante deberá facilitar al titular del establecimiento y las restantes exigencias que éste establezca para aceptar la orden de transferencia, incluyendo las relativas a si el pago de las comisiones aplicables o de los gastos repercutibles son a cargo del ordenante, del beneficiario o, en su caso, el criterio de reparto entre ambos.
+
+b) La cuantía y modalidades de cálculo de las comisiones máximas aplicables y los gastos repercutibles que deba pagar el cliente ordenante al establecimiento, especificando las posibilidades que quepan al cliente para ordenar su repercusión, total o parcial, en el beneficiario.
+
+c) En caso de transferencias que deban abonarse en divisa distinta de la de la entrega de los fondos, la indicación de los tipos de cambio que se utilicen en la conversión, para lo que deberá tenerse en cuenta lo dispuesto en el segundo párrafo de la letra a) del apartado 1.1 de la norma novena.
+
+2.2 Sobre las transferencias recibidas se informará de:
+
+a) La cuantía y modalidades de cálculo de las comisiones máximas aplicables y los gastos repercutibles que deba pagar el cliente beneficiario al establecimiento.
+
+b) En caso de transferencias que deban abonarse en divisa distinta de la de la entrega de los fondos, la indicación de los tipos de cambio que se utilicen en la conversión, para lo que deberá tenerse en cuenta lo dispuesto en el segundo párrafo de la letra a) del apartado 1.1 de la norma novena.
+
+3\. Otras informaciones:
+
+a) Definición de día laborable bancario, que deberá ajustarse a lo dispuesto en el artículo 8 de la Orden de 16 de noviembre de 2000 de desarrollo de la Ley 9/1999, de 12 de abril, por la que se regula el régimen jurídico de las transferencias entre Estados miembros de la Unión Europea así como otras disposiciones en materia de gestión de transferencias en general.
+
+b) Vías de reclamación y de recurso a disposición del cliente, y las modalidades de acceso a ellas.
+
+c) Definición de transferencia que figura en el artículo 6.3 de la Orden de 16 de noviembre de 2000 de desarrollo de la Ley 9/1999, de 12 de abril, por la que se regula el régimen jurídico de las transferencias entre Estados miembros de la Unión Europea así como otras disposiciones en materia de gestión de transferencias en general.
+
+## ANEXO 6.2
+
+## Documentos de liquidación de transferencias
+
+Transferencias ordenadas:
+
+Número de referencia de la transferencia.
+
+Nombre o denominación social del ordenante.
+
+Nombre o denominación social del beneficiario.
+
+Establecimiento o entidad de crédito en que debe abonarse el importe.
+
+Cuenta del beneficiario en que deba abonarse el importe transferido o indicación de la forma de pago pactada.
+
+Fecha de aceptación de la transferencia.
+
+Importe de la transferencia ordenada expresada en la divisa entregada por el ordenante.
+
+Cuando el importe deba transferirse en divisa distinta, tipo de cambio aplicado e importe de la transferencia expresada en la divisa a transferir.
+
+Indicación de los criterios de distribución entre ordenante y beneficiario de las comisiones y gastos repercutibles causados por la transferencia.
+
+Comisiones y gastos cargados al ordenante o, en su caso, los retenidos del importe de la transferencia para su cargo al beneficiario.
+
+Concepto de la transferencia indicado por el cliente.
+
+Transferencias recibidas:
+
+Número de referencia de la transferencia y, si se conoce, el de referencia en la entidad de crédito o establecimiento del ordenante.
+
+Importe original de la transferencia. Para las transferencias no reguladas por la Ley 9/1999, en caso de desconocerse el importe original, se deberá informar del importe recibido por el establecimiento, indicándose también dicha circunstancia.
+
+Nombre o denominación social del ordenante.
+
+Nombre del establecimiento o de la entidad de crédito del ordenante. En el caso de que se desconozca, éste extremo deberá ser indicado, así como el nombre de la entidad de crédito o establecimiento intermediario del que se hayan recibido los fondos y, si se dispone de él, el número de referencia de la transferencia en dicho intermediario.
+
+Fecha de recepción por el establecimiento de la orden de pago de la transferencia.
+
+Nombre o denominación social del beneficiario y cuenta de abono o indicación de la forma de pago.
+
+Indicación de los criterios de distribución de las comisiones y gastos.
+
+Si como consecuencia de los criterios de distribución anteriores hubiera de cargarse alguna comisión y/o gasto al beneficiario: importe de los que correspondan al establecimiento.
+
+Tipo de cambio aplicado por la entidad, cuando el abono deba producirse en divisa distinta de la recibida por el establecimiento.
+
+Importe abonado al beneficiario.
+
+Concepto de la transferencia indicado por el ordenante, cuando se disponga de tal dato.

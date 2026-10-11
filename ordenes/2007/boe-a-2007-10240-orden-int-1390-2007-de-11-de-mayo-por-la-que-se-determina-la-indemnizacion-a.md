@@ -1,0 +1,1751 @@
+---
+title: "Orden INT/1390/2007, de 11 de mayo, por la que se determina la indemnización a percibir por el personal que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero"
+identifier: "BOE-A-2007-10240"
+eli: "https://www.boe.es/eli/es/o/2007/05/11/int1390"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 2007-05-11
+published: 2007-05-22
+in_force_from: 2007-05-23
+last_amended: 2025-06-26
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 122"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10240"
+retrieved: 2026-10-11
+---
+
+# Orden INT/1390/2007, de 11 de mayo, por la que se determina la indemnización a percibir por el personal que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero
+
+La disposición adicional cuarta del Real Decreto 950/2005, de 29 de julio, de retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado, regula las retribuciones del personal que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero, entre las que se encuentra una indemnización que retribuirá las especiales condiciones en que desarrolla su actividad el personal participante en ellas, durante su permanencia en territorio extranjero.
+
+Por ello, en virtud de las atribuciones que me confiere la mencionada disposición adicional cuarta del Real Decreto 950/2005, de 29 de julio, previo informe del Ministerio de Economía y Hacienda, dispongo:
+
+## Primero.
+
+El personal de las Fuerzas y Cuerpos de Seguridad del Estado que participe o coopere en asistencia técnica policial, operaciones de mantenimiento de la paz y seguridad, humanitarias o de evacuación de personas en el extranjero, percibirá las retribuciones que por su empleo, situación y puesto de trabajo le corresponden, conforme a lo dispuesto en el Real Decreto 950/2005, de 29 de julio, de retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado (no percibiendo el complemento de productividad), así como una indemnización, cuyo importe será, para cada empleo o categoría profesional, el resultante de la suma de los importes mensuales correspondientes a:
+
+a) La cuantía máxima que en concepto de complemento de productividad fija el punto cuarto de la Resolución de la Subsecretaría del Departamento, de 28 de marzo de 2005, determinándose según el nivel superior que corresponda al funcionario entre los fijados para cada empleo o categoría en el Anexo II del Real Decreto 950/2005, de 29 de julio, el correspondiente al puesto de trabajo o el que le pudiere corresponder por su grado consolidado.
+
+b) El porcentaje de la indemnización por residencia eventual del país donde se realiza la comisión de servicio o del «resto del mundo», en su caso, que se establezca para cada misión u operación.
+
+c) El porcentaje que se establezca para cada misión u operación de la suma de sueldo, complemento de destino del puesto de trabajo que ocupa y componente general del complemento específico.
+
+## Segundo.
+
+1\. En aquellos supuestos en que se apruebe la participación de miembros de las Fuerzas y Cuerpos de Seguridad Estado en estas misiones u operaciones, la Secretaría de Estado de Seguridad elevará una propuesta estableciendo, conforme a los criterios del apartado primero de esta Orden, la indemnización para cada misión u operación concreta para cada empleo o categoría profesional.
+
+2\. Dicha propuesta, previos los informes preceptivos de los órganos del Ministerio del Interior, se remitirá -en cumplimiento de lo dispuesto en la disposición adicional cuarta del Real Decreto 950/2005, de 29 de julio- al Ministro de Economía y Hacienda para su informe.
+
+3\. Obtenido el informe del Ministerio de Economía y Hacienda, se aprobarán las indemnizaciones aplicables a los miembros de las Fuerzas y Cuerpos de Seguridad del Estado que participen en la misión u operación.
+
+4\. Una vez que se haya aprobado la participación de personal de las Fuerzas y Cuerpos de Seguridad del Estado en la misión u operación y hasta la aprobación de la correspondiente Orden, se autoriza a abonar, en concepto de anticipo, un importe que será el resultado de la suma del complemento de productividad descrito en el párrafo a) del apartado primero de esta Orden, más el resultado de aplicar a la indemnización por residencia eventual correspondiente a la dieta en el «resto del mundo» un porcentaje del 30 por 100, y a la suma de las retribuciones fijadas en el párrafo c) del apartado primero de esta Orden el porcentaje del 60 por 100, sin perjuicio de la posterior liquidación una vez haya sido aprobada.
+
+## Tercero.
+
+Las cuantías de este concepto retributivo se abonarán con periodicidad mensual, pero se devengarán por días, para lo cual, en el caso de tenerse que abonar por un periodo inferior al mes, el importe diario se calculará dividiendo el valor mensual de la indemnización por el número de días naturales del mes que se trate.
+
+## Cuarto.
+
+La designación de los participantes en estas operaciones será competencia de aquellas autoridades con facultades para la designación de comisiones de servicio con derecho a indemnización.
+
+## Quinto.
+
+Durante los días de traslado al área de misión y regreso, el personal de las Fuerzas y Cuerpos de Seguridad del Estado percibirá la indemnización por razón de servicio que le pudiera corresponder, según lo estipulado en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio, no percibiendo por tanto en ese periodo la indemnización regulada en la presente Orden.
+
+## Sexto.
+
+El personal que forma parte de la misión, pero cuyo lugar de trabajo no se encuentre en el área de misión, percibirá la indemnización por razón del servicio que le pudiera corresponder, según lo estipulado en el Real Decreto 462/2002, de 24 de mayo, no percibiendo por tanto la indemnización regulada en esta Orden.
+
+## Séptimo.
+
+El personal que estando participando en alguna de las misiones u operaciones que se contemplan en esta Orden, fuera nombrado en comisión de servicio, debiéndose desplazar a otra localidad, percibirá además de la indemnización regulada en la presente Orden, durante los días que dure, dietas exclusivamente por alojamiento y los correspondientes gastos de viaje, en las condiciones establecidas para las comisiones de servicio en general.
+
+## Octavo.
+
+El personal que para participar en estas misiones u operaciones sea destinado al extranjero ocupando un puesto de trabajo específico, percibirá exclusivamente las retribuciones que le correspondan en virtud del puesto que ocupe y, en su caso, el empleo que ostente, siendo de aplicación lo dispuesto en el Real Decreto 6/1995, de 13 de enero, por el que se regula el régimen de retribuciones de los funcionarios destinados en el extranjero.
+
+## Noveno.
+
+El personal que acuda a las zonas de operaciones no formando parte de la misión percibirá la indemnización por razón de servicio que le corresponda, de acuerdo con las previsiones del Real Decreto 462/2002, de 24 de mayo, no percibiendo por tanto la indemnización regulada para dicha operación.
+
+## Décimo.
+
+El personal que cause baja en la misión por cualquier motivo, incluido por lesión o enfermedad, dejará de percibir la indemnización en la fecha en que abandone la zona de operaciones.
+
+## Undécimo.
+
+Sin perjuicio de lo dispuesto en el apartado séptimo, la percepción de la indemnización regulada en esta Orden es incompatible con cualquier otra indemnización o retribución con cargo a los Presupuestos Generales del Estado distinta de las citadas en el apartado primero.
+
+## Disposición adicional primera.
+
+El personal de las Fuerzas y Cuerpos de Seguridad del Estado que en el momento de la entrada en vigor de esta Orden se encuentre participando en estas misiones u operaciones, percibirá las indemnizaciones que para cada una de ellas se describe en el Anexo I.
+
+## Disposición adicional segunda.
+
+El personal del Cuerpo de la Guardia Civil que forme parte de contingentes militares desplazados al extranjero percibirá esta indemnización con cargo a los créditos del Ministerio de Defensa específicamente aprobados para estas operaciones, aplicándose para su determinación las retribuciones básicas y complementarias reguladas en el Real Decreto 950/2005, de 29 de julio.
+
+Su aprobación corresponderá al Ministro de Defensa, conforme al artículo 18 del Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por Real Decreto 1314/2005, de 4 de noviembre.
+
+## Disposición final primera.
+
+Se autoriza al Secretario de Estado de Seguridad y al Director General de la Policía y de la Guardia Civil para dictar, en el ámbito de sus competencias, las instrucciones necesarias para la aplicación de esta Orden.
+
+## Disposición final segunda.
+
+Las indemnizaciones recogidas en esta orden se aplicarán desde la fecha que se indica para cada misión:
+
+– Congo: 25 de enero de 2007.
+
+– Sierra Leona: 31 de enero de 2007.
+
+– Mauritania: 1 de mayo de 2006.
+
+– Senegal: 1 de agosto de 2006.
+
+– Cabo Verde: 1 de junio de 2007.
+
+– Gambia: 1 de enero de 2008.
+
+– Guatemala: 25 de marzo de 2008.
+
+– Líbano: 2 de septiembre de 2008.
+
+– Georgia: 25 de septiembre de 2008.
+
+– Costa de Marfil: 14 de septiembre de 2008.
+
+– Guinea-Bisáu: 2 de noviembre de 2008.
+
+– Mali: 15 de octubre de 2011.
+
+– Níger: 1 de enero de 2012.
+
+– Libia: 15 de enero de 2012.
+
+– Irak: 7 de marzo de 2012.
+
+– Yibuti: 1 de junio de 2014.
+
+– Kenia: 1 de junio de 2014.
+
+– Somalia: 1 de junio de 2014.
+
+– Seychelles: 1 de junio de 2014.
+
+– Tanzania: 1 de junio de 2014.
+
+– Liberia: 6 de julio de 2014.
+
+– Ucrania: 1 de diciembre de 2022.
+
+– República Centroafricana: 25 de octubre de 2015.
+
+– Colombia: 18 de noviembre de 2016.
+
+– Grecia: 1 de enero de 2018.
+
+– Bulgaria: 1 de enero de 2018.
+
+– Hungría: 1 de enero de 2018.
+
+– Italia: 1 de enero de 2018.
+
+– Croacia: 1 de enero de 2018.
+
+– Rumania: 1 de enero de 2018.
+
+– Guinea Conakry: 1 de octubre de 2019.
+
+– Estados Unidos: 1 de abril de 2025.
+
+– El Salvador: 1 de abril de 2025.
+
+– Jamaica: 1 de abril de 2025.
+
+– Moldavia: 1 de abril de 2025.
+
+– Ghana: 1 de abril de 2025.
+
+– Togo: 1 de abril de 2025.
+
+– Benín: 1 de abril de 2025.
+
+– Marruecos: 1 de abril de 2025.
+
+– Países Bajos: 1 de abril de 2025.
+
+– Polonia: 1 de abril de 2025.
+
+– Eslovaquia: 1 de abril de 2025.
+
+– Finlandia: 1 de abril de 2025.
+
+– Lituania: 1 de abril de 2025.
+
+– Francia: 1 de abril de 2025.
+
+– Alemania: 1 de abril de 2025.
+
+– Portugal: 1 de abril de 2025.
+
+> Se modifica por el art. único.1 de la Orden INT/661/2025, de 23 de junio. [Ref. BOE-A-2025-12963](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12963)
+
+> Se modifica por el art. único.1 de la Orden INT/62/2023, de 25 de enero. [Ref. BOE-A-2023-2158](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2158)
+
+> Se modifica por el art. único.1 de la Orden INT/300/2019, de 11 de marzo. [Ref. BOE-A-2019-3859](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3859)
+
+> Se modifica por el art. único.1 de la Orden INT/913/2018, de 31 de julio. [Ref. BOE-A-2018-12190](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12190)
+
+> Se modifica por el apartado único.1 de la Orden INT/110/2017, de 7 de febrero. [Ref. BOE-A-2017-1408](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1408).
+
+> Se modifica por el apartado único.1 de la Orden INT/203/2016, de 17 de febrero. [Ref. BOE-A-2016-1838](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1838).
+
+> Se modifica por el apartado único.1 de la rden INT/577/2015, de 24 de marzo. [Ref. BOE-A-2015-3652](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3652).
+
+> Se modifica por el apartado único.1 de la Orden INT/995/2012, de 27 de abril. [Ref. BOE-A-2012-6367](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-6367).
+
+> Se modifica por el apartado único.1 de la Orden INT/537/2009, de 2 de marzo. [Ref. BOE-A-2009-3904](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3904).
+
+## Disposición final tercera.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 11 de mayo de 2007.—El Ministro del Interior, Alfredo Pérez Rubalcaba.
+
+## ANEXO I
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Misión</p>
+</td>
+<td>
+<p>Porcentaje del complemento de productividad</p>
+</td>
+<td>
+<p>Porcentaje de indemnización por residencia</p>
+</td>
+<td>
+<p>Porcentaje de sueldo, C. de destino y Comp. Gral. del C. específico</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Bosnia-Herzegovina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta según RD 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta según RD 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Servia y Montenegro, Macedonia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>65 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Haití</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta según RD 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta según RD 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Timor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>65 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Afganistán</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>65 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Sudán</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>65 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta del resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Israel (Misión UE policía Palestina)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>65 % de la dieta según RD 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta según RD 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Congo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R. D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R. D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Sierra Leona</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Mauritania</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Senegal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Cabo Verde</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Gambia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Líbano</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R. D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R. D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Georgia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Guatemala</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Costa de Marfil</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta según R. D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta según</p>
+<p>R. D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Guinea Bissau</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Mali</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Níger</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta de resto del mundo, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Libia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Irak</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002 de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Yibuti</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R. D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R. D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Kenia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Somalia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Seychelles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Tanzania</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Liberia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Ucrania</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>100 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>República Centroafricana</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Colombia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Grecia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Bulgaria</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Hungría</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Italia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Croacia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Rumania</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Guinea Conakry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>55 %</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</p>
+</td>
+<td>
+<p>100 %</p>
+</td>
+<td>
+<p>80 % de la dieta, según R.D. 462/2002.</p>
+</td>
+<td>
+<p>80 %</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">Estados Unidos</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Jamaica</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">El Salvador</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Moldavia</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Ghana</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Togo</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Benín</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Marruecos</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Países Bajos</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Polonia</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Eslovaquia</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Finlandia</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Lituania</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Francia</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Alemania</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+<tr>
+<td colspan="4">Portugal</td>
+</tr>
+<tr>
+<td>Personal que percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>80 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>55 %</td>
+</tr>
+<tr>
+<td>Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales.</td>
+<td>100 %</td>
+<td>80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo.</td>
+<td>80 %</td>
+</tr>
+</tbody>
+</table>
+
+> Se modifica por el art. único.2 de la Orden INT/661/2025, de 23 de junio. [Ref. BOE-A-2025-12963](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-12963)
+
+> Se modifica la misión de Ucrania por el art. único.2 de la Orden INT/62/2023, de 25 de enero. [Ref. BOE-A-2023-2158](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2158)
+
+> Se modifica por el art. único.2 de la Orden INT/300/2019, de 11 de marzo. [Ref. BOE-A-2019-3859](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3859)
+
+> Se modifica por el art. único.2 de la Orden INT/913/2018, de 31 de julio. [Ref. BOE-A-2018-12190](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-12190)
+
+> Se modifica por el apartado único.2 de la Orden INT/110/2017, de 7 de febrero. [Ref. BOE-A-2017-1408](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-1408).
+
+> Se modifica por el apartado único.2 de la Orden INT/203/2016, de 17 de febrero. [Ref. BOE-A-2016-1838](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1838).
+
+> Se modifica por el apartado único.2 de la Orden INT/577/2015, de 24 de marzo. [Ref. BOE-A-2015-3652](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3652).
+
+> Se modifica por el apartado único.2 de la Orden INT/995/2012, de 27 de abril. [Ref. BOE-A-2012-6367](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-6367).
+
+> Se modifica por el apartado único.2 de la Orden INT/537/2009, de 2 de marzo. [Ref. BOE-A-2009-3904](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3904)

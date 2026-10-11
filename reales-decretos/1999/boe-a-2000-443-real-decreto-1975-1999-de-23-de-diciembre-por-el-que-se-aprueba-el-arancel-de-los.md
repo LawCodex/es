@@ -1,0 +1,56 @@
+---
+title: "Real Decreto 1975/1999, de 23 de diciembre, por el que se aprueba el arancel de los registradores de condiciones generales de la contratación"
+identifier: "BOE-A-2000-443"
+eli: "https://www.boe.es/eli/es/rd/1999/12/23/1975"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-12-23
+published: 2000-01-11
+in_force_from: 2000-02-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 9"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-443"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1975/1999, de 23 de diciembre, por el que se aprueba el arancel de los registradores de condiciones generales de la contratación
+
+La Ley 7/1998, de 13 de abril, ha creado, en su artículo 11, el Registro de Condiciones Generales de la Contratación, cuya organización, según el apartado primero del citado artículo, «se ajustará a las normas que se dicten reglamentariamente».
+
+La aprobación del Reglamento del Registro de Condiciones Generales de la Contratación, exige la fijación de los honorarios que deban percibir los registradores titulares del mismo.
+
+En su determinación se ha seguido el criterio establecido en la disposición adicional tercera, apartado 2, de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos, esto es, a un nivel que permita la cobertura de los gastos de funcionamiento y conservación del Registro. Dentro de este criterio se ha buscado, además, el menor coste posible para el ciudadano, y por ello se ha integrado el Registro como una Sección del Registro de Bienes Muebles.
+
+La misma disposición adicional, en su apartado 5, exige que los aranceles se aprueben por el Gobierno mediante Real Decreto, a propuesta conjunta de Ministerio de Economía y Hacienda y del Ministerio de Justicia.
+
+En su virtud, a propuesta conjunta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y de la Ministra de Justicia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de diciembre de 1999,
+
+DISPONGO:
+
+## Artículo único. Honorarios de los registradores de condiciones generales de la contratación.
+
+1\. El asiento de presentación en el Registro de Condiciones Generales de la Contratación devengará 0,6 euros (100 pesetas).
+
+2\. Por cada asiento que se practique en el Registro de Condiciones Generales de la Contratación y en el Registro Central, se devengarán 2,4 euros (400 pesetas), debiendo sufragarlos el predisponente o, en su caso, el presentante.
+
+3\. Por cada certificación se devengarán 6 euros (998,32 pesetas) ; por cada nota simple, 3 euros (499,16 pesetas), y por la publicidad instrumental, 1,5 euros (249,58 pesetas). En estos tres casos, los honorarios los abonará el solicitante de la publicidad formal o instrumental y serán los mismos si la publicidad se solicita y obtiene por medios telemáticos.
+
+4\. Los dictámenes de conciliación y demás dictámenes expedidos por el registrador de condiciones generales de la contratación devengarán 43,27 euros (7.200 pesetas), que serán satisfechas por mitad por las partes, salvo en los casos en los que una de ellas actúe en representación de los intereses colectivos y de consumidores y usuarios, en cuyo caso los sufragará íntegramente el predisponente.
+
+## Disposición final única. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor cuando entre en funcionamiento el Registro de Bienes Muebles<sup>(*)</sup>.
+
+(*) Véase la disposición final 2ª del Real Decreto 1828/1999, de 3 de diciembre. [Ref. BOE-A-1999-24356](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-24356).
+
+Dado en Madrid a 23 de diciembre de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

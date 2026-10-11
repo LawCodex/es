@@ -1,0 +1,76 @@
+---
+title: "Orden 376/2000, de 20 de diciembre, por la que se dictan normas sobre los sacerdotes y religiosos colaboradores del Servicio de Asistencia Religiosa en las Fuerzas Armadas"
+identifier: "BOE-A-2001-333"
+eli: "https://www.boe.es/eli/es/o/2000/12/20/376"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2000-12-20
+published: 2001-01-04
+in_force_from: 2001-01-05
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 4"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-333"
+retrieved: 2026-10-11
+---
+
+# Orden 376/2000, de 20 de diciembre, por la que se dictan normas sobre los sacerdotes y religiosos colaboradores del Servicio de Asistencia Religiosa en las Fuerzas Armadas
+
+La disposición adicional primera del Real Decreto 1145/1990, de 7 de septiembre, por el que se crea el Servicio de Asistencia Religiosa en las Fuerzas Armadas y se dictan normas sobre su funcionamiento, prevé que el Arzobispo Castrense podrá designar sacerdotes y religiosos que colaboren a tiempo parcial y con carácter de complementariedad, con el personal adscrito al Arzobispado Castrense, en los términos previstos en el anexo I, artículo 6 del Acuerdo suscrito entre el Estado español y la Santa Sede el 3 de enero de 1979. Asimismo, dicha disposición adicional establece que estos sacerdotes y religiosos no serán, en ningún caso, miembros del Servicio de Asistencia Religiosa en las Fuerzas Armadas y, por tanto, no se les aplicarán los preceptos contenidos en el citado Real Decreto.
+
+Por su parte, el artículo 6 del anexo I del Acuerdo entre el Estado español y la Santa Sede de 3 de enero de 1979, prevé expresamente que: «Cuando lo estime conveniente para el servicio religioso pastoral, el Vicario Castrense se pondrá de acuerdo con los Obispos diocesanos y los Superiores mayores religiosos para designar un número adecuado de sacerdotes y religiosos que, sin dejar los oficios que tengan en sus diócesis o institutos, presten ayuda a los capellanes castrenses. Tales sacerdotes ejercerán su ministerio a las órdenes del Vicario General Castrense, del cual recibirán las facultades «ad nutum» y serán retribuidos a título de gratificación o estipendio ministerial».
+
+En la actualidad concurren motivos y circunstancias suficientes para que se considere adecuado hacer uso de esta forma de asistencia religiosa a los miembros de las Fuerzas Armadas, por lo que se hace necesario dictar unas normas generales sobre la figura de los sacerdotes y religiosos colaboradores que la hace posible, así como establecer los criterios que han de regir la financiación y la determinación de las gratificaciones o estipendios ministeriales que, en cada caso, correspondan.
+
+Por último, la disposición final primera del citado Real Decreto 1145/1990, dispone que los Ministros de Defensa, de Economía y Hacienda y de Trabajo y Seguridad Social dictarán, en el ámbito de sus competencias, las normas necesarias para el desarrollo del presente Real Decreto a propuesta, en su caso, del Arzobispo Castrense.
+
+En su virtud, dispongo:
+
+## Primero.
+
+Los sacerdotes y religiosos que, sin dejar los oficios que tengan en sus diócesis o institutos, presten ayuda al personal adscrito al Arzobispado Castrense a tiempo parcial y con carácter de complementariedad, se denominarán «sacerdotes colaboradores».
+
+## Segundo.
+
+Los sacerdotes colaboradores no serán, en ningún caso, miembros del Servicio de Asistencia Religiosa en las Fuerzas Armadas. No se les aplicarán las normas estatutarias específicas del personal adscrito a dicho Servicio, ni tendrán relaciones de carácter laboral con la Administración General del Estado, quedando adscritos al Arzobispado Castrense con vínculos exclusivamente canónicos y pastorales.
+
+## Tercero.
+
+El Arzobispo Castrense determinará las unidades, centros u organismos militares en las que se prestará esta forma de asistencia religiosa a sus miembros, supliendo la inexistencia de sacerdotes adscritos al Servicio de Asistencia Religiosa en las Fuerzas Armadas o sustituyéndolos en su ausencia o bien complementándolos, según se determine en cada caso.
+
+## Cuarto.
+
+El Arzobispo Castrense, previos los trámites oportunos con los Obispos diocesanos, con otros prelados con la potestad canónica correspondiente o con los Superiores mayores religiosos, designará a los sacerdotes o religiosos que, como sacerdotes colaboradores, ejercerán el ministerio que se les encomiende en el ámbito de las Fuerzas Armadas y bajo la dependencia del Arzobispo Castrense.
+
+## Quinto.
+
+Los sacerdotes colaboradores percibirán, a título de gratificación o estipendio ministerial, las cantidades que fije el Arzobispo Castrense con arreglo a los criterios generales a que se refiere el siguiente apartado.
+
+## Sexto.
+
+Para la determinación de las cuantías de las gratificaciones o estipendios ministeriales que, en cada caso correspondan, se tendrá en cuenta:
+
+a) Los cometidos que se encomienden y el tiempo asignado para realizarlos.
+
+b) Los gastos derivados del viaje, si lo hubiere, teniendo en cuenta la distancia a recorrer y el uso o no de medios propios para el desplazamiento.
+
+c) La disponibilidad para responder ante necesidades imprevistas o cuya atención no hubiera sido previamente convenida.
+
+## Séptimo.
+
+Por la Subsecretaría de Defensa se habilitarán los fondos económicos necesarios para sufragar las gratificaciones o estipendios ministeriales reconocidos por el Arzobispo Castrense.
+
+## Disposición final primera.
+
+Se autoriza al Subsecretario de Defensa a dictar cuantas disposiciones sean necesarias en desarrollo de la presente Orden.
+
+## Disposición final segunda.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 20 de diciembre de 2000.
+
+TRILLO-FIGUEROA Y MARTÍNEZ-CONDE

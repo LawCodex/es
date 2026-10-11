@@ -1,0 +1,527 @@
+---
+title: "Orden de 18 de noviembre de 1999 por la que se desarrolla el Real Decreto 390/1998, de 13 de marzo, que regula las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda"
+identifier: "BOE-A-1999-22494"
+eli: "https://www.boe.es/eli/es/o/1999/11/18/(4)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-11-18
+published: 1999-11-24
+in_force_from: 1999-11-25
+last_amended: 2022-10-05
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 281"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-22494"
+retrieved: 2026-10-11
+---
+
+# Orden de 18 de noviembre de 1999 por la que se desarrolla el Real Decreto 390/1998, de 13 de marzo, que regula las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda
+
+Téngase en cuenta que la presente Orden conserva su vigencia, en lo que no se oponga al Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970), según establece su disposición derogatoria única.2.
+
+El Real Decreto 390/1998, de 13 de marzo, por el que se regulan las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda, configura a éstas como servicios no integrados en las Delegaciones del Gobierno, desarrollando las disposiciones relativas a la regulación básica de las primeras y de sus titulares y las funciones de las Dependencias de Intervención y de las que ejercen funciones de Organismos Autónomos (Estadística).
+
+La presente Orden completa la estructura orgánica de las Delegaciones de Economía y Hacienda; en particular, desarrolla las funciones de las Dependencias Regionales respecto a las Unidades de ámbito inferior, así como las funciones y estructura de estas. En aras de una mayor racionalización de los recursos y de un más eficaz desempeño de las funciones encomendadas, la Secretaría General asume las funciones de Patrimonio del Estado.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y del Ministro de Administraciones Públicas, dispongo:
+
+> Se modifica por el art. único.1 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Artículo 1. Objeto.
+
+La presente Orden se dicta en desarrollo de lo previsto en el artículo 7.4 del Real Decreto 390/1998, de 13 de marzo, por el que se regulan las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda, con objeto de completar la regulación relativa a las distintas Dependencias que las integran.
+
+> Se modifica por el art. único.2 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Artículo 2. Adjunto al Delegado de Economía y Hacienda.
+
+1\. En las Delegaciones Especiales de Economía y Hacienda de Andalucía, Castilla y León y Cataluña, existirá un Delegado adjunto.
+
+2\. Los Delegados adjuntos ejercerán las funciones de asistencia, coordinación e impulso de la gestión, control del personal, administración e información interna de la Delegación, y las demás, incluidas las de representación, que les encomiende el Delegado de Economía y Hacienda.
+
+## Artículo 3. Suplencia y representación.
+
+1\. En los casos de ausencia, vacante o enfermedad, el Delegado especial de Economía y Hacienda será suplido por el funcionario que designe el Subsecretario de Economía y Hacienda. El Delegado especial designará en estos casos, al suplente de los Delegados de su ámbito territorial.
+
+2\. En tanto no se realice designación por el Subsecretario o el Delegado especial, la suplencia recaerá en el Delegado adjunto o, en su defecto, en el funcionario que designe el Delegado especial o el Delegado de Economía y Hacienda y a falta de esta designación, en el funcionario de mayor nivel administrativo y, dentro de éstos, en el de nombramiento más antiguo, siempre que ejerzan sus funciones en la ciudad donde radique la sede de la Delegación de Economía y Hacienda.
+
+3\. Los Jefes de Dependencia serán sustituidos en los casos de vacante, ausencia o enfermedad, de no disponerse otra cosa por la normativa específica, por el funcionario que a tal efecto haya designado el respectivo Delegado especial o Delegado de Economía y Hacienda.
+
+4\. En las localidades distintas de la sede principal, donde existan Unidades de la Delegación de Economía y Hacienda corresponderá al Jefe de la Dependencia que designe el Delegado especial o Delegado de Economía y Hacienda, ejercer la representación del mismo y la dirección inmediata del personal. De no existir Jefe de Dependencia, el Delegado designará a un funcionario adecuado para ejercer estas funciones.
+
+5\. No obstante lo dispuesto en los apartados anteriores, la sustitución del titular de la **Dirección Regional o Territorial de Comercio**, de la Dependencia de Intervención, de la Delegación del Instituto Nacional de Estadística y de la Gerencia o Subgerencia del Catastro recaerá en el funcionario que designe respectivamente el Secretario de Estado de Comercio, Turismo y de la Pequeña y Mediana Empresa, el Interventor general de la Administración del Estado, el Presidente del Instituto Nacional de Estadística y el Director general del Catastro. A falta de esta designación, el Delegado especial o Delegado de Economía y Hacienda designará al sustituto. En el caso de la Delegación del Instituto Nacional de Estadística, a falta de esta designación, la sustitución recaerá en el Estadístico técnico diplomado responsable del Padrón Municipal y del Censo Electoral, o en su defecto, en el Estadístico técnico diplomado más antiguo.
+
+> Se deroga la referencia a la "Dirección Regional o Territorial de Comercio" contenida en el apartado 5 por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554)
+
+## Artículo 4. Junta de Jefes.
+
+1\. En cada una de las Delegaciones de Economía y Hacienda, tengan o no el carácter de Especiales, se constituirá una Junta de Jefes, presidida por el Delegado de Economía y Hacienda, con funciones de asistencia y coordinación en el desarrollo de las actuaciones encomendadas a las mismas.
+
+2\. Serán Vocales de la misma, los Delegados adjuntos, los Jefes de todas las Dependencias de la Delegación, así como el Jefe de la Unidad Técnico-Facultativa, pudiendo asistir también a sus sesiones aquellos funcionarios que sean expresamente convocados por su Presidente.
+
+3\. La Secretaría de la Junta recaerá en el Jefe de la Dependencia de Secretaría General.
+
+4\. La Junta de Jefe/as se reunirá, cuando lo disponga la persona titular de la Delegación de Economía y Hacienda, ajustando su actuación a lo dispuesto en las normas contenidas en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se modifica el apartado 4 por el art. único.4 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Artículo 5. Dependencias Regionales.
+
+1\. Bajo la dependencia funcional de los Centros Directivos competentes, las Delegaciones Especiales de Economía y Hacienda estarán constituidas, por las siguientes Dependencias Regionales:
+
+a) Intervención Regional.
+
+b) Gerencia Regional del Catastro. No existirá en las Delegaciones Especiales del País Vasco y Navarra.
+
+Las Unidades Locales del Catastro en Gijón y Cartagena desempeñarán las funciones previstas en el apartado 12 de esta Orden.
+
+c) **(Derogada)**
+
+d) Secretaría General, que asumirá las competencias en materia de Patrimonio del Estado, de acuerdo con el artículo 7.1.c) del Real Decreto 390/1998, de 13 de marzo.
+
+2\. Las sedes de Cartagena y Gijón de las Delegaciones Especiales de Murcia y Asturias, mantendrán Dependencias de Intervención Territorial, Unidades Locales del Catastro y Secretaría General, integrando en esta última a las Unidades de Patrimonio del Estado.
+
+3\. Las Dependencias podrán mantener Unidades Locales en poblaciones distintas a las de su sede principal, que además de realizar las gestiones que les son propias, facilitarán los trámites relativos a las demás Dependencias.
+
+> Se deroga el apartado 1.c) por la disposición derogatoria única.1.c) del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)
+
+> Se modifican los apartados 1 y 2 y se deroga el apartado 4 por el art. único.5 a 7 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+> Se deroga el apartado 1.d) por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+> Se modifica el apartado 2 por el apartado 1 de la Orden PRE/912/2002, de 18 de abril. [Ref. BOE-A-2002-8029](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-8029).
+
+> Téngase en cuenta que el ámbito territorial establecido para la Subgerencia Territorial del Catastro de Gijón será de aplicación a la actual Gerencia Territorial del Catastro de Gijón, según establece el apartado 2 de dicha Orden.
+
+## Artículo 6. Funciones de las Dependencias Regionales.
+
+1\. Estas Dependencias ejercerán las siguientes funciones, bajo la autoridad del Delegado Especial y la dependencia funcional del correspondiente Centro Directivo:
+
+a) Supervisar, impulsar y coordinar las actuaciones de las unidades homónimas radicadas en sus respectivos territorios.
+
+b) Coordinar el ámbito regional de los programas de actuación y la provisión de los medios necesarios para el desarrollo de las actividades de las Unidades Territoriales y Locales y su control y presentación de resultados al Centro Directivo.
+
+c) Elaborar y proponer al Centro Directivo competente funcionalmente, planes y programas regionales de actuación y sus instrumentos de control.
+
+d) Proponer al Delegado especial las medidas que aseguren el cumplimiento de los programas e instrucciones de aplicación general.
+
+e) Asumir las competencias que son propias de las Dependencias Territoriales en el ámbito de la provincia o demarcación de su sede.
+
+f) Actuar como órgano de comunicación entre los servicios centrales y las Dependencias de su ámbito territorial.
+
+g) Participar en las tareas de formación y perfeccionamiento del personal de las respectivas Delegaciones Territoriales, dentro de los planes que al efecto se establezcan.
+
+h) Coordinar junto con la Dependencia de Intervención y los Centros Directivos implicados, el apartado de medios informáticos en su ámbito territorial.
+
+i) Cualquier otra función que, relacionada con su ámbito territorial, le encomienden los Centros Directivos de los que dependen funcionalmente.
+
+j) Realizar la colaboración y enlace con la respectiva Administración de la Comunidad Autónoma en funciones propias de la Dependencia, así como con las Administraciones Locales.
+
+2\. Las Dependencias Regionales de Secretaría General ejercerán, además, a través de la Unidad de Patrimonio del Estado, las siguientes funciones:
+
+a) Supervisar, impulsar, actualizar y conservar el Inventario General de Bienes y Derechos del Estado.
+
+b) Practicar cuantas acciones y gestiones sean pertinentes en la aprobación inicial, provisional y definitiva de los Planes Generales Municipales de Ordenación o Normas de Ordenación Complementarias y Subsidiarias de Planeamiento o en sus revisiones, en cuanto pudiera afectar a las condiciones de aprovechamiento de los bienes del Estado, con la asistencia de las Unidades Técnico-Facultativas de las Delegaciones Especiales.
+
+c) Efectuar estudios, informes y asesoramientos sobre las cuestiones de su competencia.
+
+d) Elaborar y proponer a la Dirección General del Patrimonio del Estado los planes y programas de actuación en materia de gestión, investigación y defensa del Patrimonio del Estado.
+
+e) Participar en las tareas de gestión y coordinación que le correspondan según la normativa reguladora de la gestión patrimonial de los Edificios Administrativos de Servicio Múltiple.
+
+Estas funciones serán ejercidas a través de las Unidades Regionales del Patrimonio del Estado.
+
+3\. Dentro de la Dependencia Regional de Secretaría General existirá una Unidad Regional de Coordinación con las Haciendas Territoriales, a la que corresponderá la dirección funcional de las Unidades de Coordinación con las Haciendas Territoriales de su ámbito espacial.
+
+4\. Las funciones de las Gerencias Regionales del Catastro se ejecutarán por las Unidades que se determinen en la oportuna relación de puestos de trabajo, correspondiendo a la persona titular de la Gerencia regional dictar los actos administrativos que sean necesarios para el ejercicio de las mismas.
+
+5\. En cada una de las Delegaciones Especiales de Economía y Hacienda, excepto en Navarra y País Vasco, existirá una Junta Técnica Territorial de Coordinación Inmobiliaria, como órgano técnico de coordinación de valores catastrales en el ámbito territorial de sus competencias.
+
+En el caso de las Ciudades de Ceuta y Melilla las funciones de las Juntas Técnicas Territoriales corresponderán a los respectivos Consejos Territoriales de la Propiedad Inmobiliaria, actuando como Ponente en estos casos el funcionario que designe el Director general del Catastro.
+
+6\. Corresponden a las Juntas Técnicas Territoriales de Coordinación Inmobiliaria las siguientes funciones:
+
+a) Coordinar la realización de estudios del mercado inmobiliario y sobre valoración por rendimientos, canalizando el intercambio de información sobre los mismos. Anualmente se elaborará un informe que será elevado a la respectiva Comisión Superior de Coordinación Inmobiliaria.
+
+b) Formular propuesta coordinada de valores relativa al ámbito de su competencia y elevarla a la Comisión Superior de Coordinación Inmobiliaria.
+
+c) Acordar la delimitación de áreas económicas homogéneas, asignando a cada una los módulos básicos de valoración, valores de referencia, banda de coeficientes y cualquier otro parámetro que corresponda de conformidad con los criterios marco fijados por la Comisión Superior de Coordinación Inmobiliaria, comunicándolo a efectos de su aplicación a las Gerencias y Subgerencias afectadas.
+
+d) Definir el campo de aplicación y autorizar la aplicación efectiva en las Ponencias de Valores de los coeficientes correctores, respecto de los que así lo prevea la normativa de valoración catastral.
+
+e) Verificar que las Ponencias de Valores remitidas por las Gerencias o Subgerencias se ajustan a los criterios de coordinación a los que se refiere el párrafo c) anterior.
+
+f) Proponer a la Comisión Superior de Coordinación Inmobiliaria el acuerdo por el que se resuelvan las discrepancias que se susciten en materia de coordinación de Ponencias de Valores, cuando las correcciones efectuadas no supongan, a juicio de la Junta, subsanación de las observaciones formuladas, conforme a lo previsto en el párrafo d) referente a las competencias del Ponente de la Junta Técnica Territorial.
+
+g) Cualesquiera otras actuaciones que les pueda encomendar la Dirección General del Catastro o las Comisiones Superiores de Coordinación Inmobiliaria.
+
+Compete al Ponente correspondiente de la Junta Técnica Territorial de Coordinación Inmobiliaria:
+
+a) Realizar estudios técnico-económicos para la aplicación coordinada de los valores de los bienes inmuebles.
+
+b) Elaborar las propuestas de delimitación de áreas económicas homogéneas para la coordinación de valores.
+
+c) Informar las Ponencias de Valores que deban someterse a la consideración de la Junta Técnica y extender en las mismas, de conformidad con lo acordado, la correspondiente diligencia de coordinación, remitiendo las Ponencias diligenciadas a las Gerencias o Subgerencias.
+
+d) Recabar de las Gerencias o Subgerencias la corrección de las Ponencias de Valores en los supuestos en que la Junta Técnica las considere no ajustadas a los criterios de coordinación.
+
+e) Asesorar a la Junta Técnica Territorial y desarrollar las actividades necesarias para la preparación de cuantos asuntos se sometan a la consideración de la misma.
+
+> Téngase en cuenta que los apartados 5 y 6 están derogados, salvo en lo que afecta a la renovación, sustitución y cese de los representantes de las entidades locales, por la disposición derogatoria única.g) del Real Decreto 417/2006, de 7 de abril. [Ref. BOE-A-2006-7264](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7264).
+
+> Se modifica el apartado 4 por el art. único.8 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+> Se derogan los apartados 7 a 9 por la disposición derogatoria única de la Orden EHA/2386/2007, de 26 de julio. [Ref. BOE-A-2007-14887](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14887).
+
+> Se derogan los apartados 5 a 8 salvo en lo que afecta a la renovación, sustitución y cese de los representantes de las entidades locales, por la disposición derogatoria única.g) del Real Decreto 417/2006, de 7 de abril. [Ref. BOE-A-2006-7264](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7264).
+
+## Artículo 7. Dependencia de Intervención Regional.
+
+1\. Las funciones de la Dependencia de Intervención Regional se realizarán mediante la Unidad de Fiscalización y la Unidad de Control Financiero y Auditoría, que podrá desdoblarse en una Unidad de Control Financiero Permanente de la Agencia Estatal de Administración Tributaria y Unidad de Control Financiero y Auditoría de Organismos y Entes Públicos. Cuando la Intervención Regional ejerza las funciones de contabilidad que corresponden a las Intervenciones Territoriales contará con una Unidad de Contabilidad y una Unidad de Informática Presupuestaria.
+
+2\. Sin perjuicio de los sistemas informáticos comunes dependientes de la Secretaría General, que se establezcan, las Intervenciones continuarán administrando los recursos informáticos asignados por la Intervención General de la Administración del Estado a las diversas Dependencias de las Delegaciones de Economía y Hacienda.
+
+## Artículo 8. Dirección Regional de Comercio.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+## Artículo 9. Unidad Técnico-Facultativa.
+
+En aquellas Delegaciones Especiales de Economía y Hacienda que no cuenten con Gerencia Regional del Catastro, existirá una Unidad Técnico-Facultativa, directamente dependiente de la persona titular de la Delegación Especial de Economía y Hacienda.
+
+La Unidad Técnico-Facultativa dependiente de la Delegación Especial de Economía y Hacienda en Navarra ejerce sus funciones también respecto del territorio de las Comunidades Autónomas del País Vasco y La Rioja.
+
+La Unidad Técnico-Facultativa ejercerá las siguientes funciones:
+
+a) Gestión técnico-facultativa relativa a bienes, proyectos, informes y valoraciones en el ámbito de las competencias propias de la Dirección General del Patrimonio del Estado, de la Secretaría General Técnica y de los Organismos Autónomos adscritos al Departamento, así como la redacción de proyectos y la dirección de las obras correspondientes.
+
+b) Asesoramiento a las Intervenciones en las comprobaciones materiales de inversiones y en el cumplimiento de los contratos, y actuaciones de control financiero y auditoría, cuando así sea requerido por la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen del control interno ejercido por la Intervención General de la Administración del Estado, o norma que le sustituya.
+
+c) Cooperación y asesoramiento a la Administración Tributaria, a requerimiento de su titular, a efectos de informes, selección de contribuyentes, estimación de bases y cualquier otro aspecto de la gestión para la liquidación y recaudación de los tributos.
+
+d) Asesoramiento permanente a las personas titulares de las Delegaciones de Economía y Hacienda en aquellas materias que se estimen oportunas y en especial en materia de contratación, ejecución de obras y arrendamiento de inmuebles y, en general, cualesquiera otras actuaciones de gestión patrimonial que así lo requieran.
+
+e) Asesoramiento e informe a los Jurados de Expropiación y otros órganos de la Administración, cuando fuera solicitado.
+
+f) En general, las que la legislación les atribuye en materia de gestión de los Edificios Administrativos de Servicio Múltiple.
+
+> Se modifica por el art. único.9 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Artículo 10. Dependencias de las Delegaciones de Economía y Hacienda.
+
+1\. Las Delegaciones de Economía y Hacienda ejercerán sus competencias a través de las siguientes Dependencias:
+
+a) Intervención Territorial.
+
+b) Gerencia Territorial del Catastro, excepto en Álava y Guipúzcoa.
+
+Las Unidades Locales del Catastro en Jerez de la Frontera y Vigo desempeñarán las funciones previstas en el artículo 12 de esta Orden.
+
+c) **(Derogada)**
+
+d) Secretaría General, que incluirá las competencias de Patrimonio del Estado.
+
+2\. Las sedes de Jerez de la Frontera y Vigo mantendrán Dependencias de Intervención Territorial, Unidades Locales del Catastro y Secretaría General, integrando en esta última a las Unidades de Patrimonio del Estado.
+
+3\. Las Dependencias podrán mantener Unidades Locales en poblaciones distintas a la de su sede principal, que además de realizar las gestiones que les son propias, facilitarán los trámites relativos a las demás Dependencias.
+
+4\. Las funciones de las Dependencias de Intervención y de la Delegación de Estadística, así como las de las demás Unidades dependientes funcionalmente de Organismos Autónomos se regulan en el correspondiente Real Decreto.
+
+> Téngase en cuenta que se derogan las disposiciones relativas al INE y a sus Delegaciones Provinciales contenidas en el apartado 1.c) y 4, según establece la disposición derogatoria única.1.c) del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)
+
+> Se modifican las letras b) y d) del apartado 1 y el apartado 2 por el art. único.10 y 11 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+> Se deroga el apartado 1.e) por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+## Artículo 11. Dependencia de Intervención Territorial.
+
+1\. Las funciones de la Dependencia de Intervención Territorial se realizarán mediante la Unidad de Fiscalización, la Unidad de Control Financiero y Auditoría, la Unidad de Contabilidad y la Unidad de Informática Presupuestaria. La Unidad de Control Financiero y Auditoría y la de Fiscalización podrán ser refundidas en una única Unidad.
+
+2\. Sin perjuicio de los sistemas informáticos comunes dependientes de la Secretaría General, que se establezcan, las Intervenciones continuarán administrando los recursos informáticos asignados por la Intervención General de la Administración del Estado a las diversas Dependencias de las Delegaciones de Economía y Hacienda.
+
+## Artículo 12. Gerencia Territorial del Catastro.
+
+1\. Las funciones a desarrollar por las Gerencias Territoriales del Catastro serán las siguientes:
+
+a) Formación, renovación, revisión, conservación y mantenimiento del Catastro Inmobiliario, así como de la documentación que lo integra.
+
+b) Inspección catastral en los términos de los artículos 19 a 21 del texto refundido de la Ley del Catastro Inmobiliario.
+
+c) El seguimiento e instrumentación de los procesos de colaboración con otras Administraciones Públicas en materia catastral.
+
+d) Elaboración de las Ponencias de Valores con sujeción a los criterios de coordinación fijados por las Juntas Técnicas de Coordinación Inmobiliaria y remisión de las mismas para su aprobación por la persona titular de la Dirección General del Catastro. Asimismo, la aprobación de las Ponencias Parciales, previo informe favorable de la Subdirección General de Valoración e Inspección de la Dirección General del Catastro.
+
+e) Asignación individualizada de valores catastrales y de valores de referencia, así como la certificación y emisión de informes.
+
+f) Gestión, mantenimiento y disponibilidad de las bases de datos catastrales y administración de los sistemas y medios informáticos de la Dependencia.
+
+g) Producción y mantenimiento de la cartografía catastral.
+
+h) Gestión de las Tasas por Regularización y Acreditación Catastral.
+
+i) Cooperación y asesoramiento a la Administración Tributaria, a requerimiento de su titular, a efectos de informes, selección de contribuyentes, estimación de bases y cualquier otro aspecto de la gestión para la liquidación y recaudación de los tributos.
+
+j) Asesoramiento a las Intervenciones en las comprobaciones materiales de inversiones y en el cumplimiento de los contratos, y actuaciones de control financiero y auditoría, cuando así sea requerido por la Intervención General de la Administración del Estado, de acuerdo con lo establecido en el Real Decreto 2188/1995, o en la norma que le sustituya.
+
+k) Gestión técnico-facultativa relativa a bienes, proyectos, informes y valoraciones en el ámbito de las competencias propias de la Dirección General del Patrimonio del Estado, de la Secretaría General Técnica y de los Organismos Autónomos adscritos al Departamento, así como la redacción de proyectos y la dirección de las obras correspondientes.
+
+l) Asesoramiento permanente a las personas titulares de las Delegaciones de Economía y Hacienda en aquellas materias que se estimen oportunas y en especial en materia de contratación, ejecución de obras y arrendamiento de inmuebles y, en general, cualesquiera otras actuaciones de gestión patrimonial que así lo requieran.
+
+m) Asesoramiento e informe a los Jurados de Expropiación y otros órganos de la Administración, cuando fuera solicitado.
+
+n) En general, las que la legislación les atribuye en materia de gestión de los Edificios Administrativos de Servicio Múltiple.
+
+2\. Las funciones catastrales se ejecutarán por las Unidades que se determinen en la oportuna relación de puestos de trabajo, correspondiendo a la persona titular de la Gerencia Territorial del Catastro, en su caso, dictar los actos administrativos que sean necesarios para el ejercicio de las mismas.
+
+3\. Asimismo, son funciones de la persona titular de la Gerencia las siguientes:
+
+a) Acordar el inicio de los expedientes sancionadores por infracción tributaria.
+
+b) Someter a la persona titular de la Delegación de Economía y Hacienda las propuestas de imposición de sanciones en los expedientes sancionadores por infracción tributaria, así como los expedientes de contratación relativos a trabajos catastrales.
+
+c) Impulsar los procedimientos de colaboración e intercambio de información con otras Administraciones o Unidades Administrativas, elevando al Presidente/a del Consejo Territorial de la Propiedad Inmobiliaria las propuestas que deban ser sometidas a dicho órgano colegiado.
+
+d) Custodiar el Catastro Inmobiliario, así como la documentación que lo integra.
+
+e) Elaborar los estudios, informes y propuestas destinados al cumplimiento de los planes y programas de objetivos y a la mejora de la calidad de los servicios públicos catastrales.
+
+f) Las demás funciones que en relación con sus competencias les sean atribuidas por el Centro Directivo o por la persona titular de la Delegación de Economía y Hacienda.
+
+> Se modifica por el art. único.12 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Artículo 13. Consejo Territorial de la Propiedad Inmobiliaria.
+
+1\. **(Derogado).**
+
+2\. Corresponderán a los Consejos Territoriales de la Propiedad Inmobiliaria las siguientes funciones:
+
+a) Informar los proyectos de convenios de colaboración u otras formas de cooperación con las Corporaciones Locales en materia catastral, conforme a lo dispuesto en la normativa específica y evaluar el resultado de su ejecución, efectuando las propuestas que procedan.
+
+b) Aprobar las Ponencias de Valores cuando la competencia le haya sido delegada por la Dirección General del Catastro.
+
+c) Informar, cuando así les sea requerido por el Presidente, las solicitudes de carácter genérico presentadas por las Administraciones Públicas relativas a información catastral.
+
+d) Conocer las adjudicaciones de contratos de trabajos catastrales.
+
+e) Colaborar con las distintas Administraciones Públicas representadas en el Consejo a efectos del cumplimiento de las obligaciones previstas en el capítulo IV, sección 4.<sup>a</sup> de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+f) Informar, con carácter previo a la liquidación que corresponda, las solicitudes de participación de las Corporaciones Locales en los ingresos provenientes de la tasa por inscripción catastral.
+
+g) Conocer los resultados de la gestión anual desarrollada por la Gerencia del Catastro, así como el grado de colaboración de las Corporaciones Locales en materia de suministro de información, según lo previsto en la normativa catastral.
+
+h) Elegir, mediante el voto exclusivo de los Vocales de las Corporaciones Locales, a los representantes de las mismas en la Junta Técnica Territorial de Coordinación Inmobiliaria, a cuyos efectos cada Vocal podrá votar a dos candidatos.
+
+i) Informar o conocer de cuantos asuntos sean sometidos a su consideración por el Presidente.
+
+3\. **(Derogado).**
+
+4\. Corresponderá al Gerente regional o territorial sustituir al Presidente del Consejo en caso de ausencia, vacante o enfermedad. En los Consejos Territoriales de Madrid-Capital y Barcelona-Ámbito Metropolitano dicha sustitución recaerá en el Concejal que designe su Presidente.
+
+5\. **(Derogado).**
+
+6\. **(Derogado).**
+
+7\. Actuará como Secretario, con voz y sin voto, un funcionario de la Gerencia designado por el Presidente.
+
+8\. El Presidente podrá invitar a las reuniones del Consejo Territorial de la Propiedad Inmobiliaria a cualquier persona o representante de las Administraciones Públicas cuando se traten asuntos que les afecten de forma singular o se considere conveniente su asesoramiento.
+
+9\. Para considerar válidamente constituido el Consejo Territorial de la Propiedad Inmobiliaria se requerirá la presencia del Presidente y del Secretario, o de quienes los sustituyan, y la de la mitad al menos de sus miembros.
+
+En segunda convocatoria podrán constituirse los Consejos treinta minutos después de la hora señalada para la primera, siendo suficiente en este caso, para su válida constitución, la asistencia de la tercera parte de sus miembros, entre los que habrá de figurar necesariamente el Presidente y el Secretario o quienes les sustituyan.
+
+Los acuerdos se adoptarán por mayoría de los miembros presentes, dirimiendo el Presidente con su voto los empates que pudieran producirse.
+
+10\. En el plazo de quince días desde la celebración del Consejo, el Presidente remitirá a la Dirección General del Catastro el acta o proyecto de acta de la sesión.
+
+11\. En todo lo no previsto expresamente en los párrafos anteriores en relación con el régimen de funcionamiento de los Consejos Territoriales, se estará a lo establecido en las normas contenidas en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre.
+
+> Se modifica el apartado 11 por el art. único.13 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+> Se derogan los apartados 1, 3, 5 y 6 por la disposición derogatoria única de la Orden EHA/2386/2007, de 26 de julio. [Ref. BOE-A-2007-14887](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-14887).
+
+> Se deroga con excepción de la determinación del ámbito de los Consejos Territoriales de la Propiedad Inmobiliaria de Madrid y Barcelona y de la regulación sobre la designación, elección, sustitución y renovación de los representantes de las entidades locales, por la disposición derogatoria única.g) del Real Decreto 417/2006, de 7 de abril. [Ref. BOE-A-2006-7264](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7264).
+
+> Téngase en cuenta que este artículo está derogado, salvo en lo que afecta a la determinación del ámbito de los Consejos Territoriales de la Propiedad Inmobiliaria de Madrid y Barcelona y de la regulación sobre la designación, elección, sustitución y renovación de los representantes de las entidades locales, por la disposición derogatoria única.g) del Real Decreto 417/2006, de 7 de abril. [Ref. BOE-A-2006-7264](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7264).
+
+## Artículo 14. Dirección Territorial de Comercio.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+## Artículo 15. Centro Regional del Instituto de Estudios Fiscales.
+
+**(Derogado)**
+
+> Se deroga por el art. único.14 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Artículo 16. Dependencia de Secretaría General.
+
+Las Dependencias de Secretaría General tendrán a su cargo las siguientes funciones:
+
+A) En materia de Tesoro y Caja General de Depósitos:
+
+a) Las de tramitación de propuestas de pago tanto presupuestarias como no presupuestarias, incluidas las devoluciones de ingresos no tributarios, que se deriven de obligaciones reconocidas por el Delegado de Economía y Hacienda en el ejercicio de las competencias que le atribuye esta Orden y otras disposiciones, para su posterior ordenación por la Dirección General del Tesoro y Política Financiera.
+
+b) Las de tramitación de la ordenación del pago, que por delegación del Director general del Tesoro y Política Financiera corresponda al Delegado de Economía y Hacienda.
+
+c) Las de gestión de la Caja Pagadora de Obligaciones del Estado, así como otros servicios que se les delegue de la gestión de la Tesorería del Estado. En particular, expedirán y entregarán los cheques correspondientes a su Caja Pagadora, expedirán las relaciones de transferencias a ejecutar por la correspondiente sucursal del Banco de España y someterán al acuerdo del Delegado de Economía y Hacienda la prescripción de obligaciones del Estado a satisfacer por su Caja Pagadora.
+
+d) Las relativas a la gestión recaudatoria de ingresos no tributarios en período voluntario, cuando la misma no se efectúe por la Dirección General del Tesoro y Política Financiera o cuando no haya una atribución expresa de competencias de gestión recaudatoria a favor de otros órganos de la Administración General del Estado, en el marco de lo dispuesto en el Reglamento General de Recaudación. En particular, efectuarán y remitirán a los interesados las liquidaciones de las deudas no tributarias cuya gestión les corresponda; tramitarán y propondrán al Delegado de Economía y Hacienda la resolución de los expedientes de aplazamiento y fraccionamiento del pago de las mencionadas deudas no tributarias y de los acuerdos de compensación de débitos y créditos, de oficio o a instancia del interesado, en el ámbito de su Caja Pagadora.
+
+e) La tramitación y propuesta de resolución de la admisión, cancelación y en su caso, incautación o prescripción de las diversas modalidades de garantías y de depósitos que se constituyan en las sucursales de la Caja General de Depósitos, según la normativa específica de la misma.
+
+En cuanto a la Delegación Especial de Economía y Hacienda de Madrid, quedan excluidas las funciones señaladas en las letras c), salvo pagos por operaciones no presupuestarias y devoluciones de ingresos y e), que están a cargo del Centro Directivo competente.
+
+Estas funciones se ejecutarán por la Unidad de Tesoro.
+
+B) En materias de la competencia de la Dirección General de Coordinación con las Haciendas Territoriales, tendrán a su cargo las que se les atribuyan por Resolución de este Centro Directivo, entre las siguientes:
+
+a) Actuar como órganos de relación y de información de las Comunidades Autónomas y Corporaciones Locales transmitiendo y recibiendo información sobre participación en los tributos del Estado y gestión de los tributos propios de estos Entes, sin perjuicio de lo establecido con la Ley 14/1996, de 30 de diciembre, de Cesión de Tributos del Estado a las Comunidades Autónomas y Medidas Fiscales Complementarias.
+
+b) Autorizar las operaciones de crédito de Entidades Locales o tramitar las solicitudes de competencia del Centro Directivo, cuando no hayan sido transferidas a la Comunidad Autónoma.
+
+c) Gestionar las estadísticas y archivo de copias legales de Presupuestos de Entidades Locales y de su liquidación.
+
+d) Gestionar el censo de Entidades Locales.
+
+e) Las competencias en materia de régimen presupuestario, tributario, económico y financiero de las Corporaciones Locales y, en su caso, de las Comunidades Autónomas.
+
+f) Las demás que correspondiendo al ámbito de la Dirección General de Coordinación con las Haciendas Territoriales les sean atribuidas por este Centro.
+
+Estas funciones serán coordinadas por la Unidad Regional de Coordinación con las Haciendas Territoriales.
+
+C) En materia de clases pasivas, otras pensiones públicas e indemnizaciones y ayudas que se paguen con cargo a los créditos de la Sección 07 del Presupuesto de Gastos del Estado, sin perjuicio de que dichas funciones puedan ser recabadas total o parcialmente por el Centro Directivo competente:
+
+a) Atención e información verbal y escrita al pensionista y demás interesados y expedición de los certificados que se soliciten en relación con las prestaciones que gestiona.
+
+b) Realización de los trámites inherentes al alta y baja en nómina y en particular, en los expedientes de traslado, acumulaciones, rehabilitaciones, haberes devengados, reintegros y cambio de procedimiento de cobro.
+
+c) Liquidación, revalorización e inclusión en nómina y el control de la misma manteniendo y actualizando la base de datos de la aplicación informática.
+
+d) Realización del control de la vivencia y de la aptitud legal y para el cobro de los pensionistas.
+
+e) Concesión y determinación de los complementos económicos a pensiones del régimen de clases pasivas.
+
+f) Evacuación de informes y realización de trámites que les sean requeridos o que sean preceptivos en algún procedimiento.
+
+g) Relaciones con otros órganos territoriales gestores del sistema de pensiones públicas.
+
+h) La resolución de los recursos de reposición previos a la vía económico-administrativa que se interpongan contra las resoluciones expresas o presuntas de las Delegaciones de Economía y Hacienda en materia de clases pasivas.
+
+Estas funciones se ejecutarán por la Unidad de Clases Pasivas.
+
+D) En materia de Patrimonio del Estado le corresponde dentro de los límites señalados en la normativa vigente:
+
+a) La tramitación y gestión de los expedientes de adquisición de bienes, autorizaciones y concesiones administrativas, afectaciones, desafectaciones, adscripciones, desadscripciones, mutaciones demaniales, permutas, cesiones gratuitas, arrendamientos, enajenaciones, explotación, reversiones y deslindes.
+
+b) La actualización y conservación del Inventario de Bienes y Derechos de Estado realizando las actuaciones de alta, baja y modificaciones que procedan respecto a los bienes inmuebles, patrimoniales y demaniales y derechos que lo integran.
+
+c) La investigación de bienes patrimoniales y demaniales a través de la identificación física y jurídica de los mismos. La vigilancia de la utilización de dichos bienes inmuebles. La investigación de bienes vacantes y de titular desconocido.
+
+d) Las actuaciones conducentes a la regularización registral de bienes del Estado, deslindes administrativos y de propuesta al Servicio Jurídico del Estado en defensa judicial.
+
+e) Emitir informes y propuestas en los expedientes de adjudicación de bienes al Estado.
+
+f) Iniciar, gestionar y proponer los expedientes de herencias de los que es titular el Estado y en particular la sucesión «ab intestato».
+
+g) Las que les correspondan conforme a la legislación de contratos de las Administraciones Públicas.
+
+Estas funciones se ejecutarán por la Unidad de Patrimonio del Estado, coordinada por la Unidad regional de Patrimonio del Estado.
+
+E) En materia de loterías y apuestas del Estado, tendrán las competencias de carácter administrativo, así como las de gestión, organización y control que establecen los correspondientes Reales Decretos.
+
+F) En materia de asuntos generales, tendrán a su cargo las funciones que corresponden a la Delegación en lo referente a:
+
+a) Gestión presupuestaria y de contratación.
+
+b) Apoyo al Delegado de Economía y Hacienda en la coordinación de los medios materiales y personales de las Unidades de Informática de la Delegación, sin perjuicio de las competencias en esta materia de las Intervenciones, Gerencias del Catastro, Delegaciones de Estadísticas y Direcciones de Comercio.
+
+c) Remisión a los órganos competentes de los documentos relativos a la gestión de altas y bajas, comisiones de servicio, licencias, asistencia social y hojas de servicio, así como conservación de ficheros y expedientes, y las tareas de carácter material relativas al cumplimiento de las normas sobre asistencia y horarios de trabajo y la habilitación de personal, sin perjuicio de las funciones relativas a la gestión del personal que le sean desconcentradas por los órganos centrales del Departamento.
+
+d) Intendencia de locales y material inventariable y no inventariable, subasta de material, rendición de las respectivas cuentas, archivo y biblioteca.
+
+e) Registro general de la Delegación.
+
+f) Archivos histórico y general de la Delegación.
+
+g) Reprografía y trabajos racionalizados de carácter repetitivo y masivo, cuando se establezca este servicio con carácter común.
+
+h) Toma de datos sobre precios a solicitud de la Dirección General de Comercio Interior, en aquellas Delegaciones donde no exista **Dirección Territorial de Comercio**.
+
+i) Colaboración en la tramitación de los documentos en materia de transacciones exteriores en aquellas sedes en las que no exista la **Dirección Territorial de Comercio**.
+
+j) Las de carácter sancionador que estén previstas en las correspondientes normas.
+
+k) Cualesquiera otras que correspondan a la Delegación y que no se encuentren expresamente atribuidas a otra Dependencia.
+
+> Se derogan las referencias a la "Dirección Territorial de Comercio" contenidas en las letras h) e i) del apartado F) por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554)
+
+## Disposición adicional única.
+
+La aplicación de esta Orden y su posterior desarrollo a través de la relación de puestos de trabajo no podrá generar en ningún caso incremento del gasto público.
+
+## Disposición transitoria primera.
+
+El personal adscrito a los Servicios Territoriales del Departamento y de sus Organismos Autónomos, incluidos los titulares de las Unidades afectadas por la reestructuración, seguirá percibiendo la totalidad de sus retribuciones con cargo a los créditos a que venían imputándose hasta que sean aprobadas las nuevas relaciones de puestos de trabajo y se proceda a efectuar las correspondientes modificaciones presupuestarias.
+
+## Disposición transitoria segunda.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única.g) por el Real Decreto 417/2006, de 7 de abril. [Ref. BOE-A-2006-7264](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-7264).
+
+## Disposición transitoria tercera.
+
+**(Derogada)**
+
+> Se deroga por el art. único.18 de la Orden PCM/1078/2021, de 5 de octubre de 2021. [Ref. BOE-A-2021-16236](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-16236)
+
+## Disposición derogatoria única.
+
+Quedan derogadas las siguientes disposiciones:
+
+Orden del Ministerio de Comercio y Turismo, de 16 de febrero de 1979, sobre instalación, categoría administrativa y estructura orgánica de los Centros de Inspección del SOIVRE.
+
+Orden del Ministerio de Hacienda, de 23 de mayo de 1980, de desarrollo del Real Decreto 489/1979, de 20 de febrero, de Reorganización de la Administración Territorial, en lo que se refiere a las funciones y Unidades integradas en las Delegaciones de Economía y Hacienda.
+
+Orden del Ministerio de Economía y Hacienda, de 6 de diciembre de 1983, por la que se determinan las Delegaciones Especiales de Hacienda, en lo que se refiere a las funciones y Unidades integradas en las Delegaciones de Economía y Hacienda.
+
+Orden del Ministerio de Economía y Hacienda, de 30 de julio de 1984, por la que se adscriben a los Delegados de Hacienda especiales determinado personal facultativo con destino en la Administración Territorial Tributaria, en lo que se refiere a las funciones y Unidades integradas en las Delegaciones de Economía y Hacienda.
+
+Orden del Ministerio de Economía y Hacienda, de 12 de agosto de 1985, por la que se reorganiza la Administración Territorial de la Hacienda Pública, en lo que se refiere a las funciones y Unidades integradas en las Delegaciones de Economía y Hacienda.
+
+Apartados cuarto y quinto de la Orden del Ministerio de Economía y Hacienda, de 20 de noviembre de 1987, de estructura de las Intervenciones Delegadas.
+
+Orden de 21 de septiembre de 1988 por la que se modifica la estructura de las Juntas Técnicas Territoriales y de las Comisiones Superiores de Coordinación Inmobiliaria, excepto los apartados cuarto y séptimo.
+
+Orden de 20 de diciembre de 1989 por la que se determina la composición y funcionamiento de determinados Órganos Territoriales del Centro de Gestión Catastral y Cooperación Tributaria.
+
+Orden de 21 de febrero de 1990 por la que se regulan las Gerencias Regionales del Centro de Gestión Catastral y Cooperación Tributaria.
+
+Orden de 7 de septiembre de 1992 por la que se modifica parcialmente la Orden de 20 de diciembre de 1989, por la que se determina la composición y funcionamiento de determinados Órganos Territoriales del Centro de Gestión Catastral y Cooperación Tributaria.
+
+Quedan derogadas asimismo las disposiciones de igual o inferior rango que se opongan a lo previsto en la presente Orden.
+
+## Disposición final primera.
+
+El Ministerio de Economía y Hacienda formulará la propuesta de modificación de las relaciones de puestos de trabajo de las Unidades y Organismos Autónomos que integran los Servicios Territoriales del Departamento para adaptarlas con la aprobación conjunta de los Ministerio de Economía y Hacienda y Administraciones Públicas, a la reorganización prevista en la presente Orden.
+
+## Disposición final segunda.
+
+Por el Ministerio de Economía y Hacienda se realizarán las modificaciones presupuestarias pertinentes en orden a la habilitación de los créditos necesarios para el cumplimiento de lo previsto en la anterior disposición.
+
+## Disposición final tercera.
+
+La presente Orden entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 18 de noviembre de 1999.
+
+ÁLVAREZ-CASCOS FERNÁNDEZ
+
+Excmo. Sr. Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y Excmo. Sr. Ministro de Administraciones Públicas.

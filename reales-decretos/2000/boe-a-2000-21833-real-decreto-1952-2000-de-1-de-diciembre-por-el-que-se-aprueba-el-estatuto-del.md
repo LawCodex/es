@@ -1,0 +1,459 @@
+---
+title: "Real Decreto 1952/2000, de 1 de diciembre, por el que se aprueba el Estatuto del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)"
+identifier: "BOE-A-2000-21833"
+eli: "https://www.boe.es/eli/es/rd/2000/12/01/1952"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2000-12-01
+published: 2000-12-02
+in_force_from: 2000-12-03
+last_amended: 2017-05-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 289"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-21833"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1952/2000, de 1 de diciembre, por el que se aprueba el Estatuto del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT)
+
+La Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, dispone, en el apartado segundo de su artículo 61, que el Gobierno a iniciativa de los Ministerios de adscripción respectivos y a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, aprobará los Estatutos de cada uno de los organismos públicos de investigación.
+
+El Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, en adelante CIEMAT, es un organismo público de investigación adscrito al Ministerio de Ciencia y Tecnología, de acuerdo con la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, que establece un marco común de organización y funcionamiento para los organismos públicos de investigación, fijando sus funciones y órganos de gobierno, al tiempo que introduce elementos para agilizar su gestión.
+
+El Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, dados sus antecedentes en materia de investigación energética y medioambiental y su realidad multidisciplinar, constituye una institución fundamental en la investigación y desarrollo en el ámbito de la energía, y realiza una esencial labor de aproximación entre la investigación más básica y la innovación industrial. Sus proyectos de investigación y desarrollo tecnológico y sus servicios técnicos están orientados a la consecución de resultados concretos y se desarrollan en estrecha colaboración tanto con los grupos de investigación más académicos como con las propias empresas en tanto que receptoras últimas de aquellos avances tecnológicos que permitan mejorar la competitividad empresarial con procesos productivos seguros y respetuosos con el medio ambiente. Asimismo, el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas realiza una labor de asesoramiento a las Administraciones y otras instituciones públicas en materia energética y medioambiental.
+
+De otra parte, la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, Administrativas y del orden social, en su artículo 61, establece que los organismos públicos de investigación a que se refiere el artículo 13 de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, adoptarán la configuración de Organismo autónomo, establecida en el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, con determinadas peculiaridades.
+
+En este contexto, el presente Real Decreto pretende delimitar las funciones que corresponden al Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, tanto en su calidad de organismo público de investigación como en su vocación de servicio a la industria española, estableciendo los mecanismos que aseguren la colaboración entre este organismo y los distintos foros, nacionales e internacionales.
+
+En consecuencia, se propone una estructura orgánica en la que se mantiene una clara diferenciación entre aquellas áreas cuya actividad se centra en el ámbito tecnológico y de investigación y aquellas otras que han de servir de soporte a éstas.
+
+Las primeras se disponen en departamentos que agrupan actividades técnicas e investigadoras afines, y que coordinan los proyectos de investigación que con entidad propia se desarrollan en su ámbito. Mientras que las segundas aseguran una adecuada gestión dentro del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, así como una regulación de los aspectos de organización y funcionamiento que permita la flexibilidad precisa para que el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas pueda dar respuesta, con la necesaria agilidad en materias técnicas y de recursos humanos y económicos, a los cambios derivados de la evolución científica y técnica y de las demandas de la sociedad.
+
+En su virtud, a iniciativa de la Ministra de Ciencia y Tecnología y a propuesta conjunta de los Ministros de Administraciones Públicas y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2000,
+
+### D I S P O N G O :
+
+#### Artículo único. Aprobación.
+
+Se aprueba el Estatuto del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT), cuyo texto articulado se inserta a continuación.
+
+#### Disposición adicional primera. Cambio de denominación de los órganos del CIEMAT.
+
+La Subdirección General de Control Económico y Servicios y el Departamento de Fusión y Partículas Elementales pasan a denominarse, respectivamente, Subdirección General de Gestión Económica, Administración y Servicios y Departamento de Fusión y Física de Partículas Elementales.
+
+> Téngase en cuenta que se suprime la Subdirección General de Gestión Económica, Administración y Servicio y el Departamento de Fusión y Física de Partículas Elementales por la disposición adicional 1.b) y e) del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+#### Disposición adicional segunda. Colaboración con el Ministerio de Economía.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+#### Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General, encuadrados en las unidades afectadas por el presente Real Decreto, continuarán subsistentes hasta que se modifique la correspondiente relación de puestos de trabajo, pasando a depender provisionalmente de las unidades que correspondan, de acuerdo con las funciones que se le atribuyen por el Estatuto. La modificación prevista de la relación de puestos de trabajo en ningún caso podrá suponer incremento de gasto público.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 221/1997, de 14 de febrero, de organización y funcionamiento de Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, modificado por la disposición adicional cuarta del Real Decreto 2100/1998, de 25 de septiembre, de estructura orgánica básica del Ministerio de Industria y Energía, y cuantas disposiciones de igual o inferior rango en lo que se opongan a lo establecido en el presente Real Decreto.
+
+#### Disposición final primera. Normas de desarrollo.
+
+El titular del Ministerio de Ciencia y Tecnología dictará las normas necesarias para el desarrollo y ejecución de lo dispuesto en el presente Real Decreto, sin perjuicio de las competencias que correspondan a otros Departamentos ministeriales.
+
+No obstante, y de acuerdo con la legislación vigente, las peculiaridades en materia de acceso, adscripción de puestos, carrera, promoción y régimen de movilidad del personal a las que se refiere el apartado uno.a) del artículo 61 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, se regularán mediante Real Decreto de Consejo de Ministros.
+
+#### Disposición final segunda. Modificaciones presupuestarias.
+
+Por el Ministerio de Hacienda se llevarán a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en el presente Real Decreto.
+
+#### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 1 de diciembre de 2000.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno<br> y Ministro de la Presidencia,
+
+MARIANO RAJOY BREY
+
+## ESTATUTO DEL CENTRO DE INVESTIGACIONES ENERGÉTICAS, MEDIOAMBIENTALES Y TECNOLÓGICAS (CIEMAT)
+
+## CAPÍTULO I — Naturaleza y funciones
+
+#### Artículo 1. Naturaleza jurídica, adscripción, fines y denominación.
+
+1\. El Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (en adelante, CIEMAT) es un Organismo público de investigación, con el carácter de organismo autónomo, de acuerdo con lo previsto en el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscrito al Ministerio de Ciencia e Innovación a través de la Secretaría de Estado de Investigación.
+
+2\. El CIEMAT tiene por finalidad la promoción y desarrollo de actividades de investigación básica, investigación aplicada, innovación y desarrollo tecnológicos, con especial atención al ámbito energético y medioambiental, contribuyendo al desarrollo de procesos industriales más eficientes, con las restricciones inherentes a la preservación de la salud humana y a la conservación del medio ambiente.
+
+3\. Corresponde al Ministerio de Ciencia e Innovación, a través de la Secretaría de Estado de Investigación, la dirección estratégica, la evaluación y el control de los resultados de la actividad del CIEMAT, sin perjuicio de las competencias atribuidas a la Intervención General de la Administración del Estado, en cuanto a la evaluación y control de resultados de los organismos públicos integrantes del sector público estatal.
+
+4\. El CIEMAT tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad jurídica y de obrar, y dentro de su esfera de competencia, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos establecidos en este Estatuto, salvo la potestad expropiatoria.
+
+5\. La denominación de la entidad es Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas, O.A., M.P.
+
+> Se modifica la rúbrica y se añade el apartado 5 por la disposición final 2.6 del Real Decreto 531/2017, de 26 de mayo. [Ref. BOE-A-2017-5859](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-5859)
+
+> Se modifican los apartados 1 y 3 por el art. 4.1 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+#### Artículo 2. Régimen jurídico.
+
+El CIEMAT se rige por las disposiciones contenidas en la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica; por la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado; por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; por el texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre; por el Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el texto refundido de la Ley de Contratos de las Administraciones Públicas; por el texto articulado de la Ley de Patrimonio del Estado, aprobado por Decreto 1022/1964, de 15 de abril; por el artículo 61 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, por el presente Estatuto y, en general, por las normas que desarrollan las disposiciones citadas y por aquellas otras que resulten de aplicación.
+
+#### Artículo 3. Funciones.
+
+1\. Son funciones del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) las siguientes:
+
+a) El desarrollo de la política de I+D, dentro del ámbito de sus competencias, de acuerdo con las directrices de la Secretaría de Estado de Investigación.
+
+b) La gestión y ejecución de programas de I+D en materia energética que se acuerden conjuntamente con empresas u otras instituciones públicas o privadas, nacionales o extranjeras.
+
+c) La gestión y ejecución de programas de I+D cooperativos acordados con asociaciones de empresas u otras organizaciones de carácter privado.
+
+d) La participación y colaboración, en coordinación con la Secretaría de Estado de Investigación, con los Ministerios de Asuntos Exteriores y de Cooperación y de Economía y Hacienda, en organismos y programas internacionales cuya actividad se vincule a la investigación y desarrollo en materia energética y medioambiental, en especial, en el ámbito de la Unión Europea.
+
+e) La colaboración con las Comunidades Autónomas para el desarrollo de programas de I+D, asesorando y apoyando sus actividades, así como fomentando la existencia de canales de información adecuados o la creación de centros mixtos.
+
+f) La prestación de apoyo técnico, realización de servicios y emisión de certificaciones de las medidas, ensayos y calibraciones que se realicen en sus laboratorios, cuando les sean solicitados y en las condiciones que, en cada caso, se establezcan.
+
+g) La patente de resultados, la firma de acuerdos de transferencia de tecnología y la realización de actividades de difusión y formación relacionadas con sus trabajos.
+
+h) Coordinar y cooperar en los programas de investigación internacionales, a través de la Secretaría de Estado de Investigación, sin perjuicio de las competencias atribuidas al Ministerio de Asuntos Exteriores y de Cooperación.
+
+2\. Para el cumplimiento de las funciones enumeradas en el apartado anterior, el CIEMAT podrá llevar a cabo las siguientes actividades:
+
+a) Impulsar la creación, mantenimiento, organización y, en su caso, supresión de unidades de investigación y desarrollo propias, dotándolas, según corresponda, del personal y los medios necesarios para el cumplimiento de sus fines, todo ello dentro de los límites presupuestarios, de disponibilidad de recursos humanos y de conformidad con la normativa general de creación de órganos y unidades administrativas.
+
+b) Participar en la creación y mantenimiento de unidades de investigación y desarrollo de carácter mixto o de otro tipo, mediante convenio, con universidades u otras instituciones, dando cuenta a la Secretaría de Estado de Investigación y al Consejo General para la Ciencia y la Tecnología en los casos preceptuados por la normativa vigente.
+
+c) Otorgar, mediante convenio, el carácter de asociadas a unidades de investigación y desarrollo pertenecientes a instituciones públicas o privadas.
+
+d) Desarrollar, en el marco del régimen jurídico del personal al servicio de las Administraciones Públicas, la política relativa al personal propio del organismo y encargado de realizar las tareas de investigación y otras funciones de apoyo, así como evaluar la actividad desarrollada por el personal del organismo, sus departamentos y unidades.
+
+e) Contribuir, mediante el otorgamiento o la concesión de becas o la organización de cursos especializados, a la formación del personal de investigación y de apoyo de la Institución, así como de otros profesionales, para adecuar sus capacidades a los requerimientos del avance de la ciencia y la tecnología.
+
+f) Facilitar el intercambio de personal propio entre las distintas unidades de investigación y desarrollo del organismo y otras instituciones, tanto nacionales como de otros países.
+
+g) Servir de soporte a las grandes instalaciones científicas y tecnológicas y a los laboratorios que por su complejidad deban ser de utilización estatal o suprainstitucional.
+
+h) Colaborar con organismos públicos y privados, tanto nacionales como internacionales, para la realización de proyectos de investigación y otras actividades de carácter científico y tecnológico.
+
+i) Establecer mecanismos de transferencia de los resultados de su actividad investigadora, sin perjuicio de las competencias de la Secretaría de Estado de Investigación. A tal fin colaborará con las instituciones y organismos competentes de la Administración del Estado y de las Comunidades Autónomas, integrando en lo posible sus proyectos en el Plan Nacional de Investigación Científica, Desarrollo e Innovación Tecnológica.
+
+j) Proponer la creación o participación en sociedades mercantiles, de acuerdo con lo establecido en el artículo 19 de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, y suscribir contratos con las empresas interesadas en la adquisición de los resultados generados por sus grupos de investigación, potenciando la creación de unidades competentes para la gestión de la transferencia y valoración de la tecnología.
+
+k) Facilitar la difusión de los resultados de la investigación propia mediante la edición de publicaciones y la organización de jornadas, congresos y reuniones científicas de carácter nacional e internacional.
+
+l) Cualquier otra que contribuya al cumplimiento de los fines y las funciones del organismo.
+
+m) El CIEMAT tiene la condición de medio propio y servicio técnico de la Administración General del Estado, pudiendo asumir encomiendas de gestión para la realización de actos de gestión relativos a programas de ayudas o actuaciones referidas a la promoción de la investigación, el desarrollo tecnológico y la innovación, por parte de los departamentos ministeriales con competencias en la materia.
+
+Las encomiendas de gestión serán de ejecución obligatoria para el CIEMAT, se retribuirán mediante tarifas sujetas al régimen previsto en el párrafo siguiente, y llevarán aparejada la potestad para el órgano que confiere el encargo de dictar las instrucciones necesarias para su ejecución.
+
+La tarifa o la retribución de la encomienda deberán cubrir el valor de las prestaciones encargadas, teniendo en cuenta para su cálculo los costes directos y los indirectos, y márgenes razonables, acordes con el importe de aquellas prestaciones, para atender desviaciones e imprevistos.
+
+La cuantía de la tarifa o la retribución será fijada por el titular del Ministerio de Ciencia e Innovación.
+
+El CIEMAT actuando con el carácter de medio propio y servicio técnico de la Administración General del Estado no podrá participar en licitaciones públicas convocadas por los poderes adjudicadores pertenecientes a la misma, sin perjuicio de que, cuando no concurra ningún licitador, pueda encargársele la ejecución de la prestación objeto de las mismas.
+
+> Se modifican las letras a), d) y h) del apartado 1 y b), h) e i) del apartado 2 por el art. 4.2 y 3 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se añade la letra m) al apartado 2 por el art. 3 del Real Decreto 246/2009, de 27 de febrero. [Ref. BOE-A-2009-3984](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-3984).
+
+## CAPÍTULO II — Órganos de gobierno
+
+#### Artículo 4. Órganos de gobierno.
+
+1\. Los órganos de gobierno del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) son los siguientes:
+
+1.º Órganos colegiados:
+
+a) El Consejo Rector.
+
+b) El Comité de Dirección.
+
+2.º Órganos unipersonales:
+
+a) El Presidente.
+
+b) El Director general.
+
+2\. El Consejo Rector y el Comité de Dirección se regirán por lo dispuesto en el presente Estatuto y por lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el capítulo IV, título II, de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+> Se modifica el apartado 1 por el art. 4.4 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+#### Artículo 5. El Consejo Rector.
+
+1\. El Consejo Rector estará integrado por:
+
+a) El Presidente, que será el titular de la Secretaría de Estado de Investigación, Desarrollo e Innovación.
+
+b) El Vicepresidente, que será el titular de la Dirección General del CIEMAT.
+
+c) Los Vocales.
+
+2\. Serán Vocales del Consejo Rector:
+
+a) Dos representantes del Ministerio de Economía y Competitividad, con rango mínimo de Director General, propuestos por el titular de la Secretaría de Estado de Investigación, Desarrollo e Innovación.
+
+b) Un representante del Ministerio de la Presidencia, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+c) Un representante del Ministerio de Hacienda y Administraciones Públicas, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+d) Un representante del Ministerio de Industria, Energía y Turismo, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+e) Un representante del Ministerio de Agricultura, Alimentación y Medio Ambiente, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+f) Un representante del Ministerio de Sanidad, Servicios Sociales e Igualdad, con rango mínimo de Director General, propuesto por el titular del Departamento.
+
+g) Un representante del Consejo de Seguridad Nuclear, propuesto por su Presidente.
+
+h) Dos representantes de instituciones, de centros de I+D privados o de empresas energéticas que tengan relación con las actividades de I+D del CIEMAT, propuestos por el titular de la presidencia del CIEMAT. La duración de su mandato será de cuatro años.
+
+3\. Los Vocales serán nombrados por el titular del Ministerio de Economía y Competitividad.
+
+4\. La designación de los Vocales se ajustará a la normativa vigente garantizando su idoneidad profesional y una composición equilibrada entre mujeres y hombres.
+
+5\. Actuará como Secretario del Consejo Rector el titular de la Subdirección General de Relaciones Institucionales y Transferencia del Conocimiento del CIEMAT, que asistirá a las reuniones con voz pero sin voto.
+
+> Se modifica por el art. 3 del Real Decreto 622/2014, de 18 de julio. [Ref. BOE-A-2014-8446](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8446).
+
+> Se modifica por el art. 4.5 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se modifica por el art. único.1 del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+#### Artículo 6. Funciones del Consejo Rector.
+
+1\. Las funciones del Consejo Rector serán las siguientes:
+
+a) Establecer las líneas de actuación del organismo, de acuerdo con las directrices de la política científica y tecnológica nacional.
+
+b) Aprobar el anteproyecto de presupuestos del organismo e informar anualmente las líneas básicas de su elaboración.
+
+c) Aprobar la Memoria anual del organismo.
+
+d) Conocer de las actividades de las unidades de carácter científico-técnico.
+
+e) Tener conocimiento y realizar el seguimiento de la evaluación de los proyectos del centro.
+
+f) Cualesquiera otras funciones que expresamente le sean atribuidas por el titular del Ministerio de Ciencia e Innovación o por el Presidente del CIEMAT.
+
+2\. El Consejo Rector, convocado por su Presidente, se reunirá, al menos, una vez al año, en sesión ordinaria o en reuniones extraordinarias, por iniciativa del mismo Presidente o a petición de la tercera parte de los Consejeros.
+
+> Se modifica la letra f) del apartado 1 por el art. 4.6 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+#### Artículo 7. El Comité de Dirección.
+
+1\. El Comité de Dirección estará integrado por los siguientes miembros:
+
+a) El titular de la Dirección General del CIEMAT, que ejercerá de Presidente.
+
+b) El titular de la Subdirección General de Relaciones Institucionales y Transferencia del Conocimiento del CIEMAT, que actuará como Secretario del Comité.
+
+c) Los restantes subdirectores generales del organismo, que actuarán como vocales.
+
+2\. Corresponde al Comité de Dirección desarrollar las directrices establecidas por el Consejo Rector, velar por su cumplimiento y, en general, colaborar con el Director General en la coordinación y administración del organismo.
+
+> Se modifica por el art. 4.7 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se modifica por el art. único.2 del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+#### Artículo 8. El Presidente.
+
+1\. La presidencia del CIEMAT corresponde al titular de la Secretaría de Estado de Investigación.
+
+2\. Son funciones del Presidente la representación institucional del organismo, la presidencia de su Consejo Rector; la firma de contratos y convenios que supongan compromisos económicos para el CIEMAT superiores a 5.000.000 euros, previa autorización del titular del Ministerio de Ciencia e Innovación en el caso de contratos sometidos a la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público y hasta el límite que éste establezca, de acuerdo con su artículo 292.5; la aprobación de los gastos del organismo de cuantía superior a 5.000.000 euros; y la rendición de cuentas del organismo.
+
+> Se modifica por el art. 4.8 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se modifica por el art. único.2 del Real Decreto 1086/2005, de 16 de septiembre. Ref. BOE-A-2005-15678.
+
+#### Artículo 9. Actos y resoluciones del Presidente.
+
+Ponen fin a la vida administrativa los actos y resoluciones que adopte el Presidente del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas en el ejercicio de sus funciones.
+
+Contra los actos del Presidente cabrá interponer recurso contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+#### Artículo 10. Delegación de funciones en un miembro del Consejo Rector por el Presidente del organismo.
+
+El Presidente del organismo podrá designar a uno de los miembros del Consejo Rector pertenecientes a la Administración General del Estado, con rango mínimo de Subdirector General, para que le sustituya en los casos de ausencia, vacante o enfermedad.
+
+> Se modifica por el art. 4.9 del Real Decreto 718/12010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+#### Artículo 11. El Director General.
+
+1\. El Director General del CIEMAT será nombrado y separado de su cargo mediante real decreto, a propuesta del titular del Ministerio de Ciencia e Innovación.
+
+2\. Son funciones del Director General:
+
+a) Dirigir las actuaciones del organismo de acuerdo con las directrices que establezca el Consejo Rector y su Presidente.
+
+b) Elaborar el anteproyecto de presupuestos que haya de ser sometido al Consejo Rector.
+
+c) Ejercer la dirección del personal y de los servicios del organismo.
+
+d) La firma de contratos y convenios que no impliquen compromisos económicos para el CIEMAT, o que supongan compromisos económicos hasta una cuantía de 5.000.000 euros.
+
+e) Establecer los mecanismos de evaluación para el mejor control de los proyectos desarrollados por el organismo.
+
+f) Desempeñar la vicepresidencia del Consejo Rector.
+
+g) Presidir el Comité de Dirección.
+
+h) Aprobar los gastos del organismo hasta una cuantía de 5.000.000 euros, y ordenar los pagos del organismo sin límite cuantitativo.
+
+i) Designar a uno de los subdirectores generales para que le sustituya en caso de ausencia, vacante o enfermedad.
+
+j) Desempeñar cuantas funciones le sean expresamente encomendadas o delegadas por el Presidente o el Consejo Rector.
+
+3\. El Director General contará con un Comité Científico Asesor, como órgano de apoyo y asesoramiento, para el desempeño de sus funciones.
+
+Este Comité será presidido por el Director General del organismo y formarán parte de él investigadores del propio centro y científicos nacionales o extranjeros de reconocido prestigio y acreditada experiencia, todos ellos designados por el Secretario de Estado de Investigación, a propuesta del Director General del CIEMAT.
+
+> Se modifica por el art. 4.10 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se modifica por el art. único.3 del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+## CAPÍTULO III — Órganos de gestión y departamentos técnicos
+
+#### Artículo 12. Estructura orgánica.
+
+La estructura orgánica se configura en ocho unidades con nivel orgánico de Subdirección General, tres de las cuales son órganos de gestión y apoyo técnico y las otras cinco restantes correspondientes a las áreas científico-técnicas del organismo.
+
+#### Artículo 13. Ámbito de gestión y apoyo técnico.
+
+1\. Dependerán de la Dirección General del CIEMAT las siguientes unidades de servicios técnicos y de gestión, con rango de subdirección general:
+
+a) La Subdirección General de Relaciones Institucionales y Transferencia del Conocimiento, que asumirá las funciones de la secretaría del Consejo Rector del CIEMAT, y a la que corresponderá el establecimiento y la potenciación de las relaciones con otras instituciones nacionales, organismos de investigación y empresas participadas por el CIEMAT; el desarrollo y apoyo a las relaciones con otras instituciones internacionales, con especial atención a la Unión Europea, los organismos europeos de investigación, los países iberoamericanos y el Mediterráneo, así como el apoyo en estos campos al resto de las unidades del CIEMAT; y la tramitación de acuerdos y convenios y de aportaciones internacionales. También será responsabilidad de esta Subdirección General la Oficina de Transferencia de Resultados de la Investigación.
+
+b) La Secretaría General, a la que corresponderá la administración general y la gestión de los servicios generales, del régimen interior y del patrimonio del Organismo; la planificación y gestión de la política de recursos humanos y la prevención de riesgos laborales; la gestión y ejecución presupuestaria, financiera y contable; la contratación de obras, bienes y servicios; la coordinación de los asuntos jurídicos y tramitación de los proyectos de disposiciones normativas y de convocatorias de ayudas; la elaboración del programa editorial y gestión de las publicaciones oficiales; el estudio y tramitación de las propuestas de resolución de recursos administrativos, revisiones de oficio y reclamaciones.
+
+c) La Subdirección General de Seguridad y Mejora de las Instalaciones del CIEMAT, a la que corresponderá la vigilancia de la seguridad radiológica y convencional del Centro y de sus instalaciones nucleares y radiactivas, tanto las que se encuentran en operación como en fase de desmantelamiento. Asimismo, le corresponde la dirección de las actividades de rehabilitación y desmantelamiento de instalaciones en parada segura y obsoletas.
+
+2\. La Intervención Delegada en el CIEMAT, con el rango que se determine en la relación de puestos de trabajo, estará adscrita al Director General del organismo, sin perjuicio de su dependencia funcional de la Intervención General de la Administración del Estado.
+
+> Se modifica por el art. 4.11 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se modifica por el art. único.4 del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+#### Artículo 14. Ámbito científico y tecnológico.
+
+La actividad científica y tecnológica se organizará en departamentos, divisiones y unidades de investigación que dependerán de la Dirección General del CIEMAT.
+
+Los directores de departamentos científico-tecnológicos, con rango de subdirector general, serán responsables de la innovación y prestación de servicios técnicos en las áreas de su competencia.
+
+Igualmente, serán responsables de:
+
+a) Organizar, programar y controlar el desarrollo de las actividades en las unidades y grupos de I+D de su departamento y adoptar las medidas necesarias para corregir las desviaciones que se pudieran producir en el cumplimiento de los objetivos de coste, tiempo y calidad de dichas actividades.
+
+b) Vigilar la correcta gestión de los recursos instrumentales, económicos y humanos asignados a su departamento, así como su mantenimiento y mejora.
+
+c) Supervisar los convenios y contratos con otras entidades públicas o privadas en materia de investigación y desarrollo, así como de nuevas líneas de actuación o nuevos proyectos de I+D en su ámbito de competencia, al igual que la planificación y control de los ingresos previstos.
+
+d) Fomentar el debate científico y la coordinación de las actividades de los proyectos de I+D o de otras unidades técnicas encuadradas en su departamento, así como el seguimiento de las actividades realizadas en él para su informe al Comité de Dirección.
+
+Las actividades de carácter administrativo y de gestión, necesarias para la ejecución de los proyectos de investigación, serán iniciadas en los gabinetes de apoyo que se encuadrarán orgánicamente en cada departamento científico-tecnológico y actuarán en coordinación con la Subdirección General de Administración y Personal. Dichas unidades serán también responsables de identificar y promover, de acuerdo con las indicaciones de los servicios correspondientes de la Dirección General, las oportunidades informativas, educativas y de transferencia de tecnología más convenientes para el CIEMAT.
+
+> Se modifica por el art. único.4 del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+#### Artículo 15. Áreas científico-tecnológicas del organismo.
+
+1\. Los departamentos científico-tecnológicos serán los cinco siguientes:
+
+a) El Departamento de Energía, al que corresponderá la promoción y coordinación de las actividades de investigación, desarrollo y apoyo técnico en el campo de las fuentes energéticas.
+
+b) El Departamento de Medio Ambiente, al que corresponderá la promoción y coordinación de las actividades de investigación, desarrollo y apoyo técnico en materia de preservación de la salud y del medio ambiente relacionada con los efectos energéticos e industriales, así como el desarrollo de la investigación para mejorar el impacto de la tecnología en la sociedad y de la actuación humana en la operación de sistemas tecnológicos.
+
+c) El Departamento de Tecnología, al que corresponderá la promoción y coordinación de las actividades de investigación y desarrollo en tecnologías que, relacionadas con la energía, el medio ambiente y otros dominios de interés social, constituyen en sí mismos campos tecnológicos que requieren desarrollo propio. Tendrá la responsabilidad de proporcionar apoyo a todas las áreas científicas y tecnológicas del CIEMAT y de él dependerán las instalaciones tecnológicas del centro, en particular las que no estén asignadas a un único departamento o unidad.
+
+d) El Departamento de Investigación Básica, al que corresponderá la promoción y coordinación de las actividades de investigación en el dominio de la investigación básica que lleve a cabo el organismo, así como las actividades tecnológicas imprescindibles para este fin.
+
+e) El Laboratorio Nacional de Fusión, cuya estructura está definida por la Asociación EURATOM-CIEMAT, que promoverá y coordinará las actividades de fusión nuclear en el CIEMAT y actuará como nexo de unión entre la comunidad científica española en este campo y el programa europeo instrumentado a través de EURATOM.
+
+2\. La creación, modificación y supresión de centros territoriales de carácter permanente se realizará, a propuesta del Director General del organismo, de conformidad con la normativa general de creación de órganos y unidades administrativas.
+
+> Se modifica por el art. 4.12 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+> Se modifica por el art. único.4 del Real Decreto 1086/2005, de 16 de septiembre. [Ref. BOE-A-2005-15678](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-15678).
+
+## CAPÍTULO IV — Creación de unidades de I+D o centros especializados
+
+#### Artículo 16. Creación de unidades de I+D.
+
+El CIEMAT podrá establecer convenios con universidades y organismos de las Administraciones Públicas o de la Unión Europea, para la organización o adaptación transitoria de las unidades propias de investigación y desarrollo que sean necesarias para conseguir los objetivos de Programas Nacionales o de las Comunidades Autónomas, descritas en el artículo 6.2 de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica, o de programas comunitarios encuadrados en el Programa Marco correspondiente.
+
+#### Artículo 17. Creación de unidades o centros mixtos y asociación de unidades.
+
+1\. El CIEMAT podrá participar en la creación y mantenimiento de unidades de I+D o de centros tecnológicos de carácter mixto y titularidad compartida con Universidades y otros organismos públicos o privados.
+
+2\. El CIEMAT, mediante convenio, podrá asociar unidades de investigación y desarrollo o personal investigador propio a Universidades, organismos de investigación o centros tecnológicos, sin que pierdan, en ningún caso, su pertenencia o vinculación al CIEMAT.
+
+3\. El CIEMAT, mediante convenio, podrá asociar a sus departamentos, unidades de I+D o personal investigador procedentes de Universidades u otros organismos de investigación, o centros tecnológicos, sin que, en ningún caso, pierdan su pertenencia o vinculación al Organismo de origen.
+
+4\. El Comité de Dirección regulará las condiciones y procedimientos para la creación, modificación, ordenación o supresión de las modalidades de colaboración institucional descritas en los apartados anteriores.
+
+#### Artículo 18. Unidades especiales de I+D.
+
+Para la realización de proyectos o programas de investigación, desarrollo o innovación tecnológica que sean considerados de especial interés por el Ministerio de Ciencia e Innovación, el CIEMAT podrá constituir unidades especiales de I+D mediante convenios con Departamentos ministeriales, Comunidades Autónomas, entidades locales u otros organismos públicos. Estas unidades especiales se regirán por los órganos que se establezcan en los respectivos convenios de creación.
+
+> Se modifica por el art. 4.13 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+## CAPÍTULO V — Régimen económico y de personal
+
+#### Artículo 19. Régimen económico-financiero.
+
+El régimen presupuestario, económico-financiero, de contabilidad, intervención y control financiero será el establecido para los organismos autónomos en la Ley General Presupuestaria y demás disposiciones vigentes en la materia, de acuerdo con las especificaciones contenidas para los organismos públicos de investigación en el artículo 61 de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social. El Ministerio de Ciencia e Innovación ejercerá el control de eficacia, previsto en el artículo 51 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, sin perjuicio del control establecido al respecto por la Ley General Presupuestaria.
+
+> Se modifica por el art. 4.14 del Real Decreto 718/2010, de 28 de mayo. [Ref. BOE-A-2010-9105](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9105).
+
+#### Artículo 20. Patrimonio.
+
+El CIEMAT contará, para el cumplimiento de sus fines, además de con su patrimonio propio, con aquellos bienes que le sean adscritos por la Administración General del Estado, los bienes y derechos que adquiera en el curso de su gestión o que le sean incorporados por cualquier persona, pública o privada, y por cualquier título, que se incluirán en el inventario de bienes y derechos del organismo y se gestionarían de conformidad con lo dispuesto en el artículo 48 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+#### Artículo 21. Recursos económicos.
+
+Los recursos económicos podrán provenir de las siguientes fuentes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas de dicho patrimonio.
+
+c) Las consignaciones específicas que tuvieran asignadas en los Presupuestos Generales del Estado.
+
+d) Las transferencias corrientes o de capital que procedan de las Administraciones o entidades públicas, así como las aportaciones o donaciones que se concedan u otorguen a su favor por cualesquiera personas públicas o privadas, españolas o extranjeras.
+
+e) Las derivadas de participaciones que tenga el CIEMAT como accionista en las sociedades mercantiles con fines vinculados a la actividad del organismo.
+
+f) Los ingresos ordinarios y extraordinarios que esté autorizado a percibir, según las disposiciones por las que se rijan, incluidos los derivados por prestación de servicios.
+
+g) Cualquier otro recurso que pudiera serle atribuido.
+
+#### Artículo 22. Régimen de contratación.
+
+La contratación del CIEMAT se rige por las normas generales de contratación de las Administraciones públicas, de acuerdo con lo previsto en el artículo 49 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+No obstante, el régimen de contratación del organismo incluirá las especificaciones previstas para los organismos públicos de investigación en el artículo 19.2 de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+#### Artículo 23. Régimen de personal.
+
+1\. El personal del CIEMAT está integrado por:
+
+a) El personal funcionario destinado en el CIEMAT, incluido el de carácter investigador y el de carácter tecnológico.
+
+b) El personal científico y técnico contratado de acuerdo con el artículo 17.a) de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+c) Los investigadores contratados, en la modalidad de trabajo en prácticas, de acuerdo con el artículo 17.b) de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+d) El personal laboral, fijo y temporal, contratado por el CIEMAT.
+
+2\. El CIEMAT seleccionará y contratará el personal investigador de carácter temporal de acuerdo con la normativa y según los procedimientos vigentes en la materia.
+
+3\. El personal en formación no tendrá vinculación jurídico-laboral con el CIEMAT y estará integrado por quienes desarrollen actividades para ampliar su formación a través de becas predoctorales, postdoctorales y de introducción a la investigación, o de cualquier otra naturaleza, de acuerdo con su normativa específica.

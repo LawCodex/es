@@ -1,0 +1,527 @@
+---
+title: "Real Decreto 1136/2002, de 31 de octubre, por el que se aprueba el Estatuto del Centro de Estudios y Experimentación de Obras Públicas"
+identifier: "BOE-A-2002-21671"
+eli: "https://www.boe.es/eli/es/rd/2002/10/31/1136"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2002-10-31
+published: 2002-11-08
+in_force_from: 2002-11-09
+last_amended: 2011-05-07
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 268"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-21671"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1136/2002, de 31 de octubre, por el que se aprueba el Estatuto del Centro de Estudios y Experimentación de Obras Públicas
+
+El Real Decreto de 12 de agosto de 1898 de la Reina Regente María Cristina de Austria creó el Laboratorio Central de Ensayo de Materiales de Construcción en la antigua Escuela de Ingenieros de Caminos, Canales y Puertos de Madrid y, posteriormente, en abril de 1899, comenzó aquél sus actividades.
+
+Nació orgánicamente como un servicio anejo a la mencionada Escuela y su finalidad era constituir un centro que permitiera situar a la ingeniería española en una línea de progreso semejante a aquéllas en las que ya se trabajaba en otros países europeos como Francia, Suecia o Dinamarca.
+
+Su función era facilitar la realización de ensayos e investigaciones dirigidos, por una parte, a conseguir un mejor conocimiento del comportamiento de las estructuras y los materiales incorporables a las obras públicas y, por otra, a una tarea consustancial con la labor docente desarrollada en la Escuela como es la acción formativa y la divulgación del conocimiento científico.
+
+El transcurso del tiempo fue testigo de la creación en la misma Escuela de otros laboratorios con semejantes fines pero en otras disciplinas: transporte y mecánica del suelo, hidráulica o puertos.
+
+Estos laboratorios son, en su conjunto, el origen del Centro de Estudios y Experimentación de Obras Públicas (CEDEX), Organismo autónomo de la Administración General del Estado creado por Decreto de 23 de agosto de 1957.
+
+Su razón de ser fue la necesidad de que el entonces Ministerio de Obras Públicas dispusiera de una organización bajo su dependencia que, mediante el estudio, la experimentación y el asesoramiento, facilitara "la ordenación técnica y la ejecución económica" de los planes de obras públicas.
+
+Los Reales Decretos 2092/1979, de 3 de agosto, y 2558/1985, de 27 de diciembre, reorganizaron, sucesivamente, este Organismo y perfeccionaron su regulación jurídica, entre otras materias, en lo relativo a fines, estructura, funciones, patrimonio y régimen económico.
+
+El Real Decreto-ley 12/1980, de 26 de septiembre, creó el Organismo autónomo "Instituto de Tecnología de las Obras Públicas y de la Edificación", en el que se integraron el "Centro de Estudios y Experimentación de Obras Públicas" y el "Instituto Nacional para la Calidad de la Edificación", que, por lo dispuesto en la disposición adicional vigésima de la Ley 44/1983, de 28 de diciembre, de Presupuestos Generales del Estado para 1984, cambió su denominación a la actual de "Centro de Estudios y Experimentación de Obras Públicas"
+
+Posteriormente, el Real Decreto 1121/1986, de 6 de junio, vino a constituir en el CEDEX el Centro de Estudios Históricos de Obras Públicas y Urbanismo (CEHOPU).
+
+Asimismo, por Orden de 16 de febrero de 1993 del entonces Ministro de Obras Públicas y Transportes, se creó en el CEDEX la Escuela de Formación Técnica.
+
+Más tarde, se integra en el Organismo el Laboratorio de la Dirección General de la Vivienda, la Arquitectura y el Urbanismo, de acuerdo con lo establecido en la disposición adicional tercera.2 del Real Decreto 1475/2000, de 4 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Fomento.
+
+Desde el último Real Decreto de estructura del CEDEX (el 2558/1985 ya mencionado), se han sucedido diversas reestructuraciones de los Departamentos ministeriales que han dado lugar, entre otros efectos, a la modificación de la dependencia orgánica y funcional del Organismo autónomo.
+
+Así, tras su dependencia, en 1985, del Ministerio de Obras Públicas y Urbanismo, el Organismo ha experimentado una sucesiva adscripción orgánica a los Ministerios de: Obras Públicas y Transportes, en 1991 ; Obras Públicas, Transportes y Medio Ambiente, en 1993, y Fomento, en 1996.
+
+El último de los años citados, además, fue testigo de la creación del Ministerio de Medio Ambiente, a partir, básicamente, de las competencias en la materia que ostentaba el entonces Ministerio de Obras Públicas, Transportes y Medio Ambiente.
+
+Lo anterior motivó que, a través de la disposición adicional cuarta del Real Decreto 1886/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Fomento, se determinara la adscripción orgánica del CEDEX a este Departamento, sin perjuicio de establecer para él una doble dependencia funcional de los Ministerios de Fomento y de Medio Ambiente en la esfera de sus respectivas competencias.
+
+Cuatro años después, el Real Decreto 690/2000, de 2 de mayo, proporcionó una nueva estructura orgánica básica al Ministerio de Fomento, desarrollada más tarde por los Reales Decretos 1475/2000, ya citado en párrafos anteriores, y 444/2001, de 27 de abril, de manera tal que se consolida la dependencia orgánica del CEDEX respecto de dicho Departamento, ahora a través de la Secretaría de Estado de Infraestructuras, a la par que, mediante la disposición adicional tercera de la penúltima norma citada, se sanciona la doble dependencia funcional del Organismo respecto de los Ministerios de Fomento y de Medio Ambiente, lo que refrenda la viabilidad y eficacia de esta doble dependencia funcional.
+
+Todas estas circunstancias, fundamentalmente de índole jurídica, serían motivo suficiente para justificar la necesidad de abordar un nuevo régimen estatutario para el CEDEX, pero, además, éste resulta conveniente para dotar al Organismo de una mayor operatividad y perspectivas de futuro en orden a la realización de sus fines.
+
+Por último, el CEDEX fue adaptado a la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, con la condición de Organismo autónomo, a través del artículo 60 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, siendo necesario completar su regulación específica mediante lo dispuesto en el presente Real Decreto, que aprueba su Estatuto.
+
+En su virtud, a iniciativa del Ministro de Fomento, oído el Ministro de Medio Ambiente, a propuesta conjunta de los Ministros de Hacienda y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de octubre de 2002,
+
+### D I S P O N G O :
+
+#### Artículo único. Aprobación del Estatuto del Centro de Estudios y Experimentación de Obras Públicas.
+
+Se aprueba el Estatuto del Centro de Estudios y Experimentación de Obras Públicas, cuyo texto se inserta a continuación.
+
+#### Disposición adicional única. Dependencias y supresiones.
+
+1\. El Centro de Estudios Históricos de Obras Públicas y Urbanismo, creado por Real Decreto 1121/1986, de 6 de junio, y la Escuela de Formación Técnica, creada por Orden de 16 de febrero de 1993, del Ministro de Obras Públicas y Transportes, permanecen en el Centro de Estudios y Experimentación de Obras Públicas, bajo la dependencia inmediata de su Director general y desarrollando las funciones que para ambas unidades se determinan en el Estatuto que se aprueba.
+
+2\. Se suprime el Consejo del Centro de Estudios Históricos de Obras Públicas y Urbanismo, previsto en el Real Decreto 1121/1986, de 6 de junio, siendo sus funciones asumidas por los órganos de dirección del Centro de Estudios y Experimentación de Obras Públicas en la forma que se establece en su Estatuto.
+
+3\. Se suprime la Comisión Asesora de la Escuela de Formación Técnica, creada por el apartado sexto de la Orden de 16 de febrero de 1993, del Ministro de Obras Públicas y Transportes, siendo sus funciones asumidas por el Consejo de la propia Escuela, al que se refiere el artículo 12.3 del Estatuto que se aprueba por este Real Decreto.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 2558/1985, de 27 de diciembre, por el que se estructura el Centro de Estudios y Experimentación de Obras Públicas, y cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto.
+
+#### Disposición final primera. Medidas de aplicación.
+
+Se autoriza al Ministro de Fomento, previo cumplimiento de los trámites establecidos en la legislación vigente, y con informe previo del Ministerio de Medio Ambiente, para dictar las disposiciones necesarias para la aplicación y desarrollo de lo establecido en este Real Decreto.
+
+#### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 31 de octubre de 2002.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno<br> y Ministro de la Presidencia,
+
+MARIANO RAJOY BREY
+
+## ESTATUTO DEL CENTRO DE ESTUDIOS Y EXPERIMENTACIÓN DE OBRAS PÚBLICAS
+
+## CAPÍTULO I — Naturaleza, adscripción y régimen jurídico
+
+#### Artículo 1. Naturaleza y adscripción.
+
+1\. El Centro de Estudios y Experimentación de Obras Públicas (en adelante y en acrónimo, CEDEX), conforme a lo establecido en el artículo 60 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, es un organismo autónomo de los previstos en el artículo 43.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, adscrito orgánicamente al Ministerio de Fomento, a través de la Secretaría de Estado de Planificación y Relaciones Institucionales, y funcionalmente a los Ministerios de Fomento y de Medio Ambiente, y Medio Rural y Marino en la esfera de sus respectivas competencias.
+
+2\. El control de eficacia del CEDEX, que tendrá por finalidad comprobar el grado de cumplimiento de sus objetivos y la adecuada utilización de los recursos asignados, será ejercido por el Ministerio de Fomento, a través de la Secretaría de Estado de Planificación y Relaciones Institucionales, sin perjuicio de las competencias que corresponden en esta materia a la Intervención General de la Administración del Estado.
+
+Una comisión mixta, integrada por dos representantes del Ministerio de Fomento y dos representantes del Ministerio de Medio Ambiente, y Medio Rural y Marino, asesorará con carácter preceptivo al Presidente del CEDEX sobre el control de eficacia del organismo.
+
+3\. El CEDEX tiene personalidad jurídica pública diferenciada, patrimonio y tesorería propios, así como autonomía de gestión y plena capacidad jurídica y de obrar, y, dentro de su ámbito competencial, le corresponden las potestades administrativas precisas para el cumplimiento de sus fines, en los términos establecidos en el presente Estatuto, salvo la potestad expropiatoria.
+
+> Se modifican los apartados 1 y 2 por el art. único.1 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+> Se modifican los apartados 1 y 2 por el art. único.1 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+#### Artículo 2. Régimen jurídico.
+
+El CEDEX se rige por lo previsto en el artículo 60 de la Ley 50/1998, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social; en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado; en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; en la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público; en la Ley 47/2003, de 26 de noviembre, General Presupuestaria; en la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas; en este Estatuto y en las demás disposiciones aplicables a los Organismos autónomos de la Administración General del Estado.
+
+> Se modifica por el art. único.2 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+## CAPÍTULO II — Fines y funciones
+
+#### Artículo 3. Fines.
+
+Corresponde al CEDEX, en el ámbito de las obras públicas y demás realizaciones propias de la ingeniería civil, la edificación y el medio ambiente asociado y sin perjuicio de las competencias de los Departamentos ministeriales de los que depende orgánica y funcionalmente, la consecución de los siguientes fines:
+
+1\. Obtener, estudiar y facilitar datos básicos de la naturaleza.
+
+2\. Mejorar la calidad de los materiales, elementos, técnicas, métodos y sistemas empleados e incrementar el conocimiento de los recursos naturales.
+
+3\. Contribuir a la funcionalidad, actualización tecnológica, seguridad y adecuación al medio ambiente y a la ordenación del territorio, de las infraestructuras y servicios.
+
+4\. Impulsar, promover, fomentar y realizar actividades de investigación científica y técnica y de innovación tecnológica, encabezando el avance del conocimiento.
+
+5\. Realizar tareas de asistencia técnica, con atención prioritaria a los Ministerios de Fomento y de Medio Ambiente, y Medio Rural y Marino y a las entidades y organismos de ellos dependientes.
+
+6\. Promover y difundir la ciencia y la tecnología en los ámbitos nacional e internacional.
+
+> Se modifica el apartado 5 por el art. único.3 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+#### Artículo 4. Funciones.
+
+Para el cumplimiento de los fines enumerados en el artículo anterior, y en el mismo ámbito que el corres pondiente a aquéllos, el CEDEX ejerce, sin perjuicio de las competencias de los Departamentos ministeriales de los que depende orgánica y funcionalmente, las siguientes funciones:
+
+1\. Realizar actividades de obtención, investigación, experimentación y gestión de datos relativos a recursos y fenómenos de la naturaleza.
+
+2\. Definir, diseñar, mejorar y, en su caso, evaluar y certificar las características de los materiales, elementos, técnicas, métodos y sistemas, así como fomentar su normalización.
+
+3\. Proponer, estudiar y elaborar, directamente o en colaboración, reglamentaciones, normas y, en general, cualquier clase de especificaciones técnicas.
+
+4\. Promover y proponer programas de investigación, desarrollo tecnológico e innovación en los ámbitos de actuación de los Ministerios de Fomento y de Medio Ambiente, y Medio Rural y Marino.
+
+5\. Desarrollar proyectos de investigación, desarrollo tecnológico e innovación, teniendo en cuenta las directrices contenidas en los planes europeos y nacionales y en los programas a los que se refiere el apartado anterior o a iniciativa propia.
+
+6\. Prestar asistencia técnica especializada tanto al sector público como al privado, con atención prioritaria a los Departamentos ministeriales de los que depende funcionalmente.
+
+7\. Investigar, estudiar y difundir la evolución de la técnica y la ciencia, las realizaciones y las figuras más relevantes a lo largo de la Historia, realizando exposiciones y publicaciones impresas o en soporte informático o audiovisual.
+
+8\. La promoción, mejora y demás actuaciones relativas al «Parque y Museo del Transporte y de la Obra Pública», en las condiciones que el propio CEDEX determine o que acuerde con los demás sujetos públicos o privados interesados.
+
+9\. Conservar, recuperar y enriquecer el patrimonio histórico de las obras públicas y otros bienes directamente vinculados con las obras públicas.
+
+10\. Promover y actualizar la formación y el conocimiento técnico y científico del personal de los Ministerios de Fomento y de Medio Ambiente, y Medio Rural y Marino, y entre ellos los cursos que se integren en los procesos selectivos para el acceso a los Cuerpos de Ingenieros de Caminos, Canales y Puertos del Estado y de Ingenieros Técnicos de Obras Públicas, o de cualquier otro cuerpo o escala adscrito a estos Ministerios cuya realización le sea encomendada, así como de los sectores de actividad relacionados con los mismos.
+
+11\. Difundir y transferir la tecnología española en los ámbitos nacional e internacional, realizando publicaciones, talleres, jornadas, seminarios, simposios y cursos, así como mediante la creación y el mantenimiento de portales temáticos de información a través de redes de comunicación.
+
+12\. Colaborar y fomentar la colaboración con otros órganos de las Administraciones públicas y con instituciones nacionales e internacionales en actividades de asistencia técnica, experimentación, investigación, desarrollo tecnológico e innovación y transferencia de tecnología.
+
+13\. Dictar laudos arbitrales en casos litigiosos, cuando oficialmente sea requerido para ello.
+
+14\. Cualesquiera otras actividades que redunden en beneficio de sus fines.
+
+> Se modifican los apartados 8 y 9 por el art. único.1 del Real Decreto 582/2011, de 20 de abril. [Ref. BOE-A-2011-8020](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8020).
+
+> Se modifican los apartados 4 y 10 por el art. único.4 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+## CAPÍTULO III — Órganos de gobierno
+
+#### Artículo 5. Órganos de gobierno.
+
+1\. Los órganos rectores del CEDEX son los siguientes:
+
+a. Órganos colegiados: el Consejo y el Comité de Dirección.
+
+b. Órganos unipersonales: el Presidente y el Director.
+
+2\. El Consejo y el Comité de Dirección se regirán por lo dispuesto en el presente Estatuto y por lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el capítulo IV del título II de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 638/2010, de 14 de mayo. [Ref. BOE-A-2010-7797](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7797).
+
+#### Artículo 6. El Consejo.
+
+1\. El Consejo es el órgano que conoce y orienta las actividades del Organismo.
+
+2\. El Consejo estará integrado por los siguientes miembros:
+
+a) El Presidente, que será el Secretario de Estado de Planificación y Relaciones Institucionales.
+
+b) El Vicepresidente, que será el Secretario de Estado de Medio Rural y Agua.
+
+c) Los vocales.
+
+d) El Secretario.
+
+3\. Serán vocales del Consejo:
+
+Por el Ministerio de Fomento:
+
+a) El Subsecretario de Fomento.
+
+b) El Director General de Carreteras.
+
+c) El Director General de Ferrocarriles.
+
+d) El Director General de la Marina Mercante.
+
+e) El Presidente del Organismo Público Puertos del Estado.
+
+f) El Director General del CEDEX.
+
+Por el Ministerio de Medio Ambiente, y Medio Rural y Marino:
+
+g) El Subsecretario de Medio Ambiente, y Medio Rural y Marino.
+
+h) El Director General del Agua.
+
+i) El Director General de Sostenibilidad de la Costa y el Mar.
+
+j) El Director General de Calidad y Evaluación Ambiental.
+
+k) El Director General de Medio Natural y Política Forestal.
+
+l) El Director General de la Oficina Española de Cambio Climático.
+
+Por el Ministerio de Ciencia e Innovación:
+
+m) El Director General de Programas y Transferencia del Conocimiento.
+
+n) El Director General de Planificación y Coordinación.
+
+Por el Ministerio de Vivienda:
+
+o) El Director General de Arquitectura y Política de Vivienda.
+
+4\. Actuará como Secretario del Consejo, con voz pero sin voto, un funcionario del Organismo con nivel de Subdirector general o asimilado, designado por el Presidente del Consejo, a propuesta del Director del CEDEX.
+
+5\. Corresponde al Consejo:
+
+a) Orientar las líneas generales de actuación del CEDEX, de acuerdo con las directrices de los Departamentos ministeriales de los que depende funcionalmente y con la política científica y tecnológica nacional, y teniendo en cuenta los recursos disponibles.
+
+b) Orientar la planificación a medio y largo plazo del Organismo y proponer las líneas de actuación del CEDEX en el marco de los programas de investigación, desarrollo tecnológico e innovación de los Ministerios de Fomento y de Medio Ambiente, y Medio Rural y Marino.
+
+c) Conocer de los acuerdos y convenios de colaboración concertados por el CEDEX en el ámbito internacional.
+
+d) Conocer de los resultados técnicos y económicos alcanzados por el Organismo en el desarrollo de sus actividades.
+
+6\. El Consejo se reunirá en sesión ordinaria anualmente y, en sesión extraordinaria, cuando lo juzgue necesario el Presidente o a petición de la mayoría de sus miembros. La convocatoria del Consejo corresponde al Presidente y la asistencia al mismo no será objeto de delegación ni de remuneración.
+
+> Se modifica el apartado 4 por el art. único.2 del Real Decreto 582/2011, de 20 de abril. [Ref. BOE-A-2011-8020](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8020).
+
+> Se modifica por el art. único.5 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+> Se modifican los apartados 2 y 3 por el art. único.2 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+#### Artículo 7. El Presidente.
+
+1\. La presidencia del CEDEX corresponde al Secretario de Estado de Planificación y Relaciones Institucionales y es el órgano máximo de dirección del organismo.
+
+2\. Son funciones del Presidente: Ostentar la más alta representación institucional del CEDEX, la Presidencia de su Consejo y la dirección estratégica del Organismo ; aprobar el anteproyecto de presupuesto anual del CEDEX y su inventario de bienes y derechos, así como la rendición de cuentas del Organismo.
+
+> Se modifica el apartado 1 por el art. único.6 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+> Se modifica el apartado 1 por el art. único.3 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+#### Artículo 8. El Director
+
+1\. El Director del CEDEX, con rango de subdirector general, será nombrado y cesado de su cargo por el Ministro de Fomento, previa consulta al Ministro de Medio Ambiente, y Medio Rural y Marino.
+
+2\. Corresponde al Director:
+
+a. Ostentar la representación legal del Organismo, en nombre del Presidente, y ser su órgano de contratación.
+
+b. Elevar al Presidente, para su aprobación, la propuesta de planificación del CEDEX.
+
+c. Proponer al Presidente, para su aprobación, las medidas necesarias para la mejor gestión del Organismo que sean competencia de aquel.
+
+d. Cumplir y hacer cumplir las órdenes del Presidente.
+
+e. Informar al Consejo acerca de los acuerdos y convenios de colaboración concertados por el CEDEX en el ámbito internacional.
+
+f. Informar al Consejo respecto de los resultados técnicos y económicos alcanzados por el Organismo en el desarrollo de sus actividades, así como de cualquier otro asunto que estime conveniente.
+
+g. Presidir el Comité de Dirección al que se refiere el artículo siguiente.
+
+h. Dirigir y coordinar el desarrollo de la planificación del CEDEX.
+
+i. Impulsar y supervisar las actividades que forman parte de la gestión ordinaria del Organismo.
+
+j. Velar por el buen funcionamiento de las distintas unidades del CEDEX y del personal integrado en las mismas.
+
+k. Organizar el trabajo, ordenando los medios materiales y de personal precisos para la ejecución de las actividades del Organismo.
+
+l. Elaborar el anteproyecto de presupuesto anual del CEDEX y dirigir la ejecución del mismo.
+
+m. Autorizar la redacción y realizar la aprobación de los pliegos para la contratación de obras, gestión de servicios, suministros, consultoría y asistencia técnica.
+
+n. Disponer los gastos de los servicios dentro de los límites de los créditos autorizados y ordenar los pagos relativos a los mismos.
+
+ñ. Ejercer todas aquellas funciones de dirección, gestión y control no atribuidas a los demás órganos de gobierno del CEDEX.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 638/2010, de 14 de mayo. [Ref. BOE-A-2010-7797](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7797).
+
+> Se modifica el apartado 1 por el art. único.7 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+#### Artículo 9. El Comité de Dirección.
+
+1\. El Comité de Dirección del CEDEX es el órgano que asiste al Director general en la coordinación y administración del Organismo.
+
+2\. El Comité de Dirección estará integrado por los siguientes miembros:
+
+a) El Presidente, que será el Director general del CEDEX.
+
+b) Los vocales.
+
+c) El Secretario.
+
+3\. Serán vocales del Comité de Dirección:
+
+a) Los Subdirectores generales del Organismo, a los que se refiere el artículo 10.1.
+
+b) Los jefes de las unidades del CEDEX que designe el Director general del Organismo.
+
+4\. Actuará como Secretario, con voz pero sin voto, el Jefe de la Unidad del Organismo que designe el Director general del CEDEX.
+
+5\. Corresponde al Comité de Dirección:
+
+a) Proponer al Director general del CEDEX las medidas necesarias para la mejor gestión del Organismo.
+
+b) Elaborar la memoria anual de actividades.
+
+c) Proponer la planificación general del Organismo, de acuerdo con las orientaciones del Consejo, así como los programas de actuación de las distintas unidades.
+
+d) Proponer los programas de actuación de los centros y supervisar la realización de sus actividades.
+
+e) Velar por el exacto cumplimiento de las órdenes dictadas por el Director general.
+
+f) Asistir al Director general del CEDEX en todos cuantos asuntos así lo requiera.
+
+6\. El Comité de Dirección se reunirá, cuando lo juzgue necesario su Presidente o a petición de la mayoría de sus miembros, tantas veces como sea preciso para la mejor gestión del Organismo. La convocatoria del Comité de Dirección corresponde a su Presidente.
+
+7\. El Comité de Dirección celebrará, al menos anualmente, una reunión de coordinación a la que asistirán, con voz pero sin voto, un representante, con nivel orgánico de subdirector general o asimilado, de cada uno de los órganos directivos y organismos públicos de los que sean titulares los vocales del Consejo a los que se refiere el apartado 3 del artículo 6 y designado por aquéllos, así como el Interventor Delegado en el organismo.
+
+> Se modifica el apartado 7 por el art. único.8 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+> Se modifica el apartado 7 por el art. único.4 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+## CAPÍTULO IV — Estructura orgánica básica
+
+#### Artículo 10. Estructura.
+
+1\. Bajo la dependencia inmediata de su Director, el CEDEX se estructura en los órganos siguientes con nivel orgánico de subdirección general:
+
+a. El Centro de Estudios Hidrográficos.
+
+b. El Centro de Estudios de Puertos y Costas.
+
+c. El Centro de Estudios de Transporte.
+
+d. El Centro de Estudios de Técnicas Aplicadas.
+
+2\. Corresponde al Centro de Estudios Hidrográficos el ejercicio de las funciones atribuidas al CEDEX en el artículo 4, apartados 1, 2, 3, 5, 6, 11, 12, y 13, en el ámbito de las aguas continentales y sus infraestructuras naturales o artificiales.
+
+3\. Corresponde al Centro de Estudios de Puertos y Costas el ejercicio de las funciones atribuidas al CEDEX en el artículo 4, apartados 1, 2, 3, 5, 6, 11, 12, y 13, en el ámbito de las aguas marítimas y sus infraestructuras naturales o artificiales.
+
+4\. Corresponde al Centro de Estudios del Transporte el ejercicio de las funciones atribuidas al CEDEX en los apartados 1, 2, 3, 5, 6, 11, 12 y 13 del artículo 4, en el ámbito de las carreteras, líneas ferroviarias y planificación de transporte en general.
+
+6\. Corresponde al Centro de Estudios de Técnicas Aplicadas el ejercicio de las funciones atribuidas al CEDEX en el artículo 4, apartados 1, 2, 3, 5, 6, 10, 11, 12 y 13, en el ámbito de las ciencias técnicas básicas y de la transferencia de tecnología.
+
+7\. Los titulares de los órganos con nivel orgánico de subdirección general a los que se refiere este artículo serán nombrados y separados de su cargo por el Secretario de Estado de Infraestructuras y Planificación, a propuesta del Director del CEDEX, entre funcionarios, de acuerdo con las previsiones de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y la normativa vigente en materia de provisión de puestos de trabajo.
+
+8\. El Titular del Centro de Estudios Hidrográficos sustituirá al Director del CEDEX en los casos de ausencia, vacante o enfermedad.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 638/2010, de 14 de mayo. [Ref. BOE-A-2010-7797](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7797).
+
+> Redactado el apartado 8 conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9717](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9717).
+
+> Se modifica el apartado 6 por el art. único.9 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+> Se modifican los apartados 1, 5 y 7 por el art. único.5 a .7 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+#### Artículo 11. Centro de Estudios Históricos de Obras Públicas y Urbanismo.
+
+El Centro de Estudios Históricos de Obras Públicas y Urbanismo (en adelante, y en acrónimo: CEHOPU) del CEDEX, en colaboración con el resto de Centros y Laboratorios del Organismo, será la Unidad a través de la que se realizarán las funciones mencionadas en los apartados 7,8 y 9 del articulo 4 de este Estatuto, y estará bajo la dependencia inmediata del Director del CEDEX.
+
+> Se modifica por el art. único.3 del Real Decreto 582/2011, de 20 de abril. [Ref. BOE-A-2011-8020](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8020).
+
+#### Artículo 12. Escuela de Formación Técnica.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.10 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+> Se modifican los apartados 1.a) y 3.c) por el art. único.8 y .9 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+## CAPÍTULO V — Régimen de personal
+
+#### Artículo 13. Clases de personal.
+
+El personal del CEDEX será funcionario o laboral, en los mismos términos que los establecidos para la Administración General del Estado, y estará integrado en su relación de puestos de trabajo o en su catálogo de puestos de trabajo, respectivamente.
+
+#### Artículo 14. Personal de investigación.
+
+1\. A los únicos efectos de lo dispuesto en el Real Decreto 2515/1986, de 21 de noviembre, sobre condiciones y límites de trabajos de investigación en centros públicos a tiempo parcial, se considerarán puestos "exclusivamente de investigación" aquellos expresamente identificados como tales en la relación de puestos de trabajo del Organismo.
+
+2\. El CEDEX podrá contratar personal científico y técnico para la ejecución de proyectos y actividades investigadoras, conforme a lo establecido en el artículo 17 de la Ley 13/1986, de 14 de abril, de Fomento y Coordinación General de la Investigación Científica y Técnica.
+
+#### Artículo 15. Incompatibilidades.
+
+El personal funcionario y laboral destinado y que preste sus servicios en el CEDEX estará sometido al régimen general de incompatibilidades establecido en la Ley 53/1984, de 26 de diciembre, de incompatibilidades para el personal al servicio de las Administraciones Públicas y en el convenio colectivo que le sea de aplicación, respectivamente.
+
+> Se modifica por la disposición final 2.1 del Real Decreto 638/2010, de 14 de mayo. [Ref. BOE-A-2010-7797](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7797).
+
+## CAPÍTULO VI — Régimen económico-financiero
+
+#### Artículo 16. Recursos económicos.
+
+1\. Los recursos económicos del CEDEX podrán provenir de las siguientes fuentes:
+
+a) Los bienes y valores que constituyen su patrimonio.
+
+b) Los productos y rentas de dicho patrimonio.
+
+c) Las consignaciones específicas que tuviere asignadas en los Presupuestos Generales del Estado.
+
+d) Las transferencias corrientes o de capital procedentes de las Administraciones o entidades públicas.
+
+e) Los ingresos que se deriven de sus operaciones y, en particular, de las actuaciones convenidas con o encomendadas por otros órganos e instituciones de las Administraciones públicas para el desarrollo de las funciones del Organismo.
+
+f) Las aportaciones que reciba del Ministerio de Fomento, del Ministerio de Medio Ambiente y Medio Rural y Marino, o de otros órganos e instituciones públicas, para el ejercicio de las funciones mencionadas en los apartados 7, 8 y 9 del artículo 4. Cuando tales aportaciones se realicen con fondos procedentes del 1 por 100 cultural para la realización de las funciones recogidas en los apartados 7 y 9 citados, sólo podrán destinarse a actuaciones que hayan sido seleccionadas previamente conforme a los acuerdos interministeriales vigentes sobre asignación de dichos fondos.
+
+g) Las donaciones, legados y otras aportaciones de Entidades públicas y privadas y de particulares.
+
+h) Cualquier otro recurso que pueda serle atribuido.
+
+2\. Los ingresos del CEDEX a los que se refiere el párrafo f) del apartado anterior se aplicarán, exclusivamente, a financiar los gastos por actividades del CEHOPU correspondientes a las funciones a las que se refiere el artículo 11 de este Estatuto.
+
+3\. Los ingresos y pagos a realizar por el Organismo se llevarán a cabo a través de la cuenta corriente que mantenga en el Banco de España, o de las mantenidas en otras entidades de crédito, para cuya apertura se precisará previa comunicación a la Dirección General del Tesoro y Política Financiera, en los términos establecidos en el texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre.
+
+> Se modifica la letra f) del apartado 1 por el art. único.4 del Real Decreto 582/2011, de 20 de abril. [Ref. BOE-A-2011-8020](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8020).
+
+> Se modifica el apartado 1.e) y f) por el art. único.11 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+#### Artículo 17. Régimen presupuestario, económico-financiero, de contabilidad, intervención y control financiero.
+
+1\. El régimen presupuestario, económico-financiero, de contabilidad, intervención y control financiero del CEDEX será el establecido para los organismos autónomos por el texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto legislativo 1091/1988, de 23 de septiembre, y demás disposiciones vigentes en la materia.
+
+2\. Sin perjuicio de las funciones atribuidas al Tribunal de Cuentas, el CEDEX estará sometido al control interno de su gestión económico-financiera, a realizar por una Intervención Delegada de la Intervención General de la Administración del Estado en el Organismo, con el nivel que se establezca en la correspondiente relación de puestos de trabajo.
+
+#### Artículo 18. Régimen de contratación.
+
+1\. De acuerdo con lo previsto en el artículo 49 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, el CEDEX se regirá en materia de contratación por la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público.
+
+2\. A los efectos de lo señalado en el artículo 24.6 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, y demás normativa pública que resulte de aplicación, el CEDEX tendrá la consideración de medio propio y servicio técnico de la Administración General del Estado y, en los términos previstos en los artículos 4.1.n) y 24.6 de dicho Texto Legal, de aquellos entes, organismos y entidades vinculados o dependientes de la Administración General del Estado que, de conformidad con el artículo 3.3 de la Ley 30/2007, de 30 de octubre, tengan la consideración de poderes adjudicadores.
+
+3\. Los poderes adjudicadores respecto a los cuales el CEDEX sea medio propio y servicio técnico podrán conferirle encomiendas de gestión para la realización de trabajos y tareas comprendidas en el ámbito de sus competencias. Dichas encomiendas serán de ejecución obligatoria para el CEDEX y se realizarán de acuerdo con instrucciones fijadas unilateralmente por el encomendante. Las encomiendas establecerán los términos y condiciones de realización de los citados trabajos o tareas.
+
+4\. De acuerdo con lo dispuesto en el artículo 24.6 de la Ley 30/2007, de 30 de octubre, la condición de medio propio y servicio técnico respecto de un poder adjudicador determina la imposibilidad de que el CEDEX participe en las licitaciones públicas convocadas por el mismo, sin perjuicio de que, cuando a ellas no concurra ningún licitador, la ejecución de la prestación objeto de las mismas pueda ser encargada al CEDEX.
+
+5\. Las tarifas de los servicios prestados por el CEDEX en su condición de medio propio y servicio técnico serán aprobadas por resolución del Secretario de Estado de Planificación y Relaciones Institucionales que será publicada en el “Boletín Oficial del Estado”.
+
+> Se modifica por el art. único.12 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+## CAPÍTULO VII — Invenciones y patentes
+
+#### Artículo 19. Invenciones y patentes.
+
+Corresponde al CEDEX la titularidad de las invenciones realizadas por su personal como consecuencia del ejercicio de sus funciones. La explotación y cesión de invenciones realizadas en el Organismo se regirá por lo establecido en el artículo 20 de la Ley 11/1986, de 20 de marzo, de Patentes de Invención y Modelos de Utilidad, y en el Real Decreto 55/2002, de 18 de enero, sobre explotación y cesión de invenciones realizadas en los entes públicos de investigación.
+
+## CAPÍTULO VIII — Régimen patrimonial
+
+#### Artículo 20. Patrimonio.
+
+1\. El régimen patrimonial del CEDEX será el previsto en el artículo 48 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y en la legislación complementaria.
+
+2\. El Organismo contará, para el cumplimiento de sus fines, con los bienes y derechos que integren su patrimonio, con aquellos otros que le sean adscritos por la Administración General del Estado, con los que adquiera en el desarrollo de su gestión y con los que, por cualquier título, le sean incorporados por cualquier persona, pública o privada.
+
+#### Artículo 21. Inventario.
+
+1\. De acuerdo con lo previsto en el artículo 48.4 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, el CEDEX formará y mantendrá actualizado el inventario de sus bienes y derechos, con excepción de los de carácter fungible. El inventario se revisará, en su caso, anualmente con referencia al 31 de diciembre y se incluirá en el balance que se incorpore a la cuenta anual del Organismo.
+
+2\. Anualmente, el CEDEX remitirá al Ministerio de Economía y Hacienda el inventario de bienes inmuebles y derechos del organismo.
+
+> Se modifica el apartado 2 por el art. único.10 del Real Decreto 591/2005, de 20 de mayo. [Ref. BOE-A-2005-9059](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-9059).
+
+## CAPÍTULO IX — Actos y resoluciones
+
+#### Artículo 22. Actos y resoluciones del Presidente.
+
+1\. Los actos y resoluciones adoptados por el Presidente del CEDEX, en el ejercicio de sus funciones,
+
+ponen fin a la vía administrativa, sin perjuicio del recurso potestativo de reposición, previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+2\. Contra dichos actos y resoluciones cabrá interponer recurso contencioso-administrativo, sin perjuicio del recurso potestativo de reposición previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+3\. Las reclamaciones previas, en asuntos civiles y laborales serán resueltas por el Presidente del CEDEX.
+
+4\. Los procedimientos de responsabilidad patrimonial se resolverán de acuerdo con lo establecido en el artículo 142.2 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+#### Artículo 23. Actos y resoluciones del Director general.
+
+Los actos y resoluciones adoptados por el Director general del CEDEX, en el ejercicio de sus funciones, podrán ser recurridos en alzada ante el Presidente del Organismo.
+
+## CAPÍTULO X — Imagen institucional
+
+#### Artículo 24. Imagen institucional.
+
+1\. La imagen institucional del CEDEX se ajustará a lo establecido en la normativa vigente que regula los criterios de imagen institucional y la producción documental y el material impreso de la Administración General del Estado.
+
+2\. En las actividades que el CEDEX realice en materias relacionadas con las competencias del Ministerio de Medio Ambiente, y Medio Rural y Marino, de conformidad con la dependencia funcional regulada en el apartado 1 del artículo 1 de este Estatuto, el Organismo utilizará una referencia a dicho Departamento en la instrumentalización de su imagen institucional, acompañando a la que expresa su dependencia orgánica y funcional del Ministerio de Fomento.
+
+> Se modifica el apartado 2 por el art. único.13 del Real Decreto 364/2009, de 20 de marzo. [Ref. BOE-A-2009-5313](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5313).
+
+#### Disposición adicional única. Menciones.
+
+Las menciones realizadas al Director General en el Estatuto del Centro de Estudios y Experimentación de Obras Públicas (CEDEX), aprobado por Real Decreto 1136/2002, de 31 de octubre, se entenderán hechas al Director.
+
+> Se añade por la disposición final 2.2 del Real Decreto 638/2010, de 14 de mayo. [Ref. BOE-A-2010-7797](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7797).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9717](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9717).

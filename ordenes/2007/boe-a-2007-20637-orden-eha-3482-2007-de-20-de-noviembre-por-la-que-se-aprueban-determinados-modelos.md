@@ -1,0 +1,3381 @@
+---
+title: "Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos"
+identifier: "BOE-A-2007-20637"
+eli: "https://www.boe.es/eli/es/o/2007/11/20/eha3482"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 2007-11-20
+published: 2007-12-01
+in_force_from: 2008-01-01
+last_amended: 2025-01-31
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 288"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20637"
+retrieved: 2026-10-11
+---
+
+# Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y se modifica la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos
+
+La profunda transformación que han sufrido los impuestos especiales desde la entrada en vigor de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales y el tiempo trascurrido desde su aprobación, ha motivado sucesivas modificaciones en sus normas de desarrollo y aplicación dando lugar a una situación de gran dispersión normativa. Asimismo, el extraordinario desarrollo de los aspectos relacionados con el cumplimiento de obligaciones formales susceptibles de tratamiento informático y la sucesiva extensión de los supuestos de colaboración social se ha plasmado en un elevado número de disposiciones. La presente Orden pone fin a dicha situación, consolidando en una sola disposición la mayor parte de las normas de desarrollo, modificando, para su actualización y simplificación, las órdenes vigentes.
+
+Por otra parte, la implantación del sistema de control de los movimientos de productos en la circulación intracomunitaria (EMCS, Excise Movement and Control System) aconseja anticipar el procedimiento en el ámbito interno, manteniendo las actuales limitaciones de productos y cantidades cuando se trate de envíos al ámbito comunitario no interno. Para ello se amplia el ámbito de la comunicación previa a la Agencia Estatal de Administración Tributaria, incluyéndose los envíos en régimen suspensivo en la circulación interna a la mayor parte de los productos objeto de los impuestos especiales de fabricación.
+
+Asimismo, esta Orden aprueba el formato electrónico y exige la presentación telemática de la relación de abonos realizados a detallistas de gasóleo bonificado que, en cumplimiento de lo dispuesto en el Reglamento de los Impuestos Especiales aprobado por el Real Decreto 1165/1995, de 7 de julio, han de suministrar al centro gestor las entidades de crédito.
+
+Por otro lado, el beneficio fiscal reconocido a los biocarburantes implica la necesidad de un control diferenciado de los establecimientos de producción, almacenamiento y distribución de los mismos, siendo necesario distinguir los depósitos fiscales en función de los productos que en ellos se almacenan.
+
+Finalmente, se aprueba el modelo de declaración-liquidación y el de desglose por establecimientos en relación con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos y el modelo de declaración-liquidación de las operaciones asimiladas a las importaciones en el Impuesto sobre el Valor Añadido, adaptándolos a las modificaciones normativas producidas desde su implantación.
+
+Por lo que se refiere a las habilitaciones normativas, el artículo 18.4 de la Ley 38/1992, de 28 de diciembre, encomienda al Ministro de Economía y Hacienda el establecimiento del lugar, forma, plazos e impresos en los que los sujetos pasivos deben determinar e ingresar la deuda tributaria exigible.
+
+El artículo 20.2 y 3 de la Ley 38/1992, de 28 de diciembre, encomienda al Ministro de Economía y Hacienda la aprobación de las sustancias desnaturalizantes y las proporciones en que deben añadirse al alcohol para dotar a éste de la condición de alcohol total o parcialmente desnaturalizado.
+
+Por su parte, el artículo 41.3 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, autoriza al Ministro de Economía y Hacienda a establecer el repertorio de actividades y a determinar los dígitos y caracteres identificativos a que se refieren los apartados 1 y 2 del mismo artículo.
+
+De igual forma, el artículo 44.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, autoriza al Ministro de Economía y Hacienda a establecer los modelos de declaraciones-liquidaciones o, en su caso, los medios y procedimientos electrónicos, informáticos o telemáticos que pudieran sustituirlas para la determinación e ingreso de la deuda.
+
+El artículo 22.6 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, habilita al Ministro de Economía y Hacienda para establecer que en todos o en alguno de los supuestos de circulación en que proceda la expedición de un documento de acompañamiento, éste contenga una copia suplementaria que sea puesta a disposición de la Administración tributaria con anterioridad al inicio de la circulación que dicho documento vaya a amparar.
+
+El artículo 107.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, habilita al Ministro de Economía y Hacienda para fijar la fecha a partir de la cual las entidades de crédito han de enviar la relación que se refiere en dicho precepto.
+
+Con carácter general, el artículo 98.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria, atribuye competencias al Ministro de Hacienda para determinar los supuestos y condiciones en los que los obligados tributarios deberán presentar por medios telemáticos sus declaraciones, autoliquidaciones, comunicaciones, solicitudes y cualquier otro documento con trascendencia tributaria.
+
+Las habilitaciones al Ministro de Hacienda se deben entender conferidas al Ministro de Economía y Hacienda, en virtud de lo dispuesto en el artículo 5 del Real Decreto 553/2004, de 17 de abril, por el que se reestructuran los departamentos ministeriales.
+
+En su virtud, dispongo:
+
+## Artículo 1. Liquidación y pago de los impuestos especiales de fabricación.
+
+1\. Se aprueban los siguientes modelos de declaración-liquidación para la determinación e ingreso de la deuda tributaria de los impuestos especiales de fabricación, cuya presentación sólo podrá efectuarse por vía telemática en las condiciones y de acuerdo con el procedimiento previsto en los apartados 2 a 6, ambos inclusive, de este artículo:
+
+a) **(Derogado)**
+
+b) Modelo 561: Impuesto sobre la Cerveza. Declaración-liquidación. Anexo II.
+
+c) Modelo 562: Impuesto sobre Productos Intermedios. Declaración-liquidación. Anexo III.
+
+d) Modelo 563: Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración-liquidación. Anexo IV.
+
+e) **(Suprimido)**
+
+f) Modelo 581: Impuesto sobre Hidrocarburos: Autoliquidación.
+
+En relación con los periodos de liquidación anteriores a 2019, su formato electrónico se describe en el anexo V bis.
+
+En relación con periodos de liquidación iniciados a partir del 1 de enero de 2019, su formato electrónico se describe en el anexo V ter.
+
+g) Modelo 566: Impuesto sobre las Labores del Tabaco. Declaración-liquidación. Anexo VI.
+
+h) **(Suprimido)**
+
+i) Modelo DCC. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas, Labores del Tabaco y Electricidad. Declaración de desglose de cuotas centralizadas. Anexo VIII.
+
+j) Modelo 582: Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma. Su formato electrónico se describe en el anexo VIII bis. Este modelo será utilizado con relación a los periodos anteriores a 2019.
+
+Estos modelos deben ser presentados por los sujetos pasivos y demás obligados tributarios que resulten obligados al pago de los correspondientes impuestos especiales de fabricación, excepto en el caso de importación y cuando se trate de los destiladores artesanales definidos en el artículo 20.6 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales. El modelo 582 sólo deberá ser presentado por aquellos que tengan la condición de reexpedidores de acuerdo con la definición contenida en el artículo 1.13 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
+
+No será necesaria la presentación de declaración-liquidación con cuota cero del Impuesto sobre la Electricidad.
+
+En el caso del modelo 582, no será necesaria su presentación cuando en el período de liquidación correspondiente no se hayan realizado reexpediciones a otras Comunidades Autónomas.
+
+En el caso de sujetos pasivos de los impuestos especiales de fabricación que lo sean exclusivamente por la recepción o entrega de productos procedentes del ámbito territorial comunitario no interno, no será necesaria la presentación de las declaraciones-liquidaciones en aquellos períodos de liquidación, en que no se hayan producido recepciones o entregas.
+
+2\. La presentación telemática de las declaraciones-liquidaciones se realizará a través de la sede electrónica de la Agencia Estatal de Administración tributaria y estará sujeta a las siguientes condiciones:
+
+a) El declarante deberá tener instalado en el navegador un certificado de usuario X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda o cualquier otro certificado electrónico admitido por la Agencia Estatal de Administración Tributaria, de acuerdo con lo previsto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria.
+
+Si la presentación telemática va a ser realizada por una persona o entidad autorizada para presentar declaraciones en representación de terceras personas, será esta persona o entidad quien deberá tener instalado en el navegador su certificado.
+
+b) Para efectuar la presentación telemática, el declarante deberá cumplimentar y transmitir los datos del formulario, ajustado a los modelos aprobados por esta Orden, que estarán disponibles en la página web de la Agencia Estatal de Administración Tributaria.
+
+c) Cuando los datos cumplimentados por el declarante adolezcan de errores que impidan que se tenga por efectuada la presentación, se ofrecerá al obligado tributario información individualizada de los errores detectados para que pueda proceder a su corrección. Lo anterior se entiende sin perjuicio de lo dispuesto en el artículo 89 del Real Decreto 1065/2007, de 27 de julio, que aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
+
+3\. El ingreso de las cuotas líquidas devengadas será efectuado, con carácter general, por cada uno de los establecimientos o lugares de recepción en las entidades que actúen como colaboradores en la gestión recaudatoria en los términos establecidos en el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación.
+
+Cuando el sujeto pasivo del Impuesto sobre la Electricidad no sea titular de una fábrica o depósito fiscal, el pago de las cuotas se realizará mediante la presentación de una única declaración-liquidación por cada período de liquidación.
+
+4\. La presentación telemática de las declaraciones-liquidaciones con cuota a ingresar, se efectuará con arreglo al siguiente procedimiento:
+
+a) El declarante se pondrá en comunicación con la entidad de depósito que actúe como colaboradora en la gestión recaudatoria, por vía telemática o acudiendo a sus oficinas, para efectuar el ingreso correspondiente y facilitar los siguientes datos:
+
+1.º NIF del sujeto pasivo (9 caracteres).
+
+2.º Anagrama o las cuatro primeras letras del primer apellido (sólo en el caso de que el declarante sea una persona física).
+
+3.º Ejercicio fiscal (las cuatro cifras del año al que corresponda el período de liquidación por el que se efectúa la declaración).
+
+4.º Período: 2 caracteres (dos dígitos numéricos para periodos impositivos mensuales o, en su caso, un número para indicar el trimestre seguido de la letra T).
+
+5.º Declaración a presentar: Se indicará, en función del Impuesto Especial de Fabricación a ingresar, uno de los modelos relacionados en el apartado 1 de este artículo primero.
+
+6.º Tipo de liquidación = I.
+
+7.º Importe a ingresar (deberá ser mayor que cero).
+
+La entidad colaboradora, una vez realizado el ingreso, asignará un Número de Referencia Completo (NRC) que generará informáticamente mediante un sistema criptográfico que relacione de forma unívoca el NRC con el importe ingresado.
+
+Al mismo tiempo, remitirá o entregará, según la forma de transmisión de datos, un recibo que contendrá, como mínimo los datos señalados en el anexo IX.
+
+b) El declarante en el plazo establecido para efectuar el ingreso en el artículo 44.3 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, se pondrá en contacto con la Agencia Estatal de Administración Tributaria a través de Internet o de cualquier otra vía equivalente que permita la conexión, en la dirección: https://aeat.es y accederá a la Oficina Virtual.
+
+Una vez elegido el concepto fiscal y el modelo de declaración a transmitir, el declarante seleccionará el tipo de declaración «a ingresar» y, en su caso, el tipo de desglose, si se refiere a varios establecimientos. Se señalará ingreso parcial, cuando para una misma declaración se generen varios códigos NRC, o cuando no se ingrese por completo la cuota. Cuando el ingreso no alcance al total de la cuota y se solicite compensación, o aplazamiento con o sin fraccionamiento del resto del importe a ingresar, se señalará respectivamente ingreso y solicitud de compensación, o ingreso y solicitud de aplazamiento. A continuación deberá cumplimentar los datos fiscales del formulario asociado al tipo de declaración seleccionada, en el que, junto con los datos de la correspondiente declaración, deberá introducir el NRC suministrado por la entidad colaboradora.
+
+Si el declarante ha seleccionado la opción «con desglose por establecimiento», deberá presentar, simultáneamente con la declaración-liquidación, la «Declaración de Desglose de Cuotas Centralizadas», ajustada al contenido de los modelos de declaración DDC, para el Impuesto sobre Hidrocarburos, o DCC, para el resto de los impuestos especiales de fabricación, anexos VII y VIII, respectivamente, de la presente Orden. La presentación de esta declaración deberá efectuarse obligatoriamente por vía telemática, en las mismas condiciones y procedimiento establecidos para la declaración que complementan.
+
+c) A continuación procederá a transmitir la declaración con la firma electrónica, generada al seleccionar el certificado previamente instalado al efecto en el navegador.
+
+Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+d) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla la declaración validada con un código electrónico de dieciséis caracteres, con indicación de la fecha y hora de presentación.
+
+En el supuesto de que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+5\. La presentación de las declaraciones-liquidaciones sin cuota a ingresar se efectuará con arreglo al siguiente procedimiento:
+
+a) El declarante, dentro del plazo establecido para efectuar el ingreso en el artículo 44.3 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, se pondrá en contacto con la Agencia Estatal de Administración Tributaria a través de Internet o de cualquier otra vía equivalente que permita la conexión, en la dirección: https://aeat.es, accederá a la Oficina Virtual y seleccionará el concepto fiscal y el modelo de declaración a transmitir.
+
+Una vez elegido el concepto fiscal y el modelo de declaración a transmitir, el declarante seleccionará el tipo de declaración «cuota cero». En aquellos casos en los que la presentación del modelo 582 implique una solicitud de devolución, el tipo de declaración que se deberá seleccionar es el de «a devolver». El declarante cumplimentará los datos fiscales del formulario asociado al tipo de declaración seleccionada.
+
+b) Una vez cumplimentados los datos fiscales del formulario asociado al tipo de declaración seleccionada, procederá a transmitir la declaración con la firma electrónica, generada al seleccionar el certificado previamente instalado al efecto en el navegador.
+
+Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+c) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla la declaración validada con un código electrónico de dieciséis caracteres, con indicación de la fecha y hora de presentación.
+
+d) En el supuesto de la que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+6\. La presentación de las declaraciones-liquidaciones con solicitud de aplazamiento o fraccionamiento o de reconocimiento de deuda con solicitud de compensación se efectuará con arreglo al siguiente procedimiento:
+
+a) El declarante, dentro del plazo a que se refiere el apartado 4.b) de este artículo, se pondrá en contacto con la Agencia Estatal de Administración Tributaria a través de Internet o de cualquier otra vía equivalente que permita la conexión, en la dirección: https://aeat.es, accederá a la Oficina Virtual y seleccionará el concepto fiscal y el modelo de declaración a transmitir.
+
+Una vez elegido el concepto fiscal y el modelo de declaración a transmitir, el declarante seleccionará el tipo de declaración presentada entre las siguientes opciones: reconocimiento de deuda con solicitud de compensación, solicitud de aplazamiento, reconocimiento de deuda y, en su caso, el tipo de desglose. A continuación deberá cumplimentar los datos fiscales del formulario asociado al tipo de declaración seleccionada.
+
+Si el declarante ha seleccionado la opción «con desglose por establecimiento», deberá presentar, simultáneamente con la declaración-liquidación, la «Declaración de Desglose de Cuotas Centralizadas», ajustada al contenido de los modelos de declaración DDC, para el Impuesto sobre Hidrocarburos, o DCC, para el resto de los impuestos especiales de fabricación, que se aprueban, respectivamente, como anexos VII y VIII de la presente Orden. La presentación de esta declaración deberá efectuarse obligatoriamente por vía telemática, en las mismas condiciones y procedimiento establecidos para la declaración que complementan.
+
+b) Una vez cumplimentados los datos fiscales del formulario asociado al tipo de declaración seleccionada, procederá a transmitir la declaración con la firma electrónica, generada al seleccionar el certificado previamente instalado al efecto en el navegador.
+
+Si el presentador es una persona o entidad autorizada a presentar declaraciones en representación de terceras personas, se requerirá una única firma, la correspondiente a su certificado.
+
+c) Si la declaración es aceptada, la Agencia Estatal de Administración Tributaria le devolverá en pantalla la declaración validada con un código electrónico de dieciséis caracteres, con indicación de la fecha y hora de presentación.
+
+d) En el supuesto de la que la presentación fuese rechazada se mostrará en pantalla la descripción de los errores detectados. En este caso, se deberá proceder a subsanar los mismos en el formulario de entrada, o repitiendo la presentación si el error fuese originado por otro motivo.
+
+> Se suprimen las letras e) y h) y se modifican las letras f) y j) del apartado 1 por el art. único.1 a 4 de la Orden HAC/135/2019, de 31 de enero. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se deroga la letra a) del apartado 1 por la disposición derogatoria única.1 de la Orden HAP/2489/2014, de 29 de diciembre. [Ref. BOE-A-2014-13678](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13678)
+
+> Se modifica el apartado 1 y el segundo párrafo de la letra a) del apartado 5 por el art. único.1 y 2 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se modifica el párrafo introductorio y se añade la letra c) en el apartado 2 por el art. único.1 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 2. Presentación de declaraciones de operaciones.
+
+1\. Como complemento a las declaraciones-liquidaciones, los sujetos pasivos, dentro del plazo establecido para efectuar el ingreso en el artículo 44.3 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, están obligados a presentar por Internet las declaraciones que comprendan las operaciones realizadas, incluso cuando sólo tengan existencias, de acuerdo con los modelos aprobados en la presente orden.
+
+No será exigible la declaración de operaciones a los titulares de establecimientos que lleven su contabilidad a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria ni a quienes tengan la condición de sujeto pasivo en calidad de sustitutos del contribuyente, de acuerdo con lo previsto por el párrafo segundo del apartado 3 del artículo 8 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+No obstante lo anterior, mientras el tipo impositivo del Impuesto sobre el Vino y Bebidas Fermentadas sea cero, el plazo para que los fabricantes y titulares de depósitos fiscales de productos objeto de este impuesto presenten la declaración de operaciones, será el establecido en el artículo 66.5 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
+
+2\. Cuando el sujeto pasivo estuviese autorizado para efectuar la centralización de ingresos, presentará las siguientes declaraciones de operaciones:
+
+a) Una declaración de operaciones consolidada de todos sus establecimientos.
+
+b) Una declaración de operaciones por cada establecimiento.
+
+3\. Se aprueban los siguientes modelos de declaraciones de operaciones, cuya presentación deberá efectuarse obligatoriamente por vía telemática, en las condiciones y procedimiento descritos en los artículos 1.2 y 1.5.a), párrafo primero, b), c) y d) de la presente Orden:
+
+a) Modelo 553. Impuesto sobre el Vino y Bebidas Fermentadas. Declaración de operaciones en fábricas y depósitos fiscales de vino y bebidas fermentadas. Anexo X.
+
+b) Modelo 554. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en fábricas y depósitos fiscales de alcohol. Anexo XI.
+
+c) Modelo 555. Impuesto sobre Productos Intermedios. Declaración de operaciones en fábricas y depósitos fiscales de productos intermedios. Anexo XII.
+
+d) Modelo 556. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en las fábricas de productos intermedios del artículo 32 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales. Anexo XIII.
+
+e) Modelo 557. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en fábricas y depósitos fiscales de bebidas derivadas. Anexo XIV.
+
+f) Modelo 558. Impuesto sobre la Cerveza. Declaración de operaciones en fábricas y depósitos fiscales de cerveza. Anexo XV.
+
+g) Modelo 570. Impuesto sobre Hidrocarburos. Declaración de operaciones en fábricas y depósitos fiscales de hidrocarburos. Anexo XVI.
+
+h) Modelo 580. Impuesto sobre las Labores del Tabaco. Declaración de operaciones en fábricas y depósitos fiscales de labores del tabaco. Anexo XVII.
+
+i) Modelo 510. Impuestos Especiales de Fabricación. Declaración de operaciones de recepción de productos del resto de la Unión Europea. Anexo XVIII.
+
+4\. La declaración de operaciones 510 será presentada exclusivamente por los destinatarios registrados, los destinatarios registrados ocasionales, los receptores autorizados de envíos garantizados y los representantes fiscales, no debiendo reflejar mas movimientos que las recepciones y entregas de productos procedentes de otros Estados miembros de la Unión Europea.
+
+> Se modifica el apartado 1, con efectos de 1 de enero de 2020, por la disposición final 2 de la Orden HAC/998/2019, de 23 de septiembre. [Ref. BOE-A-2019-14247](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-14247)
+
+> Se modifica el primer párrafo del apartado 1 por el art. único.3 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se modifica el apartado 4 por el art. único.2 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 3. Liquidación y pago del Impuesto sobre el Alcohol y Bebidas Derivadas en los regímenes de destilación artesanal y de cosechero.
+
+1\. Se aprueban los siguientes modelos para la determinación e ingreso de la deuda tributaria correspondiente a las Tarifas primera y segunda del régimen de destilación artesanal a las que se refiere el artículo 40.2 de la Ley 38/1992, de 28 de diciembre, para las bebidas derivadas obtenidas en los regímenes de destilación artesanal y cosechero:
+
+a) Modelo 559. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Declaración-liquidación, soporte papel. Anexo XIX. Este modelo consta de tres ejemplares: Ejemplar para la Administración, ejemplar para el sujeto pasivo y ejemplar para la entidad colaboradora.
+
+b) Modelo 559. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Declaración-liquidación, formato electrónico. Anexo XX. Para presentación telemática.
+
+c) Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero, anexo XXI, formato papel, que deberá presentarse conjuntamente con las declaraciones liquidaciones modelo 559, en los casos de destilación de orujos de cosechero por parte de los destiladores artesanales. Este modelo consta de dos ejemplares, ejemplar para la Administración y ejemplar para el sujeto pasivo.
+
+d) Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero, anexo XXII, formato electrónico, para la presentación telemática, que deberá presentarse conjuntamente con las declaraciones-liquidaciones modelo 559, en los casos de destilación de orujos de cosechero por parte de los destiladores artesanales.
+
+Estos modelos deben ser presentados por los destiladores artesanales definidos en el artículo 20.6 de la Ley 38/1992, de 28 de diciembre, en soporte papel o telemáticamente.
+
+2\. La presentación en soporte papel se realizará en los plazos y de conformidad con el procedimiento siguiente:
+
+a) La presentación de la declaración-liquidación y el pago simultáneo de las cuotas devengadas, se efectuará en las entidades de depósito que actúen como colaboradoras en la gestión recaudatoria, en los términos establecidos en el Reglamento General de Recaudación, aprobado por el Real Decreto 939/2005, de 29 de julio.
+
+b) La Entidad colaboradora, una vez efectuado el ingreso, validará todos los ejemplares de la declaración-liquidación y devolverá al declarante los destinados a la Administración y al sujeto pasivo.
+
+c) El ejemplar para la Administración de la declaración-liquidación, y el Modelo RBRC, «Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero», cuando proceda este último, se presentarán en la oficina gestora en la que esté inscrito el destilador artesanal, conforme a lo establecido en el artículo 99 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, en los siguientes plazos:
+
+1.º Tarifa 1.ª: Con carácter previo a la presentación ante la oficina gestora de la solicitud de autorización para destilar.
+
+2.º Tarifa 2.ª: Si el período de liquidación es trimestral, los veinte primeros días naturales del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Si el período de liquidación es mensual, los veinte primeros días naturales del tercer mes siguiente a aquel en que finaliza el mes en que se han producido los devengos.
+
+d) El período se indicará con 2 caracteres. En la tarifa 1.ª se puntualizará «OA». En la tarifa 2.ª los dos dígitos correspondientes al mes de que se trate, en el supuesto de períodos impositivos mensuales, o un número para indicar el trimestre de que se trate seguido de la letra T, en el caso de periodos impositivos trimestrales.
+
+3\. La presentación telemática de las declaraciones-liquidaciones se efectuará con arreglo al procedimiento establecido en los apartados 2 a 6, ambos inclusive, del artículo 1 de la presente orden, con las particularidades respecto a los plazos de ingreso y periodo de liquidación referidas en el apartado anterior. Cuando proceda simultáneamente a la presentación de la declaración-liquidación se presentará el Modelo RBRC, «Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero», en las condiciones y procedimiento descritos en los artículos 1.2 y 1.5.a), párrafo primero, b), c) y d) de la presente Orden.
+
+4\. No será necesaria la presentación de la declaración-liquidación en periodos de inactividad de los aparatos de destilación.
+
+## Artículo 4. Solicitudes de devolución de los impuestos especiales de fabricación.
+
+1\. A efectos de lo dispuesto en los artículos 7.1, 8.5, 9.4, 10.4, 54.5, 57.4, 80.d), 109.4 y 111.5 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, se aprueban los siguientes modelos para la solicitud de devolución de las cuotas de impuestos especiales de fabricación soportadas:
+
+a) Modelo 506. Impuestos Especiales de Fabricación. Solicitud de devolución por introducción en depósito fiscal. Anexo XXIII.
+
+b) **(Derogado)**
+
+c) Modelo 508. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de ventas a distancia. Anexo XXV.
+
+d) Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por exportación o expedición. Anexo XXVI.
+
+e) Modelo 524. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas. Solicitud devolución. Anexo XXVII.
+
+f) Modelo 572. Impuesto sobre Hidrocarburos. Solicitud devolución. Anexo XXVIII.
+
+2\. Las solicitudes de devolución se presentarán en los siguientes supuestos y plazos:
+
+a) El modelo 506 deberá presentarse en los supuestos previstos en el artículo 8 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio. La solicitud deberá presentarse dentro de los veinte primeros días del mes siguiente al de la finalización del trimestre en el que hayan llegado a su destino, en otros Estados miembros, los productos introducidos para ello en depósito fiscal.
+
+b) **(Derogado)**
+
+c) El modelo 508 deberá presentarse en los supuestos previstos en el artículo 10 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio. La solicitud deberá presentarse dentro de los veinte primeros días del mes siguiente al de la finalización del trimestre en el que se haya pagado el Impuesto Especial, o se haya efectuado su cargo contable, en los Estados miembros de destino, correspondiente a los productos que han sido enviados a dichos Estados en el sistema de ventas a distancia.
+
+d) El modelo 590 deberá presentarse en los supuestos previstos en los artículos 7 y 57.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio. La solicitud se presentará inmediatamente después de la presentación del documento aduanero para el despacho de exportación de las mercancías.
+
+e) El modelo 524 deberá presentarse en los supuestos previstos en los artículos 54 y 80 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio. La solicitud deberá presentarse dentro de los veinte primeros días del mes siguiente al de la finalización del trimestre en el que se hayan utilizado el alcohol o las bebidas alcohólicas en los usos previstos en los artículos 22.a) y b) y 43 de la Ley 38/1992, de 28 de diciembre.
+
+f) El modelo 572 deberá presentarse en los supuestos previstos en los artículos 109 y 111 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio. La solicitud deberá presentarse dentro de los veinte primeros días del mes siguiente al de la finalización del trimestre en el que se hayan utilizado los productos objeto del Impuesto sobre Hidrocarburos en los usos previstos en el artículo 52.a) y c) de la Ley 38/1992, de 28 de diciembre.
+
+3\. La presentación de las solicitudes de devolución de los impuestos especiales de fabricación, cuyos modelos se aprueban en este artículo, deberá efectuarse dentro de los plazos señalados en el anterior apartado 2 de este artículo, obligatoriamente por vía telemática, en las condiciones y de acuerdo con el procedimiento establecidos en los artículos 1.2 y 1.5.a), párrafo primero, b), c) y d) de la presente Orden.
+
+> Se deroga la letra b) del apartado 1 y la letra b) del apartado 2 por la disposición derogatoria única de la Orden HFP/626/2023, de 14 de junio. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+> Se modifica la letra d) del apartado 2 por el art. único.4 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+## Artículo 5. Marcas fiscales.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Orden HAC/1271/2019, de 9 de diciembre. [Ref. BOE-A-2019-18747](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18747)
+
+> Téngase en cuenta, sobre el mantenimiento de la validez de determinadas precintas, la disposición transitoria 2 de la citada Orden.
+
+> Se deroga en lo relativo a las precintas para cigarrillos y marca especial para cigarrillos, según establece la disposición derogatoria única de la Orden HAC/484/2019, de 9 de abril. [Ref. BOE-A-2019-6339](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6339)
+
+> Se modifican los apartados 1 y 2 por el art. único.3 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se deroga el apartado 2 por el art. 1.1 de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## Artículo 6. Solicitud y autorización de recepción de productos objeto de impuestos especiales de fabricación del resto de la Unión Europea.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden HFP/626/2023, de 14 de junio. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+> Se modifican los apartados 3 y 4 por el art. único.1 de la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)
+
+> Se modifica el primer párrafo del apartado 1 por el art. 2.1 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se modifica el apartado 3 por el art. único.4 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 7. Parte de incidencias en la circulación.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se modifica por el art. único.5 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 8. Relaciones de documentos de acompañamiento.
+
+1\. A efectos de lo establecido en el artículo 23.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, se aprueba el Modelo 551, «Impuestos Especiales de Fabricación. Relación mensual de documentos simplificados de acompañamiento expedidos», cuyo formato electrónico se recoge en el Anexo XXXVIII.
+
+2\. La presentación del Modelo 551 deberá hacerse telemáticamente, dentro del mes siguiente a las expediciones referidas.
+
+> Se modifica por el art. 2.3 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se modifica por el art. único.6 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 9. Relación anual de destinatarios de productos sensibles de la tarifa segunda del Impuesto sobre Hidrocarburos.
+
+1\. A efectos de lo dispuesto en el artículo 116 bis.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, se aprueba el Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de productos de la tarifa segunda. Anexo XLI, que deberá ser presentada a la oficina gestora correspondiente al lugar del establecimiento expedidor, por parte de los titulares de fábricas, depósitos fiscales y almacenes fiscales que hayan enviado a algún destinatario, durante el año anterior, productos sensibles de la tarifa segunda del Impuesto sobre Hidrocarburos, con aplicación de la exención contemplada en el artículo 51.1 de la Ley 38/1992, de 28 de diciembre, en cantidad igual o superior a 50.000 litros. En dicha relación deberán incluirse los datos relativos a los destinatarios así como la cantidad de productos remitida a cada uno de ellos.
+
+2\. Esta relación anual debe cumplimentarse por cada establecimiento expedidor y sólo habrá que presentarla o remitirla en el supuesto de que, durante el año anterior, existan destinatarios a los que se hayan efectuado envíos de productos en cantidad igual o superior a 50.000 litros.
+
+3\. La relación anual deberá ser presentada telemáticamente por Internet dentro del primer trimestre de cada año, en las condiciones y de acuerdo con el procedimiento establecidos en los artículos 1.2 y 1.5.a), párrafo primero, b), c) y d) de la presente Orden.
+
+> Se modifica el apartado 1 por el art. 1.2 de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## Artículo 10. Sistema de alerta previa en la circulación intracomunitaria de determinados productos objeto de los impuestos especiales de fabricación.
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 11. Comunicación previa en la circulación de determinados productos objeto de los impuestos especiales de fabricación.
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.4 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se modifica la letra d) del apartado 1 y el apartado 2 por el art. único.8 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## Artículo 12. Presentación de otras declaraciones y documentos utilizados en la gestión de los impuestos especiales de fabricación.
+
+1\. Deberán presentarse por vía telemática las siguientes declaraciones y documentos:
+
+a) Recibos y comprobantes de entrega utilizados en avituallamiento de aeronaves y embarcaciones.
+
+b) Relación de pagos efectuados mediante cheques-gasóleo bonificado y tarjetas-gasóleo bonificado. Modelo 544, aprobado por Resolución de 16 de septiembre de 2004, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, por la que se establecen las normas de cumplimentación de los documentos de acompañamiento que amparan la circulación de productos objeto de los impuestos especiales de fabricación, el sistema para la transmisión electrónica de determinados documentos y declaraciones utilizados en la gestión de los impuestos especiales y se aprueba el modelo 511.
+
+c) Relación de suministros de carburantes realizados en el marco de las relaciones internacionales con devolución del Impuesto sobre Hidrocarburos. Modelo 545, aprobado por Resolución de 16 de septiembre de 2004, del Departamento de Aduanas e Impuestos Especiales.
+
+d) **(Derogado)**
+
+e) Modelo 518. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de trabajo, aprobado por Resolución de 20 de enero de 1998, del Departamento de Aduanas e Impuestos Especiales de la Agencia Estatal de Administración Tributaria, por la que se aprueban diversos modelos en relación con la gestión de los impuestos especiales.
+
+f) Modelo 519. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de incidencias en operaciones de trabajo, aprobado por Resolución de 20 de enero de 1998, del Departamento de Aduanas e Impuestos Especiales.
+
+g) Modelo 520. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de resultado en operaciones de trabajo, aprobado por Resolución de 20 de enero de 1998, del Departamento de Aduanas e Impuestos Especiales.
+
+2\. Podrán presentarse por vía telemática las siguientes declaraciones y documentos:
+
+a) **(Suprimida)**
+
+b) Documentos simplificados de acompañamiento, administrativos y comerciales.
+
+c) **(Derogado)**
+
+d) **(Derogado)**
+
+3\. La presentación telemática se realizará en las condiciones y de acuerdo con el procedimiento establecido en los artículos 1.2 y 1.5.a), párrafo primero, b), c) y d) de la presente Orden, en los plazos siguientes:
+
+a) **(Suprimida)**
+
+b) Los documentos simplificados de acompañamiento, administrativos y comerciales, dentro del mes siguiente a su expedición.
+
+c) **(Derogado)**
+
+d) **(Derogado)**
+
+e) **(Derogado)**
+
+f) Modelo 544, Modelo 545 y Modelo 546, en un plazo que terminará el día veinte del mes siguiente al de la finalización del trimestre.
+
+g) Modelo 518, con una antelación de al menos 1 día hábil antes del comienzo de la operación.
+
+h) Modelo 519, con carácter inmediato a la producción de la incidencia a que se refiera.
+
+i) Modelo 520 el día de finalización del período de actividad con arreglo a lo indicado en la declaración de trabajo y/o, en su caso, en el parte de incidencias en operaciones de trabajo.
+
+4\. **(Derogado)**
+
+> Se deroga el apartado 4, con efectos de 1 de enero de 2020, por la disposición derogatoria única de la Orden HAC/998/2019, de 23 de septiembre. [Ref. BOE-A-2019-14247](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-14247)
+
+> Se derogan los apartados 1.d), 2.c), 2.d), 3.c), 3.d) y 3.e) por la disposición derogatoria única de la Orden HAC/1147/2018, de 9 de octubre. [Ref. BOE-A-2018-14900](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14900)
+
+> Téngase en cuenta que resultará de aplicación a las expediciones y avituallamientos que se realicen a partir del 1 de julio de 2019, según se establece en su disposición final 2.
+
+> Se suprime la letra a) del apartado 2 y la letra a) del apartado 3 por el art. 2.5 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se modifica la letra d) del apartado 3 por el art. único.5 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se modifica por el art. único.9 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se modifican las letras b), c) y d) del apartado 1 y d) del apartado 2 por el art. 1.3 y 4 de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## Artículo 13. Código de Actividad y del Establecimiento.
+
+A efectos de lo dispuesto en el artículo 41.3 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, se aprueba el repertorio de las claves para configurar el Código de Actividad y del Establecimiento (CAE) de las actividades sometidas al requisito de inscripción en el Registro Territorial, que se recogen en el anexo XLII.
+
+## Artículo 14. Códigos identificativos de las oficinas gestoras, códigos de epígrafe de los productos objeto de los impuestos especiales de fabricación y la relación de códigos de los Estados miembros de la Unión Europea.
+
+A efectos de la correcta cumplimentación de los documentos referidos en la presente Orden se aprueban los códigos identificativos de las oficinas gestoras, los códigos de epígrafe y de unidad de los productos objeto de los impuestos especiales de fabricación y la relación de códigos de los Estados miembros de la Unión Europea, que se recogen respectivamente en los anexos XLIII, XLIV y XLV.
+
+## Artículo 15. Desnaturalizantes de alcohol.
+
+1\. A efectos de lo dispuesto en el artículo 20 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y en los artículos 73, 74 y 75 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio, se aprueban los siguientes desnaturalizantes de alcohol, siempre que se adicionan a éste en la forma y cantidades que se determinan a continuación.
+
+2\. Alcohol totalmente desnaturalizado. Se considerará como tal el alcohol que contiene en 100 litros de alcohol puro:
+
+a) 1,0 litro de alcohol isopropílico, más
+
+b) 1,0 litro de metiletilcetona, más
+
+c) 1,0 gramo de benzoato de denatonio, y
+
+d) 0,2 gramos de azul de metileno (color Index 52015).
+
+3\. Alcohol parcialmente desnaturalizado de uso general. Se considerará como tal el alcohol que contiene, como mínimo, en 100 litros de alcohol puro:
+
+a) 1 gramo de benzoato de denatonio, o
+
+b) 0,3 litros de ftalato de dietilo, conjuntamente con 0,2 gramos de benzoato de denatonio, o
+
+c) 1,25 litros de metiletilcetona (2-butanona).
+
+4\. Se considerará que el alcohol está totalmente o parcialmente desnaturalizado, cuando los análisis de las muestras den unos resultados no inferiores al 95 por 100 de los valores citados en los apartados anteriores, incluidos los errores de método.
+
+> Se modifica el apartado 2 por el art. único.2 la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)
+
+> Se modifican los apartados 1 y 2 por el art. 2.6 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+## Artículo 16. Obligaciones de las entidades emisoras de medios de pago específicos.
+
+1\. Las entidades emisoras de los medios de pago específicos a que se refiere el artículo 107 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, deberán presentar durante los 20 primeros días siguientes a la finalización de cada trimestre, una relación de los importes abonados trimestralmente por dichas entidades a los detallistas de gasóleo bonificado a que se refiere el artículo 106 del citado Reglamento.
+
+2\. Se aprueba el Modelo 547. Impuesto sobre Hidrocarburos. Relación de abonos realizados a detallistas de gasóleo bonificado por las entidades emisoras de medios de pago específicos. Anexo XLVI.
+
+3\. La presentación telemática de las relaciones mencionadas en el apartado anterior se realizará exclusivamente por Internet, en el plazo anteriormente citado, en las condiciones y de acuerdo con el procedimiento establecidos en los artículos 1.2 y 1.5.a), párrafo primero, b), c) y d) de la presente Orden.
+
+## Artículo 17. Declaración-liquidación y relación de suministros exentos en el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos.
+
+1\. Se aprueba el Modelo 569. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración-liquidación y Relación de suministros y autoconsumos exentos, y el Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración de desglose por establecimientos de cuotas o suministros exentos correspondientes a los establecimientos a través de los cuales opera el mismo sujeto pasivo, anexos XLVII y XLVIII respectivamente, cuya presentación sólo podrá efectuarse por vía telemática a través de Internet.
+
+2\. La presentación telemática de la declaración-liquidación estará sujeta a las condiciones y procedimientos establecidos en los apartados 2 a 6, ambos inclusive, del artículo 1 con las siguientes particularidades:
+
+a) Las referencias a las «Declaraciones de Desglose de Cuotas Centralizadas» modelos DDC y DCC, se entenderán realizadas a la «Declaración de Desglose por Establecimientos» modelo DDE aprobada en el apartado anterior.
+
+b) Plazo de presentación: Los veinte primeros días naturales siguientes a aquel en que finaliza el trimestre en que se han producido los devengos.
+
+## Artículo 18. Modelo declaración de consumidor final.
+
+Se aprueban dos modelos de declaración de consumidor final, en el ámbito del Impuesto sobre Hidrocarburos, “Declaración de consumidor final artículo 106.4 RIE suministro único” y “Declaración de consumidor final artículo 106.4 RIE varios suministros” en los términos previstos en el artículo 106, apartado 4, del Reglamento de los Impuestos Especiales, anexos L y LI respectivamente.
+
+> Se añade por el art. único.2 la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)
+
+> Téngase en cuenta que estos dos modelos son de aplicación a partir del 21 de septiembre de 2018, según establece la disposición final única de la citada Orden.
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. A la entrada en vigor de esta Orden, quedarán derogadas las siguientes disposiciones:
+
+a) Orden del Ministerio de Economía y Hacienda, de 30 de julio de 1992, por la que se aprueban nuevos modelos de sellos y precintas de circulación para envases que contengan bebidas derivadas.
+
+b) Orden del Ministerio de Economía y Hacienda, de 12 de julio de 1993, por la que se establecen diversas normas de gestión en relación con los impuestos especiales de fabricación.
+
+c) Orden del Ministerio de Economía y Hacienda, de 27 de diciembre de 1996, por la que se aprueban precintas de circulación para envases de 4,5 litros, 5 litros y 10 litros de capacidad, que contengan bebidas derivadas, y se actualiza el modelo 517 para su gestión.
+
+d) Orden del Ministerio de Economía y Hacienda, de 8 de abril de 1997, por la que se establecen normas sobre lugar, forma, plazos e impresos para la determinación e ingreso de los impuestos especiales de fabricación.
+
+e) Orden del Ministerio de Economía y Hacienda, de 2 de febrero de 1999, por la que se aprueban los modelos en euros para la gestión de los impuestos especiales de fabricación, y la presentación por vía telemática de declaraciones-liquidaciones para las grandes empresas.
+
+f) Orden del Ministerio de Economía y Hacienda, de 21 de diciembre de 1999, por la que se aprueba una marca especial para su incorporación a cigarrillos destinados a la venta a viajeros en determinados desplazamientos.
+
+g) Orden del Ministerio de Economía y Hacienda, de 22 de marzo de 2000, por la que se aprueban los nuevos modelos de relaciones recapitulativas y los soportes magnéticos de documentos de acompañamiento expedidos y de documentos de acompañamiento recibidos en tráfico intracomunitario, incluidos los simplificados.
+
+h) Orden del Ministerio de Hacienda, de 28 de diciembre de 2001, por la que se aprueba el modelo de declaración para el desglose por establecimientos de cuotas centralizadas de impuestos especiales de fabricación, se establece la presentación telemática por Internet de declaraciones-liquidaciones por los conceptos de impuestos especiales de fabricación y del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, y la obligación de declarar el número de albarán con cargo al cual se expiden las notas de entrega en el procedimiento de ventas en ruta.
+
+i) Orden del Ministerio de Hacienda, de 28 de diciembre de 2001, por la que se establece el modelo de la relación anual de destinatarios de productos de la tarifa segunda del Impuesto sobre Hidrocarburos en cantidad igual o superior a 50.000 litros.
+
+j) Orden HAC/1149/2003, de 5 de mayo, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática por Internet de los documentos utilizados en la gestión de impuestos especiales y se modifica la Orden de 22 de marzo de 2000, por la que se aprueban los nuevos modelos de relaciones recapitulativas y los soportes magnéticos de documentos de acompañamiento expedidos y de documentos de acompañamiento recibidos en tráfico intracomunitario, incluidos los simplificados.
+
+k) Orden HAC/2696/2003, de 27 de agosto, por la que se establece el sistema de alerta previa en la circulación intracomunitaria de determinados productos objeto de los impuestos especiales de fabricación.
+
+l) El Apartado Sexto de la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones.
+
+m) Orden EHA/2167/2005, de 29 de junio, por la que se aprueba el modelo DDC de Declaración de Desglose de Cuotas Centralizadas del Impuesto sobre Hidrocarburos y se establecen sus normas de presentación.
+
+n) Orden EHA/3798/2005, de 29 de noviembre, por la que se establece la declaración previa en la circulación en el ámbito territorial interno del alcohol etílico y se modifica la Orden HAC/2696/2003, de 27 de agosto, por la que se establece el sistema de alerta previa en la circulación intracomunitaria de determinados productos objeto de los impuestos especiales de fabricación.
+
+ñ) Orden EHA/3547/2006, de 4 de octubre, por la que se aprueba el modelo de la declaración-liquidación del Impuesto sobre el Alcohol y Bebidas Derivadas en los regímenes de destilación artesanal y cosechero y se establecen las condiciones generales de su presentación, y se modifica la Orden de 15 de junio de 1995, en relación con las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+o) Orden EHA/3548/2006, de 4 de octubre, por la que se aprueban los modelos, las condiciones y el procedimiento para la presentación telemática de las declaraciones de los impuestos especiales de fabricación y del Impuesto sobre Ventas Minoristas de Determinados Hidrocarburos y se establece la presentación obligatoria por vía telemática del modelo 380 de la declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones.
+
+p) Orden EHA/3948/2006, de 21 de diciembre, por la que se aprueban los dígitos identificativos de las oficinas gestoras y las claves para configurar el Código de Actividad y de Establecimiento (CAE), que identifica la actividad desarrollada en relación con los impuestos especiales de fabricación.
+
+2\. Quedan asimismo derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente Orden.
+
+## Disposición final primera. Modificación de la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos.
+
+La Orden EHA/1308/2005, de 11 de mayo, por la que se prueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento de presentación por medios telemáticos, queda modificada en los siguientes términos:
+
+Uno. El apartado primero queda redactado del siguiente modo:
+
+«Primero. Aprobación del modelo 380.-Se aprueba el modelo 380 «Declaración-liquidación. Operaciones asimiladas a las importaciones del Impuesto sobre el Valor Añadido», que figura como anexo I de esta Orden.»
+
+Dos. El punto 1 del apartado séptimo, queda redactado del siguiente modo:
+
+«1. El modelo 380 se deberá presentar por vía telemática en los plazos establecidos en el artículo 73 del Real Decreto 1624/1992, de 29 de diciembre, por el que se aprueba el Reglamento del Impuesto sobre el Valor Añadido y en el apartado Cuarto de esta Orden. Con carácter general, deberán seguirse las normas contenidas en la Orden EHA/3212/2004, de 30 de septiembre, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes a los modelos 308, 309, 341, 370, 371, 430 y 480.
+
+No obstante, cuando el obligado al pago solicite aplazamiento o fraccionamiento de la deuda, se seguirá el procedimiento establecido en la Orden del Ministerio de Hacienda de 21 de diciembre de 2000, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática por Internet de las declaraciones correspondientes a los modelos 117, 123, 124, 126, 128, 216, 131, 310, 311, 193, 198, 296 y 345.
+
+El declarante deberá cumplimentar y transmitir los datos fiscales del formulario disponible en la página web de la Agencia Tributaria (www.agenciatributaria.es), ajustados al contenido del modelo 380 vigente.»
+
+Tres. El modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones contenido en el anexo I de la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido en operaciones asimiladas a las importaciones, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento de presentación por medios telemáticos queda sustituido por el modelo incluido en el anexo XLIX de la presente Orden.
+
+## Disposición final segunda. Modificación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+El apartado 2 de la disposición adicional única de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, queda modificado en los siguientes términos:
+
+«2. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios, podrán hacer uso de dicha facultad respecto de las siguientes declaraciones y documentos:
+
+Documentos de acompañamiento, administrativos y comerciales.
+
+Documentos simplificados de acompañamiento, administrativos y comerciales.
+
+Notas de entrega emitidas dentro del procedimiento de ventas en ruta.
+
+Recibos y comprobantes de entrega utilizados en avituallamiento de aeronaves y embarcaciones.
+
+Modelo DDC. Impuesto sobre Hidrocarburos. Declaración de desglose de cuotas centralizadas.
+
+Modelo DCC. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas, Labores del Tabaco y Electricidad. Declaración de desglose de cuotas centralizadas.
+
+Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración de desglose por establecimientos.
+
+Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero.
+
+Modelo 506. Impuestos Especiales de Fabricación. Solicitud de devolución por introducción en depósito fiscal.
+
+Modelo 507. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
+
+Modelo 508. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de ventas a distancia.
+
+Modelo 509. Impuestos Especiales de Fabricación. Parte de incidencias.
+
+Modelo 510. Impuestos Especiales de Fabricación. Declaración de operaciones de recepción de productos del resto de la Unión Europea.
+
+Modelo 511. Impuestos Especiales de Fabricación. Relación mensual de notas de entrega de productos con el impuesto devengado a tipo reducido o con aplicación de una exención por avituallamiento, expedidos por el procedimiento de ventas en ruta.
+
+Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de productos de la tarifa segunda.
+
+Modelo 517. Impuestos Especiales de Fabricación. Petición de marcas fiscales a la oficina gestora de impuestos especiales.
+
+Modelo 518. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de trabajo.
+
+Modelo 519. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de incidencias en operaciones de trabajo.
+
+Modelo 520. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de resultado en operaciones de trabajo.
+
+Modelo 524. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas. Solicitud de devolución.
+
+Modelo 544. Relación de pagos efectuados mediante cheques-gasóleo bonificado y tarjetas gasóleo-bonificado.
+
+Modelo 545. Relación de suministros de carburantes realizados en el marco de las relaciones internaciones con devolución del Impuesto sobre Hidrocarburos.
+
+Modelo 546. Relación de suministros de gasóleo marcado a embarcaciones con devolución del Impuesto sobre Hidrocarburos.
+
+Modelo 547. Impuesto sobre Hidrocarburos. Relación de abonos realizados a detallistas de gasóleo bonificado por las entidades emisoras de medios de pago específicos.
+
+Modelo 551. Impuestos Especiales de Fabricación. Relación semanal de documentos de acompañamiento expedidos.
+
+Modelo 552. Impuestos Especiales de Fabricación. Relación semanal de documentos de acompañamiento recibidos en tráfico intracomunitario.
+
+Modelo 553. Impuesto sobre el Vino y Bebidas Fermentadas. Declaración de operaciones en fábricas y depósitos fiscales de vino y bebidas fermentadas.
+
+Modelo 554. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en fábricas y depósitos fiscales de alcohol.
+
+Modelo 555. Impuesto sobre Productos Intermedios. Declaración de operaciones en fábricas y depósitos fiscales de productos intermedios.
+
+Modelo 556. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en las fábricas de productos intermedios del artículo 32 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+Modelo 557. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en fábricas y depósitos fiscales de bebidas derivadas.
+
+Modelo 558. Impuesto sobre la Cerveza. Declaración de operaciones en fábricas y depósitos fiscales de cerveza.
+
+Modelo 559. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Declaración-liquidación.
+
+Modelo 560. Impuesto sobre la Electricidad. Declaración-liquidación.
+
+Modelo 561. Impuesto sobre la Cerveza. Declaración-liquidación.
+
+Modelo 562. Impuesto sobre Productos Intermedios. Declaración-liquidación.
+
+Modelo 563. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración-liquidación.
+
+Modelo 564. Impuesto sobre Hidrocarburos. Declaración-liquidación.
+
+Modelo 566. Impuesto sobre las Labores del Tabaco. Declaración-liquidación.
+
+Modelo 569. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración-liquidación y Relación de suministros y autoconsumos exentos.
+
+Modelo 570. Impuesto sobre Hidrocarburos. Declaración de operaciones en fábricas y depósitos fiscales de hidrocarburos.
+
+Modelo 572. Impuesto sobre Hidrocarburos. Solicitud de devolución.
+
+Modelo 580. Impuesto sobre las Labores del Tabaco. Declaración de operaciones en fábricas y depósitos fiscales de labores del tabaco.
+
+Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por exportación o expedición.
+
+Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación.»
+
+## Disposición final tercera. Entrada en vigor.
+
+La presente Orden, a excepción del artículo 16, entrará en vigor el 1 de enero de 2008 y será de aplicación a las declaraciones-liquidaciones y a las declaraciones de operaciones correspondientes a los periodos de liquidación que se inicien a partir de dicha fecha.
+
+El artículo 16 entrará en vigor el 1 de enero de 2009 y será de aplicación a los abonos realizados a partir de dicha fecha.
+
+Madrid, 20 de noviembre de 2007.–El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, Pedro Solbes Mira.
+
+## ANEXO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/313/13799_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2013/313/13799_004.png)
+
+> Se sustituye por el que figura como anexo II de la Orden HAP/2456/2013, de 27 de diciembre, según establece su art. 2.7. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se sustituye por el que figura como anexo VIII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.10. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO II
+
+![32](https://www.boe.es/datos/imagenes/disp/2010/317/20054_17530.png)
+
+![33](https://www.boe.es/datos/imagenes/disp/2010/317/20054_17646.png)
+
+> Se sustituye por el que figura como anexo IX de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.11. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO III
+
+![34](https://www.boe.es/datos/imagenes/disp/2010/317/20054_17957.png)
+
+![35](https://www.boe.es/datos/imagenes/disp/2010/317/20054_17991.png)
+
+> Se sustituye por el que figura como anexo X de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.12. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO IV
+
+![36](https://www.boe.es/datos/imagenes/disp/2010/317/20054_18374.png)
+
+![37](https://www.boe.es/datos/imagenes/disp/2010/317/20054_18408.png)
+
+> Se sustituye por el que figura como anexo XI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.13. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO V
+
+**(Suprimido)**
+
+> Se suprime por el art. único.5 de la Orden HAC/135/2019, de 31 de enero. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se sustituye por el que figura como anexo XII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.14. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO V bis
+
+Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Declaración-liquidación. Períodos de liquidación anteriores a 2019.
+
+**Contenido de la declaración**
+
+Se deberá presentar un modelo 581 por cada Comunidad Autónoma de destino de productos gravados con tipo estatal especial.
+
+Los productos no gravados con tipo estatal especial no serán diferenciados por Comunidad Autónoma.
+
+A. Datos de cabecera
+
+Comunidad Autónoma
+
+El campo Comunidad Autónoma debe cumplimentarse siempre que exista en la declaración-liquidación algún producto gravado con tipo estatal especial. Se indicará la Comunidad Autónoma de destino de los productos incluidos en la declaración-liquidación, según la siguiente tabla:
+
+| Andalucía | 01 | Aragón | 02 | Principado de Asturias | 03 |
+|---|---|---|---|---|---|
+| Illes Balears. | 04 | Cantabria. | 06 | Castilla-La Mancha. | 07 |
+| Castilla y León. | 08 | Cataluña. | 09 | Extremadura. | 10 |
+| Galicia. | 11 | Madrid. | 12 | Murcia. | 13 |
+| Diputación Foral de Navarra. | 14 | La Rioja. | 16 | Comunidad Valenciana. | 17 |
+| Diputación Foral de Álava. | 20 | Diputación Foral de Guipúzcoa. | 21 | Diputación Foral de Bizkaia. | 22 |
+
+Oficina Gestora
+
+Se indicará el código identificativo de la Oficina Gestora de Impuestos Especiales correspondiente al establecimiento a que se refiere la declaración-liquidación o el que figure en el acuerdo de centralización de ingresos, de acuerdo con la tabla de códigos contenida en el anexo XLIII de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Identificación
+
+El campo NIF debe cumplimentarse con el número de identificación fiscal del obligado tributario.
+
+Período de liquidación
+
+Ejercicio: Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
+
+Período: Según la tabla siguiente:
+
+1 enero 2 febrero 3 marzo 4 abril 5 mayo 6 junio.
+
+7 julio 8 agosto 9 septiembre 10 octubre 11 noviembre 12 diciembre.
+
+NRC: Número de referencia completo suministrado por la entidad colaboradora.
+
+En el caso de ingresos con domiciliación de pago, no se consignará este dato y sí el de la cuenta de domiciliación.
+
+En el caso de ingresos parciales, se consignarán tantos NRC como importes ingresados a que correspondan.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
+
+Importe ingresado: Se consignará el importe efectivamente ingresado, en euros con dos decimales.
+
+En el caso de ingresos con domiciliación de pago, figurará el importe a domiciliar.
+
+En el caso de ingresos parciales, se consignarán los importes ingresados correspondientes a los NRC referenciados.
+
+En el caso de ingreso y reconocimiento de deuda, se hará constar adicionalmente el importe no ingresado por el que se reconozca la deuda, incluso en los casos de solicitud de aplazamiento o compensación.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
+
+Liquidación correspondiente a: Se consignará el CAE del establecimiento a que se refiere la declaración-liquidación, salvo que se trate de una declaración-liquidación centralizada, en cuyo caso no se cumplimentará este apartado CAE, sino que se consignarán los CAES que correspondan en el desglose de cuotas de la declaración-liquidación.
+
+Si la declaración-liquidación se deriva de recepciones de productos del resto de la Unión Europea, se marcará esta opción.
+
+B. Datos de contacto
+
+El campo persona de contacto será de cumplimentación obligatoria. Podrán añadirse datos relativos a teléfono, fax o dirección de correo electrónico de contacto.
+
+C. Liquidación y desglose de cuotas
+
+Estos datos se presentarán con arreglo al siguiente modelo:
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">
+<p>CAE</p>
+</th>
+<th rowspan="2">
+<p>Epígrafe</p>
+</th>
+<th rowspan="2">
+<p>Base imponible</p>
+</th>
+<th rowspan="2">
+<p>Tipo Impositivo</p>
+</th>
+<th rowspan="2">
+<p>Cuota Íntegra</p>
+</th>
+<th colspan="2">
+<p>Deducciones a la cuota</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Concepto</p>
+</th>
+<th>
+<p>Cuota deducible</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="3"> </td>
+<td rowspan="3"> </td>
+<td rowspan="3"> </td>
+<td colspan="4">
+<p>Cuota Íntegra Total.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Total deducciones de la cuota.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Cuota líquida total.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+CAE: Se consignará el CAE del establecimiento al que corresponde el desglose de cuotas exclusivamente cuando se trate de una declaración-liquidación centralizada.
+
+Epígrafe: Se indicarán los epígrafes establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Base imponible: Las bases imponibles serán las correspondientes al período de liquidación, y a la Comunidad Autónoma correspondiente en caso de productos gravados con tipo estatal especial. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
+
+Tipo impositivo: Deberá indicarse para cada epígrafe la suma de los tipos impositivos aplicables (estatal general, estatal especial y autonómico, en su caso) en el momento de devengo del impuesto.
+
+Cuota íntegra: Se indicará el resultado de aplicar el tipo impositivo sobre la base imponible correspondiente a cada epígrafe, en euros con dos decimales.
+
+Deducciones de la cuota. Concepto: se cumplimentará cuando el sujeto pasivo se aplique las deducciones de cuota previstas en la normativa de impuestos especiales. Se indicará el concepto por el que se realiza la deducción, de entre los siguientes:
+
+1\. Proyectos piloto (biocarburantes).
+
+2\. Productos contaminados.
+
+3\. Recuperación vapores.
+
+4\. Otras deducciones.
+
+Deducciones de la cuota. Cuota deducible: Se indicará la cuota deducible por cada uno de los epígrafes y conceptos correspondientes a un CAE, en euros con dos decimales.
+
+Si no fuese posible imputar por CAE alguna deducción, el importe de la misma se consignará de forma independiente, totalizado por cada concepto y epígrafe.
+
+Cuota íntegra total: Se indicará la suma de las cuotas íntegras correspondientes a los epígrafes consignados en la declaración-liquidación.
+
+Total deducciones de la cuota: Deberá indicarse la suma de las cuotas deducibles por cada epígrafe y concepto.
+
+Cuota líquida total: Será la diferencia entre lo consignado en las casillas «cuota íntegra total» y «total deducciones de la cuota».
+
+D. Declaración-liquidación complementaria o solicitud de rectificación
+
+Declaración complementaria: se marcará con una X si la presentación de esta declaración tiene por objeto incluir registros declarados que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidos en la misma.
+
+Solicitud sustitutiva: se marcará con una X si la presentación de esta declaración tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra declaración del mismo ejercicio presentada anteriormente.
+
+N.º de justificante de la declaración anterior: Se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+
+> Se sustituye por el que figura como anexo I de la Orden HAC/135/2019, de 31 de enero, según establece su art. único.6. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se modifica por la disposición final 2 de la Orden HAP/290/2013, de 19 de febrero. [Ref. BOE-A-2013-2084](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2084)
+
+> Se añade por el art. único.6 de la Orden HAP/71/2013, de 30 de enero, que figura como Anexo I de la misma. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+## ANEXO V ter
+
+Formato electrónico modelo 581. Impuesto sobre Hidrocarburos. Autoliquidación. Períodos de liquidación iniciados a partir del 1 de enero de 2019.
+
+**Contenido de la declaración**
+
+A. Datos de cabecera
+
+Oficina Gestora
+
+Se indicará el código identificativo de la Oficina Gestora de Impuestos Especiales correspondiente al establecimiento a que se refiere la autoliquidación o el que figure en el acuerdo de centralización de ingresos, de acuerdo con la tabla de códigos contenida en el anexo XLIII de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Identificación
+
+El campo NIF debe cumplimentarse con el número de identificación fiscal del obligado tributario.
+
+Período de liquidación
+
+Ejercicio: Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
+
+Período: Según la tabla siguiente:
+
+1 enero 2 febrero 3 marzo 4 abril 5 mayo 6 junio.
+
+7 julio 8 agosto 9 septiembre 10 octubre 11 noviembre 12 diciembre.
+
+NRC: Número de referencia completo suministrado por la entidad colaboradora.
+
+En el caso de ingresos con domiciliación de pago, no se consignará este dato y sí el de la cuenta de domiciliación.
+
+En el caso de ingresos parciales, se consignarán tantos NRC como importes ingresados a que correspondan.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las autoliquidaciones con cuota cero, no se consignará este dato.
+
+Importe ingresado: Se consignará el importe efectivamente ingresado, en euros con dos decimales.
+
+En el caso de ingresos con domiciliación de pago, figurará el importe a domiciliar.
+
+En el caso de ingresos parciales, se consignarán los importes ingresados correspondientes a los NRC referenciados.
+
+En el caso de ingreso y reconocimiento de deuda, se hará constar adicionalmente el importe no ingresado por el que se reconozca la deuda, incluso en los casos de solicitud de aplazamiento o compensación.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las autoliquidaciones con cuota cero, no se consignará este dato.
+
+Código de Actividad y Establecimiento: Se consignará el CAE del establecimiento a que se refiere la declaración-liquidación, salvo que se trate de una autoliquidación centralizada, en cuyo caso no se cumplimentará este apartado CAE, sino que se consignarán los CAES que correspondan en el desglose de cuotas de la declaración-liquidación.
+
+Si la autoliquidación se deriva de recepciones de productos del resto de la Unión Europea, se marcará esta opción.
+
+B. Datos de contacto
+
+El campo persona de contacto será de cumplimentación obligatoria. Podrán añadirse datos relativos a teléfono, fax o dirección de correo electrónico de contacto.
+
+C. Liquidación y desglose de cuotas
+
+Estos datos se presentarán con arreglo al siguiente modelo:
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">
+<p>CAE</p>
+</th>
+<th rowspan="2">
+<p>Epígrafe</p>
+</th>
+<th rowspan="2">
+<p>Base imponible</p>
+</th>
+<th rowspan="2">
+<p>Tipo Impositivo</p>
+</th>
+<th rowspan="2">
+<p>Cuota Íntegra</p>
+</th>
+<th colspan="2">
+<p>Minoraciones de la cuota</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Concepto</p>
+</th>
+<th>
+<p>Minoración</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="3"> </td>
+<td rowspan="3"> </td>
+<td rowspan="3"> </td>
+<td colspan="4">
+<p>Cuota Íntegra Total.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Total minoraciones de la cuota.</p>
+</td>
+</tr>
+<tr>
+<td colspan="4">
+<p>Cuota líquida total.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+CAE: Se consignará el CAE del establecimiento al que corresponde el desglose de cuotas exclusivamente cuando se trate de una autoliquidación centralizada.
+
+Epígrafe: Se indicarán los códigos de epígrafe establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Base imponible: Las bases imponibles serán las correspondientes al período de liquidación. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
+
+Tipo impositivo: Deberá indicarse para cada epígrafe la suma de los tipos impositivos aplicables (general y especial, en su caso) en el momento de devengo del impuesto.
+
+Cuota íntegra: Se indicará el resultado de aplicar el tipo impositivo sobre la base imponible correspondiente a cada epígrafe, en euros con dos decimales.
+
+Minoraciones de la cuota. Concepto: Se cumplimentará cuando el sujeto pasivo se aplique las minoraciones de cuota previstas en la normativa de impuestos especiales. Se indicará el concepto por el que se realiza la minoración, de entre los siguientes:
+
+1\. Productos contaminados.
+
+2\. Recuperación vapores.
+
+3\. Otras minoraciones.
+
+Minoraciones de la cuota: Cuota deducible: Se indicará la cuota deducible por cada uno de los epígrafes y conceptos correspondientes a un CAE, en euros con dos decimales.
+
+Si no fuese posible imputar por CAE alguna minoración, el importe de la misma se consignará de forma independiente, totalizado por cada concepto y epígrafe.
+
+Cuota íntegra total: Se indicará la suma de las cuotas íntegras correspondientes a los epígrafes consignados en la autoliquidación.
+
+Total minoraciones de la cuota: Deberá indicarse la suma de las cuotas deducibles por cada epígrafe y concepto.
+
+Cuota líquida total: Será la diferencia entre lo consignado en las casillas «cuota íntegra total» y «total minoraciones de la cuota».
+
+D. Declaración complementaria o solicitud de rectificación
+
+Declaración complementaria: Se marcará con una X si la presentación de esta declaración tiene por objeto incluir registros declarados que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidos en la misma.
+
+Autoliquidación sustitutiva: Se marcará con una X si la presentación de esta autoliquidación tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra autoliquidación del mismo ejercicio presentada anteriormente.
+
+N.º de justificante de la declaración anterior: Se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+
+> Se añade por el art. único.7 de la Orden HAC/135/2019, de 31 de enero, en la que figura como anexo II. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+## ANEXO VI
+
+![40](https://www.boe.es/datos/imagenes/disp/2010/317/20054_19264.png)
+
+![41](https://www.boe.es/datos/imagenes/disp/2013/027/20054_19389.png)
+
+> Se modifica el texto relativo al concepto "Epígrafe", para periodos de declaración iniciados a partir del 1 de enero de 2013, por el art. único.7 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se sustituye por el que figura como anexo XIII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.15. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO VII
+
+**(Suprimido)**
+
+> Se suprime por el art. único.8 de la Orden HAC/135/2019, de 31 de enero. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se sustituye por el que figura como anexo XIV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.16. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO VIII
+
+![44](https://www.boe.es/datos/imagenes/disp/2010/317/20054_20236.png)
+
+![45](https://www.boe.es/datos/imagenes/disp/2010/317/20054_20309.png)
+
+> Se sustituye por el que figura como anexo XV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.17. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO VIII bis
+
+Formato electrónico modelo 582. Impuesto sobre Hidrocarburos. Regularización por reexpedición de productos a otra comunidad autónoma. Períodos de liquidación anteriores a 2019.
+
+Se presentará un único modelo 582 por trimestre natural y establecimiento desde donde se reexpidan productos gravados con un tipo estatal especial a otra u otras Comunidades Autónomas.
+
+A. Datos de cabecera
+
+Comunidad Autónoma
+
+Se consignará la Comunidad Autónoma donde se encuentre ubicado el establecimiento desde donde se han reexpedido los productos en el período considerado, según la siguiente tabla:
+
+| Andalucía. | 01 | Aragón. | 02 | Principado de Asturias. | 03 |
+|---|---|---|---|---|---|
+| Illes Balears. | 04 | Cantabria. | 06 | Castilla-La Mancha. | 07 |
+| Castilla y León. | 08 | Cataluña. | 09 | Extremadura. | 10 |
+| Galicia. | 11 | Madrid. | 12 | Murcia. | 13 |
+| Diputación Foral de Navarra. | 14 | La Rioja. | 16 | Comunidad Valenciana. | 17 |
+| Diputación Foral de Álava. | 20 | Diputación Foral de Guipúzcoa. | 21 | Diputación Foral de Bizkaia. | 22 |
+
+Oficina Gestora
+
+Se indicará el código identificativo de la Oficina Gestora de Impuestos Especiales correspondiente al establecimiento desde donde se han reexpedido los productos en el período considerado.
+
+Identificación
+
+Se consignará el número de identificación fiscal del reexpedidor.
+
+Período de liquidación
+
+Ejercicio: Deberán consignarse las cuatro cifras del año al que corresponde el período por el que se efectúa la declaración.
+
+Período: Según la tabla siguiente:
+
+1T: Primer trimestre 2T: Segundo trimestre.
+
+3T: Tercer trimestre 4T: Cuarto trimestre.
+
+NRC: Número de referencia completo suministrado por la entidad colaboradora.
+
+En el caso de ingresos con domiciliación de pago, no se consignará este dato y sí el de la cuenta de domiciliación.
+
+En el caso de solicitud de devolución, no se consignará este dato y sí el del número de cuenta para el abono de la correspondiente devolución.
+
+En el caso de ingresos parciales, se consignarán tantos NRC como importes ingresados a que correspondan.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
+
+Importe Ingresado: Se consignará el importe efectivamente ingresado, en euros con dos decimales. En el caso de solicitud de devolución, se consignará en su lugar el importe de la devolución solicitada.
+
+En el caso de ingresos con domiciliación de pago, figurará el importe a domiciliar.
+
+En el caso de ingresos parciales, se consignarán los importes ingresados correspondientes a los NRC referenciados.
+
+En el caso de ingreso y reconocimiento de deuda, se hará constar adicionalmente el importe no ingresado por el que se reconozca la deuda, incluso en los casos de solicitud de aplazamiento o compensación.
+
+En los casos de reconocimiento de deuda sin ningún tipo de ingreso, incluidos los supuestos de solicitud de aplazamiento o de compensación, así como en las declaraciones-liquidaciones con cuota cero, no se consignará este dato.
+
+CAE: Identificación del establecimiento correspondiente a las reexpediciones del período.
+
+B. Datos de contacto
+
+El campo persona de contacto será de cumplimentación obligatoria. Podrán añadirse datos relativos a teléfono de contacto o a observaciones.
+
+C. Liquidación
+
+Estos datos se presentarán con arreglo al siguiente modelo:
+
+<table>
+<thead>
+<tr>
+<th rowspan="2">
+<p>Epígrafe</p>
+</th>
+<th rowspan="2">
+<p>Base imponible</p>
+</th>
+<th>
+<p>Devengado</p>
+</th>
+<th colspan="2">
+<p>Reexpedido</p>
+</th>
+<th rowspan="2">
+<p>Diferencia de tipos</p>
+</th>
+<th rowspan="2">
+<p>Cuota Íntegra</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>Tipo Impositivo</p>
+</th>
+<th>
+<p>C.A.</p>
+</th>
+<th>
+<p>Tipo Impositivo</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3"> </td>
+<td colspan="4">
+<p>Cuota Íntegra Total.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Epígrafe: Se indicarán los epígrafes establecidos en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre. Únicamente han de figurar productos gravados con un tipo estatal especial.
+
+Base imponible: Las bases imponibles serán las correspondientes al período de liquidación para cada epígrafe y Comunidad Autónoma de destino. Se expresarán en la unidad correspondiente a cada epígrafe, con dos cifras decimales, redondeando por defecto o exceso, según que la tercera cifra decimal sea o no inferior a 5.
+
+Devengado. Tipo impositivo: Se consignará el importe del tipo impositivo autonómico correspondiente al epígrafe de que se trate y a la Comunidad Autónoma donde se encuentre ubicado el establecimiento.
+
+Reexpedido. Comunidad Autónoma: Se consignará cada Comunidad Autónoma a la que han sido reexpedidos en el período los productos contemplados en cada epígrafe.
+
+Reexpedido. Tipo impositivo: Se consignará el tipo impositivo autonómico correspondiente al epígrafe y Comunidad Autónoma donde los productos han sido reexpedidos.
+
+Diferencia de tipos: Será la diferencia resultante del tipo impositivo reexpedido menos el tipo impositivo devengado.
+
+Cuota íntegra: Se consignará el resultado global de las diferencias entre los importes resultantes de aplicar sobre la base imponible el tipo impositivo de la Comunidad Autónoma del establecimiento y el tipo impositivo de cada correspondiente Comunidad Autónoma donde los productos han sido reexpedidos, en euros con dos decimales.
+
+Cuota íntegra total: Se indicará la suma de las cuotas íntegras correspondientes a los epígrafes consignados en la declaración-liquidación.
+
+D. Declaración-liquidación complementaria o solicitud de rectificación
+
+Declaración complementaria: Se marcará con una X si la presentación de esta declaración tiene por objeto incluir registros declarados que, debiendo haber figurado en otra declaración del mismo ejercicio presentada anteriormente, hubieran sido completamente omitidos en la misma.
+
+Solicitud sustitutiva: Se marcará con una X si la presentación de esta declaración tiene por objeto rectificar registros declarados que han sido consignados de manera errónea en otra declaración del mismo ejercicio presentada anteriormente.
+
+N.º de justificante de la declaración anterior: Se consignará el número de justificante correspondiente a la declaración a la que sustituye o complementa.
+
+> Se sustituye por el que figura como anexo III de la Orden HAC/135/2019, de 31 de enero, según establece su art. único.9. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se añade por el art. único.8 de la Orden HAP/71/2013, de 30 de enero, que figura como Anexo II de la misma. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+## ANEXO IX
+
+## Datos mínimos a incluir en el recibo acreditativo del ingreso
+
+– Fecha y hora de la operación.
+
+– Importe.
+
+– Código modelo.
+
+– Códigos de la Entidad y sucursal.
+
+– Denominación social de la Entidad Colaboradora.
+
+– Código Cuenta Cliente (C.C.C.) de la cuenta en la que ha producido el cargo o número de la tarjeta de crédito o de débito utilizada para realizar el pago (No será necesario cuando el pago se hubiese efectuado en efectivo).
+
+– Datos del obligado:
+
+NIF/CIF.
+
+Anagrama o las cuatro primeras letras del primer apellido (solo en caso de personas físicas).
+
+Apellidos y nombre o denominación social.
+
+– Datos de la declaración-liquidación o autoliquidación:
+
+Concepto.
+
+Ejercicio y período.
+
+Tipo de autoliquidación (Ingreso o Devolución).
+
+– Las siguientes leyendas:
+
+• «Este adeudo surte los efectos liberatorios para con el Tesoro Público previstos en el Reglamento General de Recaudación» (en todos los casos).
+
+• «El ingreso de la deuda no exime de la obligación de presentar la declaración-liquidación o autoliquidación».
+
+– Número de Referencia Completo (NRC) asignado al ingreso.
+
+– Número de Referencia Completo (NRC) al que sustituye (sólo en caso de anulación de un NRC anterior y sustitución por lo nuevo).
+
+## ANEXO X
+
+![1](https://www.boe.es/datos/imagenes/disp/2010/317/20054_13891.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2010/317/20054_13928.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2010/317/20054_13962.png)
+
+> Se sustituye por el que figura como anexo I de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.18. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XI
+
+![46](https://www.boe.es/datos/imagenes/disp/2010/317/20054_20792.png)
+
+![47](https://www.boe.es/datos/imagenes/disp/2010/317/20054_20827.png)
+
+![48](https://www.boe.es/datos/imagenes/disp/2010/317/20054_20940.png)
+
+> Se sustituye por el que figura como anexo XVI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.19. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XII
+
+![49](https://www.boe.es/datos/imagenes/disp/2010/317/20054_21411.png)
+
+![50](https://www.boe.es/datos/imagenes/disp/2010/317/20054_21527.png)
+
+![51](https://www.boe.es/datos/imagenes/disp/2010/317/20054_21603.png)
+
+![52](https://www.boe.es/datos/imagenes/disp/2010/317/20054_21636.png)
+
+> Se sustituye por el que figura como anexo XVII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.20. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XIII
+
+![53](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22124.png)
+
+![54](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22158.png)
+
+![55](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22193.png)
+
+![56](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22228.png)
+
+> Se sustituye por el que figura como anexo XVIII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.21. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XIV
+
+![57](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22787.png)
+
+![58](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22822.png)
+
+![59](https://www.boe.es/datos/imagenes/disp/2010/317/20054_22856.png)
+
+> Se sustituye por el que figura como anexo XIX de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.22. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XV
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/70/03946_6132.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2018/70/03946_6167.png)
+
+![3](https://www.boe.es/datos/imagenes/disp/2018/70/03946_6200.png)
+
+> Se sustituye por el que figura como anexo III de la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)
+
+> Téngase en cuenta que este modelo será de aplicación a los periodos de liquidación que se inicien a partir del 22 de marzo de 2018.
+
+> Se sustituye por el que figura como anexo XX de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.23. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XVI
+
+![63](https://www.boe.es/datos/imagenes/disp/2010/317/20054_24096.png)
+
+![64](https://www.boe.es/datos/imagenes/disp/2013/027/20054_24130.png)
+
+![65](https://www.boe.es/datos/imagenes/disp/2010/317/20054_24244.png)
+
+> Se modifica el texto relativo al concepto "Epígrafes", para periodos de declaración iniciados a partir del 1 de enero de 2013, por el art. único.9 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se sustituye por el que figura como anexo XXI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.24. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XVII
+
+![66](https://www.boe.es/datos/imagenes/disp/2010/317/20054_24749.png)
+
+![67](https://www.boe.es/datos/imagenes/disp/2010/317/20054_24783.png)
+
+![68](https://www.boe.es/datos/imagenes/disp/2010/317/20054_24816.png)
+
+> Se sustituye por el que figura como anexo XXII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.25. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XVIII
+
+![69](https://www.boe.es/datos/imagenes/disp/2010/317/20054_25375.png)
+
+![70](https://www.boe.es/datos/imagenes/disp/2010/317/20054_25451.png)
+
+![71](https://www.boe.es/datos/imagenes/disp/2010/317/20054_25525.png)
+
+> Se sustituye por el que figura como anexo XXIII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.26. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XIX
+
+![72](https://www.boe.es/datos/imagenes/disp/2010/317/20054_26270.png)
+
+![73](https://www.boe.es/datos/imagenes/disp/2010/317/20054_26356.png)
+
+![74](https://www.boe.es/datos/imagenes/disp/2010/317/20054_26429.png)
+
+![75](https://www.boe.es/datos/imagenes/disp/2010/317/20054_26503.png)
+
+![76](https://www.boe.es/datos/imagenes/disp/2010/317/20054_26576.png)
+
+> Se sustituye por el que figura como anexo XXIV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.27. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XX
+
+![77](https://www.boe.es/datos/imagenes/disp/2010/317/20054_27187.png)
+
+![78](https://www.boe.es/datos/imagenes/disp/2010/317/20054_27279.png)
+
+![79](https://www.boe.es/datos/imagenes/disp/2010/317/20054_27352.png)
+
+> Se sustituye por el que figura como anexo XXV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.28. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXI
+
+![80](https://www.boe.es/datos/imagenes/disp/2010/317/20054_28026.png)
+
+![81](https://www.boe.es/datos/imagenes/disp/2010/317/20054_28100.png)
+
+![82](https://www.boe.es/datos/imagenes/disp/2010/317/20054_28174.png)
+
+> Se sustituye por el que figura como anexo XXVI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.29. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXII
+
+![83](https://www.boe.es/datos/imagenes/disp/2010/317/20054_29007.png)
+
+![84](https://www.boe.es/datos/imagenes/disp/2010/317/20054_29084.png)
+
+> Se sustituye por el que figura como anexo XXVII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.30. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXIII
+
+![85](https://www.boe.es/datos/imagenes/disp/2010/317/20054_29749.png)
+
+![86](https://www.boe.es/datos/imagenes/disp/2010/317/20054_29823.png)
+
+![87](https://www.boe.es/datos/imagenes/disp/2010/317/20054_29896.png)
+
+> Se sustituye por el que figura como anexo XXVIII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.31. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXIV
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden HFP/626/2023, de 14 de junio. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+> Se sustituye por el que figura como anexo XXIX de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.32. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXV
+
+![91](https://www.boe.es/datos/imagenes/disp/2010/317/20054_31392.png)
+
+![92](https://www.boe.es/datos/imagenes/disp/2010/317/20054_31427.png)
+
+![93](https://www.boe.es/datos/imagenes/disp/2010/317/20054_31461.png)
+
+> Se sustituye por el que figura como anexo XXX de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.33. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXVI
+
+## FORMATO ELECTRÓNICO MODELO 590. IMPUESTOS ESPECIALES DE FABRICACIÓN
+
+SOLICITUD DEVOLUCIÓN POR EXPORTACIÓN O EXPEDICIÓN
+
+**Contenido de la solicitud**
+
+Cada solicitud sólo podrá comprender productos incluidos en una única declaración de exportación o expedición.
+
+La solicitud de devolución comprenderá exclusivamente los supuestos de devolución recogidos en los artículos 10.1.a y b, 23.10.a y b de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+La solicitud no podrá comprender cuotas cuya devolución ya esté dispuesta en alguno de los artículos 22, 43 y 52.a) de la Ley 38/1992, de 28 de diciembre.
+
+La solicitud deberá presentarse en los supuestos previstos en los artículos 7 y 57.4 del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, inmediatamente después de la presentación del documento aduanero para el despacho de exportación de las mercancías.
+
+Oficina gestora
+
+Se indicará el código identificativo de la oficina gestora de Impuestos Especiales correspondiente al establecimiento a que se refiere la autoliquidación o el que figure en el acuerdo de centralización de ingresos, de acuerdo con la tabla de códigos contenida en el anexo XLIII de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Identificación
+
+El campo NIF debe cumplimentarse con el número de identificación, además de apellidos, nombre y razón social del exportador o expedidor.
+
+DUA de exportación o expedición
+
+Se deberá indicar el número de la declaración de exportación o expedición (DUA) a que corresponde la solicitud. Este número constará de dieciocho caracteres de los cuales, los dos primeros dígitos identificarán el año en curso, el tercer y cuarto dígito el código ISO del país de registro de la declaración (ES-España), del quinto al decimoséptimo, los seis primeros dígitos corresponden al código de recinto, el siguiente al tipo de declaración y los seis restantes a la numeración del documento, por último, el décimo octavo corresponderá al número de control.
+
+Descripción de la mercancía exportada o expedida
+
+Partida de Orden: Se indicará el número de la partida de orden (GoodsItem) de la declaración de exportación que corresponde al producto.
+
+Código Nomenclatura Combinada: Se indicará el código de la nomenclatura combinada (NC) declarado en el DE Nomenclatura de la declaración de exportación o expedición a que corresponde el producto.
+
+Código de devolución: Se indicará el código correspondiente al supuesto que origine el derecho a devolución de los recogidos en la Ley, de acuerdo con la siguiente tabla:
+
+Código supuestos de devolución
+
+1\. Artículo 10.1.a Exportaciones de productos objeto de los impuestos especiales de fabricación, o de otros productos que aún, no siéndolo, contenga otros que sí lo sean.
+
+2\. Artículo 10.1.b Exportaciones de productos que no sean objeto de los impuestos especiales de fabricación ni los contengan, pero en los que se hubieran consumido para su producción, directa o indirectamente, otros que sí lo sean. En ningún caso originan derecho a devolución los productos empleados como combustibles o carburantes, ni la energía eléctrica consumida.
+
+3\. Artículo 23.10.a Expediciones de productos objeto de los Impuestos sobre Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, desde la Península e Illes Balears, con destino a Canarias, en este caso, el importe de la devolución será el resultado de aplicar la diferencia de tipos impositivos existente entre dichos territorios en el momento del envío.
+
+4\. Artículo 23.10.b Expediciones, desde Canarias, de productos objeto de los Impuestos Especiales sobre la Cerveza, sobre los Productos Intermedios y sobre el Alcohol y Bebidas Derivadas, con destino a otro Estado miembro de la UE.
+
+Declaración de productos base con derecho a devolución
+
+Partida de orden: Cada una de las partidas indicadas en el apartado 4, y que deberá desglosarse en el caso de contener productos con código de epígrafe distintos.
+
+Código de epígrafe: Deberá consignarse el código de epígrafe correspondiente al producto objeto de los impuestos especiales de que se trate, de acuerdo con la tabla de códigos incluida en el anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Cantidad: Se expresará la cantidad total de productos exportados o expedidos tanto directamente como contenidos o utilizados, correspondiente a dicho código de epígrafe. Se expresará con un máximo de dos cifras decimales, redondeando por defecto o por exceso, según que la tercera cifra decimal sea o no inferior a cinco.
+
+– En el caso de hidrocarburos cuando la unidad sea el volumen, se referirá al mismo a 15.ºC. en los demás casos en Toneladas, Kilolitros o Gigajulios.
+
+– En el caso de alcoholes y bebidas derivadas en Hectolitros, se referirá a la temperatura de 20.ºC.
+
+– En el caso de cigarros, cigarritos y cigarrillos se indicará en miles de unidades y el resto de labores del tabaco en kilogramos.
+
+– En el caso de líquidos para cigarrillos electrónicos se indicará en mililitros.
+
+– En el caso de bolsas de nicotina y otros productos de nicotina se indicará en gramos.
+
+Tipo aplicado: Se indicará el tipo impositivo efectivamente soportado o la diferencia de tipos vigentes en el momento del envío, en el caso de expediciones con destino a Canarias. Cuando no sea posible determinar el tipo efectivamente soportado, se consignará el tipo impositivo vigente en el ámbito territorial interno desde el que se efectúa la exportación, tres meses antes de la fecha en que tenga lugar la salida de los productos del territorio aduanero comunitario.
+
+– Específico: Se cumplimentará esta casilla en todos productos a que se refiere la solicitud de devolución, salvo que se refieran a las labores del tabaco previstas en los epígrafes 1 y 4 del anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
+
+– Proporcional: Se cumplimentará esta casilla para los productos de labores del tabaco incluidos en los epígrafes 1,2,3 y 4 del anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre.
+
+Valor tabaco: Se consignará en euros y con dos cifras decimales redondeando por defecto o por exceso, según que la tercera cifra decimal sea o no inferior a 5, el precio máximo de venta al público, en expendedurías de tabaco y timbre situadas en Península e Illes Balears, incluidos todos los impuestos.
+
+Grado Plato: Cuando se trate de cerveza, del código de epígrafe A6, se consignará su grado Plato con dos cifras decimales redondeando por defecto o por exceso, según que la tercera cifra decimal sea o no inferior a cinco.
+
+Importe devolución: Con carácter general vendrá determinado por el resultado de multiplicar las magnitudes que figuran en las casillas «cantidad» y «tipo específico», excepto en los siguientes casos:
+
+– Para las labores del tabaco excepto cigarrillos, se obtendrá de multiplicar las cantidades que figuran en las casillas «valor tabaco» y «tipo proporcional».
+
+– Para los epígrafes 1 y 4 del anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre, se obtendrá de multiplicar las cantidades que figuran en las casillas «valor tabaco» y «tipo proporcional».
+
+– Para los epígrafes 2 y 3 del anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre, será la suma del resultado de multiplicar:
+
+• Las cifras que figuran en la casilla «cantidad» por las que figuran en la casilla «tipo específico», y
+
+• Las cifras que figuran en la casilla «valor tabaco» por las que figuran en la casilla «tipo proporcional».
+
+– Para los epígrafes 5,6,7, A, B y C del anexo XLIV de la Orden EHA/3482/2007, de 20 de noviembre, será el resultado de multiplicar las magnitudes que figuran en las casillas «cantidad» y «tipo específico». Este último vendrá determinado conforme se establece para el tipo único, en el artículo 60 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+Importe total solicitado: Se consignará la suma de los importes parciales de devolución.
+
+Devolución
+
+Solicita la devolución por transferencia bancaria al número IBAN:
+
+Importe: Se indicará la cantidad total a devolver solicitada.
+
+El importe de la cantidad total a devolver debe expresarse en euros con dos decimales redondeado por exceso, al número siguiente, cuando la cifra del tercer decimal sea igual o superior a cinco. Se redondeará por defecto en los demás casos.
+
+> Se sustituye, con efectos desde el 1 de abril de 2025, por el que figura como anexo III de la Orden HAC/86/2025, de 13 de enero, según establece su disposición final 5.1. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se sustituye, para periodos de solicitud iniciados a partir del 1 de enero de 2013, por el que figura como anexo III de la Orden HAP/71/2013, de 30 de enero, según establece su art. único.10. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se sustituye por el que figura como anexo XXXI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.34. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXVII
+
+![97](https://www.boe.es/datos/imagenes/disp/2010/317/20054_33359.png)
+
+![98](https://www.boe.es/datos/imagenes/disp/2010/317/20054_33433.png)
+
+> Se sustituye por el que figura como anexo XXXII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.35. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXVIII
+
+![99](https://www.boe.es/datos/imagenes/disp/2010/317/20054_34215.png)
+
+![100](https://www.boe.es/datos/imagenes/disp/2010/317/20054_34331.png)
+
+> Se sustituye por el que figura como anexo XXXIII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.36. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXIX
+
+## Precintas para recipientes que contengan bebidas derivadas
+
+P3. Precintas para bebidas derivadas en envases de más de 0,1 litro hasta 0,5 litros: Color marrón pantone 498, sobre papel blanco.
+
+Formato: 160 × 18 mm
+
+![4](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14144.png)
+
+P4. Precintas para bebidas derivadas en envases de 0,70 litros: Color azul pantone 285, sobre papel blanco.
+
+Formato: 160 × 18 mm
+
+![5](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14210.png)
+
+E4. Precintas para bebidas derivadas en envases de 0,70 litros: Color azul pantone 285, sobre papel blanco. Cortadas
+
+Formato: 150 × 18 mm
+
+![6](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14283.png)
+
+P5. Precintas para bebidas derivadas en envases de 1 litro: Color rojo pantone 1805, sobre papel blanco.
+
+Formato: 160 × 18 mm
+
+![7](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14367.png)
+
+E5. Precintas para bebidas derivadas en envases de 1 litro: Color rojo pantone 1805, sobre papel blanco. Cortadas
+
+Formato: 150 × 18 mm
+
+![8](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14462.png)
+
+P6. Precintas para bebidas derivadas en envases de 1 litro: «Régimen de Cosecheros»: Color violeta pantone 527, sobre papel blanco.
+
+Formato: 160 × 18 mm
+
+![9](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14567.png)
+
+P7. Precintas para bebidas derivadas en envases de 1,5 litros hasta 2 litros: Color rojo pantone 254, sobre papel blanco.
+
+Formato: 160 × 18 mm
+
+![10](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14672.png)
+
+P8. Precintas para bebidas derivadas en envases de más de 2 litros hasta 3 litros: Color verde pantone 362 C, sobre papel blanco.
+
+Formato: 160 × 18 mm
+
+![11](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14842.png)
+
+G3. Precinta para bebidas derivadas en envases de más de 3 litros hasta 5 litros: Color gris pantone 432, sobre papel blanco.
+
+Formato: 210 × 19 mm
+
+![12](https://www.boe.es/datos/imagenes/disp/2010/317/20054_14944.png)
+
+G4. Precinta para bebidas derivadas en envases de más de 5 litros hasta 10 litros: Color rojo pantone 172, sobre papel blanco.
+
+Formato: 210 × 19 mm
+
+![13](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15063.png)
+
+G5. Precinta para bebidas derivadas en envases de más de 10 litros: Color verde pantone 349, sobre papel blanco.
+
+Formato: 210 × 19 mm
+
+![14](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15178.png)
+
+> Se sustituye por el que figura como anexo II de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.37. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se sustituye por el art. 1.5 y el anexo I de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+> Téngase en cuenta la disposición transitoria única de la citada Orden, en cuanto al mantenimiento de la validez de determinadas precintas.
+
+## ANEXO XXX
+
+## Precintas para cigarrillos
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Orden HAC/484/2019, de 9 de abril. [Ref. BOE-A-2019-6339](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6339)
+
+> Téngase en cuenta, en relación al mantenimiento de la validez de determinadas precintas, la disposición transitoria única de la citada Orden.
+
+## ANEXO XXXI
+
+## «Marca especial» para cigarrillos
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única de la Orden HAC/484/2019, de 9 de abril. [Ref. BOE-A-2019-6339](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6339)
+
+> Téngase en cuenta, en relación al mantenimiento de la validez de determinadas precintas, la disposición transitoria única de la citada Orden.
+
+## ANEXO XXXII
+
+![15](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15356.png)
+
+![16](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15391.png)
+
+![17](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15425.png)
+
+> Se mantiene la vigencia para la solicitud de marcas fiscales exigidas en los envases o recipientes de bebidas derivadas, por la disposición derogatoria única de la Orden HAC/484/2019, de 9 de abril. [Ref. BOE-A-2019-6339](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6339)
+
+> Se sustituye por el que figura como anexo III de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.38. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se modifica la casilla 3 de las instrucciones por el art. 1.6.a) y el anexo II de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## ANEXO XXXIII
+
+![18](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15686.png)
+
+![19](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15721.png)
+
+> Se mantiene la vigencia para la solicitud de marcas fiscales exigidas en los envases o recipientes de bebidas derivadas, por la disposición derogatoria única de la Orden HAC/484/2019, de 9 de abril. [Ref. BOE-A-2019-6339](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6339)
+
+> Se sustituye por el que figura como anexo IV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.39. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se modifica la casilla 3 de las instrucciones por el art. 1.6.a) y el anexo II de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## ANEXO XXXIV
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden HFP/626/2023, de 14 de junio. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+## ANEXO XXXV
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden HFP/626/2023, de 14 de junio. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+## ANEXO XXXVI
+
+![90](https://www.boe.es/datos/imagenes/disp/2007/288/20637_32755.png)
+
+![91](https://www.boe.es/datos/imagenes/disp/2007/288/20637_32796.png)
+
+![92](https://www.boe.es/datos/imagenes/disp/2007/288/20637_32875.png)
+
+## ANEXO XXXVII
+
+![20](https://www.boe.es/datos/imagenes/disp/2010/317/20054_15968.png)
+
+![21](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16002.png)
+
+![22](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16036.png)
+
+![23](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16071.png)
+
+![24](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16105.png)
+
+![25](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16262.png)
+
+![26](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16415.png)
+
+> Se sustituye por el que figura como anexo V de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.40. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXXVIII
+
+![27](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16752.png)
+
+![28](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16789.png)
+
+![29](https://www.boe.es/datos/imagenes/disp/2010/317/20054_16826.png)
+
+> Se sustituye por el que figura como anexo VI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.41. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XXXIX
+
+**(Suprimido)**
+
+> Se suprime por el art. único.42 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se modifican las instrucciones para cumplimentar la cantidad y peso neto por el art. 1.6.b) de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## ANEXO XL
+
+**(Suprimido)**
+
+> Se suprime por el art. único.43 de la Orden EHA/3363/2010, de 23 de diciembre. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+> Se modifican las instrucciones para cumplimentar la cantidad y peso neto por el art. 1.6.b) de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016)
+
+## ANEXO XLI
+
+![113](https://www.boe.es/datos/imagenes/disp/2007/288/20637_38707.png)
+
+![114](https://www.boe.es/datos/imagenes/disp/2007/288/20637_38743.png)
+
+## ANEXO XLII
+
+## Claves de actividad
+
+Impuestos especiales sobre el Alcohol y las Bebidas Alcohólicas
+
+Grupo primero. Fábricas.
+
+A1 Fábricas de alcohol.
+
+B1 Fábricas de bebidas derivadas.
+
+B9 Elaboradores de productos intermedios distintos de los comprendidos en B0.
+
+B0 Elaboradores de productos intermedios en régimen especial.
+
+BA Fábricas de bebidas alcohólicas.
+
+C1 Fábricas de cerveza.
+
+DA Destiladores artesanales.
+
+EC Fábricas de extractos y concentrados alcohólicos.
+
+F1 Elaboradores de otras bebidas fermentadas.
+
+V1 Elaboradores de vino.
+
+C2 Fábricas de cerveza que obtengan alcohol.
+
+V2 Elaboradores de vino que obtengan alcohol.
+
+B2 Elaboradores de productos intermedios que obtengan alcohol.
+
+F2 Elaboradores de otras bebidas fermentadas que obtengan alcohol.
+
+BB Elaboradores de bebidas alcohólicas que obtengan alcohol.
+
+Grupo segundo. Actividades comerciales.
+
+A7 Depósitos fiscales de alcohol.
+
+AT Almacenes fiscales de alcohol.
+
+B7 Depósitos fiscales de bebidas derivadas.
+
+BT Almacenes fiscales de bebidas derivadas.
+
+C7 Depósitos fiscales de cerveza.
+
+DB Depósitos fiscales de bebidas alcohólicas.
+
+E7 Depósitos fiscales de extractos y concentrados alcohólicos.
+
+M7 Depósitos fiscales de productos intermedios.
+
+OA Destinatarios registrados de alcohol.
+
+OB Destinatarios registrados de bebidas alcohólicas.
+
+OE Destinatarios registrados de extractos y concentrados alcohólicos.
+
+OV Destinatarios registrados de vinos y de otras bebidas fermentadas.
+
+V7 Depósitos fiscales de vinos y de otras bebidas fermentadas.
+
+AS Depósitos fiscales para almacenamiento exclusivo de alcohol envasado sin desnaturalizar.
+
+DT Detallistas de alcohol totalmente desnaturalizado.
+
+GR Gestores de residuos alcohólicos.
+
+Grupo tercero. Otros establecimientos y actividades.
+
+B6 Plantas embotelladoras de bebidas derivadas.
+
+Grupo cuarto. Usuarios.
+
+A2 Centros de investigación.
+
+A6 Usuarios de alcohol totalmente desnaturalizado.
+
+A9 Industrias de especialidades farmacéuticas.
+
+A0 Centros de atención médica.
+
+AC Usuarios con derecho a devolución.
+
+AV Usuarios de alcohol parcialmente desnaturalizado con desnaturalizante general.
+
+AW Usuarios de alcohol parcialmente desnaturalizado con desnaturalizante específico.
+
+AX Fábricas de vinagre.
+
+Impuesto sobre Hidrocarburos
+
+Grupo primero. Fábricas.
+
+H1 Refinerías de crudo de petróleo.
+
+H2 Fábricas de biocarburante, consistente en alcohol etílico.
+
+H4 Fábricas de biocarburante o biocombustible consistente en biodiesel.
+
+H6 Fábricas de biocarburante o biocombustible consistente en alcohol metílico.
+
+H9 Industrias extractoras de gas natural y otros productos gaseosos.
+
+H0 Las demás industrias que obtienen productos gravados.
+
+HD Industrias o establecimientos que someten productos a un tratamiento definido o, previa solicitud, a una transformación química.
+
+HH Industrias extractoras de crudo de petróleo.
+
+Grupo segundo. Actividades comerciales.
+
+H7 Depósitos fiscales de hidrocarburos.
+
+H8 Depósitos fiscales exclusivamente de bioetanol.
+
+F7 Depósitos fiscales exclusivamente de biodiesel y/o biometanol.
+
+HB Obtención accesoria de productos sujetos al impuesto.
+
+HF Almacenes fiscales para el suministro directo a instalaciones fijas.
+
+HG Depósitos fiscales exclusivamente de gas licuado de petróleo (GLP).
+
+HI Depósitos fiscales exclusivamente para la distribución de querosenos y gasolinas de aviación.
+
+HJ Depósitos fiscales exclusivamente de productos de la tarifa segunda.
+
+HK Instalaciones de venta de gas natural con tipo general y tipo reducido.
+
+HL Almacenes fiscales de productos de la tarifa segunda.
+
+HM Almacenes fiscales para la gestión de aceites usados destinados a su utilización como combustibles.
+
+HN Depósitos fiscales constituidos por una red de oleoductos.
+
+HT Almacenes fiscales para el comercio al por mayor de hidrocarburos.
+
+HU Almacenes fiscales constituidos por redes de transporte o distribución de gas natural.
+
+HV Puntos de suministro marítimo de gasóleo.
+
+HX Depósitos fiscales constituidos por una red de gasoductos.
+
+HZ Detallistas de hidrocarburos.
+
+OH Destinatarios registrados de hidrocarburos.
+
+PA Proveedores a fábricas y depósitos fiscales de hidrocarburos y biocarburantes de los productos contemplados en el apartado 1.g del artículo 46 de la Ley.
+
+CG Comercializadores de gas natural.
+
+Grupo tercero. Usuarios.
+
+GP Instalaciones de consumo propio de gasóleo profesional.
+
+HA Titulares de aeronaves que utilizan instalaciones privadas.
+
+HC Explotaciones industriales y proyectos piloto con derecho a devolución.
+
+HE Los demás usuarios con derecho a exención.
+
+HP Inyección en altos hornos.
+
+HQ Construcción, modificación, pruebas y mantenimiento de aeronaves y embarcaciones.
+
+HR Producción de electricidad en centrales eléctricas o producción de electricidad o cogeneración de electricidad y de calor en centrales combinadas.
+
+HS Transporte por ferrocarril.
+
+HW Consumidores finales del gasóleo del epígrafe 1.4 del artículo 50 de la Ley que lo reciben mediante la importación o por procedimientos de circulación intracomunitaria.
+
+Impuesto sobre las Labores del Tabaco
+
+Grupo primero. Fábricas.
+
+T1 Fábricas de labores del tabaco.
+
+T2 Establecimientos en los que se lleva a cabo la primera transformación del tabaco crudo.
+
+Grupo segundo. Actividades comerciales.
+
+OT Destinatarios registrados de labores del tabaco.
+
+T7 Depósitos fiscales de labores del tabaco.
+
+TT Almacenes fiscales de labores del tabaco.
+
+Impuesto sobre líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco
+
+Grupo primero. Fábricas:
+
+N1. Fábricas de líquidos para cigarrillos electrónicos, bolsas de nicotina y otros productos de nicotina.
+
+Grupo segundo. Actividades comerciales:
+
+N7. Depósitos fiscales de líquidos para cigarrillos electrónicos, bolsas de nicotina y otros productos de nicotina.
+
+AN. Contribuyentes del artículo 64 quinquies de la Ley de Impuestos Especiales.
+
+NM. Depósitos fiscales de líquidos para cigarrillos electrónicos, bolsas de nicotina y otros productos de nicotina, situados en puertos y aeropuertos y que funcionen exclusivamente como establecimientos minoristas.
+
+NP. Depósitos fiscales para el suministro de líquidos para cigarrillos electrónicos, bolsas de nicotina y otros productos de nicotina, para consumo o venta a bordo de buques y/o aeronaves.
+
+Comunes a todos o a varios impuestos especiales
+
+AF Almacenes fiscales de bebidas alcohólicas y de labores del tabaco.
+
+DF Depósitos fiscales de bebidas alcohólicas y de labores del tabaco.
+
+DM Depósitos fiscales de bebidas alcohólicas y de labores del tabaco situados en puertos y aeropuertos y que funcionen exclusivamente como establecimientos minoristas.
+
+DP Depósitos fiscales para el suministro de bebidas alcohólicas y de labores del tabaco para consumo o venta a bordo de buques y/o aeronaves.
+
+OR Destinatarios registrados de bebidas alcohólicas y de labores del tabaco.
+
+PF Industrias o usuarios en régimen de perfeccionamiento fiscal.
+
+RF Representantes fiscales.
+
+VD Empresas de ventas a distancia.
+
+ER Expedidores registrados
+
+EH Expedidores certificados habituales.
+
+DH Destinatarios certificados habituales.
+
+> Se añade un nuevo "Impuesto sobre líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco", con efectos desde el 1 de abril de 2025, que figura como anexo IV de la Orden HAC/86/2025, de 13 de enero, según establece su disposición final 5.2. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se sustituye por el que figura como anexo IV de la Orden HFP/626/2023, de 14 de junio, según establece su disposición final 2. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+> Se sustituye por el que figura como anexo IV de la Orden HAC/135/2019, de 31 de enero, según establece su art. único.10. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se sustituye por el que figura como anexo IV de la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)
+
+> Se añade una clave al Grupo tercero del Impuesto sobre la Electricidad por el art. 2.8 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se añaden claves al Grupo segundo del Impuesto sobre Hidrocarburos por el art. único.11 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+> Se sustituye por el que figura como anexo VII de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.44. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XLIII
+
+## Códigos de las Oficinas Gestoras de Impuestos Especiales
+
+| D01200 | Álava | D29200 | Málaga |
+|---|---|---|---|
+| D02200 | Albacete | D30200 | Murcia |
+| D03200 | Alicante | D31200 | Navarra |
+| D04200 | Almería | D32200 | Ourense |
+| D05200 | Ávila | D33200 | Oviedo |
+| D06200 | Badajoz | D34200 | Palencia |
+| D07200 | Illes Balears | D35200 | Las Palmas |
+| D08200 | Barcelona | D36200 | Pontevedra |
+| D09200 | Burgos | D37200 | Salamanca |
+| D10200 | Cáceres | D38200 | Santa Cruz de Tenerife |
+| D11200 | Cádiz | D39200 | Santander |
+| D12200 | Castellón | D40200 | Segovia |
+| D13200 | Ciudad Real | D41200 | Sevilla |
+| D14200 | Córdoba | D42200 | Soria |
+| D15200 | A Coruña | D43200 | Tarragona |
+| D16200 | Cuenca | D44200 | Teruel |
+| D17200 | Girona | D45200 | Toledo |
+| D18200 | Granada | D46200 | Valencia |
+| D19200 | Guadalajara | D47200 | Valladolid |
+| D20200 | Guipúzcoa | D48200 | Vizcaya |
+| D21200 | Huelva | D49200 | Zamora |
+| D22200 | Huesca | D50200 | Zaragoza |
+| D23200 | Jaén | D51200 | Cartagena |
+| D24200 | León | D52200 | Gijón |
+| D25200 | Lleida | D53200 | Jerez de la Frontera |
+| D26200 | La Rioja | D54200 | Vigo |
+| D27200 | Lugo | D55200 | Ceuta |
+| D28200 | Madrid | D56200 | Melilla |
+
+## ANEXO XLIV
+
+Epígrafes y códigos de epígrafe de los productos objeto de los Impuestos Especiales de Fabricación y unidades en las que deben expresarse los mismos.
+
+<table>
+<thead>
+<tr>
+<th>
+<p>Art. Ley</p>
+</th>
+<th>
+<p>Epígrafe</p>
+</th>
+<th>
+<p>Clase de producto</p>
+</th>
+<th>
+<p>Código de Epígrafe</p>
+</th>
+<th>
+<p>Unidad</p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> </td>
+<td> </td>
+<td>
+<p>
+<em>Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas</em>
+</p>
+</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>39</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Alcohol y bebidas derivadas</p>
+</td>
+<td>
+<p>A0</p>
+</td>
+<td>
+<p>HG</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Alcohol y bebidas derivadas puestos a consumo en Canarias</p>
+</td>
+<td>
+<p>A7</p>
+</td>
+<td>
+<p>HG</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Productos intermedios con un grado alcohólico volumétrico adquirido no superior a 15 % Vol.</p>
+</td>
+<td>
+<p>I0</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>34</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Los demás productos intermedios</p>
+</td>
+<td>
+<p>I1</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Productos intermedios con un grado alcohólico volumétrico adquirido no superior a 15 % Vol. puestos a consumo en Canarias</p>
+</td>
+<td>
+<p>I8</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>23</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Los demás productos intermedios puestos a consumo en Canarias</p>
+</td>
+<td>
+<p>I9</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.1</p>
+</td>
+<td>
+<p>1.a</p>
+</td>
+<td>
+<p>Cervezas con un grado alcohólico volumétrico adquirido no superior a 1,2 % Vol.</p>
+</td>
+<td>
+<p>G0</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.1</p>
+</td>
+<td>
+<p>1.b</p>
+</td>
+<td>
+<p>Cervezas con un grado alcohólico volumétrico adquirido superior a 1,2 % Vol. y no superior a 2,8 % Vol.</p>
+</td>
+<td>
+<p>G1</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.1</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Cervezas con un grado alcohólico volumétrico adquirido superior a 2,8 % Vol. y con un grado Plato inferior a 11</p>
+</td>
+<td>
+<p>A3</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.1</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Cervezas con un grado Plato no inferior a 11 y no superior a 15</p>
+</td>
+<td>
+<p>A4</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.1</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Cervezas con un grado Plato superior a 15 y no superior a 19</p>
+</td>
+<td>
+<p>A5</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26.1</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Cervezas con un grado Plato superior a 19</p>
+</td>
+<td>
+<p>A6</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Vinos tranquilos</p>
+</td>
+<td>
+<p>V0</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Vinos espumosos</p>
+</td>
+<td>
+<p>V1</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Bebidas fermentadas tranquilas</p>
+</td>
+<td>
+<p>V2</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Bebidas fermentadas espumosas</p>
+</td>
+<td>
+<p>V3</p>
+</td>
+<td>
+<p>HL</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>
+<em>Impuesto sobre Hidrocarburos</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.1</p>
+</td>
+<td>
+<p>Gasolinas con plomo</p>
+</td>
+<td>
+<p>B0</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.2.1</p>
+</td>
+<td>
+<p>Gasolinas sin plomo desde 98 octanos</p>
+</td>
+<td>
+<p>H0</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.2.2</p>
+</td>
+<td>
+<p>Las demás gasolinas sin plomo</p>
+</td>
+<td>
+<p>H1</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.3</p>
+</td>
+<td>
+<p>Gasóleos para uso general</p>
+</td>
+<td>
+<p>B2</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.4</p>
+</td>
+<td>
+<p>Gasóleos con tipo reducido</p>
+</td>
+<td>
+<p>B3</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.5</p>
+</td>
+<td>
+<p>Fuelóleos</p>
+</td>
+<td>
+<p>B4</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.6</p>
+</td>
+<td>
+<p>GLP para uso general</p>
+</td>
+<td>
+<p>B5</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.8</p>
+</td>
+<td>
+<p>GLP para usos distintos a carburante</p>
+</td>
+<td>
+<p>B7</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.9</p>
+</td>
+<td>
+<p>Gas natural para uso general</p>
+</td>
+<td>
+<p>B8</p>
+</td>
+<td>
+<p>GJ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.10</p>
+</td>
+<td>
+<p>Gas natural para usos distintos a carburante</p>
+</td>
+<td>
+<p>B9</p>
+</td>
+<td>
+<p>GJ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.19</p>
+</td>
+<td>
+<p>Gas natural para fines profesionales</p>
+</td>
+<td>
+<p>H4</p>
+</td>
+<td>
+<p>GJ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.11</p>
+</td>
+<td>
+<p>Queroseno para uso general</p>
+</td>
+<td>
+<p>C0</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.12</p>
+</td>
+<td>
+<p>Queroseno para usos distintos a carburante</p>
+</td>
+<td>
+<p>C1</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.13</p>
+</td>
+<td>
+<p>Bioetanol y biometanol para uso como carburante</p>
+</td>
+<td>
+<p>E1</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.14</p>
+</td>
+<td>
+<p>Biodiésel para uso como carburante</p>
+</td>
+<td>
+<p>E2</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.15</p>
+</td>
+<td>
+<p>Biodiésel y biometanol para uso como combustible</p>
+</td>
+<td>
+<p>E3</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>1.18</p>
+</td>
+<td>
+<p>Bioetanol/biometanol para uso como carburante, mezclado con epígrafe 1.2.1</p>
+</td>
+<td>
+<p>E4</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.1</p>
+</td>
+<td>
+<p>Alquitranes de hulla</p>
+</td>
+<td>
+<p>C2</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.2</p>
+</td>
+<td>
+<p>Benzoles, toluoles y xiloles</p>
+</td>
+<td>
+<p>C3</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.3</p>
+</td>
+<td>
+<p>Aceites de creosota</p>
+</td>
+<td>
+<p>C4</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.4</p>
+</td>
+<td>
+<p>Aceites brutos de destilación de alquitranes de hulla</p>
+</td>
+<td>
+<p>C5</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.5</p>
+</td>
+<td>
+<p>Aceites crudos condensados de gas natural para uso general</p>
+</td>
+<td>
+<p>C6</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.6</p>
+</td>
+<td>
+<p>Aceites crudos condensados de gas natural para usos distintos a carburante</p>
+</td>
+<td>
+<p>C7</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.7</p>
+</td>
+<td>
+<p>Los demás aceites crudos de petróleo o de minerales bituminosos</p>
+</td>
+<td>
+<p>C8</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.8</p>
+</td>
+<td>
+<p>Gasolinas especiales, carburorreactores tipo gasolina y demás aceites ligeros</p>
+</td>
+<td>
+<p>C9</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.9</p>
+</td>
+<td>
+<p>Aceites medios distintos de los querosenos para uso general</p>
+</td>
+<td>
+<p>D0</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.10</p>
+</td>
+<td>
+<p>Aceites medios distintos de los querosenos para usos distintos a carburante</p>
+</td>
+<td>
+<p>D1</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.11</p>
+</td>
+<td>
+<p>Aceites pesados y preparaciones de los códigos NC 2710.19.71, 2710.19.75,2710.19.81, 2710.19.83, 2710.19.85, 2710.19.87, 2710.19.91, 2710.19.93, 2710.19.99 y 2710.20.90</p>
+</td>
+<td>
+<p>D2</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.12</p>
+</td>
+<td>
+<p>Hidrocarburos gaseosos del código NC 2711.29.00, y productos clasificados en el código NC 2705, para uso general</p>
+</td>
+<td>
+<p>D3</p>
+</td>
+<td>
+<p>GJ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.13</p>
+</td>
+<td>
+<p>Hidrocarburos gaseosos del código NC 2711.29.00, y productos clasificados en el código NC 2705, así como biogás destinados a usos distintos a los de carburante o al uso como carburante en motores estacionarios</p>
+</td>
+<td>
+<p>D4</p>
+</td>
+<td>
+<p>GJ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.21</p>
+</td>
+<td>
+<p>Hidrocarburos gaseosos del código NC 2711.29.00, y productos clasificados en el código NC 2705, así como biogás destinados a usos con fines profesionales</p>
+</td>
+<td>
+<p>E5</p>
+</td>
+<td>
+<p>GJ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.14</p>
+</td>
+<td>
+<p>Vaselina, parafina y productos similares</p>
+</td>
+<td>
+<p>D5</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.15</p>
+</td>
+<td>
+<p>Mezclas bituminosas a base de asfalto o de betún natural, de betún de petróleo, de alquitrán mineral o de brea de alquitrán mineral</p>
+</td>
+<td>
+<p>D6</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.16</p>
+</td>
+<td>
+<p>Hidrocarburos de composición química definida</p>
+</td>
+<td>
+<p>D7</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.17</p>
+</td>
+<td>
+<p>Preparaciones clasificadas en el código NC 3403</p>
+</td>
+<td>
+<p>D8</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.18</p>
+</td>
+<td>
+<p>Preparaciones antidetonantes y aditivos del código NC 3811</p>
+</td>
+<td>
+<p>D9</p>
+</td>
+<td>
+<p>KL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.19</p>
+</td>
+<td>
+<p>Mezclas de alquilbencenos y mezclas de alquilnaftalenos</p>
+</td>
+<td>
+<p>E0</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>50.1</p>
+</td>
+<td>
+<p>2.20</p>
+</td>
+<td>
+<p>Desechos de aceites clasificados en los códigos NC 2710.91.00 y 2710.99.00</p>
+</td>
+<td>
+<p>E6</p>
+</td>
+<td>
+<p>TN</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>
+<em>Impuesto sobre las Labores del Tabaco</em>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Cigarros y cigarritos</p>
+</td>
+<td>
+<p>F0</p>
+</td>
+<td>
+<p>€ pvp</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Cigarrillos</p>
+</td>
+<td>
+<p>F1</p>
+</td>
+<td>
+<p>mc y € pvp</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Picadura para liar</p>
+</td>
+<td>
+<p>F2</p>
+</td>
+<td>
+<p>kg y € pvp</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Las demás labores del tabaco</p>
+</td>
+<td>
+<p>F3</p>
+</td>
+<td>
+<p>€ pvp</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Cigarros y cigarritos a tipo mínimo general</p>
+</td>
+<td>
+<p>F6</p>
+</td>
+<td>
+<p>mc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Cigarrillos a tipo mínimo general</p>
+</td>
+<td>
+<p>F4</p>
+</td>
+<td>
+<p>mc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Picadura para liar a tipo mínimo general</p>
+</td>
+<td>
+<p>F5</p>
+</td>
+<td>
+<p>kg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>A</p>
+</td>
+<td>
+<p>Cigarros y cigarritos a tipo mínimo incrementado</p>
+</td>
+<td>
+<p>FA</p>
+</td>
+<td>
+<p>mc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>B</p>
+</td>
+<td>
+<p>Cigarrillos a tipo mínimo incrementado</p>
+</td>
+<td>
+<p>FB</p>
+</td>
+<td>
+<p>mc</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>C</p>
+</td>
+<td>
+<p>Picadura para liar a tipo mínimo incrementado</p>
+</td>
+<td>
+<p>FC</p>
+</td>
+<td>
+<p>kg</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>60</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Las demás labores de tabaco a tipo mínimo</p>
+</td>
+<td>
+<p>F7</p>
+</td>
+<td>
+<p>kg</p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>Impuesto sobre líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64 septies.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Líquido para cigarrillos electrónicos que no contenga nicotina o que contenga 15 miligramos de nicotina o menos, por mililitro de producto.</p>
+</td>
+<td>
+<p>L1</p>
+</td>
+<td>
+<p>ml.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64 septies.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Líquido para cigarrillos electrónicos que contenga más de 15 miligramos de nicotina por mililitro de producto.</p>
+</td>
+<td>
+<p>L2</p>
+</td>
+<td>
+<p>ml.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64 septies.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Bolsas de nicotina.</p>
+</td>
+<td>
+<p>L3</p>
+</td>
+<td>
+<p>gr.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>64 septies.</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>Otros productos de nicotina.</p>
+</td>
+<td>
+<p>L4</p>
+</td>
+<td>
+<p>gr.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+HG = Hectolitros de alcohol puro.
+
+HL = Hectolitros de volumen real.
+
+KL = Miles de litros.
+
+TN = Toneladas métricas.
+
+GJ = Gigajulios.
+
+mc = Miles de cigarrillos.
+
+€ pvp = Valor en euros expresado según su PVP máximo en expendedurías de tabaco y timbre situadas en la Península e Illes Balears, incluidos todos los impuestos.
+
+kg = Kilogramos.
+
+gr. = gramos para las bolsas de nicotina y otros productos de nicotina.
+
+ml. = mililitros para los líquidos para cigarrillos electrónicos.
+
+> Se añade un nuevo "Impuesto sobre líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco", con efectos desde el 1 de abril de 2025, que figura como anexo V de la Orden HAC/86/2025, de 13 de enero, según establece su disposición final 5.3. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se sustituye por el que figura como anexo V de la Orden HAC/135/2019, de 31 de enero, según establece su art. único.11. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se sustituye por el que figura como anexo III de la Orden HAP/2456/2013, de 27 de diciembre, según establece su art. 2.9. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+> Se sustituye por el que figura como anexo IV de la Orden HAP/71/2013, de 30 de enero, según establece su art. único.12. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953)
+
+## ANEXO XLV
+
+## Relación de códigos de Estados miembros de la Unión Europea
+
+| Código | País |
+|---|---|
+| AT | Austria |
+| BE | Bélgica |
+| BU | Bulgaria |
+| CY | Chipre |
+| CZ | República Checa |
+| DE | Alemania |
+| DK | Dinamarca |
+| EE | Estonia |
+| EL | Grecia |
+| ES | España |
+| FI | Finlandia |
+| FR | Francia |
+| GB | Reino Unido |
+| HR | Croacia |
+| HU | Hungría |
+| IE | Irlanda |
+| IT | Italia |
+| LT | Lituania |
+| LU | Luxemburgo |
+| LV | Letonia |
+| MT | Malta |
+| NL | Países Bajos |
+| PL | Polonia |
+| PT | Portugal |
+| RO | Rumania |
+| SE | Suecia |
+| SI | Eslovenia |
+| SK | Eslovaquia |
+
+> Se añade una clave por el art. 2.10 de la Orden HAP/2456/2013, de 27 de diciembre. [Ref. BOE-A-2013-13799](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-13799)
+
+## ANEXO XLVI
+
+![101](https://www.boe.es/datos/imagenes/disp/2010/317/20054_35217.png)
+
+![102](https://www.boe.es/datos/imagenes/disp/2010/317/20054_35335.png)
+
+> Se sustituye por el que figura como anexo XXXIV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.45. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XLVII
+
+![103](https://www.boe.es/datos/imagenes/disp/2010/317/20054_36363.png)
+
+![104](https://www.boe.es/datos/imagenes/disp/2010/317/20054_36440.png)
+
+> Se sustituye por el que figura como anexo XXXV de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.46. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XLVIII
+
+![105](https://www.boe.es/datos/imagenes/disp/2010/317/20054_37465.png)
+
+![106](https://www.boe.es/datos/imagenes/disp/2010/317/20054_37542.png)
+
+> Se sustituye por el que figura como anexo XXXVI de la Orden EHA/3363/2010, de 23 de diciembre, según establece su art. único.47. [Ref. BOE-A-2010-20054](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20054)
+
+## ANEXO XLIX
+
+![121](https://www.boe.es/datos/imagenes/disp/2007/288/20637_42520.png)
+
+![122](https://www.boe.es/datos/imagenes/disp/2007/288/20637_42557.png)
+
+![123](https://www.boe.es/datos/imagenes/disp/2007/288/20637_42591.png)
+
+## ANEXO L
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/70/03946_5799.png)
+
+> Se añade por el art. único.3 de la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)
+
+## ANEXO LI
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/70/03946_5967.png)
+
+![2](https://www.boe.es/datos/imagenes/disp/2018/70/03946_6001.png)
+
+> Se añade por el art. único.3 de la Orden HFP/293/2018, de 15 de marzo. [Ref. BOE-A-2018-3946](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-3946)

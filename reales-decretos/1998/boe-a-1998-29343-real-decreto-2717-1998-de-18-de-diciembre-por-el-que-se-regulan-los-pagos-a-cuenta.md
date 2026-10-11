@@ -1,0 +1,847 @@
+---
+title: "Real Decreto 2717/1998, de 18 de diciembre, por el que se regulan los pagos a cuenta en el Impuesto sobre la Renta de las Personas Físicas y en el Impuesto sobre la Renta de no Residentes y se modifica el Reglamento del Impuesto sobre Sociedades en materia de retenciones e ingresos a cuenta"
+identifier: "BOE-A-1998-29343"
+eli: "https://www.boe.es/eli/es/rd/1998/12/18/2717"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1998-12-18
+published: 1998-12-19
+in_force_from: 1999-01-01
+last_amended: 2004-08-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 303"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-29343"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2717/1998, de 18 de diciembre, por el que se regulan los pagos a cuenta en el Impuesto sobre la Renta de las Personas Físicas y en el Impuesto sobre la Renta de no Residentes y se modifica el Reglamento del Impuesto sobre Sociedades en materia de retenciones e ingresos a cuenta
+
+Incluye la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+La Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias, introduce importantes novedades en la gestión de este Impuesto, entre las que cabe destacar la relativa a los nuevos límites que definen la obligación de declarar (artículo 79 de la Ley), la posibilidad que tienen estas personas de solicitar la devolución del exceso de retenciones e ingresos a cuenta que pudieran haber soportado (artículo 81 de la Ley) y los efectos de las liquidaciones provisionales que la Administración puede girar a estos contribuyentes (artículo 84 de la Ley).
+
+El nuevo sistema de gestión del impuesto que las anteriores normas definen, sobre todo para el conjunto de contribuyentes excluidos de la obligación de presentar declaración, exige una profunda transformación del sistema de retenciones e ingresos a cuenta, especialmente en relación con los rendimientos del trabajo.
+
+Por otra parte, también se producen novedades significativas en el sistema de retenciones sobre las rentas del capital, rebajando el tipo de retención al 18 por 100 para los productos financieros más utilizados por los pequeños ahorradores, incluso introduciendo una retención para las rentas derivadas de inversiones en instituciones de Inversión colectiva.
+
+En consecuencia, el Gobierno considera oportuno adelantar la aprobación del presente Real Decreto con anterioridad a la del Reglamento del Impuesto sobre la Renta de las Personas Físicas, con la finalidad de que los obligados a practicar retenciones e ingresos a cuenta puedan conocer con la suficiente antelación el funcionamiento del nuevo sistema, proporcionando así la seguridad e información necesarias para el correcto cumplimiento de sus obligaciones como retenedores.
+
+Con el objeto de proporcionar una regulación completa y sistemática del nuevo régimen aplicable a los pagos a cuenta del Impuesto sobre la Renta de las Personas Físicas desde la fecha de entrada en vigor de la nueva Ley reguladora del Impuesto, el presente Real Decreto contiene toda la normativa necesaria, tanto en lo que se refiere a las retenciones e ingresos a cuenta, como a los pagos fraccionados que deben cumplimentar los contribuyentes con actividades económicas.
+
+Asimismo, también se modifica el Reglamento del Impuesto sobre Sociedades para adaptarlo a las modificaciones producidas en el Impuesto sobre la Renta de las Personas Físicas en materia de retenciones sobre las rentas del capital.
+
+Por último, se incluyen en este Real Decreto las normas reglamentarias de configuración del régimen de pagos a cuenta del Impuesto sobre la Renta de no Residentes.
+
+El presente Real Decreto se estructura en tres Títulos, el I regula todo el sistema de pagos a cuenta del Impuesto sobre la Renta de las Personas Físicas y se desarrolla en 39 artículos, el II, que comprende un único artículo, el 40, modifica determinados artículos del Reglamento del Impuesto sobre Sociedades en materia de retenciones e ingresos a cuenta de este Impuesto y el III, integrado por 9 artículos, regula los pagos a cuenta en el Impuesto sobre la Renta de no Residentes, cuatro disposiciones transitorias, una disposición derogatoria y una final.
+
+Las modificaciones más importantes se refieren al ámbito de las rentas del trabajo.
+
+El artículo 79 de la Ley reguladora del nuevo Impuesto sobre la Renta de las Personas Físicas ha configurado de una manera diferente, respecto a la prevista por la Ley 18/1991, la obligación de declarar para los perceptores de rentas de trabajo, con el objetivo de excluir de la obligación de presentar declaración y de la consiguiente autoliquidación a un elevado número de contribuyentes con capacidad económica suficiente para contribuir por este impuesto.
+
+Para ello, se ha elevado significativamente el importe total de los rendimientos del trabajo anuales que determinan la exclusión de la obligación de declarar y autoliquidar el Impuesto, situándolo, con carácter general, en 3.500.000 pesetas, frente a la cuantía de 1.250.000 pesetas que operaba con anterioridad.
+
+En consecuencia, los contribuyentes que estén dentro de ese límite y cumplan las demás circunstancias exigidas en la Ley, y que, por su capacidad económica, deban contribuir al Impuesto, quedarán sometidos al mismo por vía de las retenciones e ingresos a cuenta soportados.
+
+De ahí que, siendo las retenciones e ingresos a cuenta sobre los rendimientos de trabajo percibidos el impuesto que deben pagar, es necesario lograr el mayor ajuste posible entre la cuota líquida que pueda derivarse de una autoliquidación ante la Administración tributaria y el importe de retenciones e ingresos a cuenta soportados por estos contribuyentes, reduciendo, al propio tiempo, el gran número de devoluciones que con la normativa anterior se producían.
+
+El ajuste o equilibrio señalado se justifica, además, por razones de equidad horizontal, de forma que se evite que, a igualdad de rendimientos y circunstancias personales y familiares, dos contribuyentes no obligados a presentar declaración sean sometidos a retención de distinta manera.
+
+Para posibilitar lo anterior, el presente Real Decreto contempla un sistema de cuantificación de las retenciones similar al esquema que sigue la Ley para determinar la base liquidable y la cuota del Impuesto. El procedimiento puede resumirse como sigue: en primer lugar, la cuantía total de las retribuciones del trabajo se minora en el importe de determinados gastos deducibles, de las reducciones previstas en el artículo 18 de la Ley, así como del mínimo personal y familiar por descendientes previstos en el artículo 40 de la misma, para obtener una base para calcular el tipo de retención similar a la base liquidable del Impuesto. Posteriormente, a dicha base se le aplica la escala del Impuesto, obteniéndose una cuota de retención, que debe corresponderse con la cuota líquida de la declaración. Por último, se obtiene el tipo de retención, aplicable sobre la cuantía total de los rendimientos del trabajo satisfechos, dividiendo esa cuota de retención entre estos últimos.
+
+Dicho esquema se atiene a las exigencias contenidas en el artículo 83.1 de la Ley, cuando señala que «las retenciones e ingresos a cuenta sobre los rendimientos de trabajo derivados de relaciones laborales o estatutarias y de pensiones o haberes pasivos se fijarán reglamentariamente tomando como referencia el importe que resultaría de aplicar las tarifas a la base de retención o ingreso a cuenta», y en la disposición adicional duodécima del mismo cuerpo legal, que indica que las tablas de retenciones para 1999 se aprobarán antes del 15 de enero de ese año y habrán de tener en cuenta la tarifa y las circunstancias personales y familiares del perceptor.
+
+Así pues, se establece, como regla general, un esquema de determinación del tipo de retención para cada contribuyente a partir de la aplicación de la escala del Impuesto, incluyendo tanto la estatal como la complementaria, aunque con dos excepciones, el 20 por 100 como tipo fijo para las retribuciones por impartir cursos, conferencias y seminarios, así como por ceder el derecho de explotación de obras literarias, artísticas o científicas, y el 40 por 100 para las retribuciones de los miembros de Consejos de Administración, pues por las características de estas actividades no puede incluírselas en el mecanismo general antes descrito. Por ello, se opta, en el primer caso, por aplicar el mismo tipo de retención que a los rendimientos profesionales, dada la evidente conexión entre ambos, mientras que en el caso de los consejeros se continúa con el mismo tipo de retención que en la anterior normativa.
+
+La escala de retención se obtiene por agregación de las dos escalas (estatal y complementaria) que figuran en la Ley del Impuesto, para respetar así el mandato legalmente establecido al que se aludía con anterioridad. Como reglas para su aplicación, se incluyen algunas ya recogidas por el actual Reglamento, como son la relativa al volumen de retribuciones a tener en cuenta (fijas y variables previsibles), la forma de determinación del volumen de retribuciones en el caso de las peonadas o jornales diarios, el régimen especial de los pescadores, así como manteniendo la aplicación del mínimo del 2 por 100 para los contratos de duración inferior al año o esporádicos y del 20 por 100 para algunas relaciones laborales especiales que pueden confundirse con actividades profesionales por cuenta propia.
+
+Sin embargo, el propósito de que las retenciones soportadas al final del año estén lo más ajustadas posible al impuesto definitivo y la necesidad lógica de partir de las retribuciones previsibles del año, obligan al establecimiento de un proceso de regularización del tipo de retención que impida que las variaciones en las circunstancias económicas, personales o familiares del perceptor de rentas de trabajo se traduzca en un desajuste entre retenciones e impuesto definitivo. Dicho proceso de regularización constituye una pieza importante de este nuevo sistema y se aplicará en casos de modificaciones o prórrogas de contratos, de nuevas contrataciones, de modificaciones de normas generales o normas sectoriales aplicables, de ascensos, promoción o descenso de categoría de los trabajadores, así como de variaciones significativas en el volumen de las retribuciones tenidas inicialmente en cuenta para el cálculo del tipo de retención. También se prevé regularizaciones a instancia del trabajador, si varían las circunstancias personales y familiares del mismo a lo largo del ejercicio, para lo cual presentará una comunicación de datos a su empresa en la que consten estas circunstancias o su variación.
+
+La consecuencia de la falta de comunicación de las expresadas circunstancias es la no consideración de las mismas por parte del pagador para determinar el tipo de retención aplicable, sin perjuicio de los efectos que, en otros órdenes —liquidatorio y sancionador— se deriven de aquellas omisiones, falsedades o incorrecciones que determinen retenciones o ingresos a cuenta inferiores a los procedentes por estos motivos.
+
+Hay que subrayar, respecto al sistema de cálculo de las retenciones sobre los rendimientos del trabajo descrito, que existen dos normas que pretenden aliviar a las empresas en las tareas de implantar con tanta rapidez estas novedades. La primera de ellas permite acumular trimestralmente las regularizaciones del tipo de retención que puedan producirse por variaciones de las circunstancias económicas o personales del trabajador en los nueve primeros meses del año. La segunda, de carácter transitorio, permitirá que las empresas y la Seguridad Social y Clases Pasivas puedan realizar, respectivamente, las retenciones de los meses de enero y febrero de 1999 utilizando los datos sobre sus empleados y pensionistas relativos a 1998, sin necesidad de que deban captar de éstos toda la información que necesiten antes de confeccionar estas nóminas.
+
+En cuanto a los rendimientos de actividades económicas, se mantiene básicamente el esquema hoy vigente de retenciones, es decir, el 20 por 100 para los rendimientos profesionales en general (10 por 100 para algunos casos singulares) y 2 por 100 para actividades agrícolas o ganaderas (1 por 100 para algunas actividades ganaderas).
+
+Por lo que se refiere al esquema de retenciones e ingresos a cuenta aplicable en el ámbito de la fiscalidad del ahorro, tanto en el Impuesto sobre la Renta de las Personas Físicas como en el Impuesto sobre Sociedades, deben resaltarse las siguientes novedades en relación con la normativa anterior:
+
+1.ª Se reduce el tipo de retención que recae sobre los rendimientos del capital mobiliario derivados de la cesión a terceros de capitales propios desde el 25 por 100 hasta el 18 por 100. Dicha reducción no alcanza al resto de los rendimientos derivados del capital mobiliario que, con carácter general, siguen sometidos a retención a cuenta al tipo general del 25 por 100.
+
+La base de retención se calculará teniendo en cuenta las reducciones previstas en la Ley del impuesto según el plazo de generación de estos rendimientos.
+
+El objetivo de dicha modificación consiste en lograr la exclusión de la obligación de declarar de un elevado número de contribuyentes que complementan los rendimientos del trabajo inferiores al límite señalado para la obligación de declarar con rendimientos del capital sometidos a retención de pequeña cuantía.
+
+Por ello, se iguala el tipo de retención para estos rendimientos con el tipo inferior de la escala del Impuesto, pues son los derivados de la cesión a terceros de capitales propios los que tienen mayor incidencia en las declaraciones de los contribuyentes de menor capacidad económica.
+
+2.ª Se exoneran de retención, cuando son obtenidos exclusivamente por sujetos pasivos del Impuesto sobre Sociedades, los rendimientos procedentes de valores negociables de renta fija, que se negocien en mercados secundarios oficiales de valores españoles, que se emitan a partir de la entrada en vigor del Real Decreto y estén representados por medio de anotaciones en cuenta.
+
+Con esa medida se pretende mejorar la eficiencia de los mercados organizados de renta fija, lo que debe redundar en una mejora de la financiación de las empresas y de las Administraciones públicas españolas.
+
+Por el mismo motivo, también se excluye de retención a cuenta del Impuesto sobre la Renta de las Personas Físicas a los rendimientos derivados de la transmisión de activos financieros con rendimiento explícito, con los mismos requisitos que en el Impuesto sobre Sociedades.
+
+3.ª Se incorpora al mecanismo de las retenciones a cuenta a las ganancias patrimoniales generadas en la transmisión o reembolso de acciones o participaciones representativas del capital o patrimonio de las instituciones de inversión colectiva, sometiéndolas a una retención del 20 por 100, que se aplica tanto sobre las derivadas de instituciones de inversión colectiva domiciliadas en territorio español como sobre las derivadas de instituciones domiciliadas fuera del mismo que sean obtenidas por los socios o partícipes de éstas residentes en España.
+
+La base de retención coincidirá en estos casos con la cuantía a integrar en la base imponible del Impuesto sobre la Renta de las Personas Físicas o del Impuesto sobre Sociedades, según quién sea el perceptor de la renta.
+
+Con esta medida se pretende lograr una mayor neutralidad fiscal entre los diferentes instrumentos de ahorro y un mayor ajuste entre las retenciones a cuenta soportadas y el impuesto definitivo que corresponde satisfacer a los contribuyentes que complementen sus rendimientos del trabajo con este tipo de rentas, pues es del todo necesario para lograr el objetivo ya señalado que persigue todo el nuevo sistema de retenciones, como es excluir de la obligación de declarar a un gran número de contribuyentes.
+
+Considerando lo novedoso de esta retención, se retrasa su aplicación práctica hasta el 1 de febrero de 1999.
+
+4.ª Se someten a retención del 25 por 100 los rendimientos derivados de contratos de seguro de vida, de acuerdo con la calificación de rendimientos de capital mobiliario que, en todo caso, da a los mismos la Ley del Impuesto sobre la Renta de las Personas Físicas, aunque teniendo en cuenta el favorable tratamiento que ésta les otorga a través de las reducciones aplicables según su período de generación.
+
+Por la misma razón que antes se ha señalado, se retrasa su aplicación hasta el 1 de febrero de 1999.
+
+5.ª Desaparece la obligación de realizar ingresos a cuenta sobre rendimientos explícitos cuya frecuencia de liquidación sea superior a doce meses.
+
+Algunas otras novedades de este Real Decreto se resumen a continuación:
+
+Se unifica el porcentaje de retención para arrendamientos y subarrendamientos de inmuebles en el Impuesto sobre la Renta de las Personas Físicas, de la misma manera que ya ocurre en el Impuesto sobre Sociedades, y se fija en el 18 por 100, aplicable también a los rendimientos de cuentas corrientes y depósitos a plazo.
+
+Se fija el porcentaje de retención sobre los premios sometidos a esta obligación y que constituyan ganancias patrimoniales en el 20 por 100 de su importe.
+
+Se establece un porcentaje de retención único del 20 por 100 para los rendimientos precedentes de la propiedad intelectual e industrial, de la asistencia técnica, del arrendamiento de bienes muebles, negocios o minas y de la cesión del derecho a la explotación del derecho de imagen, con independencia de la calificación que estas rentas tengan para el perceptor.
+
+En cuanto a las obligaciones formales del retenedor y del obligado a ingresar a cuenta, se mantienen las que tradicionalmente vienen exigiéndose, si bien, en el caso del resumen anual de retenciones, se produce un mayor grado de exigencia informativa, en consonancia con las circunstancias que se tienen en cuenta para la aplicación del nuevo sistema de retenciones.
+
+Por último, en materia de pagos fraccionados, se mantiene básicamente el esquema actualmente vigente y se da cumplimiento a lo previsto en la disposición adicional duodécima de la Ley del Impuesto, rebajando a los contribuyentes que desarrollan actividades económicas en régimen de estimación objetiva el tipo del pago fraccionado a un 4 por 100, con carácter general, y a un 3 o a un 2 por 100, cuando se disponga de una o ninguna persona asalariada, respectivamente.
+
+El Título III contiene las normas reglamentarias del régimen de pagos a cuenta del Impuesto sobre la Rentade no Residentes, regulando en sus dos capítulos los correspondientes a rentas obtenidas por contribuyentes con y sin mediación de establecimiento permanente, de acuerdo con las características propias de sus formas de tributación.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de diciembre de 1998,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+## TÍTULO I — Pagos a cuenta del Impuesto sobre la Renta de las Personas Físicas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+### CAPÍTULO I — Retenciones e ingresos a cuenta. Normas generales
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 1. Obligación de practicar retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 2. Rentas sujetas a retención o ingreso a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 3. Obligados a retener o ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 4. Importe de la retención o ingreso a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 5. Nacimiento de la obligación de retener o de ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 6. Imputación temporal de las retenciones o ingresos a cuenta.
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+### CAPÍTULO II — Cálculo de las retenciones
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+#### Sección 1.ª Rendimientos del trabajo
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 7. Importe de las retenciones sobre rendimientos del trabajo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 8. Límite cuantitativo excluyente de la obligación de retener.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 9. Procedimiento general para determinar el importe de la retención.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 10. Base para calcular el tipo de retención.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 11. Límites de rentas anuales que permiten la aplicación del mínimo familiar por descendientes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 12. Cuota de retención.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 13. Tipo de retención.
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+##### Artículo 14. Regularización del tipo de retención.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 15. Comunicación de datos del perceptor de rentas del trabajo a su pagador.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 16. Acreditación de la condición de minusválido y de la necesidad de ayuda de otra persona o de la existencia de dificultades de movilidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+#### Sección 2.ª Rendimientos del capital mobiliario
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 17. Importe de las retenciones sobre rendimientos del capital mobiliario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+##### Artículo 18. Concepto y clasificación de activos financieros.
+
+**(Derogado)**
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 19. Requisitos fiscales para la transmisión, reembolso y amortización de activos financieros.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 20. Base de retención sobre los rendimientos del capital mobiliario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 21. Nacimiento de la obligación de retener y de ingresar a cuenta sobre los rendimientos del capital mobiliario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+#### Sección 3.ª Rendimientos de actividades económicas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 22. Importe de las retenciones sobre rendimientos de actividades económicas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+#### Sección 4.ª Ganancias patrimoniales
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 23. Importe de las retenciones sobre ganancias patrimoniales derivadas de las transmisiones o reembolsos de acciones y participaciones de instituciones de inversión colectiva.
+
+**(Derogado)** *<br>*
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 24. Base de retención sobre las ganancias patrimoniales derivadas de transmisiones o reembolsos de acciones y participaciones de instituciones de inversión colectiva.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 25. Nacimiento de la obligación de retener.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 26. Importe de las retenciones sobre premios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+#### Sección 5.ª Otras rentas
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 27. Importe de las retenciones sobre arrendamientos y subarrendamientos de inmuebles.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 28. Importe de las retenciones sobre derechos de imagen y otras rentas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+### CAPÍTULO III — Ingresos a cuenta
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 29. Ingresos a cuenta sobre retribuciones en especie del trabajo.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 30. Ingresos a cuenta sobre retribuciones en especie del capital mobiliario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 31. Ingresos a cuenta sobre retribuciones en especie de actividades económicas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 32. Ingresos a cuenta sobre premios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 33. Ingreso a cuenta sobre otras rentas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 34. Ingreso a cuenta sobre derechos de imagen.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+### CAPÍTULO IV — Obligaciones del retenedor y del obligado a ingresar a cuenta
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 35. Obligaciones formales del retenedor y del obligado a ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+### CAPÍTULO V — Pagos fraccionados
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 36. Obligados al pago fraccionado.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 37. Importe del fraccionamiento.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 38. Declaración e ingreso.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Artículo 39. Entidades en régimen de atribución de rentas.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+## TÍTULO II — Modificación del Reglamento del Impuesto sobre Sociedades en materia de retenciones e ingresos a cuenta
+
+##### Artículo 40. Modificación del capítulo II del Título IV del Reglamento del Impuesto sobre Sociedades.
+
+A partir de 1 de enero de 1999, el capítulo II del Título IV del Reglamento del Impuesto sobre Sociedades, aprobado por el artículo 1 del Real Decreto 537/1997, de 14 de abril, quedará redactado como sigue:
+
+### «CAPÍTULO II — Obligación de retener e ingresar a cuenta
+
+Artículo 56. Rentas sujetas a retención o ingreso a cuenta.
+
+1\. Deberá practicarse retención, en concepto de pago a cuenta del Impuesto sobre Sociedades correspondiente al perceptor, respecto de:
+
+a) Las rentas derivadas de la participación en fondos propios de cualquier tipo de entidad, de la cesión a terceros de capitales propios y las restantes rentas comprendidas en el artículo 23 de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias.
+
+b) Los premios derivados de la participación en juegos, concursos, rifas o combinaciones aleatorias, estén o no vinculados a la oferta, promoción o venta de determinados bienes, productos o servicios.
+
+c) Las contraprestaciones obtenidas como consecuencia de la atribución de cargos de administrador o consejero en otras sociedades.
+
+d) Las rentas procedentes de la cesión del derecho a la explotación de la imagen o del consentimiento o autorización para su utilización, aun cuando constituyan ingresos derivados de explotaciones económicas.
+
+e) Las rentas procedentes del arrendamiento o subarrendamiento de inmuebles urbanos, aun cuando constituyan ingresos derivados de explotaciones económicas.
+
+f) Las rentas obtenidas como consecuencia de las transmisiones o reembolsos de acciones o participaciones representativas del capital o patrimonio de instituciones de inversión colectiva.
+
+2\. Cuando un mismo contrato comprenda prestaciones de servicios o la cesión de bienes inmuebles, conjuntamente con la cesión de bienes y derechos de los incluidos en el apartado 4 del artículo 23 de la Ley del impuesto sobre la Renta de las Personas Físicas, deberá practicar retención sobre el importe total.
+
+Cuando un mismo contrato comprenda el arriendo, subarriendo o cesión de fincas rústicas, conjuntamente con otros bienes muebles, no se practicará la retención excepto si se trata del arrendamiento o cesión de negocios o minas.
+
+3\. Deberá practicarse un ingreso a cuenta del Impuesto sobre Sociedades correspondiente al perceptor respecto de las rentas de los apartados anteriores, cuando sean satisfechas o abonadas en especie.
+
+Artículo 57. Excepciones a la obligación de retener y de ingresar a cuenta.
+
+No existirá obligación de retener ni de ingresar a cuenta respecto de:
+
+a) Los rendimientos de los valores emitidos por el Banco de España que constituyan instrumento regulador de intervención en el mercado monetario y los rendimientos de las Letras del Tesoro.
+
+No obstante, las entidades de crédito y demás instituciones financieras que formalicen con sus clientes contratos de cuentas basadas en operaciones sobre Letras del Tesoro, estarán obligadas a retener respecto de los rendimientos obtenidos por los titulares de las citadas cuentas.
+
+b) Los intereses que constituyan derecho a favor del Tesoro como contraprestación de los préstamos del Estado al crédito oficial.
+
+c) Los intereses y comisiones de préstamos que constituyan ingreso de las entidades de crédito y establecimientos financieros de crédito inscritos en los registros especiales del Banco de España, residentes en territorio español.
+
+La excepción anterior no se aplicará a los intereses y rendimientos de las obligaciones, bonos u otros títulos emitidos por entidades públicas o privadas, nacionales o extranjeras, que integran la cartera de valores de las referidas entidades.
+
+d) Los intereses de las operaciones de préstamo, crédito o anticipo, tanto activas como pasivas que realice la Sociedad Estatal de Participaciones Industriales con sociedades en las que tenga participación mayoritaria en el capital, no pudiendo extenderse esta excepción a los intereses de cédulas, obligaciones, bonos u otros títulos análogos.
+
+e) Los intereses percibidos por las sociedades de valores como consecuencia de los créditos otorgados en relación con operaciones de compra o venta de valores a que hace referencia el artículo 63.2.c) de la Ley 24/1988, de 28 de julio, del Mercado de Valores, así como los intereses percibidos por las sociedades y agencias de valores respecto de las operaciones activas de préstamos o depósitos mencionados en el apartado 2 del artículo 21 del Real Decreto 276/1989, de 22 de marzo, sobre sociedades y agencias de valores.
+
+Tampoco existirá obligación de practicar retención en relación con los intereses percibidos por sociedades o agencias de valores, en contraprestación a las garantías constituidas para operar como miembros de los mercados de futuros y opciones financieros, en los términos a que hacen referencia los capítulos III y IV del Real Decreto 1814/1991, de 20 de diciembre, por el que se regulan los mercados oficiales de futuros y opciones.
+
+f) Las primas de conversión de obligaciones en acciones.
+
+g) Las rentas derivadas de la distribución de la prima de emisión de acciones o participaciones.
+
+h) Los beneficios percibidos por una sociedad matriz residente en España de sus sociedades filiales residentes en otros Estados miembros de la Unión Europea, en relación con la retención prevista en el apartado 2 del artículo 58 de este Reglamento, cuando concurran los requisitos establecidos en la letra g) del apartado 1 del artículo 13 de la Ley del Impuesto sobre la Renta de no Residentes.
+
+i) Los rendimientos procedentes del arrendamiento y subarrendamiento de bienes inmuebles urbanos en los siguientes supuestos:
+
+1º Cuando se trate de arrendamientos de vivienda por empresas para sus empleados.
+
+2º Cuando la renta satisfecha por el arrendatario a un mismo arrendador no supere las 150.000 pesetas anuales.
+
+3º Cuando el arrendador esté obligado a tributar por alguno de los epígrafes del grupo 861 de la Sección Primera de las tarifas del Impuesto sobre Actividades Económicas aprobadas por Real Decreto legislativo 1175/1990, de 28 de septiembre, y no resulte cuota cero, o bien, por algún otro epígrafe que faculte para la actividad de arrendamiento o subarrendamiento de bienes inmuebles urbanos, cuando aplicando al valor catastral de los inmuebles destinados al arrendamiento o subarrendamiento las reglas para determinar la cuota establecida en los epígrafes del citado grupo 861, no resultase cuota cero.
+
+A estos efectos el arrendador deberá acreditar frente al arrendatario el cumplimiento de la citada obligación, en los términos que establezca el Ministro de Economía y Hacienda.
+
+Se entenderán comprendidos en el supuesto anterior los arrendadores y subarrendadores que, reuniendo los requisitos establecidos en el mismo, disfruten de exención en el Impuesto sobre Actividades Económicas.
+
+4º Cuando los rendimientos deriven de los contratos de arrendamiento financiero a que se refiere el apartado 1 de la disposición adicional séptima de la Ley 26/1988, de 29 de julio, sobre disciplina e intervención de las entidades de crédito, en cuanto tengan por objeto bienes inmuebles urbanos.
+
+j) Los rendimientos que sean exigibles entre una agrupación de interés económica española o europea y sus socios, así como los que sean exigibles entre una unión temporal y sus empresas miembros.
+
+k) Los rendimientos de participaciones hipotecarias, préstamos u otros derechos de crédito que constituyan ingreso de los fondos de titulización.
+
+l) Los rendimientos de cuentas en el exterior satisfechos o abonados por establecimientos permanentes en el extranjero de entidades de crédito y establecimientos financieros residentes en España.
+
+m) Los rendimientos satisfechos a entidades que gocen de exención por el impuesto en virtud de lo dispuesto en un tratado internacional suscrito por España.
+
+n) Los dividendos o participaciones en beneficios, intereses y demás rendimientos satisfechos entre sociedades que formen parte de un grupo que tribute en el régimen de los grupos de sociedades.
+
+ñ) Los dividendos o participaciones en beneficios que procedan de períodos impositivos durante los cuales la entidad que los distribuye se hallase en régimen de transparencia fiscal.
+
+o) Las rentas obtenidas por las entidades exentas a que se refiere el artículo 9 de la Ley del Impuesto.
+
+La condición de entidad exenta podrá acreditarse por cualquiera de los medios de prueba admitidos en derecho. Mediante resolución del Departamento de Gestión de la Agencia Estatal de Administración Tributaria podrán establecerse los medios y forma para acreditar la condición de entidad exenta.
+
+El Ministro de Economía y Hacienda podrá determinar, mediante Orden, el procedimiento para poder hacer efectiva la exoneración de la obligación de retención o ingreso a cuenta en relación con los rendimientos derivados de los títulos de la Deuda pública del Estado percibidos por las entidades exentas a que se refiere el artículo 9 de la Ley del Impuesto.
+
+p) Los dividendos o participaciones en beneficios a que se refiere el apartado 2 del artículo 28 de la Ley del impuesto.
+
+A efectos de lo dispuesto en esta letra, la entidad perceptora deberá comunicar a la entidad obligada a retener que concurren los requisitos establecidos en el citado artículo. La comunicación contendrá, además de los datos de identificación del perceptor, los documentos que justifiquen el cumplimiento de los referidos requisitos.
+
+q) Las rentas obtenidas por los sujetos pasivos del Impuesto sobre Sociedades procedentes de activos financieros, siempre que cumplan los requisitos siguientes:
+
+1.º) Que estén representados mediante anotaciones en cuenta.
+
+2.º) Que se negocien en un mercado secundario oficial de valores español.
+
+No obstante, las entidades de crédito y demás entidades financieras que formalicen con sus clientes contratos de cuentas basadas en operaciones sobre activos financieros estarán obligadas a retener respecto de los rendimientos obtenidos por los titulares de las citadas cuentas.
+
+Las entidades financieras a través de las que se efectúe el pago de intereses de los valores comprendidos en esta letra o que intervengan en la transmisión, amortización o reembolso de los mismos, estarán obligadas a calcular el rendimiento imputable al titular del valor e informar del mismo tanto al titular como a la Administración tributaria, a la que, asimismo, proporcionarán los datos correspondientes a las personas que intervengan en las operaciones antes enumeradas.
+
+El Ministro de Economía y Hacienda establecerá, asimismo, las obligaciones de intermediación e información correspondientes a las separaciones, transmisiones, reconstituciones, reembolsos o amortizaciones de los valores de Deuda pública para los que se haya autorizado la negociación separada del principal y de los cupones. En tales supuestos, las entidades gestoras del Mercado de Deuda Pública en Anotaciones estarán obligadas a calcular el rendimiento imputable a cada titular e informar del mismo, tanto al titular como a la Administración tributaria, a la que, asimismo, proporcionarán la información correspondiente a las personas que intervengan en las operaciones sobre estos valores.
+
+Se faculta al Ministro de Economía y Hacienda para establecer el procedimiento para hacer efectiva la exclusión de retención regulada en la presente letra.
+
+r) Los premios a que se refiere el párrafo b) del apartado 1 del artículo anterior, cuando su base de retención no sea superior a 50.000 pesetas.
+
+Artículo 58. Sujetos obligados a retener o efectuar un ingreso a cuenta.
+
+1\. Estarán obligados a retener o ingresar a cuenta cuando satisfagan o abonen rentas de las previstas en el artículo 56 de este Reglamento:
+
+a) Las personas jurídicas y demás entidades, incluidas las comunidades de bienes y de propietarios y las entidades en régimen de atribución de rentas.
+
+b) Los contribuyentes por el Impuesto sobre la Renta de las Personas Físicas que ejerzan actividades económicas, cuando satisfagan rentas en el ejercicio de sus actividades.
+
+c) Las personas físicas, jurídicas y demás entidades no residentes en territorio español, que operen en él mediante establecimiento permanente.
+
+2\. No se considerará que una persona o entidad satisface o abona una renta cuando se limite a efectuar una simple mediación de pago, entendiéndose por tal el abono de una cantidad por cuenta y orden de un tercero, excepto que se trate de entidades depositarias de valores extranjeros propiedad de residentes en territorio español o que tengan a su cargo la gestión de cobro de las rentas de dichos valores. Las citadas entidades depositarias deberán practicar la retención correspondiente siempre que tales rentas no hayan soportado retención previa en España.
+
+3\. En caso de premios estará obligado a retener o a ingresar a cuenta la persona o entidad que los satisfaga.
+
+4\. En las operaciones sobre activos financieros estarán obligados a retener:
+
+a) En los rendimientos obtenidos en la amortización o reembolso de activos financieros, la persona o entidad emisora. No obstante, en caso de que se encomiende a una entidad financiera la materialización de esas operaciones, el obligado a retener será la entidad financiera encargada de la operación.
+
+Cuando se trate de instrumentos de giro convertidos después de su emisión en activos financieros, a su vencimiento estará obligado a retener el fedatario público o institución financiera que intervenga en la presentación al cobro.
+
+b) En los rendimientos obtenidos en la transmisión de activos financieros incluidos los instrumentos de giro a los que se refiere el apartado anterior, cuando se canalice a través de una o varias instituciones financieras, el banco, caja o entidad financiera que actúe por cuenta del transmitente.
+
+A efectos de lo dispuesto en este número, se entenderá que actúa por cuenta del transmitente el banco, caja o entidad financiera que reciba de aquél la orden de venta de los activos financieros.
+
+c) En los casos no recogidos en los apartados anteriores, el fedatario público que obligatoriamente debe intervenir en la operación.
+
+5\. En las transmisiones de valores de la Deuda del Estado deberá practicar la retención la entidad gestora del Mercado de Deuda Pública en Anotaciones que intervenga en la transmisión.
+
+6\. En las transmisiones o reembolsos de acciones o participaciones representativas del capital o patrimonio de las instituciones de inversión colectiva, deberán practicar retención o ingreso a cuenta las siguientes personas o entidades:
+
+1º En el caso de reembolso de las participaciones de fondos de inversión, las sociedades gestoras.
+
+2º En el caso de la transmisión de acciones representativas del capital de sociedades de inversión mobiliaria de capital variable, cuando éstas actúen de contrapartida, las entidades gestoras o, en su defecto, depositarias.
+
+3º En el caso de instituciones de inversión colectiva domiciliadas en el extranjero, las entidades comercializadoras o los intermediarios facultados para la comercialización de las acciones o participaciones de aquéllas y, subsidiariamente, la entidad o entidades encargadas de la colocación o distribución de los valores entre los potenciales suscriptores, cuando efectúen el reembolso.
+
+7\. Los sujetos obligados a retener asumirán la obligación de efectuar el ingreso en el Tesoro, sin que el incumplimiento de aquella obligación pueda excusarles de ésta.
+
+La retención e ingreso correspondiente, cuando la entidad pagadora del rendimiento sea la Administración del Estado, se efectuará de forma directa.
+
+Artículo 59. Calificación de los activos financieros y requisitos fiscales para la transmisión, reembolso y amortización de activos financieros
+
+1\. Tendrán la consideración de activos financieros con rendimiento implícito aquellos en los que el rendimiento se genere mediante diferencia entre el importe satisfecho en la emisión, primera colocación o endoso y el comprometido a reembolsar al vencimiento de aquellas operaciones cuyo rendimiento se fije, total o parcialmente, de forma implícita, a través de cualesquier valores mobiliarios utilizados para la captación de recursos ajenos.
+
+Se incluyen como rendimientos implícitos las primas de emisión, amortización o reembolso.
+
+Se excluyen del concepto de rendimiento implícito las bonificaciones o primas de colocación, giradas sobre el precio de emisión, siempre que se encuadren dentro de las prácticas de mercado y que constituyan ingreso en su totalidad para el mediador, intermediario o colocador financiero, que actúe en la emisión y puesta en circulación de los activos financieros regulados en esta norma.
+
+Se considerará como activo financiero con rendimiento implícito cualquier instrumento de giro incluso los originados en operaciones comerciales, a partir del momento en que se endose o transmita, salvo que el endoso o cesión se haga como pago de un crédito de proveedores o suministradores.
+
+2\. Tendrán la consideración de activos financieros con rendimiento explícito aquellos que generen intereses y cualquier otra forma de retribución pactada como contraprestación a la cesión a terceros de capitales propios y que no esté comprendida en el concepto de rendimientos implícitos en los términos que establece el apartado anterior.
+
+3\. Los activos financieros con rendimiento mixto seguirán el régimen de los activos financieros con rendimiento explícito cuando el efectivo anual que produzcan de esta naturaleza sea igual o superior al tipo de referencia vigente en el momento de la emisión, aunque en las condiciones de emisión, amortización o reembolso se hubiese fijado, de forma implícita, otro rendimiento adicional. Este tipo de referencia será, durante cada trimestre natural, el 80 por 100 del tipo efectivo correspondiente al precio medio ponderado redondeado que hubiera resultado en la última subasta del trimestre precedente, correspondiente a bonos del Estado a tres años, si se tratara de activos financieros con plazo igual o inferior a cuatro años; a bonos del Estado a cinco años, si se tratara de activos financieros con plazo superior a cuatro años pero igual o inferior a siete, y a obligaciones del Estado a diez, quince o treinta años si se tratara de activos con plazo superior. En el caso de que no pueda determinarse el tipo de referencia para algún plazo, será de aplicación el del plazo más próximo al de la emisión planeada.
+
+A efectos de lo dispuesto en este apartado, respecto de las emisiones de activos financieros con rendimiento variable o flotante, se tomará como interés efectivo de la operación su tasa de rendimiento interno, considerando únicamente los rendimientos de naturaleza explícita y calculada, en su caso, con referencia a la valoración inicial del parámetro respecto del cual se fije periódicamente el importe definitivo de los rendimientos devengados.
+
+4\. Para proceder a la enajenación u obtención del reembolso de los títulos o activos financieros con rendimiento implícito y de activos financieros con rendimiento explícito que deban ser objeto de retención en el momento de su transmisión, amortización o reembolso, habrá de acreditarse la previa adquisición de los mismos con intervención de los fedatarios o instituciones financieras obligados a retener, así como el precio al que se realizó la operación.
+
+Cuando un instrumento de giro se convierta en activo financiero después de su puesta en circulación, ya el primer endoso o cesión deberá hacerse a través de fedatario público o institución financiera, salvo que el mismo endosatario o adquirente sea una institución financiera. El fedatario o institución financiera consignarán en el documento su carácter de activo financiero, con identificación de su primer adquirente o tenedor.
+
+5\. A efectos de lo dispuesto en el apartado anterior, la persona o entidad emisora, la institución financiera que actúe por cuenta de ésta, el fedatario público o la institución financiera que actúe o intervenga por cuenta del adquirente o depositante, según proceda, deberán extender certificación acreditativa de los siguientes extremos:
+
+a) Fecha de la operación e identificación del activo.
+
+b) Denominación del adquirente.
+
+c) Número de identificación fiscal del citado adquirente o depositante.
+
+d) Precio de adquisición.
+
+De la mencionada certificación, que se extenderá por triplicado, se entregarán dos ejemplares al adquirente, quedando otro en poder de la persona o entidad que certifica.
+
+6\. Las instituciones financieras o los fedatarios públicos se abstendrán de mediar o intervenir en la transmisión de estos activos cuando el transmitente no justifique su adquisición de acuerdo con lo dispuesto en este artículo.
+
+7\. Las personas o entidades emisoras de los activos financieros a los que se refiere el apartado 4 no podrán reembolsar los mismos cuando el tenedor no acredite su adquisición previa mediante la certificación oportuna, ajustada a lo indicado en el apartado 5 anterior.
+
+El emisor o las instituciones financieras encargadas de la operación que, de acuerdo con el párrafo anterior, no deban efectuar el reembolso al tenedor del título o activo deberán constituir por dicha cantidad depósito a disposición de la autoridad judicial.
+
+La recompra, rescate, cancelación o amortización anticipada exigirán la intervención o mediación de institución financiera o de fedatario público, quedando la entidad o persona emisora del activo como mero adquirente en el caso de que vuelva a poner en circulación el título.
+
+8\. El tenedor del título, en caso de extravío de un certificado justificativo de su adquisición, podrá solicitar la emisión del correspondiente duplicado de la persona o entidad que emitió tal certificación.
+
+Esta persona o entidad hará constar el carácter de duplicado de ese documento, así como la fecha de expedición de ese último.
+
+9\. En los casos de transmisión lucrativa se entenderá que el adquirente se subroga en el valor de adquisición del transmitente, en tanto medie una justificación suficiente del referido coste.
+
+Artículo 60. Base para el cálculo de la obligación de retener e ingresar a cuenta.
+
+1\. Con carácter general, constituirá la base para el cálculo de la obligación de retener la contraprestación íntegra exigible o satisfecha.
+
+2\. En el caso de la amortización, reembolso o transmisión de activos financieros constituirá la base para el cálculo de la obligación de retener la diferencia positiva entre el valor de amortización, reembolso o transmisión y el valor de adquisición o suscripción de dichos activos. Como valor de adquisición se tomará el que figure en la certificación acreditativa de la adquisición. A estos efectos, no se minorarán los gastos accesorios a la operación.
+
+Sin perjuicio de la retención que proceda al transmitente, en el caso de que la entidad emisora adquiera un activo financiero emitido por ella, se practicará la retención e ingreso sobre el rendimiento que obtenga en cualquier forma de transmisión ulterior del título, excluida la amortización.
+
+3\. Cuando la obligación de retener tenga su origen en virtud de lo previsto en el párrafo b) del apartado 1 del artículo 56 de este Reglamento, constituirá la base para el cálculo de la misma el importe del premio.
+
+4\. Cuando la obligación de retener tenga su origen en virtud de lo previsto en el párrafo f) del apartado 1 del artículo 56 de este Reglamento, la base de retención será la diferencia entre el valor de transmisión o reembolso y el valor de adquisición de las acciones o participaciones.
+
+5\. Cuando la obligación de ingresar a cuenta tenga su origen en virtud de lo previsto en el apartado 3 del artículo 56 de este Reglamento, constituirá la base para el cálculo de la misma el valor de mercado del bien.
+
+A estos efectos, se tomará como valor de mercado el resultado de incrementar en un 20 por 100 el valor de adquisición o coste para el pagador.
+
+6\. Cuando no pudiera probarse la contraprestación íntegra exigible o satisfecha, la Administración tributaria podrá computar como tal una cantidad de la que, restada la retención procedente, arroje la efectivamente percibida.
+
+Artículo 61. Nacimiento de la obligación de retener y de ingresar a cuenta.
+
+1\. Con carácter general, las obligaciones de retener y de ingresar a cuenta nacerán en el momento de la exigibilidad de las rentas, dinerarias o en especie, sujetas a retención o ingreso a cuenta, respectivamente, o en el de su pago o entrega si es anterior.
+
+En particular, se entenderán exigibles los intereses en las fechas de vencimiento señaladas en la escritura o contrato para su liquidación o cobro, o cuando de otra forma se reconozcan en cuenta, aun cuando el perceptor no reclame su cobro o los rendimientos se acumulen al principal de la operación, y los dividendos en la fecha establecida en el acuerdo de distribución o a partir del día siguiente al de su adopción a falta de la determinación de la citada fecha.
+
+2\. En el caso de rendimientos derivados de la amortización, reembolso o transmisión de activos financieros, la obligación de retener o ingresar a cuenta nacerá en el momento en que se formalice la operación.
+
+3\. En el caso de rentas obtenidas como consecuencia de las transmisiones o reembolsos de acciones o participaciones representativas del capital o patrimonio de instituciones de inversión colectiva, la obligación de retener o ingresar a cuenta nacerá en el momento en que se formalice la operación, cualesquiera que sean las condiciones de cobro pactadas.
+
+Artículo 62. Porcentaje de retención e ingreso a cuenta.
+
+1\. El porcentaje al que se debe efectuar la retención o el ingreso a cuenta será, con carácter general, el 25 por 100.
+
+2\. En el caso de rendimientos obtenidos por la cesión a terceros de capitales propios a los que se refiere el artículo 23.2 de la Ley del Impuesto sobre la Renta de las Personas Físicas, este porcentaje será del 18 por 100.
+
+3.**(Anulado)**
+
+Este porcentaje se dividirá por dos cuando se trate de rentas procedentes de inmuebles urbanos situados en Ceuta, Melilla o sus dependencias, obtenidas por entidades domiciliadas en dichos territorios o que operen en ellas mediante establecimiento o sucursal.
+
+4\. En el caso de transmisiones o reembolsos de acciones o participaciones de instituciones de inversión colectiva será el 20 por 100.
+
+Artículo 63. Importe de la retención o del ingreso a cuenta.
+
+El importe de la retención o del ingreso a cuenta se determinará aplicando el porcentaje a que se refiere el artículo anterior a la base de cálculo.
+
+Artículo 64. Obligaciones del retenedor y del obligado a ingresar a cuenta.
+
+1\. El retenedor y el obligado a ingresar a cuenta deberán presentar en los primeros veinte días naturales de los meses de abril, julio, octubre y enero, ante el órgano competente de la Administración tributaria, declaración de las cantidades retenidas y de los ingresos a cuenta que correspondan por el trimestre natural inmediato anterior e ingresar su importe en el Tesoro Público.
+
+No obstante, la declaración e ingreso a que se refiere el párrafo anterior se efectuará en los veinte primeros días naturales de cada mes, en relación con las cantidades retenidas y los ingresos a cuenta que correspondan por el inmediato anterior, cuando se trate de retenedores u obligados en los que concurran las circunstancias a que se refiere el apartado 3.1.º del artículo 71 del Real Decreto 1624/1992, de 29 de diciembre. Por excepción, la declaración e ingreso correspondiente al mes de julio se efectuará durante el mes de agosto y los veinte primeros días naturales del mes de septiembre inmediato posterior.
+
+No procederá la presentación de declaración negativa cuando no se hubieran satisfecho en el período de declaración rentas sometidas a retención o ingreso a cuenta.
+
+2\. El retenedor u obligado a ingresar a cuenta deberá presentar, en el mismo plazo de la última declaración de cada año, un resumen anual de las retenciones e ingresos a cuenta efectuados. En este resumen, además de sus datos de identificación, podrá exigirse que conste una relación nominativa de los perceptores con los siguientes datos:
+
+a) Denominación de la entidad.
+
+b) Número de identificación fiscal.
+
+c) Renta obtenida, con indicación de la identificación, descripción y naturaleza de los conceptos, así como del ejercicio en que dicha renta se hubiera devengado.
+
+d) Retención practicada o ingreso a cuenta efectuado.
+
+En el caso de que la relación se presente por soporte directamente legible por ordenador, el plazo de presentación será el comprendido entre el 1 de enero y el 20 de febrero del año siguiente.
+
+A las mismas obligaciones establecidas en los párrafos anteriores estarán sujetas las entidades domiciliadas, residentes o representadas en España, que paguen por cuenta ajena rentas sujetas a retención o que sean depositarias o gestionen el cobro de las rentas de valores.
+
+3\. El retenedor u obligado a ingresar a cuenta deberá expedir en favor del sujeto pasivo certificación acreditativa de las retenciones practicadas, o de los ingresos a cuenta efectuados, así como de los restantes datos referentes al sujeto pasivo que deben incluirse en el resumen anual a que se refiere el apartado anterior.
+
+La citada certificación deberá ponerse a disposición del sujeto pasivo con anterioridad al inicio del plazo de declaración de este impuesto.
+
+A las mismas obligaciones establecidas en los párrafos anteriores estarán sujetas las entidades domiciliadas, residentes o representadas en España, que paguen por cuenta ajena rentas sujetas a retención o que sean depositarias o gestionen el cobro de rentas de valores.
+
+4\. Los pagadores deberán comunicar a los sujetos pasivos la retención o ingreso a cuenta practicados en el momento en que satisfagan las rentas, indicando el porcentaje aplicado.
+
+5\. Las declaraciones a que se refiere este artículo se realizarán en los modelos que para cada clase de rentas establezca el Ministro de Economía y Hacienda, quien asimismo podrá determinar los datos que deben incluirse en las declaraciones, de los previstos en el apartado 2 anterior, estando obligado el retenedor u obligado a ingresar a cuenta a cumplimentar la totalidad de los datos así determinados y contenidos en las declaraciones que le afecten.
+
+La declaración e ingreso se efectuarán en la forma y lugar que determine el Ministro de Economía y Hacienda.»
+
+> Se declara la nulidad del apartado 62.3 por Sentencia del TS de 2 de marzo. [Ref. BOE-A-2000-18992](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-18992).
+
+> Redactado el título del art. 57 conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+## TÍTULO III — Pagos a cuenta del Impuesto sobre la Renta de no Residentes
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+### CAPÍTULO I — Rentas obtenidas mediante establecimiento permanente
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 41. Pagos a cuenta de establecimientos permanentes.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+### CAPÍTULO II — Rentas obtenidas sin mediación de establecimiento permanente
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 42. Obligación de practicar retenciones e ingresos a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 43. Excepciones a la obligación de retener y de ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 44. Sujetos obligados a retener o a efectuar ingreso a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 45. Nacimiento de la obligación de retener y de ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 46. Base para el cálculo de la obligación de retener e ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 47. Retención o ingreso a cuenta en la adquisición de bienes inmuebles.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 48. Obligaciones del retenedor y del obligado a ingresar a cuenta.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+##### Artículo 49. Devoluciones.
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 326/1999, de 26 de febrero. [Ref. BOE-A-1999-4802](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-4802).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+##### Disposición transitoria primera. Régimen transitorio de las modificaciones introducidas en materia de retenciones sobre los rendimientos del capital mobiliario y sobre ganancias patrimoniales.
+
+1\. El tipo de retención del 18 por 100 al que hacen referencia el artículo 17 de este Real Decreto y el artículo 62 del Reglamento del Impuesto sobre Sociedades será aplicable:
+
+a) En relación con las transmisiones, amortizaciones o reembolsos de activos financieros con rendimiento implícito formalizadas desde el 1 de enero de 1999.
+
+b) Respecto a los rendimientos explícitos que sean exigibles desde la citada fecha.
+
+2\. La obligación de retener en las transmisiones o reembolsos de acciones o participaciones representativas del capital o patrimonio de instituciones de inversión colectiva será aplicable a las transmisiones o reembolsos formalizados desde el 1 de febrero de 1999.
+
+3.**(Derogado)**
+
+4\. La obligación de retener en relación con los rendimientos derivados de contratos de seguro de vida o invalidez que con anterioridad no estaban sujetos a retención será aplicable a los rendimientos exigidos desde el 1 de febrero de 1999.
+
+5\. **(Derogado)**
+
+6.**(Derogado)**
+
+> Se derogan los apartados 3, 5 y 6 por la disposición derogatoria única.2 del Real Decreto 1777/2004, de 30 de julio. [Ref. BOE-A-2004-14600](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-14600).
+
+> Se modifica el título y el apartado 3 por el art. 6.1 del Real Decreto 215/1999, de 5 de febrero. [Ref. BOE-A-1999-3252](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3252).
+
+##### Disposición transitoria segunda. Determinación de las retenciones por circustancias personales y familiares comunicadas en el ejércicio anterior
+
+*1. Los pagadores de rentas de trabajo podrán determinar las retenciones aplicables teniendo en cuenta exclusivamente las circunstancias personales y familiares que los perceptores les hayan comunicado en el ejercicio anterior, hasta la confección de la nómina correspondiente al mes de febrero de 1999, con carácter general, o hasta la correspondiente al mes de marzo de 1999 cuando se trate de pensiones o haberes pasivos del régimen de Seguridad Social o de Clases Pasivas.*
+
+*Corresponderá una reducción de 100.000 por cada uno de los dos primeros, y 150.000 por cada uno de los restantes descendientes comunicados a la empresa a efectos de calcular las retenciones para 1998.*
+
+*Cuando, conforme con lo establecido anteriormente, se hubiera aplicado un tipo de retención distinto al que corresponda, procederá una regularización del tipo de retención según lo dispuesto en el apartado 3 del artícuo 14 de este Real Decreto.*
+
+*2. En el supuesto anterior, el plazo de presentación del modelo de comunicación de la situación personal y familiar del perceptor de rentas de trabajo, o de su variación, ante el pagador, correspondiente al año 1999, se entenderá prorrogado hasta el día 1 de febrero de 1999.*
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+##### Disposición transitoria tercera. Plazo de publicación de la Orden de aprobación del régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y del régimen especial simplificado del Impuesto sobre el Valor Añadido para 1999.
+
+*La Orden ministerial por la que se regulan para el año 1999 el régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido deberá publicarse en el «Boletín Oficial del Estado» en el plazo de los quince días siguientes a la publicación del Reglamento del Impuesto sobre la Renta de las Personas Físicas.*
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+##### Disposición transitoria cuarta. Renuncia y revocaciones al régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, al régimen especial simplificado y al de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido para 1999.
+
+*La renuncia a los regímenes de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, especial simplificado y de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido para el año 1999, así como la revocación de la misma, podrá efectuarse en el mes siguiente a la publicación en el «Boletín Oficial del Estado» de la Orden ministerial que regule para 1999 el régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el especial simplificado del Impuesto sobre el Valor Añadido.*
+
+> Se deroga en la forma indicada por la disposición derogatoria única.1.g) del Real Decreto 214/1999, de 5 de febrero. [Ref. BOE-A-1999-3251](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3251).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 1998. [Ref. BOE-A-1998-29653](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-29653).
+
+##### Disposición derogatoria única. Derogación normativa.
+
+1\. A la entrada en vigor del presente Real Decreto quedarán derogadas las siguientes disposiciones:
+
+a) El capítulo II del título VI del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por Real Decreto 1841/1991, de 30 de diciembre.
+
+b) El artículo 68 del Real Decreto 537/1997, de 14 de abril, por el que se aprueba el Reglamento del Impuesto sobre Sociedades.
+
+c) El artículo tercero del Real Decreto 1909/1997, de 19 de diciembre, por el que se modifican determinados artículos de los Reglamentos del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades, así como del Real Decreto sobre devolución de ingresos indebidos, en materia de comedores de empresa, derechos de imagen y devoluciones mediante cheque.
+
+2\. Continuarán en vigor las normas reglamentarias de inferior rango al presente Real Decreto que no se opongan al mismo en tanto no se haga uso de las habilitaciones en él previstas.
+
+##### Disposición final única. Entrada en vigor.
+
+Lo dispuesto en este Real Decreto entrará en vigor el 1 de enero de 1999.
+
+Dado en Madrid a 18 de diciembre de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda,
+
+RODRIGO DE RATO Y FIGAREDO

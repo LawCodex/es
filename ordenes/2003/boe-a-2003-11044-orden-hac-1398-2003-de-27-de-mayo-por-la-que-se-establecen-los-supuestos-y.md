@@ -1,0 +1,307 @@
+---
+title: "Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios"
+identifier: "BOE-A-2003-11044"
+eli: "https://www.boe.es/eli/es/o/2003/05/27/hac1398"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2003-05-27
+published: 2003-06-03
+in_force_from: 2003-06-04
+last_amended: 2025-01-31
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 132"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-11044"
+retrieved: 2026-10-11
+---
+
+# Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios
+
+La Ley 230/1963, de 28 de diciembre, General Tributaria, ha establecido, en el apartado 1 de su artículo 96, la colaboración social en la gestión de los tributos, concibiéndola como una forma de impulsar la participación activa de entidades, instituciones y organismos representativos de sectores o intereses sociales, laborales, empresariales o profesionales en el cumplimiento de las obligaciones tributarias por parte de los contribuyentes.
+
+De acuerdo con lo dispuesto en la letra f) del mencionado precepto, la colaboración social podrá referirse específicamente a la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios.
+
+El desarrollo reglamentario de esta fórmula legal de participación en la gestión tributaria le fue encomendado al Gobierno mediante autorización contenida en la disposición final segunda de la Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social. En cumplimiento de esta autorización se ha aprobado, el Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios («Boletín Oficial del Estado» del 21).
+
+Por otra parte, la misma disposición final segunda de la Ley 50/1998, de 30 de diciembre, habilita también al Ministro de Economía y Hacienda para que, mediante Orden, autorice los supuestos y condiciones en los que los contribuyentes y entidades incluidas en la colaboración social podrán presentar por medios telemáticos declaraciones, comunicaciones, declaraciones-liquidaciones, autoliquidaciones o cualesquiera otros documentos exigidos por la normativa tributaria.
+
+El Real Decreto 1377/2002, de 20 de diciembre, ha reproducido, en su disposición final primera, la habilitación que se ha mencionado en el párrafo anterior, añadiendo, además, una habilitación al Director general de la Agencia Estatal de Administración Tributaria para que establezca, mediante resolución, los supuestos y condiciones en que las personas y entidades incluidas en el ámbito de la colaboración social podrán presentar por medios telemáticos cualquier otra documentación de carácter tributario distinta de las declaraciones, comunicaciones, declaraciones-liquidaciones, autoliquidaciones, y cualesquiera otros documentos exigidos por la normativa tributaria.
+
+Con la Orden que ahora se aprueba se da cumplimiento a la autorización al Ministro de Hacienda recogida en la mencionada disposición final segunda de la Ley 50/1998, de 30 de diciembre, a la vez que se prevé la posibilidad de que haya otras personas distintas a las recogidas expresamente en el Real Decreto 1377/2002, de 20 de diciembre, que puedan participar en la colaboración social, tal como autoriza la disposición final primera de este Real Decreto.
+
+A la vez, y mediante disposición adicional, se establecen también en esta Orden determinados supuestos de aplicación de la colaboración social en la presentación de determinados modelos de declaraciones tributarias, referidos a obligaciones censales y a declaraciones resumen e informativas anuales, por una parte, y a declaraciones del ámbito específico de los Impuestos Especiales, por otra.
+
+En relación con todo lo anterior, debe señalarse, finalmente, que las habilitaciones conferidas al Ministro de Economía y Hacienda que se han señalado en los párrafos que anteceden deben entenderse conferidas, en la actualidad, al Ministro de Hacienda, de acuerdo con lo dispuesto en el artículo 2 del Real Decreto 557/2000, de 27 de abril («Boletín Oficial del Estado» del 28), de reestructuración de los Departamentos ministeriales.
+
+En consecuencia, y haciendo uso de las autorizaciones que tengo conferidas, dispongo:
+
+## Primero. Supuestos de aplicación de la colaboración social.
+
+1\. La colaboración social en la aplicación de los tributos podrá extenderse, de acuerdo con las normas reguladoras de los respectivos procedimientos, con las condiciones y requisitos que se establecen en esta orden, y de conformidad con lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, a la presentación telemática de declaraciones, comunicaciones, declaraciones-liquidaciones, autoliquidaciones o de cualesquiera otros documentos exigidos por la normativa tributaria.
+
+2\. Adicionalmente, y por Resolución del Director General de la Agencia Estatal de Administración Tributaria, podrán establecerse los supuestos y condiciones en que las personas y entidades a los que se extienda la colaboración social podrán presentar por medios telemáticos cualquier otra documentación de carácter tributario distinta de la referida en el apartado anterior.
+
+3\. También podrá extenderse la colaboración social a la consulta, por vía telemática, del estado de tramitación de los procedimientos tributarios.
+
+4\. Lo anterior no es aplicable a la presentación telemática de documentos aduaneros, la cual se regirá por su normativa específica.
+
+5\. De conformidad con lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, podrá asimismo extenderse la colaboración social en la aplicación de los tributos, con las condiciones y requisitos que se establecen en esta orden, a los servicios de información y asistencia que presta la Agencia Estatal de Administración Tributaria, de acuerdo con las normas reguladoras de los procedimientos correspondientes.
+
+> Se modifica el apartado 1 y se añade el 5 por el art. único.1 y 2 de la Orden HFP/534/2022, de 6 de junio de 2022. [Ref. BOE-A-2022-9606](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9606)
+
+## Segundo. Sujetos de la colaboración social.
+
+1\. Podrán ser sujetos de la colaboración social a la que se refiere el número 1 del apartado anterior las personas y entidades expresadas en el apartado 1 del artículo 79 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+2\. Podrán asimismo acceder a la presentación por medios telemáticos en nombre de terceros otras personas o entidades, siempre que:
+
+a) Cumplan las condiciones que se establecen en esta Orden con carácter general.
+
+b) Representen o defiendan intereses colectivos o justifiquen la concurrencia de alguna circunstancia por la cual puedan ser incluidas en la colaboración social.
+
+c) Aporten la documentación que la Agencia Estatal de Administración Tributaria estime exigible a efectos de la comprobación de lo expresado en la letra anterior.
+
+3\. Las personas o entidades que sean colegiados, asociados o miembros de instituciones y organismos representativos de sectores o intereses sociales, laborales, empresariales o profesionales, incluidas las organizaciones corporativas de las profesiones oficiales colegiadas que sean sujetos de la colaboración social, podrán ser a su vez también sujetos de ésta, en los términos establecidos en el apartado 2 del artículo 79 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+4\. Podrán ser sujetos de la colaboración social a la que se refiere el número 5 del apartado anterior las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local. No obstante, la suscripción de acuerdos de colaboración social entre la Agencia Estatal de Administración Tributaria y dichas Administraciones requerirá que su implantación en los respectivos ámbitos territoriales de actuación permita la adecuada prestación de los servicios de información y asistencia.
+
+> Se modifican los apartados 1 y 3 y se añade el 4 por el art. único.3 a 5 de la Orden HFP/534/2022, de 6 de junio de 2022. [Ref. BOE-A-2022-9606](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9606)
+
+## Tercero. Condiciones para la presentación por medios telemáticos de declaraciones, comunicaciones y otros documentos tributarios en representación de terceras personas.
+
+1\. Las personas o entidades a que se refieren los números 1 y 2 del apartado segundo de esta orden deberán haber suscrito el correspondiente acuerdo de colaboración con la Agencia Estatal de Administración Tributaria, en los términos establecidos en el artículo 79 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+En el acuerdo de colaboración suscrito se deberá expresar cuál es su alcance, determinando cuáles serán las declaraciones u otros documentos tributarios cuya presentación va a poder ser efectuada por el colaborador y, en su caso, el colectivo de declarantes al que se va a poder aplicar.
+
+A medida que se vaya extendiendo el sistema de presentación telemática de declaraciones u otros documentos tributarios a otros conceptos y esté prevista la posibilidad de su presentación en representación de terceras personas, podrá considerarse como presentadores autorizados, si así lo disponen los acuerdos suscritos, a las entidades firmantes y, en su caso, a las personas o entidades colegiadas, asociadas o miembros de las mismas que hayan presentado el documento individualizado de adhesión.
+
+2\. El presentador en nombre de terceros deberá ostentar la correspondiente representación, en los términos del artículo 46 de la Ley 58/2003, de 18 de diciembre, General Tributaria y el artículo 111 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio. La falta de representación suficiente dará lugar a la exigencia de las responsabilidades que fueran procedentes.
+
+3\. La persona o entidad autorizada para presentar declaraciones en representación de terceras personas deberá disponer del certificado de usuario de firma electrónica X.509.V3 expedido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda de acuerdo con el procedimiento establecido en los anexos III y IV de la Orden de 24 de abril de 2000, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones del Impuesto sobre la Renta de las Personas Físicas.
+
+Se deberán tener en cuenta a los efectos del párrafo anterior las normas técnicas que se requieren para poder efectuar la citada presentación y que se encuentran recogidas en el anexo II de la Orden de 24 de abril de 2000 mencionada.
+
+Podrán ser válidos también para la presentación de declaraciones en representación de terceras personas los certificados expedidos por aquellas otras entidades prestadoras de servicio de certificación electrónica cuyos certificados hayan sido admitidos por la Agencia Estatal de Administración Tributaria a efectos del cumplimiento de las obligaciones tributarias, siempre que se hubiera contemplado así en el acuerdo de admisión.
+
+> Se modifican los apartados 1 y 2 por el art. único.6 y 7 de la Orden HFP/534/2022, de 6 de junio de 2022. [Ref. BOE-A-2022-9606](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9606)
+
+## Cuarto. Condiciones para la prestación por parte de las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local, de determinados servicios de información y asistencia a los ciudadanos para la realización de trámites tributarios de la Agencia Estatal de Administración Tributaria.
+
+1\. Las Administraciones públicas a las que se refiere el número 4 del apartado Segundo de la presente orden deberán haber suscrito el correspondiente acuerdo de colaboración con la Agencia Estatal de Administración Tributaria.
+
+En el acuerdo de colaboración suscrito se deberá expresar cuál es su alcance, determinando cuáles serán las campañas o materias objeto de la información y asistencia a prestar para la realización de trámites tributarios, así como los colectivos de interesados a los que se dirigirán los servicios.
+
+A medida que se vaya acordando por los Departamentos de la Agencia Estatal de Administración Tributaria la ampliación de las materias y trámites tributarios objeto de información y asistencia susceptibles de la colaboración, podrán considerarse como Administraciones públicas autorizadas a prestar dichos servicios, si así lo disponen los acuerdos suscritos.
+
+2\. Serán los empleados públicos de las Administraciones públicas a las que se refiere el número 4 del apartado Segundo de la presente orden, quienes informarán y asistirán a los ciudadanos en la realización de trámites tributarios de la Agencia Estatal de Administración Tributaria en relación con las materias objeto de los acuerdos de colaboración social.
+
+Los empleados públicos de las Administraciones públicas suscriptoras de los acuerdos de colaboración social a que se refiere este apartado limitarán su actuación a materias de información y asistencia a los ciudadanos, sin acceso a las bases de datos corporativas de la Agencia Estatal de Administración Tributaria.
+
+3\. Los acuerdos de colaboración a que se refiere el número 1 de este apartado expresarán las actuaciones, de formación o de otra naturaleza, a realizar por parte de la Agencia Estatal de Administración Tributaria respecto de los empleados públicos de las Administraciones públicas que suscriban los mismos con la finalidad de que los servicios de información y asistencia a los ciudadanos se presten con las suficientes garantías de calidad y completitud.
+
+> Se añade por el art. único.8 de la Orden HFP/534/2022, de 6 de junio de 2022. [Ref. BOE-A-2022-9606](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9606)
+
+## Disposición adicional única.
+
+1\. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la presente orden, podrán hacer uso de dicha facultad, dentro de los límites de los acuerdos suscritos, respecto de las declaraciones y casos que tengan habilitada la presentación electrónica.
+
+2\. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, podrán hacer uso de dicha facultad respecto de las siguientes declaraciones y documentos:
+
+La contabilidad de los movimientos de productos.
+
+Documentos de acompañamiento, administrativos y comerciales.
+
+Documentos simplificados de acompañamiento, administrativos y comerciales.
+
+Notas de entrega emitidas dentro del procedimiento de ventas en ruta.
+
+Recibos y comprobantes de entrega utilizados en avituallamiento de aeronaves y embarcaciones.
+
+Borrador de albarán de circulación expedido en el procedimiento de ventas en ruta previsto en el artículo 27 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Información relativa a las notas de entrega expedidas con cargo al albarán de circulación en el procedimiento de ventas en ruta previsto en el artículo 27 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Información relativa a los comprobantes de entrega expedidos en avituallamientos de carburantes a aeronaves conforme a lo dispuesto en el artículo 101 del Reglamento de los Impuestos Especiales aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Solicitud de devolución por avituallamiento de gasóleo a embarcaciones conforme al artículo 110 del Reglamento de los Impuestos Especiales aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 50 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
+
+Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 5 dieciséis de la Ley 16/2013, de 29 de octubre.
+
+Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 82.4 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+
+Modelo DCC. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas, Labores del Tabaco y Electricidad. Declaración de desglose de cuotas centralizadas.
+
+Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración de desglose por establecimientos.
+
+Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero.
+
+Modelo 504. Solicitud de autorización de expedición o recepción de productos objeto de los impuestos especiales de fabricación con destino a o procedentes del resto de la Unión Europea.
+
+Modelo 506. Impuestos Especiales de Fabricación. Solicitud de devolución por introducción en depósito fiscal.
+
+Modelo 507. Impuestos especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
+
+Modelo 508. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de ventas a distancia.
+
+Modelo 509. Impuestos Especiales de Fabricación. Parte de incidencias.
+
+Modelo 510. Impuestos Especiales de Fabricación. Declaración de operaciones de recepción de productos del resto de la Unión Europea.
+
+Modelo 511. Impuestos Especiales de Fabricación. Relación mensual de notas de entrega de productos con el impuesto devengado a tipo reducido, expedidos por el procedimiento de ventas en ruta.
+
+Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de productos de la tarifa segunda.
+
+Modelo 513. Impuesto sobre la Electricidad. Declaración anual de actividad.
+
+Modelo 515. Solicitud de entrega de marcas fiscales para las labores del tabaco.
+
+Modelo 517. Solicitud de marcas fiscales del Impuesto sobre el Alcohol y Bebidas Derivadas.
+
+Modelo 518. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de trabajo.
+
+Modelo 519. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de incidencias en operaciones de trabajo.
+
+Modelo 520. Impuesto sobre el Alcohol y Bebidas Derivadas. Parte de resultado en operaciones de trabajo.
+
+Modelo 521. Relación trimestral de primeras materias entregadas.
+
+Modelo 522. Parte trimestral de productos a que se refiere el artículo 108 ter del Reglamento de los Impuestos Especiales.
+
+Modelo 524. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas. Solicitud de devolución.
+
+Modelo 544. Relación de pagos efectuados mediante cheques-gasóleo bonificado y tarjetas gasóleo-bonificado.
+
+Modelo 545. Relación de suministros de carburantes realizados en el marco de las relaciones internaciones con devolución del Impuesto sobre Hidrocarburos.
+
+Modelo 546. Relación de suministros de gasóleo marcado a embarcaciones con devolución del Impuesto sobre Hidrocarburos.
+
+Modelo 547. Impuesto sobre Hidrocarburos. Relación de abonos realizados a detallistas de gasóleo bonificado por las entidades emisoras de medios de pago específicos.
+
+Modelo 548. Impuestos Especiales Fabricación. Declaración informativa de cuotas repercutidas.
+
+Modelo 551. Impuestos Especiales de Fabricación. Relación semanal de documentos de acompañamiento expedidos.
+
+Modelo 553. Impuesto sobre el Vino y Bebidas Fermentadas. Declaración de operaciones en fábricas y depósitos fiscales de vino y bebidas fermentadas.
+
+Modelo 554. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en fábricas y depósitos fiscales de alcohol.
+
+Modelo 555. Impuesto sobre Productos Intermedios. Declaración de operaciones en fábricas y depósitos fiscales de productos intermedios.
+
+Modelo 556. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en las fábricas de productos intermedios del artículo 32 de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
+
+Modelo 557. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de operaciones en fábricas y depósitos fiscales de bebidas derivadas.
+
+Modelo 558. Impuesto sobre la Cerveza. Declaración de operaciones en fábricas y depósitos fiscales de cerveza.
+
+Modelo 559. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Declaración-liquidación.
+
+Modelo 560. Impuesto sobre la Electricidad. Declaración-liquidación.
+
+Modelo 561. Impuesto sobre la Cerveza. Declaración-liquidación.
+
+Modelo 562. Impuesto sobre Productos Intermedios. Declaración-liquidación.
+
+Modelo 563. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración-liquidación.
+
+Modelo 566. Impuesto sobre las Labores del Tabaco. Declaración-liquidación.
+
+Modelo 569. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración-liquidación y Relación de suministros y autoconsumos exentos.
+
+Modelo 570. Impuesto sobre Hidrocarburos. Declaración de operaciones en fábricas y depósitos fiscales de hidrocarburos.
+
+Modelo 572. Impuesto sobre Hidrocarburos. Solicitud de devolución.
+
+Modelo 573: Impuesto sobre Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco. Autoliquidación.
+
+Modelo 580. Impuesto sobre las Labores del Tabaco. Declaración de operaciones en fábricas y depósitos fiscales de labores del tabaco.
+
+Modelo 581. Impuesto sobre Hidrocarburos: Declaración-liquidación.
+
+Modelo 582. Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma.
+
+Modelo 583. Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación y Pagos Fraccionados.
+
+Modelo 584. Impuesto sobre la producción de combustible nuclear gastado y residuos radiactivos resultantes de la generación de energía nucleoeléctrica. Autoliquidación y pagos fraccionados.
+
+Modelo 585. Impuesto sobre el almacenamiento de combustible nuclear gastado y residuosradiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados.
+
+Modelo 588. Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre.
+
+Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por exportación o expedición.
+
+Modelo 591. Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes.
+
+Modelo 592. Impuesto especial sobre los envases de plástico no reutilizables. Autoliquidación.
+
+Modelo: 593. Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos. Autoliquidación.
+
+Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación.
+
+Modelo 587. Impuesto sobre los Gases Fluorados de Efecto Invernadero. Autoliquidación.
+
+Modelo A22. Impuesto especial sobre los envases de plástico no reutilizables. Solicitud de devolución.
+
+Modelo A23. Impuesto sobre los Gases Fluorados de Efecto Invernadero. Solicitud de devolución.
+
+Modelo A24: Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco. Solicitud de devolución por envíos dentro de la Unión Europea.
+
+3\. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el apartado 2, con efectos de 1 de abril de 2025, por la disposición final 1 de la Orden HAC/86/2025, de 13 de enero. [Ref. BOE-A-2025-1732](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-1732)
+
+> Se modifica el modelo 515 del apartado 2 por la disposición final 1 de la Orden HAC/66/2024, de 25 de enero. [Ref. BOE-A-2024-1990](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-1990)
+
+> Se modifican los modelos 504 y 507 del apartado 2 por la disposición final 1 de la Orden HFP/626/2023, de 14 de junio. [Ref. BOE-A-2023-14425](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14425)
+
+> Se modifica el apartado 2 por las disposiciones finales 1 de las Órdenes; HFP/1314/2022, de 28 de diciembre. [Ref. BOE-A-2022-23749](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-23749) y HFP/1337/2022, de 28 de diciembre. [Ref. BOE-A-2022-24387](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-24387)
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HFP/826/2022, de 30 de agosto. [Ref. BOE-A-2022-14275](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-14275)
+
+> Se modifica el apartado 1 por el art. único.9 de la Orden HFP/534/2022, de 6 de junio de 2022. [Ref. BOE-A-2022-9606](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9606)
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/1271/2019, de 9 de diciembre. [Ref. BOE-A-2019-18747](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18747)
+
+> Se modifica el apartado 2, con efectos de 1 de enero de 2020, por la disposición final 1 de la Orden HAC/998/2019, de 23 de septiembre. [Ref. BOE-A-2019-14247](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-14247)
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/484/2019, de 9 de abril. [Ref. BOE-A-2019-6339](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6339)
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/135/2019, de 31 de enero. [Ref. BOE-A-2019-2144](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-2144)
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/1147/2018, de 9 de octubre. [Ref. BOE-A-2018-14900](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14900)
+
+> Esta modificación es de aplicación a las expediciones y avituallamientos que se realicen a partir del 1 de julio de 2019, según establece la disposición final 2.
+
+> Se modifica el apartado 2 por el disposición final 1 de la Orden HAP/2328/2014, de 11 de diciembre. [Ref. BOE-A-2014-12972](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-12972).
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/779/2013, de 30 de abril. [Ref. BOE-A-2013-4825](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4825).
+
+> Esta modificación es de aplicación a las operaciones realizadas a partir del 1 de junio de 2013, según establece la disposición final 2.
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/703/2013, de 29 de abril. [Ref. BOE-A-2013-4538](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4538).
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/538/2013, de 5 de abril. [Ref. BOE-A-2013-3671](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3671).
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden HAP/71/2013, de 30 de enero. [Ref. BOE-A-2013-953](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-953).
+
+> Se modifica el apartado 2 por el art. único de la Orden EHA/732/2011, de 29 de marzo. [Ref. BOE-A-2011-5934](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5934).
+
+> Se modifica el apartado 2 por el art. 2 de la Orden EHA/886/2009, de 1 de abril. [Ref. BOE-A-2009-6016](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6016).
+
+> Se modifica el apartado 2 por la disposición final 2 de la Orden EHA/3482/2007, de 20 de noviembre. [Ref. BOE-A-2007-20637](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20637).
+
+## Disposición final única.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Lo que comunico a VV. II. para su conocimiento y efectos.
+
+Madrid, 27 de mayo de 2003.
+
+MONTORO ROMERO
+
+Ilmo. Sr. Director general de la Agencia Estatal de Administración Tributaria e Ilmo. Sr. Director general de Tributos.

@@ -1,0 +1,169 @@
+---
+title: "Real Decreto 1892/2004, de 10 de septiembre, por el que se dictan normas para la ejecución del Convenio Internacional sobre la responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos"
+identifier: "BOE-A-2004-16317"
+eli: "https://www.boe.es/eli/es/rd/2004/09/10/1892"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2004-09-10
+published: 2004-09-18
+in_force_from: 2004-09-19
+last_amended: 2008-11-18
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 226"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-16317"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1892/2004, de 10 de septiembre, por el que se dictan normas para la ejecución del Convenio Internacional sobre la responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos
+
+El Convenio Internacional sobre la responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos, suscrito en Bruselas el 29 de noviembre de 1969, y ratificado por España con fecha de 8 de diciembre de 1975, entró en vigor, de acuerdo con lo previsto en su artículo 15, el día 7 de marzo de 1976.
+
+En dicho convenio se establece que los propietarios de los buques a que aquel se refiere estarán obligados a garantizar una indemnización adecuada por los daños causados por siniestros de contaminación en el territorio o en el mar territorial de cualquiera de los Estados suscriptores del convenio. Para asegurar la efectividad de dicha obligación, se impone al propietario del buque el deber de suscribir un seguro u otra garantía financiera para cubrir su responsabilidad por daños causados por contaminación. Asimismo, se establece que cada Estado contratante habrá de exigir dicho seguro o garantía financiera, no dará permiso para comerciar a los buques comprendidos en el convenio que enarbolen su pabellón si no van provistos del correspondiente certificado y adoptará las medidas pertinentes para que los buques, cualquiera que sea su país de matricula, estén provistos del certificado para entrar o salir en puertos de su territorio o arribar y zarpar de un fondeadero o estación terminal en su mar territorial.
+
+Con el fin de posibilitar la ejecución del precitado convenio, se dictaron las Órdenes ministeriales de 4 de marzo de 1976, y de 24 de febrero y 31 de diciembre de 1977.
+
+Mediante el Protocolo, hecho en Londres el 27 de noviembre de 1992, se enmendó el Convenio Internacional sobre responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos de 1969. España se adhirió a dicho Protocolo el 6 de junio de 1995, y denunció simultáneamente el Convenio de 1969.
+
+La entrada en vigor del Protocolo de 1992 ha implicado cambios significativos respecto al Convenio de 1969, entre los que cabe destacar la variación de los límites de responsabilidad, la modificación de las definiciones contenidas en el artículo 1 del texto o la posibilidad de expedición de certificados no sólo respecto a los buques abanderados en un Estado contratante, sino también respecto de los buques que no estén matriculados en este.
+
+Todo ello determina la necesidad de aprobar una nueva norma que establezca las reglas necesarias para la ejecución del convenio enmendado y, a la vez, que regule en una única disposición los distintos aspectos relacionados con la exigencia y el control por parte de la Administración marítima de los certificados de seguro o de garantía financiera emitidos.
+
+Por otra parte, una de las novedades del Protocolo de 1992 consiste en el establecimiento de un sistema de enmienda de los límites de responsabilidad mediante acuerdos adoptados en el seno del Comité Jurídico de la Organización Marítima Internacional. La primera enmienda, que ha elevado los límites aproximadamente en un 50 por ciento, fue adoptada por el Comité Jurídico en su 82.o período de sesiones, mediante la Resolución LEG. 1 (82), aprobada el 18 de octubre de 2000 y publicada en el «Boletín Oficial del Estado» el 3 de octubre de 2002.
+
+Este nuevo sistema de enmienda confiere a las cuantías de los límites de responsabilidad un carácter temporal, circunstancia que aconseja que las normas de derecho interno no establezcan una cuantificación del límite de responsabilidad, sino que, por el contrario, efectúen únicamente una remisión al límite de responsabilidad que corresponda en función del tonelaje del buque, de acuerdo con lo dispuesto en el Convenio de 1992. Esta solución permite que la norma de derecho interno no quede desfasada y pueda prever las modificaciones futuras en los límites que se vayan produciendo conforme al sistema del convenio y que estén vigentes para el Reino de España.
+
+Finalmente, la experiencia práctica acumulada tras los años de aplicación del Convenio de 1969 aconseja regular de manera expresa la obligación bien de suscribir un seguro, bien de constituir otra garantía financiera, para cubrir la responsabilidad por daños causados por contaminación, de acreditar su cumplimiento, así como regular las consecuencias derivadas del incumplimiento de tal obligación.
+
+A estas finalidades obedece este real decreto, que contiene las reglas necesarias para la ejecución de lo establecido en el Convenio Internacional sobre la responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos, actualmente en vigor.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y de la Ministra de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de septiembre de 2004,
+
+## D I S P O N G O :
+
+### Artículo 1. Cobertura de la responsabilidad civil por daños causados por la contaminación de las aguas del mar por hidrocarburos.
+
+1\. Conforme previene el apartado 1 del artículo 7 del Convenio Internacional sobre la responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos de 1969, enmendado por el Protocolo hecho en Londres el 27 de noviembre de 1992 (en adelante, Convenio de Responsabilidad Civil de 1992), al que España se adhirió con fecha de 6 de junio de 1995, los propietarios de buques que transporten más de 2.000 toneladas de hidrocarburos a granel como cargamento tendrán que suscribir un seguro o una garantía financiera que cubra su responsabilidad por los daños causados por la contaminación, con arreglo a lo establecido en ese convenio.
+
+2\. Queda prohibida la navegación a todo buque mercante español que transporte más de 2.000 toneladas de hidrocarburos a granel, como carga, si no lleva a bordo el certificado acreditativo de la existencia, con plena validez, del seguro o garantía financiera a que se refiere el apartado 1.
+
+3\. Queda prohibida la entrada o salida de puerto español o la arribada o salida de una instalación mar adentro situada en el mar territorial a todo buque extranjero que transporte, como carga a granel, más de 2000 toneladas de hidrocarburos si no lleva a bordo un certificado de seguro u otra garantía financiera en vigor y expedido de conformidad con el Convenio de Responsabilidad Civil de 1992 y que cubra hasta el límite de responsabilidad que le corresponda, exigible en virtud del citado convenio.
+
+4\. Las Capitanías Marítimas podrán exigir la presentación del mencionado certificado al realizar el despacho de entrada o salida de los buques a los que les sean de aplicación los apartados anteriores, y podrán, además de incoar el correspondiente expediente sancionador de acuerdo con la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante, ordenar la inmovilización y cuantas medidas sean precisas para prevenir cualquier derrame, de los buques infractores que incumplan con las obligaciones establecidas en dichos apartados.
+
+> Se modifica el apartado 3 por la disposición final 1.1 del Real Decreto 1795/2008, de 3 de noviembre. [Ref. BOE-A-2008-18546](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18546).
+
+### Artículo 2. Definiciones.
+
+A los efectos de este real decreto, se entienden incorporadas las definiciones incluidas en el artículo 1 del Convenio de Responsabilidad Civil de 1992 relativas a «buque», «persona», «propietario», «Estado de matrícula del buque», «hidrocarburos», «daños ocasionados por contaminación», «medidas preventivas», «suceso», «organización» y «Convenio de Responsabilidad Civil de 1969».
+
+### Artículo 3. Normativa aplicable al certificado.
+
+El certificado acreditativo de la existencia del seguro o de la garantía financiera a que se refiere el artículo 7 del convenio se ajustará a las normas establecidas en este real decreto.
+
+### Artículo 4. Certificado acreditativo de un seguro.
+
+1\. Cuando la base del certificado sea un seguro, este deberá estar concertado con cualquiera de las siguientes entidades:
+
+a) Entidades aseguradoras que hayan obtenido autorización del Ministerio de Economía y Hacienda para operar en el ramo 12, "responsabilidad civil en vehículos marítimos, lacustres y fluviales", de los previstos en el apartado a), "clasificación de los riesgos por ramos", del artículo 6.1 del texto refundido de la Ley de ordenación y supervisión de los seguros privados, aprobado por el Real Decreto Legislativo 6/2004, de 29 de octubre, o que, estando domiciliadas en un país perteneciente al Espacio Económico Europeo, ejerzan su actividad en España en régimen de derecho de establecimiento o régimen de libre prestación de servicios.
+
+b) Entidades domiciliadas en un país perteneciente al Espacio Económico Europeo distinto a España autorizadas para operar en el ramo de responsabilidad en vehículos marítimos, lacustres y fluviales.
+
+c) Sucursales establecidas en el Espacio Económico Europeo de entidades aseguradoras domiciliadas en terceros países no miembros del Espacio Económico Europeo, autorizadas para operar en el ramo de responsabilidad civil en vehículos marítimos, lacustres y fluviales.
+
+d) Clubes de Protección e lndemnización integrados en el Grupo Internacional de Clubes de Protección e lndemnización.
+
+2\. En caso de que el seguro o la garantía financiera distinta del seguro esté suscrito con entidades distintas de las enumeradas en el apartado 1 de este artículo no se expedirá certificado alguno.
+
+3\. El seguro podrá formalizarse bien mediante una póliza específica, bien como una cobertura más de las pólizas que tengan suscritas los propietarios de los buques para cubrir su responsabilidad civil u otros riesgos.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 1795/2008, de 3 de noviembre. [Ref. BOE-A-2008-18546](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18546).
+
+### Artículo 5. Certificado acreditativo de una garantía financiera.
+
+Cuando la base del certificado sea una garantía financiera, esta deberá haber sido otorgada por entidades debidamente autorizadas para ello, conforme a la legislación que resulte de aplicación.
+
+### Artículo 6. Límites de cobertura.
+
+1\. El seguro o la garantía financiera cubrirán la responsabilidad civil del propietario del buque en la forma, condiciones y por la cuantía, en derechos especiales de giro y de acuerdo con el arqueo del buque, que resulten a tenor de lo establecido en el Convenio de Responsabilidad Civil de 1992.
+
+El límite de la cobertura del seguro o de la garantía financiera será en cada momento el que se encuentre vigente, para lo cual se tendrán en cuenta las enmiendas de las cuantías de limitación que puedan adoptarse por resolución del Comité Jurídico, por aplicación del procedimiento de enmienda establecido en virtud del artículo XII ter, «Cláusulas finales», del Convenio de Responsabilidad Civil de 1992.
+
+2\. A los efectos de este artículo, el arqueo de buques será el arqueo bruto calculado conforme a las reglas relativas a la determinación del arqueo que figuran en el anexo I del Convenio Internacional sobre arqueo de buques de 1969.
+
+A efectos de la definición de derecho especial de giro y su conversión, se estará a lo previsto por el número 9 del Convenio de Responsabilidad Civil de 1992.
+
+### Artículo 7. Duración de la cobertura.
+
+1\. La duración del seguro o de la garantía financiera será por un período de tiempo concreto no superior a un año y se entenderá siempre referida al horario de España.
+
+2\. Los efectos del seguro o de la garantía financiera se regularán de conformidad con lo previsto en el artículo 7.5 del Convenio de Responsabilidad Civil de 1992.
+
+3\. Lo previsto en el apartado anterior resultará aplicable a toda modificación que tenga por efecto alterar el seguro o la garantía de modo que no satisfaga los términos del convenio.
+
+### Artículo 8. Solicitud y emisión del certificado acreditativo de la existencia del seguro o de la garantía financiera.
+
+1\. El certificado acreditativo de la existencia de seguro o de la garantía financiera distinta del seguro se solicitará a la Dirección General de la Marina Mercante por los respectivos propietarios de los buques o las entidades aseguradoras que los cubran. En el supuesto de existencia de coaseguro, la solicitud se realizará por la entidad abridora que ostente la representación de todas ellas.
+
+La solicitud deberá efectuarse con una antelación no inferior a treinta días desde la fecha en que se pretenda tenga efectos el certificado, salvo casos excepcionales, debidamente justificados, en los que la autoridad expedidora del certificado podrá reducir el plazo.
+
+2\. A la solicitud se acompañará el documento acreditativo del seguro o de la garantía financiera distinta del seguro y, debidamente cumplimentados, los formularios que requiera la Dirección General de la Marina Mercante o la autoridad supervisora correspondiente al propietario del buque, o a la entidad o entidades aseguradoras.
+
+3\. El certificado se ajustará al modelo uniforme anexo al convenio, debiendo archivarse una copia del mismo en la Dirección General de la Marina Mercante cuando sea expedido a un buque matriculado en España.
+
+4\. Su duración no podrá ser superior a la del seguro o garantía financiera en que se basa su expedición.
+
+5\. El certificado a que se refieren los apartados anteriores podrá extenderse tanto para buques matriculados en España como para buques matriculados en un Estado no parte.
+
+6\. El procedimiento solicitud y expedición de los certificados se regirán por la Ley 30/1992, en lo no dispuesto en este real decreto.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 1795/2008, de 3 de noviembre. [Ref. BOE-A-2008-18546](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18546).
+
+### Artículo 9. Modificaciones de la cobertura durante la vigencia del certificado.
+
+1\. Si, durante la vigencia del certificado, el contrato de seguro o la garantía financiera reducen o pierden su eficacia, la autoridad expedidora de aquel procederá, tan pronto tenga conocimiento de ello, a la anulación y retirada de dicho certificado, comunicándolo a la Dirección General de la Marina Mercante, y, en su caso, publicará los oportunos avisos.
+
+2\. El propietario del buque, la entidad aseguradora o el garante están obligados a comunicar inmediatamente a la autoridad expedidora del certificado cualquier circunstancia que produzca la extinción, la pérdida o reducción de eficacia del seguro o de la garantía financiera.
+
+3\. El propietario, además, está obligado a devolver el correspondiente certificado a la autoridad expedidora de este.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, las disposiciones siguientes:
+
+a) La Orden de 4 de marzo de 1976, por la que se dictan normas para la ejecución de lo establecido por el Convenio Internacional sobre la responsabilidad civil derivada de daños debidos a la contaminación de las aguas del mar por hidrocarburos.
+
+b) La Orden de 24 de febrero de 1977, sobre despacho y navegación de buques que transporten como carga hidrocarburos a granel.
+
+c) La Orden de 31 de diciembre de 1977, por la que se dan normas para la aplicación de la Orden de 24 de febrero de 1977, sobre despacho y navegación de buques que transporten como carga hidrocarburos a granel.
+
+### Disposición final primera. Habilitación de aplicación y desarrollo.
+
+Se faculta al Ministro de Fomento, en el ámbito de sus competencias, para dictar las normas de aplicación y desarrollo de este real decreto.
+
+> Se modifica por la disposición final 1.4 del Real Decreto 1795/2008, de 3 de noviembre. [Ref. BOE-A-2008-18546](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18546).
+
+### Disposición final segunda. Facultades de ejecución.
+
+El Director General de la Marina Mercante dictará las resoluciones que puedan resultar necesarias para la ejecución y cumplimiento de este real decreto y en particular para aprobar y modificar los modelos de formularios a que se refiere el artículo 8.2.
+
+> Se modifica por la disposición final 1.5 del Real Decreto 1795/2008, de 3 de noviembre. [Ref. BOE-A-2008-18546](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18546).
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se interpreta que se renumera por la disposición final 1.5 del Real Decreto 1795/2008, de 3 de noviembre. [Ref. BOE-A-2008-18546](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18546).
+
+> Su anterior numeración era Disposición final segunda.
+
+Dado en Madrid, a 10 de septiembre de 2004.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

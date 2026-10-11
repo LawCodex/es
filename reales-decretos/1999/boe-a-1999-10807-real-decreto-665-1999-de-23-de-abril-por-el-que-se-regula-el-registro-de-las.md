@@ -1,0 +1,195 @@
+---
+title: "Real Decreto 665/1999, de 23 de abril, por el que se regula el Registro de las personas que viajan a bordo de buques de pasaje"
+identifier: "BOE-A-1999-10807"
+eli: "https://www.boe.es/eli/es/rd/1999/04/23/665"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 1999-04-23
+published: 1999-05-14
+in_force_from: 1999-05-15
+last_amended: 2019-12-17
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 115"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-10807"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 665/1999, de 23 de abril, por el que se regula el Registro de las personas que viajan a bordo de buques de pasaje
+
+La Directiva 98/41/CE, del Consejo, sobre el registro de las personas que viajan a bordo de buques de pasaje procedentes de puertos de los Estados miembros de la Comunidad o con destino a los mismos, impone a los Estados miembros la obligación de establecer medidas de seguridad en el transporte marítimo de pasajeros, destinadas a prevenir accidentes de los buques de pasaje, a incrementar las posibilidades de salvamento de los pasajeros y de las tripulaciones y a reforzar la eficacia de los trabajos de rescate en caso de que aquéllos ocurran.
+
+Este Real Decreto incorpora al ordenamiento jurídico interno la Directiva 98/41/CE y determina las reglas de seguridad aplicables a la navegación de todos los buques de pasaje que tenga su origen en un puerto español y destino en un puerto de la Unión Europea, de los buques abanderados en España que zarpen de puertos situados fuera de la Unión Europea con destino a puertos comunitarios y de los buques que enarbolen pabellón de un país tercero con destino a un puerto español.
+
+Las medidas consisten, fundamentalmente, en el deber de efectuar el recuento de los pasajeros antes de la salida de los buques, la comunicación del número de personas embarcadas al capitán y a los servicios en tierra de la compañía naviera, el registro de información complementaria para facilitar los trabajos de rescate y asistencia ante eventuales accidentes en trayectos superiores a 20 millas náuticas desde el puerto de partida y la notificación, cuando fuera necesario, de esta información a los servicios responsables de la búsqueda y el salvamento marítimos. Corresponde al Estado, al amparo de la habilitación otorgada por el artículo 149.1.20.ª de la Constitución, la competencia para adaptar tales medidas de seguridad de la navegación marítima.
+
+En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de abril de 1999,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este Real Decreto tiene por objeto establecer normas específicas aplicables al transporte marítimo de pasajeros para incrementar la seguridad de las navegaciones y asegurar la eficacia de las operaciones de salvamento en caso de accidente.
+
+## Artículo 2. Definiciones.
+
+A los efectos de este Real Decreto se entenderá por:
+
+a) «Buque de pasaje»: un buque o nave de gran velocidad que transporte más de doce pasajeros.
+
+b) Nave de pasaje de gran velocidad: la definida en la regla 1 del capítulo X del Convenio SOLAS de 1974 en su versión vigente.
+
+c) «Código CGS o ISM»: el Código internacional de gestión de la seguridad del buque y la prevención de la contaminación, adoptado por la Organización Marítima Internacional en forma de Resolución de la Asamblea A. 741 (18) de 4 de noviembre de 1993.
+
+d) «Aguas abrigadas»: las zonas protegidas de los embates del mar abierto en las que un buque de pasaje no esté alejado en ningún momento más de seis millas de un lugar de refugio en tierra firma al que puedan acceder los posibles náufragos y en cuya proximidad se encuentren instalaciones de búsqueda y salvamento.
+
+e) «País tercero»: cualquier país que no sea un Estado miembro de la Unión Europea.
+
+f) «Persona designada»: la persona responsable nombrada por una empresa naviera para que cumpla las obligaciones del Código CGS, si procede, o cualquier otra persona designada por la empresa naviera para que se encargue de transmitir la información sobre las personas embarcadas en uno de los buques de pasaje de la citada empresa.
+
+g) «Autoridad designada»: la Sociedad de Salvamento y Seguridad Marítima (SASEMAR), que debe tener acceso a la información regulada en este real decreto.
+
+h) «Servicio regular»: una serie de travesías efectuadas por buques entre dos o más puertos, o una serie de travesías con origen y destino en el mismo puerto sin escalas intermedias, ya sea según un horario preestablecido o mediante viajes realizados con tal frecuencia o regularidad que constituyan una serie sistemática reconocible.
+
+i) «Zona portuaria»: el espacio marítimo que abarca las zonas de servicios de los puertos situados en el litoral español, determinadas de acuerdo con el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre, o por la normativa correspondiente de las comunidades autónomas sobre la materia.
+
+j) «Yate de recreo o nave de recreo»: un buque o embarcación dedicado exclusivamente a una finalidad recreativa, sin un propósito mercantil, con independencia de su medio de propulsión.
+
+> Se modifica la letra a) y se añaden de la f) a la j) por el art. 1.1 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+> Se modifica la letra b) por la disposición adicional 1.6 del Real Decreto 1249/2003, de 3 de octubre. [Ref. BOE-A-2003-18426](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18426).
+
+## Artículo 3. Ámbito de aplicación.
+
+1\. Este real decreto se aplicará al transporte marítimo de pasajeros que lleven a cabo:
+
+a) Los buques de pasaje, cualquiera que sea el pabellón que enarbolen, con origen en un puerto español y destino en un puerto situado en España o en cualquier otro Estado miembro de la Unión Europea.
+
+b) Los buques de pasaje abanderados en España que zarpen de un puerto situado fuera de la Unión Europea con destino a un puerto comunitario.
+
+c) Los buques de pasaje que enarbolen pabellón de un país tercero con origen en un puerto situado fuera de la Unión Europea y destino en un puerto español.
+
+2\. No será de aplicación a los buques afectos al servicio de la defensa nacional, a los yates de recreo o naves de recreo y a los buques utilizados exclusivamente en zona portuaria o en vías de navegación interior.
+
+> Se modifica por el art. 1.2 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Artículo 4. Recuento de las personas embarcadas.
+
+1\. Antes de que los buques de pasaje sujetos al ámbito de aplicación de este real decreto salgan del puerto donde se inicie la travesía, deberá efectuarse el recuento del número total de personas embarcadas.
+
+2\. El número total de personas embarcadas se comunicará por la persona designada al capitán del buque, a las Autoridades portuarias en los puertos de interés general en su calidad de ventanilla única, según lo dispuesto en el artículo 4 del Real Decreto 1334/2012, de 21 de septiembre, sobre las formalidades informativas exigibles a los buques mercantes que lleguen a los puertos españoles o que salgan de éstos y a la Sociedad de Salvamento y Seguridad Marítima (SASEMAR), mediante el sistema de identificación automática.
+
+> Se modifica por el art. 1.3 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Artículo 5. Obligaciones del capitán del buque.
+
+El capitán asumirá la responsabilidad de que el número de personas a bordo de un buque de pasaje que vaya a zarpar de un puerto español no supere la capacidad autorizada para dicho buque.
+
+## Artículo 6. Registro de información.
+
+1\. Cuando la navegación que vaya a emprenderse aleje al buque más de veinte millas náuticas del puerto de origen, además del recuento previsto en el artículo 4, deberá registrarse la siguiente información sobre las personas embarcadas:
+
+a) Nombre y apellidos de las personas a bordo.
+
+b) Sexo.
+
+c) Nacionalidad.
+
+d) Fecha de nacimiento.
+
+e) Datos, voluntariamente comunicados por los interesados, acerca del cuidado o asistencia especiales que, en situaciones de emergencia, pueda necesitar un pasajero, los cuales habrán de ponerse en conocimiento del capitán del buque.
+
+f) Voluntariamente, un número de contacto facilitado por los interesados para casos de emergencia.
+
+2\. La información se recabará antes de la salida y se comunicará, a más tardar quince minutos después de la partida del buque de pasaje, a las Autoridades portuarias en los puertos de interés general, en su calidad de ventanilla única.
+
+3\. Los datos que deban requerirse en cumplimiento de lo dispuesto en este real decreto se recopilarán y registrarán de forma que no se produzcan retrasos injustificados a los pasajeros que embarquen o desembarquen. Se evitará, asimismo, la duplicidad de recogida de datos en rutas idénticas o similares.
+
+> Se modifica por el art. 1.4 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Artículo 7. Conservación de la información.
+
+1\. Las empresas navieras conservarán los datos sobre el número de personas embarcadas en los buques de pasaje durante los tres meses siguientes a la finalización del viaje.
+
+2\. La información registrada de acuerdo con lo previsto en el artículo 6 se conservará hasta el día siguiente a la finalización del viaje, salvo cuando haya ocurrido un accidente marítimo o haya sido necesario emprender operaciones de búsqueda y salvamento. En tales circunstancias, la información registrada se mantendrá el tiempo necesario para su puesta a disposición de los servicios de salvamento marítimo, de la Administración marítima o, en su caso, de los órganos judiciales.
+
+## Artículo 8. Obligaciones de las empresas navieras.
+
+Las empresas navieras que exploten buques de pasaje sujetos al ámbito de aplicación de este real decreto deberán:
+
+a) Establecer sistemas de registro de la información relativa a los pasajeros claros, fácilmente accesibles, ágiles, seguros y de aplicación común para todas las rutas similares que cada empresa explote.
+
+Estos sistemas de registro deberán ser aprobados por la Dirección General de la Marina Mercante antes de su puesta en aplicación.
+
+b) Disponer de servicios permanentes en tierra encargados de recibir y conservar dicha información y notificarla con rapidez a las Autoridades portuarias en los puertos de interés general, en su calidad de ventanilla única, y a SASEMAR, si se produjera una situación de emergencia o un accidente.
+
+c) Nombrar para el registro de pasajeros a una persona designada para comunicar la información contemplada en los artículos 4 y 6 a las Autoridades portuarias en los puertos de interés general en su calidad de ventanilla única o bien a SASEMAR.
+
+> Se modifica por el art. 1.5 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Artículo 9. Exenciones y dispensas.
+
+1\. Por Orden del Ministro de Fomento podrá reducirse el límite de 20 millas previsto en el artículo 6 o eximir de las obligaciones que dicho artículo impone, para la realización de servicios de transporte con buques de pasaje que efectúan viajes entre dos puertos sin escalas intermedias, navegando exclusivamente en aguas abrigadas.
+
+Cuando la navegación tenga su origen en un puerto español y su destino en un puerto situado en otro Estado miembro de la Unión Europea, tales decisiones deberán acordarse también por la autoridad competente del mismo.
+
+2\. Por orden del Ministro de Fomento podrá dispensarse:
+
+a) A los buques de pasaje que zarpen de un puerto español del cumplimiento del deber de comunicar el número de personas embarcadas a las Autoridades portuarias y a SASEMAR, siempre que se cumplan los siguientes requisitos:
+
+1.º Que el buque de pasaje no sea una nave de gran velocidad.
+
+2.º Que el buque efectúe servicios regulares en trayectos inferiores a una hora entre escalas, realizados exclusivamente en la zona marítima “D”, a la que se hace referencia en el artículo 4.1 del Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles.
+
+3.º Que la proximidad de instalaciones de búsqueda y salvamento esté garantizada en dicha zona marítima.
+
+b) A los buques de pasaje que efectúen viajes entre dos puertos o bien de ida y vuelta al mismo puerto sin escalas intermedias, de las obligaciones establecidas en el artículo 6 cuando el buque en cuestión opere exclusivamente en la zona marítima “D”, y esté garantizada la proximidad de instalaciones de búsqueda y salvamento.
+
+3\. Las exenciones y dispensas previstas en este artículo no podrán concederse a los buques de pasaje que zarpen de puertos españoles, bajo bandera de países terceros que sean Partes contratantes del Convenio SOLAS, y que, con arreglo a las disposiciones SOLAS correspondientes, no puedan optar a su otorgamiento.
+
+> Se modifica el apartado 2 por el art. 1.6 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Artículo 10. Régimen sancionador.
+
+El incumplimiento de las obligaciones establecidas en este real decreto será sancionado de conformidad con las reglas contenidas en el Título IV del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/ 2011 de 5 de septiembre.
+
+> Se modifica por el art. 1.7 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Disposición adicional primera. Solicitud de exención del registro de información.
+
+La Dirección General de la Marina Mercante podrá solicitar a la Comisión Europea la exención, total o parcial, de la obligación de registrar la información a la que se refiere el artículo 6 para los servicios regulares de transporte marítimo de pasajeros que tengan origen en puertos españoles, cuando concurran las siguientes circunstancias:
+
+a) Que la empresa naviera, dadas las especiales características del servicio de transporte, justifique la impracticabilidad de la puesta en aplicación del sistema de registro de información.
+
+b) Que la navegación sea de corta duración y se desarrolle en zonas marítimas en las que la probabilidad anual de que la altura significativa de las olas supere dos metros sea inferior al 10 por 100.
+
+> Se modifica por el art. 1.8 y 9 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Disposición adicional segunda. Transmisión de información en puertos de titularidad autonómica.
+
+La transmisión a las Autoridades portuarias de la información prevista en este real decreto para los puertos de interés general se verificará por el órgano autonómico competente en los puertos que sean de titularidad autonómica.
+
+> Se modifica por el art. 1.10 del Real Decreto 724/2019, de 13 de diciembre. [Ref. BOE-A-2019-18017](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-18017)
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto.
+
+## Disposición final primera. Habilitación normativa.
+
+Se autoriza al Ministro de Fomento para dictar las disposiciones necesarias para el desarrollo y aplicación de este Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 23 de abril de 1999.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+RAFAEL ARIAS-SALGADO MONTALVO

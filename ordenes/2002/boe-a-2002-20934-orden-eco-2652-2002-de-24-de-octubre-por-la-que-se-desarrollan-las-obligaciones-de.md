@@ -1,0 +1,71 @@
+---
+title: "Orden ECO/2652/2002, de 24 de octubre, por la que se desarrollan las obligaciones de comunicación de operaciones en relación con determinados países al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias"
+identifier: "BOE-A-2002-20934"
+eli: "https://www.boe.es/eli/es/o/2002/10/24/eco2652"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía"
+date: 2002-10-24
+published: 2002-10-30
+in_force_from: 2002-10-31
+last_amended: 2010-06-07
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 260"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-20934"
+retrieved: 2026-10-11
+---
+
+# Orden ECO/2652/2002, de 24 de octubre, por la que se desarrollan las obligaciones de comunicación de operaciones en relación con determinados países al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias
+
+La Orden del Ministro de Economía de 3 de agosto de 2000 sometió a comunicación mensual al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias las operaciones con una serie de jurisdicciones no comprendidas en el Real Decreto 1080/1991, de 25 de julio, como paraísos fiscales y que fueron identificadas como países o territorios no cooperantes (PTNC) por el Grupo de Acción Financiera Internacional sobre Blanqueo de Capitales (GAFI).
+
+Esta Orden tenía como fundamento lo dispuesto en el artículo 7.2 del Real Decreto 925/1995, de 9 de junio, por el que se aprueba el Reglamento de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales (operaciones que en todo caso deberán ser comunicadas al Servicio Ejecutivo con periodicidad mensual) y el contenido establecido en la disposición transitoria única del Reglamento. En concreto, en la letra c) del artículo 7.2 contempla como operaciones a incluir en esta comunicación, aparte de las previstas en las letras a) y b), cualesquiera otras que, a propuesta de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias, se recojan en las disposiciones de aplicación del Reglamento.
+
+La competencia del Ministro de Economía para dictar disposiciones de aplicación del Reglamento deriva de la habilitación normativa establecida en la disposición final primera del Real Decreto 925/1995, en virtud de la cual el Ministro de Economía y Hacienda, previo cumplimiento de los trámites legales oportunos, dictará cuantas disposiciones sean necesarias para el desarrollo de lo establecido en el Reglamento que se aprueba por el presente Real Decreto.
+
+Con posterioridad a la publicación de dicha Orden, el GAFI ha variado la relación de jurisdicciones consideradas como PTNC, habiendo sido aprobadas estas variaciones en su última Sesión Plenaria, celebrada en París entre los días 18 a 21 de junio de 2002, por lo que procede la actualización de la lista establecida por Orden de 3 de agosto de 2000, mediante Orden ministerial fundamentada en los preceptos antes señalados.
+
+La iniciativa del proyecto ha sido propuesta por la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias en su reunión de 17 de septiembre de 2002, de acuerdo con lo dispuesto en el artículo 7.2 c) del Reglamento de la Ley 19/1993.
+
+En su virtud, dispongo:
+
+## Artículo único. Jurisdicciones afectadas.
+
+Las obligaciones de comunicación al Servicio Ejecutivo que han de efectuar los sujetos obligados en todo caso respecto a las operaciones descritas en el artículo 7.2.b) del Reglamento, aprobado por Real Decreto 925/1995, se extienden a aquellas operaciones que se realicen con alguno de los siguientes países o territorios:
+
+Egipto.
+
+Filipinas.
+
+Guatemala.
+
+Indonesia.
+
+Mianmar (antigua Birmania).
+
+Nigeria.
+
+República Islámica de Irán
+
+Ucrania.
+
+> Se modifica por el art. único de la Orden EHA/1464/2010, de 28 de mayo. [Ref. BOE-A-2010-9025](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9025).
+
+## Disposición derogatoria única. Derogación de la norma precedente.
+
+Queda derogada la Orden del Ministro de Economía de 3 de agosto de 2000, por la que se desarrollan las obligaciones de comunicación de operaciones al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales en cumplimiento del artículo 7.2 del Real Decreto 925/1995.
+
+## Disposición final única. Secuencia de entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Respecto de los países y territorios incluidos por primera vez (Egipto, Guatemala, Indonesia, Mianmar, Nigeria y Ucrania), los sujetos obligados deberán incluir las operaciones a las que se refiere la presente Orden a partir de la primera comunicación mensual que deba tener lugar una vez que haya transcurrido un mes natural completo desde su publicación. En esta primera comunicación deberán figurar las operaciones realizadas dentro de dicho mes natural completo.
+
+Madrid, 24 de octubre de 2002.
+
+DE RATO Y FIGAREDO
+
+Ilma. Sra. Directora general del Tesoro y Política Financiera.

@@ -1,0 +1,945 @@
+---
+title: "Real Decreto 928/1998, de 14 de mayo, por el que se aprueba el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social"
+identifier: "BOE-A-1998-12816"
+eli: "https://www.boe.es/eli/es/rd/1998/05/14/928"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 1998-05-14
+published: 1998-06-03
+in_force_from: 1998-06-04
+last_amended: 2023-12-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 132"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-12816"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 928/1998, de 14 de mayo, por el que se aprueba el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social
+
+Incluye la corrección de errores publicada en BOE núm.151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+La Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social, en su disposición adicional cuarta, determina los principios rectores del procedimiento sancionador por infracciones en el orden social y de liquidación de cuotas de la Seguridad Social. Su disposición final única autoriza al Gobierno para dictar las disposiciones necesarias para el desarrollo y aplicación de dicha Ley.
+
+En cumplimiento de dichas previsiones, la presente disposición aborda la regulación de dicha materia, con carácter general para las Administraciones públicas competentes en la materia, por tratarse de procedimientos administrativos para la aplicación de una legislación substantiva estatal de aplicación general, en los términos de la disposición adicional cuarta de la Ley 42/1997, antes citada. A tal respecto, ha de consignarse que esta disposición asume lo dispuesto por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, incorporando sus principios normativos fundamentales en orden a las garantías del administrado y a la eficacia de la acción administrativa, sin perjuicio de la especialidad de estos procedimientos, reconocida en su disposición adicional séptima.
+
+De otro lado, la presente regulación ha de dar respuesta procedimental a los cambios que derivan de la nueva ordenación que establece la citada Ley 42/1997, y la Ley 66/1997, de Medidas Fiscales, Administrativas y de Orden Social, especialmente en lo que atañe a los procedimientos liquidatorios antes referidos, así como a las transformaciones orgánicas y funcionales introducidas por la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+El Reglamento que se aprueba tiene en cuenta la más reciente doctrina jurisprudencial, en particular la contenida en las sentencias 195/1996, de 28 de noviembre, y 124/1989, de 7 de julio, ambas del Tribunal Constitucional, y ha tomado en consideración la experiencia obtenida en la aplicación práctica de la normativa preexistente. Tras la necesaria regulación de aspectos referentes a la fase inspectora previa y anterior al inicio del procedimiento administrativo sancionador o liquidatorio, éste se regula, en base a su especialidad, mediante la aplicación de los principios de celeridad y de eficacia administrativas, al tiempo que se extreman las garantías de seguridad jurídica que merecen los ciudadanos. Asimismo, se incorporan normas derivadas de las innovaciones legislativas antes citadas, y se prescinde de fórmulas procedimentales que la experiencia ha mostrado como perturbadoras en la realidad práctica.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, en aplicación de lo dispuesto en la disposición adicional cuarta de la Ley 42/1997, de 14 de noviembre, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 14 de mayo de 1998,
+
+##### D I S P O N G O :
+
+###### Artículo único. Aprobación del Reglamento.
+
+Se aprueba el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social, común a las Administraciones públicas, que se inserta a continuación.
+
+###### Disposición adicional única. Asunción de competencias.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Disposición transitoria única. Expedientes en tramitación y atribución de competencias.
+
+1\. Los expedientes iniciados antes de la vigencia del presente Real Decreto, entendiéndose por fecha de iniciación la de extensión del acta o del escrito de iniciación de la entidad gestora, se tramitarán y resolverán con arreglo a las disposiciones anteriores hasta ahora en vigor.
+
+2\. El régimen de recursos de los procedimientos a que se refiere el apartado anterior será el establecido en los artículos 23 y 33.3 del Reglamento que se aprueba por el presente Real Decreto y, subsidiariamente, en el capítulo II del Título VII de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y, con carácter supletorio, en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora.
+
+Cuando se trate de recursos contra resoluciones sobre actas de infracción y de liquidación que se refieran a los mismos hechos, dictadas en primera instancia por la Dirección General competente por razón de la materia, el recurso ordinario se resolverá por el Ministro de Trabajo y Asuntos Sociales.
+
+3\. Hasta tanto se dicten las normas de desarrollo organizativo de la Ley 42/1997, y se proceda a la provisión de las Jefaturas de la Unidades Especializadas de la Inspección en Seguridad Social, las funciones previstas para las mismas en el artículo 33.2 del Reglamento general adjunto serán ejercidas con el mismo carácter por el Jefe de la Unidad de la Inspección de Trabajo y Seguridad Social en la Dirección Provincial de la Tesorería General de la Seguridad Social o, en su caso, por el correspondiente órgano inspector de la la Autoridad Central.
+
+4\. Las facultades de resolución del recurso ordinario derivado de expedientes originados por actas de liquidación a que se refiere el capítulo VI del Reglamento general que se aprueba, hasta tanto se desarrolle reglamentariamente la figura del Director territorial de la Inspección de Trabajo y Seguridad Social y se proceda a su cobertura, serán ejercidas por el Jefe de la Inspección Provincial en que radique la respectiva capitalidad autonómica, excepto las derivadas de acta formulada por la Unidad radicada en la autoridad central, y por las Inspecciones Provinciales radicadas en La Rioja, Ceuta y Melilla en que dichas facultades corresponderán a la autoridad central de la Inspección de Trabajo y Seguridad Social.
+
+> Redactados los apartados 3 y 4 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+###### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 396/1996, de 1 de marzo, por el que se aprueba el Reglamento sobre procedimiento para la imposición de sanciones por infracciones en el orden social y para la extensión de actas de liquidación de cuotas de la Seguridad Social, y cuantas disposiciones de igual o inferior rango se opongan a lo preceptuado en el presente Real Decreto.
+
+###### Disposición final única. Entrada en vigor y facultades normativas.
+
+1\. El presente Real Decreto y el Reglamento que aprueba entrarán en vigor el día 1 del mes siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+2\. Se faculta al Ministro de Trabajo y Asuntos Sociales para dictar las disposiciones de aplicación y ejecución de este Real Decreto.
+
+Dado en Madrid a 14 de mayo de 1998.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Asuntos Sociales,
+
+JAVIER ARENAS BOCANEGRA
+
+## REGLAMENTO GENERAL SOBRE PROCEDIMIENTOS PARA LA IMPOSICIÓN DE SANCIONES POR INFRACCIONES DE ORDEN SOCIAL Y PARA LOS EXPEDIENTES LIQUIDATORIOS DE CUOTAS DE LA SEGURIDAD SOCIAL
+
+### CAPÍTULO I — Disposiciones generales
+
+###### Artículo 1. Objeto, forma de iniciación y tramitación de los procedimientos.
+
+1\. Se regirán por el presente Reglamento los procedimientos administrativos, comunes a las Administraciones públicas, para la imposición de sanciones por incumplimiento de normas en el orden social, así como para la extensión de actas de liquidación y demás documentos liquidatorios de cuotas de la Seguridad Social y de otros conceptos de recaudación conjunta con las mismas, cualquiera que sea la Administración pública competente.
+
+2\. Ambos procedimientos, sancionador y liquidatorio, se iniciarán siempre de oficio por acta de la Inspección de Trabajo y Seguridad Social de conformidad con lo dispuesto en la disposición adicional cuarta.1 de la Ley 42/1997, de 14 de noviembre, y en la Ley 8/1988, de 7 de abril, de Infracciones y Sanciones en el Orden Social, sin perjuicio de los supuestos a que se refiere el número siguiente.
+
+3\. El procedimiento de imposición de sanciones, leves y graves, a los solicitantes y beneficiarios de prestaciones a que se refiere la Ley de Infracciones y Sanciones del Orden Social, se iniciará por la entidad gestora, de conformidad con lo dispuesto en el capítulo VII de este Reglamento.
+
+4\. Los procedimientos administrativos regulados en este reglamento se tramitarán de manera electrónica, en los términos y con las excepciones establecidos en este reglamento, en sus normas de desarrollo y en las normas generales de aplicación supletoria.
+
+5\. La Inspección de Trabajo y Seguridad Social y los órganos, organismos públicos o entidades de la Administración General del Estado o de las Comunidades Autónomas que intervienen en los procedimientos regulados en este reglamento podrán utilizar o desarrollar plataformas o aplicaciones informáticas dirigidas a facilitar al interesado la comprensión del procedimiento y la realización de los trámites que lo integran.
+
+Conforme a lo previsto en el artículo 65.2 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por Real Decreto 203/2021, de 30 de marzo, la adhesión por parte de una Administración a una plataforma o aplicación informática creada por otra, no supondrá un cambio de la titularidad sobre las actuaciones administrativas realizadas en el procedimiento administrativo de que se trate, que corresponderá a la Administración competente para su tramitación.
+
+> Se modifica, con efectos de 6 de marzo de 2024, la denominación y se añaden los apartados 4 y 5 por el art. 1.1 del Real Decreto 1011/2023, de 5 de diciembre. [Ref. BOE-A-2023-24844](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24844)
+
+###### Artículo 2. Necesidad de expediente previo.
+
+1\. Para la imposición de sanciones por infracciones administrativas en el orden social será obligatoria la previa tramitación del oportuno expediente, en la que habrán de respetarse las garantías y observarse los requisitos establecidos en el presente Reglamento.
+
+2\. Las liquidaciones de cuotas a la Seguridad Social y demás conceptos de ingreso conjunto con éstas que practique la Inspección de Trabajo y Seguridad Social, se regirán por lo establecido en el capítulo VI del presente Reglamento, de acuerdo con el carácter de los diferentes documentos liquidatorios.
+
+###### Artículo 3. Sujetos responsables.
+
+1\. Son sujetos responsables del incumplimiento o infracción de las normas del orden social quienes puedan resultar imputados a tenor de lo establecido en la Ley de Infracciones y Sanciones del Orden Social, en la Ley ordenadora de la Inspección de Trabajo y Seguridad Social, y en cualesquiera otras leyes del orden social. Quedarán sometidos al procedimiento sancionador los sujetos referidos por razón de las acciones u omisiones en que incurran tipificadas como infracción en las disposiciones del orden social.
+
+2\. En materia de deudas por cuotas a la Seguridad Social y demás conceptos asimilados, son sujetos responsables los que resulten obligados a la cotización e ingreso de cuotas en aplicación de lo establecido en la correspondiente normativa específica reguladora de la materia.
+
+3\. La responsabilidad por infracciones administrativas en el orden social se extingue por fallecimiento de la persona física responsable, procediendo al archivo de las actuaciones sancionadoras, y sin perjuicio de la responsabilidad económica por deudas a la Seguridad Social.
+
+4\. Queda excluido del ámbito de aplicación de este Reglamento la corrección de infracciones en materia de prevención de riesgos laborales en el ámbito de las Administraciones públicas, que se sujetará al procedimiento y régimen previsto en el artículo 45 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en su normativa de desarrollo.
+
+###### Artículo 4. Atribución de competencias sancionadoras.
+
+1\. En el ámbito de la Administración General del Estado y de los organismos públicos vinculados o dependientes de aquella, las infracciones serán sancionadas por los órganos a los que normativamente se haya atribuido la competencia sancionadora. El procedimiento sancionador se iniciará a propuesta de la Inspección de Trabajo y Seguridad Social, o bien, cuando se trate de infracciones leves y graves de solicitantes o beneficiarios de prestaciones, como resultado de los datos o antecedentes obrantes en la entidad u órgano gestor de la prestación.
+
+En el ámbito provincial, la competencia para sancionar corresponderá a los siguientes órganos:
+
+a) En el caso de las infracciones en materia de Seguridad Social reguladas en la sección 1.ª del capítulo III del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, cuyas actas no concurran con actas de liquidación, la imposición de sanción corresponderá a:
+
+1.º La Dirección Provincial de la Tesorería General de la Seguridad Social en el caso de las infracciones leves señaladas en los apartados 1, 2, 3, 4 y 5 del artículo 21, las graves previstas en los apartados 1, 2, 3, 5, 7, 9 en el supuesto de reducciones de cuotas de la Seguridad Social, 10 y 12 del artículo 22, y las muy graves previstas en las letras b), d), f) y k) del artículo 23.1.
+
+2.º La Dirección Provincial del Instituto Nacional de la Seguridad Social, en los supuestos calificados como infracción leve en los apartados 4 y 6 del artículo 21, como infracción grave en los apartados 4, 6, 8 y 14 del artículo 22, y como infracción muy grave en las letras a), c), e) y g) del artículo 23.1.
+
+Corresponderá la imposición de sanción a la Dirección Provincial del Servicio Público de Empleo Estatal, cuando la sanción afecte a prestaciones cuya gestión tenga atribuida, en los supuestos previstos en el apartado 4 del artículo 21, en los apartados 4, 6, 8, 13 y 14 del artículo 22 y en las letras a), c), e) y g) del artículo 23.1
+
+Asimismo, corresponderá la imposición de sanción a la Dirección Provincial del Instituto Social de la Marina en los supuestos señalados en los dos párrafos anteriores, cuando la sanción afecte a prestaciones cuya gestión tenga atribuida.
+
+3.º La Dirección Provincial del Servicio Público de Empleo Estatal, en el supuesto previsto como infracción grave en el artículo 22.9 cuando se trate de bonificaciones y como infracción muy grave en la letra h) del artículo 23.1.
+
+b) Cuando se practiquen actas de infracción y actas de liquidación de cuotas por los mismos hechos, el órgano competente para sancionar será la Dirección Provincial de la Tesorería General de la Seguridad Social, de conformidad con lo previsto en el artículo 31 del texto refundido de la Ley General de Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio.
+
+c) En aquellos casos en que normativamente no se haya atribuido la competencia para resolver a otros órganos, la imposición de sanciones en el orden social en el ámbito de la Administración General del Estado corresponderá a los Jefes de las Inspecciones Provinciales dependientes orgánicamente de la misma.
+
+2\. El ejercicio de la potestad sancionadora de las infracciones del orden social, cuando corresponda a la Administración de las Comunidades Autónomas con competencia en materia de ejecución de legislación laboral y de la Seguridad Social, se ejercerá por los órganos que determine cada Comunidad Autónoma, y con los límites de distribución que cada una de éstas establezca.
+
+3\. Será Administración competente para resolver el expediente sancionador iniciado por un acta de infracción por obstrucción, la que lo fuera por razón de la materia objeto de la actuación concreta de la Inspección de Trabajo y Seguridad Social, en el marco de distribución de competencias entre la Administración General del Estado y las Comunidades Autónomas.
+
+Cuando la materia sea competencia de la Administración General del Estado, si por razón de su cuantía correspondiera resolver a la autoridad competente a nivel provincial, la asumirá el Jefe de la Inspección de Trabajo y Seguridad Social adscrito a dicha Administración. Si la competencia para resolver un acta de infracción por obstrucción corresponde, por razón de la cuantía, a una Dirección General, la asumirá la Dirección General de la Inspección de Trabajo y Seguridad Social, a la que corresponderá también resolver los recursos de alzada presentados respecto de las resoluciones dictadas por los Jefes de Inspección Provincial en el ámbito de la Administración General del Estado.
+
+4\. El órgano competente para resolver el expediente sancionador lo será para acordar las sanciones accesorias que correspondan a tenor de la Ley de Infracciones y Sanciones en el Orden Social, salvo que se disponga lo contrario.
+
+5\. La competencia para resolver se determinará de acuerdo con la cuantía de la sanción propuesta en el acta de infracción. En los supuestos de acumulación de infracciones previstos en el artículo 16 de este Reglamento, será órgano sancionador competente de la totalidad de dichas infracciones el que lo sea para imponer la de mayor cuantía, a tenor de la Ley de Infracciones y Sanciones en el Orden Social, salvo que expresamente se disponga lo contrario.
+
+6\. La autoridad central de la Inspección de Trabajo y Seguridad Social podrá dirigirse al órgano que en sus resoluciones se desvíe reiteradamente de los criterios interpretativos técnicos a que se refieren los artículos 18.3.7 y 18.3.12 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social, poniéndole de manifiesto lo que proceda.
+
+> Se modifica el apartado 1.a).2 por la disposición final 2 del Real Decreto 608/2023, de 11 de julio. [Ref. BOE-A-2023-16158](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-16158)
+
+> Se añade el apartado 1.a), con efectos de 1 de enero de 2022, por el art. único.1 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se declara inconstitucional y nulo el apartado 1.a), en la redacción dada por el Real Decreto-ley 5/2013, de 15 de marzo. [Ref. BOE-A-2013-2874](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2874), con los efectos indicados en el fundamento jurídico 11, por Sentencia del TC 61/2018, de 7 de junio. [Ref. BOE-A-2018-9537](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-9537)
+
+> Se modifica el apartado 1.a) por la disposición final 6 del Real Decreto-ley 5/2013, de 15 de marzo. [Ref. BOE-A-2013-2874](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2874).
+
+> Se modifica el apartado 1.a) por la disposición final 2 del Real Decreto-ley 1/2013, de 25 de enero. [Ref. BOE-A-2013-755](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-755).
+
+> Se modifica el apartado 1.a) por la disposición final 1.1 de la Ley 13/2012, de 26 de diciembre. [Ref. BOE-A-2012-15596](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15596).
+
+> Se modifican los apartados 1, 3 y 6 por el art. único.1 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 5. Concurrencia de sanciones con el orden jurisdiccional penal.
+
+1\. Cuando el funcionario actuante considere que los hechos que han dado lugar al inicio del procedimiento administrativo sancionador pudieran ser constitutivos de ilícito penal, remitirá al Jefe de la Inspección de Trabajo y Seguridad Social, informe con expresión de los hechos y circunstancias y de los sujetos que pudieran resultar afectados.
+
+Si el Jefe de la Inspección de Trabajo y Seguridad Social estimase la concurrencia de ilícito penal, lo comunicará al órgano competente para resolver, quien acordará, en su caso, la remisión del expediente al Ministerio Fiscal y se abstendrá de seguir el procedimiento administrativo sancionador a que se refiere el Capítulo III por los mismos hechos, hasta que el Ministerio Fiscal, en su caso, resuelva no interponer acción o le sea notificada la firmeza de la sentencia o auto de sobreseimiento que dicte la autoridad judicial.
+
+Con la remisión del expediente administrativo sancionador, se solicitará de la autoridad judicial, la notificación de la resolución que ponga fin al procedimiento, que se efectuará en los términos previstos en el artículo 270 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+También se suspenderá el procedimiento administrativo cuando, no mediando dicha comunicación, se venga en conocimiento de la existencia de actuaciones penales por los mismos hechos y fundamento en relación al mismo presunto responsable.
+
+2\. La comunicación del apartado anterior no afectará al inmediato cumplimiento de la paralización de trabajos a que se refiere el artículo 44 de la Ley de Prevención de Riesgos Laborales, ni a la eficacia de los requerimientos formulados, cuyo incumplimiento se comunicará a través del órgano correspondiente al Juzgado competente, por si fuese constitutivo de ilícito penal, ni tampoco afectará a la exigencia de deudas que se apreciasen con el Sistema de Seguridad Social.
+
+3\. La condena por delito en sentencia firme excluirá la imposición de sanción administrativa por los mismos hechos que hayan sido considerados probados siempre que concurra, además, identidad de sujeto y fundamento, sin perjuicio de la liquidación de cuotas a la Seguridad Social y demás conceptos de recaudación conjunta, y de la exigencia de reintegro de las ayudas, bonificaciones o de las prestaciones sociales indebidamente percibidas, si procediese.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado el párrafo 2 del apartado 1 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+###### Artículo 6. Iniciación del procedimiento de oficio ante el orden jurisdiccional social.
+
+1\. De conformidad con lo establecido en la Ley ordenadora de la Inspección de Trabajo y Seguridad Social, los Inspectores de Trabajo y Seguridad Social podrán proponer al Jefe de la Inspección Provincial o al Jefe de la respectiva Unidad especializada la formulación de demandas de oficio ante los Juzgados de lo Social en la forma prevista por el texto refundido de la Ley de Procedimiento Laboral aprobado por Real Decreto legislativo 2/1995, de 7 de abril. Si se formulase demanda, se dará cuenta al órgano competente para resolver, y se producirá la suspensión del expediente administrativo sancionador y, cuando exista, del procedimiento liquidatorio, con notificación a los interesados y al proponente, hasta tanto se dicte sentencia firme.
+
+Los procedimientos de oficio iniciados mediante certificaciones de las resoluciones firmes derivadas de las actas de infracción de la Inspección de Trabajo y Seguridad Social en las que se aprecie perjuicios económicos para los trabajadores afectados, de conformidad con lo establecido en el artículo 146 a) del texto refundido de la Ley de Procedimiento Laboral, no impedirán la ejecución de las resoluciones administrativas sancionadoras que hayan adquirido firmeza.
+
+2\. Una vez comunicada la sentencia firme, se continuará la tramitación del expediente administrativo sancionador o liquidatorio, dictándose la correspondiente resolución, que respetará el pronunciamiento del orden jurisdiccional social sobre el fondo del asunto.
+
+###### Artículo 7. Prescripción y cosa resuelta.
+
+1\. Las infracciones en el orden social prescriben a los tres años contados desde la fecha de la infracción, salvo en materia de Seguridad Social en que el plazo de prescripción es de cuatro años, y en materia de prevención de riesgos laborales en que prescribirán al año las infracciones leves, a los tres años las graves y a los cinco años las muy graves, de acuerdo con su legislación específica.
+
+2\. Los plazos de prescripción para la imposición de sanciones en el orden social se interrumpen por cualquiera de las causas admitidas en Derecho, por acta de infracción debidamente notificada, requerimiento u orden de paralización de la Inspección de Trabajo y Seguridad Social. En las deudas por cuotas a la Seguridad Social se estará a lo dispuesto en el artículo 21 del texto refundido de la Ley General de la Seguridad Social. La prescripción también se interrumpirá por la iniciación del procedimiento de oficio señalado en el artículo 6 del presente Reglamento y, en todo caso, por el inicio de actuación administrativa con conocimiento formal del sujeto pasivo conducente a la comprobación de la infracción o de la deuda, por cualquier actuación del sujeto responsable que implique reconocimiento de los hechos constitutivos de la infracción o de la deuda, o por la interposición de reclamación o recurso de cualquier clase por parte de los afectados o sus representantes.
+
+La comunicación trasladando el tanto de culpa al órgano judicial competente o al Ministerio Fiscal, cuando las infracciones pudieran ser constitutivas de delito, interrumpe la prescripción hasta que se notifique a la Administración competente la firmeza de la resolución judicial que recaiga, o hasta que el Ministerio Fiscal comunique su decisión de no ejercitar la acción penal.
+
+3\. Las sanciones impuestas prescribirán a los cinco años, a contar desde el día siguiente a aquel en que adquiera firmeza la resolución por la que se impone la sanción.
+
+4\. No podrán sancionarse los mismos hechos que hayan sido objeto de anterior resolución administrativa sancionadora, cuando concurra identidad de sujeto, de hechos y de fundamentos, salvo que así lo disponga expresamente dicha resolución y persista el infractor de forma continuada en los hechos sancionados.
+
+5\. La caducidad declarada de un expediente administrativo sancionador o liquidatorio, no impide la iniciación de otro nuevo con identidad de sujeto, hechos y fundamentos, cuando la infracción denunciada o la deuda imputada no hayan prescrito, se realicen nuevas actuaciones inspectoras y se practique nueva acta de infracción o de liquidación.
+
+> Se modifica por el art. único.3 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+### CAPÍTULO II — Actividades previas al procedimiento sancionador
+
+#### Sección 1.ª Iniciación de la actividad inspectora
+
+###### Artículo 8. Objeto de la actividad inspectora previa.
+
+1\. Se entiende por actividad inspectora previa al procedimiento sancionador, a los efectos del presente Reglamento, el conjunto de actuaciones realizadas por la Inspección de Trabajo y Seguridad Social destinadas a comprobar el cumplimiento de las disposiciones legales, reglamentarias y convenidas en el orden social.
+
+2\. Tales actuaciones comprobatorias no se dilatarán por espacio de más de nueve meses salvo que la dilación sea imputable al sujeto a inspección o a las personas dependientes del mismo. No obstante, podrá ampliarse por otro periodo que no excederá de nueve meses, cuando concurran las siguientes circunstancias:
+
+a) Cuando las actividades de inspección revistan especial dificultad y complejidad. Se entiende que se produce atendiendo al volumen de operaciones del sujeto obligado, por la dispersión geográfica de sus actividades, y en aquellos otros supuestos que indique una norma reglamentaria.
+
+b) Cuando en el transcurso de las mismas se descubra que el sujeto inspeccionado ha obstruido u ocultado al órgano inspector alguna de sus actividades o de las personas que las desempeñen.
+
+c) Cuando la actuación inspectora requiera de cooperación administrativa internacional.
+
+Asimismo, no se podrán interrumpir por más de cinco meses, salvo que la interrupción sea causada por el sujeto inspeccionado o personas de él dependientes.
+
+Para el cómputo de los plazos señalados en este artículo, en ningún caso se considerará incluido el tiempo transcurrido durante el plazo concedido al sujeto obligado en los supuestos de formularse requerimientos de subsanación de incumplimientos previos por parte del órgano inspector.
+
+Si se incumplen los plazos a que se refieren los párrafos anteriores, no se interrumpirá el cómputo de la prescripción y decaerá la posibilidad de extender acta de infracción o de liquidación, como consecuencia de tales actuaciones previas, sin perjuicio de la eventual responsabilidad en la que pudieran haber incurrido los funcionarios actuantes.
+
+Ello no obstante, en los supuestos anteriormente citados, y siempre que no lo impida la prescripción, la Inspección de Trabajo y Seguridad Social podrá promover nuevas actuaciones de comprobación referentes a los mismos hechos y extender, en su caso, las actas correspondientes. Las comprobaciones efectuadas en las actuaciones inspectoras previas caducadas, tendrán el carácter de antecedente para las sucesivas, haciendo constar formalmente tal incidencia.
+
+> Se modifica el apartado 2 por la disposición final 1.2 de la Ley 13/2012, de 26 de diciembre. [Ref. BOE-A-2012-15596](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15596).
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 103/2010, de 5 de febrero. [Ref. BOE-A-2010-2883](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2883)
+
+###### Artículo 9. Formas de iniciación.
+
+1\. La actividad previa de comprobación podrá iniciarse, de acuerdo con lo establecido en el artículo 20 de la Ley 23/2015, de 21 de julio, ordenadora de la Inspección de Trabajo y Seguridad Social, de cualquiera de las siguientes formas:
+
+a) Por orden superior de la autoridad competente, tanto de la Administración General del Estado como Autonómica, a través del titular de la Dirección de la Dirección Especial, Dirección Territorial, Jefatura de Inspección Provincial o, en su caso, Unidad especializada.
+
+b) Por orden de servicio del titular de la Dirección Especial, de la Dirección Territorial, de las Jefaturas de la Inspección Provincial, de sus Unidades especializadas, o del Inspector encargado del equipo, en aplicación de los planes, programas y directrices sobre actuación de la Inspección de Trabajo y Seguridad Social.
+
+c) Por petición de cualquier órgano jurisdiccional cuando determine su objeto, amplitud y finalidad.
+
+d) Por petición concreta de los organismos de la Seguridad Social, que colaborarán con la Inspección de Trabajo y Seguridad Social conforme dispone el artículo siguiente, o a solicitud de otra Administración pública.
+
+e) Por propia iniciativa del Inspector de Trabajo y Seguridad Social teniendo en cuenta criterios de eficacia y oportunidad según lo determinado en las disposiciones vigentes.
+
+f) Por denuncia de hechos presuntamente constitutivos de infracción en el orden social.
+
+2\. El escrito de denuncia deberá contener, además de los datos de identificación personal del denunciante y su firma, los hechos presuntamente constitutivos de infracción en materias para las que resulte competente la Inspección de Trabajo y Seguridad Social, fecha y lugar de su acaecimiento, identificación de los presuntamente responsables y demás circunstancias relevantes.
+
+No se tramitarán las denuncias anónimas ni las que tengan defectos o insuficiencias de identificación. En los dos últimos casos se requerirá al denunciante para que las complete subsanando los defectos en el plazo de quince días. En todo caso la Inspección de Trabajo y Seguridad Social podrá hacer uso de toda la información disponible para la programación de sus actuaciones.
+
+Tampoco se dará curso a aquellas denuncias en las que su objeto coincida con asuntos de los que esté conociendo un órgano jurisdiccional cuyo pronunciamiento pueda condicionar el resultado de la actuación inspectora, ni a las que manifiestamente carezcan de fundamento.
+
+3\. El denunciante no podrá alegar la consideración de interesado a ningún efecto en la fase de investigación.
+
+El denunciante tendrá derecho a ser informado del estado de tramitación de su denuncia, de los hechos que se hayan constatado y de las medidas adoptadas al respecto, únicamente cuando el resultado de la investigación afecte a sus derechos individuales o colectivos reconocidos por la normativa correspondiente al ámbito de la función inspectora. Asimismo, los representantes unitarios o sindicales de los trabajadores tendrán derecho a ser informados del estado de tramitación de las denuncias presentadas por los mismos en el ámbito de su representación, así como de los hechos que se hayan constatado y de las medidas adoptadas al respecto, de conformidad con lo establecido en artículo 20.4, párrafo tercero, de la Ley 23/2015, de 21 de julio.
+
+En el supuesto de que la denuncia diera lugar al inicio de un procedimiento sancionador, el denunciante podrá tener, en su caso, la condición de interesado, en los términos y con los requisitos establecidos en el artículo 4 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. En el mismo supuesto, se reconoce expresamente la condición de interesados en el procedimiento a los representantes de las organizaciones sindicales o representantes de los trabajadores, en su condición de titulares de los intereses legítimos que derivan de su representación.
+
+4\. No obstante lo establecido en el párrafo tercero del apartado 2, en el supuesto de asuntos coincidentes con cuestiones que con carácter previo o incidental esté conociendo un órgano jurisdiccional y que pudieran dar lugar a la exigencia de pago de cuotas de la Seguridad Social, se iniciará actuación inspectora, en todos los supuestos a que se refiere el apartado 1.
+
+El inicio de actuaciones con conocimiento formal del sujeto responsable interrumpirá el plazo de prescripción previsto en el artículo 24 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+Una vez que sea firme la sentencia y sea esta comunicada a la Inspección de Trabajo y Seguridad Social, se iniciará la tramitación del expediente liquidatorio y, en su caso, sancionador, o bien se archivarán las actuaciones.
+
+5\. Las actuaciones previas de los Subinspectores Laborales se efectuarán, en todo caso, en ejecución de las órdenes de servicio recibidas.
+
+6\. La Inspección de Trabajo y Seguridad Social podrá abrir un período de información previa con el fin de conocer las circunstancias del caso concreto y la conveniencia o no de iniciar la actuación inspectora.
+
+7\. Cuando la actuación inspectora se inicie según lo determinado en los párrafos a), c) y d) del apartado 1 de este artículo, se informará por escrito de su resultado.
+
+> Se modifica por el art. 2.1 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+###### Artículo 10. Colaboración y coordinación de órganos y autoridades administrativas.
+
+1\. Las entidades gestoras y colaboradoras y los servicios comunes de la Seguridad Social y el Servicio Público de Empleo Estatal prestarán su colaboración a la Inspección de Trabajo y Seguridad Social en la forma dispuesta en los artículos 9.2 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social, y 79 del texto refundido de la Ley General de la Seguridad Social. A tal objeto, cederán o facilitarán a dicha Inspección, cuando les sea solicitado por el cauce orgánico que señale su autoridad central, la información, antecedentes y datos con relevancia para el buen fin de la acción inspectora, incluso los de carácter personal objeto de tratamiento automatizado sin necesidad de consentimiento del interesado.
+
+Del mismo modo, las entidades gestoras y servicios comunes y el Servicio Público de Empleo Estatal, podrán recabar la actuación inspectora y encomendar a la Inspección las comprobaciones que resulten necesarias para su gestión cuando correspondan al ámbito de la acción inspectora. Podrán establecerse programas de coordinación y se intensificará la conexión mutua.
+
+2\. El Instituto Nacional de Seguridad e Higiene en el Trabajo colaborará con la Inspección de Trabajo y Seguridad Social en la forma determinada por la Ley de Prevención de Riesgos Laborales, y le facilitará periódicamente los datos y estudios sobre evolución de la siniestralidad laboral.
+
+3\. Los servicios técnicos de prevención de riesgos laborales dependientes de las Administraciones públicas comunicarán, por conducto de la autoridad competente, a la Inspección, las irregularidades que observen cuando ofrezcan especial peligrosidad o sean reiteradas, y le prestarán la colaboración técnica y pericial referida en los artículos 9.2 de la Ley de Prevención de Riesgos Laborales y 2.3 de la Ley ordenadora de la Inspección de Trabajo y Seguridad Social, según los programas de inspección que se establezcan o cuando lo exija la comprobación inspectora.
+
+4\. La Administración tributaria cederá sus datos y antecedentes a la Inspección de Trabajo y Seguridad Social en los términos establecidos en el párrafo c) del apartado 1 del artículo 113 de la Ley General Tributaria, incluso estableciendo las conexiones que convengan a tal fin. Mediante programas de coordinación e información, se establecerá la colaboración general y territorial entre las Inspecciones Tributaria y de Trabajo y Seguridad Social. La Dirección General de la Agencia Estatal de Administración Tributaria y la autoridad central de la Inspección de Trabajo y Seguridad Social acordarán las normas para la aplicación de dicha colaboración; asimismo, y por acuerdo, podrá establecerse la colaboración entre la citada Inspección y las Administraciones tributarias forales y autonómicas.
+
+5\. Las Fuerzas y Cuerpos de Seguridad competentes estarán obligadas a prestar su auxilio y colaboración a la Inspección de Trabajo y Seguridad Social para el normal ejercicio de sus funciones. Cuando sea presumible la obstrucción, esta colaboración podrá recabarse con anterioridad, a través de los mandos designados al efecto por la autoridad competente, sin perjuicio de que en situaciones de necesidad se recabe directamente al centro o puesto de seguridad más próximo. En todos los supuestos la colaboración de las Fuerzas y Cuerpos de Seguridad se ajustará a lo dispuesto en su legislación específica.
+
+6\. Las obligaciones de auxilio y colaboración establecidas en los apartados anteriores sólo tendrán las limitaciones legalmente establecidas referentes a la intimidad de la persona, al secreto de la correspondencia, del protocolo notarial, o de las informaciones suministradas a las Administraciones públicas con finalidad exclusivamente estadística.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+#### Sección 2.ª Consecuencias de la actividad inspectora previa al procedimiento sancionador
+
+###### Artículo 11. Medidas a adoptar por el personal inspector.
+
+1\. El Inspector de Trabajo y Seguridad Social actuante, una vez finalizadas las actuaciones inspectoras previas y valorados sus resultados, podrá adoptar las medidas establecidas por el artículo 22 de la Ley 23/2015, de 21 de julio.
+
+2\. Cuando el Inspector de Trabajo y Seguridad Social o el Subinspector de Seguridad y Salud Laboral, en su caso, comprobase infracción a la normativa sobre prevención de riesgos laborales requerirá al empresario para la subsanación de las deficiencias observadas, mediante escrito o diligencia de actuación, en los términos del artículo 43 de la Ley 31/1995, de 8 de noviembre y del artículo 21.6 de la Ley 23/2015, de 21 de julio. Su incumplimiento persistiendo los hechos infractores dará lugar a la práctica de la correspondiente acta de infracción por tales hechos, si no la hubiere practicado inicialmente.
+
+3\. El Inspector de Trabajo y Seguridad Social o el Subinspector de Seguridad y Salud Laboral, en su caso, podrá ordenar la inmediata paralización de los trabajos o tareas que impliquen un riesgo grave e inminente para la seguridad y la salud de los trabajadores. En tal supuesto, lo comunicará a la empresa por escrito mediante notificación formal o diligencia de actuación, señalando el alcance y causa de la medida y dando cuenta inmediata de la misma a la autoridad laboral competente.
+
+En caso de que la orden de paralización provenga de un Subinspector de Seguridad y Salud Laboral, este, después de proceder conforme a lo previsto en el párrafo anterior, lo comunicará de inmediato al Jefe de Unidad Especializada o al Jefe de Equipo al que esté adscrito.
+
+La empresa responsable lo pondrá en conocimiento inmediato de los trabajadores afectados, del Comité de Seguridad y Salud, del Delegado de Prevención o, en su ausencia, de los representantes del personal y hará efectiva la paralización ordenada. La empresa, sin perjuicio del cumplimiento inmediato de la paralización, podrá impugnarla en el plazo de tres días hábiles ante la autoridad laboral competente, que resolverá en el plazo máximo de veinticuatro horas. Frente a su resolución podrá interponerse el recurso de alzada de conformidad con lo previsto en el artículo 23, sin perjuicio de su inmediata ejecutividad.
+
+4\. La paralización o suspensión de los trabajos se levantará por el Inspector de Trabajo y Seguridad Social o por el Subinspector de Seguridad y Salud Laboral que la hubiera decretado, o por el empresario cuando concurran las circunstancias y en la forma establecidas en la Ley 31/1995, de 8 de noviembre. El incumplimiento en esta materia de las decisiones de la Inspección o de la autoridad laboral producirá las responsabilidades previstas en la normativa aplicable.
+
+5\. El Inspector de Trabajo y Seguridad Social o el Subinspector Laboral actuante podrá advertir o requerir, en vez de iniciar el procedimiento sancionador, cuando las circunstancias del caso así lo aconsejen y no se deriven perjuicios directos a los trabajadores, o a sus representantes. Tal advertencia o requerimiento se comunicará al sujeto responsable por escrito o mediante la diligencia de actuación, señalando las irregularidades o deficiencias apreciadas con indicación del plazo para su subsanación bajo el correspondiente apercibimiento.
+
+6\. Los Subinspectores Laborales podrán proceder en cualquiera de las formas a que se refiere el artículo 27 del Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social, aprobado mediante Real Decreto 138/2000, de 4 de febrero, en las actuaciones que realicen en el ámbito de sus competencias.
+
+7\. Cuando los Subinspectores de Seguridad y Salud Laboral, como consecuencia de comprobaciones efectuadas en el ejercicio de sus funciones, tengan conocimiento de posibles irregularidades en materia de inscripción de empresas, afiliación, altas o bajas de trabajadores, o encuadramiento de empresas y trabajadores en el régimen adecuado de la Seguridad Social, lo comunicarán internamente, cumplimentando a tal efecto informe comprensivo de los hechos y circunstancias concurrentes, que gozarán de la presunción de certeza prevista en el artículo 23 de la Ley 23/2015, de 21 de julio. Dicho informe será remitido al Jefe de Equipo o, en su caso, al Inspector de Trabajo y Seguridad Social al que estén adscritos, a efectos de que por este, previa valoración jurídica de la situación y sin perjuicio de las actuaciones complementarias que considere oportuno llevar a cabo, se promueva, en su caso, el correspondiente procedimiento sancionador, liquidatorio o procedimiento de oficio a que se refiere el artículo 22.7 de la Ley 23/2015, de 21 de julio.
+
+Asimismo, cuando los Subinspectores de Seguridad y Salud Laboral en el ejercicio de las funciones específicas que tienen encomendadas comprueben la existencia de infracciones a la normativa en materia de prevención de riesgos laborales que pudieran haber sido la causa de la producción de un accidente de trabajo o de una enfermedad profesional, lo comunicarán al Jefe de Equipo, o, al Inspector de Trabajo y Seguridad Social al que estén adscritos. El Jefe de Equipo o el Inspector que reciba la comunicación, a la vista de las circunstancias concurrentes en relación con el tipo de infracción, los daños producidos en la salud y las consecuencias de los mismos, determinará la procedencia de investigar el accidente de trabajo o enfermedad profesional, e instar el recargo al que se refiere el artículo 22. 9 de la Ley 23/2015, de 21 de julio, si procediese.
+
+También comunicarán al Jefe de Equipo, o, en su caso al Inspector de Trabajo y Seguridad Social al que estén adscritos si, a su juicio, se dan las circunstancias para que este proceda a proponer recargos o reducciones en las primas de aseguramiento de accidentes de trabajo o enfermedades profesionales con base al comportamiento de la empresa en materia de prevención de riesgos y salud laboral. El Jefe de Equipo o el Inspector que reciba la comunicación, previa valoración de dichas circunstancias, procederá, en su caso, a proponer el recargo o reducción correspondiente.
+
+8\. En los supuestos en que la actuación inspectora afecte a una empresa establecida en un Estado Miembro de la Unión Europea o en un Estado signatario del Acuerdo sobre el Espacio Económico Europeo que desplace temporalmente sus trabajadores a España en el marco de una prestación de servicios transnacional y que los hechos comprobados pudieran ser sancionados por el Estado de establecimiento de la empresa, el Inspector de Trabajo y Seguridad Social o el Subinspector Laboral actuante a través del Jefe de Equipo, o, en su caso del Inspector de Trabajo y Seguridad Social al que esté adscrito, una vez concluidas las actividades comprobatorias, podrá proponer al Jefe de la Inspección Provincial, Director territorial o titular de la Dirección Especial, según el ámbito de la actuación, la comunicación de los hechos y el envío de la documentación a la autoridad competente del país de establecimiento para que inicie el procedimiento sancionador, solicitando la comunicación del resultado en el plazo máximo de veinticinco días hábiles. Todo ello sin perjuicio de adoptar otras medidas que se consideren pertinentes. En caso de que dicha autoridad no adoptara medidas sancionadoras, o transcurriera el plazo arriba citado sin que se hubiese recibido comunicación del resultado, la Inspección de Trabajo y Seguridad Social podrá retomar el procedimiento sancionador.
+
+Así mismo, los Jefes de la Inspección Provincial, Directores territoriales o Director de la Dirección Especial, en su caso, remitirán al Organismo Estatal Inspección de Trabajo y Seguridad Social, al que se refiere el artículo 27 de la Ley 23/2015, de 21 de julio, el resto de las solicitudes de colaboración e intercambio de información a las que se refiere el artículo 9 de la Ley 45/1999, de 29 de noviembre, sobre el desplazamiento de trabajadores en el marco de una prestación de servicios transnacional, para que sean cursadas al país correspondiente.
+
+> Se modifica el apartado 3, con efectos de 1 de enero de 2022, por el art. único.2 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica por el art. 2.2 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+> Se añade el apartado 7 por el art. único. 2 del Real Decreto 103/2010, de 5 de febrero. [Ref. BOE-A-2010-2883](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2883)
+
+###### Artículo 12. Extensión de actas de infracción y de liquidación.
+
+1\. La extensión de actas de infracción, cuando se constaten hechos constitutivos de infracción en el orden social, se realizará en los términos y condiciones establecidos en este artículo y en el capítulo III de este Reglamento.
+
+Los titulares de la Dirección Especial, Direcciones Territoriales, Jefaturas de las Inspecciones Provinciales y de sus Unidades especializadas podrán devolver las actas incompletas o defectuosas o que contraríen los criterios técnicos e interpretativos comunes establecidos para el desarrollo de la función inspectora, para que se corrija el defecto, y en cualquier momento podrán rectificar los errores materiales y de hecho y los aritméticos, de acuerdo con el artículo 109. 2 de la Ley 39/2015, de 31 de octubre.
+
+2\. Cuando como consecuencia del desarrollo de sus funciones se practicasen actas por los Subinspectores Laborales, serán supervisadas en cuanto a su corrección técnica por el Inspector de Trabajo y Seguridad Social al que estén adscritos, que podrá devolverlas si se formulasen incompletas, defectuosas o en contradicción con los criterios técnicos e interpretativos referidos en el apartado 1, para que se corrijan las deficiencias observadas, sin perjuicio del visado, si procediera.
+
+3\. Las actas de infracción que, en su ámbito funcional de actuación, practiquen los Subinspectores Laborales serán visadas por el Inspector de Trabajo y Seguridad Social del que técnicamente dependan, cuando correspondan a infracciones graves y muy graves en materias cuya vigilancia les esté atribuida, y constará en el acta que se notifique al presunto responsable.
+
+4\. Las actas de liquidación que, en su ámbito funcional de actuación, practiquen los Subinspectores pertenecientes a la Escala de Empleo y Seguridad Social serán visadas por el Inspector de Trabajo y Seguridad Social del que técnicamente dependan en todos los supuestos contemplados en el artículo 34 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre. No procederá el visado de las propuestas de liquidación de cuotas a que se refiere el artículo 33 del citado texto refundido.
+
+> Se modifica por el art. 2.3 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+### CAPÍTULO III — Procedimiento sancionador
+
+#### Sección 1.ª Disposiciones preliminares
+
+###### Artículo 13. Iniciación del procedimiento sancionador.
+
+1\. El procedimiento sancionador se iniciará de oficio, como resultado de la actividad inspectora previa, por acta de infracción de la Inspección de Trabajo y Seguridad Social, que se extenderá y tramitará de acuerdo con lo establecido en este capítulo, sin perjuicio de lo dispuesto en el capítulo IX.
+
+2\. El procedimiento de imposición de sanciones leves y graves a los solicitantes y beneficiarios de prestaciones de Seguridad Social, a que se refiere la Ley de Infracciones y Sanciones del Orden Social, se iniciará por la correspondiente entidad gestora, de conformidad con lo dispuesto en el capítulo VII de este Reglamento.
+
+> Se modifica el apartado 1, con efectos de 1 de enero de 2022, por el art. único.3 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 14. Contenido de las actas de infracción.
+
+1\. Las actas de infracción de la Inspección de Trabajo y Seguridad Social habrán de reflejar:
+
+a) Nombre y apellidos o razón social, domicilio, actividad, documento nacional de identidad, número de identificación fiscal, código de cuenta de cotización a la Seguridad Social y, en su caso, número de Seguridad Social de autónomos, del presunto sujeto infractor. Si se comprobase la concurrencia de responsable subsidiario o solidario, se hará constar tal circunstancia, fundamentación fáctica y jurídica de su presunta responsabilidad y los mismos datos exigidos para el sujeto responsable directo.
+
+b) Los hechos comprobados por el funcionario actuante, con expresión de los relevantes a efectos de la tipificación de la infracción, los medios utilizados para la comprobación de los hechos que fundamentan el acta, y los criterios en que se fundamenta la graduación de la propuesta da sanción; asimismo, consignará si la actuación ha sido mediante visita, comparecencia o por expediente administrativo.
+
+c) La infracción o infracciones presuntamente cometidas, con expresión del precepto o preceptos vulnerados, y su calificación.
+
+d) Número de trabajadores de la empresa y número de trabajadores afectados por la infracción, cuando tal requisito sirva para graduar la sanción o, en su caso, calificar la infracción.
+
+e) La propuesta de sanción, su graduación y cuantificación, que será el total de las sanciones propuestas si se apreciase más de una infracción. Se incluirá expresamente la propuesta de las sanciones accesorias que procedan como vinculadas a la sanción principal.
+
+Si la sanción propuesta tuviera exclusivamente carácter pecuniario, se hará mención a la posibilidad de aplicar a dicha sanción el porcentaje de reducción previsto en el apartado 6, siempre y cuando el sujeto infractor declare su voluntad de proceder al pago, en los términos y plazos que se indican en el artículo 17, y renuncie al ejercicio de cualquier acción, alegación o recurso en vía administrativa contra la sanción.»
+
+f) Órgano competente para resolver y órgano competente para realizar los actos de instrucción y ordenación del expediente sancionador y plazo para la interposición de las alegaciones ante éste.
+
+g) Indicación del funcionario que levanta el acta de infracción y firma del mismo y, en su caso, visado del Inspector de Trabajo y Seguridad Social con su firma e indicación del que la efectúe.
+
+h) Fecha del acta de infracción.
+
+2\. El Inspector actuante determinará en el acta las medidas que estimase necesario establecer con carácter provisional para asegurar la eficacia de la resolución y evitar el mantenimiento de los efectos de la infracción, de conformidad con el artículo 56 de la Ley 39/2015, de 1 de octubre, y demás normativa de aplicación a cada caso; dichas medidas deben ser proporcionadas al caso.
+
+3\. Cuando el Inspector de Trabajo y Seguridad Social que levante el acta considere que de la presunta infracción se derivan perjuicios económicos para los trabajadores afectados, y a los efectos de lo previsto en el artículo 146.a) del texto refundido de la Ley de Procedimiento Laboral, podrá incluirlos en el acta consignándolos, en tal caso, con los requisitos exigidos para la validez de las demandas.
+
+4\. Las actas de infracción por infracciones graves que conlleven la expedición de actas o propuestas de liquidación por los mismos hechos, se formalizarán simultáneamente con las liquidaciones.
+
+5\. La aplicación de la reincidencia exige que se señale tal circunstancia y su causa, y que se trate de infracciones del mismo tipo y calificación, que la resolución sancionadora de la primera infracción haya adquirido firmeza en vía administrativa, y que entre la fecha de notificación de dicha resolución sancionadora y la comprobación de la segunda infracción no haya transcurrido más de 365 días. Si se apreciase reincidencia, la cuantía de las sanciones podrá incrementarse en la forma establecida por la legislación vigente.
+
+6\. En los supuestos de infracciones para las cuales se proponga una sanción que tenga carácter exclusivamente pecuniario, si el sujeto responsable procediese al pago de la sanción propuesta en el acta con carácter previo a la resolución, en el plazo establecido al efecto, y renunciase al ejercicio de cualquier acción, alegación o recurso en vía administrativa, dicho pago llevará implícito el reconocimiento de responsabilidad y el importe de la sanción se reducirá en un 40 por ciento.
+
+Esta reducción estará condicionada a la realización del pago por parte del sujeto responsable con carácter previo a la resolución, en el plazo previsto a tal efecto.
+
+Cuando, conforme a lo previsto por el artículo 16, se acumulasen en una misma acta diversas infracciones, la reducción prevista en los párrafos anteriores se aplicará sobre el importe total de la propuesta de sanción.
+
+Las sanciones propuestas en aquellas actas de infracción concurrentes con actas de liquidación por los mismos hechos, únicamente podrán ser objeto de reducción, en los términos establecidos en el artículo 34.2, no siendo de aplicación la reducción prevista en el presente apartado.
+
+En aquellos supuestos en los que concurran distintos sujetos responsables respecto de una misma infracción, para la aplicación de la reducción de la sanción será preciso que, al menos uno de dichos sujetos solicite el pago con carácter previo a la resolución, y que ninguno de los otros presente alegaciones al acta de infracción, efectuándose el pago en el plazo previsto, todo ello sin perjuicio de las responsabilidades previstas para otros procedimientos distintos del regulado en este Reglamento.
+
+> Se modifican los apartados 1.e), 2 y se añade el 6, con efectos de 1 de enero de 2022, por el art. único.4 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifican los apartados 1 y 5 por el art. único.5 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 15. Valor probatorio de las actas de los funcionarios de la Inspección de Trabajo y Seguridad Social.
+
+Las actas extendidas por la Inspección de Trabajo y Seguridad Social tienen naturaleza de documentos públicos. Las actas formalizadas con arreglo a los requisitos establecidos en el artículo anterior estarán dotadas de presunción de certeza de los hechos y circunstancias reflejados en la misma que hayan sido constatados por el funcionario actuante, salvo prueba en contrario, de conformidad con lo establecido en la disposición adicional cuarta.2 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+###### Artículo 16. Acumulación.
+
+Cuando en una misma actuación inspectora se apreciasen varias presuntas infracciones, deberán acumularse en una sola acta las correspondientes a una misma materia, entendiendo por tales las infracciones en las materias de relaciones laborales, de prevención de riesgos laborales, de Seguridad Social, de colocación y empleo, de movimientos migratorios y trabajo de extranjeros y las motivadas por obstrucción.
+
+No procederá la acumulación en los casos de tramitación simultánea de actas de infracción y liquidación por los mismos hechos, cuando concurran supuestos de responsabilidad solidaria o subsidiaria, o en las infracciones relacionadas causalmente con un accidente de trabajo o enfermedad profesional. Tampoco procederá la acumulación en los supuestos en los que concurran infracciones que conlleven sanciones exclusivamente pecuniarias con otras en las que, aunque sean de una misma materia, se propongan sanciones accesorias junto a la sanción principal.
+
+En todo caso, la acumulación de infracciones respetará la distribución de competencias entre los órganos de la Administración General del Estado y entre estos y los de la comunidad autónoma respectiva.
+
+> Se modifica, con efectos de 1 de enero de 2022, por el art. único.5 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica por el art. único.6 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+#### Sección 2.ª Tramitación y resolución del procedimiento
+
+###### Artículo 17. Notificación de las actas de infracción, alegaciones y conformidad del sujeto responsable.
+
+1\. Las actas de infracción serán notificadas al presunto sujeto o sujetos responsables en el plazo de diez días hábiles contados a partir del término de la actuación inspectora, entendiéndose por ésta la de la fecha del acta, advirtiéndoles que podrán formular escrito de alegaciones en el plazo de quince días hábiles contados desde el siguiente a su notificación, acompañado de la prueba que estimen pertinente, ante el órgano instructor del expediente y que, en caso de no efectuar alegaciones, el acta de infracción podrá ser considerada propuesta de resolución, con los efectos previstos en los artículos 18 y 18 bis.
+
+En aquellos supuestos en los que la sanción propuesta tenga carácter exclusivamente pecuniario y no se proponga sanción accesoria, se advertirá al sujeto responsable de que, en el mismo plazo de quince días, podrá presentar ante el órgano instructor escrito manifestando su voluntad de pago de la sanción propuesta en el acta con carácter previo a la resolución que ponga fin al procedimiento y su renuncia al ejercicio de cualquier acción, alegación o recurso en vía administrativa.
+
+En los casos en los que concurran distintos sujetos responsables respecto de una misma infracción, cuando alguno de ellos hubiese manifestado su voluntad de pago con carácter previo a la resolución y alguno de los otros hubiese presentado alegaciones, se comunicará a aquel que no cabe la aplicación de la reducción prevista en el artículo 14, concediéndole un plazo adicional de quince días para presentar alegaciones, y se continuará el procedimiento de forma ordinaria.
+
+No obstante, si alguno de los sujetos responsables mostrase su voluntad de acogerse a la reducción de la sanción prevista en el artículo 14 y hubiese otros responsables que no efectuasen alegaciones ni solicitasen la reducción de la sanción, se remitirá a todos ellos el documento de pago con la reducción correspondiente y se continuará el procedimiento en la forma prevista en los artículos 18 y 18 bis.
+
+2\. Cuando el acta de infracción afecte a solicitantes y beneficiarios de prestaciones, se comunicará, de forma simultánea, al órgano o entidad gestora correspondiente, a efectos de la adopción de la suspensión cautelar prevista en la normativa aplicable.
+
+3\. Las actas de infracción y las de liquidación por los mismos hechos se notificarán al presunto sujeto o sujetos responsables simultáneamente, pudiendo ser objeto de alegaciones conforme al procedimiento establecido para las actas de liquidación, de conformidad con lo previsto en el artículo 34 de este Reglamento.
+
+4\. El sujeto o sujetos responsables que formulen alegaciones frente al acta, tendrán derecho a vista de los documentos obrantes en el expediente, sin más excepciones que las necesarias para asegurar la confidencialidad del origen de cualquier queja, de conformidad con el artículo 15.c del Convenio número 81 de la Organización Internacional del Trabajo y el artículo 12.1 de la Ley 42/1997, de 14 de noviembre.
+
+> Se modifica, con efectos del 1 de enero de 2022, el título y el apartado 1 por el art. único.6 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica por el art. único.7 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 18. Tramitación e instrucción del expediente.
+
+1\. La ordenación de la tramitación del expediente sancionador corresponderá al órgano que disponga de competencia para su resolución, con sujeción a lo establecido en este artículo y en las normas que rigen el procedimiento administrativo.
+
+2\. Si no se formalizase escrito de alegaciones, continuará la tramitación del procedimiento hasta dictar la resolución que corresponda, cumplimentándose, con carácter previo, el trámite de audiencia en favor del presunto responsable.
+
+3\. Si se formulasen alegaciones en plazo contra el acta de infracción, el órgano al que corresponda resolverlas podrá recabar informe ampliatorio, que se emitirá en quince días, del Inspector o Subinspector que practicó el acta, que asumirá las funciones de instructor del expediente. El citado informe será preceptivo si en las alegaciones se invocan hechos o circunstancias distintos a los consignados en el acta, insuficiencia del relato fáctico de la misma, o indefensión por cualquier causa.
+
+Dicho informe valorará expresamente las pruebas aportadas o que se hubiesen practicado, y las alegaciones producidas, y contendrá propuesta definitiva de resolución. Si el expediente derivara de acta visada por Inspector, el informe del Subinspector que la practicó será objeto de conformidad por el Inspector que visó el acta originadora de actuaciones, en los términos que establece el artículo 12.2 y 3 de este Reglamento.
+
+4\. Terminada la instrucción y antes de dictar resolución, si se hubiesen formulado alegaciones, el órgano competente para resolver el expediente dará audiencia al supuesto responsable por término de ocho días con vista a lo actuado, siempre que de las diligencias practicadas se desprenda la invocación o concurrencia de hechos distintos a los reseñados en el acta, pudiendo formular nuevas alegaciones por término de otros tres días, a cuyo término quedará visto para resolución.
+
+5\. Si el acta de infracción se hubiere practicado por los mismos hechos que motiven acta de liquidación, la presentación de alegaciones o de recurso contra una de ellas se entenderá como formulado también contra la otra, salvo que expresamente se manifieste lo contrario, procediéndose en tal supuesto en la forma establecida en el capítulo VI de este Reglamento.
+
+> Se declara que el apartado 3 vulnera las competencias de la Generalidad de Cataluña en los términos señalados en el último párrafo del fundamento jurídico 7, por Sentencia del TC 51/2006, de 16 de febrero. [Ref. BOE-T-2006-4765](https://www.boe.es/buscar/doc.php?id=BOE-T-2006-4765)
+
+###### Artículo 18 bis. Tramitación e instrucción del expediente sancionador en el ámbito de la Administración General del Estado.
+
+1\. En el ámbito de la Administración General del Estado, la instrucción y ordenación del procedimiento sancionador corresponderá a la Jefatura de Unidad Especializada de Seguridad Social, finalizando la ordenación del expediente con propuesta de resolución, incluyendo, en su caso, la propuesta de sanciones accesorias, que se remitirá al órgano competente para resolver junto con el expediente administrativo sancionador, con una antelación mínima de quince días al del vencimiento del plazo para dictar resolución establecido en el artículo 20.3 de este Reglamento.
+
+2\. Si no se formalizase escrito de alegaciones, continuará la tramitación del procedimiento hasta dictar la propuesta de resolución que corresponda.
+
+3\. Si se formulasen alegaciones en plazo contra el acta de infracción, el Jefe de la Unidad Especializada de Seguridad Social podrá recabar informe ampliatorio, que se emitirá en quince días, del Inspector o Subinspector que practicó el acta. El citado informe será preceptivo si en las alegaciones se invocan hechos o circunstancias distintos a los consignados en el acta, insuficiencia del relato fáctico de la misma, o indefensión por cualquier causa.
+
+Dicho informe valorará expresamente las pruebas aportadas o que se hubiesen practicado, y las alegaciones producidas. Si el expediente derivara de acta visada por Inspector, el informe del Subinspector que la practicó será objeto de conformidad por el Inspector que visó el acta originadora de actuaciones, en los términos que establece el artículo 12, apartados 2 y 3, de este Reglamento.
+
+Recibidas las alegaciones o transcurrido el plazo señalado para efectuar las mismas, podrá acordar la apertura del período de prueba, de conformidad con lo previsto en el artículo 17 del Reglamento del procedimiento para el ejercicio de la potestad sancionadora, aprobado por Real Decreto 1398/1993, de 4 de agosto.
+
+4\. Cuando de las diligencias practicadas se desprenda la invocación o concurrencia de hechos distintos a los reseñados en el acta, el órgano instructor, antes de emitir su propuesta de resolución, dará audiencia al supuesto responsable por término de ocho días con vista de lo actuado. Realizado el trámite de audiencia, el sujeto responsable podrá formular nuevas alegaciones por término de otros tres días, a cuyo término quedará visto para realizar la propuesta de resolución correspondiente, que deberá remitirse al órgano competente para resolver con la antelación prevista en el apartado primero de este artículo.
+
+5\. Si el acta de infracción se hubiere practicado por los mismos hechos que motiven acta de liquidación, la presentación de alegaciones o de recurso contra una de ellas se entenderá como formulado también contra la otra, salvo que expresamente se manifieste lo contrario, procediéndose en tal supuesto en la forma establecida en el capítulo VI de este Reglamento.
+
+6\. En aquellos casos en que la imposición de sanciones en el orden social en el ámbito de la Administración General del Estado corresponda a los Jefes de las Inspecciones Provinciales, y concurra en éstos la doble condición de Jefe de Inspección provincial y Jefe de Unidad Especializada de Seguridad Social, deberán asignar las funciones de instrucción y ordenación del expediente a un funcionario dependiente orgánicamente de la Administración General del Estado.
+
+7\. Cuando el sujeto responsable hubiese manifestado su voluntad de proceder al pago de la sanción con carácter previo a la resolución, se le facilitarán los documentos o instrucciones precisas para el pago de la sanción, en el plazo fijado al efecto y en la cuantía correspondiente, una vez aplicado el porcentaje de reducción del 40 por ciento.
+
+Dicho pago deberá realizarse y acreditarse ante el órgano instructor en un plazo máximo de diez días hábiles desde el siguiente a la notificación de la documentación precisa para realizarlo.
+
+Transcurrido dicho plazo, una vez comprobada la realización o no del pago de la sanción, el órgano competente para la instrucción del procedimiento dictará su propuesta de resolución, que indicará, bien la realización del pago y la fecha de cobro o bien la falta de pago.
+
+> Se añade el apartado 7, con efectos de 1 de enero de 2022, por el art. único.8 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se añade por el art. único.9 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 19. Procedimiento de oficio ante el orden jurisdiccional social, derivado de comunicaciones de la autoridad laboral.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.2 de la Ley 3/2023, de 28 de febrero. [Ref. BOE-A-2023-5365](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-5365)
+
+> Se modifica por el art. único.10 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 20. Resolución.
+
+1\. El órgano competente para resolver, previas las diligencias que estime necesarias, dictará la resolución motivada que proceda en el plazo de diez días desde el momento en que finalice la tramitación del expediente, confirmando, modificando o dejando sin efecto la propuesta de sanción contenida en el acta. Si se dejase sin efecto, se ordenará el archivo del expediente y, en su caso, el levantamiento de las medidas de carácter provisional adoptadas a que se refiere el artículo 14.2.
+
+La resolución acordará la anulación del acta cuando ésta carezca de los requisitos imprescindibles para alcanzar su fin, o cuando dé lugar a la indefensión de los interesados y no se hubiese subsanado en la tramitación previa a la resolución.
+
+La resolución que confirme el acta aplicará, en su caso, el porcentaje de reducción de la sanción previsto.
+
+Cuando el sujeto responsable hubiese manifestado su voluntad de proceder al pago de la sanción antes de la resolución del procedimiento y, cumplido el plazo establecido para realizar dicho pago, no hubiese ingresado y acreditado la cuantía prevista, la resolución se dictará en el sentido previsto en el párrafo primero.
+
+2\. La resolución decidirá de forma expresa, en su caso, sobre la propuesta de sanciones accesorias previstas en la Ley de Infracciones y Sanciones del Orden Social.
+
+3\. El plazo máximo para resolver los expedientes sancionadores por infracciones de orden social será de seis meses, computados desde la fecha del acta hasta la fecha en que se notifique la resolución, produciéndose en caso de superación de dicho plazo la caducidad del expediente. Cuando concurran circunstancias excepcionales, podrá acordarse la ampliación de dicho plazo máximo, en los términos previstos en los artículos 21.5 y 23 de la Ley 39/2015, de 1 de octubre.
+
+No se computarán dentro del plazo máximo para resolver las interrupciones por causas imputables a los interesados o motivadas por la suspensión del procedimiento a que se refiere este Reglamento.
+
+Tampoco se computará en dicho plazo máximo para resolver el tiempo transcurrido desde la fecha de remisión de la notificación en la que se facilite la documentación precisa para llevar a cabo el pago al sujeto responsable que hubiese manifestado su intención de pagar la sanción con carácter previo a la resolución y el último día del plazo máximo para que se lleve a cabo dicho pago y su correspondiente acreditación.
+
+> Se modifican los apartados 1 y 3, con efectos de 1 de enero de 2022, por el art. único.9 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica el apartado 3 por el art. único.11 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+###### Artículo 21. Notificación de la resolución.
+
+1\. Las resoluciones recaídas en los procedimientos sancionadores por infracciones de orden social serán notificadas a los interesados, advirtiéndoles de los recursos que correspondan contra ellas, órgano administrativo o judicial ante el que hubieran de presentarse y plazo para interponerlos. Cuando el sujeto infractor hubiese hecho efectivo el pago de la sanción con carácter previo a la resolución, se le indicará la imposibilidad de interponer cualquier recurso o acción en vía administrativa contra la resolución. Asimismo, se remitirá copia del acto al funcionario que hubiere promovido el expediente.
+
+Si se imponen sanciones pecuniarias, la notificación contendrá, además:
+
+a) El importe a ingresar o el efectivamente ingresado, en caso de haber optado el sujeto responsable por el pago anticipado de la sanción.
+
+b) El plazo, lugar y forma de ingreso en período voluntario, en caso de no haberse procedido por el pago de la sanción con carácter previo a la resolución.
+
+c) La prevención de que, transcurrido dicho período sin efectuarse el ingreso y de no haberse interpuesto, en su caso, el correspondiente recurso de alzada, se devengará inmediatamente el recargo de apremio e intereses de demora y se procederá al cobro y, en su caso, ejecución, por el procedimiento administrativo de apremio que corresponda, salvo en los supuestos del artículo 25.2.
+
+2\. Cuando la resolución haya sido dictada por las correspondientes entidades gestoras o servicios comunes de la Seguridad Social, o por el Servicio Público de Empleo Estatal, de acuerdo con lo establecido en este Reglamento, se remitirá copia de la resolución que recaiga al Jefe de la Unidad Especializada de Seguridad Social de la Inspección de Trabajo y Seguridad Social que hubiera efectuado la propuesta de resolución correspondiente.
+
+3\. Cuando la resolución imponga sanciones accesorias o declare la responsabilidad solidaria del empresario respecto de la devolución de las cantidades indebidamente percibidas por el trabajador, se comunicará a los correspondientes organismos y entidades gestoras al día siguiente de la fecha en que se dicte.
+
+4\. Las resoluciones firmes que aprecien la existencia de perjuicios económicos a los trabajadores afectados podrán comunicarse al órgano judicial competente a los efectos de la iniciación del procedimiento de oficio regulado en el artículo 146.a) del texto refundido de la Ley de Procedimiento Laboral.
+
+5\. Cuando el acta de infracción se haya levantado con ocasión de accidente de trabajo o enfermedad profesional, se trasladará copia de la resolución confirmatoria a los trabajadores afectados, o a sus derechohabientes en caso de fallecimiento del trabajador.
+
+6\. Si la infracción recogida en el acta constituye vulneración del derecho a la libertad sindical o de los derechos de representación de los trabajadores, se trasladará copia de la resolución recaída a los representantes legales de los trabajadores.
+
+> Se modifica el apartado 1, con efectos de 1 de enero de 2022, por el art. único.10 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica el apartado 2 por el art. único.12 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+### CAPÍTULO IV — Recursos, ejecución de resoluciones y recaudación
+
+###### Artículo 22. Del cómputo de los términos y plazos.
+
+El cómputo de los términos y plazos establecidos en este reglamento, y el régimen de notificaciones y comunicaciones, se ajustará a lo dispuesto en la Ley 39/2015, de 1 de octubre, en este reglamento y en sus normas de desarrollo.
+
+> Se modifica, con efectos de 6 de marzo de 2024, por el art. 1.2 del Real Decreto 1011/2023, de 5 de diciembre. [Ref. BOE-A-2023-24844](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24844)
+
+> Se modifica, con efectos de 1 de enero de 2022, por el art. único.11 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 23. Recurso de alzada.
+
+1\. Contra las resoluciones previstas en el capítulo anterior, se podrá interponer recurso de alzada en el plazo de un mes ante el órgano superior competente por razón de la materia, de acuerdo con lo dispuesto en el artículo 4, cuya resolución agotará la vía administrativa.
+
+No cabrá recurso de alzada en aquellos casos en los que, de acuerdo con lo previsto en el artículo 14.6, el sujeto responsable abone efectivamente la sanción con carácter previo a la resolución.
+
+Las resoluciones dictadas por los Directores Generales competentes por razón de la cuantía que no pongan fin a la vía administrativa y las dictadas por el Secretario de Estado de la Seguridad Social y Pensiones, podrán ser objeto de recurso de alzada ante la persona titular del Ministerio competente por razón de la materia. Los actos administrativos de la persona titular del Ministerio competente y del Consejo de Ministros agotarán la vía administrativa.
+
+En el ámbito de competencia de las comunidades autónomas, corresponderá a éstas la determinación de los órganos competentes para la resolución del recurso de alzada.
+
+2\. En lo no regulado por el apartado anterior, el recurso de alzada se regirá por lo establecido en la Ley 39/2015, de 1 de octubre. Transcurridos tres meses desde la interposición del recurso sin que recaiga resolución, se podrá entender desestimado y quedará expedita la vía jurisdiccional.
+
+> Se modifica, con efectos de 1 de enero de 2022, por el art. único.12 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 24. Ejecución.
+
+1\. Las resoluciones sancionadoras firmes en vía administrativa serán inmediatamente ejecutivas.
+
+2\. Las medidas de intervención temporal y remoción de órganos de gobierno de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, las sanciones a los empresarios que colaboren voluntariamente en la gestión de la Seguridad Social, las sanciones accesorias previstas en el artículo 45 de la Ley de Infracciones y Sanciones en el Orden Social y el reintegro de prestaciones indebidas se ejecutarán por la Secretaría de Estado para la Seguridad Social o por la entidad gestora competente, una vez que sea firme en vía administrativa la resolución que las impone.
+
+3\. Las medidas cautelares previstas en el artícu lo 74.2 del texto refundido de la Ley General de la Seguridad Social respecto de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales, podrán adoptarse de forma inmediata previa audiencia de la entidad.
+
+###### Artículo 25. Recaudación del importe de las sanciones.
+
+1\. Las sanciones pecuniarias a que se refiere este Reglamento, impuestas por órganos de la Administración General del Estado, excepto por infracciones en materia de Seguridad Social, serán recaudadas por el procedimiento establecido en el Reglamento General de Recaudación, aprobado por el Real Decreto 939/2005, de 29 de julio, correspondiendo la recaudación en período voluntario a las Delegaciones de Economía y Hacienda y en período ejecutivo a la Agencia Estatal de la Administración Tributaria.
+
+El plazo de ingreso en período voluntario será de treinta días desde el siguiente a la fecha de notificación de la resolución que imponga la sanción. Cuando ésta sea recurrida en vía administrativa, en la resolución del recurso se concederá, en su caso, un nuevo plazo de quince días para el ingreso.
+
+No obstante, en el supuesto de pago de la sanción por parte del sujeto infractor con carácter previo a la resolución, el plazo de ingreso de la misma será el previsto por el artículo 18 bis.7.
+
+2\. Las sanciones pecuniarias impuestas por órganos de la Administración General del Estado por infracciones en materia de Seguridad Social serán hechas efectivas en la Tesorería General de la Seguridad Social, que procederá a su reclamación a los solos efectos recaudatorios en los términos establecidos en el Reglamento General de Recaudación de la Seguridad Social, aprobado por Real Decreto 1415/2004, de 11 de junio. A tal efecto se le remitirá certificación del acto firme en vía administrativa para que, a los solos efectos recaudatorios y sin posibilidad de revisión, proceda a su reclamación. No obstante, cuando la competencia para la imposición de sanciones pecuniarias le corresponda a la Tesorería General de la Seguridad Social, en la resolución que se dicte al efecto, se liquidará además la sanción correspondiente y se procederá a requerir su pago.
+
+De la efectividad del pago se dará cuenta por dicha Tesorería General de la Seguridad Social, en el plazo de diez días hábiles, al órgano competente para resolver. De no efectuarse el ingreso en los plazos señalados, se instará la recaudación en vía ejecutiva por los órganos y procedimientos establecidos en el Reglamento General de Recaudación de la Seguridad Social.
+
+En el supuesto de pago de la sanción por parte del sujeto infractor con carácter previo a la resolución, el plazo de ingreso de dicha sanción será el previsto por el artículo 18 bis.7. El órgano competente para resolver lo comunicará a la Tesorería General de la Seguridad Social a los solos efectos informativos.
+
+3\. Las sanciones impuestas en el ámbito de sus competencias por órganos de las Comunidades Autónomas serán recaudadas por los órganos y procedimientos establecidos en las normas que regulan la recaudación de los ingresos de derecho público de cada una de dichas Comunidades.
+
+4\. El ingreso de las sanciones a que se refieren los apartados anteriores, se comunicará a la Inspección de Trabajo y Seguridad Social que emitió las actas originadoras del expediente sancionador, con la periodicidad que se establezca en la Conferencia Sectorial.
+
+> Se modifican los apartados 1 y 2, con efectos de 1 de enero de 2022, por el art. único.13 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica por el art. único.13 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Se modifica el apartado 1 por el art. único. 3 del Real Decreto 103/2010, de 5 de febrero. [Ref. BOE-A-2010-2883](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2883)
+
+### CAPÍTULO V — Normas específicas
+
+###### Artículo 26. Suspensión de actividades o cierre de centro de trabajo.
+
+Cuando concurran circunstancias de excepcional gravedad en las infracciones referidas a la seguridad e higiene y salud laborales el Jefe de la Inspección Provincial de Trabajo y Seguridad Social lo pondrá en conocimiento del órgano correspondiente de la Comunidad Autónoma o de la Administración del Estado si no se hubiere transferido la competencia y, en su caso, de la autoridad central de la Inspección, al objeto de que se someta la suspensión temporal o el cierre del establecimiento a la aprobación del Gobierno o del órgano competente de la Comunidad Autónoma, de conformidad con lo previsto en el artículo 53 de la Ley de Prevención de Riesgos Laborales.
+
+###### Artículo 27. Recargo de prestaciones en caso de accidente de trabajo o enfermedad profesional por falta de medidas de seguridad.
+
+La Inspección de Trabajo y Seguridad Social está legitimada para iniciar el procedimiento administrativo para declarar la responsabilidad empresarial por falta de medidas de seguridad e higiene en el trabajo proponiendo el porcentaje de incremento que estime procedente, en aplicación del artículo 123 del texto refundido de la Ley General de la Seguridad Social, que es compatible con la responsabilidad administrativa, penal o civil que derive de los hechos constitutivos de la infracción.
+
+El informe-propuesta de dicha Inspección recogerá los hechos y circunstancias concurrentes, disposiciones infringidas, la causa concreta de las enumeradas en el artículo 123.1 del texto refundido citado que motive la propuesta y el porcentaje que considere procedente aplicar. Si se hubiese practicado acta de infracción y hubiese recaído resolución de la autoridad laboral sobre la misma, dicha resolución se aportará al expediente de iniciación. Si no se hubiere practicado previamente acta de infracción, en el informe-propuesta se justificará razonadamente tal circunstancia.
+
+###### Artículo 28. Medidas cautelares sobre entidades colaboradoras en la gestión del sistema de la Seguridad Social.
+
+1\. Cuando la Inspección de Trabajo y Seguridad Social considere que los hechos y circunstancias concurrentes en una infracción cometida por una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social puedan dar lugar a la adopción de alguna de las medidas cautelares previstas en el ar tículo 74 del texto refundido de la Ley General de la Seguridad Social, lo propondrá a la Secretaría de Estado de la Seguridad Social u órgano competente que iniciará el correspondiente procedimiento administrativo.
+
+2\. Cuando la Inspección de Trabajo y Seguridad Social estime que las deficiencias observadas en las infracciones cometidas por los empresarios que colaboran voluntariamente en la gestión de la Seguridad Social impiden el mantenimiento del régimen económico y presupuestario de colaboración establecido, y las circunstancias del caso lo requieran propondrá a la Secretaría de Estado de la Seguridad Social la aplicación de las sanciones previstas en la Ley de Infracciones y Sanciones en el Orden Social, sin perjuicio de iniciar el procedimiento sancionador ordinario.
+
+3\. En los casos a que se refieren los apartados anteriores, además del acta de infracción, se emitirá escrito propuesta que se remitirá a la Secretaría de Estado de la Seguridad Social u órgano competente a través de la autoridad central de la Inspección de Trabajo y Seguridad Social, a la que se comunicará la resolución que se adopte.
+
+### CAPÍTULO VI — De los expedientes de liquidación
+
+###### Artículo 29. Procedimiento administrativo para la tramitación de expedientes liquidatorios por deudas a la Seguridad Social.
+
+1\. La Inspección de Trabajo y Seguridad Social, en relación con las deudas por cuotas a la Seguridad Social y conceptos de ingreso conjunto con éstas, podrá formular propuestas de liquidación, actas de liquidación y requerimientos en los supuestos y con alcance que se establece en este capítulo.
+
+2\. El procedimiento administrativo para la práctica de actas de liquidación y demás documentos liquidatorios de cuotas a la Seguridad Social y conceptos de ingreso conjunto, se ajustará a las disposiciones de este capítulo y, subsidiariamente, a lo dispuesto en la Ley 39/2015, de 1 de octubre. Serán sujetos responsables quienes así resulten por aplicación de las normas reguladoras del Sistema de Seguridad Social.
+
+3\. La Inspección de Trabajo y Seguridad Social, sin perjuicio de su estructura y ámbito territorial de actuación, y de conformidad con la habilitación nacional reconocida por el artículo 2.1 de la Ley 42/1997, de 14 de noviembre, podrá desarrollar actuaciones inspectoras de alcance supraprovincial, relativas a deudas por cuotas a que se refiere este capítulo y el capítulo III, pudiendo iniciar expedientes liquidatorios y sancionadores del mismo alcance, atribuyendo la competencia para efectuar la propuesta de resolución al Jefe de la Unidad Especializada de Seguridad Social de la Inspección en cuyo ámbito funcional se hayan efectuado las actuaciones o, en su caso al Jefe de la Unidad Especializada de Seguridad Social de la Dirección Especial, de acuerdo con lo previsto en el artículo 18.3.9 de la Ley 42/1997, de 14 de noviembre, que, a estos efectos, tendrá la consideración de Inspección Provincial, siéndole de aplicación las atribuciones y cometidos establecidos para dichos órganos periféricos.
+
+4\. La Inspección de Trabajo y Seguridad Social extenderá las propuestas de liquidación y las actas de liquidación en modelos oficiales aprobados al efecto por el Subsecretario del Ministerio de Trabajo y Asuntos Sociales, a propuesta de la autoridad central, que podrá establecer las instrucciones internas para su cumplimentación.
+
+> Se modifica el apartado 2, con efectos de 1 de enero de 2022, por el art. único.14 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica el apartado 3 por el art. único.14 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 30. Propuestas de liquidación.
+
+1\. Procederá propuesta de liquidación de la Inspección de Trabajo y Seguridad Social, cuando la Inspección compruebe la falta total de cotización respecto de trabajadores dados de alta, y no se hubieran presentado los documentos de cotización en plazo reglamentario, así como por trabajadores en alta no figurados en tales documentos aunque éstos se presenten dentro de dicho plazo.
+
+2\. La propuesta de liquidación determinará, al menos, el sujeto obligado con sus datos de identificación, período de liquidación y circunstancias del descubierto, número de trabajadores afectados y su identificación, y forma en que se efectuó la comprobación inspectora. La propuesta contendrá la determinación de las bases de cotización y tipos aplicables por contingencias generales, profesionales, horas extraordinarias y cuantas otras sean aplicables, el recargo por mora, y el importe total de la liquidación, y será firmada por el Inspector o Subinspector actuante.
+
+3\. Las propuestas de liquidación de la Inspección se comunicarán a la Tesorería General de la Seguridad Social, que formalizará las correspondientes reclamaciones de deuda previstas en el artículo 30.1 del texto refundido de la Ley General de la Seguridad Social.
+
+4\. Si simultáneamente a la comprobación de descubiertos que den lugar a la práctica de propuestas de liquidación, la Inspección comprobase en el mismo sujeto la concurrencia de deuda originada por los supuestos contemplados en el artículo 31 de este Reglamento, extenderá acta de liquidación en lo que se refiere a estos últimos, sin perjuicio de proceder en la forma dispuesta en el apartado 1 respecto de los primeros.
+
+5\. En los supuestos en que se practique propuesta de liquidación de deudas de forma simultánea a la extensión de acta de infracción al mismo sujeto, la Tesorería General de la Seguridad Social comunicará al respectivo Jefe de la Unidad Especializada de Seguridad Social la formalización de la reclamación de deuda para coordinar la tramitación de ambos expedientes y, en su caso, de los sancionadores que concurrieren por los mismos hechos que motiven la propuesta de liquidación.
+
+> Se modifica el apartado 5 por el art. único.15 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 31. Actas de liquidación de cuotas.
+
+1\. Procederá la extensión de actas de liquidación en las deudas por cuotas originadas por:
+
+a) Falta de afiliación o de alta de trabajadores en cualquiera de los Regímenes del Sistema de la Seguridad Social.
+
+b) Diferencias de cotización por trabajadores dados de alta cuando dichas diferencias no resulten directamente de los documentos de cotización presentados dentro o fuera del plazo reglamentario.
+
+c) Por derivación de la responsabilidad del sujeto obligado al pago, cualquiera que sea su causa y Régimen de la Seguridad Social aplicable.
+
+2\. En los supuestos en que se compruebe la concurrencia de presuntos responsables solidarios, la Inspección de Trabajo y Seguridad Social podrá extender acta a todos los sujetos responsables o a uno de ellos, que se tramitarán en el mismo expediente.
+
+###### Artículo 32. Requisitos de las actas de liquidación.
+
+1\. Las actas de liquidación contendrán los siguientes requisitos:
+
+a) Determinación del Régimen de Seguridad Social de aplicación.
+
+b) Nombre y apellidos o razón social, domicilio, actividad, documento nacional de identidad o número de identificación fiscal, el código de cuenta de cotización en la Seguridad Social y, en su caso, número de identificación del Régimen Especial de Trabajadores Autónomos, del sujeto o sujetos responsables. Estos últimos datos podrán exceptuarse cuando la empresa no estuviera regularmente constituida o debidamente inscrita. En los supuestos que se compruebe la existencia de presunto responsable solidario o subsidiario, se hará constar tal circunstancia, así como el motivo de su presunta responsabilidad, señalándose también los datos anteriormente mencionados del supuesto responsable solidario o subsidiario.
+
+c) Los hechos comprobados por el funcionario actuante como motivadores de la liquidación y los elementos de convicción de que ha dispuesto en la labor inspectora, describiendo con la suficiente precisión tales hechos y los medios utilizados para su esclarecimiento; y las disposiciones infringidas con expresión del precepto o preceptos vulnerados. Los hechos así consignados gozan de presunción de certeza, salvo prueba en contrario.
+
+d) Los datos que hayan servido de base para calcular el débito: período de descubierto, relación nominal y grupo de cotización de los trabajadores afectados o, en su caso, relaciones contenidas en las declaraciones oficiales formuladas por el presunto responsable, referencia suficientemente identificadora del contenido de tales declaraciones, o relaciones nominales y de datos facilitadas y suscritas por el sujeto responsable; bases y tipos de cotización aplicados; y cuantos otros datos pueda el funcionario actuante obtener o deducir a los fines indicados. En los supuestos en que los datos de los documentos de cotización discreparan de los contenidos en las comunicaciones de inscripción de empresa, afiliación, altas y bajas de trabajadores y variaciones de datos, el acta de liquidación se calculará a partir de los datos de estas comunicaciones, salvo que quedara probado en el expediente la validez de los datos contenidos en los documentos de cotización.
+
+Las actas de liquidación por derivación de responsabilidad, con excepción de las extendidas en los supuestos de contratas y subcontratas, contendrán los datos referentes al período de deuda al que se contrae el acto de derivación, el número total de los trabajadores que se encuentran afectados por la derivación, y el importe de la deuda que se deriva, diferenciando por cada uno de los meses de deuda imputados la cuantía de la deuda principal, y los recargos, intereses y costas, en los supuestos que fueran procedentes. En este supuesto, se adjuntará al acta la documentación anterior que acredite la preexistencia de la deuda.
+
+En los supuestos de responsabilidad solidaria y subsidiaria en la contratación de obras o servicios previstos en el artículo 42 del Texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, y 127, apartado 1, del Texto refundido de la Ley General de la Seguridad Social, aprobado Real Decreto Legislativo 1/1994, de 20 de junio, las actas de liquidación contendrán los datos indicados en el párrafo anterior, y además la identificación de los trabajadores que hayan prestado servicios en la misma, o los criterios y medios utilizados para la imputación de la deuda si la identificación de los trabajadores ocupados no fuera posible.
+
+En las actas de liquidación por aplicación indebida de las bonificaciones en las cotizaciones a la Seguridad Social para la financiación de acciones formativas del subsistema de formación profesional continua, previstas en el artículo 31.1.d) del Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, se hará constar la cuantía de la bonificación practicada y el periodo al que corresponda. En los restantes supuestos de actas de liquidación por bonificaciones y reducciones en las cuotas y/ o conceptos de recaudación conjunta, bastará con consignar el periodo de descubierto, el trabajador afectado y la cuantía de la bonificación o reducción practicada.
+
+e) El importe principal de la deuda, y, en los supuestos que fueran procedentes, los recargos, intereses y costas devengadas hasta la fecha en que se extienda el acta, y la suma total de dichos concepto.
+
+f) La indicación de la entidad con la que tuviese concertada la contingencia de accidentes de trabajo y enfermedades profesionales.
+
+g) Indicación de si, por los mismos hechos, se practica o no acta de infracción.
+
+h) Indicación del funcionario que extiende el acta de liquidación con su firma y, en su caso, firma del inspector que la conforme con su visado.
+
+i) Indicación expresa de la posibilidad de alegaciones ante el correspondiente Jefe de la Unidad de la Inspección especializada en Seguridad Social, a las que se podrán acompañar las pruebas de que se disponga.
+
+j) Fecha del acta de liquidación.
+
+2\. La base de cotización se determinará de acuerdo con las normas que la regulan. Cuando la Inspección de Trabajo y Seguridad Social se vea en la imposibilidad de conocer el importe de las remuneraciones percibidas por el trabajador, se estimará como base de cotización la media entre la base mínima y máxima correspondiente al último grupo de cotización conocido en que estuviese encuadrada la categoría de cada trabajador comprendido en el acta de liquidación, haciendo constar expresamente dicha circunstancia en el acta.
+
+3\. Si la categoría profesional del trabajador no fuere conocida, se tomará como tal la que determine el Inspector de Trabajo y Seguridad Social, en función de las actividades del trabajador en la empresa, en aplicación de la normativa laboral que en cada caso corresponda. En los casos de polivalencia funcional o de realización de actividades propias de dos o más categorías profesionales, se estará a las que resulten preferentes en la forma antes indicada.
+
+4\. Las actas de liquidación extendidas por los Subinspectores de Empleo y Seguridad Social se formalizarán con el requisito esencial de su visado por el Inspector de Trabajo y Seguridad Social que corresponda, de conformidad con el artículo 8.4 de la Ley ordenadora de la Inspección de Trabajo y Seguridad Social y sus normas de aplicación en los términos y condiciones establecidos al respecto por el artículo 12 del presente Reglamento.
+
+> Se modifica el apartado 1.d) y e) por el art. único. 4 del Real Decreto 103/2010, de 5 de febrero. [Ref. BOE-A-2010-2883](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2883)
+
+###### Artículo 33. Notificación y resolución de las actas de liquidación.
+
+1\. Las actas de liquidación de cuotas serán notificadas por la Inspección de Trabajo y Seguridad Social al sujeto responsable así como, en su caso, a los responsables subsidiarios o solidarios, haciéndoles constar que podrán formular alegaciones en la forma establecida en el artículo anterior en el término de quince días a contar desde la fecha de la notificación. En el supuesto de responsabilidad solidaria las actas se tramitarán en el mismo expediente administrativo liquidatorio.
+
+También se notificará el acta de liquidación a los trabajadores interesados; si afectase a un colectivo de trabajadores, la notificación se efectuará a su representación unitaria o, en su defecto, al primero de los afectados por el orden alfabético de apellidos y nombre. Los trabajadores no conformes con los períodos y bases de cotización recogidas en el acta o con la procedencia de la liquidación, podrán formular alegaciones en las mismas condiciones que el presunto responsable. Asimismo, el acta se comunicará de inmediato a la Tesorería General de la Seguridad Social.
+
+Antes del vencimiento del plazo señalado para formular alegaciones, los interesados podrán ingresar el importe de la deuda señalada en el acta de liquidación, justificando el pago ante la Inspección de Trabajo y Seguridad Social en idéntico plazo. La liquidación provisional cuyo importe se haya hecho efectivo por el sujeto responsable, adquirirá el carácter de liquidación definitiva.
+
+2\. Si los obligados al pago y demás interesados a que se refiere el apartado anterior formulasen alegaciones, podrá solicitarse informe ampliatorio al Inspector o Subinspector que formuló el acta, y se dará vista y audiencia al alegante por plazo de diez días en que podrá alegar y probar nuevamente lo que estime conveniente.
+
+Transcurrido el plazo de alegaciones sin que se hayan formulado las mismas, o el de la audiencia y segundas alegaciones, el Jefe de la Unidad Especializada de Seguridad Social de la Inspección de Trabajo y Seguridad Social, efectuará propuesta de resolución que podrá proponer la elevación a definitiva de la liquidación practicada o bien la modificación o anulación del acta practicada. En la propuesta de resolución se fijarán de forma motivada los hechos probados y su calificación jurídica.
+
+Esta propuesta de resolución deberá remitirse, junto con los antecedentes y con la antelación mínima señalada en el apartado 1 del artículo 18 bis, al órgano competente de la Dirección General o Provincial de la Tesorería General de la Seguridad Social, que dictará resolución elevando a definitiva la liquidación que proceda, o bien modificando o anulando el acta practicada, la cual será notificada a los interesados. El plazo máximo para resolver los expedientes liquidatorios de cuotas será de seis meses, computados desde la fecha del acta hasta la fecha en que se dicte la resolución, en los mismos términos establecidos en el artículo 20.3 para el procedimiento sancionador.
+
+En los supuestos de derivación de responsabilidad, la resolución que se dicte determinará quién resulte ser el deudor principal y, en su caso, los restantes deudores solidarios y subsidiarios, entre los sujetos obligados al pago de la deuda, confiriendo al primero, desde dicho instante, los derechos y obligaciones de tal condición, en el mismo acto administrativo liquidatorio. El procedimiento recaudatorio podrá dirigirse contra cualquiera de los deudores solidarios recogidos en la resolución administrativa que se dicte o contra los subsidiarios, si concurriesen los supuestos legales para su exigencia.
+
+3\. Contra tales resoluciones cabe recurso de alzada ante el superior jerárquico del órgano que dictó el acto. Los importes señalados en las resoluciones del apartado anterior, sean o no objeto de recurso de alzada, deberán hacerse efectivos en la Tesorería General de la Seguridad Social, hasta el último día del mes siguiente al de su notificación, iniciándose, en otro caso, el procedimiento de apremio a que se refieren los artículos 33 y siguientes del texto refundido de la Ley General de la Seguridad Social, salvo que se garantice con aval bancario suficiente o se consigne el importe en los términos reglamentariamente establecidos en la Tesorería General de la Seguridad Social.
+
+Si se hubiese interpuesto recurso de alzada contra el acto administrativo liquidatorio, y se hubiese garantizado su importe con aval suficiente o consignado el mismo, se suspenderá el procedimiento recaudatorio hasta los quince días siguientes a aquel en que se notifique la resolución recaída sobre el recurso de alzada, en los términos establecidos en el Reglamento General de Recaudación de la Seguridad Social.
+
+Tales resoluciones agotan la vía administrativa y son susceptibles de recurso ante la jurisdicción contencioso-administrativa.
+
+4\. Los funcionarios de la Inspección de Trabajo y Seguridad Social que iniciaron los expedientes liquidatorios sobre los que hayan recaído resolución administrativa firme, podrán promover ante el Jefe de la Unidad Especializada de Seguridad Social que tramitó dichos expedientes, la formulación de propuesta de revisión de dicha resolución, ante el órgano de la Tesorería General de la Seguridad Social que la hubiese dictado, cuando estimen razonada y fundadamente que es manifiestamente ilegal y lesiva a los intereses generales, entendiendo que se dan dichos supuestos cuando la resolución infrinja gravemente normas de rango legal o reglamentario y atente también gravemente a los intereses económicos de la Seguridad Social. Si los documentos liquidatorios hubieran necesitado el trámite de visado por un Inspector de Trabajo y Seguridad Social, la propuesta de revisión requerirá el mismo requisito.
+
+El órgano de la Tesorería General de la Seguridad Social competente, previo dictamen favorable del Consejo de Estado, podrá declarar de oficio la nulidad de tal resolución, o promover la revisión ante la Jurisdicción Contencioso-administrativa en supuestos de anulabilidad, de acuerdo con el procedimiento regulado en el título V de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica el apartado 4, con efectos de 1 de enero de 2022, por el art. único.15 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+> Se modifica por el art. único.16 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Se declara la nulidad del inciso destacado del apartado 3 por Sentencia del TS, de 21 de julio de 2000. [Ref. BOE-A-2000-17665](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-17665)
+
+###### Artículo 34. Actas de liquidación concurrentes con actas de infracción por los mismos hechos.
+
+1\. Cuando se practiquen acta de infracción y acta de liquidación de cuotas por los mismos hechos, se procederá de la forma siguiente:
+
+a) Las actas de infracción y liquidación por los mismos hechos tendrán los requisitos formales exigidos para las mismas en el presente Reglamento. El acta de infracción podrá remitirse en cuanto a relato de hechos y demás circunstancias fácticas al contenido del acta de liquidación y sus anexos, haciéndolo constar expresamente.
+
+b) Ambas actas se practicarán con la misma fecha y se notificarán simultáneamente.
+
+c) En las actas de infracción a que se refiere este artículo, sólo cabrá la acumulación de infracciones que se refieran a hechos con efecto liquidatorio en la correspondiente acta de liquidación.
+
+d) El procedimiento aplicable a ambas será conjunto, y responderá al establecido para las actas de liquidación. La propuesta de resolución será única para ambas actas, y corresponderá al Jefe de Unidad especializada de Seguridad Social de la Inspección de Trabajo y Seguridad Social.
+
+En la propuesta de resolución se fijarán de forma motivada los hechos probados, su calificación jurídica y la cuantía de la sanción que se propone imponer.
+
+2\. Si el sujeto infractor diese su conformidad a la liquidación practicada, mediante el ingreso de su importe en el plazo establecido en el artículo 31.3 del texto refundido de la Ley General de la Seguridad Social, y, en su caso, en el señalado en el artículo 33.1, párrafo tercero, de este Reglamento, las sanciones por infracción por los mismos hechos se reducirán automáticamente al 50 por 100 de su cuantía. Esta reducción automática sólo podrá aplicarse en el supuesto de que la cuantía de la liquidación supere la de la sanción propuesta inicialmente.
+
+3\. Las resoluciones que recaigan se comunicarán al Jefe de Unidad Especializada de la Seguridad Social de la Inspección Provincial que haya emitido la propuesta de resolución, y se notificarán en forma a los interesados.
+
+4\. Contra las resoluciones unificadas a que se refiere el apartado 3 cabrá recurso de alzada, en las condiciones y con los requisitos establecidos en el artículo 33.3.
+
+5\. En el supuesto de que tenga lugar la comunicación prevista en el artículo 36 de este Reglamento, no procederá la unificación de procedimientos prevista en el apartado 1.
+
+> Se modifica el apartado 2 por la disposición final 1.3 de la Ley 13/2012, de 26 de diciembre. [Ref. BOE-A-2012-15596](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15596).
+
+> Se modifica por el art. único.17 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado el apartado 1.d) y 4 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+###### Artículo 35. Requerimientos de pago de cuotas.
+
+1\. Cuando en el ejercicio de su función, la Inspección de Trabajo y Seguridad Social comprobase la existencia de deudas por cuotas a la Seguridad Social o conceptos asimilados, podrá requerir a quien estime sujeto responsable de su pago para que proceda a su ingreso efectivo, absteniéndose de iniciar expedientes sancionador y liquidatorio a resultas de su cumplimiento.
+
+2\. En el requerimiento, que podrá formularse mediante diligencia en el Libro de Visitas a que se refiere el artículo 14.3 de la Ley 42/1997, o mediante notificación de escrito ordinario, se determinarán o referirán los elementos substanciales de la deuda para su regularización, el plazo o plazos para su ingreso efectivo en la Seguridad Social, y la obligación de justificación documental ante la Inspección de cada uno de los ingresos efectuados en los plazos establecidos al efecto en el requerimiento.
+
+3\. Si se incumpliese el requerimiento, se procederá a la práctica de las actas de liquidación y de infracción que procedan en los términos establecidos en los ar tículos precedentes y, en su caso, se actuará en la forma establecida en el artículo 36 de este Reglamento si hubiese base para ello.
+
+###### Artículo 36. Deudas con la Seguridad Social o con los sistemas públicos de protección social constitutivas de presunto delito.
+
+Cuando en el ejercicio de su función los Inspectores o Subinspectores comprobasen deudas por cuotas a la Seguridad Social y conceptos asimilados, o por disfrute indebido de prestaciones sociales o subvenciones públicas, si se apreciase la concurrencia de indicios racionales de posible comisión de delito, se procederá en la forma dispuesta en el artículo 5 de este Reglamento en cuanto a dación de cuenta al Ministerio Fiscal. Tal comunicación no suspenderá la tramitación y finalización de los expedientes liquidatorios o de exigencia de devolución de cantidades indebidamente percibidas en el ámbito de los sistemas públicos de protección social, ni a las eventuales actuaciones administrativas posteriores para su exacción.
+
+### CAPÍTULO VII — Procedimiento para la imposición de sanciones por infracciones de los solicitantes o beneficiarios de prestaciones del Sistema de Seguridad Social y de trabajadores autónomos solicitantes o beneficiarios de la prestación por cese de actividad.
+
+> Se modifica el título por la disposición adicional 3.1 del Real Decreto 1541/2011, de 31 de octubre. [Ref. BOE-A-2011-17173](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17173).
+
+> Esta modificación tiene efectos desde el 1 de noviembre de 2011, según establece la disposición final 3.
+
+> Se modifica el título por el art. único.18 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 37. Competencia para sancionar infracciones de los solicitantes o beneficiarios de prestaciones del Sistema de Seguridad Social.
+
+Los Directores provinciales del Instituto Nacional de Seguridad Social, del Instituto Social de la Marina o del Servicio Público de Empleo Estatal, en función de la naturaleza de la prestación, serán órganos competentes para sancionar las infracciones leves, graves y muy graves de los solicitantes o beneficiarios de prestaciones de la Seguridad Social.
+
+> Se modifica por el art. único.19 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+###### Artículo 37 bis. Procedimiento para la imposición de sanciones leves y graves a los solicitantes o beneficiarios de prestaciones del Sistema de Seguridad Social.
+
+1\. El procedimiento para sancionar las infracciones leves y graves se iniciará por comunicación de la Inspección de Trabajo y Seguridad Social a la entidad gestora competente, o como resultado de los antecedentes o datos obrantes en la propia entidad.
+
+2\. El escrito de iniciación del procedimiento sancionador deberá exponer los hechos constatados, forma de su comprobación, la infracción presuntamente cometida con expresión del precepto vulnerado, la reincidencia, en su caso, y la propuesta de sanción. Iniciado el procedimiento sancionador, se podrá proceder a la suspensión cautelar del disfrute de la prestación en los términos establecidos en el texto refundido de la Ley de Infracciones y Sanciones en el Orden Social, que en el supuesto de prestaciones o subsidios por desempleo supondrá la interrupción del abono de la prestación económica y de la cotización a la Seguridad Social.
+
+3\. El documento iniciador del procedimiento sancionador y, en su caso, la suspensión cautelar, se notificará por la entidad gestora al sujeto responsable, concediéndole un plazo de quince días hábiles para que alegue por escrito lo que a su derecho convenga y aporte las pruebas que considere necesarias, pudiendo solicitar el examen de la documentación que fundamente la iniciación del procedimiento sancionador en el plazo para alegaciones y pruebas.
+
+4\. A la vista de lo actuado el órgano competente dictará la resolución correspondiente, que pondrá fin a la vía administrativa, deberá notificarse al sujeto responsable, y será inmediatamente ejecutiva y recurrible ante los órganos jurisdiccionales del orden social, de conformidad con lo establecido en el artículo 2 del texto refundido de la Ley de Procedimiento Laboral y en el artículo 233 del texto refundido de la Ley General de la Seguridad Social.
+
+5\. La sanción impuesta sustituirá a la suspensión cautelar si ésta se hubiese adoptado; si se impusiera sanción de suspensión de la prestación o subsidio por desempleo supondrá la reducción del período de cotización a la Seguridad Social por tiempo igual al de la suspensión acordada. Si no se impusiese sanción, se reanudará de oficio la percepción de las prestaciones suspendidas cautelarmente, incluso con atrasos, siempre que el beneficiario reúna los requisitos para ello, o desde o hasta el momento en que estos concurran.
+
+6\. A los efectos previstos en el texto refundido de la Ley de Infracciones y Sanciones en el Orden Social, existirá reincidencia cuando el sujeto responsable cometa una infracción del mismo tipo y calificación que otra ya sancionada en firme en el plazo de los 365 días anteriores al de comisión de la que se examine conforme a lo previsto en el artículo 21 de este Reglamento. Si no se apreciase reincidencia, la comisión de posterior infracción será objeto de la sanción prevista en su calificación ordinaria.
+
+> Se añade por el art. único.20 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+###### Artículo 38. Procedimiento de suspensión cautelar y de imposición de sanciones por infracciones muy graves a los solicitantes o beneficiarios de prestaciones del Sistema de Seguridad Social.
+
+1\. Cuando la Inspección de Trabajo y Seguridad Social levante acta de infracción por infracción muy grave con propuesta de extinción de las prestaciones del Sistema de Seguridad Social, remitirá copia del acta a la entidad gestora competente para que proceda, en su caso, a la suspensión cautelar de las prestaciones o subsidios, que se notificará al interesado y que se mantendrá hasta la resolución definitiva del procedimiento sancionador.
+
+2\. El procedimiento a seguir para la imposición de sanciones por infracciones muy graves comprendidas en este Capítulo será el previsto en el artículo 18 bis para la tramitación y resolución de aquellos expedientes sancionadores en materia de competencia de la Administración General del Estado.
+
+3\. Agotada la vía administrativa con imposición de sanción por infracción muy grave, la entidad gestora reclamará los importes indebidamente percibidos conforme a la normativa de aplicación. El régimen de recursos de estas resoluciones es el previsto en el capítulo IV de este Reglamento General, sin perjuicio de lo previsto en el artículo 96.2 del texto refundido de la Ley General de la Seguridad Social.
+
+> Se modifica por el art. único.21 del Real Decreto 772/2011, de 3 de junio. [Ref. BOE-A-2011-10784](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-10784).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. [Ref. BOE-A-1998-15061](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-15061)
+
+###### Artículo 38 bis. Procedimiento para la imposición de sanciones a los trabajadores autónomos solicitantes o beneficiarios de la prestación por cese de actividad.
+
+1\. El procedimiento para la imposición de sanciones a los trabajadores autónomos solicitantes o beneficiarios de la prestación por cese de actividad se iniciará por acta de infracción de la Inspección de Trabajo y Seguridad Social.
+
+2\. El contenido de las actas, así como la tramitación y resolución del procedimiento sancionador se ajustarán a lo previsto en el capítulo III de este Reglamento para procedimientos sancionadores iniciados en el ámbito de la Administración General del Estado, sin perjuicio de las particularidades previstas en este artículo.
+
+3\. Instruido el expediente, el Jefe de la Unidad Especializada de Seguridad Social de la Inspección de Trabajo y Seguridad Social lo elevará con la propuesta de resolución al órgano competente para dictar la resolución. En el caso de que la gestión de la prestación corresponda a una Mutua de Accidentes de Trabajo y Enfermedades Profesionales, se le comunicará la propuesta de resolución, para su conocimiento.
+
+4\. En el caso de infracciones muy graves, se remitirá, en su caso, por el Jefe de la Unidad Especializada propuesta de suspensión cautelar del disfrute de la prestación, sobre la que deberá pronunciarse el órgano competente para resolver. Dicho acuerdo de suspensión supondrá la interrupción del abono de la prestación económica y de la cotización a la Seguridad Social.
+
+En el supuesto en que la gestión de la prestación por cese de actividad corresponda a una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, el órgano competente para resolver, remitirá copia del acuerdo de suspensión cautelar al órgano gestor para que proceda a hacer efectiva la misma, suspensión que se mantendrá hasta la resolución definitiva del procedimiento sancionador.
+
+5\. Las resoluciones recaídas en los procedimientos sancionadores serán susceptibles de recurso ante el Ministro de Trabajo e Inmigración. Dichas resoluciones serán también comunicadas al Jefe de la Unidad Especializada de Seguridad Social de la Inspección de Trabajo y Seguridad Social en la que se hubiera iniciado el procedimiento sancionador correspondiente.
+
+6\. Cuando la gestión de la prestación corresponda a una Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, el órgano competente para resolver, comunicará la resolución a dicho órgano gestor.
+
+> Se añade por la disposición adicional 3.2 del Real Decreto 1541/2011, de 31 de octubre. [Ref. BOE-A-2011-17173](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17173).
+
+> Esta modificación tiene efectos desde el 1 de noviembre de 2011, según establece la disposición final 3.
+
+## CAPÍTULO VIII — Procedimiento sancionador derivado de la actuación previa de funcionarios técnicos habilitados por las Comunidades Autónomas con competencias en ejecución de la legislación laboral, y del Instituto Nacional de Seguridad e Higiene en el Trabajo en las Ciudades de Ceuta y Melilla
+
+> Se añade por el art. 2 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+###### Artículo 39. Actuaciones comprobatorias de los funcionarios técnicos en prevención de riesgos laborales e inicio del procedimiento sancionador.
+
+1\. Conforme a lo establecido en el artículo 9.2 y 3 de la Ley 31/1995, de 8 de noviembre de Prevención de Riesgos Laborales, según su redacción dada por la Ley 54/2003, de 12 de diciembre, de reforma del marco normativo de prevención de riesgos laborales, los funcionarios públicos, técnicos en prevención de riesgos laborales, dependientes de las Comunidades Autónomas, así como los técnicos del Instituto Nacional de Seguridad e Higiene en el Trabajo, cuando se trate de lugares o centros en las Ciudades de Ceuta y Melilla, en el ejercicio de acciones de colaboración con la Inspección de Trabajo y Seguridad Social, pueden realizar actuaciones comprobatorias de las condiciones técnicas y materiales de seguridad de las empresas y centros de trabajo.
+
+Para ello deben contar con la debida habilitación de las autoridades autonómicas competentes, conforme a lo establecido en la disposición adicional decimoquinta de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y sus actuaciones comprobatorias deberán corresponderse con los planes de acción programados establecidos por la respectiva comisión territorial, conforme al artículo 17.2 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social. En el caso de los funcionarios del Instituto Nacional de Seguridad e Higiene, dicha habilitación será expedida por la autoridad central de la Inspección de Trabajo y Seguridad Social, a propuesta del referido Instituto.
+
+2\. Cuando los técnicos habilitados referidos en el apartado anterior, como consecuencia de las actuaciones de comprobación, hubieran extendido un requerimiento de subsanación de las deficiencias observadas, y en posterior visita de comprobación se deduzca la existencia de infracción por incumplimiento del requerimiento previo, lo pondrán en conocimiento de la Inspección de Trabajo y Seguridad Social, mediante informe, en el que se recogerán los hechos comprobados, a los efectos de que se levante la correspondiente acta de infracción, conforme a lo previsto en el artículo 9.3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+> Se añade por el art. 2 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+###### Artículo 40. Naturaleza y contenido del acta de infracción.
+
+1\. Cuando el acta de infracción en materia de prevención de riesgos laborales se extienda a la vista del informe emitido como consecuencia de las actuaciones practicadas previamente por funcionarios técnicos, habilitados por las Administraciones públicas a que se refiere este capítulo, se hará en el acta expresa mención de tal circunstancia y se indicará que se actúa por expediente administrativo.
+
+2\. En este supuesto, el acta de infracción deberá reflejar el contenido del apartado 1 del artículo 14, y se harán constar los elementos suficientes de comprobación y de convicción para efectuar la propuesta sancionadora, con las siguientes particularidades:
+
+a) La identificación del empresario o sujeto responsable será la prevista en el apartado 1.a) del artículo 14, si bien no exigirá el reflejo del código de cuenta de cotización o del número de identificación de autónomos, al tratarse de un acta de infracción en prevención de riesgos laborales.
+
+b) Deberá consignarse la identificación del técnico habilitado actuante que emitió el informe con expresión de su habilitación.
+
+c) El relato de los hechos será el del correspondiente informe sobre éstos, conforme a la comprobación realizada por el citado técnico habilitado, y se consignarán igualmente los demás datos contenidos en el informe que tengan relevancia para la tipificación y calificación de la infracción, y de graduación de la propuesta de sanción que el inspector considere procedentes.
+
+d) Los medios utilizados por el funcionario técnico habilitado en su comprobación.
+
+e) La fecha y el contenido del requerimiento de subsanación de la infracción observada, emitido por el técnico habilitado actuante, así como la fecha en que comprobó e hizo constar documentalmente su incumplimiento.
+
+En los supuestos en que el funcionario técnico actuante fuese objeto de obstrucción en las funciones para las que está habilitado, el acta de infracción dará cumplimiento, en lo que corresponda, a lo dispuesto en los párrafos a) y c).
+
+> Se añade por el art. 2 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+###### Artículo 41. Valor probatorio de las actas de infracción extendidas como consecuencia de informes emitidos por funcionarios técnicos habilitados.
+
+Las actas de infracción formalizadas con arreglo a los requisitos establecidos en el artículo 40 tendrán presunción de certeza respecto de los hechos reflejados en ellas que se correspondan con los que hayan sido constatados y reflejados en su informe por los funcionarios técnicos habilitados de las Administraciones públicas, salvo prueba en contrario, conforme a lo establecido en el artículo 9.3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en el artículo 53.5 del texto refundido de la Ley de infracciones y sanciones en el orden social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto.
+
+> Se añade por el art. 2 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+###### Artículo 42. Tramitación e instrucción de este tipo de expedientes sancionadores.
+
+En la tramitación de los expedientes iniciados por las actas de infracción a que se refiere este capítulo, se seguirá la misma tramitación e instrucción de carácter general prevista en el artículo 18, con la única particularidad de que si se formulasen alegaciones que afecten al relato fáctico de aquélla, el órgano competente para resolver podrá recabar informe ampliatorio del técnico habilitado que realizó las actuaciones comprobatorias, que lo emitirá en quince días.
+
+> Se añade por el art. 2 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+### CAPÍTULO IX — Del procedimiento sancionador promovido por actuación administrativa automatizada en el ámbito de la Administración General del Estado
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 43. Disposiciones generales relativas a la actuación administrativa automatizada.
+
+1\. Se entenderá por actividad automatizada, cualquier actuación realizada íntegramente a través de medios electrónicos por la Inspección de Trabajo y Seguridad Social en la que la intervención del personal con funciones inspectoras se produzca de forma indirecta.
+
+2\. En caso de actuación automatizada, deberá establecerse previamente y mediante resolución del Director del Organismo Estatal Inspección de Trabajo y Seguridad Social, que será publicada en sede electrónica, la determinación de los supuestos en los que se hará uso de dicha actuación, el órgano u órganos competentes según los casos, para la definición de especificaciones, programación, mantenimiento, supervisión y control de calidad del sistema de información. Asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación. En estos supuestos, el Organismo Estatal Inspección de Trabajo y Seguridad Social deberá identificarse y garantizar la autenticidad del ejercicio de su competencia mediante el uso del Sello Electrónico Cualificado de la Inspección de Trabajo y Seguridad Social.
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 44. Procedimiento promovido por actuación administrativa automatizada.
+
+1\. En el ámbito de la Administración General del Estado, el Organismo Estatal Inspección de Trabajo y Seguridad Social podrá generar a través de su sistema de información, mediante actuaciones administrativas automatizadas, las actas de infracción que resulten pertinentes en virtud de los datos, antecedentes e informes que obren en dicho sistema, así como en las bases de datos de las entidades que le prestan su auxilio y colaboración, de conformidad con lo establecido en los artículos 16 y 24 de la Ley 23/2015, de 21 de julio. Asimismo, se podrán generar de forma automatizada las propuestas de resolución que procedan cuando no se hayan presentado alegaciones contra las actas.
+
+2\. En estos supuestos, la actividad previa de comprobación se iniciará por orden del Director del Organismo Estatal Inspección de Trabajo y Seguridad Social para la realización de actividades administrativas automatizadas. Esta orden se emitirá para la realización de cada conjunto de actuaciones de la misma naturaleza y en ella se indicarán los criterios a seguir en su preparación y ejecución, así como el órgano encargado de su realización.
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 45. Contenido de las actas de infracción.
+
+1\. Las actas de infracción deberán contener los requisitos del apartado 1 del artículo 14, a excepción de los previstos en los párrafos b) y g).
+
+2\. Las actas habrán de reflejar los hechos comprobados como resultado de la actuación administrativa, con expresión de aquellos que sean relevantes a efectos de la tipificación de la infracción, los medios utilizados para la comprobación de los hechos que fundamentan el acta y la indicación expresa de que se trata de una actuación administrativa automatizada iniciada mediante expediente administrativo.
+
+3\. Asimismo, las actas deberán ir firmadas con el Sello Electrónico Cualificado de la Inspección de Trabajo y Seguridad Social.
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 46. Notificación de las actas de infracción y alegaciones.
+
+1\. Las actas de infracción serán notificadas al presunto sujeto responsable en el plazo de diez días hábiles desde la fecha del acta, advirtiéndoles que podrán formular escrito de alegaciones en el plazo de quince días hábiles contados desde el siguiente a su notificación, acompañado de la prueba que estimen pertinente, ante el órgano instructor del expediente.
+
+2\. Si, conforme a lo dispuesto en el artículo 14.6, el sujeto responsable procediese al pago de la sanción propuesta en el acta en el plazo señalado para formular alegaciones, el importe de la sanción se reducirá en un 40 por ciento. A estos efectos y junto con el acta de infracción, se facilitará al presunto responsable la correspondiente carta de pago en la que se aplicará la citada reducción.
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 47. Tramitación, instrucción y terminación de los procedimientos sancionadores.
+
+1\. Si en el plazo señalado para formular alegaciones, el sujeto responsable procediese al pago de la sanción propuesta, se dará por concluido el procedimiento. Dicho pago llevará implícito el reconocimiento de responsabilidad y la renuncia al ejercicio de cualquier acción, alegación o recurso en vía administrativa.
+
+2\. En caso de no efectuar alegaciones ni proceder al pago previsto en el apartado anterior, el acta de infracción será considerada propuesta de resolución, con los efectos previstos en el artículo 18 bis.
+
+3\. No obstante, si se formulasen alegaciones en las que se invoquen hechos o circunstancias distintos a los consignados en el acta, insuficiencia del relato fáctico de dicho acta, o indefensión por cualquier causa, deberá asignarse el expediente a un actuante con funciones inspectoras, para que informe sobre las mismas. En caso de que dicha asignación recaiga en Subinspector o Subinspectora Laboral, el informe deberá contar con el visado del Inspector o de la Inspectora de Trabajo y Seguridad Social del o de la que técnicamente dependan, cuando correspondan a actas por infracciones graves y muy graves.
+
+En el supuesto previsto en este apartado, tras la emisión del correspondiente informe ampliatorio, se continuará la instrucción del procedimiento hasta su resolución conforme a lo previsto en el capítulo III.
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Artículo 48. Normas supletorias.
+
+En lo no previsto en este capítulo resultarán de aplicación las normas establecidas en los capítulos II y III.
+
+> Se añade, con efectos de 1 de enero de 2022, por el art. único.16 del Real Decreto 688/2021 de 3 de agosto. [Ref. BOE-A-2021-13382](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-13382)
+
+###### Disposición adicional única. Actas de infracción o liquidación de gran volumen.
+
+Las actas de infracción o liquidación de gran volumen podrán ir precedidas de un extracto que contendrá un código alfanumérico unidireccional que será único y que, junto con la firma electrónica del extracto, garantizarán la identidad del firmante o firmantes y la integridad y autenticidad del acta.
+
+> Se añade, con efectos de 6 de marzo de 2024, por el art. 1.3 del Real Decreto 1011/2023, de 5 de diciembre. [Ref. BOE-A-2023-24844](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24844)
+
+> Información relacionada
+
+> Las referencias efectuadas en el presente Reglamento al Cuerpo de Subinspectores de Empleo y Seguridad Social, y, en su caso, a los funcionarios que lo integran, se entenderán hechas al Cuerpo de Subinspectores Laborales en sus dos escalas, y, en su caso, a los funcionarios que lo integran según dispone la disposición final única del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853) y no obstante, las referencias que sean relativas a la función encomendada a los Subinspectores de Empleo y Seguridad Social, sus facultades y medidas derivadas de su actuación, se entenderán hechas a la Escala de Empleo y Seguridad Social del Cuerpo de Subinspectores Laborales.

@@ -1,0 +1,187 @@
+---
+title: "Orden DEF/3316/2006, de 20 de octubre, por la que se regulan determinados aspectos de los compromisos, el cambio de relación de servicios y el cambio de especialidad del militar profesional de tropa y marinería"
+identifier: "BOE-A-2006-18872"
+eli: "https://www.boe.es/eli/es/o/2006/10/20/def3316"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2006-10-20
+published: 2006-10-31
+in_force_from: 2006-11-01
+last_amended: 2022-03-15
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 260"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-18872"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/3316/2006, de 20 de octubre, por la que se regulan determinados aspectos de los compromisos, el cambio de relación de servicios y el cambio de especialidad del militar profesional de tropa y marinería
+
+La Ley 8/2006, de 24 de abril, de Tropa y Marinería, define un nuevo modelo de tropa y marinería que garantiza a los soldados y marineros la posibilidad de completar su trayectoria profesional, comenzando su relación de servicios con un compromiso inicial renovable hasta los seis años de duración y ofreciéndoles la opción de suscribir otro de larga duración que llegará hasta los 45 años de edad, durante cuya vigencia podrán acceder a la condición de permanente.
+
+El compromiso inicial junto con sus renovaciones constituyen el primer tramo de la trayectoria del soldado o marinero, en el que éste se afianzará como profesional y tomará la decisión sobre su futuro; por ello es necesario arbitrar las condiciones, requisitos y procedimientos para realizar las sucesivas renovaciones de compromiso de forma que se facilite la continuidad en el servicio. El artículo 8.2 de la Ley de Tropa y Marinería atribuye esta potestad al Ministro de Defensa.
+
+Antes de agotar los seis años de duración del compromiso inicial y sus renovaciones, los militares profesionales de tropa y marinería podrán suscribir el compromiso de larga duración para completar su trayectoria profesional; la propia Ley de Tropa y Marinería, en el artículo 9.1, atribuye al Ministro de Defensa la competencia para determinar las condiciones y requisitos que deberán cumplirse para esto.
+
+De otra parte, para cubrir las plantillas de los Ejércitos, facilitar la movilidad geográfica, adquirir otra formación y resolver ciertas situaciones derivadas de la pérdida de aptitud para desarrollar los cometidos de la especialidad a la que pertenece, el militar profesional de tropa y marinería podrá cambiar esa especialidad durante la vigencia de su compromiso, conforme a las condiciones y el procedimiento que determine el Ministro de Defensa, de acuerdo con lo dispuesto en el artículo 14 de la Ley de Tropa y Marinería.
+
+Por último, para facilitar la adaptación al nuevo modelo de aquellos militares profesionales de tropa y marinería que tengan una relación de servicios de carácter permanente con las Fuerzas Armadas, la disposición transitoria segunda de la Ley de Tropa y Marinería consigna un periodo de tiempo para acogerse al compromiso de larga duración y atribuye al Ministro de Defensa la capacidad de establecer las condiciones que han de concurrir.
+
+En su virtud, con la aprobación previa del Ministro de Administraciones Públicas y de acuerdo con el Consejo de Estado, dispongo:
+
+## Primero. Suscripción del compromiso inicial y adquisición de la condición de militar profesional de tropa y marinería.
+
+1\. El compromiso inicial se formalizará de acuerdo con el modelo del anexo I.
+
+2\. Según establece el artículo 4 de la Ley 8/2006, de 24 de abril, de Tropa y Marinería, la condición de militar profesional de tropa y marinería se adquiere al obtener el empleo de soldado o marinero concedido por el Jefe de Estado Mayor del ejército correspondiente, una vez superado el periodo de formación general militar establecido en la convocatoria de pruebas selectivas para el acceso a tal condición y firmado el compromiso inicial.
+
+## Segundo. Procedimiento para las renovaciones del compromiso inicial.
+
+1\. Durante el cuarto mes natural anterior al mes de la fecha prevista para la finalización del compromiso inicial o sus sucesivas renovaciones, el personal interesado presentará en su unidad, centro u organismo de destino, o de dependencia en su caso, la solicitud de renovación de compromiso de acuerdo con el modelo del anexo II. En dicha solicitud se especificará el periodo de dos o tres años por el que se desea renovar, teniendo en cuenta, a estos efectos, el límite al que hace referencia el artículo 8.1 de la Ley de Tropa y Marinería.
+
+2\. Recibida la solicitud, los órganos de evaluación de las unidades, centros y organismos emitirán un informe en el que harán constar, al menos, los siguientes extremos:
+
+a) El tiempo de servicios prestado por el evaluado.
+
+b) La existencia o no de limitaciones temporales para la renovación del compromiso.
+
+c) La propuesta de idoneidad o de no idoneidad se ajustará a lo dispuesto en el artículo 12 del Real Decreto 1064/2001, de 28 de septiembre, por el que se aprueba el Reglamento de Evaluaciones y Ascensos del personal militar profesional.
+
+3\. Una vez publicada la concesión de la renovación del compromiso se procederá a su formalización mediante la firma del correspondiente documento, según modelo del anexo I.
+
+## Tercero. Requisitos y procedimiento para la suscripción del compromiso de larga duración.
+
+1\. Podrán suscribir el compromiso de larga duración los militares profesionales de tropa y marinería que lo soliciten, cumplimentando el impreso del anexo III, y que cumplan los siguientes requisitos:
+
+a) Tener cumplidos más de cinco años de servicios, de los que, al menos, los tres últimos serán con el ejército con el que se suscribe este compromiso.
+
+b) Poseer la nacionalidad española.
+
+c) Haber sido evaluados y declarados idóneos.
+
+d) Tener cumplidos los tiempos mínimos de permanencia en los destinos que, en su caso, establezcan los Jefes de Estado Mayor de los Ejércitos y de la Armada.
+
+e) Superar los reconocimientos médicos y pruebas psicológicas para el personal de las Fuerzas Armadas contempladas en el Reglamento para la determinación de la aptitud psicofísica del personal de las Fuerzas Armadas, aprobado por el Real Decreto 944/2001, de 3 de agosto.
+
+f) Superar las pruebas físicas periódicas establecidas en la Orden Ministerial 54/2014, de 11 de noviembre, por la que se establecen las pruebas físicas periódicas a realizar por el personal de las Fuerzas Armadas.
+
+g) Haber superado, además de los módulos impartidos en la enseñanza de formación, aquellos módulos correspondientes al ciclo de formación profesional de referencia para su especialidad fundamental que determinen los Jefes de Estado Mayor de los Ejércitos y de la Armada.
+
+h) Estar en posesión del nivel de aptitud en competencias digitales, contenido en el Plan Nacional de Competencias Digitales, que establezca la persona titular del Ministerio de Defensa para cada uno de los Ejércitos y para la Armada a propuesta motivada de sus respectivos Jefes de Estado Mayor.
+
+i) Estar en posesión de las competencias lingüísticas que hayan sido adquiridas o convalidadas en las Fuerzas Armadas, correspondientes al Standardised Language Profile (SLP) o al Marco Común Europeo de Referencia (MCER) en lengua inglesa que establezca la persona titular del Ministerio de Defensa para cada uno de los Ejércitos y para la Armada, a propuesta motivada de sus respectivos Jefes de Estado Mayor.
+
+2\. El procedimiento para la suscripción del compromiso se ajustará a lo dispuesto en el apartado segundo de esta orden ministerial, con las siguientes particularidades:
+
+a) La solicitud se podrá presentar en el periodo comprendido entre la fecha en que se perfeccionan los cinco años de servicios y los tres meses naturales anteriores al mes de cumplir los seis años.
+
+b) Los extranjeros afectados por la ampliación del compromiso a que hace referencia el artículo 11.3 de la Ley de Tropa y Marinería, deberán solicitar la suscripción del compromiso de larga duración en el plazo de quince días, a contar desde la adquisición de la nacionalidad española; en caso contrario causarán baja en las Fuerzas Armadas. Estos militares profesionales de tropa y marinería podrán suscribir el compromiso de larga duración si cumplen el resto de los requisitos del párrafo 1 de este apartado.
+
+3\. La fecha de inicio del compromiso de larga duración será la del día en que se perfeccionan seis años de servicios, contados desde el nombramiento como alumno del centro militar de formación.
+
+4\. Una vez publicada la concesión del compromiso de larga duración se procederá a su formalización mediante la firma del correspondiente documento, según modelo del anexo I.
+
+> Se modifica el apartado 1 por la disposición final 1.1 de la Orden DEF/183/2022, de 7 de marzo. [Ref. BOE-A-2022-4023](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4023)
+
+> Esta modificación será de aplicación a todo el personal profesional de tropa y marinería que se incorpore a su Centro Docente de Formación con posterioridad al 1 de noviembre de 2022, según establece la disposición final 4 de la citada Orden.
+
+## Cuarto. Cambio de especialidad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1 de la Orden DEF/1044/2016, de 22 de junio. [Ref. BOE-A-2016-6307](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-6307).
+
+## Quinto. Condiciones y procedimiento para el cambio de relación de servicios.
+
+Los militares profesionales de tropa y marinería a los que se refiere la Disposición transitoria segunda de la Ley de Tropa y Marinería que tengan una relación de servicios de carácter permanente y que no hayan cumplido 45 años de edad, podrán acogerse al compromiso de larga duración de acuerdo con las siguientes condiciones y procedimiento:
+
+1\. Solicitarán el cambio de relación de servicios al Jefe de Estado Mayor de su Ejército mediante instancia según el modelo del anexo IV.
+
+2\. Examinada la instancia y comprobado que el solicitante satisface los requisitos referidos, el Jefe de Estado Mayor de su ejército dictará resolución acordando el cambio de relación de servicios de la modalidad de permanente a la de compromiso de larga duración en la misma Unidad de destino. Notificada dicha Resolución al interesado, éste formalizará el compromiso de larga duración de acuerdo con el modelo del anexo I.
+
+3\. Este cambio de relación de servicios no supondrá cambio de especialidad, por lo que este personal se incorporará al escalafón de tropa o marinería no permanente conservando su empleo, antigüedad y tiempo de servicios, escalafonándose en el puesto que le corresponda en relación con su empleo y fecha de antigüedad; a igualdad de ésta última, dentro de cada empleo, con personal que ya estuviera escalafonado, se incorporará delante del más antiguo de ellos.
+
+## Disposición transitoria primera. Exención de requisitos académicos para la suscripción del compromiso de larga duración.
+
+A los alumnos que se encuentren en la fase de formación general militar para el acceso a la condición de militar profesional de tropa y marinería y a los militares profesionales de tropa y marinería con un compromiso vigente a la entrada en vigor de la Ley de Tropa y Marinería, no les será de aplicación la exigencia del título de Graduado en Educación Secundaria o equivalente indicado en el apartado tercero 1.c) para suscribir el compromiso de larga duración.
+
+## Disposición transitoria segunda. Fecha de inicio del compromiso de larga duración.
+
+Los militares profesionales de tropa y marinería que a la entrada en vigor de la Ley 8/2006, de 24 de abril, de Tropa y Marinería, cuenten con más de seis años de servicios, tendrán como fecha de inicio del compromiso de larga duración la del día 26 de abril de 2006, fecha de la citada entrada en vigor de esta Ley.
+
+## Disposición transitoria tercera. Personal de aplicación.
+
+Los requisitos establecidos en el punto 1 del apartado tercero para suscribir el compromiso de larga duración serán de aplicación al personal que se incorpore a las escalas de tropa y marinería a partir del segundo ciclo de la convocatoria del año 2022.
+
+Al personal que solicite suscribir este compromiso con anterioridad le serán de aplicación los siguientes requisitos:
+
+a) Tener cumplidos más de cinco años de servicios, de los que, al menos, los tres últimos serán con el ejército con el que se suscribe este compromiso.
+
+b) Poseer la nacionalidad española.
+
+c) Poseer en el momento de la firma del compromiso el título de Graduado en Educación Secundaria o equivalente.
+
+d) Haber sido evaluados y declarados idóneos.
+
+e) Tener cumplidos los tiempos mínimos de permanencia en los destinos que, en su caso, establezcan los Jefes de Estado Mayor de los Ejércitos y de la Armada.
+
+> Se añade por la disposición final 1.2 de la Orden DEF/183/2022, de 7 de marzo. [Ref. BOE-A-2022-4023](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4023)
+
+> Esta disposición será de aplicación a todo el personal profesional de tropa y marinería que se incorpore a su Centro Docente de Formación con posterioridad al 1 de noviembre de 2022, según establece la disposición final 4 de la citada Orden.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden Ministerial 103/2000, de 6 de abril, por la que se aprueban los modelos de documentos de compromiso inicial y nuevo compromiso de los militares profesionales que mantienen una relación de servicios de carácter temporal, en lo que se refiere a los militares profesionales de tropa y marinería. Así mismo quedan derogadas aquellas disposiciones de igual o inferior rango que se opongan a lo dispuesto en la presente Orden Ministerial.
+
+## Disposición final única. Entrada en vigor.
+
+La presente orden ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 20 de octubre de 2006.
+
+El Ministro de Defensa,
+
+José Antonio Alonso Suárez.
+
+## ANEXO I
+
+![1](https://www.boe.es/datos/imagenes/disp/2006/260/18872_4708.png)
+
+DORSO
+
+**Militares Profesionales de Tropa y Marinería**
+
+Compromiso inicial
+
+Una vez superada la fase de formación específica, el/la firmante pasará destinado a la unidad, centro u organismo que le haya asignado la Comisión Permanente de Selección de la correspondiente convocatoria para el acceso a la condición de militar profesional de tropa y marinería, donde transcurrirá durante dicho compromiso. Sólo cambiará de destino por causas extraordinarias o debidas a adaptaciones orgánicas de la estructura del respectivo Ejército.
+
+El/la firmante declara expresamente conocer que la relación jurídico-pública de carácter especial, que se establece con la firma de este compromiso, tiene un carácter temporal y se rige por la Ley 8/2006, de 24 de abril, de Tropa y Marinería. Igualmente declara expresamente conocer que su relación de servicios profesionales con las Fuerzas Armadas cesará con la finalización de este compromiso, salvo que éste se haya renovado, ampliado u prorrogado, o con la resolución del mismo en los términos previstos en la citada Ley de Tropa y Marinería. El incumplimiento del compromiso contraído por causa imputable al interesado podrá dar origen al inicio de un expediente de resolución, en el que se determinará el resarcimiento al Estado al que hubiere lugar.
+
+Renovación/Ampliación del compromiso inicial
+
+El/la firmante, además de lo anterior, quedará sujeto a los cambios de destino y la consiguiente movilidad geográfica que impongan las vicisitudes del servicio, y podrá optar a los cambios de destino en las vacantes de su empleo y especialidad, con arreglo a lo regulado en el Reglamento de Destinos del Personal Militar Profesional.
+
+Igualmente declara expresamente conocer que su relación de servicios profesionales con las Fuerzas Armadas cesará, en el caso de la renovación del compromiso inicial con la finalización de éste, salvo que se haya renovado, ampliado o prorrogado, o con la resolución del mismo en los términos previstos en la citada Ley de Tropa y Marinería. El incumplimiento del compromiso contraído por causa imputable al interesado podrá dar origen al inicio de un expediente de resolución, en el que se determinará el resarcimiento al Estado al que hubiere lugar.
+
+La ampliación de compromiso concedida al militar profesional de tropa y marinería extranjero que tenga solicitada la adquisición de la nacionalidad española, se extinguirá si una vez concedida ésta, no solicita la suscripción del compromiso de larga duración en un plazo de quince días desde la concesión de la misma.
+
+Compromiso de larga duración
+
+El/la firmante, además de lo anterior, declara expresamente conocer que a su relación de servicios, a los efectos retributivos y de fijación de los haberes reguladores para la determinación de los derechos pasivos del personal militar, le corresponde el grupo D de clasificación de los funcionarios al servicio de las Administraciones públicas, devengando trienios y pudiendo pasar a las situaciones de servicios especiales y excedencia voluntaria en los mismos supuestos y condiciones que los militares de carrera, salvo por la causa de resolución prevista en el artículo 10.2.d) de la Ley 8/2006, de 24 de abril, de Tropa y Marinería.
+
+Asimismo declara expresamente conocer que su relación de servicios profesionales con las Fuerzas Armadas cesará con la finalización de este compromiso, salvo que se haya resuelto anteriormente en los términos previstos en la reiterada Ley de Tropa y Marinería.
+
+## ANEXO II
+
+![2](https://www.boe.es/datos/imagenes/disp/2006/260/18872_4838.png)
+
+## ANEXO III
+
+![3](https://www.boe.es/datos/imagenes/disp/2006/260/18872_4969.png)
+
+## ANEXO IV
+
+![4](https://www.boe.es/datos/imagenes/disp/2006/260/18872_5106.png)

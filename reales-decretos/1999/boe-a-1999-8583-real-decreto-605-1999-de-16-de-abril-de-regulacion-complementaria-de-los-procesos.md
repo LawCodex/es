@@ -1,0 +1,1490 @@
+---
+title: "Real Decreto 605/1999, de 16 de abril, de regulación complementaria de los procesos electorales"
+identifier: "BOE-A-1999-8583"
+eli: "https://www.boe.es/eli/es/rd/1999/04/16/605"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1999-04-16
+published: 1999-04-17
+in_force_from: 1999-04-18
+last_amended: 2024-04-11
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 92"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-8583"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 605/1999, de 16 de abril, de regulación complementaria de los procesos electorales
+
+La disposición adicional segunda de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, habilita al Gobierno para dictar cuantas disposiciones sean precisas para su cumplimiento y ejecución.
+
+En uso de aquella habilitación, y dentro de los términos de la misma, el Real Decreto 421/1991, de 5 de abril, modificado por el Real Decreto 563/1993, de 16 de abril, reguló distintos aspectos del proceso electoral como la infraestructura material que la votación requiere, el régimen de dietas y gratificaciones de los miembros de las Juntas Electorales Provinciales y de Zona y del personal a su servicio, la solicitud de voto por correo del personal embarcado y la jornada electoral, que hasta entonces se encontraban dispersos en algunas normas de vigencia indefinida y otras dictadas para cada proceso electoral, estableciendo con ello y por razones de economía normativa, de coordinación interministerial y de mayor eficacia en el correcto cumplimiento de las prescripciones legales, un marco reglamentario que confirió unidad y fijeza a la regulación de aspectos complementarios del proceso electoral.
+
+La experiencia acumulada en los sucesivos procesos electorales celebrados desde entonces, hace aconsejable una nueva redacción de la mencionada norma, simplificando algunos de sus preceptos y añadiendo algunos aspectos no regulados, en aras a un mejor desarrollo de los procesos electorales.
+
+En este sentido las novedades más significativas del nuevo texto son las siguientes: Regular la accesibilidad a los colegios de las personas con minusvalías, agilizar y simplificar el procedimiento de entrega del material electoral a utilizar por las Mesas el día de la votación, unificar los impresos electorales de modo que los mismos modelos puedan ser utilizados en distintos procesos, modificar el régimen de abono de las gratificaciones a los miembros de las Juntas Electorales y a los Secretarios de los Ayuntamientos, corregir las actuales deficiencias del sistema de reintegro de los gastos del voto por correo a los electores inscritos en el Censo Electoral de Residentes Ausentes en el Extranjero, y reducir la disparidad de la normativa dictada con ocasión de cada proceso electoral, recopilándola en una misma norma reglamentaria, introduciendo el contenido del Real Decreto que se dicta con ocasión de las elecciones locales, sobre determinación del número de concejales de los Ayuntamientos y de los vocales de las Entidades Locales Menores a elegir para las Corporaciones locales, a fin de evitar la aprobación de la citada normativa cada cuatro años.
+
+En su virtud, a propuesta del Vicepresidente Primero del Gobierno y Ministro de la Presidencia, del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y de los Ministros de Asuntos Exteriores, del Interior, de Fomento, de Trabajo y Asuntos Sociales y de Administraciones Públicas, oída la Junta Electoral Central, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros, en su reunión del día 16 de abril de 1999,
+
+DISPONGO:
+
+## CAPÍTULO I — Medios materiales
+
+### Artículo 1. Locales utilizables en los procesos electorales.
+
+1\. En todo proceso electoral, los locales donde se verifique la votación habrán de reunir las condiciones necesarias para tal fin, deberán disponer de la adecuada señalización de las Secciones y Mesas, serán preferentemente de titularidad pública y de entre ellos los de carácter docente, cultural o recreativo, y deberán ser accesibles a las personas con limitaciones de movilidad.
+
+2\. Los Ayuntamientos deberán señalizar convenientemente los locales correspondientes a cada Sección y Mesa electoral.
+
+### Artículo 2. Urnas.
+
+1\. Cada Mesa electoral dispondrá de una urna, claramente identificada para cada uno de los procesos electorales que se celebren reuniendo las características que se señalan en el anexo 1.
+
+La identificación se llevará a cabo mediante la fijación del sobre correspondiente a cada elección, de forma visible, en la parte anterior y posterior de la urna, de modo que al elector no se le ofrezca duda alguna, de acuerdo con el modelo contenido en el **anexo 1 bis**, debiendo ser dichos sobres del mismo color que las papeletas de votación de que se trate. La fijación del sobre se realizará de forma que asegure que no se puede desprender a lo largo del proceso de votación y escrutinio.
+
+> Téngase en cuenta que se suprime la referencia destacada en el apartado 1 por el art. 4 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+2\. Cuando el número de electores existentes en una Mesa lo haga aconsejable existirá una segunda urna disponible, correspondiente a cada tipo de elecciones que se celebren, para utilizarse en caso de insuficiencia de la primera. El Presidente, tras comprobar ante los miembros de la Mesa que se encuentra vacía, la situará junto a la ya utilizada, que será debidamente cerrada. A partir de ese momento se utilizará exclusivamente la segunda urna.
+
+3\. Las urnas serán facilitadas por las Delegaciones del Gobierno o por las Subdelegaciones del Gobierno a las Juntas Electorales de Zona que, a su vez, previo montaje y precinto a cargo de sus Secretarios, las entregarán contra recibo a los Presidentes de las Mesas electorales.
+
+4\. Los precintos consistirán en un cierre que impida la apertura de la urna sin conocimiento de los miembros de la Mesa y de los interventores. En caso de rotura o deterioro del precinto, el Presidente de la Mesa si no pudiera obtener oportunamente otra urna de la Junta Electoral de Zona, deberá asegurar el cierre.
+
+> Se suprime la referencia destacada en el apartado 1 por el art. 4 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+### Artículo 3. Cabinas.
+
+1\. En la misma habitación en la que se desarrolle la votación y en lugar intermedio entre la entrada y la Mesa electoral, existirá, al menos, una cabina en la que el votante podrá seleccionar las papeletas electorales e introducirlas en los correspondientes sobres. En su interior, en los casilleros destinados al efecto, o junto a la misma en una mesa dispuesta para ello, los electores tendrán a su disposición un número suficiente de sobres y papeletas de cada candidatura.
+
+2\. Las cabinas, que deberán reunir las características y dimensiones señaladas en el anexo 2, serán facilitadas por las Delegaciones del Gobierno o por las Subdelegaciones del Gobierno a las Juntas Electorales de Zona, que adoptarán las medidas precisas a fin de que se encuentren montadas y en disposición de ser utilizadas el día de la votación y antes de su comienzo.
+
+### Artículo 4. Papeletas y sobres.
+
+1\. Las papeletas electorales reunirán las características y condiciones de impresión señaladas en el anexo 3.
+
+2\. Color de las papeletas:
+
+A) Cuando los procesos electorales no coinciden en el tiempo:
+
+a) Se confeccionarán en papel blanco:
+
+1\. Las papeletas de las elecciones al Congreso de los Diputados.
+
+2\. Las papeletas de las elecciones al Parlamento Europeo.
+
+3\. Las papeletas de las elecciones Municipales.
+
+b) Se confeccionarán en papel color sepia las papeletas de las elecciones al Senado.
+
+c) Se confeccionarán en papel verde claro:
+
+1\. Las papeletas de las elecciones a entidades locales de ámbito inferior al municipio.
+
+2\. Las papeletas de las elecciones a Cabildos Insulares.
+
+B) Cuando coincidan en el tiempo los comicios en los que se deben utilizar papeletas de color blanco:
+
+1\. Las papeletas de las elecciones al Congreso de los Diputados mantendrán, en todo caso, el color blanco.
+
+2\. Las papeletas de las elecciones al Parlamento Europeo serán de color azul claro.
+
+3\. Las papeletas de las elecciones municipales serán de color violeta claro.
+
+3\. En todas las elecciones que se indican en el apartado 2, la impresión de las papeletas se realizará por una sola cara.
+
+4\. En las papeletas de votación resultará obligatoria la identificación completa del proceso de que se trate, así como el año de su celebración.
+
+5\. Los sobres de votación serán del mismo color que las papeletas en cada tipo de elecciones y se ajustarán a las características, dimensiones y condiciones de confección señaladas en el anexo 4, siendo de aplicación, asimismo, lo establecido en el apartado 2 de este artículo. Los modelos de sobres determinados en el mencionado anexo 4 serán confeccionados por la Administración del Estado.
+
+6\. En aquellas Comunidades Autónomas que tengan estatutariamente reconocida la cooficialidad de una lengua distinta al castellano, y en el caso concreto de Navarra en sus zonas vascoparlantes establecidas por la Ley Foral 18/1986, de 15 de diciembre, las papeletas y sobres para todo tipo de elecciones se confeccionarán con carácter bilingüe, con las características y condiciones de impresión, señaladas en los anexos 3 y 4.
+
+7\. En las elecciones a Cortes Generales y al Parlamento Europeo, las Mesas electorales recibirán de las Delegaciones del Gobierno, Subdelegaciones del Gobierno y Direcciones Insulares de la Administración General del Estado, los sobres y papeletas necesarios para la realización de la elección convocada.
+
+8\. En las elecciones municipales, corresponde a las Corporaciones locales la entrega a las Mesas electorales de las papeletas necesarias para su celebración. La misma obligación corresponderá a los Cabildos Insulares en sus respectivas elecciones.
+
+> Se modifica el apartado 2 por el art. 1 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+### Artículo 5. Impresos electorales.
+
+1\. Los impresos que figuran en los anexos 5 al 11, son los que habrán de utilizarse en las elecciones a Cortes Generales, a las Corporaciones locales y al Parlamento Europeo. Dichos impresos serán comunes para todos los procesos electorales, salvo las excepciones que para cada proceso concreto se determinen.
+
+2\. Si alguna Junta Electoral estimase que, salvando su contenido, debe emplearse otro formato, especialmente por razones de mecanización, podrá hacerlo dando cuenta a la Junta Electoral inmediata superior.
+
+3\. Todos los impresos incluidos en los anexos antes citados tendrán carácter oficial y se facilitarán por las Delegaciones del Gobierno, Subdelegaciones del Gobierno, y en su caso, por las Direcciones Insulares de la Administración General del Estado, a las Juntas Electorales de Zona y Mesas electorales, y en su caso, a las Delegaciones de la Oficina del Censo Electoral y a la Entidad Pública Empresarial Correos y Telégrafos.
+
+4\. En el supuesto de coincidencia de distintos procesos electorales, los impresos y sobres que figuran en los anexos 4 al 11, podrán ser modificados, previo informe de la Junta Electoral Central, por el Ministerio del Interior a efectos de coordinación de los citados procedimientos.
+
+5\. Los modelos de actas a que se refiere el párrafo g) del artículo 19.1 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, serán los aprobados para cada proceso electoral por la Junta Electoral Central.
+
+## CAPÍTULO II — Medios personales
+
+### Artículo 6. Gratificaciones e indemnizaciones al personal participante en los procesos electorales.
+
+1\. Los miembros de las Juntas Electorales Provinciales y de Zona tendrán derecho, por el desempeño de sus funciones en los procesos electorales, dependiendo de la naturaleza de éstos o de la coincidencia de celebración en la misma fecha de dos o más procesos de ámbito nacional, así como del número de Mesas existentes en las provincias respectivas, a las cantidades que se fijan a continuación:
+
+1.º Gratificaciones por elecciones generales o al Parlamento Europeo:
+
+a) Los miembros de las Juntas Electorales Provinciales percibirán las gratificaciones que se determinan a continuación:
+
+|  | Euros |
+|---|---|
+| Provincias con un censo superior a 1.000 Mesas electorales: |  |
+| Presidentes | 2.840,50 |
+| Secretarios | 2.662,97 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.242,72 |
+| Vocales no judiciales | 710,13 |
+| Provincias con un censo de 500 a 1.000 Mesas electorales: |  |
+| Presidentes | 2.662,97 |
+| Secretarios | 2.485,44 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.136,20 |
+| Vocales no judiciales | 639,11 |
+| Provincias con un censo inferior a 500 Mesas: |  |
+| Presidentes | 2.485,44 |
+| Secretarios | 2.307,91 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.065,19 |
+| Vocales no judiciales | 568,10 |
+
+b) Los miembros de todas las Juntas Electorales de Zona percibirán como gratificación las siguientes cantidades:
+
+|  | Euros |
+|---|---|
+| Presidentes | 2.130,38 |
+| Secretarios | 1.952,84 |
+| Vocales judiciales | 887,66 |
+| Vocales no judiciales | 497,09 |
+
+Las Juntas Electorales de Zona de Ceuta y Melilla, de acuerdo con el artículo 8.4 de la Ley Orgánica del Régimen Electoral General, acumulan en sus respectivos distritos las funciones correspondientes a las Juntas Electorales Provinciales.
+
+2.º Gratificaciones por elecciones municipales y a Cabildos Insulares:
+
+a) Los miembros de todas las Juntas Electorales Provinciales, con excepción de las de Las Palmas y de Santa Cruz de Tenerife, percibirán como gratificación las siguientes cantidades:
+
+|  | Euros |
+|---|---|
+| Presidentes | 2.130,38 |
+| Secretarios | 1.952,84 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 710,13 |
+| Vocales no judiciales | 497,09 |
+
+b) Los miembros de todas las Juntas Electorales de Zona así como las Juntas Electorales Provinciales de Las Palmas y de Santa Cruz de Tenerife percibirán, como gratificación, las siguientes cantidades:
+
+|  | Euros |
+|---|---|
+| Presidentes | 2.485,44 |
+| Secretarios | 2.307,91 |
+| Vocales judiciales | 1.065,19 |
+| Vocales no judiciales | 639,11 |
+
+Los Delegados de la Oficina del Censo Electoral en las Juntas Electorales Provinciales de Las Palmas y de Santa Cruz de Tenerife percibirán la misma cantidad que los Vocales judiciales.
+
+3.º Gratificaciones por Elecciones generales y al Parlamento Europeo, cuando su celebración tenga lugar el mismo día:
+
+a) Los miembros de las Juntas Electorales Provinciales percibirán las gratificaciones que se determinan a continuación:
+
+|  | Euros |
+|---|---|
+| Provincias con un censo superior a 1.000 Mesas electorales: |  |
+| Presidentes | 3.408,60 |
+| Secretarios | 3.195,56 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.491,26 |
+| Vocales no judiciales | 852,15 |
+| Provincias con un censo de 500 a 1.000 Mesas electorales: |  |
+| Presidentes | 3.195,56 |
+| Secretarios | 2.982,53 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.363,44 |
+| Vocales no judiciales | 766,93 |
+| Provincias con un censo inferior a 500 Mesas electorales: |  |
+| Presidentes | 2.982,53 |
+| Secretarios | 2.769,49 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.278,33 |
+| Vocales no judiciales | 681,72 |
+
+b) Los miembros de todas las Juntas Electorales de Zona percibirán como gratificación las siguientes cantidades:
+
+|  | Euros |
+|---|---|
+| Presidentes | 2.556,45 |
+| Secretarios | 2.343,41 |
+| Vocales judiciales | 1.065,19 |
+| Vocales no judiciales | 596,51 |
+
+4.º Gratificaciones por elecciones generales o/y al Parlamento Europeo y elecciones municipales, cuando su celebración tenga lugar el mismo día:
+
+a) Los miembros de las Juntas Electorales Provinciales percibirán las gratificaciones que se determinan a continuación:
+
+|  | Euros |
+|---|---|
+| Provincias con un censo superior a 1.000 Mesas electorales: |  |
+| Presidentes | 3.408,60 |
+| Secretarios | 3.195,56 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.491,26 |
+| Vocales no judiciales | 852,15 |
+| Provincias con un censo de 500 a 1.000 Mesas electorales: |  |
+| Presidentes | 3.195,56 |
+| Secretarios | 2.982,53 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.363,44 |
+| Vocales no judiciales | 766,93 |
+| Provincias con un censo inferior a 500 Mesas electorales: |  |
+| Presidentes | 2.982,53 |
+| Secretarios | 2.769,49 |
+| Vocales judiciales y Delegados de la Oficina del Censo Electoral | 1.278,23 |
+| Vocales no judiciales | 681,72 |
+
+b) Los miembros de todas las Juntas Electorales de Zona percibirán como gratificación las siguientes cantidades:
+
+|  | Euros |
+|---|---|
+| Presidentes | 2.982,53 |
+| Secretarios | 2.769,49 |
+| Vocales judiciales | 1.278,23 |
+| Vocales no judiciales | 766,93 |
+
+El derecho a la percepción de las gratificaciones señaladas en los apartados anteriores nacerá desde el momento en que se tome posesión del cargo correspondiente, y se entiende referido a la totalidad del tiempo en el que las respectivas Juntas Electorales cumplan sus funciones desde su cons titución hasta que concluya su mandato por expiración del plazo legal.
+
+En el supuesto de que el desempeño del cargo de alguno de sus miembros sea inferior al mandato legal de la Junta respectiva, tendrá derecho exclusivamente a una cantidad proporcional al tiempo efectivo del desempeño del cargo. En el caso de que un miembro de una Junta Electoral desempeñe cargos con distinta remuneración en la misma Junta, percibirá la parte proporcional que le corresponda según el tiempo de permanencia en cada cargo.
+
+El abono de estas gratificaciones se realizará una vez haya concluido el mandato de las Juntas Electorales.
+
+5.º Cuando los miembros de las Juntas Electorales, para asistir a reuniones reglamentariamente convocadas, tengan que desplazarse fuera del municipio de su residencia habitual les serán abonados íntegramente los gastos de transporte, y si utilizaran su vehículo particular, se les abonará cada kilómetro recorrido a razón de 0,17 euros. Esta asignación se actualizará en la misma cuantía en que se actualice dicho importe para el abono de los gastos de locomoción en el ámbito de la Administración General del Estado.
+
+2\. Los Jueces de Primera Instancia o de Paz a que alude el artículo 101 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, percibirán, en concepto de indemnización, la cantidad de 52,93 euros, más los gastos de locomoción que les ocasione el desplazamiento a la sede de la Junta Electoral que deba realizar el escrutinio, para la entrega de la documentación electoral.
+
+3\. A los Secretarios de los Ayuntamientos, en cuanto Delegados de las Juntas Electorales de Zona, se les abonarán unas cantidades que vendrán determinadas por el número total de Mesas electorales que efectivamente se constituyan en el municipio o municipios en los que actúen como tales, con independencia de la naturaleza de agrupados o acumulados que tengan aquéllos con relación al titular de la Secretaría.
+
+a) Los importes a abonar, cualquiera que sea la naturaleza del proceso que se celebre, serán los siguientes:
+
+|  | Euros |
+|---|---|
+| Secretaría con un número no superior a 10 Mesas | 639,11 |
+| Secretarías de 11 a 50 Mesas | 710,13 |
+| Secretarías con más de 50 Mesas | 781,14 |
+
+b) En el supuesto de coincidir en la misma fecha la celebración de dos o más procesos electorales de ámbito nacional, se abonarán las siguientes cantidades:
+
+|  | Euros |
+|---|---|
+| Secretaría con un número no superior a 10 Mesas | 766,93 |
+| Secretarías de 11 a 50 Mesas | 852,15 |
+| Secretarías con más de 50 Mesas | 937,37 |
+
+4\. El derecho a la percepción de las gratificaciones previstas en el apartado anterior se entiende referido a la totalidad del proceso electoral. En el supuesto de que se permanezca en el cargo por un tiempo inferior, tendrá sólo derecho a una cantidad proporcional al que haya permanecido en él. El abono de estas gratificaciones se realizará una vez haya concluido el mandato de las Juntas Electorales.
+
+En el supuesto de que el titular de una Secretaría sea adscrito a un nuevo Ayuntamiento, durante la celebración del proceso electoral percibirá, en su caso, además, la diferencia que le corresponda con lo ya percibido, si el Ayuntamiento de destino está comprendido en un tramo distinto al de origen.
+
+5\. Para remunerar los servicios extraordinarios prestados por el personal colaborador de las Juntas Electorales Provinciales y de Zona, se asignará la cantidad de 42,60 euros por cada una de las mesas que efectivamente se constituyan en la respectiva provincia.
+
+En el supuesto de coincidir en la misma fecha la celebración de dos o más procesos electorales de ámbito nacional, se asignará la cantidad de 51,13 euros por cada mesa electoral efectivamente constituida en la respectiva provincia.
+
+Para participar en la realización de dichos servicios extraordinarios como personal colaborador, será necesaria su pertenencia como funcionario o laboral a cualquiera de las Administraciones públicas.
+
+Excepcionalmente, y cuando resulte imprescindible por la insuficiencia de los medios personales a los que se refiere el párrafo anterior, se podrá realizar la contratación de personal laboral temporal, previa la autorización que exija la normativa presupuestaria y laboral establecida al efecto y de acuerdo con los requisitos y términos fijados en las instrucciones económico-administrativas aprobadas por el Ministerio del Interior para cada proceso electoral.
+
+6\. El importe obtenido en el ámbito provincial, de acuerdo con el apartado anterior, tendrá carácter limitativo y se comunicará a las Juntas Electorales Provinciales para su distribución por éstas, basándose en los criterios que se consideren objetivos entre las distintas Juntas Electorales existentes en la provincia. Dicho importe cubrirá el abono de los servicios realizados tanto por el personal colaborador como, en su caso, por el personal contratado.
+
+7\. Para remunerar los servicios extraordinarios prestados por el personal de los Ayuntamientos, exceptuados los Secretarios de éstos, se asignará la cantidad de 35,51 euros por cada mesa efectivamente constituida en el respectivo municipio, teniendo la cantidad resultante carácter limitativo.
+
+En el supuesto de coincidir en la misma fecha la celebración de dos o más procesos electorales de ámbito nacional, se asignará la cantidad de 42,60 euros por cada mesa efectivamente constituida en el respectivo municipio, teniendo la cantidad resultante, igualmente, carácter limitativo.
+
+8\. Las cantidades fijadas en los apartados anteriores corren a cargo del Estado y se establecen basándose en lo previsto en el artículo 13.2 de la Ley Orgánica 5/1985, sin que ello menoscabe la obligación que pesa sobre otras Administraciones y que se encuentra establecida en el citado precepto.
+
+9\. Los importes establecidos en los apartados anteriores sufragarán tanto el desarrollo ordinario del proceso o procesos, como la repetición de elecciones o actos de votación que se originen deri vados de la celebración de aquéllos, sin que por lo tanto en estos supuestos deba efectuarse ninguna nueva asignación, salvo la derivada de los gastos de locomoción. La celebración de elecciones locales parciales no causará tampoco derecho a nuevas gratificaciones, pero sí a las correspondientes indemnizaciones por gastos de locomoción.
+
+10\. Las cantidades fijadas en los apartados 1.1.º, 1.2.º, 1.3.º, 1.4.º y 2, 3, 5 y 7 de este artículo se incrementarán en la misma proporción que se apruebe en las leyes anuales de presupuestos, para las retribuciones del personal al servicio de las Administraciones públicas.
+
+11\. Los servicios extraordinarios prestados por miembros de Fuerzas y Cuerpos de Seguridad, con motivo de la celebración de los procesos electorales, se retribuirán de acuerdo con las cantidades y criterios que establezcan las instrucciones económico-administrativas aprobadas por el Ministerio del Interior para cada proceso electoral. Si quedase acreditada la remuneración por otras Administraciones de esos mismos servicios, la Administración del Estado no vendrá obligada a retribuir dichos servicios extraordinarios.
+
+12\. Los servicios prestados por los representantes de la Administración a los que se refiere el artículo 98.2 de la Ley Orgánica del Régimen Electoral General se retribuirán de acuerdo con las cantidades y criterios que establezcan las instrucciones económico-administrativas aprobadas por el Ministerio del Interior para cada proceso electoral.
+
+13\. Para el abono de las cantidades establecidas en el presente artículo deberán observarse en todos sus términos las instrucciones económico-administrativas que dicte el Ministerio del Interior en cada proceso electoral para la ejecución de los presupuestos de gastos electorales.
+
+> Se modifica por el art. 2 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> La actualización de las cantidades se hace efectiva a partir del año 2003, según establece la disposición transitoria 1.
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+### Artículo 7. Cobertura de los riesgos por participación de los Presidentes, Vocales y sus suplentes en las Mesas electorales.
+
+1\. Los Presidentes, Vocales y suplentes de las Mesas electorales que resulten designados de conformidad con lo establecido en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, quedarán protegidos por el sistema de la Seguridad Social frente a las contingencias y situaciones que puedan derivarse de su participación en las Elecciones.
+
+2\. A efectos de lo dispuesto en el apartado precedente, los referidos miembros de las Mesas electorales se considerarán, durante el ejercicio de su función, como asimilados a los trabajadores por cuenta ajena del Régimen General de la Seguridad Social para la contingencia de accidentes de trabajo.
+
+3\. Los órganos estatales o autonómicos, dependiendo de la naturaleza del proceso, vendrán obligados a formalizar la correspondiente protección de los antes citados miembros de todas las Mesas electorales, participantes en las elecciones correspondientes, por el periodo que dure su obligada participación.
+
+4\. La base de cotización estará constituida por la base mínima de cotización para los trabajadores mayores de dieciocho años no especializados, vigente en el Régimen General en el momento del cumplimiento de la prestación personal obligatoria.
+
+5\. El tipo aplicable será el del epígrafe 116 de la tarifa vigente de primas, para la cotización de la Seguridad Social por accidentes de trabajo y enfermedades profesionales.
+
+6\. La cotización estará a cargo del Ministerio del Interior en las Elecciones a Cortes Generales, Municipales y al Parlamento Europeo y de los correspondientes órganos autonómicos en las Elecciones de esta naturaleza. En el supuesto de coincidencia de elecciones convocadas por órganos estatales con otras convocadas por órganos autonómicos, la cotización estará a cargo del Estado en todas aquellas Mesas que sean comunes a ambos procesos.
+
+7\. Las lesiones sufridas con ocasión o por consecuencia del cumplimiento de la prestación personal obligatoria tendrán la consideración de accidente de trabajo.
+
+8\. La acción protectora comprenderá asistencia sanitaria, prestaciones recuperadoras, prestaciones económicas en las situaciones de incapacidad temporal, invalidez, muerte y supervivencia, y servicios sociales.
+
+9\. Las prestaciones se otorgarán con el mismo alcance y condiciones que en el Régimen General de la Seguridad Social y serán compatibles con cualesquiera otras a que pudieran tener derecho los miembros de las referidas Mesas electorales, obligados a la prestación personal.
+
+## CAPÍTULO III — Normas complementarias del procedimiento electoral
+
+### Artículo 8. Solicitud del voto por correo en caso de enfermedad o incapacidad que impida formularlo personalmente.
+
+1\. La solicitud por medio de representante del certificado de inscripción en el Censo, a efectos del voto por correspondencia a que se refiere el párrafo c) del artículo 72 de la Ley Orgánica 5/1985, del Régimen Electoral General, se dirigirá al Delegado provincial de la Oficina del Censo Electoral y se presentará en cualquier Oficina de Correos de España junto con la escritura pública de poder otorgada ante Notario o Cónsul en los términos establecidos en el artículo 8 del anexo IV del Reglamento Notarial, que incorporará el certificado médico oficial acreditativo de la enfermedad o incapacidad que impida al elector la formulación personal de su solicitud. El funcionario de Correos comprobará la coincidencia de la firma del apoderado con la que figure en su documento nacional de identidad.
+
+2\. Las Delegaciones Provinciales de la Oficina del Censo Electoral han de remitir, antes de tramitarlas, a la Junta Electoral Provincial, todas las solicitudes de voto por correo y documentación aneja formulada por la persona autorizada.
+
+3\. Realizada por la Junta Electoral Provincial la comprobación y practicadas las diligencias que considere oportunas, en el plazo máximo de cuarenta y ocho horas habrá de devolver a la citada Delegación Provincial de la Oficina del Censo Electoral las solicitudes de voto por correo y documentación aneja, con su decisión favorable o contraria a la tramitación de cada una de ellas. En todo caso, la decisión de la Junta Electoral Provincial deberá comunicarse a la Delegación Provincial de la Oficina del Censo Electoral antes del sexto día anterior al de la votación.
+
+4\. Recibidas las solicitudes y documentación aneja, la Delegación Provincial de la Oficina del Censo Electoral deberá remitir al elector la documentación para el voto por correo o bien notificación de la decisión contraria de la tramitación de la solicitud.
+
+5\. Las actuaciones de Notarios o Cónsules españoles, previstas en el apartado 1 de este artículo, serán gratuitas, estando exentas del Impuesto sobre Actos Jurídicos Documentados y de las Tasas Consulares y se extenderán en papel común, conforme a lo dispuesto en el artículo 118.1.b) de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+### Artículo 9. Voto por correo del personal embarcado.
+
+1\. El personal de los buques de la Armada, marina mercante o flota pesquera de altura, abanderados en España, que haya de permanecer embarcado desde la convocatoria de las elecciones hasta su celebración y que durante dicho período toque puertos, previamente conocidos, en el territorio nacional, podrá ejercitar su derecho al sufragio electoral en la forma establecida en este precepto.
+
+2\. La solicitud del certificado de inscripción en el Censo, a que se refiere el artículo 72 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, podrá obtenerse de la Delegación Provincial de la Oficina del Censo Electoral donde el interesado esté inscrito, cursando dicha solicitud por radiotelegrafía. En el mensaje se hará constar los datos siguientes:
+
+a) Nombre y dos apellidos del solicitante.
+
+b) Número del documento nacional de identidad o número de tarjeta de extranjero.
+
+c) Fecha de nacimiento.
+
+d) Provincia y municipio de nacimiento.
+
+e) Municipio de residencia en el que está incluido en el Censo Electoral.
+
+f) Calle y número de su domicilio.
+
+g) Nombre del buque en que se encuentra embarcado.
+
+h) Puerto o puertos en que tenga prevista su arribada el buque, con indicación de las fechas concretas en que ésta se haya de producir.
+
+3\. En el caso de que pueda recibir la documentación electoral por medio de otro buque, se indicará en el radiomensaje el armador, consignatario o buque donde debe ser enviada.
+
+4\. A los efectos previstos en los párrafos a) y b) del artículo 72 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, los servicios de radiotelegrafía de los buques tendrán la consideración de dependencias delegadas del Servicio de Correos y los Comandantes y Capitanes o el Oficial en el que expresamente deleguen la de funcionarios encargados de la recepción de la solicitud.
+
+5\. La Delegación Provincial de la Oficina del Censo Electoral correspondiente, una vez comprobada la inscripción del interesado, considerará a todos los efectos como recibida la solicitud y procederá a remitir la documentación a que se refiere el artículo 73.2 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, al puerto o, en su caso, armador, consignatario o buque que el elector hubiese designado y a su nombre.
+
+6\. Recibida por el elector la documentación a que hace referencia el artículo anterior, procederá a remitir por correo certificado y urgente, desde cualquiera de los puertos en que el buque atraque, la documentación electoral prevista en el artículo 73.3 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, a la Mesa electoral en que le corresponda votar.
+
+### Artículo 10. Gratuidad de determinados servicios de comunicación.
+
+Se autoriza, con carácter excepcional, en los términos que establece la disposición transitoria única de este Real Decreto, la no aplicación de las contraprestaciones económicas correspondientes a las transmisiones establecidas por costeras españolas por tripulantes con derecho a voto de buques abanderados en España, para el voto por correo del personal embarcado.
+
+### Artículo 11. Procedimiento para posibilitar la gratuidad del voto por correo de los electores residentes ausentes.
+
+1\. La documentación que los Delegados provinciales de la Oficina del Censo Electoral envíen a los inscritos en el Censo Electoral de Residentes Ausentes que viven en el extranjero para que puedan emitir su voto, incluirá el impreso destinado a posibilitar el reintegro al elector de los gastos de franqueo satisfechos por la remisión de su voto por correo, cuyo modelo será el establecido por la Oficina del Censo Electoral.
+
+2\. Una vez recibida la documentación a que hace referencia el apartado anterior, el elector procederá a ejercer su derecho de voto por correo, remitiendo el sobre modelo oficial que corresponda, con carácter certificado y urgente, siguiendo exclusivamente uno de los dos procedimientos establecidos en los apartados 3 y 4 del presente artículo.
+
+3\. Los electores residentes ausentes que viven en aquellos países con los que la entidad pública empresarial Correos y Telégrafos establezca acuerdos específicos, podrán depositar el sobre conteniendo el voto por correo que figura en el anexo 4 de la presente norma, en las oficinas de Correos del país de residencia, que será admitido con carácter gratuito. Este sobre no necesita franqueo.
+
+4\. En aquellos países en los que no sea posible la aplicación del procedimiento expresado en el apartado 3, el elector deberá satisfacer los gastos de franqueo y certificado que correspondan, pudiendo solicitar el reintegro de tales gastos, cumplimentando las indicaciones del impreso destinado a posibilitar el reintegro.
+
+5\. En ambos procedimientos, en el sobre dirigido al Presidente de la Junta Electoral Provincial o al Presidente de la Mesa electoral, según la elección de que se trate, los electores residentes ausentes incluirán, como requisito inexcusable para la validez de su voto, el certificado de inscripción en el censo.
+
+6\. Finalizado el escrutinio general, a los efectos de reintegrar a los electores, en su caso, el importe de los gastos de franqueo, las Juntas Electorales Provinciales entregarán a Correos y Telégrafos el impreso de solicitud de reintegro del importe del franqueo. En el caso de elecciones locales, las Mesas electorales trasladarán dicho documento a la correspondiente Junta Electoral de Zona, que lo remitirá a Correos y Telégrafos.
+
+7\. Los sobres conteniendo votos, dirigidos a Presidentes de Junta Electoral Provincial y a Presidentes de Mesa electoral, que lleguen después de transcurrido el plazo hábil para que puedan ser escrutados y computados, serán remitidos sin demora por la oficina de Correos al Secretario de la Junta Electoral Provincial correspondiente, que procederá a separar los impresos de reintegro, enviándolos seguidamente a la Jefatura Provincial de Correos y Telégrafos correspondiente, destruyendo a continuación los sobres que contengan los votos.
+
+8\. Correos y Telégrafos remitirá a cada votante que haya utilizado el procedimiento previsto en el apartado 4, el importe del franqueo, redondeado, en su caso, por exceso, hasta una unidad monetaria más de la divisa en que se abone, y notificará al elector por correo certificado el procedimiento y la cuantía del envío.
+
+### Artículo 12. Envíos de propaganda electoral.
+
+1\. Respecto al envío de propaganda electoral, en los procesos que se desarrollen de acuerdo con lo establecido en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, serán de aplicación las tarifas postales que se encuentren vigentes en el momento de la convocatoria de las correspondientes elecciones.
+
+2\. Con el fin de agilizar las operaciones de preparación de estos envíos por sus remitentes, se establece la posibilidad de que el franqueo correspondiente se abone, mediante previo pago, en las respectivas oficinas de la Entidad Pública Empresarial Correos y Telégrafos. De usarse este procedimiento, en la cubierta de cada envío figurará la indicación «franqueo pagado», sustituyendo a los sellos de correos o estampaciones de máquina de franquear.
+
+### Artículo 13. Jornada electoral.
+
+1\. La Administración del Estado o, en su caso, las de las Comunidades Autónomas que tengan atribuidas competencias en materia laboral, previo acuerdo con los Delegados del Gobierno, respecto de los trabajadores por cuenta ajena, y las Administraciones públicas, respecto a su personal, adoptarán las medidas precisas para que los electores que presten sus servicios el día de las elecciones puedan disponer en su horario laboral de hasta cuatro horas libres para el ejercicio del derecho del voto, que serán retribuidas. Cuando el trabajo se preste en jornada reducida, se efectuará la correspondiente reducción proporcional del permiso.
+
+2\. En caso de personas que por estar realizando funciones lejos de su domicilio habitual o en otras condiciones de las que se deriven dificultad para ejercer el derecho de sufragio el día de las elecciones, las medidas precisas a adoptar irán destinadas a posibilitar que el personal citado disponga, en su horario laboral, de hasta cuatro horas libres para que pueda formular personalmente la solicitud de certificación acreditativa de su inscripción en el censo, que se contempla en el artículo 72 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, así como para la remisión del voto por correo.
+
+3\. De conformidad con lo establecido en los artículos 28.1 y 78.4 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, los trabajadores por cuenta ajena y el personal al servicio de las Administraciones públicas nombrados Presidente o Vocal de las Mesas electorales y los que acrediten su condición de Interventores tienen derecho durante el día de la votación a un permiso retribuido de jornada completa, si no disfrutan en tal fecha del descanso semanal, y a una reducción de su jornada de trabajo de cinco horas el día inmediatamente posterior.
+
+4\. Asimismo y de acuerdo con lo previsto en el artículo 76.4 de la Ley Orgánica 5/1985, del Régimen Electoral General, los que acrediten su condición de apoderados tienen derecho a un permiso retribuido durante el día de la votación, si no disfrutan en tal fecha del descanso semanal.
+
+5\. Los funcionarios públicos y demás personal al servicio de la Administración del Estado y sus Organismos autónomos, incluida la Seguridad Social, que se presenten como candidatos a los distintos procesos electorales, podrán ser dispensados, previa solicitud de los interesados, de la prestación del servicio en sus respectivas unidades, de acuerdo con lo establecido en el artículo 30.2 de la Ley 30/1984, de 2 de agosto, durante la campaña electoral. La competencia para la concesión del referido permiso corresponderá al Subsecretario del Departamento ministerial, o al Delegado del Gobierno o Subdelegado del Gobierno, cuando el puesto de trabajo se desempeñe en los Servicios Periféricos.
+
+6\. En el supuesto de que el día fijado en los correspondientes Decretos de convocatoria para la celebración de las elecciones no sea festivo, se considerará inhábil a efectos escolares en el territorio correspondiente.
+
+### Artículo 14. Determinación del número de concejales y vocales.
+
+1\. Para la aplicación de la escala establecida en el artículo 179.1 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, en la elección de concejales en cada término municipal, se tendrá en cuenta la última cifra de población de cada municipio, oficialmente aprobada por el Gobierno.
+
+2\. Las Delegaciones y las Subdelegaciones del Gobierno publicarán en el «Boletín Oficial» de la provincia, en el plazo de los seis primeros días del mes de marzo del año en que se hayan de celebrar las citadas elecciones, una relación por orden alfabético de los municipios de la provincia, agrupados por partidos judiciales, de conformidad con lo dispuesto en el artículo 8.6 de la Ley Orgánica del Régimen Electoral General, con indicación de los siguientes datos:
+
+a) Cifra de población de cada municipio, oficialmente aprobada por el Gobierno.
+
+b) Número de concejales que corresponde a cada municipio, de acuerdo con lo dispuesto en el artículo 179 de la Ley Orgánica del Régimen Electoral General.
+
+3\. En aquellos municipios creados por segregación de parte de uno o varios municipios y constituidos legalmente con posterioridad a la fecha de referencia de la última cifra de población oficialmente aprobada por el Gobierno, el número de concejales se determinará igualmente teniendo en cuenta la población a dicha fecha, que será facilitada por la correspondiente Delegación Provincial del Instituto Nacional de Estadística.
+
+En los municipios cuyo término municipal hubiere sido alterado por segregación para crear otro nuevo, la población a considerar será la que haya resultado una vez deducida la población segregada.
+
+Igual criterio se seguirá en los demás casos de alteración de términos municipales en donde se hayan producido.
+
+4\. En la relación de municipios se señalarán aquellos en los que concurran las circunstancias a que se refieren los artículos 179.2 y 184 de la Ley Orgánica del Régimen Electoral General.
+
+5\. Como relación anexa se incluirán las Entidades de ámbito territorial inferior al municipal, en las que proceda la aplicación del artículo 199.2 de la Ley Orgánica del Régimen Electoral General, con especificación del municipio al que pertenecen y tramo de población en el que se encuentran, a efectos de lo previsto en el apartado 3 del citado artículo.
+
+6\. Publicadas las relaciones anteriores en el «Boletín Oficial» de las correspondientes provincias, las Corporaciones locales interesadas, los partidos políticos y los particulares dispondrán de un plazo improrrogable de siete días naturales para presentar reclamaciones sobre el número de concejales o vocales asignados ante la correspondiente Delegación Provincial del Instituto Nacional de Estadística, que las instruirá, tramitará y elevará propuesta de resolución al Delegado del Gobierno o Subdelegado del Gobierno respectivo.
+
+En ningún caso las reclamaciones podrán versar sobre las cifras oficiales de población de los municipios españoles aprobadas por el Gobierno.
+
+Estas resoluciones, que agotan la vía administrativa, serán publicadas en el «Boletín Oficial» de la provincia.
+
+7\. En los supuestos prevenidos en el apartado 3, que se aprobasen con posterioridad a la publicación de las relaciones previstas en los apartados 2 y 5, y hasta la fecha de convocatoria de las Elecciones locales, los plazos de publicación se reducirán a dos días naturales contados a partir del día siguiente al de constitución legal de la nueva Entidad local, igualmente se reducirán a dos días naturales los plazos de reclamaciones.
+
+### Disposición adicional primera. Determinación del límite de los gastos electorales.
+
+Para la aplicación de la fórmula regulada en las disposiciones especiales de la Ley Orgánica del Régimen Electoral General que permite determinar el límite de los gastos electorales que pueden realizar los partidos, federaciones, coaliciones o agrupaciones en cada tipo de elección, se tendrán en cuenta las cifras de población resultantes de la última revisión del padrón municipal de habitantes, oficialmente aprobada.
+
+### Disposición adicional segunda. Aplicación normativa.
+
+El presente Real Decreto es de aplicación en los términos de la disposición adicional primera de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+### Disposición adicional tercera. Habilitación normativa al Ministerio de Defensa.
+
+Por el Ministerio de Defensa se podrán dictar las normas que resulten necesarias para la adaptación de lo previsto en el artículo 9 del presente Real Decreto al personal embarcado en buques de la Armada, cuando se encuentren en situaciones excepcionales, vinculadas con la Defensa Nacional, que así lo aconsejen. En dichas normas podrán incluirse, asimismo, las previsiones oportunas para asegurar el ejercicio del derecho al sufragio, mediante el voto por correo, del personal perteneciente a unidades militares terrestres o aéreas que se encuentre destacado fuera del territorio nacional, en las precitadas situaciones excepcionales, y que participe o coopere con las Fuerzas de los países aliados y de Organizaciones internacionales en misiones de asistencia humanitaria o de mantenimiento de la paz internacional.
+
+### Disposición adicional cuarta. Habilitación normativa al Ministerio del Interior.
+
+Por el Ministerio del Interior se podrán dictar las normas que resulten necesarias para la adaptación de lo previsto en el artículo 9 del presente Real Decreto, a fin de asegurar el ejercicio del derecho al sufragio, mediante el voto por correo, del personal de los Cuerpos y Fuerzas de Seguridad del Estado que se encuentren en las circunstancias establecidas en la disposición adicional tercera.
+
+### Disposición transitoria única. Vigencia transitoria del artículo 10.
+
+El artículo 10 del presente Real Decreto tendrá vigencia hasta tanto se complete el régimen de regulación de los servicios de correspondencia pública marítima que tiene carácter de servicios obligatorios, regulados por el artículo 40.2 b) de la Ley 11/1998, de 24 de abril, General de Telecomunicaciones.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 421/1991, de 5 de abril, por el que se dictan normas reguladoras de los procesos electorales, modificado por el Real Decreto 563/1993, de 16 de abril, y cuantas normas de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
+
+### Disposición final primera. Habilitación de desarrollo.
+
+Se habilita al Ministro del Interior para, previo informe de la Junta Electoral Central, modificar el contenido de los anexos del presente Real Decreto.
+
+> Se añade por el art. 3.1 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+> Se reenumera por el art. 3.2 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Su anterior numeración era disposición final única.
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+Dado en Madrid a 16 de abril de 1999.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## ANEXO 1 — Urna electoral
+
+A) Para mesas electorales
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image1.png)
+
+Serán de un material resistente y transparente, y ocuparán, una vez desmontadas o plegadas, el menor espacio posible para su almacenamiento. Contarán con el menor número de piezas separables posibles para facilitar su montaje y desmontaje.
+
+Las medidas interiores, aproximadas, serán las siguientes: 42 centímetros (largo) por 31 centímetros (alto) por 29 centímetros (ancho).
+
+Las medidas exteriores no excederán en más de 3 centímetros de las medidas interiores.
+
+La tapa de la urna llevará una ranura en el centro de 18 centímetros y 0,5 centímetros de abertura (medidas aproximadas).
+
+A los efectos del oportuno precinto de la urna se dispondrán los correspondientes orificios que, permitiendo mecanismos de sellado adecuados, no sobresalgan de la parte lateral de la urna. La tapa cerrará completamente la urna.
+
+B) Para depósito consular
+
+La urna permitirá su precintado por cualquier medio al finalizar cada jornada.
+
+Asimismo, habrá de ser inviolable o permitir la aplicación de cualquier mecanismo que garantice su inviolabilidad.
+
+Por otra parte, siempre que ello sea posible, reunirá preferentemente las siguientes características:
+
+‒ Tendrá la mayor capacidad posible.
+
+‒ Será reutilizable o al menos reciclable.
+
+‒ Será de material transparente.
+
+> Se modifica por el art. único y se sustituye por el anexo 1 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se modifica por el art. único de la Orden INT/2838/2003, de 14 de octubre. [Ref. BOE-A-2003-19153](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19153)
+
+> Se modifica y se suprime el anexo 1 bis) por el art. 4.1 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+## ANEXO 2 — Cabina de votación
+
+La cabina electoral garantizará en todo momento la privacidad del elector en el ejercicio de su derecho de sufragio activo.
+
+Una vez montada deberá ser completamente estable.
+
+La cabina ocupará, una vez desmontada o plegada, el menor espacio posible para su almacenamiento.
+
+Las medidas aproximadas de la cabina serán las siguientes: 2 metros de altura por 1 metro de anchura por 1 metro de fondo.
+
+La cabina electoral deberá ser plenamente accesible y contendrá, necesariamente, una repisa unida a la estructura de la cabina a una altura aproximada de 1 metro del suelo.
+
+El diseño de la cabina garantizará el secreto de la votación del elector, para lo cual contará con elementos tales como cortinas o similares.
+
+Con la finalidad de obtener un mejor aprovechamiento del espacio, de abaratar los costes y de garantizar un mayor número de cabinas en cada local, se habilita la posibilidad de utilizar cabinas electorales dobles, que habrán de tener idénticas características que las detalladas en este anexo.
+
+> Se modifica por el art. único y se sustituye por el anexo 2 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se sustituye por el figura como anexo de la Orden INT/511/2022, de 3 de junio, según establece su art. único. [Ref. BOE-A-2022-9377](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9377)
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se modifica el apartado a) por el art. 1 de la Orden INT/3816/2007, de 19 de diciembre. [Ref. BOE-A-2007-22299](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22299)
+
+> Se modifica por el art. único de la Orden INT/2838/2003, de 14 de octubre. [Ref. BOE-A-2003-19153](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-19153)
+
+> Se modifica por el art. 4.1 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+## ANEXO 3 — Modelos de papeletas de votación
+
+P.1 Modelo de papeletas para las elecciones al Congreso de los Diputados.
+
+P.2 Modelo de papeletas para las elecciones al Senado.
+
+P.3 Modelo de papeletas para elección de Concejales y Concejalas.
+
+P.3.1 En municipios de más de 250 habitantes.
+
+P.3.1 bis Modelo para residentes temporalmente en el extranjero.
+
+P.3.2 En municipios entre 101 y 250 habitantes.
+
+P.3.2 bis Modelo para residentes temporalmente en el extranjero.
+
+P.3.3 En municipios de hasta 100 habitantes.
+
+P.3.2 bis Modelo para residentes temporalmente en el extranjero.
+
+P.4 Modelos de papeletas para elección de Alcaldes y Alcaldesas.
+
+P.4.1 En municipios en régimen de Concejo Abierto.
+
+P.4.1 bis Modelo para residentes temporalmente en el extranjero.
+
+P.4.2 Alcaldes y Alcaldesas Pedáneos en Entidades Locales Menores.
+
+P.4.2 bis Modelo para residentes temporalmente en el extranjero.
+
+P.5 Modelo de papeleta para las elecciones a Cabildos Insulares de Canarias.
+
+P.6 Modelo de papeleta para las elecciones al Parlamento Europeo.
+
+**Características generales de las papeletas**
+
+‒ El color de las papeletas será el determinado en el artículo 4.2 del presente Real Decreto.
+
+‒ Impresión en tinta negra.
+
+‒ Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+‒ Símbolo, en su caso, en recuadro de 20 x 20 mm.
+
+‒ Para el voto de las personas que viven en el extranjero y están inscritas en el CERA, además de los tamaños indicados expresamente para cada modelo, serán válidas también las papeletas obtenidas desde la página web oficial de cada convocatoria, impresas en una hoja tamaño DIN-A4, o cualquier otro análogo, con la excepción de la papeleta modelo P.2, de votación al Senado, cuando por el número de candidaturas ésta requiera su impresión en tamaño DIN-A3.
+
+P.1 Modelo de papeleta para el Congreso de los Diputados.
+
+Especificaciones:
+
+Tamaños aproximados, dependiendo del número de candidatos/as:
+
+105 x 148 mm.
+
+105 x 223 mm.
+
+105 x 297 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolo en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image2.png)
+
+P.2 Modelo de papeleta para el Senado.
+
+Especificaciones:
+
+Uno. Las candidaturas se distribuirán de la siguiente forma:
+
+‒ Hasta 10 candidaturas: dos cuerpos, cinco candidaturas por cuerpo, DIN-A4 impresión por una cara.
+
+‒ De 11 a 14 candidaturas: dos cuerpos, siete candidaturas por cuerpo, DIN-A4 impresión por una cara.
+
+‒ De 15 a 20 candidaturas: cuatro cuerpos (dos en cada cara), cinco candidaturas por cuerpo, DIN-A4 impresión por ambas caras.
+
+‒ De 21 a 28 candidaturas: cuatro cuerpos (dos en cada cara), siete candidaturas por cuerpo, DIN-A4 impresión por ambas caras.
+
+‒ De 29 a 40 candidaturas: ocho cuerpos (cuatro en cada cara), cinco candidaturas por cuerpo, DIN-A3 impresión por ambas caras.
+
+‒ A partir de 41 candidaturas: ocho cuerpos (cuatro en cada cara), siete candidaturas por cuerpo, DIN-A3 impresión por ambas caras.
+
+Dos. Las candidaturas se ordenarán en cada cara, utilizando todos los cuerpos, de izquierda a derecha, de conformidad con el artículo 172.3 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+Tres. Se incluirá la denominación, sigla y símbolo de la formación política que presenta al candidato y, debajo, los nombres de los candidatos en el orden que establezca cada una de las formaciones políticas. Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura. Símbolo en recuadro de 20 x 20 mm.
+
+Cuatro. El espacio destinado a cada candidatura en la papeleta será el necesario para contener a cuatro candidatos; en él sólo aparecerán los recuadros correspondientes a los candidatos efectivamente proclamados, por lo que, en el caso de haber resultado proclamados menos de cuatro candidatos, quedaría en blanco el resto del espacio correspondiente a la candidatura.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image4.png)
+
+P.3.1 Modelo de papeleta para municipios de más de 250 habitantes.
+
+Especificaciones:
+
+Tamaños aproximados, dependiendo del número de candidatos/as:
+
+105 x 148 mm.
+
+105 x 223 mm.
+
+105 x 297 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolo en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image5.png)
+
+P.3.1 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios de más de 250 habitantes y en las Ciudades Autónomas de Ceuta y Melilla.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image6.png)
+
+P.3.2 Modelo de papeleta para municipios entre 101 y 250 habitantes.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 297 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolos en recuadros de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image7.png)
+
+P.3.2 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios entre 101 y 250 habitantes.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image8.png)
+
+P.3.3 Modelo de papeleta para municipios de hasta 100 habitantes.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 223 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolo en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image9.png)
+
+P.3.3 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios de hasta 100 habitantes.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image10.png)
+
+P.4.1 Modelo de papeleta para Alcaldes/Alcaldesas de municipios que funcionen en régimen de Concejo Abierto.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Bajo el nombre de cada candidato/a se especificará la denominación o sigla del Partido, Federación, Coalición o Agrupación de Electores que le presente, o en su caso la condición de independiente.
+
+En el margen derecho, el símbolo en su caso, en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image11.png)
+
+P.4.1 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en la elección de Alcaldes/Alcaldesas de municipios que funcionen en régimen de Concejo Abierto.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image12.png)
+
+P.4.2 Modelo de papeleta para la elección de Alcalde/Alcaldesa Pedáneo/a en Entidades Locales Menores.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impresión por una cara.
+
+Bajo el nombre de cada candidato/a se especificará la denominación o sigla del Partido, Federación, Coalición o Agrupación de Electores que le presente, o en su caso la condición de independiente.
+
+En el margen derecho, el símbolo en su caso, en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image13.png)
+
+P.4.2 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en la elección de Alcalde/Alcaldesa Pedáneo/a en Entidades Locales Menores.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impresión por una cara.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image14.png)
+
+P.5 Modelo de papeleta para Consejeros/as de Cabildos Insulares de Canarias.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 223 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolo en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image15.png)
+
+P.6 Modelo de papeleta para elecciones al Parlamento Europeo.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 297 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolo en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image16.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 3 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica el modelo P.2 por el art. único.1 de la Orden INT/2609/2011, de 28 de septiembre. [Ref. BOE-A-2011-15449](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15449).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se modifica el modelo EPE 3.1 por el apartado único de la Orden INT/1025/2009, de 28 de abril. [Ref. BOE-A-2009-7113](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-7113).
+
+> Se suprime el anterior modelo de papeleta ECG-3.2. y se sustituye el ECG-32.a por el nuevo ECG-3.2 por el art. 2 de la Orden INT/3816/2007, de 19 de diciembre. [Ref. BOE-A-2007-22299](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22299)
+
+> Se añade el modelo 3.5.bis por la disposición final 2.1 del Real Decreto 1621/2007, de 7 de diciembre. [Ref. BOE-A-2007-21501](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21501)
+
+> Se modifican los modelos EL-3.3, EL-3.5 y EL-3.6 por el art. 4.2 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+## ANEXO 4 — Modelos de sobres
+
+S.1 Modelos de sobres de votación.
+
+S.1 Sobre de votación.
+
+S.1 bis Sobre de votación genérico multilingüe para electores CERA, disponible en consulados.
+
+S.2 Modelos de sobres para la remisión de documentación por la Oficina del Censo Electoral.
+
+S.2.1 Sobre para la remisión de la documentación electoral para votar por correo. Modelo con o sin ventanilla.
+
+S.2.2 Sobre para la remisión de la documentación electoral a los residentes en el extranjero (correo certificado). Modelo en dos tamaños normalizados, de 324 x 229 mm o 229 x 162 mm, con o sin ventanilla.
+
+S.2.3 Sobre para la remisión de las papeletas a los residentes en el extranjero (correo ordinario).
+
+S.3 Modelos de sobres para la remisión de documentación a los Presidentes de las Mesas electorales.
+
+S.3.1 Sobre para la remisión del voto por correo.
+
+S.3.2 Sobre para la remisión del voto de los electores residentes temporalmente en el extranjero (con franqueo).
+
+S.3.3 Sobre para la remisión de las copias de los nombramientos de interventores.
+
+S.4 Modelos de sobres para la remisión de documentación a las Juntas Electorales.
+
+S.4.1 Sobre para la remisión del voto por correo a la Junta electoral Provincial por los electores residentes en el extranjero desde España.
+
+S.4.2 Sobre para la remisión del voto CERA a la Junta Electoral Provincial.
+
+S.5 Modelo de sobre a utilizar por las Mesas electorales (sobre bolsa).
+
+S.6 Modelo de sobre para el envío a la Oficina del Censo Electoral de la solicitud del certificado de inscripción en el censo electoral.
+
+S.7 Modelo de sobre para el envío al Consulado o Embajada por parte de los electores residentes en el extranjero.
+
+S.7 a Sobre para la remisión del voto por los electores residentes en el extranjero (con franqueo).
+
+S.7 b Sobre para la remisión del voto por los electores residentes en el extranjero (sin franqueo).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image17.png)
+
+(1) El sobre se identificará con «ELECCIONES», salvo el caso de elecciones locales, en que se rotulará como «ELECCIONES LOCALES».
+
+En caso de concurrencia de elecciones donde se utilicen sobres a diputados/as, se identificará cada proceso convocado.
+
+(2) Según proceda, se especificará en el caso de Elecciones a Cortes Generales, DIPUTADOS/AS, SENADORES/AS.
+
+En el caso de Elecciones al Parlamento Europeo, DIPUTADOS/AS.
+
+En el caso de Elecciones Locales, CONCEJALES/AS, ALCALDE/ALCALDESA, ALCALDE/ALCALDESA PEDÁNEO/A o CABILDOS.
+
+Especificaciones:
+
+Tamaño de 114 x 162 mm.
+
+El color de los sobres, en cualquier tonalidad y con opacidad superior al 85%, se ajustará a lo establecido en el art. 4.2 del presente Real Decreto.
+
+Papel de 70 g/m<sup>2</sup>, con fondo interior.
+
+Engomado en la punta de cierre o a lo largo de toda la solapa.
+
+Modelo cruce o bobina.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image18.png)
+
+S.1 bis Sobre de votación. A facilitar en consulados a electores CERA.
+
+En el recuadro en blanco se identificará, en caso de concurrencia electoral, el proceso de que se trate.
+
+Especificaciones:
+
+Tamaño de 114 x 162 mm.
+
+El sobre será blanco, en cualquier tonalidad y con opacidad superior al 85%.
+
+Papel de 70 g/m<sup>2</sup>, con fondo interior.
+
+Engomado en la punta de cierre o a lo largo de toda la solapa.
+
+Modelo cruce o bobina.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image19.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image20.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image21.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image22.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image23.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image24.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image25.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image26.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image27.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image28.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image29.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image30.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image31.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image32.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image33.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 4 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se suprime el modelo S.6 por el art. único.3 de la Orden INT/2609/2011, de 28 de septiembre. [Ref. BOE-A-2011-15449](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15449).
+
+> Se modifica por el art. único de la Orden INT662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se añaden los modelos C.4.5.b y EL.4.5.b por el art. 3 de la Orden INT/3816/2007, de 19 de diciembre. [Ref. BOE-A-2007-22299](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22299)
+
+> Se añaden los modelos C.4.5.bis y C.4.5.a-bis por la disposición final 2.2 del Real Decreto 1621/2007, de 7 de diciembre. [Ref. BOE-A-2007-21501](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21501)
+
+> Se modifica el modelo EL-4.1 por el art. 4.2 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+## ANEXO 5 — Modelos de impresos de presentación de candidaturas
+
+C.1 Constitución de coalición electoral.
+
+C.1a Constitución de coalición electoral por partidos políticos o federaciones de partidos.
+
+C.1b Comunicación por una Junta Electoral a la Junta Electoral Central y, en su caso, a la Junta Electoral de una comunidad autónoma, de constitución válida de coaliciones electorales.
+
+C.2 Presentación de candidaturas.
+
+C.3 Hojas de firmas.
+
+C.4 Indicación del ámbito de difusión de las papeletas en las elecciones al Parlamento Europeo.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image34.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image35.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image36.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image37.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image38.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image39.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image40.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image41.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image42.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image43.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image44.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image45.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image46.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image47.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image48.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 5 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica el índice y el modelo C.1 y se añade el modelo C.1 bis por el art. único.1 a 3 de la Orden INT/318/2019, de 19 de marzo. [Ref. BOE-A-2019-4082](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-4082), de conformidad con los anexos 1 a 3 de la misma.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifican los modelos C1 y C2 por el art. único.2 de la Orden INT/2609/2011, de 28 de septiembre. [Ref. BOE-A-2011-15449](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15449).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se sustituyen los modelos C.5.2, C.5.3, EPE.5.2, EPE 5.3 y EPE 5.5 por el art. 4 de la Orden INT/3816/2007, de 19 de diciembre. [Ref. BOE-A-2007-22299](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22299)
+
+## ANEXO 6 — Modelos de solicitudes y certificaciones de la oficina del censo electoral para el voto por correo y para los electores CERA
+
+VC.1 Solicitudes.
+
+VC.1.a Solicitud de certificado para el voto por correo (impreso dos hojas).
+
+VC.1.b Solicitud de certificado para el voto por correo de los electores temporalmente ausentes (impreso dos hojas).
+
+VC.2 Certificaciones y comunicaciones.
+
+VC.2.a Certificado de estar inscrito en el censo para el voto por correo.
+
+VC.2.b Comunicación de no figurar inscrito en la lista de electores.
+
+VC.2.c Certificado de estar inscrito en el censo de Residentes Ausentes para el voto desde el exterior (CERA).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image49.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image50.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image51.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image52.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image53.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image54.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image55.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 6 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica el modelo VC.1.c y se añade el VC.1.c.bis por el art. único y el anexo de la Orden INT/358/2015, de 27 de febrero. [Ref. BOE-A-2015-2292](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-2292).
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifican los modelos VC.1a y VC.1c por el art. único.2 de la Orden INT/2609/2011, de 28 de septiembre. [Ref. BOE-A-2011-15449](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15449).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se sustituyen los modelos C.6.1 y C.6.1.a por el art. 5 de la Orden INT/3816/2007, de 19 de diciembre. [Ref. BOE-A-2007-22299](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22299)
+
+> Se añaden los modelos C.6.1.bis y C.6.1.a-bis por la disposición final 2 del Real Decreto 1621/2007, de 7 de diciembre. [Ref. BOE-A-2007-21501](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-21501)
+
+## ANEXO 7 — Modelos de impresos para designaciones y nombramientos
+
+N.1 Nombramiento de miembro de Mesa (impreso de 4 hojas).
+
+N.1.a Nombramiento y citación.
+
+N.1.b Acuse de recibo.
+
+N.1.c Comunicación datos identificación.
+
+N.1.d Comunicación datos identificación ‒copia‒.
+
+N.2 Comunicación de la composición de las mesas a la Junta Electoral de Zona y al Juez de Primera Instancia o de Paz.
+
+N.3 Nombramiento de interventor (impreso de 4 hojas).
+
+N.3.a Matriz.
+
+N.3.b Credencial.
+
+N.3.c Comunicación a la Presidencia de la Mesa de la que forma parte.
+
+N.3.d Comunicación a la Presidencia de la Mesa en cuya lista figura inscrito.
+
+N.4 Nombramiento de apoderado (impreso de 2 hojas).
+
+N.4.a Matriz.
+
+N.4.b Credencial.
+
+N.5 Nombramiento de representante de la Administración (impreso de 2 hojas).
+
+N.5.a Credencial.
+
+N.5.b Copia.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image56.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image57.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image58.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image59.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image60.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image61.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image62.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 7 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica el mdodelo N.1 por el art. único.2 de la Orden INT/2609/2011, de 28 de septiembre. [Ref. BOE-A-2011-15449](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15449).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+## ANEXO 8 — Modelos de impresos para la actuación de las Mesas electorales
+
+M.1 Lista numerada de votantes.
+
+M.1.a Portada.
+
+M.1.b Lista numerada de votantes.
+
+M.1.c Instrucciones para su cumplimentación.
+
+M.2 Recibo de entrega de la documentación electoral.
+
+M.3 Certificación de asistencia y votación.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image63.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image64.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image65.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image66.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image67.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image68.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 8 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+## ANEXO 9 — Modelos de Actas a utilizar por la administración electoral y funcionarios consulares
+
+A.M. Modelos de Actas a utilizar por las Mesas electorales.
+
+A.C.M. Acta de constitución de la Mesa electoral.
+
+A.E.M. Acta de escrutinio.
+
+Modelo DIN A4.
+
+Modelo DIN A3.
+
+A.S.M. Acta de sesión.
+
+Modelo en hoja única: DIN A3.
+
+Modelo en dos hojas:
+
+1.ª hoja DIN A3.
+
+2.ª hoja DIN A4.
+
+A.J. Modelos de Actas a utilizar por las Juntas Electorales.
+
+‒ Escrutinio del voto de los residentes en el extranjero.
+
+A.C.J. CERA. Acta de constitución de la Junta como Mesa electoral.
+
+A.E.J. CERA. Acta de escrutinio.
+
+‒ Escrutinio definitivo.
+
+A.C.J. Acta de constitución de la Junta Electoral.
+
+A.E.J. Acta de escrutinio.
+
+A.S.J. Acta de sesión/es del escrutinio.
+
+A.P.J. Acta de proclamación de electos.
+
+A.F.C. Modelo de Acta a utilizar por los funcionarios consulares (voto CERA).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279788_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/95/7123_14279788_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image70.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image71.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image72.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image73.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image74.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image75.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279787_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279787_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/95/7123_14279787_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image78.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image79.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image80.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image81.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image82.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_5.png)
+
+> Se modifica por el art. único de la Orden INT/309/2024, de 9 de abril. [Ref. BOE-A-2024-7123](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7123)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 95, de 18 de abril de 2024. [Ref. BOE-A-2024-7702](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7702)
+
+> Se modifica por el art. único y se sustituye por el anexo 9 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica el modelo AFC por el art. único.4 de la Orden INT/318/2019, de 19 de marzo. [Ref. BOE-A-2019-4082](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-4082), de conformidad con el anexo 4 de la misma.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+## ANEXO 10 — Modelos de credencial de cargos electos
+
+CR.1 Credencial de cargo electo.
+
+CR.2 Credencial de cargo electo (Diputados/as Provinciales).
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image87.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image88.png)
+
+> Se modifica por el art. único y se sustituye por el anexo 10 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Se modifica por el art. 5 del Real Decreto 1382/2002, de 20 de diciembre. [Ref. BOE-A-2002-24911](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-24911)
+
+> Rectificada la entrada en vigor conforme a la corrección de erratas publicada en BOE núm. 8, de 9 de enero de 2003. [Ref. BOE-A-2003-540](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-540)
+
+## ANEXO 11 — Listado de documentación común en caso de concurrencia electoral
+
+1\. Documentación común en caso de concurrencia electoral excluyendo las elecciones Locales.
+
+Modelos de sobres
+
+S.2.1 Sobre para la remisión, por parte de la OCE, de la documentación electoral para votar por correo.
+
+S.2.2 Sobre para la remisión, por parte de la OCE, de la documentación electoral a los residentes en el extranjero (correo certificado).
+
+S.2.3 Sobre para la remisión, por parte de la OCE, para las papeletas a los residentes en el extranjero (correo ordinario).
+
+S.3.1 Sobre para la remisión del voto por correo *(al Presidente de la Mesa).*
+
+S.3.2 Sobre para la remisión del voto de electores temporalmente ausentes *(al Presidente de la Mesa).*
+
+S.3.3 Sobre para la remisión de las copias de los nombramientos de interventores *(al Presidente de la Mesa).*
+
+S.4.1 Sobre para la remisión del voto CERA a la JEP desde España.
+
+S.4.2 Sobre para la remisión del voto CERA a la JEP.
+
+S.5 Sobre a utilizar por las mesas electorales (sobre bolsa).
+
+S.6 Sobre para el envío de la OCE de la solicitud del certificado de inscripción en el censo electoral para el voto por correo.
+
+S.7 a y b Sobre para la remisión del voto al Consulado o Embajada por los electores CERA (con y sin franqueo).
+
+Modelos de impresos
+
+VC.1a Solicitud del voto por correo.
+
+VC.1b Solicitud voto por los electores temporalmente ausentes.
+
+VC.2a Certificado de la OCE de inscripción en el censo.
+
+VC.2b Comunicación de la OCE de NO inscripción en el censo.
+
+VC.2c Certificado de la OCE de inscripción en el CERA.
+
+N.1 Nombramiento de miembros de la Mesa.
+
+N.1a Nombramiento y citación.
+
+N.1b Acuse de recibo.
+
+N.1c Comunicación datos identificación.
+
+N.1d Comunicación datos identificación ‒copia‒.
+
+N.2 Comunicación a la JEZ y a Juzgados de la composición de las Mesas.
+
+N.3 Nombramiento de interventores.
+
+N.3a Matriz.
+
+N.3b Credencial.
+
+N.3c Comunicación a la Presidencia de la Mesa de la que forma parte.
+
+N.3d Comunicación a la Presidencia de la Mesa en cuya lista figura inscrito.
+
+N.4 Nombramiento de apoderados.
+
+N.4a Matriz.
+
+N.4b Credencial.
+
+N.5(*) Nombramiento de representantes de la Administración.
+
+N.5.a Credencial.
+
+N.5.b Copia.
+
+M.1 Lista numerada de votantes.
+
+M.1a Portada.
+
+M.1b Lista numerada de votantes.
+
+M.1c Instrucciones para su cumplimentación.
+
+M.2 Recibo de entrega de la documentación electoral.
+
+M.3 Certificados de votación.
+
+ACM Acta de constitución de la Mesa electoral.
+
+AFC Acta del Funcionario Consular.
+
+2\. Documentación común en caso de concurrencia con elecciones Locales.
+
+Modelos de sobres
+
+S.2.1 Sobre para la remisión, por parte de la OCE, de la documentación electoral para votar por correo.
+
+S.2.2 (**) Sobre para la remisión, por parte de la OCE, de la documentación electoral a los residentes en el extranjero.
+
+S.2.3 (**) Sobre para la remisión, por parte de la OCE, de las papeletas a los residentes en el extranjero (correo ordinario).
+
+S.3.1 Sobre para la remisión del voto por correo *(al Presidente de la Mesa)*.
+
+S.3.2 Sobre para la remisión del voto de electores temporalmente ausentes *(al Presidente de la Mesa)*.
+
+S.3.3 Sobre para la remisión de las copias de los nombramientos de interventores *(al Presidente de la Mesa)*.
+
+S.4.1 (***) Sobre para la remisión del voto CERA a la JEP desde España.
+
+S.4.2 (***) Sobre para la remisión del voto CERA a la JEP.
+
+S.5 (****) Sobre a utilizar por las Mesas electorales (sobre bolsa).
+
+S.6 Sobre para el envío a la OCE de la solicitud del certificado de inscripción en el censo electoral para el voto por correo.
+
+S.7 a y b (***) Sobre para la remisión del voto al Consulado o Embajada por los electores CERA (con y sin franqueo).
+
+Modelos de impresos
+
+VC.1a Solicitud del voto por correo.
+
+VC.1b Solicitud del voto por los electores temporalmente ausentes.
+
+VC.2a Certificado de la OCE de inscripción en el censo.
+
+VC.2b Comunicación de la OCE de NO inscripción en el censo.
+
+VC.2c Certificado de la OCE de inscripción en el CERA.
+
+N.1 Nombramiento de miembros de Mesa.
+
+N.1a Nombramiento y citación.
+
+N.1b Acuse de recibo.
+
+N.1c Comunicación datos identificación.
+
+N.1d Comunicación datos identificación ‒copia‒.
+
+N.2 Comunicación a la JEZ y a Juzgados de la composición de las Mesas.
+
+N.3 Nombramiento de interventores.
+
+N.3a Matriz.
+
+N.3b Credencial.
+
+N.3c Comunicación a la Presidencia de la Mesa de la que forma parte.
+
+N.3d Comunicación a la Presidencia de la Mesa en cuya lista figura inscrito.
+
+N.4 Nombramiento de apoderados.
+
+N.4a Matriz.
+
+N.4b Credencial.
+
+N.5 (*) Nombramiento de representantes de la Administración.
+
+N.5a Credencial.
+
+N.5b Copia.
+
+M.1 Lista numerada de votantes.
+
+M.1a Portada.
+
+M.1b Lista numerada de votantes.
+
+M.1c Instrucciones para su cumplimentación.
+
+M.2 (****) Recibo de entrega de sobres.
+
+M.3 Certificados de votación.
+
+ACM Acta de constitución de la Mesa electoral.
+
+AFC Acta del Funcionario Consular.
+
+(*) Será impreso común, excepto en concurrencia con elecciones a las Asambleas Legislativas de las Comunidades autónomas cuando éstas nombren a sus propios representantes.
+
+(**) El modelo S.2.2 tiene dos usos (CERA y ERTA). En caso de concurrencia entre elecciones Locales y elecciones a las Asambleas Legislativas de las Comunidades Autónomas, su uso para electores CERA se limitará a aquellos que voten a las asambleas de Ceuta y Melilla. Esto mismo es aplicable al modelo S.2.3.
+
+(***) Sin perjuicio del carácter común de estos sobres, en caso de concurrencia entre elecciones Locales y elecciones a las Asambleas Legislativas de las Comunidades Autónomas, solo se utilizarán por los electores CERA a las asambleas de Ceuta y Melilla.
+
+(****) Estos modelos serán comunes únicamente para las elecciones municipales y las elecciones a Entidades de Ámbito Territorial Inferior al Municipio (EATIM).
+
+> Se modifica por el art. único y se sustituye por el anexo 11 de la Orden INT/316/2023, de 29 de marzo. [Ref. BOE-A-2023-8225](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-8225)
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
+
+> Se modifica por el art. único.5 de la Orden INT/318/2019, de 19 de marzo. [Ref. BOE-A-2019-4082](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-4082), de conformidad con el anexo 5 de la misma.
+
+> Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. [Ref. BOE-A-2014-3597](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3597).
+
+> Se modifica por el art. único de la Orden INT/662/2011, de 23 de marzo. [Ref. BOE-A-2011-5607](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5607).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 89, de 14 de abril de 2011. [Ref. BOE-A-2011-6708](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6708).

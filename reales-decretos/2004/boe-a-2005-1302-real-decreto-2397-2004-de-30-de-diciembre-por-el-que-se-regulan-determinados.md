@@ -1,0 +1,75 @@
+---
+title: "Real Decreto 2397/2004, de 30 de diciembre, por el que se regulan determinados aspectos organizativos en el ámbito del Ministerio de Industria, Turismo y Comercio"
+identifier: "BOE-A-2005-1302"
+eli: "https://www.boe.es/eli/es/rd/2004/12/30/2397"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Administraciones Públicas"
+date: 2004-12-30
+published: 2005-01-26
+in_force_from: 2005-01-27
+last_amended: 2007-01-02
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 22"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-1302"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2397/2004, de 30 de diciembre, por el que se regulan determinados aspectos organizativos en el ámbito del Ministerio de Industria, Turismo y Comercio
+
+El Real Decreto 1554/2004, de 25 de junio, que desarrolla la estructura orgánica básica del Ministerio de Industria, Turismo y Comercio establece, en su disposición transitoria quinta, que con efectos desde el 1 de enero de 2005, las Direcciones Regionales y Territoriales de Comercio, se integrarán orgánicamente en las Delegaciones de Gobierno, perdiendo por tanto su condición de dependencia integrada en las Delegaciones de Economía y Hacienda.
+
+Sin embargo, la integración de las Direcciones de Comercio en las Delegaciones del Gobierno plantea importantes problemas de funcionamiento como son, entre otros, la adscripción de las correspondientes partidas presupuestarias y de personal, así como su gestión y régimen retributivo, la determinación y asignación de medios materiales y tecnológicos o de los locales a ocupar. Por otra parte, el informe de evaluación de las Delegaciones y Subdelegaciones de Gobierno, recientemente elaborado, ha puesto de manifiesto la necesidad de mejorar los servicios periféricos actualmente integrados en ellas, y se ha encomendado a la Comisión Coordinadora de las Inspecciones Generales de Servicios de los Departamentos Ministeriales un informe que permitirá al Ministerio de Administraciones Públicas efectuar propuestas de mejora del funcionamiento de la administración periférica de la Administración General del Estado.
+
+Debe tenerse en cuenta que las Direcciones Regionales y Territoriales de Comercio son piezas fundamentales en el marco de la política de apoyo a la internacionalización de la empresa desempeñando funciones de gran importancia para el Ministerio de Industria, Turismo y Comercio como la emisión de autorizaciones de importación y exportación, las relaciones con Cámaras de Comercio y Asociaciones de exportadores de la zona, la promoción e información comercial en el ámbito de su demarcación, la información sobre oportunidades de inversión en el exterior, las inspecciones de calidad del comercio exterior, el servicio de pruebas analíticas y de asistencia técnica para el sector exportador, etc. En este sentido cabe concluir que esta Red Territorial de Comercio tiene unas características organizativas y funcionales específicas muy acusadas.
+
+En consecuencia, con el fin de no distorsionar el normal desarrollo de las funciones que tienen asignadas las Direcciones Territoriales y Regionales de Comercio, de aplicar un criterio de máxima austeridad en los costes administrativos generados y, sobre todo, con el fin de posibilitar la construcción de un entorno organizativo adecuado a la Red Territorial de comercio parece aconsejable prorrogar la vigencia de la disposición transitoria 5.ª del Real Decreto 1554/2004 de 25 de junio.
+
+Este Real Decreto también se refiere a la Comisión del Mercado de las Telecomunicaciones, organismo público adscrito al Ministerio de Industria, Turismo y Comercio a través de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información, determinando que su sede se traslade a Barcelona.
+
+El cambio de sede se adecua a la lógica y principios inherentes a la naturaleza del Estado de las Autonomías y se lleva a cabo en el marco regulatorio establecido en la disposición adicional décima de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+En su virtud, a iniciativa del Ministro de Industria, Turismo y Comercio, a propuesta del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2004
+
+## D I S P O N G O :
+
+### Artículo único. Direcciones Regionales y Territoriales de Comercio.
+
+**(Párrafo primero derogado)**
+
+Hasta tanto se integren las Direcciones Regionales y Territoriales de Comercio, éstas mantendrán su actual regulación y dependencia, y a estos efectos, las disposiciones reglamentarias que vienen regulando la organización y funcionamiento de dichas Direcciones Regionales y Territoriales mantendrán su vigencia durante el citado período transitorio.
+
+> Se deroga el párrafo primero por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+### Disposición adicional única. Cambio de sede de la Comisión del Mercado de las Telecomunicaciones.
+
+**(Anulada)**
+
+> Se declara la nulidad por Sentencia del TS de 27 de noviembre de 2006. [Ref. BOE-A-2007-53](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-53).
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 27 de noviembre de 2006. [Ref. BOE-A-2007-54](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-54).
+
+### Disposición derogatoria.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente real decreto.
+
+### Disposición final primera. Desarrollo.
+
+**(Anulada)**
+
+> Se declara la nulidad por Sentencia del TS de 27 de noviembre de 2006. [Ref. BOE-A-2007-54](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-54).
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación oficial en el Boletín Oficial del Estado.
+
+Dado en Madrid, el 30 de diciembre de 2004.
+
+JUAN CARLOS R.
+
+El Ministro de Administraciones Públicas,
+
+JORDI SEVILLA SEGURA

@@ -1,0 +1,225 @@
+---
+title: "Real Decreto 431/2004, de 12 de marzo, por el que se regulan las retribuciones previstas en la disposición transitoria tercera de la Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal"
+identifier: "BOE-A-2004-5191"
+eli: "https://www.boe.es/eli/es/rd/2004/03/12/431"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2004-03-12
+published: 2004-03-23
+in_force_from: 2004-03-24
+last_amended: 2013-09-28
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 71"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-5191"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 431/2004, de 12 de marzo, por el que se regulan las retribuciones previstas en la disposición transitoria tercera de la Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal
+
+Con fecha 27 de mayo de 2003 se publicó en el «Boletín Oficial del Estado» la Ley 15/2003, de 26 de mayo, reguladora del régimen retributivo de las carreras judicial y fiscal.
+
+Dicha ley modifica el sistema y estructura de las retribuciones de magistrados, jueces y fiscales que constan, a partir de ella, de un componente fijo y otro variable.
+
+Las retribuciones fijas se desagregan en básicas (sueldo y antigüedad) y complementarias (complemento de destino y específico), y las retribuciones variables incluyen las vinculadas al rendimiento individual acreditado para cada juez o magistrado en el desempeño de sus funciones y las retribuciones por participar en programas concretos de actuación en órganos judiciales.
+
+Además de las retribuciones mencionadas, y compatibles con estas, la ley prevé retribuciones especiales entre las que se incluyen las correspondientes a prestación de servicios extraordinarios sin relevación de funciones, y a sustituciones que impliquen el desempeño conjunto de otra función.
+
+La ley regula el contenido y cuantía de las retribuciones fijas y variables, pero no aborda la regulación concreta de algunos otros conceptos retributivos.
+
+Así, la disposición transitoria tercera señala que, en tanto no se dicten nuevas normas reguladoras, la retribución correspondiente a la actuación accidental o esporádica en cargo retribuido en las carreras judicial y fiscal en concepto de suplencias, las sustituciones que impliquen el desempeño conjunto de otra función, la realización de funciones ajenas a las propias del puesto de trabajo y la participación en programas concretos de actuación continuará rigiéndose por lo dispuesto en el Real Decreto 391/1989, de 21 de abril.
+
+Por otro lado, la disposición final cuarta de la ley fija un plazo de seis meses para que el Gobierno regule la nueva normativa correspondiente a las retribuciones que se mencionan en la disposición transitoria tercera, que es el objeto de este real decreto.
+
+Atendiendo a su contenido, el proyecto ha sido sometido a informe del Fiscal General del Estado y del Consejo General del Poder Judicial.
+
+En su virtud, a propuesta de los Ministros de Justicia y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de marzo de 2004,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+Este real decreto regula el régimen jurídico de las siguientes retribuciones:
+
+a) Las retribuciones especiales devengadas por los miembros de las carreras judicial y fiscal como consecuencia de las sustituciones que impliquen el desempeño conjunto de otra función o de la prestación de servicios extraordinarios sin relevación de funciones jurisdiccionales.
+
+b) Las retribuciones devengadas por los miembros de las carreras judicial y fiscal como consecuencia de su participación en programas de actuación por objetivos autorizados por el Ministerio de Justicia.
+
+c) El régimen retributivo aplicable a los magistrados suplentes y a los jueces y fiscales sustitutos.
+
+## CAPÍTULO II — Retribuciones especiales por sustitución y por servicios extraordinarios
+
+### Artículo 2. Retribuciones especiales por sustituciones en la carrera judicial.
+
+1\. Los miembros de la carrera judicial tendrán derecho a una retribución especial, por el desempeño conjunto de sus funciones jurisdiccionales con las correspondientes a otro órgano jurisdiccional, mediante el sistema de sustitución, con o sin prórroga de jurisdicción.
+
+No devengarán derecho a retribución las sustituciones que tengan su origen en las ausencias autorizadas a las que se refiere el artículo 373.8 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, ni las derivadas del ejercicio por el sustituido del derecho a disfrutar de sus vacaciones anuales retribuidas. Tampoco devengarán tal derecho las sustituciones inferiores a diez días, salvo que el sustituto deba celebrar señalamientos, deliberaciones, vistas o cualquier diligencia judicial que exija la presencia del juez ante las partes; también cuando, con motivo de la sustitución, deba dictar sentencia o adoptar en resolución motivada cualquier medida cautelar o urgente. Se exceptúa de lo anterior aquellas sustituciones que tengan su origen en enfermedad justificada del titular, que se abonarán desde el primer día con independencia de las actuaciones que se celebren o resoluciones que se dicten.
+
+2\. La cuantía de las retribuciones especiales por sustitución será igual al 80% del complemento de destino previsto para el desempeño profesional en el órgano que se sustituya. Para su cuantificación se tendrán en cuenta el grupo de población en el que se integra y las condiciones objetivas de representación vinculadas al cargo que se sustituye, quedando fuera del cómputo otras circunstancias especiales asociadas al destino a las que hace referencia el artículo 5 de la Ley 15/2003, de 26 de mayo.
+
+3\. El 80 % del complemento de destino se devengará en la parte proporcional a los días efectivos de sustitución. En el caso de sustituciones inferiores a diez días en las que proceda el derecho a retribución conforme a lo dispuesto en el apartado primero, y excepción hecha de aquellas que tengan su origen en enfermedad justificada del titular, solo se abonarán las correspondientes a los días en los que, efectivamente, se hayan celebrado las actuaciones allí previstas o en los que hubiesen quedado los autos para dictar las resoluciones también ahí mencionadas.
+
+4\. El abono de estas retribuciones se efectuará por el Ministerio de Justicia previa certificación o certificaciones de su realización por el Secretario Judicial del respectivo órgano judicial, dentro de las disponibilidades presupuestarias anuales.
+
+> Se modifica por el art. único.1 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Artículo 2 bis. Retribuciones especiales por sustituciones en la carrera fiscal.
+
+1\. Los miembros de la carrera fiscal tendrán derecho a una retribución especial por el desempeño conjunto de las funciones que tienen asignadas con todas o alguna de las correspondientes a otro miembro del ministerio fiscal de la plantilla de la propia fiscalía a la que estuviesen destinados o de otra diferente, mediante el sistema de sustitución.
+
+2\. El Ministerio de Justicia comunicará al inicio de cada ejercicio presupuestario al Fiscal General del Estado la cuantía máxima global que podrá destinarse al pago de estas retribuciones.
+
+La cuantía de estas retribuciones especiales por sustitución, en los casos en los que proceda por concurrir los requisitos para su devengo, no podrá ser superior al 80% del complemento de destino del puesto que se sustituya. Para su cuantificación se tendrán en cuenta el grupo de población en el que se integra y las condiciones objetivas de representación vinculadas al cargo sustituido, quedando fuera del cómputo otras circunstancias especiales asociadas al destino a las que hace referencia el Anexo V.3 de la Ley 15/2003, de 26 de mayo. Dichas retribuciones se devengarán en la parte proporcional a los días efectivos de sustitución.
+
+El Fiscal General del Estado dictará las Instrucciones necesarias para determinar la organización del sistema, comunicando periódicamente al Ministerio de Justicia la evolución de las sustituciones y el gasto efectuado, sin que en ningún caso ello pueda producir un incremento en la cuantía referida en el párrafo anterior.
+
+3\. El abono de estas retribuciones se efectuará por el Ministerio de Justicia previa certificación de su realización por el órgano competente de la Fiscalía General del Estado, dentro de las disponibilidades presupuestarias.
+
+La asunción temporal por parte de los Tenientes Fiscales de los cargos que se enumeran a continuación, dará lugar a la percepción de las siguientes cuantías, previa autorización del Ministerio de Justicia a propuesta del Fiscal General del Estado, que se devengará en la parte proporcional a los días efectivos de sustitución:
+
+a) 350 € mensuales por la sustitución que efectúen los Tenientes Fiscales de los Fiscales Jefes de la Fiscalía Provincial, así como por quienes sustituyan a los Fiscales Jefes de Área de conformidad con lo dispuesto en el Estatuto Orgánico del Ministerio Fiscal.
+
+b) 450 € mensuales por la sustitución que efectúen los Tenientes Fiscales de los Fiscales Superiores de Comunidad Autónoma, Fiscales Jefes de Fiscalías Especiales, Fiscales Jefes de Fiscalía de la Audiencia Nacional, Fiscalía ante el Tribunal Constitucional, Fiscales Jefes de Fiscalía ante el Tribunal de Cuentas e Inspección Fiscal y Fiscal Jefe de la Secretaría General Técnica de la Fiscalía General del Estado.
+
+> Se añade por el art. único.2 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Artículo 3. Retribuciones especiales por servicios extraordinarios.
+
+Corresponderá al Ministerio de Justicia reconocer, a propuesta del Consejo General del Poder Judicial o del Fiscal General del Estado, retribuciones especiales por el desempeño, por los miembros de las carreras judicial y fiscal, de servicios extraordinarios por funciones ajenas a las propias del destino, sin relevación de las funciones propias. Dicha retribución no será fija en su cuantía ni periódica en su devengo.
+
+## CAPÍTULO III — Retribuciones variables por participación en programas concretos de actuación
+
+### Artículo 4. Programas de actuación por objetivos y comisiones de servicio sin relevación de funciones.
+
+1\. El Ministerio de Justicia podrá autorizar programas concretos de actuación por objetivos y comisiones de servicio sin relevación de funciones para los miembros de las carreras judicial y fiscal, a propuesta del Consejo General del Poder Judicial y del Fiscal General del Estado, dentro de las disponibilidades presupuestarias y con sujeción plena a lo previsto en el número 5 del artículo 216 bis de la Ley Orgánica 6/1985 de 1 de julio.
+
+2\. Los programas de actuación por objetivos y las comisiones de servicio sin relevación de funciones, deberán hacer referencia a los siguientes aspectos:
+
+a) El objeto, que deberá orientarse a corregir situaciones de sobrecarga de trabajo, reducir el volumen de asuntos pendientes y a reforzar órganos jurisdiccionales o fiscalías, o apoyar a los que hayan sido reforzados.
+
+b) El ámbito de aplicación, que permitirá identificar a los miembros de la carrera judicial y fiscal en activo que puedan acogerse al régimen retributivo.
+
+c) La duración, con determinación de las fechas de inicio y conclusión de su aplicación.
+
+d) Los objetivos establecidos.
+
+e) La cuantía que deben percibir los participantes.
+
+f) Si la actuación ha de conllevar una mayor intervención del Ministerio Fiscal, precisando en la medida de lo posible el nivel de incidencia que el programa tendrá sobre la Fiscalía afectada.
+
+3\. Los magistrados, jueces, fiscales y abogados fiscales que participen en los programas concretos de actuación o desempeñen comisiones de servicio sin relevación de funciones, percibirán una remuneración que se fijará por el Ministerio de Justicia que consistirá en un porcentaje de hasta el 80% del complemento de destino, con exclusión de la parte de este que retribuye otras circunstancias especiales recogidas en el artículo 5.c) y anexo V.3 de la Ley 15/2003, que corresponda a la plaza servida con ocasión de los mismos, que se devengará en función del trabajo que desempeñen y de los objetivos cumplidos, en su caso. Dicha remuneración no será fija en su cuantía ni periódica en su devengo, ni se consolidará de un ejercicio presupuestario a otro.
+
+> Se modifica por el art. único.3 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+## CAPÍTULO IV — Régimen retributivo de los magistrados suplentes y jueces y fiscales sustitutos
+
+### Artículo 5. Retribuciones de magistrados suplentes y jueces sustitutos.
+
+1\. El Ministerio de Justicia comunicará al inicio de cada ejercicio presupuestario a las Salas de Gobierno la cantidad máxima que podrá destinarse, en su respectivo ámbito, al pago de las retribuciones de los magistrados suplentes y jueces sustitutos que sean llamados al ejercicio de funciones jurisdiccionales.
+
+El órgano de gobierno comunicará a los presidentes de Audiencia Provincial y jueces decanos el crédito asignado.
+
+2\. Periódicamente, el Ministerio de Justicia comunicará a las Salas de Gobierno la evolución de las suplencias y sustituciones acordadas y el gasto correspondiente a estas, a los efectos de que no se supere al final del ejercicio el límite presupuestario asignado.
+
+3\. Para la efectividad de la retribución de los magistrados suplentes y de los jueces sustitutos, el llamamiento deberá ir acompañado de informe favorable sobre suficiencia presupuestaria, que se emitirá mensualmente.
+
+En ningún caso procederá llamamiento alguno si no hubiera disponibilidad presupuestaria a la vista de las comunicaciones que realiza periódicamente el Ministerio de Justicia de conformidad con lo previsto en el número dos de este artículo.
+
+4\. Los magistrados suplentes y los jueces sustitutos, cuyo llamamiento excepcionalmente haya sido autorizado en las condiciones previstas en los apartados anteriores, devengarán las siguientes retribuciones correspondientes a los puestos de trabajo que desempeñen:
+
+a) Las retribuciones básicas, incluidas las pagas extraordinarias.
+
+b) Las retribuciones complementarias.
+
+c) Las retribuciones especiales que, en su caso, les correspondan.
+
+Dichas retribuciones se devengarán en la parte proporcional al tiempo de sustitución o suplencia.
+
+También tendrán derecho a las retribuciones variables previstas en el artículo 9 de la Ley 15/2003, de 26 de mayo, y normas de desarrollo, siempre que hubiesen realizado sustituciones durante todo el semestre inmediatamente anterior.»
+
+> Se modifican los apartados 3 y 4 por el art. único.4 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+> Se declara la ilegalidad del apartado 4.a) y se anula en la forma que indica la Sentencia del TS de 8 de noviembre de 2012. [Ref. BOE-A-2012-15022](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15022).
+
+### Artículo 6. Retribuciones de los fiscales sustitutos.
+
+Los fiscales sustitutos que excepcionalmente sean llamados para el ejercicio de funciones fiscales de acuerdo con el procedimiento reglamentario correspondiente percibirán las siguientes retribuciones correspondientes a los puestos de trabajo que desempeñen:
+
+a) Las retribuciones básicas, incluidas las pagas extraordinarias.
+
+b) Las retribuciones complementarias.
+
+c) Las retribuciones especiales que, en su caso, les correspondan.
+
+Dichas retribuciones se devengarán en la parte proporcional al tiempo de sustitución o suplencia.
+
+También tendrán derecho a las retribuciones variables previstas en el artículo 13 de la Ley 15/2003, de 26 de mayo, y normas de desarrollo, siempre que hubiesen realizado sustituciones durante todo el semestre inmediatamente anterior.
+
+> Se modifica por el art. único.5 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+> Se declara la ilegalidad de la letra a) y se anula en la forma que indica la Sentencia del TS de 8 de noviembre de 2012. [Ref. BOE-A-2012-15022](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15022).
+
+### Artículo 7. Incompatibilidades retributivas.
+
+1\. Las remuneraciones a que se refieren los artículos 5 y 6, cuando se apliquen a funcionarios de la Administración General del Estado, se sujetarán a lo establecido en la Ley 53/1984, de 26 de diciembre, de incompatibilidades del personal al servicio de las Administraciones públicas, cuando correspondan al personal incluido en el ámbito de aplicación de dicha ley.
+
+2\. De acuerdo con lo establecido en el primer párrafo del artículo 3.2 de la Ley 53/1984, de 26 de diciembre, y en el artículo 33 del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril, la remuneración a que se refieren los artículos 5 y 6 de este real decreto será incompatible con la percepción de pensión de jubilación o retiro por derechos pasivos o por cualquier régimen de la Seguridad Social público y obligatorio, y deberá suspenderse, de conformidad con las citadas normas, la percepción de las pensiones por el tiempo que dure el desempeño de las referidas actividades de suplencia o sustitución.
+
+### Disposición adicional primera. Actualización de las retribuciones.
+
+Las cuantías establecidas en este real decreto se actualizarán de acuerdo con las previsiones contenidas en las sucesivas Leyes de Presupuestos Generales del Estado.
+
+> Se numera por el art. único.7 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Disposición adicional segunda. Cláusula de limitación presupuestaria.
+
+Todo llamamiento que se haga de juez sustituto, magistrado suplente o fiscal sustituto sin disponibilidad presupuestaria no podrá producir efectos económicos.
+
+> Se añade por el art. único.8 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Disposición adicional tercera. Régimen de los abogados fiscales sustitutos.
+
+El Real Decreto 326/2002, de 5 de abril, sobre régimen de nombramiento de los miembros sustitutos del ministerio fiscal, permanecerá en vigor en todo lo que no se oponga a lo establecido en el presente real decreto.
+
+> Se añade por el art. único.8 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Disposición adicional cuarta. Prórrogas de jurisdicción.
+
+Las retribuciones que correspondan por la realización de prórrogas de jurisdicción acordadas de conformidad con lo previsto en el artículo 212 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial se someterán al mismo régimen retributivo que el previsto en esta norma para la retribuciones especiales por sustituciones en la carrera judicial.
+
+> Se añade por el art. único.8 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Disposición adicional quinta. Duración de las sustituciones.
+
+Las sustituciones no voluntarias no deberán tener una duración continuada superior a los 10 días, sin perjuicio de que en todo caso den derecho a la retribución correspondiente de concurrir los presupuestos que para ello contempla el artículo 2 de este real decreto.
+
+Las sustituciones voluntarias retribuidas no podrán tener una duración, aun en días alternos, superior a los ciento ochenta días al año, no dando derecho a retribución aquellas que superen tal límite.
+
+> Se añade por el art. único.8 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados los artículos 8, 9, 10, 11 y 12 del Real Decreto 391/1989, de 21 de abril, por el que se establece la cuantía del complemento de destino de los miembros del Poder Judicial y del Ministerio Fiscal, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final primera. Habilitación.
+
+El Ministro de Justicia, de haber disponibilidad presupuestaria que lo permita, podrá establecer las circunstancias y condiciones que permitan la aplicación del artículo 2 a aquellas sustituciones excluidas de retribución en virtud de lo previsto en el segundo párrafo del número 1 del artículo 2 que, siempre por circunstancias excepcionales y previo informe favorable del Consejo General del Poder Judicial, hayan implicado una singular carga de trabajo para el sustituto.
+
+> Se modifica por el art. único.6 del Real Decreto 700/2013, de 20 de septiembre. [Ref. BOE-A-2013-10076](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10076).
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y producirá efectos económicos a partir del 1 de mayo de 2004.
+
+Dado en Madrid, a 12 de marzo de 2004.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de la Presidencia,
+
+JAVIER ARENAS BOCANEGRA

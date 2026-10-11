@@ -1,0 +1,183 @@
+---
+title: "Real Decreto 746/2001, de 29 de junio, por el que se establecen las condiciones de sanidad animal aplicables a los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de terceros países"
+identifier: "BOE-A-2001-12626"
+eli: "https://www.boe.es/eli/es/rd/2001/06/29/746"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2001-06-29
+published: 2001-06-30
+in_force_from: 2001-07-01
+last_amended: 2006-05-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 156"
+status: repealed
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-12626"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 746/2001, de 29 de junio, por el que se establecen las condiciones de sanidad animal aplicables a los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de terceros países
+
+Norma derogada en lo referente a los aspectos de salud pública, según establece la disposición derogatoria única.o).3 del Real Decreto 640/2006, de 26 de mayo. [Ref. BOE-A-2006-9300](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-9300).
+
+El desarrollo de la avicultura, actividad ganadera de innegable importancia y que constituye una sólida fuente de ingresos para la población agraria, requiere de la armonización de las normas de policía sanitaria que regulan los intercambios intracomunitarios y las importaciones de las carnes frescas de aves de corral.
+
+Sólo a través del ejercicio constante de controles veterinarios sobre las granjas de reproductores y sobre las importaciones de carnes de aves procedentes de países terceros se puede conseguir una evolución armónica de un sector que representa un importante papel en la alimentación humana actual.
+
+Estos aspectos fueron tenidos en cuenta en la redacción y posterior publicación de la Directiva del Consejo 91/494/CEE, de 26 de junio, sobre las condiciones de policía sanitaria a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de terceros países, incorporada a nuestro ordenamiento jurídico en el Real Decreto 1322/1992, de 30 de octubre, por el que se establecen las condiciones de sanidad animal a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros.
+
+La evolución de los conocimientos científicos sobre el virus de la enfermedad de Newcastle y el estable cimiento de normas uniformes de empleo de vacunas contra esta enfermedad, además del desarrollo de normativas comunitarias específicas de lucha y erradicación de las principales enfermedades aviares, enfermedad de Newcastle e influenza aviar, propician la publicación del Real Decreto 362/1995, de 10 de marzo, que modifica al anteriormente citado y que incorpora a nuestro ordenamiento la Directiva 93/121/CEE, del Consejo, de 22 de diciembre, que modifica la Directiva 91/494/CEE.
+
+La Directiva 91/494/CEE, que ya fue modificada por la incorporación en la definición de las aves de corral, de las «struthioniformes», representados en su gran mayoría por las avestruces, es nuevamente modificada por la Directiva 1999/89/CE, del Consejo, de 15 de noviembre, cuyo contenido se incorpora ahora a nuestra legislación.
+
+En definitiva, el presente Real Decreto incorpora la Directiva 1999/89/CE, del Consejo, de 15 de noviembre, por la que se modifica la Directiva 91/494/CEE, refundiendo el contenido del Real Decreto 1322/1992 y sus posteriores modificaciones.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación y de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 29 de junio de 2001,
+
+### D I S P O N G O :
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Ámbito de aplicación.
+
+El presente Real Decreto establece las condiciones de sanidad animal a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros.
+
+#### Artículo 2. Definiciones.
+
+A efectos del presente Real Decreto, se entiende por:
+
+a) Aves de corral: las gallinas, pavos, pintadas, patos, ocas, codornices, palomas, faisanes, perdices y aves corredoras («ratites») criados o mantenidos en cautiverio para su reproducción, la producción de carne o de huevos para consumo o el suministro de especies de caza para repoblación.
+
+b) Aves para matadero: las aves de corral directamente conducidas al matadero para ser allí sacrificadas lo antes posible y, a más tardar, en el plazo de las setenta y dos horas siguientes a su llegada.
+
+c) Carnes: todas las partes de las aves de corral aptas para el consumo humano.
+
+d) Carnes frescas: todas las carnes de aves de corral, incluidas las carnes envasadas al vacío o en atmósfera controlada, que no hayan sido sometidas a ningún tratamiento distinto del frío para garantizar su conservación.
+
+e) País tercero: el país no miembro de la Unión Europea autorizado para el comercio con ésta.
+
+f) Autoridad competente: los órganos competentes de las Comunidades Autónomas para el mercado interior y los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, para los intercambios con terceros países y para las oportunas comunicaciones a la Comisión de las Comunidades Europeas, en el ámbito de sus respectivas competencias.
+
+g) Veterinario Oficial: el veterinario designado por la autoridad competente.
+
+## CAPÍTULO II — Intercambios intracomunitarios
+
+#### Artículo 3. Normas generales.
+
+1\. Para poder ser objeto de intercambios intracomunitarios, las carnes frescas deberán haberse obtenido a partir de aves de corral que:
+
+a) Hayan permanecido desde su nacimiento en territorio de la Comunidad o hayan sido importadas de países terceros de conformidad con la normativa de importación de aves de corral y de huevos para incubar procedentes de países terceros.
+
+b) Procedan de una explotación que:
+
+1.º No esté sujeta a medidas de prohibición adoptadas frente a alguna de las enfermedades que afectan a las aves de corral.
+
+2.º**(Derogado)**
+
+c)**(Derogado)**
+
+d)**(Derogado)**
+
+e) Vayan marcadas, con arreglo a lo dispuesto en los artículos 4 y 5 del presente Real Decreto.
+
+2\. Las disposiciones del presente capítulo no afectarán a las normativas nacionales relativas a las carnes:
+
+a) Contenidas en el equipaje personal de los viajeros y destinadas a su propio consumo.
+
+b) Que sean objeto de pequeños envíos a particulares sin carácter comercial.
+
+c) Que se encuentren a bordo de medios de transporte que efectúen transportes internacionales, con fines de abastecimiento del personal y de los pasajeros.
+
+> Se derogan los apartados 1.b).2º, c) y d) por la disposición derogatoria única.c) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702).
+
+#### Artículo 4. Marcado.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702).
+
+#### Artículo 5. Excepciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702).
+
+#### Artículo 6. Controles.
+
+La organización de los controles en destino se ajustará a lo dispuesto en el Real Decreto 49/1993, de 15 de marzo, sobre controles veterinarios aplicables a los intercambios intracomunitarios de los productos de origen animal.
+
+#### Artículo 7. Inspecciones comunitarias.
+
+1\. Representantes del Ministerio de Agricultura, Pesca y Alimentación y del Ministerio de Sanidad y Consumo, en el ámbito de sus respectivas competencias, podrán acompañar a los órganos competentes de las Comunidades Autónomas y a los expertos veterinarios de la Comisión de la Unión Europea que se desplacen a nuestro país para efectuar visitas de inspección in situ.
+
+2\. Las autoridades competentes referidas en el apartado anterior deberán prestar toda la asistencia necesaria a los expertos veterinarios de la Comisión de la Unión Europea para el cumplimiento de su cometido.
+
+## CAPÍTULO III — Importaciones de países terceros
+
+#### Artículo 8. Normas generales.
+
+1\. Las carnes frescas de aves de corral importadas de países terceros deberán cumplir las condiciones establecidas en los artículos 9 a 12 del presente Real Decreto.
+
+2\. No obstante, el presente capítulo no se aplicará:
+
+a) A las carnes de aves de corral contenidas en los equipajes personales de los viajeros destinados a su propio consumo o enviadas a particulares sin carácter comercial, siempre que la cantidad transportada no supere 1 kilogramo por persona y que procedan de un país tercero o de una parte de un país tercero, que figure en la lista elaborada de conformidad con el artículo 9 de la presente disposición.
+
+b) A las carnes que se encuentren, en concepto de abastecimiento del personal y de los pasajeros, a bordo de medios de transporte que efectúen transportes internacionales.
+
+Cuando se descarguen, dichas carnes o sus residuos de cocina, deberán destruirse. No obstante, se podrá prescindir de la destrucción cuando las carnes pasen directamente de un medio de transporte a otro o hayan sido colocadas provisionalmente bajo control aduanero.
+
+#### Artículo 9. Países terceros autorizados.
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. Las carnes frescas de aves de corral, que lleguen a territorio aduanero español, serán sometidas a control por los servicios veterinarios oficiales de los puestos de inspección fronterizos, antes de ser despachadas a libre práctica o de ser admitidas en régimen aduanero alguno.
+
+> Se derogan los apartados 1 y 2 por la disposición derogatoria única.c) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702).
+
+#### Artículo 10. Criterios de autorización.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702).
+
+#### Artículo 11. Certificación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 1976/2004, de 1 de octubre. [Ref. BOE-A-2004-17702](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-17702).
+
+#### Artículo 12. Cláusula de salvaguardia.
+
+Las normas y principios generales que deban aplicarse en los controles de las carnes frescas de aves de corral importadas de países terceros, así como las medidas de salvaguardia, se ajustarán a lo dispuesto en el Real Decreto 1977/1999, de 23 de diciembre, por el que se establecen los principios relativos a la organización de los controles veterinarios sobre los productos procedentes de países terceros.
+
+#### Artículo 13. Inspecciones.
+
+Expertos veterinarios de la Comisión de la Unión Europea y los que se designen por la Comisión, a propuesta del Ministerio de Agricultura, Pesca y Alimentación y del Ministerio de Sanidad y Consumo, en el ámbito de sus respectivas competencias, efectuarán inspecciones in situ para comprobar el cumplimiento de la Directiva 494/1991/CEE, del Consejo, de 26 de junio, sobre las condiciones de policía sanitaria a las que deben ajustarse los intercambios comunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros.
+
+#### Disposición adicional única. Títulos competenciales.
+
+La presente disposición se dicta al amparo del artículo 149.1.10.ª y 16.ª de la Constitución, que atribuyen al Estado las competencias exclusivas en materia de comercio exterior, sanidad exterior y bases y coordinación general de la Sanidad, respectivamente.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Se deroga el Real Decreto 1322/1992, de 30 de octubre, por el que se establecen las condiciones de sanidad animal a las que deben ajustarse los intercambios intracomunitarios y las importaciones de carnes frescas de aves de corral procedentes de países terceros.
+
+#### Disposición final primera. Facultad de aplicación.
+
+Se faculta a los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo para dictar, en el ámbito de sus respectivas competencias, las disposiciones necesarias para el cumplimiento y aplicación de lo dispuesto en el presente Real Decreto.
+
+#### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 29 de junio de 2001.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JUAN JOSÉ LUCAS GIMÉNEZ

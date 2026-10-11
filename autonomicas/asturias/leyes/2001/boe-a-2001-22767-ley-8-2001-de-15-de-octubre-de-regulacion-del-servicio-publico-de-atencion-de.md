@@ -1,0 +1,219 @@
+---
+title: "Ley 8/2001, de 15 de octubre, de regulación del Servicio Público de Atención de Llamadas de Urgencia y de Creación de la Entidad Pública \"112 Asturias\""
+identifier: "BOE-A-2001-22767"
+eli: "https://www.boe.es/eli/es-as/l/2001/10/15/8"
+type: act
+rank: "Ley"
+jurisdiction: es-asturias
+language: es
+department: "Comunidad Autónoma del Principado de Asturias"
+date: 2001-10-15
+published: 2001-12-05
+in_force_from: 2001-10-21
+last_amended: 2013-08-13
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 291"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-22767"
+retrieved: 2026-10-11
+---
+
+# Ley 8/2001, de 15 de octubre, de regulación del Servicio Público de Atención de Llamadas de Urgencia y de Creación de la Entidad Pública "112 Asturias"
+
+EL PRESIDENTE DEL PRINCIPADO DE ASTURIAS
+
+Sea notorio que la Junta General del Principado de Asturias ha aprobado, y yo, en nombre de Su Majestad el Rey, y de acuerdo con lo dispuesto en el artículo 31.2 del Estatuto de Autonomía del Principado de Asturias, vengo a promulgar la siguiente Ley de regulación del Servicio Público de Atención de Llamadas de Urgencia y de Creación de la Entidad Pública «112 Asturias».
+
+PREÁMBULO
+
+Las competencias que inciden en materia de atención de situaciones de urgencia y emergencia se le atribuyen al Principado de Asturias por diversos títulos competenciales del Estatuto de Autonomía, pero hemos de acudir a la Decisión del Consejo de las Comunidades Europeas 91/396/CEE, de 29 de julio, relativa a la creación de un número de llamada de urgencia único europeo, para determinar el origen de la concreta obligación de introducir el número telefónico 112 en las respectivas redes telefónicas de los Estados miembros de la Unión Europea, obligación que se extiende tanto a las redes públicas como a las redes digitales de servicios integrados y a los servicios públicos móviles.
+
+Asimismo, esta decisión estableció la obligación de los Estados miembros de adoptar las medidas necesarias para garantizar que las llamadas de urgencia al número único europeo recibieran la respuesta necesaria y la atención apropiada, y esto del modo que mejor se adaptara a la estructura nacional de los sistemas de urgencia dentro de las posibilidades tecnológicas de las redes.
+
+Por su parte, ya en el ámbito nacional, el Real Decreto 903/1997, de 16 de junio, por el que se regula el acceso, mediante redes de telecomunicaciones, al servicio de atención de llamadas de urgencia a través del número telefónico 112, habilitó este número, con carácter exclusivo nacional, para el acceso al servicio de atención de llamadas de urgencia y estableció que dicho número telefónico puede ser utilizado por los ciudadanos de forma gratuita para requerir, en casos de urgente necesidad, la asistencia de los servicios públicos competentes en materia de atención de urgencias sanitarias, de extinción de incendios y salvamento, de seguridad ciudadana y, por la posible necesidad de coordinar los anteriores, de protección civil, cualquiera que sea la Administración pública de la que dependan.
+
+En cuanto a la prestación del servicio de atención de llamadas de urgencia a través del número 112, el Real Decreto 903/1997 atribuyó de forma expresa la obligación de tal prestación a las Comunidades Autónomas, unida esta obligación a la exigencia de establecer los correspondientes centros de recepción de llamadas de urgencia, y, en su caso, las redes de telecomunicaciones que fueran necesarias.
+
+Partiendo de este marco normativo, la presente Ley viene a establecer la definitiva implantación y regulación, en el ámbito territorial del Principado de Asturias, de un servicio público de competencia exclusiva autonómica y de naturaleza esencial para la eficaz adecuación de los servicios de urgencia, emergencia y seguridad pública a las exigencias de los ciudadanos, un servicio que pretende, como finalidad básica, que los ciudadanos de los Estados miembros de la Unión Europea y, en general, quienes se encuentren en el territorio del Principado de Asturias puedan disponer de un número de teléfono único que les permita requerir asistencia, o auxilio, ante cualquier situación de urgencia.
+
+En segundo lugar, pretende también esta Ley llevar a efecto el obligado establecimiento de un centro de recepción de llamadas de urgencia para el ámbito territorial del Principado de Asturias, como instrumento dotado de los recursos humanos, materiales y técnicos que, cualquiera que sea su procedencia o titularidad, sean necesarios para asegurar que los ciudadanos puedan acceder fácilmente, mediante el número telefónico 112, a los servicios de urgencia, centro que, por otra parte, también debe servir para canalizar la información necesaria para la prestación del servicio y establecer la imprescindible coordinación de las diversas Administraciones y entidades que en cada caso deban actuar y, así, garantizar una respuesta ágil y eficaz a las demandas de los ciudadanos, todo ello respetando la competencia que a cada cual corresponda en la realización material de la asistencia que el caso requiera y en la organización y regulación del modo en que deba llevarse a cabo la concreta actuación.
+
+El tercer objetivo de esta Ley es dar respuesta a la responsabilidad contraída por el Principado de Asturias de garantizar no sólo una respuesta, sino también una atención adecuada a las llamadas que se produzcan al número 112, y, para ello, asegurar una actuación rápida, ordenada y eficaz de todos los servicios de asistencia que en cada caso hayan de intervenir en virtud de las funciones y competencias que a cada uno correspondan.
+
+En este sentido, corresponde al Principado facilitar la necesaria coordinación de la actuación de los servicios asistenciales implicados y adoptar las disposiciones y convenios o acuerdos que resulten necesarios para garantizar, por parte del conjunto de las Administraciones públicas operantes en el territorio del Principado, y de los órganos de ellas dependientes, una respuesta proporcionada y eficaz a todas y cada una de las demandas recibidas a través del número telefónico 112.
+
+Por su parte, el cuarto objetivo de la Ley es la creación de una entidad que realice la prestación del servicio propio de la Comunidad Autónoma, optando por una entidad pública, denominada «112 Asturias», que, de acuerdo con las previsiones de la legislación sobre régimen jurídico, debe crearse por ley. Respecto a esta entidad, y en aras de lograr la mayor eficacia en la prestación de un servicio de naturaleza esencial para la sociedad, la Ley delimita con claridad las funciones de la entidad, la dota de una organización ágil en la toma de decisiones y establece un régimen jurídico propio de la entidad, fundamentalmente en el ámbito del derecho privado, con lo que pretende lograr la mayor simplificación posible en la realización de las tareas administrativas y concentrar los recursos de la entidad en la prestación del servicio público que se le encomienda.
+
+Como complemento de los objetivos de la Ley citados, también merece ser destacado el contenido de algunas de sus disposiciones adicionales que podríamos denominar de «sucesión de empresa», en tanto que prevén la integración en la entidad pública «112 Asturias» del personal y de los medios materiales que, destinados en la actualidad a la atención del teléfono 112 en Asturias, pertenecen al Consorcio de Extinción de Incendios, Salvamento y Protección Civil del Principado de Asturias (CEISPA), ente local éste que desde septiembre de 1997 ha venido prestando de hecho el servicio que el ordenamiento jurídico ahora atribuye formalmente a la entidad «112 Asturias», y que, de acuerdo con sus estatutos, ha decidido su disolución, por acuerdo de su Junta de Gobierno, así como el traspaso de sus medios, derechos y obligaciones a la Administración del Principado y a los entes que ésta cree para prestar los servicios que hasta entonces eran funciones del CEISPA.
+
+## CAPÍTULO I — Del servicio de atención de llamadas de urgencia
+
+### Sección 1.ª Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+La presente Ley tiene por objeto la regulación en el ámbito territorial del Principado de Asturias del servicio público de atención de llamadas de urgencia a través del número telefónico único europeo 112 y la creación de la entidad pública «112 Asturias».
+
+#### Artículo 2. Definición del servicio.
+
+1\. El servicio público de atención de llamadas de urgencia a través del número telefónico único europeo 112 tendrá por finalidad facilitar, en el territorio del Principado de Asturias, una respuesta rápida, eficaz y coordinada a las peticiones urgentes de asistencia de cualquier ciudadano en materia sanitaria, extinción de incendios y salvamentos o seguridad ciudadana, cualquiera que sea la Administración pública competente para la prestación material de la asistencia requerida en cada caso.
+
+2\. A fin de facilitar la consecución de la finalidad establecida en el apartado anterior, los dispositivos de atención de llamadas de urgencia de que dispongan tanto la Administración del Principado de Asturias como la Administración institucional de ella dependiente utilizarán el número telefónico único europeo 112.
+
+#### Artículo 3. Funciones del servicio.
+
+1\. Serán funciones del servicio las siguientes:
+
+a) La recepción y atención de las llamadas al número telefónico 112 realizadas por los ciudadanos en el ámbito territorial del Principado de Asturias para requerir, en casos de urgente necesidad, la asistencia de los servicios públicos competentes en materia de urgencias sanitarias, de extinción de incendios y salvamentos, de seguridad ciudadana, y, por la posible necesidad de coordinar los anteriores, de protección civil, cualquiera que sea la Administración pública o entidad competente para la prestación material de la asistencia requerida en cada caso.
+
+b) El tratamiento y evaluación de las llamadas recibidas en el número 112 según las directrices de actuación aprobadas por el órgano competente, y, en su caso, de acuerdo con los convenios o acuerdos de colaboración que se establezcan entre la Administración del Principado de Asturias y las Administraciones públicas o entidades competentes para la prestación material de la asistencia.
+
+c) La transmisión del requerimiento de asistencia a los servicios competentes para su prestación material, activando la prestación del auxilio más adecuado en función del tipo de incidencia y del lugar donde ésta se produzca.
+
+d) La coordinación, si fuera precisa, de la actuación de los distintos servicios que hayan de prestar las diversas Administraciones o entidades competentes, así como el seguimiento del desarrollo de cada urgencia o emergencia.
+
+e) La recepción de información de los órganos, organismos o entidades que intervengan en la prestación material de la asistencia y el tratamiento estadístico de la información recibida.
+
+f) Cualquier otra función que esté directamente relacionada con las anteriores.
+
+2\. El servicio de atención de llamadas de urgencia a través del número telefónico 112 no comprenderá, en ningún caso, la prestación material de la asistencia requerida por los ciudadanos, que corresponderá a las administraciones, entidades u órganos competentes en cada caso, conforme a sus propias normas de organización y funcionamiento.
+
+### Sección 2.ª Prestación del servicio
+
+#### Artículo 4. Centro de atención de llamadas de urgencia.
+
+1\. El servicio público de atención de llamadas de urgencia a través del número telefónico 112 se prestará desde un centro de atención de llamadas de urgencia donde se recibirán, atenderán, tratarán y evaluarán las llamadas que en el territorio del Principado de Asturias se produzcan al número telefónico 112, y desde el que se realizarán, a los organismos y entidades competentes, los requerimientos de asistencia material a los que haya lugar y se coordinarán, en su caso, las intervenciones en las que participen diversos organismos o entidades, todo ello de acuerdo con las directrices a las que hace referencia el artículo 3.1.b) de esta Ley y, en su caso, de acuerdo con los convenios o acuerdos de colaboración suscritos en la materia por la Administración del Principado.
+
+2\. El acceso al centro de atención de llamadas a través del número telefónico 112 será permanente y gratuito para todos los ciudadanos que se encuentren en el ámbito territorial del Principado de Asturias.
+
+3\. En el centro de atención de llamadas se localizarán los medios humanos y los recursos materiales y técnicos, así como el conjunto de protocolos de actuación y los sistemas de calidad necesarios para el correcto funcionamiento del servicio público de atención de llamadas de urgencia a través del número telefónico único europeo 112 en el ámbito territorial del Principado de Asturias.
+
+#### Artículo 5. Gestión del servicio.
+
+El servicio público de atención de llamadas de urgencia a través del número telefónico 112 será prestado por el Principado de Asturias con carácter exclusivo, a través de la entidad pública «112 Asturias» y en los términos establecidos en la presente Ley y demás normas de aplicación.
+
+### Sección 3.ª De la colaboración de otras administraciones y entidades
+
+#### Artículo 6. Deberes de colaboración e información.
+
+1\. Las Administraciones públicas y las entidades, públicas o privadas, cuya actividad, en el territorio del Principado de Asturias, esté directa o indirectamente relacionada con el servicio objeto de regulación en esta Ley deberán, en el marco de sus competencias, prestar su colaboración ante los requerimientos que se les realicen desde el centro de atención de llamadas de urgencia del número telefónico 112, y especialmente las siguientes:
+
+a) Hospitales y centros sanitarios públicos o privados.
+
+b) Servicios de asistencia sanitaria extrahospitalaria públicos y privados.
+
+c) Medios de transporte sanitario dependientes de organismos públicos o privados.
+
+d) Servicios de bomberos de la Comunidad Autónoma, municipales, privados y voluntarios.
+
+e) Servicios de vigilancia de montes.
+
+f) Grupos de salvamento y de socorrismo voluntarios.
+
+g) Obras públicas y servicios de mantenimiento de carreteras y ferrocarril.
+
+h) Servicios de emergencia de puertos y aeropuertos.
+
+i) Empresas o entidades afectadas por la normativa sobre prevención de accidentes graves en los que intervengan sustancias peligrosas.
+
+j) Empresas de transporte de mercancías peligrosas.
+
+k) Las Fuerzas y Cuerpos de Seguridad del Estado.
+
+j) Policías Locales.
+
+k) Servicios de empresas de seguridad.
+
+l) Servicios de suministro, mantenimiento y conservación de redes de telecomunicación, telégrafos, agua, gas y electricidad.
+
+m) Servicios de protección civil.
+
+n) Agrupaciones de voluntarios de protección civil.
+
+o) En general, todas aquellas organizaciones, públicas o privadas, cuya finalidad se vincule a la seguridad de las personas, al pacífico disfrute de sus bienes y derechos y al mantenimiento de la normalidad ciudadana.
+
+2\. En todo caso, los organismos y entidades a las que se refiere el apartado anterior deberán facilitar, en el marco de sus competencias, toda la información necesaria para que, en situaciones de emergencia, sea posible activar, desde el centro de atención de llamadas de urgencia, la actuación coordinada y eficaz de todos los servicios que deban ser movilizados y realizar, asimismo, un seguimiento adecuado de los resultados logrados.
+
+En especial, deberán facilitar al centro de atención de llamadas de urgencia información sobre:
+
+a) La localización y organización territorial y funcional de los medios técnicos y, en general, de los recursos de que disponen para la asistencia de urgencias y emergencias, así como las modificaciones que de ellos se produzcan.
+
+b) La existencia de situaciones de urgencia o emergencia de las que tengan conocimiento.
+
+c) El desarrollo, incidencias y resultados de las asistencias en las que intervengan, debiendo informar, en tiempo real, de la llegada al lugar del incidente y de la finalización de su intervención, así como de cuantas otras informaciones sean requeridas para la atención eficaz y eficiente del incidente.
+
+3\. Los organismos y entidades a las que se refiere este artículo acusarán recibo de los requerimientos de asistencia o intervención que les sean remitidos desde el centro de atención de llamadas de urgencia del número telefónico 112 y, una vez requeridos, serán responsables, en el ámbito de su competencia, de la prestación material del servicio a que haya lugar.
+
+#### Artículo 7. Convenios de colaboración.
+
+1\. Para garantizar una actuación rápida, coordinada y eficaz a través del servicio público objeto de esta Ley, la Administración del Principado de Asturias promoverá el establecimiento de convenios de colaboración con las Administraciones públicas y entidades competentes para la prestación material de las posibles asistencias requeridas.
+
+2\. Para establecer una adecuada coordinación en los procedimientos de atención de llamadas y activación y respuesta ante las asistencias requeridas, estos convenios de colaboración deberán contener, al menos:
+
+a) El modo en que cada organismo o entidad deberá colaborar, material y financieramente, a la mejor prestación del servicio al que se refiere esta Ley y, si procede, los recursos humanos y técnicos de su titularidad que pone a disposición del servicio de atención de llamadas de urgencia a través del número telefónico 112.
+
+b) El modo y periodicidad en que, recíprocamente, se facilitará información acerca de los medios técnicos y personales de que se disponga.
+
+c) Las características de las situaciones de urgencia o emergencia que puedan afectar, por su necesaria intervención, a cada organismo o entidad.
+
+d) El modo en que habrá de producirse el seguimiento de cada asistencia o incidente.
+
+e) El procedimiento, en su caso, para articular la representación permanente de cada organismo o entidad en el centro de atención de llamadas de urgencia del Principado de Asturias.
+
+f) Cualquier otro extremo que pueda determinar el modo en que haya de prestarse eficazmente la asistencia de que se trate.
+
+## CAPÍTULO II — De la entidad pública «112 Asturias»
+
+### Sección 1.ª Disposiciones generales
+
+#### Artículos 8 a 24.
+
+**(Derogados)**.
+
+> Se derogan por el apartado a) de la disposición derogatoria de la Ley autonómica 1/2013, de 24 de mayo. [Ref. BOE-A-2013-8930](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8930).
+
+### Sección 6.ª Impugnación y reclamaciones
+
+#### Disposición adicional primera. Integración del personal del Consorcio de Extinción de Incendios, Salvamento y Protección Civil del Principado de Asturias (CEISPA).
+
+1\. El personal con contrato laboral indefinido perteneciente al CEISPA que, en el momento de su extinción, realice funciones relacionadas con la atención de llamadas de urgencia a través del número telefónico único europeo 112 pasará a integrarse en la plantilla de la entidad pública «112 Asturias», con respeto a todos los derechos adquiridos previamente en el CEISPA, incluida la antigüedad.
+
+2\. De acuerdo con lo dispuesto en el artículo 44 del Estatuto de los Trabajadores, la entidad pública «112 Asturias» se subrogará en las obligaciones derivadas de los contratos suscritos entre el CEISPA y los trabajadores dependientes del mismo que le sean adscritos, manteniendo dichos contratos la misma naturaleza jurídica con la que fueron celebrados.
+
+3\. La adscripción definitiva del personal del CEISPA a la entidad pública «112 Asturias» se realizará, en el plazo máximo de tres meses desde la publicación de esta Ley, mediante acuerdo del Consejo de Gobierno donde se recogerá la relación nominal del personal del CEISPA que pasa a integrarse en la entidad.
+
+#### Disposición adicional segunda. Patrimonio de «112 Asturias».
+
+1\. A la entidad pública «112 Asturias» le corresponde la propiedad del patrimonio del Consorcio de Extinción de Incendios, Salvamento y Protección Civil del Principado de Asturias (CEISPA) que, siendo utilizado para la realización de las funciones propias del servicio público de atención de llamadas de urgencia a través del número telefónico 112, resulte en la extinción del CEISPA a favor de la Administración del Principado.
+
+2\. Asimismo, a «112 Asturias» le corresponde la propiedad de los bienes y derechos de la Administración del Principado, salvo los inmuebles que en el momento de la extinción del Consorcio de Extinción de Incendios, Salvamento y Protección Civil del Principado de Asturias (CEISPA) estén siendo utilizados por el Consorcio para la realización de las funciones propias del servicio público de atención de llamadas de urgencia a través del número telefónico 112.
+
+3\. La relación definitiva del patrimonio propiedad de «112 Asturias» previsto en el apartado primero de esta disposición será aprobada mediante resolución del titular de la Consejería a la que está adscrito el CEISPA.
+
+Por su parte, la relación del patrimonio propiedad de «112 Asturias» previsto en el apartado segundo de esta disposición será aprobada mediante resolución del titular de la Consejería de Hacienda, a propuesta del titular de la Consejería a la que está adscrito el CEISPA.
+
+#### Disposición adicional tercera. Derechos y obligaciones del Consorcio de Extinción de Incendios, Salvamento y Protección Civil del Principado de Asturias (CEISPA).
+
+«112 Asturias» se subrogará en los derechos y obligaciones derivados de los contratos suscritos entre el CEISPA y terceros que tengan relación con las actividades que en esta Ley se atribuyen a la entidad 112.
+
+La subrogación en los derechos y obligaciones de cada concreto contrato será aprobada mediante resolución del titular de la Consejería a la que está adscrito el CEISPA.
+
+#### Disposición transitoria única.
+
+Hasta la suscripción de un Convenio colectivo de «112 Asturias», al personal propio de la entidad le será de aplicación el Convenio vigente en el CEISPA en el momento de su extinción.
+
+#### Disposición final primera.
+
+Se autoriza al Consejo de Gobierno del Principado de Asturias para desarrollar reglamentariamente esta Ley y para aprobar los estatutos de organización y funcionamiento de la entidad pública «112 Asturias».
+
+#### Disposición final segunda.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Principado de Asturias».
+
+Por tanto, ordeno a todos los ciudadanos a quienes sea de aplicación esta Ley coadyuven a su cumplimiento, así como a todos los Tribunales y Autoridades que la guarden y la hagan guardar.
+
+Oviedo, 15 de octubre de 2001.
+
+VICENTE ÁLVAREZ ARECES,
+
+Presidente

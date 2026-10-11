@@ -1,0 +1,317 @@
+---
+title: "Real Decreto 2660/1998, de 14 de diciembre, sobre el cambio de moneda extranjera en establecimientos abiertos al público distintos de las entidades de crédito"
+identifier: "BOE-A-1998-28816"
+eli: "https://www.boe.es/eli/es/rd/1998/12/14/2660"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Economía y Hacienda"
+date: 1998-12-14
+published: 1998-12-15
+in_force_from: 1999-01-04
+last_amended: 2021-11-09
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 299"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-28816"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2660/1998, de 14 de diciembre, sobre el cambio de moneda extranjera en establecimientos abiertos al público distintos de las entidades de crédito
+
+Incluye la corrección de erratas publicada en BOE núm. 38, de 13 de febrero de 1999. [Ref. BOE-A-1999-3692](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3692).
+
+Desde 1992 el número de establecimientos abiertos al público para el cambio de moneda ha crecido considerablemente e incluye entidades de naturaleza muy diferente: Desde establecimientos turísticos de temporada registrados para efectuar cambio de moneda extranjera como servicio adicional a su clientela, hasta sociedades anónimas con un importante volumen de recursos propios y significativa cifra de actividad, dedicadas al cambismo de modo profesional y exclusivo.
+
+Varias de estas empresas que se dedican profesionalmente al cambismo han venido ampliando su esfera de actividad con la realización de transferencias rápidas de dinero con el exterior.
+
+Pues bien, a diferencia de lo que sucede en otros países europeos en que los cambistas profesionales, en la doble vertiente de actividad ya señalada, cambio de moneda y gestión de transferencias, están considerados como entidades cuasi financieras y sometidas a un régimen de supervisión y control por la autoridad monetaria, en España, a pesar de que la actividad de cambio de moneda ha estado sujeta a control público, sólo venía existiendo un mero sistema de registro de los mismos en el Banco de España.
+
+En los últimos años se ha observado que el marco liberalizador que establecía el Real Decreto 1816/1991, de 20 de diciembre, de transacciones económicas con el exterior, debía completarse con una regulación más exhaustiva, en cuanto a los sujetos que realizan este tipo de operaciones. A tal fin, las Cortes Generales facultaron al Gobierno, con carácter general, para desarrollar las previsiones contenidas en el artículo 178 de la Ley 13/1996, de 30 de diciembre.
+
+El presente Reglamento que desarrolla dicho precepto legal viene a establecer una regulación de los establecimientos de cambio de moneda extranjera que tiene en cuenta todas estas preocupaciones, sin olvidar el respeto a la libre competencia y la debida protección a la clientela.
+
+Para ello, se establece un escalonamiento de las exigencias de recursos materiales y de capital, en función de las operaciones a desarrollar por cada establecimiento. Asimismo, incluye un régimen específico de supervisión y de obligación de información, con arreglo a una técnica legislativa similar a la de otros sujetos que actúan en los mercados financieros.
+
+Finalmente, se completa el marco de intervención administrativa, estableciéndose, a tal efecto, los procedimientos de autorización y supervisión, todo ello en concordancia con la disposición legal habilitante.
+
+En su virtud, a propuesta del Vicepresidente Segundo y Ministro de Economía y Hacienda, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de diciembre de 1998, DISPONGO:
+
+## CAPÍTULO I — Ámbito de aplicación
+
+### Artículo 1. Ámbito de aplicación.
+
+1\. Las operaciones de cambio de moneda extranjera, cualquiera que sea su denominación, son libres, sin más límites que los establecidos en la legislación de control de cambios. No obstante, la actividad profesional consistente en la realización de cambio de moneda extranjera, cualquiera que sea su denominación, en establecimientos abiertos al público (en adelante, establecimientos de cambio de moneda), queda sujeta a las autorizaciones y régimen establecidos en el presente Real Decreto y en sus normas de desarrollo.
+
+Dicha actividad de cambio de moneda comprende la compra o venta de billetes extranjeros y cheques de viajero en los términos previstos en este Real Decreto.
+
+2\. El régimen establecido en el presente Real Decreto no será aplicable a la actividad de cambio de moneda extranjera que realicen las entidades de crédito.
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+## CAPÍTULO II — Los establecimientos de cambio de moneda
+
+### Artículo 2. Operaciones de los establecimientos de cambio de moneda.
+
+1\. Las personas físicas o jurídicas, distintas de las entidades de crédito, que pretendan realizar en establecimientos abiertos al público operaciones de compra de billetes extranjeros o cheques de viajeros, con pago en euros, deberán reunir los requisitos establecidos en los apartados 1 y 3 del artículo 4 de este Real Decreto, obtener la previa autorización del Banco de España para el ejercicio de esa actividad e inscribirse en el Registro de establecimientos de cambio de moneda a cargo de dicha institución.
+
+Dicha actividad podrá ejercerse bien con carácter exclusivo o bien con carácter complementario del negocio que constituya la actividad principal.
+
+2\. Aquellas personas que, sin perjuicio de poder realizar las operaciones a que se refiere el apartado anterior, pretendan realizar en establecimientos abiertos al público operaciones de venta de billetes extranjeros deberán reunir los requisitos establecidos en el artículo 4 de este Real Decreto, obtener la previa autorización del Banco de España, así como inscribirse en el Registro de establecimientos de cambio de moneda a cargo de aquél.
+
+3\. A efectos de lo previsto en el apartado anterior, tendrán la consideración de operaciones de venta de billetes extranjeros y cheques de viajero la venta de billetes extranjeros y cheques de viajero contra entrega de su contravalor en euros o en otros billetes de Banco extranjeros.
+
+> Se modifican los apartados 1 a 3 y se suprimen los demás por la disposición final 2.2 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+> Redactado el apartado 5 conforme a la corrección de erratas publicada en BOE núm. 38, de 13 de febrero de 1999. [Ref. BOE-A-1999-3692](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3692).
+
+### Artículo 3. Autorización y registro de los establecimientos de cambio de moneda.
+
+1\. Corresponde al Banco de España, previo informe del Servicio Ejecutivo de la Comisión de prevención del blanqueo de capitales e infracciones monetarias en los aspectos de su competencia, autorizar el ejercicio de la actividad de cambio de moneda en los establecimientos de cambio previstos en este real decreto. Dicha autorización se otorgará con sometimiento al procedimiento establecido en el título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. En la autorización se especificarán las actividades que podrán realizar los mencionados establecimientos de cambio de moneda.
+
+El Banco de España denegará, mediante resolución motivada, la autorización de un establecimiento de cambio de moneda cuando no se cumplan los requisitos establecidos en los artículos 4 y 5 de este real decreto. Contra la denegación de la solicitud podrá interponerse recurso de alzada ante el Ministro de Economía y Hacienda.
+
+2\. La solicitud de autorización se dirigirá al Banco de España y deberá ser resuelta dentro de los tres meses siguientes a su recepción en el Banco de España. Cuando la solicitud no sea resuelta en el plazo previsto, la misma se entenderá desestimada a los efectos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. Una vez obtenida la autorización y tras su inscripción en el Registro Mercantil, si tal requisito resulta exigible, el Banco de España procederá de forma inmediata a la inscripción del solicitante en el Registro de establecimientos de cambio de moneda, así como a su posterior notificación, de acuerdo con lo dispuesto en el artículo 58 de la Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, momento a partir del cual podrá el titular iniciar el ejercicio de su actividad.
+
+> Se modifica el apartado 1 por la disposición final 2.3 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 256/2013, de 12 de abril. [Ref. BOE-A-2013-3908](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3908).
+
+> Se modifica el apartado 1 por la disposición final 4.1 del Real Decreto 54/2005, de 21 de enero. [Ref. BOE-A-2005-1153](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1153).
+
+### Artículo 4. Requisitos para obtener y conservar la autorización para ejercer la actividad de cambio de moneda extranjera.
+
+1\. Serán requisitos para obtener y conservar la autorización para realizar operaciones de compra de billetes extranjeros o cheques de viajeros, con pago en euros, que los titulares de los establecimientos y, en su caso, los socios y administradores, así como el director general responsable del negocio, sean personas de reconocida honorabilidad comercial y profesional.
+
+A estos efectos, la valoración de la idoneidad de los miembros del consejo de administración, así como del director general responsable del negocio del establecimiento, se ajustará a los criterios y procedimientos de control de la honorabilidad establecidos en el artículo 30 del Real Decreto 84/2015, de 13 de febrero, por el que se desarrolla la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades crédito.
+
+2\. Para obtener y conservar la autorización para realizar las operaciones a que se refiere el artículo 2.2 se precisará, además, que el establecimiento reúna los siguientes requisitos:
+
+a) Revestir la forma de sociedad anónima constituida por el procedimiento de fundación simultánea. Su constitución como tal e inscripción en el Registro Mercantil será previa al acceso al Registro de establecimientos de cambio de moneda, radicado en el Banco de España, trámite que deberán cumplimentar en el término de seis meses desde la notificación de la autorización.
+
+b) Tener como único objeto social las operaciones de compra y venta de billetes extranjeros y cheques de viajero. Este requisito no será de aplicación a las entidades de pago ni a las entidades de dinero electrónico.
+
+c) Tener un capital social mínimo de 60.000 euros íntegramente suscrito y desembolsado en efectivo, representado mediante acciones nominativas.
+
+d) Contar con procedimientos y órganos adecuados de control interno y de comunicación para prevenir e impedir la realización de operaciones relacionadas con el blanqueo de capitales, en las condiciones establecidas en los artículos 31 a 40 del Reglamento de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, aprobado por el Real Decreto 304/2014, de 5 de mayo.
+
+3\. En el caso previsto en el artículo 2.1, se considerará que concurren los requisitos de honorabilidad comercial y profesional por la existencia de un establecimiento abierto al público en el que se esté desarrollando la actividad principal del solicitante.
+
+> Se modifica el apartado 1 por el art. 2 del Real Decreto 970/2021, de 8 de noviembre. [Ref. BOE-A-2021-18286](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-18286)
+
+> Se modifica por la disposición final 2.4 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+> Se modifica el apartado 3 por la disposición final 2.2 del Real Decreto 256/2013, de 12 de abril. [Ref. BOE-A-2013-3908](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3908).
+
+> Se modifica el apartado 3 por la disposición final 7 del Real Decreto 1332/2005, de 11 de noviembre. [Ref. BOE-A-2005-19250](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-19250).
+
+> Se añade el apartado 2.e) por la disposición final 4.2 del Real Decreto 54/2005, de 21 de enero. [Ref. BOE-A-2005-1153](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1153).
+
+### Artículo 5. Requisitos de la solicitud.
+
+1\. La solicitud de autorización para el ejercicio de la actividad de cambio de moneda extranjera se dirigirá al Banco de España en la forma que éste determine y deberá ir acompañada de los siguientes documentos cuando los solicitantes sean personas físicas:
+
+a) Datos personales de los solicitantes.
+
+b) Información detallada sobre su actividad profesional.
+
+c) Declaración firmada por el titular de la actividad en la que se haga constar que carece de antecedentes penales y no se encuentra procesado o inculpado por los delitos a que se refiere el artículo 4.3 del presente Real Decreto.
+
+No obstante, aquellas personas físicas que sólo pretendan realizar las operaciones previstas en el artículo 2.1 como actividad complementaria de aquella otra que constituya su actividad principal, no estarán obligadas a remitir tales declaraciones, al presentar la correspondiente solicitud.
+
+d) Relación de locales donde vayan a efectuarse las operaciones de cambio de moneda extranjera, con indicación de los datos identificativos de esos locales y el carácter permanente o estacional de la actividad.
+
+2\. Cuando los solicitantes sean personas jurídicas, la solicitud, además de lo señalado en el párrafo d) del apartado anterior, deberá ir acompañada de los siguientes documentos:
+
+a) Datos identificativos de la entidad.
+
+b) Relación de los Administradores, así como de las personas que vayan a ejercer funciones como Directores generales o asimilados en la entidad.
+
+c) Declaración firmada por cada uno de los Administradores, Directores generales o asimilados de la entidad en la que se haga constar que carece de antecedentes penales y no se encuentra procesado por los delitos a que se refiere el artículo 4.3 del presente Real Decreto.
+
+No obstante, aquellas personas jurídicas que sólo pretendan realizar las operaciones previstas en el artículo 2.1 como actividad complementaria de aquella otra que constituya su actividad principal, no estarán obligadas a remitir tales declaraciones, al presentar la correspondiente solicitud.
+
+d) Programa de actividades en el que se haga constar las operaciones de cambio de moneda extranjera que se pretendan realizar y, en su caso, información sobre otros tipos de actividades ejercidas por el solicitante de la autorización.
+
+3\. Aquellas personas jurídicas que pretendan realizar las operaciones a que se refiere el artículo 2.3 del presente Real Decreto deberán aportar a su solicitud, además de los señalados en el apartado 2 anterior, los siguientes documentos:
+
+a) Proyecto de Estatutos sociales, acompañado de una certificación registral negativa de la denominación social propuesta.
+
+b) Relación de los socios que han de constituir la sociedad, con indicación de sus participaciones en el capital social. Tratándose de socios, que tengan la consideración de personas jurídicas, se facilitarán también los datos económico-financieros más relevantes de sus dos últimos ejercicios y la composición de sus órganos de administración.
+
+c) Programa específico de actividades, en el que expresamente deberá constar el género de operaciones que se pretenden realizar, los datos más relevantes sobre los medios personales y técnicos con que cuente la sociedad, la estructura de su organización, así como los procedimientos y órganos de control interno y de comunicación que hayan de establecerse para prevenir e impedir el blanqueo de capitales.
+
+4\. En todo caso, cabrá exigir a los titulares de los establecimientos cuantos datos, informes o antecedentes se consideren oportunos para verificar el cumplimiento de las condiciones y requisitos establecidos en este Real Decreto.
+
+5\. La modificación de cualquiera de los datos incluidos en las solicitudes de autorización a que se refiere el presente artículo, la apertura de nuevos locales, así como el cese del establecimiento de cambio en la actividad de cambio de moneda extranjera, deberá comunicarse al Banco de España dentro del mes siguiente a la fecha en que se hayan producido tales hechos.
+
+Cuando el titular de un establecimiento que realice únicamente operaciones de compra de billetes extranjeros o cheques de viaje con pago en euros pretenda ampliarlas a las recogidas en el apartado 2 del artículo 2 se seguirá el procedimiento establecido para obtener la autorización previa, debiéndose cumplir los requisitos exigidos en el artículo 4.2 y presentar una nueva solicitud acompañada de los documentos e informaciones que correspondan, en los términos previstos en este artículo.
+
+> Se modifica el apartado 5 por la disposición final 2.5 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+> Se modifica el apartado 3.c) por la disposición final 4.3 del Real Decreto 54/2005, de 21 de enero. [Ref. BOE-A-2005-1153](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-1153).
+
+## CAPÍTULO III — Régimen sancionador y de supervisión de la actividad de cambio de moneda extranjera
+
+### Artículo 6. Funciones de supervisión y control.
+
+Corresponderá al Banco de España el control e inspección de la actividad de los establecimientos de cambio de moneda, regulados en el presente Real Decreto.
+
+A tal efecto, el Banco de España podrá solicitar de los titulares de los establecimientos de cambio de moneda cuanta información financiera, contable o de otro orden considere adecuada para el eficaz ejercicio de sus funciones.
+
+### Artículo 7. Régimen sancionador.
+
+1\. El régimen sancionador aplicable a los titulares de establecimientos de cambio de moneda así como, en su caso, a sus administradores y directivos, será el establecido en el título I de la Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito, con las adaptaciones recogidas en el presente capítulo.
+
+2\. Las referencias contenidas en el título I de la Ley 26/1988 a las entidades de crédito se entenderán efectuadas respecto de los titulares de los establecimientos de cambio de moneda tanto sean personas físicas como jurídicas.
+
+3\. Tal y como prevé el artículo 3 de la Ley 26/1988, las infracciones se clasifican en infracciones muy graves, graves y leves.
+
+I) Se consideran infracciones muy graves:
+
+a) La realización de actos u operaciones prohibidas por las normas reguladoras de los establecimientos de cambio de moneda con rango de Ley o con incumplimiento de los requisitos establecidos en las mismas salvo que tenga un carácter ocasional o aislado.
+
+b) El carecer de la contabilidad exigida legalmente o llevarla con irregularidades esenciales que impidan conocer la situación patrimonial y financiera del establecimiento.
+
+c) La negativa o resistencia a la actuación inspectora, siempre que medie requerimiento expreso y por escrito al respecto.
+
+d) La falta de remisión al órgano administrativo competente de cuantos datos o documentación deban remitírsele o requiera en el ejercicio de sus funciones, o la falta de veracidad en los mismos, cuando con ello se dificulte la apreciación de la situación patrimonial y financiera del establecimiento. A estos efectos se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por el órgano competente al recordar por escrito la obligación o reiterar el requerimiento.
+
+e) El incumplimiento del deber de veracidad informativa debida al público en general y, en su caso, a sus socios, siempre que por el número de afectados o por la importancia de la información, tal incumplimiento pueda estimarse como especialmente relevante.
+
+f) La realización de actos fraudulentos o la utilización de personas físicas o jurídicas interpuestas con la finalidad de conseguir un resultado cuya obtención directa implicaría la comisión de, al menos, una infracción grave.
+
+g) Las infracciones graves cuando durante los cinco años anteriores a su comisión hubiera sido impuesta al establecimiento de cambio sanción firme por el mismo tipo de infracción.
+
+II) Se consideran infracciones graves:
+
+a) La realización meramente ocasional o aislada de actos u operaciones prohibidas por las normas reguladoras de los establecimientos de cambio de moneda con rango de Ley o con incumplimiento de los requisitos establecidos en las mismas.
+
+b) La realización de actos u operaciones prohibidas por las normas reglamentarias reguladoras de los establecimientos de cambio de moneda o con incumplimiento de los requisitos establecidos en las mismas, salvo que tenga un carácter ocasional o aislado.
+
+c) La falta de remisión al órgano administrativo competente de cuantos datos o documentación deban remitírsele o requiera en el ejercicio de sus funciones, o la falta de veracidad en los mismos, salvo que ello suponga la comisión de una infracción muy grave. A estos efectos se entenderá que hay falta de remisión cuando la misma no se produzca dentro del plazo concedido al efecto por el órgano competente al recordar por escrito la obligación o reiterar el requerimiento.
+
+d) La falta de comunicación por parte de los administradores a la Junta general de aquellos hechos o circunstancias cuya comunicación a la misma haya sido ordenada por el órgano administrativo facultado para ello.
+
+e) El incumplimiento del deber de veracidad informativa debida al público en general y, en su caso, a sus socios cuando no concurran las circunstancias a que se refiere el párrafo e) del apartado anterior.
+
+f) La realización de actos fraudulentos o la utilización de personas físicas o jurídicas interpuestas con la finalidad de conseguir un resultado contrario a las normas reguladoras de los establecimientos de cambio de moneda, siempre que tal conducta no esté comprendida en el párrafo f) del apartado anterior.
+
+g) El incumplimiento de las normas vigentes sobre contabilización de operaciones y sobre formulación de balances, cuentas de pérdidas y ganancias y estados financieros de obligatoria comunicación al órgano administrativo competente.
+
+h) Las infracciones leves, cuando durante los dos años anteriores a su comisión, hubiera sido impuesta al establecimiento de cambio sanción firme por el mismo tipo de infracción.
+
+4\. A los titulares de los establecimientos de cambio de moneda, así como, cuando proceda, a sus administradores y directivos, les serán aplicables las sanciones previstas en el capítulo III del título I de la Ley 26/1988, con las siguientes adaptaciones:
+
+a) No será aplicable la sanción prevista en el párrafo b) del artículo 10 relativa a la constitución de depósitos compensatorios no remunerados hasta el triplo de los déficit de cobertura del coeficiente de caja o de las inversiones obligatorias.
+
+b) Las sanciones previstas en los artículos 12 y 13, se entenderán referidas a quienes ejerzan cargos de administración o de dirección en dichos establecimientos.
+
+c) Las sanciones de inhabilitación previstas en los párrafos c) y d) del artículo 12 se entenderán referidos al ejercicio de cargos de administración o dirección en establecimientos de cambio de moneda.
+
+> Redactado el apartado 3.l.d) conforme a la corrección de erratas publicada en BOE núm. 38, de 13 de febrero de 1999. [Ref. BOE-A-1999-3692](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-3692).
+
+### Artículo 8. Procedimiento sancionador.
+
+1\. El procedimiento sancionador aplicable a las infracciones cometidas por los titulares de establecimientos de cambio de moneda, así como por sus administradores y directivos, será el regulado en el Real Decreto 2119/1993, de 3 de diciembre, sobre el procedimiento sancionador aplicable a los sujetos que actúan en los mercados financieros.
+
+2\. La instrucción de los procedimientos sancionadores que se incoen de conformidad con lo previsto en el apartado tres del artículo 178 de la Ley 13/1996, así como la imposición de las correspondientes sanciones, cualquiera que sea su graduación, será competencia del Banco de España.
+
+### Artículo 9. Revocación de la autorización.
+
+1\. Serán causas de revocación de la autorización para el ejercicio de la actividad de cambio de moneda extranjera las siguientes:
+
+a) La renuncia de modo expreso a la autorización.
+
+b) No iniciar el ejercicio de su actividad dentro de los doce meses siguientes a la inscripción del establecimiento en el Registro Especial.
+
+c) El incumplimiento de alguna de las condiciones que motivaron la concesión de la autorización.
+
+d) La interrupción del ejercicio de la actividad de cambio de moneda extranjera durante un período superior a doce meses.
+
+e) La sanción prevista en el párrafo b) del artículo 9 de la Ley 26/1988, de 29 de julio, relativa a la revocación de la autorización de la entidad.
+
+2\. La revocación de la autorización, salvo en los supuestos de infracciones muy graves, en que se estará a lo dispuesto en la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, se ajustará al procedimiento común previsto en el título VI de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como a lo establecido en el Real Decreto 1778/1994, de 5 de agosto, por el que se adecuan a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las normas reguladoras de los procedimientos de otorgamiento, modificación y extinción de las autorizaciones, con las siguientes especialidades:
+
+a) El acuerdo de iniciación, la instrucción y la resolución del expediente corresponderán al Banco de España.
+
+b) No obstante, cuando la causa de revocación que concurra sea la prevista en el párrafo b) del apartado anterior, bastará con dar audiencia al establecimiento interesado.
+
+3\. El acuerdo por el que se revoque la autorización será motivado, e inmediatamente ejecutivo, y se inscribirá en el Registro Mercantil y en el Registro de establecimientos de cambio de moneda» del Banco de España.
+
+## CAPÍTULO IV — Obligaciones de los establecimientos de cambio de moneda
+
+### Artículo 10. Tipos de cambio y protección de la clientela.
+
+Los tipos de cambio aplicables a las operaciones de compra y venta de moneda extranjera serán libres, debiendo respetar, con carácter general, dichas operaciones el régimen de publicidad, de transparencia de las operaciones y de protección de la clientela y, en especial, lo que se establezca en las normas de desarrollo de este Real Decreto.
+
+### Artículo 11. Registro de operaciones.
+
+Los establecimientos de cambio de moneda deberán registrar las operaciones que realicen sujetas a este real decreto, identificar de forma individualizada a las personas que participen en dichas operaciones, e informar al Banco de España y a los órganos competentes de la Administración tributaria en la forma y con los límites que establece el marco normativo vigente y con los que se establezcan en las normas de desarrollo de este real decreto, a los efectos de seguimiento estadístico y fiscal de tales operaciones.
+
+> Se modifica por la disposición final 2.6 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+### Artículo 12. Obligación de información al Banco de España.
+
+Sin perjuicio de otras obligaciones específicas de información establecidas en otras disposiciones de este Real Decreto, los establecimientos de cambio de moneda cuyo titular sea una persona jurídica, deberán remitir al Banco de España la información que éste les requiera sobre sus Balances, Cuentas de Resultados, órganos de administración, participaciones de control u otros datos análogos que estime procedentes. Las personas físicas deberán facilitar igualmente la información relativa a la contabilidad y resultados de su actividad.
+
+## CAPÍTULO V — Otras disposiciones
+
+### Artículo 13. Realización de la actividad de cambio de moneda por personas no autorizadas.
+
+1\. A las personas físicas o jurídicas que, sin haber obtenido la preceptiva autorización del Banco de España, efectúen en establecimientos abiertos al público operaciones de cambio de moneda extranjera u ofrezcan al público la realización de las mismas, les será de aplicación lo previsto en la disposición adicional décima de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito, con las adaptaciones establecidas en el siguiente apartado.
+
+2\. De acuerdo con lo dispuesto en el apartado cuatro del artículo 178 de la Ley 13/1996, de 30 de diciembre, será el Banco de España la autoridad competente para solicitar la información o realizar las inspecciones a que se refieren respectivamente los párrafos a) y b), apartado 1, de la disposición adicional décima de la Ley 26/1988, de 29 de julio, de Disciplina e Intervención de las Entidades de Crédito.
+
+El procedimiento sancionador incoado como consecuencia de la presunta comisión de infracciones muy graves, a que se refiere el apartado 2 de la citada disposición adicional décima, tendrá carácter simplificado de acuerdo con lo dispuesto en el artículo 10 del Real Decreto 2119/1993, de 3 de diciembre, sobre el procedimiento sancionador aplicable a los sujetos que actúan en los mercados financieros, correspondiendo su instrucción, así como, en su caso, la imposición de la sanción que corresponda, al Banco de España, dentro de los términos establecidos en la propia disposición adicional décima de la Ley 26/1988, de 29 de julio.
+
+### Disposición adicional única. Aplicación de otras normativas.
+
+A los establecimientos de cambio de moneda regulados en este real decreto les será aplicable la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, y su normativa de desarrollo.
+
+> Se modifica por la disposición final 2.7 del Real Decreto 84/2015, de 13 de febrero. [Ref. BOE-A-2015-1455](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-1455).
+
+### Disposición transitoria única. Adaptación de los establecimientos inscritos o pendientes de inscripción.
+
+1\. En el plazo de un año, a contar desde la entrada en vigor de este Real Decreto, los titulares de establecimientos en los que se ejerza la actividad de cambio de moneda que, a la entrada en vigor de este Real Decreto, se encuentren inscritos en el Registro de establecimientos abiertos al público para cambio de moneda extranjera, previsto en la Circular del Banco de España número 8/1992, de 24 de abril, deberán solicitar la autorización para el ejercicio de la actividad de cambio de moneda extranjera, de acuerdo con lo establecido en el capítulo I del presente Real Decreto.
+
+Transcurrido el citado plazo sin que se hubiera efectuado la oportuna solicitud de autorización, se procederá a cancelar de oficio su inscripción en el actual Registro del Banco de España a los establecimientos de cambio que se encuentran en esa situación. A partir de dicha fecha, los establecimientos afectados no podrán realizar ninguna de las actividades contempladas en el artículo 2 del presente Real Decreto.
+
+2\. Los promotores de los expedientes de inscripción de nuevos establecimientos de cambio de moneda que estén actualmente pendientes de inscripción en los Registros del Banco de España dispondrán del plazo de dos meses para adaptar sus solicitudes a lo dispuesto en el presente Real Decreto, a contar desde su entrada en vigor.
+
+Transcurrido dicho plazo sin haber procedido a la referida adaptación, se entenderá que desisten de sus anteriores peticiones.
+
+3\. Los titulares de establecimientos de cambio que vengan realizando operaciones de gestión de transferencias con el exterior no previstas en la Circular número 8/1992, de 24 de abril, dispondrán del plazo de un mes para comunicarlo al Banco de España. Una vez realizada dicha comunicación, estos establecimientos de cambio podrán acogerse al régimen transitorio establecido en el apartado 1 de esta disposición, siempre que manifiesten expresamente su intención de solicitar la oportuna autorización, cumpliendo los requisitos establecidos en el artículo 4 del presente Real Decreto. Dichos establecimientos deberán cumplir, desde el momento en que se acojan al régimen transitorio, los requisitos señalados en el artículo 4, apartado 1, y en el artículo 4, apartado 2, párrafos c) y d), así como lo dispuesto en los artículos 10, 11 y 12 del presente Real Decreto.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la disposición adicional primera del Real Decreto 1816/1991, de 20 de diciembre, sobre transacciones económicas con el exterior.
+
+### Disposición final primera. Modificaciones normativas.
+
+El párrafo a) del apartado 4 del artículo 11 del Real Decreto 1816/1991, de 20 de diciembre, de transacciones económicas con el exterior, queda redactado de la siguiente forma:
+
+«4. Corresponderán al Banco de España las competencias para:
+
+a) Conceder a bancos, cajas de ahorro y otras entidades financieras autorización para actuar en el mercado de divisas, en los casos en que dicha autorización se requiera de conformidad con la legislación vigente, así como autorizar las actividades de cambio de moneda extranjera en establecimientos abiertos al público de acuerdo con su normativa reguladora.»
+
+### Disposición final segunda. Facultad de desarrollo.
+
+Se faculta al Ministro de Economía y Hacienda para dictar las normas que sean precisas para el desarrollo del presente Real Decreto en el plazo de seis meses a contar desde su entrada en vigor, y, en particular, a dictar normas específicas relativas al régimen de publicidad, transparencia y protección de la clientela a que se refiere el artículo 10 del presente Real Decreto. Dichas disposiciones serán previamente sometidas a información del Consejo General de Consumidores y Usuarios.
+
+Se autoriza al Banco de España para dictar las normas necesarias para el desarrollo de las funciones de supervisión y control de la actividad de los establecimientos de cambio de moneda, así como para desarrollar los deberes de información de los citados establecimientos respecto al registro de operaciones e identificación de las personas que participen en las mismas.
+
+### Disposición final tercera. Carácter básico.
+
+Las disposiciones contenidas en el presente Real Decreto se declaran básicas de conformidad con lo dispuesto en el artículo 149.1.11.ª y 13.ª de la Constitución.
+
+Dado en Madrid a 14 de diciembre de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda,
+
+RODRIGO DE RATO Y FIGAREDO

@@ -1,0 +1,379 @@
+---
+title: "Real Decreto 1698/2003, de 12 de diciembre, por el que se establecen disposiciones de aplicación de los Reglamentos comunitarios sobre el sistema de etiquetado de la carne de vacuno"
+identifier: "BOE-A-2003-23402"
+eli: "https://www.boe.es/eli/es/rd/2003/12/12/1698"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2003-12-12
+published: 2003-12-20
+in_force_from: 2003-12-21
+last_amended: 2016-12-07
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 304"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23402"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1698/2003, de 12 de diciembre, por el que se establecen disposiciones de aplicación de los Reglamentos comunitarios sobre el sistema de etiquetado de la carne de vacuno
+
+El vigente sistema comunitario de etiquetado de la carne de vacuno está constituido por el Reglamento (CE) n.º 1760/2000 del Parlamento Europeo y del Consejo, de 17 de julio de 2000, que establece un sistema de identificación y registro de los animales de la especie bovina y relativo al etiquetado de la carne de vacuno y de los productos a base de carne de vacuno y por el que se deroga el Reglamento (CE) n.º 820/97 del Consejo, y por el Reglamento (CE) n.º 1825/2000 de la Comisión, de 25 de agosto de 2000, por el que se establecen disposiciones de aplicación del Reglamento (CE) n.º 1760/2000 del Parlamento Europeo y del Consejo, en lo que respecta al etiquetado de la carne de vacuno y de los productos a base de carne de vacuno.
+
+El primer reglamento citado ha derogado al Reglamento (CE) n.º 820/97 del Consejo, de 21 de abril de 1997, por el que se establece un sistema de identificación y registro de los animales de la especie bovina y relativo al etiquetado de la carne de vacuno y de los productos a base de carne de vacuno, y el segundo al Reglamento (CE) n.º 1141/97 de la Comisión, de 23 de junio de 1997, por el que se establecen disposiciones de aplicación del Reglamento (CE) n.º 820/97 del Consejo, en lo que concierne al etiquetado de la carne de vacuno y de los productos a base de carne de vacuno. Para la mejor comprensión y la aplicación en España de estos dos últimos reglamentos, se aprobó el Real Decreto 2071/1999, de 30 de diciembre, por el que se establecen las normas internas de aplicación de los reglamentos comunitarios sobre el sistema de etiquetado de la carne de vacuno, que ha quedado, por tanto, obsoleto.
+
+Este Real Decreto, que deroga el Real Decreto 2071/1999, de 30 de diciembre, establece disposiciones de aplicación de la normativa comunitaria vigente, sin perjuicio de la directa aplicabilidad de ésta. Su objeto es conseguir la necesaria seguridad jurídica para los operadores comerciales y para todos los ciudadanos, así como una mayor claridad y comprensión de la normativa vigente por parte de los interesados. En concreto, se regulan determinados aspectos del etiquetado obligatorio y facultativo de la carne de vacuno, basados algunos en interpretaciones de la Comisión Europea, incluido el de carne de reses de lidia y el de carne de vacuno picada. Con el fin de evitar tanto la competencia desleal en el sector como posibles confusiones en los consumidores, se establecen las categorías del animal o los animales de que procede la carne en función del sexo y la edad. Asimismo, se regulan de forma detallada las obligaciones de los operadores que son necesarias para garantizar la trazabilidad de la carne de vacuno y de los productos a base de carne de vacuno. Otros aspectos que se regulan son el régimen de control, el registro de pliegos de condiciones, la colaboración entre Administraciones públicas y las consecuencias del incumplimiento de sus obligaciones por los interesados.
+
+Todo lo anterior no es óbice para la aplicación de la normativa vigente, y en especial la referente a las condiciones sanitarias, higiénicas y veterinarias sobre la carne de vacuno y la carne picada de vacuno, así como las normas sobre las encefalopatías espongiformes transmisibles (EET), como es el caso de la contemplada en el anexo XI del Reglamento (CE) n.º 999/2001 del Parlamento Europeo y del Consejo, de 22 de mayo de 2001, en relación con la inclusión de una banda azul en la etiqueta de las canales procedentes de animales a los que no es necesario retirar la columna vertebral, así como las normas sobre etiquetado, presentación y publicidad de los productos alimenticios.
+
+En el proceso de elaboración de este Real Decreto han sido consultadas las comunidades autónomas y los sectores afectados y ha sido informado favorablemente por la Comisión Interministerial para la Ordenación Alimentaria.
+
+Este Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuye al Estado competencias exclusivas sobre bases y coordinación de la planificación general de la actividad económica y sobre sanidad exterior y bases y coordinación general de la sanidad.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de diciembre de 2003,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+1\. Este Real Decreto establece disposiciones para la aplicación, en todo el territorio nacional, del sistema comunitario de etiquetado de la carne de vacuno, incluida la carne de vacuno picada y la carne de lidia.
+
+2\. Este Real Decreto se aplicará sin perjuicio de lo dispuesto en la normativa vigente aplicable a la carne de vacuno, carne de vacuno picada y carne de lidia, y en la normativa sobre etiquetado, presentación y publicidad de los productos alimenticios.
+
+## Artículo 2. Definiciones.
+
+A los efectos de este Real Decreto, se entenderá por:
+
+a) Autoridad competente: Los órganos designados por las comunidades autónomas y la Administración General del Estado en el ámbito de sus respectivas competencias.
+
+b) Trazabilidad o rastreabilidad: El sistema que garantiza una relación entre la identificación de la carne y el animal o los animales de que procede a través de todas las etapas de producción, transformación, distribución y venta de la carne de vacuno, sin perjuicio de lo establecido en el Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria.
+
+c) Número o código de referencia: Aquel número que garantice la relación:
+
+1.º En el matadero: Entre la canal, media canal, medias canales despiezadas en un máximo de tres piezas o los cuartos y el animal de que procede.
+
+2.º En el resto de establecimientos de transformación, distribución y venta: Entre la carne y el animal o el grupo de animales de que proceda.
+
+d) Tamaño del grupo: El número de canales, medias canales, medias canales despiezadas en un máximo de tres piezas o cuartos de canal, procedentes de un mismo país de nacimiento y de un mismo matadero, que se despiecen conjuntamente y que constituyan un solo lote para la sala de despiece, que no exceda de la producción de un día.
+
+A partir de todos los grupos del párrafo anterior podrán formarse nuevos grupos, mediante operaciones de corte y picado que tengan lugar en el mismo día, siempre que los animales de los que proceda la carne hayan nacido en un mismo país y hayan sido sacrificados en un mismo establecimiento.
+
+Cuando el nuevo grupo formado se refiera al picado de la carne, la exigencia respecto al sacrificio de los animales se refiere al país, y se mantiene el resto de las condiciones establecidas para la formación de los grupos.
+
+## Artículo 3. Denominación de venta.
+
+A los efectos de la aplicación de este Real Decreto y sin perjuicio de lo establecido en el Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, la denominación de venta utilizada será la siguiente:
+
+a) En el caso de la carne de vacuno, serán las establecidas en el anexo I, relativas a la categoría del animal o de los animales de los que procede la carne en función de su sexo y edad.
+
+b) En el caso de la carne picada y de los recortes de carne, se añadirá a las menciones “Carne picada de” o en su caso, “Recortes de carne de”, aquellas que sean de aplicación de acuerdo con lo establecido en el apartado a). No obstante para la carne picada se podrá usar el término general de “Carne picada de vacuno”.
+
+c) En el caso de la carne de reses de lidia contempladas en el Real Decreto 260/2002, de 8 de marzo, por el que se fijan las condiciones sanitarias aplicables a la producción y comercialización de reses de lidia, será la establecida en la citada norma, más aquellas que le sean de aplicación de acuerdo con lo establecido en el párrafo a).
+
+> Se modifica la letra b) por el art. 1.1 del Real Decreto 75/2009, de 30 de enero.[Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+## Artículo 4. Etiquetado obligatorio.
+
+1\. El sistema de etiquetado obligatorio garantizará la relación entre la identificación de canales, cuartos o trozos de carne y cada animal o, cuando ello sea suficiente, con el grupo de animales correspondiente, de acuerdo con lo dispuesto en el artículo 13 del Reglamento (CE) n.º 1760/2000, del Parlamento Europeo y del Consejo, de 17 de julio de 2000, que establece un sistema de identificación y registro de los animales de la especie bovina y relativo al etiquetado de la carne de vacuno y de los productos a base de carne de vacuno y por el que se deroga el Reglamento (CE) n.º 820/97 del Consejo.
+
+2\. A los efectos del apartado anterior, podrán formarse grupos a partir de canales, medias canales, medias canales despiezadas en un máximo de tres piezas o cuartos de canal, siempre que sean obtenidos de animales procedentes de un mismo país de nacimiento, de uno o varios países de engorde, de un mismo país de sacrificio y sacrificados en un mismo matadero.
+
+El grupo tendrá un tamaño de manera que constituya un solo lote para la sala de despiece, y no podrá exceder de la producción de un día. No obstante lo anterior, en el caso de la carne despiezada sin preenvasar expuesta para la venta al consumidor final, el tamaño del grupo podrá ser superior a la producción de un día.
+
+Durante el despiece posterior de la carne, podrán formarse lotes a partir de carnes procedentes de animales sacrificados en tres mataderos diferentes, como máximo, y de canales despiezadas en tres salas de despiece diferentes, cómo máximo.
+
+No obstante, para la formación de lotes de recortes de carne y de carne picada sólo será necesario respetar que la carne proceda de animales sacrificados en un mismo país.
+
+3\. En el etiquetado de la carne de vacuno, excepto la carne de vacuno picada y los recortes de carne, se indicarán las menciones obligatorias que se establecen en el anexo II.
+
+4\. En el caso de la carne despiezada sin preenvasar expuesta para la venta al consumidor final, cuando los países de nacimiento, de engorde y de sacrificio sean distintos, las carnes de los animales se expondrán claramente separadas según su origen, conforme a lo establecido en el artículo 13 del Reglamento (CE) n.º 1760/2000, del Parlamento Europeo y del Consejo, de 17 de julio de 2000. En este caso, el agente económico además, deberá disponer de la información de los números de autorización sanitaria del matadero y sala de despiece, o en su caso, de los mataderos y salas de despiece, para comunicársela a los consumidores finales que la soliciten, sin perjuicio de lo dispuesto en los artículos 15 y 16 del Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma General de etiquetado, presentación y publicidad de los alimentos.
+
+No obstante lo anterior, la información referente a la edad del sacrificio de animales de 12 meses o menos, podrá ser sustituida en cualquiera de las fases de la producción y comercialización, excepto en el punto de venta al consumidor final, por la letra de la categoría prevista en el anexo II, apartado 4.
+
+5\. Para la carne de vacuno picada y los recortes de carne se indicarán, al menos, las menciones que se indican en el anexo II, apartados 1 y 3.
+
+Dichas indicaciones se aplicarán al etiquetado de la carne picada que contenga mezcla de carne de vacuno con otras especies animales, cuando el contenido de carne de vacuno sea superior al 50 por cien.
+
+6\. La carne de vacuno importada en la Unión Europea de terceros países, en la que no esté disponible la información prevista en este artículo, llevará en la etiqueta la indicación “Origen: no comunitario” y “Lugar de sacrificio: (nombre del tercer país)”.
+
+No obstante, la carne de vacuno importada en la Unión Europea de terceros países procedente de animales de edad igual o inferior a doce meses, deberá cumplir, en todas las fases de su comercialización y venta, lo dispuesto en el presente real decreto en materia de clasificación, denominaciones de venta y etiquetado.
+
+7\. En todos los casos se indicará el nombre completo del Estado miembro o tercer país.
+
+> Se modifica por el art. 1.2 del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+## Artículo 5. Trazabilidad.
+
+1\. Con objeto de garantizar la trazabilidad de la carne de vacuno, se establecen las siguientes obligaciones:
+
+a) En el matadero se etiquetarán, cada canal y media canal, en la cadena de sacrificio, y cada media canal despiezada en un máximo de tres piezas o cuarto de canal, lo más pronto posible, de manera que exista una relación inequívoca con el animal del que proceden mediante un sistema que permita garantizar esa relación en todo momento. Además se clasificarán en el momento del sacrificio todos los animales de edad igual o inferior a doce meses mediante la letra prevista en el anexo II, apartado 4.
+
+b) En todas las fases de producción, comercialización y venta deberá aplicarse a las canales, medias canales, medias canales despiezadas en un máximo de tres piezas, cuartos de canal y piezas de carne un etiquetado con, al menos, las menciones obligatorias del artículo 4. No obstante, en el punto de venta, en los productos no preenvasados, se suministrará la información obligatoria del etiquetado de acuerdo con lo previsto en la Norma general de etiquetado, presentación y publicidad de los productos alimenticios, aprobada por el Real Decreto 1334/1999, de 31 de julio, bien por escrito y de manera visible sobre las carnes, o bien en un lugar próximo a las mismas, garantizando que el consumidor pueda relacionar cada pieza de carne con el número o código de referencia del animal o grupo de que procede y le permita distinguir fácilmente las carnes de diferentes orígenes, así como las denominaciones de venta.
+
+c) Cada establecimiento incorporará a la etiqueta únicamente las menciones que le correspondan de acuerdo con su actividad según su autorización sanitaria.
+
+d) Todos los agentes económicos y las organizaciones, además de cumplir con el sistema de etiquetado, dispondrán, en las diversas fases de producción y venta, de un sistema de registro completo de entradas y salidas, al que se refiere el artículo 1 del Reglamento (CE) n.º 1825/2000, de la Comisión, de 25 de agosto de 2000, que contenga, al menos, los datos que figuran en el anexo III.
+
+2\. Los registros establecidos se conservarán por un período mínimo de tres años, excepto para los establecimientos de venta al consumidor final, que se conservarán como mínimo durante un año.
+
+3\. Los agentes económicos y organizaciones deberán transmitir a lo largo de toda la cadena de comercialización los datos de edad y sexo necesarios para la correcta aplicación del artículo 3.
+
+> Se modifica por el art. 1.3 del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+## Artículo 6. Etiquetado facultativo.
+
+**(Derogado)**
+
+> Se deroga por el art. único del Real Decreto 543/2016, de 25 de noviembre. [Ref. BOE-A-2016-11632](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11632).
+
+## Artículo 7. Control.
+
+**(Derogado)**
+
+> Se deroga por el art. único del Real Decreto 543/2016, de 25 de noviembre. [Ref. BOE-A-2016-11632](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11632).
+
+## Artículo 8. Deber de información.
+
+**(Derogado)**
+
+> Se deroga por el art. único del Real Decreto 543/2016, de 25 de noviembre. [Ref. BOE-A-2016-11632](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11632).
+
+> Se modifica el párrafo primero por el art. 1.4 del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+## Artículo 9. Registros y publicidad.
+
+**(Derogado)**
+
+> Se deroga por el art. único del Real Decreto 543/2016, de 25 de noviembre. [Ref. BOE-A-2016-11632](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11632).
+
+## Artículo 10. Régimen sancionador.
+
+1\. Las autoridades competentes aplicarán las siguientes medidas previstas en los Reglamentos (CE) n.º 1760/2000 y 1825/2000:
+
+a) La revocación de la autorización del pliego de condiciones o la imposición de condiciones suplementarias para mantenerla en caso de incumplimiento de lo establecido en dicho pliego de condiciones de etiquetado facultativo por el agente económico u organización,
+
+b) La retirada del mercado de la carne hasta que vuelva a etiquetarse de conformidad con lo previsto en los mencionados reglamentos cuando la carne de vacuno haya sido etiquetada: sin respetar el sistema de etiquetado obligatorio o, en caso de aplicarse el sistema facultativo, sin respetar el pliego de condiciones o sin que exista un pliego de condiciones aprobado.
+
+No obstante, si la carne considerada se ajusta a todas las normas veterinarias y de higiene vigentes, las autoridades competentes podrán autorizar que dicha carne sea destinada directamente a su transformación en productos a base de carne, con exclusión de los productos a los que se refiere el artículo 12 del Reglamento (CE) n.º 1760/2000, sin perjuicio de las sanciones que le sean de aplicación.
+
+2\. Asimismo serán de aplicación las sanciones establecidas en la Ley 8/2003, de 24 de abril, de sanidad animal, y en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, sin perjuicio de la aplicación, en su caso, de lo establecido en la Ley 21/1992, de 16 de julio, de Industria, en relación con las actuaciones de los organismos independientes de control.
+
+## Disposición adicional única. Desarrollo y coordinación.
+
+Se constituye, para el seguimiento y coordinación de las actuaciones previstas en este Real Decreto, una mesa de coordinación de trazabilidad de productos de origen animal, con la participación de representantes de los Ministerios de Agricultura, Pesca y Alimentación y de Sanidad y Consumo y de las comunidades autónomas.
+
+## Disposición transitoria única. Normas relativas a los pliegos de condiciones.
+
+**(Derogada)**
+
+> Se deroga por el art. único del Real Decreto 543/2016, de 25 de noviembre. [Ref. BOE-A-2016-11632](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11632).
+
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga el Real Decreto 2071/1999, de 30 de diciembre, por el que se establecen normas internas de aplicación de los reglamentos comunitarios sobre el sistema de etiquetado de la carne de vacuno, y cualquier otra norma de igual o inferior rango que se oponga a lo establecido en este Real Decreto.
+
+## Disposición final primera. Facultad de desarrollo.
+
+Se faculta a los Ministros de Medio Ambiente y, Medio Rural y Marino y de Sanidad y Consumo, en el ámbito de sus competencias, para modificar los anexos con el fin de adaptarlos a lo dispuesto en la normativa comunitaria.
+
+> Se modifica por el art. 1.5 del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+## Disposición final segunda. Títulos competenciales.
+
+Este Real Decreto se dicta de conformidad con lo dispuesto en el artículo 149.1.13.ª y 16.a de la Constitución, que atribuye al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y bases y coordinación general de la sanidad y de la sanidad exterior.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 12 de diciembre de 2003.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno
+
+y Ministro de la Presidencia,
+
+JAVIER ARENAS BOCANEGRA
+
+## ANEXO I — Denominación de venta
+
+*Denominación de venta aplicable a la carne de vacuno en relación con la categoría del animal establecida en función de su sexo y edad*
+
+| Denominación de venta | Sexo | Edad |
+|---|---|---|
+| «Ternera blanca» o «Carne de ternera blanca» | Macho o hembra. | Menor o igual a 8 meses. |
+| «Ternera» o «Carne de ternera» | Macho o hembra. | Mayor de 8 meses hasta 12 meses. |
+| «Añojo» o «Carne de añojo» | Macho o hembra. | Mayor de 12 meses hasta 24 meses. |
+| «Novillo» o «Novilla» o «Carne de novillo» o «Carne de novilla» | Macho o hembra. | Mayor de 24 meses hasta 48 meses. |
+| «Cebón» o «Carne de cebón» | Macho castrado. | Menor o igual a 48 meses. |
+| «Buey» o «Carne de buey» | Macho castrado. | Mayor de 48 meses. |
+| «Vaca» o «Carne de vaca» | Hembra. | Mayor de 48 meses. |
+| «Toro» o «Carne de toro» | Macho. | Mayor de 48 meses. |
+
+> Se modifica por el art. 1.6 y anexo del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+> Se modifica por la disposición adicional única del Real Decreto 1178/2008, de 11 de julio. [Ref. BOE-A-2008-11879](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-11879).
+
+## ANEXO II — Menciones obligatorias en el etiquetado
+
+1\. El número de referencia o código de referencia que debe relacionar inequívocamente la carne con el animal o grupo de animales de que procede.
+
+2\. Mención de los Estados miembros y países terceros que intervienen.
+
+a) El nombre del Estado miembro o el tercer país de nacimiento, precedido de las menciones, excluyentes entre sí, «Nacido en» o «País de nacimiento».
+
+b) Los nombres de los Estados miembros o terceros países en los que haya tenido lugar el engorde, precedidos de una de las siguientes menciones, excluyentes entre sí: «Criado en» o «Engordado en» o «Cebado en» o «País de engorde»*.
+
+c) El nombre del Estado miembro o el tercer país en el que haya tenido lugar el sacrificio, precedido de la mención «Sacrificado en», seguida del número o los números, en su caso, de autorización sanitaria del matadero.
+
+d) El nombre del Estado miembro o el tercer país en el que haya tenido lugar el despiece, precedido de la mención «Despiece en», seguida del número o los números, en su caso, de autorización sanitaria de la sala o salas de despiece.
+
+En el caso de que la carne de vacuno proceda de animales nacidos, criados y sacrificados en el mismo Estado miembro o en el mismo tercer país, las menciones referidas al Estado miembro o tercer país de nacimiento, engorde y sacrificio se podrán sustituir por el nombre de dicho Estado miembro o tercer país precedido de la mención «Origen» y el número de autorización sanitaria del matadero.
+
+3\. En el caso de la carne picada y los recortes de carne, las menciones del apartado anterior podrán ser sustituidas por las siguientes:
+
+a) La mención «Producido en», seguida del nombre del Estado miembro o del tercer país de elaboración. En el caso de los recortes de carne se indicarán además el número de autorización sanitaria del establecimiento de elaboración.
+
+b) El nombre del Estado miembro o tercer país en el que haya tenido lugar el sacrificio, precedido de la mención «Sacrificado en» o «País de sacrificio».
+
+c) Los países de nacimiento y engorde de los animales cuando no coincidan con el país de producción o elaboración de la carne picada.
+
+4\. En el caso de los animales de edad igual o inferior a doce meses, se indicarán las siguientes menciones:
+
+a) «Edad de sacrificio: Hasta 8 meses», categoría «V», cuando se trate de animales de edad inferior o igual a ocho meses, y que corresponde a la denominación «ternera blanca» o «carne de ternera blanca».
+
+b) «Edad de sacrificio: De 8 a 12 meses», categoría «Z», cuando se trate de animales de edad superior a ocho meses e inferior a doce, y que corresponde a la denominación «ternera» o «carne de ternera».
+
+5\. Para la carne de reses de lidia definida de acuerdo con lo establecido en el Real Decreto 260/2002, de 8 de marzo, por el que se fijan las condiciones sanitarias aplicables a la producción y comercialización de carnes de reses de lidia.
+
+a) El número de referencia, establecido en apartado 1, será el código de identificación del animal establecido en el artículo 5 del Real Decreto 1980/1998, de 18 de septiembre, por el que se establece un sistema de identificación y registro de los animales de la especie bovina.
+
+b) El número de autorización sanitaria del matadero será sustituido por el número asignado al lugar en el que se desarrolle el espectáculo taurino o festejo popular asignado en la base de datos de identificación y registro de bovinos establecida en el artículo 12 del Real Decreto 1980/1998, de 18 de septiembre.
+
+En el caso de que el faenado o despiece de los animales se realice en alguno de los establecimientos recogidos en el artículo 3.5.a) y b) del Real Decreto 260/2002, de 8 de marzo, se indicará, además, el número o los números de autorización sanitaria de dichos establecimientos.
+
+\* En el caso de que el animal haya permanecido menos de 30 días en el Estado miembro o tercer país de nacimiento o en el Estado miembro o tercer país de sacrificio, no será necesario indicar dicho Estado miembro o tercer país en el etiquetado como país de engorde.
+
+> Se añade por el art. 1.7 del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).
+
+## ANEXO III — Sistema de anotación de entradas y salidas
+
+<table>
+<tbody>
+<tr>
+<th>
+<p>Entradas</p>
+</th>
+<th>
+<p>Salidas</p>
+</th>
+</tr>
+<tr>
+<td colspan="2">
+<p>En matadero</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número de identificación de animal.</p>
+<p>Número o código de referencia.</p>
+<p>Fecha de nacimiento.</p>
+<p>Fecha de entrada.</p>
+<p>Código de la explotación de origen del animal.</p>
+<p>País de nacimiento del animal.</p>
+<p>País o países de engorde del animal.</p>
+</td>
+<td>
+<p>Fecha de sacrificio.</p>
+<p>Edad y sexo del animal de que procede la canal.</p>
+<p>Fecha de salida de las canales, medias canales, medias canales divididas en un máximo de tres trozos y cuartos de canal.</p>
+<p>Peso de las canales, medias canales, medias canales divididas en un máximo de tres trozos y cuartos de canal.</p>
+<p>Establecimiento de destino de las canales, medias canales, medias canales divididas en un máximo</p>
+<p>de tres trozos y cuartos de canal.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>En sala de despiece</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menciones obligatorias de la etiqueta que portan las canales, medias canales, medias canales divididas en un máximo de tres trozos y cuartos de canal.</p>
+<p>Nombre y número de autorización sanitaria del establecimiento de procedencia.</p>
+<p>Fecha de llegada de las canales, medias canales, medias canales divididas en un máximo de tres trozos y cuartos de canal.</p>
+<p>Peso de las canales, medias canales, medias ca</p>
+<p>nales divididas en un máximo de tres trozos y cuartos de canal.</p>
+</td>
+<td>
+<p>Número o código de referencia, asignado por la sala a las piezas de carne, relacionado con las canales, medias canales, medias canales divididas en un máximo de tres trozos y cuartos de canal de que proceden.</p>
+<p>Fecha de despiece.</p>
+<p>Fecha de salida de las piezas de carne.</p>
+<p>Peso de las piezas.</p>
+<p>Establecimiento de destino de las piezas de carne.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>En almacén frigorífico</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nombre y número de autorización sanitaria del establecimiento de procedencia.</p>
+<p>Número o código de referencia que portan las canales, medias canales, medias canales divididas en un máximo de tres trozos, cuartos de canal y piezas de carne.</p>
+<p>Fecha de llegada de las canales, medias canales, medias canales divididas en un máximo de tres trozos, cuartos de canal y piezas de carne.</p>
+</td>
+<td>
+<p>Fecha de salida de las canales, medias canales, medias canales divididas en un máximo de tres trozos, cuartos de canal y piezas de carne.</p>
+<p>Establecimiento de destino</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>En establecimiento de elaboración de carne picada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Número o código de referencia que porta la carne.</p>
+<p>País de sacrificio.</p>
+<p>País de nacimiento de los animales de los que procede la carne.</p>
+<p>Países de engorde de los animales de los que procede la carne.</p>
+<p>Nombre y número de autorización sanitaria de los establecimientos de procedencia.</p>
+<p>Peso de los lotes de carne.</p>
+<p>Fecha de llegada de la carne.</p>
+</td>
+<td>
+<p>Número o código de referencia asignado al lote por la industria de elaboración.</p>
+<p>Fecha de elaboración, en caso de que se prevea su indicación en la etiqueta.</p>
+<p>Fecha de salida de la carne picada.</p>
+<p>Peso de los lotes de carne picada.</p>
+<p>Establecimientos de destino.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>En el punto de venta al consumidor final se indicará*</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Menciones obligatorias de la etiqueta que portan las canales, medias canales, medias canales divididas en un máximo de tres trozos, cuartos de canal y piezas de carne.</p>
+<p>Nombre y número de autorización sanitaria del establecimiento de procedencia.</p>
+<p>Peso de las canales, medias canales, medias canales divididas en un máximo de tres trozos, cuartos de canal y piezas.</p>
+<p>Fecha de llegada.</p>
+</td>
+<td>
+<p>Fecha final de venta, siendo ésta el último día de venta de la carne correspondiente a un número de referencia, excepto en el caso de presentación en productos preenvasados, que se anotará la fecha de puesta a la venta de la carne referida a un número de referencia.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+\* No obstante, en los establecimientos de venta al consumidor final, el sistema de registro completo podrá consistir en el archivo, a disposición inmediata de la autoridad competente cuando ésta lo requiera, de los documentos comerciales acreditativos, ya sea en formato papel o en cualquier otro sistema constatable, incluido los telemáticos, de la procedencia de la carne de vacuno, siempre que el proveedor haya hecho constar en ellos las menciones del etiquetado obligatorio y el detallista incluya la fecha inicial de llegada de la canal, media canal, media canal dividida en un máximo de tres piezas, cuarto de canal o pieza de carne al establecimiento y la fecha final de venta, excepto en el caso de presentación en barquetas, en el que se indicará la fecha de puesta a la venta para permitir a la autoridad competente conocer en cualquier momento qué canales o piezas se encontraban a la venta en un determinado día.
+
+> Se añade por el art. 1.9 del Real Decreto 75/2009, de 30 de enero. [Ref. BOE-A-2009-1602](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1602).

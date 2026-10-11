@@ -1,0 +1,333 @@
+---
+title: "Real Decreto 618/1998, de 17 de abril, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de helados y mezclas envasadas para congelar"
+identifier: "BOE-A-1998-9963"
+eli: "https://www.boe.es/eli/es/rd/1998/04/17/618"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-04-17
+published: 1998-04-28
+in_force_from: 1998-04-29
+last_amended: 2022-12-21
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 101"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-9963"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 618/1998, de 17 de abril, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de helados y mezclas envasadas para congelar
+
+Por este Real Decreto se aprueba la Reglamentación técnico-sanitaria aplicable a la elaboración, distribución y comercio de helados y mezclas envasadas para congelar.
+
+Para ello se ha tenido en cuenta la normativa establecida, con carácter general para todo el sector lácteo, por el Real Decreto 1679/1994, de 22 de julio, por el que se establecen las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos (que transpone la Directiva 92/46/CEE del Consejo, de 16 de junio, por la que se establecen las normas sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos), así como las modificaciones hechas a esa Directiva por la Directiva 94/71/CE del Consejo, de 13 de diciembre.
+
+El régimen que aquí se establece, relativo a la aplicación del Sistema de Análisis de Peligros y Puntos de Control Crítico y a las condiciones de los establecimientos de venta, se ajusta a lo establecido en el Real Decreto 1679/1994, de 22 de julio, que regula las condiciones sanitarias aplicables a la producción y comercialización de leche cruda, leche tratada térmicamente y productos lácteos, modificado por el Real Decreto 402/1996, de 1 de marzo, así como al Real Decreto 2207/1995, de 28 de diciembre, por el que se establece las normas de higiene relativas a los productos alimenticios (que transpone la Directiva 93/43/CEE del Consejo, de 14 de junio, relativa a la higiene de los productos alimenticios).
+
+Además, se han recogido y actualizado varios de los aspectos contenidos en el Real Decreto 670/1983, de 2 de marzo, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de helados, modificado por los Reales Decretos 1334/1984, de 6 de junio, y 340/1987, de 30 de enero, tales como definiciones, clasificaciones y requisitos relativos a la elaboración de helados y mezclas envasadas para congelar. Por otra parte, se modifica el concepto de heladeros artesanos, de forma que se ajuste a lo dispuesto en el Real Decreto 1520/1982, de 18 de junio, sobre ordenación y regulación de la artesanía. De esta forma, se procede a la derogación de esta normativa sobre helados, que se considera actualmente superada y a la elaboración de una reglamentación unificada y actualizada válida para todo el sector de los helados.
+
+El presente Real Decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas previsto en la Directiva 83/189/CEE y ulteriores modificaciones, incorporada al ordenamiento interno mediante el Real Decreto 1168/1995, de 7 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas.
+
+Este Real Decreto tiene carácter de norma básica, a excepción del artículo 9.2, del artículo 15.4, del artículo 17.2 y del anexo III, y se dicta al amparo del artículo 149.1, 10.ª y 16.ª, de la Constitución, y en virtud de lo dispuesto en los artículos 40.2 y 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su elaboración se ha dado audiencia a los sectores afectados, habiendo emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo, de Agricultura, Pesca y Alimentación, de Industria y Energía y de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de abril de 1998,
+
+DISPONGO:
+
+> Se modifica el párrafo segundo por la disposición adicional 2.e) del Real Decreto 202/2000, de 11 de febrero. [Ref. BOE-A-2000-3761](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3761).
+
+### Artículo único. Aprobación de la Reglamentación.
+
+Se aprueba la adjunta Reglamentación técnico-sanitaria para la elaboración, distribución y comercio de helados y mezclas envasadas para congelar.
+
+### Disposición adicional única. Título competencial.
+
+El presente Real Decreto, que tiene carácter básico, a excepción del artículo 9.2, del artículo 15.4, del artículo 17.2 y del anexo III, se dicta al amparo de la competencia que atribuye al Estado el artículo 149.1.16.ª de la Constitución Española y en virtud de lo establecido en el artículo 40, 2 y 4, de la Ley 14/1986, de 25 de abril, General de Sanidad. Además, lo establecido en el artículo 18 se dicta también en virtud de las competencias que el artículo 149.1.10.ª de la Constitución Española atribuye al Estado en materia de comercio exterior.
+
+### Disposición transitoria primera. Régimen transitorio para Ceuta y Melilla.
+
+En Ceuta y Melilla, los órganos correspondientes de la Administración General del Estado ejercerán las funciones previstas en la Reglamentación que se aprueba, hasta tanto se lleve a cabo el correspondiente traspaso de servicios.
+
+### Disposición transitoria segunda. Prórroga de comercialización.
+
+Durante el plazo de un año, a partir de la entrada en vigor del presente Real Decreto, se podrán seguir utilizando las etiquetas, conforme a la legislación en ese momento vigente, encargadas con anterioridad a la entrada en vigor del presente Real Decreto.
+
+### Disposición derogatoria única. Disposiciones que se derogan.
+
+Quedan derogados el Real Decreto 670/1983, de 2 de marzo, por el que se aprueba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de helados; el Real Decreto 1334/1984, de 6 de junio, por el que se modifica el plazo de entrada en vigor del título I del Real Decreto 670/1983; el Real Decreto 340/1987, de 30 de enero, por el que se modifica el artículo 9 del Real Decreto 670/1983; el capítulo XXVIII sobre helados, del Código Alimentario Español, aprobado por Decreto 2484/1967, de 21 de septiembre; así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.
+
+### Disposición final primera. Facultades de desarrollo.
+
+Los Ministros de Sanidad y Consumo, de Agricultura, Pesca y Alimentación, de Industria y Energía y de Economía y Hacienda podrán dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo de lo establecido en el presente Real Decreto y, en su caso, para la actualización de los anexos, cuando ello sea necesario para su adaptación a la nueva normativa de la Unión Europea.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 17 de abril de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno
+
+y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## REGLAMENTACIÓN TÉCNICO-SANITARIA PARA LA ELABORACIÓN, DISTRIBUCIÓN Y COMERCIO DE HELADOS Y MEZCLAS ENVASADAS PARA CONGELAR
+
+## TÍTULO I — Ámbito de aplicación, definiciones y clasificaciones
+
+### Artículo 1. Ámbito de aplicación.
+
+1\. La presente Reglamentación tiene por objeto definir qué se entiende por helados y por mezclas envasadas para congelar y fijar, con carácter obligatorio, las normas sanitarias de elaboración, distribución, almacenamiento y venta de los helados y mezclas envasadas para congelar. Las normas que se establecen serán aplicables, asimismo, a los productos importados de países terceros.
+
+2\. La presente Reglamentación obliga a los fabricantes de helados, heladeros artesanos, fabricantes de mezclas envasadas para congelar, transformadores de las mismas, así como a los distribuidores, almacenistas, importadores de países terceros y vendedores de estos productos.
+
+3\. Los industriales de hostelería y aquellos otros que se dediquen a la elaboración y venta de helados en sus establecimientos están obligados a cumplir esta Reglamentación.
+
+4\. Los establecimientos de elaboración de producción limitada podrán acogerse, en lo allí dispuesto, a las excepciones permanentes previstas por el anexo I.
+
+5\. Las exigencias de la presente Reglamentación no se aplicarán a los productos legal y lealmente fabricados y comercializados en los restantes Estados miembros de la Unión Europea o firmantes del Acuerdo del Espacio Económico Europeo, sin perjuicio de las actuaciones que, en su caso, al amparo del artículo 36 del Tratado de la Unión Europea, las autoridades competentes eventualmente pudieran considerar necesarias para proteger la salud y los legítimos intereses de los consumidores, así como la lealtad de las transacciones comerciales.
+
+### Artículo 2. Definiciones.
+
+A los efectos de esta Reglamentación, serán de aplicación las siguientes definiciones:
+
+1\. Helados de forma genérica: los helados son preparaciones alimenticias que han sido llevadas al estado sólido, semisólido o pastoso, por una congelación simultánea o posterior a la mezcla de las materias primas utilizadas y que han de mantener el grado de plasticidad y congelación suficiente, hasta el momento de su venta al consumidor. Esta definición abarca a los productos definidos en el artículo 3.1.
+
+2\. Mezclas envasadas para congelar: se entiende por mezclas envasadas para congelar, aquellos productos preparados, debidamente envasados, que en forma líquida o en polvo se destinen a la elaboración de helados, sea en máquinas automáticas elaboradoras-expendedoras, o bien en los establecimientos definidos en este artículo que se dediquen a la elaboración de helados, y cuya composición cuanticualitativa, una vez reconstituidos con agua potable o leche esterilizada, se ajuste a algunos de los tipos de helados definidos en el artículo 3.1.
+
+3\. Helados no pasterizados a efectos de lo establecido en el anexo II, apartado 3: se entiende por helados no pasterizados aquellos productos que han sido elaborados sin la adición de leche o productos lácteos y cuyo pH es inferior o igual a 5,5.
+
+4\. **(Derogado)**
+
+5\. **(Derogado)**
+
+6\. Establecimiento de elaboración de producción limitada: establecimiento en el que se procede a la elaboración y envasado de helados y mezclas envasadas para congelar, con una producción máxima de 400.000 litros/año. Los establecimientos que estén en funcionamiento antes de la entrada en vigor del presente Real Decreto, presentarán una solicitud dentro del plazo de seis meses, contados a partir de su entrada en vigor, para su clasificación como establecimiento de producción limitada, ante los Servicios competentes de las Comunidades Autónomas. Dicha solicitud podrá contener las especificaciones contempladas en el modelo que figura como anexo III de esta Reglamentación.
+
+7\. **(Derogado)**
+
+8\. Fabricantes de helados: son aquellas personas naturales o jurídicas que dediquen su actividad a la elaboración de estos productos.
+
+9\. Heladeros artesanos: son aquellas personas naturales o jurídicas que dediquen su actividad a la elaboración de helado, mediante un proceso en el que la intervención personal constituye el factor predominante, obteniéndose un resultado final individualizado, que no se acomoda a la producción industrial mecanizada o en grandes series.
+
+El reconocimiento oficial de la condición de empresa artesana, se acreditará mediante la posesión del documento de calificación artesanal, expedido por las autoridades competentes.
+
+10\. Fabricantes de mezclas para congelar: son aquellas personas naturales o jurídicas que se dediquen a la elaboración de estos productos.
+
+11\. Transformadores de mezclas envasadas para congelar: son aquellas personas naturales o jurídicas que se dediquen a la elaboración de helados, partiendo de mezclas para congelar para su venta directa al consumidor final.
+
+> Se derogan los apartados 4, 5 y 7 por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 3. Clasificaciones.
+
+1\. Clasificación de los helados. Podrán fabricarse los siguientes tipos de helados, con las características que a continuación se describen: helado crema, helado de leche, helado de leche desnatada, helado, helado de agua, sorbete, postre de helado.
+
+a) Helado crema. Esta denominación está reservada para un producto que, conforme a la definición general, contiene en masa como mínimo un 8 por 100 de materia grasa exclusivamente de origen lácteo y como mínimo un 2,5 por 100 de proteínas exclusivamente de origen lácteo.
+
+b) Helado de leche. Esta denominación está reservada para un producto que, conforme a la definición general, contiene en masa como mínimo un 2,5 por 100 de materia grasa exclusivamente de origen lácteo y como mínimo un 6 por 100 de extracto seco magro lácteo.
+
+c) Helado de leche desnatada. Esta denominación está reservada para un producto que, conforme a la definición general, contiene en masa como máximo un 0,30 por 100 de materia grasa exclusivamente de origen lácteo y como mínimo un 6 por 100 de extracto seco magro lácteo.
+
+d) Helado. Esta denominación está reservada a un producto que, conforme a la definición general, contiene en masa como mínimo un 5 por 100 de materia grasa alimenticia y en el que las proteínas serán exclusivamente de origen lácteo.
+
+e) Helado de agua. Esta denominación está reservada a un producto que, conforme a la definición general, contiene en masa como mínimo un 12 por 100 de extracto seco total.
+
+f) Sorbete. Esta denominación está reservada a un producto que, conforme a la definición general, contiene en masa como mínimo un 15 por 100 de frutas y como mínimo un 20 por 100 de extracto seco total.
+
+g) Los helados definidos en los párrafos a), b), c), d), e) y f) podrán denominarse con su nombre específico, seguido de la preposición «con» y del nombre/s de la/s fruta/s que corresponda, siempre que se les adicionen los siguientes porcentajes mínimos de fruta en masa, o su equivalente en zumos naturales o concentrados, dependiendo de los siguientes tipos de fruta:
+
+1.º Un 15 por 100 con carácter general.
+
+2.º Un 10 por 100 para los siguientes tipos de frutas:
+
+Todos los agrios o cítricos, tales como limones, naranjas, mandarinas, tangerinas y pomelos; otras frutas ácidas, como las frutas o mezclas de frutas en las que el zumo tenga una acidez valorable, expresada en ácido cítrico, igual o superior al 2,5 por 100; frutas exóticas o especiales, principalmente las de sabor muy fuerte o consistencia pastosa, tales como, piña, plátano, corojo, chirimoya, guanabana, guayaba, kiwi, lichi, mango, maracuyá y fruta de la pasión.
+
+3.º Un 7 por 100 en el caso de los frutos de cáscara.
+
+De no alcanzarse estos porcentajes, llevarán la mención «sabor» a continuación de la indicación que indique la clase de helado.
+
+A efectos de lo previsto en este artículo, se entiende por frutas la cantidad de frutas enteras, sus pulpas o su equivalente en zumo, extracto, productos concentrados y deshidratados, entre otros.
+
+h) Los helados definidos en los párrafos a), b), c) y d), cuyo contenido sea como mínimo de un 4 por 100 de yema de huevo, podrán denominarse con su nombre específico seguido de la palabra «mantecado».
+
+i) Los helados definidos en los párrafos e) y f), que se presenten en estado semisólido se denominarán «granizados». El extracto seco total de los mismos será como mínimo del 10 por 100.
+
+j) Los helados definidos en los párrafos a), b), c) y d), pesarán como mínimo 430 gramos el litro. Los productos que posean un peso comprendido entre 430 gramos y 375 gramos, se denominarán con su nombre específico precedido de las menciones «espuma», «mousse» o «montado».
+
+k) Postre de helado. Es toda presentación de los helados definidos en esta Reglamentación, en cualquiera de sus variedades o de sus mezclas, que posteriormente se sometan a un proceso de elaboración y decoración, con productos alimenticios aptos para el consumo humano.
+
+2\. Clasificación de las mezclas envasadas para congelar. Podrán fabricarse los siguientes tipos de mezclas envasadas para congelar, con las características que a continuación se describen:
+
+a) Mezcla líquida para helados: esta mezcla, en estado líquido, contendrá todos los ingredientes necesarios en las cantidades adecuadas, de modo que, al congelarlo, dé un producto alimenticio final que se ajuste a una de las clasificaciones que figuran en el artículo 3.1.
+
+b) Mezcla líquida concentrada para helados: es aquella que después de añadirle la cantidad de agua potable o leche esterilizada, dé como resultado un producto que se ajuste a una de las clasificaciones que figuran en el artículo 3.1.
+
+c) Mezcla deshidratada para helados: es el producto seco (conteniendo una humedad no superior al 4 por 100) que, después de añadirle la cantidad de agua potable o leche esterilizada, dé un producto que se ajuste a una de las clasificaciones que figuran en el artículo 3.1.
+
+## TÍTULO II — Ingredientes y aditivos autorizados
+
+### Artículo 4. Ingredientes.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 5. Aditivos.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO III — Requisitos relativos a la elaboración de helados y mezclas envasadas para congelar
+
+### Artículo 6. Requisitos de los establecimientos de elaboración y de las máquinas elaboradoras-expendedoras.
+
+1.**(Derogado)**
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.e) del Real Decreto 1021/2022, de 13 de diciembre. [Ref. BOE-A-2022-21681](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21681)
+
+> Se deroga el apartado 1 por la disposición derogatoria.l) del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se derogan los apartados 1.d) y 2.j) por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 7. Requisitos relativos a la implantación del sistema de análisis de peligros y puntos de control crítico y a las normas microbiológicas.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+> Se deroga el apartado 4 por el art. único.w) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+> Se modifica por la disposición adicional 2.e) del Real Decreto 202/2000, de 11 de febrero. [Ref. BOE-A-2000-3761](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-3761).
+
+## TÍTULO IV — Requisitos de los establecimientos de elaboración y máquinas elaboradoras-expendedoras
+
+### Artículo 8. Condiciones generales y especiales de los establecimientos de elaboración.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 9. Condiciones generales de higiene de los establecimientos de elaboración y de las máquinas elaboradoras-expendedoras.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO V — Almacenamiento, conservación y transporte
+
+### Artículo 10. Almacenamiento y conservación.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 11. Transporte.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria.l) del Real Decreto 1086/2020, de 9 de diciembre. [Ref. BOE-A-2020-15872](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15872)
+
+> Se deroga el apartado 2 por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VI — Requisitos de los establecimientos de venta
+
+### Artículo 12. Condiciones de los establecimientos de venta.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VII — Requisitos del personal
+
+### Artículo 13. Personal.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO VIII — Registro General Sanitario de Alimentos
+
+### Artículo 14. Registro General Sanitario de Alimentos.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO IX — Envasado
+
+### Artículo 15. Envasado.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO X — Marcado de salubridad y etiquetado
+
+### Artículo 16. Condiciones relativas al marcado de salubridad.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+### Artículo 17. Condiciones relativas al etiquetado.
+
+El etiquetado se efectuará de conformidad con lo dispuesto en el Real Decreto 212/1992, de 6 de marzo, por el que se aprueba la Norma General de Etiquetado, Presentación y Publicidad de los Productos Alimenticios y modificaciones posteriores, con las siguientes particularidades:
+
+1\. Las denominaciones del producto serán las establecidas en el artículo 3, que se completará con la mención del ingrediente característico, o en el caso de que dicho ingrediente sea un aroma, con la mención «sabor a».
+
+Los postres de helado se denominarán con el nombre consagrado por el uso en España, o una descripción del producto alimenticio lo suficientemente precisa, para permitir al comprador conocer su naturaleza y distinguirlo de los productos con los cuales podría confundirse.
+
+2\. **(Derogado)**
+
+> Se deroga el apartado 2 por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO XI — Disposiciones aplicables al comercio con países terceros
+
+### Artículo 18. Productos procedentes de países terceros.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO XII — Régimen sancionador
+
+### Artículo 19. Infracciones y sanciones.
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## TÍTULO XIII — Controles oficiales
+
+### Artículos 20 a 24.
+
+**(Derogados).**
+
+> Se derogan por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## ANEXO I — Requisitos susceptibles de excepción permanente
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).
+
+## ANEXO II — Normas microbiológicas para helados y mezclas envasadas para congelar
+
+**(Derogado)**
+
+> Se deroga por el art. único.w) del Real Decreto 135/2010, de 12 de febrero. [Ref. BOE-A-2010-3032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3032).
+
+## ANEXO III — Modelo de solicitud de clasificación de los establecimientos de elaboración de producción limitada
+
+**(Derogado)**
+
+> Se deroga por el art. 50 del Real Decreto 176/2013, de 8 de marzo. [Ref. BOE-A-2013-3402](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-3402).

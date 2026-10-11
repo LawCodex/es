@@ -1,0 +1,2531 @@
+---
+title: "Real Decreto 2387/2004, de 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario"
+identifier: "BOE-A-2004-21908"
+eli: "https://www.boe.es/eli/es/rd/2004/12/30/2387"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 2004-12-30
+published: 2004-12-31
+in_force_from: 2005-01-01
+last_amended: 2022-06-15
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 315"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21908"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 2387/2004, de 30 de diciembre, por el que se aprueba el Reglamento del Sector Ferroviario
+
+Téngase en cuenta que todas las referencias a la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario contenidas en el presente Real Decreto, deberán entenderse hechas a los preceptos que corresponda de la Ley 38/2015, de 29 de septiembre, del sector ferroviario, según establece la disposición adicional única del Real Decreto 271/2018, de 11 de mayo. [Ref. BOE-A-2018-6372](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6372)
+
+La Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, regula en el Título II las infraestructuras ferroviarias, en el Título III la prestación de los servicios ferroviarios adicionales, complementarios y auxiliares, en el Título IV el transporte ferroviario, en el Título VI la Administración ferroviaria y el Comité de Regulación Ferroviaria y en el Título VII el régimen de inspección.
+
+Con el fin de desarrollar la regulación citada en el párrafo anterior, y al amparo de lo dispuesto en la disposición final primera de la Ley del Sector Ferroviario que habilita al Gobierno para dictar las disposiciones precisas para el desarrollo y cumplimiento de la Ley, se aprueba, mediante el presente Real Decreto, el Reglamento del Sector Ferroviario.
+
+El Reglamento se estructura en un Título Preliminar, que establece su objeto, y seis Títulos que regulan, respectivamente, las infraestructuras ferroviarias, los servicios adicionales, complementarios y auxiliares, los servicios de transporte ferroviario, los servicios de inspección, el Registro Especial Ferroviario y el Comité de Regulación Ferroviaria.
+
+El Título I, sobre las infraestructuras ferroviarias, se divide, a su vez, en siete Capítulos que recogen todos los aspectos relativos a la planificación, el proyecto y la construcción, las limitaciones a la propiedad, la administración de las infraestructuras ferroviarias, el acceso a ellas, el régimen de las infraestructuras ferroviarias existentes en los puertos y aeropuertos de interés general y el de las de titularidad privada. Cada uno de estos Capítulos, a su vez, se hallan subdivididos en Secciones y, en algunos casos, éstas lo hacen en Subsecciones.
+
+El Título II regula el régimen jurídico aplicable a los servicios adicionales, complementarios y auxiliares.
+
+El Título III, sobre los servicios de transporte ferroviario, comprende seis Capítulos que regulan el régimen aplicable a las empresas ferroviarias y a otros candidatos distintos de éstas, la prestación de los servicios de transporte ferroviario, ya sean de viajeros, de mercancías o servicios declarados de interés público, los derechos de los usuarios, el libro de reclamaciones, el régimen de seguridad y la investigación de accidentes. Al igual que en el Título anterior, los Capítulos se dividen en Secciones y, en algunos casos, éstas lo hacen en Subsecciones.
+
+El Título IV establece la ordenación de los servicios de inspección.
+
+El Titulo V desarrolla todo el régimen aplicable al Registro Especial Ferroviario.
+
+Finalmente, el Título VI determina la regulación del Comité de Regulación Ferroviaria. Los cuatro Capítulos que integran este Título establecen todo lo relativo a la estructura, el objeto, las funciones y el personal de este nuevo órgano.
+
+El Reglamento del Sector Ferroviario incorpora, asimismo, en su anexo, el modelo oficial de libro de reclamaciones.
+
+El desarrollo reglamentario de la Ley del Sector Ferroviario que realiza este Real Decreto se completará con las normas que, progresivamente, se dicten en los distintos ámbitos previstos en la misma.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de diciembre de 2004,
+
+D I S P O N G O :
+
+###### Artículo único. Aprobación del Reglamento del Sector Ferroviario.
+
+Se aprueba el Reglamento del Sector Ferroviario, cuyo texto se inserta a continuación.
+
+###### Disposición adicional primera. Régimen aplicable en materia de interoperabilidad.
+
+**(Suprimida).**
+
+> Se suprime por la disposición final 4.1 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Disposición adicional segunda. Aplicación subsidiaria de la legislación de carreteras en materia de policía de ferrocarriles.
+
+En caso de laguna legal o reglamentaria en materia de policía de ferrocarriles se aplicará la legislación estatal de carreteras, adaptándola a la especial naturaleza del transporte ferroviario.
+
+###### Disposición adicional tercera. Designación de los miembros del Comité de Regulación Ferroviaria.
+
+**(Suprimida).**
+
+> Se suprime por la disposición final 4.1 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Disposición adicional cuarta. Modificación del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre.
+
+Se modifica el artículo 31.1 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre, cuyos puntos sexto y octavo de su segundo párrafo quedarán redactado de la siguiente manera:
+
+«Cuatro Consejeros representantes de las empresas ferroviarias, nombrados a propuesta conjunta de RENFE-Operadora, FEVE y las asociaciones de empresas ferroviarias, y otro más designado a propuesta del administrador de infraestructuras ferroviarias.»
+
+«Un mínimo de cinco Consejeros, designados entre miembros de la Administración, especializados en materias que afecten al funcionamiento del sistema de transportes. Dichos Consejeros tendrán voz pero no voto. Al menos dos de ellos, serán designados a propuesta de la Conferencia Nacional del Transporte o, por delegación de ésta, de la Comisión de Directores Generales de Transportes del Estado y de las Comunidades Autónomas. Otro de los designados estará especialmente cualificado por su conocimiento del sector ferroviario.»
+
+Por su parte, los puntos octavo y undécimo del tercer párrafo del mismo apartado quedarán redactados como sigue:
+
+«Cuatro Consejeros representantes de las empresas ferroviarias, nombrados a propuesta conjunta de RENFE-Operadora, FEVE y las asociaciones de empresas ferroviarias, y otro más designado a propuesta del administrador de infraestructuras ferroviarias.»
+
+«Un mínimo de cinco Consejeros, designados entre miembros de la Administración, especializados en materias que afecten al funcionamiento del sistema de transportes. Dichos Consejeros tendrán voz pero no voto. Al menos dos de ellos, serán designados a propuesta de la Conferencia Nacional delTransporte o, por delegación de ésta, de la Comisión de Directores Generales de Transportes del Estado y de las Comunidades Autónomas. Otro de los designados estará especialmente cualificado por su conocimiento del sector ferroviario.».
+
+###### Disposición adicional quinta. Modificación de la inscripción en el Registro de la Propiedad de los bienes inmuebles propiedad de antiguas compañías ferroviarias.
+
+Las inscripciones de los bienes inmuebles que figuren en el Registro de la Propiedad a favor de las antiguas compañías ferroviarias concesionarias y que fueron rescatados por el Estado y entregados a RENFE en virtud de la Ley de Bases de Ordenación Ferroviaria de 24 de enero de 1941, serán modificadas e inscritas a nombre del Administrador de Infraestructuras Ferroviarias en el supuesto de que se trate de bienes demaniales que sean de su titularidad conforme con la Ley del Sector Ferroviario.
+
+###### Disposición adicional sexta. Bienes de dominio público ferroviario y patrimoniales.
+
+1\. Son bienes de dominio público ferroviario los inmuebles comprendidos en la zona de dominio público definida por el artículo 13 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+
+2\. Se considerarán bienes patrimoniales de titularidad del administrador de infraestructuras ferroviarias las estaciones, terminales y otros bienes inmuebles excluidos del concepto de línea por el Anexo de dicha Ley, salvo los que estén íntegramente situados en zonas de dominio público y los que se construyan en el futuro con cargo a los recursos del Estado o de un tercero.
+
+###### Disposición adicional séptima. Traslación de bienes de RENFE a RENFE-Operadora.
+
+1\. Mediante Orden del Ministro de Fomento y en los términos previstos en las disposiciones adicionales primera y tercera de la Ley del Sector Ferroviario, se incorporarán al patrimonio de RENFE-Operadora, con la naturaleza de bienes patrimoniales, todos los bienes muebles e inmuebles de RENFE que sean necesarios para la prestación del servicio de transporte ferroviario, y los que se consideren convenientes para garantizar su equilibrio financiero.
+
+2\. A los efectos de su regulación catastral e inscripción registral, será título suficiente la propia Orden ministerial a que se refiere el apartado anterior. Asimismo, RENFE-Operadora podrá expedir, en su caso, las certificaciones administrativas de dominio previstas en el artículo 206 de la Ley Hipotecaria, Texto Refundido aprobado por el Decreto de 8 de febrero de 1946, las inmatriculaciones, modificaciones o traslaciones que fueran necesarias para su inscripción a favor de RENFE-Operadora en los términos previstos en la disposición adicional quinta.
+
+###### Disposición adicional octava. Continuidad de los contratos celebrados por RENFE.
+
+En aplicación y cumplimiento de lo establecido en las disposiciones adicionales primera, segunda y tercera de la Ley del Sector Ferroviario, la Administración y todos los organismos públicos afectados habrán de adoptar las medidas que permitan al administrador de infraestructuras ferroviarias el cumplimiento de los contratos que RENFE haya celebrado con terceros, antes de la entrada en vigor de la referida Ley, y, en particular, los que les atribuyeran derechos sobre bienes que pertenecieran o estuvieran adscritos a la propia RENFE.
+
+###### Disposición adicional novena. Liquidación de las aportaciones del Estado a RENFE durante el periodo comprendido entre 1 de enero de 2001 y 31 de diciembre de 2004.
+
+Mediante Orden del Ministro de la Presidencia, a propuesta conjunta de los de Economía y Hacienda y de Fomento, se determinarán los criterios para la liquidación de las aportaciones del Estado a RENFE durante el periodo comprendido entre el 1 de enero de 2001 y el 31 de diciembre de 2004.
+
+###### Disposición adicional décima. Establecimiento del marco general tarifario por la prestación de servicios adicionales, complementarios y auxiliares.
+
+**(Suprimida)**
+
+> Se suprime por el art. único.1 del Real Decreto 100/2010, de 5 de febrero. [Ref. BOE-A-2010-3749](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3749)
+
+###### Disposición adicional undécima. Consumo de sustancias que perturben o disminuyan las facultades psicofísicas del personal de conducción o circulación.
+
+**(Suprimida).**
+
+> Se suprime por la disposición final 4.1 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+> Se modifica por la disposición final 1 del Real Decreto 623/2014, de 18 de julio. [Ref. BOE-A-2014-7651](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7651).
+
+###### Disposición adicional duodécima. Tiempos máximos de conducción en el transporte ferroviario.
+
+**(Suprimida).**
+
+> Se suprime por la disposición final 4.1 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Disposición adicional decimotercera. Publicación en el Boletín Oficial del Estado de las resoluciones que aprueben o modifiquen la declaración sobre la red.
+
+**(Suprimida).**
+
+> Se suprime por la disposición final 4.1 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Disposición adicional decimocuarta. Competencias en materia de interoperabilidad.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Disposición transitoria primera. Régimen provisional aplicable en materia de seguridad.
+
+1\. **(Suprimido)**
+
+2\. El contenido del conjunto de normas actualmente aplicables en materia de seguridad en el tráfico ferroviario será publicado como anexo a la primera declaración sobre la red que apruebe el administrador de infraestructuras ferroviarias.
+
+> Se suprime el apartado 1 por la disposición final 3 del Real Decreto 664/2015, de 17 de julio. [Ref. BOE-A-2015-8042](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-8042).
+
+###### Disposición transitoria segunda. Otorgamiento de los certificados de seguridad.
+
+En tanto la Dirección General de Ferrocarriles no asuma la función de otorgar los certificados de seguridad que, de conformidad con el artículo 81.1.g) de la Ley del Sector Ferroviario le corresponde o sea creado un organismo facultado para el ejercicio de dicha función, el Administrador de Infraestructuras Ferroviarias otorgará, de conformidad con lo dispuesto en el artículo 57.4 de la referida Ley, los certificados de seguridad a las empresas ferroviarias.
+
+###### Disposición transitoria tercera. Colaboración con la Dirección General de Ferrocarriles.
+
+1\. Con el fin de que la Dirección General de Ferrocarriles disponga de los medios necesarios para el desarrollo de las funciones que en materia de seguridad le corresponden de conformidad con la Ley del Sector Ferroviario y sus normas de desarrollo, así como para facilitar a dicha Dirección General el cumplimiento de los requisitos y obligaciones que pudieran serle exigibles por la aplicación de la nueva normativa comunitaria, el Administrador de Infraestructuras Ferroviarias vendrá obligado a prestar a la misma toda la colaboración personal, técnica y operativa que le sea requerida. Esta colaboración se extiende también a las funciones relacionadas con la redacción de proyectos y con el transporte ferroviario.
+
+2\. El personal del administrador de infraestructuras ferroviarias que realice, de acuerdo con el apartado anterior, funciones de apoyo y colaboración técnica con la Dirección General de Ferrocarriles deberá contar, según los casos, con especialización en materia de seguridad ferroviaria, redacción de proyectos o transporte ferroviario y actuará, en tales supuestos, con sujeción exclusiva a las órdenes e instrucciones que, al efecto, imparta el Director General de Ferrocarriles.
+
+###### Disposición transitoria cuarta. Régimen provisional aplicable a la entidad pública empresarial RENFE-Operadora.
+
+1\. Desde la fecha de entrada en vigor de la Ley del Sector Ferroviario, RENFE-Operadora estará habilitada para la prestación de servicios de transporte ferroviario de mercancías teniendo, a tal efecto, asignada la capacidad de infraestructura necesaria para la realización de los que estuviere prestando en dicho momento la entidad pública empresarial RENFE. Asimismo, podrá obtener directamente del administrador de infraestructuras ferroviarias, la capacidad de infraestructura necesaria para la prestación de nuevos servicios hasta el momento en que, debidamente aprobada la declaración sobre la red con arreglo al artículo 29 de la referida Ley, RENFE-Operadora pueda solicitar la capacidad que precise.
+
+2\. De conformidad con lo establecido en la disposición transitoria tercera de la Ley del Sector Ferroviario, en tanto no se produzca la aplicación de los Capítulos II y III del Título IV de la referida Ley a los servicios de transporte ferroviario de viajeros, RENFE-Operadora tendrá derecho a explotar los que se presten sobre la Red Ferroviaria de Interés General, en la forma establecida en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y en su normativa de desarrollo, en cuanto no se oponga al resto del contenido de la Ley del Sector Ferroviario.
+
+Cuando, con arreglo al párrafo anterior, sean de aplicación al transporte ferroviario de viajeros, los Capítulos referidos, RENFE-Operadora conservará el derecho a explotar la capacidad de red que entonces utilice efectivamente y podrá solicitar que se le asigne otra capacidad de red, con arreglo a lo previsto en la Ley del Sector Ferroviario y en el Reglamento del Sector Ferroviario.
+
+3\. Sin perjuicio de la habilitación que para la prestación de servicios de transporte ferroviario se le concede a RENFE-Operadora en los apartados anteriores, dicha entidad deberá adecuarse a lo establecido en el Título IV de la Ley del Sector Ferroviario, según los siguientes plazos:
+
+En el plazo de seis meses desde la entrada en vigor de la Ley del Sector Ferroviario, la entidad pública empresarial RENFE-Operadora, como entidad de nueva creación, deberá cumplir las exigencias establecidas en el artículo 45 de la citada Ley, salvo lo establecido en el punto 1.a de dicho artículo en cuanto a revestir la forma de sociedad anónima, y solicitar la correspondiente licencia.
+
+Asimismo, en el plazo de un año desde la entrada en vigor de la Ley del Sector Ferroviario, habrá de presentar la documentación que acredite que dispone de un sistema de gestión de la seguridad y que cumple los requisitos exigidos por la referida Ley, el Reglamento del Sector Ferroviario y las demás normas de desarrollo de aquella, en materia de circulación ferroviaria, personal de conducción y material rodante, y solicitar el correspondiente certificado de seguridad.
+
+4\. Con arreglo a lo previsto en la disposición transitoria cuarta de la Ley del Sector Ferroviario, en tanto no sean de aplicación al transporte ferroviario de viajeros los Capítulos II y III del Título IV de la Ley del Sector Ferroviario, RENFE-Operadora percibirá del Estado, por la prestación de servicios de transporte ferroviario de viajeros deficitarios, las correspondientes subvenciones y compensaciones que se concretarán en el contrato-programa a celebrar por la referida entidad y la Administración General del Estado.
+
+Asimismo, RENFE-Operadora podrá percibir transitoriamente del Estado, con arreglo a la vigente legislación, aportaciones para adecuar su estructura económico-financiera al entorno de apertura de mercado en el que habrá de desarrollar su actividad.
+
+5\. El contrato-programa determinará las directrices básicas relativas a la prestación de los servicios, los objetivos y fines que se deban alcanzar, las cantidades a invertir y las que aportará el Estado, así como cualesquiera otras circunstancias relevantes.
+
+6\. A efectos de lo previsto en esta disposición, RENFE-Operadora podrá suscribir con los órganos competentes de las comunidades autónomas y entidades locales los acuerdos, pactos, convenios o contratos que considere convenientes o necesarios para la realización de los fines de la entidad.
+
+###### Disposición transitoria quinta. Prestación del servicio de mantenimiento de material rodante.
+
+**(Suprimida)**
+
+> Se suprime por el art. 1 del Real Decreto 271/2018, de 11 de mayo. [Ref. BOE-A-2018-6372](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6372)
+
+###### Disposición transitoria sexta. Criterios de imputación de gastos comunes.
+
+A efectos de lo previsto en el artículo 45 del Reglamento del Sector Ferroviario, el administrador de infraestructuras ferroviarias, previo informe de la Intervención General de la Administración del Estado, determinará y comunicará al Ministerio de Fomento, dentro de los cuatro meses siguientes a la entrada en vigor de este Real Decreto, los criterios de imputación de los gastos comunes a los diferentes capítulos que configuran el gasto total.
+
+###### Disposición transitoria séptima. Convenios relativos a la conexión de las infraestructuras ferroviarias existentes en los Puertos de Interés General.
+
+En el plazo de un año desde la entrada en vigor de este Real Decreto, el Administrador de Infraestructuras Ferroviarias deberá firmar con la Autoridad Portuaria de cada Puerto de Interés General, previa autorización del Ministerio de Fomento, el correspondiente convenio de conexión a que se refiere el artículo 36.3 de la Ley del Sector Ferroviario.
+
+###### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango a se opongan a lo establecido en este Real Decreto.
+
+###### Disposición final primera. Facultades de desarrollo.
+
+La Ministra de Fomento dictará, en el ámbito de sus competencias, las disposiciones oportunas para el desarrollo y aplicación de lo establecido en este Real Decreto.
+
+###### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+###### Disposición final tercera. Títulos competenciales.
+
+Este Real Decreto se dicta al amparo de las competencias que el artículo 149.1.13.ª, 14.ª, 21.ª y 24.ª de la Constitución Española atribuye al Estado.
+
+Dado en Madrid, el 30 de diciembre de 2004.
+
+JUAN CARLOS R.
+
+La Ministra de Fomento,
+
+MAGDALENA ÁLVAREZ ARZA
+
+### REGLAMENTO DEL SECTOR FERROVIARIO
+
+## TITULO PRELIMINAR — Disposiciones generales
+
+###### Artículo 1. Objeto.
+
+Este Reglamento tiene por objeto el desarrollo de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en todo lo referente a las infraestructuras ferroviarias, a los servicios adicionales, complementarios y auxiliares, a los servicios de transporte ferroviario, al servicio de inspección, al Registro Especial Ferroviario y al régimen aplicable al Comité de Regulación Ferroviaria.
+
+###### Artículo 2. Competencias administrativas.
+
+Las competencias administrativas atribuidas en este Reglamento al Ministerio de Fomento se ejercerán por los órganos de éste que específicamente las tengan atribuidas o a los que se les atribuyan y, en su defecto, por la Dirección General de Ferrocarriles.
+
+## TITULO I — Las infraestructuras ferroviarias
+
+### CAPITULO I — Disposiciones generales
+
+###### Artículo 3. Elementos que integran la infraestructura ferroviaria.
+
+1\. Se entiende por infraestructura ferroviaria la totalidad de los elementos vinculados a las vías principales y a las de servicio y a los ramales de desviación para particulares, con excepción de las vías situadas dentro de los talleres de reparación de material rodante y de los depósitos o garajes del mismo. Entre dichos elementos se encuentran los terrenos, las estaciones, las terminales de carga, las obras civiles, los pasos a nivel, las instalaciones vinculadas a la gestión y regulación del tráfico y a la seguridad, a las telecomunicaciones, a la electrificación, a la señalización de las líneas, al alumbrado y a la transformación y el transporte de la energía eléctrica y sus edificios anexos.
+
+2\. La línea ferroviaria es la parte de la infraestructura ferroviaria que une dos puntos determinados del territorio y que está integrada por los siguientes elementos: plataforma de la vía, superestructura, como carriles y contracarriles, traviesas y material de sujeción, obras civiles como puentes, viaductos y túneles, e instalaciones de electrificación, de señalización y seguridad y de telecomunicación de la vía, caminos de servicio, y los elementos que permiten el alumbrado.
+
+No se consideran incluidos en el concepto de línea, las estaciones y terminales u otros edificios o instalaciones de atención al viajero.
+
+3\. Los elementos de la línea ferroviaria se entienden agrupados en vía, instalaciones ferroviarias y caminos de servicio, que permiten acceder a la vía y a las instalaciones ferroviarias.
+
+Dentro de la vía se distinguen la infraestructura de vía y la superestructura de vía.
+
+La infraestructura de vía es el conjunto de obras de tierra y de fábrica necesarias para construir la plataforma sobre la que se apoya la superestructura de vía. Entre las obras de tierra se encuentran los terraplenes, las trincheras y los túneles y, entre las obras de fábrica, los puentes, viaductos, drenajes y pasos a nivel.
+
+La superestructura de vía es el conjunto integrado por los carriles, contracarriles, las traviesas o, en su caso, la placa, las sujeciones, los aparatos de vía y, en su caso, el lecho elástico formado por el balasto, así como las demás capas de asiento, sobre el que estos elementos apoyan.
+
+Se entiende por instalaciones ferroviarias los dispositivos, los aparatos y los sistemas que permiten el servicio ferroviario y las edificaciones que los albergan. Son instalaciones ferroviarias las de electrificación, las de señalización y seguridad y las de comunicaciones. Entre las instalaciones de electrificación se encuentran la línea aérea de contacto y las subestaciones y las líneas de acometida energética, entre las de señalización y seguridad, los sistemas que garanticen la seguridad en la circulación de trenes, y, entre las de comunicaciones, las de telecomunicaciones fijas y móviles.
+
+4\. Las líneas ferroviarias pueden ser de alta velocidad o convencionales.
+
+A los efectos de este reglamento se consideran líneas ferroviarias de alta velocidad:
+
+a) Las líneas especialmente construidas para la alta velocidad, equipadas para velocidades, por lo general, iguales o superiores a 250 kilómetros por hora.
+
+b) Las líneas especialmente acondicionadas para la alta velocidad equipadas para velocidades del orden de 200 kilómetros por hora.
+
+c) Las líneas especialmente acondicionadas para la alta velocidad, de carácter específico, debido a dificultades topográficas, de relieve o de entorno urbano cuya velocidad deberá ajustarse caso por caso.
+
+Son líneas ferroviarias convencionales las que, estando integradas en la Red Ferroviaria de Interés General, no reúnen las características propias de las líneas ferroviarias de alta velocidad.
+
+5\. De conformidad con el artículo 24.3 de la Ley del Sector Ferroviario, se consideran de dominio público todas las líneas, los terrenos ocupados por ellas y las instalaciones que existan o se construyan íntegramente en la zona de dominio público.
+
+###### Artículo 4. La Red Ferroviaria de Interés General.
+
+1\. La Red Ferroviaria de Interés General está integrada por las infraestructuras ferroviarias que resulten esenciales para garantizar un sistema común de transporte ferroviario en todo el territorio del Estado, o cuya administración conjunta resulte necesaria para el correcto funcionamiento de tal sistema común de transporte, como las vinculadas a los itinerarios de tráfico internacional, las que enlacen las distintas comunidades autónomas y sus conexiones y accesos a los principales núcleos de población y de transporte o a instalaciones esenciales para la economía o la defensa nacional.
+
+2\. La Red Ferroviaria de Interés General se compondrá, en el momento de entrada en vigor de la Ley del Sector Ferroviario, de todas las infraestructuras ferroviarias que en esa fecha estén siendo administradas por RENFE o cuya administración haya sido encomendada al Gestor de Infraestructuras Ferroviarias o ejerza la Autoridad Portuaria correspondiente en los puertos de interés general. Igualmente y con arreglo a lo previsto en la disposición adicional novena de la citada Ley, la Red de ancho métrico de titularidad del Estado y administrada por FEVE, integrará la Red Ferroviaria de Interés General.
+
+3\. El Ministerio de Fomento, con arreglo a lo dispuesto en el artículo 4.2 de la Ley del Sector Ferroviario y en el artículo 5.1 de este Reglamento, podrá realizar la determinación concreta de las líneas ferroviarias que integran la Red Ferroviaria de Interés General.
+
+###### Artículo 5. Inclusión y exclusión de la Red Ferroviaria de Interés General.
+
+1\. Corresponde al Ministro de Fomento acordar, en cada momento, la inclusión, en la Red Ferroviaria de Interés General, de nuevas infraestructuras ferroviarias cuando razones de interés general así lo justifiquen, previo informe de las comunidades autónomas afectadas. El acto formal de aprobación del estudio informativo por el Ministerio de Fomento, realizado conforme a lo previsto en el artículo 5 de la Ley del Sector Ferroviario y en el artículo 10 de este Reglamento y previo cumplimiento de lo previsto en este artículo, determinará, en todo caso, la inclusión de la línea o del tramo de la red correspondiente en la Red Ferroviaria de Interés General.
+
+El informe de las comunidades autónomas afectadas deberá ser evacuado en un plazo de un mes. Transcurrido dicho plazo sin haberse emitido el informe solicitado, se entenderá producida la conformidad de la comunidad autónoma con la inclusión de las infraestructuras ferroviarias de que se trate en la Red Ferroviaria de Interés General.
+
+Si la infraestructura ferroviaria que se pretenda incluir en la Red Ferroviaria de Interés General discurriera, íntegramente, por el territorio de una sola comunidad autónoma y sin conexión con el resto de la Red o fuera de titularidad de ella, será necesario para tal inclusión su previo consentimiento.
+
+2\. El Ministro de Fomento podrá excluir, previo informe de las comunidades autónomas afectadas, una determinada infraestructura ferroviaria de la Red Ferroviaria de Interés General siempre que hayan desaparecido los motivos de interés general que justificaron su inclusión en aquélla. Este informe deberá ser evacuado en el plazo de treinta días y en él las comunidades autónomas harán constar, en su caso, el interés en que les sea transferida la correspondiente infraestructura. Transcurrido dicho plazo sin haberse emitido el informe solicitado, se entenderá producida la conformidad de la comunidad autónoma con la exclusión de las infraestructuras ferroviarias de que se trate de la Red Ferroviaria de Interés General.
+
+3\. El expediente de traspaso se promoverá, previo consentimiento de la correspondiente comunidad autónoma, a instancia de ésta o del Ministerio de Fomento y, tras su tramitación por la Dirección General de Ferrocarriles, será resuelto por el Consejo de Ministros.
+
+El cambio de titularidad de una línea o de un tramo de línea ferroviaria, cuyo traspaso hubiera sido acordado con arreglo a lo dispuesto en el párrafo anterior, se formalizará mediante la correspondiente acta de entrega, suscrita por las administraciones interesadas, en la que se definirán con precisión los límites de la línea o tramo afectado.
+
+El traspaso incluirá todos los bienes e instalaciones necesarios para su explotación y supondrá la modificación de la Red Ferroviaria de Interés General.
+
+###### Artículo 6. Clausura de líneas o tramos de la infraestructura ferroviaria.
+
+1\. Cuando el resultado económico de la explotación de una línea ferroviaria sea altamente deficitario, el Consejo de Ministros, a propuesta del Ministro de Fomento, podrá acordar su clausura.
+
+2\. En todo caso, con carácter previo a la adopción del acuerdo de clausura de la línea ferroviaria o de un tramo de línea, en los términos previstos en el artículo 11 de la Ley del Sector Ferroviario, el Ministerio de Fomento habrá de acordar su exclusión de la Red Ferroviaria de Interés General conforme a lo previsto en el artículo anterior.
+
+Asimismo, deberá ponerlo en conocimiento de las comunidades autónomas o entidades locales que pudieran resultar afectadas y ofrecerá el traspaso de la línea ferroviaria o del tramo objeto de clausura a las comunidades autónomas por cuyo territorio transcurran, siempre que éstas asuman la financiación necesaria para su administración y se comprometan a mantener la prestación del servicio ferroviario en dicha la línea o tramo de la misma durante los cinco años siguientes a la fecha en que se efectúe el traspaso.
+
+3\. Si las comunidades autónomas o entidades locales asumieran la financiación para la administración de la línea ferroviaria o del tramo de línea, comprometiéndose a mantener la prestación del servicio ferroviario durante el plazo establecido en el apartado anterior, podrá, en su caso, acordarse su traspaso a la comunidad autónoma correspondiente conforme a lo previsto en el artículo 5.3 de este Reglamento.
+
+4\. Si, en el plazo de dos meses, las comunidades autónomas o entidades locales no asumieran la financiación para la administración de la línea ferroviaria o del tramo de línea o no manifestaran su voluntad de mantener la línea en servicio, el Consejo de Ministros acordará su clausura.
+
+### CAPITULO II — Planificación, proyecto y construcción de las infraestructuras ferroviarias integrantes de la red ferroviaria de interés general
+
+#### Sección I. Planificación y establecimiento de las infraestructuras ferroviarias
+
+###### Artículo 7. Principios generales.
+
+1\. De conformidad con lo dispuesto en el artículo 5 de la Ley del Sector Ferroviario, corresponde al Ministerio de Fomento, oídas las comunidades autónomas afectadas, la planificación de las infraestructuras ferroviaria: integrantes de la Red Ferroviaria de Interés General y el establecimiento o la modificación de las líneas ferroviarias o de tramos de las mismas. Asimismo, se estará a las normas que aquél determine respecto del establecimiento o la modificación de otros elementos que deban formal parte de la Red Ferroviaria de Interés General.
+
+2\. Para el establecimiento o la modificación de una línea o tramo integrante de la Red Ferroviaria de Interés General, será precisa la aprobación por el Ministerio de Fomento de un estudio informativo, con arreglo a lo previsto en el artículo 5 de la Ley del Sector Ferroviario y en este Reglamento.
+
+El estudio informativo es aquel que comprende el análisis y la definición, en aspectos tanto geográficos como funcionales, de las opciones de trazado de una actuación determinada y, en su caso, de la selección de la alternativa más recomendable como solución propuesta. Asimismo, incluirá el estudio de impacto ambiental de las opciones planteadas y constituirá el documento básico a efectos de la correspondiente evaluación ambiental prevista en la legislación ambiental.
+
+En el caso de líneas o tramos de las mismas, la aprobación del correspondiente estudio informativo determinará su inclusión en la Red Ferroviaria de Interés General.
+
+> Se modifica el último párrafo del apartado 2 por la disposición final 1.1 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 8. Resolución de establecimiento o modificación de líneas ferroviarias.
+
+1\. La resolución del Ministerio de Fomento que acuerde el establecimiento o, en su caso, la modificación de las líneas ferroviarias o tramos de las mismas determinará si la aprobación y ejecución de sus proyectos básicos y de construcción corresponde al Ministerio de Fomento o al administrador de infraestructuras ferroviarias. El contenido de dicha resolución podrá incorporarse al de la que apruebe el correspondiente estudio informativo.
+
+Se entiende por proyecto de construcción aquel que establece el desarrollo completo de la solución adoptada para una determinada infraestructura ferroviaria, con el detalle necesario para hacer factible su construcción y posterior explotación.
+
+Se entiende por proyecto básico aquel que define, con suficiente detalle y concreción, los aspectos geométricos de la infraestructura ferroviaria de modo que quede claramente definido el trazado proyectado, así como los bienes y derechos afectados.
+
+2\. En el supuesto de que la resolución a que se refiere el apartado anterior determine que la aprobación de los proyectos básicos y de construcción se realice por el administrador de infraestructuras ferroviarias, corresponderán a éste, igualmente, las facultades de supervisión y replanteo de los referidos proyectos y, en su caso, la de certificación del cumplimiento de la declaración de impacto ambiental.
+
+3\. En el supuesto de que la referida resolución determine que la ejecución de las obras de construcción de líneas ferroviarias integrantes de la Red Ferroviaria de Interés General o de tramos de las mismas debe ser realizada por el Ministerio de Fomento, éste podrá encomendar al administrador de infraestructuras ferroviarias la ejecución de dichas obras con cargo a los recursos del Estado o de terceros, conforme al correspondiente convenio.
+
+4\. Cuando en virtud de la resolución a que se refiere el apartado 1, corresponda al administrador de infraestructuras ferroviarias la ejecución de las obras de construcción de líneas ferroviarias integrantes de la Red Ferroviaria de Interés General o de tramos de las mismas, éste habrá de acometer la construcción con sus propios recursos, en el marco presupuestario autorizado, a estos efectos, por el Ministro de Economía y Hacienda.
+
+#### Sección II. El estudio informativo
+
+###### Artículo 9. Contenido del estudio informativo.
+
+1\. El estudio informativo para los casos de líneas, o tramos de las mismas, estaciones u otros edificios o instalaciones de atención al viajero, terminales de cargas, instalaciones vinculadas a la transformación y al transporte de energía eléctrica y sus edificios anexos, será elaborado por la Dirección General de Ferrocarriles, y constará de la memoria con sus anexos y planos, y tendrá el siguiente contenido:
+
+a) Objeto del estudio y la exposición de las circunstancias que justifiquen el interés general de las referidas infraestructuras ferroviarias y su concepción global.
+
+b) Características técnicas de las infraestructuras ferroviarias.
+
+c) Análisis y definición, en líneas generales y en aspectos tanto geográficos como funcionales, de todas las opciones de diseño estudiadas y, en su caso, la situación de las estaciones y de las zonas de servicio ferroviario.
+
+d) Estudio del impacto ambiental de las diferentes opciones, en los supuestos en los que sea preceptivo el procedimiento de evaluación de impacto ambiental, constituyendo el estudio informativo, en este caso, el documento básico a efectos de la correspondiente evaluación ambiental prevista en la legislación del mismo carácter. En los restantes casos, un análisis medioambiental de las alternativas y las correspondientes medidas correctoras y protectoras necesarias.
+
+e) El análisis de las ventajas, los inconvenientes y los costes de cada una de las opciones y su repercusión en la satisfacción de las demanda de transporte y en la ordenación territorial y urbanística.
+
+f) La selección, en su caso, de la opción más recomendable, debidamente justificada.
+
+2\. No será preceptiva la redacción de un estudio informativo cuando se trate de obras de reposición, de conservación, de acondicionamiento de trazado, de ensanches de plataforma o de desdo-blamientos de vía sobre la misma y, en general, de aquellas que no supongan una modificación sustancial del trazado de las infraestructuras ferroviarias existentes.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 10. Tramitación y aprobación del estudio informativo.
+
+1\. La tramitación del estudio informativo se sujetará a lo establecido en el artículo 5 de la Ley del Sector Ferroviario.
+
+2\. El estudio informativo, con carácter previo al inicio de su tramitación, será objeto de aprobación provisional por la Dirección General de Ferrocarriles. La aprobación provisional implicará la declaración de que dicho estudio está bien redactado y cumple todos los requisitos y prescripciones legales y reglamentarias para permitir practicar la información pública correspondiente, antes de su aprobación definitiva.
+
+Cuando se emplee el término «aprobación» sin especificación alguna, se entenderá que se trata de la aprobación definitiva, salvo que del contexto en que se emplee el término se deduzca claramente lo contrario.
+
+3\. El Ministerio de Fomento remitirá el estudio informativo correspondiente a las comunidades autónomas y entidades locales afectadas, con objeto de que, durante el plazo de un mes, examinen si lo propuesto es lo más adecuado para el interés general y para los intereses que representan. Transcurrido dicho plazo sin que dichas administraciones públicas informen al respecto, se entenderá que están conformes con su contenido.
+
+En el caso de nuevas líneas ferroviarias, de tramos de las mismas o de otros elementos de la infraestructura ferroviaria no incluidos en el planeamiento urbanístico vigente de los núcleos de población a los que afecten, respecto de los que los informes anteriormente citados manifestaran disconformidad, que habrá de ser necesariamente motivada, el expediente será elevado al Consejo de Ministros, que decidirá si procede o no ejecutar el proyecto y, en caso afirmativo, ordenará la modificación o revisión del planeamiento urbanístico afectado, que deberá acomodarse a las determinaciones del proyecto en el plazo de un año.
+
+4\. Asimismo, el Ministerio de Fomento someterá a informe de otros Departamentos ministeriales los estudios informativos de infraestructuras ferroviarias que afecten a su ámbito de competencia.
+
+Los Ministerios de Defensa y de Fomento adoptarán, conjuntamente, las medidas oportunas sobre el trazado y las condiciones para satisfacer las necesidades de la Defensa Nacional, determinando los medios para su financiación.
+
+5\. Con independencia de lo previsto en los apartados anteriores, se llevará a cabo, en la forma prevista en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, un trámite de información pública durante un período de treinta días hábiles, contados desde el día siguiente hábil al de la publicación, en el Boletín Oficial del Estado, del anuncio correspondiente. Durante el período de información pública se podrá examinar el estudio informativo y presentar en el lugar que se indique en el citado anuncio las alegaciones oportunas que deberán versar sobre la concepción global del trazado, en la medida en que afecte al interés general.
+
+A los efectos anteriores, se remitirá a las entidades locales, para su exposición al público, la parte del estudio informativo que recoja aquello que les afecte.
+
+6\. Sin perjuicio de que lo previsto en este precepto afecta a la tramitación procedente para la aprobación del estudio informativo, en caso de que, siendo necesario este estudio, las circunstancias concurrentes aconsejen que su función se asuma por un proyecto de construcción o un proyecto básico, éste se someterá a idéntica tramitación y con el mismo régimen jurídico que si de un estudio informativo se tratara.
+
+7\. El Ministerio de Fomento, en el plazo de dos meses a partir de la expiración del plazo concedido para la información pública, emitirá un informe en el que se considerarán todos los escritos presentados durante ésta y propondrá la resolución del expediente.
+
+8\. Si, con anterioridad a la propuesta de resolución de aprobación del estudio informativo, se han introducido en él modificaciones esenciales que afecten al interés general y que hagan aconsejable su conocimiento público, se someterá de nuevo a los trámites de información previstos en los anteriores apartados 3, 4 y 5.
+
+9\. Una vez concluidos los plazos de audiencia e información pública, el Ministerio de Fomento remitirá el expediente completo, que incluirá el estudio informativo y el resultado de los referidos trámites de audiencia e información pública, al Ministerio de Medio Ambiente a los efectos previstos en la legislación ambiental.
+
+10\. Completada la tramitación prevista en el apartado anterior, corresponderá al Ministerio de Fomento el acto formal de aprobación del estudio informativo que determinará la inclusión de la línea o del tramo de la red a que éste se refiera, en la Red Ferroviaria de Interés General, de conformidad con lo establecido en el artículo 4.2 de la Ley del Sector Ferroviario.
+
+La resolución del expediente de información pública se notificará a quienes hayan intervenido en el trámite de información pública formulando observaciones y será publicada en el Boletín Oficial del Estado. Cuando exista un elevado número de alegaciones cuyo contenido sea coincidente, la publicación de la referida resolución bastará con que se realice en el Boletín Oficial del Estado.
+
+La aprobación del estudio informativo podrá confirmar o modificar los términos recogidos en el aprobado provisionalmente e incorporará la documentación y los planos que permitan la identificación de la actuación a realizar.
+
+11\. Con ocasión de las revisiones de los instrumentos de planeamiento urbanístico, o en los casos en que se apruebe un tipo de instrumento distinto al anteriormente vigente, se incluirán las nuevas líneas ferroviarias o tramos de las mismas contenidos en los estudios informativos aprobados con anterioridad.
+
+#### Sección III. Proyección y construcción de infraestructuras ferroviarias integrantes de la Red Ferroviaria de interés general
+
+###### Artículo 11. Contenido del proyecto de construcción.
+
+1\. El proyecto de construcción deberá contener, con la precisión necesaria, los datos que permitan ejecutar las obras sin la intervención de su autor o de sus autores.
+
+2\. El proyecto de construcción constará de los siguientes documentos:
+
+a) Una memoria descriptiva expresando las necesidades a satisfacer, la justificación de la solución proyectada, las características de la línea ferroviaria y de sus elementos funcionales y de su explotación, las obras singulares, las instalaciones de seguridad y las comunicaciones, la electrificación, los accesos a estaciones, las zonas de servicio ferroviario y las consideraciones sobre el medio ambiente y el territorio afectado.
+
+b) Los anexos a la memoria incluirán el conjunto de datos, cálculos y estudios realizados para la elaboración del proyecto. Estos desarrollarán los aspectos siguientes:
+
+(i) Los antecedentes del proyecto.
+
+(ii) La cartografía y topografía que incluirá las referencias en las que se habrá de fundamentar el replanteo de la obra.
+
+(iii) La geología y la geotecnia.
+
+(iv) La climatología, la hidrología y el drenaje.
+
+(v) El trazado.
+
+(vi) El estudio de yacimientos, procedencia de materiales y vertederos.
+
+(vii) La adecuación del proyecto a la declaración de impacto ambiental, en los casos en que sea preceptiva, y, en particular, la concreción de las medidas correctoras y protectoras derivadas del análisis ambiental.
+
+(viii) Las obras de infraestructuras que incluirán el movimiento de tierras y la definición de la plataforma.
+
+(ix) La superestructura de la vía.
+
+(x) Las estructuras.
+
+(xi) Los túneles y las estaciones que incluirá la definición de sus condiciones de explotación, compatibles con el proyecto y el estudio de riesgos con las medidas que deban a adoptarse e instalaciones necesarias.
+
+(xii) Las situaciones provisionales que incluirán la relación de las medidas para garantizar, en su caso, la seguridad de las circulaciones ferroviarias y del tráfico por carreteras en los tramos afectados durante la ejecución de las obras.
+
+(xiii) La electrificación que incluirá las condiciones para la toma de corriente para la transformación, transporte y suministro de energía de tracción a los trenes.
+
+(xiv) Las instalaciones de seguridad, señalización y comunicaciones.
+
+(xv) La adecuación al planeamiento territorial y urbanístico y ordenación de los accesos a las estaciones o zonas de servicio ferroviario.
+
+(xvi) La documentación relativa a la coordinación con otras Administraciones y entidades afectadas, incluyendo los informes emitidos y las actas de las reuniones celebradas.
+
+(xvii) Las expropiaciones.
+
+(xviii) Los servicios y servidumbres afectados por las obras.
+
+(xix) El plan de obra indicativo, valorado mensualmente.
+
+(xx) La justificación de precios.
+
+(xxi) El presupuesto total de la inversión, incluyendo expropiaciones, modificaciones de servicios y asistencias técnicas realizadas o necesarias.
+
+(xxii) Las propuestas de fórmula de revisión de precios y de clasificación del contratista.
+
+(xxiii) El estudio o, en su caso, el estudio básico de seguridad y salud en las obras que incluirán planos de situación, indicando los riesgos que se hayan identificado en cada unidad de obra y las medidas que deben tomarse. Así mismo contendrá un plano donde se definan los caminos de evacuación en caso de accidente y los centros de asistencia médica próximos. El presupuesto contendrá las mediciones de las unidades y elementos de seguridad proyectados, un cuadro de precios unitarios y el presupuesto resultante de aplicar dichos precios a las mediciones anteriores. El estudio tendrá en cuenta los riesgos derivados del tráfico, incluido el interno de la obra, de acuerdo con el plan marco, si se conoce en el momento de redacción del proyecto.
+
+c) Los planos que describan todos y cada uno de los elementos del proyecto y de su proceso constructivo de modo que permitan deducir la medición de los mismos.
+
+d) El pliego de prescripciones técnicas particulares, en el que se describan detalladamente las actuaciones a realizar y se fijen las características de los materiales y de las unidades de obra y la forma de ejecución, medición, abono y control de calidad de éstas.
+
+e) Los presupuestos, con mediciones detalladas, cuadros de precios, presupuestos generales y, en su caso, parciales.
+
+f) Cualesquiera otros documentos que, en atención al especial carácter de las obras, se consideren necesarios.
+
+3\. Dependiendo del tipo de proyecto de construcción, el órgano competente para su aprobación podrá suprimir, motivadamente, alguno de los documentos o anexos expresados en el apartado anterior o, reducir su extensión o condiciones, siempre que se garantice la definición, ejecución y valoración de las obras.
+
+###### Artículo 12. Contenido del proyecto básico.
+
+1\. El proyecto básico constará de los siguientes documentos:
+
+a) La memoria, en la que se describa y justifique la solución adoptada.
+
+b) Los anexos a la memoria, en los que se incluirán todos los datos que identifiquen el trazado, u ocupación en planta y volumetría, de la infraestructura ferroviaria, las características elegidas y, en su caso, la reposición de servidumbres y servicios afectados. Entre los anexos figurarán los documentos necesarios para promover las autorizaciones administrativas previas a la ejecución de las obras y la relación, definición y valoración concreta e individualizada de los bienes y derechos afectados, con la descripción material de los mismos en el plano parcelario y de las servidumbres a constituir, en su caso, que permita iniciar el trámite expropiatorio para la adquisición de los terrenos necesarios.
+
+c) Los planos en los que se determine el terreno a ocupar por la línea o el tramo de línea ferroviaria y sus elementos funcionales, incluidos los sistemas generales ferroviarios.
+
+d) Estimación del coste de las obras.
+
+2\. En el caso de que las circunstancias concurrentes lo aconsejen y, en particular, si el proyecto básico o el de construcción contuvieren modificaciones respecto de su correspondiente estudio informativo, de relevancia tal que aconsejasen su conocimiento público, se podrá otorgar, en su procedimiento de elaboración, un trámite de información pública, conforme a las mismas reglas previstas en el artículo 10 para el estudio informativo, en el que las observaciones sólo podrán versar sobre las referidas modificaciones.
+
+###### Artículo 13. Aprobación de los proyectos. Expropiación.
+
+1\. La aprobación, por el Ministerio de Fomento o por el administrador de infraestructuras ferroviarias, del correspondiente proyecto básico o del de construcción de líneas ferroviarias, de sus tramos o de otros elementos de la infraestructura ferroviaria o de la modificación de las preexistentes que requiera la utilización de nuevos terrenos, supondrá la declaración de utilidad pública o interés social, la necesidad de la ocupación y de la declaración de su urgencia, a efectos de la expropiación forzosa de aquellos en los que deba construirse la línea, el tramo o el elemento de la infraestructura ferroviaria o que sean necesarios para modificar las preexistentes, según lo previsto en la legislación expropiatoria.
+
+2\. La declaración de utilidad pública o interés social y la necesidad de ocupación se referirán también a los bienes y derechos comprendidos en el replanteo del proyecto y en las modificaciones de obras que puedan aprobarse posteriormente.
+
+3\. A los efectos indicados en los apartados precedentes, los proyectos de líneas ferroviarias, de sus tramos o de otros elementos de las infraestructuras ferroviarias y sus modificaciones deberán comprender la definición del trazado y la determinación de los terrenos, construcciones u otros bienes o derechos que se estime preciso ocupar o adquirir para la construcción, defensa o servicio de aquéllas y la seguridad de la circulación.
+
+4\. Cuando corresponda al administrador de infraestructuras ferroviarias la construcción, con recursos propios u obtenidos a través del correspondiente convenio, de las infraestructuras ferroviarias, la potestad expropiatoria será ejercida por la Administración General del Estado y el beneficiario de la expropiación será el propio administrador de infraestructuras ferroviarias que abonará el justiprecio de las expropiaciones. En todo caso, el beneficiario de la expropiación tendrá los derechos y obligaciones previstos en la Ley de 16 de diciembre de 1954 de Expropiación Forzosa.
+
+El acta de ocupación que se extenderá a continuación del pago, acompañada de los justificantes del mismo, será título bastante para que en el Registro de la Propiedad y en los demás registros públicos se inscriba o tome razón de la transmisión de dominio y se verifique, en su caso, la cancelación de las cargas, gravámenes y derechos reales de toda clase a que estuviere afectada la cosa expropiada.
+
+El acta de ocupación, acompañada del justificante de la consignación del precio o del correspondiente resguardo de depósito, surtirá iguales efectos. Dichos documentos serán también títulos de inmatriculación en el Registro de la Propiedad.
+
+###### Artículo 14. Construcción de infraestructuras ferroviarias.
+
+1\. La construcción de infraestructuras ferroviarias se llevará a cabo conforme disponga la resolución del Ministerio de Fomento a que se refiere el artículo 8.
+
+2\. Cuando corresponda al administrador de infraestructuras ferroviarias la construcción de infraestructuras ferroviarias, éste actuará de acuerdo con lo establecido en los artículos 6 y 22 de la Ley del Sector Ferroviario y en su propio Estatuto.
+
+La dirección, el control, la vigilancia y la inspección de los trabajos y obras de construcción de las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés General, cuando ésta y su explotación hayan sido encomendadas al administrador de infraestructuras ferroviarias, corresponderán a éste, sin perjuicio de la capacidad de inspección que corresponde a la Dirección General de Ferrocarriles.
+
+3\. Cuando, en virtud de lo establecido en el artículo 6.1 de la Ley del Sector Ferroviario y en el artículo 8 de este Reglamento, el Ministerio de Fomento se hubiese reservado la construcción de determinadas infraestructuras ferroviarias, la Dirección General de Ferrocarriles ejercerá las funciones relacionadas en el apartado anterior.
+
+###### Artículo 15. Normas e instrucciones técnicas.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 16. Autorización de puesta en servicio.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+> Se añade el párrafo tercero al apartado 1 por la disposición adicional 7.1 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+#### Sección IV. Coordinación con el planeamiento urbanístico
+
+###### Artículo 17. Incidencia de las infraestructuras ferroviarias en el planeamiento urbanístico.
+
+1\. Los planes generales y demás instrumentos generales de ordenación urbanística calificarán los terrenos que se ocupen por las infraestructuras ferroviarias que formen parte de la Red Ferroviaria de Interés General como sistema general ferroviario o equivalente, y no incluirán determinaciones que impidan o perturben el ejercicio de las competencias atribuidas al Ministerio de Fomento y al administrador de infraestructuras ferroviarias.
+
+2\. De conformidad con el artículo 7 de la Ley del Sector Ferroviario, las obras de construcción, reparación o conservación de líneas ferroviarias, de tramos de las mismas o de otros elementos de la infraestructura tendrán la consideración de obras de interés general y sus proyectos serán, previamente a su aprobación, comunicados a la administración urbanística competente, a efectos de que compruebe, en su caso, su adecuación al correspondiente estudio informativo y emita el oportuno informe, que se entenderá favorable si transcurre un mes desde la presentación de la oportuna documentación sin que se hubiere remitido.
+
+Dichas obras no estarán sometidas al control preventivo municipal al que se refiere el artículo 84.1 b) de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local.
+
+#### Sección V. Pasos a nivel
+
+###### Artículo 18. Régimen aplicable.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+#### Sección VI. Zonas de servicio ferroviario
+
+###### Artículo 19. Definición de las zonas de servicio ferroviario.
+
+1\. El Ministerio de Fomento podrá delimitar, de conformidad con lo establecido en el artículo 9 de la Ley del Sector Ferroviario, especialmente en ámbitos vinculados a estaciones o terminales de carga, zonas de servicio ferroviario que incluirán los terrenos necesarios para la ejecución de infraestructuras ferroviarias y para la realización de las actividades propias del administrador de infraestructuras ferroviarias, los destinados a tareas complementarias de aquéllas y los espacios de reserva que garanticen el desarrollo del servicio ferroviario.
+
+2\. El establecimiento de la zona de servicio se llevará a cabo mediante un proyecto de delimitación y utilización de espacios ferroviarios, que incluirá las actividades que se prevé desarrollar en las diversas áreas y la expresión de su justificación o conveniencia. El proyecto será elaborado por el administrador de infraestructuras ferroviarias y aprobado por el Ministro de Fomento.
+
+3\. En el supuesto de que el establecimiento de una zona de servicio fuera de interés general para el sistema portuario, el ente público Puertos del Estado tendrá capacidad para proponer al Ministro de Fomento dicho establecimiento, y coordinará a las diferentes Autoridades Portuarias de los puertos de interés general de los que hayan de provenir los tráficos ferroviarios a dicha zona de servicio.
+
+En tal caso, las condiciones del acceso de estas zonas de servicio a la Red Ferroviaria de Interés General quedarán establecidas en el correspondiente convenio entre Puertos del Estado y el administrador de infraestructuras ferroviarias.
+
+###### Artículo 20. Contenido del proyecto de delimitación y utilización de espacios ferroviarios.
+
+1\. El proyecto de delimitación y utilización de espacios ferroviarios deberá incluir, según proceda, lo siguiente:
+
+a) La delimitación de la zona de servicio ferroviario.
+
+b) Los servicios de control del tráfico ferroviario.
+
+c) Las infraestructuras para el movimiento del material móvil y, en su caso, la formación de trenes.
+
+d) Las zonas de actividad ferroviaria con sus edificaciones e instalaciones para el servicio de los trenes.
+
+e) Las edificaciones e instalaciones de la estación o terminales de carga que fueran necesarias para el movimiento y tránsito de los viajeros y de las mercancías.
+
+f) Las zonas de estacionamiento y de acceso de personas y vehículos.
+
+g) Los espacios para realizar las actividades de carácter industrial, comercial y de servicios compatibles con el transporte ferroviario.
+
+h) Las redes de servicios necesarios para el correcto funcionamiento de la infraestructura ferroviaria.
+
+i) Las vías de servicio del complejo ferroviario.
+
+j) Los accesos viarios a la zona ferroviaria.
+
+k) Los sistemas de intercambio con otros modos de transporte.
+
+2\. El proyecto de delimitación y utilización de espacios ferroviarios podrá incluir, en su caso, las previsiones necesarias para que aquellas autoridades públicas que hayan de realizar actividades o prestar servicios, necesariamente, dentro del recinto ferroviario, cuenten con los espacios precisos para ello.
+
+###### Artículo 21. Documentación del proyecto de delimitación y utilización de espacios ferroviarios.
+
+El proyecto de delimitación y utilización de espacios ferroviarios contendrá los siguientes documentos:
+
+a) La memoria, que incluirá un estudio de los antecedentes y de la situación actual de la zona de servicio de que se trate; sus necesidades futuras derivadas del análisis de los tráficos de pasajeros y de mercancías y de la evolución previsible de la demanda; la delimitación de la zona de servicio, las actividades previstas para cada una de las áreas de la zona de servicio de que se trate, con la justificación de su necesidad o conveniencia, el análisis de su incidencia en el entorno afectado, y su relación con el planeamiento urbanístico, los accesos a la misma y el ámbito afectado por las servidumbres ferroviarias.
+
+b) El plano general de situación de la estación o terminal de carga y de las demás infraestructuras ferroviarias y los planos de cada una de las áreas en las que se estructura la zona de servicio ferroviaria, con las actividades previstas.
+
+c) La estimación de los costes, inversiones y otras condiciones económicas para el desarrollo del proyecto de delimitación y utilización de espacios ferroviarios.
+
+###### Artículo 22. Procedimiento de aprobación del proyecto de delimitación y utilización de espacios ferroviarios.
+
+1\. Los proyectos de delimitación y utilización de espacios ferroviarios serán elaborados por el administrador de infraestructuras ferroviarias.
+
+La aprobación de los proyectos de delimitación y utilización de espacios ferroviarios corresponde, mediante Orden, al Ministro de Fomento.
+
+2\. Los proyectos de delimitación y utilización de espacios ferroviarios serán informados por las administraciones públicas competentes en materia de ordenación del territorio y de urbanismo afectadas por la delimitación de la zona de servicio. Los informes, que deberán versar sobre asuntos de su respectiva competencia, se entenderán favorables si, transcurrido un mes desde su solicitud, no han sido emitidos.
+
+Antes de su aprobación, los proyectos de delimitación y utilización de espacios ferroviarios serán, en su caso, remitidos a los Departamentos ministeriales cuyas competencias pudieran resultar afectadas por dichos proyectos, para que informen sobre las materias que afecten a sus competencias. Cualquiera de estos informes se entenderá favorable si transcurre el plazo de un mes desde que sean solicitados sin que hayan sido emitidos.
+
+3\. En el supuesto de que la delimitación de la zona de servicio propuesta en el proyecto de delimitación y utilización de espacios ferroviarios incluya bienes patrimoniales o de dominio público de titularidad del Estado afectos a finalidades distintas, se recabará el informe del Ministerio de Economía y Hacienda. A estos efectos, la remisión del proyecto de delimitación y utilización de espacios ferroviarios supondrá la iniciación del expediente de afectación o de mutación demanial, que se tramitará y resolverá de conformidad con lo establecido por la legislación reguladora del patrimonio de las administraciones públicas.
+
+4\. La Orden ministerial que apruebe el proyecto de delimitación y utilización de espacios ferroviarios se publicará en el Boletín Oficial del Estado.
+
+La aprobación del proyecto de delimitación y utilización de espacios ferroviarios llevará implícita la declaración de utilidad pública o interés social, la necesidad de ocupación y la declaración de urgencia de la misma, a efectos expropiatorios, de los bienes y derechos necesarios para su implantación.
+
+5\. La modificación sustancial del proyecto de delimitación y utilización de espacios ferroviarios, una vez aprobado, requerirá el mismo procedimiento establecido en los apartados anteriores.
+
+###### Artículo 23. Consideración urbanística de las zonas de servicio ferroviario.
+
+1\. Los planes generales y demás instrumentos generales de ordenación urbanística calificarán los terrenos destinados a zonas de servicio ferroviario como sistema general ferroviario o equivalente y no incluirán determinaciones que impidan o perturben el ejercicio de las competencias atribuidas al administrador de infraestructuras ferroviarias.
+
+2\. El sistema general ferroviario referido a las zonas de servicio ferroviario establecido en el oportuno proyecto de delimitación y utilización de espacios ferroviarios, se desarrollará a través de un plan especial de ordenación de la zona de servicio ferroviario o instrumento equivalente, de conformidad con lo establecido en el artículo 10 de la Ley del Sector Ferroviario.
+
+### CAPITULO III — Limitaciones a la propiedad
+
+#### Sección I. Disposiciones generales
+
+###### Artículo 24. Conceptos básicos.
+
+1\. En las líneas ferroviarias que formen parte de la Red Ferroviaria de Interés General se establecen una zona de dominio público, otra de protección y un límite de edificación. Tanto las referidas zonas como el límite de edificación se regirán por lo establecido en la Ley del Sector Ferroviario, en este Reglamento y en las disposiciones que dicte el Ministro de Fomento en desarrollo de éste último.
+
+2\. Donde se superpongan las zonas de dominio público y las de protección, en función de que su medición se realice desde la vía ferroviaria general o desde las vías desviadas, prevalecerá, en todo caso, la configuración de la zona de dominio público sobre la de protección.
+
+3\. Donde, por ser muy amplia la proyección horizontal del talud de las explanaciones, la línea límite de edificación quede dentro de la zona de dominio público, la citada línea se hará coincidir con el borde exterior de la referida zona.
+
+4\. Donde las líneas límite de edificación se superpongan, en función de que su medición se realice desde la vía ferroviaria general o desde las vías desviadas, prevalecerá, en todo caso, la más alejada de la vía ferroviaria.
+
+#### Sección II. Zona de dominio público
+
+###### Artículo 25. Normas particulares de la zona de dominio público.
+
+1\. La zona de dominio público comprende los terrenos ocupados por las líneas ferroviarias que formen parte de la Red Ferroviaria de Interés General y una franja de terreno de ocho metros a cada lado de la plataforma, medida en horizontal y perpendicularmente al eje de la misma, desde la arista exterior de la explanación.
+
+Se entiende por explanación, la superficie de terreno en la que se ha modificado la topografía natural del suelo y sobre la que se encuentra la línea férrea, se disponen sus elementos funcionales y se ubican sus instalaciones, siendo la arista exterior de ésta la intersección del talud del desmonte, del terraplén o, en su caso, de los muros de sostenimiento colindantes con el terreno natural.
+
+En los casos especiales de puentes, viaductos, estructuras u obras similares, se podrán fijar como aristas exteriores de la explanación las líneas de proyección vertical del borde de las obras sobre el terreno, siendo, en todo caso, de dominio público el terreno comprendido entre las referidas líneas.
+
+En los túneles, la determinación de la zona de dominio público se extenderá a la superficie de los terrenos sobre ellos necesarios para asegurar la conservación y el mantenimiento de la obra, de acuerdo con las características geotécnicas del terreno, su altura sobre aquellos y la disposición de sus elementos, tomando en cuenta circunstancias tales como su ventilación y sus accesos.
+
+Siempre que se asegure la conservación y el mantenimiento de la obra, el planeamiento urbanístico podrá diferenciar la calificación urbanística del suelo y el subsuelo, otorgando, en su caso, a los terrenos que se encuentren en la superficie calificaciones que los hagan susceptibles de aprovechamiento urbanístico.
+
+2\. En la zona de dominio público, sin perjuicio de lo establecido en el artículo 30, sólo podrán realizarse obras e instalaciones, previa autorización del administrador de infraestructuras ferroviarias, cuando sean necesarias para la prestación del servicio ferroviario o cuando la prestación de un servicio público o de un servicio o actividad de interés general así lo requiera. Excepcionalmente y por causas debidamente justificadas, podrá autorizarse el cruce de la zona de dominio público, tanto aéreo como subterráneo, por obras e instalaciones de interés privado.
+
+En las zonas urbanas, y previa autorización del administrador de infraestructuras ferroviarias, se podrán realizar, dentro de la zona de dominio público, obras de urbanización que mejoren la integración del ferrocarril en aquellas zonas.
+
+En ningún caso se autorizarán obras o instalaciones que puedan afectar a la seguridad de la circulación ferroviaria, perjudiquen la infraestructura ferroviaria o impidan su adecuada explotación.
+
+3\. En los supuestos de ocupación de la zona de dominio público ferroviario, el que la realizare estará obligado a la limpieza y recogida del material situado en los terrenos ocupados hasta el límite de la citada zona de dominio público, previo requerimiento de la Administración pública o del administrador de infraestructuras ferroviarias titular de la línea. Si no se atendiere el requerimiento dentro del plazo conferido, actuará de forma subsidiaria la citada Administración pública o el administrador de infraestructuras ferroviarias titular de la línea, mediante la realización de las necesarias labores de limpieza y recogida del material, quedando el ocupante de los terrenos obligado a resarcir los gastos en los que se hubiere incurrido por dicha actuación.
+
+#### Sección III. Zona de protección
+
+###### Artículo 26. Normas particulares de la zona de protección.
+
+1\. La zona de protección de las líneas ferroviarias consiste en una franja de terreno a cada lado de ellas, delimitada interiormente por la zona de dominio público y, exteriormente, por dos líneas paralelas situadas a setenta metros de las aristas exteriores de la explanación.
+
+2\. En la zona de protección no podrán realizarse obras ni se permitirán más usos que aquellos que sean compatibles con la seguridad del tráfico ferroviario, previa autorización, en cualquier, caso, del administrador de infraestructuras ferroviarias. Este podrá utilizar o autorizar la utilización de la zona de protección por razones de interés general o cuando lo requiera el mejor servicio de la línea ferroviaria. En particular, podrá hacerlo para cumplir cualquiera de los fines siguientes:
+
+a) Encauzar y canalizar aguas que ocupen o invadan la línea ferroviaria.
+
+b) Depositar temporalmente, apartándolos de la vía, objetos o materiales que se encuentren sobre la plataforma de la línea ferroviaria y constituyan peligro u obstáculo para la circulación.
+
+c) Estacionar temporalmente material móvil que no resulte apto para circular, por avería u otra causa.
+
+d) Establecer conducciones vinculadas a servicios de interés general, si no existieran alternativas al trazado de las mismas.
+
+e) Almacenar temporalmente maquinaria, herramientas y materiales destinados a obras de construcción, reparación o conservación de la línea ferroviaria o de sus elementos funcionales e instalaciones.
+
+f) Aprovechar, para uso exclusivo del ferrocarril, recursos geológicos, previa la obtención, en su caso, de las autorizaciones que correspondan.
+
+g) Establecer temporalmente caminos de acceso a zonas concretas de la línea ferroviaria que requieran las obras de construcción, reparación o conservación de la línea y de sus elementos funcionales e instalaciones o el auxilio en caso de incidencia o accidente.
+
+h) Acceder a puntos concretos de la línea ferroviaria en caso de incidencia o accidente.
+
+i) Integrar, en zonas urbanas, el ferrocarril mediante obras de urbanización derivadas del desarrollo del planeamiento urbanístico.
+
+3\. Podrán realizarse cultivos agrícolas en la zona de protección, sin necesidad de autorización previa, siempre que se garantice la correcta evacuación de las aguas de riego y no se causen perjuicios a la explanación, quedando prohibida la quema de rastrojos.
+
+En las construcciones e instalaciones ya existentes podrán realizarse, exclusivamente, obras de reparación y mejora, siempre que no supongan aumento de volumen de la construcción y sin que el incremento de valor que aquéllas comporten pueda ser tenido en cuenta a efectos expropiatorios. En todo caso, tales obras requerirán la previa autorización del administrador de infraestructuras ferroviarias, el cual podrá establecer las condiciones en las que deban ser realizadas, sin perjuicio de los demás permisos o autorizaciones que pudieran resultar necesarios en función de la normativa aplicable.
+
+4\. En la zona de protección hasta la línea límite de edificación, el administrador de infraestructuras ferroviarias podrá solicitar al Ministerio de Fomento la expropiación de bienes, que pasarán a tener la consideración de dominio público, entendiéndose implícita la declaración de utilidad pública o interés social y la necesidad de su ocupación, siempre que se justifique su interés para la idónea prestación de los servicios ferroviarios y para la seguridad de la circulación.
+
+5\. Serán indemnizables la ocupación de la zona de protección y los daños y perjuicios que se causen por su utilización, con arreglo a lo establecido en la Ley de Expropiación Forzosa.
+
+#### Sección IV. Normas comunes a las zonas de dominio público y de protección
+
+###### Artículo 27. Distancias.
+
+1\. El Ministerio de Fomento, en función de las características técnicas específicas de la línea ferroviaria de que se trate y de la tipología del suelo por el que discurra dicha línea, podrá determinar, caso por caso, distancias inferiores a las establecidas en los artículos 25 y 26 para delimitar la zona de dominio público y la de protección.
+
+2\. En el suelo contiguo al ocupado por las líneas o infraestructuras ferroviarias y clasificado como urbano consolidado por el correspondiente planeamiento urbanístico, las distancias para la protección de la infraestructura ferroviaria serán de cinco metros para la zona de dominio público y de ocho metros para la de protección, contados en todos los casos desde las aristas exteriores de la explanación.
+
+Dichas distancias podrán ser reducidas por el Ministerio de Fomento siempre que se acredite la necesidad de la reducción y no se ocasione perjuicio a la infraestructura ferroviaria y a la seguridad y regularidad de la circulación, sin que, en ningún caso, la correspondiente a la zona de dominio público pueda ser inferior a dos metros.
+
+La solicitud de reducción deberá ser acompañada, al menos, de una memoria explicativa y de planos en planta y alzado que describan de forma precisa el objeto de la misma. Dicha solicitud se remitirá al Administrador de Infraestructuras Ferroviarias para que informe en el plazo de dos meses. Asimismo, se remitirá al ayuntamiento para que informe sobre si la solicitud es adecuada para el interés general y para los intereses que representa. Transcurrido dicho plazo sin que dichas entidades informen al respecto se entenderá que no se oponen a la misma.
+
+> Se modifica el apartado 2 por la disposición adicional 7.2 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 28. Régimen de las autorizaciones.
+
+1\. Para ejecutar, en las zonas de dominio público y de protección de la infraestructura ferroviaria, cualquier tipo de obras o instalaciones fijas o provisionales, cambiar el destino de las mismas o el tipo de actividad que se puede realizar en ellas y plantar o talar árboles se requerirá la previa autorización del administrador de infraestructuras ferroviarias. Lo dispuesto en este apartado se entiende sin perjuicio de las competencias de otras administraciones públicas.
+
+2\. Las obras que se lleven a cabo en la zona de dominio público y en la zona de protección que tengan por finalidad salvaguardar paisajes o construcciones o limitar el ruido que provoca el tránsito por las líneas ferroviarias, serán costeadas por sus promotores.
+
+###### Artículo 29. Procedimiento de otorgamiento de las autorizaciones.
+
+1\. La solicitud de autorización para realizar obras, instalaciones o actividades en la zona de dominio público y en la zona de protección de la infraestructura ferroviaria se examinará por el administrador de infraestructuras ferroviarias. Dicha solicitud deberá ajustarse a lo establecido en el artículo 70.1 de la Ley 30/1992 y cumplir los requisitos que se establecen en este Reglamento. Si resultare incompleta la documentación aportada junto con la solicitud, se concederá al interesado un plazo de diez días para completarla.
+
+Comprobada la actuación solicitada sobre el terreno y solicitados cuando fueran necesarios los informes complementarios que se estimen pertinentes, el administrador de infraestructuras ferroviarias, otorgará la autorización y establecerá las condiciones de su otorgamiento, o la denegará de forma motivada. La denegación deberá fundarse en las previsiones de los planes o proyectos de ampliación o variación de la línea ferroviaria en los diez años posteriores al acuerdo, en perjuicios evidentes para la seguridad del ferrocarril, o bien en informes técnicos que pongan de manifiesto que las obras que se pretenden ejecutar puedan afectar directa o indirectamente a la estabilidad de la plataforma o explanación.
+
+Transcurridos tres meses desde la fecha de recepción de la solicitud, sin que el administrador de infraestructuras ferroviarias haya adoptado y notificado expresamente la resolución, se entenderá denegada la autorización.
+
+2\. En caso de que la solicitud de autorización pretendiera la realización de obras o instalaciones en la zona de dominio público para el establecimiento de un servicio público o de interés general, aquélla deberá acompañarse de un proyecto de obras e instalaciones y los documentos que acrediten su conformidad con el planeamiento urbanístico o las autorizaciones urbanísticas exigibles. En todo caso, se deberá justificar el interés general de la necesidad de la ocupación del dominio público que se solicita.
+
+Si la solicitud tiene por objeto la utilización de la zona de protección, se adjuntará toda la documentación necesaria para la correcta localización y definición de la actuación que se pretende realizar.
+
+###### Artículo 30. Medidas de protección.
+
+1\. La autorización para realizar obras o actividades en las zonas de dominio público y de protección podrá recoger las medidas de protección que, en cada caso, se consideren pertinentes para evitar daños y perjuicios a la infraestructura ferroviaria, a sus elementos funcionales, a la seguridad de la circulación, a la adecuada explotación de aquélla y al medio ambiente, así como la construcción de cerramientos y su tipo.
+
+2\. En particular, se observarán las siguientes normas:
+
+a) Plantaciones de arbolado. Queda prohibida la plantación de arbolado en zona de dominio público, si bien podrá autorizarse en la zona de protección siempre que no perjudique la visibilidad de la línea férrea y de sus elementos funcionales, ni origine inseguridad vial en los pasos a nivel. El administrador de infraestructuras ferroviarias podrá ordenar su tala, no obstante, si, por razón de su crecimiento o por otras causas, el arbolado llegase a determinar una pérdida de visibilidad de la línea ferroviaria o afectase a la seguridad vial en pasos a nivel.
+
+b) Talas de arbolado. Las talas de arbolado se autorizarán, exclusivamente, en la zona de protección y se denegarán sólo cuando la tala pueda perjudicar la infraestructura ferroviaria por variar el curso de las aguas, por producir inestabilidad de taludes o por otras causas que lo justifiquen.
+
+c) Tendidos aéreos. No se autorizará el establecimiento de nuevas líneas eléctricas de alta tensión dentro de la superficie afectada por la línea límite de edificación. Las líneas eléctricas de baja tensión, las telefónicas y las telegráficas podrán autorizarse en la zona de protección siempre que la distancia del poste a la arista de pie de terraplén o de desmonte no sea inferior a vez y media su altura. Esta distancia mínima se aplicará también a los postes de los cruces a distinto nivel con líneas eléctricas.
+
+En el caso de cruces a distinto nivel con líneas eléctricas, el gálibo fijado será suficiente para garantizar, entre la línea ferroviaria, electrificada o no, y la línea eléctrica con las que se cruce, el cumplimiento de las condiciones establecidas en la reglamentación de líneas eléctricas de alta y baja tensión.
+
+Las torres precisas para la prestación de servicios de telecomunicaciones por las empresas habilitadas para ello, podrán ser instaladas, previa autorización del administrador de infraestructuras ferroviarias, dentro de la zona de dominio público y de protección siempre que la distancia mínima entre la base de la infraestructura y la arista exterior de la plataforma sea superior a una vez y media la altura de aquellas.
+
+d) Conducciones subterráneas. Queda prohibida su construcción en la zona de dominio público salvo que, excepcionalmente y de forma justificada, no existiendo otra solución técnica factible, se autoricen para la prestación de un servicio de interés general, como la travesía de poblaciones. Asimismo, cuando no exista alternativa de trazado, se podrán autorizar en la zona de protección, las conducciones subterráneas correspondientes a la prestación de servicios públicos de interés general y las vinculadas a éstos, situándolas, en todo caso, lo más lejos posible de la línea ferroviaria.
+
+e) Obras subterráneas. Dentro de la zona de protección, no se autorizarán las obras que puedan perjudicar el ulterior aprovechamiento de la misma para los fines a que está destinada.
+
+f) Cruces subterráneos. Las obras correspondientes se ejecutarán de forma que produzcan las menores perturbaciones posibles a la circulación, dejarán la explanada y la vía en sus condiciones anteriores, y tendrán la debida resistencia, fijándose, por el administrador de infraestructuras ferroviarias, la cota mínima de resguardo entre la clave del paso subterráneo y la rasante de la plataforma ferroviaria. Salvo justificación suficiente, no se autorizarán cruces a cielo abierto en la Red Ferroviaria de Interés General, debiéndose efectuar el cruce mediante mina, túnel o perforación mecánica subterránea. También se podrán utilizar para el cruce las obras de paso o desagüe de las líneas ferroviarias, siempre que se asegure el adecuado mantenimiento de sus condiciones funcionales y estructurales.
+
+g) Cerramientos. En el área delimitada por la zona de dominio público y la línea límite de edificación sólo se podrán autorizar cerramientos totalmente diáfanos sobre piquetes sin cimiento de fábrica. Los demás tipos de cerramientos sólo se autorizarán exteriormente a la línea límite de edificación. La reconstrucción de cerramientos existentes se hará con arreglo a las condiciones que se impondrían si fueran de nueva construcción, salvo las operaciones de mera reparación y conservación.
+
+Cuando resulte necesario el retranqueo de cerramientos por exigencias derivadas de la construcción de nuevas vías u otros motivos de interés público, se podrán reponer en las mismas condiciones existentes antes de la formulación del proyecto de obra, en cuanto a su estructura y distancia a la arista exterior de la explanación, garantizándose, en todo caso, que el cerramiento se sitúa fuera de la zona de dominio público y que no resultan mermadas las condiciones de visibilidad y seguridad de la circulación ferroviaria.
+
+h) Urbanizaciones y equipamientos públicos, como hospitales, centros deportivos docentes y culturales, colindantes con la infraestructura ferroviaria. Además de cumplir las condiciones que, en cada caso, sean exigibles según las características de la instalación, las edificaciones deberán quedar siempre en la zona de protección sin invadir la línea límite de edificación. Dentro de la superficie afectada por dicha línea no se autorizarán más obras que las necesarias para la ejecución de viales, aparcamientos, isletas o zonas ajardinadas.
+
+i) Instalaciones industriales, agrícolas y ganaderas. Además de las condiciones que, en cada caso, sean exigibles según las características de la explotación, se impondrán condiciones específicas para evitar las molestias o peligros que la instalación, o las materias de ella derivadas, puedan producir a la circulación, así como para evitar perjuicios al entorno medioambiental de la infraestructura ferroviaria.
+
+Si los supuestos previstos en los dos apartados precedentes dan lugar a tráfico por carretera, será obligatoria la construcción de un cruce a distinto nivel y, en su caso, la supresión del paso a nivel preexistente, cuando el acceso a aquellos conlleve la necesidad de cruzar la vía férrea. El coste de su construcción y, en su caso, supresión será de cuenta del promotor de las mismas. Para la construcción de un cruce a distinto nivel o para la supresión de uno preexistente, la entidad promotora presentará un proyecto específico con los accesos a la infraestructura ferroviaria, incluidos los aspectos de parcelación, red viaria y servicios urbanos que incidan sobre la zona de protección de la infraestructura ferroviaria.
+
+j) Movimientos de tierras y explanaciones. Se podrán autorizar en la zona de protección, siempre que no sean perjudiciales para la infraestructura ferroviaria o su explotación.
+
+k) Muros de sostenimiento de desmontes y terraplenes. Su construcción podrá ser autorizada dentro del tercio de la zona de protección más próximo a la zona de dominio público y también, con carácter excepcional, en la zona de dominio público siempre que quede suficientemente garantizado que la misma no es susceptible de ocasionar perjuicios a la infraestructura ferroviaria. En estos casos, se deberá presentar al administrador de infraestructuras ferroviarias, junto con la solicitud, un proyecto en el que se estudien las consecuencias de su construcción en relación con la explanación, la evacuación de aguas pluviales y su influencia en la seguridad de la circulación.
+
+I) Pasos elevados. Los estribos de la estructura no podrán ocupar la zona de dominio público, salvo expresa autorización del administrador de infraestructuras ferroviarias. En líneas ferroviarias con vías separadas se podrán ubicar pilares entre ambas, siempre que la anchura de ésta sea suficiente para que no representen un peligro para la circulación, dotándolas, en su caso, de un dispositivo de contención de vehículos.
+
+El gálibo sobre la calzada, tanto durante la ejecución de la obra como después de ella, será fijado por el administrador de infraestructuras ferroviarias.
+
+Las características de la estructura deberán tener en cuenta la posibilidad de ampliación o variación de la línea ferroviaria en los próximos veinte años.
+
+m) Pasos subterráneos. La cota mínima de resguardo entre la parte superior de la obra de paso y la rasante de la plataforma de la línea ferroviaria será fijada por el administrador de infraestructuras ferroviarias.
+
+Las características de la estructura deberán tener en cuenta la posibilidad de ampliación o variación de la línea ferroviaria en los próximos veinte años.
+
+n) Vertederos. No se autorizarán en ningún caso.
+
+###### Artículo 31. Efectos de las autorizaciones.
+
+1\. Las autorizaciones que se otorguen no eximirán a quien las obtenga de solicitar las demás licencias y autorizaciones necesarias. El otorgamiento se realizará sin perjuicio de tercero y dejando a salvo los derechos preexistentes sobre los terrenos o bienes. No supondrá, en ningún caso, la cesión del dominio público ni la asunción por el administrador de infraestructuras ferroviarias o por la Administración General del Estado de responsabilidad alguna respecto del titular de la autorización o de terceros.
+
+2\. La autorización producirá efectos mientras siga siendo el mismo el objeto que determinó su otorgamiento, y será transmisible siempre que se notifique al administrador de infraestructuras ferroviarias el cambio de titularidad.
+
+3\. El otorgamiento de cualquier autorización conllevará la obligación del autorizado de pagar al administrador de infraestructuras ferroviarias los gastos que el estudio, tramitación y seguimiento de la misma conlleve, no pudiéndose condicionar al pago de una compensación económica por el ejercicio de la actividad autorizada.
+
+4\. El otorgamiento de una autorización de aprovechamiento especial de la zona de dominio público devengará el pago del correspondiente canon previsto en el artículo 75 de la Ley del Sector Ferroviario.
+
+###### Artículo 32. Modificación o suspensión de la autorización.
+
+1\. Sin perjuicio de lo establecido en el artículo 37, el administrador de infraestructuras ferroviarias podrá, en cualquier momento, modificar o suspender, temporal o definitivamente, la autorización otorgada sin que ello dé derecho a indemnización alguna, en los siguientes casos:
+
+a) Si resultare incompatible con normas de seguridad aprobadas con posterioridad.
+
+b) Si produjera daños en el dominio público.
+
+c) Si impidiera la utilización del dominio público para actividades de interés público.
+
+d) Si se requiriera para la ampliación, mejora o desarrollo de las infraestructuras ferroviarias.
+
+2\. El procedimiento para modificar o suspender la autorización se iniciará de oficio o a instancia de parte y será instruido por el administrador de infraestructuras ferroviarias.
+
+En todo caso y antes de dictar resolución, se dará audiencia a los afectados con el fin de que puedan formular cuantas alegaciones convengan a su derecho.
+
+###### Artículo 33. Obras autorizadas.
+
+1\. Las obras o instalaciones autorizadas se iniciarán y finalizarán dentro de los plazos que determine la propia autorización o, en su caso, su prórroga, y se inspeccionarán por el administrador de infraestructuras ferroviarias.
+
+2\. No se podrán iniciar las obras sin que el administrador de infraestructuras ferroviarias haya extendido un acta de conformidad al replanteo. A estos efectos, el interesado pondrá en su conocimiento la fecha de iniciación de las obras, con una antelación mínima de diez días.
+
+Si el administrador de infraestructuras ferroviarias apreciara desviaciones respecto del proyecto presentado o de las condiciones impuestas en la autorización, podrá paralizar las obras hasta que se corrijan aquéllas, sin perjuicio de la instrucción del expediente sancionador que proceda.
+
+3\. Las obras se ejecutarán de acuerdo con el proyecto presentado y, en su caso, con las condiciones impuestas en la autorización, sin interrumpir ni dificultar la circulación por la línea ferroviaria y con sujeción a la regulación en materia de seguridad del tráfico contenida en la Ley del Sector Ferroviario y en su normativa de desarrollo.
+
+El titular de la autorización deberá reponer, a su cargo, los elementos de la infraestructura ferroviaria que resulten dañados por la ejecución de las obras, restituyéndolos a las condiciones anteriores de seguridad, funcionalidad y estética.
+
+4\. El titular de la autorización pondrá en conocimiento del administrador de infraestructuras ferroviarias la terminación de las obras, con una antelación mínima de diez días. El administrador de infraestructuras ferroviarias extenderá un acta de conformidad o, en su caso, hará constar los reparos que considere oportunos, concediendo el plazo necesario para su subsanación. El acta de conformidad de las obras llevará implícito el permiso de utilización de lo construido.
+
+#### Sección V. Límite de edificación
+
+###### Artículo 34. La línea límite de edificación.
+
+1\. A ambos lados de las líneas ferroviarias que formen parte de la Red Ferroviaria de Interés General se establece la línea límite de edificación, desde la cual hasta la línea ferroviaria queda prohibido cualquier tipo de obra de edificación, reconstrucción o de ampliación, a excepción de las que resulten imprescindibles para la conservación y mantenimiento de las que existieran a la entrada en vigor de la Ley del Sector Ferroviario. Igualmente, queda prohibido el establecimiento de nuevas líneas eléctricas de alta tensión dentro de la superficie afectada por la línea límite de edificación sin perjuicio de la posible existencia de cruces a distinto nivel con líneas eléctricas en las condiciones establecidas en el artículo 30.2.c).
+
+2\. La línea límite de la edificación se sitúa, con carácter general, a cincuenta metros de la arista exterior más próxima de la plataforma, medidos horizontalmente a partir de la mencionada arista. A tal efecto se considera arista exterior de la plataforma el borde exterior de la estructura construida sobre la explanación que sustenta la vía y los elementos destinados al funcionamiento de los trenes; y línea de edificación aquella que delimita la superficie ocupada por la edificación en su proyección vertical. En los túneles y en las líneas férreas soterradas o cubiertas con losas no será de aplicación la línea límite de la edificación.
+
+El Ministro de Fomento podrá determinar una distancia inferior a la prevista en el párrafo anterior para la línea límite de edificación, en función de las características técnicas de la línea ferroviaria de que se trate, como la velocidad y la tipología de la línea o el tipo de suelo sobre la que ésta discurra.
+
+3\. Asimismo, el Ministerio de Fomento, previo informe de las comunidades autónomas y entidades locales afectadas, podrá, por razones geográficas o socioeconómicas, fijar una línea límite de edificación inferior a la establecida con carácter general, aplicable a determinadas líneas ferroviarias que formen parte de la Red Ferroviaria de Interés General, en zonas o áreas delimitadas.
+
+4\. Con carácter general, en las líneas ferroviarias que formen parte de la red ferroviaria de interés general que discurran por zonas urbanas y siempre que lo permita el planeamiento urbanístico correspondiente, la línea límite de la edificación se sitúa a 20 metros de la arista exterior más próxima de la plataforma. No obstante lo anterior, el Ministerio de Fomento podrá establecer la línea límite de edificación a una distancia inferior a la anteriormente referida, previa solicitud del interesado y tramitación del correspondiente expediente administrativo, siempre y cuando ello redunde en una mejora de la ordenación urbanística y no cause perjuicio de la seguridad, regularidad, conservación y el libre tránsito del ferrocarril.
+
+> Se modifican el primer párrafo del apartado 2 y el apartado 4 por la disposición final 1.3 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 35. Procedimiento de determinación de la línea límite de edificación en los supuestos contemplados en el artículo 16 de la Ley del Sector Ferroviario.
+
+1\. El administrador de infraestructuras ferroviarias, con arreglo a lo dispuesto en el apartado tercero del artículo 16 de la Ley el Sector Ferroviario, podrá a proponer, respecto de zonas o áreas determinadas, a la Dirección General de Ferrocarriles la determinación de una distancia límite de edificación diferente a la establecida con carácter general. A estos efectos, los ramales y enlaces con elementos funcionales de la infraestructura ferroviaria tendrán la consideración de líneas ferroviarias.
+
+2\. La solicitud irá acompañada de un estudio de determinación de la línea límite de la edificación que comprenderá, al menos, una memoria explicativa y planos en planta y alzado, que describirán de forma precisa su objeto. La Dirección General de Ferrocarriles remitirá el correspondiente estudio de determinación al Administrador de Infraestructuras Ferroviarias, con objeto de que, en el plazo de dos meses, informe sobre si la determinación propuesta no ocasiona perjuicio a la infraestructura ferroviaria y a la seguridad y regularidad de la circulación. Asimismo, dicho estudio se remitirá a la comunidad autónoma y al ayuntamiento correspondiente, para que, en igual plazo, informen si el mismo es adecuado para el interés general y para los intereses que representan. Transcurrido dicho plazo sin que dichas entidades informen al respecto, se entenderá que no se oponen a la misma.
+
+3\. Una vez analizados los informes emitidos, la Dirección General de Ferrocarriles elevará al Ministro de Fomento el expediente para su resolución.
+
+> Se modifica el apartado 2 por la disposición adicional 7.3 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 36. Obras e instalaciones permitidas.
+
+1\. Se podrán realizar, previa autorización del administrador de infraestructuras ferroviarias, obras de conservación y mantenimiento de las edificaciones existentes dentro de la línea límite de edificación. Transcurrido el plazo de tres meses desde la solicitud sin que aquel se haya pronunciado, se entenderá su conformidad con la obra, si ésta no implica cambio del uso o destino de las edificaciones preexistentes.
+
+2\. El administrador de infraestructuras ferroviarias podrá autorizar dentro de la superficie afectada por la línea límite de edificación, asimismo, la colocación de instalaciones provisionales fácilmente desmontables y la ejecución de viales, aparcamientos en superficie, isletas o zonas ajardinadas anexas a edificaciones, así como equipamientos públicos que se autoricen en la zona de protección sin invadir la línea límite de edificación.
+
+#### Sección VI. Protección de la Red Ferroviaria de interés general
+
+###### Artículo 37. Obras y actividades ilegales.
+
+La paralización de obras e instalaciones y la suspensión de usos prohibidos, no autorizados o que no se ajusten a las condiciones establecidas en las autorizaciones, se sujeta a lo dispuesto en el artículo 18 de la Ley del Sector Ferroviario. En todo caso, se observarán las normas siguientes:
+
+a) Los Delegados de Gobierno, a instancia del Ministerio de Fomento o del administrador de infraestructuras ferroviarias, dispondrán la paralización de las obras o instalaciones y la suspensión de usos prohibidos, no autorizados o que no se ajusten a las condiciones establecidas en las autorizaciones. Asimismo, se podrá proceder al precinto de las obras o instalaciones afectadas. La paralización y el precinto, en su caso, serán notificados al interesado y tendrán el carácter de medidas cautelares, como trámite previo al expediente regulado en el artículo 18.2 de la Ley del Sector Ferroviario.
+
+b) La resolución de demolición prevista en el artículo 18.2 de la Ley del Sector Ferroviario se notificará al interesado, que deberá cumplirla en el plazo de un mes desde su notificación. Si se incumpliere la obligación de demoler o se continuara ejercitando el uso no autorizado, el Delegado del Gobierno ordenará su ejecución forzosa, en sustitución del interesado y a su costa.
+
+c) En el supuesto de regularización de las obras o instalaciones, el coste de adecuación a las debidas condiciones de seguridad, funcionalidad y estética, será a cargo del interesado.
+
+###### Artículo 38. Obras ruinosas.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 39. Cerramiento de las líneas ferroviarias para garantizar la seguridad en el tráfico ferroviario.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 40. Entrada de personas y vehículos en las vías férreas.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+### CAPITULO IV — Administración de las infraestructuras ferroviarias
+
+#### Sección I. Disposiciones Generales
+
+###### Artículo 41. Administración de las infraestructuras ferroviarias.
+
+1\. La administración de las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés General tiene por objeto su mantenimiento y explotación, así como la gestión de sus sistemas de control, de circulación y de seguridad.
+
+2\. La administración de las infraestructuras ferroviarias es un servicio de interés general y esencial para la comunidad, que se prestará en la forma prevista en la Ley del Sector Ferroviario y en este Reglamento.
+
+3\. Corresponde al administrador de infraestructuras ferroviarias la administración de las infraestructuras ferroviarias de las que es titular y de las infraestructuras ferroviarias de titularidad estatal cuya administración le sea encomendada, en los términos que establezca el convenio o contrato-programa al que se refiere el apartado 2 del artículo 22 de la Ley del Sector Ferroviario.
+
+4\. Se entiende por mantenimiento de una infraestructura ferroviaria, el conjunto de las operaciones de conservación, reparación, reposición y actualización tecnológica de elementos que permita preservar las infraestructuras ferroviarias integradas en la Red Ferroviaria de Interés General, en condiciones de operatividad y seguridad adecuadas.
+
+5\. La explotación de la infraestructura ferroviaria comprende la elaboración y publicación de la declaración sobre la red, la adjudicación de la capacidad de infraestructura a los candidatos que lo soliciten, la prestación de servicios adicionales, complementarios y auxiliares y el control e inspección de la infraestructura ferroviaria, el de sus zonas de protección y de servicio ferroviario y el de la circulación ferroviaria que sobre ella se produzca.
+
+6\. Se entiende por gestión de los sistemas de control, circulación y seguridad de la infraestructura ferroviaria, la realización de las actividades de organización, la comprobación, la inspección y la supervisión de los modos y medios que aseguren el funcionamiento de los sistemas encargados del control, la circulación y la seguridad del tráfico ferroviario.
+
+7\. El administrador de infraestructuras ferroviarias podrá ejercer, en cualquier momento, respecto de los bienes de dominio público de su titularidad o de aquellos cuya gestión le haya sido atribuida por el Estado, las facultades de administración, defensa, policía, investigación, deslinde y recuperación posesoria, pudiendo realizar las certificaciones administrativas de dominio previstas en el artículo 206 de la Ley Hipotecaria, para su presentación en los registros públicos, en orden a regularizar la situación catastral y registral de dichos bienes.
+
+8\. El administrador de infraestructuras ferroviarias queda facultado para establecer el régimen de uso del suelo y de otros bienes inmuebles de su titularidad, así como de aquellos de titularidad del Estado cuya administración tenga encomendada otorgando, en su caso, las autorizaciones, concesiones, arrendamientos y demás títulos que permitan su utilización por terceros.
+
+9\. Son de titularidad del administrador de infraestructuras ferroviarias los bienes y derechos que se le asignen por Ley o Reglamento y los que adquiera o construya con sus propios recursos o mediante actuaciones concertadas con otras administraciones públicas.
+
+10\. Los bienes de dominio público de titularidad del administrador de infraestructuras ferroviarias y los de dominio público del Estado cuya gestión tenga aquél encomendada que resulten innecesarios para la prestación de los servicios de interés general, se incorporarán, una vez desafectados, al patrimonio del administrador de infraestructuras ferroviarias.
+
+###### Artículo 42. Encomienda de la administración de infraestructuras ferroviarias de titularidad estatal.
+
+1\. La encomienda por el Ministerio de Economía y Hacienda y el de Fomento al administrador de infraestructuras ferroviarias de la administración de las infraestructuras ferroviarias de titularidad del Estado, deberá incluir como mínimo:
+
+a) La identificación de la infraestructura que va a ser entregada para su administración.
+
+b) La fecha del inicio de las actividades de administración y, en su caso, el período de pruebas necesario para adaptar todos los sistemas para el comienzo de la explotación.
+
+c) Las bases a desarrollar en el contrato-programa en las que se expondrán los niveles de calidad exigibles de la infraestructura encomendada y la forma de costear su administración.
+
+d) Cualquier otra obligación que garantice la satisfacción del interés general que pudiera ser impuesta por el Ministerio de Fomento.
+
+2\. El convenio entre la Administración General del Estado y el administrador de infraestructuras ferroviarias deberá formalizarse con la antelación suficiente para que este último pueda adecuar sus recursos a las necesidades de la administración de las infraestructuras objeto de la encomienda, así como efectuar la publicación de sus características en la declaración sobre la red. Dicho convenio tendrá la forma de contrato-programa y se ajustará a los términos previstos en el artículo 44.
+
+3\. La encomienda de administración de sucesivas líneas o tramos de línea se realizará mediante una adenda al contrato-programa que cubra, en los términos recogidos en el apartado 1 de este artículo, el período de tiempo que resta para el vencimiento del contrato programa en vigor y se incorpore a éste en la primera revisión que se produzca del mismo.
+
+#### Sección II. Régimen económico de la encomienda de la Administración de las infraestructuras ferroviarias de titularidad del Estado
+
+###### Artículo 43. Disposiciones generales.
+
+1\. La encomienda de administración de la infraestructura ferroviaria de titularidad del Estado, con arreglo al artículo 22.2 de la Ley del Sector Ferroviario, llevará aparejada la obligación de compensación, por parte de aquél, al administrador de infraestructuras ferroviarias, de los gastos de administración en función de los niveles de calidad exigidos y de las condiciones económicas que se acuerden en el correspondiente contrato-programa.
+
+2\. El importe de los cánones que se abonen al administrador de infraestructuras ferroviarias por la utilización de las infraestructuras ferroviarias de titularidad estatal cuya administración tenga encomendada, se descontará de la cuantía de la aportación económica que se recoja en el correspondiente contrato-programa.
+
+###### Artículo 44. El contrato-programa de administración de las infraestructuras ferroviarias.
+
+1\. El contrato-programa previsto en el artículo 22 de la Ley del Sector Ferroviario y en el artículo 42.2 de este Reglamento tendrá una duración de cuatro años y desarrollará lo previsto en la correspondiente resolución de encomienda, garantizando la coherencia y continuidad de la gestión de la red de titularidad del Estado y la infraestructura a la que afecta.
+
+2\. El contrato-programa recogerá las actividades a realizar a su amparo y su forma de financiación, los medios que se asignen al administrador de infraestructuras ferroviarias y las responsabilidades en las que puede incurrir. Y, sin perjuicio de lo dispuesto en el artículo 68 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, deberá regular al menos las siguientes cuestiones:
+
+a) Su fecha de entrada en vigor, su periodo de vigencia y el procedimiento para su renovación.
+
+b) Las actividades de administración que es necesario realizar y los niveles de servicio que, debe ofrecer el administrador de infraestructuras ferroviarias.
+
+c) Las actividades de gestión del patrimonio que se le asignen.
+
+d) Cualquier otra actividad que, siendo necesaria para la explotación, haya sido incluida en la encomienda,
+
+e) Las aportaciones al administrador de infraestructuras ferroviarias por el ejercicio de su actividad y la posibilidad de aplicar incrementos o disminuciones en función del grado de cumplimiento de los objetivos impuestos a éste.
+
+f) El procedimiento de liquidación del contrato programa.
+
+g) El régimen de control y supervisión del cumplimiento del contrato-programa.
+
+h) Cualesquiera otras que las partes consideren convenientes.
+
+#### Sección III. Régimen contable
+
+###### Artículo 45. Régimen contable.
+
+1\. El administrador de infraestructuras ferroviarias aplicará, además de la vigente normativa contable, un régimen de contabilidad separada de sus actividades según sean de construcción de infraestructuras ferroviarias, administración de éstas o de la prestación de servicios adicionales, complementarios y auxiliares. Dentro de la contabilidad relativa a la administración de infraestructuras ferroviarias, se distinguirá entre las infraestructuras ferroviarias de su titularidad y las de titularidad estatal cuya administración le haya sido encomendada.
+
+A la contabilidad del administrador de infraestructuras le será de aplicación el Plan General de Contabilidad y la adaptación sectorial que, en su caso, apruebe la Intervención General de la Administración del Estado.
+
+2\. En ningún caso podrá producirse una transferencia destinada a la administración de la infraestructura ferroviaria, de los fondos públicos abonados a las empresas ferroviarias por la explotación de los servicios de transporte, ni a la inversa.
+
+Los administradores de infraestructuras ferroviarias y las empresas ferroviarias habrán de confeccionar sus respectivas contabilidades de manera que permita controlar el cumplimiento de la referida prohibición, así como el adecuado control de la utilización de los ingresos de los cargos de infraestructura y excedentes de otras actividades comerciales, debiendo llevar y publicar por separado sus balances y cuentas de pérdidas y ganancias.
+
+> Se añade el apartado 2 por el art. 2.1 del Real Decreto 271/2018, de 11 de mayo. [Ref. BOE-A-2018-6372](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6372)
+
+### CAPITULO V — Acceso a la infraestructura ferroviaria
+
+###### Artículo 46. Principios aplicables al acceso a la Red Ferroviaria de Interés General.
+
+El acceso a la Red Ferroviaria de Interés General se realizará en condiciones objetivas, transparentes y no discriminatorias, de acuerdo con lo establecido en la Ley del Sector Ferroviario, en este Reglamento y en la Orden del Ministro de Fomento relativa a la declaración sobre la red y el procedimiento de adjudicación de capacidad de infraestructura ferroviaria a la que se refieren los artículos 33 y 35 de dicha Ley.
+
+###### Artículo 47. Capacidad de infraestructura ferroviaria.
+
+1\. Se entiende por capacidad de infraestructura ferroviaria el número de franjas horarias que pueden disponerse en un tramo de la infraestructura ferroviaria durante un período determinado de tiempo y en función de la tipología del tráfico.
+
+2\. El administrador de infraestructuras ferroviarias establecerá, en la declaración sobre la red, la capacidad disponible de la infraestructura ferroviaria que administra, en los términos que establezca la Orden ministerial a la que se refiere el artículo anterior.
+
+3\. Con arreglo a lo previsto en el artículo 30 de la Ley del Sector Ferroviario, la adjudicación de capacidad de infraestructura es la asignación por parte del administrador de infraestructuras ferroviarias de las franjas horarias definidas en la declaración sobre la red a los correspondientes candidatos, con el fin de que un tren pueda circular entre dos puntos durante un periodo de tiempo determinado.
+
+4\. Las empresas ferroviarias, los agentes de transportes, cargadores y operadores de transporte combinado habilitados y las Administraciones Públicas con atribuciones en materia de prestación de servicios de transporte y que estuvieren interesadas en la prestación de determinados servicios de transporte ferroviario tendrán derecho a solicitar la adjudicación de capacidad de infraestructura, según el procedimiento que establezca la correspondiente Orden del Ministro de Fomento. Asimismo, podrán, ocasionalmente, solicitar, en la forma establecida en dicha Orden, la adjudicación de aquella capacidad que no hubiera sido adjudicada con arreglo al procedimiento ordinario o que, habiéndolo sido, no fuese efectivamente utilizada.
+
+5\. Cuando la capacidad que solicite el candidato vaya a emplearse por éste para el transporte de mercancías peligrosas, deberá expresarlo en la solicitud que formule, indicando, al propio tiempo, las garantías que ofrece, con arreglo a la legislación vigente, para salvaguardar la seguridad de terceros y de las infraestructuras.
+
+6\. Una vez atribuido a un candidato, el derecho de uso de la capacidad no puede cederse a otra empresa ferroviaria. No se considerará cesión la utilización de capacidad por una empresa ferroviaria que opere por cuenta de un adjudicatario de capacidad que no sea empresa ferroviaria.
+
+7\. Quedan prohibidos, en todo caso, los negocios jurídicos sobre la capacidad de infraestructura adjudicada.
+
+###### Artículo 48. Reservas de capacidad.
+
+1\. El administrador de infraestructuras ferroviarias podrá establecer, en la forma que determine la Orden ministerial a la que se refiere el artículo anterior, reservas de capacidad para la realización de operaciones de mantenimiento o ampliación de la red, para resolver los eventuales problemas de infraestructura congestionada o para la prestación de servicios ferroviarios de interés público.
+
+2\. Las reservas de capacidad deberán incluirse en la declaración sobre la red.
+
+### CAPITULO VI — Infraestructuras ferroviarias en los puertos y aeropuertos de interés general
+
+###### Artículo 49. Convenios relativos a la conexión de las infraestructuras ferroviarias existentes en los puertos y aeropuertos de interés general.
+
+1\. El administrador de infraestructuras ferroviarias y la Autoridad Portuaria de cada puerto de interés general celebrarán, previa autorización del Ministro de Fomento, un convenio, con arreglo a lo previsto en el artículo 36 de la Ley del Sector Ferroviario, en el que se establecerán las condiciones para la conexión de las infraestructuras ferroviarias existentes en el ámbito de los puertos de interés general con la Red Ferroviaria de Interés General. En el referido convenio se recogerán cualesquiera otros operativos de la red y las reglas que habrá de respetar el administrador de infraestructuras ferroviarias para la adjudicación de la capacidad de las infraestructuras ferroviarias existentes en el ámbito de los puertos de interés general.
+
+2\. Las infraestructuras ferroviarias existentes en cada momento en las zonas de servicio de los aeropuertos de interés general que estén conectadas con la Red Ferroviaria de Interés General formarán parte de ésta, y se regirán por las normas generales contenidas en la Ley del Sector Ferroviario y en este Reglamento, sin perjuicio de lo que se establezca en el convenio que, para coordinar sus respectivas competencias, suscriban la entidad gestora de los aeropuertos y el administrador de infraestructuras ferroviarias.
+
+3\. Las infraestructuras ferroviarias existentes en los puertos que no tengan la consideración de interés general serán propiedad de su titular y, en caso de que estén conectadas o se pretendan conectar con la Red Ferroviaria de Interés General, se aplicarán las reglas que se establezcan en el oportuno convenio.
+
+Dicho convenio será propuesto, conjuntamente, por la entidad titular del puerto y el administrador de infraestructuras ferroviarias y aprobado por el Ministerio de Fomento. En él se recogerán cualesquiera aspectos operativos de la red.
+
+###### Artículo 50. Convenios con las comunidades autónomas titulares de redes ferroviarias propias.
+
+En los supuestos en los que un puerto o aeropuerto de interés general esté ubicado en el territorio de una comunidad autónoma que disponga de red ferroviaria de su titularidad, se podrán celebrar convenios entre los titulares de las distintas infraestructuras para facilitar la interconexión e interoperabilidad entre las diferentes redes.
+
+### CAPITULO VII — Infraestructuras ferroviarias de titularidad privada
+
+###### Artículo 51. Procedimiento de otorgamiento de la autorización para el establecimiento o la explotación de las líneas ferroviarias de titularidad privada.
+
+1\. Para el establecimiento o la explotación de una infraestructura ferroviaria de titularidad privada que discurra por el territorio de más de una Comunidad Autónoma, será necesario obtener previamente la correspondiente autorización administrativa que habilite para ello.
+
+Cuando el establecimiento de una línea ferroviaria de titularidad privada resulte conveniente para el interés general, podrá autorizarse al interesado a utilizar los terrenos de dominio público que resulten necesarios y, en su caso, a adquirir los de propiedad privada a través del procedimiento de expropiación forzosa, en el que tendrá la condición de beneficiario.
+
+2\. La solicitud de autorización para el establecimiento o la explotación de una línea ferroviaria de titularidad privada que discurra por el territorio de más de una Comunidad Autónoma se presentará ante la Dirección General de Ferrocarriles del Ministerio de Fomento.
+
+3\. La solicitud deberá ir acompañada de un proyecto de establecimiento o de explotación de la infraestructura ferroviaria que incluirá, como mínimo, una memoria explicativa de los fines que se persiguen mediante el establecimiento o la explotación de la infraestructura, con sus planos generales y parciales y los presupuestos correspondientes, de la actividad que vaya a prestarse sobre aquélla, la descripción de las obras y las circunstancias técnicas de su realización que habrán de ajustarse a las normas que, en materia de seguridad e interoperabilidad, se establezcan por Orden del Ministro de Fomento. En su caso, la solicitud incluirá el estudio de impacto ambiental correspondiente.
+
+La solicitud de autorización deberá ir acompañada, en su caso, de la solicitud de declaración de utilidad pública o interés social para la ocupación de terrenos de dominio público y la expropiación forzosa de los terrenos afectados y de la relación de propietarios y fincas afectados.
+
+4\. El proyecto de establecimiento o explotación de la línea será sometido por la Dirección General de Ferrocarriles a informe de los órganos competentes de las comunidades autónomas por cuyo territorio deba discurrir la infraestructura. Este informe deberá emitirse, conforme al artículo 37 de la Ley del Sector Ferroviario, en el plazo de un mes contado desde que se solicite, y se entenderá que es favorable si no se remitiese en el referido plazo. El Ministerio de Fomento notificará la resolución de otorgamiento o de denegación de la autorización en el plazo de seis meses a contar desde el día siguiente a aquel en que se haya presentado la solicitud.
+
+5\. La resolución de autorización deberá contener, como mínimo, las prescripciones técnicas y el plazo de realización de las infraestructuras, así como las condiciones que debe cumplir el plan de explotación de las mismas, especialmente, en materia de seguridad e interoperabilidad.
+
+Si la línea discurriese sobre terrenos de dominio público, el interesado, antes de comenzar los trabajos, prestará fianza en cantidad equivalente al 4% del presupuesto de las obras que hubieren de ejecutarse sobre dichos terrenos. La mitad de dicha fianza será devuelta cuando se justifique la realización de las obras conforme a lo autorizado, y la parte restante quedará como garantía del cumplimiento de las condiciones de explotación y utilización establecidas en la correspondiente autorización.
+
+6\. Las autorizaciones para el establecimiento o la explotación de las líneas ferroviarias de transporte privado podrán otorgarse bien por un plazo determinado o bien con carácter indefinido. No obstante, el título que formalice la autorización podrá establecer las causas de su revocación, entre las que se podrá recoger el cambio sobrevenido de los presupuestos de hecho que determinaron su otorgamiento.
+
+En todo caso, las autorizaciones podrán revocarse cuando, sin existir causa justificada, las obras no se inicien en el plazo de un año, permanezcan interrumpidas este mismo plazo o se paralice por idéntico tiempo la prestación del servicio.
+
+###### Artículo 52. Autorización para conectar con la Red Ferroviaria de Interés General los elementos de titularidad privada que la complementan.
+
+1\. La conexión de las infraestructuras ferroviarias de titularidad privada, especialmente de los apartaderos, con la Red Ferroviaria de Interés General, únicamente podrá realizarse cuando el administrador de infraestructuras ferroviarias expresamente lo autorice.
+
+2\. El administrador de infraestructuras ferroviarias notificará, en el plazo de dos meses contados desde la presentación de la solicitud de autorización, la resolución sobre la conexión de una determinada infraestructura de titularidad privada con la Red Ferroviaria de Interés General.
+
+3\. La autorización establecerá las condiciones en las que se efectuará la conexión de las infraestructuras ferroviarias de titularidad privada con la Red Ferroviaria de Interés General y el régimen de construcción y explotación de los elementos de titularidad privada que complementen las infraestructuras ferroviarias de titularidad del Estado, determinando las condiciones de ambas actividades y así como los medios de verificación del cumplimiento de tales condiciones.
+
+4\. El solicitante de la conexión que disponga de la autorización deberá presentar, al administrador de infraestructuras ferroviarias, el proyecto constructivo adaptado a las condiciones establecidas en aquélla y el plan de explotación de la infraestructura ferroviaria que se pretende conectar con la Red Ferroviaria de Interés General, con el fin de que compruebe que se ajustan a aquélla. En caso contrario, el administrador de infraestructuras ferroviarias determinará las modificaciones a introducir en el proyecto constructivo y en el plan de explotación.
+
+Una vez ejecutado el proyecto constructivo y antes del inicio de la explotación de la infraestructura que se pretende conectar con la Red Ferroviaria de Interés General, el solicitante deberá someter a la supervisión del administrador de infraestructuras ferroviarias, las obras ejecutadas. Tras las oportunas comprobaciones, el administrador de infraestructuras ferroviarias resolverá permitiendo el inicio de la explotación o exigiendo la introducción de las modificaciones oportunas en la obra ejecutada en el plazo máximo de un mes desde que sea requerido para ello.
+
+5\. En el supuesto de que el administrador de infraestructura ferroviarias deniegue el inicio de la explotación o cuando existan discrepancias esenciales respecto de las condiciones impuestas para la conexión, el solicitante podrá acudir al Comité de Regulación Ferroviaria, que resolverá lo procedente.
+
+## TITULO II — Régimen aplicable a los servicios adicionales, complementarios y auxiliares
+
+###### Artículo 53. Servicios adicionales.
+
+1\. Son servicios adicionales los de acceso desde la vía a las instalaciones de mantenimiento, reparación y suministro existentes en la red Ferroviaria de Interés General, y concretamente a:
+
+a) Las de aprovisionamiento de combustible.
+
+b) Las de electrificación para la tracción, cuando esté disponible.
+
+c) Las de formación de trenes, excluyendo las operaciones sobre el material, que corresponden a la empresa ferroviaria.
+
+d) Las de mantenimiento y otras instalaciones técnicas.
+
+e) Las terminales de carga y estaciones de clasificación.
+
+2\. El administrador de infraestructuras ferroviarias únicamente podrá rechazar las demandas de empresas ferroviarias si existen alternativas viables en condiciones de mercado. Se entenderá que existen las referidas alternativas cuando otras empresas presten los mismos servicios en condiciones de cantidad, calidad y frecuencia suficientes para atender la demanda existente.
+
+###### Artículo 54. Servicios complementarios.
+
+Los servicios complementarios, según lo dispuesto en el anexo de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en la redacción dada al mismo por el artículo 24 de la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el acceso a las actividades de servicios y su ejercicio, pueden comprender:
+
+a) La corriente de tracción.
+
+b) El suministro de combustible.
+
+c) El precalentamiento de trenes de viajeros.
+
+d) El de maniobras y cualquier otro relacionado con las operaciones sobre el material ferroviario prestado en las instalaciones de mantenimiento, reparación, suministro y terminales de carga y estaciones de clasificación.
+
+e) Los específicos para control del transporte de mercancías peligrosas y para la asistencia a la circulación de convoyes especiales.
+
+> Se modifica por el art. único.2 del Real Decreto 100/2010, de 5 de febrero. [Ref. BOE-A-2010-3749](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3749)
+
+###### Artículo 55. Servicios auxiliares.
+
+Según lo dispuesto en el Anexo de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, en la redacción dada al mismo por el artículo 24 de la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, entre estos servicios se incluyen:
+
+a) El acceso a la red de telecomunicación.
+
+b) El suministro de información complementaria.
+
+c) La inspección técnica del material rodante.
+
+> Se modifica por el art. único.3 del Real Decreto 100/2010, de 5 de febrero. [Ref. BOE-A-2010-3749](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3749)
+
+###### Artículo 56. Régimen jurídico de la prestación de los servicios adicionales, complementarios y auxiliares.
+
+1\. Los servicios adicionales, complementarios y auxiliares en la Red Ferroviaria de Interés General y sus zonas de servicio ferroviario, tendentes a facilitar el funcionamiento del sistema ferroviario, se prestarán a las empresas ferroviarias y otros candidatos conforme a lo establecido en el artículo 40 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario.
+
+2\. Por Orden del Ministro de Fomento se establecerán las condiciones de prestación de los servicios adicionales, complementarios y auxiliares, los requisitos para la obtención del título habilitante, que en los casos establecidos en la Ley del Sector Ferroviario, sean exigibles para la realización de servicios complementarios. Asimismo, mediante real decreto aprobado a propuesta del Ministro de Fomento se establecerán, a efectos del supuesto regulado en la letra b) del apartado 3 del artículo 40 de la referida Ley las condiciones para que el administrador de infraestructuras ferroviarias suscriba acuerdos o contratos de disposición de espacios, instalaciones o medios para la realización de servicios complementarios en la Red Ferroviaria de Interés General en las zonas de servicio ferroviario administradas por dicha entidad. Lo previsto en este apartado se llevará a cabo conforme a los principios de no discriminación y de proporcionalidad.
+
+> Se modifica el apartado 2 por la disposición final 1 del Real Decreto 641/2011, de 9 de mayo. [Ref. BOE-A-2011-8124](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-8124).
+
+> Se modifica por el art. único.4 del Real Decreto 100/2010, de 5 febrero. [Ref. BOE-A-2010-3749](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3749)
+
+## TITULO III — Los servicios de transporte ferroviario
+
+### CAPITULO I — Disposiciones generales
+
+###### Artículo 57. Concepto, clases y régimen jurídico del transporte ferroviario.
+
+1\. En el ámbito de aplicación de la Ley del Sector Ferroviario, se entiende por transporte ferroviario, el realizado por empresas ferroviarias empleando vehículos adecuados que circulen por la Red Ferroviaria de Interés General.
+
+2\. El transporte ferroviario es un servicio de interés general y esencial para la comunidad, y puede ser de viajeros y de mercancías. Se entiende por transporte de viajeros, el de personas, y por transporte de mercancías, el de cualquier clase de bienes. Asimismo, el transporte ferroviario podrá ser de ámbito nacional o internacional.
+
+3\. El servicio de transporte ferroviario se prestará en régimen de libre competencia, con arreglo a lo previsto en la Ley del Sector Ferroviario y en sus normas de desarrollo y sin perjuicio de la declaración de interés público que pueda hacerse de determinados servicios de transporte ferroviario con arreglo al artículo 53 de dicha Ley.
+
+4\. Únicamente podrán prestar servicios de transporte ferroviario, las entidades empresariales titulares de una licencia de empresa ferroviaria que, conforme a lo previsto en la Ley del Sector Ferroviario y en este Reglamento, hayan obtenido el certificado de seguridad y la adjudicación de la capacidad de infraestructura necesaria para ello.
+
+5\. Las tarifas exigibles por las empresas ferroviarias a sus clientes en concepto de retribución por los servicios de transporte ferroviario prestados, estarán sujetas a Derecho privado, sin perjuicio de la aplicación del artículo 53 de la Ley del Sector Ferroviario respecto de los servicios de transporte declarados de interés público.
+
+### CAPITULO II — Las empresas ferroviarias
+
+#### Sección 1. Disposiciones Generales
+
+###### Artículo 58. Empresa ferroviaria.
+
+1\. Son empresas ferroviarias las entidades titulares de una licencia de empresa ferroviaria, cuya actividad principal consiste en prestar servicios de transporte de viajeros o de mercancías por ferrocarril, en los términos establecidos en la Ley del Sector Ferroviario y en este Reglamento.
+
+2\. Las empresas ferroviarias deberán, en todo caso, aportar la tracción. Se consideran, asimismo, empresas ferroviarias aquellas que aporten exclusivamente la tracción.
+
+Se entiende que se aporta la tracción cuando se tenga la propiedad de los medios que permiten ésta o cuando se cuente permanentemente con dichos medios por cualquier título admitido en Derecho que permita su plena disponibilidad durante el período en el que se preste el servicio. Ello implicará que la empresa ferroviaria sea responsable, con arreglo a la Ley del Sector Ferroviario y a sus normas de desarrollo, del cumplimiento de todas las obligaciones que se le impongan y, especialmente, de la inscripción de dichos medios en el Registro Especial Ferroviario y del cumplimiento por éstos de la normativa que les afecta, de la composición del tren y, en su caso, de la disposición de la carga en el mismo.
+
+3\. En caso de que, para un concreto servicio y con carácter excepcional, una empresa ferroviaria requiera el auxilio o el complemento de otra en la aportación de tracción, ambas habrán de cumplir cuantos requisitos se establecen en la Ley del Sector Ferroviario y en sus normas de desarrollo, especialmente en lo atinente a la seguridad en la prestación del servicio.
+
+4\. Si una empresa ferroviaria se limita a prestar servicios de tracción a otras que aporten material ferroviario para el transporte, la primera será responsable del cumplimiento de las obligaciones que la Ley del Sector Ferroviario y su normativa de desarrollo impongan respecto de la circulación de dicho material y del servicio que con su utilización se preste, y deberá comprobar que los vehículos que componen los trenes han sido debidamente autorizados y controlados conforme a la normativa aplicable.
+
+No obstante lo anterior, los propietarios de vagones de mercancías o de coches de viajeros que entreguen éstos a las empresas ferroviarias para su transporte, deberán disponer de un seguro de responsabilidad civil que cubra los daños a las personas, a la infraestructura ferroviaria o a terceros que éstos pudieran causar en caso de verse implicados en un accidente ferroviario ocurrido por causas imputables a éstos derivadas del incumplimiento por los mismos de la normativa que les es de aplicación.
+
+#### Sección II. Régimen de otorgamiento, modificación, suspensión y revocación de licencias de empresas ferroviarias
+
+##### Subsección 1.ª Principios generales
+
+###### Artículo 59. Licencia de empresa ferroviaria.
+
+1\. La prestación del servicio de transporte ferroviario, de viajeros y de mercancías, exigirá la previa obtención de la correspondiente licencia de empresa ferroviaria.
+
+2\. La licencia de empresa ferroviaria se otorgará por el Ministro de Fomento y será única para toda la Red Ferroviaria de Interés General.
+
+3\. Las licencias de empresa ferroviaria otorgadas por los demás Estados miembros de la Unión Europea producirán todos sus efectos en España, sin perjuicio de lo establecido en la disposición transitoria segunda de la Ley del Sector Ferroviario.
+
+4\. La licencia de empresa ferroviaria es intransmisible.
+
+5\. El Ministerio de Fomento, a través de la Dirección General de Ferrocarriles, informará a la Comisión Europea de todas las resoluciones de otorgamiento, modificación, suspensión o revocación de licencias de empresa ferroviaria, en el plazo de los quince días siguientes a aquel en el que se dicten.
+
+###### Artículo 60. Declaración de actividad.
+
+1\. La entidad que desee obtener la licencia de empresa ferroviaria deberá formular una declaración de actividad, que habrá de comprender el tipo, las características y la cantidad de los servicios que desea prestar.
+
+2\. Las empresas ferroviarias no podrán prestar servicios de transporte ferroviario que no estén expresamente amparados por la licencia de empresa ferroviaria, sin perjuicio de que soliciten, en cada caso, su ampliación o la modificación de su contenido.
+
+3\. La declaración de actividad de las empresas ferroviarias se hará constar en el Registro Especial Ferroviario regulado en el Título V de este Reglamento y, cuando se trate de empresas ferroviarias que pretendan realizar servicios de transporte ferroviario que transcurran íntegramente por el territorio de una sola comunidad autónoma, se comunicará a ésta.
+
+###### Artículo 61. Clases de actividad de las empresas ferroviarias.
+
+1\. A los efectos de lo dispuesto en el artículo anterior, la actividad de las empresas ferroviarias se clasifica en las siguientes categorías:
+
+Por el objeto del servicio de transporte prestado.
+
+Por la cantidad de tráfico anual.
+
+2\. Por el objeto de los servicios de transporte ferroviario, la actividad de las empresas ferroviarias se clasifica en:
+
+De tracción exclusiva.
+
+De transporte ferroviario de viajeros.
+
+De transporte ferroviario de mercancías.
+
+Toda empresa ferroviaria que vaya a realizar transporte ferroviario de mercancías peligrosas o perecederas deberá comunicarlo expresamente en su declaración de actividad.
+
+3\. Por la cantidad de tráfico anual, la actividad se clasifica en tres niveles:
+
+Nivel 1, cuando suponen menos de un millón de unidades tren-Km al año.
+
+Nivel 2, cuando suponen un tráfico entre un millón y 10 millones de unidades tren-Km al año.
+
+Nivel 3, cuando suponen más de 10 millones de unidades tren-Km al año.
+
+##### Subsección 2.ª Requisitos para la obtención de la licencia de empresa ferroviaria
+
+###### Artículo 62. Requisitos generales.
+
+1\. El otorgamiento de la licencia de empresa ferroviaria, para prestar cualquiera de los servicios señalados en el artículo anterior, requiere, en todo caso, que el solicitante acredite, conforme a lo previsto en la Ley del Sector Ferroviario y en este Reglamento, el cumplimiento de los siguientes requisitos:
+
+a) Revestir la forma de sociedad anónima, de acuerdo con la legislación española y sin perjuicio de lo establecido, en relación con la entidad pública empresarial RENFE-Operadora, en la disposición adicional tercera de la Ley del Sector Ferroviario. En todo caso, la sociedad deberá haberse constituido por tiempo indefinido, sus acciones habrán de tener carácter nominativo y tendrá por objeto principal la prestación de servicios de transporte ferroviario.
+
+b) Contar con capacidad financiera para hacer frente a sus obligaciones presentes y futuras. Se cumplirá el requisito de capacidad financiera cuando la entidad solicitante de la licencia de empresa ferroviaria cuente con unos recursos económicos que permitan hacer frente alas obligaciones a las que se refiere el artículo 46 de la Ley del Sector Ferroviario.
+
+c) Garantizar la competencia profesional de su personal directivo y técnico y la seguridad en los servicios que pretenda prestar.
+
+d) Tener cubiertas las responsabilidades civiles que puedan serle exigibles.
+
+2\. No podrán ser titulares de una licencia de empresa ferroviaria las entidades en las que concurra alguno de los supuestos recogidos en el artículo 45.3 de la Ley del Sector Ferroviario.
+
+###### Artículo 63. Criterios para valorar la cobertura de la responsabilidad civil.
+
+1\. Se cumplirá con arreglo al artículo 53.2 de la Ley del Sector Ferroviario, el requisito de cobertura de la responsabilidad civil de la empresa ferroviaria si, en el momento de inicio de las actividades para las que le faculta la licencia y durante su desarrollo, dispone de un seguro o de un afianzamiento mercantil que cubra:
+
+a) Los daños a los viajeros, a sus equipajes, al correo a la carga transportada.
+
+b) Los daños a las infraestructuras ferroviarias, a los trenes y a terceros, personas o bienes, afectados.
+
+2\. Se entiende que una empresa ferroviaria dispone de cobertura suficiente para responder de los daños a los viajeros y equipajes, o a la carga transportada, respectivamente:
+
+a) Si tiene contratado un seguro de responsabilidad civil, o constituido un afianzamiento mercantil, que cubra en todo momento una responsabilidad mínima por siniestro de 9.000.000 de euros, 6.000.000 de euros o 3.000.000 de euros, según que su licencia corresponda, respectivamente, al nivel de actividad 3, 2 o 1, tal como se define en el apartado 3 del artículo 61; y asimismo, si tiene contratado un seguro, o constituido un afianzamiento mercantil, que cubra la pérdida o daños en el equipaje, como máximo, de 14,50 euros por kilogramo bruto que falte o se dañe y hasta un máximo de 600 euros por viajero.
+
+b) Si se compromete a recoger, en los contratos de transporte de mercancías que celebre, una cláusula en la que se pacte libremente entre las partes la contraprestación que deba satisfacerse.
+
+3\. Se considerará que una empresa ferroviaria dispone de cobertura suficiente para responder a los daños a las infraestructuras ferroviarias, a los trenes y a terceros si tiene contratado un seguro o constituido un aval que cubra, en todo momento y por siniestro, las siguientes cantidades:
+
+a) Por daños a la infraestructura: 6 millones de euros.
+
+Por daños a los trenes: 18 millones de euros.
+
+Por daños a terceros (bienes): 1,5 millones de euros..
+
+b) Por muerte o lesión de terceros que no sean viajeros de otras empresas ferroviarias: 900.000 euros.
+
+c) En caso de transporte ferroviario de mercancías peligrosas, las coberturas garantizadas por daños a terceros (bienes y personas) deberán ser el doble que las previstas en los apartados 3.a) y 3.b).
+
+Las cuantías previstas en este artículo podrán ser modificadas, para adaptarlas a las nuevas situaciones que se produzcan, mediante orden del Ministro de Fomento.
+
+4\. La cobertura de responsabilidad civil de la empresa ferroviaria quedará reflejada en un documento anexo a la licencia de empresa ferroviaria.
+
+5\. Las empresas ferroviarias que pretendan prestar servicios en España y cuya licencia haya sido otorgada en otro Estado miembro de la Unión Europea que requiera un nivel de cobertura de riesgos derivados de la responsabilidad civil inferior al regulado en los apartados 2 y 3, habrán de acreditar que cumplen lo previsto en dichos apartados, completando, en su caso, mediante una póliza de seguro o un afianzamiento complementario, la cobertura garantizada.
+
+6\. No obstante lo dispuesto en este artículo, de conformidad con lo dispuesto en el Real Decreto 1575/1989, de 22 de diciembre, por el que se aprueba el Reglamento del seguro obligatorio de viajeros, toda empresa ferroviaria deberá tener contratado, en el momento en el que inicie la prestación de los servicios de transporte, un seguro obligatorio.
+
+7\. Se considerará que los propietarios de coches de viajeros que entreguen éstos a las empresas ferroviarias para su transporte cumplen con lo dispuesto en el artículo 58.4 en relación con los daños a los viajeros si tienen contratado un seguro de responsabilidad civil o constituido un afianzamiento mercantil que cubra en todo momento una responsabilidad mínima por siniestro de 3.000.000 de euros, y en relación con los daños que puedan sufrir sus equipajes, al menos una responsabilidad de 14,50 euros por kilogramo bruto que falte o se dañe, con un máximo de 600 euros por viajero.
+
+Se considerará que los propietarios de vagones de mercancías que entreguen éstos a las empresas ferroviarias para su transporte cumplen con lo dispuesto en el artículo 58.4 en relación con los daños a la carga transportada, siempre que los contratos celebrados con sus clientes incluyan una cláusula en la que se pacte libremente entre las partes la contraprestación que deba satisfacerse en dicho supuesto.
+
+Se considerará que los citados propietarios de coches de viajeros o vagones de mercancías disponen de cobertura suficiente para responder a los daños a la infraestructura ferroviaria o a terceros si tienen contratado un seguro o constituido un aval que cubra, en todo momento y por siniestro, las siguientes cantidades:
+
+a) Por daños a la infraestructura, 2.000.000 de euros.
+
+b) Por daños a los bienes de terceros, 500.000 euros.
+
+c) Por muerte o lesión de terceros que no sean viajeros de otras empresas ferroviarias, 900.000 euros.
+
+En el caso de transporte de mercancías peligrosas, las coberturas garantizadas deberán ser el doble que las previstas en las letras b) y c).
+
+> Se modifica el apartado 1 y se añade el 7 por el art. 2.2 y 3 del Real Decreto 271/2018, de 11 de mayo. [Ref. BOE-A-2018-6372](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6372)
+
+> Véase la disposición transitoria única del citado Real Decreto, en relación con el apartado 7.
+
+> Se modifican los apartados 2 y 3 por la disposición adicional 7.4 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+##### Subsección 3.ª Solicitud de la licencia de empresa ferroviaria
+
+###### Artículo 64. Presentación de la solicitud.
+
+1\. La solicitud de licencia de empresa ferroviaria se dirigirá a la Dirección General de Ferrocarriles del Ministerio de Fomento. Su contenido, que deberá ajustarse a lo previsto en el artículo 70.1 de la Ley 30/1992, incluirá la asunción formal por el solicitante del cumplimiento de las condiciones y garantías establecidas en el presente Reglamento.
+
+2\. Para que las notificaciones a los solicitantes se practiquen utilizando medios telemáticos, se requerirá que el interesado haya señalado, en su solicitud, dicho medio como preferente o haya consentido expresamente en su utilización, identificando, además, la dirección de correo electrónico correspondiente, que deberá cumplir con los requisitos establecidos por la normativa aplicable. En este supuesto, la notificación se entenderá practicada o rechazada conforme a lo prevenido en el artículo 59 de la Ley 30/1992.
+
+3\. Lo dispuesto en los dos párrafos anteriores se entiende sin perjuicio de la posibilidad prevista en la disposición adicional undécima de la Ley 30/1992.
+
+###### Artículo 65. Documentación de la solicitud de licencia de empresa ferroviaria.
+
+1\. La solicitud de licencia de empresa ferroviaria deberá acompañarse de la documentación especificada en esta Subsección. La falta de presentación de alguno de los documentos que se relacionan en ella, que podrá subsanarse dentro de los quince días siguientes a la fecha en que sea notificado el requerimiento de subsanación, será causa de denegación de la licencia.
+
+2\. Sin perjuicio de lo anterior, la entidad que solicite la licencia de empresa ferroviaria podrá aportar junto a su solicitud cualesquiera otros documentos que, a su juicio, contribuyan a acreditar el cumplimiento de los requisitos a que se refiere la Subsección anterior.
+
+La Dirección General de Ferrocarriles podrá recabar del solicitante, asimismo, los documentos o la información que resulten precisos para completar la aportada con la solicitud.
+
+3\. A efectos de su identificación, la entidad solicitante deberá presentar la siguiente documentación:
+
+a) Escritura de constitución de la sociedad anónima y sus estatutos sociales, debidamente inscritos en el Registro Mercantil.
+
+b) Escritura de otorgamiento de poder del que actúe en su nombre.
+
+c) Relación de socios de la empresa ferroviaria, con indicación de sus participaciones en el capital social, y de las personas que integran o vayan a integrar el Consejo de Administración, o sean o vayan a ser administradores de la sociedad y de quienes ejerzan o vayan a ejercer cargos directivos en ella.
+
+d) Declaración de actividad.
+
+e) Declaración de los servicios distintos de los de transporte ferroviario que prevea prestar.
+
+4\. Cuando la entidad solicitante de una licencia de empresa ferroviaria forme parte de una agrupación empresarial internacional, deberá comunicar la composición del grupo empresarial al que pertenezca y la relación existente entre las distintas sociedades que lo integren. El Ministerio de Fomento podrá requerir, a este efecto, la información complementaria que considere relevante.
+
+###### Artículo 66. Documentación justificativa de la capacidad de la entidad para ser titular de una licencia de empresa ferroviaria.
+
+Para acreditar que tiene capacidad para ser titular de una licencia de empresa ferroviaria, la entidad solicitante deberá aportar junto con la solicitud una declaración responsable de que no se halla incursa en ninguna de las causas de incapacidad que prevé el artículo 45.3 de la Ley del Sector Ferroviario.
+
+###### Artículo 67. Documentación justificativa de la capacidad financiera.
+
+1\. Con arreglo al artículo 46 de la Ley del Sector Ferroviario, las entidades que soliciten la licencia de empresa ferroviaria harán constar, en el momento de la solicitud, la cifra de su capital social que, para la categoría de actividades solicitada, no deberá ser inferior a la exigida por este Reglamento, y comunicarán quienes son los accionistas, su nacionalidad y su cuota de participación en el capital social.
+
+2\. Entre la información que deberá presentar la entidad solicitante de la licencia para acreditar que la entidad cumple el requisito de capacidad financiera, figurarán, al menos:
+
+a) Las cuentas auditadas de los dos últimos ejercicios, si no se tratare de una sociedad de nueva creación y, en todo caso, las provisionales del ejercicio en curso.
+
+b) Un plan económico-financiero a cinco años que contemple las previsiones de tráfico e ingresos y la evolución de los gastos y las fuentes de financiación con las que se cuente.
+
+3\. Si alguno de los accionistas de la entidad solicitante fuere una persona jurídica, la Dirección General de Ferrocarriles podrá solicitar, además, que se le facilite la información necesaria para conocer la titularidad indirecta de las acciones.
+
+###### Artículo 68. Documentación justificativa de la competencia profesional.
+
+El solicitante de una licencia de empresa ferroviaria, con objeto de garantizar que dispone o se compromete a disponer en el momento de inicio de sus actividades de una organización apta para la realización de las actividades a que se refiere su declaración de actividad, con el suficiente grado de seguridad, aportará cuanta documentación estime conveniente, entre la que se incluirá un plan de actuación en el que se incluyan los datos siguientes:
+
+a) La fecha prevista de comienzo de las actividades.
+
+b) El organigrama del personal directivo y técnico de la sociedad, con indicación expresa de quienes asumen competencias en materia de seguridad ferroviaria.
+
+c) Las previsiones de actuación a cinco años, con los servicios que se pretenden prestar.
+
+d) Los manuales de operación que estarán disponibles en el momento del inicio de la actividad de transporte.
+
+e) La evolución prevista de la plantilla de personal de conducción y acompañamiento de trenes, teniendo en cuanta la programación de servicios, las jornadas laborables en el sector, los tiempos máximos de conducción fijados reglamentariamente y las necesidades de tiempo dedicado a la formación para mantener las titulaciones y habilitaciones.
+
+f) La evolución prevista de la disponibilidad de material rodante, propio, alquilado o disponible por cualquier título admitido en derecho, teniendo en cuenta la programación de servicios, las velocidades comerciales, los tiempos de carga y descarga y todos cuantos aspectos influyan en su dimensionamiento.
+
+g) Los sistemas de comunicación que prevé implantar para comunicarse con la Dirección General de Ferrocarriles y con el administrador de infraestructuras ferroviarias, conforme a los criterios homogéneos que establezca la primera.
+
+Lo previsto en este precepto podrá ser actualizado o desarrollado, con arreglo al artículo 47.2 de la Ley del Sector Ferroviario, por Orden del Ministro de Fomento.
+
+###### Artículo 69. Documentación justificativa de la cobertura de responsabilidad civil.
+
+1\. La entidad solicitante de una licencia de empresa ferroviaria deberá comprometerse, formalmente, a tener suficientemente garantizada, con carácter previo al inicio de la prestación de los servicios de transporte ferroviario, la responsabilidad civil en la que pueda incurrir, conforme a lo previsto en el artículo 63.
+
+2\. En concreto, en el momento de la solicitud, las entidades solicitantes de la licencia habrán de presentar un documento acreditativo del compromiso de cobertura de su responsabilidad civil. Asimismo, deberán comprometerse:
+
+a) A proporcionar información a los usuarios sobre la cuantía de las indemnizaciones aplicables en cada caso.
+
+b) A indicar si su responsabilidad va a exceder de los límites fijados en el artículo 63 de este Reglamento.
+
+c) A presentar, en su caso, a la Dirección General de Ferrocarriles, los contratos tipo de transporte de mercancías.
+
+3\. La cobertura de las responsabilidades recogidas en este precepto podrá garantizarse también mediante un aval que se constituirá en la forma y por la cuantía que se establezcan mediante Orden del Ministro de Fomento.
+
+##### Subsección 4.ª La resolución de otorgamiento, la modificación y la eficacia de la licencia de empresa ferroviaria
+
+###### Artículo 70. Otorgamiento de la licencia de empresa ferroviaria.
+
+1\. El Ministro de Fomento, a propuesta de la Dirección General de Ferrocarriles y previo informe del administrador de infraestructuras ferroviarias, resolverá motivadamente sobre el otorgamiento de la licencia de empresa ferroviaria, que habilitará para la prestación de servicios de transporte ferroviario.
+
+2\. Una vez recibida la solicitud de otorgamiento con la documentación exigida, la Dirección General de Ferrocarriles remitirá el expediente al administrador de infraestructuras ferroviarias para que, en el plazo de treinta días a contar desde su recepción, emita informe sobre la citada solicitud.
+
+3\. El Ministro de Fomento notificará, en el plazo máximo de tres meses a contar desde la presentación de la solicitud de licencia o de la documentación complementaria requerida, la resolución motivada que otorgue o deniegue, cuando no se cumplan los requisitos exigibles, la licencia de empresa ferroviaria. Transcurrido dicho plazo sin que haya recaído resolución expresa, se entenderá desestimada la solicitud.
+
+4\. En caso de que la sociedad esté controlada, de forma directa o indirecta, por una o varias personas domiciliadas en un Estado que no sea miembro de la Unión Europea, podrá denegarse la licencia o limitar sus efectos cuando las empresas ferroviarias españolas o comunitarias no se beneficien en dicho Estado del derecho al acceso efectivo a la prestación del servicio ferroviario.
+
+5\. Contra la resolución del Ministro de Fomento, el interesado podrá interponer, dentro del plazo legalmente previsto, recurso contencioso-administrativo.
+
+###### Artículo 71. Modificación de la licencia de empresa ferroviaria.
+
+1\. En caso de que una empresa ferroviaria desee prestar servicios de transporte ferroviario que supongan una modificación de los indicados en su declaración de actividad, deberá solicitar, antes de solicitar la capacidad de infraestructura necesaria para su prestación, la revisión de su licencia con objeto de modificar la declaración de actividad a que se refiere el artículo 60.
+
+2\. El procedimiento de modificación de la licencia de empresa ferroviaria se atendrá al establecido en el artículo anterior para su obtención.
+
+###### Artículo 72. Conservación de eficacia de la licencia de empresa ferroviaria.
+
+1\. La licencia conservará su eficacia mientras la empresa ferroviaria cumpla los requisitos previstos para su otorgamiento en la Ley del Sector Ferroviario y en este Reglamento. Corresponde a la Dirección General de Ferrocarriles verificar, en cualquier momento, el cumplimiento de los citados requisitos.
+
+2\. A tal efecto, la Dirección General de Ferrocarriles podrá requerir al titular de una licencia de empresa ferroviaria, que aporte cuanta información sea pertinente para comprobar el cumplimiento de las condiciones que justificaron el otorgamiento de la licencia. Asimismo, podrá solicitar un informe del administrador de infraestructuras ferroviarias cuando lo estime necesario y, en todo caso, en los supuestos a los que se refieren las letras a) y b) del apartado siguiente.
+
+3\. En particular, la Dirección General de Ferrocarriles solicitará la información a la que se refiere el apartado anterior, en los casos siguientes:
+
+a) Cada cinco años, al menos, desde el otorgamiento de la licencia o desde la finalización del anterior procedimiento de verificación.
+
+En este supuesto, la Dirección General de Ferrocarriles comunicará al titular de la licencia la fecha de inicio de la actuación de comprobación, con el fin de que éste tenga disponible la documentación sobre:
+
+Las cuentas anuales auditadas de la empresa desde el otorgamiento de la licencia o desde la anterior revisión.
+
+La relación de los órganos directivos de la empresa ferroviaria.
+
+La relación del material rodante utilizado durante el citado periodo y el régimen de su mantenimiento.
+
+La relación del personal de conducción y del responsable de la seguridad del transporte en la empresa ferroviaria y los planes de formación que ésta aplique.
+
+b) Cuando tenga indicios del posible incumplimiento por una empresa ferroviaria de los requisitos exigidos.
+
+En este supuesto, tras la oportuna notificación por parte de la Dirección General de Ferrocarriles, la empresa ferroviaria estará obligada a presentar la documentación requerida en el plazo máximo que se establezca en la notificación, que no será superior a un mes.
+
+c) Cuando la empresa ferroviaria sufra cualquier modificación de su régimen jurídico, en particular en el caso de transformación, fusión o segregación de una rama de actividad, o cuando sean objeto de adquisición una parte significativa de los títulos representativos de su capital por nuevos accionistas deberá comunicarlo, en el plazo máximo de un mes desde la transmisión de los títulos o de la adopción de los correspondientes acuerdos por los órganos de la sociedad, a la Dirección General de Ferrocarriles.
+
+El Ministerio de Fomento deberá decidir sobre la conservación o no de la eficacia de la licencia, y podrá exigir de la empresa ferroviaria la documentación que estime oportuna. La empresa ferroviaria podrá continuar prestando el servicio, salvo que el Ministerio estime que la modificación compromete la seguridad del tráfico ferroviario, en cuyo caso acordará, motivadamente, la suspensión cautelar de la licencia otorgada hasta que dicte resolución.
+
+4\. Cuando la Dirección General de Ferrocarriles, tras la actuación referida en los apartados anteriores, compruebe que la empresa ha dejado de cumplir los requisitos exigidos, podrá iniciar el procedimiento de suspensión o de revocación de licencia a los que se refiere la Subsección siguiente de este Reglamento.
+
+5\. Si la Dirección General de Ferrocarriles tiene indicios del posible incumplimiento de los requisitos exigidos en la Ley del Sector Ferroviario y en este Reglamento por una empresa ferroviaria a la que haya otorgado la licencia una autoridad de otro Estado miembro, informará de ello sin demora a dicha autoridad.
+
+6\. Las empresas ferroviarias deberán notificar a la Dirección General de Ferrocarriles, en el plazo de un mes desde que se produzca, cualquier circunstancia que pueda afectar al cumplimiento de los requisitos que determinaron el otorgamiento de la licencia o al de las condiciones en ella establecidas. Para mantener en vigor su licencia, las empresas ferroviarias deberán presentar anualmente ante la citada Dirección General, para la comprobación permanente de su capacidad financiera, la memoria de gestión, la cuenta de resultados y el balance, a más tardar seis meses después de finalizar cada ejercicio económico.
+
+##### Subsección 5.ª Suspensión y revocación de la licencia de empresa ferroviaria
+
+###### Artículo 73. Suspensión de la licencia de empresa ferroviaria.
+
+1\. El Ministro de Fomento, en los supuestos previstos en el artículo 50 de la Ley del Sector Ferroviario, podrá suspender total o parcialmente los efectos de la licencia concedida a una empresa ferroviaria. Cuando la suspensión sea parcial, se determinará expresamente su alcance.
+
+2\. La suspensión de la licencia por cualquiera de las causas previstas en el artículo 50 de la Ley del Sector Ferroviario no dará lugar a indemnización alguna a favor de su titular y se llevará a efecto sin perjuicio del cumplimiento de lo que, respecto a régimen sancionador, se prevé en la Ley del Sector Ferroviario. La suspensión podrá acordarse por un plazo máximo de 12 meses.
+
+Se entenderá, a efectos de justificar la suspensión, que no se garantiza la seguridad y la prestación eficaz del servicio de transporte ferroviario cuando la actividad desarrollada por el titular de la licencia interfiera gravemente en su buen funcionamiento o ponga en riesgo su seguridad.
+
+3\. Una vez que se compruebe la existencia de una causa de suspensión de la licencia, la Dirección General de Ferrocarriles incoará el expediente de suspensión y dará trámite de audiencia por plazo que no exceda de quince días a la empresa ferroviaria afectada para que formule las alegaciones y aporte los documentos que considere oportunos. En el plazo máximo de dos meses desde la formalización de las referidas alegaciones, se dictará, a propuesta de la Dirección General de Ferrocarriles, y se notificará la resolución del Ministro de Fomento.
+
+Contra la resolución que dicte el Ministro de Fomento, el interesado podrá interponer, dentro del plazo legalmente previsto, recurso contencioso-administrativo.
+
+###### Artículo 74. Expediente de revocación de la licencia.
+
+1\. La licencia concedida a una empresa ferroviaria podrá revocarse en los supuestos previstos en el artículo 51.1 de la Ley del Sector Ferroviario o cuando infrinjan la prohibición de realizar negocios jurídicos sobre la capacidad de infraestructura adjudicada.
+
+2\. Sin perjuicio de lo dispuesto en la Ley 30/1992 y en su normativa de desarrollo, el procedimiento de revocación de la licencia se iniciará de oficio por la Dirección General de Ferrocarriles, bien por propia iniciativa o como consecuencia de orden superior, a instancia del administrador de infraestructuras ferroviarias o de otros órganos o mediante denuncia.
+
+La denuncia deberá expresar la identidad de la persona o personas que las presenten, el relato de los hechos que pudieran constituir causa de revocación de la licencia y la fecha de su comisión.
+
+3\. Antes de la iniciación del procedimiento de revocación, la Dirección General de Ferrocarriles podrá realizar actuaciones para determinar la existencia de circunstancias que lo justifiquen. En especial, estas actuaciones se orientarán a fijar, con la mayor precisión posible, los hechos susceptibles de motivar la incoación del procedimiento, la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.
+
+4\. Iniciado el procedimiento, la Dirección General de Ferrocarriles podrá adoptar, de oficio o a instancia de parte, previo informe del administrador de infraestructuras ferroviarias salvo en el caso de que sea éste el que haya solicitado la iniciación del procedimiento de revocación, las medidas provisionales que estime oportunas para asegurar la eficacia de la resolución que pudiera recaer y el buen fin del procedimiento, para evitar el mantenimiento de los efectos de la infracción cometida y para garantizar el interés general.
+
+Las medidas provisionales quedarán, en todo caso, sin efecto si no se inicia el procedimiento en el plazo señalado o si el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de ellas.
+
+Las medidas provisionales, que deberán ser proporcionales en cuanto a su intensidad y condiciones a los objetivos que se pretenden garantizar, podrán consistir en la suspensión temporal de actividades o de la licencia, en la prestación de fianzas o en la retirada de material rodante. No se adoptarán medidas provisionales que puedan causar perjuicios de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por la Ley.
+
+Las medidas provisionales podrán ser dejadas sin efecto o modificadas durante la tramitación del procedimiento, de oficio o a instancia de parte, en virtud de circunstancias sobrevenidas o que no pudieron ser tenidas en cuenta en el momento de su adopción y se extinguirán con la eficacia de la resolución que ponga fin al procedimiento de revocación.
+
+###### Artículo 75. Fase de instrucción del procedimiento de revocación.
+
+1\. Una vez acordada la iniciación del procedimiento de revocación de la licencia, se notificará a la empresa ferroviaria afectada, la cual dispondrá de un plazo de quince días desde la fecha de la notificación, para aportar cuantas alegaciones, documentos o informaciones estime convenientes y, en su caso, proponer un periodo de prueba concretando los medios de que pretenda valerse. Recibidas las alegaciones o transcurrido el plazo para ello, la Dirección General de Ferrocarriles podrá acordar la apertura del periodo de prueba.
+
+2\. La propuesta de resolución motivada que formule la Dirección General de Ferrocarriles tendrá alguno de los contenidos siguientes:
+
+a) El sobreseimiento del expediente de revocación.
+
+b) La ampliación del plazo concedido para el inicio de las actividades, hasta dieciocho meses como máximo, a partir de la fecha de otorgamiento de la licencia, si el agotamiento de los seis meses iniciales fuese el motivo único de iniciación del expediente de revocación.
+
+c) La suspensión de la licencia, durante un período máximo de un año, cuando la causa del expediente sea la interrupción de la actividad por un período superior a seis meses o se haya cometido una infracción muy grave de las tipificadas en el artículo 88 de la Ley del Sector Ferroviario.
+
+d) El otorgamiento de una licencia temporal, con un período máximo de validez de seis meses, cuando la causa del expediente sea el incumplimiento sobrevenido de los requisitos exigibles en materia de capacidad financiera y siempre que concurran razones de interés general y no se comprometa la seguridad del servicio ferroviario.
+
+e) La revocación de la licencia.
+
+3\. La propuesta de resolución se notificará a los interesados, concediéndoles un plazo de quince días desde la notificación, para formular alegaciones y presentar los documentos e informaciones que estimen pertinentes ante la Dirección General de Ferrocarriles que, a la vista de ellos, remitirá lo actuado, de acuerdo con lo previsto en el artículo 51.2 de la Ley del Sector Ferroviario, al Ministro de Fomento, junto con todos los documentos, alegaciones e informaciones que obren en el expediente.
+
+La propuesta de resolución será elevada al Ministro de Fomento.
+
+###### Artículo 76. Finalización del procedimiento de revocación.
+
+1\. En el plazo de un mes desde la recepción de la propuesta de resolución y el expediente tramitado, el Ministro de Fomento dictará resolución motivada, que deberá ser notificada a la empresa titular de la licencia.
+
+Contra la resolución que dicte el Ministro de Fomento, el interesado podrá interponer, dentro del plazo legalmente previsto, recurso contencioso-administrativo.
+
+2\. Si, transcurridos seis meses desde el inicio del expediente no se hubiera notificado a los interesados la resolución que ponga fin al mismo, se producirá su caducidad. En tal caso, el Ministerio de Fomento emitirá, a solicitud del interesado, certificación en la que conste que ha caducado el procedimiento y que se ha procedido al archivo de las actuaciones.
+
+3\. La revocación de la licencia de empresa ferroviaria no dará lugar a indemnización alguna a favor de su titular y se llevará a efecto sin perjuicio de la aplicación, en su caso, del régimen sancionador previsto en la Ley del Sector Ferroviario.
+
+4\. El contenido de lo establecido en los artículos 73, 74 y 75 podrá ser actualizado o desarrollado, con arreglo a lo previsto en el artículo 51.3 de la Ley del Sector Ferroviario, por Orden del Ministro de Fomento.
+
+5\. En lo no previsto en la Ley del Sector Ferroviario, en este Reglamento y en las disposiciones reglamentaria: que, al efecto, se dicten, la revocación de la licencia se ajustará a lo previsto en el Título VI de la Ley 30/1992.
+
+###### Artículo 77. Ejecutividad de la resolución de suspensión o revocación de la licencia de empresa ferroviaria.
+
+La resolución que decrete la suspensión o la revocación de la licencia de empresa ferroviaria será inmediatamente ejecutiva, se comunicará al administrador de infraestructuras ferroviarias y se anotará en el Registro Especial Ferroviario.
+
+#### Sección III. Contenido de la licencia de empresa ferroviaria
+
+###### Artículo 78. Contenido de la licencia de empresa ferroviaria.
+
+1\. El documento que formalice la licencia de empresa ferroviaria incluirá el régimen de derechos y obligaciones de aplicable a ésta.
+
+2\. Los titulares de las licencias de empresa ferroviaria están facultados para:
+
+a) Solicitar la adjudicación de capacidad necesaria para la prestación de servicios de transporte ferroviario sobre la Red Ferroviaria de Interés General.
+
+b) Utilizar la capacidad que les hubiere sido adjudicada, previa obtención del correspondiente certificado de seguridad.
+
+c) Utilizar las vías y andenes de las estaciones y terminales de la Red Ferroviaria de Interés General para el estacionamiento de sus trenes y la realización de las operaciones de carga y descarga.
+
+d) Utilizar los intercambiadores de ancho de ejes o de vía.
+
+e) Utilizar las vías de apartado para el estacionamiento del material rodante y para las operaciones de maniobra y de carga y descarga.
+
+f) Utilizar los servicios adicionales, complementarios y auxiliares que presten, según los casos, el administrador de infraestructuras ferroviarias u otras empresas prestadoras, previo pago de las correspondientes tarifas o precios.
+
+g) El acceso de su personal, debidamente identificado con una acreditación expedida por el administrador de infraestructuras ferroviarias, a las instalaciones ferroviarias en las que realice su actividad.
+
+h) Realizar las funciones de vigilancia que le atribuya el ordenamiento vigente.
+
+i) Percibir las tarifas que corresponda abonar a los usuarios.
+
+j) Complementar el servicio de transporte ferroviario con otros que se presten en un modo diferente, bien por si mismo o contratando éste con una empresa transportista o, en su caso, con un operador de transporte.
+
+k) Desarrollar las actividades complementarias e inherentes a la logística del transporte.
+
+I) Acudir al Comité de Regulación Ferroviaria si se consideran perjudicados por cualquier actuación que consideren contraria a Derecho, conforme al artículo 83.3 de la Ley del Sector Ferroviario.
+
+3\. Los titulares de las licencias de empresa ferroviaria deberán observar, en la prestación del servicio de transporte, los requisitos y obligaciones siguientes:
+
+a) Cumplir las instrucciones que dicten el Ministerio de Fomento o el administrador de infraestructuras ferroviarias respecto de las condiciones de prestación del servicio de transporte y de sus niveles de calidad y de seguridad.
+
+b) Cumplir las normas de seguridad y, en particular, las contenidas en el Reglamento General de Circulación.
+
+c) Facilitar las labores de control e inspección por parte del Ministerio de Fomento y del administrador de infraestructuras ferroviarias.
+
+d) Informar y colaborar con la Dirección General de Ferrocarriles y con el administrador de infraestructuras ferroviarias, cuando fueren requeridos, en la investigación de accidentes.
+
+e) Poner a disposición del administrador de infraestructuras ferroviarias los recursos que éste estime apropiados y prestarle la colaboración que les sea requerida, de conformidad con lo previsto en el plan de contingencias que se elabore para los casos de accidente, fallo técnico o de cualquier otra incidencia que perturbe el tráfico ferroviario.
+
+f) Hacer un buen uso de la infraestructura ferroviaria, de forma que se mantenga en un estado idóneo de conservación.
+
+g) Remitir al Ministerio de Fomento y al administrador de infraestructuras ferroviarias cuanta información y documentación les sea requerida, de acuerdo con lo establecido en la Ley del Sector Ferroviario y en sus normas de desarrollo. Dicha información sólo podrá ser utilizada para los fines que motivaron la solicitud de la licencia y tendrá carácter confidencial cuando así lo determine la normativa vigente en cada momento. El Ministerio de Fomento y el administrador de infraestructuras ferroviarias no podrán revelar ninguna información relativa a las empresas ferroviarias que esté amparada por el secreto comercial o industrial.
+
+h) Garantizar a los usuarios los derechos que, como tales, les corresponden, de acuerdo con el artículo 59 de la Ley del Sector Ferroviario, así como el cumplimiento de las demás obligaciones de carácter público en la prestación del servicio cuando así se determine por el Consejo de Ministros, tal como se dispone en el artículo 53 de la Ley del Sector Ferroviario.
+
+i) Asegurar el público conocimiento de las tarifas que apliquen a sus clientes en concepto de retribución por los servicios ferroviarios prestados.
+
+j) Cumplir permanentemente las condiciones exigidas para la obtención de la licencia de empresa ferroviaria y del certificado de seguridad.
+
+k) Cumplir las obligaciones de cobertura de responsabilidad civil a que se refiere el artículo 63.
+
+I) Satisfacer los cánones, tasas y tarifas a los que resulten sujetos, conforme a lo dispuesto en el Título V de la Ley del Sector Ferroviario y en su normativa de desarrollo.
+
+m) Cumplir los acuerdos aplicables en materia de transporte ferroviario internacional y respetar las disposiciones vigentes, en cada momento, en materia aduanera y fiscal.
+
+> Se modifica la letra f) del apartado 2 por el art. único.5 del Real Decreto 100/2010, de 5 de febrero. [Ref. BOE-A-2010-3749](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3749)
+
+### CAPITULO III — Otros candidatos distintos de las empresas ferroviarias
+
+###### Artículo 79. Clasificación y definición de otros candidatos distintos de las empresas ferroviarias.
+
+Tendrán la consideración de candidatos distintos de las empresas ferroviarias para la adjudicación de capacidad de infraestructuras ferroviarias:
+
+a) Los cargadores que son los propietarios de la mercancía o quienes, en su representación, entreguen la mercancía para su transporte.
+
+b) Los agentes de transporte de viajeros o mercancías que son las entidades que contratan el transporte con las empresas ferroviarias.
+
+c) Los operadores de transporte combinado que son las entidades que actúan como transportistas en uno o más tramos de la cadena de transporte pudiendo ser agentes de transporte en el resto de la misma, para completar el recorrido del origen al destino.
+
+d) Las Administraciones Públicas con atribuciones en materia de prestación de servicios de transporte y que estuvieren interesadas en la prestación de determinados servicios de transporte ferroviario.
+
+###### Artículo 80. Título habilitante necesario para solicitar la adjudicación de capacidad de infraestructura.
+
+1\. Los agentes de transporte, los cargadores y los operadores de transporte combinado pueden solicitar y obtener capacidad de infraestructura ferroviaria, siempre que realicen una declaración de actividad y dispongan de una habilitación específica.
+
+2\. La habilitación será válida para todo el territorio nacional y facultará a estos candidatos para solicitar, exclusivamente, la capacidad necesaria para la explotación del servicio de transporte ferroviario en que están interesados por su vinculación directa con el ejercicio de su actividad.
+
+3\. Dichos candidatos no podrán ceder la capacidad que les haya sido adjudicada. A los efectos de lo establecido en el artículo 47.6, no se considerará cesión la utilización de capacidad por parte de una empresa ferroviaria que opere por cuenta de un adjudicatario de capacidad que no sea empresa ferroviaria. En tal caso, la utilización de capacidad se llevará a cabo para el cumplimiento de los fines propios de la actividad del cargador, agente de transporte u operador de transporte combinado que haya recibido la adjudicación de capacidad.
+
+4\. Las Administraciones Públicas referidas en el artículo anterior no precisarán para solicitar la adjudicación de capacidad de infraestructura ferroviaria del título habilitante regulado en este artículo. No obstante, deberán comunicar a la Dirección General de Ferrocarriles, previamente a realizar la solicitud de capacidad, su interés por la prestación de determinados servicios de transporte ferroviario para que proceda a su inscripción en el Registro Especial Ferroviario regulado en el Título V.
+
+###### Artículo 81. Clases de habilitación.
+
+1\. Las habilitaciones para operar como otros candidatos se clasifican, según los servicios de transporte ferroviario en cuya explotación éstos están interesados y para los cuales vayan a solicitar capacidad, en:
+
+a) Por el objeto del transporte:
+
+Servicios de transporte ferroviario de viajeros.
+
+Servicios de transporte ferroviario de mercancías.
+
+b) Por el volumen de tráfico para el cual prevean solicitar capacidad anualmente:
+
+Nivel 1, cuando habiliten para circular entre 50.000 y 100.000 unidades de tren-km al año.
+
+Nivel 2, cuando habiliten para circular entre 100.000 y un millón de unidades de tren-km al año.
+
+Nivel 3, cuando habiliten para circular más de un millón de unidades de tren-km al año.
+
+2\. En razón de la actividad de los candidatos, se establecen las siguientes limitaciones de acceso a las habilitaciones a que se refiere el apartado anterior:
+
+a) Los cargadores, agentes de transporte de mercancías y operadores de transporte combinado sólo podrán optar a las habilitaciones de transporte ferroviario de mercancías.
+
+b) Los agentes de transporte de viajeros sólo podrán optar a las habilitaciones de transporte ferroviario de éstos.
+
+###### Artículo 82. Requisitos para la obtención de la habilitación.
+
+Para obtener las habilitaciones a que se refiere el artículo anterior deberán cumplirse los siguientes requisitos:
+
+a) Revestir la forma de sociedad anónima, de acuerdo con la legislación española, ser de duración indefinida, y sus acciones de carácter nominativo.
+
+b) No estar incursa en ninguna de las causas de incapacidad para ser titular de una licencia de empresa ferroviaria, que figuran establecidas en el artículo 45.3 de la Ley del Sector Ferroviario.
+
+c) Efectuar una declaración de actividad, con indicación del tipo de servicio y la cantidad de tráfico anual para el que prevea solicitar capacidad.
+
+d) Garantizar la solicitud de capacidad para una cantidad mínima de tráfico anual, expresada en trenes x Km, que se derive directamente del nivel de tráfico asignado en su declaración de actividad y que no podrá ser, en ningún caso, inferior a 50.000 trenes x Km.
+
+e) Disponer, en el momento del inicio de sus actividades, de sistemas de comunicación operativos, con la Dirección General de Ferrocarriles y con el administrador de infraestructuras ferroviarias, capaz de hacer llegar a ambas información en condiciones adecuadas de rapidez y fiabilidad.
+
+f) **(Suprimida)**
+
+g) Disponer de recursos suficientes para hacer frente a los gastos fijos y de funcionamiento, derivados de las operaciones resultantes de su actividad.
+
+h) Tener cubiertas las responsabilidades civiles que pudieran serle exigibles.
+
+> Se suprime la letra f) por la disposición adicional 7.5 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 83. Solicitud de la habilitación.
+
+1\. La solicitud de habilitación para actuar como candidato se dirigirá a la Dirección General de Ferrocarriles del Ministerio de Fomento cumpliendo los requisitos establecidos en el artículo anterior.
+
+2\. La solicitud de habilitación como candidato irá acompañada de la documentación que se especifica en los apartados siguientes y cualesquiera otros documentos que, a juicio del solicitante, contribuyan a acreditar el cumplimiento de los requisitos enumerados en el artículo anterior. La ausencia de alguno de los documentos que se indican, cuya falta podrá ser subsanada por el solicitante en el plazo de quince días desde la fecha en que la Dirección General de Ferrocarriles lo requiera, será motivo suficiente para la denegación de la habilitación.
+
+3\. A efectos de la debida identificación de la empresa que aspira a conseguir la habilitación como candidato y, en su caso, de sus representantes, se deberá presentar la siguiente documentación:
+
+a) Escritura de constitución y estatutos sociales inscritos en el Registro Mercantil.
+
+b) Documentación acreditativa de la personalidad del peticionario y, en caso de que comparezca a través de representante, del poder suficiente de éste y de su personalidad.
+
+c) Relación de socios de la empresa con indicación de sus participaciones en el capital social, y de las personas que integran o vayan a integrar el Consejo de Administración, o sean o vayan a ser administradores de la sociedad y de quienes ejerzan o vayan a ejercer cargos directivos en ella.
+
+d) Documentación que acredite el objeto y actividad de la empresa.
+
+e) Documentación que acredite la cobertura de responsabilidad civil de que dispone.
+
+4\. A los efectos de justificar la capacidad para ser titular de una habilitación, el solicitante se ajustará a lo establecido en el artículo 64 para la solicitud de licencia de empresa ferroviaria.
+
+5\. El solicitante de la habilitación presentará una memoria de la actividad realizada durante los dos últimos ejercicios concluidos y un plan de negocio acorde con su declaración de actividad y con la capacidad de infraestructura ferroviaria que prevea vaya a utilizar en los dos años siguientes a la obtención de la habilitación.
+
+6\. Las empresas que soliciten la habilitación harán constar que su capital social, en el momento de la solicitud, no es inferior al establecido para cada tipo de actividad en el artículo anterior. Informarán, en su caso, de sus ampliaciones, tanto de las realizadas como las previstas, incluyendo importes, suscriptores, porcentajes de desembolso, fechas y cualquier otro dato relevante e indicarán los accionistas y especificarán su nacionalidad, residencia y cuota de participación.
+
+7\. La contabilidad interna, analítica y financiera, más reciente y las cuentas auditadas de los dos últimos ejercicios cerrados.
+
+8\. Resultados contables previstos para el ejercicio económico en que se presenta la solicitud y los dos siguientes.
+
+###### Artículo 84. La resolución de otorgamiento, modificación de la habilitación y su eficacia.
+
+1\. Corresponde al Ministro de Fomento otorgar la habilitación para actuar como candidato a la adjudicación de capacidad a los agentes de transportes, cargadores y operadores de transporte combinado, siguiendo el procedimiento establecido para el otorgamiento de la licencia de empresa ferroviaria en los apartados 1 a 4 del artículo 70. Obtenida la habilitación, quedará constancia de la misma en el Registro Especial Ferroviario regulado en el Título V.
+
+2\. En el supuesto de que un candidato desee efectuar una variación sustancial de la actividad para la que inicialmente ha sido habilitado, deberá solicitar la revisión de su habilitación tres meses antes de solicitar capacidad de infraestructura ferroviaria, con objeto de ampliar o modificar la declaración de actividad a que se refiere el artículo 81.
+
+La solicitud de modificación de una habilitación se tramitará por el mismo procedimiento establecido para la obtención de una nueva habilitación. La documentación que deberá acompañar la solicitud será la suficiente para expresar todas las variaciones producidas y valorar los efectos de las mismas.
+
+3\. La habilitación tendrá una duración de cinco años, si bien podrá ser prorrogada de acuerdo con los plazos y condiciones que el Ministro de Fomento determine. Corresponde a la Dirección General de Ferrocarriles comprobar, en cualquier momento, el cumplimiento por el candidato habilitado de los citados requisitos. A tal efecto, la Dirección General de Ferrocarriles podrá requerir la aportación de cuanta información entienda necesaria para comprobar el mantenimiento de las condiciones que determinaron el otorgamiento de la licencia.
+
+###### Artículo 85. Suspensión y revocación de la habilitación.
+
+1\. El Ministro de Fomento podrá, siguiendo el mismo procedimiento regulado en el artículo 73 para la suspensión de la licencia de empresa ferroviaria, suspender total o parcialmente los efectos de la habilitación del candidato, cuando se constate el incumplimiento de alguna de las condiciones exigidas para su otorgamiento.
+
+2\. La suspensión de una habilitación en aplicación de lo previsto en este artículo no dará lugar a indemnización alguna a favor de su titular y se llevará a efecto sin perjuicio de la eventual aplicación del régimen sancionador establecido en la Ley del Sector Ferroviario.
+
+3\. La habilitación concedida a un agente de transporte, cargador u operador de transporte combinado podrá revocarse en los siguientes supuestos:
+
+a) El incumplimiento sobrevenido de los requisitos establecidos en la Ley del Sector Ferroviario y en este Reglamento para su otorgamiento.
+
+En los supuestos expresados en el artículo 45.3.a) de la Ley del Sector Ferroviario, sólo procederá a la revocación de la habilitación si los afectados no cesan en sus cargos en el plazo máximo de un mes, contado desde la notificación del requerimiento que, a tal efecto, les dirija el Ministerio de Fomento.
+
+b) El inicio frente a él del procedimiento concursal, salvo que el Ministerio de Fomento constate su viabilidad financiera. El candidato deberá comunicar al Ministerio de Fomento la resolución judicial de declaración en situación concursal en un plazo de dos días desde que le sea notificada.
+
+c) La obtención de la habilitación en virtud de declaraciones falsas o por otro medio irregular.
+
+d) El acaecimiento de alguna de las causas de disolución forzosa de la entidad previstas en el artículo 260 del Texto Refundido de la Ley de Sociedades Anónimas, aprobado por Real Decreto Legislativo 1564/1989, de 22 de diciembre.
+
+e) La imposición de una sanción conforme a lo previsto en el apartado tercero del artículo 91 de la Ley del Sector Ferroviario.
+
+f) No haber comenzado, por causas a él imputables, la actividad de transporte, o contratación de transporte con empresas ferroviarias, dentro de los doce meses siguientes a la fecha de la notificación del otorgamiento de la habilitación. No obstante, ésta podrá solicitar que se establezca una prórroga de este plazo para el inicio de su actividad. La prórroga se concederá, en su caso, en función de las circunstancias y no podrá exceder de dieciocho meses.
+
+4\. El inicio de un expediente de revocación de la habilitación de candidato, por cualquiera de las causas a que se refiere el apartado anterior, se puede producir:
+
+a) Como resultado de la labor inspectora de la Dirección General de Ferrocarriles.
+
+b) A instancia del administrador de infraestructuras ferroviarias.
+
+c) A instancia de terceros, mediante la presentación de la oportuna denuncia.
+
+5\. Las solicitudes de inicio de expediente de revocación de una habilitación de candidato se formularán ante la Dirección General de Ferrocarriles, con arreglo a lo establecido en el artículo 74.2 para la revocación de licencias otorgadas a empresas ferroviarias. Del mismo modo, la instrucción del procedimiento de revocación, su finalización y la ejecución del acuerdo se ajustarán a lo establecido en los artículos 74 a 76.
+
+### CAPITULO IV — La prestacion de servicios de transporte ferroviario
+
+#### Sección I. Servicios de transporte ferroviario de viajeros
+
+###### Artículo 86. Acceso a los servicios de transporte de viajeros.
+
+1\. Las personas que cuenten con un título de transporte que les habilite para viajar podrán utilizar el servicio de transporte ferroviario que se preste con arreglo a la Ley del Sector Ferroviario. Los niños menores de cuatro años, que no ocupen plaza, no precisan título de transporte.
+
+2\. Las empresas ferroviarias podrán comercializar sus servicios de transporte estableciendo diferentes clases en un mismo tren, en función del espacio disponible por plaza, las características de éste y los servicios complementarios que se presten.
+
+###### Artículo 87. El título de transporte.
+
+1\. El título de transporte o billete es el documento que formaliza el contrato de transporte entre la empresa ferroviaria y el viajero. Su contenido ha de ajustarse a lo establecido en este artículo.
+
+2\. El título de transporte expresará, como mínimo, lo siguiente:
+
+a) La determinación de la empresa o empresas ferroviarias que realizarán el transporte.
+
+b) El origen del viaje y hora de salida.
+
+c) El destino y hora de llegada.
+
+d) Los transbordos que pudieran producirse con cambio de tren especificando lugar y hora.
+
+e) El coche, la clase y el número de plaza.
+
+f) El peso y volumen del equipaje admitido.
+
+g) El precio del transporte, especificando que incluye todas las tasas.
+
+h) El precio de facturación, en su caso, del equipaje.
+
+i) La información sobre los seguros u otros afianzamientos mercantiles que el servicio tiene cubiertos.
+
+j) La hora límite para facturar, si la hubiere, o de presentación en los controles de seguridad para el acceso a los vehículos de transporte, si el administrador de infraestructuras ferroviarias lo estableciera.
+
+En los servicios de cercanías se podrán omitir las expresiones referidas a la hora de salida y de llegada de las letras b) y c), respectivamente, y las contenidas en las letras d), e), f), h), i) y j).
+
+3\. No obstante lo previsto en el apartado anterior, las empresas ferroviarias podrán realizar modificaciones en el contenido del título de transporte indicado en el apartado anterior o emitir otros tipos, siempre que así lo autorice la Dirección General de Ferrocarriles.
+
+4\. Las empresas ferroviarias estarán obligadas, en todo caso, a dar a conocer, con antelación a su adquisición por los usuarios, la existencia y contenido de las condiciones generales que han de regir los distintos títulos de transporte.
+
+5\. En caso de que se formalice el contrato de transporte entre la empresa ferroviaria y el viajero por medios electrónicos, la empresa ferroviaria deberá facilitar al viajero toda la información a que se refiere el apartado 2 de este artículo.
+
+###### Artículo 88. Responsabilidad de la empresa ferroviaria.
+
+1\. La empresa ferroviaria que ofrezca servicios de transporte ferroviario de viajeros viene obligada a efectuar el transporte contratado con la duración prevista.
+
+2\. Salvo por causa de fuerza mayor, la empresa ferroviaria es responsable frente al viajero, en los términos establecidos en el artículo siguiente, en los casos de:
+
+a) Cancelación del viaje.
+
+b) Interrupción del viaje.
+
+c) Retraso.
+
+d) Pérdida, sustracción o deterioro del equipaje que se le haya entregado para su custodia.
+
+A los efectos del artículo siguiente, se entenderá por cancelación del viaje la imposibilidad de iniciar el mismo en las condiciones recogidas en el título de transporte. Asimismo, se entenderá por interrupción del viaje la paralización del mismo mientras éste se esté produciendo.
+
+3\. Lo dispuesto en el apartado anterior se entiende sin perjuicio del derecho de la empresa ferroviaria a repetir contra el Administrador de Infraestructuras Ferroviarias en caso de que considere que éste es el responsable de la cancelación o de la interrupción del viaje.
+
+4\. Las empresas ferroviarias pondrán en conocimiento de sus clientes la existencia de pólizas de seguro o los afianzamientos que hubieren contratado para garantizar los daños que sufrieren los viajeros.
+
+> Se modifica por la disposición adicional 7.6 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 89. Indemnización a los viajeros.
+
+1\. Las empresas ferroviarias están obligadas a indemnizar al viajero cuando se produzcan cualesquiera de las circunstancias indicadas en el artículo precedente.
+
+2\. La empresa ferroviaria está obligada a indemnizar al viajero en los siguientes términos:
+
+a) En caso de cancelación del viaje, el viajero tendrá derecho a que se le devuelva el precio pagado por el servicio.
+
+Si la cancelación se produjere en las cuarenta y ocho horas previas a la fijada para el inicio del viaje, la empresa ferroviaria estará obligada, a elección del viajero, a proporcionarle transporte en otro tren u otro modo de transporte, en condiciones equivalentes a las pactadas o a devolverle el precio pagado por el servicio.
+
+Cuando el viajero fuera informado de la cancelación del viaje en las cuatro horas previas a la fijada para su inicio, tendrá derecho, además, a una indemnización a cargo de la empresa ferroviaria consistente en el doble del importe del título de transporte.
+
+b) En caso de interrupción del viaje, la empresa ferroviaria estará obligada a proporcionar al viajero, con la mayor brevedad posible, transporte en otro tren u otro modo de transporte, en condiciones equivalentes a las pactadas.
+
+Además, en el caso de que el tiempo de interrupción sea superior a una hora de duración, la empresa ferroviaria estará obligada, en su caso, a sufragar los gastos de manutención y hospedaje del viajero durante el tiempo que dure la interrupción.
+
+c) En caso de retraso en la llegada a destino por tiempo superior a una hora, el viajero tendrá derecho a una indemnización pecuniaria equivalente al cincuenta por ciento del precio del título de transporte utilizado. Cuando el retraso supere la hora y treinta minutos, la indemnización pecuniaria será equivalente al total de dicho precio.
+
+d) La responsabilidad de la empresa ferroviaria por los daños, pérdidas o averías que sufran los equipajes que hubieran sido facturados, será de catorce euros con cincuenta céntimos por kilogramo bruto que falte o se dañe, hasta la cantidad máxima de 600 euros por viajero. Esta cantidad será actualizada, anualmente, con arreglo al Indice de Precios al Consumo (IPC).
+
+3\. La cancelación o interrupción del servicio contratado por personas con discapacidad o movilidad reducida en los supuestos previstos en el segundo párrafo de la letra a) o de la letra b) del apartado anterior, el modo de transporte que se les ofrezca deberá cumplir las mismas condiciones de accesibilidad con las que cuente aquél.
+
+4\. En todo caso, cualquier viajero podrá reclamar por vía judicial o, eventualmente, arbitral, los daños y perjuicios que la cancelación del viaje o el retraso en su llegada al destino previsto le ocasione.
+
+###### Artículo 90. Exclusión de viajeros.
+
+1\. La empresa ferroviaria está facultada para excluir de sus vehículos de transporte a los viajeros que, con su conducta, alteren el orden dentro de ellos o pongan en peligro la seguridad del transporte.
+
+Podrá denegarse también el acceso a los vehículos de transporte y a las salas de embarque o de espera a aquellas personas que no se sometan a los controles de seguridad establecidos para el acceso de los viajeros a los vehículos.
+
+2\. Sin perjuicio de las sanciones que pudieran corresponder por las infracciones que hubieren cometido, los pasajeros excluidos no tendrán derecho al reembolso del precio pagado por el título de transporte.
+
+3\. En el supuesto de que el personal de la empresa ferroviaria comprobare que un determinado viajero viaja sin el billete que le habilite para ello, exigirá a éste que le abone el pago de su precio y, en caso de no hacerlo, que abandone el tren en la estación en que se encontrare estacionado o, si se hallare en tránsito entre dos estaciones, en la primera en que se detenga. Ello se entiende sin perjuicio de la aplicación de la eventual penalidad prevista, a tal efecto, en las condiciones generales de contratación del trasporte de viajeros debidamente aprobadas y de la aplicación de lo previsto en el artículo 90.1 del la Ley del Sector Ferroviario, previa la instrucción del correspondiente procedimiento sancionador.
+
+#### Sección II. Servicios de transporte ferroviario de mercancías
+
+###### Artículo 91. Acceso a los servicios de transporte de mercancías.
+
+1\. Las empresas ferroviarias podrán ofrecer sus distintos tipos de servicios de transporte ferroviario.
+
+2\. Los cargadores y los destinatarios de las mercancías que se ocupen de efectuar la entrega o la recogida de las mismas en una terminal ferroviaria, deberán ser autorizados a entrar en dicha terminal con los vehículos apropiados siempre que esté cubierta, por el correspondiente seguro, la responsabilidad civil en la que puedan incurrir por los daños y perjuicios que pudieran causar.
+
+###### Artículo 92. El título de transporte.
+
+1\. El título de transporte o carta de porte es el documento que formaliza el contrato de transporte entre la empresa ferroviaria que realiza el servicio de transporte de mercancías u otro candidato y el cliente. Su contenido deberá ajustarse a lo establecido en este artículo.
+
+2\. El título de transporte sólo puede ser usado para el servicio de transporte contratado y sirve de resguardo para retirar la mercancía en destino.
+
+3\. Además de las especificaciones que incorpore cada empresa ferroviaria, el título de transporte de mercancías contendrá necesariamente la siguiente información:
+
+a) Empresa o empresas ferroviarias a través de las que se realizará el transporte.
+
+b) Cargador o agente de transporte.
+
+c) Lugar y condiciones de entrega de la mercancía a la empresa ferroviaria o sus representantes con indicación de la fecha y hora previstas para ésta.
+
+d) Destinatario de la mercancía.
+
+e) Lugar y condiciones de entrega de la mercancía al destinatario con indicación de la fecha y hora previstas para ésta.
+
+f) Características de la mercancía y peso y volumen de la misma.
+
+g) Precio del transporte, especificando que incluye todos los impuestos y tasas.
+
+h) Seguros u otros afianzamientos mercantiles que cubren los daños o la pérdida de la mercancía y eventual limitación de la responsabilidad de la empresa ferroviaria.
+
+4\. No obstante lo previsto en el apartado 3, las empresas ferroviarias podrán modificar el contenido de los títulos de transporte por otros, siempre que así lo autorice la Dirección General de Ferrocarriles.
+
+5\. En caso de que se formalice por medios electrónicos el contrato de transporte entre la empresa ferroviaria y el cliente, aquélla facilitará a éste toda la información enumerada en el apartado 3.
+
+###### Artículo 93. Responsabilidad de la empresa ferroviaria.
+
+1\. La empresa ferroviaria que ofrezca servicios de transporte ferroviario de mercancías está obligada a efectuar el transporte contratado en el tiempo previsto y conforme a las condiciones pactadas en el contrato.
+
+2\. Las empresas ferroviarias deben proporcionar al cliente o al consignatario de la mercancía cuanta información soliciten sobre las circunstancias específicas en las que se encuentra ésta, así como de cualquier modificación que se produzca en la prestación del servicio de transporte.
+
+3\. La empresa ferroviaria es responsable del transporte de las mercancías de conformidad con lo establecido en el Código de Comercio y, en su caso, en los convenios internacionales de aplicación.
+
+> Se modifica el apartado 3 por la disposición final 1.4 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 94. Límite de responsabilidad.
+
+1\. En caso de cancelación o interrupción de un servicio por causas a ella imputables, la empresa ferroviaria está obligada a proporcionar el transporte de la mercancía en otro tren, mediante de otro modo de transporte, o a devolver el importe pagado por el cliente, a elección de éste, sin perjuicio de las indemnizaciones a las que haya lugar.
+
+2\. Salvo que expresamente se pacte lo contrario, la responsabilidad de los transportistas de mercancías por los daños, pérdidas o averías que sufran aquéllas, estará limitada como máximo a la cantidad de cuatro euros con cincuenta céntimos por kilogramo bruto que falte o se dañe. Esta cantidad será actualizada, anualmente, con arreglo al Indice de Precios al Consumo (IPC).
+
+3\. Cuando se pacten límites superiores o condiciones de responsabilidad diferentes a las previstas en el apartado anterior, la empresa ferroviaria podrá solicitar, como contraprestación, una cantidad adicional sobre el precio del transporte. La cuantía de dicha percepción adicional será libremente pactada por las partes.
+
+#### Sección III. Servicios declarados de interés público
+
+###### Artículo 95. Servicios de transporte ferroviario de interés público.
+
+1\. Mediante acuerdo de Consejo de Ministros podrá declararse de interés público la prestación de determinados servicios de transporte ferroviario sobre las líneas o los tramos que integran la Red Ferroviaria de Interés General, cuando su prestación resulte deficitaria o no se realice en las condiciones adecuadas de frecuencia y calidad y sea necesaria para garantizar la comunicación entre distintas localidades del territorio español. Esta declaración podrá realizarse de oficio o a instancia de las comunidades autónomas o de las entidades locales interesadas.
+
+2\. Declarada de interés público la prestación de un determinado servicio de transporte ferroviario, las empresas ferroviarias únicamente podrán prestarlo previa la obtención de la correspondiente autorización.
+
+3\. Conforme a lo previsto en el artículo 53.5 de la Ley del Sector Ferroviario, por Orden del Ministro de Fomento se establecerá el régimen de las autorizaciones para prestar servicios de transporte ferroviario de interés público.
+
+#### Sección IV. Derechos y obligaciones de los usuarios
+
+###### Artículo 96. Derechos de los usuarios.
+
+1\. Los usuarios de los servicios de transporte ferroviario tendrán derecho a su uso en los términos que se establecen en la normativa vigente y, en su caso, en los contratos que celebren con las empresas ferroviarias.
+
+2\. Los usuarios de los servicios de transporte ferroviario de viajeros gozarán de los siguientes derechos:
+
+a) A acceder a la publicación por las empresas ferroviarias, con la suficiente antelación, del horario de servicios y de los precios correspondientes a éstos.
+
+b) A contratar la prestación del servicio ferroviario desde o hasta cualquiera de las estaciones en las que se reciban o apeen viajeros. A estos efectos, las empresas ferroviarias podrán prestar sus servicios entre cualesquiera estaciones del trayecto que cubran.
+
+c) A recibir el servicio en las adecuadas condiciones de seguridad, satisfaciendo, en su caso, los precios que correspondan en función de las tarifas y tasas aplicables.
+
+d) A celebrar con la empresa ferroviaria un contrato de transporte ajustado a lo dispuesto en la Ley 26/1984, de 19 de julio, de Defensa de los Consumidores y Usuarios.
+
+e) A recibir las mercancías y equipajes en el mismo estado en el que las entregaron.
+
+f) A ser informados de los procedimientos establecidos para resolver las controversias que puedan surgir en relación con el transporte ferroviario.
+
+g) A ser indemnizados de los perjuicios que les causen, en caso de incumplimiento por la empresa ferroviaria de las obligaciones que les correspondan, de acuerdo con lo establecido en este Reglamento.
+
+h) Cualesquiera otros que les reconozcan las normas vigentes.
+
+3\. Los usuarios tendrán, igualmente, derecho a efectuar reclamaciones por cualquier incumplimiento del contrato de transporte producido durante la prestación de un servicio de transporte de viajeros o de mercancías y podrán dirigirlas a cualesquiera de las oficinas comerciales de la empresa ferroviaria que lo haya prestado, en el plazo de un mes desde que tuvieran conocimiento del hecho que las motivó si se tratare de transporte de viajeros, y en los términos y plazos establecidos en el Código de Comercio si se tratare de transporte de mercancías.
+
+Asimismo, los usuarios podrán instar la defensa de sus pretensiones, en los términos previstos en la legislación vigente, ante las Juntas Arbitrales de Transporte, ante las Juntas Arbitrales de Consumo y, en todo caso, ante la jurisdicción ordinaria.
+
+> Se modifica el primer párrafo del apartado 3 por la disposición final 1.5 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 97. Obligaciones de los usuarios.
+
+1\. Los usuarios deberán atender las indicaciones que formulen las empresas ferroviarias en relación con la correcta prestación del servicio, así como lo indicado a tal fin en los carteles colocados a la vista en instalaciones y coches y habrán de disponer, durante el tiempo que dure la prestación del servicio, del título de transporte que les habilite a recibirla.
+
+2\. Deberán cumplirse por los usuarios las obligaciones establecidas en los contratos tipo de transporte ferroviario de viajeros o de mercancías que, en su caso, apruebe la Administración.
+
+Habrán de respetar, igualmente, las medidas que, en materia de protección civil y seguridad, establezcan los órganos competentes respecto de las infraestructuras ferroviarias.
+
+#### Sección V. Sistemas de reclamaciones
+
+> Se modifica por el art. único.1 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+###### Artículo 98. Modalidades de reclamaciones.
+
+1\. Los administradores de infraestructuras ferroviarias y las empresas ferroviarias deberán disponer de aplicaciones informáticas que permitan a los usuarios acceder a un formulario en el que realizar las reclamaciones que estimen pertinentes por medios electrónicos. Este formulario será el determinado en el anexo I de este Reglamento.
+
+2\. Los administradores de infraestructuras ferroviarias y las empresas ferroviarias deberán disponer, asimismo, de un libro de reclamaciones, que se ajustará al modelo que se determina en el anexo II al presente Reglamento.
+
+3\. Los usuarios podrán optar por cualquiera de estas dos vías para interponer sus reclamaciones.
+
+4\. El formulario para las reclamaciones electrónicas y el modelo del libro de reclamaciones podrá modificarse o adaptarse a cada tipo de servicio por orden de la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana.
+
+> Se modifica por el art. único.2 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+###### Artículo 99. Acceso de los usuarios.
+
+1\. Todas las páginas web donde puedan adquirirse o reservarse títulos de viaje deberán incluir un enlace directo a la aplicación informática en la que los usuarios puedan realizar sus reclamaciones.
+
+2\. Los administradores de infraestructuras ferroviarias tendrán a disposición de los usuarios un libro de reclamaciones en todas las instalaciones donde se presten servicios al público en general y, en concreto, en las estaciones y terminales.
+
+3\. Las empresas ferroviarias estarán obligadas a tener a disposición de los usuarios un libro de reclamaciones, u hojas del mismo, en los lugares que a continuación se indican:
+
+a) En las instalaciones fijas de su titularidad en las que se expendan títulos de transporte.
+
+b) En todos los trenes que realicen servicio de transporte de viajeros y que cuenten con personal de la empresa ferroviaria además del de conducción.
+
+c) En todas las estaciones de viajeros y terminales de mercancías en las que la empresa cuente con personal a su servicio.
+
+d) En todos los puntos de facturación y entrega de equipajes.
+
+> Se modifica por el art. único.3 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+> Se modifica el primer inciso del apartado 2 por la disposición final 1.6 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 100. Formalidades.
+
+1\. Las aplicaciones a través de las que los usuarios puedan formular sus reclamaciones, así como los formularios diseñados al efecto, deberán cumplir las condiciones que se establezcan por la Dirección General de Transporte Terrestre a efectos de garantizar la disponibilidad, integridad, inalterabilidad e inviolabilidad de su contenido. En concreto, deberán permitir al reclamante conservar un justificante que acredite la realización de la reclamación y el contenido de la misma, así como la fecha y la hora de su presentación.
+
+De igual forma, las aplicaciones informáticas para realizar reclamaciones deberán permitir el acceso a las mismas por parte del órgano de control e inspección.
+
+2\. Las entidades obligadas presentarán el libro de reclamaciones ante la Dirección General de Transporte Terrestre para su diligenciado y cumplimentarán debidamente sus datos.
+
+3\. El libro de reclamaciones será de libre edición y constará de varios ejemplares de hojas de reclamaciones correlativamente numeradas. Cada hoja de reclamaciones se confeccionará en triplicado ejemplar de igual numeración y tendrá el siguiente destino:
+
+a) La primera y la segunda copia se entregarán al reclamante, que podrá remitir esta última al órgano que en cada caso corresponda, si así lo estima conveniente.
+
+b) La tercera será conservada por la entidad y se unirá al libro de reclamaciones, para su constancia.
+
+4\. Las entidades obligadas a presentar libro de reclamaciones deberán registrar las reclamaciones presentadas mediante esta modalidad en las aplicaciones informáticas referidas en el apartado 1 del artículo 98.
+
+> Se modifica por el art. único.4 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+###### Artículo 101. Formulación de reclamaciones.
+
+1\. Los formularios de reclamaciones electrónicos o del libro de reclamaciones deberán permitir que el usuario consigne su nombre, apellidos y número de documento nacional de identidad o documento equivalente; la dirección postal o electrónica donde desea que se le comunique cualquier información o resolución adoptada en relación con su reclamación; los hechos objeto de la reclamación; lugar o trayecto, indicando origen y destino; fecha y, en su caso, la hora en que se produjeron los hechos objeto de la reclamación.
+
+Podrán consignarse por el reclamante igualmente cualesquiera otros datos que considere de interés para el mejor conocimiento de la reclamación, entre los que se podrán incluir la identificación y firma de un testigo presencial del hecho objeto de reclamación.
+
+2\. Las entidades que deben disponer del libro de reclamaciones estarán obligadas a facilitar el libro de reclamaciones u hojas del mismo a los usuarios cuando lo soliciten a los efectos previstos en este artículo. Asimismo, deberán informar sobre la posibilidad de efectuar la reclamación por vía electrónica.
+
+3\. El personal de los administradores de infraestructuras o las empresas ferroviarias encargados de facilitar el libro de reclamaciones u hojas del mismo deberán asistir a toda persona que tenga dificultades para cumplimentarlos, especialmente cuando se trate de personas mayores o con discapacidad. Asimismo, también deberán asistir a cualquier usuario que solicite su ayuda para presentar la reclamación por vía electrónica.
+
+> Se modifica por el art. único.5 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+> Se modifica el primer párrafo del apartado 1 y el apartado 2 por la disposición final 1.7 y 8 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 102. Procedimiento.
+
+1\. Los usuarios podrán presentar sus reclamaciones dentro de los tres meses siguientes a los hechos que dieron lugar a la misma. Formulada una reclamación, los administradores de infraestructuras o las empresas ferroviarias deberán contestar de manera motivada en el plazo de un mes desde su recepción, informando al reclamante, en su caso, de las medidas adoptadas al respecto.
+
+Excepcionalmente, y cuando el caso lo justifique, los administradores de infraestructuras o las empresas ferroviarias informarán al usuario de la fecha para la cual cabe esperar respuesta, sin que pueda ser superior al plazo de tres meses desde la fecha de recepción de la reclamación.
+
+Las entidades obligadas a disponer de libro de reclamaciones, deberán registrar la contestación a las reclamaciones presentadas mediante esta modalidad en las aplicaciones informáticas referidas en el apartado 1 del artículo 98.
+
+2\. El interesado tendrá derecho a acceder a los documentos que forman parte del expediente al que dé lugar su reclamación.
+
+3\. La información detallada acerca del procedimiento de tramitación de la reclamación será accesible al público, incluidas las personas con discapacidad o movilidad reducida, previa solicitud.
+
+> Se modifica por el art. único.6 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+###### Artículo 103. Diligenciado de los libros.
+
+El diligenciado del segundo y de los sucesivos libros de reclamaciones para un mismo vehículo, servicio o actividad requerirá la devolución del libro anteriormente diligenciado, salvo que se acredite suficientemente la imposibilidad de hacerlo.
+
+###### Artículo 104. Rótulo.
+
+En todos los lugares en los que sea obligatorio disponer de libro de reclamaciones u hojas del mismo, existirá un rótulo, perfectamente visible, que especifique dicha circunstancia, así como la posibilidad de interponer reclamaciones por medios electrónicos.
+
+Este rótulo también incluirá un código que pueda ser leído y descifrado mediante un lector óptico y que remita a la correspondiente aplicación de reclamaciones.
+
+> Se modifica por el art. único.7 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+> Se modifica por la disposición final 1.9 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+### CAPITULO V — Régimen de seguridad en el transporte ferroviario
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 105. Certificado de seguridad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+> Se modifica el último párrafo del apartado 3 por la disposición final 1.10 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 106. Ampliación del certificado de seguridad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 107. Revocación del certificado de seguridad.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 108. Régimen de circulación sobre la Red Ferroviaria de Interés General.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 109. Reglamento General de Circulación.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+> Se modifica el primer párrafo del apartado 1 por la disposición final 1.11 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+###### Artículo 110. Medidas especiales en caso de perturbaciones del tráfico ferroviario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+### CAPITULO VI — La investigación de accidentes ferroviarios
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 111. Competencias en materia de investigación de accidentes ferroviarios.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 112. Investigación de accidentes por la Dirección General de Ferrocarriles.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 113. Investigación de accidentes por el administrador de infraestructuras ferroviarias.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 114. Investigación de accidentes por las empresas ferroviarias.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 115. Informes y recomendaciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+###### Artículo 116. Incidentes producidos en el tráfico ferroviario.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+## TITULO IV — Los servicios de inspección
+
+###### Artículo 117. La inspección de los servicios ferroviarios.
+
+1\. Sin perjuicio de las facultades de supervisión en las materias objeto de su competencia por parte de la AESF, y de la competencia de inspección de los administradores de infraestructuras en materia de policía de ferrocarriles, que se atendrán a su regulación específica, corresponde al Ministerio de -Transportes, Movilidad y Agenda Urbana, en el ámbito de la competencia estatal, la inspección de las empresas ferroviarias, del transporte ferroviario prestado por estas y de la forma de prestación de los servicios auxiliares y complementarios, cuyo ejercicio se ajustará a lo establecido en este Título.
+
+2\. Esta función inspectora se ejercerá en relación con las siguientes actividades y servicios relacionados con la Red Ferroviaria de Interés General:
+
+a) Las actividades de las empresas ferroviarias y otros candidatos.
+
+b) Los medios humanos y materiales utilizados para la prestación de los servicios ferroviarios.
+
+c) Las actividades auxiliares y complementarias prestadas a las empresas ferroviarias.
+
+d) Los servicios de transporte prestados por las empresas ferroviarias a viajeros y cargadores.
+
+e) El comportamiento de los viajeros en el uso de las infraestructuras y servicios de transporte ferroviario.
+
+3\. Sin perjuicio de lo anterior, corresponde a las empresas ferroviarias que presten servicios sobre la Red Ferroviaria de Interés General y, en su caso, a los administradores de infraestructuras ferroviarias o explotadores de instalaciones, la vigilancia inmediata de la observancia, por los usuarios y por terceros, de las normas establecidas en este Reglamento, y ejercer las funciones inspectoras y dando cuenta de las infracciones detectadas a los órganos competentes.
+
+> Se modifica por la disposición final 4.3 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 118. Las funciones de policía y de inspección en las infraestructuras ferroviarias.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 119. Iniciación del procedimiento de inspección.
+
+La función inspectora podrá ser ejercida de oficio o como consecuencia de petición fundada de los cargadores, de los usuarios, de las asociaciones de éstos, de las empresas o de las asociaciones de empresas ferroviarias o de cualquier otra persona o entidad interesada en la iniciación del procedimiento de inspección.
+
+###### Artículo 120. Valor probatorio de las actas e informes.
+
+Las actas e informes de los servicios de inspección harán prueba, salvo que se acredite lo contrario, de los hechos en ellos recogidos, sin perjuicio del deber de los agentes actuantes de aportar todos los elementos probatorios que estén a su disposición sobre el hecho denunciado y de la obligación de la Administración de aportar las pruebas que, en su caso, resulten procedentes en la tramitación del correspondiente procedimiento sancionador.
+
+###### Artículo 121. Tramitación de las actas.
+
+Corresponde al Ministerio de Transportes, Movilidad y Agenda Urbana la potestad sancionadora en materia de transporte ferroviario. A tales efectos, los servicios de inspección remitirán las actas de las denuncias que formulen a los órganos competentes para la incoación de los correspondientes procedimientos sancionadores.
+
+> Se modifica por la disposición final 4.4 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 122. Colaboración con otros órganos.
+
+Si, en su actuación, el personal de inspección percibiera la existencia de hechos que puedan constituir infracción de la normativa reguladora de otros sectores sujetos a ordenación administrativa, especialmente en materia laboral, fiscal o de seguridad vial, lo pondrán en conocimiento de los órganos competentes.
+
+###### Artículo 123. Límite de las actuaciones de inspección.
+
+Las actuaciones inspectoras reguladas en este Capítulo se llevarán a cabo sólo en la medida en que resulten necesarias para comprobar el cumplimiento de las obligaciones contenidas en la legislación de transportes ferroviario.
+
+###### Artículo 124. Facultades de los servicios de inspección.
+
+1\. En el ejercicio de su función, el personal de inspección podrá:
+
+a) Realizar materialmente las actuaciones inspectoras precisas en cualquier lugar en que se desarrollen actividades afectadas por la legislación del transporte ferroviario. No obstante, cuando se precise el acceso al domicilio de personas físicas y jurídicas, será precisa la previa obtención del oportuno mandamiento judicial.
+
+b) Llevar a cabo las pruebas, investigaciones o exámenes que resulten necesarios para cerciorarse de la observancia de las disposiciones legales vigentes en materia de transporte ferroviario.
+
+c) Adoptar, con carácter cautelar, provisionalmente y por el menor tiempo posible, toda clase de medidas que garanticen la prestación de los servicios en adecuadas condiciones.
+
+2\. Si el personal de inspección, a la vista de las graves circunstancias existentes, decidiera la paralización de los servicios o actividades ferroviarias, lo comunicará inmediatamente al órgano competente a efectos de que se instruya el correspondiente procedimiento sancionador.
+
+> Se modifica por la disposición final 4.5 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 125. Obligaciones de los titulares de licencias y autorizaciones.
+
+1\. Las empresas habilitadas para la prestación de los servicios de transporte ferroviario o para la realización de actividades a las que se refiere el presente Reglamento, vendrán obligadas a facilitar a los servicios de inspección, la inspección de sus vehículos e instalaciones y el examen de los documentos que estén obligados a conservar.
+
+A tal efecto, el personal de Inspección podrá recabar la documentación precisa para el mejor cumplimiento de su función en la sede de la entidad inspeccionada o bien requerir su presentación en las oficinas públicas correspondientes.
+
+2\. Asimismo, el personal de Inspección, en el ejercicio de sus funciones, podrá solicitar de los remitentes cargadores, usuarios y, en general, de quienes realicen actividades vinculadas al transporte ferroviario, el examen de los documentos correspondientes a tales actividades, así como requerirles cualquier información.
+
+> Se modifica por la disposición final 4.6 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 126. Acreditación del personal de inspección.
+
+El personal de Inspección estará provisto del documento acreditativo de su condición, que le podrá ser requerido cuando ejercite sus funciones, debiendo, en tal caso, exhibirlo.
+
+###### Artículo 127. Consideración del personal de inspección.
+
+1\. Los funcionarios de la Inspección que haya sido nombrado y formalmente acreditado tendrán, en el ejercicio de las actuaciones inspectoras, la consideración de agente de la autoridad.
+
+2\. El personal de Inspección, para un eficaz cumplimiento de sus funciones, podrá solicitar el apoyo de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+> Se modifica por la disposición final 4.7 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+###### Artículo 128. Planes de actuación.
+
+El Ministerio de Transportes, Movilidad y Agenda Urbana, a través del órgano que designe, establecerá periódicamente los planes de actuación de sus servicios de inspección y determinará las líneas directrices de las operaciones de control de los servicios o actividades que requieran actuaciones especiales. Los planes de inspección darán a las actuaciones inspectoras un carácter sistemático.
+
+> Se modifica por la disposición final 4.8 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+## TITULO V — Registro Especial Ferroviario
+
+###### Artículo 129. Objeto y estructura.
+
+1\. El Registro Especial Ferroviario se llevará por la Dirección General de Ferrocarriles y tendrá por objeto la inscripción, de oficio, de las entidades y personas físicas y jurídicas cuya actividad esté vinculada al sector ferroviario y requieran, para su ejercicio, de la correspondiente licencia de empresa ferroviaria o de un título habilitante, de conformidad con lo dispuesto en la Ley del Sector Ferroviario, en este Reglamento y en las demás normas de desarrollo.
+
+Se inscribirán, asimismo, en el Registro Especial Ferroviario las Administraciones Públicas con atribuciones en materia de prestación de servicios de transporte que manifiesten su interés por solicitar la adjudicación de capacidad de infraestructura necesaria para la prestación de determinados servicios de transporte ferroviario.
+
+2\. El Registro Especial Ferroviario consta de ocho Secciones, a saber:
+
+1) Sección de licencias de empresa ferroviaria.
+
+2) Sección de candidatos distintos de empresas ferroviarias.
+
+3) Sección de Administraciones Públicas con atribuciones en materia de prestación de servicios de transporte.
+
+4) Sección de personal ferroviario.
+
+5) Sección de material rodante.
+
+6) Sección de centros de formación de personal ferroviario.
+
+7) Sección de centros médicos autorizados.
+
+8) Sección de centros de mantenimiento del material rodante.
+
+3\. Las entidades inscritas en el Registro estarán obligadas a comunicar al Ministerio de Fomento, en el plazo máximo de un mes desde que se produzca, la variación que haya sufrido cualquiera de los datos vinculados a la obtención de la licencia, al título habilitante o, en su caso, a su personal ferroviario o material rodante.
+
+4\. La Dirección General de Ferrocarriles, como responsable de la llevanza del Registro Especial Ferroviario, deberá adoptar las medidas de índole técnica y organizativas necesarias que garanticen la seguridad de los datos de carácter personal que dicho registro pueda contener, y evitará su alteración, pérdida, tratamiento o acceso no autorizado, habida cuenta del estado de la tecnología, la naturaleza de los datos almacenados y los riesgos a que estén expuestos, ya provengan de la acción humana o del medio físico o natural.
+
+Se registrarán, exclusivamente, los datos de carácter personal que sean necesarios para el cumplimiento del objeto del Registro.
+
+5\. Se autoriza al Ministro de Fomento, para que por orden, y de acuerdo con la evolución normativa y tecnológica del sector, modifique los datos que deban inscribirse y las informaciones que deban figurar, en cualquiera de las diferentes secciones y subsecciones que componen el Registro Especial Ferroviario, reguladas en los artículos siguientes.
+
+> Se añade el apartado 5 por la disposición final 1.1 del Real Decreto 1434/2010, de 5 de noviembre. [Ref. BOE-A-2010-17037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17037).
+
+#### Sección 1.ª Licencias de empresa ferroviaria
+
+###### Artículo 130. La Sección de licencias de empresa ferroviaria.
+
+1\. En esta Sección figurará, para cada empresa titular de licencia de empresa ferroviaria, al menos la siguiente información:
+
+i. El nombre, denominación social de la empresa y sus datos de inscripción en el Registro Mercantil.
+
+ii. El número de licencia de empresa ferroviaria.
+
+iii. Su domicilio social.
+
+iv. Su número de CIF.
+
+v. El número de licencia de empresa ferroviaria y cualquier modificación, suspensión o revocación de que hubiera sido objeto.
+
+vi. La declaración de actividad que realice debidamente actualizada, con indicación expresa de si realiza transporte ferroviario de mercancías peligrosas.
+
+vii. La relación actualizada del personal ferroviario que figura en su plantilla, indicando, especialmente, el responsable de seguridad en la circulación.
+
+viii. La relación actualizada del material rodante del que disponga.
+
+ix. Las infracciones por las que hubiera sido sancionada, en los últimos cinco años.
+
+x. La identidad de la persona o personas que administren la empresa.
+
+xi. La indicación de los sistemas de comunicación convenientemente identificados.
+
+xii. La referencia a las inspecciones realizadas a la empresa en los últimos cinco años, con sus fechas y resultados.
+
+xiii. Toda modificación, suspensión o revocación de que hubiera sido objeto la licencia de empresa ferroviaria.
+
+xiv. Los datos identificativos de los centros de formación, médicos y de mantenimiento de material con los que la empresa tenga contraídos contratos para la formación de su personal, la realización de revisiones médicas del mismo y el mantenimiento de su material rodante, respectivamente.
+
+2\. Las empresas ferroviarias inscritas en esta Sección estarán obligadas a comunicar a la Dirección General de Ferrocarriles y, en su caso, al administrador de infraestructuras ferroviarias, en el plazo máximo de un mes desde que se produzcan, cualquier variación que se produzca en los datos contenidos en la solicitud formulada, en su día, para la obtención de la licencia, en relación con los títulos, las habilitaciones y los certificados que afecten a su personal.
+
+#### Sección 2.ª De candidatos distintos de las empresas ferroviarias
+
+###### Artículo 131. La Sección de candidatos distintos de las empresas ferroviarias.
+
+En esta Sección se inscribirán los datos relativos a los candidatos distintos de las empresas ferroviarias que hayan obtenido el título habilitante que les permite solicitar, al administrador de infraestructuras ferroviarias, la adjudicación de capacidad.
+
+Se inscribirán los siguientes datos relativos a los referidos candidatos:
+
+i. El nombre, denominación social de la empresa y sus datos de inscripción en el Registro Mercantil.
+
+ii. Su domicilio social.
+
+iii. Su número de CIE
+
+iv. El número de su habilitación y cualquier modificación, suspensión o revocación de que hubiera sido objeto.
+
+v. La declaración de actividad que realice debidamente actualizada.
+
+vi. Las infracciones por las que hubiera sido sancionada, en los últimos cinco años.
+
+vii. La identidad de la persona o personas que administren la empresa.
+
+viii. La indicación de los sistemas de comunicación convenientemente identificados.
+
+ix. La referencia a las inspecciones realizadas a la empresa en los últimos cinco años, con sus fechas y resultados.
+
+#### Sección 3.ª Administraciones Públicas con atribuciones en materia de prestación de servicios de transporte
+
+###### Artículo 132. Sección de Administraciones Públicas con atribuciones en materia de prestación de servicios de transporte.
+
+1\. En esta Sección se inscribirán las Administraciones Públicas que, con atribuciones en materia de prestación de servicios de transporte, estén interesadas en solicitar la adjudicación de capacidad de infraestructura-ferroviaria para la prestación de un determinado servicio de transporte ferroviario.
+
+Se inscribirán los siguientes datos relativos a las referidas Administraciones Públicas:
+
+i. Datos identificativos de la Administración Pública.
+
+ii. Identificación de la persona de contacto a efecto de notificaciones.
+
+iii. La relación de servicios de transporte ferroviario para cuya prestación estén interesadas en solicitar la correspondiente adjudicación de capacidad.
+
+2\. Las Administraciones Públicas inscritas en esta sección deberán comunicar cualquier variación que se produzca en la relación de servicios de transporte a que se refiere el epígrafe iii) del apartado anterior.
+
+#### Sección 4.ª Personal ferroviario
+
+###### Artículo 133. La Sección personal ferroviario.
+
+1\. En esta Sección se inscribirán los datos relativos al personal especialmente habilitado para prestar servicios en las empresas ferroviarias o, en su caso, en el administrador de infraestructuras ferroviarias.
+
+La Sección de personal ferroviario contará con las siguientes Subsecciones:
+
+a) Subsección de personal de circulación.
+
+b) Subsección de personal de infraestructura.
+
+c) Subsección de personal de operaciones del tren.
+
+d) Subsección de personal de conducción.
+
+e) Subsección de Responsables en materia de seguridad en la circulación.
+
+f) Subsección de personal responsable técnico del mantenimiento de material ferroviario.
+
+2\. En la Subsección de personal de circulación figurará, para cada persona con la correspondiente habilitación otorgada por el administrador de infraestructuras ferroviarias, al menos la siguiente información:
+
+i. Nombre del titular y número del DNI, NIE o, en su defecto, número del pasaporte y nacionalidad.
+
+ii. Fecha de nacimiento.
+
+iii. Domicilio a efecto de notificaciones.
+
+iv. Nacionalidad.
+
+v. Tipo de habilitación y la fecha de expedición.
+
+vi. Plazo de vigencia.
+
+vii. Fecha de expedición del último certificado médico y el centro que lo expidió.
+
+viii. Sanciones impuestas en los últimos cinco últimos años.
+
+3\. En la Subsección de personal de infraestructura figurará, para cada persona con la correspondiente habilitación otorgada por el administrador de infraestructuras ferroviarias, al menos la siguiente información:
+
+i. Nombre del titular y número del DNI, NIE o, en su defecto, número del pasaporte y nacionalidad.
+
+ii. Fecha de nacimiento.
+
+iii. Domicilio a efecto de notificaciones.
+
+iv. Nacionalidad.
+
+v. Tipo de habilitación y la fecha de expedición.
+
+vi. Plazo de vigencia.
+
+vii. Fecha de expedición del último certificado médico y el centro que lo expidió.
+
+viii. Sanciones impuestas en los últimos cinco últimos años.
+
+4\. En la Subsección de personal de operaciones del tren figurará, para cada persona con la correspondiente habilitación otorgada por la empresa ferroviaria para la cual presta sus servicios, al menos la siguiente información:
+
+i. Nombre del titular y número del DNI, NIE o, en su defecto, número del pasaporte y nacionalidad.
+
+ii. Fecha de nacimiento.
+
+iii. Número de licencia de la empresa ferroviaria para la cual presta sus servicios.
+
+iv. Domicilio a efecto de notificaciones.
+
+v. Nacionalidad.
+
+vi. Tipo de habilitación y la fecha de expedición.
+
+vii. Plazo de vigencia.
+
+viii. Fecha de expedición del último certificado médico y el centro que lo expidió.
+
+ix. Sanciones impuestas en los últimos cinco últimos años.
+
+5\. En la Subsección de personal de conducción figurará, para cada persona con título de conducir en vigor, al menos la siguiente información:
+
+i. Nombre del titular y número del DNI, NIE o, en su defecto, número del pasaporte y nacionalidad.
+
+ii. Fecha de nacimiento.
+
+iii. Domicilio a efecto de notificaciones.
+
+iv. Nacionalidad.
+
+v. Fecha de expedición del título de conducir.
+
+vi. Número de licencia de la empresa ferroviaria en la que presta sus servicios.
+
+vii. Relación y tipo de habilitaciones que dispone o ha dispuesto.
+
+viii. Fecha de expedición del último certificado médico y el centro que lo expidió.
+
+ix. Cursos de formación recibidos en los últimos tres años y sus resultados.
+
+x. Sanciones impuestas en los últimos cinco últimos años.
+
+xi. Horas de conducción realizadas por el referido personal.
+
+6\. En la Subsección de personal responsable en materia de seguridad en la circulación figurará, al menos, la siguiente información:
+
+i. Nombre del titular y número del DNI, NIE o, en su defecto, número del pasaporte y nacionalidad.
+
+ii. Fecha de nacimiento.
+
+iii. Domicilio a efecto de notificaciones.
+
+iv. Nacionalidad.
+
+v. Número de licencia de la empresa ferroviaria en la que presta sus servicios.
+
+vi. Titulación o titulaciones académicas, que, en su caso, tuviere.
+
+vii. Funciones desempeñadas en materia de seguridad en la empresa ferroviaria, con indicación del cargo.
+
+viii. Indicación, en su caso, del consejero de la seguridad en el transporte de mercancías peligrosas.
+
+7\. En la Subsección de personal responsable técnico del mantenimiento de material ferroviario figurará, al menos, la siguiente información:
+
+i. Nombre del titular y número del DNI, NIE o, en su defecto, número del pasaporte y nacionalidad.
+
+ii. Fecha de nacimiento.
+
+iii. Domicilio a efectos de notificaciones.
+
+iv. Nacionalidad.
+
+v. El nombre y CIF del centro en el que presta sus servicios.
+
+vi. Tipo de habilitación y fecha de expedición.
+
+vii. Plazo de vigencia.
+
+> Se modifica por la disposición adicional 7.7 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+#### Sección 5.ª Material rodante
+
+> Téngase en cuenta que el 16 de junio de 2021 entra en funcionamiento el Registro Europeo de Vehículos, que reemplazará a la presente Sección, y a partir de ese momento, su contenido se ajustará a lo establecido en el art. 134 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115), según determina su disposición transitoria 7.
+
+###### Artículo 134. Sección de material rodante.
+
+**(Suprimido).**
+
+> Se suprime por la disposición final 4.2 del Real Decreto 929/2020, de 27 de octubre. [Ref. BOE-A-2020-13115](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-13115)
+
+> Téngase en cuenta que hasta la entrada en funcionamiento el 16 de junio de 2021 del Registro Europeo de Vehículos, seguirá siendo de aplicación este artículo, según establece la disposición transitoria 7 del citado Real Decreto.
+
+> Se modifica por la disposición final 2 del Real Decreto 1006/2015, de 6 de noviembre. [Ref. BOE-A-2015-12050](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12050).
+
+> Se añade el apartado 4 por la disposición final 1.2 del Real Decreto 1434/2010, de 5 de noviembre. [Ref. BOE-A-2010-17037](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-17037)
+
+> Se modifica el epígrafe x) del apartado 2 por la disposición adicional 7.9 del Real Decreto 810/2007, de 22 de junio. [Ref. BOE-A-2007-13177](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13177)
+
+> Se modifican los epígrafes i), x) y xii) del apartado 2 y se añade el último párrafo al apartado 3 por la dispoisición final 1.12 y 13 del Real Decreto 354/2006, de 29 de marzo. [Ref. BOE-A-2006-6246](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-6246)
+
+#### Sección 6.ª Centros de formación del personal ferroviario
+
+###### Artículo 135. Sección de centros de formación del personal ferroviario.
+
+1\. En esta Sección se inscribirán los datos relativos a los centros de formación que obtengan la homologación que les faculte para formar al personal ferroviario. Los datos inscribibles serán:
+
+i. El nombre y CIF del centro.
+
+ii. La denominación y el domicilio social de la empresa titular del mismo.
+
+iii. El domicilio del centro.
+
+iv. El nombre y apellidos y el DNI del director del centro.
+
+v. La fecha del otorgamiento de la homologación y su validez.
+
+vi. La relación de su personal instructor.
+
+vii. Las inspecciones soportadas en los últimos cinco años, con sus fechas y resultados.
+
+viii. Las sanciones que se hayan impuesto a su titular en los últimos cinco años y al centro.
+
+2\. Los centros de formación del personal ferroviario comunicarán cualquier variación que se produzca en los datos indicados en el apartado anterior.
+
+#### Sección 7.ª De centros médicos
+
+###### Artículo 136. Sección de centros médicos.
+
+1\. En esta Sección se inscribirán los centros médicos que obtengan la homologación que les faculte para la realización de los reconocimientos médicos exigibles al personal ferroviario. Los datos inscribibles serán:
+
+i. El nombre y CIF del centro.
+
+ii. La denominación y el domicilio social de la empresa titular del mismo.
+
+iii. El domicilio del centro.
+
+iv. El nombre y apellidos y el DNI del director del centro.
+
+v. La fecha del otorgamiento de la homologación y su validez.
+
+vi. La relación de facultativos autorizados para prestar el servicio.
+
+vii. Las inspecciones soportadas en los últimos cinco años, con sus fechas y resultados.
+
+viii. Las sanciones que se hayan impuesto a su titularen los últimos cinco años y al centro.
+
+2\. Los centros médicos comunicarán cualquier variación que se produzca en los datos indicados en el apartado anterior.
+
+#### Sección 8.ª De centros autorizados de mantenimiento de material rodante
+
+###### Artículo 137. Sección de centros de mantenimiento de material rodante, entidades encargadas de mantenimiento y empresas certificadas para funciones de mantenimiento delegables.
+
+1\. En esta Sección se inscribirán los datos relativos a los centros de mantenimiento de material rodante que dispongan de la homologación que les faculte para realizar las operaciones de mantenimiento de los vehículos ferroviarios que circulan sobre la Red Ferroviaria de Interés General y los datos relativos a las entidades encargadas del mantenimiento que tengan su establecimiento principal en España, así como las empresas que estén certificadas para funciones de mantenimiento delegables (funciones de desarrollo del mantenimiento, de gestión del mantenimiento de la flota y de ejecución del mantenimiento) de conformidad con lo previsto en la normativa vigente en la materia. Los datos inscribibles son:
+
+i. La denominación jurídica, el domicilio social, la dirección postal a efectos de comunicaciones y el NIF del centro de mantenimiento o de la entidad encargada de mantenimiento o de la entidad certificada en alguna función de mantenimiento delegable.
+
+ii. El nombre y apellidos y el DNI del director del centro o entidad.
+
+iii. La fecha del otorgamiento de la homologación y su validez, reflejando el ámbito y el alcance de la misma.
+
+iv. Las habilitaciones en vigor otorgadas al centro, fecha y validez.
+
+v. La fecha de otorgamiento del certificado como entidad encargada de mantenimiento o como entidad que efectúa alguna función de mantenimiento delegable y su validez, reflejando el ámbito y el alcance del mismo.
+
+vi. Las funciones de mantenimiento delegables para las que está certificada la entidad.
+
+vii. Inspecciones soportadas o realizadas en los últimos cinco años, con sus fechas y resultados.
+
+viii. Las sanciones que se hayan impuesto a su titular en los últimos cinco años y al centro.
+
+2\. Los centros homologados de mantenimiento de material rodante, las entidades encargadas de mantenimiento y las empresas certificadas para funciones de mantenimiento delegables comunicarán cualquier variación que se produzca en los datos indicados en el apartado anterior.
+
+> Se modifica por la disposición final 1 de la Orden TMA/404/2022, de 25 de abril. [Ref. BOE-A-2022-7489](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-7489)
+
+## TITULO VI — El Comité de Regulación Ferroviaria
+
+> Se deroga por la disposición derogatoria única del Real Decreto 657/2013, de 30 de agosto. [Ref. BOE-A-2013-9212](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9212).
+
+###### Artículo 138 a 161
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única del Real Decreto 657/2013, de 30 de agosto. [Ref. BOE-A-2013-9212](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9212).
+
+###### Disposición adicional única. Requerimiento de información contable.
+
+Con la finalidad de verificar el cumplimiento de las disposiciones sobre información estadística y contable, en particular las contenidas en el artículo 58 de la Ley 38/2015, de 29 de septiembre, del sector ferroviario y en el artículo 45.2 del Reglamento del Sector Ferroviario, aprobado por el Real Decreto 2387/2004, de 30 de diciembre, la Comisión Nacional de los Mercados y la Competencia, de conformidad con las funciones que le otorga Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, podrá pedir a los administradores de infraestructuras ferroviarias, explotadores de instalaciones de servicio y a las empresas ferroviarias y candidatos toda clase de datos e informaciones de que dispongan, en particular, la información contable que se detalla a continuación, según se considere necesario y proporcionado:
+
+1\. Separación de cuentas:
+
+a) Cuentas de pérdidas y ganancias y balances separados para las actividades de carga, viajeros y gestión de infraestructuras.
+
+b) Información pormenorizada sobre las diversas fuentes de financiación pública y sus usos, así como de otras formas de compensación, de manera detallada y transparente; se incluirá aquí una descripción detallada de los flujos de tesorería de las actividades de la empresa, a fin de determinar de qué manera se han gastado estos fondos públicos o formas de compensación.
+
+c) Categorías de costes y beneficios que hagan posible determinar si se han producido subvenciones cruzadas entre diferentes actividades, teniendo en cuenta, para ello, los requisitos del organismo regulador.
+
+d) Metodología utilizada para asignar costes entre diferentes actividades.
+
+e) Cuando la empresa regulada forme parte de una estructura de grupo, información detallada sobre los pagos entre empresas.
+
+2\. Supervisión de los cánones ferroviarios:
+
+a) Diferentes categorías de costes, especialmente aportando suficiente información sobre los costes directos/marginales de los diferentes servicios o grupos de servicios, de tal manera que puedan supervisarse los cánones por la utilización de infraestructuras.
+
+b) Información suficiente, de tal manera que puedan supervisarse los distintos cánones pagados por los servicios (o grupos de servicios); si lo exige el organismo regulador, se incluirá información sobre los volúmenes de los distintos servicios, los precios de cada uno de ellos y los ingresos totales de cada servicio pagado por los clientes externos e internos.
+
+c) Costes e ingresos de los distintos servicios (o grupos de servicios) utilizando la metodología de costes pertinente, según requiera el organismo regulador, para detectar sistemas de cánones potencialmente contrarios a la competencia (subvenciones cruzadas, tarifas predatorias y tarifas excesivas).
+
+3\. Indicación del rendimiento financiero:
+
+a) Una declaración sobre el rendimiento financiero.
+
+b) Una declaración resumida sobre el gasto.
+
+c) Una declaración sobre el gasto en mantenimiento.
+
+d) Una declaración sobre el gasto de explotación.
+
+e) Una declaración de los ingresos.
+
+f) Unas notas justificativas que amplíen y expliquen las declaraciones cuando proceda.
+
+> Se añade por el art. 2.4 del Real Decreto 271/2018, de 11 de mayo. [Ref. BOE-A-2018-6372](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-6372)
+
+## ANEXO I — Modelo oficial de reclamación electrónica
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/142/9845_11724790_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/142/9845_11724790_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/142/9845_11724790_3.png)
+
+> Se añade por el art. único.8 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+## ANEXO II — Modelo oficial de Libro de Reclamaciones
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/142/9845_11724790_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/142/9845_11724790_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/142/9845_11724790_6.png)
+
+> Se añade por el art. único.9 del Real Decreto 448/2022, de 14 de junio de 2022. [Ref. BOE-A-2022-9845](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-9845)
+
+> **Información relacionada**
+
+> Véase, sobre conflicto de competencias con la Comunidad Autónoma de Andalucia, la Sentencia del TC 83/2013, de 11 de abril, [Ref. BOE-A-2013-4903](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4903).

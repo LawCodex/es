@@ -1,0 +1,1535 @@
+---
+title: "Orden INT/985/2005, de 7 de abril, por la que se delegan determinadas atribuciones y se aprueban las delegaciones efectuadas por otras autoridades"
+identifier: "BOE-A-2005-6098"
+eli: "https://www.boe.es/eli/es/o/2005/04/07/int985"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 2005-04-07
+published: 2005-04-15
+in_force_from: 2005-04-16
+last_amended: 2024-12-05
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 90"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-6098"
+retrieved: 2026-10-11
+---
+
+# Orden INT/985/2005, de 7 de abril, por la que se delegan determinadas atribuciones y se aprueban las delegaciones efectuadas por otras autoridades
+
+Incluye la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+La Orden INT/2992/2002, de 21 de noviembre, por la que el Ministro del Interior delega determinadas atribuciones y aprueba las delegaciones efectuadas por otras autoridades del Departamento en otros órganos del mismo, viene siendo un instrumento imprescindible para agilizar el funcionamiento administrativo del Departamento, incrementando los niveles de eficacia en la gestión.
+
+Con el Real Decreto 553/2004, de 17 de abril, por el que se reestructuran los Departamentos Ministeriales, y el Real Decreto 562/2004, de 19 de abril, por el que se aprueba la estructura orgánica básica de los Departamentos Ministeriales, se ha establecido una nueva estructura de la Administración General del Estado, mediante diversas supresiones y modificaciones en el ámbito de aquéllos.
+
+Así, salvando las competencias en materia de seguridad pública y de carácter policial, la Delegación del Gobierno para la Extranjería y la Inmigración, que hasta entonces tenía dependencia directa del Ministro del Interior, ha pasado a integrarse en la estructura del Ministerio de Trabajo y Asuntos Sociales, y la Delegación del Gobierno para el Plan Nacional sobre Drogas se ha reubicado orgánicamente en el Ministerio de Sanidad y Consumo; paralelamente, la Dirección General de Instituciones Penitenciarias ha quedado adscrita a la Subsecretaría del Interior, suprimiendo el rango de Subsecretario que anteriormente poseía su Titular.
+
+Como consecuencia de ello, el Real Decreto 1599/2004, de 2 de julio, ha procedido a modificar y desarrollar la estructura orgánica básica del Ministerio del Interior.
+
+En definitiva, las previsiones de la Orden INT/2992/2002, deben ser adaptadas a los cambios estructurales y a las necesidades de gestión administrativa derivadas de los mismos, por lo que se hace necesario aprobar una nueva Orden de delegación de competencias.
+
+Por todo ello, de conformidad con lo establecido en el artículo 12 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la Disposición Adicional Decimotercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, a propuesta de los órganos superiores y centros directivos afectados, dispongo:
+
+### Primero.
+
+1\. Se delega en los órganos superiores y centros directivos del Departamento señalados en la presente Orden el ejercicio de las atribuciones que se indican.
+
+2\. Se aprueban las delegaciones que los órganos superiores y centros directivos han efectuado en los órganos del Departamento que se especifican.
+
+## Secretaría de Estado de Seguridad
+
+### Segundo.
+
+El Secretario de Estado de Seguridad, por delegación del Ministro del Interior, ejercerá las siguientes competencias:
+
+1\. Respecto a los destinos para los que tiene atribuida la competencia, de acuerdo con la Orden INT/2359/2002, de 10 de septiembre, por la que se determinan los puesto de mando o dirección de la Guardia Civil, cuya asignación de destinos será competencia del Secretario de Estado de Seguridad:
+
+1.1 Asignar o denegar su adjudicación por necesidades del servicio
+
+1.2 Acordar el cese por necesidades del servicio.
+
+2\. El Secretario de Estado de Seguridad, por delegación del Subsecretario del Interior, ejercerá las siguientes atribuciones:
+
+La atribución temporal de funciones, la adscripción provisional y las comisiones de servicio en relación con los puestos de trabajo de los catálogos de las unidades adscritas a la Secretaría de Estado de Seguridad, incluida la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado, en los términos y condiciones previstas en el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo, sin perjuicio de lo delegado en otras autoridades.
+
+> Se añade el apartado 2 por el art. único.1 de la Orden INT/175/2016, de 11 de febrero. [Ref. BOE-A-2016-1617](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1617).
+
+## Subsecretaría
+
+### Tercero.
+
+El Subsecretario del Interior ejercerá por delegación de las autoridades que se expresan, las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento:
+
+1.1 Las atribuidas al Titular del Departamento en la Ley y en el Reglamento de Expropiación Forzosa, salvo las delegadas en la Secretaría General de Instituciones Penitenciarias
+
+1.2 Asumir la representación del Departamento en la interposición de recursos y reclamaciones administrativos frente a otras administraciones públicas, sin perjuicio de lo delegado en otras autoridades.
+
+1.3 La aprobación de los expedientes de modificaciones de crédito en los casos en que corresponda al Titular del Departamento, así como la autorización y remisión de las propuestas de modificación de créditos cuya autorización corresponda al Ministro de Economía y Hacienda.
+
+1.4 La imputación de obligaciones de ejercicios anteriores a créditos del ejercicio corriente.
+
+1.5 Las facultades previstas en el artículo 78.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, sobre anticipos de caja fija, así como las previstas en el artículo 7.2 del Real Decreto 640/1987, de 8 de mayo, sobre pagos librados a justificar.
+
+1.6 La concesión de ayudas y subvenciones con cargo a los créditos de los servicios presupuestarios del ámbito de sus competencias, hasta el límite de 1.800.000 euros, sin perjuicio de lo delegado en otras autoridades.
+
+1.7 La rendición ante el Tribunal de Cuentas a través de la Intervención General de la Administración del Estado, de los estados de las cuentas anuales y sus anexos, prevista en la Ley 47/2003, de 26 de noviembre
+
+1.8 Las atribuciones que le confiere el artículo 13.8 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+1.9 La resolución de las reclamaciones previas a la vía judicial civil.
+
+1.10 La aprobación y las modificaciones del programa editorial del Departamento.
+
+1.11 El nombramiento de los representantes del Ministerio en los órganos colegiados tanto ministeriales como interministeriales.
+
+1.12 La provisión de puestos de trabajo de libre designación, previa convocatoria pública, incluidos los puestos de Subdirector General, salvo en el ámbito de la Secretaría de Estado de Seguridad y las competencias delegadas en el Director General de Tráfico.
+
+1.13 La resolución de las solicitudes en materia de reconocimiento del estatuto de apátrida y de protección temporal en caso de afluencia masiva de personas desplazadas, de conformidad con lo dispuesto en la normativa aplicable.
+
+1.14 La resolución de las solicitudes de protección internacional, de acuerdo con lo dispuesto en los artículos 24 y 40 de la Ley 12/2009, de 30 de octubre, reguladora del derecho de asilo y de la protección subsidiaria, así como las que resuelvan los procedimientos de cese y revocación de la protección internacional previstas en el artículo 45 de la citada Ley.
+
+1.15 La declaración de lesividad de los actos administrativos.
+
+1.16 Cuando su cuantía no exceda de 1.800.000 euros, excepto lo delegado en otras autoridades:
+
+1.16.1 Las facultades que la legislación les confiere en materia de contratación.
+
+1.16.2 La aprobación y compromiso de los gastos propios del Departamento, el reconocimiento de las obligaciones que de ellos se derive, así como proponer al Ministro de Economía y Hacienda la ordenación de los pagos correspondientes.
+
+1.16.3 La competencia para celebrar los contratos de suministro y de servicios que afecten al ámbito de más de un órgano de contratación del Departamento, de conformidad con lo dispuesto en el artículo 291.1 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, y sin perjuicio de lo dispuesto en el artículo 190 de dicha Ley respecto a la contratación centralizada en el ámbito estatal, para su utilización específica por los servicios del Departamento.
+
+1.17 Respecto de los contratos de cuantía superior a 1.800.000 euros el ejercicio de todas las atribuciones a que se refieren los puntos 1.16.1 y 1.16.2 anteriores, con excepción de los acuerdos de iniciación del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el articulo 37 de la Ley 30/2007, de 30 de octubre, que corresponderán al órgano delegante.
+
+1.18 La suscripción de los convenios de colaboración con entidades públicas, a excepción de las Comunidades Autónomas, y con personas físicas o jurídicas sujetas al Derecho privado.
+
+1.19 La facultad de autorizar la celebración de los contratos a que hace referencia el artículo 292.5 de la Ley 30/2007, de 30 de octubre.
+
+1.20 Las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 15 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y en el artículo 4.1.n), en relación con el artículo 24.6, de la Ley 30/2007, de 30 de octubre.
+
+1.21 La autorización para el resarcimiento por la cuantía exacta de los gastos realizados por los Directores Generales o asimilados en las comisiones de servicio, a que se refiere el punto 1 del artículo 8 del Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+1.22 La resolución de expedientes disciplinarios que impongan sanciones de suspensión de funciones y traslado con cambio de residencia.
+
+1.23 La propuesta de relaciones de puestos de trabajo.
+
+1.24 El nombramiento y el cese del personal eventual.
+
+1.25 El otorgamiento de premios y recompensas, salvo que haya sido delegada expresamente en otros órganos.
+
+1.26 La resolución de las contiendas que surjan entre las autoridades administrativas del Departamento, excepto las delegadas en otras autoridades.
+
+1.27 La resolución de los recursos de alzada que se interpongan contra resoluciones de las autoridades centrales del Departamento, salvo los relativos al ámbito de competencias de la Secretaría de Estado de Seguridad, en cualesquiera de las materias objeto de la competencia del mismo.
+
+1.28 Autorizar la ampliación del plazo de rendición de las cuentas justificativas de la aplicación de las cantidades recibidas a justificar
+
+1.29 La convocatoria de pruebas selectivas en relación con los Cuerpos o Escalas adscritos al Organismo Autónomo Jefatura Central de Tráfico.
+
+1.30 El despacho y resolución de cuantos expedientes y asuntos que, cualquiera que sea su índole, estén atribuidos al Titular del Departamento por precepto legal o reglamentario y no estén delegados en otras autoridades.
+
+2\. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad:
+
+2.1 La resolución de expedientes disciplinarios que impongan sanciones de suspensión de funciones y traslado con cambio de residencia, excepto los relativos a los funcionarios del Cuerpo Nacional de Policía y al personal destinado en la Secretaría General de Instituciones Penitenciarias.
+
+2.2 La propuesta de relaciones de puestos de trabajo.
+
+2.3 El nombramiento y el cese del personal eventual.
+
+3\. Del Secretario de Estado de Seguridad, la resolución de los recursos que se interpongan contra resoluciones de las autoridades centrales del Departamento, en cualesquiera de las materias objeto de la competencia del mismo, así como la declaración de lesividad de los actos administrativos cuando le corresponda.
+
+> Se modifica el apartado 1.2 por el art. único.2 de la Orden INT/175/2016, de 11 de febrero. [Ref. BOE-A-2016-1617](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1617).
+
+> Se añade el punto 1.29 y renumera el anterior como 1.30 por el apartado único.1 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica el punto 1.14 por el apartado único.1 de la Orden INT/3162/2009, de 25 de noviembre. [Ref. BOE-A-2009-18872](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18872).
+
+> Se modifica por el apartado 1.1 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núm. 94, de 17 de abril de 2009, [Ref. BOE-A-2009-6467](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6467) y núm. 100, de 24 de abril de 2009. [Ref. BOE-A-2009-6838](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-6838).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+## Dirección General de la Policía
+
+### Cuarto.
+
+El Director General de la Policía ejercerá por delegación de las autoridades que se expresan, las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento:
+
+1.1 El acuerdo de cancelación de la inscripción de las empresas de seguridad así como la pérdida de la habilitación del personal de seguridad privada, excepto la de los guardias particulares del campo en virtud de lo dispuesto en los artículos 7.3 y 10.4 de la Ley 23/1992, de 30 de julio, de Seguridad Privada, por las causas establecidas en los artículos 12.2 y 64 del Reglamento de Seguridad Privada, aprobado por Real Decreto 2364/1994, de 9 de diciembre.
+
+1.2 La resolución de los recursos de alzada que se interpongan contra las resoluciones que acuerden el retorno a su punto de origen de los extranjeros a los que en frontera no se les permita el ingreso en territorio español, conforme a lo establecido en el artículo 60.1 de la Ley Orgánica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extranjeros en España y su Integración Social.
+
+1.3 La aceptación de las donaciones de bienes muebles, en el ámbito de sus competencias, cuando el donante hubiera señalado el fin a que deben destinarse, conforme al artículo 21.1 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+1..4 La resolución de las prohibiciones expresas de entrada en España por las causas señaladas en el artículo 10 d) del Reglamento de ejecución de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, aprobado por Real Decreto 2393/2004, de 30 de diciembre.
+
+2\. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad, salvo las facultades delegadas en otros órganos:
+
+2.1 La gestión de la nómina, aprobación y compromiso de los gastos correspondientes al Servicio 03, Capítulo I «Gastos de personal», el reconocimiento de las obligaciones que de ellos se derive, así como la propuesta al Ministro de Economía y Hacienda de la ordenación de los pagos correspondientes, sin límite de cuantía.
+
+2.2 Respecto de los gastos del Servicio 03, Capítulos 1, 2 y 6, y siempre que su cuantía no exceda de 450.000 euros, las facultades que el Texto Refundido de la Ley de Contratos de las Administraciones Públicas atribuye al órgano de contratación en relación con el acuerdo de inicio del expediente, adjudicación, prórroga, modificación y resolución del contrato, así como los reajustes de anualidades, salvo las delegadas en otros órganos.
+
+2.3 La imposición de sanciones disciplinarias a funcionarios del Cuerpo Nacional de Policía excepto la de separación del servicio.
+
+2.4 La facultad de acordar la suspensión o inejecución de las sanciones disciplinarias impuestas a funcionarios del Cuerpo Nacional de Policía, excepto la de separación del servicio, de conformidad con la normativa reguladora del régimen disciplinario de los funcionarios del Cuerpo Nacional de Policía.
+
+2.5 La resolución de los recursos que se interpongan en materia de extranjería, de conformidad con lo dispuesto en la normativa específica.
+
+3\. Del Secretario de Estado de Seguridad respecto de los miembros del Cuerpo Nacional de Policía destinados en su centro directivo, las facultades siguientes:
+
+3.1 Realizar los nombramientos a que se refiere el artículo 12 del Real Decreto 614/1995, de 21 de abril.
+
+4\. Del Subsecretario del Interior, las siguientes facultades:
+
+4.1 Designar las comisiones de servicio con derecho a indemnización respecto a todo el personal adscrito al centro directivo, hasta el límite del crédito, salvo las facultades delegadas en otros órganos.
+
+> Las delegaciones efectuadas en los órganos de la Dirección General de la Policía se ratifican en los órganos de la Dirección General de la Policía que los sustituyen, y las delegaciones efectuadas por el Director General del Policía en los órganos dependientes del mismo se ratifican en los órganos dependientes del mismo que los sustituyen, según establece el apartado segundo y tercero de la Orden INT/2853/2006, de 13 de septiembre. [Ref. BOE-A-2006-16193](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16193)
+
+> Se añade el punto 1.4 por la disposición final 1.1 de la Orden INT/2089/2005, de 17 de junio. [Ref. BOE-A-2005-11340](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11340).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+## Dirección General de la Guardia Civil
+
+### Quinto.
+
+El Director General de la Guardia Civil ejercerá por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento:
+
+1.1 Las competencias que le corresponden en relación con el extinguido “Patronato de Viviendas de la Guardia Civil”.
+
+1.2 Acordar la pérdida de la habilitación de los Guardas Rurales y sus especialidades, por las causas establecidas en el artículo 64 del Reglamento de Seguridad Privada, aprobado por el Real Decreto 2364/1994, de 9 de diciembre.
+
+1.3 Acordar o no el cese en su destino de los miembros de la Guardia Civil que pasen a la situación administrativa de suspenso de funciones.
+
+1.4 Respecto de los destinos para los cuales tiene atribuida la competencia, de acuerdo con el artículo 24.c) del Reglamento de destinos del personal de la Guardia Civil, aprobado por el Real Decreto 470/2019, de 2 de agosto:
+
+1.4.1 Asignar o denegar su adjudicación por necesidades del servicio.
+
+1.4.2 Acordar el cese por necesidades del servicio.
+
+1.5 Asignar y, en su caso, prorrogar los destinos del personal en situación de reserva, excepto a los Oficiales Generales.
+
+1.6 Acordar el cese en los destinos referidos en el punto anterior.
+
+1.7 Asignar o denegar la adjudicación por necesidades del servicio, de los destinos al personal en situación de reserva, excepto a los Oficiales Generales.
+
+1.8 Acordar el cese, por necesidades del servicio, en los destinos asignados de conformidad con el punto anterior.
+
+1.9 Designar comisiones de servicio al personal en situación de reserva, sin destino, excepto a los Oficiales Generales, y revocar su designación.
+
+1.10 La aceptación de las donaciones de bienes muebles, en el ámbito de sus competencias, cuando el donante hubiera señalado el fin a que deben destinarse, conforme al artículo 21.1 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+1.11 La resolución sobre la inscripción o denegación de inscripción en materia de Asociaciones Profesionales de la Guardia Civil, del apartado quinto de la Orden INT/3939/2007, de 28 de diciembre, por la que se habilita el Registro de Asociaciones Profesionales de Guardias Civiles.
+
+1.12 Otorgar las autorizaciones administrativas para el uso de locales en las dependencias oficiales del Cuerpo, a las que hace referencia la disposición adicional segunda del Real Decreto 175/2022, de 4 de marzo, por el que se desarrollan los derechos de las asociaciones profesionales de guardias civiles, de sus representantes y de los miembros del Consejo de la Guardia Civil, elegidos en representación de los miembros del Cuerpo.
+
+2\. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad, salvo las facultades delegadas en otros órganos:
+
+2.1 Respecto de los gastos del capítulo 1 “Gastos de Personal” del Servicio Presupuestario 04:
+
+2.1.1 La gestión de la nómina, aprobación y compromiso de los gastos, el reconocimiento de las obligaciones que de ellos se derive, así como la propuesta al Ministro de Hacienda de la orden de los pagos correspondientes, sin límite de cuantía.
+
+2.1.2 Las facultades que se confieren en materia de contratación administrativa, incluidos los negocios jurídicos, las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y los encargos a medio propio al amparo de lo previsto en los artículos 32 y 33 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, cuando su cuantía no exceda de 2.000.000 euros.
+
+2.2 Respecto del resto de los gastos del Servicio 04, cuando su cuantía no exceda de 2.000.000 euros:
+
+2.2.1 Las facultades que se confieren en materia de contratación administrativa, incluidos los negocios jurídicos, las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 11 de la Ley 40/2015, de 1 de octubre, los encargos a medio propio al amparo de lo previsto en los artículos 32 y 33 de la Ley 9/2017, de 8 de noviembre, en relación con el acuerdo de iniciación del expediente, su adjudicación, prórroga, modificación, resolución y reajustes de anualidades, así como la resolución de los recursos interpuestos sobre actos que se dicten en los procedimientos de adjudicación de contratos de las Administraciones Públicas que no reúnan los requisitos del artículo 44.1 de la Ley 9/2017, de 8 de noviembre, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+
+2.2.2 La concesión de ayudas y subvenciones.
+
+3\. Del Subsecretario del Interior las siguientes facultades:
+
+3.1 Designar las comisiones de servicio con derecho a indemnización respecto a todo el personal adscrito al centro directivo, hasta el límite del crédito, salvo las facultades delegadas en otros órganos.
+
+3.2 Respecto del personal funcionario, no perteneciente al Cuerpo de la Guardia Civil, destinado en el centro directivo de acuerdo con las instrucciones que el Subsecretario dicte:
+
+3.2.1 Reconocer la adquisición y cambio de grados personales.
+
+3.2.2 La declaración de las situaciones de servicio en las comunidades autónomas.
+
+3.2.3 Acordar las comisiones de servicios y la atribución temporal de funciones en los términos y condiciones previstos en el Reglamento aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+3.2.4 Autorizar la asistencia a cursos de selección, formación y perfeccionamiento.
+
+3.2.5 Conceder el reingreso al servicio activo de los funcionarios en situaciones de servicios especiales y de excedencia para el cuidado de familiares, que tengan derecho a reserva del puesto de trabajo.
+
+3.2.6 Autorizar la residencia de los funcionarios en lugar distinto del término municipal donde presten sus servicios.
+
+3.3 En relación con los funcionarios no pertenecientes al Cuerpo de la Guardia Civil destinados en los Servicios centrales de dicho centro directivo:
+
+3.3.1 Dar posesión y cese a los funcionarios en los puestos de trabajo.
+
+3.3.2 Declarar la jubilación forzosa, por incapacidad permanente para el servicio.
+
+3.3.3 Conceder permisos y licencias.
+
+3.3.4 El reconocimiento de trienios.
+
+3.3.5 Conceder la situación de excedencia para el cuidado de familiares y las excedencias voluntarias.
+
+3.4 En relación con el personal sujeto a Derecho Laboral el ejercicio de todas aquellas competencias de gestión ordinaria que no impliquen relaciones con otros Departamentos ministeriales, con excepción de la resolución de las reclamaciones previas a la vía judicial laboral.
+
+> Se modifica por el art. único.1 de la Orden INT/1059/2024, de 1 de octubre. [Ref. BOE-A-2024-19983](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19983)
+
+> Se añade el punto 1.12 por la disposición final 1 de la Orden INT/656/2023, de 19 de junio. [Ref. BOE-A-2023-14825](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-14825)
+
+> Se modifica el punto 2.1 por el art. único.2 de la Orden INT/2267/2011, de 7 de julio. [Ref. BOE-A-2011-13792](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-13792).
+
+> Se modifican los puntos 2.1 y 2.2 por el art. 1.2 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Se añade punto 1.11 por el apartado único de la Orden INT/252/2008, de 4 de febrero. [Ref. BOE-A-2008-2175](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-2175).
+
+> Las delegaciones efectuadas en los órganos de la Dirección General de la Guardia Civil se ratifican en los órganos de la Dirección General de la Guardia Civil que los sustituyen, y las delegaciones efectuadas por el Director General de la Guardia Civil en los órganos dependientes del mismo se ratifican en los órganos dependientes del mismo que los sustituyen, según establece el apartado segundo y tercero de la Orden INT/2853/2006, de 13 de septiembre. [Ref. BOE-A-2006-16193](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16193)
+
+> Redactado el punto 2.2 conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+## Delegaciones del Gobierno y Subdelegaciones del Gobierno
+
+### Sexto.
+
+Los Delegados del Gobierno en las Comunidades Autónomas uniprovinciales, en las ciudades de Ceuta y Melilla y los Subdelegados del Gobierno ejercerán en su respectivo ámbito territorial por delegación de las autoridades que se expresan, las siguientes atribuciones:
+
+1\. Del Ministro del Interior:
+
+1.1 La aprobación y compromiso de los gastos del Departamento, dentro de las consignaciones presupuestarias que se reserven, con la correspondiente facultad de contratación, el reconocimiento de las obligaciones que de ellos se deriven, así como la propuesta al Ministro de Economía y Hacienda de la ordenación de los pagos correspondientes.
+
+1.2 Las prohibiciones de salida de extranjeros del territorio nacional, conforme a lo dispuesto en el artículo 28 de la Ley Orgánica 4/2000, y en el artículo 20 de su Reglamento de ejecución, aprobado por Real Decreto 2393/2004.
+
+2\. Los Delegados del Gobierno en Ceuta y Melilla ejercerán, en su respectivo ámbito por delegación del Ministro del Interior, la facultad que a éste atribuye el artículo 5.2 de la Ley Orgánica 4/2000, reformada por la Ley Orgánica 8/2000, pudiendo disponer, con carácter individual, por razones debidamente motivadas de seguridad pública, y por el tiempo imprescindible, la medida consistente en el alejamiento de dichas Ciudades, respecto de los extranjeros:
+
+2.1 Que se encuentren en Ceuta y Melilla y vayan a ser trasladados a otros lugares del territorio español, cuando dicho traslado haya sido autorizado con fundamento en la admisión a trámite de su solicitud de asilo, o para documentarles mediante permiso de residencia temporal por circunstancias excepcionales.
+
+2.2 Que habiéndose trasladado desde Ceuta y Melilla a otros lugares del territorio español, en virtud de autorización concedida en los términos del párrafo anterior, se encuentren no obstante en cualquiera de ambas Ciudades.
+
+3\. El Delegado del Gobierno en Melilla, por delegación del Ministro, ejercerá en los territorios de las Islas Chafarinas y de los Peñones de Alhucemas y Vélez de la Gomera las mismas competencias que tenga atribuidas en materia de extranjería en su ámbito territorial.
+
+4\. Del Subsecretario del Interior respecto del personal laboral que preste servicios en los servicios periféricos del Departamento con excepción del de Instituciones Penitenciarias:
+
+4.1 Dar posesión y cese en los puestos de trabajo.
+
+4.2 La concesión de permisos y licencias.
+
+4.3 El reconocimiento de trienios.
+
+4.4 La incoación de expedientes disciplinarios y la imposición de sanciones por faltas leves.
+
+> Se añade el punto 3 y se renumera el anterior 3 como 4 por el art. 1.1 y 2 de la Orden INT/174/2017, de 1 de marzo. [Ref. BOE-A-2017-2218](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-2218).
+
+## Secretaría General Técnica
+
+### Séptimo.
+
+El Secretario General Técnico ejercerá por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro, Titular del Departamento:
+
+1.1 Siempre que su cuantía sea inferior a 300.500 euros, en el ámbito material de sus competencias:
+
+1.1.1 Las facultades de contratación.
+
+1.1.2 La aprobación, el compromiso y el reconocimiento de las obligaciones correspondientes a los gastos de edición y distribución, fondos bibliográficos y Capítulo 4 del Servicio 01, programa 131 M, así como la propuesta al Ministro de Economía y Hacienda de la ordenación de los pagos correspondientes.
+
+1.2 Las atribuidas en materia de asociaciones, por la Ley Orgánica 1/2002, de 22 de marzo, reguladora del derecho de asociación y normativa complementaria, incluyendo las recogidas en el artículo 35 y en la Disposición Adicional Primera, para acordar la declaración de utilidad pública de asociaciones, así como su denegación y revocación, y la facultad de resolver cuantas cuestiones se susciten al respecto, cuando sea parte la Administración, así como la de declarar la incompetencia del Ministerio del Interior en relación con los asuntos concernientes a las asociaciones mencionadas en el artículo 1, apartados 3 y 4, de dicha Ley Orgánica.
+
+1.3 La resolución de las solicitudes de indemnización en concepto de responsabilidad patrimonial de la Administración Pública.
+
+1.4 La resolución de las peticiones de resarcimiento a transportistas extranjeros, formuladas al amparo de la Ley 52/1984, de 26 de diciembre.
+
+1.5 La resolución de las solicitudes de ayudas a víctimas de actos de terrorismo en virtud de lo dispuesto en la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social y de la Ley 32/1999, de 8 de octubre, de Solidaridad con las Víctimas del Terrorismo, y sus normativas de desarrollo.
+
+1.6 La resolución de los recursos de alzada que se interpongan contra resoluciones de los Delegados del Gobierno en materia de seguridad privada o de medidas de seguridad en entidades de crédito y otras entidades y establecimientos.
+
+2\. Del Subsecretario del Interior:
+
+2.1 La presidencia de la Comisión Asesora de Publicaciones.
+
+2.2 Respecto del personal del centro directivo, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización hasta el límite de las consignaciones presupuestarias.
+
+> La delegación efectuada en el Secretario General Técnico en el apartado 1.5 se entenderá realizada en el Director General de Apoyo a Víctimas del Terrorismo, así como las correspondientes competencias financieras y presupuestarias, según establece el apartdo cuarto de la Orden INT/2853/2006, de 13 de septiembre. [Ref. BOE-A-2006-16193](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16193)
+
+## Dirección General de Política Interior
+
+### Octavo.
+
+El Director General de Política Interior ejercerá, en su ámbito material de competencias por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento.
+
+1.1 Siempre que su cuantía sea inferior a 300.500 euros:
+
+1.1.1 Las facultades de contratación en el ámbito material de sus competencias.
+
+1.1.2 La aprobación y el compromiso de los gastos financiados con créditos del programa presupuestario 924M “Elecciones y Partidos Políticos”, con excepción de los relativos al capítulo I “Gastos de personal”, el reconocimiento de las obligaciones que de ellos se deriven, así como la propuesta al Ministro de Economía Comercio y Empresa de la ordenación de pagos correspondiente.
+
+1.2 La resolución de los recursos que se interpongan contra las resoluciones de los Delegados de Gobierno, en materias propias del Departamento, con excepción de lo delegado en otras autoridades.
+
+2\. Del Subsecretario del Interior, respecto del personal del centro directivo, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización hasta el límite de las consignaciones presupuestarias.
+
+> Se modifica por el art. único.1 de la Orden INT/337/2024, de 11 de abril. [Ref. BOE-A-2024-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7559)
+
+> Se modifica el punto 1.3 por el apartado único.2 de la Orden INT/3162/2009, de 25 de noviembre. [Ref. BOE-A-2009-18872](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18872).
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+### Octavo bis.
+
+El Director General de Protección Internacional ejercerá, en su ámbito material de competencias por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento, las resoluciones que no admitan a trámite o denieguen las solicitudes de protección internacional, de acuerdo con lo dispuesto en los artículos 20 y 21 de la Ley 12/2009, de 30 de octubre, así como las ampliatorias del plazo de resolución de las solicitudes presentadas en puestos fronterizos y las que resuelvan las peticiones de reexamen previstas en los apartados 3 y 4, respectivamente, del artículo 21 de la citada Ley.
+
+2\. Del Subsecretario del Interior, respecto del personal del centro directivo, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización hasta el límite de las consignaciones presupuestarias.
+
+> Se añade por el art. único.2 de la Orden INT/337/2024, de 11 de abril. [Ref. BOE-A-2024-7559](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-7559)
+
+## Secretaría General de Instituciones Penitenciarias
+
+> Se modifica por el art. 1.3 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+### Noveno.
+
+El titular de la Secretaría General de Instituciones Penitenciarias, por delegación del titular del Departamento y de las demás autoridades que se expresan, ejercerá las facultades siguientes:
+
+1\. Del titular del Departamento, las atribuidas por la Ley y el Reglamento de Expropiación Forzosa, así como asumir la representación del Departamento en la interposición de recursos y reclamaciones administrativos frente a otras administraciones públicas, en materia de sanidad penitenciaria.
+
+2\. Del titular del Departamento, el ejercicio de las siguientes competencias para la administración de los créditos para gastos de su servicio presupuestario, salvo las delegadas en otros órganos:
+
+2.1 En materia de gestión económica y presupuestaria, el ejercicio de las competencias para la aprobación y compromiso de los gastos, el reconocimiento de las obligaciones y la propuesta de pago, con el límite de 1.800.000 euros; así como, cuando la cuantía sea superior a 1.800.000 euros, la competencia de reconocimiento de las obligaciones y propuesta de pago.
+
+2.2 En materia de contratación, en relación con los contratos cuya cuantía sea igual o inferior a 1.800.000 euros, todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento.
+
+2.3 En materia de contratación, en relación con los contratos cuya cuantía sea superior a 1.800.000 euros, todas las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento, incluidas las competencias para la aprobación y compromiso de los gastos, el reconocimiento de las obligaciones y la propuesta de pago, salvo la adopción de los acuerdos de inicio del expediente de contratación, de adjudicación, prórroga, modificación y resolución, que se reservará el órgano delegante.
+
+2.4 En relación con los encargos a medios propios personificados previstos en los artículos 32 y 33 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, cuyo valor sea igual o inferior a 1.800.000 euros, todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento; así como, cuando la cuantía sea superior a 1.800.000 euros, la competencia de reconocimiento de la obligaciones y propuesta de pago.
+
+2.5 La formalización de encomiendas de gestión previstas en el artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, cuando no exista aportación económica, o cuyo importe sea igual o inferior a 1.800.000 euros, y, en este caso, las competencias para la aprobación y compromiso de los gastos, el reconocimiento de las obligaciones y la propuesta de pago.
+
+2.6 Cuando únicamente afecten al ámbito de la Secretaría General de Instituciones Penitenciarias, la celebración de los convenios, acuerdos interministeriales y protocolos generales de actuación o instrumentos similares, cuando no exista aportación económica, o cuyo importe sea igual o inferior a 1.800.000 euros, y, en este caso, las competencias para la aprobación y compromiso de los gastos, el reconocimiento de las obligaciones y la propuesta de pago.
+
+2.7 La concesión de ayudas y subvenciones, cuyo importe sea igual o inferior a 1.800.000 euros, incluidas todas las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento.
+
+3\. Del titular del Departamento, en relación con el personal destinado en la Secretaría General de Instituciones Penitenciarias:
+
+3.1 La competencia para nombrar y cesar, por cualquiera de los sistemas previstos en la normativa sobre empleo público, a los Subdirectores Generales y asimilados, en los servicios centrales y periféricos de la Secretaría General.
+
+3.2 La fijación y distribución del complemento de productividad y de otros incentivos al rendimiento, en el marco de los criterios generales establecidos para el Departamento.
+
+4\. Del titular de la Subsecretaría, en relación con el personal destinado en la Secretaría General de Instituciones Penitenciarias:
+
+4.1 La provisión de puestos de trabajo de libre designación, previa convocatoria pública.
+
+4.2 La gestión y resolución de procesos selectivos en relación con los Cuerpos de Instituciones Penitenciarias.
+
+4.3 En relación con el personal laboral, la gestión y resolución de procesos selectivos, sin perjuicio de las competencias que la normativa vigente le atribuya a la Dirección General de la Función Pública en lo referente al personal incluido en el ámbito de aplicación del Convenio Colectivo Único para el personal laboral de la Administración General del Estado.
+
+4.4 La gestión y resolución de los procesos de provisión de puestos de trabajo con funcionarios interinos adscritos a Cuerpos de Instituciones Penitenciarias, así como proceder a su selección.
+
+4.5 La gestión y resolución de concursos para la provisión de puestos de trabajo de personal funcionario, así como la remoción de funcionarios de los puestos de trabajo obtenidos por concurso en los supuestos legalmente previstos.
+
+4.6 La redistribución de efectivos de los funcionarios que ocupen con carácter definitivo puestos no singularizados y la autorización de la movilidad como consecuencia del cambio de adscripción de puestos de trabajo no singularizados.
+
+4.7 La provisión de puestos de trabajo por procedimiento de reasignación de efectivos.
+
+4.8 La fijación del calendario laboral.
+
+4.9 La concesión del reingreso al servicio activo a quienes lo obtengan a través de la participación en convocatorias de provisión de puestos de trabajo mediante concurso o libre designación.
+
+4.10 La asignación de puestos de trabajo a los funcionarios de Instituciones Penitenciarias que por razón de edad regula el Real Decreto 89/2001, de 2 de febrero, por el que se regula la asignación de puestos de trabajo a determinados funcionarios del Cuerpo Especial y del Cuerpo de Ayudantes de Instituciones Penitenciarias por razones de edad.
+
+4.11 El ejercicio de la potestad disciplinaria del personal funcionario y laboral adscrito a dicha Secretaría General, salvo la separación del servicio.
+
+> Se modifica por el art. único.1 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden INT/175/2016, de 11 de febrero. [Ref. BOE-A-2016-1617](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1617).
+
+> Se modifica el punto 2.2 por el art. único.2 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica por el art. 1.3 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Las competencias delegadas por el Titular del Departamento en el Director General de Instituciones Penitenciarias y en el Subsecretario quedan delegadas por el Secretario de Estado de Seguridad en la Directora General de Instituciones Penitenciarias en lo que afecte a su ámbito de actuación y las delegadas en el resto de los órganos de la Dirección General de Instituciones Penitenciarias quedan delegadas por el Secretario de Estado de Seguridad en los mismos órganos, según establece el apartado primero de la Orden INT/2853/2006, de 13 de septiembre. [Ref. BOE-A-2006-16193](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-16193)
+
+> Redactado el punto 1 conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+## Dirección General de Tráfico
+
+### Décimo.
+
+El Director General de Tráfico ejercerá, en su ámbito material de competencias, por delegación de las autoridades que se expresan las atribuciones siguientes:
+
+1\. Del Ministro Titular del Departamento:
+
+1.1 Resolver los recursos de alzada que se interpongan contra resoluciones sancionadoras de los Delegados del Gobierno en materia de Tráfico, Circulación de Vehículos a Motor y Seguridad Vial.
+
+1.2 Establecer el marco de controles preventivos de alcoholemia al que se refiere el artículo 5 apartado o) del Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, aprobado por el Real Decreto Legislativo 339/1990, de 2 de marzo.
+
+1.3 En relación con los funcionarios destinados en el Organismo Autónomo:
+
+1.3.1 La convocatoria y resolución de concursos para la provisión de puestos de trabajo, así como la remoción de funcionarios de los puestos de trabajo obtenidos por concurso en los supuestos legalmente previstos.
+
+1.3.2 La provisión de puestos de trabajo de libre designación, con excepción de los Subdirectores Generales y asimilados que tengan asignado nivel 30 de complemento de destino.
+
+1.3.3 La concesión del reingreso al servicio activo a quienes lo obtengan a través de la participación en convocatorias de provisión de puestos de trabajo mediante concurso o libre designación.
+
+2\. Del Subsecretario del Interior, respecto del personal destinado en el organismo autónomo Jefatura Central de Tráfico:
+
+2.1 En relación con los funcionarios de los Cuerpos o Escalas adscritos al organismo:
+
+2.1.1 Determinar los puestos a proveer por funcionarios de nuevo ingreso.
+
+2.1.2 El nombramiento de los funcionarios interinos.
+
+2.1.3 Conceder el reingreso al servicio activo con carácter provisional a los funcionarios pertenecientes a dichos Cuerpos o Escalas.
+
+2.1.4 Conceder la jubilación voluntaria.
+
+2.2 En relación con los funcionarios destinados en el Organismo Autónomo:
+
+2.2.1 Reconocer la adquisición y cambio de grados personales.
+
+2.2.2 Declarar la situación de servicio en las Comunidades Autónomas.
+
+2.2.3 Acordar las comisiones de servicios y atribución temporal de funciones dentro del organismo autónomo en los términos y condiciones previstos en el Reglamento aprobado por el Real Decreto 364/1995.
+
+2.2.4 Autorizar la asistencia a cursos de selección, formación y perfeccionamiento.
+
+2.2.5 Autorizar la residencia de los funcionarios en lugar distinto del término municipal donde prestan sus servicios.
+
+2.2.6 Conceder el reingreso al servicio activo de la situación de servicios especiales y el reingreso al servicio activo de la situación de excedencia para el cuidado de familiares a los funcionarios que tengan derecho a la reserva del puesto de trabajo.
+
+2.2.7 El reconocimiento de servicios previos, al amparo de lo dispuesto en la Ley 70/1978, de 26 de diciembre.
+
+2.2.8 Autorizar la permuta de puestos de trabajo
+
+2.2.9 Conceder la prórroga de plazo de cese por necesidades del servicio y la prórroga de incorporación a un nuevo puesto de trabajo.
+
+2.2.10 Todos aquellos actos de administración y gestión de personal que no figuren atribuidos a otros órganos en el Real Decreto 2169/1984, de 28 de noviembre, sobre atribución de competencias en materia de personal.
+
+2.3 En relación con los funcionarios destinados en los Servicios Centrales del organismo autónomo:
+
+2.3.1 Dar posesión y cese a los funcionarios en los puestos de trabajo.
+
+2.3.2 Declarar las jubilaciones forzosas y por incapacidad permanente para el servicio.
+
+2.3.3 La concesión de permisos y licencias.
+
+2.3.4 El reconocimiento de trienios.
+
+2.3.5 La adscripción provisional de puestos de trabajo a funcionarios cesados en puestos de nivel 30 o inferior en los supuestos previstos en los apartados a) y b) del artículo 63 del Reglamento aprobado por el Real Decreto 364/1995.
+
+2.4 En relación con el personal sujeto a Derecho Laboral el ejercicio de todas aquellas competencias de gestión ordinaria que no impliquen relaciones con otros Departamentos ministeriales, con excepción de la resolución de las reclamaciones previas a la vía judicial laboral y de la extinción de los contratos de trabajo por causa de sanción disciplinaria.
+
+3\. Del Subsecretario del Interior, la autorización de las comisiones de servicio con derecho a indemnización del personal de la Agrupación de Tráfico de la Guardia Civil, en relación con el ejercicio de las competencias atribuidas al Ministerio del Interior en materia de vigilancia, regulación y control del tráfico y de la seguridad vial, de acuerdo con lo dispuesto en la normativa aplicable.
+
+## Dirección General de Protección Civil y Emergencias
+
+### Undécimo.
+
+El Director General de Protección Civil y Emergencias ejercerá, en su ámbito material de competencias, por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento:
+
+1.1 Siempre que su cuantía no exceda de 500.000 euros, la aprobación y compromiso de los gastos de los servicios dependientes del mismo dentro de sus consignaciones presupuestarias, con la correspondiente facultad de contratación, el reconocimiento de las obligaciones que de ellos se deriven, así como la propuesta al Ministro de Economía y Hacienda de la ordenación de pagos correspondiente.
+
+1.2 La concesión de ayudas y subvenciones, con cargo a los créditos presupuestarios del ámbito de sus competencias, hasta un límite de 600.000 euros, sin perjuicio de lo delegado en otras autoridades.
+
+2\. Del Subsecretario del Interior, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización hasta el límite de las consignaciones presupuestarias.
+
+## Dirección General de Infraestructuras y Material de la Seguridad
+
+### Duodécimo.
+
+El Director General de Infraestructuras y Material de la Seguridad ejercerá, por delegación de las autoridades que se expresan, las siguientes atribuciones:
+
+1\. Del Secretario de Estado de Seguridad, respecto a los gastos del Servicio 02:
+
+1.1 Siempre que su cuantía no exceda de 450.000 euros, excepto lo delegado en otras autoridades:
+
+1.1.1 Las facultades que la legislación le confiere en materia de contratación administrativa, incluidos los negocios jurídicos y las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 15 de la Ley 30/1992, de 26 de noviembre, y del artículo 4.1.n), en relación con el artículo 24.6, de la Ley 30/2007, de 30 de octubre.
+
+1.1.2 La aprobación y compromiso de los gastos, el reconocimiento de las obligaciones que de ellos se deriven, con excepción de los créditos relativos a los subconceptos 226.01, 226.08 y 226.11, así como la propuesta de pago efectuada al Ministerio de Economía y Hacienda.
+
+1.1.3 La concesión de ayudas y subvenciones.
+
+1.2 Respecto de los gastos contractuales y no contractuales de cuantía superior a 450.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 1.1.1 y 1.1.2 anteriores, con excepción de los acuerdos de iniciación del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se reservará el órgano delegante.
+
+1.3 La remisión al Tribunal de Cuentas de la documentación relativa a los contratos celebrados con cargo a los créditos del Servicio 02, de acuerdo con lo previsto en el artículo 29 de la Ley 30/2007, de 30 de octubre.
+
+2\. Del Subsecretario del Interior designar las comisiones de servicio con derecho a indemnización a realizar en territorio nacional, respecto del personal adscrito a la Secretaría de Estado de Seguridad, salvo las facultades delegadas en otros órganos.
+
+> Se modifica el punto 1.2 por el apartado único.3 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica por el art. 1.4 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 2010. [Ref. BOE-A-2010-1871](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1871).
+
+## Direcciones Generales del Departamento
+
+### Decimotercero.
+
+Los Directores Generales del Departamento ejercerán respecto del personal laboral de ellos dependientes por delegación del Subsecretario del Interior las facultades de incoar expedientes disciplinarios y la de imponer sanciones por faltas leves de acuerdo con el Convenio Único vigente.
+
+## Subdirecciones Generales y Órganos Dependientes de la Dirección General de la Policía
+
+### Decimocuarto.
+
+Los Subdirectores Generales y titulares de otros órganos dependientes de la Dirección General de la Policía ejercerán por delegación de las autoridades que se expresan, las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad:
+
+1.1 El Jefe de la División de Personal respecto de los miembros del Cuerpo Nacional de Policía destinados en ese centro directivo las siguientes:
+
+1.1.1 Acordar los cambios de situaciones administrativas
+
+1.1.2 Conceder el reingreso al servicio activo a los funcionarios en situación de servicios especiales y de excedencia.
+
+1.1.3 Conceder la jubilación voluntaria.
+
+1.1.4 Declarar las jubilación por incapacidad permanente para el servicio y la jubilación forzosa.
+
+1.1.5 Reconocer la adquisición y cambio de grados personales.
+
+1.1.6 Reconocer los trienios y los servicios previos.
+
+1.1.7 Dar posesión y cese a los funcionarios.
+
+1.1.8 Autorizar la residencia de los funcionarios en localidad distinta al término municipal donde presten sus servicios.
+
+1.2 El Jefe de la División de Coordinación Económica y Técnica, respecto a los gastos del servicio 03, capítulos 2 a 7:
+
+1.2.1 Sin limitación de cuantía:
+
+1.2.1.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.2.1.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación, excepto el acuerdo de iniciación del expediente, adjudicación, prórroga, modificación y resolución del contrato, así como los reajustes de anualidades.
+
+1.2.2 Siempre que su cuantía no exceda de 120.000 euros.
+
+1.2.2.1 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación en relación con el acuerdo de inicio del expediente, adjudicación, prórroga, modificación y resolución del contrato, así como los reajustes de anualidades.
+
+1.3 Los Jefes Superiores de Policía, los Directores de los Centros de Formación y Perfeccionamiento, los Comisarios provinciales, el Jefe de la Comisaría Especial del Servicio de Seguridad de la Casa de Su Majestad El Rey, el Jefe del Grupo Especial de Operaciones y los Jefes de las Unidades de Intervención Policial; respecto a los gastos del servicio 03, capítulos 2 a 7:
+
+1.3.1 Sin limitación de cuantía respecto a los gastos que corresponda gestionar a sus Unidades, la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago cuando se utilice el procedimiento de anticipo de Caja Fija.
+
+1.3.2 Hasta un límite de 60.000 euros:
+
+1.3.2.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.3.2.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación.
+
+2\. Del Subsecretario del Interior:
+
+2.1 La facultad de designar comisiones de servicio en territorio nacional con derecho a indemnización, respecto del personal funcionario y laboral adscrito, de acuerdo con las siguientes normas:
+
+2.1.1 Los Comisarios Provinciales de Policía las comisiones de servicio que no excedan de cinco días consecutivos.
+
+2.1.2 Los Jefes Superiores de Policía:
+
+2.1.2.1 Respecto de los Comisarios provinciales y del personal destinado en la provincia sede de la Jefatura Superior las comisiones de servicio que no excedan de diez días de duración.
+
+2.1.2.2 Respecto del personal destinado en las restantes provincias comprendidas en su ámbito de competencias las comisiones de servicio cuya duración exceda de cinco días y no supere diez días.
+
+2.1.3 Los Comisarios Generales y los Jefes de División respecto del personal dependiente orgánica y funcionalmente las comisiones de servicio sin límite temporal.
+
+2.1.4 El Subdirector General de Operativo respecto de los Jefes Superiores de Policía.
+
+2.1.5 Los Subdirectores Generales respecto del personal adscrito a órganos inferiores cuando los Titulares de éstos no sean competentes y respecto del personal directamente dependiente las comisiones de servicio sin límite temporal.
+
+2.1.6 El Jefe de la Comisaría Especial de la Casa de Su Majestad el Rey, respecto del personal con dependencia directa, las comisiones de servicio sin límite temporal, tanto en territorio nacional como en el extranjero
+
+2.2 El Jefe de la División de Personal respecto del personal funcionario destinado en el centro directivo, no perteneciente al Cuerpo Nacional de Policía, las siguientes atribuciones:
+
+2.2.1 Reconocer la adquisición y cambio de grados personales.
+
+2.2.2 Autorizar la asistencia a cursos de selección, formación y perfeccionamiento.
+
+2.2.3 Autorizar la residencia de los funcionarios en lugar distinto del término municipal donde presten sus servicios.
+
+2.2.4 En relación con los funcionarios no pertenecientes al Cuerpo Nacional de Policía destinados en los servicios centrales de dicho Centro Directivo:
+
+2.2.4.1 Declarar la jubilación forzosa por incapacidad permanente para el servicio.
+
+2.2.4.2 Conceder la situación de excedencia para el cuidado de familiares y las excedencias voluntarias.
+
+2.2.4.3 Dar posesión y cese en los puestos de trabajo.
+
+2.2.4.4 Conceder permisos y licencias.
+
+2.2.4.5 El reconocimiento de trienios.
+
+2.2.5 En relación con el personal sujeto a Derecho Laboral, el ejercicio de todas aquellas competencias de gestión ordinaria que no impliquen relaciones con otros Departamentos Ministeriales, con excepción de la resolución de las reclamaciones previas a la vía judicial laboral.
+
+3\. Del Director General de la Policía:
+
+3.1 El Jefe de la División de Personal ejercerá por delegación del Director General de la Policía, respecto del personal del Cuerpo Nacional de Policía destinado en el Centro Directivo, las siguientes facultades:
+
+3.1.1 La resolución de los expedientes instruidos por las solicitudes que formulen los miembros del Cuerpo Nacional de Policía por daños sufridos en actos de servicio.
+
+3.1.2 La resolución de los expedientes instruidos para la determinación de lesiones producidas en acto de servicio o como consecuencia del mismo.
+
+3.1.3 La cancelación de anotaciones en el expediente personal de los funcionarios como consecuencia de la imposición de sanciones por la comisión de faltas graves y leves.
+
+3.1.4 La resolución de expedientes sobre las reclamaciones económico-administrativas en materia de puestos de trabajo.
+
+3.1.5 Los ceses en puestos de trabajo del personal de las Unidades de Intervención Policial, como consecuencia de la finalización de los períodos de desempeño de estos puestos o la no superación de las pruebas de revalidación para la prórroga en los mismos.
+
+3.1.6 La resolución de los siguientes asuntos relacionados con la situación de segunda actividad de los miembros del Cuerpo Nacional de Policía mencionados en el artículo 8 de la Ley 26/1994, reguladora de dicha situación:
+
+3.1.6.1 Pase a la situación por razón de la edad
+
+3.1.6.2 Pase a la situación a petición propia
+
+3.1.6.3 Pase a la situación por insuficiencia de aptitudes
+
+3.1.6.4 Cambio de situación administrativa desde la de segunda actividad y posterior reingreso a la misma
+
+3.1.6.5 Procedimientos de revisión instruidos para determinar la procedencia del reingreso al servicio activo desde la situación de segunda actividad por insuficiencia de aptitudes.
+
+3.1.7 Las facultades que el Reglamento de Armas le atribuye en relación con las armas y su documentación, tanto de los funcionarios del Cuerpo Nacional de Policía como de personas ajenas a dicho Cuerpo destinadas en la Dirección General de la Policía, excepto la revocación de las licencias de armas o autorizaciones especiales, previamente concedidas; también ejercerá la facultad de acordar la retirada cautelar de las armas por motivos psíquicos al personal mencionado anteriormente.
+
+3.2 El Comisario General de Seguridad Ciudadana ejercerá la facultad para acordar la expedición de la tarjeta de identidad profesional de los Directores de seguridad, Jefes de seguridad, Vigilantes de seguridad, Vigilantes de explosivos y sustancias peligrosas, Escoltas privados y Detectives privados así como la autorización a las empresas de seguridad para sustituir la defensa reglamentaria de sus Vigilantes de seguridad por otro tipo de arma defensiva.
+
+> Se modifica por el art. 1.5 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 121, de 21 de mayo de 2005. [Ref. BOE-A-2005-8407](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-8407).
+
+### Decimoquinto.
+
+Los Jefes de Brigadas o Unidades Centrales, por delegación del Comisario General de Extranjería y Documentación, los Titulares de las Comisarías de Distrito y los Jefes de las Brigadas Provinciales, por delegación de los Jefes Superiores de Policía y Comisarios Provinciales, ejercerán en sus respectivos ámbitos territoriales la competencia sobre incoación de expedientes sancionadores en materia de extranjería, de acuerdo con lo dispuesto en el artículo 50 de la Ley Orgánica 4/2000, en relación con el artículo 112 y siguientes de su Reglamento aprobado por Real Decreto 2393/2004.
+
+## Subdirecciones Generales y Órganos Dependientes de la Dirección General de la Guardia Civil
+
+### Decimosexto.
+
+Los Jefes que se mencionan a continuación, dependientes de la Dirección General de la Guardia Civil, ejercerán por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Por delegación del Ministro Titular del Departamento y del Secretario de Estado de Seguridad, salvo las facultades delegadas en otros órganos:
+
+1.1 El Jefe de Asuntos Económicos respecto de los gastos del servicio 04, capítulos 2 a 9:
+
+1.1.1 Sin limitación de cuantía:
+
+1.1.1.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.1.1.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación, excepto el acuerdo de iniciación del expediente, adjudicación, prórroga, modificación y resolución del contrato, así como los reajustes de anualidades.
+
+1.1.2 Siempre que su cuantía no exceda de 800.000 euros:
+
+1.1.2.1 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación en relación con el acuerdo de inicio del expediente, adjudicación, formalización, prórroga, modificación y resolución del contrato, así como los reajustes de anualidades.
+
+1.2 El Jefe del Servicio de Gestión Económica, respecto de los gastos del servicio 04, sin limitación de cuantía: la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago, cuando se utilice el procedimiento de anticipo de caja fija.
+
+1.3 El Jefe del Servicio de Contratación: autorizar la devolución de fianzas provisionales, definitivas y demás garantías.
+
+1.4 En los Generales Jefes de Zona y el General Jefe de la Jefatura de Enseñanza, respecto de los gastos del servicio 04, capítulos 2, 3, 4, y 6:
+
+1.4.1 Sin limitación de cuantía, respecto de los gastos que corresponda gestionar a sus Unidades: la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago cuando se utilice el procedimiento de anticipo de caja fija.
+
+1.4.2 En el resto de procedimientos, siempre que su cuantía no exceda de 500.000 euros:
+
+1.4.2.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.4.2.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación.
+
+1.5 En los Coroneles Jefes de Zona, Coroneles Directores de Centros de Enseñanza, Coronel Jefe de la Unidad de Acción Rural (UAR) y Coronel Jefe de la Unidad de Protección y Seguridad (UPROSE), respecto de los gastos del servicio 04, capítulos 2, 3, 4, y 6:
+
+1.5.1 Sin limitación de cuantía, respecto de los gastos que corresponda gestionar a sus Unidades: la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago cuando se utilice el procedimiento de anticipo de caja fija.
+
+1.5.2 En el resto de procedimientos, siempre que su cuantía no exceda de 300.000 euros:
+
+1.5.2.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.5.2.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación.
+
+1.6 En los Jefes de Comandancia, otros Directores de Centros de Enseñanza y el Jefe de la Unidad Especial de Seguridad de la Casa de Su Majestad El Rey, respecto de los gastos del servicio 04, capítulos 2, 3, 4, y 6:
+
+1.6.1 Sin limitación de cuantía, respecto de los gastos que corresponda gestionar a sus Unidades: la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago cuando se utilice el procedimiento de anticipo de caja fija.
+
+1.6.2 En el resto de procedimientos, siempre que su cuantía no exceda de 250.000 euros:
+
+1.6.2.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.6.2.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación.
+
+1.7 En los Jefes de los Grupos de Reserva y Seguridad respecto de los gastos del servicio 04, capítulos 2, 3 y 6:
+
+1.7.1 Sin limitación de cuantía, respecto de los gastos que corresponda gestionar a sus Unidades: la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago cuando se utilice el procedimiento de anticipo de caja fija.
+
+1.7.2 En el resto de procedimientos, siempre que su cuantía no exceda de 100.000 euros:
+
+1.7.2.1 La aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago.
+
+1.7.2.2 Las facultades que la legislación sobre contratación administrativa atribuye al órgano de contratación.
+
+1.8 Al Mando de Personal, la facultad de reconocer los trienios y los servicios previos del personal del Cuerpo de la Guardia Civil.
+
+2\. Por delegación del Subsecretario del Interior los Titulares de los órganos de la Dirección General de la Guardia Civil que a continuación se mencionan la facultad de designar comisiones de servicio con derecho a indemnización, respecto del personal funcionario y laboral adscrito a su ámbito de competencias, hasta el límite de los créditos que tengan asignados de acuerdo con las siguientes normas:
+
+2.1 Los Jefes de Comandancia, el Jefe de la Unidad de Protección y Seguridad, los Jefes de los Grupos de Reserva y Seguridad y el Jefe de la Unidad Especial de Intervención, las comisiones de servicio en territorio nacional que no excedan de cinco días consecutivos.
+
+2.2 Los Directores de Centros docentes, el Jefe de la Unidad, de Acción Rural, el Jefe de la Agrupación de Reserva y Seguridad y los Coroneles Jefes de Servicio dependientes de la Jefatura de Unidades Especiales y de Reserva, respecto del personal directamente dependiente, las comisiones de servicio en territorio nacional que no excedan de diez días consecutivos.
+
+2.3 El Jefe del Servicio de Material Móvil respecto del personal con dependencia orgánica, las comisiones de servicio en territorio nacional que no excedan de diez días consecutivos.
+
+2.4 El Jefe de la Unidad Especial de la Guardia Civil del Servicio de Seguridad de la Casa de Su Majestad el Rey, respecto del personal con dependencia directa, las comisiones de servicio sin límite temporal, tanto en territorio nacional como en el extranjero.
+
+2.5 Los Jefes de Zona, los Generales Jefes de Unidad o Jefatura, de la Agrupación de Tráfico y de la Secretaría de Cooperación Internacional, respecto del personal dependiente orgánica y funcionalmente de los mismos, las comisiones de servicio en territorio nacional, sin límite temporal.
+
+2.6 Los órganos con nivel de Subdirección General, respecto del personal directamente dependiente, las comisiones de servicio en territorio nacional, sin límite temporal.
+
+En el ámbito de la Agrupación de Tráfico de la Guardia Civil se estará a lo dispuesto en la Orden de 10 de mayo de 1980, sobre relaciones de dicha Agrupación con la Dirección General de Tráfico, modificada por las Órdenes de 29 de diciembre de 1994 y de 5 de abril de 2001, y demás normativa aplicable.
+
+3\. Por delegación del Director General de la Guardia Civil:
+
+3.1 El Mando de Operaciones las atribuciones que se confieren en los Reglamentos de Armas, Explosivos y Artículos Pirotécnicos y Cartuchería con las excepciones contempladas en los puntos 3.3, 3.4, 3.5 y 3.6 de este apartado.
+
+3.2 El Mando de Personal:
+
+3.2.1 Las resoluciones de anuncios de vacantes.
+
+3.2.2 La asignación de destinos de concurso de méritos y de provisión por antigüedad.
+
+3.3 Los Jefes de Zona, las atribuciones que se confieren en los artículos 96.8, 97.5, 117.4 y 131 del Reglamento de Armas, sobre: autorizaciones de tarjetas militares para que surtan efectos las licencias “A”, concesión de autorizaciones para la adquisición de fusiles de inyección anestésica, licencia especial para armas de concurso tipo F y revocación de las autorizaciones por pérdida de los requisitos exigibles.
+
+Asimismo, la atribución del artículo 3.a) del Real Decreto 740/1983, de 30 de marzo, por el que se regula la licencia de armas correspondientes a los miembros de la Policía de las Comunidades Autónomas y de las Entidades Locales, sobre expedición de las guías de pertenencia de las armas de dotación reglamentaria de los Cuerpos de Policía Autonómica que se encuentren en la demarcación de la Zona.
+
+Y la expedición de las guías de pertenencia de las armas de dotación reglamentaria de las Unidades, Centros o Dependencias de la Dirección Adjunta de Vigilancia Aduanera que se encuentren en demarcación de la Zona, conforme a lo dispuesto en el artículo 7.a) del Reglamento de Armas.
+
+Dichas competencias serán ejercidas por el Jefe de la Zona de la Comunidad Autónoma de Andalucía, en relación con las Comandancias de Ceuta y Melilla.
+
+3.4 Al Jefe de la Jefatura de Armas, Explosivos y Seguridad, las atribuciones que se confieren en los siguientes artículos del Reglamento de Armas: 5.2 (aprobación de imitaciones de armas de fuego), 10 (autorización para el ejercicio de las actividades de armero y corredor), 12 (autorización para el establecimiento, modificación sustancial o traslado de las fábricas de armas de fuego de las categorías 1.ª a 3.ª y autorización para los cambios de titular de las fábricas de armas de fuego), 77 (autorización de exhibición de armas en ferias y exposiciones), 99.1 (licencia de armas de defensa personal B), 107 (autorizaciones de coleccionista de armas), 49, 120 y 141 (adquisición de armas a personas físicas o jurídicas que carezcan de licencias o autorizaciones) y 151 (autorización de campos, galerías y polígonos de tiro).
+
+3.5 Al Jefe de la Intervención Central de Armas y Explosivos, las atribuciones que se confieren en los siguientes artículos del Reglamento de Armas: 18.1 (salida de las armas de fábrica), 26 (transformación de armas de fuego), 57.2 (autorización para viajante o representante de fabricante o comerciante no autorizado en España), 74.1 (autorización a armeros para transferir armas de fuego desde España a la UE), 76.3 (consentimiento previo para entrada de armas desde la UE), 79 (autorización de las medidas de seguridad de las fábricas de armas de la 1.ª y 2.ª categoría), 47.1, 65.3, 84, 120, 133.2c y 144 (aprobación de las medidas de seguridad de distintos establecimientos para guardar armas), 110 y 111 (autorizaciones para entrada en España con armas y su tenencia y uso).
+
+Asimismo, la aprobación de las medidas de seguridad de los lugares de almacenamiento de cartuchería en armerías, empresas de seguridad privada, polígonos y galerías de tiro y empresas especializadas en la custodia de armas y fijación de las cantidades máximas de almacenamiento, según lo dispuesto en el artículo 103 del Reglamento de artículos pirotécnicos y cartuchería.
+
+3.6 Los Jefes de Comandancia:
+
+3.6.1 Las atribuciones que se confieren en los artículos 93, 97.5, 109.3, 112.3, 113, 165, 167 y 168 del Reglamento de Armas, sobre autorizaciones especiales de uso de armas para menores, autorizaciones para la tenencia de armas de fuego a los ciudadanos residentes de la Unión Europea durante sus viajes por España, expedición de la Tarjeta Europea de Armas de Fuego, destrucción de armas y revocación de las autorizaciones por pérdida de los requisitos exigibles.
+
+Asimismo, la atribución del artículo 3.b) del Real Decreto 740/1983, de 30 de marzo, para la expedición de las guías de pertenencia de las armas de dotación reglamentaria de los Cuerpos de Policía de los Entes Locales que se encuentren en la demarcación de la Comandancia.
+
+3.6.2 Las atribuciones del artículo 60 del Reglamento de Seguridad Privada, aprobado por Real Decreto 2364/1994, de 9 de diciembre, para la expedición de las tarjetas de identidad profesional a los Guardas rurales y sus especialidades.
+
+3.7 Los Jefes de Zona en su ámbito territorial, la Jefatura de Enseñanza, respecto de los centros docentes y el Mando de Personal, respecto de los servicios centrales, en materia de responsabilidad administrativa y resarcimiento, las siguientes facultades:
+
+3.7.1 El nombramiento de instructor y la resolución de los expedientes incoados por responsabilidad administrativa.
+
+3.7.2 El nombramiento de instructor y la resolución de los expedientes de resarcimiento, siempre que la cuantía de la indemnización solicitada no exceda de cinco veces el sueldo mensual del empleo de Guardia Civil.
+
+> Se modifica el apartado 1 por el art. único de la Orden INT/1373/2024, de 30 de noviembre. [Ref. BOE-A-2024-25437](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-25437)
+
+> Se modifica por el art. único.2 de la Orden INT/1059/2024, de 1 de octubre. [Ref. BOE-A-2024-19983](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-19983)
+
+> La modificación de los puntos 3.1, 3.3, 3.4, 3.5 y 3.6, surtirá efectos desde el 3 de diciembre de 2024, según establece la disposición final única.1 de la citada Orden.
+
+> Se modifica el punto 2.6 por el apartado único.4 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+## Subdirección General de Recursos Humanos de Instituciones Penitenciarias
+
+> Se modifica por el art. 1.6 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+### Decimoséptimo.
+
+El titular de la Subdirección General de Recursos Humanos de Instituciones Penitenciarias ejercerá, en su ámbito material de competencias, por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del titular del Departamento, en relación con el personal destinado en la Secretaría General de Instituciones Penitenciarias, salvo lo delegado en las personas titulares de las Direcciones o Gerencias de centros penitenciarios, la aprobación y compromiso de gastos correspondientes al capítulo I "Gastos de personal", el reconocimiento de la obligación y la propuesta de pago dirigida al Director General de Tesoro y Política Financiera, con excepción de los gastos que se tramiten al amparo de lo dispuesto en la Ley 9/2017, de 8 de noviembre.
+
+2\. Del titular de la Subsecretaría, las siguientes competencias respecto al personal funcionario, sin perjuicio de las competencias de los Delegados del Gobierno en relación con los funcionarios destinados en los servicios periféricos:
+
+2.1 Acordar el pase a las situaciones administrativas de servicios especiales y de servicio en otras Administraciones Públicas.
+
+2.2 Conceder el reingreso al servicio activo a los funcionarios en la situación de servicios especiales y en la de excedencia por cuidado de familiares y por razón de violencia de género o terrorista que tengan derecho a reserva de puesto de trabajo.
+
+2.3 Autorizar la residencia de funcionarios en localidad distinta al término municipal donde presten sus servicios.
+
+2.4 Reconocer la adquisición y cambio de grados personales.
+
+2.5 El reconocimiento de servicios previos al amparo de la Ley 70/1978, de 26 de diciembre.
+
+2.6 Diferir el cese por necesidades del servicio y conceder la prórroga de incorporación a un nuevo puesto de trabajo.
+
+2.7 La acción social general.
+
+2.8 Acordar las comisiones de servicio reguladas en el artículo 64 del Reglamento general de ingreso del personal al servicio de la Administración General del Estado y de provisión de puestos de trabajo y promoción profesional de los funcionarios civiles de la Administración General del Estado. aprobado por el Real Decreto 364/1995, de 10 de marzo, para cualquier clase de puestos, con la excepción de aquellos de Subdirector General y asimilados.
+
+2.9 Para los mismos puestos que en el párrafo precedente, la atribución temporal de funciones en los términos y condiciones regulados en el artículo 66 del mencionado Reglamento.
+
+2.10 Autorizar la permanencia en el servicio activo hasta un máximo de setenta años.
+
+2.11 Autorizar la permuta de puestos de trabajo.
+
+2.12 La adscripción provisional de puestos de trabajo a funcionarios, con la excepción de aquellos de Subdirector General y asimilados, en los supuestos previstos en los apartados a) y b) del artículo 63 del Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, en el ámbito de la Secretaría General de Instituciones Penitenciarias.
+
+2.13 La adscripción con carácter definitivo de puestos de trabajo a funcionarios víctimas por razón de violencia de género o terrorista, de acuerdo con la movilidad reconocida por el artículo 82 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+2.14 La adscripción con carácter definitivo de puestos de trabajo al personal funcionario por razones de salud o de rehabilitación, prevista en el artículo 66 bis del Reglamento.
+
+2.15 Las relaciones sindicales en el ámbito de Instituciones Penitenciarias.
+
+3\. Del titular de la Subsecretaría, las siguientes competencias respecto al personal funcionario destinado en los servicios centrales de la Secretaría General de Instituciones Penitenciarias:
+
+3.1 Dar posesión y cese a los funcionarios.
+
+3.2 Conceder las excedencias voluntarias, excepto en la modalidad de incentivada, y la excedencia para el cuidado de familiares.
+
+3.3 Conceder los permisos, licencias y vacaciones.
+
+3.4 El reconocimiento de trienios.
+
+3.5 Declarar la jubilación forzosa por edad o por incapacidad permanente para el servicio.
+
+3.6 La jubilación, cualquiera que sea su carácter, de funcionarios en situación distinta a la de servicio activo, excluido el personal en situación de servicio en otras Administraciones Públicas.
+
+3.7 La propuesta e informe sobre autorización de compatibilidades.
+
+4\. Del titular de la Subsecretaría, las siguientes competencias respecto al personal perteneciente a los Cuerpos de Instituciones Penitenciarias:
+
+4.1 Conceder el reingreso al servicio activo con carácter provisional en los términos y condiciones previstos en el artículo 62 del Reglamento general de ingreso del personal al servicio de la Administración General del Estado y de provisión de puestos de trabajo y promoción profesional de los funcionarios civiles de la Administración General del Estado.
+
+4.2 Conceder la jubilación voluntaria.
+
+5\. Del titular de la Subsecretaría, las siguientes competencias respecto al personal laboral destinado en la Secretaria General de Instituciones Penitenciarias:
+
+5.1 La formalización de contratos de trabajo para personal fijo y temporal y, en su caso, de las cláusulas adicionales de los mismos.
+
+5.2 La resolución y suspensión de los contratos de trabajo, excepto en los supuestos que se delegan en los Directores o Gerentes de los centros penitenciarios, y la modificación de las condiciones laborales.
+
+5.3 El reconocimiento de trienios y de servicios previos.
+
+5.4 Dar posesión y cese al personal laboral.
+
+5.5 La concesión de licencias recogidas en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado.
+
+5.6 La acción social general.
+
+5.7 Todas las excedencias del personal laboral.
+
+5.8 La propuesta e informe sobre autorización de compatibilidades.
+
+6\. En relación con el personal destinado en los servicios centrales y periféricos de la Secretaría General, y con independencia de su naturaleza laboral o funcionarial, ejercerá por delegación de la persona titular de la Subsecretaría:
+
+6.1 La convocatoria de cursos de formación y perfeccionamiento, la selección de asistentes a los mismos, así como la autorización de la asistencia a jornadas y cursos.
+
+6.2 Todos aquellos actos de administración y gestión ordinaria no atribuidos expresamente por esta Orden a otros órganos de la Secretaría General de Instituciones Penitenciarias, con excepción de los relacionados con el ejercicio de la potestad disciplinaria.
+
+> Se modifica por el art. único.2 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+> Se modifica por el art. 1.6 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 31, de 5 de febrero de 2010. [Ref. BOE-A-2010-1871](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1871).
+
+> Las competencias delegadas en el Subdirector General de Personal de Instituciones Penitenciarias se entenderán delegadas en el Subdirector General de Recursos Humanos de Instituciones Penitenciarias, según establece el apartado único de la Orden INT/2275/2008, de 28 de julio. [Ref. BOE-A-2008-13135](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-13135)
+
+> Se modifican los puntos 1, 2.2 y 2.4 por le disposición final 1.2 de la Orden INT/2089/2005, de 17 de junio. [Ref. BOE-A-2005-11340](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11340).
+
+## Subdirección General de Planificación y Gestión Económica
+
+> Se modifica por el art. único.3 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+### Decimoctavo.
+
+El titular de la Subdirección General de Planificación y Gestión Económica ejercerá, en su ámbito material de competencias, por delegación del titular del Departamento y de las restantes autoridades que se expresan, las siguientes facultades:
+
+1\. La aceptación de las donaciones de bienes muebles, en su ámbito de competencias, según lo estipulado en el artículo 21.1 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.
+
+2\. La enajenación de los bienes muebles afectados o adscritos o los que hubiera venido utilizando la Secretaría General de Instituciones Penitenciarias.
+
+3\. Autorizar la retirada de las garantías provisionales y definitivas de los contratos que se celebren en el ámbito de la Secretaría General de Instituciones Penitenciarias, con independencia de su cuantía, salvo las que afecten al número 3 del apartado vigésimo segundo.
+
+4\. Se delega en la persona titular de la Subdirección General de Planificación y Gestión Económica el ejercicio de las siguientes competencias, para la administración de los créditos para gastos del servicio presupuestario de la Secretaria General de Instituciones Penitenciarias, salvo las delegadas en otros órganos:
+
+4.1 En materia de gestión económica y presupuestaria, el ejercicio de las competencias para la aprobación y compromiso de los gastos, el reconocimiento de las obligaciones y la propuesta de pago, cuyo valor sea igual o inferior a 600.000 euros.
+
+4.2 En materia de contratación, en relación con los contratos cuya cuantía sea igual o inferior a 300.000 euros, todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento.
+
+4.3 En materia de contratación, en relación con los contratos cuya cuantía sea superior a 300.000 euros e inferior a 600.000 euros, todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento, salvo la adopción de los acuerdos de inicio del expediente de contratación, adjudicación, prórroga, modificación y resolución, que se delegan en el Secretario General de Instituciones Penitenciarias.
+
+4.4 En relación con los encargos a medios propios personificados previstos en los artículos 32 y 33 de la Ley 9/2017, de 8 de noviembre, cuyo valor sea igual o inferior a 300.000 euros, todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento.
+
+4.5 La concesión de ayudas y subvenciones, cuyo importe sea igual o inferior a 300.000 euros, incluidas todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento.
+
+4.6 Se exceptúan de esta delegación las operaciones de cuantía igual o inferior a 120.000 euros, cuya competencia esté atribuida a los Directores o Gerentes de los centros penitenciarios, salvo aquellas que afecten a varios centros.
+
+5\. Del titular de la Subsecretaría, salvo lo delegado en otras autoridades, la facultad de designar comisiones de servicio con derecho a indemnización en territorio nacional respecto del personal funcionario y laboral que preste sus servicios en la Secretaría General de Instituciones Penitenciarias.
+
+> Se modifica por el art. único.3 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+> Se modifica el punto 2.3 por el apartado único.5 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica por el art. 1.7 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 52, de 1 de marzo de 2010. [Ref. BOE-A-2010-3306](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3306).
+
+## Subdirección General de Personal, Costes y Planificación de Recursos Humanos e Inspección
+
+> Se modifica por el apartado 1.2 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+### Decimonoveno.
+
+El Subdirector General de Personal, Costes y Planificación de Recursos Humanos e Inspección ejercerá por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro titular del Departamento:
+
+1.1 La convocatoria de pruebas selectivas y la provisión de puestos de trabajo vacantes en relación con el personal sujeto a Derecho laboral, con excepción del personal destinado en la Secretaría General de Instituciones Penitenciarias
+
+1.2 En relación con los funcionarios destinados en el Departamento y sin perjuicio de lo delegado en otras autoridades, la convocatoria y resolución de concursos para la provisión de puestos de trabajo.
+
+2\. Del Subsecretario del Interior las siguientes atribuciones, salvo lo delegado en otros órganos.
+
+2.1 En relación con los funcionarios destinados en el Departamento, con excepción de los pertenecientes a las Fuerzas y Cuerpos de Seguridad del Estado destinados en la Dirección General de la Policía y de la Guardia Civil y del personal destinado en la Secretaría General de Instituciones Penitenciarias:
+
+2.1.1 Reconocer la adquisición y cambio de grados personales.
+
+2.1.2 La declaración de servicio en otras Administraciones Públicas.
+
+2.1.3 Autorizar la permuta de puestos de trabajo.
+
+2.1.4 Conceder la excedencia para el cuidado de familiares y la excedencia por violencia de género.
+
+2.1.5 Conceder la prórroga del plazo de cese por necesidades del servicio y la prórroga de incorporación a un nuevo puesto de trabajo.
+
+2.1.6 La acción social general conforme a lo previsto en la normativa vigente.
+
+2.1.7 Reconocer los servicios previos al amparo de lo dispuesto en la Ley 70/1978, de 26 de diciembre.
+
+2.1.8 La convocatoria de cursos de formación y perfeccionamiento, así como la autorización para asistir a los mismos.
+
+2.1.9 Conceder el reingreso al servicio activo procedente de la situación de servicios especiales.
+
+2.1.10 Conceder el reingreso al servicio activo procedente de las situaciones de excedencia para el cuidado de familiares a los funcionarios que tengan derecho a la reserva del puesto de trabajo y de excedencia por razón de violencia de género.
+
+2.1.11 Todos aquellos actos de administración y gestión ordinaria de personal que no figuren atribuidos a otros órganos en el Real Decreto 2169/1984, de 28 de noviembre, o en la presente Orden.
+
+2.2 En relación con los funcionarios destinados en los Servicios Centrales del Ministerio, con excepción de los pertenecientes a las Fuerzas y Cuerpos de Seguridad del Estado destinados en la Dirección General de la Policía y de la Guardia Civil, de los funcionarios destinados en la Secretaría General de Instituciones Penitenciarias y de las que se deleguen en otras autoridades:
+
+2.2.1 Declarar las jubilaciones forzosas y por incapacidad permanente para el servicio.
+
+2.2.2 Conceder las excedencias voluntarias.
+
+2.2.3 Dar posesión y cese en los puestos de trabajo.
+
+2.2.4 La concesión de permisos y licencias.
+
+2.2.5 El reconocimiento de trienios.
+
+2.2.6 Resolver las solicitudes de prolongación de la permanencia en el servicio activo de los funcionarios hasta los setenta años.
+
+2.3 Las funciones de gestión del personal de las Fuerzas y Cuerpos de Seguridad del Estado que, destinado en el Departamento, no preste sus servicios en la Dirección General de la Policía y de la Guardia Civil, sin perjuicio de las disposiciones específicas en la materia relativas a dicho personal.
+
+2.4 En relación con el personal laboral que preste sus servicios en el Departamento con excepción del destinado a la Secretaría General de Instituciones Penitenciarias:
+
+2.4.1 La formalización de contratos de trabajo para personal fijo y temporal y, en su caso, de las cláusulas adicionales de los mismos.
+
+2.4.2 La resolución y suspensión de los contratos, con excepción de la suspensión provisional de empleo durante la tramitación de un expediente disciplinario y de la suspensión disciplinaria por sanción, y la modificación de las condiciones laborales.
+
+2.4.3 La resolución de las reclamaciones previas a la vía judicial laboral, con excepción de las presentadas contra las resoluciones de imposición de sanciones disciplinarias.
+
+2.4.4 La convocatoria de cursos de formación y perfeccionamiento así como la autorización para asistir a los mismos.
+
+2.4.5 La concesión de permisos y licencias.
+
+2.4.6 El reconocimiento de trienios y de servicios previos.
+
+2.4.7 Dar posesión y cese al personal laboral.
+
+2.4.8 La acción social general.
+
+2.4.9 La concesión de excedencias.
+
+2.4.10. Todos aquellos actos de administración y gestión ordinaria no atribuidos expresamente por esta Orden a otros órganos con excepción de los relacionados con el ejercicio de la potestad disciplinaria.
+
+2.5 La propuesta o informe sobre autorización o reconocimiento de compatibilidades, así como la autorización o denegación del ejercicio por los miembros de la Guardia Civil de actividades profesionales, laborales, mercantiles o industriales de carácter privado.»
+
+2.6. La atribución temporal de funciones, la adscripción provisional de puestos de trabajo y las comisiones de servicio, en los términos y condiciones previstos en el Reglamento aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+2.7 La movilidad por razones de salud o rehabilitación y por razón de violencia de género.
+
+3\. Del Secretario de Estado de Seguridad, en relación con los funcionarios destinados en la Secretaría de Estado de Seguridad y sin perjuicio de lo delegado en otras autoridades, la convocatoria y resolución de concursos para la provisión de puestos de trabajo, excepto en lo referente a los puestos de trabajo de los catálogos de las unidades adscritas a dicha Secretaría de Estado, incluida la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado.
+
+> Se modifica el apartado 3 por el art. único.4 de la Orden INT/175/2016, de 11 de febrero. [Ref. BOE-A-2016-1617](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1617).
+
+> Se modifica por el apartado único.6 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica por el apartado 1.2 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+## Subdirección General de Gestión Económica y Patrimonial
+
+### Vigésimo.
+
+El Subdirector General de Gestión Económica y Patrimonial ejercerá por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento:
+
+1.1 La gestión de la nómina, la aprobación, el compromiso de los gastos y el reconocimiento de las obligaciones correspondientes al capítulo I «Gastos de personal» del Servicio Presupuestario 01, excepto los correspondientes al concepto 162 del programa 134M, así como la facultad de interesar del Ministerio de Economía y Hacienda la ordenación de los pagos correspondientes.
+
+1.2 Siempre que la cuantía no exceda de 300.500 euros y salvo lo delegado en otras autoridades, la aprobación, el compromiso de los gastos y el reconocimiento de las obligaciones del Servicio 01, programas 131 M, 131 P, 467G y 000 X, con excepción de los créditos relativos a los subconceptos 226.01, 226.08 y 226.11, dentro de las consignaciones presupuestarias, con la correspondiente facultad de contratación, así como la de interesar del Ministerio de Economía y Hacienda la ordenación de pagos correspondiente.
+
+1.3 Respecto de los contratos de cuantía superior a 300.500 euros y que no excedan de 1.800.000 euros, el ejercicio de todas las atribuciones a que se refiere el punto 1.2 anterior, con excepción de los acuerdos de iniciación del expediente de contratación, adjudicación, modificación, prórroga y resolución del contrato, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que corresponderán al Subsecretario del Interior hasta el límite de las atribuciones que tiene delegadas.
+
+1.4 La competencia para acordar la cancelación y/o devolución de las garantías, con independencia de su cuantía, constituidas respecto de los contratos celebrados en ejecución de los programas presupuestarios señalados en el punto 1.2.
+
+1.5 La remisión al Tribunal de Cuentas de la documentación relativa a los contratos celebrados.
+
+2\. Del Secretario de Estado de Seguridad, la gestión de la nómina, aprobación, compromiso de los gastos y el reconocimiento de las obligaciones correspondientes al capítulo I «Gastos de personal» del servicios presupuestarios 02, excepto el concepto 162, así como la facultad de interesar del Ministerio de Economía y Hacienda la ordenación de los pagos correspondientes.
+
+3\. Del Subsecretario del Interior, las facultades que le otorga el Real Decreto 462/2002, de 24 de mayo, incluyendo las referidas a las comisiones de servicio a realizar fuera del territorio nacional, con excepción de la designación de las comisiones de servicio de los Altos Cargos del Departamento y la designación de las comisiones de servicio en los supuestos del artículo 8.2 de dicho Real Decreto.
+
+> Se modifican los puntos 1 y 3 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica por el apartado 1.3 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+## Subdirección General de Planificación y Gestión de Infraestructuras y Medios para la Seguridad
+
+### Vigésimo primero.
+
+El Subdirector General de Planificación y Gestión de Infraestructuras y Medios para la Seguridad ejercerá por delegación del Secretario de Estado de Seguridad, respecto de los gastos del Servicio 02, excepto lo delegado en otras autoridades, las siguientes atribuciones:
+
+1\. Autorizar la retirada de las garantías provisionales y definitivas de los contratos que se celebren en su ámbito competencial con independencia de su cuantía.
+
+2\. Siempre que su cuantía no exceda de 120.000 euros, excepto lo delegado en otras autoridades:
+
+2.1 Las facultades que la legislación le confiere como órgano de contratación.
+
+2.2 La aprobación y compromiso de los gastos, el reconocimiento de las obligaciones que de ellos se deriven, con excepción de los créditos relativos a los subconceptos 226.01, 226.08 y 226.11, así como la propuesta de pago efectuada al Ministerio de Economía y Hacienda.
+
+2.3 La concesión de ayudas y subvenciones.
+
+3\. Respecto de los gastos contractuales y no contractuales de cuantía superior a 120.000 euros e inferior a 450.000 euros, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.1 y 2.2 anteriores, con excepción de los acuerdos de iniciación del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se delegan en el Titular de la Dirección General de Infraestructuras y Material de la Seguridad.
+
+> Se modifica el punto 3 por el apartado único.8 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se modifica por el art. 1.8 de la Orden INT/50/2010, de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+## Centros Penitenciarios y Centros de Inserción Social
+
+> Se modifica por el art. único.4 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+### Vigésimo segundo.
+
+Las personas titulares de las Direcciones o Gerencias de Centros Penitenciarios y Centros de Inserción Social, en el ámbito del centro del que sean titulares, ejercerán por delegación del titular del Departamento y de las restantes autoridades que se expresan, las siguientes facultades:
+
+1\. La aprobación y el compromiso de gastos correspondientes a retribuciones, cuotas sociales, acción social y anticipos reintegrables del personal destinado en el centro penitenciario del que cada uno sea titular, así como el reconocimiento de la obligación y la propuesta de pago dirigida al Director General de Tesoro y Política Financiera.
+
+2\. Hasta un límite máximo de 120.000 euros:
+
+2.1 Del presupuesto de la Secretaría General de Instituciones Penitenciarias, la aprobación y el compromiso, así como el reconocimiento de la obligación y la propuesta de pago dirigida al Ministerio de Hacienda y Función Pública, de los gastos financiados con el capítulo II, el concepto 482 del capítulo IV, y el capítulo VI, salvo los contratos de obras que superen el importe del contrato menor o correspondan al ámbito de tecnologías de la información y las comunicaciones.
+
+2.2 La concesión de ayudas y subvenciones en la aplicación 16.05.133 A.482 con cargo a los créditos de los servicios presupuestarios del ámbito de competencias de la Secretaría General de Instituciones Penitenciarias, dentro del ámbito de competencias de su centro penitenciario o centro de inserción social.
+
+2.3 En materia de contratación, en relación con los contratos cuya cuantía sea igual o inferior a 120.000 euros, salvo los que tengan por objeto las tecnologías de la información y comunicaciones y los de obras por importe superior al del contrato menor, todas las competencias que el ordenamiento jurídico atribuye al titular del Departamento.
+
+Hasta el límite de 120.000 euros en los contratos de servicios y de suministros, incluidos los contratos de transporte de personal a los centros penitenciarios del capítulo I, y los encargos a medio propio, salvo los encargos de alimentación de internos, el reconocimiento de la obligación y la propuesta de pago, en el ámbito del centro penitenciario o centro de inserción social del que es titular, con exclusión de los referidos a obras del capítulo VI cuya adjudicación supere el importe de un contrato menor o entre en el ámbito de las tecnologías de la información y las comunicaciones.
+
+3\. La autorización de la retirada de garantías provisionales y definitivas de los contratos que celebren en el ámbito del centro penitenciario.
+
+4\. La aprobación y el compromiso de gasto, el reconocimiento de la obligación y la propuesta de pago de las estancias de detenidos en depósitos municipales.
+
+5\. Del titular de la Subsecretaría, respecto al personal laboral destinado en la Secretaría General de Instituciones Penitenciarias y en la Entidad Trabajo Penitenciario y Formación para el Empleo destinado en sus centros penitenciarios:
+
+5.1 La concesión y distribución de vacaciones anuales y días por compensación de festivos.
+
+5.2 La concesión de los permisos retribuidos por los tiempos y causas establecidas en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado.
+
+5.3 La suspensión de contratos de trabajo en el supuesto de maternidad, paternidad, adopción o acogimiento de menores de cinco años y de incapacidad laboral temporal.
+
+6\. Del Titular de la Subsecretaria, la designación de las comisiones de servicio con derecho a indemnización en territorio nacional, cuya duración no exceda de cinco días, respecto del personal funcionario y laboral que preste sus servicios en el Centro Penitenciario.
+
+7\. Respecto al personal funcionario y laboral perteneciente a la Entidad Trabajo Penitenciario y Formación para el Empleo destinado en sus centros penitenciarios y centros de inserción social, la designación de las comisiones de servicios con derecho a indemnización en territorio nacional, cuya duración no exceda de cinco días.
+
+8\. Asimismo, en el ámbito del centro del que sean titulares, ejercerán las siguientes facultades como Delegados de la Entidad Trabajo Penitenciario y Formación para el Empleo:
+
+8.1 La aprobación de compromisos de gastos hasta un límite de 15.000 euros, con cargo a los créditos de la entidad habilitados al efecto.
+
+8.2 La aprobación de los gastos y la ordenación de los pagos por operaciones comerciales que, según la normativa de contratación de la Entidad y demás normativa reglamentaria, puedan realizarse en el ámbito del centro.
+
+8.3 La aprobación y disposición de gastos, la ordenación de pagos realizados mediante anticipos de caja fija, así como la autorización de las reposiciones de fondos de este sistema de anticipos, para la atención de gastos de funcionamiento del centro penitenciario y centros de inserción social, dentro de las consignaciones presupuestarias que se habiliten a estos efectos.
+
+9\. Del titular de la Dirección General de Ejecución Penal y Reinserción Social, ejercerán las siguientes atribuciones respecto a los internos no vinculados a organizaciones terroristas o cuyos delitos no se hayan cometido en el seno de organizaciones criminales:
+
+9.1 Acordar la clasificación inicial en segundo grado de tratamiento de los penados con condena superior a cinco años, siempre que el acuerdo de la Junta de Tratamiento se haya adoptado por unanimidad.
+
+9.2 Dejar sin efecto la clasificación en grado de los penados en los supuestos legalmente establecidos.
+
+9.3 Resolver las revisiones de grado interesadas por los internos al amparo del apartado segundo del artículo 105 del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero, siempre que el acuerdo de la Junta de Tratamiento de continuidad sea en segundo grado y se haya adoptado por unanimidad, debiendo además cumplir al menos una de las siguientes condiciones: Que no haya cumplido la mitad de una condena superior a cinco años, que tenga dos o más sanciones graves o muy graves sin cancelar o que le conste procedimiento penal pendiente de sustanciación.
+
+9.4 Autorizar las diferentes formas de ejecución dentro del régimen abierto. En este caso, se delega también respecto a aquellos cuyos delitos se hayan cometido en el seno de organizaciones criminales.
+
+9.5 Ordenar el traslado de los penados clasificados en tercer grado al centro de inserción social de la misma provincia, previa autorización del centro directivo.
+
+9.6 Ordenar el traslado provisional de los penados desde el centro de inserción social al centro penitenciario de la misma provincia, en los supuestos de acuerdo de regresión a segundo grado adoptado por la Junta de Tratamiento.
+
+9.7 Autorizar los permisos ordinarios de salida a los penados clasificados en tercer grado. En este caso, se delega también respecto a aquellos cuyos delitos se hayan cometido en el seno de organizaciones criminales.
+
+9.8 Autorizar los permisos extraordinarios a los penados clasificados en segundo grado por razón de nacimiento de hijo o fallecimiento o enfermedad grave de familiar hasta el segundo grado de consanguinidad o afinidad, con custodia policial sin traslado de establecimiento, o bien sin custodia para internos que disfrutan habitualmente de permisos ordinarios de salida, siempre que su duración en este caso no supere las cuarenta y ocho horas.
+
+9.9 Autorizar los permisos extraordinarios a los penados clasificados en segundo grado para la realización de gestiones encaminadas a la imprescindible obtención de documentación e identificación personal o relacionadas con su situación legal en España, con custodia policial sin traslado de establecimiento.
+
+9.10 Autorizar los permisos extraordinarios en régimen de autogobierno para consulta ambulatoria o ingreso en hospital extrapenitenciario de los penados clasificados en segundo grado que disfruten habitualmente de permisos ordinarios de salida, con las condiciones y duración establecidos en los apartados cuarto y quinto del artículo 155 del Reglamento Penitenciario. En este caso, se delega también respecto a aquellos cuyos delitos se hayan cometido en el seno de organizaciones criminales.
+
+9.11 Autorizar los permisos extraordinarios de salida a los penados clasificados en tercer grado.
+
+9.12 Aprobar salidas de fin de semana en horarios diferentes a los reglamentariamente establecidos, a los penados en régimen abierto.
+
+9.13 Aprobar las salidas programadas a los penados clasificados en tercer grado o en segundo grado con aplicación del principio de flexibilidad, sin perjuicio en este último supuesto de la competencia de los Jueces de Vigilancia Penitenciaria para su autorización cuando la duración sea superior a dos días. En este caso, se delega también respecto a aquellos cuyos delitos se hayan cometido en el seno de organizaciones criminales.
+
+9.14 Asignar a los penados el centro de destino propuesto por acuerdo unánime de la Junta de Tratamiento en el caso de las clasificaciones iniciales formuladas conforme al artículo 103.7 del Reglamento Penitenciario, así como de las acordadas por el Director conforme al punto 8.1 del presente apartado, siempre que no conlleve cambio de establecimiento respecto a aquel en el que se encuentre el penado en el momento de la propuesta.
+
+> Se modifica por el art. único.4 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+> Se añade el punto 5 por el art. único.1 de la Orden INT/1127/2010, de 19 de abril. [Ref. BOE-A-2010-7032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7032).
+
+> Se modifica por el art. 1.9 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núm. 52, de 1 de marzo de 2010, [Ref. BOE-A-2010-3306](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-3306) y núm. 31, de 5 de febrero de 2010. [Ref. BOE-A-2010-1871](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1871).
+
+> Se derogan los puntos 3 y 3.1 por la disposición derogatoria única de la Orden INT/2089/2005, de 17 de junio. [Ref. BOE-A-2005-11340](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11340).
+
+## Centro de Estudios Penitenciarios
+
+### Vigésimo tercero.
+
+El titular de la Dirección del Centro de Estudios Penitenciarios ejercerá, por delegación del titular del Departamento y de las restantes autoridades que se expresan a continuación, las siguientes atribuciones:
+
+1\. Hasta el límite de 120.000 euros, las facultades que la Ley 9/2007, de 8 de noviembre, atribuye a los órganos de contratación para aquellos contratos cuya finalidad sea realizar actividades docentes en el Centro de Estudios Penitenciarios, desarrolladas en forma de cursos de formación o perfeccionamiento, seminarios, congresos, mesas redondas, conferencias, etc., del personal al servicio de la Secretaría General de Instituciones Penitenciarias, así como la aprobación, el compromiso de gasto y el reconocimiento de la obligación y la propuesta de pago al Ministerio de Hacienda y Función Pública de los gastos derivados de este tipo de contrataciones.
+
+2\. Del titular de la Subsecretaría, la convocatoria de cursos de formación y perfeccionamiento, la selección de los asistentes a los mismos, así como la autorización de la asistencia a jornadas y cursos, del personal adscrito a la Secretaría General de Instituciones Penitenciarias.
+
+> Se modifica por el art. único.5 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+> Se modifica por el art. 1.10 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+## Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado
+
+### Vigésimo cuarto.
+
+El Director del Organismo Autónomo Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado, ejercerá, por delegación de las autoridades que se expresan a continuación, las siguientes atribuciones:
+
+1\. Del Secretario de Estado de Seguridad Presidente del Consejo Rector, en el ámbito de sus competencias, la suscripción de Convenios de Colaboración con entidades públicas y privadas, con Comunidades Autónomas y con Entidades Locales.
+
+## Dirección General de Apoyo a Víctimas de Terrorismo
+
+> Se añade por el apartado 2 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+### Vigésimo quinto.
+
+El Director General de Apoyo a Víctimas de Terrorismo ejercerá por delegación de las autoridades que se expresan las siguientes atribuciones:
+
+1\. Del Ministro Titular del Departamento.
+
+1.1 La resolución de las solicitudes de ayudas a víctimas de actos de terrorismo en virtud de lo dispuesto en la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, y de la Ley 32/1999, de 8 de octubre, de Solidaridad con las Víctimas de Terrorismo, y sus normativas de desarrollo.
+
+1.2 Siempre que su cuantía sea inferior a 300.500 euros, en el ámbito material de sus competencias:
+
+1.2.1 Las facultades de contratación.
+
+1.2.2 La aprobación, el compromiso, el reconocimiento de las obligaciones correspondientes a los gastos del Capítulo 4, del Servicio 01, Programa 131M, así como la propuesta al Ministerio de Economía y Hacienda de la ordenación de los pagos correspondientes.
+
+2\. Del Subsecretario del Interior:
+
+2.1 Respecto del personal de la Dirección General, designar comisiones de servicio a realizar en territorio nacional con derecho a indemnización, con excepción de la designación de las comisiones de servicio de los Altos Cargos del Departamento y la designación de las comisiones de servicio en los supuestos del artículo 8.2 del Real Decreto 462/2002, de 24 de mayo.
+
+> Se añade por el apartado 2 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+## Dirección General de Personal y Servicios
+
+> Se añade por el apartado 3 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+### Vigésimo sexto.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se añade por el apartado 3 de la Orden INT/849/2009, de 31 de marzo. [Ref. BOE-A-2009-5730](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5730).
+
+## Dirección General de Gestión de Recursos
+
+> Se añade por el art. 2 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+### Vigésimo séptimo.
+
+El titular de la Dirección General de Recursos por delegación de las autoridades que se expresan, ejercerá las facultades siguientes:
+
+1\. Del Ministro titular del Departamento.
+
+1.1 Las autorizaciones especiales de uso sobre bienes afectados o adscritos, de acuerdo con lo establecido en el artículo 90 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
+
+1.2 Las concesiones y autorizaciones sobre los bienes y derechos demaniales del Patrimonio del Estado que se encuentren afectados o le corresponda su gestión o administración, según lo dispuesto en la Ley 33/2003, de 3 de noviembre.
+
+2\. Del Secretario de Estado de Seguridad, en relación con los créditos asignados a los servicios presupuestarios del ámbito de la Secretaría General:
+
+2.1 Siempre que su cuantía no exceda de 600.000 euros, excepto lo delegado en otras autoridades:
+
+2.1.1 Las facultades que la legislación le confiere en materia de contratación administrativa, incluidos los negocios jurídicos y las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 15 de la Ley 30/1992, de 26 de noviembre, y del artículo 4.1 n), en relación con el artículo 24.6, de la Ley 30/2007, de 30 de octubre.
+
+2.1.2. La aprobación y compromiso de los gastos propios de los servicios dependientes de la Secretaría General, así como el reconocimiento de las obligaciones que de ellos se deriven y la propuesta de pago efectuada al Ministro de Economía y Hacienda.
+
+2.1.3 La concesión de ayudas y subvenciones
+
+2.2 Respecto de los gastos contractuales y no contractuales de cuantía superior a 600.000 euros e inferior a 1.500.000, el ejercicio de todas las atribuciones a las que se refieren los puntos 2.1.1 y 2.1.2 anteriores, con excepción de los acuerdos de inicio del expediente de contratación, adjudicación, prórroga, modificación y resolución, así como de resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, que se delegan en el Titular de la Secretaría General de Instituciones Penitenciarias.
+
+3\. El Director General de Gestión de Recursos por delegación de las autoridades que se expresan, en relación con el personal destinado en la Secretaría General de Instituciones Penitenciarias, salvo lo delegado en los Directores de los Centros Penitenciarios, ejercerá en materia de personal las facultades siguientes:
+
+3.1. Del Ministro Titular del Departamento:
+
+3.1.1 La convocatoria de pruebas selectivas en relación con los Cuerpos de Instituciones Penitenciarias.
+
+3.1.2 Convocar la provisión de puestos de trabajo con funcionarios interinos, así como proceder a su selección.
+
+3.1.3 En relación con el personal laboral, la convocatoria y resolución de concursos y pruebas selectivas, tanto en régimen de promoción interna como de acceso libre.
+
+3.1.4 La fijación y distribución del complemento de productividad y de otros incentivos al rendimiento, en el marco de los criterios generales establecidos para el Departamento.
+
+3.2 Del Secretario de Estado de Seguridad:
+
+3.2.1 La convocatoria de concursos para la provisión de puestos de trabajo, así como la remoción de funcionarios de los puestos de trabajo obtenidos por concurso en los supuestos legalmente previstos.
+
+3.2.2 La concesión del reingreso al servicio activo a quienes lo obtengan a través de la participación en convocatorias de provisión de puestos de trabajo mediante concurso.
+
+3.3 Del Subsecretario del Interior y todo ello sin perjuicio de las competencias de los Delegados del Gobierno en relación con los funcionarios destinados en los servicios periféricos:
+
+3.3.1 La redistribución de efectivos de los funcionarios que ocupen con carácter definitivo puestos no singularizados y la movilidad por cambio de adscripción de puestos de trabajo no singularizados.
+
+3.3.2 La provisión de puestos de trabajo por procedimiento de reasignación de efectivos.
+
+3.3.3 Autorizar la permuta de puestos de trabajo.
+
+3.3.4 La adscripción provisional de puestos de trabajo a funcionarios en los supuestos previstos en los apartados a) y b) del artículo 63 del Reglamento General de Ingreso del Personal al Servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo, en el ámbito de la Secretaría General de Instituciones Penitenciarias.
+
+3.3.5 La adscripción con carácter definitivo de puestos de trabajo a funcionarias víctimas de violencia de género, prevista en el artículo 66 ter. del Reglamento General de Ingreso del Personal al Servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+3.3.6 La asignación de puestos de trabajo a los funcionarios de Instituciones Penitenciarias que por razón de edad regula el Real Decreto 89/2001, de 2 de febrero.
+
+3.3.7 El nombramiento de personal interino.
+
+3.3.8 La fijación del calendario laboral.
+
+3.3.9 Las relaciones sindicales en el ámbito de las Instituciones Penitenciarias.
+
+3.3.10 Acordar las comisiones de servicio previstas en el artículo 64 del citado Reglamento aprobado por el Real Decreto 364/1995, relativas a los puestos de trabajo de libre designación, así como las comisiones de servicio establecidas en los artículos 65 y 69 del citado Reglamento.
+
+> Se modifica el punto 2.2 por el apartado único.9 de la Orden INT/1797/2010, de 2 de julio. [Ref. BOE-A-2010-10665](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-10665).
+
+> Se añade por el art. 2 de la Orden INT/50/2010, de 12 de enero. [Ref. BOE-A-2010-1002](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1002).
+
+## Subdirección General de Tratamiento y Gestión Penitenciaria
+
+> Se añade por el art. único.2 de la Orden INT/1127/2010, de 19 de abril. [Ref. BOE-A-2010-7032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7032).
+
+### Vigésimo octavo.
+
+El titular de la Subdirección General de Tratamiento y Gestión Penitenciaria, por delegación del titular de la Dirección General de Coordinación Territorial y Medio Abierto, ejercerá las siguientes atribuciones respecto a los internos no vinculados a organizaciones terroristas o internos cuyos delitos no se hayan cometido en el seno de organizaciones criminales:
+
+1\. Acordar la clasificación de los penados en grados de tratamiento, sin perjuicio de lo dispuesto para los Gerentes y Directores de Centros Penitenciarios y Centros de Inserción Social en el apartado vigésimo segundo de la presente Orden.
+
+2\. Acordar la aplicación de las previsiones contenidas en el artículo 10 de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, a los internos preventivos.
+
+3\. Autorizar las modalidades de vida a los preventivos y penados que se encuentren en régimen cerrado.
+
+4\. Aprobar la aplicación a los penados de las previsiones del apartado cuarto del artículo 86 del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero, salvo lo dispuesto en el apartado vigésimo segundo de la presente Orden para los Gerentes y Directores de Centros Penitenciarios y Centros de Inserción Social. en cuanto a los penados ya clasificados en tercer grado.
+
+5\. Fijar el centro de destino de los internos.
+
+6\. Ordenar el traslado entre centros de los reclusos y su desplazamiento para acudir ante las autoridades judiciales, salvo lo dispuesto en el apartado vigésimo segundo de la presente Orden para los Gerentes y Directores de Centros Penitenciarios y Centros de Inserción Social, en cuanto al traslado de los penados ya clasificados en tercer grado al Centro de Inserción Social de la misma provincia.
+
+7\. Autorizar el desplazamiento de los penados por sus propios medios, sin vigilancia.
+
+8\. Autorizar los permisos ordinarios de salida, no superiores a dos días, a los penados clasificados en segundo grado.
+
+9\. Autorizar los permisos extraordinarios de salida no superiores a dos días a los penados clasificados en segundo grado, salvo lo dispuesto en el apartado vigésimo segundo de la presente Orden para los Gerentes y Directores de Centros Penitenciarios y Centros de Inserción Social, en los supuestos en él especificados.
+
+10\. Aprobar las salidas programadas a internos clasificados en segundo grado, sin perjuicio de la competencia de los Jueces de Vigilancia Penitenciaria para su autorización cuando la duración sea superior a dos días.
+
+11\. Autorizar las salidas no regulares de los penados clasificados en segundo grado, para la asistencia a programas de atención especializada.
+
+12\. Autorizar la creación de grupos de tratamiento de internos basados en el principio de comunidad terapéutica.
+
+13\. Acordar el destino de internos a unidades dependientes de los establecimientos penitenciarios.
+
+14\. Autorizar la asistencia a instituciones extrapenitenciarias para tratamientos específicos a los clasificados en tercer grado.
+
+15\. Aprobar las solicitudes de colaboración de instituciones y asociaciones públicas y privadas dedicadas a la asistencia de los reclusos, cuando los programas de intervención se desarrollen en medio ordinario o cerrado.
+
+> Se añade por el art. único.2 de la Orden INT/1127/2010, de 19 de abril. [Ref. BOE-A-2010-7032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7032).
+
+## Subdirección General de Medio Abierto
+
+> Se añade por el art. único.3 de la Orden INT/1127/2010, de 19 de abril. [Ref. BOE-A-2010-7032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7032).
+
+### Vigésimo noveno.
+
+El titular de la Subdirección General de Medio Abierto, por delegación del titular de la Dirección General de Ejecución Penal y Reinserción Social, aprobará las solicitudes de colaboración de instituciones y asociaciones públicas y privadas dedicadas a la asistencia de los reclusos, cuando los programas de intervención se desarrollen en medio abierto.
+
+> Se modifica por el art. único.6 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+> Se añade por el art. único.3 de la Orden INT/1127/2010, de 19 de abril. [Ref. BOE-A-2010-7032](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7032).
+
+## Subdirección General de Análisis e Inspección
+
+> Se añade por el art. único.7 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+### Trigésimo.
+
+El titular de la Subdirección General de Análisis e Inspección ejercerá, por delegación del titular de la Dirección General de Ejecución Penal y Reinserción Social, las siguientes atribuciones:
+
+Autorizar como servicio de guardia, fuera del horario de oficinas y durante los días no laborables, los permisos extraordinarios cuya autorización no la tengan como competencia propia ni delegada los titulares de las Direcciones o Gerencias de centros penitenciarios y centros de inserción social, así como ordenar los traslados entre centros que conlleven este tipo de permisos.
+
+> Se añade por el art. único.7 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+## Entidad Estatal de Derecho Público Trabajo Penitenciario y Formación para el Empleo
+
+> Se añade por el art. único.8 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+### Trigésimo primero.
+
+1\. El titular de la Presidencia de la Entidad Trabajo Penitenciario y Formación para el Empleo ejercerá, por delegación del titular del Departamento:
+
+1.1 La competencia para nombrar y separar, por cualquiera de los sistemas previstos en la normativa sobre empleo público, a los Subdirectores Generales y asimilados de la Entidad.
+
+1.2 La iniciativa, concesión y acreditación del otorgamiento al personal de menciones honoríficas y medallas al mérito penitenciario y al mérito social penitenciario, con excepción de las medallas de oro.
+
+1.3 La resolución de expedientes disciplinarios que impongan sanciones por faltas muy graves.
+
+1.4 La fijación y distribución del complemento de productividad y de otros incentivos al rendimiento, en el marco de los criterios generales establecidos para el Departamento.
+
+1.5 Las concesiones y autorizaciones sobre los bienes y derechos demaniales del Patrimonio del Estado que se encuentren afectados o le corresponda su gestión o administración, según lo dispuesto en la Ley 33/2003, de 3 de noviembre.
+
+2\. El titular de la Presidencia de la Entidad Trabajo Penitenciario y Formación para el Empleo ejercerá, por delegación del titular de la Subsecretaría, las siguientes competencias en relación con el personal destinado en la entidad:
+
+2.1 La provisión de puestos de trabajo de libre designación, previa convocatoria pública, relativos a los servicios centrales y periféricos de la Entidad Trabajo Penitenciario y Formación para el Empleo.
+
+2.2 En relación con el personal laboral, la gestión y resolución de procesos selectivos, sin perjuicio de las competencias que la normativa vigente le atribuya a la Dirección General de la Función Pública en lo referente al personal incluido en el ámbito de aplicación del convenio colectivo único para el personal laboral de la Administración General del Estado.
+
+2.3 La gestión y resolución de los procesos de provisión de puestos de trabajo con funcionarios interinos adscritos a Cuerpos de Instituciones Penitenciarias, así como proceder a su selección.
+
+2.4 La gestión y resolución de concursos para la provisión de puestos de trabajo, así como la remoción de funcionarios de los puestos de trabajo obtenidos por concurso en los supuestos legalmente previstos.
+
+2.5 La redistribución de efectivos de los funcionarios que ocupen con carácter definitivo puestos no singularizados y la autorización de la movilidad como consecuencia del cambio de adscripción de puestos de trabajo no singularizados.
+
+2.6 La provisión de puestos de trabajo por procedimiento de reasignación de efectivos.
+
+2.7 La fijación del calendario laboral.
+
+2.8 La concesión del reingreso al servicio activo a quienes lo obtengan a través de la participación en convocatorias de provisión de puestos de trabajo mediante concurso o libre designación.
+
+2.9 El ejercicio de la potestad disciplinaria del personal funcionario y laboral adscrito a la Entidad, salvo la separación del servicio.
+
+3\. El titular de la Gerencia de la Entidad ejercerá, por delegación del titular de la Subsecretaría, las siguientes competencias respecto al personal funcionario destinado en aquélla, sin perjuicio de las que corresponden a los Delegados del Gobierno en relación con los funcionarios destinados en los servicios periféricos:
+
+3.1 Acordar el pase a las situaciones administrativas de servicios especiales y de servicio en otras Administraciones Públicas.
+
+3.2 Conceder el reingreso al servicio activo a los funcionarios en la situación de servicios especiales y en la de excedencia por cuidado de familiares y por razón de violencia de género o terrorista que tengan derecho a reserva de puesto de trabajo.
+
+3.3 Autorizar la residencia de funcionarios en localidad distinta al término municipal donde presten sus servicios.
+
+3.4 Reconocer la adquisición y cambio de grados personales.
+
+3.5 El reconocimiento de servicios previos al amparo de la Ley 70/1978, de 26 de diciembre.
+
+3.6 Diferir el cese por necesidades del servicio y conceder la prórroga de incorporación a un nuevo puesto de trabajo.
+
+3.7 La acción social general.
+
+3.8 Acordar las comisiones de servicio reguladas en el artículo 64 del Reglamento general de ingreso del personal al servicio de la Administración General del Estado y de provisión de puestos de trabajo y promoción profesional de los funcionarios civiles de la Administración General del Estado, para cualquier clase de puestos, con la excepción de aquellos de Subdirector General y asimilados.
+
+3.9 Para los mismos puestos que en el párrafo precedente, la atribución temporal de funciones en los términos y condiciones regulados en el artículo 66 del mencionado Reglamento.
+
+3.10 Autorizar la permanencia en el servicio activo hasta un máximo de setenta años.
+
+3.11 Autorizar la permuta de puestos de trabajo.
+
+3.12 La adscripción provisional de puestos de trabajo a funcionarios, con la excepción de aquellos de Subdirector General y asimilados, en los supuestos previstos en los apartados a) y b) del artículo 63 del Reglamento General de Ingreso del Personal Al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado.
+
+3.13 La adscripción con carácter definitivo de puestos de trabajo a funcionarios víctimas por razón de violencia de género o terrorista, de acuerdo con la movilidad reconocida por el artículo 82 del texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+3.14 La adscripción con carácter definitivo de puestos de trabajo al personal funcionario por razones de salud o de rehabilitación, prevista en el artículo 66 bis del Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado.
+
+3.15 Las relaciones sindicales en el ámbito de la entidad.
+
+4\. El titular de la Gerencia de la entidad ejercerá, por delegación del titular de la Subsecretaría, las siguientes competencias respecto al personal funcionario destinado en los servicios centrales de aquella:
+
+4.1 Dar posesión y cese a los funcionarios.
+
+4.2 Conceder las excedencias voluntarias, excepto en la modalidad de incentivada, y la excedencia para el cuidado de familiares.
+
+4.3 Conceder los permisos, licencias y vacaciones.
+
+4.4 El reconocimiento de trienios.
+
+4.5 Declarar la jubilación forzosa por edad o por incapacidad permanente para el servicio.
+
+4.6 La propuesta e informe sobre autorización de compatibilidades.
+
+5\. Así mismo, se delegan en el titular de la Gerencia de la entidad las siguientes competencias en relación con el personal laboral destinado en la misma:
+
+5.1 La formalización de contratos de trabajo para personal fijo y temporal y, en su caso, de las cláusulas adicionales de los mismos.
+
+5.2 La resolución y suspensión de los contratos, excepto en los supuestos que se delegan en los Directores o Gerentes de los centros penitenciarios, y la modificación de las condiciones laborales.
+
+5.3 El reconocimiento de trienios y servicios previos.
+
+5.4 Dar posesión y cese al personal laboral.
+
+5.5 La concesión de licencias, permisos y vacaciones, excepto en los supuestos que se delegan en los Directores o Gerentes de los centros penitenciarios, recogidas en el convenio colectivo único para el personal laboral de la Administración General del Estado.
+
+5.6 La acción social general.
+
+5.7 La propuesta e informe sobre autorización o reconocimiento de compatibilidades.
+
+5.8 La concesión de excedencias.
+
+6\. En lo referente a todo el personal perteneciente a los Servicios centrales y periféricos de la entidad, con independencia de su naturaleza laboral o funcionarial, le corresponde al titular de la Gerencia, por delegación del titular de la Subsecretaría:
+
+6.1 La convocatoria de cursos de formación y perfeccionamiento, la selección de asistentes a los mismos, así como la autorización de la asistencia a jornadas y cursos.
+
+6.2 Todos aquellos actos de administración y gestión ordinaria no atribuidos por esta orden a otros órganos de la Entidad Trabajo Penitenciario y Formación para el Empleo.
+
+7\. El titular de la Gerencia ejercerá, por delegación del titular de la Presidencia de la entidad, las siguientes competencias:
+
+7.1 Respecto a los internos trabajadores encuadrados en la relación laboral especial penitenciaria, la resolución de las quejas que formulen respecto a su situación laboral.
+
+7.2 Las facultades que al titular de la Presidencia de la Entidad Estatal atribuye el ordenamiento jurídico en materia de contratación, en aquellos contratos cuya cuantía no supere los 600.000 euros.
+
+7.3 Aprobar los gastos y ordenar los pagos propios de la Entidad Estatal.
+
+7.4 La facultad de autorizar la expedición de órdenes de pago con carácter de "a justificar", incluso las emitidas en circunstancias excepcionales para evitar daños en el funcionamiento de los servicios.
+
+7.5 Autorizar la retirada de las fianzas provisionales, definitivas y más garantías de los contratos que se celebren en el ámbito de la Entidad Estatal de Derecho Público.
+
+> Se añade por el art. único.8 de la Orden INT/131/2023, de 11 de febrero. [Ref. BOE-A-2023-4215](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-4215)
+
+### Disposición adicional primera.
+
+De las delegaciones otorgadas en la presente Orden se exceptúan las competencias enumeradas en el artículo 13.2 y 5 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de la Administración del Estado y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+### Disposición adicional segunda.
+
+Siempre que se haga uso de las delegaciones otorgadas en la presente Orden se indicará expresamente esta circunstancia y las resoluciones que se adopten se considerarán dictadas por el Ministro del Interior o demás autoridades delegantes según proceda.
+
+### Disposición adicional tercera.
+
+Las delegaciones de atribuciones de la presente Orden no serán obstáculo para que el Ministro del Interior y las demás autoridades que las efectúan puedan avocar para sí el conocimiento de un asunto de acuerdo con lo establecido en el artículo 14.1 de la Ley 30/1992.
+
+### Disposición transitoria única.
+
+Los expedientes iniciados con anterioridad a la entrada en vigor de esta Orden serán tramitados y resueltos de conformidad con lo dispuesto en la misma.
+
+### Disposición derogatoria única.
+
+Quedan derogadas la Orden INT/2992/2002, de 21 de noviembre, por la que el Ministro del Interior delega determinadas atribuciones y aprueba las delegaciones efectuadas por otras autoridades, y la Orden INT/4296/2004, de 28 de diciembre, por la que se modifica la Orden INT/2992/2002, de 21 de noviembre, para delegar en los Directores de los Centros Penitenciarios determinadas competencias en materia de gestión penitenciaria, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente norma.
+
+### Disposición final única.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 7 de abril de 2005.
+
+ALONSO SUÁREZ

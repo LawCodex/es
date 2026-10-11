@@ -1,0 +1,1916 @@
+---
+title: "Real Decreto 1316/2001, de 30 de noviembre, por el que se regula la bonificación en las tarifas de los servicios regulares de transporte aéreo y marítimo para los residentes en las Comunidades Autónomas de Canarias y las Illes Balears y en las Ciudades de Ceuta y Melilla"
+identifier: "BOE-A-2001-23786"
+eli: "https://www.boe.es/eli/es/rd/2001/11/30/1316"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2001-11-30
+published: 2001-12-15
+in_force_from: 2002-01-04
+last_amended: 2007-10-16
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 300"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-23786"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1316/2001, de 30 de noviembre, por el que se regula la bonificación en las tarifas de los servicios regulares de transporte aéreo y marítimo para los residentes en las Comunidades Autónomas de Canarias y las Illes Balears y en las Ciudades de Ceuta y Melilla
+
+Incluye la corrección de errores y erratas publicada en BOE núm. 28, de 1 de febrero de 2002. [Ref. BOE-A-2002-1994](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1994).
+
+El artículo 62 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, prevé que pueda acreditarse, mediante el documento nacional de identidad, o del documento equivalente para los residentes no españoles nacionales de un Estado miembro de la Unión Europea, la condición de residente en las islas Canarias, Baleares, Ceuta y Melilla, a efectos de obtener bonificaciones en los servicios regulares de transporte aéreo y marítimo, y remite a una futura norma reglamentaria la determinación del procedimiento de acreditación.
+
+Tal previsión impone, pues, la necesidad de efectuar las adaptaciones necesarias en el vigente régimen regulador de estas ayudas públicas, establecido por el Real Decreto 255/1989, de 17 de febrero, sobre certificaciones de residencia a efectos de bonificaciones en tarifas y liquidaciones para subvenciones al tráfico regular entre las Canarias, Ceuta, Melilla y Baleares con el resto del territorio nacional, parcialmente modificado por el Real Decreto 1291/1999, de 17 de febrero.
+
+A su vez, la disposición adicional decimonovena de la Ley 14/2000, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, autoriza al Gobierno para modificar, durante el año 2001, la cuantía de las subvenciones al transporte aéreo para los residentes en los territorios extrapeninsulares, siempre que tal modificación no implique la disminución de las ayudas prestadas, el menoscabo en la calidad del servicio ni el incremento de los créditos presupuestarios asignados a esta finalidad.
+
+El importe de las bonificaciones en las tarifas de los servicios de transporte aéreo se encuentra recogido en distintas normas reglamentarias. El Real Decreto 200/1997, de 7 de febrero, determinó la cuantía aplicable para los residentes en la Comunidad Autónoma de las Illes Balears y en las Ciudades de Ceuta y Melilla; el Real Decreto 254/1997, de 21 de febrero, las correspondientes a los residentes en la Comunidad Autónoma de Canarias, y los Reales Decretos 1745/1998 y 1746/1998, ambos de 31 de julio, las aplicables a los residentes en Canarias y Baleares, respectivamente, para los desplazamientos aéreos interinsulares. Tal dispersión normativa, motivada en su momento por la necesidad de adecuar las ayudas a las características de cada territorio y al ámbito de los trayectos, ha generado diferencias carentes hoy de justificación, derivadas del distinto sistema de fijación de las bonificaciones y del mantenimiento en algunos casos de límites cuantitativos máximos.
+
+Este Real Decreto viene a dar cumplimiento a los mandatos contenidos en los citados preceptos legales. En el mismo se regula el procedimiento de acreditación de la residencia mediante la utilización del documento nacional de identidad o de la tarjeta de residencia, se armoniza el sistema de determinación del importe de las bonificaciones, suprimiendo los anteriores límites cuantitativos, y se determinan con mayor rigor los sistemas de comprobación y control de la liquidación de las ayudas.
+
+Se ha considerado conveniente, finalmente, por razones de sistemática y claridad en la regulación, refundir en un solo texto reglamentario el régimen jurídico de las bonificaciones al transporte regular de pasajeros.
+
+En su virtud, con la aprobación previa del Ministro de Administraciones Públicas, a propuesta de los Ministros de Fomento y de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de noviembre de 2001,
+
+DISPONGO:
+
+## CAPÍTULO I — Disposiciones generales
+
+##### Artículo 1. Ámbito de aplicación.
+
+1\. Las bonificaciones en las tarifas de los servicios regulares del transporte aéreo y marítimo reguladas en este real decreto se aplicarán a los ciudadanos españoles y de los demás Estados miembros de la Unión Europea o de otros Estados firmantes del Acuerdo sobre el Espacio Económico Europeo o de Suiza, que acrediten la condición de residentes en las Comunidades Autónomas de Canarias y las Illes Balears y en las Ciudades de Ceuta y Melilla.
+
+2\. A los efectos de este Real Decreto, tendrán la condición de residente aquellos ciudadanos que cumplan cualquiera de los requisitos siguientes:
+
+a) Hallarse inscrito en el padrón municipal en cualquiera de los municipios comprendidos en el ámbito de aplicación de esta norma.
+
+b) Ser diputado o senador electo por alguna de dichas circunscripciones.
+
+3\. La obtención de las bonificaciones a que se refiere este real decreto, será compatible, en su caso, con la obtención de las bonificaciones establecidas para los miembros de las familias numerosas por sus normas especiales.
+
+> Se modifica el apartado 2.b) y se añade el apartado 3 por el art. único.1.1 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+> Se modifica el apartado 1 por el art. único.1 del Real Decreto 207/2005, de 25 de febrero. [Ref. BOE-A-2005-3290](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3290).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+##### Artículo 2. Importe de la bonificación.
+
+1\. La cuantía, legalmente establecida, de la bonificación de las tarifas en los servicios regulares de transporte aéreo y marítimo para residentes, se aplicará en los trayectos directos, ya sean de ida o ida y vuelta, entre las Comunidades Autónomas de Canarias, de las Illes Balears o las Ciudades de Ceuta y Melilla, con el resto del territorio nacional, respectivamente, así como en los desplazamientos interinsulares.
+
+Se considera trayecto directo aquel que se realiza desde el puerto, aeropuerto o helipuerto del punto de origen en los archipiélagos, Ceuta o Melilla, al de destino en el resto del territorio nacional y viceversa, sin escalas intermedias o, de haberlas, cuando no superen las doce horas de duración, salvo aquéllas que vinieran impuestas por las necesidades técnicas del servicio o por razones de fuerza mayor.
+
+2\. Los residentes en Ceuta que realicen un trayecto directo entre esa ciudad y el resto del territorio nacional, utilizando transporte marítimo y aéreo, obtendrán la bonificación de las tarifas en el transporte aéreo cuando tengan origen o destino en los aeropuertos de Málaga, Jerez o Sevilla.
+
+3\. Para la expedición de los billetes de transporte aéreo de viajeros se tendrá en cuenta que los cupones de vuelo de cada tramo de viaje aéreo comprendido en un trayecto directo, deberán estar incluidos en un único billete y anotada y cerrada la reserva de los vuelos.
+
+4\. A los efectos de este real decreto, se entenderá por tarifas de los servicios regulares de transporte aéreo nacional, los precios que deberán pagar los pasajeros a las compañías aéreas o a sus agentes por su transporte y el de su equipaje en los servicios aéreos, así como las condiciones de aplicación de dichos precios, incluida la remuneración y las condiciones ofrecidas a los agentes, otros servicios auxiliares y, en su caso, cargos por emisión. También estarán incluidos los impuestos, tasas y cánones aplicables, con excepción de la tasa por el uso de las infraestructuras y la tasa de seguridad.
+
+Las tarifas de los servicios regulares de transporte aéreo nacional, que podrán incluir los cargos por emisión de dichas tarifas, deberán estar registradas por las compañías aéreas conforme a los procedimientos establecidos por la Dirección General de Aviación Civil, e identificadas con un código de base de tarifa y, en su caso, además por un código de índice de cargo.
+
+En la emisión de billetes, las compañías aéreas que en sus tarifas incluyan cargos por emisión, deberán aplicar las bonificaciones sobre dichas tarifas indicando expresamente los códigos a que hace referencia el párrafo anterior y el importe correspondiente a cada uno de ellos, bien en los cupones de vuelo del billete subvencionado o en un cupón adicional. La bonificación no se aplicará en los cargos por reemisiones de billetes.
+
+5\. En ningún supuesto se podrá bonificar el mayor importe que sobre las tarifas básicas registradas, supongan los precios de las tarifas de clase superior en los servicios de transporte aéreo, ni tampoco se aplicará la bonificación de las tarifas en los billetes que incluyan trayectos fuera del territorio nacional.
+
+Se entenderá por tarifa básica, la tarifa plenamente flexible más baja para vuelos de ida o ida y vuelta, registrada por cada compañía aérea conforme a los procedimientos establecidos por la Dirección General de Aviación Civil.
+
+> Se modifica por el art. único.1.2 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 207/2005, de 25 de febrero. [Ref. BOE-A-2005-3290](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-3290).
+
+> Téngase en cuenta para su aplicación la disposición transitoria única.
+
+> Redactado el párrafo tercero del apartado 4 conforme a la corrección de errores y erratas publicada en BOE núm. 28, de 1 de febrero de 2002. [Ref. BOE-A-2002-1994](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1994).
+
+##### Artículo 3. Acreditación de la condición de residente.
+
+1\. A los efectos de este real decreto, el documento acreditativo de la residencia para los ciudadanos españoles será el documento nacional de identidad, y para los españoles menores de 14 años que no dispongan de dicho documento, el certificado del ayuntamiento en el que residan.
+
+Para los ciudadanos de los Estados miembros de la Unión Europea o de los demás Estados firmantes del Acuerdo sobre el Espacio Económico Europeo o Suiza, el documento acreditativo será el certificado de registro expedido por el Registro Central de Extranjeros, que deberá en todo caso acompañarse del documento nacional de identidad o pasaporte en vigor.
+
+Estos documentos sólo serán eficaces a los efectos de acreditación de la residencia, cuando estén en vigor y en ellos conste expresamente el domicilio de residencia que da derecho a la bonificación.
+
+2\. Si en el documento nacional de identidad acreditativo de la residencia para los ciudadanos españoles no consta el domicilio que da derecho a la bonificación, éste deberá presentarse acompañado de un certificado expedido por el ayuntamiento en el que los interesados tengan su residencia, que contenga los datos indicados en el anexo I y ajustado, en su caso, al modelo oficial de dicho ayuntamiento donde deberán llevar el oportuno registro de los mismos, a efectos de control y comprobación. Dichos certificados, a los efectos previstos en este apartado, tendrán una validez de seis meses a partir de la fecha de expedición.
+
+Los interesados podrán presentar copias auténticas de los certificados a que se refiere este artículo 3, que se obtendrán de acuerdo con lo establecido en el Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro.
+
+3\. Los miembros del Congreso de los Diputados y del Senado podrán acreditar la condición de residente mediante presentación de la credencial de las correspondientes Cámaras, en la que conste, además del nombre y apellidos, el documento nacional de identidad y la circunscripción del Diputado o Senador electo.
+
+4\. La exhibición de los documentos a que se refieren los apartados anteriores, se entenderá como declaración de responsabilidad del beneficiario sobre la vigencia de sus datos y su condición de residente.
+
+> Se modifican los apartados 1 y 2 y se añade el apartado 4 por el art. único.1.3 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+##### Artículo 4. Órganos competentes y control de la Administración.
+
+1\. Los órganos gestores de las bonificaciones al transporte marítimo y aéreo serán las Direcciones Generales de la Marina Mercante y de Aviación Civil, del Ministerio de Fomento.
+
+2\. La inspección y control del cumplimiento de las prescripciones exigidas en este Real Decreto para la percepción y reintegro a las empresas aéreas y marítimas de las bonificaciones que en el mismo se contemplan corresponderá a los Ministerios de Hacienda y de Fomento.
+
+##### Artículo 5. Responsabilidades del beneficiario.
+
+1\. Quienes viajen con billete aéreo o pasaje marítimo bonificado deberán ir provistos del documento que acredite su residencia conforme a lo dispuesto en el artículo 3, y del documento nacional de identidad, o el pasaporte, en vigor, para acreditar su identidad.
+
+2\. Cuando, a requerimiento de la compañía aérea o marítima o de los órganos administrativos competentes, un pasajero que viaje con billete aéreo o pasaje marítimo bonificados no pueda demostrar su identidad y residencia o los datos no coincidan con el titular del billete o pasaje, no podrá efectuar el viaje correspondiente con dichos títulos de transporte, sin perjuicio de las restantes responsabilidades en que haya podido incurrir.
+
+3\. Si con posterioridad a la expedición del billete aéreo o pasaje marítimo bonificado se comprobara por los órganos competentes de la Administración el incumplimiento de los criterios establecidos en el artículo 1 como acreditadores al derecho a la subvención, el beneficiario quedará sujeto a la responsabilidad que corresponda de conformidad con lo dispuesto para el incumplimiento de condiciones en la normativa reguladora de las ayudas y subvenciones públicas.
+
+> Se modifica el apartado 1 por el art. único.1.4 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+## CAPÍTULO II — Transporte aéreo
+
+> Se modifica por el art. único.2 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+##### Artículo 6. Emisión del billete aéreo.
+
+1\. A los efectos previstos en el artículo 3, antes de la expedición del billete, la compañía aérea y sus delegaciones o agencias deberán solicitar a los interesados la exhibición, según corresponda, de los siguientes documentos en vigor: el documento nacional de identidad o en su defecto el certificado del ayuntamiento de residencia para los ciudadanos españoles menores de 14 años, el certificado de registro expedido por el Registro Central de Extranjeros acompañado del documento nacional de identidad o pasaporte, o la credencial de diputado o senador.
+
+Si en el documento nacional de identidad acreditativo de la residencia para los ciudadanos españoles no consta el domicilio que da derecho a la bonificación, deberán presentar además el certificado del ayuntamiento en el que estén empadronados conforme a lo dispuesto en el artículo 3.2.
+
+2\. En el acto de emitir el billete aéreo bonificado, las compañías aéreas, sus delegaciones o agencias comprobarán los documentos acreditativos originales indicados en el apartado anterior y anotarán obligatoriamente en los correspondientes títulos de transporte los siguientes datos:
+
+a) El número del documento nacional de identidad o el número de identidad de extranjero. En el caso de los españoles menores de 14 años sin DNI la fecha de nacimiento.
+
+b) El código del municipio o circunscripción electoral que da derecho a la percepción de la bonificación, conforme a la codificación establecida por el Instituto Nacional de Estadística, cuya lista figura en el anexo II.
+
+c) La identificación codificada conforme al anexo IV de este Real Decreto, del tipo de documento utilizado en el procedimiento seguido para acreditar la condición de residente, distinguiendo entre el documento nacional de identidad, el certificado de registro de extranjero, el certificado de residencia expedido por el ayuntamiento que corresponda, o la credencial de diputado o senador.
+
+En el caso de que en dichos títulos de transporte se incluyan tarifas con cargos por emisión, y éstos queden reflejados en un cupón adicional, deberá constar en el mismo los datos indicados en los anteriores párrafos a), b) y c).
+
+3\. Cuando la emisión del billete aéreo se realice mediante registros electrónicos existentes en una base de datos que sustituyan al título de transporte en soporte papel, o mediante cualquier otro sistema de venta que no permita la confirmación de la residencia del titular en el momento de la expedición del billete ni la comprobación directa de los datos del documento original de residencia en el momento de la emisión, la compañía de transporte, delegación o agencia deberá registrar los datos enumerados en el apartado 2 de este artículo.
+
+Además, para poder hacer uso del billete bonificado el pasajero debe acreditar su condición de residente en el momento de la facturación previo al embarque, por los medios previstos en el apartado 1 de este artículo. Cuando el usuario disponga anticipadamente de la correspondiente tarjeta de embarque, también estará obligado a acreditar su residencia en facturación.
+
+A estos efectos, la compañía advertirá al pasajero que la utilización del billete está condicionada, en todo caso y de la forma indicada, a la acreditación de la residencia en el momento de la facturación previo al embarque.
+
+Para el control interno de la compañía y del Ministerio de Fomento, la información contenida en el registro electrónico que conforma el cupón de vuelo y, en su caso el cupón de cargo en la base de datos, contendrá como mínimo la misma información que reproduce el título de transporte en soporte de papel, incluidos los datos indicados en el apartado 2 de este artículo.
+
+> Se modifica por el art. único.2 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+##### Artículo 7. Procedimiento de liquidación.
+
+1\. La liquidación de las bonificaciones aplicadas por las empresas de transporte se efectuará por meses naturales vencidos, mediante certificación expedida por las mismas, de acuerdo con el modelo que se indica en el anexo III.
+
+Estas liquidaciones mensuales habrán de presentarse en un plazo máximo de seis meses, contados a partir del mes siguiente al que corresponde la liquidación.
+
+2\. Las compañías aéreas presentarán en soporte informático los ficheros de vuelos mensuales y de tarifas básicas, de acuerdo con los formatos y especificaciones que se indican en el anexo IV, indicando los datos totales contenidos en dicho soporte. El órgano gestor dispondrá de un plazo de diez días, desde la recepción del soporte informático, para comunicar a las compañías aéreas la admisión o no de dichos datos para su posterior proceso.
+
+3\. La comprobación del contenido del soporte informático por el órgano gestor deberá efectuarse en un plazo máximo de treinta días, a contar desde la fecha de admisión del mismo.
+
+a) En aquellos casos en los que por el órgano gestor se detecten incorrecciones o incoherencias en el contenido de los datos de los soportes informáticos mensuales, a que se refiere el apartado 2, se comunicará a las empresas para que en el plazo de treinta días naturales, contados a partir de la fecha de recepción de la comunicación, se proceda a subsanar los errores detectados. Transcurrido dicho plazo, los importes de la subvención de dichos errores que no hayan sido subsanados serán deducidos de la liquidación que corresponda.
+
+b) Si los errores finalmente deducidos, referidos en el párrafo a), representan un porcentaje superior al 5 por 100 del total de los cupones de vuelo incluidos en el fichero mensual, se efectuarán comprobaciones documentales de los cupones de vuelo de dicha base de datos de acuerdo con los siguientes procedimientos y criterios:
+
+1.º Se realizará muestreo aleatorio proporcional al volumen del total de los cupones de vuelo contenidos en el fichero mensual, una vez deducidos los errores según el párrafo a), que proporcione estadísticamente un nivel de confianza suficiente. Las compañías aéreas deberán presentar la documentación resultante del muestreo aleatorio, en el plazo máximo de treinta días desde su requerimiento.
+
+2.º Los cupones de vuelo no presentados, así como los errores que pudieran detectarse en la comprobación documental, que se realizará en el plazo máximo de un mes, serán comunicados a la compañía aérea, para que en el plazo de quince días se proceda a su subsanación.
+
+3.º Transcurrido dicho plazo, si el resultado del muestreo arroja un índice de error inferior o igual a un 5 por 100 de los documentos, se deducirá el importe de la bonificación de dichos errores, de la certificación correspondiente. Si el índice de error fuese superior al 5 por 100, se extrapolará al total de la liquidación mensual que corresponda, en el porcentaje de error resultante del muestreo.
+
+4\. Concluidos los anteriores procesos de control, se iniciará el procedimiento de pago de la correspondiente liquidación mensual, para lo cual las compañías aéreas deberán remitir certificados mensuales para cada uno de los conceptos presupuestarios geográficamente delimitados de Canarias e Intercanarias, de Baleares e Interbalear y de Ceuta/Melilla, donde se reflejará el número de cupones de vuelo y el importe de la subvención, en cada uno de ellos, así como los importes de los errores detectados y aceptados por las empresas, caso de haberlos.
+
+5\. Las compañías aéreas habrán de conservar los cupones de vuelo bonificados cualquiera que sea su forma de emisión, a disposición de la Intervención General de la Administración del Estado, del Ministerio de Fomento, y del Tribunal de Cuentas, durante el plazo de prescripción previsto en el artículo 25 de la Ley 47/2003, de 26 de noviembre, por la que se aprueba la Ley General Presupuestaria.
+
+6\. Las certificaciones mensuales serán expedidas por las compañías emisoras de los billetes, independientemente de la ejecución del transporte por sí misma o por otra compañía aérea, siendo responsabilidad de la compañía emisora todo lo relacionado con los procedimientos descritos en los artículos 8, 9 y 10.
+
+> Se modifica por el art. único.2 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+##### Artículo 8. Control de las compañías aéreas o de sus agentes y comprobaciones de identidad.
+
+1\. En el momento de la facturación previo al embarque, las compañías aéreas deberán comprobar la identidad del beneficiario cuyo nombre figure en el billete, con su documento nacional de identidad o pasaporte, en vigor. Cuando el billete haya sido emitido mediante registros electrónicos u otros sistemas de venta que sustituyan al título de transporte en soporte papel, dicha comprobación deberá hacerse de conformidad con lo dispuesto en el artículo 6.3.
+
+En los vuelos interinsulares, las comprobaciones se realizarán de forma exhaustiva en los aeropuertos de las islas capitalinas y con carácter periódico en el resto de las islas. Cuando dichas comprobaciones no puedan realizarse en la facturación, se efectuarán en el embarque.
+
+2\. Un pasajero que posea un billete subvencionado y no acredite su identidad en la forma prevista en el apartado anterior de conformidad con la legislación aplicable, o no sea titular del mismo, no podrá realizar el viaje con aquel título de transporte, debiendo las compañías aéreas levantar un parte del incidente, según modelo indicado en el anexo V, que será trasladado al órgano gestor cada mes. Anualmente las compañías aéreas harán constar de forma expresa ante la Dirección General de Aviación Civil, el número de incidencias producidas a que se refiere este apartado, y en su caso, la inexistencia de tales incidencias en el período de tiempo indicado.
+
+3\. Las compañías aéreas, sus delegaciones y agentes, en el ámbito de sus responsabilidades respectivas, darán estricto cumplimiento a los requisitos establecidos en este real decreto, a cuyos efectos elaborarán los procedimientos que habrán de seguir, que contendrán como mínimo los siguientes conceptos, debiendo ser remitidos a la Dirección General de Aviación Civil para su correspondiente control:
+
+a) Procedimientos en los procesos de verificación de la identidad de los beneficiarios de la subvención, identificación de documentos acreditativos de la condición de residente y requisitos para la aplicación de las bonificaciones, en la emisión de billetes.
+
+b) Procedimientos sobre la verificación de la identidad de los residentes en el momento de la facturación o embarque según se determina en los apartados 1 y 2 de este artículo.
+
+c) Procedimientos en los procesos de codificación y control de la información que habrá de dar soporte a la emisión del billete papel o electrónico, así como en la elaboración de los ficheros informáticos conforme a lo establecido en el artículo 9.
+
+> Se modifica por el art. único.2 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+##### Artículo 9. Procedimiento de inspección y control.
+
+1\. Con el fin de dar cumplimiento a lo dispuesto en el artículo 4.2, la Dirección General de Aviación Civil efectuará comprobaciones periódicas, sobre el cumplimiento de los procedimientos presentados por las compañías aéreas establecidos en el artículo 8.3. Asimismo, podrá efectuar periódicamente comprobaciones documentales de los cupones de vuelo, mediante muestreo aleatorio, según los criterios del artículo 7.3.b).
+
+2\. Cuando en los controles que se efectúen en los procedimientos descritos en el artículo 8.3 se aprecie el incumplimiento de los mismos, o no ofrezcan las condiciones de garantía suficientes, el órgano gestor podrá decidir, en todas o algunas de las certificaciones mensuales, la aplicación del procedimiento de muestreo previsto en el artículo 7.3,b) sobre comprobación documental, a la compañía aérea de que se trate.
+
+> Se modifica por el art. único.2 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+## CAPÍTULO III — Transporte marítimo
+
+##### Artículo 10. Emisión del pasaje marítimo.
+
+1\. El pasaje marítimo será individual para cada pasajero.
+
+2\. En el acto de su expedición, el empleado de la empresa naviera o de la agencia deberá reflejar en el mismo los siguientes datos:
+
+a) Nombre y apellidos del pasajero.
+
+b) Número del documento nacional de identidad o del certificado de registro expedido por el Registro Central de Extranjeros.
+
+c) Número del billete, fecha de expedición, trayecto y acomodación.
+
+d) Fecha de embarque.
+
+e) Tarifa cobrada: el importe efectivo del billete una vez detraídos previamente de su precio nominal cualesquiera descuentos comerciales, promociones o conceptos asimilados.
+
+f) Importe de la bonificación: el resultado de aplicar el porcentaje de la bonificación de residente a la tarifa cobrada.
+
+g) Precio final: la diferencia entre la tarifa cobrada y el importe de la bonificación por residente, así como, en su caso, de cualesquiera otras subvenciones o bonificaciones –que deberán figurar también en el billete–, otorgadas por la Administración General del Estado u otras Administraciones públicas.
+
+3\. Como requisito previo a la expedición del billete, el empleado de la empresa naviera o de la agencia deberá recabar de los interesados la presentación de fotocopia del documento nacional de identidad o del certificado de registro expedido por el Registro Central de Extranjeros acompañado de fotocopia del documento nacional de identidad o del pasaporte, siempre que en tales documentos conste el domicilio de residencia que da derecho a la bonificación, o bien en su caso, del certificado de residencia en vigor, así como del original de dichos documentos, con el fin de comprobar su coincidencia con las fotocopia presentadas, la cual tendrá a partir de entonces la misma validez que el original, a los efectos previstos en este real decreto, sin que se pueda exigir nuevamente la exhibición de los citados documentos hasta el momento del embarque.
+
+Acto seguido se unirá la fotocopia del documento nacional de identidad, del certificado de registro expedido por el Registro Central de Extranjeros acompañado de fotocopia del documento nacional de identidad o del pasaporte, o del certificado de residencia, a la matriz del billete, que será conservada por la empresa naviera o por la agencia.
+
+Si con posterioridad a la expedición del billete o pasaje bonificado, se comprobara por los órganos competentes no ser cierta la vigencia en dicho momento del domicilio en el municipio que figure en la fotocopia del documento nacional de identidad o el cerificado expedido por el Registro Central de Extranjeros presentada para recibir la bonificación, el beneficiario quedará sujeto a la responsabilidad que corresponda de conformidad con lo dispuesto para el incumplimiento de condiciones en la normativa reguladora de las ayudas y subvenciones públicas.
+
+> Se modifican los apartados 2.b) y 3 por el art. único.3 del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+##### Artículo 11. Procedimiento de liquidación.
+
+1\. Las liquidaciones de las subvenciones se efectuarán por trimestres naturales vencidos, mediante certificación expedida por las empresas que servirá de justificante al mandamiento de pago. También podrán aceptarse certificaciones por períodos inferiores a un trimestre, cuando el crédito presupuestario disponible no cubra la totalidad del importe de la certificación trimestral.
+
+2\. La certificación deberá expresar el número de pasajeros embarcados por cada línea, clasificados en tantos grupos como «tarifas cobradas» se utilicen, con indicación del porcentaje aplicable e importe de la bonificación resultante, debiendo totalizarse dichos grupos.
+
+3\. La certificación se presentará por la empresa naviera ante la Administración marítima en el plazo de treinta días inmediatamente posteriores al vencimiento del trimestre objeto de liquidación. A los efectos de documentar dicha certificación, las empresas navieras deberán conservar a disposición de la Administración, en soporte papel o informático, la relación individualizada de los billetes expedidos, con los datos que se expresan en el apartado 2 de este artículo.
+
+4\. Las empresas navieras habrán de conservar la matriz de los billetes expedidos con bonificación de residente, junto con las copias de la documentación acreditativa de la residencia unidas a los mismos durante el plazo de prescripción previsto en el artículo 46, 1.º, del Real Decreto legislativo 1091/1988. En los casos en los que en el billete no figure la fecha de embarque se deberá adjuntar copia del cupón o tarjeta de embarque en el que habrá de figurar la citada fecha.
+
+##### Artículo 12. Procedimiento de inspección y control.
+
+1\. Con el fin de dar cumplimiento a lo dispuesto en el apartado 2 del artículo 4, se utilizará por la Dirección General de la Marina Mercante el procedimiento de toma aleatoria de muestras en una proporción máxima del 1 por 100 del total de los billetes bonificados. Una vez examinadas las certificaciones presentadas por las empresas navieras, dicho órgano directivo requerirá a las mismas para que, en el plazo de diez días, presenten los billetes seleccionados aleatoriamente.
+
+2\. El examen de los billetes deberá reflejar la comprobación de los requisitos exigidos en los artículos 3 y 10, debiendo constar en el acta, que se expedirá a tal efecto, el resultado de la verificación.
+
+En el supuesto de que se detecten defectos u omisiones, se reflejarán en el acta, de la que se remitirá copia a la empresa a fin de que, en el plazo de diez días, pueda proceder a la subsanación de los mismos.
+
+Transcurrido dicho plazo, si el resultado del muestreo arrojara un índice de error igual o inferior al 5 por 100 de los billetes auditados, la certificación presentada se dará por válida, si bien se deducirá de la misma el importe bonificado de los billetes defectuosos detectados. Si el índice de error fuese superior al 5 por 100 se extrapolará al total de la liquidación que corresponda el porcentaje de error resultante del muestreo.
+
+3\. La comprobación a realizar por el órgano gestor deberá realizarse en un plazo máximo de treinta días a contar desde la fecha de recepción de la documentación completa a entregar por las empresas navieras.
+
+##### Artículo 13. Responsabilidades de las empresas navieras.
+
+1\. Las empresas navieras y las agencias de viaje responderán del cumplimiento de los requisitos establecidos en este Real Decreto en cuanto les sean de aplicación.
+
+2\. Las empresas navieras comprobarán periódicamente, en el momento del embarque, la identidad de la persona cuyo nombre figure en el billete, con su documentación personal, independientemente de la comprobación que se pueda llevar a cabo por la Administración.
+
+##### Disposición adicional única. Utilización de medios informáticos.
+
+El Ministerio de Fomento podrá establecer procedimientos de control, inspección y verificación, mediante sistemas electrónicos o informáticos, que sustituyan total o parcialmente los previstos en este Real Decreto para el transporte marítimo.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados, de acuerdo con las fechas señaladas en la disposición final segunda, el Real Decreto 255/1989, de 17 de febrero, sobre certificaciones de residencia a efectos de bonificaciones en tarifas y liquidaciones para subvenciones al tráfico regular entre las Canarias, Ceuta, Melilla y Baleares con el resto del territorio nacional; el Real Decreto 1291/1999, de 23 de julio, por el que se modifica parcialmente el anterior; el Real Decreto 200/1997, de 7 de febrero, sobre subvenciones al transporte aéreo para residentes en Baleares, Ceuta y Melilla; el Real Decreto 254/1997, de 21 de febrero, sobre subvenciones al transporte aéreo para residentes en Canarias; el Real Decreto 1745/1998, de 31 de julio, sobre subvenciones al transporte aéreo interinsular para residentes en Canarias, excepto el artículo segundo; el Real Decreto 1746/1998, de 31 de julio, sobre subvenciones al transporte aéreo interinsular para residentes en las islas Baleares, excepto el artículo segundo, y, en general, cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
+
+##### Disposición final primera. Habilitación normativa.
+
+Se autoriza a los Ministros de Fomento y de Hacienda para dictar, conjunta o separadamente, en el ámbito de sus competencias, cuantas disposiciones sean precisas para la aplicación y desarrollo de lo dispuesto en este Real Decreto y, en particular, para adecuar técnicamente la estructura y contenido de los anexos.
+
+##### Disposición final segunda. Entrada en vigor.
+
+1\. El capítulo I de este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+2\. El capítulo II lo hará transcurridos seis meses desde su publicación en el «Boletín Oficial del Estado», el primer día del mes natural siguiente.
+
+3\. El capítulo III lo hará el primer día del trimestre natural siguiente a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 30 de noviembre de 2001.
+
+JUAN CARLOS R.
+
+El Ministro de la Presidencia,
+
+JUAN JOSÉ LUCAS GIMÉNEZ
+
+## ANEXO I
+
+## Datos que han de cumplimentarse en las certificaciones
+
+Ayuntamiento de........................ Codigo municipal.......
+
+D./D.ª................. Secretario del Excmo. Ayuntamiento.
+
+Certifica que:
+
+D/D.ª...................................................................................
+
+Con n.º D.N.I. o NIE...........................................................
+
+Nacionalidad.....................................................................
+
+Fecha de nacimiento (para menores de 14 años sin D.N.I.)......................................................................................
+
+Figura inscrito/a en el día de hoy como residente en vigente Padrón Municipal de habitantes de este Ayuntamiento. Y para que conste a los efectos de los dispuesto en el Real Decreto. sobre certificaciones de residencia a efectos de la obtención de la bonificación en las tarifas y determinación del procedimiento de liquidación para subvenciones al tráfico regular entre las islas Canarias, Ceuta, Melilla y las islas Baleares con el resto del territorio nacional, expido la presente certificación en. (fecha).
+
+> Se modifica por el art. único.4 y anexo I del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+## ANEXO II — Relación de códigos de comunidades autónomas y ciudades
+
+### Baleares
+
+#### 070005 Código de provincia
+
+070027 Alaior.
+
+070012 Alaró.
+
+070033 Alcúdia.
+
+070048 Algaida.
+
+070051 Andraitsx.
+
+079013 Ariany.
+
+070064 Artá.
+
+070070 Bañalbufar.
+
+070086 Binisalem.
+
+070099 Búger.
+
+070103 Bunyola.
+
+070110 Calviá.
+
+070125 Campanet.
+
+070131 Campos.
+
+070146 Capdepera.
+
+070645 Castell (Es).
+
+070159 Ciutadella de Menorca.
+
+070162 Consell.
+
+070178 Costitx.
+
+070184 Deyá.
+
+070260 Eivissa..
+
+070197 Escorca.
+
+070201 Esporles.
+
+070218 Estellenchs.
+
+070223 Felanitx.
+
+070239 Ferreries.
+
+070244 Formentera.
+
+070257 Fornalutx.
+
+070276 Inca.
+
+070282 Lloret de Vista Alegre.
+
+070295 Lloseta.
+
+070309 Llubí.
+
+070316 Llucmajor.
+
+070321 Mahón.
+
+070337 Manacor.
+
+070342 Mancor de la Vall.
+
+070355 María de la Salud.
+
+070368 Marratxi.
+
+070374 Mercadal (Es).
+
+079028 Migjorn Gran (Es).
+
+070380 Montuïri.
+
+070393 Muro.
+
+070407 Palma de Mallorca.
+
+070414 Petra.
+
+070440 Pobla (Sa).
+
+070429 Pollença.
+
+070435 Porreres.
+
+070453 Puigpunyent.
+
+070598 Salines (Ses).
+
+070488 San José.
+
+070466 Sant Antoni de Portmany.
+
+070491 Sant Joan.
+
+070504 Sant Joan de Labritja.
+
+070511 Sant Llorenç des Cardassar.
+
+070526 Sant Lluis.
+
+070532 Santa Eugenia.
+
+070547 Santa Eulalia del Río.
+
+070550 Santa Margalida.
+
+070563 Santa María del Camí.
+
+070579 Santanyí.
+
+070585 Selva.
+
+070472 Sencelles.
+
+070602 Sineu.
+
+070619 Sóller.
+
+070624 Son Servera.
+
+070630 Valldemosa.
+
+070658 Vilafranca de Bonany
+
+### Tenerife
+
+#### 380005 Código de provincia
+
+380012 Adeje.
+
+380027 Agulo.
+
+380033 Alajeró.
+
+380048 Arafo.
+
+380051 Arico.
+
+380064 Arona.
+
+380070 Barlovento.
+
+380086 Breña Alta.
+
+380099 Breña Baja.
+
+380103 Buenavista del Norte.
+
+380110 Candelaria.
+
+380125 Fasnia.
+
+380131 Frontera.
+
+380146 Fuencaliente de la Palma.
+
+380159 Garachico.
+
+380162 Garafía.
+
+380178 Granadilla de Abona.
+
+380184 Guancha (La).
+
+380197 Guía de Isora.
+
+380201 Güimar.
+
+380218 Hermigua.
+
+380223 Icod de los Vinos.
+
+380244 Llanos de Aridane (Los).
+
+380257 Matanza de Acentejo (La).
+
+380260 Orotava (La).
+
+380276 Paso (El).
+
+380282 Puerto de la Cruz.
+
+380295 Puntagorda.
+
+380309 Puntallana.
+
+380316 Realejos (Los).
+
+380321 Rosario (El).
+
+380337 San Andrés y Sauces.
+
+380239 San Cristobal de La Laguna.
+
+380342 San Juan de la Rambla.
+
+380355 San Miguel de Abona.
+
+380368 San Sebastián de la Gomera.
+
+380374 Santa Cruz de la Palma.
+
+380380 San Cruz de Tenerife.
+
+380393 Santa Ursula.
+
+380407 Santiago del Teide.
+
+380414 Sauzal (El).
+
+380429 Silos (Los).
+
+380435 Tacoronte.
+
+380440 Tanque (El).
+
+380453 Tazacorte.
+
+380466 Tegueste.
+
+380472 Tijarafe.
+
+380491 Valle Gran Rey.
+
+380504 Vallehermoso.
+
+380488 Valverde.
+
+380511 Victoria de Acentejo (La).
+
+380526 Vilaflor.
+
+380532 Villa de Mazo.
+
+### Las Palmas
+
+#### 350000 Código de provincia
+
+350017 Agaete.
+
+350022 Agüimes.
+
+350038 Antigua.
+
+350043 Arrecife.
+
+350056 Artenara.
+
+350069 Arucas.
+
+350075 Betancuria.
+
+350081 Firgas.
+
+350094 Gáldar.
+
+350108 Haría.
+
+350115 Ingenio.
+
+350120 Mogán.
+
+350136 Moya.
+
+350141 Oliva (La).
+
+350154 Pájara.
+
+350167 Palmas de Gran Canaria (Las).
+
+350173 Puerto del Rosario.
+
+350189 San Bartolomé.
+
+350192 San Bartolomé de Tirajana.
+
+350206 San Nicolás de Tolentino.
+
+350213 Santa Brígida.
+
+350228 Santa Lucía de Tirajana.
+
+350234 Santa María de Guía de Gran Canaria.
+
+350249 Teguise.
+
+350252 Tejeda.
+
+350265 Telde.
+
+350271 Teror.
+
+350287 Tías.
+
+350290 Tinajo.
+
+350304 Tuineje.
+
+350326 Valleseco.
+
+350311 Valsequillo de Gran Canaria.
+
+350332 Vega de San Mateo.
+
+350347 Yaiza
+
+### Melilla
+
+520018 Melilla.
+
+### Ceuta
+
+510013 Ceuta.
+
+> Se modifica por el art. único.4 y anexo II del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+> Redactados los apartados Illes Balears y Tenerife conforme a la corrección de errores y erratas publicada en BOE núm. 28, de 1 de febrero de 2002. [Ref. BOE-A-2002-1994](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1994).
+
+## ANEXO III
+
+Compañía............... en su nombre y en representación.
+
+D/D.ª..................................................................................
+
+Certifica que:
+
+La cifra de. euros que arroja la presente liquidación correspondiente al mes .........., de la subvenciones el transporte aéreo a residentes, es exacta y verídica según apuntes realizados en nuestra contabilidad y según puede demostrarse por los documentos que obras en nuestros archivos de acuerdo con los datos siguiente:
+
+Mercado (Canarias, Baleares o Ceuta Melilla)................. (En el caso de Canarias y Baleares, desglosar los datos de los trayectos interinsulares y los de las islas con el resto del territorio nacional).
+
+N.º cupones........................... Importe euros...................
+
+Errores automáticos o de muestreo............................... Importe en euros (en negativo).
+
+Total............................. Importe euros.............................
+
+Debe incluir:
+
+Nombre y firma del representante.
+
+Datos domicilio social.
+
+Sello de la compañía.
+
+Fecha.
+
+> Se modifica por el art. único.4 y anexo III del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+## ANEXO IV — Ficheros de entrada
+
+El Sistema cuenta con los siguientes ficheros de entrada:
+
+Fichero de Vuelos
+
+El fichero de vuelos contendrá los cupones volados {cupones de vuelo y cupones de «cargo por emisión»} en el mes que indica el nombre del propio fichero y, en su caso, aquellos cupones volados en meses anteriores que no hayan podido ser incluidos en ficheros de meses pasados (máximo doce meses). Será de texto ASCII y contará con una línea de texto por cada cupón facturado. Cada línea (cupón) irá separada por un final de línea tipo DOS: CR y LF (ASCII 13 y ASCII 10 respectivamente). Cada línea tendrá 20 campos separados por el carácter «|» (ASCII 124) y un total de 198 caracteres/cupón (incluidos caracteres separadores y terminadores de línea). Los campos tendrán el contenido y formato dados por la siguiente tabla:
+
+| N.º de orden | Denominación del campo | Contenido del campo |
+|---|---|---|
+| 1 | Año facturación. | El año de facturación con cuatro dígitos. Caracteres permitidos: 0 a 9. |
+| 2 | Mes facturación. | El número de orden anual del mes de facturación con dos dígitos, correspondiendo el 01 a enero y, consecutivamente, hasta el 12 que corresponde a diciembre. En caso de que el número del mes sea inferior a diez se añadirá un cero a la izquierda. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 3 | Código compañía. | Código alfanumérico de tres caracteres, que identifica a la compañía responsable de la facturación, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de vuelo con derecho a subvención. Si la compañía dispone de código numérico IATA podrá proponer éste como código de compañía. Caracteres permitidos: A-Z, 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 4 | Número billete. | El número de billete con doce dígitos. En caso de que el número de dígitos significativos sea menor de 12 se deberá rellenar con ceros a la izquierda hasta completar las doce posiciones. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 5 | Número cupón. | El número del cupón de vuelo con dos dígitos. En caso de que el número sea de un único dígito se deberá añadir un cero a la izquierda. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal).<br>'00' para cupón de «cargos por emisión» |
+| 6 | Compañía utilización. | Código alfanumérico de tres caracteres, que identifica a la compañía que realiza el vuelo, que será asignado al acreditarse la compañía como entidad emisora de facturas de cupones de vuelo con derecho a subvención. Si la compañía dispone de código numérico IATA podrá proponer éste como código de compañía. Caracteres permitidos: A-Z, 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal).<br>En el caso de cupones de «cargo por emisión» el valor de este campo debe coincidir con el campo n.º orden 3 «código compañía» |
+| 7 | Tipo subvención. | Un valor numérico que se corresponde con la tabla siguiente:<br>Canarias-Resto del Territorio Nacional 01<br>Baleares-Resto del Territorio Nacional 02<br>Interinsular Canarias 03<br>Interinsular Balear 05<br>Melilla 06<br>Ceuta 07<br>Obligaciones de Servicio Público 08<br>Caracteres permitidos: 0-9. No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 8 | Denominación tarifa. | Secuencia alfanumérica compuesta por el código de la tarifa registrada y aplicada seguido por los códigos de los descuentos, si hubiere. Las dos últimas posiciones contendrán lo siguiente, según la razón de la subvención:<br>Residente Canarias RC<br>Residente Baleares RB<br>Insular Canarias IC<br>Insular Balear IB<br>Residente Melilla RM<br>Residente Ceuta RE<br>El campo deberá estar justificado a la izquierda, rellenándose con espacios (ASCII 32 decimal) hasta completar la longitud del campo. Caracteres permitidos: A-Z, 0-9. |
+| 9 | Tarifa cobrada. | Importe en céntimos de euro de la tarifa aplicada o «cargo por emisión» registrado, tras realizar los descuentos comerciales, si los hubiere, (en ningún caso el de residente y el de familia numerosa si coincidiesen ambas circunstancias), redondeado al céntimo de euro. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). El campo se rellenará con ceros a la izquierda si el importe tiene menos de seis dígitos. |
+| 10 | Importe subvención. | Importe en céntimos de euro de la subvención facturada, resultante de aplicar el descuento legalmente establecido a la tarifa cobrada o al «cargo por emisión», redondeado igualmente al céntimo de euro. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). El campo se rellenará con ceros a la izquierda si el importe tiene menos de seis dígitos. |
+| 11 | Fecha emisión billete. | Fecha de emisión del billete en el formato DD/MM/AAAA en la que:<br>DD es el número de día del mes. Si es inferior a 10 se añadirá un cero a la izquierda.<br>MM es el número del mes. Si es inferior a 10 se añadirá un cero a la izquierda.<br>AAAA es el año con cuatro dígitos.<br>Caracteres permitidos: 0-9 y '/' (ASCII 47 decimal). Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 12 | Fecha utilización. | Fecha y hora de utilización del cupón en el formato DD/MM/AAA HH:MM en la que DD, MM, AAAA se conformarán a lo establecido para el campo 11 y:<br>HH es la hora de comienzo del vuelo en formato 24 h. Si es inferior a 10 se añadirá un cero a la izquierda.<br>MM es el minuto de comienzo del vuelo. Si es inferior a 10 se añadirá un cero a la izquierda.<br>El grupo fecha estará separado del grupo hora mediante un único espacio (ASCII 32 decimal). Caracteres permitidos: 0-9, '/' (ASCII 47 decimal) y ':' (ASCII 58 decimal).<br>En los «cupones de cargo» debe figurar el contenido de «fecha emisión billete» al que se le añade la cadena ' 00:00' |
+| 13 | Origen. | El Código de Identificación de Localidad IATA de tres letras correspondiente al aeropuerto de origen del cupón. En los casos en que existan códigos múltiples para un cierto aeropuerto se indicará cuál es el que deberá figurar en la tabla. Caracteres permitidos: A-Z, 0-9. |
+| 14 | Destino. | El Código de Identificación de Localidad IATA de tres letras correspondiente al aeropuerto de destino del cupón. En los casos en que existan códigos múltiples para un cierto aeropuerto se indicará cuál es el que deberá figurar en la tabla. Caracteres permitidos: A-Z, 0-9. |
+| 15 | Identificación compañía. | Código de identificación del billete para la compañía. Caracteres permitidos: desde ASCII 32 decimal, inclusive, hasta ASCII 127, exclusive.<br>Cuando se trate de «cargo por emisión» en las últimas 13 posiciones debe figurar el numero de billete de primera emisión, con 12 dígitos incluyendo los ceros no significativos, precedido de un espacio. El espacio puede omitirse en el caso de que sea la única información que aparezca en el campo. |
+| 16 | Tipo de acreditación de residencia. | Tipo de documento de acreditación, con dos dígitos, siendo el situado más a la izquierda un cero (ASCII 48 decimal) presentado según la siguiente tabla:<br>01 DNI.<br>02 Tarjeta de Residente.<br>03 Certificado de Residencia del Ayuntamiento.<br>04 Españoles menores 14 años sin DNI.<br>05 Senador o Diputado.<br>Caracteres permitidos: 0-4. No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 17 | Núm. documento. | El número de DNI o Tarjeta de Residente, incluyendo letra de validación. En caso de que el número de dígitos significativos sea menor de 9 se deberá rellenar con ceros a la izquierda hasta completar las doce posiciones. Caracteres permitidos: 0-9, A-Z. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal).<br>Cuando el documento sea de tipo 04, la fecha nacimiento en el formato DDMMAAAA0. |
+| 18 | Código municipio. | Código del municipio de residencia (según Anexo II), o de la circunscripción en el caso de Senador o Diputado.<br>Constará de seis caracteres numéricos, incluyendo los ceros no significativos. Caracteres permitidos: 0-9. No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 19 | Tipo emisión. | Caracteres permitidos: A-Z, 0-9<br>El tipo de emisión del cupón puede adoptar los valores:<br>Manual: 0 (ASCII 48 decimal).<br>Automático: distinto de cero.<br>En el caso de «cupón de cargo» el índice que corresponda en la tabla de Índices de cupones de cargo, registrado por la compañía aérea. |
+| 20 | Código numérico IATA de agencia. | El código numérico de la lista de agentes y localizaciones IATA, con siete dígitos más el dígito de control.<br>Este campo es optativo y cuando no se cumplimente deberán rellenarse las ocho posiciones con ceros.<br>Caracteres permitidos: No se aceptará el carácter «espacio» (ASCII 32 decimal). |
+
+El campo «IDENTIFICACIÓN COMPAÑÍA», es de utilidad a la propia compañía para identificar o localizar los cupones mediante un código interno. Este dato será incluido en todos los listados de billetes remitidos a la compañía (facilitando a ésta la identificación del cupón referido). Por tanto se rellenará con espacios en blanco cuando no se utilice. La cumplimentación de los demás campos es obligatoria.
+
+Los campos numéricos irán ajustados a la derecha y rellenos con ceros. Los campos alfanuméricos (son únicamente validos los caracteres ASCII 32 a 255) irán ajustados a la izquierda.
+
+Con objeto de poder realizar las distintas verificaciones en un trayecto directo subvencionado, se facturarán todos los cupones del mismo, una vez haya sido volado en su totalidad y se incluirán en el fichero de vuelos que corresponda, reflejando en cada caso la subvención aplicada.
+
+Resumen del formato de la tabla de cupones de vuelo
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Nº</p>
+</th>
+<th rowspan="2">
+<p>Campo</p>
+</th>
+<th rowspan="2">
+<p>Posición</p>
+</th>
+<th rowspan="2">
+<p>Longitud</p>
+</th>
+<th colspan="4">
+<p>Caracteres permitidos</p>
+</th>
+<th rowspan="2">
+<p>Justificado</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>0-9</p>
+</th>
+<th>
+<p>A-Z</p>
+</th>
+<th>
+<p>Otros</p>
+</th>
+<th>
+<p>Espacio</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Año facturación.</p>
+</td>
+<td>
+<p>1 - 4</p>
+</td>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Mes facturacion.</p>
+</td>
+<td>
+<p>6 - 7</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Codigo compañía.</p>
+</td>
+<td>
+<p>09-Nov</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Número billete.</p>
+</td>
+<td>
+<p>13 - 24</p>
+</td>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Número cupón.</p>
+</td>
+<td>
+<p>26 - 27</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Compañía utilización.</p>
+</td>
+<td>
+<p>29 - 31</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Tipo subvención.</p>
+</td>
+<td>
+<p>33 - 34</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>01-Ago</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Denominación tarifa.</p>
+</td>
+<td>
+<p>36 - 51</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Izquierda</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Tarifa cobrada.</p>
+</td>
+<td>
+<p>53 - 58</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Importe subvención.</p>
+</td>
+<td>
+<p>60 - 65</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>11</p>
+</td>
+<td>
+<p>Fecha emisión billete.</p>
+</td>
+<td>
+<p>67 - 76</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>'/'</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>Fecha utilización.</p>
+</td>
+<td>
+<p>78 - 93</p>
+</td>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>'/' y ':'</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>13</p>
+</td>
+<td>
+<p>Origen.</p>
+</td>
+<td>
+<p>95 - 97</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>Destino.</p>
+</td>
+<td>
+<p>99 - 101</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>15</p>
+</td>
+<td>
+<p>Identificación compañía.</p>
+</td>
+<td>
+<p>103 - 166</p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>&gt;= 32 y &lt; 127</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Izquierda</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>Tipo de acreditación de identidad.</p>
+</td>
+<td>
+<p>168- 169</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>01-May</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>17</p>
+</td>
+<td>
+<p>Numero documento.</p>
+</td>
+<td>
+<p>171 - 179</p>
+</td>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>Código municipio.</p>
+</td>
+<td>
+<p>181 - 186</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>19</p>
+</td>
+<td>
+<p>Tipo emisión.</p>
+</td>
+<td>
+<p>188 - 189</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>Código numérico IATA agencias.</p>
+</td>
+<td>
+<p>191 - 198</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Si</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Fichero de Tarifas Básicas
+
+El fichero de tarifas básicas contendrá aquellas necesarias para la comprobación de los topes máximos de subvención aplicable a cada cupón facturado en el mes correspondiente. Se incluirán las tarifas básicas solo en ida y en ambos sentidos, relativas a los cupones volados por la compañía emisora y las de los trayectos de cupones de vuelo realizados por otras compañías e incluidos en el fichero de vuelos del mes facturado. No se necesitará proporcionar aquellas tarifas básicas que ya fueron notificadas con anterioridad. Sólo será necesario incluir las tarifas de compañías distintas de la de facturación cuando éstas no hayan sido ya notificadas por la compañía de utilización.
+
+Las compañías aéreas que en sus estructuras tarifarias no tengan tarifas básicas, incluirán en este fichero las tarifas más altas de cada una de sus rutas, en las mismas condiciones indicadas anteriormente.
+
+En las tarifas «punto a punto» que tengan dos vías intermedias, se indicará en el campo «VIA» el código del primer aeropuerto de tránsito y en el campo «VIA(2)» el del segundo aeropuerto.
+
+El fichero será de texto ASCII y contará con una línea de texto por cada tarifa básica indicada. Cada línea irá separada por un final de línea tipo DOS: CR y LF (ASCII 13 y ASCII 10 respectivamente). Cada línea tendrá 10 campos separados por el carácter «|» (ASCII 124) y un total de 63 caracteres/tarifa (incluidos caracteres separadores y terminadores de línea). Los campos tendrán el contenido y formato dados por la siguiente tabla:
+
+| N.º de orden | Denominación del campo | Contenido del campo |
+|---|---|---|
+| 1 | Código compañía emisión | Código alfanumérico de tres caracteres que identifica a la compañía que emite el billete susceptible de subvención. Si la compañía dispone de código numérico IATA podrá proponer éste como código de compañía. Caracteres permitidos: A-Z, 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 2 | Código compañía utilación | Código alfanumérico de tres caracteres que identifica a la compañía que realiza el vuelo. Si la compañía dispone de código numérico IATA podrá proponer éste como código de compañía. Caracteres permitidos: A-Z, 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 3 | Origen | El Código de Identificación de Localidad IATA de tres letras correspondiente a la localidad de origen del trayecto. En los casos en que existan códigos múltiples para un cierto aeropuerto se indicará cuál es el que deberá figurar en la tabla. Caracteres permitidos: A-Z, 0-9. No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 4 | Destino | El Código de Identificación de Localidad IATA de tres letras correspondiente a la localidad de destino del trayecto. En los casos en que existan códigos múltiples para un cierto aeropuerto se indicará cuál es el que deberá figurar en la tabla. Caracteres permitidos: A-Z, 0-9. No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 5 | Vía | El Código de Identificación de Localidad IATA de tres letras correspondiente a la localidad de tránsito en el trayecto. Caracteres permitidos: A-Z, 0-9. Nota: Puede emplearse el carácter 'espacio' (ASCII 32 decimal) para rellenar las posiciones no ocupadas hasta completar la longitud del campo, en el caso que este campo no fuera de aplicación. |
+| 6 | Vía (2) | El Código de Identificación de Localidad IATA de tres letras correspondiente a la localidad de tránsito en el trayecto. Caracteres permitidos: A-Z, 0-9. Nota: Puede emplearse el carácter 'espacio' (ASCII 32 decimal) para rellenar las posiciones no ocupadas hasta completar la longitud del campo, en el caso que este campo no fuera de aplicación. |
+| 7 | Código tarifa básica | El código de la tarifa básica utilizado por la compañía que realiza el vuelo. Caracteres permitidos: A-Z, 0-9. Nota: Puede emplearse el carácter 'espacio' (ASCII 32 decimal) para rellenar las posiciones no ocupadas hasta completar la longitud del campo. |
+| 8 | Tarifa básica | Importe de la tarifa básica expresado en céntimos de euros, sin separador decimal. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). El campo se rellenará con ceros a la izquierda si el importe tiene menos de seis dígitos. |
+| 9 | Fecha de efectividad desde | Fecha en que se comienza la oferta de la tarifa en el formato DD/MM/AAAA en la que:<br>DD es el número de día del mes. Si es inferior a 10 se añadirá un cero a la izquierda.<br>MM es el número del mes. Si es inferior a 10 se añadirá un cero a la izquierda.<br>AAAA es el año con cuatro dígitos.<br>Caracteres permitidos: 0-9 y '/' (ASCII 47 decimal). Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). |
+| 10 | Fecha de efectividad hasta | Último día en que se oferta la tarifa en el formato DD/MM/AAAA en la que DD, MM, AAAA se conformarán a lo establecido para el campo 8 del fichero de tarifas. |
+
+Las fechas de efectividad, es el intervalo en el que se puede emitir billetes con está tarifa básica.
+
+La cumplimentación de todos los campos es obligatoria. En el caso de tarifas directas los campos «VIA» o «VIA (2)» se rellenarán con espacios en blanco.
+
+Los campos numéricos irán ajustados a la derecha y rellenos con ceros. Los campos alfanuméricos (son únicamente validos los caracteres ASCII 32 a 127) irán ajustados a la izquierda.
+
+Deberá figurar un registro para el trayecto de ida y otro para el de vuelta en el caso de que se oferten ambos trayectos.
+
+Resumen del formato de la tabla de tarifas
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>N.º</p>
+</th>
+<th rowspan="2">
+<p>Campo</p>
+</th>
+<th rowspan="2">
+<p>Posición</p>
+</th>
+<th rowspan="2">
+<p>Longitud</p>
+</th>
+<th colspan="5">
+<p>Caracteres permitidos</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>0-9</p>
+</th>
+<th>
+<p>A-Z</p>
+</th>
+<th>
+<p>Otros</p>
+</th>
+<th>
+<p>Espacio</p>
+</th>
+<th>
+<p>Justificado</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Código compañía emisión</p>
+</td>
+<td>
+<p>1-3</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Código compañía utilización</p>
+</td>
+<td>
+<p>5-7</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Origen</p>
+</td>
+<td>
+<p>9-11</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Destino</p>
+</td>
+<td>
+<p>13-15</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Vía</p>
+</td>
+<td>
+<p>17-19</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Vía (2)</p>
+</td>
+<td>
+<p>21-23</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7</p>
+</td>
+<td>
+<p>Código tarifa básica</p>
+</td>
+<td>
+<p>25-32</p>
+</td>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>Tarifa básica</p>
+</td>
+<td>
+<p>34-39</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Relleno 0s.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>9</p>
+</td>
+<td>
+<p>Fecha de efectividad desde</p>
+</td>
+<td>
+<p>41-50</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>'/'</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Fecha de efectividad hasta</p>
+</td>
+<td>
+<p>52-61</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>'/'</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Fichero de índices de «cargos por emisión»
+
+El contenido del fichero de índices de cargos por emisión, deberá coincidir con los registrados y aplicables únicamente a emisión de billetes nacionales. El número de índice no variará si la descripción de dicho cargo no varía.
+
+| Número | Nombre | Contenido |
+|---|---|---|
+| 1 | Compañía. | Código alfanumérico de compañía (igual que el campo 1 de la tabla de cupones de vuelo). |
+| 2 | Índice. | Dos caracteres entre 01 y ZZ con un cero a la izquierda cuando se requiera para completar las dos posiciones. Es el código asignado a la modalidad de emisión registrada con un precio dado. |
+| 3 | Precio. | Valor en céntimos de € de la modalidad de emisión, sin separador decimal. Caracteres permitidos: 0-9. Nota: No se aceptará el carácter 'espacio' (ASCII 32 decimal). El campo se rellenará con ceros a la izquierda si el importe tiene menos de seis dígitos. |
+| 4 | Descripción. | Descripción de la modalidad de emisión que pueda relacionarse con los cargos por emisión registrados. |
+| 5 | Fecha. | Fecha de entrada en vigor del cargo, en el formato DD/MM/AAAA. |
+
+Formato de tabla de índices de cargos
+
+<table>
+<tbody>
+<tr>
+<th rowspan="2">
+<p>Número</p>
+</th>
+<th rowspan="2">
+<p>Campo</p>
+</th>
+<th rowspan="2">
+<p>Posición</p>
+</th>
+<th rowspan="2">
+<p>Longitud</p>
+</th>
+<th colspan="4">
+<p>Caracteres permitidos</p>
+</th>
+<th rowspan="2">
+<p>Justificado</p>
+</th>
+</tr>
+<tr>
+<th>
+<p>0-9</p>
+</th>
+<th>
+<p>A-Z</p>
+</th>
+<th>
+<p>Otros</p>
+</th>
+<th>
+<p>Espacio</p>
+</th>
+</tr>
+<tr>
+<td>
+<p>1</p>
+</td>
+<td>
+<p>Compañía</p>
+</td>
+<td>
+<p>1-3</p>
+</td>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Índice</p>
+</td>
+<td>
+<p>5-6</p>
+</td>
+<td>
+<p>2</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3</p>
+</td>
+<td>
+<p>Precio</p>
+</td>
+<td>
+<p>8-13</p>
+</td>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4</p>
+</td>
+<td>
+<p>Descripción</p>
+</td>
+<td>
+<p>15-78</p>
+</td>
+<td>
+<p>64</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>Izquierda.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5</p>
+</td>
+<td>
+<p>Fecha</p>
+</td>
+<td>
+<p>80-90</p>
+</td>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>Sí</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>/</p>
+</td>
+<td>
+<p>No</p>
+</td>
+<td>
+<p>Total.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**Denominación de los ficheros**
+
+Los ficheros se denominarán con la siguiente descripción, mas la extensión .txt:
+
+| Posición* | Contenido |
+|---|---|
+| 1-3 | El código alfanumérico IATA de la compañía, o bien un código acordado con la D.G.A.C., con tres posiciones. |
+| 4-5 | Año del mes de facturación con dos posiciones. |
+| 6-7 | Mes de facturación del 01 al 12. |
+| 8/9 | Identificación del fichero según lo siguiente:<br>Una 'C' para los ficheros de cupones de vuelos.<br>Una 'T' para los ficheros de tarifas básicas.<br>En el caso de los ficheros de «índices de cargo» en las posiciones 8-9 deberán figurar los caracteres 'SF'. |
+
+> Se modifica por el art. único.4 y anexo IV del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).
+
+> Redactado conforme a la corrección de errores y erratas publicada en BOE núm. 28, de 1 de febrero de 2002. [Ref. BOE-A-2002-1994](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-1994).
+
+## ANEXO V — Acta de incidencia de Pasajeros No Admitidos a Embarque
+
+![Imagen: img/disp/2007/248/18085_001.png](https://www.boe.es/datos/imagenes/disp/2007/248/18085_001.png)
+
+> Se modifica por el art. único.4 y anexo V del Real Decreto 1340/2007, de 11 de octubre. [Ref. BOE-A-2007-18085](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-18085).

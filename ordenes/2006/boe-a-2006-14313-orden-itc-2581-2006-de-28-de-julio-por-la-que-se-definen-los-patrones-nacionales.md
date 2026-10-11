@@ -1,0 +1,289 @@
+---
+title: "Orden ITC/2581/2006, de 28 de julio, por la que se definen los patrones nacionales de las unidades derivadas, del sistema internacional de unidades, de capacidad eléctrica, concentración de ozono en aire, flujo luminoso, impedancia en alta frecuencia, par de torsión, potencia en alta frecuencia, resistencia eléctrica, ruido electromagnético en alta frecuencia, tensión eléctrica, actividad (de un radionucleido), kerma (rayos X y Y), dosis absorbida, ángulo plano, densidad de sólidos, fuerza, presión, volumen, atenuación en alta frecuencia, humedad e intervalo de medida de alta tensión eléctrica (superior a 1000 V)"
+identifier: "BOE-A-2006-14313"
+eli: "https://www.boe.es/eli/es/o/2006/07/28/itc2581"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2006-07-28
+published: 2006-08-05
+in_force_from: 2006-08-06
+last_amended: 2020-02-21
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 186"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-14313"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/2581/2006, de 28 de julio, por la que se definen los patrones nacionales de las unidades derivadas, del sistema internacional de unidades, de capacidad eléctrica, concentración de ozono en aire, flujo luminoso, impedancia en alta frecuencia, par de torsión, potencia en alta frecuencia, resistencia eléctrica, ruido electromagnético en alta frecuencia, tensión eléctrica, actividad (de un radionucleido), kerma (rayos X y Y), dosis absorbida, ángulo plano, densidad de sólidos, fuerza, presión, volumen, atenuación en alta frecuencia, humedad e intervalo de medida de alta tensión eléctrica (superior a 1000 V)
+
+El artículo cuarto de la Ley 3/1985, de 18 de marzo, de Metrología, establece que la obtención, conservación, desarrollo y difusión de las unidades básicas de medida es competencia del Estado y por ello, los patrones de las unidades básicas declarados como tales, custodiados, conservados y mantenidos por el Estado, son los patrones nacionales de los que se derivarán todos los demás.
+
+Mediante el Real Decreto 648/1994, de 15 de abril, por el que se declaran los patrones nacionales de medida de las unidades básicas del Sistema Internacional de Unidades, se determinaron los patrones nacionales de longitud, masa, tiempo, intensidad de corriente eléctrica, temperatura termodinámica e intensidad luminosa, con sus correspondientes características técnicas.
+
+En uso de la autorización concedida al Ministro de Obras Públicas, Transportes y Medio Ambiente, en la actualidad Ministro de Industria, Turismo y Comercio, por la disposición final primera del citado Real Decreto 648/1994, de 15 de abril, para definir los patrones nacionales de las unidades derivadas del Sistema Internacional de Unidades, fueron sucesivamente aprobadas la Orden de 11 de abril de 1996, por la que se declaran los patrones nacionales de las unidades derivadas de actividad (de un radionucleido), exposición (rayos X y γ), kerma y dosis absorbida, la Orden de 28 de diciembre de 1999, por la que se declaran los patrones nacionales de las unidades derivadas de ángulo plano, densidad de sólidos, fuerza, presión y volumen y la Orden de 27 de abril de 2001 por la que se definen los patrones nacionales de las unidades derivadas del Sistema Internacional de Unidades de Intervalo de Alta Tensión Eléctrica (superior a 1000 V), de atenuación en alta frecuencia y de humedad.
+
+El progreso técnico ha hecho que algunas de las características técnicas de los patrones nacionales de las unidades básicas hayan quedado obsoletas, siendo necesario proceder a su actualización, lo que se ha realizado recientemente por Orden ITC/2432/2006, de 20 de julio, por la que se modifica el anexo del Real Decreto 648/1994, de 15 de abril, por el que se declaran los patrones nacionales de medida de las unidades básicas del sistema internacional de unidades.
+
+Una vez definidos los patrones nacionales de medida de las unidades básicas en los términos señalados en la referida norma reglamentaria y al amparo de la indicada autorización recogida en la disposición final primera del Real Decreto 648/1994, de 15 de abril, mediante la presente orden se inicia la definición de los patrones nacionales de las unidades derivadas que servirán de referencia en todas las actuaciones metrológicas que se realicen, proceso que se irá ejecutando por fases, en la medida que el desarrollo tecnológico y las intercomparaciones que previamente se hayan realizado lo permitan.
+
+En los veinte apartados de la orden se definen los patrones nacionales, con sus características técnicas, de las siguientes unidades derivadas del Sistema Internacional de Unidades: capacidad eléctrica, concentración de ozono en el aire, flujo luminoso, impedancia en alta frecuencia, par de torsión, potencia en alta frecuencia, resistencia eléctrica en baja frecuencia, ruido electromagnético en alta frecuencia, tensión eléctrica, actividad (de un radionucleido), kerma (rayos X y γ), dosis absorbida, ángulo plano, densidad de sólidos, fuerza, presión, volumen, atenuación en alta frecuencia, humedad y tensión eléctrica correspondiente al intervalo de medida de la alta tensión eléctrica (superior a 1000 V).
+
+Para la elaboración de esta orden han sido consultadas las comunidades autónomas y se ha realizado el preceptivo trámite de audiencia a los interesados.
+
+En su virtud, dispongo:
+
+## Artículo único. Definición de los patrones nacionales de las unidades derivadas.
+
+La definición a los efectos legales, de los patrones nacionales de las unidades derivadas del Sistema Internacional de Unidades es la que figura en el anexo que se inserta a continuación.
+
+## Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden.
+
+2\. En particular, quedan derogadas la Orden del Ministerio de Obras Públicas, Transportes y Medio Ambiente de 11 de abril de 1996, por la que se declaran los patrones nacionales de las unidades derivadas de actividad (de un radionucleido), exposición (rayos X y γ), kerma y dosis absorbida, la Orden del Ministerio de Fomento de 28 de diciembre de 1999, por la que se declaran los patrones nacionales de las unidades derivadas de ángulo plano, densidad de sólidos, fuerza, presión y volumen y la Orden del Ministerio de Fomento de 27 de abril de 2001 por la que se definen los patrones nacionales de las unidades derivadas del Sistema Internacional de Unidades de Intervalo de Alta Tensión Eléctrica (superior a 1000 V), atenuación en alta frecuencia y humedad.
+
+## Disposición final única. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 28 de julio de 2006.–El Ministro de Industrial, Turismo y Comercio, José Montilla Aguilera.
+
+## ANEXO — Patrones nacionales de las unidades de medida derivadas del sistema internacional de unidades
+
+1\. Patrón nacional correspondiente a la magnitud tensión eléctrica
+
+El patrón nacional correspondiente a la magnitud tensión eléctrica, cuya unidad es el voltio (V), es realizado, mantenido, y diseminado por el Centro Español de Metrología.
+
+Se materializa mediante el efecto Josephson y el valor de la constante de Josephson:
+
+*K*<sub>J</sub> = 483 597,848 416 984 GHz/V
+
+obtenido de la relación *K*<sub>J</sub> = 2*e*/*h* para los valores exactos de la carga elemental (*e*) y de la constante de Planck (*h*), redondeando el cálculo a 15 dígitos significativos.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología y con el de la Oficina Internacional de Pesas y Medidas (Bureau International des Poids et Mesures, BIPM), mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+2\. Patrón nacional correspondiente a la magnitud resistencia eléctrica
+
+El patrón nacional correspondiente a la magnitud resistencia eléctrica, cuya unidad es el ohmio (Ω), es realizado, mantenido y diseminado por el Centro Español de Metrología.
+
+Se materializa mediante el efecto Hall cuántico y el valor de la constante de von Klitzing:
+
+*R*<sub>K</sub> = 25 812,807 459 304 5 Ω
+
+obtenido de la relación *R*<sub>K</sub> = *h*/*e*<sup>2</sup> utilizando los valores exactos de la carga elemental (*e*) y de la constante de Planck (*h*), redondeando el cálculo a 15 dígitos significativos.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología y con el de la Oficina Internacional de Pesas y Medidas (Bureau International des Poids et Mesures, BIPM), mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+3\. Patrón nacional correspondiente a la magnitud capacidad eléctrica
+
+El patrón nacional correspondiente a la magnitud capacidad eléctrica, cuya unidad es el faradio (F), es mantenido, y diseminado por el Centro Español de Metrología.
+
+Se materializa comparando, mediante un puente de cuadratura, la impedancia de la capacidad con la impedancia de la resistencia, obtenida esta última mediante el efecto Hall cuántico y el valor de la constante de von Klitzing definida anteriormente.
+
+Se conserva mediante un conjunto de condensadores y comparaciones periódicas efectuadas con otros Institutos Nacionales de Metrología y la Oficina Internacional de Pesas y Medidas (Bureau International des Poids et Mesures, BIPM), mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+4\. Patrón nacional correspondiente a la magnitud potencia eléctrica en baja frecuencia
+
+El patrón nacional correspondiente a la magnitud potencia eléctrica, cuya unidad es el vatio (W), es realizado, mantenido y diseminado por el Centro Español de Metrología.
+
+Se materializa mediante técnicas de muestreo digital, sabiendo que la potencia eléctrica es igual al producto de la tensión por la corriente, que aplicando la ley de Ohm conduce a la relación W = V<sup>2</sup>/Ω, realizando el voltio y el ohmio mediante los efectos Josephson y Hall cuántico y los valores de las constantes de Josephson y de von Klitzing definidas anteriormente.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+5\. Patrón nacional correspondiente a la magnitud inductancia eléctrica
+
+El patrón nacional correspondiente a la magnitud inductancia eléctrica, cuya unidad es el henrio (H), es realizado, mantenido, y diseminado por el Centro Español de Metrología.
+
+Se realiza comparando, mediante un puente de Maxwell-Wien, la impedancia de una inductancia desconocida frente a una capacidad conocida y un conjunto de resistencias de valores también conocidos. La capacidad y los valores de resistencia.se determinan mediante el efecto Hall cuántico y el valor de la constante de von Klitzing definida anteriormente.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+6\. Patrón nacional correspondiente a la magnitud impedancia en alta frecuencia
+
+El patrón nacional correspondiente a la magnitud impedancia en alta frecuencia, cuya unidad es el ohmio (Ω), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Centro de Metrología y Calibración del Instituto Nacional de Técnica Aeroespacial «Esteban Terradas».
+
+Está materializado por medio de líneas de aire de precisión, de impedancia característica nominal de 50 Ω, cuyo valor depende de las dimensiones mecánicas de sus conductores, y de kits de calibración con terminaciones, cortos y abiertos. Están definidos por su coeficiente de reflexión (magnitud derivada, unidimensional, obtenida a partir de la relación entre la impedancia medida y la impedancia de referencia de 50 Ω). Se dispone de cuatro líneas de aire y kits de calibración con diferentes tipos de conectores, que permiten cubrir un campo de medida de coeficiente de reflexión (referido a 50 Ω) entre 0 y 1 en los márgenes de frecuencias entre 45 MHz y 50 GHz.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología y con el BIPM, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+7\. Patrón nacional correspondiente a la magnitud potencia eléctrica en alta frecuencia
+
+El patrón nacional correspondiente a la magnitud potencia eléctrica en alta frecuencia, cuya unidad es el vatio (W), es mantenido, conservado, custodiado y diseminado bajo la supervisión y coordinación del Centro Español de Metrología, por el Centro de Metrología y Calibración del Instituto Nacional de Técnica Aeroespacial, «Esteban Terradas».
+
+Está materializado por medio de sensores bolométricos de resistencia térmica con conectores coaxiales, estabilizados en temperatura y asociados a un medidor de potencia dual y de sensores de potencia de tipo termopar. Están definidos por su Factor de Calibración (magnitud derivada, unidimensional, obtenida a partir de la relación entre potencia incidente y potencia medida). Se dispone de cinco sensores patrón con diferentes tipos de conectores, que permiten cubrir un campo de medida de potencia o factor de calibración en los márgenes de frecuencias de 100 kHz a 40 GHz.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología y con el del BIPM, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+8\. Patrón nacional correspondiente a la magnitud ruido electromagnético en alta frecuencia
+
+El patrón nacional correspondiente a la magnitud ruido electromagnético en alta frecuencia, cuya unidad en medida de temperatura equivalente es el kelvin (K), es mantenido, conservado, custodiado y diseminado bajo la supervisión y coordinación del Centro Español de Metrología, por el Centro de Metrología y Calibración del Instituto Nacional de Técnica Aeroespacial, «Esteban Terradas».
+
+Está materializado por dos fuentes de ruido de estado sólido definidas por su temperatura de ruido equivalente (kelvin) o por la relación de exceso de ruido (ENR) (magnitud derivada, unidimensional, expresada normalmente en magnitud logarítmica o dB a partir de la temperatura equivalente de ruido).
+
+Se dispone de dos fuentes de ruido con diferentes tipos de conectores que permiten cubrir un campo de medida de ENR entre 4 dB y 16 dB en el margen de frecuencias de 10 MHz a 26,5 GHz.
+
+Este patrón se compara periódicamente con los de otros Institutos Nacionales de Metrología y con el del BIPM, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+9\. Patrón nacional correspondiente a la magnitud atenuación en alta frecuencia
+
+El patrón nacional correspondiente a la magnitud atenuación en alta frecuencia, cuya unidad es el decibelio (dB), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Centro de Metrología y Calibración del Instituto Nacional de Técnica Aeroespacial «Esteban Terradas».
+
+Está materializado mediante un atenuador de pistón de guía de onda circular, que trabaja por debajo de la frecuencia de corte, siendo la frecuencia de funcionamiento de 30 MHz, que es la frecuencia intermedia del sistema escalar de medida de atenuación. El valor de atenuación depende de la distancia física de dos bobinas y un sistema de medida de atenuación por sustitución en doble canal paralelo. Se complementa con un atenuador por pasos, caracterizado a las frecuencias de 30 MHz y 60 MHz
+
+El campo de medida cubierto es de 0 dB a 105 dB en un margen de frecuencias de 10 MHz a 18 GHz, y de 0 dB a 80 dB para frecuencias comprendidas entre 18 GHz y 40 GHz.
+
+Este patrón se conserva mediante comparaciones periódicas efectuadas con patrones de atenuación en alta frecuencia de organismos metrológicos de otros Estados, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+10\. Patrón nacional en alta tensión correspondiente a la magnitud tensión eléctrica de baja frecuencia
+
+El patrón nacional de la magnitud tensión eléctrica, cuya unidad es el voltio (V), correspondiente a la medida de alta tensión eléctrica (superior a 1000 V), en baja frecuencia, es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio Central Oficial de Electrotecnia de la Fundación para el Fomento de la Innovación Industrial.
+
+Este patrón se encuentra materializado de la siguiente forma, según el intervalo de tensión y la frecuencia de medida:
+
+a) En corriente continua hasta 240 kV está materializado mediante divisores resistivos con electrodos de reparto de campo y sistemas de medida basados en el umbral de conducción de diodos zener conectados en serie.
+
+b) En frecuencia industrial (50 Hz a 60 Hz) hasta 500 kV, está materializado mediante transformadores de tensión eléctrica inductivos, divisores capacitivos, sistemas de medida de tensión eléctrica de baja tensión y puentes de medida de relación de transformación y ángulo.
+
+Este patrón se conserva mediante comparaciones periódicas efectuadas con patrones de alta tensión eléctrica de otros Institutos Nacionales de Metrología, mediante participación en las comparaciones clave (KC), suplementarias o regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+11\. Patrón nacional en alta tensión correspondiente a la magnitud tensión eléctrica transitoria de alta frecuencia
+
+El patrón nacional de la magnitud de alta tensión eléctrica transitoria de alta frecuencia, cuya unidad es el voltio (V), correspondiente a la medida de alta tensión eléctrica (superior a 1000 V), hasta 700 kV para impulsos tipo rayo normalizados de 1,2 µs a 50 µs y tipo maniobra de 250 µs a 2500 µs, es mantenido, conservado, custodiado y diseminado bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio Central Oficial de Electrotecnia de la Fundación para el Fomento de la Innovación Industrial.
+
+El patrón está materializado mediante divisores resistivos anti inductivos de alta tensión con pantallas de repartición de campo, atenuadores de bajo tiempo de respuesta, digitalizadores de alta velocidad de muestreo y ancho de banda y software de análisis de la forma de onda del impulso.
+
+Este patrón se conserva mediante comparaciones periódicas efectuadas con patrones de alta tensión eléctrica de otros Institutos Nacionales de Metrología, mediante participación en las comparaciones clave (KC), suplementarias o regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+12\. Patrón nacional de la magnitud concentración de ozono en aire
+
+El patrón nacional correspondiente a la magnitud concentración de ozono en aire, cuya unidad es el nanomol/mol (nmol/mol), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Área de Contaminación Atmosférica del Centro Nacional de Sanidad Ambiental del Instituto de Salud Carlos III.
+
+Este patrón es un radiómetro (fotómetro) de referencia NIST (National Institute of Standards and Technology) que mide mediante radiometría UV (fotometría UV), concentraciones de ozono generadas dinámicamente y que está materializado mediante un módulo óptico, constituido por un instrumento fotométrico consistente en una lámpara de mercurio a baja presión, dos cámaras de vidrio, dos fotodiodos de vacío, dos convertidores de corriente, dos lentes de cuarzo y un divisor del rayo de luz, un transductor de presión y un transductor de temperatura; un módulo neumático, constituido por un orificio crítico para el aire cero, un contador másico de caudal para el generador de ozono, un generador de ozono y su fuente de alimentación, una bomba de muestreo; un módulo electrónico y un módulo de adquisición y tratamiento de datos.
+
+Se conserva mediante comparaciones periódicas con patrones de concentración de ozono en aire de organismos metrológicos de otros Estados, mediante participación en las comparaciones clave (KC) dentro del CCQM y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+13\. Patrón nacional correspondiente a la magnitud flujo luminoso
+
+El patrón nacional correspondiente a la magnitud flujo luminoso, cuya unidad es el lumen (lm), es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Instituto de Óptica «Daza de Valdés», dependiente del Consejo Superior de Investigaciones Científicas.
+
+El patrón está materializado y conservado mediante un grupo de lámparas de incandescencia, cuyo flujo luminoso se determina a partir de la medida de iluminancia en la superficie de una hipotética esfera en cuyo centro se coloca la lámpara. Esas lámparas se comparan periódicamente con las de otros Institutos Nacionales de Metrología mediante participación en Comparaciones Claves (Key Comparisons), organizadas por el Comité Consultivo para la Fotometría y la Radiometría del Comité Internacional de Pesos y Medidas (CIPM) y por el Comité Técnico para la Fotometría y la Radiometría de la Asociación Europea de Institutos Nacionales de Metrología (EURAMET)
+
+14\. Patrón nacional correspondiente a la magnitud actividad (de un radionucleido)
+
+El patrón nacional correspondiente a la magnitud actividad (de un radionucleido) cuya unidad es el becquerel (Bq), es custodiado, mantenido, conservado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio de Metrología de Radiaciones Ionizantes del Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT).
+
+Este patrón esta materializado mediante un contador de coincidencia para radiación alfa-gamma y beta-gamma, dos cámaras de ionización de geometría 2π y una cámara de ángulo sólido bien definido para radiación alfa, y un contador de centelleo líquido de 3 fotomultiplicadores en coincidencia para radiación beta y beta-gamma.
+
+Se conserva mediante la comparación periódica con los patrones nacionales de otros Institutos Nacionales de Metrología y con el del BIPM, mediante participación en las comparaciones clave (KC) y regionales contempladas en el ámbito del acuerdo de reconocimiento mutuo del CIPM (MRA-CIPM).
+
+15\. Patrón nacional correspondiente a la magnitud kerma (rayos X y γ)
+
+El patrón nacional correspondiente a la magnitud kerma en aire, cuya unidad es el julio por kilogramo (J・kg<sup>-1</sup>) con nombre especial «gray» (Gy) y sus magnitudes de protección radiológica derivadas: Equivalente de dosis ambiental y Equivalente de dosis personal (rayos X y γ) cuya unidad es el julio por kilogramo (J・kg<sup>-1</sup>) con nombre especial «sievert» (Sv) es custodiado, mantenido, conservado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio de Metrología de Radiaciones Ionizantes del CIEMAT.
+
+Este patrón esta materializado de la forma siguiente:
+
+a) Para rayos X de energías bajas y medias, mediante un sistema patrón basado en cámaras de ionización en aire y haces normalizados de rayos X, con los espectros definidos según la serie de normas ISO 4037 en vigor.
+
+b) Para la radiación gamma emitida por fuentes de <sup>60</sup>Co y <sup>137</sup>Cs en niveles de protección, mediante un sistema patrón basado en cámaras de ionización en aire y haces normalizados de radiación gamma, de acuerdo con las especificaciones de la serie de normas ISO 4037. Para un haz de fotones emitido por una fuente de <sup>60</sup>Co en niveles de terapia (establecido en las condiciones de referencia recomendadas en el informe técnico TRS-398 del Organismo Internacional de Energía Atómica –OIEA–) mediante un sistema patrón fundamentado en un conjunto de cámaras de ionización.
+
+Los patrones se conservan y mantienen mediante:
+
+– la realización de calibraciones periódicas con los patrones primarios del BIPM y de otros Institutos Nacionales de Metrología y con la verificación de la estabilidad de los conjuntos cámara de ionización-electrómetro en los intervalos entre calibraciones,
+
+– a través de la participación en comparaciones internacionales dando cumplimiento a los requisitos del Acuerdo de Reconocimiento Mutuo del Comité Internacional de Pesas y Medidas (CIPM-MRA).
+
+16\. Patrón nacional correspondiente a la magnitud dosis absorbida
+
+El patrón nacional correspondiente a la magnitud dosis absorbida, cuya unidad es el gray (Gy), es custodiado, mantenido, conservado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Laboratorio de Metrología de Radiaciones Ionizantes del CIEMAT. Este patrón está materializado de la forma siguiente:
+
+a) para la magnitud dosis absorbida en agua en niveles de terapia (determinada en las condiciones de referencia recomendadas en el informe técnico TRS-398 del OIEA) en un haz de fotones emitido por una fuente de <sup>60</sup>Co, mediante un sistema patrón fundamentado en un conjunto de cámaras de ionización provistas de fundas impermeables y
+
+b) para la magnitud dosis absorbida en tejido para la radiación beta en niveles de protección, mediante fuentes normalizadas emisoras de radiación beta de <sup>147</sup>Pm, <sup>85</sup>Kr y <sup>90</sup>Sr + <sup>90</sup>Y.
+
+Los patrones correspondientes a la magnitud dosis absorbida se conservan y mantienen mediante:
+
+– la realización de calibraciones periódicas con los patrones primarios del BIPM y con la verificación de la estabilidad de los conjuntos cámara de ionización-electrómetro en los intervalos entre calibraciones para el patrón de dosis absorbida en agua para una fuente de <sup>60</sup>Co en niveles de terapia,
+
+– la calibración de las fuentes frente a un patrón primario de otro Instituto Nacional de Metrología, para el patrón de dosis absorbida en tejido para la radiación beta, y
+
+– a través de la participación en comparaciones internacionales dando cumplimiento a los requisitos del Acuerdo de Reconocimiento Mutuo del Comité Internacional de Pesas y Medidas (CIPM).
+
+17\. Patrón nacional correspondiente a la magnitud ángulo plano
+
+El patrón nacional correspondiente a la magnitud ángulo plano, cuya unidad es el radián (rad), es realizado, mantenido, custodiado y diseminado por el Centro Español de Metrología, a partir de un sistema constituido por una mesa giratoria generadora de ángulos, dotada de una escala circular interna de alta exactitud, con lectura óptica e interpolación electrónica de señales, y campo de medida de 0 rad a 2π rad.
+
+Para cualquier conjunto de divisiones del círculo que se establezca, la suma de los ángulos en el centro es siempre igual a 2π rad. Este principio se denomina de «cierre de círculo» y permite la conservación del patrón a lo largo del tiempo, en base a las sucesivas calibraciones realizadas con la mesa generadora de ángulos.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCL y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+18\. Patrón nacional correspondiente a la magnitud densidad de sólidos
+
+El patrón nacional correspondiente a la magnitud densidad de sólidos, cuya unidad es el kilogramo por metro cúbico (kg/m<sup>3</sup>), es mantenido, conservado, custodiado y diseminado, por el Centro Español de Metrología, y queda establecido a través de las magnitudes fundamentales de masa y longitud. Está materializado en una esfera de silicio monocristal ultrapuro perfectamente pulida, con un valor de rugosidad Ra de 0,4 nm, y un defecto de redondez de 90 nm. El espesor de la capa de óxido se determinó utilizando un elipsómetro de luz blanca con analizador rotante, obteniéndose unos valores entre 4,07 nm y 4,45 nm.
+
+El material utilizado para su realización fue un lingote de monocristal de silicio, con las siguientes características: orientación del cristal 〈1,0,0〉 con una desviación máxima de 2º, semiconductor «tipo N» dopado con fósforo, resistividad mínima de 1000 Ω·cm, contenido máximo de carbono de 5 × 10<sup>15</sup> átomos·cm<sup>-3</sup>, contenido máximo de oxígeno de 2 × 10<sup>15</sup> átomos·cm<sup>-3</sup>, coeficiente de dilatación térmica de 2,55 10<sup>-6</sup> ºC<sup>-1</sup>, coeficiente de compresibilidad –3,1 10<sup>-9 </sup> kPa.
+
+Las medidas de los radios absolutos se realizaron por interferometría con láseres de Helio-Neón estabilizados sobre I<sub>2</sub>. El valor de masa tiene trazabilidad al patrón nacional correspondiente a la magnitud de masa, copia n.º 24 del Prototipo Internacional del Kilogramo.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCM y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+19\. Patrón nacional correspondiente a la magnitud par de torsión
+
+El patrón nacional correspondiente a la magnitud par de torsión, cuya unidad se denomina newton metro (N⋅m), es mantenido, conservado, custodiado y diseminado por el Centro Español de Metrología y se obtiene a través del patrón nacional de la magnitud masa, del patrón nacional de la magnitud longitud y de la medida de la aceleración de la gravedad local.
+
+Está materializado y conservado mediante una máquina de par de carga directa con brazo de 0,5 m, que reposa sobre un cojinete neumático, y cuyo alcance nominal es de 1 kN·m. La exactitud del mismo ha sido determinada matemática y experimentalmente.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCM y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+20\. Patrón nacional correspondiente a la magnitud fuerza
+
+El patrón nacional correspondiente a la magnitud fuerza, cuya unidad es el newton (N), es mantenido, conservado, custodiado y diseminado por el Centro Español de Metrología y se obtiene a través del patrón nacional de la unidad de masa y de la medida de la aceleración de la gravedad local.
+
+Está materializado y conservado mediante tres máquinas de fuerza de carga directa cuyos alcances nominales son 500 kN, 20 kN y 1 kN. La exactitud del mismo ha sido determinada matemática y experimentalmente.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCM y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+21\. Patrón nacional correspondiente a la magnitud presión
+
+El patrón nacional correspondiente a la magnitud presión, cuya unidad es el pascal (Pa), es mantenido, conservado, custodiado y diseminado por el Centro Español de Metrología y se deriva de los patrones nacionales de masa y longitud, junto con la medida de la aceleración de la gravedad local.
+
+Este patrón se encuentra materializado de la siguiente forma, según el intervalo de medida:
+
+a) En el campo de 10<sup>-6</sup> Pa hasta 10<sup>-2</sup> Pa se realiza con un sistema de expansión dinámico que determina la presión de forma primaria a partir de la relación de presiones entre dos cámaras separadas por un orificio y un flujo de entrada de gas.
+
+b) En el campo de 10<sup>-2</sup> Pa hasta 10<sup>2</sup> Pa se realiza con un sistema de expansión estática en el que se determina la presión a partir de la expansión de un gas contenido en un volumen a una presión conocida, a otro volumen, conocido el ratio entre dichos volúmenes.
+
+c) En el campo de 10<sup>2</sup> Pa hasta 500 MPa se realiza con una serie de conjuntos pistón-cilindro montados en sus correspondientes balanzas de presión.
+
+d) En el campo de 500 MPa a 1 GPa, se realiza a través de un multiplicador de presión.
+
+La trazabilidad primaria de la unidad se consigue mediante una columna de mercurio con medida interferométrica de altura con trazabilidad a las unidades de masa y longitud y a la aceleración de la gravedad.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCM y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+22\. Patrón nacional correspondiente a la magnitud volumen
+
+El patrón nacional correspondiente a la magnitud volumen, cuya unidad es el litro (l o L), es mantenido, conservado, custodiado y diseminado por el Centro Español de Metrología y queda establecido a partir del patrón nacional de la magnitud masa.
+
+Está materializado por un conjunto de vasijas patrón de capacidades nominales 1 L, 2 L, 5 L, 10 L, 20 L, 50 L, 100 L, construidas en acero inoxidable, recubiertas internamente de Halar H+S, y de forma cilindro-bicónica.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCM y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+23\. Patrón nacional correspondiente a la magnitud humedad
+
+El patrón nacional de la magnitud humedad, es mantenido, conservado, custodiado y diseminado, bajo la supervisión y coordinación del Centro Español de Metrología, por el Centro de Metrología y Calibración del Instituto Nacional de Técnica Aeroespacial «Esteban Terradas».
+
+Está materializado mediante generadores termodinámicos de saturación con trazabilidad metrológica a las unidades básicas del Sistema Internacional, kelvin, kilogramo y metro.
+
+Estos generadores cubren el campo de temperatura de punto de rocío de –90 ºC a –10 ºC con saturación sobre una superficie de hielo, y de –10 ºC a +95 ºC para saturación con respecto a agua, así como el campo de humedad relativa equivalente en el campo de temperatura ambiente de –40 ºC a +90 ºC.
+
+Su equivalencia internacional se garantiza mediante la participación, junto a otros Institutos Nacionales de Metrología, en comparaciones clave periódicas, tipo CCT y regionales, dentro del Acuerdo de Reconocimiento Mutuo CIPM-MRA.
+
+> Se sustituye por el que figura como anexo II de la Orden ICT/149/2020, de 7 de febrero. [Ref. BOE-A-2020-2508](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2508), según establece su art. 2
+
+> Redactados los apartados 18 y 23 conforme a la corrección de erratas publicada en BOE núm. 57, de 6 de marzo de 2020. [Ref. BOE-A-2020-3227](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3227)
+
+> Se modifica el párrafo 1º del epígrafe 18 por el art. único de la Orden ITC/3259/2009, de 26 de noviembre. [Ref. BOE-A-2009-19265](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19265).

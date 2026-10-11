@@ -1,0 +1,1846 @@
+---
+title: "Orden ITC/3993/2006, de 29 de diciembre, por la que se establece la retribución de determinadas actividades reguladas del sector gasista"
+identifier: "BOE-A-2006-22965"
+eli: "https://www.boe.es/eli/es/o/2006/12/29/itc3993"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2006-12-29
+published: 2006-12-30
+in_force_from: 2007-01-01
+last_amended: 2012-12-31
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-22965"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/3993/2006, de 29 de diciembre, por la que se establece la retribución de determinadas actividades reguladas del sector gasista
+
+Incluye las correcciones de errores publicadas en BOE núms. 18, de 20 de enero de 2007 [Ref. BOE-A-2007-1222](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1222). y 46 de 22 de febrero de 2007. [Ref. BOE-A-2007-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3693).
+
+El Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural, en su artículo 15 establece que las actividades reguladas destinadas al suministro de gas natural serán retribuidas económicamente en la forma dispuesta en el citado Real Decreto con cargo a las tarifas, los peajes y cánones.
+
+Los artículos 16.6, 19.2, 20.5, 22.3 y 23 del citado Real Decreto 949/2001, modificado por el Real Decreto 942/2005, de 29 de julio, hacen referencia a que el Ministro de Economía, previo informe de la Comisión Nacional de Energía, establecerá antes del 1 de enero de cada año, la retribución respectiva de: los costes fijos de la actividad de regasificación, almacenamiento y transporte para cada empresa o grupo de empresas para ese año, así como los valores concretos de los parámetros para el cálculo de la parte variable que les corresponda; los costes de la actividad de gestión de compraventa por los transportistas; los costes de la actividad de distribución que corresponda a cada empresa o grupo de empresas; la actividad de suministro de gas a tarifa a las empresas distribuidoras, y la actividad del Gestor Técnico del Sistema.
+
+Asimismo, los artículos 16 y 20 disponen que el Ministro de Economía, previo informe de la Comisión Nacional de Energía, podrá establecer fórmulas para la actualización anual de la retribución a las empresas distribuidoras, en base a la variación de las principales magnitudes económicas, un reparto equitativo entre usuarios y distribuidores de las variaciones en la productividad de la actividad, el esfuerzo inversor de la empresa, el coeficiente de expansión de la red, la variación de la demanda, la eficiencia y la mejora de la calidad del servicio. Además, podrá fijar una retribución específica, con carácter limitado en el tiempo, para aquellas instalaciones que permitan el acceso a nuevos núcleos de población, de forma que haga viable el suministro en las zonas por gasificar.
+
+La orden ECO/301/2002, de 15 de febrero, en desarrollo del Real Decreto 949/2001 de 3 de agosto, estableció la retribución de las actividades reguladas del sector gasista para el año 2002 y un sistema para el cálculo y actualización de los mismos. Posteriormente y con carácter anual el Ministerio ha dictado la correspondiente orden, siendo la anteriormente en vigor que es derogada por ésta la ITC/4099/2005, de 27 de diciembre.
+
+El 31 de diciembre de 2002 se publicó el Real Decreto 1434/2002, de 27 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de gas natural, estableciendo los derechos de acometida.
+
+El Real Decreto 1554/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Industria, Turismo y Comercio, en su artículo 1, asigna a este Departamento ministerial la elaboración y ejecución de la política energética del Gobierno. Por su parte, el artículo 4 de la Ley 50/1997, de 27 de noviembre, del Gobierno atribuye a los Ministros el ejercicio de la potestad reglamentaria en las materias propias de su Departamento.
+
+Conforme a lo anterior y en la forma que establece el artículo 25 de Real Decreto 949/2001, corresponde al Ministro de Industria, Turismo y Comercio dictar las disposiciones necesarias para el establecimiento de las tarifas de venta de gas natural, los precios de cesión de gas natural para las empresas distribuidoras, y los peajes y cánones de los servicios básicos de acceso por terceros.
+
+El proyecto de esta orden ha sido objeto del informe preceptivo de la Comisión Nacional de Energía. Asimismo, de acuerdo con lo establecido en el Real Decreto 1552/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Economía y Hacienda, ha sido informado por la Dirección General de Política Económica. Finalmente el contenido del proyecto ha sido aprobado por la Comisión Delegada del Gobierno para Asuntos Económicos en su reunión del día 28 de diciembre de 2006.
+
+Este año se introduce como novedad que las retribuciones de las actividades de regasificación y almacenamiento subterráneo van a ser reguladas por dos órdenes diferentes debido a la aplicación de un procedimiento de cálculo nuevo, por lo tanto esta orden se dedica en exclusiva a regular las retribuciones del trasporte, de la distribución, de la actividad de suministro a tarifa y de la actividad de compraventa de gas para el mercado a tarifa.
+
+En su virtud, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Constituye el objeto de esta orden el establecimiento y actualización del régimen retributivo aplicable a las actividades de transporte, gestión de compraventa de gas destinado al mercado a tarifas, distribución, suministro a tarifas de gas natural y retribución al Gestor Técnico del Sistema y definir los elementos que integran las mismas, estableciendo las medidas necesarias encaminadas a garantizar la adecuada prestación del servicio.
+
+## Artículo 2. Actividad de transporte.
+
+1\. A los efectos de aplicación del régimen retributivo establecido en la presente orden quedan incluidos en la actividad de transporte de gas natural los costes en que se incurra para llevar a cabo el desarrollo, operación y mantenimiento de las instalaciones incluidas en el apartado 1 del artículo 16 del Real Decreto 949/2001, de 3 de agosto, que se detallan en el apartado siguiente.
+
+a) Los gasoductos de transporte primario de gas natural cuya presión máxima de diseño incluida en la autorización de la instalación, sea igual o superior a 60 bar.
+
+b) Los gasoductos de transporte secundario cuya presión máxima de diseño incluida en la autorización de la instalación sea inferior a 60 bar y superior a 16 bar.
+
+c) Los gasoductos de conexión internacional, entendiendo como tales los comprendidos en el territorio nacional que conectan la red nacional con las redes de gasoductos de otros países o con yacimientos o almacenamientos existentes en el exterior, con independencia de la presión de diseño.
+
+d) Los gasoductos de conexión de los yacimientos y almacenamientos estratégicos y operativos con el sistema gasista, con independencia de la presión de diseño.
+
+e) Las estaciones de compresión conectadas a los gasoductos de transporte.
+
+f) Las estaciones de regulación y medida conectadas a los gasoductos con entrada a presión superior a 16 bar.
+
+g) En su caso, las instalaciones de odorización.
+
+h) Aquellas otras instalaciones necesarias para la operación de las instalaciones anteriores.
+
+2\. Asimismo, se consideran elementos constitutivos de la red de transporte gasista todos aquellos activos de comunicaciones, protecciones, control, servicios auxilia-res, terrenos, edificaciones y demás elementos auxiliares, necesarios para el adecuado funcionamiento de las instalaciones de transporte antes definidas.
+
+3\. A efectos del régimen retributivo no formarán parte de las instalaciones específicas de transporte las instalaciones de consumidores para su uso exclusivo.
+
+4\. En el caso de instalaciones autorizadas de forma directa, la Dirección General de Política Energética y Minas, previo informe del Gestor Técnico del Sistema Gasista y de la Comisión Nacional de Energía, resolverá expresamente la inclusión de una instalación de transporte de gas en el régimen retributivo previsto en la presente orden, todo ello sin perjuicio del resto de autorizaciones administrativas necesarias a que hace referencia el artículo 55 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+
+## Artículo 3. Retribución de la actividad de transporte.
+
+1\. Por orden del Ministerio de Industria, Turismo y Comercio, que se publicará antes del día 1 de enero de cada año, se determinará la retribución reconocida a las actividades de transporte de cada empresa o grupo de empresas «i» para el año «n» de acuerdo con lo dispuesto en la presente orden. La retribución correspondiente a cada empresa o grupo de empresas «i» estará constituida por un término fijo, función del coste acreditado a las instalaciones de acuerdo con lo establecido en la presente orden.
+
+2\. La retribución anual de la actividad de transporte reconocida a la empresa o grupo de empresas «i» en el año «n» será calculada por el Ministerio de Industria, Turismo y Comercio de acuerdo con la siguiente fórmula:
+
+R<sub>in</sub> = RF<sub>2002in</sub> + RINF<sub>in</sub>
+
+Siendo:
+
+R<sub>in</sub>: coste de transporte reconocido a la empresa o grupo de empresas «i» en el año «n».
+
+RF<sub>2002in</sub>: coste fijo acreditado a la actividad de transporte con entrada en servicio anterior al 31 de diciembre de 2001 actualizado al año «n» de acuerdo con la siguiente fórmula:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/312/22965_001.png)
+
+Donde:
+
+RF<sub>2002i</sub>: corresponde al coste fijo reconocido a la empresa o grupo de empresas «i» en el año 2002 para las instalaciones de transporte con entrada en servicio anterior a 31 de diciembre de 2001.
+
+f<sub>j</sub>= Indice de eficiencia para el año «j».
+
+IPH<sub>j</sub>: previsión de la variación del índice para el año «j», calculado de acuerdo con la siguiente fórmula:
+
+IPHj = (IPC<sub>j</sub> + IPRI<sub>j</sub>)/2
+
+Donde:
+
+IPC<sub>j</sub> = previsión de la variación del índice de precios al consumo para el año «j»
+
+IPRI<sub>j</sub> = previsión de la variación del índice de precios industriales para el año «j»
+
+RINF<sub>in</sub>: coste fijo acreditado para el año «n» para el conjunto de las nuevas inversiones, con entrada en explotación entre el 1 de enero de 2002 y el 31 de diciembre del año «n-1», realizadas por la empresa o grupo de empresas «i», se calculará como:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/312/22965_002.png)
+
+Siendo:
+
+RINF<sub>in</sub>: coste fijo acreditado para el año «n» al conjunto de las nuevas inversiones autorizadas mediante procedimiento de concurrencia, con entrada en explotación entre el 1 de enero de 2002 y el 31 de diciembre del año «n-1», realizadas por la empresa o grupo de empresas «i».
+
+RINFD<sub>n-1</sub>: coste fijo acreditado para el año «n» de las nuevas inversiones autorizadas de forma directa realizadas por la empresa o grupo de empresas «i» que han entrado en funcionamiento en el año «n-1».
+
+RINFDj: coste fijo acreditado de las inversiones autorizadas de forma directa y puestas en servicio en el año «j», entre los años 2002 y «n-2», ambos inclusive, por la empresa o grupo de empresas «i».
+
+El resto de términos tienen el significado detallado anteriormente.
+
+3\. El valor del índice de eficiencia, fj, se fijará anualmente al efectuar la revisión anual de las tarifas de gas, sin experimentar revisiones posteriores, y no será en ningún caso superior a 0,85. Durante el año 2013 el factor a aplicar será 0.
+
+4\. Para la determinación del coste de transporte reconocido a la empresa o grupo de empresas "i" en el año "n", Rin, se utilizarán los valores definitivos de los índices oficiales de precios al consumo, IPC, y de los índices oficiales de precios industriales, IPRI, del mes de octubre del año "n-1" publicados por el Instituto Nacional de Estadística.
+
+Para evitar que la retribución de las instalaciones dependa del momento de su inclusión en el régimen retributivo, al incluir instalaciones en el régimen retributivo, los valores unitarios a utilizar para calcular la retribución serán los que se hubiera establecido para el año de puesta en marcha de la instalación.
+
+> Se modifica el apartado 3 por la disposición final 3.1 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+> Se modifica el apartado 4 por la disposición final 1 de la Orden ITC/1890/2010, de 13 de julio. [Ref. BOE-A-2010-11181](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11181).
+
+> Se modifica el apartado 4 por la disposición final 1 de la Orden ITC/3802/2008, de 26 de diciembre. [Ref. BOE-A-2008-21010](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-21010).
+
+## Artículo 4. Coste total acreditado asociado a las nuevas inversiones de transporte autorizadas mediante procedimiento de concurrencia.
+
+1\. El coste total acreditado para el año «n» de una instalación de transporte autorizada mediante procedimiento de concurrencia, se calculará conforme a las condiciones de adjudicación del concurso.
+
+2\. El coste total acreditado por una empresa «i» en un año «n» para el conjunto de sus instalaciones de transporte adjudicadas mediante procedimiento de concurrencia (RINC<sub>in</sub>) se calculará como agregación de los costes de las citadas instalaciones actualizados según las condiciones de resolución del procedimiento de concurrencia.
+
+## Artículo 5. Coste total acreditado asociado a las nuevas inversiones de transporte autorizadas de forma directa.
+
+1\. Con carácter general la retribución correspondiente a cada instalación de transporte autorizada de forma directa será fijada de acuerdo con los valores unitarios de inversión, valores unitarios de explotación y parámetros fijados por el Ministerio de Industria, Turismo y Comercio, previo informe de la Comisión Nacional de Energía con criterios transparentes, objetivos y no discriminatorios.
+
+2\. La retribución correspondiente a cada instalación de transporte autorizada de forma directa (RIND<sub>n</sub>), se calculará de la forma siguiente:
+
+RIND<sub>n</sub> = CIT (n) + CET (n)
+
+Siendo:
+
+CIT (n): costes anuales de inversión.
+
+CET (n): costes anuales de explotación.
+
+3\. Para determinar el valor de la inversión de las instalaciones de transporte de gas, se utilizarán los valores unitarios de referencia y sus correspondientes actualizaciones de acuerdo con lo establecido en el anexo II de la presente orden.
+
+El coste anual de inversión [CIT (n)] de una instalación de transporte autorizada de forma directa se calculará como suma de la amortización y la retribución del valor de la inversión conforme lo establecido en el anexo III de la presente orden.
+
+4\. El coste anual de explotación de una instalación de transporte [CET (n)] autorizada de forma directa incluirá los costes de operación y mantenimiento de las instalaciones, los costes de estructura y cualquier otro coste necesario para desarrollar la actividad de transporte.
+
+5\. Para aquellas instalaciones autorizadas de forma directa que posean características técnicas singulares, el Ministerio de Industria, Turismo y Comercio, previo informe de la Comisión Nacional de Energía, fijará la retribución específica correspondiente, de acuerdo con los principios establecidos anteriormente. Idéntica consideración tendrán aquellas inversiones que impliquen modificaciones de instalaciones existentes siempre que ello suponga un aumento de la capacidad de transporte de esa instalación.
+
+El coste anual de explotación asociado a las actividades de transporte se calculará de acuerdo con las fórmulas y valores unitarios establecidos en el anexo IV de la presente orden.
+
+6\. En el caso de instalaciones con carácter técnico especial o modificación de las existentes, el valor de la inversión y de los costes de explotación se calculará de acuerdo con lo dispuesto en los artículos 10 y 11.
+
+## Artículo 6. Costes acreditados de las instalaciones de transporte que hayan finalizado su vida útil o sean objeto de cierre.
+
+1\. Los costes acreditados de las instalaciones que hayan sido objeto de cierre se deducirán de la retribución, calculando los costes correspondientes a dichas instalaciones por el procedimiento utilizado para determinar su retribución inicial.
+
+En el caso de instalaciones otorgadas mediante procedimiento de concurrencia el coste de éstas, cuando hayan finalizado su vida útil o sean objeto de cierre, se deducirá en la retribución, calculando los costes correspondientes a dichas instalaciones conforme a las bases de adjudicación del concurso.
+
+2\. Para las instalaciones que hayan finalizado su vida útil pero continúen operativas, a efectos de su retribución se considerarán exclusivamente como costes acreditados de la instalación, el coste de explotación más el 50% de los costes de retribución de la inversión R(n) calculados por el procedimiento utilizado para determinar dichos costes a las nuevas inversiones otorgadas por autorización directa de acuerdo con el procedimiento establecido en los anexos III y IV de la presente orden.
+
+3\. En ambos casos, las cantidades a retraer tendrán en cuenta las actualizaciones anuales que hayan sufrido desde la fecha en que se calculó la retribución.
+
+## Artículo 7. Inclusión de nuevas instalaciones de transporte en el régimen retributivo.
+
+El titular de una instalación de transporte podrá solicitar a la Dirección General de Política Energética y Minas la inclusión en el régimen retributivo de una nueva instalación o ampliación de una existente, acompañando a la solicitud la documentación que en cada caso se determina en la presente orden.
+
+La Dirección General de Política Energética y Minas solicitará informe una vez recibida la documentación anterior al Gestor Técnico del Sistema y a la Comisión Nacional de Energía, de acuerdo con el artículo 2 de la presente orden.
+
+Una vez recibidos los citados informes la Dirección General de Política Energética y Minas dictará la oportuna Resolución de inclusión en el régimen económico en la que se indicarán los costes reconocidos y la fecha de inclusión.
+
+## Artículo 8. Documentación a incluir en las solicitudes de inclusión de instalaciones de transporte.
+
+Acompañando a la solicitud de inclusión en el régimen retributivo deberá enviarse la siguiente documentación:
+
+a) Características técnicas de la instalación.
+
+b) Inversión realizada debidamente auditada, desglosada por conceptos de coste, para cada gasoducto, estación de compresión y estación de regulación y medida.
+
+c) Acta de puesta en servicio definitiva.
+
+d) Declaración expresa de ayudas o aportaciones de fondos públicos concedidos o medidas de efecto equivalente.
+
+## Artículo 9. Forma de cálculo de los costes reconocidos en instalaciones de transporte.
+
+1\. Se incluirán en el régimen retributivo como instalaciones de transporte exclusivamente las siguientes:
+
+a) Gasoductos.
+
+b) Estaciones de Compresión.
+
+c) Estaciones de Regulación y Medida. (ERM).
+
+2\. No se incluirán en el régimen retributivo:
+
+a. Los gasoductos para suministro a un único consumidor, incluyendo en este caso las estaciones de regulación y medida correspondientes asociadas.
+
+b. Modificaciones o variantes a petición de particulares o Administraciones (carreteras, ferrocarril, telefonía, líneas eléctricas, etc.).
+
+c. Cualquier otra inversión que no suponga un incremento de la capacidad de transporte.
+
+3\. Se consideran incluidas en los costes unitarios:
+
+a) Las posiciones de derivación de gasoductos.
+
+b) Las inversiones en instalaciones complementarias (instalación de teletransmisión y control, instalaciones eléctricas, de agua, centros de mantenimiento, equipos de medida, protección, odorización, etc.).
+
+c) Las instalaciones de medida en las estaciones de regulación y medida.
+
+4\. Con independencia de las inversiones realizadas, los costes reconocidos se calcularán de acuerdo con los valores unitarios incluidos en el anexo II de la presente orden, con las puntualizaciones siguientes:
+
+a) Se reconocerá como valor de la inversión en gasoductos por todos los conceptos el resultado de multiplicar la longitud del tubo, que deberá reflejarse en el acta de puesta en servicio, por los valores unitarios reconocidos.
+
+b) En el caso de ERM los valores unitarios incluyen los equipos de telemedida capaces de determinar tanto la calidad del gas como todos los parámetros necesarios para el cálculo en unidades energéticas (kWh) del gas transportado, y sistema de calentamiento cuando sea necesario.
+
+c) La fecha de inclusión en el régimen retributivo será la correspondiente al acta de puesta en servicio definitiva.
+
+## Artículo 10. Instalaciones con características especiales.
+
+1\. Por sus características técnicas, se podrá solicitar un tratamiento económico específico para determinadas instalaciones. En todo caso, la calificación como instalación con características técnicas especiales deberá solicitarse junto con la autorización administrativa previa. En dicha autorización se recogerán los criterios para su valoración.
+
+El valor de la inversión para el cálculo del coste acreditado será el que corresponda a la inversión realmente efectuada que deberá acreditarse con la correspondiente auditoria. Asimismo, los costes de explotación deberán justificarse en base a criterios y parámetros comúnmente aplicados en instalaciones de características similares.
+
+2\. Con carácter excepcional, se podrá solicitar la inclusión en el régimen retributivo de inversiones singulares, cuyo valor presupuestado supere en un 20 por ciento al valor resultante de la aplicación de los valores unitarios de referencia del anexo II. El reconocimiento de estas inversiones deberá ser aprobado por orden del Ministro de Industria Turismo y Comercio, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y deberá hacerse teniendo en cuenta la rentabilidad de la cartera de los activos incluidos en la cartera del solicitante. El carácter singular será declarado y justificado en dicha orden ministerial.
+
+> Se modifica el apartado 2 por la disposición final 2.1 de la Orden ITC/3863/2007, de 28 de diciembre. [Ref. BOE-A-2007-22461](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22461).
+
+## Artículo 11. Modificación de instalaciones existentes.
+
+Las modificaciones de instalaciones existentes, sólo serán incluidas en el régimen retributivo cuando supongan un aumento de la capacidad de transporte.
+
+En el caso de modificaciones que supongan aumento de capacidad, en adelante ampliaciones, el valor de la inversión para el cálculo del coste acreditado será el que corresponda a la inversión realmente efectuada, que deberá justificarse con la correspondiente auditoría. En ningún caso dicho valor podrá ser superior al que correspondería aplicando los valores unitarios establecidos en el anexo II.
+
+Los costes anuales de explotación de las ampliaciones se calcularán multiplicando los establecidos en el anexo IV de la presente orden por el factor de eficiencia (fi) recogido en el artículo 3.º y por el cociente entre la inversión real y la que correspondería aplicando los valores unitarios establecidos en el anexo II de esta orden a la instalación existente.
+
+## Artículo 12. Retribución de estaciones de regulación y medida.
+
+1\. Los valores unitarios de las estaciones de regulación y medida incluidos en el anexo II corresponden a instalaciones con las siguientes características:
+
+a) Presión de entrada 80 o 72 bar.
+
+b) Presión de salida 16 bar.
+
+c) Doble línea de regulación y medida, con el mismo equipamiento en cada una de ellas, por lo general una en operación y la otra de reserva. Los colectores están preparados para instalación futura de tercera línea, de iguales características a las anteriores.
+
+d) Sistema de calentamiento, con calderas situadas en otro recinto y cambiadores de calor sobre las líneas de regulación.
+
+e) Equipamiento telemático.
+
+f) Ubicación dentro de caseta de obra.
+
+g) Recinto de caseta y, en su caso, de posición de válvulas, vallado y dotado, en su caso, de sistemas de seguridad patrimonial.
+
+h) Caudal a la salida de la ERM será igual a 1,6* (valor numérico que acompaña a G)* presión de salida (17 bar).
+
+En caso de estaciones de medida, diseñadas y construidas de acuerdo con los estándares anteriores se valorarán según los valores unitarios definidos para las estaciones de regulación y medida equivalentes, corregidos por un coeficiente de ajuste de 0,76.
+
+2\. Las instalaciones de regulación y/o medida y/o de control de caudal o presión de gas, incluyendo instalaciones compactas que por cualquier motivo, no se ajusten a las características anteriores se retribuirán de acuerdo a costes reales auditados. En ningún caso dicho valor podrá ser superior al que correspondería aplicando los valores unitarios establecidos en el anexo II.
+
+## Artículo 13. Retribución provisional de instalaciones con fecha de puesta en servicio en el año «n».
+
+1\. Las empresas transportistas propietarias de instalaciones de transporte, que no han sido incluidas en el coste acreditado del año «n», podrán solicitar a la Dirección General de Política Energética y Minas el reconocimiento de una retribución provisional, que tendrá el carácter de ingreso a cuenta de su retribución definitiva.
+
+Dicha retribución incluirá los costes de explotación y podrá contener un porcentaje de la retribución a la inversión (amortización y retribución financiera) hasta un máximo del 80% de dichos conceptos, calculados de acuerdo con lo establecido en el anexo IV de la orden que corresponda, siempre que se cumplan los siguientes requisitos:
+
+a) Estar en posesión del acta de puesta en servicio definitiva, expedida por la Administración competente para su autorización.
+
+b) Haber sido incluidas expresamente por la empresa solicitante en la previsión de nuevas instalaciones a que hace referencia el artículo 25 de la presente orden.
+
+La Dirección General de Política Energética y Minas resolverá indicando expresamente la fecha a partir de la cual se reconoce en dicha retribución provisional.
+
+2\. A efectos de aplicación en el sistema de liquidación de la retribución de las actividades reguladas del sector del gas natural, del coste acreditado que finalmente se reconozca para la instalación, serán tenidos en cuenta, para minorarlos, en su caso, los importes ya percibidos por el titular en concepto de retribución provisional como ingreso a cuenta.
+
+3\. Las empresas transportistas que cuenten con instalaciones sobre las que se haya dictado resolución de reconocimiento de retribución provisional pero que sin embargo no dispongan todavía del reconocimiento definitivo, podrán solicitar a la Dirección General de Política Energética y Minas la ampliación de la retribución provisional hasta el límite indicado en el apartado 1 del presente artículo.
+
+## Artículo 14. Coste acreditado a la actividad de transporte en el año 2007 y su retribución total.
+
+1\. En el anexo 1 de la presente orden se establece la cuantía total de los costes fijos de transporte acreditados para 2007 a cada empresa que realiza esta actividad.
+
+2\. La agregación del total de las retribuciones correspondientes a cada empresa o grupo de empresas calculadas de acuerdo con lo dispuesto en los artículos 3, 4, 5 y 6 de la presente orden, determinará la retribución total de estas.
+
+## Artículo 15. Retribución anual de la actividad de gestión de compra-venta de gas destinada al mercado a tarifas realizada por los transportistas.
+
+La retribución anual de la actividad de gestión de compra-venta de gas destinado al mercado a tarifas se calculará de acuerdo con la siguiente fórmula:
+
+RGCV = (RCV + RMT + RFE)
+
+Siendo:
+
+RCV: Coste total específico por compra-venta de gas destinada al mercado a tarifas que se calculará de acuerdo con la siguiente fórmula:
+
+RCV = C<sub>i</sub> x Cmp x kWh<sub>cf</sub>
+
+Siendo:
+
+C<sub>i</sub> = Coeficiente que se fijará anualmente al efectuar la revisión anual de las tarifas de gas. Este coeficiente se establece para el año 2007 igual a 0,0005.
+
+Cmp = Coste unitario en vigor de la materia prima destinado al mercado a tarifas expresado en €/kWh.
+
+kWh<sub>cf</sub>= kWh de gas suministrados al consumidor final con destino al mercado a tarifa.
+
+RMT: Coste total de las mermas de gas destinado al mercado a tarifa que se calculará de acuerdo con la siguiente fórmula:
+
+RMT = [(C<sub>r</sub> x kWh<sub>r</sub>) + (C<sub>a</sub> x kWh<sub>a</sub>) + (C<sub>t</sub> x kWh<sub>t</sub>)] x Cmp
+
+Siendo:
+
+C<sub>r</sub>, C<sub>a</sub>, C<sub>t</sub> = porcentajes de mermas de regasificación, almacenamiento y transporte de gas respectivamente. Hasta el 1 de julio de 2007 serán igual a 0,37%, 2,11% y 0,43% respectivamente, y a partir de dicha fecha se aplicará lo establecido en la disposición transitoria segunda de la presente orden.
+
+Cmp = Coste unitario en vigor de la materia prima destinado al mercado a tarifas expresado en €/kWh.
+
+kWh<sub>r</sub> = kWh de gas (GNL) descargados en planta de regasificación con destino al mercado a tarifas.
+
+kWh<sub>a</sub> = kWh de gas (GN) inyectados en los almacenamientos subterráneos con destino al mercado a tarifas.
+
+kWh<sub>t</sub> = kWh de gas (GN) introducidos en el sistema de transporte con destino al mercado a tarifas.
+
+RFE: Coste total específico por financiación de existencias de gas destinado al mercado a tarifas calculado de acuerdo con la siguiente fórmula:
+
+RFE = C<sub>x</sub> x i x Cmp x kWh<sub>cf</sub>
+
+Siendo:
+
+C<sub>x </sub>= Coeficiente que se fijará anualmente al efectuar la revisión anual de las tarifas de gas. Este coeficiente se establece para el año 2007 igual a 0,218.
+
+i = coste del dinero que se fijará cada año en función del Euribor a tres meses del año anterior más 0,5 puntos. Para el año 2007 se establece en el 3,38 %.
+
+Cmp = Coste unitario en vigor de la materia prima destinado al mercado a tarifas expresado en €/kWh.
+
+kWh<sub>cf</sub> = kWh de gas suministrados al consumidor final con destino al mercado a tarifas.
+
+A efectos de liquidaciones, se deberán utilizar los términos recogidos en el anexo II de la orden ECO/2692/ 2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de las actividades reguladas del sector del gas natural.
+
+## Artículo 16. Actividad de distribución.
+
+1\. A los efectos de aplicación del régimen retributivo establecido en la presente orden quedan incluidos como costes de la actividad de distribución de gas natural los costes en que se incurra para llevar a cabo el desarrollo, operación y mantenimiento de las instalaciones de distribución destinadas a situar el gas en los puntos de consumo.
+
+2\. Las instalaciones de distribución comprenderán, además de la red de gasoductos de distribución con presión máxima de diseño incluida en la autorización de la instalación igual o inferior a 16 bar, las plantas satélites que suministren a una red de distribución y todos aquellos activos de la red de comunicaciones, protecciones, control, servicios auxiliares, terrenos, edificaciones, y demás elementos auxiliares necesarios para su adecuado funcionamiento, incluyendo las líneas de conexión con la red de transporte y las instalaciones asociadas.
+
+No formarán parte de las instalaciones específicas de distribución a efectos del régimen retributivo las instalaciones de consumidores para su uso exclusivo.
+
+## Artículo 17. Retribución de la actividad de distribución.
+
+La retribución de la actividad de distribución se establecerá para el conjunto de las instalaciones de cada empresa distribuidora, excluidas las acometidas, atendiendo a los siguientes criterios:
+
+a) El consumo y el volumen de gas vehiculado.
+
+b) Inversiones y amortizaciones realizadas en instalaciones de distribución.
+
+c) Costes de operación y mantenimiento de las instalaciones, aplicando criterios de mejora y eficiencia.
+
+d) Características de las zonas de distribución.
+
+e) Seguridad y calidad del servicio.
+
+f) Otros costes necesarios para desarrollar la actividad de distribución.
+
+Los ingresos correspondientes a los derechos de acometidas serán facturados directamente por las empresas distribuidoras y no se incluirán en los costes reconocidos por la actividad de distribución ni estarán sujetos al régimen de liquidaciones.
+
+Asimismo, se establecerá por el Ministerio de Industria, Turismo y Comercio, previo informe de la Comisión Nacional de Energía, un mecanismo para incentivar la mejora de la calidad de suministro y la consecución de reducciones adicionales de pérdidas de gas respecto a las que sean predeterminadas, tomando en consideración las cantidades que a estos efectos se determinen en la norma por la que se aprueben las tarifas de gas de cada año.
+
+## Artículo 18. Actualización de la actividad de distribución.
+
+1\. La retribución global de la actividad de distribución se actualizará anualmente en función del IPH y considerando el crecimiento de la actividad afectado de unos factores de eficiencia. Dicho cálculo se realizará atendiendo a la siguiente fórmula:
+
+![Imagen: img/disp/2008/315/21010_001.png](https://www.boe.es/datos/imagenes/disp/2008/315/21010_001.png)
+
+Donde:
+
+RD<sub>2006</sub> = retribución definitiva del año 2006, resultado de actualizar en función de las cifras definitivas de ventas y clientes la retribución publicada en el anejo V de la Orden ITC/4099/2005, de 27 de diciembre, por la que se establece la retribución de las actividades reguladas del sector gasista.
+
+f = factor de eficiencia en relación al IPH. Para el año 2012 y anteriores, el factor a aplicar es 0,85. Durante el año 2013 el factor f a aplicar será 0.
+
+IPH<sup>D</sup><sub>k</sub> = Semisuma de los valores definitivos del IPC e IPRI del año "k". Para "k" menor o igual a 2010 se tomarán como valores definitivos los correspondientes a las variaciones interanuales del mes de diciembre del año "k" redondeadas a dos decimales. Para "k" mayor o igual a 2011 como valor definitivo del año "k", se tomará el valor correspondiente al mes de octubre del año "k - 1".
+
+∆A<sub>cl<4k</sub> = variación del numero de consumidores conectados en redes con presión de diseño inferior o igual a 4 bar, calculada como cociente entre el número medio para el año «k» y el valor medio del año «k-1».
+
+F<sub>cl<4</sub> = factor de ponderación y eficiencia de captación de consumidores en redes con presión de diseño inferior o iguala 4 bar. Su valor se fija en 0,426.
+
+∆A<sub>D<4k</sub> = variación de demanda total de gas en redes con presión de diseño inferior o igual a 4 bar, calculada como cociente entre la demanda del año «k» y la del año «k-1».
+
+F<sub>D<4</sub> = factor de ponderación y eficiencia de la demanda total en redes con presión de diseño inferior o igual a 4 bar. Su valor se fija en 0,142.
+
+∆A<sub>cl>4k</sub> = variación de demanda total de gas en redes con presión de diseño comprendida entre 4 bar y 60 bar, calculada como cociente entre la demanda del año «k» y la del año «k-1».
+
+FD<sub>>4</sub> = factor de ponderación y eficiencia de la demanda en redes con presión de diseño comprendida entre 4 bar y 60 bar. Su valor se fija en 0,142.
+
+IPH<sup>P</sup><sub>j</sub> = semisuma de los valores provisionales de IPC e IPRI del año "j". Para valores de j menores o iguales a 2010, como valores provisionales se tomará el objetivo de IPC del Banco Central Europeo y un valor de IPRI calculado aplicando a dicho valor provisional de IPC la relación entre los valores de IPRI e IPC de octubre del año "j-1". Para valores de j mayores o iguales a 2011 ya no se emplearán valores provisionales y se utilizará únicamente el valor definitivo IPHD<sup>D</sup><sub>j </sub>.
+
+∆A<sub>cl<4kj</sub> = variación del numero de consumidores conectados en redes con presión de diseño inferior o igual a 4 bar, calculada como cociente entre el número medio previsto para el año «j» y el correspondiente del año «j-1».
+
+∆A<sub>D<4j</sub> = variación de demanda total de gas en redes con presión de diseño inferior o iguala 4 bar, calculada como cociente entre la demanda prevista para el año «j» y la correspondiente del año «j-1».
+
+∆A<sub>cl>4j</sub> = variación de demanda total de gas en redes con presión de diseño comprendida entre 4 bar y 60 bar, calculada como cociente entre la demanda prevista del año «j» y la correspondiente del año «j-1».
+
+2\. A efectos del cálculo del incremento de clientes industriales suministrados a presión inferior o igual a 4 bar con anterioridad a la entrada en vigor de la orden ECO/32/2004, que pasen a ser suministrados a una presión mayor de 4 bar, se seguirá el siguiente procedimiento: En el año en que tenga lugar dicho cambio, el número de clientes y sus ventas correspondientes se considerarán exclusivamente como si se hubiesen realizado a una presión menor a cuatro bar. En años sucesivos se consideraran los incrementos de ventas de acuerdo con la presión a la que se realice el suministro.
+
+3\. Los factores de ponderación y eficiencia de captación de consumidores, de la demanda en redes con presión de diseño comprendida entre 4 bar y 60 bar e inferior o igual a 4 bar se establecerán anualmente, en función de la evolución de la demanda, de las mejoras de productividad y de la evolución económica, cuando se efectúe la revisión anual de las tarifas de gas.
+
+4\. A partir de la cifra RD<sub>n</sub> se obtendrá la retribución media unitaria por cada nuvo consumidor, por cada nuevo kWh suministrado a presiones menores o iguales a 4 bar y por cada nuevo kWh suministrado a presiones entre 4 y 60 bar.
+
+El incremento de retribución de cada compañía distribuidora se calculará multiplicando las retribuciones unitarias medias anteriores por el aumento de ventas y consumidores de cada una de ellas.
+
+5\. La retribución de la actividad de distribución de cada año se revisará conforme se disponga del valor definitivo o se conozcan cifras más precisas de demanda y clientes. Las diferencias entre las retribuciones calculadas con los nuevos parámetros y las anteriores se incluirán en las liquidaciones del año ''n''.
+
+6\. Por orden del Ministro de Industria, Turismo y Comercio, previo informe de la Comisión Nacional de Energía, se establecerá antes del día 1 de enero de cada año la retribución que corresponde percibir a cada empresa distribuidora, tomando como base la retribución global calculada de acuerdo con lo establecido en los apartados anteriores.
+
+7\. En el anexo V de la presente orden se establece la retribución global de los costes totales de distribución para el año 2007 así como la de cada empresa que realiza esta actividad.
+
+8\. **(Suprimido)**
+
+> Se modifica el apartado 1 por la disposición final 3.2 de la Orden IET/2812/2012, de 27 de diciembre. [Ref. BOE-A-2012-15767](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15767).
+
+> Se modifica el apartado 1 por la disposición final 2 de la Orden ITC/3354/2010, de 28 de diciembre. [Ref. BOE-A-2010-20003](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-20003).
+
+> Se modifican los apartados 1 y 5 por la disposición final 1.2 y 3 de la Orden ITC/1890/2010, de 13 de julio. [Ref. BOE-A-2010-11181](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11181).
+
+> Redactado el apartado 5 conforme a la corrección de errores publicada en BOE núm. 185, de 31 de julio de 2010. [Ref. BOE-A-2010-12271](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12271).
+
+> Se suprime el apartado 8 y se modifica el 1 y el 5 por la disposición final 1.2 a 4 de la Orden ITC/3802/2008, de 26 de diciembre. [Ref. BOE-A-2008-21010](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-21010).
+
+> Se añade el apartado 8 por la disposición final 2.3 de la Orden ITC/3863/2007, de 28 de diciembre. [Ref. BOE-A-2007-22461](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22461).
+
+## Artículo 19. Inclusión de nuevas empresas de distribución en el régimen retributivo.
+
+La inclusión de una nueva empresa de distribución en el régimen retributivo requerirá la solicitud por parte de la misma a la Dirección General de Política Energética y Minas, acompañando a la misma:
+
+a) Memoria de actividad en la que se hará constar la previsión de consumidores y consumos en los primeros 5 años de funcionamiento, plan de inversiones, zona geográfica de actuación (superficie y n.º de habitantes) y cuenta de resultados provisional.
+
+b) Resolución de autorización administrativa.
+
+c) Actas de puesta en servicio o certificación de la Comunidad Autónoma correspondiente de puesta en gas de las instalaciones.
+
+La Dirección General de Política Energética y Minas resolverá la inclusión en el régimen retributivo con indicación expresa de la fecha de inclusión en el mismo y la retribución anual reconocida.
+
+La retribución anual inicial se determinará aplicando los valores unitarios, a que hace referencia el apartado 3.º del artículo 18, a la previsión de consumidores y consumos correspondientes al primer año de funcionamiento. En el segundo año de funcionamiento se procederá a ajustar la retribución inicial de acuerdo con las cifras reales de demanda.
+
+## Artículo 20. Retribución específica de instalaciones de distribución.
+
+1\. Las empresas distribuidoras que hayan suscrito convenios con alguna comunidad autónoma para acometer la gasificación de núcleos de población que no dispongan de gas natural, podrán solicitar una retribución específica a la Dirección General de Política Energética y Minas para las instalaciones de conexión. Igualmente, se podrá solicitar dicha retribución para reemplazar plantas satélite existentes de gas natural licuado (GNL) por una conexión con la red de gasoductos.
+
+Para solicitar dicha retribución se deberán cumplir las siguientes condiciones:
+
+a) Que exista convenio o acuerdo, suscrito con la comunidad autónoma o con el organismo que tenga las competencias en la materia, y que el mismo cumpla con los requisitos establecidos en el apartado tres de esta disposición.
+
+b) Que la retribución por la actividad de distribución, teniendo en cuenta las aportaciones comprometidas de fondos públicos para la construcción de las instalaciones de distribución, sea suficiente para asegurar la rentabilidad del proyecto de distribución sin considerar la instalación de conexión.
+
+c) Que la situación del núcleo requiera inversiones en la instalación de conexión con la red gasista existente que hagan económicamente inviable el proyecto. En el caso de plantas de G.N.L., se deberán considerar factores tales como el coste de sustitución de la planta satélite por una conexión con la red de gasoductos, la mejora de la seguridad de suministro, el riesgo asociado a la existencia de la planta satélite y los aspectos medioambientales.
+
+d) Que la construcción de las instalaciones se inicie en el año de la convocatoria o en el año siguiente.
+
+2\. Las solicitudes de retribución específica de distribución deberán realizarse con anterioridad al 30 de abril de cada año, comprendiendo las solicitudes realizadas aquellas instalaciones cuya construcción se vaya a iniciar en ese año o en el año siguiente, acompañando la solicitud de la siguiente documentación:
+
+a) Descripción técnica de la instalación.
+
+b) Presupuesto de inversiones, desglosando la correspondiente a la retribución específica solicitada.
+
+c) Puntos de consumo y demanda prevista para cada nivel de presión en un horizonte de treinta años, justificando aquellos casos en que se prevea un fuerte crecimiento de la población en el núcleo respecto a la población censada en la actualidad.
+
+d) Análisis de inversión del proyecto de gasificación del núcleo de población sin la instalación de conexión (horizonte de treinta años). En dicho análisis se deberá incluir, en su caso, las aportaciones de fondos públicos para las instalaciones de distribución.
+
+e) Análisis de inversión del proyecto de gasificación del núcleo de población incluyendo la inversión en la instalación de conexión (horizonte de treinta años). En dicho análisis se deberá incluir, en su caso, las aportaciones de fondos públicos para las instalaciones de distribución y de conexión.
+
+f) Aportaciones de fondos públicos.
+
+g) Cuantificación de la retribución solicitada.
+
+h) Convenio o acuerdo con la comunidad autónoma o con el organismo que tenga las competencias en la materia.
+
+Con el fin de homogeneizar la información de los diferentes proyectos, la Dirección General de Política Energética y Minas establecerá formatos estándares para el análisis de inversión y de mercado de los diferentes proyectos, debiéndose proporcionar en la forma y plazos que se indique.
+
+3\. Los convenios o acuerdos suscritos entre la empresa distribuidora y la comunidad autónoma, o el organismo que tenga las competencias en la materia, deberán recoger de forma individualizada los núcleos de población a gasificar, las instalaciones necesarias; en su caso, las aportaciones de la comunidad autónoma (desglosando las aportaciones destinadas a la instalación de conexión y a la de distribución), y la retribución específica necesaria, así como el calendario de ejecución de los proyectos.
+
+4\. La Dirección General de Política Energética y Minas resolverá conjuntamente las solicitudes recibidas, previo informe de la Comisión Nacional de Energía. La retribución específica se asignará hasta agotar, en su caso, la cantidad disponible en cada año de acuerdo con los siguientes criterios:
+
+a) Se asignarán entre 0 y 100 puntos en función del porcentaje de cofinanciación con fondos públicos de las instalaciones de conexión. Este porcentaje se ponderará por el complementario a 100 del índice de gasificación de cada comunidad autónoma. A estos efectos se publicará el índice de gasificación de las Comunidades Autónomas en la página web del Ministerio de Industria, Turismo y Comercio.
+
+b) Se asignarán entre 0 y 100 puntos en función de la retribución específica solicitada en relación al número de puntos de suministro previstos.
+
+En el caso de sustitución de plantas satélite de GNL existentes se tomará el número de puntos de suministro del año anterior al de la solicitud. En el caso de nuevas zonas a gasificar se tomará el número de puntos de suministro previstos a los tres años desde la puesta en marcha.
+
+Para la asignación de las puntuaciones de valoración, se podrá ignorar el efecto de aquellos proyectos que presenten valores extremos.
+
+5\. La retribución específica otorgada para cada proyecto no podrá sobrepasar en ningún caso la menor de las siguientes cantidades:
+
+a) La retribución específica para un proyecto no podrá exceder en ningún caso del 10 por ciento de la cantidad disponible de retribución específica anual para el conjunto de sector.
+
+b) La retribución específica necesaria para asegurar una rentabilidad suficiente. Se considerará como rentabilidad suficiente el coste de capital medio ponderado de referencia.
+
+c) La retribución específica necesaria de forma que esta más la aportación de la comunidad autónoma y de otros fondos públicos para la inversión en conexión no supere el 85 por ciento de la inversión en conexión.
+
+6\. La Dirección General de Política Energética y Minas establecerá mediante resolución los requisitos necesarios para hacer efectivas las cantidades asignadas, incluyendo el plazo dentro del cual deberán ponerse en marcha las instalaciones.
+
+La Comisión Nacional de Energía integrará la retribución específica otorgada en la retribución reconocida de cada empresa distribuidora una vez se haya acreditado ante dicha comisión el cumplimiento de las condiciones establecidas por la mencionada resolución.
+
+Para el año 2008, la retribución específica anual para el conjunto del sector incluyendo la cantidad designada en el apartado cinco, no podrá superar en ningún caso la siguiente cantidad:
+
+RDn = 23.000.000 € - RTS.
+
+RDn: Retribución específica de distribución máxima asignada para el año 2008.
+
+RTS: Retribución correspondiente a nuevas instalaciones de transporte secundario en el año n-1, más la retribución correspondiente a nuevas instalaciones de transporte secundario que no se hubiesen deducido de la cantidad total asignada a la retribución específica en los años anteriores.
+
+7\. De la totalidad de la cantidad designada en el apartado cuatro, se reservará un máximo de 5.000.0000 € para las instalaciones de distribución de combustibles gaseosos por canalización a construir en el ámbito territorial del archipiélago canario.
+
+Dicha retribución podrá designarse, además de a las instalaciones de conexión y distribución de gas natural, a las instalaciones necesarias para la distribución de gases manufacturados cuya autorización esté condicionada a la transformación de las mismas para su funcionamiento con gas natural cuando este combustible esté disponible.
+
+Por resolución de la Secretaría General de la Energía, se podrán establecer condiciones específicas para la asignación de la retribución específica en este ámbito territorial.
+
+En caso de que la retribución específica obtenida por los proyectos presentados en este ámbito territorial no alcance la retribución máxima reservada, la Dirección General de Política Energética y Minas podrá utilizar el monto remanente para otorgar retribución específica a los proyectos presentados en el resto del territorio nacional que cumplan los requisitos establecidos en la presente orden ministerial.
+
+> Se modifica por la disposición final 2.2 de la Orden ITC/3863/2007, de 28 de diciembre. [Ref. BOE-A-2007-22461](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-22461).
+
+## Artículo 21. Actividad de suministro a tarifas.
+
+1\. A los efectos de aplicación del régimen retributivo establecido en la presente orden quedan incluidos como costes de la actividad de suministro de gas natural a tarifa los costes en que incurren los distribuidores necesarios para atender a los consumidores a tarifa.
+
+2\. Estos costes comprenderán los costes propios de suministro, las mermas de gas en las redes de distribución para atender estos suministros y el coste del capital circulante derivado de la financiación entre el pago y el cobro de la materia prima.
+
+3\. No están incluidos los costes correspondientes a los equipos de medida, a las acometidas, a las inspecciones y cualquier otro no estrictamente necesario para el suministro a tarifa. Estos costes serán cobrados directamente por los distribuidores a los consumidores y no están sujetos al procedimiento de liquidaciones.
+
+## Artículo 22. Retribución de la actividad de suministro a tarifas.
+
+1\. El Ministro de Industria, Turismo y Comercio, previo informe de la Comisión Nacional de Energía, establecerá antes del día 1 de enero de cada año, la retribución que corresponda percibir a las empresas distribuidoras por la actividad de suministro de gas a tarifa.
+
+2\. La retribución de la actividad de suministro a tarifas de gas se calculará de acuerdo con la siguiente fórmula:
+
+RS<sub>n</sub>= RAS<sub>n</sub> + RMD<sub>n</sub> + RCI<sub>n</sub>
+
+Siendo:
+
+RAS<sub>n</sub>: coste específico por la actividad de atención a los clientes a tarifas que se calculará de acuerdo con la siguiente fórmula:
+
+RAS<sub>n</sub>= (CS<sub>n-1<4</sub> x kWh<sub>cn<4</sub> + CS<sub>n-1>4</sub> x kWh<sub>c>4</sub>) x [1 +IPH<sub>n</sub> x 0,85]
+
+Siendo:
+
+CS<sub>n-1<</sub><sub>4</sub> = coeficiente de suministro a presión de diseño igual o inferior a 4 bar expresado en €/kWh. Para 2007 este coeficiente será igual a 0,002102 €/kWh.
+
+kWh<sub>cn<4</sub> = kWh de gas suministrados al mercado regulado a tarifas para consumidores conectados a gasoductos cuya presión de diseño sea inferior o igual a 4 bar.
+
+CS<sub>n-1>4</sub> = coeficiente de suministro a presión de diseño superior a 4 bar expresado en €/kWh. Para 2007 este coeficiente será igual a 0,000298 €/kWh.
+
+kWh<sub>cn>4</sub> = kWh de gas suministrados al mercado regulado a tarifas para consumidores conectados a gasoductos cuya presión de diseño sea superior a 4 bar.
+
+IPH<sub>n</sub> tiene el significado ya definido en los puntos anteriores de la presente orden.
+
+RMD<sub>n</sub>: coste de las mermas de gas en las redes de distribución que se calculará de acuerdo con la siguiente fórmula:
+
+RMD<sub>n</sub> = [ C<sub>r<4</sub> x kWh<sub>cn<4</sub> + C<sub>r<4</sub> x kWh<sub>cn<4</sub>] x Cmp
+
+Siendo:
+
+C<sub>r<4</sub>, C <sub>r>4</sub> = porcentajes de mermas de distribución de gas en redes a presión inferior o igual a 4 bar y superior a 4 bar respectivamente que serán los fijados en las Normas de Gestión Técnica del Sistema. Para 2007 serán igual a 1% y 0,39% respectivamente.
+
+En el caso de las distribuciones suministradas a partir de plantas satélites de gas natural licuado (GNL) o mediante gas manufacturado a partir de propano, el coeficiente de mermas de distribución a presión ≤4 bar, C<sub>r<4</sub>, es del 2%.
+
+No se reconocerá merma alguna de distribución en gasoductos de una presión máxima de diseño superior a 16 bar, a menos que se justifique su existencia.
+
+kWh<sub>cn<4</sub> = kWh de gas suministrados al mercado regulado a tarifas, de los consumidores conectados a gasoductos cuya presión de diseño sea inferior o igual a 4 bar.
+
+kWh<sub>cn>4</sub> = kWh de gas suministrados al mercado regulado a tarifas, de los consumidores conectados a gasoductos, cuya presión de diseño sea superior a 4 bar.
+
+Cmp = Coste unitario en vigor de la materia prima destinada al mercado a tarifas expresado en €/kWh.
+
+RCI<sub>n</sub>: coste específico por las necesidades financieras derivadas de la diferencia entre el pago de la materia prima y el cobro al cliente a tarifas que se calculará de acuerdo con la siguiente fórmula:
+
+RCI<sub>n</sub> = C<sub>z</sub> x i x Cmp x kWh<sub>cn</sub>
+
+Siendo:
+
+C<sub>z</sub> = Coeficiente que se fijará anualmente al efectuar la revisión anual de las tarifas de gas. Este coeficiente se establece para el año 2007 igual a 0,04.
+
+i = coste del dinero que se fijará cada año en función del Euribor a tres meses del año anterior más 0,5 puntos. Para el año 2007 se establece en el 3,38 %.
+
+Cmp = Coste unitario en vigor de la materia prima destinado al mercado a tarifas expresado en €/kWh.
+
+kWh<sub>cn</sub> = kWh de gas suministrados al mercado regulado a tarifas.
+
+3\. A efectos de liquidaciones, se deberán utilizar los términos recogidos en el anexo II de la orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de las actividades reguladas del sector del gas natural.
+
+## Artículo 23. Retribución de la actividad del Gestor Técnico del Sistema.
+
+1\. El Ministro de Industria,Turismo y Comercio, previo informe de la Comisión Nacional de Energía, determinará antes del 1 de enero de cada año, la retribución que corresponde percibir al Gestor Técnico del Sistema, por el ejercicio de esta actividad. Este coste se incluirá como un coste a retribuir de las actividades reguladas y estará sometido al procedimiento de liquidación.
+
+2\. A estos efectos el Gestor Técnico del Sistema, comunicará, antes del 1 de diciembre de cada año, al Ministerio de Economía, los costes de operación, comunicación y control, así como otros costes que, a su criterio, estime necesarios para el desarrollo de su actividad, en los términos del artículo 24.3 del Real Decreto 949/2001 de 3 de agosto.
+
+## Artículo 24. Retribución a empresas distribuidoras de gases manufacturados de origen distinto al gas natural en territorios extrapeninsulares.
+
+A efectos del reconocimiento de la retribución por este concepto y de acuerdo con lo dispuesto en la disposición adicional primera del Real Decreto 949/2001 y con la información remitida por la empresa se establece que para el año 2007 el coste diferencial unitario provisional correspondiente a la actividad de distribución de gases manufacturados diferentes al gas natural licuado en territorios extrapeninsulares se establece en 0,0262630 €/KWh. Anualmente la empresa presentará una Memoria auditada con los costes reales de compra de materia prima en que se ha incurrido durante el ejercicio.
+
+## Artículo 25. Obligaciones de información de las empresas titulares de instalaciones de transporte, distribución y responsable de la gestión técnica del sistema.
+
+1\. A fin de determinar los costes reconocidos a cada instalación y la retribución correspondiente, las empresas transportistas comunicarán a la Dirección General de Política Energética y Minas del Ministerio de Industria, Turismo y Comercio, y a la Comisión Nacional de Energía, antes de 1 de noviembre de cada año, los datos técnicos y económicos referentes a nuevas instalaciones puestas en servicio, ampliaciones, modificaciones, transmisiones y cierres correspondientes a los últimos doce meses. Con objeto de determinar las tarifas y peajes, deberán asimismo enviar una relación de las instalaciones cuya puesta en servicio esté prevista en los doce meses siguientes indicando los datos anteriores y la fecha prevista de la entrada en servicio.
+
+2\. Con objeto de determinar las tarifas, peajes y cánones de cada año, todas las empresas o agrupaciones de empresas sometidas al proceso de liquidaciones deberán remitir al Gestor Técnico de Sistema y a la Comisión Nacional de Energía, antes del día 15 de octubre de cada año, los datos relativos a la previsión de demanda de cierre del ejercicio así como las del año siguiente, especificando, entre otros, el consumo y número de consumidores suministrados, la capacidad contratada, las ventas y consumidores incorporados, todo ello por nivel de presión, tipo de suministro y rango de volumen, desagregados para el mercado regulado y para el mercado liberalizado.
+
+El Gestor Técnico del Sistema deberá comunicar a la Dirección General de Política Energética y Minas del Ministerio de Industria, Turismo y Comercio, y a la Comisión Nacional de Energía, antes del día 1 de noviembre de cada año, los datos de demanda recibidos de las empresas debidamente integrados para el conjunto del sector.
+
+3\. Las empresas transportistas y distribuidoras de gas deberán remitir a la Dirección General de Política Energética y Minas y a la Comisión Nacional de Energía, debidamente auditadas, antes del 30 de junio de cada año los estados financieros, las cuentas anuales y el informe de gestión referidos al ejercicio anterior, así como la desagregación de las cuentas anuales por actividades de transporte, gestión de compra-venta de gas, distribución y suministro a tarifa, indicando los criterios utilizados.
+
+4\. La Dirección General de Política Energética y Minas y la Comisión Nacional de Energía podrán solicitar a las empresas o agrupaciones de empresas cualquier otra información necesaria para poder determinar los peajes, cánones o tarifas, así como para fijar la retribución de las actividades reguladas de cada año.
+
+## Artículo 26. Facturación y cobro de la retribución.
+
+La facturación y cobro de la retribución de las actividades reguladas en la presente orden se realizará de conformidad con el procedimiento de liquidaciones establecido en el Capítulo V del Real Decreto 949/2001, de 3 de agosto y desarrollado por la orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas.
+
+## Artículo 27. Instalaciones de seguridad anteriores a la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
+
+El tratamiento recogido en la disposición transitoria sexta de la Ley 34/1998, de 7 de octubre, y la disposición transitoria segunda del Real Decreto 949/2001, de 3 de agosto, para las instalaciones destinadas a dotar de la adecuada seguridad al sistema que hubieran sido objeto de concesión, está incluido en el cálculo de la retribución de las actividades de transporte desarrollado en la presente orden.
+
+## Artículo 28. Telemedida.
+
+A efectos de realizar las liquidaciones mensuales, la Comisión Nacional de Energía reducirá la retribución fija acreditada en el año «n» para el período «t» (RFit, definida en la orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector del gas natural de y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas), de las empresas distribuidoras que no hayan hecho pública en sus páginas web la siguiente información:
+
+a) Los protocolos de comunicación utilizados para la lectura de los equipos de telemedida.
+
+b) Los fabricantes homologados de medidores de caudal y sus correctores.
+
+c) Los suministradores homologados de los equipos que implementan el protocolo, con identificación de modelos, marcas y precios de alquiler, en su caso en la siguiente cantidad:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/312/22965_003.png)
+
+D<sub>nit</sub>* = Consumo en el periodo «t» de los consumidores con consumos superiores a 5.000.000 kWh/año del distribuidor «i» que no están siendo telemedidos.
+
+R<sub>(n-1)</sub> = Retribución anual acreditada al conjunto de distribuidores para el año «(n-1)»
+
+D<sub>(n-1)</sub>.= Demanda total para el año «(n-1)» conjunto de distribuidores.
+
+«n» = Año en curso.
+
+Las cantidades detraídas serán consideradas como ingresos liquidables del sistema.
+
+## Artículo 29. Compra del gas natural, con destino al nivel mínimo de llenado de los tanques de las plantas de regasificación y de la red de transporte.
+
+Del 1 de julio de 2007 al 30 de junio de 2008, los transportistas adquirirán el gas natural correspondiente al nivel mínimo de llenado de los gasoductos de la red de transporte y al nivel mínimo operativo de las plantas de regasificación. Para lo cual, incluirán los volúmenes de gas destinado a este fin en la comunicación que realicen a la Comisión Nacional de Energía y a la Dirección General de Política Energética y Minas en la que informen de las necesidades de gas natural para autoconsumo. Este gas será adjudicado en la subasta que describe la disposición transitoria segunda de la presente orden.
+
+En el caso de transportistas que hayan aportado ya el gas para el nivel mínimo de llenado, no necesitarán adquirirlo de nuevo y la Dirección General de Política Energética y Minas mediante resolución procederá a reconocer el valor de dicho gas al precio que resulte de la subasta y una retribución financiera correspondiente a la inversión realizada, valorada al tipo referencia de «Obligaciones del Estado a 10 años más 3%».
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 46, de 22 de febrero de 2007. [Ref. BOE-A-2007-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3693).
+
+## Artículo 30. Retribución por los consumos industriales suministrados a menos de 4 bar a los que se les aplica la tarifa o el peaje del grupo 2.
+
+A efectos de realizar las liquidaciones mensuales, la Comisión Nacional de Energía reducirá la retribución fija acreditada para el período «t» (RFit, definida en la orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación), de las empresas distribuidoras con consumidores industriales suministrados a menos de 4 bar a los que se les aplica la tarifa o el peaje del grupo 2, en la siguiente cantidad:
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2006/312/22965_004.png)
+
+Donde:
+
+D*<sub>nit</sub> = Cantidad de gas natural consumido en el período de liquidación «t» del año «n» por parte de los consumidores industriales del distribuidor «i» suministrados a presiones menores o iguales a 4 bar a los que se les aplica la tarifa o el peaje del grupo 2 «bis». A esta cantidad se le detraerá la parte de la demanda correspondiente a los consumidores de estas características que sean suministrados a través de una red conectada a una planta satélite.
+
+R<sub>(n-1)</sub> = Retribución anual acreditada al conjunto de distribuidores para el año «(n-1)».
+
+D<sub>(n-1)</sub> = Demanda total para el año «(n-1)» del conjunto de distribuidores.
+
+«n» = año en curso.
+
+Las cantidades detraídas serán consideradas como ingresos liquidables del sistema.
+
+## Disposición adicional primera. Gasoductos de transporte secundario.
+
+1\. Los titulares de gasoductos con presión de diseño inferior a 60 bar y superior a 16 bar que hayan obtenido la autorización de ejecución de las instalaciones con anterioridad al 20 de enero de 2004, podrán solicitar a la Dirección General de Política Energética y Minas que, en el cálculo de la retribución correspondiente a la citada instalación, se apliquen los valores unitarios de referencia obtenidos mediante la siguiente fórmula:
+
+C= C <sub>>60 bar</sub>
+
+Siendo C <sub>></sub><sub>60 bar</sub> el correspondiente valor unitario de referencia de inversión y de costes de explotación para gasoductos de transporte de acuerdo con las características y fecha de puesta en servicio de la instalación.
+
+2\. En el caso de que la Dirección General de la Política Energética y Minas haya dictado Resolución de inclusión en el régimen retributivo para una instalación que se encuentre en el caso descrito en el apartado 1.º, el titular de la misma podrá solicitar a la Dirección General de Política Energética y Minas una revisión de la citada Resolución para que se aplique la metodología de cálculo prevista en el apartado anterior.
+
+3\. En todos los casos el solicitante deberá aportar la documentación justificativa de que se cumplen los requisitos establecidos en esta disposición adicional.
+
+## Disposición adicional segunda. Estaciones de regulación y medida con presión de entrada inferior a 60 bar.
+
+1\. Los titulares de estaciones de regulación y medida con presión de entrada de diseño inferior a 60 bar que hayan obtenido la autorización de ejecución de las instalaciones con anterioridad al 20 de enero de 2004 podrán solicitar a la Dirección General de Política Energética y Minas que, en el cálculo de la retribución correspondiente a la citada instalación, se apliquen los valores unitarios de referencia obtenidos mediante la siguiente fórmula:
+
+C= C <sub>>60 bar</sub>
+
+Siendo C <sub>></sub><sub>60 bar</sub> el correspondiente valor unitario de referencia de valores de inversión y costes de explotación para Estaciones de Regulación y Medida (P> 60) que le corresponda de acuerdo con las características y fecha de puesta en servicio de la instalación.
+
+2\. En el caso de que la Dirección General de la Política Energética y Minas haya dictado Resolución de inclusión en el régimen retributivo para una instalación que se encuentre en el caso descrito en el apartado 1, el titular de la misma podrá solicitar a la Dirección General de Política Energética y Minas una revisión de la citada Resolución para que se aplique la metodología de cálculo prevista en el apartado anterior.
+
+3\. En todos los casos el solicitante deberá aportar la documentación justificativa de que se cumplen los requisitos establecidos en esta disposición adicional.
+
+## Disposición adicional tercera. Valores unitarios de referencia de explotación de las instalaciones de transporte.
+
+En el plazo de seis meses desde la entrada en vigor de la presente orden, la Comisión Nacional de Energía elaborará una propuesta y un informe que recojan la revisión de los valores unitarios de referencia de explotación de las instalaciones de transporte incluidos en el anexo IV de la orden ITC/4099/2005, de 27 de diciembre, por la que se establece la retribución de las actividades reguladas del sector gasista.
+
+## Disposición adicional cuarta. Valores netos pendientes de amortizar.
+
+En el plazo de seis meses desde la entrada en vigor de la presente orden, la Comisión Nacional de Energía elaborará un estudio acerca de los activos de transporte (sin incluir plantas de regasificación ni almacenamientos subterráneos). Dicho estudio enumerará su fecha de puesta en marcha, sus valores contables brutos y netos, junto con la vida útil a efectos de amortización. Para la realización de dicho estudio, los transportistas estarán obligados a enviar a la Comisión Nacional de Energía la información que ésta requiera.
+
+## Disposición adicional quinta. Intereses cargados a las liquidaciones.
+
+Se modifica el apartado I.5 del anexo II de la orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas que pasa a decir:
+
+I.5 Importe a liquidar
+
+El importe a liquidar (Lit) por cada transportista o distribuidor i sujeto al procedimiento de liquidación, para el período de liquidación t, será el resultado de detraer sus ingresos netos liquidables a sus derechos de cobro sobre los ingresos netos liquidables totales. El importe a liquidar se calculará de acuerdo con la siguiente fórmula:
+
+Lit = [(kit*Σ INLit) – INLit ]*(1+TI<sub>t</sub>*60/365)
+
+i
+
+Siendo:
+
+Li<sub>t</sub> = Importe a liquidar por el transportista o distribuidor i, en el período de liquidación t.
+
+TI<sub>t</sub> = Valor medio correspondiente al mes de liquidación, redondeado al segundo decimal, de los tipos de interés de las letras del tesoro a un año, considerando a estos efectos el valor medio mensual de las operaciones simples al contado entre titulares de cuenta publicado por el Banco de España. Para las liquidaciones 13, 14 y definitiva se tomará el valor del mes de diciembre. Estos intereses no tendrán la consideración de Ingresos liquidables.
+
+kit =Tanto por uno de los costes acreditados para el transportista o distribuidor i, en el período de liquidación t, sobre el total de los ingresos netos liquidables para todos los transportista y distribuidores i, en el período de liquidación t, calculado de acuerdo con la siguiente fórmula:
+
+kit = (RFit + RVit)/Σ (RFit + CVit)
+
+i
+
+Siendo:
+
+RFit: Retribución fija acreditada en el año de liquidación considerado para el transportista o distribuidor i en el período de liquidación t, calculada como:
+
+RFit = RFi * Nt/M
+
+Donde:
+
+RFi = Retribución fija acreditada total en el año de liquidación considerado, para el transportista o distribuidor i.
+
+Nt = Número de días naturales comprendidos en el período de liquidación t.
+
+M = Número de días naturales del año de liquidación.
+
+RVit: Coste variable de explotación acreditado del transportista i, en el período de liquidación t, calculado como:
+
+RVit = CVr * kWhrit + CVc * kWhcit + CVt * kWhbit + + CVI * kWhait + CVE * kWheit
+
+Donde:
+
+CVr = Coste variable acreditado a la actividad de regasificación en el año de liquidación.
+
+CVc = Coste variable acreditado a la actividad de carga de cisternas en el año de liquidación.
+
+CVt = Coste variable acreditado a la actividad de carga de buques y puesta en frío en el año de liquidación.
+
+CVI = Valor unitario anual del coste variable de operación y mantenimiento de inyección.
+
+CVE = Valor unitario anual del coste variable de operación y mantenimiento de extracción.
+
+kWhrit = kWh regasificados por el transportista i, en el período de liquidación t.
+
+kWhcit = kWh cargados en cisternas de GNL por el transportista i, en el período de liquidación t.
+
+kWhbit = kWh empleados en carga de buques o puestas en frío por el transportista i, en el período de liquidación t.
+
+kWhait = kWh inyectados en almacenamiento subterráneo por el transportista i, en el período de liquidación t.
+
+kWheit = kWh extraídos en el almacenamiento subterráneo por el transportista i, en el período de liquidación t.
+
+Σ INLit = Suma de los ingresos netos liquidables de todos los transportista o distribuidores i, en el período de liquidación t.
+
+INLit = Ingresos netos liquidables del transportista o distribuidor i, en el período de liquidación t.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm.46, de 22 de febrero de 2007. [Ref. BOE-A-2007-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3693).
+
+## Disposición transitoria primera. Liquidaciones.
+
+A efectos de su aplicación en las liquidaciones pendientes de ejercicios anteriores, la retribución a retraer a las empresas distribuidoras como consecuencia de la aplicación de la penalización por clientes industriales suministrados a presiones iguales o inferiores a 4 bar a los que se aplica la tarifa o peaje del grupo «2.bis», se calculará de acuerdo con lo que establece el artículo 30 de la presente orden.
+
+## Disposición transitoria segunda. Mermas y gas con destino al nivel mínimo de llenado.
+
+Los porcentajes de mermas de regasificación, almacenamiento y transporte de gas establecidos en el artículo 15 serán válidos hasta el 1 de julio de 2007. A partir de esa fecha, los transportistas serán responsables de comprar el gas para su consumo en el mercado y, a estos efectos, serán considerados como consumidores finales.
+
+Para la adquisición de dicho gas, el Secretario General de Energía, mediante resolución y previo informe de la Comisión Nacional de Energía, establecerá las reglas de una subasta, que será organizada por una entidad independiente y supervisada por la Comisión Nacional de Energía.
+
+Antes del 1 de febrero, los transportistas comunicarán al Gestor Técnico del sistema sus necesidades mensuales de gas natural con destino a autoconsumo durante el período del 1 de julio de 2007 al 30 de junio de 2008 y con destino a nivel mínimo de llenado del período de 1 de enero de 2007 a 30 de junio de 2008. En el caso de que el consumo se produzca en instalaciones dotadas de cogeneración eléctrica que viertan a la red, dicho consumo se reducirá en la parte imputable a la producción eléctrica ofertada.
+
+Antes del 15 de febrero, los transportistas, a través del Gestor Técnico, comunicarán a la Dirección General de Política Energética y Minas y a la Comisión Nacional de Energía, el programa individual de autoconsumos mensuales y compras de gas para nivel mínimo de llenado, junto con la propuesta de una entidad responsable de la organización de una subasta pública para la adquisición del gas. La Comisión Nacional de Energía y el Gestor Técnico del Sistema publicarán en su página web el programa de adquisición de gas para autoconsumo y nivel mínimo de llenado.
+
+El precio de la subasta determinará la valoración del gas adquirido por los transportistas que tendrá la consideración de gasto liquidable.
+
+A partir del 1 de julio de 2007 las mermas retenidas a los usuarios serán las siguientes:
+
+Regasificación: 0,31%
+
+Alm. Subterráneo: 0,00%
+
+Transporte: 0,07%
+
+## Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor de la presente orden, queda derogada cualquier disposición de igual o inferior rango, en cuanto se oponga a lo establecido en la presente orden.
+
+## Disposición final primera. Habilitación para la aplicación de la orden.
+
+Se autoriza a la Dirección General de Política Energética y Minas a dictar las resoluciones precisas para la aplicación de la presente orden.
+
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor a las cero horas del 1 de enero de 2007.
+
+Madrid, 29 de diciembre de 2006.–El Ministro de Industria,Turismo y Comercio, Joan Clos i Matheu.
+
+## ANEXO I — Coste acreditado a las actividades de transporte
+
+1\. Coste fijo acreditado a cada empresa o grupo de empresas en 2007 (RF<sub>2007i</sub>) en euros:
+
+|  | € |
+|---|---|
+| TRANSPORTISTA REGIONAL DEL GAS, S.A. | 1.369.211 |
+| NATURGAS ENERGÍA TRANSPORTE, S.AU. | 11.155.242 |
+| GAS NATURAL TRANSPORTE S.D.G., S.L. | 18.484.171 |
+| ENAGAS, S.A. | 430.251.028 |
+| INFRAESTRUCTURAS GASISTAS DE NAVARRA, S.L. | 673.875 |
+| ENDESA GAS TRANSPORTISTA, S.L. | 200.718 |
+| SEPTENTRIONAL DEL GAS, S.A. | 2.618.830 |
+| PLANTA DE REGASIFICACIÓN DE SAGUNTO, S.A. | 110.625 |
+| **TOTAL** | **464.863.700** |
+
+## ANEXO II — Valores unitarios de referencia para las nuevas inversiones de transporte autorizadas de forma directa y puestas en servicio en el año 2006
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Gasoducto (P&gt; 60 bar)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Diámetro</p>
+<p>(pulgada)</p>
+</td>
+<td>
+<p>€/m/pulgada</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6</p>
+</td>
+<td>
+<p>34,12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8</p>
+</td>
+<td>
+<p>29,85</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>10</p>
+</td>
+<td>
+<p>27,14</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12</p>
+</td>
+<td>
+<p>24,43</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>14</p>
+</td>
+<td>
+<p>23,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>16</p>
+</td>
+<td>
+<p>22,13</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>18</p>
+</td>
+<td>
+<p>21,25</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>20</p>
+</td>
+<td>
+<p>19,90</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>22</p>
+</td>
+<td>
+<p>18,91</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>24</p>
+</td>
+<td>
+<p>18,08</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>26</p>
+</td>
+<td>
+<p>18,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>28</p>
+</td>
+<td>
+<p>18,28</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>30</p>
+</td>
+<td>
+<p>18,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>32</p>
+</td>
+<td>
+<p>20,17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>36</p>
+</td>
+<td>
+<p>20,55</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>40</p>
+</td>
+<td>
+<p>21,10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>42</p>
+</td>
+<td>
+<p>21,40</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>44</p>
+</td>
+<td>
+<p>22,46</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>48</p>
+</td>
+<td>
+<p>23,22</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>52</p>
+</td>
+<td>
+<p>23,05</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Los coeficientes de la tabla anterior se multiplicarán por el factor CL=1-0,157*L siendo L longitud del gasoducto en miles de Km, teniendo el factor CL un valor mínimo de 0,90. A efectos de computo de la longitud «L» se considerará como un único gasoducto los que figuren el documento de Planificación con independencia del número de fases de su construcción.
+
+En el caso de gasoductos autorizados por fases, se estimará un factor «L» total a aplicar a cada una de las fases, procediendo en la última de ellas a ajustar la retribución total en función de la longitud exacta de todas las fases.
+
+En caso de gasoductos con presión de diseño inferior a 60 bar y superior a 16 bar, los valores unitarios (C) se calcularán mediante la fórmula:
+
+C = 0,62*C<sub>> 60 bar</sub>
+
+Siendo C<sub>> 60</sub> los valores de la tabla anterior.
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>ESTACIONES DE COMPRESIÓN de potencia</p>
+<p>hasta 37.284 kW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Variable</p>
+</td>
+<td>
+<p>1.055,49 €/kW instalado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Fijo</p>
+</td>
+<td>
+<p>7.539.905,3 €/Estación</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>ESTACIONES DE COMPRESIÓN de potencia</p>
+<p>hasta 37.284 kW</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Variable</p>
+</td>
+<td>
+<p>548,94 €/kW instalado</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Fijo</p>
+</td>
+<td>
+<p>26.425.965,76 €/Estación</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Estación de Regulación y Medida</p>
+<p>P &gt;= 60 bar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>€/unidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-65</p>
+</td>
+<td>
+<p>237.692</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-100</p>
+</td>
+<td>
+<p>240.653</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-160</p>
+</td>
+<td>
+<p>245.812</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-250</p>
+</td>
+<td>
+<p>253.746</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-400</p>
+</td>
+<td>
+<p>267.496</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-650</p>
+</td>
+<td>
+<p>291.870</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-1000</p>
+</td>
+<td>
+<p>329.059</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-1600</p>
+</td>
+<td>
+<p>401.129</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-2500</p>
+</td>
+<td>
+<p>519.834</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-4000</p>
+</td>
+<td>
+<p>654.857</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-6500</p>
+</td>
+<td>
+<p>789.878</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En caso de estaciones de regulación y medida con presión de entrada inferior a 60 bar, los valores unitarios (C) se calcularán por la fórmula:
+
+C = 0,83* C<sub>> 60</sub>
+
+Siendo C<sub>> 60</sub> los valores de la tabla anterior.
+
+ÍNDICE DE ACTUALIZACIÓN
+
+Los valores unitarios definidos en el apartado anterior se actualizarán cada año según el siguiente índice de actualización (IA):
+
+IA = (IPRI – x)
+
+Donde:
+
+IPRI: variación anual del índice de precios industriales correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
+
+x: 50 puntos básicos.
+
+Para el cálculo de la variación de los índices de precios en el año «n», se tomará la última variación interanual disponible.
+
+> Redactado conforme a la correcciones de errores publicadas en BOE núm. 18, de 20 de enero de 2007 [Ref. BOE-A-2007-1222](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-1222). y 46, de 22 de febrero de 2007. [Ref. BOE-A-2007-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3693).
+
+## ANEXO III — Cálculo de la retribución de las nuevas inversiones de transporte autorizadas de forma directa y puestas en servicio en el año 2006
+
+1\. Los costes anuales de inversión de una instalación de transporte autorizada de forma directa para el año «n», puesta en servicio el año «n-1» se calculará como:
+
+CIT (n) = A (n) + R (n)
+
+Siendo:
+
+A (n): coste anual de amortización, que se calculará de la siguiente forma:
+
+A (n) = VAI(n)/VU
+
+Donde:
+
+VAI(n): valor de la inversión en el año «n», que se calculará aplicando los valores unitarios del anexo II a las unidades físicas de la nueva instalación, descontando las ayudas públicas recibidas.
+
+VU: vida útil de las instalaciones. La vida útil será la siguiente:
+
+|  | **AÑOS** |
+|---|---|
+| *Gasoductos* | 30 |
+| Estaciones de compresión | 20 |
+| Instalaciones de regulación y medida | 30 |
+
+R (n): coste anual de retribución de la inversión, que se calculará como:
+
+R(n) = VAI (n)*Tr<sub>n</sub>
+
+Siendo:
+
+Tr<sub>n</sub>: la tasa de retribución de la inversión del año «n».
+
+2\. Para aquellas instalaciones autorizadas de forma directa que posean características singulares, la Dirección General de Política Energética y Minas fijará una valoración específica, así como su vida útil.
+
+3\. La tasa de retribución de la inversión anual (Tr<sub>n</sub>) a aplicar será la media anual de las obligaciones del Estado a diez años o tipo de interés que lo sustituya, más el 1,5 por 100. Para el año 2007, este tipo de interés se fija en el 5,21 %.
+
+## ANEXO IV — Valores unitarios de referencia de los costes de explotación de las nuevas instalaciones de transporte de adjudicación directa y puestas en servicio en el año 2006
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>ESTACIONES DE COMPRESION</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Variable (€/kW instalado)</p>
+</td>
+<td>
+<p>81,83</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>T. Fijo (€/Estación)</p>
+</td>
+<td>
+<p>203.544</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Gasoducto (P≥60 bar)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>€/m/pulgadas</p>
+</td>
+<td colspan="2">
+<p>0,6670</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En caso de gasoductos con presión de diseño inferior a 60 bar y superior a 16 bar, los valores unitarios (C) se calcularán por la fórmula:
+
+C=0,52*C<sub>>60 bar</sub>
+
+Siendo C <sub>>60 </sub> los valores de la tabla anterior.
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Estación de Regulación y Medida</p>
+<p>P &gt;= 60 bar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p>€/unidad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-65</p>
+</td>
+<td>
+<p>8.027</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-100</p>
+</td>
+<td>
+<p>8.734</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-160</p>
+</td>
+<td>
+<p>9.653</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-250</p>
+</td>
+<td>
+<p>10.071</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-400</p>
+</td>
+<td>
+<p>10.775</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-650</p>
+</td>
+<td>
+<p>11.479</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-1000</p>
+</td>
+<td>
+<p>13.733</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-1600</p>
+</td>
+<td>
+<p>15.564</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-2500</p>
+</td>
+<td>
+<p>17.608</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-4000</p>
+</td>
+<td>
+<p>22.185</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>G-6500</p>
+</td>
+<td>
+<p>26.764</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+En caso de Estaciones de Regulación y Medida con presión de entrada inferior a 60 bar, los valores unitarios (C) se calcularán por la fórmula:
+
+C = 0,75*C<sub>>60</sub>
+
+Siendo C<sub>>60</sub> los valores de la tabla anterior.
+
+ÍNDICE DE ACTUALIZACIÓN
+
+Los valores unitarios definidos en el apartado anterior se actualizarán cada año según el siguiente índice de actualización:
+
+IA = 0,2*(IPRI-x) + 0,8*(IPC-y)
+
+Donde,
+
+IPRI: variación anual del índice de precios industriales correspondiente a la clasificación por destino económico de los componentes de bienes de equipo.
+
+IPC: variación anual del índice de precios al consumo.
+
+x: 50 puntos básicos.
+
+y: 100 puntos básicos.
+
+Para el cálculo de la variación de los índices de precios en el año «n», se tomará el último valor disponible.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 46, de 27 de febrero de 2007. [Ref. BOE-A-2007-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3693).
+
+## ANEXO V — Coste acreditado para la actividad de distribución en el año 2007
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p> </p>
+</td>
+<td>
+<p>ACTUALIZACIÓN 2007</p>
+</td>
+<td>
+<p>DESVIOS + CORRECCIONES</p>
+</td>
+<td>
+<p>TOTAL RETRIBUCIÓN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>€</p>
+</td>
+<td>
+<p>€</p>
+</td>
+<td>
+<p>€</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Naturgas Energía Distribución, S.A.</p>
+</td>
+<td>
+<p>111.670.635</p>
+</td>
+<td>
+<p>-8.014.079</p>
+</td>
+<td>
+<p>
+<strong>103.656.556</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Directo, S.A.</p>
+</td>
+<td>
+<p>1.102.463</p>
+</td>
+<td>
+<p>-457.043</p>
+</td>
+<td>
+<p>
+<strong>645.420</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Distribuidora Regional, S.A.</p>
+</td>
+<td>
+<p>6.538.747</p>
+</td>
+<td>
+<p>58.258</p>
+</td>
+<td>
+<p>
+<strong>6.597.005</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Meridional del Gas, S.A.U.</p>
+</td>
+<td>
+<p>4.119.148</p>
+</td>
+<td>
+<p>93.343</p>
+</td>
+<td>
+<p>
+<strong>4.212.491</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Alicante, S.A.U.</p>
+</td>
+<td>
+<p>1.521.017</p>
+</td>
+<td>
+<p>-215.888</p>
+</td>
+<td>
+<p>
+<strong>1.305.129</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Distribución y Comercialización de Gas Extremadura, S.A.</p>
+</td>
+<td>
+<p>8.036.070</p>
+</td>
+<td>
+<p>-156.977</p>
+</td>
+<td>
+<p>
+<strong>7.879.093</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Aragon, S.A.</p>
+</td>
+<td>
+<p>28.378.468</p>
+</td>
+<td>
+<p>-682.406</p>
+</td>
+<td>
+<p>
+<strong>27.696.062</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gesa Gas, S.A.</p>
+</td>
+<td>
+<p>29.376.643</p>
+</td>
+<td>
+<p>3.740.913</p>
+</td>
+<td>
+<p>
+<strong>33.117.556</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Nalsa, S.A.</p>
+</td>
+<td>
+<p>13.497.918</p>
+</td>
+<td>
+<p>40.170</p>
+</td>
+<td>
+<p>
+<strong>13.538.088</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Tolosa Gasa, S.A.</p>
+</td>
+<td>
+<p>1.201.396</p>
+</td>
+<td>
+<p>6.851</p>
+</td>
+<td>
+<p>
+<strong>1.208.247</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Distribución SDG, S.A.</p>
+</td>
+<td>
+<p>781.808.104</p>
+</td>
+<td>
+<p>-16.687.762</p>
+</td>
+<td>
+<p>
+<strong>765.120.342</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Andalucia, S.A.</p>
+</td>
+<td>
+<p>55.931.357</p>
+</td>
+<td>
+<p>-714.884</p>
+</td>
+<td>
+<p>
+<strong>55.216.473</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Cantabria, S.A.</p>
+</td>
+<td>
+<p>18.714.797</p>
+</td>
+<td>
+<p>-590.419</p>
+</td>
+<td>
+<p>
+<strong>18.124.378</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Castilla-La Mancha, S.A.</p>
+</td>
+<td>
+<p>26.982.755</p>
+</td>
+<td>
+<p>671.527</p>
+</td>
+<td>
+<p>
+<strong>27.654.282</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Castilla y León, S.A.</p>
+</td>
+<td>
+<p>59.269.209</p>
+</td>
+<td>
+<p>-3.813.361</p>
+</td>
+<td>
+<p>
+<strong>55.455.848</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CEGAS, S.A.</p>
+</td>
+<td>
+<p>73.754.471</p>
+</td>
+<td>
+<p>-2.066.035</p>
+</td>
+<td>
+<p>
+<strong>71.688.436</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural La Coruña, S.A.</p>
+</td>
+<td>
+<p>3.713.078</p>
+</td>
+<td>
+<p>-430.980</p>
+</td>
+<td>
+<p>
+<strong>3.282.098</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Galicia SDG, S.A.</p>
+</td>
+<td>
+<p>21.844.844</p>
+</td>
+<td>
+<p>-139.524</p>
+</td>
+<td>
+<p>
+<strong>21.705.320</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Murcia SDG , S.A.</p>
+</td>
+<td>
+<p>10.779.930</p>
+</td>
+<td>
+<p>-64.797</p>
+</td>
+<td>
+<p>
+<strong>10.715.133</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Navarra, S.A.</p>
+</td>
+<td>
+<p>21.547.777</p>
+</td>
+<td>
+<p>-379.228</p>
+</td>
+<td>
+<p>
+<strong>21.168.549</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas Natural Rioja, S.A.</p>
+</td>
+<td>
+<p>10.980.847</p>
+</td>
+<td>
+<p>-289.526</p>
+</td>
+<td>
+<p>
+<strong>10.691.321</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gas y Servicios Mérida, S.A.</p>
+</td>
+<td>
+<p>1.008.086</p>
+</td>
+<td>
+<p>12.854</p>
+</td>
+<td>
+<p>
+<strong>1.020.940</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>TOTAL</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>1.291.777.760</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>-30.078.993</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>1.261.698.767</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 46, de 22 de febrero de 2007. [Ref. BOE-A-2007-3693](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-3693).
+
+## ANEXO VI — Índice de gasificación por Comunidad Autónoma
+
+|  | N° Clientes<br>por 100 habitantes |
+|---|---|
+| ANDALUCÍA | 4 |
+| ARAGÓN | 13 |
+| ASTURIAS | 17 |
+| BALEARES | 9 |
+| CANTABRIA | 24 |
+| CASTILLA-LA MANCHA | 8 |
+| CASTILLA Y LEÓN | 14 |
+| CATALUÑA | 28 |
+| EXTREMADURA | 4 |
+| GALICIA | 6 |
+| LA RIOJA | 20 |
+| MADRID | 26 |
+| MURCIA | 6 |
+| NAVARRA | 17 |
+| PAÍS VASCO | 20 |
+| COMUNIDAD VALENCIANA | 11 |

@@ -1,0 +1,535 @@
+---
+title: "Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas"
+identifier: "BOE-A-2004-6426"
+eli: "https://www.boe.es/eli/es/rd/2004/03/26/479"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2004-03-26
+published: 2004-04-13
+in_force_from: 2004-04-14
+last_amended: 2024-12-24
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 89"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-6426"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 479/2004, de 26 de marzo, por el que se establece y regula el Registro general de explotaciones ganaderas
+
+Incluye la corrección de errores publicada en BOE núm. 108, de 4 de mayo de 2004. [Ref. BOE-A-2004-8187](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-8187)
+
+La necesidad de registrar las explotaciones ganaderas, como instrumento de la política en materia de sanidad animal y de ordenación sectorial ganadera, viene siendo recogida en la legislación nacional y comunitaria tanto de carácter horizontal como sectorial. Así, la Directiva 92/102/CEE del Consejo, de 27 de noviembre de 1992, relativa a la identificación y al registro de animales, incorporada al ordenamiento jurídico español por el Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de las especies bovina, porcina, ovina y caprina, cita en su artículo 3 la obligación de disponer de listas actualizadas de las explotaciones de dichas especies, donde se contengan sus datos básicos.
+
+Por su parte, la Ley 8/2003, de 24 de abril, de sanidad animal, establece, en el apartado 1 de su artículo 38, que todas las explotaciones de animales deben estar registradas en la comunidad autónoma en que radiquen y los datos básicos de estos registros serán incluidos en un registro nacional de carácter informativo. El Estado ha considerado, por tanto, indispensable la creación de un registro en el que se recojan los datos básicos de todas las explotaciones ganaderas ubicadas en España y, de acuerdo con su competencia de coordinación, el registro de dichos datos por las comunidades autónomas.
+
+El objeto principal de este real decreto es desarrollar reglamentariamente dicha ley, para establecer y regular el Registro general de explotaciones ganaderas (REGA), que aprovecha la experiencia adquirida por los sistemas de identificación y registro de bovinos (SIMOGAN) y porcinos (SIMOPORC), regulados por el Real Decreto 1980/1998, de 18 de septiembre, por el que se establece un sistema de identificación y registro de los animales de la especie bovina, y por el Real Decreto 1716/2000, de 13 de octubre, sobre normas sanitarias para el intercambio intracomunitario de animales de las especies bovina y porcina, desarrollados por la Orden de 21 de diciembre de 1999, por la que se crea la Mesa de coordinación de identificación y registro de los animales de la especie bovina y se regula una base de datos informatizada, y la Orden APA/3164/2002, de 11 de diciembre, por la que se establece y regula la base de datos informatizada del Sistema nacional de identificación y registro de movimiento de los porcinos (SIMOPORC). Por otro lado, este real decreto tiene también en cuenta las nuevas exigencias en materia de registro de la normativa ya en vigor o en preparación para el resto de las especies de interés en ganadería.
+
+Además de establecer la estructura y contenidos básicos del Registro general de explotaciones ganaderas, este real decreto establece las obligaciones de los titulares de las explotaciones en relación con los registros de las autoridades competentes de las comunidades autónomas, el código de identificación que éstas deben asignar a cada explotación, así como la relación de dichos registros con el Registro general de explotaciones ganaderas.
+
+Por otro lado, es necesario establecer un órgano de coordinación con las comunidades autónomas que reemplace a la Mesa de coordinación de identificación y registro de los animales de la especie bovina, establecida al amparo de la disposición adicional segunda del Real Decreto 1980/1998, de 18 de septiembre, y desarrollada mediante la Orden de 21 de diciembre de 1999, de manera que el ámbito del nuevo órgano comprenda todas las especies animales de interés ganadero.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas y los sectores afectados.
+
+Este real decreto se dicta en virtud de la habilitación contenida en la disposición final quinta de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de marzo de 2004,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este real decreto tiene por objeto establecer y regular el Registro general de explotaciones ganaderas (REGA, en adelante), así como los datos necesarios para llevar a cabo las inscripciones en éste y la caracterización del código de identificación de cada explotación, de acuerdo con lo previsto en el artículo 38.1 de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+2\. Se aplicará a los animales de producción tal y como se definen en el artículo 3.2 de la Ley 8/2003, de 24 de abril, y, en particular, a los pertenecientes a las especies mencionadas en el anexo I de este Real Decreto. No se aplicará a los animales de compañía, a los animales domésticos, ni a la fauna silvestre, tal y como se definen en los apartados 3, 4 y 5, respectivamente, del artículo 3 de la Ley 8/2003, de 24 de abril, salvo a aquéllos que entren en el ámbito de aplicación de la normativa básica de ordenación zootécnica, sanitaria y de bienestar animal del sector equino. Las disposiciones normativas específicas de cada sector podrán establecer, asimismo, excepciones en el registro de las explotaciones sin fines lucrativos.
+
+3\. Este real decreto será de aplicación en todo el territorio nacional.
+
+> Se modifica el apartado 2 por la disposición final 1.1 del Real Decreto 804/2011, de 10 de junio. [Ref. BOE-A-2011-11344](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11344).
+
+### Artículo 2. Definiciones.
+
+A los efectos de este real decreto, serán de aplicación las siguientes definiciones:
+
+a) Explotación: cualquier instalación, construcción o, en el caso de la cría al aire libre, cualquier lugar en los que se tengan, críen o manejen o se expongan al público animales de producción, tal y como se definen en el artículo 3.2 de la Ley 8/2003, de 24 de abril, con o sin fines lucrativos. A estos efectos, se entenderán incluidos los núcleos zoológicos, los mataderos y otros lugares en que se realice el sacrificio de animales, los centros en que se lleven a cabo espectáculos taurinos, las instalaciones de los operadores comerciales y los centros de concentración.
+
+b) Titular de explotación: cualquier persona física o jurídica propietaria o responsable de los animales, incluso con carácter temporal.
+
+c) Autoridad competente: los órganos competentes de las comunidades autónomas.
+
+### Artículo 3. Registro general de explotaciones ganaderas (REGA).
+
+1\. El Registro general de explotaciones ganaderas (REGA), adscrito a la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, incluirá los datos obrantes en los registros gestionados por los órganos competentes de las comunidades autónomas.
+
+2\. El REGA tendrá carácter público e informativo y se constituirá en una base de datos informatizada.
+
+3\. Las comunidades autónomas inscribirán en un registro las explotaciones que se ubiquen en su ámbito territorial, al menos con los datos que se señalan en el anexo II, clasificadas según los tipos de explotación establecidos en el anexo III, sin perjuicio de las disposiciones normativas específicas de cada sector, asignando a cada explotación un código de identificación de explotación, de acuerdo con lo establecido en el artículo 5.
+
+En el caso de las explotaciones ovinas y caprinas, dicha inscripción se hará con arreglo a las clasificaciones zootécnicas previstas en el apartado 4 de este artículo, y harán constar todos los datos establecidos en el anexo II, salvo los apartados B.8 (clasificación según el sistema productivo), B.10 (clasificación según la capacidad productiva), B.11 (clasificación según la forma de cría), y B.15 (capacidad máxima), de acuerdo con lo dispuesto en el último párrafo del apartado B de dicho anexo II.
+
+4\. A los efectos de su inclusión en el Registro general de explotaciones ovinas y caprinas, se establecen las siguientes clasificaciones zootécnicas:
+
+a) Explotaciones de reproducción: Aquellas que disponen de hembras reproductoras, destinadas a la producción de leche o de corderos o cabritos para ser vendidos al destete o ser cebados. De acuerdo con su orientación productiva pueden ser:
+
+1.º Explotación para producción de leche: La que tiene por objeto la producción y, en su caso, comercialización de leche o productos lácteos, por lo que las ovejas o cabras son sometidas a ordeño con tal finalidad.
+
+2.º Explotación para producción de carne: La que tiene por objeto la producción de corderos o cabritos destinados a la producción de carne y, en consecuencia, las ovejas/ cabras no son sometidas a ordeño con finalidad de comercializar leche o productos lácteos.
+
+3.º Mixta: La que reúne varias orientaciones productivas.
+
+b) Cebaderos: aquéllos que no disponen de animales destinados a la reproducción y están dedicados al engorde de animales con destino final a un matadero.
+
+5\. Las comunidades autónomas comunicarán a la Dirección General de Ganadería los datos referidos en el citado anexo II que obren en sus registros, a los efectos de su inclusión en el REGA.
+
+6\. Asimismo, formará parte del REGA la información no contenida en el anexo II que se incluye en:
+
+a) Las bases de datos establecidas, para los bóvidos, por el artículo 12 del Real Decreto 1980/1998, de 18 de septiembre, por el que se establece un sistema de identificación y registro para los animales de la especie bovina, y, para el porcino, por el artículo 12.1.B y C del Real Decreto 1716/2000, de 13 de octubre, sobre normas sanitarias para el intercambio intracomunitario de animales de las especies bovina y porcina, desarrolladas, respectivamente, por la Orden de 21 de diciembre de 1999 y la Orden APA/3164/2002, de 11 de diciembre.
+
+b) Los registros establecidos por el artículo 7 del Real Decreto 324/2000, de 3 de marzo, por el que se establecen normas básicas de ordenación de las explotaciones porcinas, por el artículo 6 del Real Decreto 209/2002, de 22 de febrero, por el que se establecen normas de ordenación de las explotaciones apícolas, y por el artículo 3 del Real Decreto 372/2003, de 28 de marzo, por el que se establece y regula el Registro general de establecimientos de gallinas ponedoras.
+
+7\. A efectos de lo establecido en los apartados 3, 4 y 5, los registros de las comunidades autónomas estarán informatizados y su sistema de gestión permitirá, en todo caso, que las altas, bajas y modificaciones que en ellos se realicen tengan reflejo inmediato en el REGA. Las comunidades autónomas tendrán acceso informático al REGA para la información que les compete, sin perjuicio de los límites que legalmente correspondan para la protección de los datos de carácter personal.
+
+8\. En aquellos casos en que se interrumpa la actividad de las explotaciones durante un período de un año, se procederá a considerar a la explotación como inactiva. Si transcurren más de dos años desde la consideración de inactividad sin que la explotación reanude nuevamente su actividad, se procederá a darle de baja en el registro correspondiente, salvo causa de fuerza mayor, previo el correspondiente procedimiento en el que se dará audiencia al interesado.
+
+9\. Una vez obtenidos todos los permisos, autorizaciones o licencias exigibles por la normativa vigente, ninguna nueva explotación podrá iniciar su actividad sin estar registrada y haber recibido el correspondiente código de identificación.
+
+> Se modifica el apartado 4.b) por el art. 1.1 Real Decreto 1307/2024, de 23 de diciembre. [Ref. BOE-A-2024-26927](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26927)
+
+> Se modifica, con efectos de 2 de enero de 2024, por la disposición final 2.1 del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm.108, de 4 de mayo de 2004. [Ref. BOE-A-2004-8187](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-8187)
+
+### Artículo 4. Obligaciones de los titulares de explotación.
+
+1\. El titular de explotación deberá facilitar a las autoridades competentes, antes del comienzo de su actividad, al menos los datos necesarios para el registro que figuran en el anexo IV.
+
+2\. El titular de explotación deberá comunicar los cambios en los datos consignados en el registro a la autoridad competente en el plazo que ésta determine, que no podrá exceder de un mes desde que se produzcan.
+
+3\. El titular de la explotación deberá comunicar los censos de los animales, según lo establecido en la presente normativa, al menos una vez al año. A este respecto, el censo se comunicará antes del 1 de marzo de cada año, indicándose el censo a 1 de enero o el censo que se establezca en las disposiciones normativas específicas de cada sector, en la forma que determine la autoridad competente.
+
+Sin perjuicio de lo anterior, la autoridad competente podrá actualizar el censo de las explotaciones, con motivo de las actuaciones administrativas que lleve a cabo en éstas.
+
+La comunicación de censos para los animales de las especies ovina y caprina se hará de acuerdo con las siguientes categorías de animales:
+
+a) No reproductores de menos de cuatro meses.
+
+b) No reproductores de cuatro a doce meses.
+
+c) Reproductores machos.
+
+d) Reproductores hembras.
+
+4\. Lo dispuesto en el apartado anterior no será aplicable a las explotaciones equinas que sean centros de concentración, mataderos y todas aquellas que no alojen o alberguen animales de forma permanente.
+
+> Se modifica el apartado 3 por el art. 1.2 Real Decreto 1307/2024, de 23 de diciembre. [Ref. BOE-A-2024-26927](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26927)
+
+> Se modifica el apartado 3, con efectos de 2 de enero de 2024, por la disposición final 2.2 del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+> Se añade el apartado 4 por la disposición final 1.4 del Real Decreto 804/2011, de 10 de junio. [Ref. BOE-A-2011-11344](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11344).
+
+### Artículo 5. Asignación del código de identificación a cada explotación.
+
+Las autoridades competentes de las comunidades autónomas procederán a asignar a cada explotación un código de identificación, que garantice su identificación de forma única. La estructura de dicho código será:
+
+a) «ES» que identifica a España.
+
+b) Dos dígitos que identifican la provincia, según la codificación del Instituto Nacional de Estadística.
+
+c) Tres dígitos que identifican el municipio, según la codificación del Instituto Nacional de Estadística.
+
+d) Siete dígitos que identifican la explotación dentro del municipio de forma única.
+
+### Artículo 6. Inscripción en el registro.
+
+Una vez recibidos en el registro establecido al efecto en cada comunidad autónoma los datos completos de cualquier explotación, se procederá a realizar, si así corresponde de acuerdo con lo establecido en el artículo 3.8, la asignación del código de identificación de explotación, la comunicación a su titular, la inscripción en el registro y la modificación, suspensión o extinción de dicha inscripción cuando corresponda.
+
+### Artículo 7. Controles.
+
+Las autoridades competentes llevarán a cabo los controles necesarios, administrativos y sobre el terreno, para garantizar el cumplimiento de este real decreto.
+
+### Artículo 8. Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 577/2014, de 4 de julio. [Ref. BOE-A-2014-8061](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-8061).
+
+> Se modifica por la disposición final 2 del Real Decreto 479/2004, de 26 de marzo. [Ref. BOE-A-2007-12694](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12694)
+
+### Artículo 9. Régimen sancionador.
+
+En caso de incumplimiento de lo dispuesto en este real decreto, será de aplicación el régimen de infracciones y sanciones aplicable de acuerdo con lo establecido en la Ley 8/2003, de 24 de abril, de sanidad animal, y en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir.
+
+### Disposición adicional primera. Recursos humanos y materiales.
+
+El funcionamiento del Registro general de explotaciones ganaderas y del Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero será atendido con los medios personales y materiales existentes en el Ministerio de Agricultura, Pesca y Alimentación.
+
+### Disposición adicional segunda. Explotaciones cuyos titulares son los Ministerios de Defensa y del Interior y sus organismos públicos.
+
+En lo que respecta a las explotaciones cuyos titulares sean los Ministerios de Defensa y del Interior o sus organismos públicos, las disposiciones de este real decreto se aplicarán exclusivamente mediante la comunicación entre dichos ministerios y el Ministerio de Agricultura, Pesca y Alimentación de cuantos datos sean relevantes a los efectos de este real decreto, pudiendo establecer los instrumentos que en cada momento se consideren oportunos.
+
+### Disposición adicional tercera. Referencia a la normativa derogada.
+
+Las referencias, que se contengan en la normativa vigente a los preceptos señalados en la disposición derogatoria única se entenderán referidas a este real decreto.
+
+En concreto, las referencias a la Mesa de coordinación de identificación y registro de los animales de la especie bovina se entenderán referidas al Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero.
+
+### Disposición transitoria primera. Explotaciones en funcionamiento.
+
+1\. Los titulares de explotaciones que ya estuvieran en funcionamiento antes de la entrada en vigor de este real decreto y que no se encuentren inscritas en los registros de las comunidades autónomas, así como los de explotaciones en las que en su registro vigente no se incluyan todos los datos consignados en el anexo IV o hayan sufrido modificaciones respecto a los registrados, deberán facilitar a las autoridades competentes los datos actualizados necesarios para su correcta inscripción en el registro en el plazo máximo de seis meses desde la entrada en vigor de este real decreto, sin perjuicio de que las comunidades autónomas puedan establecer otro plazo inferior.
+
+2\. La autoridad competente procederá, en su caso, a la correspondiente inscripción en el registro y a su notificación a los interesados, con el código de identificación asignado a cada explotación.
+
+> Se numera como disposición transitoria primera por la disposición final 2.3 del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+> Anteriormente era la disposición transitoria única.
+
+### Disposición transitoria segunda. Comunicaciones de censos de animales conforme al artículo 4.3.
+
+No obstante lo dispuesto en el artículo 4.3, la comunicación de censos antes del 1 de marzo de cada año no será necesaria para los animales identificados individualmente, a excepción de:
+
+a) Los équidos a los que no se les haya expedido el documento de identificación de acuerdo con el artículo 19.2 del Real Decreto 787/2023, de 17 de octubre, y no figuren en el Registro general de identificación individual de animales (RIIA) del Real Decreto 728/2007, de 13 de junio;
+
+b) Los ovinos y caprinos, para los cuales se deberá continuar declarando el citado censo hasta el 1 de enero de 2025, fecha a partir de la cual dicha declaración no será necesaria tampoco para estas especies.
+
+> Se modifica por el art. 1.3 Real Decreto 1307/2024, de 23 de diciembre. [Ref. BOE-A-2024-26927](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26927)
+
+> Se añade, con efectos de 2 de enero de 2024, por la disposición final 2.3 del Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogada cualquier otra disposición, de igual o inferior rango, en todo aquello que se oponga a este real decreto, y en particular:
+
+a) El artículo 3 del Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de los animales de las especies bovina, porcina, ovina y caprina.
+
+b) La disposición adicional segunda del Real Decreto 1980/1998, de 18 de septiembre, por el que se establece un sistema de identificación y registro de los animales de la especie bovina.
+
+c) Los artículos 1 al 5, ambos inclusive, de la Orden de 21 de diciembre de 1999, por la que se crea la Mesa de coordinación de identificación y registro de los animales de la especie bovina y se regula una base de datos informatizada.
+
+d) El apartado 6 del artículo 7 del Real Decreto 324/2000, de 3 de marzo, por el que se establecen normas básicas de ordenación de las explotaciones porcinas.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de bases y coordinación general de la sanidad, respectivamente.
+
+### Disposición final segunda. Modificación del Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de los animales de las especies bovina, porcina, ovina y caprina.
+
+Real Decreto 205/1996, de 9 de febrero, por el que se establece un sistema de identificación y registro de los animales de las especies bovina, porcina, ovina y caprina, queda modificado como sigue:
+
+Uno. El artículo 7 tendrá la siguiente redacción:
+
+«Artículo 7. Identificación de los animales de la especie porcina.
+
+Todos los animales de la especie porcina deberán ser marcados lo antes posible y, en cualquier caso, antes de salir de la explotación con una marca, consistente en un crotal auricular o un tatuaje según lo que establezca la autoridad competente, de similares características a las descritas en el anexo V. Dicha marca determinará la explotación de la que proceden los animales y consistirá, como mínimo, en la secuencia de letras y números siguiente:
+
+a) Un máximo de tres dígitos correspondientes al número del municipio, de acuerdo con la codificación INE.
+
+b) Las siglas de la provincia de acuerdo con el anexo I de este real decreto.
+
+c) Un máximo de siete dígitos que identifiquen, de forma única, la explotación dentro del municipio.
+
+En el caso de los animales destinados a intercambios, la marca se completará con la indicación «ES» al comienzo de la secuencia de letras y números.»
+
+Dos. El apartado 1 del artículo 8 queda redactado como sigue:
+
+«1. Los titulares o poseedores de animales de las especies ovina y caprina deberán identificarlos con una marca, consistente en un crotal auricular o un tatuaje de acuerdo con lo que determine la autoridad competente, lo antes posible y, en todo caso, antes de abandonar la explotación o de haber cumplido 12 meses, salvo si han parido antes de dicha edad o si han sido sometidas a campañas oficiales de saneamiento ganadero, en cuyo caso se identificarán en ese momento. La marca, de similares características a las previstas en el anexo VI, consistirá, como mínimo, en la secuencia de letras y números siguiente:
+
+a) Un máximo de tres dígitos correspondientes al número del municipio, de acuerdo con la codificación INE.
+
+b) Las siglas de la provincia de acuerdo con el anexo I de este real decreto.
+
+c) Un máximo de siete dígitos que identifiquen, de forma única, la explotación dentro del municipio.
+
+En el caso de los animales destinados a intercambios, la marca se completará con la indicación «ES» al comienzo de la secuencia de letras y números.»
+
+> Redactado conforme a la corrección de errores publicada en BOE núm.108, de 4 de mayo de 2004. [Ref. BOE-A-2004-8187](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-8187)
+
+### Disposición final tercera. Modificación del Real Decreto 372/2003, de 28 de marzo, por el que se establece y regula el Registro general de establecimientos de gallinas ponedoras.
+
+El párrafo b) del artículo 2 del Real Decreto 372/2003, de 28 de marzo, por el que se establece y regula el Registro general de establecimientos de gallinas ponedoras, queda modificado como sigue:
+
+«b) Establecimientos: todos los lugares de producción en los que se ubiquen gallinas ponedoras con fines comerciales, excepto los destinados exclusivamente a la cría de gallinas ponedoras reproductoras.»
+
+### Disposición final cuarta. Facultad de desarrollo y modificación.
+
+1\. Se faculta al Ministro de Agricultura, Pesca y Alimentación para adoptar, en el ámbito de sus atribuciones, las disposiciones y medidas necesarias para el desarrollo y aplicación de lo dispuesto en este real decreto, y en particular para aprobar, mediante orden, a propuesta del Comité establecido en el artículo 8, los protocolos de carácter técnico que aseguren la coordinación y el funcionamiento de la base de datos informatizada, que servirá de soporte al REGA, en el conjunto del Estado.
+
+2\. Asimismo, se faculta al Ministro de Agricultura, Pesca y Alimentación para modificar mediante orden ministerial los anexos de este real decreto por motivos urgentes relacionados con la sanidad animal o para su adaptación a la normativa comunitaria.
+
+### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 26 de marzo de 2004.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO I — Especies y grupos de especies de animales de producción a que se refiere el artículo 1.2
+
+Bóvidos:
+
+Vacunos.
+
+Búfalos.
+
+Bisontes.
+
+Porcino:
+
+Cerdo.
+
+Ovino.
+
+Caprino.
+
+Équidos:
+
+Caballos.
+
+Asnos.
+
+Mulas.
+
+Cebras.
+
+Aves de corral:
+
+Gallinas.
+
+Pavos.
+
+Pintadas.
+
+Patos.
+
+Ocas.
+
+Codornices.
+
+Palomas.
+
+Faisanes.
+
+Perdices.
+
+Aves corredoras (*Ratites*).
+
+Cunicultura:
+
+Conejos.
+
+Liebres.
+
+Abejas.
+
+Abejorros.
+
+Especies peleteras:
+
+Visón.
+
+Zorro rojo.
+
+Nutria.
+
+Chinchilla.
+
+Camélidos:
+
+Camellos.
+
+Dromedarios.
+
+Llamas.
+
+Alpacas.
+
+Vicuñas.
+
+Guanacos.
+
+Especies cinegéticas de caza mayor criadas, mantenidas o cebadas como animales de producción:
+
+Corzos.
+
+Ciervos.
+
+Gamos.
+
+Jabalíes.
+
+Otras.
+
+Especies animales de acuicultura:
+
+Peces pertenecientes a la superclase *''Agnatha''* y a las clases *''Chondrichthyes'' y ''Osteichthyes''.*
+
+Moluscos pertenecientes al filum*''Mollusca''.*
+
+Crustáceos pertenecientes al subfilum *''Crustacea’’.*»
+
+> Se modifica, con efectos de 2 de enero de 2024, por la disposición final 2.4 de la Real Decreto 787/2023, de 17 de octubre. [Ref. BOE-A-2023-22499](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-22499)
+
+> Se añade el último párrafo por la disposición final 3 del Real Decreto 1614/2008, de 3 de octubre. [Ref. BOE-A-2008-16090](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16090)
+
+## ANEXO II — Datos mínimos que contendrá el Registro general de explotaciones ganaderas (REGA)
+
+A. Relativos al conjunto de la explotación.
+
+1\. Código de identificación de la explotación asignado por la autoridad competente de acuerdo con el artículo 5.
+
+2\. Datos del titular de la explotación: apellidos y nombre o razón social, número o código de identificación fiscal (NIF o CIF), dirección, código postal, municipio, provincia y teléfono.
+
+3\. Datos de otros titulares relacionados con la explotación: apellidos y nombre o razón social, NIF o CIF y relación con la explotación.
+
+4\. Datos de los responsables sanitarios de la explotación.
+
+5\. Tipo de explotación de que se trate según la clasificación establecida en el anexo III.
+
+B. Relativos a cada una de las especies recogidas en el anexo I.
+
+1\. Especie.
+
+2\. Datos de la ubicación principal donde se cría cada especie: dirección, código postal, municipio y provincia.
+
+3\. Coordenadas geográficas de la ubicación principal y de la ubicación o ubicaciones secundarias donde se cría cada especie, con la excepción de las especies apícolas: longitud y latitud.
+
+4\. Estado en el registro (alta, inactiva o baja).
+
+5\. Código local.
+
+6\. Clasificación zootécnica.
+
+7\. Indicación de si se trata de autoconsumo o no.
+
+8\. Clasificación según el sistema productivo:
+
+intensivo, extensivo o mixto.
+
+9\. Clasificación según criterios de sostenibilidad o autocontrol: explotaciones ecológicas, integradas o convencionales.
+
+10\. Clasificación según la capacidad productiva.
+
+11\. Clasificación según la forma de cría.
+
+a) Explotaciones avícolas de producción de huevos:
+
+Ecológica.
+
+Campera.
+
+En suelo.
+
+En jaulas.
+
+b) Explotaciones avícolas de producción de carne:
+
+Sistema extensivo en gallinero.
+
+Gallinero con salida libre.
+
+Granja al aire libre.
+
+Granja de cría en libertad.
+
+12\. Censo y fecha de actualización.
+
+13\. Cuando proceda, datos de la integradora comercial a la que pertenezca, indicando denominación o razón social, CIF, dirección, código postal, municipio, provincia, teléfono y fecha de baja.
+
+14\. Cuando proceda, código identificativo, razón social, dirección, código postal, municipio y provincia de la agrupación de defensa sanitaria.
+
+15\. Capacidad máxima.
+
+16\. Cuando proceda, código identificativo, apellidos y nombre, NIF y teléfono de los veterinarios autorizados o habilitados.
+
+17\. Cuando proceda, información sobre los controles, la calificación sanitaria, vacunaciones y tratamientos que afecten a la especie considerada.
+
+18\. Cuando proceda, información sobre las inspecciones realizadas en materia de identificación y registro, sanidad y bienestar animal.
+
+19\. Información sanitaria relativa a las restricciones de entrada y salida que afecten a la especie considerada dentro de la explotación, con indicación de sus causas.
+
+La información de los apartados 5, 6, 8, 9, 10, 11, 15, 17 y 18 se recogerá siempre que proceda, de acuerdo con las disposiciones normativas aplicables de carácter sectorial y/o sanitaria. En ningún caso se recogerá para las explotaciones equinas la información de los apartados 10 y 11, sin perjuicio de lo previsto en su normativa específica respecto de la entrega de los DIE por los mataderos que sacrifiquen caballos para consumo humano.
+
+> Se modifica el último párrafo del apartado B por la disposición final 1.3 del Real Decreto 804/2011, de 10 de junio. [Ref. BOE-A-2011-11344](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11344).
+
+> Se modifica el apartado B.11 por la disposición final 1 del Real Decreto 1084/2005, de 16 de septiembre. [Ref. BOE-A-2005-16092](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-16092)
+
+## ANEXO III — Clasificación de los tipos de explotación
+
+1\. Explotaciones ganaderas de producción y reproducción: aquellas que mantienen y crían animales, bien con el objeto de obtener un fin lucrativo de sus producciones (incluyendo los animales selectos, semen o embriones), bien para su destino al consumo familiar.
+
+Asimismo, se incluirán en este tipo las explotaciones que no pertenezcan a ninguno de los recogidos en el apartado 2.
+
+2\. Explotaciones ganaderas especiales.
+
+2.1 Explotaciones de tratantes u operadores comerciales: aquellas pertenecientes a cualquier persona física o jurídica registrada en la actividad, dedicada directa o indirectamente a la compra y venta de animales con fines comerciales inmediatos, que tiene una cifra de negocio regular con dichos animales y que, en un plazo máximo de 30 días después de adquirir los animales, los vende o los traslada de las primeras instalaciones a otras que no le pertenecen.
+
+2.2 Centros de concentración de animales: tal y como se definen en el artículo 3.7 de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+2.3 Explotaciones de ocio, enseñanza e investigación: instalaciones en las que se mantienen, con carácter permanente, animales con finalidades de esparcimiento o didácticas, incluyendo los centros en los que se mantienen animales de las especies mencionadas en el anexo I para experimentación científica.
+
+2.4 Mataderos: establecimientos de sacrificio de animales conforme a lo establecido en los Reales Decretos 147/1993, de 29 de enero, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas, 2087/1994, de 20 de octubre, por el que se establecen las condiciones sanitarias de producción y comercialización de carnes frescas de aves de corral, y 1543/1994, de 8 de julio, por el que se establecen los requisitos sanitarios y de policía sanitaria aplicables a la producción y comercialización de carne de conejo domésticos y de caza de granja.
+
+2.5 Plazas de toros: aquellos edificios o recintos específica o preferentemente construidos para la celebración de espectáculos taurinos.
+
+2.6 Centros de inspección: tal y como se definen en el apartado 25 del artículo 3 de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+2.7 Centros de cuarentena: tal y como se definen en el apartado 26 del artículo 3 de la Ley 8/2003, de 24 de abril, de sanidad animal.
+
+2.8 Puntos de parada: tal y como se definen en el Real Decreto 1041/1997, de 27 de junio, por el que se establecen las normas relativas a la protección de los animales durante el transporte.
+
+2.9 Pastos: aquellas explotaciones que albergan ganado de forma permanente u ocasional para el aprovechamiento mediante pastoreo de las producciones vegetales naturales o sembradas del terreno.
+
+2.10 Centros de sacrificio domiciliario: aquellos centros establecidos por la autoridad competente donde se sacrifican porcinos para autoconsumo.
+
+2.11 Establecimientos de transformación autorizados para el sacrificio de animales de la acuicultura a efectos de control de enfermedades, así como centros de recogida y centros de depuración, de expedición o centros similares de moluscos.
+
+2.12 Espacios cinegéticos categoría I, II, III ó IV según lo dispuesto en el artículo 5 del Real Decreto 138/2020, de 28 de enero, por el que se establece la normativa básica en materia de actuaciones sanitarias en especies cinegéticas que actúan como reservorio de la tuberculosis (complejo *Mycobacterium tuberculosis).*
+
+3\. La clasificación de las explotaciones equinas se regirá por lo dispuesto en la normativa básica en materia de ordenación zootécnica y sanitaria de dicho sector.
+
+> Se añade el apartado 2.12 por la disposición final 1 del Real Decreto 138/2020, de 28 de enero. [Ref. BOE-A-2020-2109](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-2109)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm 46 de 23 de febrero de 2022. [Ref. BOE-A-2022-2853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-2853)
+
+> Se añade el apartado 3 por la disposición final 1.2 del Real Decreto 804/2011, de 10 de junio. [Ref. BOE-A-2011-11344](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-11344).
+
+> Se añade el apartado 2.11 por la disposición final 3 del Real Decreto 1614/2008, de 3 de octubre. [Ref. BOE-A-2008-16090](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-16090)
+
+## ANEXO IV — Datos mínimos que el titular de la explotación deberá facilitar a las autoridades competentes
+
+a) Datos mínimos que deberán facilitarse en el caso de las explotaciones clasificadas, según el anexo III, conforme a los tipos siguientes:
+
+1\. Explotaciones ganaderas de producción y reproducción.
+
+2.1 Explotaciones de tratantes u operadores comerciales.
+
+2.2 Centros de concentración de animales.
+
+2.3 Explotaciones de ocio, enseñanza e investigación.
+
+2.9 Pastos.
+
+Para estos tipos de explotaciones, su titular deberá facilitar los datos indicados en el apartado A. 2, 3 y 5 del anexo II y en el apartado B.1,2 y 7 a 14 del anexo II.
+
+b) Datos mínimos que deberán facilitarse en el caso de las explotaciones clasificadas, según el anexo III, conforme a los tipos siguientes:
+
+2.4 Mataderos.
+
+2.5 Plazas de toros.
+
+2.6 Centros de inspección.
+
+2.7 Centros de cuarentena.
+
+2.8 Puntos de parada.
+
+2.10 Centros de sacrificio domiciliario.
+
+Para estos tipos de explotaciones, su titular deberá facilitar los datos indicados en el apartado A.2,3 y 5 del anexo II y en el apartado B.1 y 2 del anexo II.

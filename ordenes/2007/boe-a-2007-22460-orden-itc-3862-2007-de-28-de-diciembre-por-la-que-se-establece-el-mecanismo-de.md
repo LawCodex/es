@@ -1,0 +1,220 @@
+---
+title: "Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad"
+identifier: "BOE-A-2007-22460"
+eli: "https://www.boe.es/eli/es/o/2007/12/28/itc3862"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2007-12-28
+published: 2007-12-29
+in_force_from: 2007-12-30
+last_amended: 2023-01-30
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-22460"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad
+
+Incluye la corrección de errores publicada en BOE núm. 46, de 22 de febrero de 2008. [Ref. BOE-A-2008-3305](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3305)
+
+El Real Decreto Ley 7/2006, de 23 de junio, por el que se adoptan medidas urgentes en el sector energético, en su artículo segundo, apartado dos, modificó la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, incluyendo una nueva disposición adicional vigésima sexta por la que se establecen criterios de asignación de la capacidad de almacenamiento subterráneo con el objetivo de optimizar la gestión de los mismos y de garantizar la seguridad de suministro.
+
+La Ley 12/2007, de 2 de julio, por la que se modifica la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, con el fin de adaptarla a lo dispuesto en la Directiva 2003/55/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el mercado interior de gas natural, establece que reglamentariamente se determinará la parte de existencias mínimas de seguridad que tendrán carácter estratégico y los sujetos encargados de su constitución, mantenimiento y gestión.
+
+El Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la Corporación de Reservas Estratégicas de Productos Petrolíferos, en su nueva redacción dada por el Real Decreto 1766/2007, de 28 de diciembre, establece, de acuerdo con lo dispuesto en el artículo 98.3 de la Ley 34/1998, de 7 de octubre, las existencias mínimas de seguridad de gas natural señalando que una parte de las mismas tendrán carácter estratégico y que éstas deberán ser mantenidas en almacenamiento subterráneos.
+
+Por otra parte, el Real Decreto 1766/2007, de 28 de diciembre, por el que se modifica el citado Real Decreto 1716/2004, de 23 de julio, también modifica el Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural, de forma que habilita al Ministro a establecer criterios de asignación de capacidad a las infraestructuras gasistas en las que se puedan presentar congestiones distintos al criterio cronológico, con el fin de obtener una gestión más eficaz del acceso a las mismas.
+
+Con el fin de adecuar el criterio de asignación de la capacidad de los almacenamientos subterráneos a la nueva normativa establecida tanto mediante la Ley 12/2007, de 2 de julio, como mediante las modificaciones introducidas en el Real Decreto 1716/2004, de 23 de julio, la presente orden prevé la asignación de capacidad de almacenamiento a los sujetos obligados al mantenimiento de existencias mínimas de seguridad incluyendo las estratégicas y las denominadas operativas. Además se prevé la asignación de una determinada capacidad para aquellos comercializadores que suministren a los consumidores conectados a gasoductos de presión de diseño inferior a 4 bares, por ser este tipo de consumidor el que necesita una mayor flexibilidad en la modulación en periodos de invierno/verano y ante eventuales «olas de frío».
+
+Una parte de la capacidad de almacenamiento se prevé sea asignada mediante un procedimiento de subasta, por considerar que los instrumentos de mercado son los mecanismos más eficientes en las situaciones en que un recurso es escaso. Además se complementa dicho procedimiento con un mercado secundario tanto de acceso a la capacidad de almacenamiento como de derechos de extracción y derechos de inyección.
+
+La Comisión Nacional de Energía ha emitido el preceptivo informe en virtud de lo dispuesto en el apartado tercero de la disposición adicional undécima de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos. Asimismo el contenido de esta orden ha sido objeto de informe por la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+En su virtud, dispongo:
+
+## CAPÍTULO I — Disposiciones Generales
+
+#### Artículo 1. Objeto.
+
+La presente orden tiene por objeto el establecimiento de los mecanismos de asignación de la capacidad de los almacenamientos subterráneos de la red básica introduciendo procedimientos de subastas competitivas y la creación de un mercado secundario de dicha capacidad.
+
+#### Artículo 2. Ámbito de aplicación.
+
+Esta orden será de aplicación a los almacenamientos subterráneos que formen parte de la red básica de gas natural.
+
+#### Artículo 3. Sujetos habilitados.
+
+Podrán solicitar capacidad de almacenamiento las empresas autorizadas para comercializar gas natural, así como los consumidores directos en mercado.
+
+## CAPÍTULO II — Asignación de capacidad
+
+### Sección 1.ª Procedimiento de asignación
+
+#### Artículo 4. Criterios para la asignación primaria de la capacidad.
+
+1\. De la capacidad total utilizable de los almacenamientos subterráneos básicos se reservará un volumen equivalente a la suma de la obligación de mantenimiento de existencias mínimas de seguridad.
+
+2\. La asignación de la citada capacidad será realizada anualmente por el Gestor Técnico del Sistema y se basará en un criterio de reparto entre los sujetos obligados al mantenimiento de dichas existencias de forma proporcional a sus ventas o consumos firmes en el año natural anterior.
+
+3\. Los comercializadores que inicien su actividad podrán solicitar capacidad de almacenamiento de acuerdo con lo dispuesto en los apartados anteriores, sustituyendo el computo de ventas del año anterior por la estimación de ventas que les haya sido aprobada por la Dirección General de Política Energética y Minas del Ministerio para la Transición Ecológica y el Reto Demográfico, de acuerdo con lo dispuesto en el artículo 19 del Real Decreto 1716/2004, de 23 de julio.
+
+> Se modifica por la disposición final 11 del Real Decreto-ley 6/2022, de 29 de marzo. [Ref. BOE-A-2022-4972](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-4972)
+
+> Se modifica el apartado 3 por la disposición final 6 de la Orden IET/2736/2015, de 17 de diciembre. [Ref. BOE-A-2015-13783](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13783).
+
+> Se modifican los apartados 1 y 2 por la disposición final 2 de la Orden ITC/3128/2011, de 17 de noviembre. [Ref. BOE-A-2011-18065](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18065)
+
+> Téngase en cuenta que el apartado 1 entra en vigor el 1 de marzo de 2012, según establece la disposición final 5.
+
+#### Artículo 5. Período de asignación de las capacidades.
+
+La asignación de la capacidad tendrá carácter anual y se extenderá desde el 1 de abril al 31 de marzo del año siguiente.
+
+#### Artículo 6. Presentación y contenido de las solicitudes para el reparto de capacidad.
+
+1\. La Dirección General de Política Energética y Minas del Ministerio de Industria, Turismo y Comercio, a propuesta del gestor técnico del sistema, hará públicas las capacidades disponibles de acuerdo con cada uno de los criterios enumerados en el artículo 4, con anterioridad al 1 de febrero de cada año.
+
+2\. Las solicitudes para reservar capacidad de almacenamiento subterráneo se realizarán entre el 20 y el 25 de febrero y serán dirigidas al Gestor Técnico del Sistema (GTS).
+
+3\. Las solicitudes referidas a las cantidades establecidas en los apartados 1, 2 y 3 del artículo 4, deberán ir acompañadas de una declaración de ventas en el año anterior diferenciando entre ventas totales, ventas firmes y ventas a diferentes tipos de consumidores, según lo dispuesto en el anexo I de la presente orden ministerial.
+
+> Se modifica el apartado 2 por la disposición final 1.1 de la Orden TED/72/2023, de 26 de enero. [Ref. BOE-A-2023-2297](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2297)
+
+#### Artículo 7. Asignación provisional y definitiva de capacidad.
+
+1\. Antes del 4 de marzo, el Gestor Técnico del Sistema (GTS) comunicará a cada solicitante la asignación provisional de capacidad en aplicación de los criterios previstos en esta orden, los cuales dispondrán de un plazo de cuatro días hábiles para presentar alegaciones.»
+
+2\. Transcurrido dicho plazo y con anterioridad al 12 de marzo, el gestor técnico del sistema deberá comunicar a cada solicitante y a la Comisión Nacional de Energía, la capacidad asignada de forma definitiva.
+
+> Se modifica el apartado 1 por la disposición final 1.2 de la Orden TED/72/2023, de 26 de enero. [Ref. BOE-A-2023-2297](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-2297)
+
+### Sección 2.ª Subasta
+
+#### Artículo 8. Asignación de la capacidad de almacenamiento restante mediante subasta.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden ETU/1977/2016, de 23 de diciembre. [Ref. BOE-A-2016-12465](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12465).
+
+> Se añade el apartado 5 por el art. 4 de la Orden IET/849/2012, de 26 de abril. [Ref. BOE-A-2012-5590](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5590).
+
+> Téngase en cuenta para su aplicación en el año 2012 lo dispuesto en la disposición transitoria única.
+
+#### Artículo 9. Fecha de celebración de la subasta.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.b) de la Orden ETU/1977/2016, de 23 de diciembre. [Ref. BOE-A-2016-12465](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-12465).
+
+> Se modifica por la disposición final 2 de la Orden ITC/863/2009, de 2 de abril. [Ref. BOE-A-2009-5844](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5844)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 46, de 22 de febrero de 2008. [Ref. BOE-A-2008-3305](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3305)
+
+#### Artículo 10. Entidad supervisora de las subastas.
+
+La Comisión Nacional de Energía será responsable de supervisar que el proceso de la subasta se ha realizado de forma objetiva, transparente y no discriminatoria. Después de cada subasta elaborará un informe sobre su desarrollo y potenciales mejoras, que será remitido a la Secretaría General de Energía.
+
+Asimismo, la Comisión Nacional de Energía supervisará el uso de prácticas que puedan suponer restricciones a la competencia por parte de alguna empresa y propondrá las medidas de desarrollo regulatorio de la presente orden que considere oportunas.
+
+## CAPÍTULO III — Mercado secundario
+
+#### Artículo 11. Mercado secundario.
+
+1\. Las empresas que hayan resultado adjudicatarias de derechos de uso de la capacidad de almacenamiento podrán cederlos total o parcialmente a otros sujetos a través de un contrato bilateral. Asimismo, los derechos de inyección y/o extracción podrán ser cedidos a terceros mediante contratos bilaterales.
+
+2\. El cambio de titularidad de los derechos de uso de la capacidad de almacenamiento y/o de los derechos de extracción y/o inyección deberán ser notificados al gestor técnico del sistema por medios telemáticos, indicando las cantidades transferidas, el periodo de duración y el nuevo titular. La compraventa de derechos de inyección y/o extracción implicará el conocimiento y aceptación por parte del comprador de las eventuales restricciones de uso y se considerará sin efectos cualquier cláusula del contrato de compraventa que exima al comprador de su cumplimiento.
+
+3\. El gestor técnico del sistema llevará un registro de todas las operaciones que le hayan sido comunicadas de forma que en todo momento se encuentre reflejada la titularidad de la capacidad de almacenamiento del sistema, así como de los derechos de inyección y/o extracción, diferenciando, de forma específica, aquellos que hayan sido asignados con alguna restricción de uso.
+
+4\. Después de las renominaciones de extracción e inyección del día «n», la capacidad de inyección/extracción no utilizada por los agentes con derecho a la misma se pondrá a disposición del resto de los usuarios. En los casos de escasez de capacidad, la asignación de estos derechos se realizará de forma proporcional a los derechos de inyección/extracción de los solicitantes.
+
+5\. En ningún caso podrá ser objeto de reventa mediante contratos bilaterales la capacidad de almacenamiento que haya sido asignada bajo el criterio descrito en el apartado uno del artículo 4 de esta orden.
+
+6\. El gestor técnico del sistema podrá poner a disposición de los usuarios de los almacenamientos subterráneos un mercado secundario organizado de carácter telemático que permita intercambiar derechos de uso de capacidad y/o de extracción y/o inyección de los almacenamientos para períodos inferiores a un año.
+
+#### Disposición transitoria única. Contabilización de los consumos acogidos a tarifas de último recurso.
+
+Para la asignación de la capacidad de almacenamiento para el año 2008 de acuerdo con lo establecido en los apartados uno, dos y tres del artículo 4, se incluirán en el cómputo de ventas del año anterior de los comercializadores de último recurso las correspondientes a los consumos realizados el año anterior por los consumidores, conectados a gasoductos de presión igual o inferior a 4 bares, que en el año anterior fuesen suministrados por la empresa distribuidora del mismo grupo empresarial junto con aquellos que les pudieran ser asignados por defecto de acuerdo con lo dispuesto en la disposición final primera de la presente orden.
+
+A estos efectos, las empresas distribuidoras proporcionarán al gestor técnico del sistema la previsión del número de consumidores asignados a cada comercializador de último recurso y su estimación de consumo total en el año 2007.
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente orden.
+
+#### Disposición final primera. Modificación de la Orden ITC/2309/2007, de 30 de julio, por la que se establece el mecanismo de traspaso de clientes del mercado a tarifa al suministro de último recurso de gas natural.
+
+Se modifica la Orden ITC/2309/2007, de 30 de julio, por la que se establece el mecanismo de traspaso de clientes del mercado a tarifa al suministro de último recurso de gas natural en los siguientes términos:
+
+Uno. Se añade un nuevo apartado 2 al artículo 4 con la siguiente redacción:
+
+«2. En los casos en que la empresa distribuidora con mayor participación en la Comunidad Autónoma no pertenezca a ningún grupo empresarial que cuente con empresa comercializadora de último recurso, la empresa distribuidora podrá elegir la empresa comercializadora de último recurso a la que le serán transferidos los clientes que no hubiesen optado por otra comercializadora, entre las empresas relacionadas en el artículo 1 del Real decreto 1068/2007, de 27 de julio, por el que se regula la puesta en marcha del suministro de último recurso en el sector de gas natural.
+
+La empresa distribuidora deberá comunicar la empresa seleccionada a la empresa comercializadora y a la Dirección General de Política Energética y Minas antes de que transcurra un mes desde la modificación de la presente disposición.
+
+Asimismo, la empresa distribuidora deberá comunicar a sus clientes la empresa comercializadora de último recurso a la que serán traspasados, en caso de no optar por otro comercializador, en la primera factura que les remitan.
+
+En el caso de que en el plazo indicado no haya sido comunicada la selección de la empresa comercializadora a la Dirección General de Política Energética y Minas, los consumidores de estas empresas distribuidoras que no hayan optado por otro comercializador se transferirán a la empresa comercializadora que se detalla en el siguiente cuadro:
+
+| Empresa Distribuidora | Empresa comercializadora de último recurso |
+|---|---|
+| Distribución y Comercialización de Gas Extremadura, S. A. | Endesa Energía, S.A. |
+| Gas Mérida, S. A. | Endesa Energía, S.A. |
+
+Dos. Los actuales apartados 2, 3 y 4 del artículo 4 pasan a renumerarse como apartados 3, 4 y 5, respectivamente.
+
+#### Disposición final segunda. Aplicación y ejecución de la orden.
+
+Se habilita al Secretario General de Energía del Ministerio de Industria, Turismo y Comercio para dictar cuantas disposiciones sean necesarias para el cumplimiento de lo establecido en la presente orden.
+
+#### Disposición final tercera. Autorización para la modificación del número de días de almacenamiento.
+
+Se autoriza al Secretario General de Energía a modificar el número de días de almacenamiento correspondientes a cada categoría de reservas de acuerdo con la evolución de la demanda en relación con la capacidad de almacenamiento disponible.
+
+#### Disposición final cuarta. Título competencial.
+
+Esta orden se dicta al amparo de los artículos 149.1.13.ª y 25.ª de la Constitución que respectivamente atribuyen al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, y sobre bases del régimen minero y energético.
+
+#### Disposición final quinta. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 28 de diciembre de 2007.–El Ministro de Industria, Turismo y Comercio, Joan Clos i Matheu.
+
+## ANEXO I — Declaración de ventas anuales
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2007/312/22460_001.png)
+
+## ANEXO II — Criterios generales que han de regir las reglas de aplicación en las subastas
+
+1\. La convocatoria será pública y dirigida a cualquier sujeto que cumpla con los requisitos establecidos (comercializadores y consumidores directos en mercado registrados).
+
+2\. La Comisión Nacional de Energía supervisará la gestión de las subastas y certificará que se desarrollan de forma objetiva, competitiva y no discriminatoria.
+
+3\. En la información que la entidad responsable de la ejecución de la subasta distribuirá a todos los sujetos que muestren interés en la fase inicial, se incluirá:
+
+a) Descripción del producto de subasta incluyendo las posibles restricciones en el uso del mismo.
+
+b) Descripción del procedimiento de subasta.
+
+c) Requisitos, en su caso, de presentación de avales para acceder a la subasta.
+
+d) Fechas y plazos orientativos para cada una de las etapas de la subasta.
+
+e) Los requisitos para la calificación en cada una de las fases de la subasta.
+
+4\. La subasta podrá ser presencial (los agentes deben acudir al lugar indicado por la entidad responsable de la ejecución de la subasta para participar en ella) o remota (los agentes presentan sus ofertas telemáticamente.
+
+5\. Antes de que transcurran 24 horas desde el momento de finalización de la subasta, la Comisión Nacional de Energía deberá validar los resultados, confirmando que no se han detectado comportamientos no competitivos u otras faltas en el desarrollo de la misma.
+
+6\. Una vez validados, los resultados agregados de la subasta (precio de cierre de cada producto y volumen total asignado) serán públicos. Los datos relativos al desarrollo de la subasta se mantendrán confidenciales.
+
+7\. Antes de que transcurran 72 horas desde el momento en que se hagan públicos los resultados, los transportistas y los comercializadores procederán a la firma de los contratos por las partes que correspondan y al depósito de las fianzas y garantías que en su caso sean requeridas. Las partes remitirán copia a la Comisión Nacional de Energía.
+
+8\. Con posterioridad al cierre de la subasta, la Comisión Nacional de Energía elaborará un informe sobre el desarrollo de la misma con el fin de identificar posibles mejoras a considerar en sesiones futuras.

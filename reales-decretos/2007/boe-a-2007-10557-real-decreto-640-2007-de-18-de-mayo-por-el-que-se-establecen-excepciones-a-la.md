@@ -1,0 +1,131 @@
+---
+title: "Real Decreto 640/2007, de 18 de mayo, por el que se establecen excepciones a la obligatoriedad de las normas sobre tiempos de conducción y descanso y el uso del tacógrafo en el transporte por carretera"
+identifier: "BOE-A-2007-10557"
+eli: "https://www.boe.es/eli/es/rd/2007/05/18/640"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2007-05-18
+published: 2007-05-26
+in_force_from: 2007-05-27
+last_amended: 2022-09-20
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 126"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10557"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 640/2007, de 18 de mayo, por el que se establecen excepciones a la obligatoriedad de las normas sobre tiempos de conducción y descanso y el uso del tacógrafo en el transporte por carretera
+
+Por Real Decreto 2242/1996, de 18 de octubre, por el que se establecen normas sobre tiempos de conducción y descanso y sobre el uso del tacógrafo en el sector de los transportes por carretera, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85, se han regulado algunos aspectos en materia de tiempos de conducción y descanso y uso del tacógrafo, respecto de los cuales los reglamentos comunitarios referidos permitían su concreción a los Estados miembros.
+
+La aprobación del Reglamento (CE) n.º 561/2006 del Parlamento Europeo y del Consejo, de 15 de marzo de 2006, relativo a la armonización de determinadas disposiciones en materia social en el sector de los transportes por carretera y por el que se modifican los Reglamentos (CEE) n.º 3821/85 y (CE) n.º 2135/98 y se deroga el Reglamento (CEE) n.º 3820/85 del Consejo, ha introducido modificaciones en el derecho comunitario sobre tiempos de conducción y descanso y el uso del tacógrafo en el sector de los transportes por carretera, al tiempo que reduce las facultades de los Estados miembros para concretar algunos aspectos en el ámbito de su territorio. En relación con este extremo, y de conformidad con el nuevo reglamento comunitario, los Estados miembros pueden prever pausas y períodos de descanso mínimos más largos o tiempos máximos de conducción más cortos que los fijados en los artículos 6 a 9 (artículo 11), así como establecer excepciones a lo previsto en el reglamento en relación con los transportes a los que se refiere el artículo 13, apartados 1 y 3. Por lo que respecta al Reglamento 3821/85, los Estados miembros pueden dispensar de la aplicación de sus normas a los vehículos a los que se refieren los apartados 1 y 3 del artículo 13 del Reglamento 561/2006.
+
+La Directiva 92/6/CEE del Consejo, de 10 de febrero de 1992, prescribe la instalación y utilización de dispositivos de limitación de velocidad en determinadas categorías de vehículos a motor. En el proceso de homologación de dichos dispositivos por los fabricantes de vehículos, según la Directiva 92/24/CEE, de 31 de marzo de 1992, el funcionamiento del dispositivo depende en muchos casos de la señal de velocidad que recibe del tacógrafo, razón por la cual la instalación y el calibrado del tacógrafo son fundamentales para el correcto funcionamiento del dispositivo de limitación de velocidad.
+
+Todo ello justifica la aprobación de este real decreto, que se dicta con el fin de conseguir la debida armonización de nuestra legislación con el derecho comunitario actualmente en vigor, constituido por los señalados Reglamentos números 3821/85 y 561/2006, sin perjuicio de que éstos obliguen en todos sus elementos y sean directamente aplicables en España, así como de concretar aquellos aspectos en los que se ha dejado a los Estados miembros la facultad de decisión, cuando así se ha estimado necesario o conveniente.
+
+Por otro lado, por razones de claridad y simplicidad se han recogido en un texto único tanto las disposiciones relativas a los tiempos de conducción y descanso, como las referentes al aparato de control en el sector de los transportes por carretera.
+
+En su virtud, a propuesta de la Ministra de Fomento y de los Ministros del Interior, de Trabajo y Asuntos Sociales y de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de mayo de 2007,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto establecer excepciones al cumplimiento de las normas relativas a la instalación y uso del tacógrafo y a los tiempos de conducción y descanso, de conformidad con el artículo 3.2 del Reglamento (UE) n.º 165/2014 del Parlamento Europeo y del Consejo, de 4 de febrero de 2014, relativo a los tacógrafos en el transporte por carretera, por el que se deroga el Reglamento (CEE) n.º 3821/85 del Consejo relativo al aparato de control en el sector de los transportes por carretera y se modifica el Reglamento (CE) n.º 561/2006 del Parlamento Europeo y del Consejo relativo a la armonización de determinadas disposiciones en materia social en el sector de los transportes por carretera, y con el artículo 13.1 del Reglamento (CE) n.º 561/2006, del Parlamento Europeo y del Consejo, de 15 de marzo de 2006 relativo a la armonización de determinadas disposiciones en materia social en el sector de los transportes por carretera y por el que se modifican los Reglamentos (CEE) n.º 3821/85 y (CE) n.º 2135/98 del Consejo y se deroga el Reglamento (CEE) n.º 3820/85 del Consejo.
+
+> Se modifica por el art. único.1 del Real Decreto 729/2022, de 6 de septiembre. [Ref. BOE-A-2022-15287](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15287)
+
+### Artículo 2. Excepciones.
+
+En uso de la habilitación contenida en los artículos 3.2 del Reglamento (UE) n.º 165/2014 y 13.1 del Reglamento (CE) n.º 561/2006, además de en los transportes enumerados en el artículo 3 de este último reglamento, no será obligatorio el cumplimiento de las obligaciones impuestas en los referidos reglamentos en relación con la instalación y uso del tacógrafo y los tiempos de conducción y descanso de los conductores, durante la realización de los siguientes transportes:
+
+a) Transportes oficiales, definidos en el artículo 105 de la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres.
+
+b) Transportes que tengan por objeto la recogida y entrega de envíos postales en el marco del servicio postal universal por proveedores de dicho servicio, siempre que la masa máxima autorizada del vehículo utilizado, incluida en su caso la de los remolques y semirremolques, no sea superior a 7,5 toneladas, el transporte se desarrolle íntegramente dentro de un radio de 100 kilómetros alrededor del centro de explotación de la empresa titular o arrendataria del vehículo y la conducción de vehículos no constituya la actividad principal del conductor, cuya categoría profesional habrá de ser la correspondiente a quienes se encargan de la recogida y reparto de la correspondencia postal.
+
+c) Transportes realizados en vehículos exclusivamente dedicados a la prestación de los servicios de alcantarillado, protección contra las inundaciones, abastecimiento de agua, mantenimiento de las redes de gas y electricidad, mantenimiento y conservación de carreteras, telégrafos y teléfonos, teledifusión y radiodifusión y detección de receptores y transmisores de radio y televisión.
+
+d) Transportes realizados para la recogida y eliminación de residuos domésticos a domicilio íntegramente comprendidos en un radio de 50 kilómetros alrededor del centro de explotación de la empresa titular o arrendataria del vehículo.
+
+e) Transportes de mercancías de carácter privado complementario realizados en el marco de su propia actividad empresarial por empresas agrícolas, hortícolas, forestales, ganaderas o pesqueras, que se desarrollen íntegramente en un radio de 100 kilómetros alrededor del centro de explotación de la empresa.
+
+f) Transportes de carácter privado complementario realizados mediante la utilización de tractores agrícolas o forestales en el desarrollo de una actividad agrícola o forestal, siempre que se desarrollen íntegramente en un radio de 100 kilómetros alrededor del centro de explotación de la empresa titular o arrendataria del vehículo.
+
+g) Transportes de recogida de leche en las granjas o que tengan por objeto llevar a estas recipientes de leche o productos lácteos destinados a la alimentación del ganado, siempre que se desarrollen íntegramente en un radio de 100 kilómetros alrededor del centro de explotación de la empresa titular o arrendataria del vehículo.
+
+h) Transporte de animales vivos entre granjas y mercados locales, o entre mercados y mataderos locales, siempre que la distancia en línea recta entre origen y destino del transporte no sea superior a 100 kilómetros.
+
+i) Transportes de carácter privado complementario de material de circo y atracciones de feria realizados en vehículos especialmente acondicionados para ello.
+
+j) Traslado de exposiciones móviles instaladas a bordo de vehículos especialmente acondicionados y equipados para ello y cuya finalidad principal sea su utilización con fines educativos cuando el vehículo se encuentre estacionado.
+
+k) Transportes de fondos u objetos de valor en vehículos especialmente acondicionados y equipados para ello.
+
+l) Transportes realizados en el desarrollo de cursos destinados al aprendizaje de la conducción o a la obtención del permiso de conducir o del certificado de aptitud profesional de los conductores mediante la utilización de vehículos especialmente equipados para ello, sin perjuicio de lo establecido en el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, y en el Real Decreto 1295/2003, de 17 de octubre, por el que se aprueba el Reglamento regulador de las escuelas particulares de conductores.
+
+m) Transportes de mercancías realizados mediante vehículos propulsados por electricidad o gas natural o licuado, cuya masa máxima autorizada, incluida en su caso la de los remolques o semirremolques, no sea superior a 7,5 toneladas, siempre que se desarrollen íntegramente en un radio de 50 kilómetros alrededor del centro de explotación de la empresa titular o arrendataria del vehículo.
+
+n) Transportes realizados por vehículos exclusivamente dedicados a la prestación de servicios que se desarrollen íntegramente en recintos cerrados dedicados a actividades distintas del transporte por carretera, tales como puertos, aeropuertos y estaciones ferroviarias.
+
+o) Transportes íntegramente desarrollados en las ciudades autónomas de Ceuta y Melilla o en islas cuya superficie no supere los doscientos 50 kilómetros cuadrados, siempre que estas no se encuentren unidas al territorio peninsular por ningún puente, vado o túnel cuyo uso esté abierto a los vehículos de motor.
+
+p) Transporte privado complementario de maquinaria de construcción para una empresa de construcción realizado mediante vehículos o conjunto de vehículos dentro de un radio de 100 kilómetros alrededor del centro de operaciones de la empresa, siempre que la conducción de los vehículos no constituya la actividad principal del conductor.
+
+q) Transporte de hormigón preamasado en vehículos especialmente fabricados al efecto íntegramente comprendidos en un radio de 100 kilómetros alrededor del centro de explotación de la empresa titular o arrendataria del vehículo.
+
+Las excepciones contempladas en este artículo se extenderán a los recorridos en vacío que los vehículos hayan de realizar necesariamente como antecedente o consecuencia de la realización de uno de los transportes a los que dichas excepciones se encuentran referidas.
+
+> Se modifica por el art. único.2 del Real Decreto 729/2022, de 6 de septiembre. [Ref. BOE-A-2022-15287](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15287)
+
+> Se modifica la letra e) por la disposición final 1 del Real Decreto 1082/2014, de 19 de diciembre. [Ref. BOE-A-2015-246](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-246).
+
+> Se modifica la letra p) por el art. único.1 del Real Decreto 1163/2009, de 10 de julio. [Ref. BOE-A-2009-12209](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12209).
+
+### Artículo 3. Vehículos con dispositivo de limitación de velocidad.
+
+En uso de la habilitación contenida en el artículo 3.5 del Reglamento (UE) n.º 165/2014, las excepciones señaladas en el artículo anterior, así como las contempladas en el artículo 3 del Reglamento (CE) n.º 561/2006, no afectarán al cumplimiento de las obligaciones señaladas en la reglamentación vigente en materia de instalación y revisión periódica del tacógrafo en el caso de los vehículos que se encuentren obligados a instalar y utilizar dispositivos de limitación de velocidad, de conformidad con el Real Decreto 1417/2005, de 25 de noviembre, por el que se regula la utilización, instalación y comprobación del funcionamiento de dispositivos de limitación de velocidad en determinadas categorías de vehículos, cuando la señal de velocidad de dichos dispositivos proceda del tacógrafo.
+
+> Se modifica por el art. único.3 del Real Decreto 729/2022, de 6 de septiembre. [Ref. BOE-A-2022-15287](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-15287)
+
+### Disposición adicional única. Tiempos de trabajo en las normas laborales.
+
+Lo dispuesto en la normativa sobre tiempos de conducción, interrupción y descanso se cumplirá sin perjuicio de la aplicación, respecto a los conductores asalariados y a efectos laborales, de lo previsto sobre tiempos de trabajo en la normativa laboral.
+
+### Disposición transitoria única. Aplicación en las islas que superen 1.500 kilómetros cuadrados.
+
+A los transportes desarrollados íntegramente en islas cuya superficie supere los 1.500 kilómetros cuadrados, excepto en la isla de Mallorca, no les serán de aplicación las normas sobre tiempos de conducción y descanso y el uso de tacógrafo en el transporte por carretera hasta el 1 de enero de 2010.
+
+> Se modifica por el art. único.2 del Real Decreto 1163/2009, de 10 de julio. [Ref. BOE-A-2009-12209](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-12209).
+
+### Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 2242/1996, de 18 de octubre, por el que se establecen normas sobre tiempos de conducción y descanso y sobre el uso del tacógrafo en el sector de los transportes por carretera, en aplicación de los Reglamentos (CEE) números 3820/85 y 3821/85, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+### Disposición final primera. Habilitación para el desarrollo normativo.
+
+Se faculta al Ministro de Fomento para dictar, conjunta o separadamente con los Ministros del Interior, de Trabajo y Asuntos Sociales y de Industria, Turismo y Comercio, las disposiciones que sean precisas para la aplicación de este real decreto.
+
+### Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.21.º de la Constitución, que atribuye al Estado competencia sobre los transportes terrestres que discurran por más de una comunidad autónoma y sobre tráfico y circulación de vehículos a motor.
+
+### Disposición final tercera. Desarrollo del derecho de la Unión Europea.
+
+Este real decreto se aprueba en desarrollo del Reglamento (CE) n.º 561/2006 del Parlamento Europeo y del Consejo, de 15 de marzo de 2006, relativo a la armonización de determinadas disposiciones en materia social en el sector de los transportes por carretera y por el que se modifican los Reglamentos (CEE) n.º 3821/85 y (CE) n.º 2135/98 y se deroga el Reglamento (CEE) n.º 3820/85 del Consejo.
+
+### Disposición final cuarta. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 18 de mayo de 2007.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

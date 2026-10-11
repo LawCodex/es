@@ -1,0 +1,405 @@
+---
+title: "Ley 2/1998, de 12 de mayo, Valenciana de la Música"
+identifier: "BOE-A-1998-13361"
+eli: "https://www.boe.es/eli/es-vc/l/1998/05/12/2"
+type: act
+rank: "Ley"
+jurisdiction: es-comunitat-valenciana
+language: es
+department: "Comunidad Valenciana"
+date: 1998-05-12
+published: 1998-06-09
+in_force_from: 1998-05-15
+last_amended: 2013-05-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 137"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-13361"
+retrieved: 2026-10-11
+---
+
+# Ley 2/1998, de 12 de mayo, Valenciana de la Música
+
+Sea notorio y manifiesto a todos los ciudadanos que las Cortes Valencianas han aprobado y yo, de acuerdo con lo establecido por la Constitución y el Estatuto de Autonomía, en nombre del Rey, promulgo la siguiente Ley:
+
+PREÁMBULO
+
+La música en sus múltiples formas y manifestaciones es una de las artes más cultivadas en la Comunidad Valenciana. Forma parte de su cultura y es una de las artes que más le identifica como pueblo. La complejidad, multiplicidad y densidad del fenómeno musical en nuestra tierra exige y postula una ley valenciana de la música que fomente, coordine, impulse y desarrolle esa rica realidad desde una política global e integradora.
+
+El Estatuto de Autonomía de la Comunidad Valenciana aprobado por Ley Orgánica 5/1982, de 1 de julio, en su artículo 31.4 dispone que la Generalidad Valenciana tiene competencia exclusiva en cultura y la Ley Orgánica 12/1982, de 10 de agosto, de Transferencia a la Comunidad Autónoma Valenciana de Competencias en Materia de Titularidad Estatal, delegaba las competencias en educación, que han sido definitivamente incorporadas al texto estatutario por reforma del mismo por Ley Orgánica 5/1994, de 24 de marzo.
+
+El objeto de la presente Ley es el fomento, protección, coordinación, planificación, difusión y promoción de la música en la Comunidad Valenciana y la creación de los medios y condiciones necesarias para que la sociedad valenciana desarrolle su cultura musical en sus diferentes facetas.
+
+Las especiales características que concurren en la promoción y gestión cultural de la música aconsejan la creación de un organismo que permita agilidad en la gestión administrativa, particularmente en lo que atañe a las relaciones jurídicas externas, ya que esa es precisamente la necesidad que demanda la dinamicidad propia del mundo cultural. Para conseguir dicha finalidad, con mayor autonomía en su funcionamiento, en el título I se crea el Instituto Valenciano de la Música, como entidad pública sujeta al derecho privado.
+
+Para ordenar las enseñanzas musicales y su financiación se dedican los títulos II y III y para proteger el patrimonio musical y promocionar las actividades musicales, se incluyen los títulos IV y V de la presente Ley. En el título V se crea la Joven Orquesta de la Generalidad Valenciana y la Banda Joven de la Generalidad Valenciana, con el fin de ofrecer a los jóvenes músicos de la Comunidad Valenciana una formación orquestal complementaria. Asimismo, dicho título prevé la creación del Coro, de la Orquesta Sinfónica de la Generalidad Valenciana y de la Banda de Música de la Generalidad Valenciana por el Consejo de la Generalidad.
+
+Finalmente, se estima conveniente intensificar la dedicación, coordinación y colaboración de las Diputaciones Provinciales y Ayuntamientos en lo referente a la formación, enseñanza y actividades musicales de conformidad con el artículo 47 del Estatuto de Autonomía y la normativa que lo desarrolla y a ello se destina el título VI.
+
+## TÍTULO PRELIMINAR — Objeto de la Ley
+
+##### Artículo 1. Objeto.
+
+El objeto de la presente Ley es el fomento, protección, coordinación, difusión y promoción de la música en la Comunidad Valenciana.
+
+## TÍTULO I — Del Instituto Valenciano de la Música
+
+> Se deroga, en los términos previstos en la disposición derogatoria única 2.a) del Decreto-ley 7/2012, de 19 de octubre. [Ref. DOCV-r-2012-90045](https://www.boe.es/buscar/doc.php?id=DOCV-r-2012-90045)., por la disposición derogatoria única.2.a) de la Ley 1/2013, de 21 de mayo. [Ref. BOE-A-2013-6047](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6047).
+
+> Téngase en cuenta la disposición transitoria 1 de la citada Ley. [Ref. BOE-A-2013-6047](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6047).
+
+> Se deroga por la disposición derogatoria única 2.a) del Decreto-ley 7/2012, de 19 de octubre. [Ref. DOCV-r-2012-90045](https://www.boe.es/buscar/doc.php?id=DOCV-r-2012-90045).
+
+> Téngase en cuenta que esta derogación se realiza en los términos de la disposición transitoria 1 del citado decreto-ley y con efectos desde la entrada en vigor de los Decretos de desarrollo y los Decretos de estructura, organi­zación y funcionamiento previstos en las disposiciones finales 5 y 6 del mismo.
+
+##### Artículos 2 a 16.
+
+**(Derogados)**
+
+> Se derogan, en los términos previstos en la disposición derogatoria única 2.a) del Decreto-ley 7/2012, de 19 de octubre. [Ref. DOCV-r-2012-90045](https://www.boe.es/buscar/doc.php?id=DOCV-r-2012-90045)., por la disposición derogatoria única.2.a) de la Ley 1/2013, de 21 de mayo. [Ref. BOE-A-2013-6047](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6047).
+
+> Téngase en cuenta la disposición transitoria 1 de la citada Ley. [Ref. BOE-A-2013-6047](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6047).
+
+## TÍTULO II — De las enseñanzas musicales
+
+### CAPÍTULO I — Disposiciones generales
+
+##### Artículo 17. Objeto.
+
+1\. El presente título regula las normas por las que se regirán la creación y funcionamiento de las escuelas de música, de danza o de música y danza previstas en el apartado 3 del artículo 48 de la Ley Orgánica de Educación.
+
+2\. Estos centros específicos de enseñanza de música, de danza o de música y danza, no reglada, tendrán como finalidad impartir una formación general de la músi ca y/o danza y ofrecer una cultura musical a los ciudadanos, aprovechando, para ello, la importante infraestructura educativa de las sociedades musicales y de los centros de titularidad pública o privada de la Comunidad Valenciana.
+
+3\. Las competencias en relación con las escuelas de música, de danza o de música y danza, así como las escuelas de educandos, corresponderán al departamento de la Generalitat que las tenga atribuidas, sin perjuicio de lo dispuesto en el apartado 3 del artículo 48 de la Ley Orgánica de Educación.
+
+> Se modifica el apartado 1 y se añade el 3 por el art. 78 y 79 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+### CAPÍTULO II — De los centros para la enseñanza de la música
+
+#### Sección primera. De las escuelas de música, de danza o de música y danza
+
+##### Artículo 18. Definición y régimen de funcionamiento.
+
+1\. Las escuelas de música, de danza o de música y danza son centros docentes de formación musical dirigida a aficionados de cualquier edad, que podrán impartir una formación práctica y orientar y preparar para los estudios profesionales a quienes demuestren una especial vocación y aptitud.
+
+2\. Estas escuelas contarán con autonomía pedagógica y organizativa y, sin perjuicio de su calidad, sus enseñanzas se desarrollarán en un marco flexible y amplio para que su oferta llegue a todos los sectores de la sociedad. Estos estudios no conducirán a la obtención de títulos con validez académica ni profesional.
+
+3\. No obstante, podrán expedir certificados de los estudios cursados por sus alumnos, sin que, en ningún caso, su texto o formato pueda inducir a confusión con los certificados y títulos con validez académica.
+
+4\. Estas escuelas podrán ser de música, de danza, o de música y danza.
+
+5\. Estas escuelas se regularán reglamentariamente por la Administración Educativa.
+
+##### Artículo 19. Objetivos de las escuelas.
+
+Las escuelas de música, de danza o de música y danza tendrán los objetivos siguientes:
+
+a) Atender la amplia demanda de cultura musical práctica con el fin de despertar vocaciones y aptitudes que desemboquen en una posterior integración en las agrupaciones musicales.
+
+b) Fomentar desde la infancia el conocimiento y apreciación de la música y la danza.
+
+c) Impartir los aspectos teóricos mínimos imprescindibles para una concepción más global del hecho musical y dancístico.
+
+d) Ofertar enseñanza de música y danza a los alumnos sin consideración a su edad.
+
+e) Ofertar enseñanza especializada de todas las tendencias musicales y de todos los instrumentos, con especial atención a los propias de la música popular y tradicional valenciana, así como a las danzas autóctonas de nuestra Comunidad.
+
+f) Adecuar la programación de la enseñanza a los intereses, dedicación y ritmo de aprendizaje del alumno.
+
+g) Potenciar el gusto por la audición de todo tipo de estilos musicales y desarrollar el espíritu crítico del alumnado.
+
+h) Fomentar en el alumnado el interés por la participación en agrupaciones vocales e instrumentales, y en las bandas de música o en agrupaciones de danza, según el tipo de escuela de que se trate.
+
+i) Orientar y proporcionar la formación adecuada a aquellos alumnos que por su capacidad, especial talento e interés tengan aptitudes y voluntad de acceder a estudios reglados de carácter profesional.
+
+j) Recoger, sistematizar y difundir las tradiciones musicales locales y dancísticas comarcales.
+
+##### Artículo 20. Del profesorado.
+
+1\. El profesorado de las escuelas de música, danza y de música y danza deberán estar en posesión, como mínimo, del título profesional correspondiente al grado medio de música, o de danza, específico de la especialidad que imparta o titulación equivalente análoga.
+
+2\. La enseñanza de los ámbitos de formación musical complementaria y actividades de conjunto podrá estar a cargo de Profesores cuya titulación específica corresponda a otra materia.
+
+##### Artículo 21. De las instalaciones.
+
+1\. Los locales de las escuelas de música, de danza o de música y danza reunirán las condiciones sanitarias, de habitabilidad, seguridad y acústicas que la legislación establezca.
+
+2\. Reglamentariamente, se fijarán las instalaciones mínimas que han de tener las escuelas de música, de danza y de música y danza.
+
+3\. Las escuelas de música y danza, necesitadas de instalaciones para su labor, podrán utilizar las instalaciones educativas en cada pueblo que sean de titularidad de la Generalidad, en todo caso, siempre fuera del horario lectivo del centro, previa la autorización pertinente y con sujeción a las necesidades derivadas de la programación de actividades de los mencionados centros.
+
+##### Artículo 22. De las enseñanzas mínimas.
+
+1\. En las escuelas de música habrán de impartirse, como mínimo, enseñanzas de:
+
+A) Dos especialidades instrumentales.
+
+B) Conjunto coral.
+
+C) Lenguaje musical.
+
+2\. Las escuelas de música fomentarán la participación de los alumnos en actividades instrumentales y corales de conjunto.
+
+3\. Las escuelas de música reguladas en la presente Ley, integrarán progresivamente, en su cuadro de enseñanzas, los instrumentos de cuerda.
+
+4\. En las escuelas de danza habrá de impartirse, además de música, como mínimo, una especialidad de entre las de danza clásica o española.
+
+5\. En las escuelas de música y danza habrán de impartirse, como mínimo, las enseñanzas establecidas en los apartados 1 y 4 del presente artículo.
+
+##### Artículo 23. Programación de las enseñanzas.
+
+1\. Las escuelas de música, de danza y de música y danza gozarán de plena autonomía en la realización de sus propios proyectos curriculares de las enseñanzas que el centro tenga autorizadas. El centro deberá tener en cuenta la preparación para el acceso a los distintos grados de la enseñanza reglada y programar los contenidos y los objetivos vigentes en los centros oficiales correspondientes a las especialidades a las que se pretenda acceder.
+
+2\. Las escuelas de música, de danza y de música y danza podrán organizar cursos y toda clase de actividades musicales que contribuyan al enriquecimiento de su oferta y formación del alumnado, perfeccionamiento del docente y elevación del medio cultural y social en que se desenvuelven.
+
+##### Artículo 24. De su regulación.
+
+Las escuelas de música, de danza y de música y danza previstas en esta Ley se regirán por las normas que se establecen en la misma y disposiciones que la desarrollen reglamentariamente, quedando sometidas a las normas de derecho común en aquellos aspectos no contemplados.
+
+##### Artículo 25. Denominación.
+
+1\. Estos centros recibirán la denominación genérica de escuelas de música, de danza o de música y danza. A esta denominación se podrá añadir por el titular una denominación específica que deberá constar en la solicitud de autorización correspondiente, así como en su publicidad.
+
+2\. Esta denominación será distintiva y exclusiva de estos centros, y no podrá ostentar este nombre hacia otra entidad no autorizada e inscrita en el registro correspondiente.
+
+##### Artículo 26. Acceso a enseñanzas regladas.
+
+La Administración Educativa establecerá las medidas reglamentarias que procedan, con el fin de garantizar el derecho de los alumnos y alumnas de las escuelas de música y danza, públicas y privadas, y de las escuelas de educandos de las sociedades musicales, a ocupar plazas escolares en los centros de estudios reglados en igualdad de condiciones, a través de las correspondientes pruebas de acceso cuya convocatoria se llevará a efecto con la máxima publicidad.
+
+##### Artículo 27. Registro.
+
+1\. En el Registro de Centros Docentes de la Comunidad Valenciana se creará un registro específico para escuelas de música, de danza y de música y danza en el que se inscribirán aquellas escuelas, de titularidad pública o privada, que hayan sido autorizadas por la Administración Educativa.
+
+2\. La Administración Educativa podrá autorizar el registro de escuelas de música, de danza o de música y danza, que tengan sus instalaciones ubicadas en distintos inmuebles, incluso en distinta localidad, siempre que la distancia entre estas localidades no dificulte la realización de dichas enseñanzas y que en su conjunto reúnan los requisitos mínimos previstos.
+
+#### Sección segunda. De las escuelas de educandos
+
+##### Artículo 28. Escuelas de educandos.
+
+Las escuelas de educandos de las sociedades musicales que por sus características no se inscriban en el Registro de Escuelas de Música, también podrán recibir de las Administraciones Públicas, mediante disposiciones específicas, protección y ayuda en orden a la labor educativa y cultural que desempeñan.
+
+## TÍTULO III — De la financiación de las enseñanzas musicales
+
+##### Artículo 29. Disposición general.
+
+Las Administraciones valencianas colaborarán adecuadamente en la financiación de las enseñanzas musicales, a efectos de dotar a las escuelas de música, de danza y de música y danza de los medios necesarios para alcanzar sus objetivos.
+
+##### Artículo 30. Programa autonómico de financiación.
+
+1\. Para alcanzar la finalidad prevista en el artículo anterior, se establecerá un programa autonómico de financiación de las enseñanzas musicales no regladas, impartidas en las escuelas de música, de danza y de música y danza y, con la correspondiente dotación presupuestaria, para un período de diez años.
+
+2\. Dicho programa incluirá los criterios para su financiación, gestión y ejecución y las medidas necesarias para la dotación de recursos humanos, construcción, adaptación y reforma de edificios que alberguen los centros educativos, adquisición de instrumentos musicales y material didáctico, el establecimiento y desarrollo de servicios complementarios y la formación y actualización permanente del profesorado.
+
+##### Artículo 31. Colaboración interadministrativa.
+
+La Generalidad Valenciana establecerá acuerdos y convenios de colaboración con las Corporaciones Locales y las asociaciones y entidades sin fin lucrativo que sean titulares de escuelas de música, de danza y de música y danza y de escuelas de educandos, para ayudar económicamente a su funcionamiento y contribuir al cumplimiento de sus objetivos.
+
+##### Artículo 32. Ayudas.
+
+1\. La Conselleria competente concederá ayudas dirigidas al mantenimiento de las escuelas de música, de danza y de música y danza, y demás centros de enseñanzas musicales, así como subvenciones que permitan la realización de actividades o programaciones musicales.
+
+2\. En las convocatorias que se realicen al efecto figurará una comisión de valoración en la que podrán participar tanto la Federación Valenciana de Municipios y Provincias como representantes de las entidades, instituciones, federaciones o asociaciones musicales de la Comunidad Valenciana.
+
+> Se modifica el apartado 1 por el art. 80 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Artículo 33. Becas del Instituto Valenciano de la Música.
+
+Anualmente se realizará una convocatoria de becas, por el órgano competente, dirigida a los alumnos que cursen estudios no reglados en escuelas de música, de danza o de música y danza, mientras estos estudios estén excluidos de las convocatorias generales de becas y ayudas al estudio de las administraciones educativas.
+
+> Se modifica por el art. 81 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+## TÍTULO IV — Del patrimonio musical valenciano y su registro
+
+##### Artículo 34. Marco legal.
+
+La protección, enriquecimiento, fomento, difusión y disfrute social del patrimonio musical valenciano se regirá por las normas reguladoras del patrimonio cultural valenciano y, subsidiariamente, por la presente Ley y demás leyes vigentes sobre la materia.
+
+##### Artículo 35. Objeto.
+
+1\. Integran el patrimonio musical valenciano los bienes, actividades y entidades de carácter musical especialmente representativos de la historia y la cultura de la Comunidad Valenciana.
+
+2\. El patrimonio musical valenciano será inventariado o catalogado y constituirá el Archivo Musical Valenciano. Este archivo incorporará tanto formatos tradicionales como nuevos soportes físicos y estará dotado de los medios oportunos de conservación y reproducción.
+
+##### Artículo 36. Instituciones consultivas.
+
+1\. A la Generalidad le compete el conocimiento, el fomento y la difusión del patrimonio musical valenciano.
+
+2\. Son instituciones consultivas de la Administración Pública de la Generalidad Valenciana en materia musical, a los efectos previstos en la normativa reguladora del patrimonio cultural valenciano, el Consejo Valenciano de Cultura, la Real Academia de Bellas Artes de San Carlos de Valencia, el Consejo Escolar Valenciano, el Instituto Valenciano de la Música, los Conservatorios Superiores de Música, los Conservatorios Superiores de Danza, la Federación de Sociedades Musicales de la Comunidad Valenciana y cuantas instituciones pueda reconocer el Consejo mediante Decreto, y ello sin perjuicio del asesoramiento que, en su caso, pueda recabarse de otros organismos profesionales y entidades culturales públicas y privadas.
+
+##### Artículo 37. Protección del patrimonio musical valenciano.
+
+1\. Los Ayuntamientos cooperarán con la Generalidad en el conocimiento, conservación, fomento y difusión del patrimonio musical existente en su término municipal, adoptando las medidas oportunas para evitar su deterioro, pérdida o destrucción. Comunicarán a la Consejería de Cultura, Educación y Ciencia, cualquier amenaza de daño o perturbación de la función social que tales bienes sufran, así como las dificultades y necesidades que tengan para el cuidado de estos bienes. Ejercerán asimismo las demás funciones que se les atribuya expresamente.
+
+2\. La conselleria que ostente las competencias en materia de cultura, de acuerdo con los ayuntamientos, podrá crear comisiones mixtas integradas por representantes de la Generalitat y del respectivo municipio con la función de asesorar a los órganos competentes para la ejecución de estas medidas de protección del patrimonio musical valenciano en orden a su cumplimiento.
+
+3\. Las personas físicas y jurídicas que observen peligro de pérdida o deterioro de un bien integrante del patrimonio musical valenciano deberán, en el menor tiempo posible, ponerlo en conocimiento de la Consejería de Cultura, Educación y Ciencia o del Ayuntamiento correspondiente.
+
+> Se modifica el apartado 2 por el art. 82 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Artículo 38. De su protección y tutela.
+
+Los bienes, actividades y entidades integrantes del patrimonio musical valenciano de mayor relevancia y significación, gozarán de singular protección y tutela, por Decreto del Consejo, según el procedimiento que reglamentariamente se determine. El Decreto deberá describir claramente el bien, actividad y entidad, señalando todos los elementos y características que lo componen para su plena identificación y conocimiento de sus características esenciales.
+
+##### Artículo 39. Registro del Patrimonio Musical Valenciano.
+
+Los bienes, actividades y entidades constitutivos del patrimonio musical valenciano serán inscritos en un registro específico, dependiente de la Consejería de Cultura, Educación y Ciencia, cuya organización, funcionamiento y régimen de acceso al mismo se determinarán por vía reglamentaria.
+
+##### Artículo 40. Certificado acreditativo de la inscripción.
+
+El Registro del Patrimonio Cultural Valenciano expedirá certificado que acredite la inscripción de bienes, actividades y entidades que les identifique y con las demás anotaciones pertinentes conforme a lo que reglamentariamente se determine.
+
+##### Artículo 41. Conservación, consolidación y mejora.
+
+1\. Las Administraciones valencianas procurarán por todos los medios técnicos la conservación, consolidación y mejora de todos los bienes, actividades y entidades que componen el patrimonio musical valenciano.
+
+2\. El Consejo de la Generalidad, y los Ayuntamientos, en su caso, colaborarán con los titulares de los bienes, actividades y entidades inscritos en el registro, en su conservación y difusión y arbitrarán las ayudas económicas y técnicas en la forma señalada reglamentariamente.
+
+3\. El Consejo de la Generalidad dispondrá las medidas necesarias para que la financiación de obras de conservación, mantenimiento y rehabilitación de bienes, así como de actividades incluidas en el patrimonio musical valenciano, tengan preferente acceso al crédito oficial en la forma y con los requisitos que establezcan sus normas reguladoras. A tal fin, la Generalidad podrá establecer, mediante acuerdos con personas y entidades públicas y privadas, las condiciones para disfrutar de los beneficios crediticios.
+
+4\. Los titulares de los bienes que se hubieran beneficiado de algún tipo de ayuda de carácter público estarán sujetos, en su actuación, a las condiciones que se hubieran fijado para su concesión.
+
+## TÍTULO V — Medidas de fomento de la cultura musical
+
+##### Artículo 42. Sobre la promoción de la música en la Comunidad Valenciana.
+
+La Generalidad postula como principios orientadores de su política cultural en materia musical la promoción, desarrollo, enseñanza, difusión y protección de la música en todos sus aspectos, expresiones y ramificaciones y, consiguientemente, prestará apoyo a las entidades públicas y privadas, particulares y asociaciones que persigan dichos objetivos y realicen las actividades propias para lograr aquellos fines, favoreciendo su coordinación y promoviendo y creando las condiciones sociales más adecuadas para ello. Y ello sin perjuicio de la necesaria participación y cooperación entre sí, entre las instituciones sociales, las entidades privadas y los particulares.
+
+##### Artículo 43. Colaboración institucional.
+
+La Generalitat, a través del departamento competente en cada caso, colaborará con las corporaciones locales y entidades musicales sin ánimo de lucro para la adquisición, construcción, restauración, adaptación, mantenimiento, mejora y equipamiento de los edificios destinados a la formación, enseñanza y actividades musicales y sociales.
+
+> Se modifica por el art. 83 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Artículo 44. Creación de infraestructuras.
+
+Las Administraciones Públicas procurarán dotar de infraestructuras adecuadas para la interpretación y audiciones musicales en cada una de las zonas o comarcas del territorio valenciano.
+
+##### Artículo 45. Adquisición de instrumentos musicales.
+
+Con el fin de facilitar la utilización de instrumentos musicales por los jóvenes, durante su estancia en escuelas y centros docentes, se creará un programa de ayudas, por el órgano o departamento de la Generalitat competente, que posibilite su adquisición por las corporaciones locales y entidades musicales sin ánimo de lucro, titulares de las escuelas o centros docentes.
+
+> Se modifica por el art. 84 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Artículo 46. Líneas de crédito específicas.
+
+El órgano o departamento de la Generalitat competente impulsará la creación de líneas de crédito específicas para construir, conservar y modernizar edificios destinados a actividades musicales y de danza y adquirir instrumentos, mediante créditos especiales de las instituciones bancarias, públicas y privadas.
+
+> Se modifica por el art. 85 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Artículo 47. Medidas para el fomento de la música y de la danza.
+
+Para fomentar la música, la danza y la cultura musical, las Administraciones Públicas de la Comunidad Valenciana procurarán adoptar las siguientes medidas:
+
+a) Ayudar, colaborar o subvencionar certámenes, festivales, y otras manifestaciones y actividades de bandas de música, orquestas u otros grupos musicales.
+
+b) Ayudar o subvencionar las iniciativas orientadas al perfeccionamiento de los músicos.
+
+c) Concertar convenios de apoyo a inversiones en infraestructuras y a programas sociales y musicales, que las Corporaciones Locales, las asociaciones y entidades sin fin lucrativo, organicen de manera permanente o estable en su duración.
+
+d) Aquéllas tendentes a incentivar la creatividad musical.
+
+e) Fomentar de manera estable las manifestaciones musicales lírico escénicas, como la ópera.
+
+##### Artículo 48. Sobre el perfeccionamiento musical.
+
+1\. Se crearán programas de trabajo adecuados para atender el perfeccionamiento musical de los intérpretes valencianos.
+
+2\. Se crearán, asimismo, programas con dotación presupuestaria, de concesión de bolsas y ayudas para asistencia a cursos, seminarios y encuentros de perfeccionamiento técnico y artístico para músicos que tengan condiciones adecuadas para ello.
+
+##### Artículo 49. De la Joven Orquesta de la Generalidad Valenciana.
+
+1\. Se crea la Joven Orquesta de la Generalidad Valenciana, con el fin de ofrecer a los jóvenes músicos de la Comunidad Valenciana una formación orquestal complementaria.
+
+2\. La composición y funcionamiento de la Joven Orquesta de la Generalidad Valenciana será regulado reglamentariamente.
+
+3\. Se adscribe la Joven Orquesta de la Generalidad Valenciana al Instituto Valenciano de la Música.
+
+##### Artículo 50. De la Banda Joven de la Generalidad Valenciana.
+
+1\. Se crea la Banda Joven de la Generalidad Valenciana, con la finalidad de ofrecer a los jóvenes músicos de la Comunidad Valenciana una formación bandística complementaria.
+
+2\. La composición y el funcionamiento de la Banda Joven de la Generalidad Valenciana será regulado reglamentariamente.
+
+3\. Se adscribe la Banda Joven de la Generalidad Valenciana al Instituto Valenciano de la Música.
+
+##### Artículo 51. Del Coro de la Generalidad Valenciana.
+
+1\. Se crea el Coro de la Generalidad Valenciana con carácter profesional.
+
+2\. La composición y funcionamiento del Coro de la Generalidad Valenciana será regulado reglamentariamente.
+
+3\. El Coro de la Generalidad Valenciana se adscribe al Instituto Valenciano de la Música.
+
+##### Artículo 52. De la Orquesta Sinfónica de la Generalidad Valenciana.
+
+1\. Se crea la Orquesta Sinfónica de la Generalidad Valenciana con carácter profesional.
+
+2\. La composición y funcionamiento de la Orquesta Sinfónica de la Generalidad Valenciana será regulado reglamentariamente.
+
+3\. La Orquesta Sinfónica de la Generalidad Valenciana se adscribe al Instituto Valenciano de la Música.
+
+##### Artículo 53. De la Banda de Música de la Generalidad Valenciana.
+
+1\. Se crea la Banda de Música de la Generalidad Valenciana con carácter profesional.
+
+2\. La composición y funcionamiento de la Banda de Música de la Generalidad Valenciana será regulada reglamentariamente.
+
+3\. La Banda de Música de la Generalidad Valenciana se adscribe al Instituto Valenciano de la Música.
+
+## TÍTULO VI — De las relaciones de colaboración de las administraciones valencianas con las sociedades musicales y las asociaciones artístico-musicales
+
+##### Artículo 54. Coordinación institucional.
+
+La política cultural de la Generalidad se orientará a impulsar y coordinar las funciones, enseñanzas y actividades relativas a la música, de las Diputaciones Provinciales, de las Corporaciones Locales y de las asociaciones artístico-musicales, para una mejor distribución de recursos y promoción cultural.
+
+##### Artículo 55. Ayuntamientos y Diputaciones.
+
+En lo que se refiere a las actividades musicales, los ayuntamientos y las diputaciones coordinarán sus esfuerzos para la mayor eficacia de aquéllos y para que resulten beneficiarios el mayor número posible de ciudadanos. Cuando se programen para toda la Comunitat se realizará la oportuna coordinación entre dichas corporaciones y la Generalitat, a través de su departamento competente, así como, en su caso, con el Instituto Valenciano de la Música.
+
+> Se modifica por el art. 86 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Artículo 56. Convenios de colaboración institucional.
+
+Mediante convenios de colaboración los Ayuntamientos y las Diputaciones prestarán ayuda material, humana y financiera a las sociedades musicales y a las escuelas de música dentro de los límites consignados en sus respectivos presupuestos.
+
+##### Disposición adicional primera.
+
+Dadas las peculiaridades valencianas, un mismo edificio podrá ser destinado a las enseñanzas propias de las escuelas de música, de danza o de música y danza y a otros fines sociales, culturales o educativos.
+
+##### Disposición adicional segunda.
+
+La Administración Autonómica gestionará ante la Administración del Estado fórmulas para la calificación de «entidades de utilidad pública» de aquellas asociaciones musicales sin fin lucrativo, que reúnan los requisitos correspondientes, a efectos de ser receptoras de los beneficios legales que tales calificaciones comportan.
+
+##### Disposición adicional tercera.
+
+La adscripción del personal de la Generalidad que se realice al Instituto Valenciano de la Música, se hará respetando las condiciones establecidas hasta ese momento para dicho personal.
+
+##### Disposición adicional cuarta.
+
+Para la creación y funcionamiento de la Joven Orquesta de la Generalidad Valenciana, se tendrá en cuenta la actual, y a extinguir, Joven Orquesta Valenciana.
+
+##### Disposición adicional quinta.
+
+Para la creación y funcionamiento del Coro de la Generalidad Valenciana, se tendrá en cuenta el actual, y a extinguir, Coro de Valencia.
+
+##### Disposición derogatoria única.
+
+Quedan derogadas todas disposiciones de igual o inferior rango que se opongan a lo dispuesto en la presente Ley.
+
+##### Disposición final primera.
+
+El Consell y la conselleria competente en cada caso, en el ámbito de sus respectivas competencias adoptarán cuantas disposiciones sean necesarias para la aplicación y desarrollo de la presente Ley.
+
+> Se modifica por el art. 87 de la Ley 16/2010, de 27 de diciembre. [Ref. BOE-A-2011-1437](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-1437).
+
+##### Disposición final segunda.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el «Diari Oficial de la Generalitat Valenciana».
+
+Por tanto, ordeno que todos los ciudadanos, tribunales, autoridades y poderes públicos a los que corresponda, observen y hagan cumplir esta Ley.
+
+Valencia, 12 de mayo de 1998.
+
+EDUARDO ZAPLANA HERNÁNDEZ-SORO,
+
+Presidente

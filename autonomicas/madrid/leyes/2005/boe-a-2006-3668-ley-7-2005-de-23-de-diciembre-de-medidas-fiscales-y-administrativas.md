@@ -1,0 +1,739 @@
+---
+title: "Ley 7/2005, de 23 de diciembre, de medidas fiscales y administrativas"
+identifier: "BOE-A-2006-3668"
+eli: "https://www.boe.es/eli/es-md/l/2005/12/23/7"
+type: act
+rank: "Ley"
+jurisdiction: es-madrid
+language: es
+department: "Comunidad de Madrid"
+date: 2005-12-23
+published: 2006-03-02
+in_force_from: 2006-01-01
+last_amended: 2024-12-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 52"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-3668"
+retrieved: 2026-10-11
+---
+
+# Ley 7/2005, de 23 de diciembre, de medidas fiscales y administrativas
+
+LA PRESIDENTA DE LA COMUNIDAD DE MADRID
+
+Hago saber que la Asamblea de Madrid ha aprobado la presente Ley, que yo, en nombre del Rey, promulgo.
+
+PREÁMBULO
+
+La presente Ley contiene un conjunto de medidas normativas ligadas a los objetivos fijados en la Ley de Presupuestos Generales de la Comunidad de Madrid para 2006. Así, el cumplimiento de estos objetivos hace conveniente la regulación de una serie de materias cuyo contenido esencial lo constituyen las medidas de naturaleza tributaria, aunque también se incorporan otras de carácter administrativo que afectan fundamentalmente a la Hacienda pública, patrimonio, gestión de recursos humanos y organización administrativa.
+
+I
+
+La Comunidad de Madrid ejerce a través de esta Ley las competencias normativas que le otorga, en relación con los tributos estatales cedidos, la Ley 21/2001, de 27 de diciembre, por la que se regulan las medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía.
+
+En el Impuesto sobre la Renta de las Personas Físicas se regulan las deducciones aplicables sobre la cuota íntegra autonómica. Se mantienen las mismas deducciones vigentes durante 2005, ampliando, en la misma medida en que se ha incrementado el Índice de Precios al Consumo, los límites de nivel de renta que han de respetarse para la aplicación de algunas de ellas.
+
+En el Impuesto sobre el Patrimonio se conservan los mínimos exentos establecidos para la Comunidad de Madrid en la Ley 5/2004, de 28 de diciembre, de Medidas Fiscales y Administrativas.
+
+En el Impuesto sobre Sucesiones y Donaciones se regulan las reducciones de la base imponible aplicables a las adquisiciones «mortis causa», la tarifa y los coeficientes correctores de la cuota, y las bonificaciones en cuota. En esta Ley se recogen las disposiciones que ya han estado vigentes durante el año 2005 con dos novedades destacables: Por un lado, se aumenta la cuantía de la reducción por parentesco, aplicable en las adquisiciones «mortis causa», para los sujetos pasivos incluidos en los Grupos I y II del artículo 20.2 de la Ley del impuesto y, por otro lado, se establece una bonificación en la cuota para las adquisiciones «inter vivos» a los mismos parientes a que resulta aplicable la reducción citada anteriormente.
+
+En el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados se regulan los tipos impositivos aplicables a las transmisiones de inmuebles en la modalidad «Transmisiones Patrimoniales Onerosas» y a los documentos notariales en la modalidad «Actos Jurídicos Documentados». En esta Ley se conservan las disposiciones vigentes durante el año 2005.
+
+En la tributación sobre el juego se modifica la tarifa aplicable a los juegos en casinos, para ajustar ésta al nivel existente en nuestro entorno geográfico y, mediante disposición transitoria, se establece un tipo único de la tasa fiscal del juego aplicable a esta actividad, en el caso de que se ampliase el número de autorizaciones de casinos de juego, actualmente existentes. Además se regula exnovo la fiscalidad de las apuestas sobre acontecimientos deportivos de competición o de otro carácter previamente determinado.
+
+II
+
+El capítulo II introduce varias modificaciones en el texto de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, cuya inclusión se justifica por diversos motivos que seguidamente se exponen.
+
+En primer lugar, se modifica el artículo 28 en un doble sentido: Por un lado, y ante la inexistencia de regulación propia, se especifica la aplicación de la Ley 58/2003, de 17 de diciembre, General Tributaria y su normativa de desarrollo en los procedimientos de gestión recaudatoria de la Comunidad de Madrid; por otro, se regula el procedimiento a seguir en caso de denegación de la suspensión de la deuda por ingresos de derecho público por parte de los órganos judiciales.
+
+Por lo que se refiere a la modificación del artículo 42, se incluye con el fin de actualizar el régimen de la prescripción de las obligaciones, aplicando el mismo plazo de cuatro años que se contiene en el artículo 36 de la propia Ley en relación con los derechos, y que coincide, a su vez, con el fijado en el artículo 25 de la vigente Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Por otro lado, se modifica el artículo 49.a), a fin de simplificar la documentación que se envía a la Asamblea con el proyecto de Ley de Presupuestos Generales de la Comunidad de Madrid, suprimiéndose la memoria de actividades desarrolladas en cada consejería, organismo autónomo, empresa o ente público en el ejercicio económico, siendo, por otra parte, una información que se remite también a través de la Cuenta General.
+
+Con la modificación de la letra b) del artículo 55.2 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid se pretende ampliar los supuestos en que podrán adquirirse compromisos de gastos plurianuales incluyendo en el mismo, sin enumerarlos, todos los contratos administrativos, tanto los típicos como los administrativos especiales y también los contratos privados de seguros.
+
+Además, se modifica la redacción de las letras c) y d) del mismo artículo, en el sentido que permita considerar incluidos en ambas, no sólo los gastos de la Administración de la Comunidad de Madrid y sus organismos autónomos, sino también los de los entes públicos cuya normativa específica confiere carácter limitativo a los créditos de su presupuesto de gastos.
+
+Con el fin de aportar mayores garantías al proceso de comprobación de la idoneidad formal de las cuentas anuales, se añade al artículo 123.2 de la misma Ley, un nuevo párrafo que exige a todas las empresas públicas y demás entes de la Comunidad de Madrid a los que no se les aplique el Plan de Contabilidad Pública, que acompañen a sus cuentas anuales informe de gestión y de auditoría, independientemente de que presenten sus cuentas en formato abreviado.
+
+III
+
+El capítulo III de la Ley contiene modificaciones que inciden en el ámbito del patrimonio de la Comunidad de Madrid.
+
+Se modifican los apartados 2 y 4 del artículo 46 de la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid, con el objeto de disponer de un procedimiento ágil y eficaz para el alquiler de espacios en los que se puedan realizar acciones formativas. En el caso de alquileres de escasa cuantía se asimila la tramitación a la establecida en la Ley de Contratos de las Administraciones Públicas para los contratos menores.
+
+Por otro lado, se introduce un apartado 5 en el artículo 47 con el objetivo de recoger expresamente la previsión contenida en el artículo 182 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas, en relación a las especialidades en las aportaciones no dinerarias que se realicen a las sociedades anónimas cuyo capital social sea íntegramente titularidad de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos.
+
+IV
+
+En el capítulo IV, la Ley incorpora las modificaciones en materia de recursos humanos.
+
+Se modifica la Ley 3/1999, de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid, que establece que los Servicios Jurídicos deben emitir dictamen preceptivo en todos los contratos laborales que deban formalizarse por escrito. Con el propósito de agilizar la gestión en la contratación laboral, se pretende que la función consultiva de los Servicios Jurídicos se ejercite respecto a los modelos generales de contratación de personal, sin ser necesario el dictamen para cada uno de los contratos que individualmente se formalicen.
+
+Por otro lado, la Ley 18/2000, de 27 de diciembre, de Medidas Fiscales y Administrativas de la Comunidad de Madrid, regula en su artículo 11, exclusivamente para los funcionarios de carrera que hayan desempeñado durante dos años o tres con interrupción puestos de trabajo considerados altos cargos, y a partir del reingreso al servicio activo, el derecho a percibir el complemento de destino que se fije para los directores generales de la Administración del Estado en la Ley de Presupuestos Generales del Estado de cada año.
+
+La nueva realidad existente en la Comunidad de Madrid a partir de los traspasos de funciones y servicios del Instituto Nacional de Salud, realizados por el Real Decreto 1479/2001, de 27 de diciembre, y el Real Decreto 599/2002, de 1 de julio, hace necesario extender estos derechos al personal estatutario que cumpla los requisitos previstos en aquella Ley.
+
+V
+
+En el capítulo V se contienen algunas medidas relativas a organismos públicos de la Comunidad de Madrid.
+
+La sociedad mercantil de capital público ICM Informática y Comunicaciones de la Comunidad de Madrid, S.A. (ICM), se convirtió en organismo autónomo de carácter administrativo el 1 de enero de 1997, en virtud de lo establecido en el artículo 57 de la Ley 14/1996, de 23 de diciembre, de Presupuestos Generales de la Comunidad de Madrid para 1997.
+
+Desde entonces y dado el especial sector en el que la actividad de Informática y Comunicaciones de la Comunidad de Madrid (ICM) se desenvuelve, son varias las razones que aconsejan en el momento actual una evolución que permita flexibilizar los instrumentos de gestión de la entidad, y acercar su organización y funcionamiento a los modelos que el mundo de las tecnologías de la información y las comunicaciones reclaman.
+
+El sector de las nuevas tecnologías de la información y de las comunicaciones en el que nos encontramos es un sector caracterizado por un gran dinamismo que exige la capacidad de poner en funcionamiento soluciones en cada vez menos tiempo.
+
+En consecuencia, dentro del proceso de racionalización del sector público de la Comunidad de Madrid se ha valorado la conveniencia de que Informática y Comunicaciones de la Comunidad de Madrid (ICM) evolucione su forma jurídica a otra que le permita la flexibilización de funcionamiento requerida, sin perjuicio de los controles habituales que para este tipo de entidades la normativa establece, todo lo cual redundará en una mayor eficiencia en la actividad que realiza y, en definitiva, en la mejora del servicio que la Administración presta al ciudadano.
+
+La modificación de la Ley 22/1999, de 21 de diciembre, de Creación del Ente de Derecho Público MINTRA (Madrid, Infraestructuras del Transporte), responde a una doble finalidad.
+
+Por una parte, teniendo en cuenta tanto el carácter de Ente de Derecho Público de MINTRA, como los fines y funciones que se le atribuyen por su Ley de creación, se ha considerado necesario agilizar, en aras de los principios de celeridad y eficacia, el procedimiento de desafectación previsto en la Ley de Patrimonio de la Comunidad de Madrid, para el material móvil ferroviario que vaya a ser objeto de enajenación o de cualquier otro acto de disposición que implique un cambio en su titularidad, adquiriendo automáticamente la condición de bien patrimonial.
+
+En segundo lugar, se realiza una modificación del artículo 15 de carácter técnico, de tal forma que por un lado se actualiza la referencia a la vigente legislación de contratos de las Administraciones públicas, y por otro, se regula de forma diferenciada el régimen jurídico de los contratos patrimoniales que celebre este ente.
+
+La modificación de la denominación del Instituto Superior de Estudios de Seguridad, en Academia de Policía Local de la Comunidad de Madrid, está estrechamente asociada al proyecto de seguridad impulsado por el Gobierno regional, a través de la Consejería de Justicia e Interior, que desde una perspectiva formativa representa un aumento muy importante del número de alumnos así como una notable transformación de la actividad académica del Instituto, lo cual aconseja operar el cambio de denominación del mismo, reforzando la identificación de la institución con su actividad principal de formación de las policías locales de la Comunidad de Madrid.
+
+Con la modificación de la Ley 6/1991, de 4 de abril, de Creación del Consejo Económico y Social de la Comunidad de Madrid, se permite que la percepción a que tienen derecho los miembros del CES designados a propuesta de las organizaciones empresariales y sindicales, correspondiente al importe de los gastos ocasionados por el ejercicio de sus funciones, pueda percibirse directamente por las organizaciones a las que representen, teniendo en cuenta que tales importes se entregan con posterioridad íntegramente a la organización de la que depende el Consejero respectivo, puesto que el ejercicio de sus funciones en el Consejo es parte de su trabajo para la organización a la cual representan y a la que están vinculados en virtud de un mandato expreso.
+
+La Ley 6/2004, de 28 de diciembre, de Creación del Tribunal de Defensa de la Competencia de la Comunidad de Madrid, lo configuró como organismo autónomo de carácter administrativo. La modificación de la naturaleza del Tribunal es consecuencia de la necesidad de alcanzar un mayor grado de independencia y autonomía respecto de los poderes públicos, de forma que se potencien el contenido técnico de su actuación y la cualificación de sus integrantes, para lo cual resulta preciso la conversión del Tribunal en un ente de derecho público de los previstos en el artículo 6 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+
+El Libro Blanco para la Reforma del Sistema Español de Defensa de la Competencia, de 20 de enero de 2005, se ha hecho eco de esta exigencia proponiendo la reforma del actual sistema institucional y las distintas iniciativas de modificación de Ley de Defensa de la Competencia.
+
+Asimismo, respalda esta modificación la consideración del Tribunal como organismo regulador llamado a intervenir en una economía de mercado que reclama un elevado grado de independencia, tanto del organismo como de sus miembros. Esta necesidad es mayor cuando nos enfrentamos a los nuevos desafíos de la defensa de la competencia, consistentes en el control de las ayudas públicas o de empresas públicas en las que intervienen representantes de las diferentes Administraciones y respecto de los cuales es necesario garantizar la autonomía e independencia.
+
+Por último, con la modificación de la Ley 11/1999, de 29 de abril, de la Cámara de Cuentas de la Comunidad de Madrid, se solventa la ausencia de regulación de la situación administrativa que corresponde al titular de uno de los órganos de la Cámara de Cuentas, la Secretaría General, previsión que sí existía respecto de los titulares de los demás órganos de la misma.
+
+VI
+
+El capítulo VI se destina a la modificación de aspectos concretos en relación con determinados procedimientos administrativos de la Comunidad de Madrid.
+
+Así, se modifica la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, para permitir la adecuación de los procedimientos de tramitación de las reclamaciones en vía económico-administrativa a la específica organización de la Comunidad de Madrid.
+
+También se modifica la Ley 9/2003, de 26 de marzo, del Régimen Sancionador en Materia de Viviendas Protegidas de la Comunidad de Madrid.
+
+El citado texto normativo vino a dotar a la Comunidad de Madrid de una Ley propia, específica y completa, reguladora de las infracciones y sanciones en la materia, con el fin de garantizar adecuadamente el cumplimiento de los objetivos del sistema y de proporcionar el instrumento necesario para sancionar todas aquellas conductas realizadas con infracción de la normativa aplicable.
+
+La experiencia acumulada desde su entrada en vigor, ha puesto de manifiesto la necesidad de introducir algunas modificaciones encaminadas a incluir conductas no tipificadas en la Ley y a mejorar y completar la redacción de algunos apartados.
+
+VII
+
+En el capítulo VII, la Ley contiene modificaciones puntuales de la Ley 2/2003, de 11 de marzo, de Administración Local de la Comunidad de Madrid, que responden a la necesidad de clarificar el contenido y dotación de algunas de las técnicas de cooperación a las obras y servicios municipales, previstas en la misma.
+
+Por un lado, el contenido del plan de obras y servicios de competencia municipal, que anualmente forma la Comunidad de Madrid para su inclusión en el Programa de Cooperación Económica del Estado, se vincula de forma genérica a necesidades de inversión en infraestructura y equipamiento local incluidas o propuestas en cualesquiera instrumentos de cooperación local, sin circunscribirse única y exclusivamente a las previstas en el Programa Regional de Inversiones y Servicios de Madrid (PRISMA).
+
+Por otro lado, se amplían las posibilidades de dotación del Fondo Regional de Cooperación Municipal, permitiendo que pueda financiarse con cargo a cualesquiera programas regionales de inversiones y servicios, sin mencionar de forma específica y exclusiva el PRISMA (2001-2005), con vigencia temporal limitada al 31 de diciembre de 2005.
+
+VIII
+
+En materia de juego, se introduce una modificación parcial a la Ley 3/2000, de 8 de mayo, de Medidas Urgentes, Fiscales y Administrativas sobre los Juegos de Suerte, Envite y Azar y Apuestas en la Comunidad de Madrid, matizando la limitación para la celebración y comercialización de juegos o apuestas en los locales de hostelería.
+
+## CAPÍTULO I — Tributos
+
+### Arts. 1 a 5.
+
+​
+
+**(Derogados).**
+
+​
+
+> Se derogan por la disposición derogatoria única.a) de la Ley 4/2006, de 22 de diciembre. [Ref. BOE-A-2007-9769](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9769)
+
+​
+
+## CAPÍTULO II — Hacienda
+
+### Artículo 6. Modificación parcial de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+
+Uno. Se adiciona un segundo párrafo al apartado 1 del artículo 28, con el siguiente tenor literal:
+
+«1. Para realizar el cobro de los tributos y de las cuantías que como ingresos de derecho público debe percibir, la Hacienda de la Comunidad ostentará las prerrogativas establecidas legalmente y actuará, en su caso, conforme a los procedimientos administrativos correspondientes.
+
+Salvo que una Ley especial prevea otra cosa, las actuaciones y procedimientos de gestión recaudatoria a realizar por la Comunidad de Madrid serán los previstos en la Ley General Tributaria y su normativa de desarrollo.»
+
+Dos. Se modifica el apartado 5 del artículo 28, que queda redactado en los siguientes términos:
+
+«5. Una vez concluida la vía administrativa, los órganos de recaudación no iniciarán las actuaciones del procedimiento de apremio para los ingresos de derecho público no tributario mientras no concluya el plazo para interponer recurso contencioso-administrativo. Si durante ese plazo, el interesado comunicase a dicho órgano la interposición del recurso, con petición de suspensión y ofrecimiento de caución para garantizar la deuda, se mantendrá la paralización del procedimiento en tanto conserve su vigencia y eficacia la garantía aportada. En cualquier caso, durante este período de paralización se devengará el interés de demora regulado en el artículo 32 de esta Ley. Si el órgano judicial acuerda la suspensión, ésta se mantendrá hasta la resolución del recurso. Si se deniega la suspensión, el órgano competente para la gestión de la deuda requerirá de pago al deudor, concediéndole el plazo previsto para el pago de deudas en período voluntario en la Ley General Tributaria, contado a partir de la fecha de recepción del requerimiento citado.»
+
+Tres. Se modifica el artículo 42, que queda redactado en los siguientes términos:
+
+«Artículo 42.
+
+1\. Salvo lo establecido por Leyes especiales, prescribirán a los cuatro años:
+
+a) El derecho al reconocimiento o liquidación por la Administración de la Comunidad de Madrid y de sus organismos autónomos de toda obligación que no se hubiese solicitado con la presentación de los documentos justificativos. El plazo se contará desde la fecha en que se concluyó el servicio o la prestación determinante de la obligación o desde el día en que el derecho pudo ejercitarse.
+
+b) El derecho a exigir el pago de las obligaciones ya reconocidas o liquidadas, si no fuese reclamado por los acreedores legítimos o sus derechohabientes. El plazo se contará desde la fecha de notificación, del reconocimiento o liquidación de la respectiva obligación.
+
+c) El derecho a la devolución de ingresos indebidos y, en su caso, los intereses correspondientes. El plazo se contará desde la fecha en que dicho ingreso hubiese sido realizado.
+
+2\. Con la expresada salvedad en favor de Leyes especiales, la prescripción se interrumpirá conforme a las disposiciones del Código Civil.
+
+3\. Las obligaciones a cargo de la Hacienda de la Comunidad de Madrid que hayan prescrito, serán baja en las respectivas cuentas, previa tramitación del oportuno expediente.»
+
+Cuatro. Se modifica la letra a) del artículo 49, que queda redactada en los siguientes términos:
+
+«a) Una memoria justificativa de los créditos presupuestarios que solicita cada consejería, organismo autónomo, empresa o ente público para el ejercicio siguiente.»
+
+Cinco. Se modifican las letras b), c) y d) del apartado 2 del artículo 55, que quedan redactadas en los siguientes términos:
+
+«b) Contratos administrativos y los contratos privados de seguros.
+
+c) Arrendamientos de bienes inmuebles.
+
+d) Las cargas que se deriven de las operaciones de endeudamiento, dentro de los límites establecidos en el artículo 14 de la Ley Orgánica de Financiación de las Comunidades Autónomas.»
+
+Seis. Se modifica el apartado 2 del artículo 123, que queda redactado en los siguientes términos:
+
+«2. Por cada uno de los sujetos siguientes se enviarán a la Cámara de Cuentas:
+
+a) Las cuentas de las sociedades mercantiles a que se refiere la letra a) del apartado 1 del artículo 5 de la presente Ley.
+
+b) Las cuentas de las entidades de derecho público a que se refiere la letra b) del apartado 1 del artículo 5 de la presente Ley.
+
+c) Las cuentas de los demás entes del sector público de la Comunidad a que se refiere el artículo 6 de la presente Ley.
+
+Las cuentas anuales de las empresas públicas y de los demás entes del sector público a los que, de conformidad con su normativa específica no se les aplique el Plan de Contabilidad Pública de la Comunidad de Madrid, deberán ir acompañadas en todo caso de informe de gestión y de auditoría.»
+
+## CAPÍTULO III — Patrimonio
+
+### Artículo 7. Modificación parcial de la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid.
+
+Se modifican los preceptos que a continuación se indican de la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid:
+
+Uno. Se modifica el apartado 2 del artículo 46, que queda redactado en los siguientes términos:
+
+«2. Los arrendamientos rústicos y los no regulados en la Ley de Arrendamientos Urbanos se acordarán y resolverán por el titular de la consejería interesada, de acuerdo con lo previsto en este artículo, previo informe de la Consejería de Hacienda.
+
+Asimismo, los arrendamientos de espacios o locales para la celebración de ferias, certámenes, jornadas o impartición de acciones formativas, se acordarán por el titular de la consejería interesada, de conformidad con lo previsto en el apartado 4 de este artículo.»
+
+Dos. Se modifica el apartado 4 del artículo 46, que queda redactado en los siguientes términos:
+
+«4. Los arrendamientos de bienes inmuebles cuya renta anual no exceda de 30.000 euros, así como los de locales y espacios para la participación en ferias, certámenes, jornadas o impartición de acciones formativas, sólo exigirán, en su tramitación, la aprobación del gasto y la incorporación al expediente del contrato correspondiente.
+
+No obstante lo anterior, en el supuesto de arrendamiento de locales y espacios para participación en ferias, certámenes, jornadas o impartición de acciones formativas, cuya renta sea inferior a 12.020,34 euros y su duración no exceda de tres meses, la tramitación del expediente sólo exigirá la aprobación del gasto y la incorporación al mismo de la factura correspondiente que reúna los requisitos reglamentariamente establecidos.»
+
+Tres. Se adiciona un apartado 5 al artículo 47, con el siguiente tenor literal:
+
+«5. En el caso de aportaciones no dinerarias efectuadas por la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos, a sociedades mercantiles con forma de sociedad anónima cuyo capital sea en su totalidad de titularidad, directa o indirecta, de los mismos, será de aplicación lo establecido en el artículo 182 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas.»
+
+## CAPÍTULO IV — Recursos humanos
+
+### Artículo 8. Modificación parcial de la Ley 3/1999, de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid.
+
+Se modifica la letra b) del apartado 1 del artículo 4 de la Ley 3/1999, de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid, que queda redactada en los siguientes términos:
+
+«b) Los convenios y contratos administrativos, civiles y mercantiles que deban formalizarse por escrito, incluyendo los pliegos de cláusulas administrativas. Este dictamen podrá referirse también a contratos modelo y pliegos tipo.
+
+Los contratos modelo de naturaleza laboral que deban formalizarse por escrito y los que se aparten de dichos contratos modelo.»
+
+### Artículo 9. Modificaciones del régimen aplicable al personal estatutario fijo.
+
+Los derechos establecidos en el artículo 11 de la Ley 18/2000, de 27 de diciembre, de Medidas Fiscales y Administrativas, se extenderán al personal estatutario fijo que reúna los requisitos exigidos en dicho precepto. En el caso de que la incorporación al servicio activo se hubiera producido con anterioridad a la entrada en vigor de la presente Ley, los efectos económicos de los reconocimientos derivados de la aplicación de este precepto serán a partir de 1 de enero de 2006.
+
+## CAPÍTULO V — Organismos públicos
+
+### Artículo 10. Agencia para la Administración Digital de la Comunidad de Madrid.
+
+Uno. Naturaleza y personalidad jurídica.
+
+1\. La Agencia para la Administración Digital de la Comunidad de Madrid se configura como ente público de los previstos en el artículo 6 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, con personalidad jurídica propia, plena capacidad jurídica y de obrar para el cumplimiento de sus fines y con plena autonomía orgánica y funcional, que tiene por objeto, de acuerdo con las directrices establecidas por la consejería competente en materia de Digitalización, la planificación y ejecución de proyectos y servicios relacionados con tecnologías de la información, comunicaciones electrónicas y ciberseguridad, garantizando la interoperabilidad, escalabilidad, compatibilidad, suministro e intercambio de información, en el ámbito de actuación definido en el apartado dos de este artículo.
+
+2\. La Agencia quedará adscrita a la consejería competente en materia de Digitalización.
+
+Dos. Ámbito de actuación:
+
+1\. La Agencia para la Administración Digital de la Comunidad de Madrid ejercerá sus funciones, en el ámbito de la Administración General de la Comunidad de Madrid y sus Organismos Autónomos, sin perjuicio de lo dispuesto en el apartado siguiente.
+
+2\. Dichas funciones se ejercerán además respecto de las empresas públicas y demás entes públicos para la implementación de los productos y servicios declarados como de uso uniforme y exclusivo en toda la Comunidad de Madrid; y para la implantación de los servicios y sistemas de información corporativos o institucionales, de aplicación en toda la Comunidad de Madrid.
+
+3\. Adicionalmente, la Agencia podrá convenir con las empresas públicas y demás entes públicos sobre otros ámbitos y contenidos que se acuerden y se encuentren en el ámbito de sus funciones.
+
+4\. La Agencia para la Administración Digital de la Comunidad de Madrid también podrá extender determinados servicios de los que preste a ésta, u otros que se considere, a entidades locales o a otras Administraciones públicas, cuando así se convenga o se contrate, según los casos, entre la Agencia y la entidad que ostentare capacidad jurídica para ello.
+
+5\. El Consejo de Administración de la Agencia podrá realizar, para el mejor cumplimiento de sus fines, así como para el mejor logro de los mismos, y siempre que no entren en conflicto con dichos fines, cuantas actividades de naturaleza mercantil o industrial estén relacionadas con su objeto.
+
+6\. En el ejercicio de sus competencias, la Agencia obrará con plena autonomía financiera y de gestión, y operará bajo los objetivos de horizontalidad y centralización en la gestión de los servicios de informática y comunicaciones de la Administración de la Comunidad de Madrid, que permitan el mejor equilibrio técnico-económico de las soluciones aplicadas y los servicios prestados sin perjuicio de la necesaria atención a las peculiaridades propias de los servicios públicos con relación directa con el ciudadano.
+
+Tres. Competencias.
+
+1\. La Agencia, para el cumplimiento de sus objetivos, tiene las competencias que emanan de esta Ley y de las demás leyes y reglamentos que resulten de aplicación.
+
+2\. La Agencia ejercerá, bajo la dirección y coordinación de la consejería competente en materia de Digitalización, las siguientes competencias:
+
+a) La planificación, desarrollo y ejecución de planes y proyectos de tecnología, de comunicación electrónica y de seguridad de la información de la Administración General e Institucional de la Comunidad de Madrid, garantizando la interoperabilidad, escalabilidad, compatibilidad, suministro e intercambio de información.
+
+b) La participación en las propuestas e iniciativas sobre agilización y simplificación de procedimientos administrativos y servicios electrónicos, atención a la ciudadanía, gobierno abierto y transparencia que se realicen en la Administración General e Institucional de la Comunidad de Madrid, incluyéndose aquellas dirigidas a otras Administraciones públicas, al sector público, universidades, empresas y sector privado en general, sin perjuicio de las competencias de la dirección general competente en materia de transparencia y gobierno abierto.
+
+c) El desarrollo y ejecución de la estrategia diseñada por la consejería competente en materia de Digitalización en relación a la inteligencia artificial y otras tecnologías habilitadoras para la transformación digital de la Administración, así como la coordinación, ejecución y seguimiento del desarrollo de estos proyectos en la Comunidad de Madrid, incluido el análisis, diseño, desarrollo, implantación tecnológica, mantenimiento y evolución de los sistemas y soluciones tecnológicas de análisis de datos, gobierno del dato, cuadros de mando, datos masivos o "big data", inteligencia de datos, generación y gestión de conocimiento.
+
+d) La adquisición, el diseño, desarrollo, implantación, mantenimiento, gestión y evolución de la infraestructura tecnológica, sistemas de información y de comunicaciones electrónicas y seguridad de la información de titularidad de la Agencia, así como la ejecución de las actuaciones para su consolidación y racionalización, incluyéndose en particular el puesto de trabajo, las infraestructuras de almacenamiento, los centros de procesos de datos, incluido el uso de nubes públicas y privadas de la Comunidad de Madrid y el archivo electrónico único de los expedientes y documentos electrónicos.
+
+e) La gestión de los derechos de uso de productos software, bases de datos y en general cualesquiera elementos lógicos o físicos.
+
+f) El establecimiento de sistemas de información de uso obligatorio en el ámbito de la Administración General e Institucional de la Comunidad de Madrid y consorcios adscritos.
+
+g) El soporte y atención directa al personal empleado sobre los elementos tecnológicos puestos a su disposición para el desempeño de sus funciones, en especial el puesto de trabajo.
+
+h) El diseño y ejecución en la Administración General e Institucional de la Comunidad de Madrid, de los proyectos de sistemas y tecnologías de la información y comunicación electrónica que dan soporte a su operativa, incluyendo la planificación, diseño, gestión y operación de las tecnologías y sistemas que garanticen el funcionamiento de una Administración digital.
+
+i) El desarrollo, implantación, mantenimiento, gestión y evolución del modelo de gobernanza tecnológica que proporcione el catálogo de servicios y métricas asociadas, con seguimiento estandarizado de acuerdos de nivel de servicio, así como un cuadro de mandos del gasto en materia de tecnologías y comunicaciones.
+
+j) La elaboración y aprobación de las políticas de seguridad de los sistemas de información y comunicación electrónicas de titularidad de la Agencia y la gestión de los recursos comunes para la prevención, detección y respuesta a los incidentes y amenazas de ciberseguridad en el ámbito de sus funciones, sin perjuicio de las competencias de la Agencia de Ciberseguridad de la Comunidad de Madrid.
+
+k) El ejercicio de las funciones propias de encargado de tratamiento de los datos de carácter personal para la Administración General e Institucional de la Comunidad de Madrid, en el ámbito subjetivo de actuación.
+
+l) El desarrollo de programas de capacitación y certificación en competencias digitales dirigidos a los empleados de la Administración General e Institucional de la Comunidad de Madrid.
+
+m) Asesoramiento y asistencia técnica en tecnologías de la información y comunicación electrónica.
+
+n) La transferencia tecnológica en materia de tecnologías de la información y la comunicación a las Administraciones locales de la Comunidad de Madrid u otras Administraciones públicas adscritas.
+
+ñ) El impulso de la reutilización de medios, sistemas y aplicaciones propiedad de la Administración con fines de interés social.
+
+o) La elaboración y aprobación de las resoluciones e instrucciones para el adecuado desarrollo de sus competencias.
+
+p) La gestión y explotación de nombres de dominios de internet de la Comunidad de Madrid, con arreglo a los principios de calidad, eficacia, fiabilidad y accesibilidad y conforme al interés general, constituyéndose la Agencia en autoridad de asignación, registro y resolución de disputas, respecto del dominio del primer nivel ''.madrid''.
+
+q) La tramitación, gestión y concesión de ayudas y subvenciones en el ámbito de sus funciones, incluidas las ayudas al estudio para prácticas universitarias y de Formación Profesional en la Agencia.
+
+r) Las que le atribuyan expresamente las leyes de la Comunidad de Madrid y los reglamentos dictados de conformidad con las previsiones específicas de la ley, así como cualquier otra actividad, competencia o función que específicamente se le atribuya en relación con sus fines.
+
+3\. El desempeño de las funciones de la Agencia se realizará en el marco y con máximo respeto de los principios del Reglamento General de Protección de Datos y normativa concordante aplicable.
+
+Cuatro. Régimen jurídico general.
+
+1\. La Agencia se regirá por lo dispuesto en la presente Ley y en las disposiciones que la desarrollen y, supletoriamente, por lo dispuesto en la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+
+2\. La Agencia se sujetará con carácter general al Derecho privado, sin perjuicio de su sujeción al Derecho público en el ejercicio de potestades administrativas.
+
+3\. La Agencia, como ente institucional de Derecho público, podrá ejercer, para el mejor cumplimiento de sus fines y objetivos y la necesaria agilización y racionalización de sus procedimientos, las potestades administrativas que se deriven del ámbito de aplicación de esta Ley y de sus facultades de organización y actuación.
+
+4\. Cuando la Agencia actúe en el ejercicio de potestades administrativas serán de aplicación la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común y Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Asimismo, será de aplicación la Ley 10/2019, de 10 de abril, de Transparencia y Participación de la Comunidad de Madrid.
+
+5\. Las resoluciones dictadas en el ejercicio de estas potestades por los órganos de gobierno de la Agencia pondrán fin a la vía administrativa, y contra las mismas podrá interponerse recurso de reposición o recurso ante la jurisdicción contencioso-administrativa en los términos previstos por las leyes.
+
+6\. El régimen de contratación de la Agencia será el establecido para las Administraciones públicas en la legislación de contratos del sector público.
+
+Cinco. Órganos de gobierno y de dirección.
+
+1\. Los órganos de gobierno de la Agencia son: El Consejo de Administración, el Presidente del Consejo de Administración y el Consejero-Delegado.
+
+2\. Bajo la dirección, supervisión y control directo del Consejero-Delegado, podrán establecerse órganos de dirección que tendrán las funciones de ejercer la dirección superior de las unidades y los servicios de la Agencia para asegurar su funcionamiento y operatividad, así como la del personal al servicio de la misma y su vigilancia y control, así como todas aquellas funciones que les sean delegadas y encomendadas por sus órganos superiores.
+
+Seis. Consejo de Administración.
+
+1\. El Consejo de Administración de la Agencia estará constituido por el consejero al que está adscrita la Agencia, en calidad de Presidente, el titular de la Viceconsejería con competencias en la materia de la Consejería de adscripción con competencias en la materia, que será el Vicepresidente, y los siguientes vocales:
+
+a) El Consejero-Delegado de la Agencia.
+
+b) Los Secretarios Generales Técnicos de las distintas Consejerías.
+
+c) Los Directores Generales competentes en materia de presupuestos, patrimonio, recursos humanos, función pública, calidad de los servicios, política digital y sistemas de información y equipamientos sanitarios.
+
+d) Podrán designarse vocales a propuesta del Presidente del Consejo, entre personas o titulares de cargos por razón de su carácter representativo o técnico. Su nombramiento y cese corresponderá al Consejo de Gobierno mediante Acuerdo.
+
+2\. El secretario será designado por el Consejo de Administración entre personal perteneciente a la Agencia, a propuesta de su presidente.
+
+3\. El Consejo de Administración aprobará un reglamento de funcionamiento interno del mismo en el que se fijará el régimen de sesiones y de acuerdos, así como las funciones del Secretario. Igualmente podrá aprobar la constitución de comisiones o grupos de trabajo para materias y asuntos determinados, con la composición y funciones que el mismo determine.
+
+4\. Corresponden al Consejo de Administración las siguientes funciones:
+
+a) La supervisión de los instrumentos de planificación informática y de las comunicaciones en la Comunidad de Madrid, así como la aprobación de los planes de actuación estratégica que afecten a departamentos pertenecientes a dos o más Consejerías, su revisión y el control de su cumplimiento, así como de los programas de actuación anual que considere oportuno.
+
+b) La propuesta de la declaración de «hardware» y «software» de uso uniforme y exclusivo en toda la Administración general e institucional de la Comunidad de Madrid.
+
+c) La aprobación de la estructura y el organigrama de la Agencia hasta el siguiente nivel organizativo al del Consejero-Delegado, a propuesta de éste, y previo informe favorable de la Consejería competente en materia de Hacienda.
+
+d) La aprobación del anteproyecto de presupuesto de la Agencia, que se integrará en los Presupuestos Generales de la Comunidad de Madrid.
+
+e) La aprobación de las cuentas anuales, así como la memoria anual de las actividades de la Agencia, que serán presentadas al consejero a cuyo departamento esté adscrita la misma.
+
+f) Las decisiones sobre la administración del patrimonio y bienes de la Agencia.
+
+g) Las decisiones que puedan corresponder a la Agencia, en relación con las sociedades anónimas en las que tuviera participación.
+
+h) La propuesta, cuando así corresponda, del nombramiento y sustitución de los miembros de los consejos de administración de las empresas públicas que pudieran ser creadas o participadas por la Agencia.
+
+i) La autorización previa de los contratos, sus prórrogas y modificaciones.
+
+De acuerdo con lo que se determine en el Reglamento interno de la Agencia, las funciones previstas en la letra i) podrán delegarse en una comisión o en el consejero delegado, salvo en el caso de los contratos que, ya sea individualmente o considerando la suma de todos los lotes en los que se hubiere dividido su objeto, alcancen un presupuesto base de licitación igual o superior a 3.000.000 de euros.
+
+Siete. El Presidente del Consejo de Administración será el titular de la Consejería de adscripción, quien velará por la consecución efectiva de los objetivos y fines asignados a la Agencia y ostentará su representación. Además, le corresponden las siguientes funciones:
+
+a) La representación institucional de la Agencia.
+
+b) Suscribir en nombre de la Agencia los convenios, conciertos y demás instrumentos de colaboración, de acuerdo con las funciones específicas de la Agencia, dentro de sus competencias.
+
+c) Impulsar las actividades de la Agencia, velando por la coordinación de los servicios y su especial adecuación a las necesidades de los distintos departamentos de la Comunidad de Madrid.
+
+d) La aprobación de los planes especiales de coordinación interadministrativa de la Agencia.
+
+e) Decidir la convocatoria de las sesiones ordinarias y extraordinarias del Consejo de Administración y establecer el orden del día, teniendo en cuenta, en su caso, las peticiones y sugerencias de los demás miembros formuladas con la antelación suficiente.
+
+f) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+g) Dirimir con su voto los empates a efectos de la adopción de acuerdos.
+
+h) Visar las actas y certificaciones de los acuerdos del Consejo de Administración.
+
+i) Conferir y revocar poderes generales o especiales a personas determinadas para los asuntos en que fuere necesario tal otorgamiento, dando cuenta al Consejo de Administración.
+
+j) Aprobar la propuesta de oferta de empleo público de la Agencia que se integrará en la oferta de empleo público de la Comunidad de Madrid, de conformidad con lo dispuesto en la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid.
+
+k) Desempeñar el resto de competencias que pueda atribuirle el ordenamiento jurídico.
+
+l) Controlar la actuación del Consejero-Delegado, conforme a la normativa aplicable.
+
+m) Cualesquiera otras funciones que pudieran serle delegadas.
+
+Ocho. Consejero-Delegado.
+
+1\. El Consejero-Delegado será nombrado y, en su caso, cesado mediante decreto del Consejo de Gobierno, a propuesta del Presidente del Consejo de Administración.
+
+2\. Corresponden al Consejero-Delegado las funciones siguientes:
+
+a) En materia general y de organización:
+
+1.º Asegurar la ejecución de los acuerdos del Consejo de Administración, velando por su cumplimiento.
+
+2.º La dirección última de los servicios de informática y comunicaciones, en el ámbito de actuación de la Agencia, así como la supervisión y control de sus restantes órganos de dirección y sus diferentes unidades organizativas.
+
+3.º Proponer al Consejo de Administración la aprobación del programa de actuación anual y del anteproyecto de presupuesto de la Agencia, responsabilizándose de su ejecución una vez aprobado, y rindiendo cuentas al Consejo del cumplimiento de los mismos.
+
+4.º La determinación de la estructura y organigrama de la Agencia en todo lo complementario a la competencia del Consejo de Administración en tal materia, así como el nombramiento de los responsables de la dirección y jefatura de las distintas unidades organizativas de la Agencia.
+
+5.º La aprobación de las homologaciones de «hardware» y «software».
+
+6.º Proponer, a los órganos competentes, los convenios necesarios o convenientes para el mejor desarrollo de las funciones de la Agencia.
+
+7.º La resolución de las reclamaciones previas a las vías laboral y civil.
+
+8.º Autorizar los gastos y ordenar los pagos.
+
+b) En materia de contratación de bienes y servicios, el Consejero-Delegado es el órgano de contratación de la Agencia, y ejerce todas las facultades que, en virtud de dicho título, le correspondan.
+
+c) En materia de personal:
+
+1.º Proponer a la Consejería de Hacienda la aprobación de la relación de puestos de trabajo y sus correspondientes plantillas presupuestarias, así como sus modificaciones.
+
+2.º Proponer al Presidente del Consejo la oferta de empleo público de la Agencia.
+
+3.º Establecer los requisitos y características de las pruebas para acceder a los puestos de trabajo así como su convocatoria, gestión y resolución, en el marco de la legislación en materia de selección de personal que sea de aplicación.
+
+4.º Ejercer todas las competencias en materia de personal y todas las facultades referentes a su dirección y gestión, en particular respecto a negociación colectiva, retribuciones, jornada de trabajo, régimen disciplinario, contratación y cese del personal dependiente de la Agencia, con arreglo a la legislación laboral y al convenio colectivo de aplicación.
+
+5.º Proceder en su caso a la ratificación de la adscripción de los funcionarios de carrera al servicio de la Agencia y al nombramiento y cese de los mismos en los correspondientes puestos de trabajo, de acuerdo con los procedimientos de aplicación general en la Comunidad de Madrid.
+
+d) Las decisiones relativas al ejercicio de denuncias, acciones y recursos, así como su desistimiento y allanamiento.
+
+e) Cualesquiera otras que pudieran serle expresamente delegadas, así como cuantas no estén expresamente atribuidas a otros órganos.
+
+Nueve. Delegaciones.
+
+Las funciones de los distintos órganos de gobierno y dirección, podrán ser ejercidas en suplencia o ser objeto de delegación, de acuerdo con lo previsto en la Ley 40/2015, de 1 de octubre, de Procedimiento Administrativo Común, para la mayor agilidad y eficiencia en su ejercicio y en la operatividad de la Agencia.
+
+Diez. Hacienda.
+
+1\. La Hacienda de la Agencia está constituida por el conjunto de derechos y obligaciones de contenido económico cuya titularidad le corresponde, y se regirá por la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+
+2\. Las tasas que de acuerdo con su normativa de creación sean gestionadas por la Agencia quedarán afectadas al cumplimiento específico de los fines de ésta.
+
+Once. Patrimonio.
+
+1\. El Patrimonio de la Agencia está constituido por el conjunto de sus bienes y derechos, cualquiera que sea su naturaleza y el título de su adquisición o aquel en virtud del cual le hayan sido atribuidos.
+
+2\. El régimen jurídico del Patrimonio de la Agencia se regirá por la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid y por la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones públicas.
+
+3\. Corresponde, en todo caso, a la Agencia la titularidad patrimonial sobre todo bien material o lógico afecto o necesario para la prestación de los servicios que tiene encomendados en su ámbito de actuación.
+
+Doce. Contabilidad y control.
+
+1\. La Agencia queda sometida al régimen de contabilidad pública en los términos señalados en el Título VI de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+
+2\. La Intervención General de la Comunidad de Madrid ejercerá el control financiero de carácter permanente sobre el aspecto económico-financiero de la actividad de la Agencia, de conformidad con lo prevenido en el artículo 17 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, excepto en la gestión de la actividad subvencional, que se sujetará al ejercicio de la función interventora según lo determinado en la ley de subvenciones de la Comunidad de Madrid.
+
+Trece. Tesorería. La Agencia contará con tesorería propia.
+
+Catorce. Régimen jurídico de personal.
+
+1\. El personal de la Agencia para la Administración Digital de la Comunidad de Madrid tendrá naturaleza laboral y se regirá por la legislación laboral, los preceptos del Estatuto Básico del Empleado Público que así lo dispongan, el convenio colectivo de la misma y demás normativa de función pública aplicable a este tipo de personal.
+
+2\. El personal funcionario adscrito a la Agencia para el ejercicio de potestades administrativas se regirá por las disposiciones que le sean de aplicación atendiendo a la naturaleza de su relación de empleo, en particular, el Estatuto Básico del Empleado Público, la Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid, los respectivos acuerdos de la mesa sectorial por los que se regulen las condiciones de trabajo y demás normativa de función pública aplicable a este tipo de personal.
+
+3\. La Agencia tendrá plena autonomía de gestión de su personal para el más ágil y eficaz cumplimiento de sus fines y objetivos, dentro del marco legislativo y presupuestario aplicable.
+
+4\. Corresponde a la Agencia, y particularmente a su Consejero-Delegado, la determinación del régimen y requisitos de acceso a sus puestos de trabajo y la determinación de las características de las pruebas necesarias a tal efecto y del régimen de funcionamiento de sus órganos de selección de personal, de acuerdo con sus necesidades, las vacantes existentes y sus disponibilidades presupuestarias, sin perjuicio de lo dispuesto en la legislación laboral, en el convenio colectivo y en el resto de la legislación que sea de aplicación.
+
+5\. La contratación del personal se regirá, igualmente, por el derecho laboral. Los procesos selectivos se realizarán en todo caso mediante convocatoria pública y seguirán en su convocatoria, métodos de selección y procedimiento de resolución, los principios de igualdad, mérito y capacidad, así como los de publicidad, celeridad y concurrencia.
+
+Quince. Encargado de tratamiento.
+
+1\. Cuando la Agencia, en el ejercicio de sus fines y funciones, trate datos personales cuyo responsable del tratamiento esté comprendido en el ámbito de su responsabilidad subjetiva, se considerará que actúa como encargado del tratamiento, de conformidad con lo establecido en el apartado 5 del artículo 33 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales. El objeto, la duración, la naturaleza y la finalidad del tratamiento, el tipo de datos personales y categorías de interesados serán los que se especifiquen en el correspondiente registro de actividades de tratamiento. Las obligaciones y derechos del responsable serán las dispuestas en virtud del Derecho de la Unión o de los Estados miembros.
+
+Lo expresado en el párrafo anterior no será aplicable cuando la Agencia sea corresponsable del tratamiento, en los términos del artículo 26 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos).
+
+2\. Se autoriza, con carácter general, a la Agencia a recurrir a otros encargados del tratamiento, de conformidad con los apartados 2 y 4 del artículo 28 del Reglamento general de protección de datos. La Agencia mantendrá permanentemente a disposición de los responsables de tratamiento una relación actualizada de los encargados de tratamiento a los que, en su caso, haya recurrido, con la información relevante en relación con el objeto del encargo.
+
+3\. La Agencia, en su condición de encargado del tratamiento, actuará de conformidad con los siguientes términos y condiciones:
+
+a) Tratará los datos personales únicamente siguiendo instrucciones documentadas del responsable, inclusive con respecto a las transferencias de datos personales a un tercer país o una organización internacional, salvo que esté obligada a ello en virtud del Derecho de la Unión o de los Estados miembros que se aplique al encargado; en tal caso, el encargado informará al responsable de esa exigencia legal previa al tratamiento, salvo que tal Derecho lo prohíba por razones importantes de interés público.
+
+b) Garantizará que las personas autorizadas para tratar datos personales se hayan comprometido a respetar la confidencialidad o estén sujetas a una obligación de confidencialidad de naturaleza estatutaria derivada de su condición de empleado público. Garantizará el mismo deber de confidencialidad en caso de que el tratamiento se realice por otros encargados a los que, en su caso, recurra.
+
+c) Tomará todas las medidas necesarias de conformidad con el artículo 32 del Reglamento general de protección de datos.
+
+d) Recurrirá únicamente a otros encargados de tratamiento que ofrezcan las garantías suficientes de aplicación de medidas técnicas y organizativas apropiadas, de manera que el tratamiento sea conforme con las disposiciones del citado Reglamento, y acrediten el cumplimiento del Esquema Nacional de Seguridad o hayan adoptado medidas que puedan considerarse equivalentes.
+
+e) Asistirá al responsable, teniendo en cuenta la naturaleza del tratamiento, a través de medidas técnicas y organizativas apropiadas, siempre que sea posible, para que este pueda cumplir con su obligación de responder a las solicitudes que tengan por objeto el ejercicio de los derechos de las personas interesadas.
+
+f) Ayudará al responsable a garantizar el cumplimiento de las obligaciones establecidas en los artículos 32 a 36 del citado Reglamento, teniendo en cuenta la naturaleza del tratamiento y la información a disposición del encargado.
+
+g) Seguirá las instrucciones del responsable en lo relativo a la supresión o conservación de los datos personales una vez finalice la prestación de los servicios de tratamiento, de conformidad con lo dispuesto en el ordenamiento jurídico, y suprimirá las copias existentes a menos que se requiera la conservación de los datos personales en virtud del Derecho de la Unión o de los Estados miembros.
+
+h) Pondrá a disposición del responsable toda la información necesaria para demostrar el cumplimiento de sus obligaciones como encargado, así como para permitir y contribuir a la realización de auditorías, incluidas inspecciones, por parte del responsable o de otro auditor autorizado por dicho responsable.
+
+i) Informará inmediatamente al responsable si, en su opinión, una instrucción infringe el citado Reglamento u otras disposiciones en materia de protección de datos y seguridad.
+
+4\. La Agencia facilitará asesoramiento técnico especializado a los responsables de tratamiento, como apoyo al cumplimiento de sus obligaciones en relación con la protección de datos desde el diseño y por defecto establecidas en el artículo 25 del Reglamento general de protección de datos, sin perjuicio de las funciones del Delegado de protección de datos que corresponda al responsable del tratamiento.
+
+> Se modifican los apartados Uno, Tres, Seis y Catorce por el art. 7 de la Ley 8/2024, de 26 de diciembre. [Ref. BOE-A-2025-5523](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5523)
+
+> Se modifica por el art. 26 de la Ley 11/2022, de 21 de diciembre. [Ref. BOE-A-2023-7343](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7343)
+
+> Redactado el apartado Uno.1 conforme a la corrección de errores publicada en el BOCM núm. 69, de 22 de marzo de 2023. [Ref. BOCM-m-2023-90108](https://www.boe.es/buscar/doc.php?id=BOCM-m-2023-90108)
+
+> Se modifican los apartados Uno, Tres, Seis.1 y Doce.2 por el art. 4 de la Ley 9/2015, de 28 de diciembre. [Ref. BOE-A-2016-4510](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4510)
+
+> Se modifica el apartado 6.1 por el art. 6 de la Ley 6/2011, de 28 de diciembre. [Ref. BOE-A-2012-2980](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-2980)
+
+> Se modifican los apartados Uno.5, Tres.g), Seis.1 y Siete por el art. 15 de la Ley 3/2008, de 29 de diciembre. [Ref. BOE-A-2009-4514](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-4514)
+
+### Artículo 11. Modificación parcial de la Ley 22/1999, de 21 de diciembre, de Creación del Ente de Derecho Público MINTRA (Madrid, Infraestructuras del Transporte).
+
+Se modifican los preceptos que a continuación se indican de la Ley 22/1999, de 21 de diciembre, de Creación del Ente de Derecho Público MINTRA (Madrid, Infraestructuras del Transporte):
+
+Uno. Se modifica la letra c) del apartado 3 del artículo 3, que queda redactado en los siguientes términos:
+
+«c) La adquisición, permuta, enajenación, arrendamiento y cesión de toda clase de bienes incluido el material móvil ferroviario. Por motivos de economía y eficiencia en la gestión, cuando el material móvil ferroviario vaya a ser enajenado o deba ser objeto de cualesquiera actos de disposición que supongan un cambio en su titularidad, se entenderá automáticamente desafectado y adquirirá la condición de bien patrimonial.»
+
+Dos. Se modifica el apartado 2 del artículo 15, que queda redactado en los siguientes términos:
+
+«2. Los contratos patrimoniales que celebre MINTRA se regirán por lo dispuesto en la Ley de Patrimonio de la Comunidad de Madrid con las particularidades derivadas de su propia organización y régimen jurídico.
+
+Los contratos patrimoniales cuyo objeto sea la enajenación de toda clase de derechos y bienes muebles, incluido el material móvil ferroviario, precisarán para su tramitación la acreditación, bien de su innecesariedad para el ejercicio de las funciones públicas o bien de la conveniencia de su enajenación por razones de economía y eficacia para el cumplimiento de los fines de MINTRA.»
+
+Tres. Se adiciona un apartado 3 al artículo 15, con el siguiente tenor literal:
+
+«3. Los restantes contratos se regirán por el Real Decreto Legislativo 2/2000, de 16 de junio, por el que se aprueba el Texto Refundido de la Ley de Contratos de las Administraciones Públicas y, en su caso, por el Derecho privado en los términos previstos en el mismo texto legal.»
+
+### Artículo 12. Cambio de denominación del Instituto Superior de Estudios de Seguridad de la Comunidad de Madrid.
+
+Uno. Se modifica el título de la Ley 15/2000, de 21 de diciembre, de Creación del Instituto Superior de Estudios de Seguridad de la Comunidad de Madrid, que queda redactado en los siguientes términos:
+
+«Ley 15/2000, de 21 de diciembre, de Creación de la Academia de Policía Local de la Comunidad de Madrid.»
+
+Dos. A partir de la entrada en vigor de la presente Ley, las referencias que en el ordenamiento jurídico se realizan al Instituto Superior de Estudios de Seguridad de la Comunidad de Madrid se entenderán realizadas a la Academia de Policía Local de la Comunidad de Madrid.
+
+### Artículo 13. Modificación parcial de la Ley 6/1991, de 4 de abril, de Creación del Consejo Económico y Social.
+
+Se adiciona un segundo párrafo al artículo 8 de la Ley 6/1991, de 4 de abril, de Creación del Consejo Económico y Social, con el siguiente tenor literal:
+
+«Estos importes podrán percibirse directamente por las organizaciones a las que representen, en los supuestos de miembros a que se refiere el artículo 6.1.b) y c), cuando así se manifieste por éstos.»
+
+### Artículo 14. Modificación parcial de la Ley 6/2004, de 28 de diciembre, de Creación del Tribunal de Defensa de la Competencia.
+
+Se modifican los preceptos que a continuación se indican de la Ley 6/2004, de 28 de diciembre, de Creación del Tribunal de Defensa de la Competencia:
+
+Uno. Se modifica el artículo 1, que queda redactado en los siguientes términos:
+
+«Artículo 1. Naturaleza jurídica.
+
+1\. El Tribunal de Defensa de la Competencia de la Comunidad de Madrid es un ente de derecho público de los previstos en el artículo 6 de la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, dotado de personalidad jurídica propia y diferenciada, con plena capacidad jurídica y de obrar, tanto pública como privada, que ejerce sus funciones con plena independencia y sometimiento pleno al ordenamiento jurídico.
+
+2\. Se regirá por lo establecido en esta Ley y disposiciones que la desarrollen, así como las disposiciones de la Ley Reguladora de la Hacienda de la Comunidad de Madrid, que le resulten de aplicación. En el ejercicio de las funciones públicas que esta Ley le atribuye se regirá por la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+3\. El Tribunal de Defensa de la Competencia de la Comunidad de Madrid se adscribe a la consejería competente en la materia.»
+
+Dos. Se modifica la letra c) del apartado 2 del artículo 8, que queda redactada de la siguiente manera:
+
+«c) Elevar al Gobierno de la Comunidad de Madrid, para su adopción, la estructura del Tribunal de Defensa de la Competencia y proponer a la Consejería de Hacienda la aprobación de la relación de puestos de trabajo y sus correspondientes plantillas presupuestarias, junto con sus modificaciones, así como ejercer las funciones de jefatura del personal del Tribunal y promover la cobertura de las vacantes que se produzcan.»
+
+Tres. Se modifica el artículo 17, que queda redactado en los siguientes términos:
+
+«Artículo 17. Personal.
+
+1\. El personal al servicio del Tribunal de Defensa de la Competencia de la Comunidad de Madrid desempeñará los puestos de trabajo conforme al régimen previsto en la legislación de la Comunidad de Madrid, pudiéndose integrar las plantillas con personal funcionario o laboral.
+
+2\. Dentro del régimen indicado en el apartado anterior, y respecto del personal laboral, corresponde al Presidente del Tribunal la determinación del régimen y requisitos de acceso a sus puestos de trabajo y la determinación de las características de las pruebas necesarias a tal efecto y del régimen de funcionamiento de sus órganos de selección de personal, de acuerdo con sus necesidades, las vacantes existentes y sus disponibilidades presupuestarias, sin perjuicio de lo dispuesto en la legislación laboral, en el convenio colectivo y en el resto de la legislación que sea de aplicación.
+
+3\. La contratación del personal se regirá, igualmente, por el derecho laboral. Los procesos selectivos se realizarán en todo caso mediante convocatoria pública y seguirán en su convocatoria, métodos de selección y procedimiento de resolución, los principios de igualdad, mérito y capacidad, así como los de publicidad y celeridad.»
+
+Cuatro. Se modifica el artículo 18, que queda redactado en los siguientes términos:
+
+«Artículo 18. Hacienda, Patrimonio y Contratación.
+
+1\. La Hacienda del Tribunal de Defensa de la Competencia de la Comunidad de Madrid está constituida por el conjunto de derechos y obligaciones de contenido económico cuya titularidad le corresponde y se regirá por la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+
+2\. El Patrimonio está constituido por el conjunto de sus bienes y derechos, cualquiera que sea su naturaleza y el título de su adquisición o aquel en virtud del cual les hayan sido atribuidos y se regirá por la Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid.
+
+3\. La contratación se rige por las normas generales de aplicación a las Administraciones Públicas.»
+
+Cinco. Se modifica el artículo 19, que queda redactado en los siguientes términos:
+
+«Artículo 19. Del régimen presupuestario y contable.
+
+El Tribunal de Defensa de la Competencia de la Comunidad de Madrid tendrá presupuesto propio y estará sometido al régimen de contabilidad de acuerdo con la Ley Reguladora de la Hacienda de la Comunidad de Madrid.»
+
+### Artículo 15. Modificación parcial de la Ley 11/1999, de 29 de abril, de la Cámara de Cuentas de la Comunidad de Madrid.
+
+Se adiciona un apartado 4 al artículo 31 de la Ley 11/1999, de 29 de abril, de la Cámara de Cuentas de la Comunidad de Madrid, con el siguiente tenor literal:
+
+«4. El nombramiento como Secretario General de la Cámara de Cuentas, implicará la declaración del interesado en la situación administrativa de servicios especiales.»
+
+## CAPÍTULO VI — Procedimientos administrativos
+
+### Artículo 16. Modificación parcial de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid.
+
+Se modifica el apartado 2 del artículo 54 de la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, que queda redactado en los siguientes términos:
+
+«2. El procedimiento de tramitación de las reclamaciones y recursos en vía económico-administrativa, en materia tributaria y en el resto de materias vinculadas al ámbito económico-financiero, se desarrollará de acuerdo con lo previsto en el apartado 4 de este artículo, pudiendo adecuarse los procedimientos previstos en la Ley 58/2003, de 17 de diciembre, General Tributaria, al propio sistema de organización económico-administrativa de la Comunidad de Madrid.»
+
+### Artículo 17. Modificación parcial de la Ley 9/2003, de 26 de marzo, del Régimen Sancionador en Materia de Viviendas Protegidas de la Comunidad de Madrid.
+
+Se modifican los preceptos que a continuación se indican de la Ley 9/2003, de 26 de marzo, del Régimen Sancionador en Materia de Viviendas Protegidas de la Comunidad de Madrid:
+
+Uno. Se modifica la letra d) del artículo 6, que queda redactada en los siguientes términos:
+
+«d) La entrega de las viviendas por el promotor a sus titulares antes de su calificación definitiva sin la autorización expresa de la Administración de la Comunidad de Madrid.»
+
+Dos. Se adiciona una letra k) al artículo 7, con el siguiente tenor literal:
+
+«k) No solicitar la calificación definitiva en el plazo señalado en las disposiciones de aplicación.»
+
+Tres. Se modifica la letra g) del artículo 8, que queda redactada en los siguientes términos:
+
+«g) La realización por el promotor de alguna actuación que impida o dificulte la verificación por la Administración del cumplimiento de la normativa para el otorgamiento de la calificación definitiva, o el incumplimiento de los restantes requisitos exigibles para su concesión, que den lugar a la denegación de la misma.»
+
+Cuatro. Se modifica la letra m) del artículo 8, que queda redactada en los siguientes términos:
+
+«m) La cesión onerosa o gratuita de los derechos inherentes a la condición de arrendatario o adjudicatario, el arrendamiento o cesión de uso, total o parcial, y el subarriendo de las viviendas promovidas por las Administraciones públicas o empresas de ellas dependientes.»
+
+Cinco. Se adiciona una letra n) al artículo 8, con el siguiente tenor literal:
+
+«n) La falta de notificación de los actos sometidos al derecho de tanteo y retracto regulado en la Ley del Suelo de la Comunidad de Madrid al registro administrativo habilitado al efecto.»
+
+## CAPÍTULO VII — Administración Local
+
+### Artículo 18. Modificación parcial de la Ley 2/2003, de 11 de marzo, de Administración Local de la Comunidad de Madrid.
+
+Se modifican los preceptos que a continuación se indican de la Ley 2/2003, de 11 de marzo, de Administración Local de la Comunidad de Madrid:
+
+Uno. Se modifica el apartado 1 del artículo 132, que queda redactado en los siguientes términos:
+
+«1. Sobre la base de las necesidades de inversión en infraestructura y equipamiento local para la prestación de servicios de competencia municipal, correspondientes a las entidades locales, la Comunidad de Madrid formará anualmente el plan de obras y servicios de competencia municipal y una memoria justificativa de sus objetivos a efectos de su inclusión en el Programa de Cooperación Económica del Estado a las inversiones de las entidades locales de la Comunidad de Madrid.»
+
+Dos. Se modifica el apartado 3 de la disposición adicional segunda, que queda redactado en los siguientes términos:
+
+«3. La dotación del Fondo Regional de Cooperación Municipal de la Comunidad de Madrid podrá realizarse total o parcialmente con cargo a programas regionales de inversiones y servicios de la Comunidad de Madrid.»
+
+## CAPÍTULO VIII — Juego
+
+### Artículo 19. Modificación parcial de la Ley 3/2000, de 8 de mayo, de Medidas Urgentes, Fiscales y Administrativas sobre los Juegos de Suerte, Envite y Azar y Apuestas en la Comunidad de Madrid.
+
+Se modifica el apartado 2 de la disposición segunda del artículo único de la Ley 3/2000, de 8 de mayo, de Medidas Urgentes, Fiscales y Administrativas sobre los Juegos de Suerte, Envite y Azar y Apuestas en la Comunidad de Madrid, que queda redactado en los siguientes términos:
+
+«2. En los establecimientos de hostelería debidamente autorizados para la instalación de máquinas recreativas, recreativas con premio programado y recreativas con premio en especie, no podrá celebrarse ni comercializarse ningún otro tipo de juego o apuesta, con excepción de esta última actividad en los términos que reglamentariamente se establezcan.»
+
+### Disposición adicional primera. Agencia de Informática y Comunicaciones de la Comunidad de Madrid.
+
+1\. El personal propio del actual Organismo Autónomo Informática y Comunicaciones de la Comunidad de Madrid continuará siéndolo del Ente de Derecho público, sin que el cambio de forma y naturaleza jurídica del actual Organismo autónomo conlleve modificación alguna en las relaciones de empleo.
+
+2\. En el caso de que la Comunidad de Madrid procediera a modificar la Agencia de Informática y Comunicaciones de la Comunidad de Madrid atribuyendo sus competencias a otras entidades, o declarase la extinción de la misma, el personal afectado, en virtud de su carácter de empleado público, tendrá derecho a integrarse en la Administración de la Comunidad de Madrid.
+
+3\. En el plazo de cuatro meses desde su constitución el Consejo de Administración de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid aprobará los acuerdos de nivel de servicio que regulen la relación operativa entre la Agencia y las consejerías y organismos comprendidos en el ámbito de actuación de la Agencia.
+
+4\. Las funciones de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid no se extienden a las competencias sobre los sistemas de informática médica, gestión sanitaria y a aquellas relativas a las relaciones del sistema sanitario con los ciudadanos, profesionales sanitarios, oficinas de farmacia, sanidad privada y cualesquiera otras personas físicas o jurídicas distintas de la Administración de la Comunidad de Madrid, sus organismos autónomos, entidades de derecho público y demás entes públicos.
+
+5\. No obstante lo anterior, la Agencia de Informática y Comunicaciones de la Comunidad de Madrid desarrollará en todo caso sobre el ámbito expuesto en el párrafo anterior las siguientes competencias:
+
+a) Las que le corresponden de ordinario para la implementación de los productos y servicios declarados por el órgano competente como de uso uniforme y exclusivo en toda la Comunidad de Madrid, así como las que le corresponda en su ámbito general respecto a las comunicaciones de voz y datos, puestos de trabajo ofimáticos y las acciones de todo tipo necesarias para el funcionamiento ordinario de los mismos.
+
+b) Las que le corresponden para la implantación de los sistemas de información y servicios corporativos o institucionales, de aplicación en toda la Comunidad de Madrid.
+
+Están comprendidos en esta categoría, en particular, los sistemas de información para las transacciones económico-financieras, para la gestión de personal, para la contratación de bienes y servicios, los sistemas de información geo-referenciados, los sitios web y los portales de internet e intranet.
+
+c) La emisión de informe sobre los contenidos de los pliegos de condiciones y demás documentos de contratación de los del apartado 4 de esta disposición adicional, en aquellos aspectos relacionados con su ámbito de actuación ordinario, la correspondiente coordinación institucional y la compatibilidad informática.
+
+d) Informe técnico de evaluación de ofertas y participación en mesas de contratación de las del apartado 4 de esta disposición adicional que tengan relación con su ámbito de actuación ordinario.
+
+6\. Respecto a lo establecido en la Orden de 21 de octubre de 2003, del Consejero de Hacienda, sobre información a remitir por los organismos autónomos mercantiles, empresas públicas, y resto de entes públicos de la Comunidad de Madrid se establece para la Agencia de Informática y Comunicaciones de la Comunidad de Madrid una moratoria de tres meses a contar desde la entrada en vigor de la presente Ley.
+
+> Se modifican las letras a) a c) del apartado 5 por el art. 16 de la Ley 7/2007, de 21 de diciembre. [Ref. BOE-A-2008-4062](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-4062)
+
+### Disposición adicional segunda. Habilitación presupuestaria.
+
+Se autoriza al titular de la Consejería de Hacienda para realizar las modificaciones presupuestarias y cuantas otras operaciones de carácter financiero y presupuestario sean precisas para el cumplimiento de lo dispuesto en la presente Ley.
+
+### Disposición transitoria primera. Impuesto sobre Sucesiones y Donaciones.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 4/2006, de 22 de diciembre. [Ref. BOE-A-2007-9769](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9769)
+
+### Disposición transitoria segunda. Tasa fiscal sobre los juegos de suerte, envite y azar, en el supuesto de nuevas autorizaciones de casinos de juego.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única.4 del Decreto Legislativo 1/2010, de 21 de octubre. [Ref. BOCM-m-2010-90068](https://www.boe.es/buscar/doc.php?id=BOCM-m-2010-90068)
+
+### Disposición transitoria tercera. Órganos de gobierno del Organismo Autónomo Informática y Comunicaciones de la Comunidad de Madrid.
+
+Los órganos de gobierno del Organismo Autónomo Informática y Comunicaciones de la Comunidad de Madrid continuarán ejerciendo sus funciones en tanto no queden constituidos los nuevos órganos de gobierno de la Agencia de Informática y Comunicaciones de la Comunidad de Madrid, con el fin de garantizar el normal desarrollo de las actividades y el ejercicio de las atribuciones que le están conferidas.
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. A partir de la entrada en vigor de esta Ley quedan derogadas las siguientes disposiciones:
+
+a) La reducción en adquisiciones «inter vivos» regulada en el artículo 3, apartado tres de la Ley 5/2004, de 28 de diciembre, de Medidas Fiscales y Administrativas.
+
+b) El artículo 57 de la Ley 14/1996, de 23 de diciembre, de Presupuestos de la Comunidad de Madrid y sus modificaciones.
+
+2\. Asimismo, quedan derogadas todas las disposiciones de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en la presente Ley.
+
+### Disposición final primera. Texto refundido.
+
+Se autoriza al Gobierno de la Comunidad de Madrid para que, en el plazo de nueve meses desde la entrada en vigor de la presente Ley, elabore un texto refundido de la Ley por la que se Regulan los Servicios de Prevención, Extinción de Incendios y Salvamentos de la Comunidad de Madrid, al que se incorporarán las disposiciones legales vigentes contenidas en las Leyes siguientes:
+
+a) Ley 14/1994, de 28 de diciembre, por la que se Regulan los Servicios de Prevención, Extinción de Incendios y Salvamentos de la Comunidad de Madrid, publicada en el «Boletín Oficial de la Comunidad de Madrid» del día 11 de enero de 1995.
+
+b) Ley 28/1997, de 26 de diciembre, de Medidas Fiscales y Administrativas, publicada en el «Boletín Oficial de la Comunidad de Madrid» del día 2 de enero de 1998, que dio parcialmente una nueva redacción a los artículos 14 y 15 de la Ley 14/1994.
+
+c) Ley 19/1999, de 29 de abril, por la que modifica parcialmente la Ley 14/1994, de 28 de diciembre, por la que se Regulan los Servicios de Prevención, Extinción de Incendios y Salvamentos de la Comunidad de Madrid, y que fue publicada en el «Boletín Oficial de la Comunidad de Madrid» del día 19 de mayo. Esta disposición modificó más de treinta artículos de la anterior Ley 14/1994.
+
+d) Ley 4/2000, de 8 de mayo, Reguladora de las Escalas y Funciones del Personal de Emergencias Sanitarias de la Comunidad de Madrid, publicada en el «Boletín Oficial de la Comunidad de Madrid» del día 11 de mayo, en la parte que modificó la Ley 14/1994, concretamente los artículos 14, 15 y 16.
+
+e) Ley 18/2000, de 27 de diciembre, de Medidas Fiscales y Administrativas, publicada en el «Boletín Oficial de la Comunidad de Madrid» del día 29 de diciembre, también en la parte que vino a modificar la reiterada Ley 14/1994, es decir, sus artículos 2, 3 y 31.
+
+f) Ley 5/2004, de 28 de diciembre, de Medidas Fiscales y Administrativas, publicada en el «Boletín Oficial de la Comunidad de Madrid» del día 30 de diciembre, al haber modificado el artículo 17 de la Ley 14/1994 y haber añadido una disposición transitoria.
+
+La refundición consistirá en la formulación de un texto único que recopile, ordene y transcriba las disposiciones vigentes de las Leyes citadas.
+
+### Disposición final segunda. Desarrollo reglamentario.
+
+Se autoriza al Consejo de Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de la presente Ley.
+
+### Disposición final tercera. Entrada en vigor.
+
+La presente Ley entrará en vigor el día 1 de enero de 2006.
+
+Por tanto, ordeno a todos los ciudadanos a los que sea de aplicación esta Ley que la cumplan, y a los Tribunales y Autoridades que corresponda, la guarden y la hagan guardar.
+
+Madrid, 23 de diciembre de 2005.
+
+ESPERANZA AGUIRRE GIL DE BIEDMA,
+
+Presidenta

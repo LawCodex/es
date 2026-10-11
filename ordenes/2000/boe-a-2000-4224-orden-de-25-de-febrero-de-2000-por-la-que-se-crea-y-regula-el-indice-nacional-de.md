@@ -1,0 +1,183 @@
+---
+title: "Orden de 25 de febrero de 2000 por la que se crea y regula el Índice Nacional de Defunciones"
+identifier: "BOE-A-2000-4224"
+eli: "https://www.boe.es/eli/es/o/2000/02/25/(1)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2000-02-25
+published: 2000-03-03
+in_force_from: 2000-09-03
+last_amended: 2015-12-02
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 54"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-4224"
+retrieved: 2026-10-11
+---
+
+# Orden de 25 de febrero de 2000 por la que se crea y regula el Índice Nacional de Defunciones
+
+Incluye la corrección de erratas publicada en BOE núm. 58, de 8 de marzo de 2000. [Ref. BOE-A-2000-4449](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4449).
+
+El conocimiento de algunas características ligadas al estado vital, particularmente la fecha y el lugar de la defunción, es de importancia capital desde el punto de vista de la gestión de los sistemas de información sanitaria, tanto de aquellos ligados a actividades asistenciales, como aquellos otros que proporcionan información para la gestión, planificación y evaluación sanitaria; sin olvidar aquellos otros enfocados a labores de investigación y docencia.
+
+Entre estos sistemas de información sanitaria cabe citar, en primer lugar, los que dan soporte a los servicios de admisión, archivo y documentación clínica de los centros y establecimientos sanitarios, entre cuyas funciones se cuenta la gestión de los archivos de historias clínicas, que precisa, para ser eficaz, de un sistema ágil que permita clasificar las historias según diversos criterios, entre los que no debe faltar el que se deriva del estado vital de los titulares de las mismas.
+
+Otros sistemas que precisan de esta información son los Registros de enfermos con fines de vigilancia epidemiológica o de conocimiento de incidencia y supervivencia, entre los que cabe destacar los de cáncer o infarto agudo de miocardio, sistemas de información para los que los datos sobre el estado vital de las personas (principalmente la fecha de la defunción) es imprescindible para el cumplimiento de sus fines. Asimismo, es una información necesaria para el sistema organizado de información sanitaria en el que, de acuerdo con el artículo 8 de la Ley 14/1986, de 25 de abril, General de Sanidad, deben estar basados los estudios epidemiológicos necesarios para orientar con mayor eficacia la prevención de los riesgos para la salud, así como la planificación y evaluación sanitaria.
+
+Se hace necesario, por tanto, crear el Índice Nacional de Defunciones, que se constituirá en el instrumento estable encargado de suministrar información sobre el estado vital de las personas a los distintos sistemas de información sanitaria.
+
+De acuerdo con el Real Decreto 1893/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Sanidad y Consumo, de sus organismos autónomos y del Instituto Nacional de la Salud, y con la citada Ley General de Sanidad, corresponde a la Dirección General de Salud Pública la iniciativa de la planificación de los sistemas de información sanitaria de carácter estatal, y al Instituto de Salud «Carlos III» el apoyo científico-técnico en la materia. Por ello, la gestión y mantenimiento del Índice Nacional de Defunciones que se crea, se encomienda al Centro Nacional de Información Sanitaria del citado Instituto de Salud.
+
+La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, establece un conjunto de normas de carácter general, a las que deben someterse los ficheros que contengan datos de carácter personal, entre los que se encuentra el Índice Nacional de Defunciones. Por ello, en la presente Orden se prevén toda una serie de medidas tendentes a garantizar que el tratamiento de los datos personales se haga respetando los derechos protegidos por la mencionada Ley Orgánica y sus normas de desarrollo.
+
+La información sobre el estado vital de las personas, únicamente, puede ser obtenida con el grado de precisión y exhaustividad necesarias y en un formato compatible con el tratamiento informatizado de los datos, a partir de los Registros Civiles.
+
+El Instituto Nacional de Estadística dispone, para las tareas que le son propias y en cumplimiento del artículo 20 del Reglamento para la aplicación del Registro Civil, de datos registrales informatizados que facilita regularmente a la Dirección General de los Registros y del Notariado, de acuerdo con lo establecido en la Resolución de 10 de julio de 1989, que desarrolla la Orden de Presidencia, de 8 de julio de 1959, según la cual dicho Instituto debe facilitar a la Dirección General de los Registros y del Notariado los datos que precise para el cumplimiento de sus propios fines.
+
+De acuerdo con la Orden del Ministerio de Justicia e Interior, de 6 de junio de 1994, sobre supresión del dato relativo a la causa de la muerte en la inscripción de defunción, el dato sobre la causa, tanto inmediata como fundamental, de la muerte es ajeno a la institución registral. Por ello, la información que la Dirección General de los Registros y del Notariado facilitará para la formación del Índice Nacional de Defunciones no incluirá la causa de la defunción.
+
+En consecuencia, los Ministerios de Sanidad y Consumo, de Justicia y de Economía y Hacienda, con el fin de crear y regular el mencionado instrumento y asegurar a los afectados el ejercicio de sus legítimos derechos, han considerado necesario dictar la presente Orden.
+
+La presente Orden se dicta de conformidad con lo establecido en los artículos 8.1, 23 y 40.13, de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su elaboración han sido oídas las Comunidades Autónomas, a través del Consejo Interterritorial del Sistema Nacional de Salud. Asimismo, ha sido informada por la Agencia de Protección de Datos.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, y de los Ministros de Sanidad y Consumo y de Justicia, y previa aprobación del Ministro de Administraciones Públicas, dispongo:
+
+## Primero.
+
+Se crea el Índice Nacional de Defunciones, que contendrá los datos personales de todas y cada una de las defunciones, que hayan sido inscritas en el Registro Civil correspondiente. Los datos contenidos en el mismo serán los que constan en la correspondiente inscripción de la defunción en el Registro Civil. La estructura básica de este fichero automatizado será la de una base de datos.
+
+## Segundo.
+
+Su finalidad y uso será proveer de datos sobre el estado vital de las personas a los sistemas de información utilizados para la gestión de pacientes, para la gestión y el control sanitario, para el mantenimiento de registros de enfermedades, para la vigilancia en salud pública, para la obtención de estadísticas y para la ejecución de estudios epidemiológicos o de investigación sanitaria; verificar la supervivencia de los beneficiarios de rentas vitalicias o temporales derivadas de operaciones de seguro, y agilizar el pago de las prestaciones a los beneficiarios de seguros en caso de fallecimiento del asegurado.
+
+> Se modifica por la disposición final 7.1 del Real Decreto 1060/2015, de 20 de noviembre. [Ref. BOE-A-2015-13057](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13057).
+
+## Tercero.
+
+El Instituto de Información Sanitaria realizará la gestión y mantenimiento del Índice Nacional de Defunciones.
+
+Dicho organismo adoptará las medidas técnicas, organizativas y de gestión que sean necesarias para asegurar la confidencialidad, integridad y disponibilidad de los datos, así como las conducentes a hacer efectivas las garantías, obligaciones y derechos reconocidos en la Ley Orgánica 15/1999, de 13 de diciembre, y en sus normas de desarrollo.
+
+> Se modifica el párrafo primero por el apartado 1.1 de la Orden PRE/2131/2005, de 29 de junio. [Ref. BOE-A-2005-11465](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11465).
+
+> Se modifica el párrafo primero por el apartado 1 de la Orden de 5 de septiembre de 2001. [Ref. BOE-A-2001-17097](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17097).
+
+## Cuarto.
+
+El Instituto de Información Sanitaria será el órgano ante el que puedan ejercitarse los derechos de acceso, rectificación y cancelación.
+
+> Se modifica por el apartado 1.2 de la Orden PRE/2131/2005, de 29 de junio. [Ref. BOE-A-2005-11465](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11465).
+
+## Quinto.
+
+La Dirección General de los Registros y del Notariado remitirá al órgano encargado de la gestión del Índice Nacional de Defunciones todos los datos de las defunciones que hayan sido inscritas en cada Registro Civil, dentro del plazo de cinco meses, a partir de la fecha en que se produzca la inscripción.
+
+## Sexto.
+
+Los datos personales contenidos en el Índice Nacional de Defunciones podrán ser cedidos para los fines y usos previstos en el apartado segundo únicamente a entidades, organismos o instituciones pertenecientes a alguno de los grupos siguientes:
+
+a) Centros o establecimientos sanitarios de titularidad pública o privada, destinados al diagnóstico y/o tratamiento médico y/o quirúrgico de enfermos ingresados o atendidos de forma ambulatoria.
+
+b) Administraciones públicas sanitarias.
+
+c) Centros de investigación de carácter público.
+
+d) Las entidades aseguradoras autorizadas para operar en España en los ramos de vida o accidentes.
+
+Para ello deberán formular la correspondiente solicitud motivada, que deberá ser resuelta en un plazo máximo de un mes a contar desde su recepción, advirtiendo expresamente a los cesionarios de su obligación de dedicarlos exclusivamente a la finalidad para la que se ceden.
+
+Los centros o establecimientos sanitarios que sean de titularidad privada deberán, además, estar autorizados por la comunidad autónoma correspondiente para los fines señalados, y constar en el Registro General de centros, servicios y establecimientos sanitarios del Ministerio de Sanidad, Servicios Sociales e Igualdad
+
+> Se modifica por la disposición final 7.2 del Real Decreto 1060/2015, de 20 de noviembre. [Ref. BOE-A-2015-13057](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-13057).
+
+> Se modifica por el art. único de la Orden PRE/1540/2013, de 2 de agosto. [Ref. BOE-A-2013-8896](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-8896).
+
+## Séptimo.
+
+Las solicitudes de cesión se resolverán tras la evaluación correspondiente, realizada de acuerdo al procedimiento que establezca el Comité Técnico de Seguimiento a que hace referencia el apartado decimotercero.
+
+## Octavo.
+
+La distribución de los datos cedidos, cualquiera que sea el soporte utilizado, se realizará de acuerdo con las previsiones contenidas en el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado, y, en cualquier caso, mediante técnicas que garanticen que no pueda ser manipulada por terceros no autorizados.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 58, de 8 de marzo de 2000. [Ref. BOE-A-2000-4449](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-4449).
+
+## Noveno.
+
+Se establecerá un registro de solicitudes y cesiones realizadas con el fin de controlar y asegurar el cumplimiento de lo definido en la presente Orden.
+
+## Décimo.
+
+El Índice Nacional de Defunciones contará con un manual de procedimiento que contendrá, al menos, el procedimiento detallado para la solicitud y aprobación de cesión de datos personales, y las normas de seguridad que se aplicarán para la conservación y cesión de los datos.
+
+## Undécimo.
+
+Las solicitudes de cesión de datos deberán contener, al menos, la información que se indica en el anexo a esta Orden.
+
+## Duodécimo.
+
+El peticionario de los datos contenidos en el Índice Nacional de Defunciones se comprometerá por escrito, para el supuesto en que los mismos le sean cedidos a:
+
+a) No ceder los datos a terceros.
+
+b) Utilizar los datos cedidos únicamente para los fines para los que fueron solicitados.
+
+c) Publicar los resultados, en su caso, de forma que no permitan la identificación directa ni indirecta de los fallecidos.
+
+d) Destruir el fichero facilitado una vez transcurrido el plazo de tiempo al que se refiere el apartado E) del anexo.
+
+e) Comunicar, de forma fehaciente, la destrucción de los ficheros cedidos y de cuantas copias de los mismos se hubieran efectuado para realizar las tareas para las que se solicitaron los datos.
+
+## Decimotercero.
+
+Se constituirá un Comité Técnico de Seguimiento del Índice Nacional de Defunciones presidido por el Subdirector general del Instituto de Información Sanitaria de la Agencia de Calidad del Sistema Nacional de Salud, del que formarán parte el Subdirector general de Coordinación de Centros Nacionales de Investigación y Servicios aplicados a la Salud Pública del Instituto de Salud "Carlos III", un representante del Centro Nacional de Epidemiología del Instituto de Salud Carlos III, el Subdirector general de Promoción de la Salud y Epidemiología de la Dirección General de Salud Pública, dos representantes de las Consejerías de Sanidad de las Comunidades Autónomas elegidas por el Consejo Interterritorial del Sistema Nacional de Salud, y un funcionario del Instituto de Información Sanitaria, que asumirá las funciones de Secretario. La composición de este Comité Técnico se adaptará a los cambios estructurales del Ministerio de Sanidad y Consumo o a los cambios de denominación de sus unidades, manteniendo la representación de las unidades u organismos que, en su caso, tengan las competencias de los actualmente representados. Las funciones de este Comité Técnico serán las enumeradas a continuación:
+
+a) Establecer las normas y procedimientos a seguir en materia de cesión de datos.
+
+b) Informar los manuales de procedimiento y seguridad, así como las sucesivas revisiones y actualizaciones de los mismos.
+
+c) Vigilar y establecer las acciones necesarias para el cumplimiento de lo establecido en la presente Orden.
+
+d) Elaborar los informes de seguimiento de las actividades desarrolladas.
+
+e) Informar la Memoria anual.
+
+Sin perjuicio de lo previsto en la presente Orden, el citado Comité ajustará su funcionamiento a lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en concreto a lo dispuesto en el capítulo II del título II sobre órganos colegiados.
+
+> Se modifica el párrafo primero por el apartado 1.3 de la Orden PRE/2131/2005, de 29 de junio. [Ref. BOE-A-2005-11465](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11465).
+
+> Se modifica el párrafo primero por el apartado 2 de la Orden de 5 de septiembre de 2001. [Ref. BOE-A-2001-17097](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-17097).
+
+## Decimocuarto.
+
+La creación del Índice Nacional de Defunciones no supondrá incremento orgánico ni del gasto público.
+
+## Decimoquinto.
+
+La presente Orden entrará en vigor a los seis meses de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 25 de febrero de 2000.
+
+ÁLVAREZ-CASCOS FERNÁNDEZ
+
+Excmo. Sr. Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, y Excmos. Sres. Ministros de Sanidad y Consumo y de Justicia.
+
+## ANEXO — Contenido mínimo que deberá constar en las solicitudes de cesión de datos
+
+A) Identificación del peticionario y de todos los colaboradores que tendrán acceso a los datos: Nombre, apellidos, número del documento nacional de identidad, lugar de trabajo y cargo.
+
+B) Identificación de la institución peticionaria, incluyendo el código de identificación fiscal.
+
+C) Objetivo para el que se solicitan los datos, especificando estudio o trabajo que se pretende efectuar (protocolo de estudio), manipulación y análisis a que serán sometidos los datos que se suministren y divulgación de resultados previstos.
+
+D) Datos que se solicitan.
+
+E) Tiempo máximo estimado durante el que se precisan los datos.
+
+F) Escrito del responsable de la institución peticionaria avalando la solicitud.

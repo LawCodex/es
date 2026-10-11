@@ -1,0 +1,205 @@
+---
+title: "Real Decreto 991/1998, de 22 de mayo, por el que se crea el Consejo para las Emisiones y Retransmisiones Deportivas"
+identifier: "BOE-A-1998-12017"
+eli: "https://www.boe.es/eli/es/rd/1998/05/22/991"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-05-22
+published: 1998-05-23
+in_force_from: 1998-05-24
+last_amended: 2001-07-03
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 123"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-12017"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 991/1998, de 22 de mayo, por el que se crea el Consejo para las Emisiones y Retransmisiones Deportivas
+
+La Ley 21/1997, de 3 de julio, reguladora de las emisiones y retransmisiones de competiciones y acontecimientos deportivos, establece en su artículo 4.1 que el Consejo para las Emisiones y Retransmisiones Deportivas, al inicio de la temporada de cada deporte, elaborará el catálogo de competiciones o acontecimientos deportivos de interés general, previo informe preceptivo de la Comisión Directiva del Consejo Superior de Deportes y audiencia de las entidades organizadoras, de los operadores, programadores, usuarios y demás interesados.
+
+Por otra parte, la disposición final cuarta del mismo texto legal autoriza al Gobierno para la creación del aludido Consejo para las Emisiones y Retransmisiones Deportivas, precisando que, en todo caso, formarán parte del mismo una representación de las autoridades gubernativas deportivas de ámbito estatal y autonómico, de las Federaciones, de las ligas profesionales, de las distintas asociaciones de deportistas profesionales, de las entidades organizadoras de las competiciones y acontecimientos deportivos, de los medios de comunicación social, públicos y privados, y de las asociaciones de usuarios y consumidores.
+
+El presente Real Decreto se dicta asimismo al amparo de lo dispuesto en el artículo 149.1.1.ª y 27.ª de la Constitución.
+
+En su virtud, a propuesta del Vicepresidente Primero del Gobierno y Ministro de la Presidencia, de la Ministra de Educación y Cultura y del Ministro de Fomento, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de mayo de 1998,
+
+DISPONGO:
+
+## Artículo 1. Creación y funciones del Consejo para las Emisiones y Retransmisiones Deportivas.
+
+1\. De conformidad con lo dispuesto en la disposición final cuarta de la Ley 21/1997, de 3 de julio, reguladora de las emisiones y retransmisiones de competiciones y acontecimientos deportivos, se crea el Consejo para las Emisiones y Retransmisiones Deportivas, como órgano colegiado de participación de las Administraciones y de las organizaciones representativas de los sectores afectados dentro del expresado ámbito.
+
+2\. Corresponderá al Consejo el ejercicio de las siguientes funciones:
+
+a) Aprobar el catálogo de competiciones o acontecimientos deportivos de interés general, conforme a lo previsto en el artículo 4.1 de la Ley 21/1997, de 3 de julio.
+
+b) Elevar al Gobierno y a la Comisión de Educación, Cultura y Deporte del Congreso de los Diputados, dentro de los plazos legalmente previstos, el informe preceptivo establecido en la disposición transitoria única de la Ley 21/1997, y efectuar las recomendaciones a que se refiere la misma disposición.
+
+c) Velar por el efectivo cumplimiento de las obligaciones establecidas en los artículos 4, 5 y 6 de la Ley mencionada.
+
+d) Conocer e informar los reglamentos que se dicten en desarrollo de la expresada Ley.
+
+e) Elaborar anualmente un informe sobre su actividad y el cumplimiento de lo dispuesto en el artículo 4 de la Ley en relación con las retransmisiones de competiciones o acontecimientos deportivos catalogados, que será elevado al Gobierno y a la Comisión parlamentaria citada en el párrafo b).
+
+f) Emitir informe sobre los asuntos que le someta el Presidente del Consejo.
+
+g) Aprobar el Reglamento de funcionamiento interno del Consejo.
+
+h) Cualquier otra función que le atribuyan las disposiciones legales o reglamentarias.
+
+> Se modifica el apartado 2.b) por el art. único del Real Decreto 745/2001, de 29 de junio. [Ref. BOE-A-2001-12769](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12769).
+
+## Artículo 2. Adscripción orgánica.
+
+El Consejo para las Emisiones y Retransmisiones Deportivas queda adscrito sin perjuicio de su autonomía funcional, al Ministerio de Educación, Cultura y Deporte.
+
+> Se modifica por el art. único del Real Decreto 745/2001, de 29 de junio. [Ref. BOE-A-2001-12769](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12769).
+
+## Artículo 3. Órganos rectores del Consejo.
+
+Son órganos rectores del Consejo para las Emisiones y Retransmisiones Deportivas el Pleno y la Comisión Permanente.
+
+## Artículo 4. Composición del Pleno.
+
+1\. Son miembros del Pleno del Consejo el Presidente, los Vicepresidentes, los Vocales y el Secretario.
+
+2\. Será Presidente del Consejo el Presidente del Consejo Superior de Deportes. Será Vicepresidente 1.º un vocal designado por los miembros del Consejo que ostentan la representación de las autoridades gubernativas de ámbito estatal y autonómico, y Vicepresidente 2.º un vocal elegido por los miembros del Consejo que ostentan las restantes representaciones.
+
+3\. Serán vocales del Consejo para las Emisiones y Retransmisiones Deportivas:
+
+a) En representación de las autoridades gubernativas de ámbito estatal:
+
+La Subsecretaria del Ministerio de la Presidencia.
+
+El Subsecretario del Ministerio de Educación, Cultura y Deporte.
+
+El Subsecretario del Ministerio de Ciencia y Tecnología.
+
+El Director de la Oficina General de Información del Ministro Portavoz del Gobierno.
+
+El Director del Servicio Jurídico del Estado del Ministerio de Justicia.
+
+El Director general de Infraestructuras Deportivas y Servicios del Consejo Superior de Deportes.
+
+El Director general para el Desarrollo de la Sociedad de la Información del Ministerio de Ciencia y Tecnología.
+
+El Secretario general técnico del Ministerio de la Presidencia.
+
+El Secretario general técnico del Ministerio de Ciencia y Tecnología.
+
+b) En representación de las autoridades gubernativas de ámbito autonómico: nueve representantes de las Comunidades Autónomas, designados por las mismas de común acuerdo.
+
+c) En representación de las Federaciones deportivas españolas, con competiciones oficiales de carácter profesional y ámbito estatal: el presidente de cada una de las entidades de esta naturaleza.
+
+d) En representación de las restantes Federaciones deportivas: un número de representantes igual al que resulte de la aplicación del párrafo anterior, elegidos por los presidentes de las Federaciones, entre ellos mismos.
+
+e) En representación de las ligas profesionales: el presidente de cada una de las existentes.
+
+f) En representación de las asociaciones de deportistas profesionales que participen en competiciones de carácter profesional y ámbito estatal: el presidente de cada una de dichas asociaciones.
+
+g) En representación de las entidades organizadoras de competiciones o acontecimientos deportivos de ámbito estatal, que no constituyan o formen parte de Federaciones o ligas profesionales: dos representantes de tales entidades, elegidos entre ellas mismas.
+
+h) En representación de los medios de comunicación:
+
+Un representante de Televisión Española, designado por su Director general.
+
+Un representante de Radio Nacional de España, designado por su Director.
+
+Un representante de cada una de las televisiones reguladas por la Ley 10/1988, de 3 de mayo, de televisión privada.
+
+Un número igual de representantes a los que resulten de la aplicación del apartado anterior, designados por la Federación de Organismos y Entidades de Radio y Televisión Autonómicas.
+
+Dos representantes de los medios radiofónicos, designados por la Asociación Española de Radiodifusión Comercial.
+
+Dos representantes de la prensa escrita designados por la Federación de las Asociaciones de la Prensa de España, uno de los cuales pertenecerá a la prensa deportiva.
+
+Dos representantes de los operadores existentes en la modalidad de servicios de televisión por satélite, designados por los mismos.
+
+Dos representantes de los operadores concesionarios de telecomunicaciones por cable, en el ámbito de la televisión, designados por los mismos.
+
+i) En representación de las asociaciones de consumidores y usuarios: dos representantes designados por el Consejo de Consumidores y Usuarios.
+
+j) En representación de los sindicatos más representativos en el ámbito de las comunicaciones y del deporte profesional: un representante de las secciones sindicales más representativas de las televisiones públicas; un representante de las secciones sindicales más representativas de las televisiones privadas, y dos responsables de comunicación de las organizaciones sindicales más representativas designados por las mismas.
+
+4\. Los vocales cesarán por cualquiera de las siguientes causas:
+
+a) Cese en el cargo en virtud del cual fueron designados.
+
+b) Pérdida de los requisitos exigidos para su designación.
+
+c) Por el transcurso de tres años, en los supuestos contemplados en los párrafos b), c), d), e), f), g), h), i) y j) del apartado 3 de este artículo.
+
+d) Por renuncia, en los mismos supuestos a que se refiere el párrafo anterior.
+
+5\. Será Secretario del Consejo, con voz y voto, un Subdirector general o asimilado, designado por el Presidente del Consejo de Emisiones y Retransmisiones Deportivas.
+
+6\. Los miembros del Consejo no percibirán retribución alguna por el desempeño de sus funciones.
+
+> Se modifica el apartado 3.a) por el art. único del Real Decreto 745/2001, de 29 de junio. [Ref. BOE-A-2001-12769](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12769).
+
+## Artículo 5. Composición y funciones de la Comisión Permanente.
+
+1\. Existirá una Comisión Permanente que, bajo la presidencia del Presidente del Pleno del Consejo para las Emisiones y Retransmisiones Deportivas, tendrá la siguiente composición:
+
+Dos vocales representantes de las autoridades gubernativas de ámbito estatal a las que se refiere el artículo 4.3.a) del presente Real Decreto.
+
+Dos vocales de las autoridades gubernativas de ámbito autonómico a las que se refiere el artículo 4.3.b) de este Real Decreto.
+
+Siete vocales de las restantes representaciones a que se refiere el artículo 4.3 de este Real Decreto.
+
+2\. Todos los vocales de la Comisión Permanente serán elegidos por el Pleno del Consejo.
+
+3\. Será Secretario de la Comisión Permanente, con voz y voto, el Secretario del Pleno del Consejo.
+
+4\. Serán funciones de la Comisión Permanente:
+
+a) Elevar al Pleno las propuestas de acuerdo que se estimen necesarias.
+
+b) Elaborar y proponer al Pleno la aprobación del catálogo a que se refiere el artículo 1.2.a) del presente Real Decreto.
+
+c) Elaborar los informes a que se refieren los párrafos b) y d) del artículo 1.2 de este Real Decreto y proponer al Pleno su aprobación.
+
+d) Elaborar y proponer al Pleno el Reglamento de funcionamiento interno.
+
+e) Cualquier otra función que acuerde delegarle el Pleno o le asigne el Reglamento de funcionamiento interno del Consejo.
+
+## Artículo 6. Normas de funcionamiento.
+
+1\. El Consejo se regirá en cuanto a su convocatoria, deliberaciones y adopción de acuerdos por lo dispuesto en el capítulo II del título II de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+En todo caso, el Consejo se constituirá válidamente en segunda convocatoria cuando concurran, al menos, un tercio de sus miembros, además del Presidente y del Secretario, o de quienes legalmente les sustituyan.
+
+2\. Para el estudio de asuntos concretos, el Presidente del Consejo podrá constituir comisiones especializadas, en las que participarán los miembros que determine el Consejo. Podrán ser incorporados a los trabajos de dichas ponencias los expertos que en cada caso sean designados por el Consejo.
+
+3\. Corresponderá al Consejo para las Emisiones y Retransmisiones Deportivas la elaboración y aprobación de su Reglamento de funcionamiento interno.
+
+## Disposición final primera.
+
+Los Ministerios de la Presidencia, de Educación, Cultura y Deporte y de Ciencia y Tecnología prestarán, en el ámbito de sus respectivas competencias, el apoyo administrativo necesario para el funcionamiento del Consejo para las Emisiones y Retransmisiones Deportivas.
+
+En todo caso, la organización y funcionamiento del Consejo no supondrá aumento del gasto público.
+
+> Se modifica por el art. único del Real Decreto 745/2001, de 29 de junio. [Ref. BOE-A-2001-12769](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12769).
+
+## Disposición final segunda.
+
+Se autoriza a los Ministros de la Presidencia, de Educación, Cultura y Deporte y de Ciencia y Tecnología para dictar las disposiciones necesarias en desarrollo de este Real Decreto.
+
+> Se modifica por el art. único del Real Decreto 745/2001, de 29 de junio. [Ref. BOE-A-2001-12769](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-12769).
+
+## Disposición final tercera.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 22 de mayo de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

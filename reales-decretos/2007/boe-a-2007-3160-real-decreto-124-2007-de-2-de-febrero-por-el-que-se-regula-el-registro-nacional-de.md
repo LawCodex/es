@@ -1,0 +1,229 @@
+---
+title: "Real Decreto 124/2007, de 2 de febrero, por el que se regula el Registro nacional de instrucciones previas y el correspondiente fichero automatizado de datos de carácter personal"
+identifier: "BOE-A-2007-3160"
+eli: "https://www.boe.es/eli/es/rd/2007/02/02/124"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2007-02-02
+published: 2007-02-15
+in_force_from: 2007-11-15
+last_amended: 2022-06-01
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 40"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-3160"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 124/2007, de 2 de febrero, por el que se regula el Registro nacional de instrucciones previas y el correspondiente fichero automatizado de datos de carácter personal
+
+La Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, regula en su artículo 11 el documento de instrucciones previas al que define como aquel mediante el cual una persona mayor de edad, capaz y libre, manifiesta anticipadamente su voluntad, para que esta se cumpla en el momento en que llegue a situaciones en cuyas circunstancias no sea capaz de expresarlo personalmente, sobre los cuidados y el tratamiento de su salud o, una vez Ilegado el fallecimiento, sobre el destino de su cuerpo o de sus órganos.
+
+El documento de instrucciones previas constituye, pues, la expresión del respeto a la autonomía de las personas que, de este modo, pueden decidir sobre aquellos cuidados y tratamientos que desean recibir o no en el futuro si se encuentran ante una determinada circunstancia o, una vez llegado el fallecimiento, sobre el destino de su cuerpo o de sus órganos. No solo permite al paciente influir en las futuras decisiones asistenciales, sino que facilita a los profesionales de la salud la toma de decisiones respetuosas con la voluntad del enfermo cuando este no tiene ya capacidad para decidir por sí mismo.
+
+El artículo 11 de la Ley 41/2002, de 14 de noviembre, establece en su apartado 2 que cada servicio de salud regulará el procedimiento adecuado para que, llegado el caso, se garantice el cumplimiento de las instrucciones previas de cada persona que deberán constar siempre por escrito. Son ya varias las comunidades autónomas que han establecido normas que regulan sus registros de instrucciones previas.
+
+La efectividad de este derecho del paciente exige que el documento de instrucciones previas, independientemente del lugar en el que haya sido formalizado, pueda ser conocido precisa y oportunamente por los profesionales de la saluda los que, en su momento, corresponda la responsabilidad de la asistencia sanitaria que deba prestársele. Por esta razón, el mencionado artículo 11 de la Ley 41/2002, de 14 de noviembre, en su apartado 5, dispone que, para asegurar la eficacia en todo el territorio nacional de las instrucciones previas manifestadas por los pacientes y formalizadas de acuerdo con lo dispuesto en la legislación de las respectivas comunidades autónomas, se creará en el Ministerio de Sanidad y Consumo el Registro nacional de instrucciones previas, que se regirá por las normas que reglamentariamente se determinen, previo acuerdo del Consejo Interterritorial del Sistema Nacional de Salud.
+
+El carácter personal de los datos que ha de contener este registro y su fichero automatizado determina que quedarán plenamente sujetos a lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y a las medidas de seguridad que impone la citada Ley Orgánica y sus reglamentos de desarrollo.
+
+Respecto de este real decreto ha adoptado el correspondiente acuerdo favorable el Consejo Interterritorial del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de febrero de 2007,
+
+DISPONGO:
+
+## Artículo 1. Creación y adscripción del Registro nacional de instrucciones previas.
+
+Se crea, adscrito al Ministerio de Sanidad a través de la Subdirección General de Cohesión y Alta Inspección del Sistema Nacional de Salud, el Registro nacional de instrucciones previas, en el que se recogerán las inscripciones practicadas en los registros autonómicos, conforme a lo previsto en el artículo 11.5 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+> Se modifica por el art. único.1 del Real Decreto 415/2022, de 31 de mayo. [Ref. BOE-A-2022-8908](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8908)
+
+## Artículo 2. Objeto y finalidad.
+
+1\. La inscripción en el Registro nacional de instrucciones previas asegura la eficacia y posibilita el conocimiento en todo el territorio nacional de las instrucciones previas otorgadas por los ciudadanos que hayan sido formalizadas de acuerdo con lo dispuesto en la legislación de las comunidades autónomas.
+
+2\. El Registro nacional de instrucciones previas tiene por objeto la constatación, salvo prueba en contrario, de:
+
+a) La existencia de instrucciones previas inscritas en los distintos registros autonómicos únicos en los que estarán registradas con sus contenidos.
+
+b) La localización y fecha de inscripción de la declaración que haya realizado la persona otorgante, así como de la eventual modificación, sustitución o revocación de su contenido, cualquiera que sea el registro autonómico en el que hayan sido inscritas.
+
+c) El contenido de las instrucciones previas.
+
+## Artículo 3. Procedimiento registral.
+
+1\. Inscritas las instrucciones previas en el correspondiente registro autonómico, el encargado de este lo comunicará al Registro nacional de instrucciones previas, por vía telemática y dentro de los siete días siguientes a la inscripción efectuada; a tal efecto, dará traslado de los datos e información mínima que se recogen en el anexo, así como de la copia del documento de instrucciones previas registrado que se remitirá por la citada vía telemática.
+
+2\. Recibida la comunicación telemática de los datos e información mínima a que se refiere el apartado anterior, se procederá a su inscripción, así como a la de la copia del documento de instrucciones previas en el Registro nacional de instrucciones previas, y se notificará el acto de inscripción y registro al registro autonómico, en el término de siete días, por el mismo procedimiento telemático. Cuando la información mínima resulte incompleta o se apreciara algún defecto subsanable, se procederá a la inscripción provisional y se requerirá al registro autonómico para que subsane la ausencia de aquellos datos en el plazo que se le señale, que no será superior a 15 días. Transcurrido el referido plazo sin suplir la omisión o corregir el defecto advertido, se denegará la inscripción sin más trámites, sin perjuicio de su eficacia transitoria y provisional hasta ese momento.
+
+## Artículo 4. Acceso al Registro nacional de instrucciones previas.
+
+1\. Se encuentran legitimados para acceder a los asientos del Registro nacional:
+
+a) Las personas otorgantes de las instrucciones previas inscritas en él.
+
+b) Los representantes legales de las personas otorgantes o los que a tal efecto hubieran sido designados de manera fehaciente por estas.
+
+c) Los responsables acreditados de los registros autonómicos.
+
+d) Las personas designadas por la autoridad sanitaria de la comunidad autónoma correspondiente o por el Ministerio de Sanidad.
+
+2\. La persona otorgante de instrucciones previas o, en su caso, sus representantes legales o los designados en el documento registrado ejercerán su derecho de acceso mediante la presentación de la oportuna solicitud escrita al encargado del registro quien, previa comprobación de la identidad del peticionario, procederá a expedir la oportuna certificación acreditativa.
+
+3\. Los responsables de los registros autonómicos y las personas designadas por la autoridad sanitaria de la comunidad autónoma y por el Ministerio de Sanidad podrán acceder al Registro nacional de instrucciones previas a través de comunicación telemática, previa solicitud del facultativo que estuviese tratando al otorgante. A tal efecto, deberán disponer de un certificado de clase 2 CA emitido por la Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda o de un certificado de firma electrónica cualificado, emitido por un prestador cualificado de servicios de confianza, conforme a las prescripciones sectoriales y a la legislación de firma electrónica. A tal fin, se establece un sistema que garantice técnicamente la identificación de la persona destinataria de la información, la integridad de la comunicación, la disponibilidad las 24 horas del día, la conservación de la información comunicada y la confidencialidad de los datos.
+
+4\. Las personas designadas por las autoridades sanitarias de las comunidades autónomas podrán acceder al Registro nacional de instrucciones previas a través de sus respectivos registros autonómicos, en la forma que en cada caso se determine.
+
+5\. Las personas que, en razón de su cargo u oficio, accedan a cualquiera de los datos del Registro nacional de instrucciones previas están sujetas al deber de guardar secreto.
+
+> Se modifica la letra d) del apartado 1 y el apartado 3 por el art. único.2 y 3 del Real Decreto 415/2022, de 31 de mayo. [Ref. BOE-A-2022-8908](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8908)
+
+## Artículo 5. Fichero automatizado.
+
+1\. Para facilitar el conocimiento de la existencia y localización de las inscripciones de los documentos de instrucciones previas realizadas en todo el territorio nacional, el Ministerio de Sanidad y Consumo, mediante orden ministerial, creará el fichero automatizado de datos de carácter personal denominado Registro nacional de instrucciones previas, con arreglo a lo establecido en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+2\. La unidad encargada del Registro nacional de instrucciones previas adoptará las medidas necesarias para garantizar la confidencialidad, la seguridad y la integridad de los datos comprendidas en la normativa en materia de protección de datos de carácter personal.
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 415/2022, de 31 de mayo. [Ref. BOE-A-2022-8908](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8908)
+
+## Disposición adicional primera. Remisión de información por las comunidades autónomas.
+
+A la entrada en vigor del este real decreto, las comunidades autónomas deberán remitir al Registro nacional de instrucciones previas todas las inscripciones efectuadas en los registros autonómicos, así como las copias de los documentos de instrucciones previas, y cumplimentarán la información mínima que se recoge en el anexo.
+
+## Disposición adicional segunda. Extensión del ámbito de la norma a las ciudades autónomas.
+
+Las referencias a las comunidades autónomas se entenderán también realizadas a las Ciudades de Ceuta y Melilla en el marco de sus competencias.
+
+## Disposición transitoria única. Otorgamiento de instrucciones previas en comunidades autónomas que no han regulado el procedimiento.
+
+1\. Cuando una comunidad autónoma no haya regulado el procedimiento al que se refiere el artículo 11.2 de la Ley 41/2002, de 14 de noviembre, la persona que desee otorgar instrucciones previas o, en su caso, su representante legal o la persona designada a tal efecto, en el propio documento, por el otorgante, las presentará ante la autoridad sanitaria de dicha comunidad autónoma, la cual en el plazo y condiciones fijados en el artículo 3 de este real decreto deberá remitirlas al Registro nacional para su inscripción provisional, el cual notificará dicha inscripción provisional a la comunidad autónoma correspondiente.
+
+2\. En estos casos, tales instrucciones previas y los documentos que las acompañen quedarán en depósito y bajo la custodia del Registro nacional hasta tanto se cree el correspondiente registro autonómico.
+
+3\. Creado ese registro, el Registro nacional de instrucciones previas le hará entrega de las instrucciones y documentos en él depositados conforme lo dispuesto en el apartado anterior y, al propio tiempo, notificará a los interesados esta entrega. El registro autonómico, por su parte, comunicará al Registro nacional, en el plazo de siete días, la inscripción efectuada, y tomará carácter definitivo en este la inscripción que, en su momento, se realizó provisionalmente.
+
+4\. En lo que se refiere a estas inscripciones, el acceso al Registro nacional de instrucciones previas se sujetará a lo dispuesto en el artículo 4.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.1.ª y 16.ª de la Constitución Española y en desarrollo de lo dispuesto en el artículo 11.5 de la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+## Disposición final segunda. Facultad de desarrollo.
+
+Se faculta a la persona titular del Ministerio de Sanidad para dictar, en el ámbito de su competencia, las disposiciones necesarias para la aplicación y ejecución de lo establecido en este real decreto.
+
+> Se modifica por el art. único.5 del Real Decreto 415/2022, de 31 de mayo. [Ref. BOE-A-2022-8908](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8908)
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor a los nueve meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 2 de febrero de 2007.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ELENA SALGADO MÉNDEZ
+
+## ANEXO — Información mínima que deben trasladar las comunidades autónomas al Registro nacional una vez realizada la inscripción de un documento de instrucciones previas
+
+Comunidad autónoma.
+
+Unidad responsable del registro autonómico.
+
+Persona autorizada que comunica la inscripción.
+
+Fecha y hora.
+
+Datos del documento inscrito:
+
+Denominación:
+
+Declaración vital anticipada.
+
+Documento de voluntades anticipadas.
+
+Expresión de la voluntad con carácter previo.
+
+Expresión anticipada de voluntades.
+
+Documento de voluntades vitales anticipadas.
+
+Documento de instrucciones previas.
+
+Otras.
+
+Identificación del declarante:
+
+Nombre y apellidos.
+
+Sexo.
+
+DNI o pasaporte.
+
+N.° tarjeta sanitaria o código de identificación personal.
+
+Fecha de nacimiento.
+
+Nacionalidad.
+
+Domicilio (ciudad, calle, número).
+
+N.° de teléfono.
+
+Identificación del representante:
+
+Nombre y apellidos.
+
+DNI o pasaporte.
+
+Domicilio (ciudad, calle, número).
+
+N.° de teléfono.
+
+Datos de la inscripción:
+
+Registro donde se ha realizado.
+
+Fecha de inscripción.
+
+Localización del documento.
+
+Modalidad de la declaración:
+
+Primer documento.
+
+Modificación (alteración parcial del contenido del documento ya inscrito sin privación total de sus efectos).
+
+Sustitución (privación de efectos al documento ya inscrito y otorgamiento de uno nuevo en su lugar).
+
+Revocación (privación total de efectos del documento ya inscrito sin otorgar otro en su lugar).
+
+En el caso de que exista ya otra declaración, se consignarán también los datos de la inscripción primitiva.
+
+Formalización de la declaración:
+
+Ante notario.
+
+Ante testigos.
+
+Ante la Administración.
+
+Materia de la declaración:
+
+Cuidados y tratamiento.
+
+Destino del cuerpo del otorgante o de los órganos una vez fallecido.
+
+Prestación de ayuda para morir.
+
+Sobre todos los aspectos.
+
+Copia del documento de instrucciones previas inscrito en el registro autonómico.
+
+> Se modifica el epígrafe «Materia de la declaración» por el art. único.6 del Real Decreto 415/2022, de 31 de mayo. [Ref. BOE-A-2022-8908](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-8908)

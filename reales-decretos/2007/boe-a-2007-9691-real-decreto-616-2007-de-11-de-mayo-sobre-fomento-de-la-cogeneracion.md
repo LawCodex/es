@@ -1,0 +1,371 @@
+---
+title: "Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración"
+identifier: "BOE-A-2007-9691"
+eli: "https://www.boe.es/eli/es/rd/2007/05/11/616"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2007-05-11
+published: 2007-05-12
+in_force_from: 2007-05-13
+last_amended: 2025-10-16
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 114"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-9691"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración
+
+Redactado conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2007. [Ref. BOE-A-2007-9827](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9827).
+
+El fomento de la cogeneración de alta eficiencia sobre la base de la demanda de calor útil es una prioridad para la Unión Europea y sus Estados Miembros, habida cuenta de los beneficios potenciales de la cogeneración en lo que se refiere al ahorro de energía primaria, a la eliminación de pérdidas en la red y a la reducción de las emisiones, en particular de gases de efecto invernadero, contribuyendo así al cumplimiento de los objetivos del Protocolo de Kyoto de la Convención Marco de Naciones Unidas sobre Cambio Climático.
+
+Además, el uso eficaz de la energía mediante la cogeneración contribuye eficazmente a la seguridad y diversificación del abastecimiento de energía y a la situación competitiva de nuestra industria.
+
+En ejecución de dichos objetivos, se promulgó la Directiva 2004/8/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, relativa al fomento de la cogeneración sobre la base de la demanda de calor útil en el mercado interior de la energía y por la que se modifica la Directiva 92/42/CEE. Por otro lado, la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, tiene como fin básico establecer la regulación del sector eléctrico con los objetivos de garantizar el suministro eléctrico y su calidad al menor precio posible, sin olvidar la protección del medioambiente.
+
+El presente real decreto prevé el análisis y evaluación del potencial nacional de cogeneración de alta eficiencia, de las barreras que dificultan su desarrollo y de las medidas necesarias para facilitar el acceso a la red de unidades de cogeneración y centrales de microgeneración y cogeneración a pequeña escala, al tiempo que se definen los métodos de determinación del ahorro energético para las unidades de cogeneración de alta eficiencia.
+
+Mediante este real decreto se incorpora al derecho español el contenido de la Directiva 2004/8/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, relativa al fomento de la cogeneración sobre la base de la demanda de calor útil en el mercado interior de la energía y por la que se modifica la Directiva 92/42/CEE.
+
+Al mismo tiempo, se desarrolla el artículo 6 de la Ley 24/2005, de 18 de noviembre, de reformas para el impulso a la productividad, modificando el artículo 110 bis del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, modificado por el Real Decreto 1454/2005, de 2 de diciembre, en lo relativo a la información al consumidor sobre el origen de la electricidad consumida y su impacto sobre el medio ambiente.
+
+De acuerdo con lo establecido en la disposición adicional undécima de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, este real decreto ha sido sometido al preceptivo informe de la Comisión Nacional de Energía, para cuya elaboración se han tenido en cuenta las alegaciones formuladas en el trámite de audiencia efectuado a través del Consejo Consultivo de Electricidad.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de mayo de 2007,
+
+### D I S P O N G O :
+
+## CAPÍTULO I — Disposiciones generales
+
+#### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. El presente real decreto tiene por objeto la creación de un marco para el fomento tanto de la cogeneración de alta eficiencia de calor y electricidad basada en la demanda de calor útil y en el ahorro de energía primaria, como de los sistemas urbanos de calefacción y refrigeración eficientes, incrementando la eficiencia energética y mejorando la seguridad del abastecimiento.
+
+2\. Este real decreto es de aplicación a la cogeneración tal y como se define en el artículo 2.a).
+
+> Se modifica el apartado 1 por la disposición final 2.1 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+#### Artículo 2. Definiciones.
+
+A efectos de lo dispuesto en el presente real decreto se entenderá por:
+
+a) Cogeneración, la generación simultánea en un proceso de energía térmica útil (calor útil) y eléctrica y/o mecánica.
+
+b) Calor útil, el calor producido en un proceso de cogeneración para satisfacer una demanda económicamente justificable de calor o refrigeración.
+
+c) Demanda económicamente justificable, la demanda que no supere las necesidades de calor o refrigeración y que, de no recurrirse a la cogeneración, se satisfaría en condiciones de mercado mediante procesos de producción de energía distintos de la cogeneración.
+
+d) Electricidad de cogeneración, la electricidad generada en un proceso relacionado con la producción de calor útil y calculada de acuerdo con la metodología establecida en el anexo II del presente real decreto.
+
+e) Electricidad de reserva, la electricidad suministrada a través de la red eléctrica siempre que el proceso de cogeneración se vea perturbado, incluidos los periodos de mantenimiento, o esté averiado.
+
+f) Electricidad de complemento, la electricidad suministrada a través de la red eléctrica en los casos en que la demanda de electricidad sea superior a la producción eléctrica del proceso de cogeneración.
+
+g) Ahorro de energía primaria (AEP), la diferencia entre el consumo de energía primaria que hubiera sido necesario en generación separada de calor útil y electricidad (y/o energía mecánica) producidos en el proceso de cogeneración, y el consumo realmente habido, en dicho proceso.
+
+El ahorro de energía primaria porcentual (PES), que se define en el anexo III del presente real decreto, es la relación entre el ahorro de energía primaria y la energía primaria que se hubiera consumido en generación separada de calor útil y electricidad y/o energía mecánica.
+
+h) Eficiencia global, la suma anual de la producción de electricidad y energía mecánica y de calor útil, dividida por la cantidad de combustible consumido para la producción de calor y para la producción bruta de electricidad y de energía mecánica, mediante un proceso de cogeneración.
+
+i) Eficiencia, es el resultado de dividir la energía obtenida en el proceso de transformación de la energía por la energía aportada al mismo, calculada esta última a partir de los valores caloríficos netos de combustible (también denominados poder calorífico inferior-PCI).
+
+j) Cogeneración de alta eficiencia, la cogeneración que cumpla los criterios del anexo III del presente real decreto.
+
+k) Valor de referencia de la eficiencia de la producción separada, la eficiencia de las producciones alternativas separadas de calor y electricidad que se pretende sustituir mediante el proceso de cogeneración.
+
+l) Relación entre electricidad y calor, la relación entre electricidad de cogeneración y el calor útil cuando se funciona en modo de cogeneración total utilizando datos operativos de la unidad concreta.
+
+m) Unidad de cogeneración, una unidad que puede funcionar en la modalidad de cogeneración.
+
+n) Unidad de microcogeneración, la unidad de cogeneración con una potencia máxima inferior a los 50 kWe.
+
+o) Cogeneración a pequeña escala, la unidad de cogeneración con una potencia máxima inferior a los 1.000 kWe.
+
+p) Producción en régimen de cogeneración, la suma de la electricidad y/o energía mecánica y del calor útil procedentes de la cogeneración.
+
+q) Coeficiente de ocupación del suelo: La relación entre la superficie construida y la superficie del terreno en un territorio determinado.
+
+r) Sistema urbano eficiente de calefacción y refrigeración: Todo sistema centralizado y de distrito de calefacción o de refrigeración que utilice al menos un 50 % de energía renovable, un 50% de calor residual, un 75% de calor cogenerado o un 50 % de una combinación de estos tipos de energía y calor.
+
+s) Calefacción y refrigeración eficientes: Toda opción de calefacción y refrigeración que, en comparación con una hipótesis de base que refleje la situación sin modificaciones, disminuya de manera mensurable la energía entrante necesaria para proveer una unidad de energía suministrada dentro del límite pertinente de un sistema, de manera rentable, según el análisis de costes y beneficios previsto en el artículo 13 del Real Decreto 56/2016, de 12 de febrero, por el que se transpone parcialmente la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, en lo referente a auditorías energéticas, acreditación de proveedores de servicios y auditores energéticos y promoción de la eficiencia del suministro de energía, y teniendo en cuenta la energía necesaria para la extracción, conversión, transporte y distribución.
+
+t) Calefacción y refrigeración individuales eficientes: Toda opción de suministro individual de calefacción y refrigeración que, en comparación con un sistema urbano eficiente de calefacción y refrigeración, disminuya de manera mensurable la energía primaria no renovable entrante necesaria para proveer una unidad de energía suministrada dentro del límite pertinente de un sistema, o que requiera la misma energía primaria no renovable entrante pero con un coste menor, teniendo en cuenta la energía necesaria para la extracción, conversión, transporte y distribución.
+
+> Se añaden las letras q), r), s) y t) por la disposición final 2.2 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+#### Artículo 3. Funciones del Ministerio de Industria, Energía y Turismo.
+
+Con objeto de promover la cogeneración de acuerdo con el presente real decreto, el Ministerio de Industria, Energía y Turismo se encargará, entre otras, de las siguientes funciones:
+
+a) Elaboración de los criterios generales de actuación para promover la cogeneración y los sistemas urbanos de calefacción y refrigeración eficientes.
+
+b) Coordinación con la Comisión Europea en las comunicaciones relativas al fomento de la cogeneración y de los sistemas urbanos de calefacción y refrigeración eficientes, en particular la elaboración de las estadísticas e informes necesarios.
+
+> Se modifica por la disposición final 2.3 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+## CAPÍTULO II — Electricidad de alta eficiencia
+
+#### Artículo 4. Valores de referencia para la producción por separado de electricidad y calor.
+
+1\. A efectos de determinar la eficiencia de la cogeneración, de conformidad con lo preceptuado en el anexo III del presente real decreto, se utilizarán los valores de referencia de la eficiencia armonizados para la producción por separado de calor y electricidad, establecidos en la Decisión de Ejecución 2011/877/UE de la Comisión, de 19 de diciembre de 2011 modificados, en su caso, por los factores de corrección correspondientes, de acuerdo con lo establecido en dicha Decisión.
+
+2\. Estos valores se revisarán periódicamente a fin de tener en cuenta la evolución tecnológica y los cambios surgidos en la distribución de las fuentes de energía, siguiendo los criterios establecidos por la Comisión Europea.
+
+> Se modifica el apartado 1 por la disposición final 2.4 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+#### Artículo 5. Métodos de cálculo de la electricidad de cogeneración.
+
+1\. El ahorro de energía primaria conseguido a través de la producción de calor y electricidad y energía mecánica se calculará según lo previsto en el párrafo b) del anexo III del presente real decreto, siendo la electricidad procedente de la cogeneración la calculada de acuerdo con lo preceptuado en su anexo II. Esta producción se considerará cogeneración de alta eficiencia siempre que se cumplan los criterios de eficiencia establecidos en el párrafo a) del citado anexo III.
+
+2\. El Ministerio de Industria, Energía y Turismo podrá, en relación al cálculo de la electricidad de cogeneración, y previa notificación a la Comisión:
+
+a) Establecer valores por defecto para la relación entre electricidad y calor de las unidades de los tipos f), g), h), i), j) y k) del anexo I.
+
+b) Establecer la relación entre electricidad y calor como una relación entre la electricidad y el calor útil cuando se opere en modo de cogeneración a baja potencia utilizando datos operativos de la unidad específica.
+
+c) Considerar períodos de referencia distintos del período de un año indicado.
+
+3\. El Ministerio de Industria, Energía y Turismo podrá, en relación con el cálculo del ahorro de energía primaria, y previa certificación a la Comisión, considerar periodos de referencia distintos del periodo de un año indicado.
+
+> Se modifica por la disposición final 2.5 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+#### Artículo 6. Método de cálculo alternativo.
+
+1\. El Ministerio de Industria, Energía y Turismo podrá establecer otros métodos alternativos, bien para restar de las cifras comunicadas posibles cantidades de electricidad no producidas mediante un proceso de cogeneración, o para definir una producción por cogeneración como cogeneración de alta eficiencia, sin que sea necesario verificar que dicha producción por cogeneración cumple los criterios establecidos en el párrafo a) del anexo III de este real decreto. Para el establecimiento del segundo método nombrado, definición de producción por cogeneración como de alta eficiencia sin la verificación de los criterios del párrafo a) del anexo II, deberá de verificarse, en el ámbito nacional, que la producción por cogeneración definida mediante dicho método de cálculo alternativo cumple, por término medio, los citados criterios del párrafo a) del anexo III.
+
+2\. Del mismo modo, se podrá calcular el ahorro de energía primaria conseguido mediante la producción de calor y electricidad y energía mecánica con arreglo a lo dispuesto en el párrafo c) del anexo III de este real decreto, sin aplicar lo dispuesto en el anexo II del mismo, para excluir las partes de calor y electricidad del mismo proceso no procedentes de la cogeneración. Se podrá considerar que esta producción es cogeneración de alta eficiencia siempre que cumpla los criterios de eficiencia establecidos en el párrafo a) del citado anexo III. Asimismo, para las unidades de cogeneración con una capacidad eléctrica superior a 25 MW, se podrá considerar que esta producción es cogeneración de alta eficiencia si la eficiencia global se sitúa por encima del 70 por ciento.
+
+3\. No obstante lo anterior, para expedir una garantía de origen y a efectos estadísticos, la especificación de la cantidad de electricidad de cogeneración que se produzca se determinará de conformidad con el anexo II de este real decreto.
+
+> Se modifica el apartado 1 por la disposición final 2.6 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+#### Artículo 7. Revisión.
+
+Los valores y orientaciones que se citan a continuación se adaptarán al progreso técnico, de acuerdo con los criterios adoptados por la Comisión Europea:
+
+a) Los valores límite utilizados para calcular la electricidad de cogeneración establecidos en el párrafo a) del anexo II del presente real decreto.
+
+b) Los valores límite utilizados para calcular la eficiencia de la producción mediante cogeneración y el ahorro de energía primaria indicados en el párrafo a) del anexo III de este real decreto.
+
+c) Las orientaciones para establecer la relación entre electricidad y calor a que se refiere el párrafo d) de dicho anexo II.
+
+#### Artículo 8. Planes de apoyo.
+
+El Ministerio de Industria, Turismo y Comercio velará por que el apoyo a la cogeneración, de las unidades existentes y de las futuras, se base en la demanda de calor útil y en el ahorro de energía primaria, considerando las oportunidades disponibles para reducir la demanda de energía mediante otras medidas que sean económicamente viables o favorables para el medio ambiente, así como la posibilidad de otras medidas de eficiencia energética.
+
+## CAPÍTULO III — Análisis e informes
+
+#### Artículo 9. Potencial de cogeneración de alta eficiencia.
+
+1\. El Ministerio de Industria, Turismo y Comercio elaborará un análisis del potencial de aplicación de la cogeneración de alta eficiencia, incluida la microcogeneración de alta eficiencia.
+
+2\. El documento de análisis se realizará conforme a lo siguiente:
+
+a) Incluirá, a efectos de comparación y coherencia con el potencial de electricidad generada por energías renovables, el potencial de ahorro de energía primaria.
+
+b) Se basará en datos científicos debidamente documentados y cumplirá los criterios enumerados en el anexo IV del presente real decreto.
+
+c) Especificará todo el potencial de demandas de calefacción y refrigeración útiles que sean adecuadas para la aplicación de la cogeneración de alta eficiencia, así como la disponibilidad de combustibles y otros recursos energéticos a efectos de su utilización en cogeneración.
+
+d) Incluirá un análisis separado de los obstáculos que pudieran impedir la realización del potencial nacional para la cogeneración de alta eficiencia. En particular, este análisis considerará los obstáculos relacionados con los precios y costes de los combustibles y el acceso a los mismos, los relacionados con la red, los relacionados con los procedimientos administrativos y los relacionados con la falta de internalización de los costes externos en los precios energéticos.
+
+#### Artículo 10. Informes.
+
+1\. El Ministerio de Industria, Energía y Turismo, antes del 31 de diciembre de 2015, publicará un informe con los resultados de los análisis realizados de conformidad con lo dispuesto en el apartado 1 del artículo 9.
+
+2\. Una vez publicado el informe del apartado anterior, y a partir de entonces, cuando sea solicitado por la Comisión Europea, el Ministerio de Industria, Turismo y Comercio publicará un informe con los resultados de la evaluación de los progresos realizados en el aumento de la participación de la cogeneración de alta eficiencia.
+
+3\. El Ministerio de Industria, Turismo y Comercio presentará a la Comisión Europea, cada año, estadísticas sobre la producción nacional de electricidad y calor mediante cogeneración elaboradas con arreglo a la metodología descrita en el anexo II del presente real decreto.
+
+El Ministerio de Industria, Turismo y Comercio presentará, asimismo, estadísticas anuales sobre las capacidades de cogeneración y sobre los combustibles empleados para este fin. También podrá presentar estadísticas sobre el ahorro de energía primaria llevado a cabo mediante la aplicación de la cogeneración, elaboradas con arreglo a la metodología que figura en el anexo III de este real decreto.
+
+> Se modifica el apartado 1 por la disposición final 2.7 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+#### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+#### Disposición final primera. Modificación del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.
+
+Se modifica el artículo 110 bis del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que queda redactado como sigue:
+
+«Artículo 110 bis. Información al consumidor sobre el origen de la electricidad consumida y su impacto sobre el medio ambiente.
+
+1\. Toda empresa comercializadora o distribuidora que venda electricidad a clientes finales deberá indicar en sus facturas, o junto a ellas, y en la documentación promocional puesta a disposición de los mismos, lo siguiente:
+
+a) la contribución de cada fuente energética primaria en la mezcla global de energías primarias utilizadas para producir la electricidad en el conjunto del sistema eléctrico español durante al año anterior (o el previo al anterior, en las facturas emitidas durante los meses de enero a marzo), incluyendo la correspondiente a las importaciones, según la información publicada por la Comisión Nacional de Energía basada en los datos facilitados por el operador del sistema.
+
+b) la referencia a las fuentes en las que se encuentre publicada la información sobre el impacto en el medio ambiente, al menos en cuanto a las emisiones totales de CO2 y los residuos radiactivos habidos en el sector eléctrico durante el año anterior (o el previo al anterior, en las facturas emitidas durante los meses de enero a marzo), señalando la contribución equivalente que hubiera tenido en dichos impactos la electricidad vendida por la empresa durante el año anterior (o el previo al anterior, en las facturas emitidas durante los meses de enero a marzo), conforme a la mezcla de energías primarias calculadas, según los criterios establecidos en el párrafo a).
+
+2\. Adicionalmente, toda empresa comercializadora que venda electricidad a clientes finales deberá indicar en sus facturas, o junto a ellas, y en la documentación promocional puesta a disposición de los mismos, la contribución de cada fuente energética primaria en el conjunto de la energía eléctrica suministrada por la empresa comercializadora durante el año anterior, así como su impacto ambiental asociado, según la información publicada por la Comisión Nacional de Energía, basada en los datos facilitados por el operador del sistema. Dicha contribución, para cada empresa comercializadora, se referirá al conjunto de sus ventas en el sistema eléctrico español.
+
+3\. La Comisión Nacional de Energía aprobará, mediante circular, que se publicará en el "Boletín Oficial del Estado">3. La Comisión Nacional de Energía aprobará, mediante circular, que se publicará en el "Boletín Oficial del Estado", el formato tipo que deberán utilizar las empresas distribuidoras y comercializadoras en sus facturas para reflejar la información detallada en los apartados 1 y 2, así como el método de cálculo utilizado para el cálculo de la contribución de cada fuente energética primaria en el conjunto de la energía eléctrica suministrada por las empresas comercializadoras y su impacto ambiental asociado, de acuerdo con lo previsto en el párrafo 2.a).»
+
+#### Disposición final segunda. Carácter básico.
+
+Este real decreto tiene carácter básico al amparo de lo establecido en las reglas 13.ª y 25.ª del artículo 149.1 de la Constitución, que atribuyen al Estado la competencia sobre bases y coordinación de la planificación general de la actividad económica y sobre bases del régimen energético y minero, respectivamente.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2007. [Ref. BOE-A-2007-9827](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9827).
+
+#### Disposición final tercera. Adaptación del Real Decreto.
+
+Se faculta al Ministro de Industria, Turismo y Comercio para introducir en los anexos de este Real Decreto cuantas modificaciones de carácter técnico fuesen precisas para mantenerlo adaptado a las innovaciones técnicas que se produzcan y, especialmente, a lo dispuesto en la normativa comunitaria.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2007. [Ref. BOE-A-2007-9827](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9827).
+
+#### Disposición final cuarta. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorporan al derecho español la Directiva 2004/8/CE del Parlamento Europeo y del Consejo de 11 de febrero de 2004, relativa al fomento de la cogeneración sobre la base de la demanda de calor útil en el mercado interior de la energía y por la que se modifica la Directiva 92/42/CEE, excepto sus artículos 5 y 9.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2007. [Ref. BOE-A-2007-9827](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9827).
+
+#### Disposición final quinta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 116, de 15 de mayo de 2007. [Ref. BOE-A-2007-9827](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-9827).
+
+Dado en Madrid, el 11 de mayo de 2007.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Turismo y Comercio,
+
+JOAN CLOS I MATHEU
+
+## ANEXO I — Tecnologías de cogeneración consideradas
+
+a) Turbina de gas de ciclo combinado con recuperación del calor.
+
+b) Turbina de contrapresión sin condensado.
+
+c) Turbina de extracción de vapor de condensación.
+
+d) Turbina de gas con recuperación del calor.
+
+e) Motor de combustión interna.
+
+f) Microturbinas.
+
+g) Motores Stirling.
+
+h) Pilas de combustible.
+
+i) Motores de vapor.
+
+j) Ciclos Rankine con fluido orgánico.
+
+k) Cualquier otro tipo de tecnología o combinación de tecnologías que corresponda a la definición que figura en el artículo 2, apartado a).
+
+A la hora de aplicar los principios generales para el cálculo de la electricidad de cogeneración, se utilizarán las orientaciones detalladas establecidas por la Decisión 2008/952/CE de la Comisión, de 19 de noviembre de 2008, por la que se establecen orientaciones detalladas para la aplicación del anexo II de la Directiva 2004/8/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004.
+
+> Se modifica por la disposición final 2.8 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+## ANEXO II — Cálculo de la electricidad de cogeneración
+
+Los valores utilizados para calcular la electricidad de cogeneración se determinarán sobre la base del funcionamiento previsto o real de la unidad en condiciones normales de utilización. En el caso de las unidades de microcogeneración, el cálculo podrá basarse en valores certificados.
+
+a) La producción de electricidad mediante cogeneración se considerará igual a la producción total anual de electricidad de la unidad medida en el punto de conexión de los generadores principales,
+
+I. para las plantas del tipo b), d), e), f), g) y h) mencionados en el anexo I del presente real decreto, si la eficiencia global anual es mayor o igual al 75%.
+
+II. para las plantas del tipo a) y c) mencionados en el anexo I del presente real decreto, si la eficiencia global anual es mayor o igual al 80%.
+
+b) En los casos en los que la eficiencia global anual sea inferior a los valores indicados en el apartado a) anterior, la electricidad producida por cogeneración se calculará aplicando la fórmula siguiente:
+
+E<sub>CHP</sub> = H<sub>CHP</sub> • C
+
+donde:
+
+E<sub>CHP</sub>: es la cantidad de electricidad producida mediante cogeneración.
+
+C: es la relación entre electricidad y calor.
+
+H<sub>CHP</sub>: es la cantidad de calor útil procedente de la cogeneración (calculada a este respecto como la producción total de calor menos cualquier cantidad de calor producida en calderas separadas o mediante extracción bajo tensión del vapor procedente del generador de vapor antes de su paso por la turbina).
+
+El cálculo de la electricidad procedente de la cogeneración deberá basarse en la relación real entre electricidad y calor. Si la relación real entre electricidad y calor en la unidad de cogeneración de que se trate no se conoce, podrán utilizarse, en particular para fines estadísticos, los valores por defecto siguientes para las unidades de los tipos a), b), c), d) y e), mencionados en el anexo I del presente real decreto, siempre y cuando la electricidad producida mediante cogeneración calculada sea inferior o igual a la producción eléctrica total de la unidad de que se trate:
+
+| Tipo de unidad | Valor por defecto<br>para la relación<br>entre electricidad y calor C |
+|---|---|
+| Turbina de gas de ciclo combinado con recuperación del calor | 0,95 |
+| Turbina de contrapresión sin condensado | 0,45 |
+| Turbina con extracción de vapor de condensación | 0,45 |
+| Turbina de gas con recuperación del calor | 0,55 |
+| Motor de combustión interna | 0,75 |
+
+c) En caso de que una parte del contenido energético del combustible utilizado en el proceso de cogeneración se recupere en productos químicos y se recicle, dicha parte podrá restarse del combustible consumido antes de calcular la eficiencia global a la que se refieren los párrafos a) y b).
+
+d) Para la aplicación de este anexo II, se utilizarán las orientaciones incluidas en las disposiciones que desarrollen el presente real decreto y que incluirán la determinación de la relación entre electricidad y calor.
+
+## ANEXO III — Método de determinación de la eficiencia del proceso de cogeneración
+
+Los valores utilizados para calcular la eficiencia de la cogeneración y el ahorro de energía primaria se determinarán sobre la base del funcionamiento previsto o real de la unidad en condiciones normales de utilización durante un periodo de referencia de un año natural.
+
+a) A efectos del presente real decreto, la cogeneración de alta eficiencia deberá cumplir los criterios siguientes:
+
+I) La producción de cogeneración procedente de unidades de cogeneración deberá aportar un ahorro de energía primaria de al menos el 10 %, calculado con arreglo al párrafo b), en relación con los datos de referencia de la producción por separado de calor y electricidad.
+
+Las unidades de cogeneración a pequeña escala y de microcogeneración que aporten un ahorro de energía primaria podrá considerarse que cumplen este criterio.
+
+II) Las instalaciones de cogeneración que obtengan la autorización administrativa de construcción o que sean renovadas sustancialmente con posterioridad a la entrada en vigor del Real Decreto por el que se modifica el Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos, deberán tener unas emisiones directas de dióxido de carbono procedentes de la producción mediante cogeneración alimentada con combustibles fósiles inferiores a 270 g CO<sub>2</sub> por cada kWh de producción de energía mediante generación combinada (incluida la calefacción, la refrigeración, la energía eléctrica y la mecánica). No obstante lo anterior, las instalaciones de cogeneración con autorización administrativa de explotación anterior al 10 de octubre de 2023 que sean renovadas sustancialmente y les resulte de aplicación este requisito podrán estar exentas del mismo hasta el 1 de enero de 2034, siempre que tengan un plan para reducir progresivamente las emisiones hasta alcanzar el umbral de menos de 270 g CO<sub>2</sub> por cada kWh a más tardar el 1 de enero de 2034 y que hayan notificado dicho plan a los gestores pertinentes y a las autoridades competentes.
+
+III) Las instalaciones de cogeneración que obtengan la autorización administrativa de construcción o que sean renovadas sustancialmente con posterioridad a la entrada en vigor del Real Decreto por el que se modifica el Real Decreto 413/2014, de 6 de junio, no aumentarán el uso de combustibles fósiles distintos del gas natural en las fuentes de calor existentes, en comparación con el consumo anual medio de los tres años naturales de pleno funcionamiento anteriores a la renovación, ni incorporarán una nueva fuente de calor a ese sistema que utilice combustibles fósiles distintos del gas natural.
+
+b) El ahorro de energía primaria aportado por la producción mediante cogeneración definida de conformidad con el anexo II del presente real decreto se calculará mediante la fórmula siguiente:
+
+PES = [1 - 1 / (CHP Hη / Ref.Hη + CHP Eη / Ref.Eη)] * 100 %
+
+donde:
+
+(PES): es el porcentaje de ahorro de energía primaria respecto de la que se hubiera consumido en generación separada de calor y electricidad y/o energía mecánica.
+
+CHP Hη: es la eficiencia térmica de la producción mediante cogeneración definida como la producción anual de calor útil procedente de la cogeneración dividida por la aportación de combustible utilizada para generar la suma de la producción de calor útil y electricidad procedentes de la cogeneración.
+
+Ref Hη: es el valor de referencia de la eficiencia para la producción separada de calor.
+
+CHP Eη: es la eficiencia eléctrica de la producción mediante cogeneración definida como la electricidad anual producida por cogeneración dividida por la aportación de combustible utilizada para generar la suma de la producción de calor útil y electricidad procedentes de la cogeneración. Si una unidad de cogeneración generare energía mecánica, la electricidad anual producida por cogeneración podrá incrementarse mediante un elemento adicional que represente la cantidad de electricidad equivalente a la de dicha energía mecánica. Este elemento adicional no dará derecho a expedir garantías de origen.
+
+Ref Eη: es el valor de referencia de la eficiencia para la producción separada de electricidad.
+
+c) Cálculo del ahorro de energía utilizando un método de cálculo alternativo con arreglo a lo dispuesto en el apartado 2 del artículo 6.
+
+Cuando el ahorro de energía primaria en un proceso se calcule con arreglo a lo establecido en el apartado 2 del artículo 7, se utilizará la fórmula que figura en el párrafo b) del presente anexo sustituyendo:
+
+«CHP Hç» por «Hç», y
+
+«CHP Eç» por «Eç»,
+
+donde:
+
+Hç: Es la eficiencia calórica del proceso, definida como la producción anual de calor dividida por el aporte de combustible utilizado para producir la suma de la producción de calor y la producción de electricidad.
+
+Eç: Es la eficiencia del proceso en términos de producción de electricidad, definido como la producción anual de electricidad dividida por el aporte de combustible utilizado para producir la suma de la producción de calor y la producción de electricidad. Si una unidad de cogeneración generare energía mecánica, la electricidad anual producida por cogeneración podrá incrementarse mediante un elemento adicional que represente la cantidad de electricidad equivalente a la de dicha energía mecánica. Este elemento adicional no dará derecho a expedir garantías de origen.
+
+d) En el caso de las unidades de microcogeneración, el cálculo del ahorro de energía primaria podrá basarse en datos certificados.
+
+e) Valores de referencia de la eficiencia de la producción separada de calor y electricidad. Los principios aplicables a la definición de los valores de referencia de la eficiencia para la producción separada de calor y electricidad mencionados en el artículo 4 y en la fórmula que figura en el párrafo b) del presente anexo establecerán la eficiencia de explotación de la producción separada de calor y electricidad que se pretende sustituir por la cogeneración.
+
+> Se modifica la letra a) por la disposición final 1 del Real Decreto 917/2025, de 15 de octubre. [Ref. BOE-A-2025-20694](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20694)
+
+> Se modifica el inicio de la letra c) por la disposición final 2.9 del Real Decreto 56/2016, de 12 de febrero. [Ref. BOE-A-2016-1460](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1460).
+
+## ANEXO IV — Criterios de análisis del potencial nacional de cogeneración de alta eficiencia
+
+a) El análisis de los potenciales nacionales a que se refiere el artículo 9 considerará los aspectos siguientes:
+
+I. Los tipos de combustibles que probablemente se vayan a usar para lograr los potenciales de cogeneración, incluidas consideraciones específicas sobre el potencial para aumentar el uso de las fuentes de energía renovables para satisfacer necesidades de calor útil.
+
+II. Los tipos de tecnologías de cogeneración enumeradas en el anexo I del presente real decreto que probablemente se vayan a usar para lograr el potencial nacional.
+
+III. El tipo de producción separada de calor y electricidad o, cuando sea factible, energía mecánica que la cogeneración de alta eficiencia probablemente vaya a sustituir.
+
+IV. Un reparto del potencial entre la modernización de la capacidad existente y la construcción de capacidad nueva.
+
+b) El análisis incluirá los mecanismos apropiados para evaluar la rentabilidad, en términos de ahorro de energía primaria, del aumento de la participación de la cogeneración de alta eficiencia en la producción energética total nacional. El análisis de rentabilidad tendrá también en cuenta los compromisos nacionales en materia de lucha contra el cambio climático aceptados por la Comunidad con arreglo al Protocolo de Kyoto de la Convención marco de las Naciones Unidas sobre el cambio climático.
+
+c) El análisis del potencial nacional de cogeneración especificará los potenciales en relación con los horizontes de 2010, 2015 y 2020 e incluirá, cuando sea factible, los cálculos de costes apropiados de cada uno de los horizontes.

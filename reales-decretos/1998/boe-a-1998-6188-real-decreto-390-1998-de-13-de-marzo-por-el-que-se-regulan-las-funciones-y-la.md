@@ -1,0 +1,257 @@
+---
+title: "Real Decreto 390/1998, de 13 de marzo, por el que se regulan las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda"
+identifier: "BOE-A-1998-6188"
+eli: "https://www.boe.es/eli/es/rd/1998/03/13/390"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 1998-03-13
+published: 1998-03-14
+in_force_from: 1998-03-15
+last_amended: 2024-02-28
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 63"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-6188"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 390/1998, de 13 de marzo, por el que se regulan las funciones y la estructura orgánica de las Delegaciones de Economía y Hacienda
+
+Incluye la corrección de errores publicada en BOE núm. 84, de 8 de abril de 1998. [Ref. BOE-A-1998-8289](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8289).
+
+El Real Decreto 765/1996, de 7 de mayo, por el que se establece la estructura orgánica básica del Ministerio de Economía y Hacienda, dotó al mismo de su configuración actual, recogiendo en el ámbito de sus competencias las que corresponden al Estado en relación con la actividad de Hacienda Pública, Presupuestos y Gastos, Economía, Comercio, Turismo y Pequeña y Mediana Empresa.
+
+El Real Decreto 1884/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Economía y Hacienda, en su artículo 26, servicios periféricos, regula su Administración territorial. De manera análoga el Real Decreto 139/1997, de 31 de enero, en su artículo 9.3 adscribe las Delegaciones de Estadística a las Delegaciones de Economía y Hacienda.
+
+La gestión del sistema tributario estatal y aduanero tiene su organización específica en la Agencia Estatal de Administración Tributaria (AEAT), de conformidad con lo dispuesto en el artículo 103 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, según la redacción dada por la disposición adicional decimoséptima de la Ley 18/1991, de 6 de junio, del Impuesto sobre la Renta de las Personas Físicas, y el artículo 106 de la Ley 31/1991, de 30 de diciembre, de Presupuestos Generales del Estado para 1992.
+
+Los Tribunales Económico-administrativos competentes con autonomía funcional, en la resolución de las reclamaciones que se susciten contra los actos de gestión de la Administración financiera del Estado o Hacienda Pública, también cuentan con su propia organización territorial, recogida en el Reglamento de procedimiento en las reclamaciones económico-administrativas, aprobado por Real Decreto 391/1996, de 1 de marzo.
+
+Las unidades territoriales del Parque Móvil de los Ministerios han de tener su regulación específica en el Real Decreto de adaptación de este Organismo autónomo a la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, tal como prevé su disposición transitoria tercera.
+
+Con las mencionadas excepciones, corresponde a las Delegaciones de Economía y Hacienda aglutinar el conjunto de los servicios territoriales del Departamento y sus Organismos autónomos y ejercer su representación en ese ámbito.
+
+Aprobada la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado (LOFAGE), su artículo 33 establece que tendrán el carácter de servicios no integrados aquellos en que por las singularidades de sus funciones o por el volumen de gestión resulte aconsejable su dependencia directa de los órganos centrales correspondientes en aras de una mayor eficacia de sus actuaciones.
+
+Mediante el presente Real Decreto se completa y desarrolla la organización de los servicios periféricos del Ministerio de Economía y Hacienda, anteriormente regulados en el mencionado Real Decreto 1884/1996, de 2 de agosto. El mismo rango exige el artículo 63.3 de la LOFAGE para la modificación en la organización de organismos públicos. También requiere el rango de Real Decreto la desconcentración de funciones en materia de contratación por virtud del artículo 12.3 de la Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas.
+
+Se ha optado por mantener la regulación de las Intervenciones Regionales y Territoriales mediante Real Decreto, siguiendo el criterio del Real Decreto 405/1996, de 1 de marzo, de Reorganización de la Intervención General de la Administración del Estado.
+
+Finalmente, el 20 de agosto se ha publicado el Real Decreto 1330/1997, de 1 de agosto, de integración de servicios periféricos y de estructura de las Delegaciones del Gobierno, por lo que resulta oportuno abordar la regulación de las estructuras territoriales del Ministerio de Economía y Hacienda.
+
+En su virtud, a propuesta conjunta del Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda y del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 13 de marzo de 1998,
+
+## D I S P O N G O :
+
+### Artículo 1. Administración territorial del Ministerio de Economía y Hacienda.
+
+**(Derogado)**
+
+> Se deroga por la disposición única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 2. Delegaciones de Economía y Hacienda.
+
+**(Derogado)**
+
+> Se deroga el apartado 2 por la disposición derogatoria única.c) del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)
+
+> Se derogan los apartados 1, 3 y 4 por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 3. Delegados Especiales de Economía y Hacienda.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 4. Delegados de Economía y Hacienda.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 5. Desconcentración de funciones.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 6. Funciones de las Delegaciones Especiales de Economía y Hacienda.
+
+Las Delegaciones Especiales de Economía y Hacienda, además de las que deban realizar en su ámbito provincial, desarrollarán en relación con las Delegaciones de su ámbito territorial (Comunidad Autónoma donde tiene su sede y, en el caso de la Delegación Especial de Andalucía, se incluye Ceuta y Melilla) y bajo la dependencia de los centros directivos competentes por razón de la materia, las siguientes funciones:
+
+a) Coordinar, supervisar e impulsar las actuaciones de las Delegaciones de Economía y Hacienda de su respectivo ámbito territorial, sin perjuicio de las competencias que estén específicamente atribuidas a otros órganos.
+
+b) Elaborar y someter a la aprobación de la autoridad competente planes regionales de actuación. Asimismo, y con el alcance que se establezca por los centros directivos competentes funcionalmente, aprobar planes autónomos de actuación regional.
+
+c) Ejecutar a través de las dependencias que la integran y cuidar de la ejecución por los correspondientes órganos de las Delegaciones de Economía y Hacienda Provinciales, de los programas en que se desagreguen los respectivos planes de actuación.
+
+d) Desarrollar las funciones que corresponden a las Intervenciones Regionales en materia de intervención, control financiero y auditoría.
+
+e) Asumir las tareas materiales de las Delegaciones de Economía y Hacienda de sus respectivos territorios, que deban realizarse en el ámbito regional por razones de economía, eficacia y eficiencia, cuando así se determine por los centros directivos competentes por razón de la materia.
+
+f) Constituir el cauce ordinario de relación entre los órganos de las Delegaciones de Economía y Hacienda y los de la Administración Central de Economía y Hacienda.
+
+g) Coordinar las relaciones externas del Departamento en el ámbito de la Comunidad Autónoma, sin perjuicio de lo establecido en la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.
+
+h) Colaborar en las tareas de selección, formación y perfeccionamiento de funcionarios, dentro de las normas y planes que al efecto se establezcan.
+
+i) Actuar como vehículo de relación y asesoramiento para la elaboración y aplicación de la política de personal del Departamento, en la forma que en cada caso se determine.
+
+j) Participar en las tareas de coordinación de los planes informáticos de los distintos centros del Departamento, dentro de las normas que a tal fin se dicten.
+
+k) Desarrollar las tareas de naturaleza gestora que, actualmente atribuidas a los órganos centrales del Departamento, se desconcentren o deleguen en aquéllas.
+
+l) Cualquier otra función que, relacionada con su ámbito territorial, le encomienden los centros directivos competentes por razón de la materia.
+
+> Se modifica por la disposición final 1.1 del Real Decreto 206/2024, de 27 de febrero. [Ref. BOE-A-2024-3792](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3792)
+
+### Artículo 7. Dependencias regionales.
+
+1\. Bajo la dependencia funcional de los centros directivos competentes, las Delegaciones Especiales de Economía y Hacienda estarán constituidas por las siguientes dependencias regionales:
+
+a) Intervención Regional.
+
+b) Gerencia Regional del Catastro. No existirá en las Delegaciones Especiales del País Vasco y Navarra.
+
+c) Patrimonio, que podrá integrarse en la Secretaría General.
+
+d) Secretaría General.
+
+Integradas en la Dependencia regional de Secretaría General podrán existir unidades de especialización en las diferentes materias propias de su competencia, que desarrollarán su actividad de forma no territorializada, con dependencia funcional de la Subsecretaría de Hacienda.
+
+2\. En aquellas Delegaciones Especiales de Economía y Hacienda que no cuenten con Gerencia Regional del Catastro, existirá una Unidad Técnico-facultativa, directamente dependiente del Delegado Especial de Economía y Hacienda y con dependencia funcional de la Subsecretaría de Hacienda respecto a las actuaciones técnico-facultativas que deban desarrollar en relación con los inmuebles y espacios ocupados por los servicios territoriales del Departamento.
+
+3\. Las sedes de Cartagena y Gijón mantendrán dependencias de Intervención Territorial y Secretaría General, integrando en estas últimas a las unidades de Patrimonio del Estado.
+
+4\. La estructura y funciones de las unidades de las Delegaciones de Economía y Hacienda se desarrollarán por Orden ministerial y en su caso, mediante la correspondiente relación de puestos de trabajo.
+
+> Se modifica por la disposición final 1.2 del Real Decreto 206/2024, de 27 de febrero. [Ref. BOE-A-2024-3792](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3792)
+
+> Se deroga el apartado 1.d) por la disposición derogatoria única.c) del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)
+
+> Se modifican los apartados 1 y 3 y se deroga el 5 por el art. 3.1 a 3 del Real Decreto 1182/2020, de 29 de diciembre. [Ref. BOE-A-2020-17345](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17345)
+
+> Se modifican los apartados 1, 2 y 3 por el art. 1.1 a 3 del Real Decreto 802/2014, de 19 de septiembre. [Ref. BOE-A-2014-9739](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9739).
+
+> Se deroga el apartado 1.f) por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+### Artículo 8. Dependencia de Intervención Regional.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 84, de 8 de abril de 1998. [Ref. BOE-A-1998-8289](https://www.boe.es/buscar/doc.php?id=BOE-A-1998-8289).
+
+### Artículo 9. Funciones de las Delegaciones de Economía y Hacienda.
+
+1\. Las Delegaciones de Economía y Hacienda ejercerán sus competencias a través de las siguientes dependencias:
+
+a) Intervención Territorial.
+
+b) Gerencia Territorial del Catastro.
+
+c) Secretaría General que incluirá las competencias de Patrimonio del Estado.
+
+Integradas en la Dependencia de Secretaría General podrán existir unidades de especialización en las diferentes materias propias de su competencia, que desarrollarán su actividad de forma no territorializada, con dependencia funcional de la Subsecretaría de Hacienda.
+
+2\. Las sedes de Jerez de la Frontera y Vigo mantendrán dependencias de Intervención Territorial, y Secretaría General, integrando en esta última a las unidades de Patrimonio del Estado.
+
+> Se modifica por la disposición final 1.3 del Real Decreto 206/2024, de 27 de febrero. [Ref. BOE-A-2024-3792](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3792)
+
+> Se deroga el apartado 2.c) por la disposición derogatoria única.c) del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)
+
+> Se modifican los apartados 2.d) y 3 por el art. 3.4 y 5 del Real Decreto 1182/2020, de 29 de diciembre. [Ref. BOE-A-2020-17345](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17345)
+
+> Se modifican los apartados 2.d) y 3 por el art. 1.4 y 5 del Real Decreto 802/2014, de 19 de septiembre. [Ref. BOE-A-2014-9739](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-9739).
+
+> Se deroga el apartado 2.e) por la disposición derogatoria única del Real Decreto 1456/2005, de 2 de diciembre. [Ref. BOE-A-2005-20554](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-20554).
+
+> Se deroga el apartado 1 por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 10. Dependencia de Intervención Territorial.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Artículo 11. Delegación del Instituto Nacional de Estadística.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.c) del Real Decreto 803/2022, de 4 de octubre. [Ref. BOE-A-2022-16198](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16198)
+
+> Se añade el apartado 6 por el art. 3 del Real Decreto 176/2015, de 13 de marzo. [Ref. BOE-A-2015-3219](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3219).
+
+### Artículo 12. Funciones en materia de loterías y apuestas del Estado.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Disposición adicional primera. Funciones de la Subdirección General de Coordinación de Edificaciones Administrativas.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Disposición adicional segunda. Desempeño de las funciones del Delegado de Economía y Hacienda.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1.c) del Real Decreto 1330/2000, de 7 de julio. [Ref. BOE-A-2000-12970](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-12970).
+
+### Disposición transitoria primera. Régimen retributivo transitorio aplicable al personal adscrito a los servicios territoriales del Departamento y de sus organismos autónomos.
+
+El personal adscrito a los servicios territoriales del Departamento y de sus organismos autónomos, incluidos los titulares de las unidades afectadas por la reestructuración, seguirá percibiendo la totalidad de sus retribuciones con cargo a los créditos a que venían imputándose hasta que sean aprobadas las nuevas relaciones de puestos de trabajo y se proceda a efectuar las correspondientes modificaciones presupuestarias.
+
+### Disposición transitoria segunda. Continuidad en el ejercicio de las funciones de las Delegaciones Provinciales del Instituto Nacional de Estadística.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto 176/2015, de 13 de marzo. [Ref. BOE-A-2015-3219](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-3219).
+
+### Disposición derogatoria única. Alcance de la derogación normativa.
+
+1\. Quedan derogadas las siguientes disposiciones:
+
+a) Real Decreto 489/1979, de 20 de febrero, de reorganización de la Administración territorial de la Hacienda Pública, en lo que se refiere a las funciones y unidades integradas en las Delegaciones de Economía y Hacienda.
+
+b) Real Decreto 805/1982, de 2 de abril, por el que se modifica el Real Decreto 489/1979, de 20 de febrero, de reorganización de la Administración territorial, en lo que se refiere a las funciones y unidades integradas en las Delegaciones de Economía y Hacienda.
+
+c) Real Decreto 2321/1983, de 4 de agosto, por el que se modifica el Real Decreto 489/1979, de 20 de febrero, de reorganización de la Administración territorial de la Hacienda Pública.
+
+d) Real Decreto 715/1986, de 7 de marzo, por el que se desconcentran facultades en favor de las Delegaciones de Hacienda Especiales y Delegados de Hacienda, en lo que se refiere a las funciones y unidades integradas en las Delegaciones de Economía y Hacienda.
+
+e) Artículo 10 del Real Decreto 732/1993, de 14 de mayo, de estructura orgánica del organismo autónomo Instituto Nacional de Estadística.
+
+f) Artículo 7, apartados 4 y 5, del Real Decreto 405/1996, de 1 de marzo, de reorganización de la intervención General de la Administración del Estado.
+
+2\. Quedan derogadas asimismo las disposiciones de igual o inferior rango que se opongan a lo previsto en el presente Real Decreto.
+
+### Disposición final primera. Facultades de ejecución y desarrollo.
+
+Se faculta al Ministro de Economía y Hacienda, previo cumplimiento de los trámites legales correspondientes, para dictar cuantas disposiciones sean necesarias para la ejecución y el desarrollo de lo dispuesto en el presente Real Decreto.
+
+### Disposición final segunda. Modificación de las relaciones de puestos de trabajo.
+
+El Ministerio de Economía y Hacienda formulará la propuesta de modificación de las relaciones de puestos de trabajo de las unidades y organismos autónomos que integran los servicios territoriales del Departamento para adaptarlas a la reorganización prevista en el presente Real Decreto.
+
+### Disposición final tercera. Habilitación de créditos.
+
+Por el Ministerio de Economía y Hacienda se realizarán las modificaciones presupuestarias pertinentes en orden a la habilitación de los créditos necesarios para el cumplimiento de lo previsto en la presente disposición.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 13 de marzo de 1998.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ

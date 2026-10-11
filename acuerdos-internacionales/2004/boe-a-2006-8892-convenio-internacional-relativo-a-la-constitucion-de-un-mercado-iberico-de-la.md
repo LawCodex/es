@@ -1,0 +1,378 @@
+---
+title: "Convenio internacional relativo a la constitución de un mercado ibérico de la energía eléctrica entre el Reino de España y la República Portuguesa, hecho en Santiago de Compostela el 1 de octubre de 2004"
+identifier: "BOE-A-2006-8892"
+eli: "https://www.boe.es/eli/es/ai/2004/10/01/(1)"
+type: treaty
+rank: "Acuerdo Internacional"
+jurisdiction: es
+language: es
+department: "Ministerio de Asuntos Exteriores y de Cooperación"
+date: 2004-10-01
+published: 2006-05-22
+in_force_from: 2006-04-10
+last_amended: 2009-12-11
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 121"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-8892"
+retrieved: 2026-10-11
+---
+
+# Convenio internacional relativo a la constitución de un mercado ibérico de la energía eléctrica entre el Reino de España y la República Portuguesa, hecho en Santiago de Compostela el 1 de octubre de 2004
+
+## CONVENIO INTERNACIONAL RELATIVO A LA CONSTITUCIÓN DE UN MERCADO IBÉRICO DE LA ENERGÍA ELÉCTRICA ENTRE EL REINO DE ESPAÑA Y LA REPÚBLICA PORTUGUESA
+
+El Reino de España y la República Portuguesa, en adelante denominadas «las Partes»;
+
+Manifestando, en el marco de la cooperación entre ambos países su voluntad de avanzar en la conformación del Mercado Interior de la Energía;
+
+Como continuación de la cooperación iniciada en 1998 por las Administraciones Públicas española y portuguesa para, progresivamente, eliminar los obstáculos existentes y favorecer la integración de los respectivos sistemas eléctricos;
+
+Teniendo presente el Memorando de Acuerdo firmado el 29 de julio de 1998 por el Ministro de Economía de Portugal y el Ministro de Industria y Energía de España para la cooperación en materia de energía eléctrica; el Protocolo de cooperación entre las Administraciones española y portuguesa para la creación del Mercado Ibérico de la electricidad, firmado en Madrid el 14 de noviembre de 2001, por el Ministro de Economía de Portugal y por el Vicepresidente primero del Gobierno y Ministro de Economía del Reino de España, según el cual se establecen las condiciones para la creación del Mercado Ibérico de Energía Eléctrica; así como el Memorando de Entendimiento firmado en Figueira da Foz el 8 de noviembre de 2003 en el marco de la XIX Cumbre luso española, en la cual las Partes, representadas por los Ministros, fijaron el calendario para la concreción del Mercado Ibérico de la Energía Eléctrica;
+
+Conscientes de los mutuos beneficios que comporta la creación de un mercado de la electricidad común a las Partes en el marco de un proceso de integración de los sistemas eléctricos de ambas;
+
+Convencidos de que la creación de un Mercado Ibérico de Energía Eléctrica constituirá un hito en la construcción del Mercado Interior de la Energía en la Unión Europea y que permitirá acelerar el proceso de aplicación práctica de las disposiciones contenidas en la Directiva 2003/54/CE del Parlamento Europeo y del Consejo, de 26 de junio de 2003, sobre normas comunes para el Mercado Interior de la Electricidad, favoreciendo los intercambios y la competencia entre las empresas de este sector;
+
+Considerando que la integración de ambos sistemas eléctricos será beneficiosa para los consumidores de los dos países y que deberá permitir acceder al mercado a todos los participantes en condiciones de igualdad, transparencia y objetividad y con pleno respeto del derecho comunitario aplicable;
+
+Decididos a crear un marco jurídico estable que permita que los operadores de los sistemas eléctricos de las Partes desarrollen su actividad en toda la Península Ibérica;
+
+Teniendo en cuenta que ambos países firmaron el 20 de enero de 2004 en Lisboa un Convenio por el que se acuerda la constitución de un mercado ibérico de la energía eléctrica entre el Reino de España y la República Portuguesa, que ha sido objeto de aplicación provisional entre las Partes desde el 22 de abril de 2004 y que no ha entrado en vigor;
+
+Teniendo en cuenta que la práctica derivada de la aplicación provisional del citado Convenio ha puesto de manifiesto la necesidad de revisar el régimen jurídico y las obligaciones contenidas en el mismo para permitir la realización efectiva del MIBEL, a fin de adecuarlas a las necesidades de ambos países y al logro efectivo de los objetivos arriba enunciados;
+
+Consideran necesario celebrar un nuevo Convenio y acuerdan lo siguiente:
+
+### PARTE I — Disposiciones generales
+
+#### Artículo 1. Objeto.
+
+1\. El objeto del presente Convenio es la creación y desarrollo de un mercado de la electricidad común a las Partes, con la denominación de Mercado Ibérico de la Energía Eléctrica, en adelante denominado «MIBEL», en el marco de un proceso de integración de los sistemas eléctricos de ambos países.
+
+2\. El MIBEL está formado por el conjunto de los mercados organizados y no organizados en los que se realizan transacciones o contratos de energía eléctrica y en los que se negocian instrumentos financieros que toman como referencia dicha energía, así como por otros que sean acordados por las Partes.
+
+3\. La creación de un Mercado Ibérico de la Energía Eléctrica implica el reconocimiento por las Partes de un único mercado de la electricidad, en el cual todos los agentes tendrán igualdad de derechos y obligaciones.
+
+4\. Las Partes se obligan a desarrollar y modificar, de forma coordinada, la legislación y reglamentación interna necesaria para permitir el funcionamiento del MIBEL.
+
+5\. El MIBEL comenzará su funcionamiento antes del 30 de junio de 2005, con el libre e igual acceso de los agentes de ambas Partes a los mercados.
+
+6\. Con la firma del presente Convenio, las Administraciones Públicas nacionales de cada una de las Partes se comprometen a cumplir con las obligaciones derivadas de la existencia de un Mercado Ibérico de la Energía Eléctrica.
+
+#### Artículo 2. Principios orientadores.
+
+1\. El funcionamiento del MIBEL se basará en los principios de transparencia, libre competencia, objetividad y en el de liquidez, autofinanciación y autoorganización de los mercados.
+
+2\. El principio de autofinanciación de los mercados incluido en el punto anterior será aplicado sin perjuicio de un periodo inicial transitorio, fijado por las Partes, en el que la financiación del Operador del Mercado Ibérico Polo Portugués (OMIP) y del Operador del Mercado Ibérico Polo Español (OMIE), a los que se refiere el artículo 4, pueda ser complementada por las tarifas.
+
+3\. El principio de autoorganización será aplicado sin perjuicio de un adecuado modelo de autorización y supervisión.
+
+4\. Las Partes promoverán, a través de mecanismos diseñados a tal efecto, la concurrencia de sujetos en el MIBEL, de manera que se fomente la liquidez del mismo.
+
+#### Artículo 3. Sujetos.
+
+1\. Quedan sometidos a los derechos y obligaciones derivados de la creación del MIBEL todos los sujetos que actúan en el mercado eléctrico de ambas Partes, así como cualquier otro sujeto que directa o indirectamente intervenga en el sistema eléctrico de cada uno de los países.
+
+2\. Tendrán la consideración de sujetos, a los efectos de su actuación en el MIBEL, los siguientes:
+
+a) Los productores de energía eléctrica, que son aquellas personas físicas o jurídicas que tienen la función de generar energía eléctrica, así como la de construir, operar y mantener las centrales de producción, tanto para consumo propio, como de terceros.
+
+b) El Operador de Mercado Ibérico (OMI) y las sociedades gestoras de los mercados organizados.
+
+c) Los Operadores del Sistema de cada una de las partes.
+
+d) Los suministradores de último recurso, en los términos en que quedan especificados en la Directiva 2003/54/CE del Parlamento Europeo y del Consejo sobre normas comunes para el mercado interior de la electricidad.
+
+e) Los comercializadores, que son aquellas personas jurídicas que accediendo a las redes de transporte o distribución, tienen como función la venta de energía eléctrica a los consumidores o a otros sujetos del sistema.
+
+f) Los consumidores finales, personas físicas o jurídicas que compren la energía para su propio consumo.
+
+g) Los sujetos que actúen por cuenta de otros sujetos del MIBEL, de acuerdo con la normativa que les resulte de aplicación.
+
+h) Los sujetos que negocien instrumentos financieros en los mercados del MIBEL.
+
+i) Cualesquiera otros sujetos que se definan por acuerdo de las Partes.
+
+3\. En relación con lo previsto en el apartado 3.2.g) anterior, una sociedad que actúe en los mercados del MIBEL como representante de otras entidades no podrá actuar simultáneamente por cuenta propia y por cuenta ajena.
+
+Se entiende que una sociedad actúa por cuenta propia cuando el grupo empresarial en el que está integrada participe de forma directa o indirecta en más del 50% del capital de la entidad representada.
+
+> Se modifica el apartado 2 y se añade el 3 por el art. único.1 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+### PARTE II — Disposiciones específicas
+
+#### Artículo 4. Operador del Mercado Ibérico.
+
+1\. El Operador del Mercado Ibérico (OMI) se estructurará en dos sociedades tenedoras de acciones, con sedes respectivamente en España y Portugal, y participaciones cruzadas del diez por ciento (10%).
+
+Ambas sociedades poseerán, el cincuenta por ciento (50%) de cada una de las sociedades gestoras de los mercados.
+
+En lo que respecta a la estructura empresarial, el Operador del Mercado Ibérico estará constituido por dos sociedades gestoras de mercado, una con sede en España, OMI- Polo Español (OMIE), y otra con sede en Portugal, OMI-Polo Portugués (OMIP), organizadas de acuerdo con lo establecido en este Convenio. Ambas sociedades gestoras tendrán a su vez una participación del cincuenta por ciento (50%) en la sociedad OMIClear–Sociedade de Compensaçaõ de Mercados de Energia S. A.
+
+OMIP actuará como sociedad gestora del mercado a plazo y OMIE como sociedad gestora del mercado diario, previo cumplimiento, a estos efectos de la normativa vigente en el Estado Parte en cuyo territorio tengan su sede.
+
+2\. Los dos Consejos de Administración de las dos entidades gestoras, OMIE y OMIP, estarán compuestos por los mismos miembros y también tendrán una misma presidencia y vicepresidencia.
+
+Los dos países ibéricos estarán representados, de forma alterna, en los cargos de Presidente y Vicepresidente. El mandato de cada representante se mantendrá en vigor por un periodo inicialmente previsto de, al menos, seis años, repartido en periodos iguales de tres años, respectivamente, en las funciones de presidencia y vicepresidencia. La elección de los cargos de Presidente y Vicepresidente de ambas sociedades será responsabilidad conjunta de los órganos societarios de las entidades OMI Polo Español y OMI Polo Portugués, con el acuerdo de ambos Gobiernos.
+
+3\. Ningún accionista individual podrá tener más del cinco por ciento (5%) de cualquiera de las sociedades tenedoras de acciones. Igualmente, la participación agregada en cada una de esas sociedades por las entidades que realizan actividades en el sector eléctrico y en el de gas natural no podrá exceder del cuarenta por ciento (40%).
+
+4\. Se autoriza la participación de los Operadores del Sistema respectivos, Red Eléctrica Española S.A. (REE), y Redes Energéticas Nacionales (REN), hasta un máximo del diez por ciento (10%) en cada una de las sociedades tenedoras de acciones, por cada uno de los Operadores del Sistema. Dicha participación no computará en el 40% al que hace referencia el punto 3.
+
+5\. Las dos sociedades gestoras de los mercados se financiarán por sí mismas una vez transcurrido un periodo transitorio que finalizará el 1 de enero de 2010. Durante este periodo transitorio la financiación de las sociedades gestoras de los mercados podrá ser complementada por las tarifas.
+
+> Se modifica por el art. único.2 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 5. Operación del Sistema.
+
+1\. Los Operadores del Sistema de cada una de las Partes son los responsables de la gestión técnica del sistema y tienen por objeto garantizar la continuidad y seguridad del suministro eléctrico, a través de la gestión de los servicios de ajustes del sistema.
+
+2\. Las funciones y mecanismos de coordinación entre los Operadores del Sistema de cada una de las Partes se establecerán por acuerdo de ambas.
+
+3\. Transcurrido un periodo transitorio que acordarán las Partes, los Operadores del Sistema no podrán, en ningún caso, realizar operaciones de comercialización de energía eléctrica.
+
+4\. En el ámbito del número anterior, antes de transcurrido un año desde la entrada en funcionamiento del MIBEL, la Red Eléctrica de España (REE) y la Red Eléctrica Nacional (REN) harán una propuesta a sus Gobiernos respectivos para solucionar definitivamente los contratos históricos de energía de que sean titulares.
+
+#### Artículo 6. Mercados de contratación de energía eléctrica en el MIBEL.
+
+1\. Los mercados organizados del MIBEL, a los que se refiere el apartado 2 del artículo primero y su forma de liquidación serán los siguientes:
+
+a) Mercados a plazo, que incluyen transacciones referidas a bloques de energía con entrega posterior al día siguiente de la contratación, de liquidación tanto por entrega física como por diferencias.
+
+b) Mercados diarios, que comprenden las transacciones referidas a bloques de energía y entrega al día siguiente de la contratación, de liquidación necesariamente por entrega física.
+
+c) Mercado intradiario, de liquidación necesariamente por entrega física.
+
+2\. Los mercados no organizados, a los que se refiere el apartado 2 del artículo primero, están formados por los contratos bilaterales entre los sujetos del mercado, de liquidación tanto por entrega física como por diferencias.
+
+3\. La contratación de los servicios de ajustes del sistema en el mismo día podrá ser realizada a través de mecanismos de mercado, a definir por cada operador del sistema y su liquidación será necesariamente por entrega física.
+
+#### Artículo 7. Régimen de los mercados y liquidez.
+
+1\. En los mercados citados en el artículo anterior se aplicará la legislación de la Parte en la que se constituyan.
+
+2\. Los mercados diario y a plazo deberán adaptarse a lo dispuesto en la legislación financiera que les sea aplicable.
+
+3\. OMIE gestionará el mercado diario en régimen de exclusividad sólo durante un periodo transitorio cuyo plazo será definido por las Partes.
+
+4\. Las partes se comprometen a establecer:
+
+a) Durante un periodo transitorio, un porcentaje mínimo de energía que los suministradores de último recurso deberán adquirir en el mercado a plazo gestionado por OMIP, así como mecanismos que promuevan una gestión comercial eficiente por parte de dichos sujetos.
+
+b) Subastas de adquisición de energía, bien físicas o financieras, por parte de los suministradores de último recurso que, a partir de julio de 2008 y una vez constituido el OMI serán gestionadas directa o indirectamente por este operador.
+
+5\. La contratación de servicios de ajuste del sistema funcionará en régimen de exclusividad.
+
+6\. El marco normativo de desarrollo del presente Convenio determinará la forma de participación de cada Parte en los procedimientos de autorización de mercados que realice la otra Parte.
+
+> Se modifica el apartado 4 por el art. único.3 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 7 bis. Fomento de la competencia.
+
+1\. A efectos del MIBEL, tendrá la condición de Operador Dominante del mercado toda empresa o grupo empresarial que, directa o indirectamente, tenga una cuota de mercado superior al diez por ciento (10%), medida en términos de energía eléctrica producida en el ámbito del MIBEL, sin tomar en consideración la producción en Régimen Especial, o bien medida en términos de energía eléctrica comercializada.
+
+A estos efectos, la empresa o grupo empresarial tendrá la consideración de Dominante cuando supere dicho umbral en cualquiera de las dos actividades mencionadas (generación o comercialización) o en ambas simultáneamente.
+
+2\. A los operadores dominantes les podrá ser impuesto el siguiente conjunto de limitaciones y obligaciones:
+
+a) Posibilidad de realización de subastas de capacidad de carácter virtual u otros instrumentos análogos que fomenten la desintegración vertical, en cantidades que se establecerán anualmente por las Partes, de forma coordinada entre sistemas y teniendo en cuenta la cuota relativa de los diferentes operadores dominantes.
+
+b) Restricciones a la adquisición de energía en otros países comunitarios fuera del ámbito del MIBEL, en la medida en que existan congestiones en la capacidad de interconexión.
+
+c) Imposibilidad de representación de productores en Régimen Especial (PER) siempre que su participación, directa o indirecta, en ellos sea inferior al cincuenta por ciento (50%) del capital.
+
+d) Restricciones totales o parciales tanto en la concesión de autorizaciones para nuevas instalaciones de producción de energía eléctrica como en la evacuación de energía, cuando existan situaciones de congestión en puntos concretos de las redes.
+
+3\. El Consejo de Reguladores determinará, al menos con periodicidad anual, los sujetos que verifiquen las condiciones para ser considerados operadores dominantes. Las Partes definirán las limitaciones y obligaciones de entre las señaladas anteriormente a aplicar a los diferentes operadores dominantes identificados, siendo competencia de cada Parte la aplicación legal de las limitaciones a que hace referencia este artículo a los operadores dominantes correspondientes con sede o sucursal en su territorio.
+
+> Se añade por el art. único.4 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 7 ter. Subastas de capacidad virtual.
+
+Se celebrarán subastas de capacidad virtual.
+
+Anualmente, las Partes establecerán las cantidades a ofertar en cada sistema, señalando las fechas en que se pondrán a disposición, repartidas en contratos trimestrales, semestrales o anuales. La participación del sistema portugués en un mecanismo ibérico de subastas de capacidad virtual se podrá cumplir mediante la oferta de la energía de las centrales que mantengan en vigor Contratos de Adquisición de Energía (CAES).
+
+Se podrán establecer limitaciones a la participación de los operadores dominantes en las subastas de capacidad virtual.
+
+> Se añade por el art. único.5 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 8. Gestión económica de la interconexión entre España y Portugal.
+
+1\. Para la asignación de la capacidad de interconexión entre los sistemas español y portugués, mientras existan congestiones, se aplicará un mecanismo combinado de separación de mercados y subastas explícitas.
+
+2\. Los resultados de las rentas de congestión deberán aplicarse al refuerzo de las interconexiones en ambos sistemas.
+
+> Se modifica por el art. único.6 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 22, de 26 de enero de 2010. [Ref. BOE-A-2010-1174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-1174).
+
+#### Artículo 9. Armonización normativa.
+
+1\. Las tarifas de último recurso tendrán la consideración de precios máximos en ambos Países.
+
+2\. Las Partes, mediante los acuerdos que estimen necesarios, tenderán a la armonización de sus respectivas estructuras de tarifas de último recurso y peajes de acceso.
+
+3\. El proceso de armonización se inspirará en los principios de aditividad tarifaria y transparencia y deberá reflejar los costes en que realmente se haya incurrido para el abastecimiento de energía eléctrica, así como tomar como referencia los precios de los mercados definidos en el artículo 6 y los precios de los mecanismos coordinados de adquisición de energía en los que participen los comercializadores de último recurso.
+
+4\. A partir del 1 de julio de 2008, los servicios de interrumpibilidad armonizados en los términos del apartado 7 de este mismo artículo aplicados a los clientes en Alta Tensión sólo se aplicarán a los clientes en mercado libre.
+
+5\. A partir del 1 de enero de 2010, sólo podrán acogerse a tarifas de último recurso los clientes en Baja Tensión.
+
+6\. A partir del 1 de enero de 2011, sólo podrán acogerse a tarifas de último recurso los clientes en Baja Tensión, con potencia contratada inferior a 50 kW.
+
+Los Ministros responsables del área energética podrán acordar reducciones de la potencia referida en el párrafo anterior.
+
+7\. Las Partes se comprometen a conseguir gradualmente la armonización en lo referente a servicios de interrumpibilidad y compensación de energía reactiva, así como a pagos por capacidad.
+
+8\. Las Partes se comprometen a incentivar de forma conjunta la modernización de los contadores instalados, estableciendo que a partir de la entrada en vigor de este Convenio, los nuevos contadores instalados sean electrónicos con capacidad de discriminación horaria y con telemedida y a promover la coordinación de las respectivas oficinas responsables de cambio de suministrador en la forma que se acuerde.
+
+> Se modifica por el art. único.7 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+### PARTE III — Mecanismos de regulación, consulta, supervisión y gestión
+
+#### Artículo 10. Supervisión.
+
+1\. Las entidades de supervisión del MIBEL serán, en España, la Comisión Nacional de la Energía (CNE) y la Comisión Nacional del Mercado de Valores (CNMV) y, en Portugal, la Entidad Reguladora de los Servicios Energéticos (ERSE) y la Comisión de los Mercados de Valores Mobiliarios (CMVM).
+
+2\. La supervisión de los mercados definidos en el MIBEL se realizará por las entidades de supervisión de la Parte en la que éstos se constituyan, de acuerdo con la legislación de cada Parte en esta materia.
+
+3\. Las entidades de supervisión de los mercados desempeñarán de forma coordinada sus funciones en el MIBEL.
+
+4\. Las Partes promoverán la celebración de Memorandos de Entendimiento (MOUs) entre las autoridades supervisoras competentes, en el ámbito de aplicación del MIBEL.
+
+#### Artículo 11. Consejo de Reguladores.
+
+1\. Las Partes procederán a la creación de un Consejo de Reguladores integrado por representantes de la Comisión Nacional de la Energía (CNE), la Entidad Reguladora de los Servicios Energéticos (ERSE), la Comisión Nacional del Mercado de Valores (CNMV) y la Comisión de los Mercados de Valores Mobiliarios (CMVM).
+
+2\. El Consejo de Reguladores tendrá las funciones siguientes:
+
+a) El seguimiento de la aplicación y desarrollo del MIBEL.
+
+b) Informar preceptivamente con carácter previo a la imposición de sanciones por infracciones muy graves, en el ámbito del MIBEL, a acordar entre las Partes.
+
+c) La coordinación de la actuación de sus miembros en el ejercicio de sus potestades de supervisión del MIBEL.
+
+d) La emisión de informes coordinados sobre propuestas de reglamentación del funcionamiento del MIBEL o de su modificación y sobre los reglamentos propuestos por las sociedades rectoras de los mercados que se constituyan.
+
+e) El seguimiento de los mecanismos de contratación de energía de ámbito ibérico por parte de los comercializadores de último recurso previstos en el número 4 del artículo 7. A estos efectos, el Consejo de Reguladores presentaría regularmente a las Partes un informe de resultados y posibles propuestas de modificación de la regulación en vigor.
+
+f) Cualesquiera otras que sean acordadas por las Partes.
+
+3\. A los efectos del apartado anterior, siempre que un miembro del Consejo de Reguladores sea consultado dentro de las competencias que le han sido asignadas por la legislación aplicable, previamente a la aprobación de cualquier propuesta de ley o reglamento que afecte directa o indirectamente al funcionamiento del MIBEL, éste deberá enviar dicha propuesta a los restantes miembros del Consejo de Reguladores para conocimiento y eventuales comentarios.
+
+> Se modifica por el art. único.8 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 12. Comité de Agentes del Mercado.
+
+Las sociedades rectoras podrán crear, para sus respectivos mercados, Comités de Agentes de Mercado, como órganos consultivos.
+
+#### Artículo 13. Comité de Gestión Técnica y Económica del MIBEL.
+
+Se creará un Comité de Gestión Técnica y Económica del MIBEL, integrado por representantes de los operadores de los sistemas y de los mercados, para gestionar de forma adecuada la comunicación y los flujos de información necesarios entre los distintos operadores, así como para facilitar las cuestiones de desarrollo cotidiano de sus funciones.
+
+### PARTE IV — Autorización e inscripción de los agentes y garantía de suministro
+
+#### Artículo 14. Procedimientos administrativos de autorizaciones y registro de los agentes.
+
+1\. El reconocimiento por una de las Partes acreditará automáticamente a un agente para poder actuar en la otra.
+
+2\. Los procedimientos administrativos de autorizaciones y registro de los agentes para el ejercicio de las diferentes actividades en España y Portugal deberán ser armonizados sobre la base de la reciprocidad.
+
+#### Artículo 15. Garantía del suministro.
+
+1\. En el ámbito del funcionamiento del MIBEL, las Partes se comprometen a actuar según el principio de solidaridad que debe ser ejercido en caso de emergencia, especialmente cuando esté en cuestión la garantía del suministro energético en el espacio del MIBEL.
+
+2\. Sin perjuicio de lo establecido en el apartado anterior, cada una de las Partes podrá, en caso de emergencia en su espacio, adoptar aquellas medidas que sean precisas para garantizar su suministro energético.
+
+3\. La adopción de dichas medidas deberá ser puesta en conocimiento de la Autoridad nacional de la otra Parte a la mayor brevedad y si fuera posible antes del inicio de la ejecución de las mismas.
+
+4\. Las actuaciones en caso de emergencia conforme al principio de solidaridad referido en el apartado 1, serán objeto de Protocolos adicionales a este Convenio.
+
+### PARTE V — Infracciones, sanciones y jurisdicción competente
+
+#### Artículo 16. Infracciones y sanciones.
+
+1\. Las infracciones relativas a la violación de la normativa del MIBEL y sus correspondientes sanciones quedarán definidas por la legislación interna de cada una de las Partes y en el ámbito del apartado 4 del artículo 1 del presente Convenio, comprometiéndose las mismas a respetar lo siguiente:
+
+a) Las infracciones se clasificarán en muy graves, graves y leves.
+
+b) Se establecerán multas proporcionales al tipo de infracción, hasta el montante máximo de 3.000.000 de euros.
+
+c) Se preverán mecanismos de intercambio de la información necesaria para la instrucción y resolución de los procedimientos, sin perjuicio de la obligación de secreto que, en su caso, pese sobre las autoridades competentes.
+
+d) Se preverá, como consecuencia de la infracción, la posibilidad de revocación y suspensión de la autorización administrativa.
+
+2\. Las autoridades competentes en cada una de las Partes informarán a las demás autoridades supervisoras del MIBEL de las sanciones aplicadas, a efectos de la aplicación de la letra d) del apartado anterior.
+
+#### Artículo 17. Procedimiento sancionador.
+
+1\. La instrucción de los procedimientos sancionadores y la resolución de los mismos será competencia de los órganos que en cada Parte la tengan atribuida, de acuerdo con su normativa interna.
+
+2\. La competencia citada en el número anterior se determinará según el criterio del lugar en el que se cometió la infracción.
+
+3\. Si no fuera posible determinar el lugar donde se cometió la infracción, se aplicará el criterio de la nacionalidad del sujeto infractor, si éste fuera español o portugués.
+
+4\. En otro caso, se aplicará el criterio del lugar en el que el sujeto infractor haya sido autorizado en primer lugar para el ejercicio de una actividad en el ámbito de este mercado.
+
+#### Artículo 18. Jurisdicción competente.
+
+La jurisdicción competente para conocer de los recursos que se dicten como consecuencia de la aplicación del MIBEL vendrá determinada por la nacionalidad de la autoridad que hubiera dictado el acto que se recurre.
+
+### PARTE VI — Disposiciones finales
+
+#### Artículo 19. Comisión de Seguimiento.
+
+1\. Para la resolución de controversias que puedan surgir acerca de la interpretación y aplicación del presente Convenio, se creará una Comisión de Seguimiento formada por dos representantes de cada una de las Partes.
+
+2\. La Comisión resolverá por mayoría y deberá decidir en un plazo máximo de seis meses a partir de la fecha en que se suscitó la controversia, salvo prórroga acordada por ella misma.
+
+3\. La Comisión adoptará su reglamento de funcionamiento.
+
+#### Artículo 20. Protocolos adicionales.
+
+Las Partes podrán celebrar Protocolos Adicionales al presente Convenio.
+
+#### Artículo 21. Entrada en vigor y régimen transitorio.
+
+1\. El presente Convenio entrará en vigor en la fecha de recepción de la última notificación en la que se comunique que se han cumplido los requisitos de derecho interno de ambas Partes necesarios al efecto.
+
+2\. Hasta la fecha de entrada en vigor del presente Convenio, las partes continuarán aplicando a título provisional el Convenio Internacional por el que se acuerda la constitución de un mercado ibérico de la energía eléctrica entre el Reino de España y la República Portuguesa, firmado en Lisboa el 20 de enero de 2004.
+
+#### Artículo 22. Vigencia y denuncia.
+
+El presente Convenio estará en vigor por un periodo de dos años, renovable automáticamente por iguales periodos de tiempo, salvo denuncia efectuada por cualquiera de las Partes, por escrito o por vía diplomática, con una antelación mínima de seis meses.
+
+2\. Las enmiendas entrarán en vigor con arreglo a lo dispuesto en el número 1 del artículo 21.
+
+#### Artículo 22 bis. Creación del Operador del Mercado Ibérico.
+
+Antes de transcurridos tres meses de la entrada en vigor de este Convenio, OMIP y OMIE deben adoptar las medidas necesarias para adaptarse plenamente a lo establecido en el artículo 4.
+
+> Se añade por el art. único.9 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 22 ter. Retribución de los Comercializadores de Último Recurso.
+
+Antes del 1 de julio de 2010, la retribución de los comercializadores de último recurso será la que resulte de la diferencia entre los precios de venta y adquisición de la energía en los mercados en los que participan. No obstante, los precios máximos de venta autorizados en cada período podrán reflejar eventuales déficits de retribución de períodos anteriores.
+
+Las partes deberán garantizar la aditividad de las Tarifas de Último Recurso y un suficiente desarrollo de los mecanismos coordinados de adquisición de energía definidos en el ámbito del MIBEL de forma que el riesgo soportado por los comercializadores de último recurso sea asumible, en los dos sistemas ibéricos y las fluctuaciones de los precios no pongan en peligro su viabilidad económico financiera.
+
+> Se añade por el art. único.10 del Acuerdo de 18 de enero de 2008. [Ref. BOE-A-2009-19912](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-19912).
+
+#### Artículo 23. Revisión.
+
+1\. El presente Convenio podrá revisarse mediante acuerdo entre las Partes.
+
+2\. Las enmiendas entrarán en vigor con arreglo a lo dispuesto en el número 1 del artículo 21.
+
+#### Artículo 24. Derecho comunitario.
+
+El presente Convenio se interpretará y aplicará de conformidad con las normas de Derecho comunitario aplicable.
+
+En fe de lo cual, los abajo firmantes, debidamente autorizados, suscriben el presente Convenio.
+
+Hecho en Santiago de Compostela el 1 de octubre de 2004, en las lenguas española y portuguesa, siendo ambos textos igualmente auténticos.
+
+| El Ministro de Industria,<br>Turismo y Comercio<br>del Reino de España,<br>José Montilla Aguilera | El Ministro del Estado<br>y de las Actividades Económicas y de Trabajo<br>de la República Portuguesa,<br>Álvaro Roque de Pinho Bissaya Barreto |
+|---|---|

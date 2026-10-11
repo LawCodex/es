@@ -1,0 +1,937 @@
+---
+title: "Real Decreto 138/2000, de 4 de febrero, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social"
+identifier: "BOE-A-2000-3088"
+eli: "https://www.boe.es/eli/es/rd/2000/02/04/138"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2000-02-04
+published: 2000-02-16
+in_force_from: 2000-03-01
+last_amended: 2023-12-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 40"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-3088"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 138/2000, de 4 de febrero, por el que se aprueba el Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social
+
+La Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social, supone la adecuación del referido sistema de inspección a los principios constitucionales de Estado social y democrático de Derecho y de Estado de las Autonomías. El apartado 1 de su artículo 19 prevé su estructura territorial según criterios comunes, bien que acomodados a las características de cada demarcación y a la aplicación del principio de trabajo programado y en equipo; el apartado 2 del precepto citado señala la doble dependencia funcional de dicha inspección; y su apartado 3 prevé el desarrollo, vía reglamentaria, de su estructura, al tiempo que la disposición final única de la misma Ley autoriza al Gobierno a dictar las disposiciones necesarias para su aplicación y desarrollo, lo que acomete el Reglamento que se aprueba.
+
+La Ley 42/1997, de permanente referencia, se asienta en la articulación de instrumentos de colaboración entre las Administraciones Autonómicas y del Estado, que impulsen su participación en la definición de objetivos y en el desarrollo de la actividad inspectora, al tiempo que el Reglamento considera, también, el resultado de los acuerdos bilaterales previstos por el artículo 17 de la indicada Ley, en la medida en que están llamados a constituir instrumento principal de mutua cooperación para facilitar la acción inspectora en cada territorio. Al abordar la organización operativa de la Inspección de Trabajo y Seguridad Social, con respeto de los principios básicos de organización de la función pública, el Reglamento desarrolla una regulación común y flexible del sistema, lo que permite aplicar criterios también comunes conforme al artículo 19.1 de la Ley 42/1997, acorde con la unidad institucional del sistema de inspección que consagra dicha Ley.
+
+En el funcionamiento de la Inspección de Trabajo y Seguridad Social, el presente Reglamento ofrece una importante transformación de la institución inspectora, modernizando sus estructuras y métodos para dotarle de mayor eficacia en el cumplimiento de sus fines y, asimismo, en el reconocimiento de las garantías de seguridad jurídica del administrado, todo ello en la línea de la Ley ordenadora objeto de desarrollo.
+
+Se desarrollan, en definitiva, los cometidos de la Autoridad Central de la Inspección de Trabajo y Seguridad Social, en atención a su función rectora del sistema de inspección y a la necesidad de su coherencia institucional, al tiempo que se le asignan los instrumentos de inspección supraterritorial para el cumplimiento de sus funciones legales. La estructura periférica se fundamenta en las Inspecciones Provinciales agrupadas en Comunidades Autónomas, como novedad organizativa de la Ley 42/1997, todas ellas configuradas como servicios no integrados en las Delegaciones del Gobierno en los términos de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, completadas con las unidades especializadas y los equipos de inspección, concebidos con carácter flexible, de forma que en su seno puedan conjugarse los principios legales de especialización con los de unidad de función y de acto, y ambos con los de trabajo programado y en equipo, en la forma legalmente establecida, dando cumplimiento a las previsiones legales.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de febrero de 2000,
+
+###### D I S P O N G O :
+
+**Artículo único. Aprobación del Reglamento.**
+
+Se aprueba el Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social que se inserta a continuación.
+
+**Disposición transitoria primera. Subsistencia de situaciones.**
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirector general en el sistema de Inspección de Trabajo y Seguridad Social que resulten afectadas por las modificaciones previstas en el Reglamento, que se aprueba, continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueben las relaciones de puestos de trabajo adaptadas a la nueva estructura orgánica establecida en el Reglamento adjunto.
+
+**Disposición transitoria segunda. Desempeño de jefaturas.**
+
+1\. Hasta tanto se aprueben las relaciones de puestos de trabajo a que se refiere la disposición transitoria primera y se proceda a su cobertura, las funciones de jefatura en las estructuras territoriales de la Inspección de Trabajo y Seguridad Social se desempeñarán en la forma siguiente:
+
+a) Los Jefes de Inspección provincial de la capitalidad autonómica asumirán automáticamente las funciones del Director territorial de la Inspección que determine la Autoridad Central, salvo lo que se acuerde con cada Comunidad Autónoma.
+
+b) Los actuales Jefes de las unidades de la Inspección de Trabajo y Seguridad Social en las Direcciones Provinciales de la Tesorería General de la Seguridad Social asumirán automáticamente las funciones y cometidos de Jefes de las unidades especializadas en el área de la Seguridad Social, salvo en los supuestos del artículo 55.2 del Reglamento que se aprueba.
+
+c) Los Jefes de equipo que en la actualidad desempeñen tales puestos, asumirán automáticamente las nuevas funciones establecidas para los puestos de dicha denominación en la Ley 42/1997 y en el Reglamento que se aprueba.
+
+2\. La Administración de la Seguridad Social continuará proporcionando al sistema de inspección los mismos medios y colaboraciones, al menos, que actualmente dedica a las unidades de Inspección en la Tesorería General de la Seguridad Social.
+
+**Disposición transitoria tercera. Asunción de funciones.**
+
+El Director general de la Inspección de Trabajo y Seguridad Social asumirá las funciones que el adjunto Reglamento establece para la Autoridad Central de dicha Inspección; las actuales estructuras de la Dirección General de la Inspección de Trabajo y Seguridad Social, asumirán los cometidos y funciones atribuidos a la Oficina de dicha Autoridad Central en el Reglamento que se establece, sin perjuicio de lo que se disponga en las correspondientes normas orgánicas y relaciones de puestos de trabajo.
+
+**Disposición derogatoria única. Derogación normativa.**
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo preceptuado en el presente Real Decreto y expresamente el Decreto 2121/1971, de 23 de julio, por el que se aprueba el Reglamento del Cuerpo Nacional de la Inspección de Trabajo; el Decreto 2122/1971, de 23 de julio, por el que se aprueba el Reglamento de la Inspección de Trabajo; el Real Decreto 97/1986, de 10 de enero, sobre el Cuerpo Superior de Inspectores de Trabajo y Seguridad Social, y el Real Decreto 1667/1986, de 26 de mayo, por el que se regulan los cometidos y atribuciones de los Controladores Laborales.
+
+**Disposición final primera. Habilitación para el desarrollo.**
+
+Se faculta al Ministro de Trabajo y Asuntos Sociales y, en su caso, al de Administraciones Públicas, para dictar las disposiciones de aplicación y desarrollo de este Real Decreto.
+
+**Disposición final segunda. Entrada en vigor.**
+
+El presente Real Decreto y el Reglamento que aprueba entrarán en vigor el primer día del mes siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 4 de febrero de 2000.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+FRANCISCO ÁLVAREZ-CASCOS FERNÁNDEZ
+
+## REGLAMENTO DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA INSPECCIÓN DE TRABAJO Y SEGURIDAD SOCIAL
+
+### TÍTULO I — Normas generales
+
+#### CAPÍTULO I — Organización, funcionamiento y ámbito de actuación del sistema de Inspección de Trabajo y Seguridad Social
+
+##### Sección 1.ª Objeto de este Reglamento y ámbito de la función inspectora
+
+**Artículo 1. Objeto del Reglamento.**
+
+1\. La organización y funcionamiento del sistema de la Inspección de Trabajo y Seguridad Social, conforme a la Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social, se regirá por la citada Ley y por este Reglamento.
+
+2\. La Inspección de Trabajo y Seguridad Social se integra orgánicamente en la Administración General del Estado.
+
+3\. La Inspección de Trabajo y Seguridad Social depende funcionalmente de la Administración General del Estado y de la de cada Comunidad Autónoma con competencias de ejecución de la legislación del orden social, en razón de la materia de los asuntos en que en cada caso intervenga, sin perjuicio de la dependencia orgánica establecida en el apartado anterior.
+
+**Artículo 2. Ámbito funcional y material de actuación de la Inspección de Trabajo y Seguridad Social.**
+
+1\. El ámbito funcional de actuación de la Inspección de Trabajo y Seguridad Social, en los términos del artículo 3 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, comprende la vigilancia del cumplimiento de las normas relativas a los ámbitos siguientes:
+
+1.º Relaciones laborales, derechos sindicales y de representación laboral, prevención de riesgos laborales, colocación, empleo y normas para su promoción y fomento.
+
+2.º Migraciones y trabajo de los extranjeros en España.
+
+3.º Régimen económico de la Seguridad Social, en cuanto a sus recursos, sus prestaciones y mejoras, y a la colaboración en la gestión. Y, asimismo, las demás normas de Seguridad Social, excepto las relativas a asistencia sanitaria.
+
+4.º Constitución y funcionamiento de entes de economía social, en el marco de lo establecido en su legislación específica.
+
+5.º Funciones de arbitraje, conciliación y mediación ; de asistencia técnica ; y de informe a órganos jurisdiccionales o administrativos, todo ello en los términos previstos en la legislación aplicable.
+
+2\. El ámbito material de actuación de la Inspección de Trabajo y Seguridad Social se extiende a los sujetos, entidades, centros, lugares y medios a que se refiere el artículo 4 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+De acuerdo con lo dispuesto en el apartado 2 del citado artículo 4, los centros de trabajo, establecimientos, locales e instalaciones cuya vigilancia esté legalmente atribuida a otros órganos de las Administraciones públicas, así como los centros de trabajo y establecimientos militares dependientes de la Administración militar, quedan exceptuados del ámbito material de actuación de la Inspección de Trabajo y Seguridad Social y continuarán rigiéndose por su normativa específica, sin perjuicio de la competencia de la Inspección de Trabajo y Seguridad Social en las materias no afectadas por la misma.
+
+**Artículo 3. Supuestos especiales en la actuación de la Inspección de Trabajo y Seguridad Social.**
+
+Las actuaciones de la Inspección de Trabajo y Seguridad Social, observarán las peculiaridades siguientes:
+
+1\. La vigilancia de la legislación del orden social en locales e instalaciones diplomáticas acogidos a extraterritorialidad y los protegidos por convenios internacionales, respetará su exclusión sólo a efectos de presencia física inspectora, en la forma que establezcan los Ministerios de Asuntos Exteriores y de Trabajo y Asuntos Sociales.
+
+2\. Mediante instrucciones conjuntas de los Ministerios de Defensa y de Trabajo y Asuntos Sociales, y para salvaguardar los intereses de la Defensa Nacional y la seguridad y eficacia de los centros, bases y establecimientos afectos a la misma, se determinará el procedimiento de inspección sobre empresas que ejerzan actividades en centros, bases o establecimientos militares.
+
+3\. **(Anulado)**
+
+> Se anula el apartado 3 por Sentencia del TS de 10 de febrero de 2003. [Ref. BOE-A-2003-9901](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9901)
+
+##### Sección 2.ª Personal y medios del sistema de Inspección de Trabajo y Seguridad Social
+
+**Artículo 4. Funcionarios que integran el sistema de Inspección de Trabajo y Seguridad Social.**
+
+1.Los puestos con cometido inspector se desempeñarán por funcionarios del Cuerpo Superior de Inspectores de Trabajo y Seguridad Social y del Cuerpo de Subinspectores Laborales, conforme al artículo 3 de la Ley 23/2015, de 21 de julio, Ordenadora del Sistema de la Inspección de Trabajo y Seguridad Social. Ambos tienen carácter de Cuerpos Nacionales de acuerdo con lo dispuesto en el artículo 28 de la Ley 12/1983, de 14 de octubre, del proceso Autonómico.
+
+2\. El ingreso en dichos Cuerpos, conforme al artículo 5 de la citada Ley 23/2015, de 21 de julio, se realizará mediante el sistema de oposición, que incluirá además la superación de un curso selectivo.
+
+Sin perjuicio de lo anterior, y de acuerdo con lo establecido en las respectivas ofertas de empleo público y en los correspondientes convenios de colaboración, los funcionarios públicos de las Comunidades Autónomas que dispongan de habilitación para el ejercicio de funciones comprobatorias a que se refiere la disposición adicional decimoquinta de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, podrán integrarse en el Cuerpo de Subinspectores Laborales, en la Escala de Seguridad y Salud, siempre que:
+
+a) Dispongan de la titulación exigible para el ingreso en la mencionada Escala.
+
+b) Superen las pruebas selectivas establecidas en la correspondiente convocatoria del proceso selectivo para el ingreso en la Escala de Seguridad y Salud del Cuerpo de Subinspectores laborales.
+
+c) En la fecha de la solicitud de participación en las pruebas selectivas hayan transcurrido al menos dos años desde su habilitación para el ejercicio de las funciones comprobatorias.
+
+3\. Para el ingreso en la Escala de Empleo y Seguridad Social del Cuerpo de Subinspectores Laborales será necesario disponer de título universitario oficial de Graduado adscrito a la rama del conocimiento de ciencias sociales y jurídicas. Asimismo, seguirán siendo válidos para el acceso a dicha Escala los títulos de la ordenación universitaria anterior en los términos previstos en el texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, siempre que se trate de títulos que se correspondan con dichas ramas o áreas de conocimiento.
+
+Para el ingreso en la Escala de Seguridad y Salud Laboral del Cuerpo de Subinspectores Laborales será necesario disponer de título universitario oficial de Graduado adscrito a la rama del conocimiento de ciencias, ciencias de la salud, o ingeniería y arquitectura. Asimismo, seguirán siendo válidos para el acceso a dicha Escala los títulos de la ordenación universitaria anterior en los términos previstos en el texto refundido de la Ley del Estatuto Básico del Empleado Público, siempre que se trate de títulos que se correspondan con dichas ramas o áreas de conocimiento.
+
+4\. Los miembros de ambos Cuerpos podrán participar en todo procedimiento convocado de provisión de puestos para la función inspectora atribuida a su Cuerpo de pertenencia, con las limitaciones derivadas de la pertenencia a la Escala de Empleo y Seguridad Social o a la Escala de Seguridad y Salud Laboral en el caso de los miembros del Cuerpo de Subinspectores Laborales.
+
+La participación de los miembros de ambos Cuerpos en concursos o convocatorias de libre designación para otros puestos de adscripción indistinta en las relaciones de puestos de trabajo, se ajustará a lo establecido en los artículos 41.4, y 55 del Reglamento General de Ingreso del personal al servicio de la Administración General del Estado y de Provisión de puestos de trabajo y Promoción profesional de los funcionarios civiles de la Administración General del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+5\. La estructura, cuantía y condiciones de las retribuciones básicas y de los complementos de destino en el sistema de Inspección de Trabajo y Seguridad Social, serán las que correspondan al Cuerpo de pertenencia.
+
+6\. Sin perjuicio de la competencia y funciones del Registro Central de Personal, existirá un Registro integradodel personal inspector constituido por la totalidad de las plazas existentes para cada uno de los Cuerpos con funciones inspectoras en las respectivas relaciones de puestos de trabajo de las Administraciones a las que pertenezcan aquellas.
+
+Dicho registro se elaborará y actualizará por el Organismo Estatal Inspección de Trabajo y Seguridad Social, al que se refiere el artículo 27 de la Ley 23/2015, de 21 de julio. A tal fin, por acuerdo entre este Organismo y las Administraciones Públicas que hayan asumido el traspaso de la función pública inspectora, se determinará la información que hayan de facilitar las diferentes Administraciones sobre las características de dichas plazas y la precisa sobre su cobertura, así como la forma de facilitar dicha información.
+
+> Se modifica por el art. 1.1 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+> Téngase en cuenta, para el apartado 3, lo dispuesto en la disposición transitoria única del citado Real Decreto.
+
+**Artículo 5. Personal de apoyo del sistema.**
+
+Conforme al artículo 2 de la Ley ordenadora, la Administración General del Estado adscribirá al sistema de Inspección de Trabajo y Seguridad Social el personal de nivel superior, técnico, administrativo y subalterno necesario para el desarrollo de la asistencia técnica y el apoyo administrativo a la función inspectora y para el funcionamiento de los servicios.
+
+**Artículo 6. Locales y medios materiales.**
+
+1\. La Autoridad Central de la Inspección de Trabajo y Seguridad Social gestionará los recursos informáticos del sistema, que comprenderá los sistemas lógicos y físicos necesarios, así como las conexiones informáticas y el sistema de comunicaciones entre la Autoridad Central y la organización territorial del sistema de inspección.
+
+El tratamiento informático de la actividad del sistema de Inspección de Trabajo y Seguridad Social se realizará a partir de una única base de datos que garantice su homogeneidad y su explotación estadística, conforme a lo previsto en el artículo 18.3.8 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, que recibirá los datos de todas las actuaciones inspectoras debidamente clasificados.
+
+2\. La base general de datos del sistema de inspección y sus aplicativos de explotación, radicará en la Oficina de la Autoridad Central, a la que corresponderá su gestión, desarrollo y modificación. Cada Administración autonómica accederá a los datos sobre materias de su competencia, pudiendo disponer las modificaciones de la base de datos y de los aplicativos, en la forma que se acuerde.
+
+3\. En los acuerdos previstos en el artículo 17 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social podrá establecerse que cada Comunidad Autónoma facilite a la Inspección las conexiones informáticas necesarias para el ejercicio de la función inspectora, la forma de acceso a la información relativa a su competencia y cuantos otros extremos se convengan.
+
+4\. Las actuaciones y comprobaciones inspectoras podrán servirse de los medios informáticos, a cuyo fin dispondrán de acceso a los datos y antecedentes obrantes en la Administración pública cuando tengan relevancia para la función inspectora, en la forma establecida en la legislación y en este Reglamento. En particular se explotarán informáticamente las colaboraciones establecidas en el apartado 2 del artículo 9 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social y en el artículo 79 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 1/1994, de 20 de junio.
+
+### TÍTULO II — Del funcionamiento y actuación de la Inspección de Trabajo y Seguridad Social
+
+#### CAPÍTULO I — Funciones y obligaciones de los funcionarios del sistema de Inspección de Trabajo y Seguridad Social
+
+##### Sección 1.ª Facultades de los inspectores y de los subinspectores
+
+**Artículo 7. Facultades de los inspectores de Trabajo y Seguridad Social.**
+
+1\. En el ejercicio de su función, los Inspectores de Trabajo y Seguridad Social están facultados, en los términos del artículo 5 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, para:
+
+1.º Entrar libremente, sin previo aviso y en cualquier momento, en todo centro o lugar de trabajo sujeto a inspección y a permanecer en ellos, respetando en todo caso la inviolabilidad del domicilio. Tal facultad alcanza a cuantos funcionarios públicos acompañen al inspector en su gestión comprobatoria.
+
+2.º La comunicación de la presencia inspectora, establecida en el artículo 5.1 de la citada Ley ordenadora podrá efectuarse al inicio de la visita de comprobación o con posterioridad a dicho inicio, si así conviniere. Cuando la actuación lo requiera, el inspector actuante podrá requerir la inmediata presencia de quien esté al frente del centro en el momento de la visita.
+
+3.º Hacerse acompañar durante la visita por las personas a que se refiere el artículo 5.2 de la Ley ordenadora.
+
+4.º Proceder a practicar cualquier diligencia de investigación, examen o prueba que consideren necesario a fin de comprobar el cumplimiento de las disposiciones aplicables en los términos del artículo 5.3 de la citada Ley ordenadora.
+
+5.º Recabar y obtener la información, datos o antecedentes con trascendencia para la función inspectora, en materia relativa al régimen económico de la Seguridad Social, en los supuestos y respecto de los obligados referidos en el artículo 11.2 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+Dicha información se recabará mediante requerimiento escrito del inspector que dirija las actuaciones. Cuando el requerimiento se formule a entidades que desarrollen actividades bancarias o de depósito de fondos, y se refiera a identificación de pagos efectuados con cargo a cuentas, depósitos o fondos de cualquier clase, el requerimiento se autorizará previamente por la Autoridad Central de la Inspección de Trabajo y Seguridad Social, que podrá delegar en el Jefe del órgano inspector. Tales requerimientos señalarán un plazo para su cumplimentación no inferior a quince días ; especificarán los datos, antecedentes o información solicitados, período de tiempo a que se refieran y la identidad de los sujetos de la acción inspectora. La información será facilitada por la entidad requerida mediante certificación de la misma o mediante acceso del inspector actuante a los datos solicitados en las dependencias de aquélla, según se determine en el requerimiento, levantándose testimonio escrito en el segundo supuesto.
+
+6.º Adoptar cualesquiera de las medidas a que se refieren los artículos 7 de la Ley ordenadora y 25 de este Reglamento.
+
+7.º Adoptar, en su caso, las medidas cautelares que considere oportunas a que se refieren el apartado 4 del artículo 5 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social y el artículo 19 de este Reglamento.
+
+8.º Y, en general, ejercer las demás facultades señaladas en los artículos 5, 7 y concordantes de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. Corresponde asimismo a los Inspectores de Trabajo y Seguridad Social, conforme al artículo 14 de la Ley 23/2015, de 21 de julio, la dirección y supervisión técnica de la actividad de los Subinspectores Laborales, así como el visado de sus actas cuando proceda.
+
+> Se modifica el apartado 2 por el art. 1.2 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+**Artículo 8. Facultades de los Subinspectores Laborales.**
+
+1\. Los Subinspectores Laborales están facultados para desarrollar las funciones inspectoras y ejercer las competencias atribuidas por el artículo 14. 2 y 3 de la Ley 23/2015, de 21 de julio, bajo la dirección y supervisión técnica del Inspector de Trabajo y Seguridad Social responsable de la unidad, grupo o equipo al que estén adscritos.
+
+Sin perjuicio de lo establecido en el párrafo anterior, las funciones de los Subinspectores Laborales se desarrollarán en el seno de los equipos de inspección.
+
+2\. Conforme a lo establecido en el artículo 14. 2 de la Ley 23/2015, de 21 de julio, corresponde a los Subinspectores Laborales pertenecientes a la Escala de Empleo y Seguridad Social, actuar en las siguientes materias:
+
+a) La comprobación del cumplimiento en la contratación de las normas en materia de empleo, acceso al empleo, bonificaciones, reducciones, subvenciones, ayudas y demás incentivos o medidas para el fomento del empleo o la formación profesional para el empleo.
+
+b) La comprobación del cumplimiento de las normas que prohíben la admisión al trabajo a los menores de dieciséis años.
+
+c) La comprobación del cumplimiento de la normativa sobre modalidades contractuales, contratos de duración determinada y temporales a fin de determinar los supuestos de utilización de dichas modalidades contractuales en fraude de ley o respecto a personas, finalidades, supuestos y límites temporales distintos de los previstos legal o reglamentariamente, o mediante convenio colectivo cuando dichos extremos puedan ser determinados por la negociación colectiva.
+
+d) La comprobación del cumplimiento de las normas en materia de campo de aplicación, inscripción de empresas, afiliación, altas y bajas de trabajadores, cotización y recaudación del Sistema de la Seguridad Social, así como las de colaboración obligatoria de las empresas en la gestión de la Seguridad Social, y las de obtención, percepción y disfrute de prestaciones de la Seguridad Social, incluidas las de desempleo y las de cese de actividad.
+
+e) La comprobación del cumplimiento de los requisitos exigidos por la normativa sobre trabajo de extranjeros en España.
+
+f)La colaboración en la investigación y señalamiento de bienes susceptibles de embargo para la efectividad de la vía ejecutiva y la identificación del sujeto deudor, o de los responsables solidarios o subsidiarios cuando proceda, en todos aquellos casos que hagan referencia o afecten al cumplimiento de las normas del orden social.
+
+g) El asesoramiento a los empresarios y trabajadores en orden al cumplimiento de sus obligaciones con objeto de facilitarles un mejor cumplimiento de las disposiciones del orden social, especialmente a las pequeñas y medianas empresas, en materias propias de su ámbito competencial, con ocasión del ejercicio de su función inspectora.
+
+h) Cuantas otras funciones de similar naturaleza les fueren encomendadas por los responsables de la unidad, grupo o equipo a que estén adscritos para el desarrollo de los cometidos de la Inspección de Trabajo y Seguridad Social, en el marco de sus competencias.
+
+3\. Conforme a lo establecido en el artículo 14.3 de la Ley 23/2015, de 21 de julio, corresponde a los Subinspectores Laborales pertenecientes a la Escala de Seguridad y Salud Laboral actuar en las siguientes materias:
+
+a) La comprobación del cumplimiento y control de la aplicación de la normativa de prevención de riesgos laborales en los aspectos que afecten directamente a las condiciones materiales de trabajo, en particular, las siguientes:
+
+1.º) Las características y condiciones de utilización de los locales e instalaciones, así como las de los equipos, herramientas, productos o substancias existentes en el centro de trabajo.
+
+2.º) La naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente de trabajo y sus correspondientes intensidades, concentraciones o niveles de presencia.
+
+3.º) Los procedimientos para la utilización de los agentes citados anteriormente que influyan en la generación de riesgos para la seguridad o salud de los trabajadores.
+
+4.º) Las características y utilización de las medidas de protección, tanto colectiva como individual.
+
+5.º) La realización de los reconocimientos médicos y su adecuación a los protocolos sanitarios específicos de vigilancia de la salud, establecidos en el artículo 37.3.c) del Reglamento de los servicios de prevención, aprobado por el Real Decreto 39/1997, de 17 de enero.
+
+6.º) La adaptación de los puestos de trabajo a las exigencias de naturaleza ergonómica.
+
+7.º) Aspectos relativos al cumplimiento de las obligaciones de formación e información a los trabajadores, así como de las obligaciones derivadas de los planes de prevención, evaluaciones de riegos y planificaciones de la actividad preventiva, estudios y planes de seguridad y salud, coordinación de actividades empresariales, y otras cuestiones documentales siempre que afecten directamente a las condiciones materiales de trabajo cuya comprobación tienen encomendada.
+
+b) La vigilancia del cumplimiento de la normativa jurídico-técnica con incidencia en materia de prevención de riesgos laborales.
+
+c) Programas de actuación preventiva de la Inspección de Trabajo y Seguridad Social derivados del análisis de la siniestralidad laboral.
+
+d) La información y asesoramiento a empresarios y trabajadores, con ocasión del ejercicio de su función inspectora, sobre la forma más efectiva de cumplimiento de la normativa de prevención de riesgos laborales, especialmente a las pequeñas y medianas empresas.
+
+e) Cuantas otras funciones de análoga naturaleza les fuesen encomendadas por los responsables de la unidad, grupo o equipo a que estén adscritos para el desarrollo de los cometidos de la Inspección de Trabajo y Seguridad Social, en el marco de sus competencias.
+
+4\. De conformidad con los principios de trabajo programado y en equipo que ordenan la organización y desarrollo de la actividad del Sistema de Inspección de acuerdo con el artículo 2. f) de la Ley 23/2015, de 21 de julio, los Subinspectores Laborales actuarán preferentemente en el marco de la actividad programada en las materias de su competencia establecidas para cada Escala en los números anteriores, y en cumplimiento de los servicios encomendados conforme a lo previsto en los artículos 23 y 26 del presente Reglamento.
+
+A tal fin su actuación se realizará preferentemente en el marco de la unidad equipo o grupo al que estén adscritos, pudiendo también desarrollar la misma en apoyo y colaboración con un Inspector de Trabajo y Seguridad Social. En este último caso, la dirección operativa y técnica de la actuación recaerá en el Inspector.
+
+5\. En ejecución de las órdenes de servicio recibidas para el desempeño de sus funciones, los Subinspectores Laborales, que tendrán la consideración de agentes de la autoridad, están facultados para proceder en la forma establecida en los apartados 1 a 4 del artículo 13 de la Ley 23/2015, de 21 de julio.
+
+6\. Cuando como consecuencia de su actuación los Subinspectores Laborales de cada Escala, observaran incumplimientos normativos conexos con las materias en las que tienen atribuidas competencias, lo comunicarán por escrito al Jefe de Equipo o Inspector bajo cuya dirección técnica actúen, con expresión de los hechos y circunstancias concurrentes.
+
+> Se modifica por el art. 1.3 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+##### Sección 2.ª Deberes de los inspectores y de los subinspectores
+
+**Artículo 9. Obligaciones.**
+
+1\. Los funcionarios de la Inspección de Trabajo y Seguridad Social servirán con objetividad los intereses generales y actuarán de acuerdo con los principios constitucionales de eficacia y jerarquía, con sometimiento pleno a la ley y al derecho, y con sujeción a los criterios técnicos y directrices establecidos por las autoridades competentes.
+
+2\. En el ejercicio de sus funciones, y sin merma de su autoridad ni del cumplimiento de sus deberes, observarán la máxima corrección con los ciudadanos, y procurarán perturbar en la menor medida posible el desarrollo de las actividades de los inspeccionados.
+
+3\. En las visitas de inspección, el funcionario actuante deberá identificarse documentalmente y comunicar su presencia al empresario, a su representante, o persona inspeccionada, a menos que considere que dicha comunicación o identificación pueden perjudicar el éxito de sus funciones.
+
+Asimismo, solicitarán la presencia de los representantes de los trabajadores cuando así lo aconseje la índole de la actuación a realizar de acuerdo con las instrucciones que se dicten al respecto.
+
+Cuando afecte a materia de seguridad y salud en el trabajo, el Inspector de Trabajo y Seguridad Social o Subinspector de Seguridad y Salud Laboral actuará conforme establece el artículo 40. 2 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+4\. Los funcionarios de la Inspección, con ocasión de sus visitas a los lugares de trabajo, prestarán la debida atención a las observaciones que les sean formuladas por los representantes de los trabajadores.
+
+> Se modifica el apartado 3 por el art. 1.4 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+**Artículo 10. Deber de sigilo profesional.**
+
+1\. Los funcionarios del sistema de Inspección de Trabajo y Seguridad Social deberán guardar secreto respecto de los asuntos que conozcan por razón de su cargo, así como sobre los datos, informes, origen de las denuncias o antecedentes de que hubieren tenido conocimiento en el desempeño de sus funciones, en los términos del artículo 12 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. El personal sin funciones inspectoras que preste servicios en órganos y dependencias del sistema de inspección queda sujeto a los mismos deberes de sigilo acerca de lo que conozca por razón de su puesto de trabajo.
+
+**Artículo 11. Incompatibilidad, abstención y recusación de inspectores y subinspectores.**
+
+1\. Los funcionarios del sistema de la Inspección de Trabajo y Seguridad Social quedan afectados por el régimen general de incompatibilidades de la función pública.
+
+En razón a su función, los inspectores y subinspectores no podrán tener interés directo ni indirecto en empresas o grupos de empresas objeto de su actuación, ni asesorar o defender a título privado a personas físicas o jurídicas con actividades susceptibles de la acción inspectora;**se abstendrán en todo asunto en que concurra interés para la asociación o sindicato de su afiliación**.
+
+> Téngase en cuenta que se anula el inciso destacado por Sentencia del TS de 10 de febrero de 2003. [Ref. BOE-A-2003-9901](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9901).
+
+2\. Con independencia de lo establecido en el apartado anterior, los inspectores que ocupen puestos con funciones resolutorias de expedientes sancionadores o liquidatorios, quedan incompatibilizados para la práctica de actas de infracción o de liquidación en la materia que corresponda directamente a las referidas funciones.
+
+3\. Los funcionarios a que se refiere el apartado 1 se abstendrán de intervenir en actuaciones inspectoras, comunicándolo a su superior inmediato, cuando concurra cualquiera de los motivos a que se refiere el artículo 28 de la Ley 30/1992, de 26 de noviembre. La abstención y la recusación de funcionarios a que se refiere el artículo 29 de la citada Ley, se resolverán por el respectivo Jefe de la Inspección provincial, salvo que afecte a éste o a un Director territorial de la Inspección de Trabajo y Seguridad Social en que corresponderá a su Autoridad Central.
+
+> Se anula el inciso destacado del apartado 1 por Sentencia del TS de 10 de febrero de 2003. [Ref. BOE-A-2003-9901](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-9901).
+
+**Artículo 12. Carácter y acreditación de los funcionarios.**
+
+1\. En el ejercicio de su función, los inspectores de Trabajo y Seguridad Social tienen el carácter de autoridad pública y los subinspectores de Empleo y Seguridad Social el de agentes de la autoridad, conforme a lo establecido en los artículos 5 y 8 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. Los inspectores de Trabajo y Seguridad Social tienen el carácter de autoridad competente a los efectos de lo establecido en el artículo 8, apartado 1, de la Ley Orgánica de protección civil del derecho al honor, a la intimidad personal y familiar y a la propia imagen, en los términos del artículo 6.3 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+3\. Los inspectores de Trabajo y Seguridad Social y los subinspectores de Empleo y Seguridad Social serán provistos de un documento oficial que acredite su condición, que será expedido por la Autoridad Central de la Inspección de Trabajo y Seguridad Social. Los sujetos inspeccionados tienen derecho a recabar su acreditación en las visitas de inspección a sus locales o centros.
+
+**Artículo 13. Colaboración y auxilio a la función inspectora.**
+
+1\. De conformidad con el artículo 9 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, las autoridades, cualquiera que sea su naturaleza, los jefes o encargados de cualesquiera oficinas públicas y quienes ejerzan funciones de tal carácter, deberán prestar a los funcionarios de dicha Inspección el apoyo y colaboración que precisen en el ejercicio de su función.
+
+Si así no lo hicieran, el respectivo Jefe de la Inspección provincial o, en su caso, la autoridad competente trasladará lo actuado a los Servicios Jurídicos de la Administración competente a sus efectos.
+
+2\. Las Fuerzas y Cuerpos de Seguridad prestarán auxilio y colaboración a los inspectores de Trabajo y Seguridad Social y subinspectores de Empleo y Seguridad Social, cuando sean requeridos por éstos para el ejercicio de sus cometidos, en los términos del artículo 9.4 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, y del artículo 10.5 del Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social, aprobado por el Real Decreto 928/1998, de 14 de mayo.
+
+En los acuerdos bilaterales a que se refiere este Reglamento podrán establecerse reglas específicas de colaboración en lo que concierne a los Cuerpos de Policía dependientes de las Comunidades Autónomas.
+
+#### CAPÍTULO II — Actuaciones en el sistema de Inspección de Trabajo y Seguridad Social
+
+##### Sección 1.ª Disposiciones comunes
+
+**Artículo 14. Principios generales de actuación.**
+
+1\. La actividad inspectora responderá al principio de trabajo programado, sin perjuicio de la que exijan necesidades sobrevenidas o denuncias. La actividad inspectora responderá a los programas de objetivos generales y territoriales establecidos conforme a este Reglamento.
+
+2\. Los funcionarios de la Inspección de Trabajo y Seguridad Social adecuarán su actividad a dichos programas de actuación, a los que se sujetará la iniciativa de los inspectores en los términos del artículo 22 del presente Reglamento.
+
+**Artículo 14 bis. Principio general de funcionamiento por medios electrónicos.**
+
+1\. La Inspección de Trabajo y Seguridad Social se relacionará con los ciudadanos preferentemente por medios electrónicos, en los términos regulados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con las especialidades incluidas en este reglamento, en el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social, aprobado por Real Decreto 928/1998, de 14 de mayo, y en las normas dictadas en su desarrollo.
+
+2\. La Inspección de Trabajo y Seguridad Social, junto con otros órganos, organismos públicos o entidades de la Administración General del Estado o de las Comunidades Autónomas, podrá desarrollar aplicaciones informáticas dirigidas a la tramitación integrada de procedimientos administrativos. Las administraciones que utilicen estas aplicaciones deberán informar en sus sedes electrónicas de los términos y condiciones sobre el uso de las mismas con antelación suficiente a su puesta en funcionamiento, así como incluir la correspondiente cláusula informativa en materia de protección de datos personales, de conformidad con los artículos 13 y 14 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) y, en su caso, las previsiones de su artículo 22.
+
+Los documentos electrónicos transmitidos en estas aplicaciones mediante entornos cerrados de comunicaciones serán considerados válidos a efectos de autenticación e identificación de los emisores y receptores con las condiciones y garantías que se establezcan, de conformidad con lo previsto en el artículo 25 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo. En todo caso, se garantizará la seguridad del entorno cerrado de comunicaciones y la protección de los datos que se transmitan conforme a los requisitos establecidos en el Esquema Nacional de Seguridad, adaptando los criterios de determinación del riesgo en el tratamiento de los datos personales a lo establecido en el artículo 32 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (Reglamento General de Protección de Datos).
+
+> Se añade, con efectos de 6 de marzo de 2024, por el art. 2.1 del Real Decreto 1011/2023, de 5 de diciembre. [Ref. BOE-A-2023-24844](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24844)
+
+**Artículo 15. Modalidades de actuación.**
+
+1\. En desarrollo del artículo 14 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, los funcionarios de la Inspección de Trabajo y Seguridad Social desarrollarán sus actuaciones inspectoras y de asistencia técnica, mediante las siguientes modalidades:
+
+a) Visita a los centros y lugares de trabajo, con la personación del funcionario actuante en el centro o lugar de trabajo, sin necesidad de aviso previo, pudiendo efectuarse por un único funcionario o conjuntamente por varios. Podrá efectuarse más de una visita sucesiva.
+
+Cuando iniciadas actuaciones mediante visita, no sea posible o no tenga objeto su continuidad en el centro visitado, podrá continuarse en la forma establecida en el apartado siguiente.
+
+b) Comparecencia de los sujetos obligados ante el funcionario actuante en la oficina pública que éste señale, en virtud de requerimiento, con o sin aportación de información documental o en soporte informático, en su caso, con expresión en el requerimiento de la documentación que deba ser objeto de presentación. El requerimiento será escrito y notificado directamente con ocasión de visita al centro de trabajo, o por cualquier forma de notificación válida. Cuando el requerimiento se formule por un equipo, determinará el inspector o subinspector ante el que haya de comparecer el sujeto requerido.
+
+c) Comprobación de datos o antecedentes que obren en las Administraciones públicas; a tal fin, la Inspección podrá acceder a tales datos y antecedentes, proceder a cruces informáticos y solicitar antecedentes o información que permita comprobar el cumplimiento de la normativa aplicable. Si de su examen se dedujeran indicios de incumplimiento, podrá procederse en la forma dispuesta en los apartados anteriores al objeto de completar la comprobación. Podrán valorarse también los datos o antecedentes que le suministren otras Administraciones públicas de la Unión Europea.
+
+d) Expediente administrativo, cuando de su contenido se dedujeran los elementos suficientes de comprobación y de convicción para iniciar y concluir la actuación inspectora.
+
+2\. Las actuaciones inspectoras, cualquiera que sea la modalidad con que se inicien, podrán proseguirse o completarse sobre el mismo sujeto con la práctica de otra u otras formas de actuación de las definidas en el apartado anterior, si se estiman necesarias para la culminación de la comprobación.
+
+3\. Las funciones de arbitraje, mediación y conciliación contempladas en el artículo 3.3 de la Ley ordenadora antes citada, se desarrollarán en los locales y en la forma que, para cada caso, se establezca o se acuerde entre el funcionario actuante y las partes en conflicto.
+
+> Se modifica el apartado 1 c) por el art. único .1 del Real Decreto 107/2010, de 5 de febrero. [Ref. BOE-A-2010-2529](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2529)
+
+**Artículo 16. Número de funcionarios actuantes.**
+
+1\. Las actuaciones inspectoras podrán efectuarse por un sólo funcionario o por varios, bajo el principio de unidad de acción, tal y como establece el artículo 14 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. En las actuaciones en equipo desarrolladas por inspectores y subinspectores, el inspector que las dirija distribuirá los cometidos entre los participantes según su especialización y las funciones del Cuerpo de su pertenencia. En las actuaciones colectivas de inspectores de Trabajo y Seguridad Social, el que se encuentre al frente coordinará la actuación del conjunto.
+
+3\. En las actuaciones inspectoras con la participación de funcionarios públicos de otros Cuerpos, en virtud de la colaboración prevista en el artículo 9 de la Ley de Prevención de Riesgos Laborales, los mismos dispondrán de las facultades comprobatorias propias de los inspectores en las misiones que se les encomienden, incurriéndose en obstrucción si se les impidiera o perturbara en su ejercicio.
+
+**Artículo 17. Duración de las actuaciones.**
+
+1\. Las actuaciones comprobatorias de la Inspección de Trabajo y Seguridad Social a un mismo sujeto no podrán dilatarse por un tiempo superior a nueve meses continuados, salvo que la dilación sea imputable al sujeto a inspección o a las personas dependientes del mismo. No obstante, podrá ampliarse, con el alcance y requisitos que se indican a posteriori, por otro periodo que no excederá de nueve meses, cuando concurran las siguientes circunstancias:
+
+a) Cuando las actividades de inspección revistan especial dificultad y complejidad. Se entiende que se produce atendiendo al volumen de operaciones de la persona o de la entidad o por la dispersión geográfica de sus actividades.
+
+b) Cuando en el transcurso de las mismas se descubra que el sujeto inspeccionado ha obstruido u ocultado al órgano inspector alguna de sus actividades o de las personas que las desempeñen.
+
+c) Cuando la actuación inspectora requiera de cooperación administrativa internacional.
+
+Todo ello conforme al artículo 14 de la Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+Para la ampliación del plazo de actuaciones inspectoras, con arreglo al artículo 14.2.a) de la Ley 42/1997 se entenderán como supuestos de especial dificultad y complejidad:
+
+1) Cuando por el volumen de documentación a analizar, y el número de las personas que deben ser investigadas o entrevistadas así lo requieran.
+
+2) Cuando se esté ante un grupo de empresas vinculadas entre sí y sea preciso realizar actuaciones sobre las diversas empresas que componen dicho grupo o estructura empresarial, o ante supuestos de sucesión de empresa.
+
+3) Cuando se trate de hechos, actos, elementos, actividades, explotaciones y otras circunstancias que se lleven a cabo fuera del territorio donde radique el órgano actuante, y le exija a éste la realización de actuaciones de comprobación fuera de dicho ámbito territorial.
+
+4) Por el incumplimiento de las obligaciones laborales, fiscales, contables, registrales o de seguridad social, o por la desaparición o falta de los libros o registros que supongan una mayor dificultad de comprobación e investigación.
+
+5) Cuando se lleven a cabo actuaciones e investigaciones a los sujetos responsables de obligaciones laborales o de seguridad social basadas en su posible intervención en redes, tramas o actuaciones tendentes a la defraudación al Sistema de la Seguridad Social, en aras a la obtención de bonificaciones, subvenciones, prestaciones así como a la simulación de la relación laboral o la obtención fraudulenta de autorizaciones de residencia y trabajo de extranjeros no comunitarios.
+
+6) Cuando en la comprobación se constate la presencia de empresas que están vinculadas entre sí y que participen en la producción, ejecución o distribución de un determinado bien o servicio, teniendo presente que la actuación inspectora se dirige a la comprobación de las distintas fases que intervienen en la producción, ejecución o distribución.
+
+En la ampliación del plazo del supuesto contemplado en el artículo 14.2. b) de la Ley 42/1997, se entenderá que el sujeto inspeccionado ha obstruido u ocultado al órgano inspector alguna de sus actividades o de las personas que las desempeñen, en el supuesto de que no se hayan declarado a la Administración Laboral o de la Seguridad Social competente o que éstas sean distintas a las declaradas por aquél.
+
+2\. En el caso de que se estime que concurre alguna circunstancia que justifique la ampliación en la duración de la actuación inspectora previa al procedimiento sancionador o liquidatorio, será el Director de la Dirección Especial de Inspección adscrita a la Autoridad Central, en su caso, o el Director Territorial de la Inspección de Trabajo y Seguridad Social o el Jefe de la Inspección Provincial de Trabajo y Seguridad Social, o el equivalente en aquellas Comunidades Autónomas que hayan recibido un traspaso de funciones y servicios en materia de Función Pública Inspectora, una vez que hayan transcurrido cuatro meses desde el inicio de las actuaciones de inspección, el que notificará al sujeto objeto de inspección y le otorgará un plazo de quince días desde la notificación de la apertura de dicho plazo, para que efectúe, si lo estima pertinente, las alegaciones oportunas. Tras ello, se notificará al sujeto investigado el sentido de la resolución, no cabiendo recurso alguno contra dicho acto, todo ello sin perjuicio de las alegaciones y recursos que puedan efectuarse posteriormente, tanto en vía administrativa como jurisdiccional, en el caso de que se iniciase procedimiento sancionador o liquidatorio.
+
+En la notificación se indicará el periodo de tiempo por el que se amplía el plazo, que no podrá exceder de nueve meses, y deberá motivarse adecuadamente la razón para la autorización de dicha ampliación del plazo.
+
+3\. Para el cómputo del plazo de nueve meses o dieciocho meses a que se refiere el apartado anterior se aplicarán las reglas siguientes:
+
+a) Cuando la actuación se inicie mediante visita a centro o lugar de trabajo, el cómputo se iniciará a partir de la fecha de la primera visita efectuada, según diligencia extendida en el Libro de Visitas.
+
+b) Si la actuación comienza por requerimiento de comparecencia, el cómputo se iniciará desde la fecha de la efectiva comparecencia del sujeto obligado requerido con aportación, en su caso, de la totalidad de la documentación requerida, con trascendencia en la actuación inspectora, circunstancia que se reseñará en el Libro de Visitas.
+
+c) Si iniciada visita de inspección a un centro o lugar de trabajo no fuese posible concluir la comprobación por falta de aportación de los antecedentes necesarios, o por ausencia o negativa a declarar de persona afectada por las comprobaciones, el funcionario actuante podrá requerir en la forma dispuesta en el párrafo b) del apartado 1 del artículo 15 de este Reglamento, en cuyo caso el cómputo se iniciará desde el momento de la comparecencia en las condiciones señaladas en el párrafo anterior.
+
+4\. Las actuaciones comprobatorias seguidas a un mismo sujeto, una vez iniciadas, no podrán interrumpirse por tiempo superior a cinco meses, salvo que la interrupción sea causada por el sujeto inspeccionado o personas de él dependientes.
+
+5\. Para el cómputo de los plazos señalados en este artículo, en ningún caso se considerará incluido el tiempo transcurrido durante el plazo concedido al sujeto obligado en los supuestos de formularse requerimientos de subsanación de incumplimientos previos por parte del órgano inspector.
+
+6\. Con independencia de su duración y modalidades aplicadas, las comprobaciones sobre el sujeto inspeccionado correspondientes a una actuación inspectora se consignarán mediante diligencia en el Libro de Visitas, cuya copia obrará en los archivos de la Inspección, y tendrán el carácter de antecedente para sucesivas actuaciones que se realicen al mismo sujeto.
+
+> Se modifica por la disposición final 2 de la Ley 13/2012, de 26 de diciembre. [Ref. BOE-A-2012-15596](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15596).
+
+> Se modifican los apartados 1 y 3 por el art. único del Real Deccreto 107/2010, de 5 de febrero. [Ref. BOE-A-2010-2529](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-2529)
+
+**Artículo 18. Continuidad de las actuaciones inspectoras.**
+
+1\. Las actuaciones inspectoras se llevarán a cabo, hasta su conclusión, por los inspectores o subinspectores que las hubiesen iniciado. En caso de cese, traslado, enfermedad u otra causa concurrente en dichos funcionarios, su superior jerárquico podrá encomendarlas a otro funcionario, notificándolo al sujeto inspeccionado.
+
+2\. Iniciadas actuaciones inspectoras, el respectivo Jefe de Inspección provincial podrá disponer, en cualquier momento, la incorporación de otro u otros funcionarios cuando su dificultad o duración lo aconseje.
+
+3\. Si en el curso de las actuaciones, el actuante incurriese injustificadamente en demora, su actuación no respondiese al nivel técnico exigible, se desviase manifiestamente de las normas e instrucciones que rigen la función inspectora, o incurriere en causa de abstención, el Jefe de Inspección provincial le relevará de dicho asunto por otro funcionario, comunicándolo al sujeto inspeccionado.
+
+**Artículo 19. Adopción de medidas cautelares.**
+
+1\. La Inspección de Trabajo y Seguridad Social podrá, de acuerdo con el artículo 5 de la Ley ordenadora, adoptar las medidas que juzgue adecuadas para impedir que se le oculten o desaparezcan pruebas materiales, se destruyan o alteren los libros, documentos, material informatizado y demás antecedentes sujetos a examen, a cuyo efecto, dicha Inspección podrá recabar de las autoridades competentes y de sus agentes el auxilio y colaboración precisos.
+
+2\. La Inspección de Trabajo y Seguridad Social reflejará las medidas cautelares adoptadas, con reseña de los materiales a que afecte, en diligencia en el Libro de Visitas o, en su defecto, por otro medio escrito y fehaciente notificado al interesado.
+
+**Artículo 20. Libro de Visitas de la Inspección de Trabajo y Seguridad Social.**
+
+En cada actuación sobre el inspeccionado, los funcionarios de la Inspección de Trabajo y Seguridad Social extenderán diligencia en el Libro de Visitas de la Inspección que debe existir en cada centro de trabajo a su disposición, ocupe o no trabajadores por cuenta ajena, con sujeción a las normas reguladoras de dicho Libro.
+
+Las medidas de advertencia, recomendación o requerimiento efectuadas por los funcionarios de dicha inspección, podrán formalizarse documentalmente mediante diligencia en el Libro de Visitas.
+
+**Artículo 21. Capacidad de obrar ante la inspección.**
+
+1\. La capacidad de obrar ante la Inspección de Trabajo y Seguridad Social y su acreditación se rige por las normas de derecho privado. Las personas jurídicas, de naturaleza pública o privada, actuarán por medio de quienes, al tiempo de la actuación inspectora, ocupen los órganos de su representación o la tengan conferida, siempre que lo acrediten con arreglo a derecho.
+
+2\. Las actuaciones inspectoras se seguirán con los sujetos obligados, que podrán actuar por medio de representante debidamente acreditado ante el funcionario actuante, con el que se entenderán las sucesivas actuaciones. El representante no podrá eludir la declaración sobre hechos o circunstancias con transcendencia inspectora que deban ser conocidos por el representado.
+
+La actuación mediante representante sin capacidad o insuficientemente acreditado se considerará incomparecencia, cuando se haya solicitado la personación del sujeto obligado. Se presumirá otorgada autorización a quien comparezca ante la Inspección para actos de mero trámite que no precisen poder de representación del sujeto obligado.
+
+3\. En las actuaciones inspectoras relacionadas con los trabajadores, se estará, a efectos de su representación colectiva, a lo dispuesto en la normativa específica sobre representación por los órganos unitarios y sindicales, sin perjuicio de la capacidad individual de obrar que corresponda a cada trabajador.
+
+4\. La representación para actuar ante la Inspección de Trabajo y Seguridad Social se entenderá acreditada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica, o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos del Organismo Estatal Inspección de Trabajo y Seguridad Social. Ello sin perjuicio de la posibilidad de acreditar la representación por cualquier otro medio válido en Derecho.
+
+5\. Se crea el Registro Electrónico de Apoderamientos de la Inspección de Trabajo y Seguridad Social, en el que se inscribirán los apoderamientos relativos a actuaciones de la competencia del Organismo Estatal Inspección de Trabajo y Seguridad Social.
+
+Cuando la persona poderdante o la apoderada tuvieran condición de personas físicas, el tratamiento automatizado de sus datos que resulte necesario para el adecuado funcionamiento del Registro y su finalidad se fundamenta en el artículo 6.1.e) del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (Reglamento General de Protección de Datos).
+
+Mediante orden del Ministerio de Trabajo y Economía Social se regularán los requisitos y condiciones de funcionamiento de dicho registro.
+
+> Se añaden, con efectos de 6 de marzo de 2024, los apartados 4 y 5, por el art. 2.2 del Real Decreto 1011/2023, de 5 de diciembre. [Ref. BOE-A-2023-24844](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24844)
+
+##### Sección 2.ª Actuaciones de los inspectores de Trabajo y Seguridad Social
+
+**Artículo 22. Formas de actuación de los inspectores de Trabajo y Seguridad Social.**
+
+1\. Los inspectores de Trabajo y Seguridad Social actuarán de conformidad a lo establecido en el artículo 13.1 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. La actuación por orden superior se formalizará mediante orden emitida conforme al artículo siguiente, y se expedirá en todos los supuestos a que se refiere el artículo 9.1 del Reglamento General sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social aprobado por Real Decreto 928/1998, de 14 de mayo.
+
+3\. La actuación por propia iniciativa de los inspectores se sujetará a criterios de eficacia y de oportunidad, acomodándose a la programación vigente en la inspección de su destino.
+
+4\. Cuando la actuación sea consecuencia de denuncia, la Inspección de Trabajo y Seguridad Social iniciará, una vez recibida aquélla, las correspondientes actuaciones de comprobación e investigación si concurrieren indicios suficientes de veracidad o exactitud en los hechos denunciados. A tal fin, podrá solicitar al denunciante su comparecencia para ratificar, ampliar o concretar el contenido de la denuncia.
+
+**Artículo 23. Órdenes de servicio.**
+
+1\. El señalamiento de actuaciones concretas a los inspectores y a los equipos de Inspección se materializará en órdenes de servicio, en los supuestos a que se refiere el apartado 2 del artículo anterior.
+
+2\. Las órdenes de servicio se expedirán por el respectivo Jefe o Jefe adjunto de la Inspección Provincial, o por los de sus unidades especializadas en su área funcional. Las órdenes de servicio se formularán por escrito y contendrán los datos de identificación del servicio encomendado, en la forma que se disponga.
+
+3\. El inspector o equipo destinatario de una orden de servicio, sin perjuicio de adoptar las medidas que procedan, emitirá informe comprensivo del resultado de la actuación encomendada una vez finalizada.
+
+4\. Cuando el Inspector o el Subinspector actúen en virtud de un servicio encomendado para la realización de una o varias actuaciones específicas, no serán exigibles otras distintas de las necesarias para la consecución de aquel. No obstante, si el Inspector de Trabajo y Seguridad Social o el Subinspector de Seguridad y Salud Laboral en el transcurso de la visita apreciaran de manera directa, evidencia manifiesta de un riesgo grave e inminente para la seguridad y salud de los trabajadores, podrán adoptar, entre otras medidas, la paralización inmediata de tales trabajos o tareas, conforme a lo establecido en el artículo 44 de la Ley 31/1995, de 8 de noviembre.
+
+> Se modifica el apartado 4 por el art. 1.5 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+> Se añade el apartado 4 por la disposición adicional 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+**Artículo 24. Autonomía técnica y funcional de los inspectores de Trabajo y Seguridad Social.**
+
+1\. Los inspectores de Trabajo y Seguridad Social están facultados para el desempeño de todas las competencias que la Inspección de Trabajo y Seguridad Social tiene atribuidas en el artículo 3 de la Ley 42/1997, y en su ejercicio disponen de la autonomía técnica y funcional reconocida en el artículo 6 de aquélla. Dicha autonomía se fundamenta en la objetividad y rigor técnico de cada actuación, en el respeto a los principios de eficacia y jerarquía que se materializan en las instrucciones y criterios técnicos establecidos en el marco del artículo 18.3, apartados 7 y 12, de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. La autonomía técnica no exime al inspector de su obligación de actuación cuando corresponda, de cumplimentar en plazo las órdenes de servicio que se le encomienden, ni de los controles que se establezcan en cuanto a rendimiento, cumplimiento de objetivos y adecuación de su actuación a las normas, criterios e instrucciones aplicables.
+
+3\. Los Jefes de las Inspecciones provinciales y de sus unidades especializadas corregirán las desviaciones a los principios anteriores.
+
+**Artículo 25. Medidas derivadas de la actividad de los inspectores.**
+
+Los inspectores de Trabajo y Seguridad Social, concluida la actividad comprobatoria en los términos del artículo 7 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, podrán adoptar las medidas que autoriza dicho precepto.
+
+Asimismo, podrán tomar las iniciativas que procedan para el requerimiento o propuesta de liquidación de cuotas conforme a la legislación reguladora de la Seguridad Social, proponer al órgano correspondiente que exija la devolución de lo indebidamente percibido por prestaciones o ayudas en fraude, e instar la actuación del Ministerio Fiscal si hubiere lugar y por el cauce establecido.
+
+##### Sección 3.ª Actuaciones de los Subinspectores Laborales
+
+> Se modifica por el art. 1.6 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+**Artículo 26. Actuaciones de los Subinspectores Laborales.**
+
+1\. Los Subinspectores Laborales en los términos del artículo 14 de la Ley 23/2015, de 21 de julio, actuarán, como norma general, en el marco operativo de la unidad, equipo o grupo al que estén adscritos, pudiendo establecerse grupos de Subinspectores para una actuación o conjunto de actuaciones concretas.
+
+2\. Las órdenes de servicio encomendadas a cada equipo o grupo responderán a lo establecido en el artículo 23.
+
+El Inspector que esté al frente de la unidad, equipo, o grupo, distribuirá su ejecución entre los Subinspectores que lo integren, y la dirigirá y supervisará por sí mismo o mediante otro Inspector adscrito a la misma unidad organizativa, con sujeción a las instrucciones que se establezcan.
+
+3\. La actuación de los Subinspectores Laborales corresponderá a los servicios encomendados conforme al apartado anterior. Dichas encomiendas de servicio podrán ser:
+
+a) Genéricas, para el desarrollo de comprobaciones de su competencia que motiven un conjunto de actuaciones sobre supuestos homogéneos programados que afecten a varios sujetos de un mismo sector o zona.
+
+b) Específicas, para actuaciones concretas sobre sujetos obligados expresamente determinados e individualizados.
+
+> Se modifica por el art. 1.7 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+**Artículo 27. Medidas derivadas de la actividad de los Subinspectores Laborales.**
+
+1.De conformidad con lo establecido en el artículo 14.5 de la Ley 23/2015, de 21 de julio, los Subinspectores Laborales de la Escala de Empleo y Seguridad Social podrán:
+
+a) Advertir y requerir al sujeto responsable, en vez de iniciar un procedimiento sancionador, cuando las circunstancias del caso así lo aconsejen, y siempre que no se deriven perjuicios directos a los trabajadores o a sus representantes.
+
+b) Requerir al sujeto responsable para que, en el plazo que se le señale, adopte las medidas en orden al cumplimiento de la normativa de orden social, incluso con su justificación ante el funcionario actuante.
+
+c) Iniciar el procedimiento sancionador mediante la extensión de actas de infracción o de infracción por obstrucción.
+
+d) Efectuar requerimientos de pago por deudas a la Seguridad Social, así como iniciar expedientes liquidatorios por débitos a la Seguridad Social y conceptos de recaudación conjunta o bonificaciones, reducciones y compensaciones indebidas, mediante la práctica de actas de liquidación.
+
+e) Promover procedimientos de oficio para la inscripción de empresas, afiliación y altas y bajas de trabajadores, así como para el encuadramiento de empresas y trabajadores en el régimen de la Seguridad Social adecuado, sin perjuicio del inicio del expediente liquidatorio a que se refiere el apartado anterior, si procediese.
+
+f) Instar del correspondiente organismo la suspensión o cese en la percepción de prestaciones sociales, si se constatase su obtención o disfrute en incumplimiento de la normativa que las regula.
+
+g) Informar al órgano competente de los resultados de la investigación para la identificación de los distintos sujetos responsables por los incumplimientos de las normas a que se refiere el artículo 12.1 de la Ley 23/2015, de 21 de julio, incluyendo los supuestos de responsabilidad solidaria o subsidiaria, así como para el señalamiento de bienes para la efectividad de la vía ejecutiva.
+
+h) Informar a los Servicios Públicos de Empleo a efectos del reconocimiento de acciones de orientación, capacitación y formación profesional para el Empleo para los trabajadores en situación de trabajo no declarado, empleo irregular u otros incumplimientos detectados por la actividad inspectora, de acuerdo con la legislación aplicable.
+
+i) Adoptar cuantas otras medidas se deriven de la legislación en vigor.
+
+2\. De conformidad con lo establecido en el artículo 14.5 de la Ley 23/2015, de 21 de julio, los Subinspectores Laborales de la Escala de Seguridad y Salud Laboral podrán:
+
+a) Advertir y requerir al sujeto responsable, en vez de iniciar un procedimiento sancionador, cuando las circunstancias del caso así lo aconsejen, y siempre que no se deriven perjuicios directos a los trabajadores o a sus representantes.
+
+b) Requerir al sujeto responsable para que, en el plazo que se le señale, adopte las medidas en orden al cumplimiento de la normativa en materia de prevención de riesgos laborales o subsane las deficiencias observadas, incluso con su justificación ante el funcionario actuante.
+
+c) Iniciar el procedimiento sancionador mediante la extensión de actas de infracción o de infracción por obstrucción.
+
+d) Ordenar la paralización inmediata de trabajos o tareas por inobservancia de la normativa sobre prevención de riesgos laborales, de concurrir riesgo grave e inminente para la seguridad o salud de los trabajadores.
+
+e) Adoptar cuantas otras medidas se deriven de la legislación en vigor.
+
+4\. Los Subinspectores Laborales emitirán informe interno sobre los resultados de cada actuación encomendada al que adjuntarán los documentos que correspondan; asimismo emitirán los informes y propuestas que procedan, que serán supervisados por el Inspector de Trabajo y Seguridad Social que corresponda en aplicación del artículo anterior.
+
+5\. Las actas de infracción y las de liquidación de cuotas que procedan serán practicadas y firmadas por el Subinspector o Subinspectores actuantes, con el visado, cuando proceda, del Inspector de Trabajo y Seguridad Social bajo cuya dirección técnica actúen.
+
+Los Subinspectores pertenecientes a la Escala de Empleo y Seguridad Social practicarán, asimismo, las propuestas de liquidación que se deriven de su actuación.
+
+Los Subinspectores pertenecientes a la Escala de Seguridad y Salud Laboral realizarán comunicaciones internas para la adopción, en su caso, de las medidas previstas en los apartados 7, 9 y 10 del artículo 22 de la Ley 23/2015, de 21 de julio, en la forma establecida en el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de Orden social y para los expedientes liquidatarios de cuotas de la Seguridad Social, aprobado por el Real Decreto 928/1998, de 14 de mayo.
+
+> Se modifica por el art. 1.8 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+#### CAPÍTULO III — Principios ordenadores del funcionamiento de la Inspección de Trabajo y Seguridad Social
+
+##### Sección 1.ª Programación de objetivos para la acción inspectora
+
+**Artículo 28. Principios básicos.**
+
+1\. La Inspección de Trabajo y Seguridad Social programará su actuación según los objetivos que determinen las autoridades competentes, y funcionará con sujeción a los principios de concepción institucional única e integral y a los establecidos en el artículo 103 de la Constitución. Los objetivos para la acción inspectora podrán ser de ámbito general o territorial, en atención a su carácter y ámbito espacial de desarrollo.
+
+2\. Los programas generales de objetivos son aquellos cuyo desarrollo comprobatorio afecte a territorios de más de una Comunidad Autónoma, en los términos de los artículos 18.3.9 y 21 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social. Los programas territoriales de objetivos son aquellos cuyo desarrollo se limita al territorio de una Comunidad Autónoma, según el artículo 17 de la Ley ordenadora citada.
+
+**Artículo 29. Programas generales de objetivos.**
+
+1\. Los programas generales de objetivos de la Inspección de Trabajo y Seguridad Social, derivados de las líneas de acción definidas por la Conferencia Sectorial de Asuntos Laborales, se elaborarán en la forma siguiente:
+
+1.º La Autoridad Central de la Inspección de Trabajo y Seguridad Social y las Autoridades autonómicas podrán proponer a la Conferencia Sectorial de Asuntos Laborales objetivos de inspección de alcance general.
+
+2.º Definidos por la Conferencia Sectorial tales objetivos generales, la distribución de sus actuaciones por áreas funcionales se realizará por la Autoridad Central de la Inspección de Trabajo y Seguridad Social entre las Inspecciones Provinciales agrupadas por Direcciones Territoriales, comunicándolo a los Presidentes de las Comisiones Territoriales. Para su seguimiento y evaluación, podrán seleccionarse indicadores de cantidad y calidad, de modalidades de fraude, de carácter sectorial, de dimensión o tipo de empresas, u otros que se consideren. Asimismo, podrán establecerse procedimientos de seguimiento y para su ajuste o modificación.
+
+2\. Para el cumplimiento de objetivos establecidos por la Unión Europea a través de su Comité de Altos Responsables de la Inspección de Trabajo en materias regidas por Directivas europeas, se procederá en la misma forma establecida en el apartado anterior, cuando afecte al desarrollo general de la acción inspectora en España.
+
+3\. En los programas generales de objetivos de ámbito supraautonómico de competencia de la Administración General del Estado, se procederá de la siguiente forma:
+
+1.º La Autoridad Central de la Inspección, oídos los órganos interesados, formulará el programa de objetivos de alcance supraautonómico, particularmente en materia de régimen económico de la Seguridad Social y de trabajo de extranjeros.
+
+2.º En lo posible, y sin ruptura de la unidad de acción y de criterio, la Autoridad Central desglosará tales objetivos por Inspecciones Provinciales, y lo comunicará, en tal caso, a los respectivos Presidentes de las Comisiones Territoriales a efectos de su consideración en los programas territoriales a que se refiere el artículo siguiente.
+
+**Artículo 30. Programas territoriales de objetivos.**
+
+1\. Con la periodicidad que determine, cada Comisión Territorial de la Inspección de Trabajo y Seguridad Social establecerá el programa territorial de objetivos para la actuación de dicha Inspección en su territorio, tanto de competencia autonómica como estatal, integrando, en su caso, las previsiones de los planes generales en el desarrollo territorial que corresponda con el debido desglose provincial.
+
+2\. Sin perjuicio de lo establecido en el artículo anterior, la Autoridad Central de la Inspección comunicará al Presidente de la respectiva Comisión Territorial la propuesta de objetivos de desarrollo territorializado de competencia de la Administración General del Estado, para su integración en el programa territorial. La autoridad que determine la respectiva Comunidad Autónoma cumplirá el mismo cometido en las materias de competencia autonómica. La Comisión Territorial acordará la programación que corresponda. Cuando no esté constituida la Comisión Territorial, las funciones de ésta se atribuyen a la Conferencia Sectorial de Asuntos Laborales.
+
+3\. Sin perjuicio de las funciones que corresponden a la Autoridad Central y a las Comisiones Territoriales, los Directores territoriales y los Jefes de las Inspecciones provinciales tomarán las medidas para la efectividad de los programas de objetivos que les afecten, y efectuarán el seguimiento periódico y sistemático sobre su grado de cumplimiento.
+
+**Artículo 31. Criterios de programación de servicios.**
+
+1\. En aplicación de los programas de objetivos a que se refieren los artículos 29 y 30, las Inspecciones Provinciales y sus unidades especializadas dispondrán la programación interna de sus servicios, en función de su capacidad y medios disponibles y en consideración, entre otros, a los factores siguientes:
+
+a) La trascendencia o repercusión social de los asuntos objeto de la actuación, según los objetivos señalados por aplicación de los artículos 29 y 30.
+
+b) El efecto disuasor que se pretenda obtener con la acción inspectora.
+
+c) La importancia, tipo y situación del centro o lugar de trabajo, o del sector de actividad.
+
+d) La incidencia en el régimen económico de la Seguridad Social del volumen de ingresos defraudados.
+
+e) La incidencia del fraude en las prestaciones sociales.
+
+f) El volumen de empleo de las empresas o sectores afectados.
+
+g) La peligrosidad de los riesgos del trabajo y la frecuencia y gravedad de los accidentes de trabajo o enfermedades profesionales.
+
+h) Los que deriven de necesidades evidenciadas por los agentes sociales, o denoten reiteraciones en las denuncias recibidas.
+
+2\. En el desarrollo temporal de actuaciones, la Inspección Provincial dará preferencia a las originadas por accidentes de trabajo o denuncias relativas a riesgos graves e inminentes, las derivadas de órdenes de servicio a las que se confiera carácter urgente y las que correspondan a la programación y objetivos establecidos para la correspondiente Inspección Provincial o unidad especializada por la respectiva autoridad.
+
+##### Sección 2.ª Normas de funcionamiento territorial y funcional
+
+**Artículo 32. Normas funcionales: unidad de función y especialización.**
+
+1\. Los inspectores de Trabajo y Seguridad Social desarrollarán la totalidad de cometidos que tienen encomendados, bajo las directrices técnicas de la Autoridad Central de la Inspección de Trabajo y Seguridad Social y en dependencia directa de los respectivos Jefes de Inspección provincial y, en su caso, Jefes de las unidades especializadas.
+
+2\. Los subinspectores de Empleo y Seguridad Social desarrollarán sus funciones propias en el régimen señalado en el apartado anterior, bajo la inmediata dirección técnica y funcional del inspector del que dependan.
+
+3\. Podrá encomendarse a los inspectores de Trabajo y Seguridad Social y a los subinspectores de Empleo y Seguridad Social la dedicación preferente a tareas especializadas correspondientes a las áreas funcionales de la acción inspectora que se determinen, teniendo en cuenta la capacidad, dimensión y complejidad de cada Inspección Provincial.
+
+4\. La especialización funcional será compatible con la aplicación de los principios de unidad de función y de acto en la actuación inspectora, en la forma dispuesta en el artículo 6.2 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social y en este Reglamento.
+
+**Artículo 33. Normas de distribución territorial.**
+
+1\. Los funcionarios y equipos de la Inspección de Trabajo y Seguridad Social ejercerán sus funciones en el territorio al que extienda su competencia el órgano inspector de su destino.
+
+2\. La Inspección de Trabajo y Seguridad Social adecuará su organización operativa a la división geográfica y denominaciones que tenga establecida cada Comunidad Autónoma, si así se estableciese en el correspondiente acuerdo bilateral de ésta con la Administración General del Estado.
+
+3\. Las actuaciones inspectoras sobre empresas o sectores con actividad en el territorio de más de una Comunidad Autónoma, podrán ejercerse por la Dirección Especial de la Inspección de Trabajo y Seguridad Social, regulada en este Reglamento sin perjuicio, si así se determinase, de la colaboración y participación de las Inspecciones Provinciales bajo unidad de acción y de criterio.
+
+3.bis) En los expedientes de despidos colectivos, suspensión de contratos y reducción de jornada que afecten a centros de trabajo de una empresa ubicados en distintas Comunidades Autónomas, el preceptivo informe de la Inspección de Trabajo y Seguridad Social será emitido por la Dirección Especial de la Inspección de Trabajo y Seguridad Social, quien podrá recabar informe o cualquier tipo de colaboración de las estructuras territoriales de la Inspección. Mediante Resolución de la Autoridad Central de la Inspección de Trabajo y Seguridad Social se podrá adscribir el personal inspector o de apoyo necesario a la Dirección Territorial, para la realización de este o de otros cometidos que requieran igualmente unidad y homogeneidad de las actuaciones inspectoras.
+
+En los expedientes de despidos colectivos, suspensión de contratos y reducción de jornada que afecten a centros de trabajo de una empresa ubicados en distintas provincias dentro de la misma Comunidad Autónoma, actuará un solo Inspector de Trabajo y Seguridad Social, designado para éste u otros cometidos que igualmente requieran identidad de criterio, por la Autoridad Central de la Inspección de Trabajo y Seguridad Social.
+
+No obstante, las Comunidades Autónomas que hayan recibido el traspaso de funciones y servicios en materia de Función Pública Inspectora referente a la Inspección de Trabajo y Seguridad Social, tendrán capacidad para designar al inspector de Trabajo a quien corresponda la realización de las funciones a que se refieren los dos párrafos anteriores.
+
+4\. La Autoridad Central de la Inspección de Trabajo y Seguridad Social podrá disponer actuaciones por funcionarios fuera de los límites territoriales de su destino, mediante agregación temporal a la Inspección Provincial correspondiente.
+
+> Se añade el apartado 3.bis) por la disposición final 3 del Real Decreto 1483/2012, de 29 de octubre. [Ref. BOE-A-2012-13419](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-13419).
+
+> Se modifica el apartado 3 por el art. único del Real Decreto 1125/2001, de 19 de octubre. [Ref. BOE-A-2001-20276](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-20276)
+
+**Artículo 34. Criterios de distribución funcional.**
+
+En las Inspecciones Provinciales en que, por sus características o volumen de asuntos, se establezcan unidades especializadas para la acción inspectora en áreas funcionales, según la correspondiente relación de puestos de trabajo, los funcionarios asignados a las mismas dedicarán preferentemente su actividad a las materias correspondientes a tales áreas, en el marco territorial a que se refiere el artículo anterior, y sin perjuicio de lo establecido en el artículo 32. Si se establece por acuerdo bilateral, tales estructuras especializadas podrán extender su competencia al ámbito territorial autonómico, con el mismo régimen antes indicado.
+
+**Artículo 35. Coordinación y colaboración.**
+
+Conforme al artículo 15.1 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, y por los cauces que se establezcan, los órganos y estructuras territoriales de la Inspección de Trabajo y Seguridad Social comunicarán entre sí los datos y antecedentes de que dispongan con relevancia para la acción inspectora que corresponda a otros ámbitos territoriales.
+
+##### Sección 3.ª Normas sobre servicios encomendados por las autoridades en el ámbito de sus competencias
+
+**Artículo 36. Servicios dispuestos por autoridades de las Comunidades Autónomas.**
+
+1\. La Inspección de Trabajo y Seguridad Social cumplimentará los servicios que le encomienden los órganos que señalen las Comunidades Autónomas en el ámbito de sus competencias. Bajo la misma dependencia funcional, la Inspección desarrollará los cometidos que le corresponden en el ámbito de las competencias autonómicas, aun sin orden o solicitud expresa de actuación concreta.
+
+2\. La Inspección de Trabajo y Seguridad Social emitirá los informes preceptivos o potestativos que le soliciten las autoridades autonómicas en materia de la competencia de éstas. Asimismo, la Inspección podrá informar a dichas autoridades en materias de competencia estatal, cuando sea de interés al mejor desarrollo de las funciones que correspondan a la Autonomía.
+
+**Artículo 37. Servicios dispuestos por Órganos Territoriales de la Administración General del Estado.**
+
+1\. La Inspección de Trabajo y Seguridad Social cumplimentará los servicios que, en la esfera de sus competencias, determinen los Delegados y Subdelegados del Gobierno. Asimismo, la Inspección facilitará a dichos órganos la información que recaben en cada caso y, periódicamente, la que determine su Autoridad Central, dando cumplimiento a lo establecido en el artículo 35 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+2\. La Inspección desarrollará las actuaciones que le sean solicitadas por los órganos territoriales de los Organismos gestores y Servicios comunes de la Seguridad Social, Fondo de Garantía Salarial y demás Organismos con funciones en el orden social.
+
+3\. La citada Inspección colaborará con la Agencia Estatal de Administración Tributaria, en régimen de mutua cooperación. Mediante acuerdo de los Ministerios de Economía y Hacienda y de Trabajo y Asuntos Sociales, se establecerán las normas de colaboración y coordinación a que se refiere el apartado 2 del artículo 9 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+**Artículo 38. Servicios dispuestos por Órganos Centrales de la Administración del Estado.**
+
+La Inspección de Trabajo y Seguridad Social cumplimentará los servicios que, por el cauce de la Autoridad Central, le encomienden los órganos del Ministerio de Trabajo y Asuntos Sociales en el ámbito de la competencia de ejecución de la Administración General del Estado, y facilitará la información de carácter general que resulte necesaria para el mejor desarrollo de la función normativa que corresponda al Estado.
+
+**Artículo 39. Colaboración con la Administración de Justicia.**
+
+1\. La Inspección de Trabajo y Seguridad Social emitirá los informes y cumplimentará las solicitudes de actuación que sean formuladas por los órganos judiciales, en los términos legalmente establecidos.
+
+2\. La Inspección de Trabajo y Seguridad Social pondrá en conocimiento del Ministerio Fiscal aquellos hechos que conozca en sus actuaciones y que pudieran ser constitutivos de delitos públicos, comunicándolo a la autoridad correspondiente.
+
+**Artículo 40. Cauce orgánico.**
+
+Sin perjuicio de la dependencia funcional de los inspectores y subinspectores, en los términos del artículo 18.2 de la Ley Ordenadora de la Inspección de Trabajo y Seguridad Social, la ejecución de actuaciones que se encomienden a la Inspección a que se refieren los artículos 36 a 39 se producirá por el cauce orgánico natural del respectivo Jefe de Inspección provincial, salvo que la acción a desarrollar corresponda a los ámbitos supraprovincial o supraautonómico en que será por conducto del Director territorial o especial, respectivamente.
+
+### TÍTULO III — Organización del sistema de Inspección de Trabajo y Seguridad Social
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 192/2018, de 6 de abril. [Ref. BOE-A-2018-4753](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4753)
+
+#### CAPÍTULO I — Estructura general del sistema
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 192/2018, de 6 de abril. [Ref. BOE-A-2018-4753](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4753)
+
+**Artículos 41 a 45.**
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 192/2018, de 6 de abril. [Ref. BOE-A-2018-4753](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4753)
+
+#### CAPÍTULO II — Organización de la Inspección de Trabajo y Seguridad Social
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 192/2018, de 6 de abril. [Ref. BOE-A-2018-4753](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4753)
+
+**Artículos 46 a 58.**
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 del Real Decreto 192/2018, de 6 de abril. [Ref. BOE-A-2018-4753](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-4753)
+
+### TÍTULO IV — Del régimen de colaboración con la Inspección de Trabajo y Seguridad Social de los funcionarios públicos, dependientes de las Administraciones Públicas que ejercen labores técnicas en materia de prevención de riesgos laborales, para el ejercicio de las funciones a que se refieren los apartados 2 y 3 del artículo 9 de la Ley 31/1995, de 8 de noviembre
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+#### CAPÍTULO I
+
+### Requisitos de los funcionarios técnicos para el ejercicio de actuaciones comprobatorias, régimen de habilitación y ámbito funcional de dicha actuación
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+**Artículo 59. Requisitos de los funcionarios para el ejercicio de actuaciones comprobatorias.**
+
+1\. La colaboración pericial y el asesoramiento técnico a la Inspección de Trabajo y Seguridad Social por parte de los funcionarios públicos, técnicos en prevención de riesgos laborales, dependientes de las Comunidades Autónomas, así como los del Instituto Nacional de Seguridad e Higiene en el Trabajo, en el caso de las Ciudades de Ceuta y Melilla, se desarrollará en los términos que se establecen en el artículo 9.2 y 3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+2\. Para el ejercicio de dicha colaboración, mediante actuaciones comprobatorias, con el alcance señalado en el artículo 9.3 de la Ley 31/1995, de 8 de noviembre, y con capacidad de requerimiento, los funcionarios referidos en el apartado anterior deberán cumplir, como mínimo, los requisitos siguientes:
+
+1.º Contar con la habilitación correspondiente a la que se refiere la disposición adicional decimoquinta de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en su redacción dada por la Ley 54/2003, de 12 de diciembre, de reforma del marco normativo de prevención de riesgos laborales, y a la que se refiere el artículo siguiente.
+
+2.º Pertenecer a cuerpos de los grupos A o B.
+
+3.º Contar con la titulación universitaria y la formación mínima prevista en el artículo 37.2 y 3 del Reglamento de los servicios de prevención, aprobado por el Real Decreto 39/1997, de 17 de enero, para poder ejercer las funciones de nivel superior en las especialidades y disciplinas preventivas en que estén acreditados a que se refiere dicho reglamento, o haber sido convalidados para el ejercicio de tales funciones de nivel superior, conforme a la disposición adicional quinta del mismo reglamento.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654)
+
+**Artículo 60. Régimen de habilitación.**
+
+1\. La habilitación de dichos funcionarios corresponderá a las respectivas autoridades autonómicas competentes, que la llevarán a cabo de acuerdo con el procedimiento y las condiciones establecidos en su propia normativa. Cuando se trate del ejercicio de dichas funciones en el ámbito de las Ciudades de Ceuta y Melilla, su habilitación corresponderá a la Autoridad Central de la Inspección de Trabajo y Seguridad Social, a propuesta del Instituto Nacional de Seguridad e Higiene en el Trabajo.
+
+2\. A tales efectos, las autoridades señaladas expedirán el documento oficial que acredite su habilitación. En este documento figurará la denominación "técnico habilitado (artículo 9.2 y 3 y disposición adicional decimoquinta de la Ley 31/1995, de 8 de noviembre)" y los sujetos sometidos a actuaciones comprobatorias tendrán derecho a recabar su acreditación en las visitas de comprobación y control de las condiciones de seguridad que realicen a sus locales y centros de trabajo.
+
+3\. Para su habilitación regirán las reglas de incompatibilidad establecidas en el artículo 63.3.
+
+4\. La habilitación específica de dichos funcionarios quedará sin efecto cuando lo determine la misma autoridad que la confirió y, en todo caso, cuando no concurran o se hayan alterado los requisitos y la aptitud para el desempeño de estas funciones a que se refiere el artículo anterior, o se incumplan los deberes previstos en el artículo 63.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005 [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654) y corrección de erratas publicada en BOE núm. 248, de 17 de octubre de 2005. [Ref. BOE-A-2005-17112](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17112)
+
+**Artículo 61. Ámbito funcional de las actuaciones comprobatorias de los técnicos habilitados y principios generales de actuación.**
+
+1\. Las funciones de comprobación y control en las empresas y centros de trabajo estarán referidas a las condiciones de trabajo materiales o técnicas de seguridad y salud, conforme al artículo 9.3 de la Ley 31/1995, de 8 de noviembre, y serán las siguientes:
+
+a) Las características de los locales e instalaciones, así como las de los equipos, herramientas, productos o substancias existentes en el centro de trabajo.
+
+b) La naturaleza de los agentes físicos, químicos y biológicos presentes en el ambiente de trabajo y sus correspondientes intensidades, concentraciones o niveles de presencia.
+
+c) Los procedimientos para la utilización de los agentes citados anteriormente que influyan en la generación de riesgos para la seguridad o salud de los trabajadores.
+
+d) Las características y utilización de los equipos de protección, tanto colectiva como individual.
+
+e) La realización de los reconocimientos médicos y su adecuación a los protocolos sanitarios específicos de vigilancia de la salud, establecidos en el artículo 37.3.c) del Reglamento de los servicios de prevención, aprobado por el Real Decreto 39/1997, de 17 de enero.
+
+f) La adaptación de los puestos de trabajo a las exigencias de naturaleza ergonómica.
+
+2\. Dichos técnicos habilitados, en el ejercicio de tales funciones comprobatorias, actuarán bajo el principio de trabajo programado, establecido en el artículo 19.1 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social, y conforme a los planes y programas comunes establecidos por la correspondiente comisión territorial de inspección o del grupo de trabajo específico que ésta establezca al efecto.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654)
+
+#### CAPÍTULO II — Facultades y deberes de los técnicos habilitados
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+**Artículo 62. Facultades de los técnicos habilitados.**
+
+1\. Los técnicos habilitados, en el ejercicio de las actuaciones de comprobación y control de las condiciones materiales o técnicas de seguridad y salud a las que se refiere el artículo anterior, y en su condición de colaboradores con la Inspección de Trabajo y Seguridad Social, están facultados para:
+
+a) Entrar libremente y sin previo aviso en las empresas y centros de trabajo sujetos a dichas actuaciones, en los cuales podrán permanecer, sin perjuicio de la inviolabilidad del domicilio.
+
+b) Hacerse acompañar durante las visitas por los peritos y técnicos de la empresa o habilitados oficialmente que estime necesarios para el mejor desarrollo de su actuación, Todo ello sin perjuicio del cumplimento de la obligación establecida en el artículo 63.2.b).
+
+c) Proceder a practicar cualquier comprobación o realización de examen, medición o prueba que considere necesarios a tales fines.
+
+d) Recabar información adicional o documental sobre cualquier condición material o técnica sujeta a comprobación.
+
+e) Obtener información del empresario o del personal de la empresa sobre cualquier asunto relacionado con la comprobación de condiciones materiales o técnicas.
+
+f) Exigir la comparecencia del empresario, de sus representantes y encargados, de los trabajadores o de sus representantes, tanto en el centro de trabajo sujeto a comprobación como en la oficina sede del organismo público al que el técnico acreditado esté adscrito, así como exigir, en su caso, la identificación y acreditación de la representación con la que actúan.
+
+g) Examinar en el centro de trabajo, o en la oficina pública correspondiente, la documentación, memorias e informes técnicos relacionados con las condiciones materiales y de seguridad, así como sobre la organización preventiva, el plan de prevención, la evaluación de riesgos, la planificación preventiva y demás cuestiones relativas a la gestión de la prevención, en tanto en cuanto se relacionan con las condiciones materiales y técnicas sujetas a comprobación.
+
+h) Sacar muestras de sustancias, agentes y materiales utilizados o manipulados en establecimiento, realizar mediciones, obtener fotografías, vídeos, grabación de imágenes y levantar croquis y planos siempre que se notifique al empresario o su representante, y obtener copias y extractos de los documentos a que se refiere el párrafo anterior.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654) y corrección de erratas publicada en BOE núm. 248, de 17 de octubre de 2005. [Ref. BOE-A-2005-17112](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17112)
+
+**Artículo 63. Deberes de los técnicos habilitados.**
+
+1\. Los técnicos habilitados, en el ejercicio de las actuaciones de comprobación y control de las condiciones materiales o técnicas de seguridad y salud a las que se refiere el artículo anterior:
+
+a) Requerirán al empresario la adopción de medidas para la subsanación de las deficiencias observadas con los mismos requisitos que establece el artículo 43 de la Ley 31/1995, 8 de noviembre, de Prevención de Riesgos Laborales.
+
+b) En el caso de que en el curso de la visita se aprecie la existencia de un riesgo grave e inminente, deberá practicar el requerimiento pertinente para su cumplimiento inmediato por el empresario y, en el caso de que no se adopten o puedan adoptarse puntualmente por el empresario las medidas para su pronta subsanación a lo largo de la visita, deberá ponerse tal circunstancia urgentemente en conocimiento de la Inspección de Trabajo y Seguridad Social para que por ésta se adopten las medidas de paralización o cautelares correspondientes. En estos casos el inspector a quien se asigne el servicio correspondiente podrá recabar del técnico habilitado actuante el asesoramiento técnico y la colaboración pericial a que se refiere el artículo 64.3, el cual deberá acompañar al inspector actuante en las visitas o comprobaciones posteriores que se realicen, cuando así se requiera.
+
+2\. Los técnicos habilitados, en el ejercicio de las actuaciones de comprobación y control de las condiciones materiales o técnicas de seguridad y salud a las que se refiere el artículo anterior, deberán:
+
+a) Observar la máxima corrección en sus actuaciones y procurar perturbar en la menor medida posible el desarrollo de las actividades de las empresas sometidas a comprobación.
+
+b) Comunicar su presencia al empresario, a su representante, a los trabajadores designados o técnicos del servicio de prevención de la empresa y a los delegados de prevención en los términos previstos en el artículo 40.2 de la Ley 31/1995, 8 de noviembre, para que puedan acompañarle en sus visitas y formular las observaciones que consideren necesarias.
+
+c) Informar a los delegados de prevención y al empresario sobre los resultados de sus visitas, en los términos previstos en el artículo 40.3 de la Ley 31/1995, de 8 de noviembre.
+
+d) Guardar secreto respecto de los asuntos que conozca como consecuencia de su actuación, así como sobre los datos, informes y demás antecedentes de los que hubieren tenido conocimiento en el desempeño de sus funciones, en los términos previstos en el artículo 10.
+
+3\. En todo caso, dichos funcionarios estarán afectados por el régimen general de incompatibilidades de la función pública y no podrán tener interés directo ni indirecto en empresas o grupos empresariales objeto de su actuación, ni asesorar o defender a título privado a personas físicas o jurídicas susceptibles de la acción inspectora, y deberán abstenerse de intervenir en actuaciones comprobatorias si concurre cualquiera de los motivos del artículo 28 de la Ley 30/1992, de 26 de noviembre. La abstención y recusación de funcionarios a que se refieren los artículos 28 y 29 de la citada ley se tramitarán y resolverán conforme a la normativa en su respectiva Comunidad Autónoma.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654) y corrección de erratas publicada en BOE núm. 248, de 17 de octubre de 2005. [Ref. BOE-A-2005-17112](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17112)
+
+#### CAPÍTULO III — Actuaciones de los técnicos habilitados
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+**Artículo 64. Modalidades y formas de actuación de los técnicos habilitados.**
+
+1\. Las actuaciones de los técnicos habilitados se desarrollarán, en el marco de los programas establecidos por la respectiva Comisión Territorial de la Inspección de Trabajo y Seguridad Social conforme a lo previsto en el artículo 61.2, mediante visita a los centros y lugares de trabajo, con la personación del referido técnico en dichos centros y lugares, y podrán efectuarse por un único técnico habilitado o conjuntamente por más de uno, en función de la planificación establecida. Dado el carácter programado de las actuaciones de los técnicos habilitados, no les serán exigibles otras actuaciones al margen de los servicios encomendados, salvo si, en el curso de la visita, hubiese una evidencia manifiesta de un riesgo grave e inminente para la seguridad y salud de los trabajadores; en tal caso, se procederá conforme a lo previsto en el artículo 63.1.b).
+
+2\. Cuando, iniciadas las actuaciones mediante visita, no sea posible o no tenga objeto su continuidad en el propio centro visitado, por ser necesaria la realización de determinadas comprobaciones de carácter documental, podrá continuarse la actuación mediante la comparecencia de los sujetos obligados ante el técnico actuante, en las oficinas públicas donde aquel esté adscrito. A tal efecto, podrá requerir tal personación por escrito, con ocasión de la visita o por cualquier otra forma de notificación válida, y la aportación documental necesaria en soporte papel o en soporte informático siempre que resultase técnicamente posible.
+
+3\. Con independencia de la actuación a que se refieren los artículos anteriores, los funcionarios habilitados seguirán prestando asesoramiento técnico y colaboración pericial a la Inspección de Trabajo y Seguridad Social, conforme a lo previsto en el artículo 9.2 de la Ley 31/1995, de 8 de noviembre, y en los términos desarrollados, en su caso, por el correspondiente acuerdo bilateral al que se refiere el artículo 17 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social, respecto de actuaciones no programadas, mediante la emisión de informes técnicos sobre los asuntos y actuaciones concretas que los inspectores tengan señalados, debiendo acompañar a éstos, cuando así lo soliciten, en la realización de sus visitas o comprobaciones. En este caso, la dirección técnica y funcional de las actuaciones y la práctica de requerimientos, en su caso, o la adopción de otras medidas corresponderá al Inspector de Trabajo y Seguridad Social actuante, y no procederá la extensión de actas de infracción por expediente administrativo en virtud de tales informes, sino como consecuencia de la actividad desplegada por el propio inspector.
+
+4\. Cuando se trate de actuaciones que afecten a centros de trabajo de la Administración General del Estado, o a otros centros de las Administraciones públicas sometidos al procedimiento administrativo especial de actuación de la Inspección de Trabajo y Seguridad Social, previsto en el Reglamento sobre el procedimiento administrativo especial de actuación de la Inspección de Trabajo y Seguridad Social y para la imposición de medidas correctoras de incumplimientos en materia de prevención de riesgos laborales en el ámbito de la Administración General del Estado, aprobado por el Real Decreto 707/2002, de 19 de julio, la forma ordinaria de actuación de los técnicos habilitados será la prevista en el apartado anterior. No obstante, cuando se trate de centros o lugares de trabajo de una Comunidad Autónoma, y por esta se haya previsto, mediante normativa propia, un procedimiento distinto respecto del personal civil a su servicio, conforme a lo establecido en la disposición adicional segunda del referido reglamento, en la redacción dada por el Real Decreto 464/2003, de 25 de abril, se estará a lo que se disponga en dicha normativa.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 248, de 17 de octubre de 2005. [Ref. BOE-A-2005-17112](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17112)
+
+**Artículo 65. Informes remitidos a la Inspección de Trabajo y Seguridad Social como consecuencia de la actividad de comprobación y requerimiento realizada por los técnicos habilitados.**
+
+1\. Los informes de los técnicos habilitados, en los supuestos a que se refiere el artículo 9.3 de la Ley 31/1995, 8 de noviembre, de Prevención de Riesgos Laborales, cuando se constate el incumplimiento de un requerimiento previamente formulado por aquéllos, darán lugar a la práctica de actas de infracción, que serán extendidas por Inspectores de Trabajo y Seguridad Social, si resultara procedente.
+
+2\. A estos efectos, los informes de los citados técnicos habilitados, cuando de ellos se deduzca la existencia de infracción en materia de prevención de riesgos laborales, habrán de reflejar necesariamente:
+
+a) La identificación del funcionario actuante y la reseña de su habilitación.
+
+b) Nombre y apellidos o razón social, domicilio, actividad, documento nacional de identidad o número de identificación fiscal del empresario o empresarios que hubieren incumplido el requerimiento previo del funcionario.
+
+c) La fecha de la primera visita y la del requerimiento de subsanación de las deficiencias observadas, así como la fecha de la segunda o ulterior visita en que haya comprobado el incumplimiento de aquel requerimiento.
+
+d) Los hechos y circunstancias relativos a las deficiencias detectadas en las condiciones materiales o técnicas de seguridad o salud comprobadas en la empresa o centro de trabajo conforme al artículo 61, así como el contenido del requerimiento para la subsanación y los términos en que el funcionario actuante estime incumplido dicho requerimiento. Estos hechos gozarán de la presunción de certeza en los términos previstos en el artículo 9.3 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+e) Los medios utilizados por dichos funcionarios en su comprobación y, en su caso, las pruebas de que disponga.
+
+3\. Igualmente podrán informar, de forma separada y como observaciones, de otros hechos y circunstancias que afecten a la materia de prevención de riesgos laborales pero no estén incluidos en el ámbito funcional de las actuaciones comprobatorias a las que se refiere el artículo 61, respecto a las que no procederá la extensión del acta de infracción por expediente administrativo a que se refiere el apartado 7 de este artículo, si bien podrán dar lugar a la realización de actuaciones inspectoras, en ejercicio de sus facultades de comprobación, de conformidad con lo establecido en el referido apartado.
+
+4\. El informe se remitirá por vía telemática a la Jefatura de la Inspección de Trabajo y Seguridad Social correspondiente en el plazo máximo de veinte días desde la fecha en que se comprobó el incumplimiento del requerimiento efectuado, sin perjuicio del envío en la misma fecha del expediente completo, en el que, además del citado informe, se incluirá la documentación acreditativa de los datos, hechos y circunstancias incluidos en él, así como los informes, observaciones previas o mediciones de contraste que haya podido aportar la empresa.
+
+5\. Si el inspector de trabajo y seguridad social considerara que el relato de hechos contenido en el informe no es constitutivo de infracción o es insuficiente a los efectos sancionadores, si apreciara la ausencia o deficiencia de algún otro extremo de los citados anteriormente, en el plazo máximo de veinte días a partir de la recepción del informe recabará del funcionario actuante su subsanación o ampliación. Procederá el archivo del expediente si no se remitiese el informe complementario de subsanación en el plazo de quince días hábiles desde su recepción, sin perjuicio de nuevas comprobaciones.
+
+6\. En el caso de solicitarse por la Inspección de Trabajo y Seguridad Social un informe ampliatorio de subsanación de deficiencias, podrá comunicarse simultáneamente tal circunstancia al sujeto presuntamente responsable a los efectos de que por éste puedan igualmente realizarse las aclaraciones pertinentes o aportar la documentación que se señale en cada caso sobre las cuestiones que permitan finalizar las actuaciones. En este caso, el plazo a que se refiere el artículo 17.1 se entenderá ampliado por el tiempo de dilación imputable al sujeto inspeccionado, e interrumpido el plazo de tres meses al que se refiere el apartado 3 del referido artículo 17.
+
+7\. Una vez completado el expediente mediante la recepción del informe complementario del técnico habilitado o, en su caso, de las aclaraciones pertinentes efectuadas por el sujeto presuntamente responsable, o transcurrido el plazo para su emisión, el inspector de trabajo y seguridad social actuante extenderá acta de infracción si lo considera procedente o bien dispondrá el archivo del expediente de forma motivada y lo comunicará al órgano del que dependa el funcionario técnico que remitió el informe, con devolución de los antecedentes, o bien asumirá hasta su conclusión la realización de actuaciones inspectoras, conforme a sus propias facultades comprobatorias, mediante la práctica de visita al centro o lugar de trabajo afectado, o mediante comparecencia de los sujetos presuntamente responsables.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654) y corrección de erratas publicada en BOE núm. 248, de 17 de octubre de 2005. [Ref. BOE-A-2005-17112](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17112)
+
+**Artículo 66. Actos de obstrucción a los técnicos habilitados.**
+
+Si los técnicos habilitados a los que se refiere este título se vieran impedidos o perturbados en el ejercicio de sus funciones de comprobación, además de cumplimentar los datos identificativos establecidos en los párrafos a) y b) del artículo 65.2, así como de la fecha de la visita o de la actuación comprobatoria, en el informe que se emita se relatará sucinta y suficientemente la obstrucción padecida, y se sujetarán los plazos de informe, subsanación o ampliación y de práctica de las actas de infracción a lo establecido en el artículo anterior.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654)
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 248, de 17 de octubre de 2005. [Ref. BOE-A-2005-17112](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-17112)
+
+**Artículo 67. Duración de las actuaciones.**
+
+1\. Las actuaciones de los técnicos habilitados estarán sujetas a los plazos establecidos en el artículo 14.2 de la Ley 42/1997, de 14 de noviembre, ordenadora de la Inspección de Trabajo y Seguridad Social.
+
+2\. Si las actuaciones comprobatorias culminaran posteriormente en la extensión por un inspector de trabajo y seguridad social de un acta de infracción por expediente administrativo basándose en el informe emitido por los técnicos habilitados a los que se refiere este título, el cómputo de los plazos previstos en el artículo 17.2, a los efectos de la extensión de dichas actas, se iniciará a partir de la fecha en que dicho técnico comprobó e hizo constar, mediante diligencia en el libro de visitas u otro documento análogo, el incumplimiento del requerimiento previamente efectuado.
+
+3\. En aquellos supuestos en que, tras el envío del informe del técnico habilitado, el inspector actuante decida desarrollar actuaciones propias conforme a las facultades inspectoras que tiene atribuidas, se entenderá que se trata de nuevas actuaciones, y respecto de éstas se aplicarán las reglas generales sobre cómputo de los plazos establecidas en el artículo 17.2. En este caso, las comprobaciones previas efectuadas por los técnicos habilitados tendrán carácter de antecedente únicamente a los efectos de los hechos descritos en el informe.
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654)
+
+**Artículo 68. Constancia documental de las actuaciones y requerimientos realizados por los técnicos habilitados.**
+
+Los requerimientos de subsanación de los técnicos habilitados a los que se refiere este título, en el ejercicio de sus funciones de apoyo y colaboración con la Inspección de Trabajo y Seguridad Social, se formularán por escrito conforme a lo previsto en el artículo 43.2 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y podrán reflejarse mediante diligencia en el libro de visitas de la Inspección de Trabajo y Seguridad Social, o a través de un documento oficial sustitutivo, en el que quede constancia de su recepción, y contendrá los datos adecuados a su finalidad y el plazo de subsanación.
+
+Igualmente, las visitas de comprobación de las condiciones materiales y técnicas de seguridad o salud que se realicen sin que den lugar a requerimiento, en su condición de técnicos habilitados, podrán quedar reflejadas en el citado libro de visitas.
+
+En todo caso, en las diligencias referidas junto a la identidad del funcionario actuante, se hará constar la mención "Técnico habilitado (artículo 9.2 y 3 y disposición adicional decimoquinta de la Ley 31/1995, de 8 de noviembre)".»
+
+> Se añade por el art. 1 del Real Decreto 689/2005, de 10 de junio. [Ref. BOE-A-2005-10624](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-10624)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 205, de 27 de agosto de 2005. [Ref. BOE-A-2005-14654](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-14654)
+
+**Disposición adicional primera. La Unidad de Alta Inspección del Estado.**
+
+Las funciones de alta inspección del Estado en materia de ejecución de la legislación laboral y de Seguridad Social, reconocidas en los Estatutos de Autonomía, excepto las relativas a la asistencia sanitaria que corresponderán al órgano competente en dicha materia, se desarrollarán a través de la Unidad Especial de Inspectores de Trabajo y Seguridad Social que, a tales efectos, dependerá directamente del Ministro de Trabajo y Asuntos Sociales. Dicha unidad especial contará con los medios necesarios para sus cometidos, adscribiéndosele inspectores de Trabajo y Seguridad Social con acreditada experiencia y preparación.
+
+**Disposición adicional segunda. Carácter de los órganos colegiados.**
+
+Los miembros de los distintos órganos colegiados regulados en el presente Reglamento, actuarán por razón del cargo sin retribución complementaria alguna.
+
+**Disposición adicional tercera. Comunidades Autónomas que han asumido la función pública inspectora.**
+
+Las referencias a cuestiones organizativas contenidas en el presente Reglamento se entenderán sin perjuicio de las competencias y facultades en materia de organización que corresponden a las Comunidades Autónomas que han asumido el traspaso de la función pública inspectora respecto del personal que tengan adscrito orgánicamente.
+
+> Se añade por el art. 1.9 del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853)
+
+**Disposición adicional cuarta. Colaboración entre el Organismo Estatal Inspección de Trabajo y Seguridad Social y las comunidades autónomas.**
+
+1\. El Organismo Estatal Inspección de Trabajo y Seguridad Social y las comunidades autónomas podrán articular mediante un convenio la colaboración entre el citado Organismo y las autoridades autonómicas competentes para tramitar y resolver actuaciones inspectoras o procedimientos iniciados por la Inspección de Trabajo y Seguridad Social que dispongan de sus propios Registros Electrónicos de Apoderamientos. Las comunidades autónomas podrán adherirse a las aplicaciones informáticas desarrolladas por el Organismo Estatal Inspección de Trabajo y Seguridad Social como soporte tecnológico de sus propios Registros Electrónicos de Apoderamientos.
+
+2\. En el caso de que las comunidades autónomas dispongan de aplicaciones informáticas propias dirigidas a la tramitación de los procedimientos sancionadores iniciados por la Inspección de Trabajo y Seguridad Social cuya competencia para resolver ostenten, mediante convenio de colaboración entre el Organismo Estatal Inspección de Trabajo y Seguridad Social y las comunidades autónomas se garantizará la transmisión recíproca de información y datos relativos a los mencionados procedimientos sancionadores.
+
+> Se añade, con efectos de 6 de marzo de 2024, por el art. 2.3 del Real Decreto 1011/2023, de 5 de diciembre. [Ref. BOE-A-2023-24844](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-24844)
+
+> Información relacionada
+
+> Las referencias efectuadas en este Reglamento al Cuerpo de Subinspectores de Empleo y Seguridad Social, y, en su caso, a los funcionarios que lo integran, se entenderán hechas al Cuerpo de Subinspectores Laborales en sus dos escalas, y, en su caso, a los funcionarios que lo integran, según se establece en la disposición adicional única del Real Decreto 1078/2017, de 29 de diciembre. [Ref. BOE-A-2017-15853](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15853). No obstante, las referencias que sean relativas a la función encomendada a los Subinspectores de Empleo y Seguridad Social, sus facultades y medidas derivadas de su actuación, se entenderán hechas a la Escala de Empleo y Seguridad Social del Cuerpo de Subinspectores Laborales.

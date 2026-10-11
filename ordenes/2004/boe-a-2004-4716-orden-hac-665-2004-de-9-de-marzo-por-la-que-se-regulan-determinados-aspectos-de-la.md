@@ -1,0 +1,131 @@
+---
+title: "Orden HAC/665/2004, de 9 de marzo, por la que se regulan determinados aspectos de la gestión recaudatoria de los ingresos de IVA de operadores extracomunitarios que prestan servicios por vía electrónica a consumidores finales y se modifica la Orden de 27 de diciembre de 1991, por la que se dictan instrucciones acerca del régimen económico financiero de la Agencia Estatal de Administración Tributaria"
+identifier: "BOE-A-2004-4716"
+eli: "https://www.boe.es/eli/es/o/2004/03/09/hac665"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2004-03-09
+published: 2004-03-15
+in_force_from: 2004-03-16
+last_amended: 2022-07-01
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 64"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4716"
+retrieved: 2026-10-11
+---
+
+# Orden HAC/665/2004, de 9 de marzo, por la que se regulan determinados aspectos de la gestión recaudatoria de los ingresos de IVA de operadores extracomunitarios que prestan servicios por vía electrónica a consumidores finales y se modifica la Orden de 27 de diciembre de 1991, por la que se dictan instrucciones acerca del régimen económico financiero de la Agencia Estatal de Administración Tributaria
+
+Esta norma pasa a denominarse **"Orden HAC/665/2004, de 9 de marzo, por la que se regulan determinados aspectos de la gestión recaudatoria del IVA correspondiente a los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, y se modifica la Orden de 27 de diciembre de 1991, por la que se dictan instrucciones acerca del régimen económico financiero de la Agencia Estatal de Administración Tributaria"**, según establece el art. único.1 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+La Ley 53/2002, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social ha introducido un nuevo capítulo VIII dentro del Título IX de la Ley 37/1992 de 28 de diciembre, del Impuesto sobre el Valor Añadido efectuando la transposición a nuestro ordenamiento interno de la Directiva 2002/38/CE del Consejo de 7 de mayo de 2002, relativa al régimen del Impuesto sobre el Valor Añadido aplicable a los servicios de radiodifusión y televisión y a algunos servicios prestados por vía electrónica. Dicha Directiva ha regulado el fenómeno de los servicios electrónicos, en lo que se refiere al Impuesto sobre el Valor Añadido, introduciendo un nuevo régimen especial de dicho tributo, al que podrán acogerse los empresarios y profesionales no establecidos en la Unión Europea que vayan a prestar específicamente los servicios a que se refiere la Directiva.
+
+La Orden HAC/1736/2003, de 24 de junio, ha establecido los procedimientos para el cumplimiento de las obligaciones formales y materiales que se derivan del citado régimen especial, aplicable a empresarios y profesionales no establecidos en la Unión Europea y que no tengan la obligación de estar identificados en la Comunidad.
+
+De acuerdo con el procedimiento previsto en la citada Orden, los prestadores de servicios electrónicos que elijan el Reino de España como Estado miembro de identificación y a los que se haya asignado el número de operador no establecido a que se refiere el párrafo tercero de la letra a) del apartado uno del artículo 163 ter de la Ley 37/1992, deberán presentar una declaración-liquidación del Impuesto sobre el Valor Añadido por cada trimestre natural. La declaración comprenderá, por cada Estado miembro de consumo en que se haya devengado el Impuesto, el importe total, excluido el propio Impuesto sobre el Valor Añadido, de la contraprestación correspondiente a los servicios prestados por vía electrónica durante el periodo a que se refiere la declaración, la cantidad global del impuesto correspondiente a cada Estado miembro y el importe total, resultante de la suma de todas estas, que debe ser ingresado en España.
+
+En consecuencia el Estado receptor de las declaraciones-liquidaciones y los ingresos derivados de las mismas, debe proceder, en los plazos señalados en la Directiva, a efectuar a cada uno de los demás Estados miembros el pago del importe correspondiente al Impuesto sobre el Valor Añadido devengado en ellos.
+
+De conformidad con la previsión contenida en el artículo 74.2 c) del Real Decreto 1684/1990, de 20 de diciembre, por el que se aprueba el Reglamento General de Recaudación procede establecer el procedimiento y lugar para la realización de los ingresos señalados procedentes de los sujetos pasivos que se hayan identificado en España y los procedentes de otros Estados miembros como consecuencia de los importes ingresados en los mismos y devengados en España, así como los pagos que sean procedentes a favor de otros Estados miembros por los importes ingresados en España y devengados en dichos Estados.
+
+En consecuencia resulta procedente modificar la Orden del Ministerio de Economía y Hacienda de 27 de diciembre de 1991 por la que se dictan instrucciones acerca del régimen económico financiero de la A.E.A.T. en el sentido de incorporar el procedimiento a seguir en la gestión recaudatoria por cuenta de otros Estados miembros de la Comunidad Europea referente a ingresos de IVA de operadores extracomunitarios que prestan servicios por vía electrónica a consumidores finales.
+
+En su virtud, este Ministerio ha tenido a bien disponer:
+
+## Primero. Ámbito de aplicación.
+
+Lo dispuesto en la presente orden se aplicará:
+
+A los ingresos del Impuesto sobre el Valor Añadido relativos a los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios que, realizados en las Haciendas Forales por operadores radicados en su territorio, deban ser transferidos por aquellas a la Hacienda estatal.
+
+A los ingresos realizados por los demás Estados de la Unión Europea en concepto de Impuesto sobre el Valor Añadido, correspondientes a los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, cuando dichos ingresos se recauden en dichos Estados y el tributo se hubiera devengado en España.
+
+No obstante lo dispuesto en esta Orden, los términos y condiciones aplicables a la apertura y mantenimiento de cuentas en el Banco de España serán los que se determinen en acuerdo suscrito por el Banco de España con la Agencia Estatal de Administración Tributaria, de conformidad con lo establecido en los artículos 13 de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España y 108 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+> Se modifica por el art. único.2 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+## Segundo. Procedimiento de ingreso.
+
+1\. Apertura de Cuentas Restringidas. Los citados ingresos se realizarán a través de cuentas restringidas abiertas en el Banco de España, de conformidad con los términos y condiciones acordados con el mismo.
+
+2\. Cuentas Restringidas en el Banco de España. Se mantendrán en el Banco de España dos cuentas restringidas de ámbito nacional:
+
+a) Tesoro Público, cuenta restringida de IVA. Regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios. Ingresos de las Haciendas Forales.
+
+b) Tesoro Público, cuenta restringida de IVA. Regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios. Ingresos de otros Estados de la Unión Europea.
+
+La codificación de ambas cuentas se ajustará al código IBAN (Número internacional de cuenta bancaria) con la siguiente estructura:
+
+Dos dígitos. Identificador del país.
+
+Dos dígitos de control.
+
+Cuatro dígitos para el código del Banco de España.
+
+Cuatro dígitos para el código de la oficina.
+
+Dos dígitos de control.
+
+Diez dígitos para el número de cuenta.
+
+Se asignará a cada una de las cuentas el NIF de la Agencia Estatal de Administración Tributaria.
+
+3\. Realización de ingresos por las Haciendas Forales. Las Haciendas Forales realizarán los ingresos recibidos en su ámbito por operadores radicados en su territorio mediante transferencia bancaria a la cuenta mantenida en el Banco de España mencionada en el apartado 2.a) anterior.
+
+4\. Realización de ingresos por otros Estados miembros de la Unión Europea. Los ingresos realizados por los demás Estados de la Unión Europea en concepto de Impuesto sobre el Valor Añadido devengado en España, correspondiente a los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, se efectuarán mediante transferencia bancaria a la cuenta mantenida en el Banco de España citada en el apartado 2.b) anterior.
+
+> Se modifica por el art. único.3 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+## Tercero. Ingreso en la cuenta corriente correspondiente del Tesoro Público en el Banco de España.
+
+El ingreso en la cuenta corriente correspondiente del Tesoro Público de los importes recaudados en cada una de las cuentas citadas se llevará a cabo según lo acordado con el Banco de España.
+
+Tomando como base la información sobre ingresos del día en la cuenta corriente correspondiente del Tesoro Público, la Intervención Delegada en la Dirección General del Tesoro y Política Financiera confeccionará una hoja de arqueo contable, que deberá remitir el mismo día al Servicio de Gestión Económica de la Agencia Estatal de Administración Tributaria.
+
+> Se modifica por el art. único.4 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+## Cuarto. Aportación de la información de detalle de los ingresos por el Banco de España.
+
+1\. Plazo y forma de la información de detalle. El plazo y la forma de remisión de la información de detalle de los ingresos en la cuenta corriente correspondiente del Tesoro Público serán los que se acuerden con el Banco de España.
+
+2\. Validación. El Departamento de Informática Tributaria de la Agencia Estatal de Administración Tributaria efectuará un proceso de validación de los datos suministrados procediendo a efectuar el cuadre de cada uno de los ingresos recibidos en el día en la cuenta corriente correspondiente del Tesoro Público con el importe total de cada una de las relaciones de detalle.
+
+Se procederá igualmente a validar la información de detalle a fin de verificar su adecuación a las especificaciones establecidas comunicándose al Banco de España cualquier anomalía detectada.
+
+3\. Incidencias en las operaciones de ingreso en el Banco de España. En el caso de que existan diferencias entre el importe ingresado en la cuenta corriente correspondiente del Tesoro Público por cada una de las cuentas restringidas y la correspondiente información de detalle, el Departamento de Recaudación de la Agencia Estatal de Administración Tributaria lo comunicará al Banco de España.
+
+> Se modifica por el art. único.5 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+## Disposición adicional única. Procedimiento de liquidación y pago a favor de otros Estados miembros de la Unión Europea.
+
+Se incorpora un nuevo apartado a la Orden del Ministerio de Economía y Hacienda, de 27 de diciembre de 1991, por la que se dictan instrucciones acerca del régimen económico-financiero de la Agencia Estatal de Administración Tributaria, con la siguiente redacción:
+
+**Tercero ter. Gestión recaudatoria por cuenta de otros Estados miembros de la Unión Europea referente a ingresos de IVA correspondientes a los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.**
+
+a) La Agencia Estatal de Administración Tributaria realizará el pago de las cantidades que resulten a favor de otros Estados miembros de la Unión Europea, como consecuencia de la recaudación recibida en concepto de ingresos de IVA por los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.
+
+b) A tal fin, a solicitud de la Agencia Estatal de Administración Tributaria, la Dirección General del Tesoro y Política Financiera ordenará el pago a la cuenta que al efecto señale la Agencia Estatal de Administración Tributaria mantenida en el Banco de España, por el importe total de las cantidades recaudadas líquidas en concepto de ingresos de IVA de los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, devengados en Estados de la Unión Europea distintos de España y anotados en el correspondiente concepto no presupuestario del Sistema de Información Contable de la Administración General del Estado.
+
+c) Efectuada la transferencia indicada en el párrafo anterior y, en el plazo legalmente previsto, el Servicio de Gestión Económica de la Agencia Estatal de Administración Tributaria, a propuesta del Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria, ordenará el pago del importe correspondiente a cada Estado de los ingresos obtenidos en concepto de IVA de los regímenes especiales aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios.
+
+El pago a cada Estado se efectuará mediante transferencia a la cuenta que el mismo haya comunicado a tales efectos de conformidad con el artículo 47 octies del Reglamento (UE) n.º 904/2010 del Consejo, de 7 de octubre de 2010, relativo a la cooperación administrativa y la lucha contra el fraude en el ámbito del IVA, y por el importe exacto ordenado. Cualquier gasto derivado de las transferencias efectuadas será soportado por la Dirección General del Tesoro y Política Financiera.
+
+> Se modifica por el art. único.6 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)
+
+## Disposición final. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 9 de marzo de 2004.
+
+MONTORO ROMERO
+
+## ANEXO I
+
+**(Suprimido)**
+
+> Se suprime por el art. único.7 de la Orden HFP/603/2022, de 30 de junio. [Ref. BOE-A-2022-10853](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-10853)

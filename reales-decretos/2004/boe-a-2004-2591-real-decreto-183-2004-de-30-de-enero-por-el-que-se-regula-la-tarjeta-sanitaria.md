@@ -1,0 +1,405 @@
+---
+title: "Real Decreto 183/2004, de 30 de enero, por el que se regula la tarjeta sanitaria individual"
+identifier: "BOE-A-2004-2591"
+eli: "https://www.boe.es/eli/es/rd/2004/01/30/183"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2004-01-30
+published: 2004-02-12
+in_force_from: 2004-02-13
+last_amended: 2024-09-18
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 37"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-2591"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 183/2004, de 30 de enero, por el que se regula la tarjeta sanitaria individual
+
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, establece, en su artículo 57, que el acceso de los ciudadanos a las prestaciones de la atención sanitaria que proporciona el Sistema Nacional de Salud se facilitará a través de la tarjeta sanitaria individual, como documento administrativo que acredita determinados datos de su titular. Del mismo modo, la ley establece que, sin perjuicio de su gestión en el ámbito territorial respectivo por cada comunidad autónoma, las tarjetas incluirán, de manera normalizada, los datos básicos de identificación del titular de la tarjeta, del derecho que le asiste en relación con la prestación farmacéutica y del servicio de salud o entidad responsable de la asistencia sanitaria. Los dispositivos que las tarjetas incorporen para almacenar la información básica y las aplicaciones que la traten deberán permitir que la lectura y comprobación de los datos sea técnicamente posible en todo el territorio del Estado.
+
+Por otra parte, y con el objetivo de poder identificar de forma segura y unívoca a cada ciudadano, la ley encomienda al Ministerio de Sanidad y Consumo la generación de un código de identificación personal único para el Sistema Nacional de Salud, mediante el desarrollo de una base datos que recoja la información básica de usuarios del Sistema Nacional de Salud, de tal manera que los servicios de salud dispongan de un servicio de intercambio de información sobre la población protegida, mantenido y actualizado por los propios integrantes del sistema.
+
+Para dar cumplimiento a las previsiones legales es necesario abordar, en primer lugar, los aspectos relativos a la emisión de la tarjeta por parte de las Administraciones sanitarias, como elemento necesario para acceder a los servicios en el conjunto del Sistema Nacional de Salud.
+
+Del mismo modo, debe normalizarse la información mínima que la tarjeta ha de suministrar acerca de los ciudadanos, a través de la incorporación de un conjunto básico común de datos en todas las tarjetas sanitarias emitidas.
+
+Con el fin de minimizar los costes de transición y posibilitar el desarrollo y adecuación técnica de las nuevas tarjetas sanitarias, se prevé la sustitución de las actuales a medida que éstas vayan caducando, estableciéndose, además, un plazo para la preparación de los requerimientos necesarios para el inicio de su sustitución.
+
+El real decreto aborda también la regulación del código de identificación personal que establece la Ley 16/2003, de 28 de mayo, que será único a lo largo de la vida de la persona. Ello facilitará, entre otros aspectos, la búsqueda y consulta de la información clínica de cada paciente, posibilitando el intercambio de dicha información dentro del Sistema Nacional de Salud en las condiciones legalmente permitidas y siempre con la finalidad de contribuir a la mejora de la calidad asistencial.
+
+De igual forma, es necesario regular el funcionamiento de la base de datos de población protegida del Sistema Nacional de Salud, que tiene como objetivo fundamental la generación de este código de identificación personal con la mayor certidumbre posible de su carácter único.
+
+La base de datos se concibe como un sistema de intercambio de información sobre la población protegida entre las Administraciones sanitarias, con el fin de mantener la coherencia de los datos de aseguramiento y ser fuente fiable para la gestión de las políticas de cohesión sanitaria. Es también preciso establecer los aspectos de seguridad y acceso a la información y la cesión de datos.
+
+Por último, es necesario incorporar a este mismo sistema a todos aquellos colectivos cuya cobertura sanitaria se financia públicamente y que están incluidos en regímenes especiales a través del mutualismo administrativo. Con ello se logrará la correcta ordenación de las situaciones y se colocará a todos los asegurados en pie de igualdad respecto a las utilidades que proporciona el sistema de intercambio de información sobre población protegida del Sistema Nacional de Salud.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de enero de 2004,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este real decreto regula, en desarrollo del artículo 57 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, la emisión y validez de la tarjeta sanitaria individual, los datos básicos comunes que de forma normalizada deberán incorporar, el código de identificación personal del Sistema Nacional de Salud y la base de datos de población protegida de dicho sistema.
+
+## Artículo 2. Emisión y validez de la tarjeta sanitaria individual.
+
+1\. Las administraciones sanitarias competentes emitirán una tarjeta sanitaria individual a las personas residentes en su ámbito territorial que tengan acreditado el derecho a la asistencia sanitaria pública. Las administraciones sanitarias podrán emitir dicho documento utilizando únicamente soporte físico o utilizando soporte físico y soporte virtual. Cuando la tarjeta sanitaria individual se emita en ambos soportes, físico y virtual, la emitida en soporte virtual podrá sustituir a la tarjeta sanitaria en soporte físico, siempre que la persona titular exprese su conformidad.
+
+2\. La tarjeta sanitaria individual emitida tanto en soporte físico como virtual por cualquiera de las administraciones sanitarias competentes será válida en todo el Sistema Nacional de Salud y permitirá el acceso a los centros y servicios sanitarios del sistema en los términos previstos por la legislación vigente.
+
+3\. La tarjeta sanitaria individual tendrá la misma validez con independencia de su emisión en soporte físico o virtual.
+
+> Se modifica por el art. único.1 del Real Decreto 922/2024, de 17 de septiembre. [Ref. BOE-A-2024-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18620)
+
+## Artículo 3. Datos básicos comunes y especificaciones técnicas de la tarjeta sanitaria individual.
+
+1\. Con el fin de garantizar la interoperabilidad en el Sistema Nacional de Salud (SNS), todas las tarjetas sanitarias, en soporte físico o virtual, incorporarán los datos básicos comunes que se recogen en este real decreto, con las especificaciones establecidas en los anexos, y estarán vinculadas al código de identificación personal único para cada persona en el Sistema Nacional de Salud (CIP-SNS).
+
+2\. Los datos básicos a incluir con carácter obligatorio en el anverso de la tarjeta sanitaria en soporte físico y en la imagen de la tarjeta sanitaria en soporte virtual son:
+
+a) Identidad institucional de la comunidad autónoma o entidad emisora de la tarjeta.
+
+b) Los rótulos de “Sistema Nacional de Salud de España” y “Tarjeta Sanitaria”.
+
+c) Código de identificación personal asignado por la administración sanitaria emisora de la tarjeta (CIP-AUT).
+
+d) Nombre y apellidos del titular de la tarjeta.
+
+e) Código de identificación personal único del Sistema Nacional de Salud (CIP-SNS).
+
+f) Código de identificación de la administración sanitaria emisora de la tarjeta (CITE).
+
+3\. En los supuestos en los que así lo prevea la ley, y con las medidas y garantías que dicha ley establezca, atendidas las necesidades de gestión de las diferentes administraciones sanitarias emisoras, estas podrán incorporar a la tarjeta sanitaria los datos que a continuación se enumeran, velando porque en su configuración permitan la interoperabilidad, y ello sin perjuicio del cumplimiento del resto de circunstancias y obligaciones que establece la normativa de protección de datos personales:
+
+a) El número del Documento Nacional de Identidad de su titular o, en el caso de personas extranjeras, el número de identidad de persona extranjera.
+
+b) El número de la Seguridad Social.
+
+c) La fecha de caducidad de la tarjeta para determinados colectivos.
+
+d) El número de teléfono de atención de urgencias sanitarias.
+
+e) Una fotografía del titular de la tarjeta sanitaria.
+
+4\. Las administraciones sanitarias, de conformidad con la normativa nacional y autonómica de accesibilidad, deben garantizar la accesibilidad de las personas a la tarjeta sanitaria individual. En este sentido, en el ángulo inferior derecho de todas las tarjetas sanitarias en soporte físico, se incluirán los caracteres en braille de las iniciales de tarjeta sanitaria individual para las personas con discapacidad visual. En cuanto al soporte virtual de la tarjeta, se estará a lo indicado por el Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y aplicaciones para dispositivos móviles del sector público.
+
+5\. Las características específicas, los datos normalizados y la estructura de la banda magnética de la tarjeta sanitaria individual en soporte físico se adaptarán a las especificaciones que figuran en el anexo I. La tarjeta sanitaria individual podrá incorporar adicionalmente un chip, que se adecuará a los datos de la banda magnética.
+
+6\. La tarjeta sanitaria individual en soporte virtual se adaptará a las especificaciones que figuran en el anexo II y contendrá:
+
+a) La imagen de la tarjeta sanitaria individual que deberá incorporar, en todo caso, los datos referidos en el apartado 2 en un tamaño legible. En el caso de que se optara por incorporar adicionalmente los datos recogidos en el apartado 3, estos deberán igualmente contar con un tamaño legible.
+
+b) Un código QR con los mismos datos normalizados que la banda magnética de la tarjeta sanitaria física. Este código QR se adaptará a las especificaciones que figuran en el anexo II.
+
+7\. Las autoridades sanitarias competentes velarán porque todos los agentes implicados en la provisión de asistencia sanitaria o prestación farmacéutica adopten los medios técnicos que sean precisos para posibilitar la lectura de la banda magnética y del código QR referidos en los apartados 5 y 6.
+
+> Se modifica por el art. único.2 del Real Decreto 922/2024, de 17 de septiembre. [Ref. BOE-A-2024-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18620)
+
+> Se modifica por el artículo único.1 del Real Decreto 702/2013, de 20 de septiembre. [Ref. BOE-A-2013-10326](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10326).
+
+## Artículo 4. Código de identificación personal del Sistema Nacional de Salud.
+
+1\. La asignación del código de identificación personal del Sistema Nacional de Salud se realizará en el momento de inclusión de los datos relativos a cada ciudadano en la base de datos de población protegida por el Sistema Nacional de Salud, desarrollada por el Ministerio de Sanidad y Consumo, y actuará como clave de vinculación de los diferentes códigos de identificación personal autonómicos que cada persona pueda tener asignado a lo largo de su vida.
+
+2\. El código de identificación personal del Sistema Nacional de Salud tendrá carácter irrepetible y será único a lo largo de la vida de cada persona, independientemente de la Administración sanitaria competente en su atención sanitaria en cada momento.
+
+3\. Dicho código de identificación facilitará la búsqueda de la información sanitaria de un paciente que pueda encontrarse dispersa en el Sistema Nacional de Salud, con el fin de que pueda ser localizada y consultada por los profesionales sanitarios, exclusivamente cuando ello redunde en la mejora de la atención sanitaria, con pleno respeto a lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y en la Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica, garantizando asimismo la confidencialidad e integridad de la información.
+
+## Artículo 5. Base de datos de población protegida del Sistema Nacional de Salud.
+
+1\. Con el fin de proceder a la generación del código de identificación personal del Sistema Nacional de Salud, el Ministerio de Sanidad y Consumo, a través del Instituto de Información Sanitaria, desarrollará una base datos que recoja la información básica de los usuarios del Sistema Nacional de Salud, así como el fichero histórico de las situaciones de aseguramiento y de la adscripción de la persona, en su caso, a diferentes Administraciones sanitarias a lo largo de su vida.
+
+2\. Para facilitar la gestión de la población protegida, su movilidad y el acceso a los servicios sanitarios, dicha base actuará como un sistema de intercambio de información entre las Administraciones sanitarias. La información que recoja deberá posibilitar la coherencia de los datos de aseguramiento, evitar la adscripción simultánea a distintos servicios de salud y obtener la mayor rentabilidad posible en los cruces de datos entre los ficheros oficiales necesarios para su correcto mantenimiento.
+
+3\. La base de datos de población protegida del Sistema Nacional de Salud será mantenida por las Administraciones sanitarias emisoras de la tarjeta sanitaria individual. Dichas Administraciones serán las competentes para la inclusión en aquélla de las personas protegidas en su ámbito territorial. Del mismo modo, serán las responsables del tratamiento de los datos, actuales e históricos, de su población protegida.
+
+4\. Dicha base de datos respetará el modelo de funcionamiento y de gestión de las bases de datos de tarjeta sanitaria individual de cada Administración sanitaria.
+
+5\. La base de datos incorporará información del sistema de Seguridad Social y del mutualismo administrativo, con el fin de suministrar a las Administraciones sanitarias datos permanentemente actualizados que permitan la correcta gestión de las situaciones de las personas respecto a altas, bajas, cobertura de prestaciones y movilidad de pacientes en la Unión Europea, de acuerdo con los reglamentos comunitarios vigentes en esta materia.
+
+6\. El plan de explotación estadística de la base de datos será acordado por el Consejo Interterritorial del Sistema Nacional de Salud, y la información obtenida se pondrá a disposición de las Administraciones sanitarias. En todo caso, la información que se facilite a estos fines será previamente objeto de disociación.
+
+7\. El Ministerio de Sanidad y Consumo atenderá con los medios de que disponga el funcionamiento de la base de datos.
+
+## Artículo 6. Seguridad y accesos.
+
+1\. La relación de agentes del sistema sanitario autorizados para el acceso a la base de datos y sus capacidades de operación con esta base serán acordadas por el Consejo Interterritorial del Sistema Nacional de Salud.
+
+2\. Sin perjuicio de las competencias atribuidas a la Agencia Española de Protección de Datos, el Ministerio de Sanidad y Consumo determinará las medidas de índole técnica y organizativa que hayan de imponerse en relación con la base de datos de población protegida del Sistema Nacional de Salud y que sean necesarias para garantizar tanto la seguridad como la disponibilidad de los datos de carácter personal, evitando su alteración, pérdida, tratamiento y, en especial, el acceso no autorizado a aquélla. En todo caso, dichas medidas se atendrán a lo establecido en la legislación vigente en materia de protección de datos personales.
+
+3\. El Ministerio de Sanidad y Consumo, como responsable de la base de datos, aplicará las medidas de seguridad y accesos de conformidad con lo dispuesto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, y en el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado.
+
+## Artículo 7. Cesión de datos.
+
+El Consejo Interterritorial del Sistema Nacional de Salud, en caso de considerar necesaria la cesión de los datos de esta base, recabará la asistencia de la Agencia Española de Protección de Datos, a fin de que por ésta se determinen los supuestos bajo los que podrá efectuarse la cesión a terceros. Dicha cesión se atendrá, en todo caso, a la normativa vigente en materia de protección de datos personales.
+
+## Artículo 8. Colectivos asegurados a través de regímenes especiales.
+
+A cada titular y persona beneficiaria asegurada a través de regímenes especiales le será expedida una tarjeta sanitaria, con las adecuaciones derivadas de las características de estos regímenes de aseguramiento, tanto en soporte físico como virtual, con las características básicas que se definen en este real decreto, incluida la asignación de un código de identificación personal del Sistema Nacional de Salud. Los datos de dicha tarjeta sanitaria se incorporarán al sistema de intercambio de información que proporciona la base de datos de población protegida del Sistema Nacional de Salud.
+
+> Se modifica por el art. único.3 del Real Decreto 922/2024, de 17 de septiembre. [Ref. BOE-A-2024-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18620)
+
+> Se modifica por el artículo único.2 del Real Decreto 702/2013, de 20 de septiembre. [Ref. BOE-A-2013-10326](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10326).
+
+## Disposición adicional única. Normalización de tarjetas sanitarias en la Unión Europea.
+
+En la medida en que se establezcan por la Unión Europea criterios de normalización que faciliten la circulación y mejora de la asistencia sanitaria de pacientes en el ámbito comunitario, las tarjetas sanitarias individuales del Sistema Nacional de Salud deberán adaptarse a aquéllos.
+
+## Disposición transitoria primera. Sustitución de las tarjetas sanitarias actualmente existentes.
+
+El proceso de sustitución de las tarjetas actualmente existentes por las que cumplan los requisitos establecidos en este real decreto deberá iniciarse dentro del plazo de seis meses a partir de su entrada en vigor. La sustitución, una vez iniciado el proceso, se producirá a medida que las tarjetas vayan caducando, o cuando por cualquier motivo vayan a renovarse.
+
+## Disposición transitoria segunda. Incorporación a la base de datos de población protegida del Sistema Nacional de Salud.
+
+Se establece un plazo de seis meses a partir de la entrada en vigor de este real decreto para la constitución de la base de datos de población protegida del Sistema Nacional de Salud con la incorporación a ésta de todos los sistemas de tarjeta sanitaria de las Administraciones sanitarias y de las Administraciones públicas a las que se refiere el artículo 8.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo del artículo 149.1.16.<sup>a </sup>y 17.<sup>a</sup> de la Constitución Española, y de acuerdo con lo previsto en el artículo 57 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud.
+
+## Disposición final segunda. Desarrollo normativo y adaptación de los anexos.
+
+Se habilita a la persona titular del Ministerio de Sanidad a dictar las disposiciones necesarias para el desarrollo de lo establecido en este real decreto, así como para adaptar por orden ministerial el contenido de los anexos al progreso o innovaciones técnicas y a la normativa de la Unión Europea.
+
+> Se modifica por el art. único.4 del Real Decreto 922/2024, de 17 de septiembre. [Ref. BOE-A-2024-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18620)
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 30 de enero de 2004.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ANA MARÍA PASTOR JULIÁN
+
+## ANEXO I
+
+## Especificaciones de la tarjeta sanitaria individual en soporte físico
+
+![Imagen: img/disp/2013/238/10326_001.png](https://www.boe.es/datos/imagenes/disp/2013/238/10326_001.png)
+
+Descripción:
+
+Ángulo superior izquierdo: imagen institucional de la administración sanitaria emisora o fotografía del titular de la tarjeta sanitaria.
+
+Franja superior o universal:
+
+1.ª línea (a la derecha): SISTEMA NACIONAL DE SALUD DE ESPAÑA (Arial Narrow, 9 pt, negrita). Rótulo.
+
+2.ª línea (a la derecha): Tarjeta Sanitaria (TNRoman, 10 pt, negrita). Rótulo.
+
+Franja media:
+
+Entre la segunda línea de la franja superior y la primera línea de la franja inferior se incluirá la imagen institucional de la administración sanitaria emisora de la tarjeta en el caso que en el ángulo superior izquierdo se sitúe la fotografía del titular.
+
+Franja inferior
+
+1.ª línea: BGKX004499816015 (TNRoman, 11 pt, negrita).
+
+(Código de identificación personal asignado por la administración sanitaria que emite la tarjeta)
+
+2.ª línea: Adicionales
+
+———————————————————————————————————
+
+DNI/NIE Núm. SS Fecha caducidad Teléfono urgencias
+
+98979695R 58/68752834/56 02/16 999 999 999
+
+(TNRoman, 9 pt, normal)
+
+– Formato DNI: ocho dígitos y letra de control.
+
+– Formato NIE: letra inicial, siete dígitos y letra final de control.
+
+– Formato Número Seguridad Social: doce dígitos, dos de provincia, ocho de orden y dos de control.
+
+– Formato Fecha de caducidad: mm/aa.
+
+– Formato Teléfono: máximo nueve dígitos.
+
+3.ª línea: NOMBRE APELLIDO PRIMERO APELLIDO SEGUNDO
+
+(TNRoman, 9 pt, negrita).
+
+(Hasta 40 caracteres, si tiene más el punto de truncado sería el último carácter. De ser necesarios más caracteres se minorará el tipo de letra respetando en todo caso la inclusión de los datos en una única línea).
+
+CIPSNS CITE TSI
+
+4.ª línea: BBBBBBBBQR648597 80724000122 Braille
+
+(Ambos códigos NTRoman, 9 pt, negrita) (si procede).
+
+CIPSNS: 16 caracteres alfanuméricos.
+
+CITE (Código administración sanitaria emisora de la tarjeta): once dígitos (según norma UNE- EN 1387:1997) en el siguiente orden:
+
+– 2 dígitos: área de actividad (80).
+
+– 3 dígitos: código país norma ISO 3166.
+
+– 5 dígitos: código de la entidad que emite la tarjeta.
+
+– 1 dígito de control.
+
+_______________________________________________________________
+
+Ángulo inferior derecho: se grabarán en Braille los caracteres de las iniciales de Tarjeta Sanitaria Individual, siguiendo la norma UNE-EN 1332.1:2010, en su parte 5 de marzo de 2006.
+
+_______________________________________________________________
+
+2\. Reverso:
+
+Banda magnética con tres pistas:
+
+Pista 1 alfanumérica:
+
+– CIP-xx asignado por la administración sanitaria emisora de la tarjeta.
+
+– CIP-SNS único asignado por el Sistema Nacional de Salud.
+
+– Código de la administración sanitaria emisora (dos dígitos, el software de lectura convertirá este código al CITE que figura en el anverso de la tarjeta).
+
+– Nombre y apellidos del titular.
+
+Pista 2 numérica: libre.
+
+Pista 3 regrabable.
+
+3\. Características específicas:
+
+Tamaño de la tarjeta: ID1 siguiendo los estándares ISO 7810 de 1985.
+
+Si la tarjeta incorpora chip su ubicación se atendrá a la norma UNE-EN 1387:1997.
+
+Banda magnética, de alta coercitividad, de lectura-escritura, con tres pistas, norma ISO 7811 de 1985.
+
+> Se modifica y numera como anexo I por el art. único.5 del Real Decreto 922/2024, de 17 de septiembre. [Ref. BOE-A-2024-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18620)
+
+> Se añade por el artículo único.3 del Real Decreto 702/2013, de 20 de septiembre. [Ref. BOE-A-2013-10326](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-10326).
+
+> Téngase en cuenta la disposición adicional única sobre el plazo en el proceso de sustitución de las tarjetas individuales.
+
+## ANEXO II
+
+## Especificaciones de la tarjeta sanitaria individual en soporte virtual
+
+1\. Imagen de la tarjeta sanitaria virtual.
+
+Esta se adaptará a los modelos referidos en el anexo I, punto 1, anverso.
+
+2\. Estructura de los datos del código QR.
+
+La Tarjeta Sanitaria Virtual contendrá datos estructurados. Estos datos se representarán en un código bidimensional.
+
+Los datos siempre comenzarán con una parte común y obligatoria. Después de los datos obligatorios, la administración sanitaria emisora tendrá un espacio libre para uso propio.
+
+a) Datos obligatorios.
+
+Los requisitos que deben asegurarse son los siguientes:
+
+1.º Los datos de la tarjeta sanitaria virtual comenzarán con los siguientes 79 caracteres de la primera pista de la banda magnética:
+
+| Posición | Número de caracteres | Contenido | Observaciones |
+|---|---|---|---|
+| 1 | 1 | CI | Centinela de comienzo: carácter ‘%’. |
+| 2-17 | 16 | CIP-AUT | CIP asignado por la administración sanitaria emisora de la tarjeta. |
+| 18 | 1 | CS | Campo Separador: carácter ‘^’. |
+| 19-34 | 16 | CIP-SNS | CIP-SNS único asignado por el Sistema Nacional de Salud. |
+| 35 | 1 | CS | Campo Separador: carácter ‘^’. |
+| 36-37 | 2 | CITE | Código de identificación de la administración sanitaria emisora de la tarjeta (dos dígitos, el software de lectura convertirá este código al CITE). |
+| 38 | 1 | CS | Campo Separador: carácter ‘^’. |
+| 39-77 | 39 | Apellidos y nombre | Apellidos y Nombre del titular.<br>En este campo se debe incluir el carácter ‘/’ como separador entre el Apellido Primero y el Apellido Segundo, y entre el Apellido Segundo y el Nombre.<br>El formato sería:<br>ApellidoPrimero/ApellidoSegundo/Nombre.<br>ApellidoPrimero//Nombre (para ApellidoSegundo nulo). |
+| 78 | 1 | CF | Centinela Final: carácter ‘?’. |
+| 79 | 1 | LRC | Carácter de verificación de Redundancia Longitudinal: carácter ‘espacio’. |
+
+2.º Los datos tendrán una longitud total de 79 caracteres. Será obligatorio respetar el número de caracteres de cada campo.
+
+3.º En los apellidos y el nombre cuando aparece una “ñ” se sustituirá por el valor “$” y la “ç” por el valor “c”.
+
+4.º Cuando apellidos y nombre superan la longitud admitida se le aplicará la función de truncado según las normas establecidas.
+
+5.º Si los datos introducidos en el campo de apellidos y nombre tuvieran una longitud inferior a 39 caracteres, se deberá rellenar con espacios en blanco a la derecha para completar su longitud.
+
+6.º Se indicará el separador “/” entre el primer apellido y el segundo apellido, y también para separar el segundo apellido y el nombre. Si el segundo apellido fuera nulo, no se introducirán caracteres convencionales sustitutivos del mismo y también se incluirá el separador “/”.
+
+7.º El carácter de verificación de Redundancia Longitudinal (LRC) no se calculará. En su lugar siempre se pondrá el carácter “espacio”.
+
+Se recomienda que todas las letras de los datos obligatorios sean mayúsculas.
+
+Ejemplo:
+
+%0000001234004321^BBBBBBBBZB123404^11^APELLIDO1/APELLIDO2/NOMBRE ?
+
+| Número de caracteres | Contenido | Valor codificado |
+|---|---|---|
+| 1 | CI | % |
+| 16 | CIP-AUT | 0000001234004321 |
+| 1 | CS | ^ |
+| 16 | CIP-SNS | BBBBBBBBZB123404 |
+| 1 | CS | ^ |
+| 2 | Código de la administración sanitaria emisora | 11 |
+| 1 | CS | ^ |
+| 39 | Apellidos y Nombre | APELLIDO1/APELLIDO2/NOMBRE |
+| 1 | CF | ? |
+| 1 | LCR |  |
+
+b) Datos adicionales.
+
+Después de los 79 caracteres obligatorios, cada administración sanitaria emisora podrá introducir datos adicionales de uso libre.
+
+Todas las administraciones sanitarias adaptarán sus rutinas de lectura para que no se produzca un error de lectura de las tarjetas sanitarias virtuales que contengan más de 79 caracteres. Es decir, aunque una administración sanitaria no utilice los datos adicionales, no se ha de producir un error al leer las tarjetas sanitarias virtuales de otras administraciones sanitarias que sí contengan datos adicionales.
+
+Se recomienda que los datos adicionales sólo contengan los caracteres de la tabla del apartado d de este anexo. Si se utilizan caracteres que no figuran en la tabla, se recomienda codificar los datos adicionales en “base45”.
+
+c) Características del código bidimensional.
+
+La generación del código QR se ajustará a los siguientes requisitos:
+
+1.º Se utilizará el formato QR definido en la norma ISO/IEC 18004:2015 para la generación de códigos de barras bidimensional.
+
+2.º Los datos codificados en modo binario utilizarán el juego de caracteres ISO-8859-1 (Latin1).
+
+3.º El código QR tendrá el tamaño (versión) necesario para la longitud de los datos, nivel de corrección de errores y tipo de codificación escogidos.
+
+4.º Se respetará la “quiet zone”: región de 4 módulos de ancho rodeando el código QR por los cuatro lados que estará libre de todas las demás marcas. Su valor nominal de reflectancia será igual al de los módulos luminosos.
+
+Adicionalmente a lo anterior, es recomendable generar el código QR siguiendo los siguientes parámetros:
+
+5.º Se recomienda una tasa de corrección de errores “Q” (alrededor del 25 %).
+
+6.º Se recomienda optimizar el tamaño del código QR usando distintos modos de codificación de caracteres (numérica, alfanumérica y binaria).
+
+7.º Se recomienda que el código QR generado no supere el tamaño de la Versión 14 (73 × 73 módulos).
+
+8.º Se recomienda que, si han de aparecer letras u otros símbolos en la misma pantalla que el código QR, éstos estén lo más alejados posible para no entorpecer la lectura del código.
+
+d) Caracteres codificables para datos adicionales en un código QR en modo alfanumérico.
+
+| Valor codificado | Carácter | Valor codificado | Carácter | Valor codificado | Carácter |
+|---|---|---|---|---|---|
+| 00 | 0 | 15 | F | 30 | U |
+| 01 | 1 | 16 | G | 31 | V |
+| 02 | 2 | 17 | H | 32 | W |
+| 03 | 3 | 18 | I | 33 | X |
+| 04 | 4 | 19 | J | 34 | Y |
+| 05 | 5 | 20 | K | 35 | Z |
+| 06 | 6 | 21 | L | 36 | Espacio |
+| 07 | 7 | 22 | M | 37 | $ |
+| 08 | 8 | 23 | N | 38 | % |
+| 09 | 9 | 24 | O | 39 | * |
+| 10 | A | 25 | P | 40 | + |
+| 11 | B | 26 | Q | 41 | - |
+| 12 | C | 27 | R | 42 | . |
+| 13 | D | 28 | S | 43 | / |
+| 14 | E | 29 | T | 44 | : |
+
+> Se añade por el art. único.6 del Real Decreto 922/2024, de 17 de septiembre. [Ref. BOE-A-2024-18620](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-18620)

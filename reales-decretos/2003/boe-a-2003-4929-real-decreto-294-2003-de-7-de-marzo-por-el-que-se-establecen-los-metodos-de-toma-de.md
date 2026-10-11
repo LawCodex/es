@@ -1,0 +1,361 @@
+---
+title: "Real Decreto 294/2003, de 7 de marzo, por el que se establecen los métodos de toma de muestras y de análisis para el control oficial del contenido de ocratoxina A en cereales y uvas pasas"
+identifier: "BOE-A-2003-4929"
+eli: "https://www.boe.es/eli/es/rd/2003/03/07/294"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2003-03-07
+published: 2003-03-11
+in_force_from: 2003-03-12
+last_amended: 2006-02-28
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 60"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-4929"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 294/2003, de 7 de marzo, por el que se establecen los métodos de toma de muestras y de análisis para el control oficial del contenido de ocratoxina A en cereales y uvas pasas
+
+La Directiva 2002/26/CE, de la Comisión, de 13 de marzo de 2002, por la que se fijan los métodos de toma de muestras y de análisis para el control oficial del contenido de ocratoxina A en los productos alimenticios, establece los procedimientos que se deben aplicar en los controles oficiales para la toma de muestras y análisis de ocratoxina A en cereales y uvas pasas.
+
+La contaminación de los productos alimenticios por ocratoxina A ocurre de forma muy heterogénea en los lotes, por lo que los procedimientos de muestreo deben ser muy exhaustivos, y los métodos de análisis, homogéneos, con el fin de que los resultados obtenidos sean similares y comparables en todo el territorio comunitario, de forma que se apliquen los mismos criterios a la hora de aceptar o rechazar lotes de productos producidos en territorio comunitario o importados de terceros países.
+
+El Reglamento (CE) número 472/2002, de la Comisión, de 12 de marzo de 2002, que modifica el Reglamento (CE) número 466/2001, de 18 de marzo, por el que se fija el contenido máximo de determinados contaminantes en los productos alimenticios, determina los límites máximos de ocratoxina A en cereales y uvas pasas y establece un plazo, antes del 31 de diciembre de 2003, para fijar nuevos límites máximos en café verde y tostado y productos a base de café, vino, cerveza, zumo de uva, cacao y los productos a base de cacao, y especias, atendiendo a las investigaciones realizadas y a las medidas preventivas aplicadas para reducir la presencia de ocratoxina A en dichos productos.
+
+Por otra parte, el Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de productos alimenticios, regula la cualificación técnica y profesional de los agentes que intervienen en el control oficial de productos alimenticios, así como los criterios de funcionamiento de los laboratorios para poder realizar dichos controles.
+
+Por su parte, el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agro-alimentaria, establece los procedimientos de inspección durante la toma de muestras de productos alimenticios, especificando las muestras legales que se deben tomar para realizar el control oficial de alimentos.
+
+También se ha tenido en cuenta lo preceptuado en el capítulo II, apartado 1.02.11 del Código Alimentario Español, aprobado por Decreto 2484/1967, de 21 de septiembre, en el que se define alimento contaminado como todo alimento que contenga toxinas capaces de producir o transmitir enfermedades al hombre o a los animales.
+
+En definitiva, se hace necesario la armonización de los conceptos recogidos en la Directiva 2002/26/CE citada, que se incorpora al ordenamiento jurídico interno mediante esta disposición.
+
+En su elaboración han sido oídos los sectores afectados y las comunidades atónomas, habiendo emitido informe preceptivo la Comisión Interministerial para la Ordenación Alimentaria.
+
+Este Real Decreto, que tiene carácter básico en tanto su regulación incide en el control oficial de productos alimenticios en el mercado interior, se dicta al amparo de lo dispuesto en el artículo 149.1.10.ª y 16.ª de la Constitución, y de acuerdo con lo establecido en los artículos 38 y 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de marzo de 2003,
+
+DISPONGO:
+
+### Artículo 1. Toma de muestras para el control oficial.
+
+La toma de muestras para el control oficial del contenido máximo de ocratoxina A en cereales y uvas pasas se realizará de acuerdo con los métodos descritos en el anexo I de este Real Decreto.
+
+### Artículo 2. Preparación de muestras y métodos de análisis.
+
+La preparación de la muestra y el método de análisis utilizado para el control oficial del contenido de ocratoxina A en cereales y uvas pasas se realizará de acuerdo con los criterios descritos en el anexo II de este Real Decreto.
+
+### Disposición final primera. Título competencial.
+
+Este Real Decreto, que tiene carácter básico en tanto su regulación incide en el control oficial de productos alimenticios en el mercado interior, se dicta al amparo de lo dispuesto en el artículo 149.1.10.<sup>a</sup> y 16.<sup>a</sup> de la Constitución, y de acuerdo con lo establecido en los artículos 38 y 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+### Disposición final segunda. Facultades de desarrollo.
+
+Se faculta al Ministro de Sanidad y Consumo para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo de lo establecido en este Real Decreto y, en particular, para adaptar los anexos a las modificaciones introducidas por la normativa comunitaria.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 7 de marzo de 2003.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ANA MARÍA PASTOR JULIÁN
+
+## ANEXO I — Métodos de toma de muestras para el control oficial del contenido máximo de ocratoxina A en cereales y uvas pasas
+
+1\. Objeto y ámbito de aplicación.–Las muestras destinadas a los controles oficiales del contenido de ocratoxina A en cereales y uvas pasas se tomarán de acuerdo con las normas indicadas a continuación. Las muestras globales así obtenidas se considerarán representativas de los lotes.
+
+La conformidad de los lotes se determinará en función del contenido encontrado en las muestras de laboratorio y cumplirán los contenidos máximos fijados en el Reglamento (CE) número 472/2002.
+
+2\. Definiciones.
+
+a) Lote: Cantidad de producto alimenticio identificable, entregada en una vez, y que presenta, a juicio del agente responsable, características comunes, como el origen, la variedad, el tipo de envase, el envasador, el expedidor o el marcado.
+
+b) Sublote: Parte designada de un gran lote con el fin de aplicar el método de toma de muestras a esta parte designada. Cada sublote debe estar separado físicamente y ser identificable.
+
+c) Muestra elemental: Cantidad de materia tomada en un único punto del lote o sublote.
+
+d) Muestra global: Reunión de todas las muestras elementales tomadas del lote o sublote.
+
+e) Frecuencia de muestreo: A efectos de la fórmula incluida en el apartado 4.a).2.<sup>o</sup> de este anexo, cada número «n» de envases individuales de los que ha de tomarse una muestra elemental (los decimales se redondearán al número entero más cercano).
+
+3\. Disposiciones generales.
+
+a) Autoridad competente: Los órganos competentes de las comunidades autónomas para el mercado interior, y el Ministerio de Sanidad y Consumo para el comercio extracomunitario.
+
+b) Personal: La toma de muestras debe ser efectuada por personal autorizado a tal efecto por las autoridades competentes.
+
+c) Producto: Cualquier lote destinado a ser analizado será objeto de un muestreo separado. De acuerdo con las disposiciones específicas del apartado 4 de este anexo, los grandes lotes deben subdividirse en sublotes, que serán objeto de un muestreo separado.
+
+d) Precauciones: Durante el muestreo y la preparación de las muestras, deben tomarse precauciones con el fin de evitar toda alteración que pueda modificar el contenido de ocratoxina A o afectar a los análisis o a la representatividad de la muestra global.
+
+e) Muestras elementales: En la medida de lo posible, éstas deben tomarse en distintos puntos del lote o sublote. Cualquier excepción a esta norma debe señalarse en el acta contemplada en el apartado 3.i) de este anexo.
+
+f) Preparación de la muestra global: La muestra global se obtiene por mezcla grosera de las muestras elementales.
+
+g) Muestras idénticas: Se tomarán muestras idénticas a partir de la muestra homogeneizada, a efectos comerciales, de arbitraje o de control oficial para la realización de los análisis inicial, contradictorio y dirimente, según lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, y demás disposiciones que resulten de aplicación en cada caso.
+
+h) Acondicionamiento y envío de las muestras: Cada muestra debe colocarse en un recipiente limpio, de material inerte, que ofrezca protección adecuada contra la contaminación y el deterioro que pudieran resultar del transporte. Han de tomarse también todas las precauciones necesarias para evitar cualquier modificación de la composición de la muestra que pudiera ocurrir durante el transporte o el almacenamiento.
+
+i) Precintado y etiquetado de las muestras: Cada muestra oficial se precintará en el lugar del muestreo y se identificará según lo establecido en el Real Decreto 1945/1983, y demás disposiciones que resulten de aplicación en cada caso.
+
+En cada toma de muestras se cumplimentará un acta de muestreo que permita identificar sin ambigüedad cada lote y que indique la fecha y el lugar del muestreo, así como toda información adicional que pueda resultar útil al analista.
+
+4\. Disposiciones específicas.
+
+a) Distintos tipos de lotes:
+
+1.º Los productos alimenticios pueden comercializarse a granel, en contenedores, envases individuales (sacos, bolsas, envases para la venta al por menor, etc.). El procedimiento de muestreo podrá aplicarse a las distintas formas en que se comercialicen los productos.
+
+2.º Para el muestreo de los lotes comercializados en envases individuales (sacos, bolsas, envases para la venta minorista, etc.) y sin perjuicio de las disposiciones específicas de los apartados 4.c), 4.d) y 4.e) de este anexo, la fórmula siguiente puede utilizarse como guía:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>Frecuencia de muestreo (FM) n =</p>
+</td>
+<td>
+<p>Peso del lote × Peso de la muestra elemental</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Peso de la muestra global × Peso de un envase individual</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Peso: expresado en kg.
+
+Frecuencia de muestreo: cada número ''n'' de envases individuales de los que ha de tomarse una muestra elemental (los decimales se redondearán al número entero más cercano).
+
+b) Peso de la muestra elemental:
+
+El peso de la muestra elemental será de 100 gramos, aproximadamente, salvo que se indique lo contrario en este anexo. En el caso de los lotes que se presentan en envases para la venta minorista, el peso de la muestra elemental se ajustará con el número de envases suficiente al efecto de constituir una muestra elemental próxima a 100 gramos.
+
+c) Resumen general del método de muestreo para los cereales, las uvas pasas y el café tostado:
+
+## CUADRO 1 — Subdivisión de los lotes en sublotes en función del producto y del peso del lote
+
+| Producto | Peso del lote (toneladas) | Peso o número de los sublotes | Número de muestras elementales | Peso de la muestra global (kg) |
+|---|---|---|---|---|
+| Cereales y productos derivados de los cereales. | ≥ 1 500<br>> 300 y < 1 500<br>≥ 50 y ≤ 300<br>< 50 | 500 toneladas<br>3 sublotes<br>100 toneladas<br>- | 100<br>100<br>100<br>3-100 (1) | 10<br>10<br>10<br>1-10 |
+| Uvas pasas (pasas de Corinto, sultanas y otras variedades de pasas). | ≥ 15<br>< 15 | 15-30 toneladas<br>- | 100<br>10-100 (2) | 10<br>1-10 |
+| Café tostado en grano, café tostado molido y café soluble. | ≥ 15<br>< 15 | 15-30 toneladas<br>- | 100<br>10-100 (2) | 10<br>1-10 |
+
+(1) Según el peso del lote (véase el cuadro 2 de este anexo).
+
+(2) Según el peso del lote (véase el cuadro 3 de este anexo).
+
+d) Método de muestreo para los cereales y los productos derivados de los cereales (lotes ≥ 50 toneladas) y para el café tostado en grano, el café tostado molido, el café soluble y las uvas pasas (lotes ≥ 15 toneladas):
+
+1.º A condición de que los sublotes puedan separarse físicamente, cada lote debe subdividirse en sublotes según el cuadro 1. Dado que el peso de los lotes no es siempre múltiplo exacto del peso de los sublotes, el peso de los sublotes puede variar con respecto al peso indicado en un 20 % como máximo.
+
+2.º Cada sublote debe ser objeto de un muestreo separado.
+
+3.º Número de muestras elementales: 100.
+
+4.º Peso de la muestra global = 10 kg.
+
+5.º Cuando no sea posible aplicar el método de toma de muestras anteriormente descrito, por las consecuencias comerciales que se derivarían de los posibles daños ocasionados al lote (por ejemplo, debido a las formas de envase o a los medios de transporte), podrá aplicarse un método alternativo de toma de muestras, a condición de que el muestreo sea lo más representativo posible y de que el método aplicado esté pormenorizadamente descrito y sólidamente documentado.
+
+e) Método de muestreo para los cereales y productos derivados de los cereales (lotes < 50 toneladas), el café tostado en grano, café tostado molido, café soluble y uvas pasas (lotes < 15 toneladas):
+
+1.º Para lotes de cereales de peso inferior a 50 toneladas, lotes de café tostado en grano, café tostado molido, café soluble y uvas pasas de peso inferior a las 15 toneladas deben tomarse entre 10 y 100 muestras elementales, en función del peso del lote, que, en conjunto, constituyen una muestra global de 1 a 10 kg.
+
+2.º Para lotes muy pequeños (≤ 0,5 toneladas) de cereales y productos derivados de cereales, puede tomarse un número menor de muestras elementales, pero el peso de la muestra global, que incluye todas las muestras elementales, deberá ser también en este caso de, al menos, 1 kg.
+
+3.º Las cifras de los cuadros 2 y 3 pueden utilizarse para determinar el número de muestras elementales necesarias.
+
+## CUADRO 2 — Número de muestras elementales que deben tomarse, en función del peso del lote de cereales y productos derivados de los cereales
+
+| Peso del lote (toneladas) | Número de muestras elementales |
+|---|---|
+| ≤ 0,05 | 3 |
+| > 0,05 - ≤ 0,5 | 5 |
+| > 0,5 - ≤ 1 | 10 |
+| > 1 - ≤ 3 | 20 |
+| > 3 - ≤ 10 | 40 |
+| > 10 - ≤ 20 | 60 |
+| > 20 - ≤ 50 | 100 |
+
+## CUADRO 3 — Número de muestras elementales que deben tomarse, en función del peso del lote de café tostado en grano, café tostado molido, café soluble y uvas pasas
+
+| Peso del lote (toneladas) | Número de muestras elementales |
+|---|---|
+| ≤ 0,1 | 10 |
+| > 0,1 - ≤ 0,2 | 15 |
+| > 0,2 - ≤ 0,5 | 20 |
+| > 0,5 - ≤ 1,0 | 30 |
+| > 1,0 - ≤ 2,0 | 40 |
+| > 2,0 - ≤ 5,0 | 60 |
+| > 5,0 - ≤ 10,0 | 80 |
+| > 10,0 - ≤ 15,0 | 100 |
+
+f) Método de muestreo para el vino y zumo de uva:
+
+1.º La muestra global será de, al menos, 1 kg, excepto en caso de que no sea posible, p. ej., cuando la muestra sea una botella.
+
+2.º El número mínimo de muestras elementales que deberán tomarse del lote será el indicado en el cuadro 4. El número de muestras elementales determinado depende de la forma usual en la que se comercializan los productos en cuestión.
+
+3.º Cuando se trate de productos líquidos a granel, el lote se mezclará bien, en la medida de lo posible y si ello no afecta a la calidad del producto, por medios manuales o mecánicos inmediatamente antes de procederse al muestreo. En este caso se supone una distribución homogénea de la ocratoxina A en un lote determinado; por tanto, bastará con tomar tres muestras elementales por lote para formar la muestra global.
+
+4.º Las muestras elementales, que con frecuencia pueden consistir en una botella o un envase, serán de un peso similar. El peso de una muestra elemental deberá ser de, al menos, 100 gramos, debiendo conseguirse una muestra global de aproximadamente 1 kg como mínimo. Toda excepción a esta norma deberá señalarse en el acta contemplada en el apartado 3.i).
+
+## CUADRO 4 — Número mínimo de muestras elementales que deben tomarse del lote
+
+| Forma de comercialización | Peso del lote (litros) | Número mínimo de muestras elementales que deben tomarse |
+|---|---|---|
+| A granel (zumo de uva, vino) | - | 3 |
+| Botellas/envases de zumo de uva | ≤ 50 | 3 |
+| Botellas/envases de zumo de uva | 50 a 500 | 5 |
+| Botellas/envases de zumo de uva | > 500 | 10 |
+| Botellas/envases de vino | ≤ 50 | 1 |
+| Botellas/envases de vino | 50 a 500 | 2 |
+| Botellas/envases de vino | > 500 | 3 |
+
+g) Método de muestreo para los alimentos destinados a lactantes y niños de corta edad:
+
+Se aplicará el método de muestreo para los cereales y los productos derivados de los cereales establecido en el punto 4.e) de este anexo. Esto significa que el número de muestras elementales que deben tomarse dependerá del peso del lote, con un mínimo de 10 y un máximo de 100, de conformidad con el cuadro 2 del apartado 4.e).
+
+1.º El peso de la muestra elemental será de 100 gramos, aproximadamente. En el caso de los lotes que se presentan en envases para la venta minorista, el peso de la muestra elemental dependerá del peso del envase.
+
+2.º Peso de la muestra global = 1-10 kg, groseramente mezclada.
+
+h) Muestreo en la fase de comercio minorista:
+
+El muestreo de los productos alimenticios en la fase de comercio minorista debe realizarse, siempre que sea posible, de conformidad con las disposiciones para el muestreo mencionadas anteriormente. En el caso de que no sea posible, podrán aplicarse otros métodos de muestreo eficaces, siempre que garanticen una representatividad suficiente del lote objeto de muestreo.
+
+5\. Aceptación de un lote o sublote:
+
+a) Aceptación, si la muestra global se ajusta al límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+b) Rechazo, si la muestra global supera, fuera de toda duda razonable, el límite máximo, teniendo en cuenta la corrección en función de la recuperación y la incertidumbre de la medida.
+
+> Se modifica el apartado 4 por el art. único y anexo de la Orden SCO/495/2006, de 22 de febrero. [Ref. BOE-A-2006-3446](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3446).
+
+> Se modifican los apartados 4.f) y 5 y se añade el apartado 4.g) por el apartado 1 y anexo I de la Orden SCO/4225/2004, de 16 de diciembre de 2004. [Ref. BOE-A-2004-21693](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21693).
+
+## ANEXO II — Preparación de las muestras y criterios que deben cumplir los métodos de análisis para el control oficial del contenido de ocratoxina A en determinados productos alimenticios
+
+1\. Precauciones: Las muestras deben prepararse y, sobre todo, homogeneizarse con el mayor cuidado, dado que la ocratoxina A se distribuye de manera heterogénea.
+
+Para la preparación de la muestra de análisis, debe utilizarse la totalidad de la muestra recibida en el laboratorio.
+
+2\. Tratamiento de la muestra recibida en el laboratorio: Cada muestra de laboratorio se triturará finamente y se mezclará cuidadosamente según un método que garantice una homogeneización completa.
+
+En el caso de que el contenido máximo sea aplicable a la materia seca, el contenido de materia seca se determinará sobre una parte de la muestra homogeneizada, utilizando un procedimiento que garantice una determinación precisa del contenido de materia seca.
+
+3\. Subdivisión de las muestras a efectos comerciales, de arbitraje y de control: Las muestras idénticas a efectos comerciales, de arbitraje o de control oficial para la realización de los análisis inicial, contradictorio y dirimente, según lo establecido en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agroalimentaria, y demás disposiciones que resulten de aplicación en cada caso, deberán proceder de la muestra homogeneizada.
+
+4\. Método de análisis que debe utilizar el laboratorio y medidas de control del laboratorio:
+
+a) Definiciones: A continuación se recogen algunas de las definiciones más comúnmente utilizadas que los laboratorios deberán aplicar:
+
+Los parámetros de precisión más comúnmente citados son la repetibilidad y la reproducibilidad.
+
+| r | = | repetibilidad: valor por debajo del cual puede esperarse que se sitúe la diferencia absoluta entre los resultados de dos pruebas particulares, obtenidos en condiciones de repetibilidad (es decir, con la misma muestra, el mismo operario, el mismo instrumental, en el mismo laboratorio y en un breve intervalo de tiempo) dentro de los límites de una probabilidad específica (en principio, 95 por 100); de donde: r = 2,8 × s<sub>r</sub>. |
+|---|---|---|
+| s<sub>r</sub> | = | desviación típica calculada a partir de los resultados obtenidos en condiciones de repetibilidad. |
+| RSD<sub>r</sub> | = | desviación típica relativa calculada a partir de los resultados obtenidos en condiciones de repetibilidad [(s<sub>r</sub> /χ<sup>–</sup> ) × 100], donde χ<sup>– </sup>representa la media de los resultados de todos los laboratorios y muestras. |
+| R | = | reproducibilidad: valor por debajo del cual puede esperarse que se sitúe la diferencia absoluta entre los resultados de dos pruebas individuales, obtenidos en condiciones de reproducibilidad (es decir, con material idéntico tratado por operarios en distintos laboratorios, utilizando el método de ensayo normalizado) dentro de los límites de una probabilidad específica (en principio, 95 por 100); de donde: R = 2,8 × s<sub>R</sub>. |
+| s<sub>R</sub> | = | desviación típica calculada a partir de los resultados obtenidos en condiciones de reproducibilidad. |
+| RSD<sub>R</sub> | = | desviación típica relativa calculada a partir de los resultados obtenidos en condiciones de reproducibilidad [(s<sub>R</sub>/χ<sup>–</sup> ) × 100]. |
+
+b) Requisitos generales: Los métodos de análisis utilizados para el control de los productos alimenticios deben cumplir las disposiciones del Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de los productos alimenticios.
+
+c) Requisitos específicos: En tanto no se prescriba a escala comunitaria ningún método específico para la determinación del contenido de ocratoxina A en los productos alimenticios, los laboratorios podrán aplicar cualquier método de su elección, a condición de ajustarse a los siguientes criterios:
+
+**Características del método respecto a la ocratoxina A**
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>Contenido</p>
+</td>
+<td colspan="3">
+<p>Ocratoxina A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>µg/kg</p>
+</td>
+<td>
+<p>RSD<sub>r</sub> (%)</p>
+</td>
+<td>
+<p>RSD<sub>R</sub> (%)</p>
+</td>
+<td>
+<p>Recuperación</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&lt; 1</p>
+</td>
+<td>
+<p>≤ 40</p>
+</td>
+<td>
+<p>≤ 60</p>
+</td>
+<td>
+<p>50 a 120</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1-10</p>
+</td>
+<td>
+<p>≤ 20</p>
+</td>
+<td>
+<p>≤ 30</p>
+</td>
+<td>
+<p>70 a 110</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+1.º No se indican los límites de detección de los métodos utilizados, puesto que se dan los valores de precisión para las concentraciones que presentan interés.
+
+2.º Los valores de precisión se calculan a partir de la ecuación de Horwitz:
+
+RSD<sub>R</sub> = 2<sup>(1-0,5logC)</sup>
+
+donde:
+
+a) RSD<sub>R</sub> representa la desviación típica relativa calculada a partir de los resultados obtenidos en condiciones de reproducibilidad [(s<sub>R</sub>/χ<sup>–</sup> ) × 100].
+
+b) C es la tasa de concentración (es decir, 1=100g/100g, 0,001=1000 mg/kg).
+
+Se trata de una ecuación generalizada de precisión, que se ha revelado independiente del analito y de la matriz y únicamente dependiente de la concentración en la mayoría de los métodos corrientes de análisis.
+
+d) Cálculo del factor de recuperación y expresión de los resultados:
+
+El resultado analítico se expresará en forma corregida o sin corregir en función de la recuperación. Deberá indicarse la forma de expresión y el factor de recuperación.
+
+El resultado analítico corregido en función de la recuperación se utilizará para la conformidad del lote según el apartado 5 del anexo I.
+
+El resultado analítico se expresará como x ± U, siendo x el resultado analítico y U la incertidumbre expandida de la medida, utilizando un factor de cobertura de 2, que da un nivel de confianza de aproximadamente el 95 %.
+
+e) Normas de calidad aplicables a los laboratorios: Los laboratorios deberán ajustarse a las disposiciones del Real Decreto 1397/1995, de 4 de agosto, por el que se aprueban medidas adicionales sobre el control oficial de los productos alimenticios.
+
+> Se modifican los apartados 2 y 4.d) por el apartado 1 y anexo II de la Orden de 16 de diciembre de 2004. [Ref. BOE-A-2004-21693](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21693).

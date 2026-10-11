@@ -1,0 +1,263 @@
+---
+title: "Real Decreto 95/2006, de 3 de febrero, por el que se crea la Comisión para la conmemoración del II Centenario de la Constitución de 1812"
+identifier: "BOE-A-2006-2451"
+eli: "https://www.boe.es/eli/es/rd/2006/02/03/95"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2006-02-03
+published: 2006-02-14
+in_force_from: 2006-02-15
+last_amended: 2010-12-22
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 38"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-2451"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 95/2006, de 3 de febrero, por el que se crea la Comisión para la conmemoración del II Centenario de la Constitución de 1812
+
+Incluye la corrección de errores publicada en BOE núm. 41, de 17 de febrero de 2006. [Ref. BOE-A-2006-2781](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2781).
+
+El año 2012 se cumplirá el segundo centenario de la aprobación en Cádiz de nuestro primer texto constitucional, llamado a convertirse en símbolo de la libertad política, no sólo en España, sino también durante el período fundacional de las actuales repúblicas iberoamericanas.
+
+Ante la trascendencia de la efeméride, las Administraciones públicas más estrechamente relacionadas con ella (en primer lugar, la Administración General del Estado, pero también la Junta de Andalucía, la Diputación Provincial y el Ayuntamiento de Cádiz, y otros ayuntamientos) vienen proyectando actuaciones conmemorativas, que se hace necesario coordinar y encauzar.
+
+Con este fin, y asimismo para estimular e impulsar las iniciativas que en tal sentido puedan surgir de otros organismos, públicos o privados, o de simples particulares, este real decreto crea una Comisión para la conmemoración del II Centenario de la Constitución de 1812, que, en atención a la especial relevancia del acontecimiento recordado, se sitúa bajo la Presidencia de Honor de Sus Majestades los Reyes de España.
+
+En su virtud, a propuesta de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, con la aprobación del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 3 de febrero de 2006,
+
+## D I S P O N G O :
+
+### Artículo 1. Creación.
+
+Se crea la Comisión para la conmemoración del II Centenario de la Constitución de 1812. La Comisión, órgano colegiado adscrito al Ministerio de la Presidencia, impulsará y coordinará las actividades que lleven a cabo, en relación con tal objetivo, las Administraciones públicas y las entidades públicas o privadas, así como los particulares que participen en la celebración.
+
+### Artículo 2. Composición.
+
+Los órganos rectores de la Comisión son los siguientes:
+
+a) El Comité de Honor.
+
+b) La Presidenta.
+
+c) El Pleno de la Comisión.
+
+d) La Comisión Ejecutiva.
+
+### Artículo 3. El Comité de Honor.
+
+1\. La Presidencia de Honor corresponde a Sus Majestades los Reyes de España.
+
+2\. El Comité de Honor estará integrado además por los siguientes miembros:
+
+a) Presidente: El titular de la Vicepresidencia Primera del Gobierno.
+
+b) Vocales: Los titulares de los siguientes órganos:
+
+1.º Presidencia del Congreso de los Diputados.
+
+2.º Presidencia del Senado.
+
+3.º Presidencia del Tribunal Constitucional.
+
+4.º Presidencia del Tribunal Supremo y del Consejo General del Poder Judicial.
+
+5.º Presidencia de la Junta de Andalucía.
+
+6.º Vicepresidencia Segunda del Gobierno y Ministerio de Economía y Hacienda.
+
+7.º Ministerio de Asuntos Exteriores y de Cooperación.
+
+8.º Ministerio de Justicia.
+
+9.º Ministerio de Educación.
+
+10.º Ministerio de la Presidencia.
+
+11.º Ministerio de Cultura.
+
+12.º Presidencia del Consejo de Estado.
+
+13.º Una Consejería de la Junta de Andalucía.
+
+14.º Presidencia de la Diputación Provincial de Cádiz.
+
+15.º Alcaldía de Cádiz.
+
+16.º Alcaldía de San Fernando.
+
+17.º Alcaldía de Chiclana de la Frontera.
+
+18.º Alcaldía de Puerto Real.
+
+19.º Alcaldía de Las Cabezas de San Juan.
+
+20.º Alcaldía de Tineo.
+
+21.º Rectorado de la Universidad de Cádiz.
+
+> Redactado por el artículo único.1 del Real Decreto 1616/2010, de 7 de diciembre. [Ref. BOE-A-2010-19648](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19648).
+
+> Redactado el apartado 3.2.b) conforme a la corrección de errores publicada en BOE núm. 41, de 17 de febrero de 2006. [Ref. BOE-A-2006-2781](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-2781).
+
+### Artículo 4. Presidenta de la Comisión.
+
+Presidirá la Comisión el titular de la Vicepresidencia Primera del Gobierno.
+
+> Se modifica por el artículo único.2 del Real Decreto 1616/2010, de 7 de diciembre. [Ref. BOE-A-2010-19648](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19648).
+
+### Artículo 5. El Pleno de la Comisión.
+
+1\. El Pleno de la Comisión estará integrado por el Presidente, un Vicepresidente designado por el Presidente de entre los miembros del Pleno, y los Vocales.
+
+2\. Serán Vocales del Pleno:
+
+a) Vinculados a la Administración General del Estado, los titulares de los siguientes órganos:
+
+1.º Ministerio de Medio Ambiente, Medio Rural y Marino.
+
+2.º Ministerio de la Presidencia.
+
+3.º Ministerio de Sanidad, Política Social e Igualdad.
+
+4.º Dirección del Gabinete de la Presidencia del Gobierno.
+
+5.º Secretaría de Estado de Asuntos Exteriores e Iberoamericanos.
+
+6.º Secretaría de Estado de Defensa.
+
+7.º Secretaría de Estado de Hacienda y Presupuestos.
+
+8.º Secretaría de Estado de Asuntos Constitucionales y Parlamentarios.
+
+b) Vinculados a otras Administraciones, previa su aceptación a petición de la Presidenta de la Comisión:
+
+1.º Un Consejero de la Junta de Andalucía.
+
+2.º El Presidente de la Diputación Provincial de Cádiz.
+
+3.º La Alcaldesa de Cádiz.
+
+4.º El Alcalde de San Fernando.
+
+3\. A título personal y previa su aceptación, se podrán nombrar hasta cinco personalidades de reconocido prestigio y competencia en relación con el acontecimiento objeto de conmemoración.
+
+4\. Asimismo podrán asistir a las reuniones de la Comisión, con voz pero sin voto, representantes de instituciones que, por su relación con las funciones de la Comisión, sean convocadas por la Presidenta.
+
+5\. Actuará como Secretario de la Comisión el Subsecretario de la Presidencia.
+
+> Se modifican los apartados 1 y 2.a) por el artículo único.3 del Real Decreto 1616/2010, de 7 de diciembre. [Ref. BOE-A-2010-19648](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19648).
+
+> Se modifican los apartados 1 y 2.a) por el artículo único.1 del Real Decreto 2092/2008, de 19 de diciembre. [Ref. BOE-A-2009-131](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-131).
+
+### Artículo 6. La Comisión Ejecutiva.
+
+1\. El Presidente de la Comisión Ejecutiva será designado por la Presidenta de la Comisión. En caso de vacante, ausencia o enfermedad, será sustituido por la persona designada al efecto.
+
+2\. La Comisión Ejecutiva estará integrada por los siguientes miembros:
+
+a) La Subsecretaria del Ministerio de Justicia.
+
+b) La Subsecretaria del Ministerio de Economía y Hacienda.
+
+c) El Subsecretario del Ministerio de la Presidencia.
+
+d) El Secretario General del Mar.
+
+e) La Presidenta de la Sociedad Estatal de Conmemoraciones Culturales.
+
+f) Un representante de la Junta de Andalucía.
+
+g) Un representante de la Diputación Provincial de Cádiz.
+
+h) Un representante del Ayuntamiento de Cádiz.
+
+i) Un representante del Ayuntamiento de San Fernando.
+
+Actuará como Secretario, con voz pero sin voto, un representante del Ministerio de la Presidencia.
+
+3\. Los miembros de la Comisión Ejecutiva no habrán de pertenecer necesariamente al Pleno de la Comisión.
+
+> Se modifica el apartado 2 por el artículo único.2 del Real Decreto 2092/2008, de 19 de diciembre. [Ref. BOE-A-2009-131](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-131).
+
+### Artículo 7. Competencias de la Presidenta de la Comisión.
+
+Son competencias de la Presidenta de la Comisión:
+
+a) Ostentar la representación de la Comisión.
+
+b) Convocar el Pleno y fijar el orden del día.
+
+c) Designar los miembros del Pleno de acuerdo con lo previsto en el artículo 5.3.
+
+d) Designar a los vocales de la Comisión Ejecutiva, a propuesta de los departamentos representados, de la Junta de Andalucía, de la Diputación Provincial de Cádiz y de los ayuntamientos respectivos.
+
+### Artículo 8. Competencias del Vicepresidente de la Comisión.
+
+Son competencias del Vicepresidente de la Comisión:
+
+a) Sustituir a la Presidenta de la Comisión por su delegación y en los casos de vacante, ausencia, enfermedad u otra causa legalmente establecida.
+
+b) En caso de vacante, ausencia o enfermedad del Presidente de la Comisión Ejecutiva, designar a su sustituto.
+
+c) Cualquier otra función que le delegue la Presidenta de la Comisión.
+
+### Artículo 9. Competencias del Presidente de la Comisión Ejecutiva.
+
+Son competencias del Presidente de la Comisión Ejecutiva:
+
+a) Convocar las sesiones de la Comisión Ejecutiva y fijar su orden del día.
+
+b) Presidir las sesiones de la Comisión Ejecutiva, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+
+c) Velar por el cumplimiento de los acuerdos adoptados por el Pleno.
+
+d) Cualquier otra función que le delegue la Comisión Ejecutiva.
+
+### Artículo 10. Competencias del Pleno.
+
+Son competencias del Pleno:
+
+a) Ser informado de los programas de actividades de la Comisión.
+
+b) Supervisar la ejecución de los programas de actividades.
+
+c) Apoyar y alentar las actividades de otros organismos y entidades públicas y privadas, así como de particulares que considere adecuadas para la conmemoración de este II Centenario.
+
+### Artículo 11. Competencias de la Comisión Ejecutiva.
+
+Será competencia de la Comisión Ejecutiva aprobar e impulsar la ejecución de los programas de actividades de la Comisión, recabar la colaboración de departamentos ministeriales y de organismos y entidades públicas y privadas para el cumplimiento de sus funciones, objetivos y proyectos, así como cualquier otro cometido que le encomiende el Pleno.
+
+### Artículo 12. Medios personales y materiales.
+
+1\. Todos los cargos de la Comisión tendrán carácter honorífico, y no percibirán retribución alguna por el ejercicio de sus funciones, salvo, en su caso, las compensaciones que les correspondan en aplicación de lo previsto en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.
+
+2\. El Ministerio de la Presidencia proveerá, en el marco de sus competencias, los medios personales y materiales que estime necesarios para el funcionamiento de la Comisión.
+
+### Artículo 13. Funcionamiento de la Comisión.
+
+Sin perjuicio de las peculiaridades previstas en este real decreto, el funcionamiento de la Comisión se ajustará a lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 14. Extinción.
+
+La Comisión dejará de desempeñar sus funciones y se considerará extinguida una vez cumplidos los objetivos y celebrados los actos que determinan su creación, y en todo caso antes de finalizar el primer trimestre el año 2013.
+
+### Disposición adicional única. Creación de un consorcio.
+
+Para facilitar el cumplimiento de los objetivos de la Comisión, se podrá acordar la constitución de un consorcio para la gestión de los créditos que se destinen a las actividades e inversiones relacionadas con la conmemoración, de conformidad con lo establecido en la legislación vigente.
+
+### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 3 de febrero de 2006.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

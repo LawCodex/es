@@ -1,0 +1,852 @@
+---
+title: "Real Decreto 1314/2005, de 4 de noviembre, por el que se aprueba el Reglamento de retribuciones del personal de las Fuerzas Armadas"
+identifier: "BOE-A-2005-18265"
+eli: "https://www.boe.es/eli/es/rd/2005/11/04/1314"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2005-11-04
+published: 2005-11-05
+in_force_from: 2005-11-06
+last_amended: 2025-03-26
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 265"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-18265"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1314/2005, de 4 de noviembre, por el que se aprueba el Reglamento de retribuciones del personal de las Fuerzas Armadas
+
+Los miembros de las Fuerzas Armadas están sujetos a un régimen de personal que implica unas especiales circunstancias y servidumbres en su desempeño profesional, al desarrollar sus funciones en el ámbito de la seguridad y defensa. Su cometido, que en ocasiones se desarrolla bajo condiciones de penosidad física y riesgo personal, requiere de una disponibilidad para el servicio y de una movilidad que imponen restricciones a su vida personal y a la de sus familias. Por ello, contar con unas Fuerzas Armadas profesionales y justamente retribuidas es uno de los objetivos del Gobierno.
+
+Atendiendo a esta necesidad, el Consejo de Ministros, mediante el Acuerdo de 2 de septiembre de 2005, se comprometió a dotar el presupuesto del Ministerio de Defensa con 450 millones de euros adicionales en los próximos tres años, destinados a incrementar las retribuciones del personal militar, preferentemente en el complemento específico, el complemento de dedicación especial/productividad y en los niveles del complemento de empleo de los empleos inferiores. Estas modificaciones, que afectan no sólo a la cuantía, sino también a la estructura de algunos conceptos retributivos, deben plasmarse en un nuevo reglamento de retribuciones del personal de las Fuerzas Armadas.
+
+El reglamento que ahora se aprueba y que sustituye al aprobado por el Real Decreto 662/2001, de 22 de junio, se dicta, como aquél, en desarrollo de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas. El artículo 152 de dicha ley determina que el sistema retributivo y del régimen de indemnizaciones por razón del servicio de los miembros de las Fuerzas Armadas serán los de los funcionarios civiles de la Administración del Estado, adaptados a la estructura jerarquizada de las Fuerzas Armadas, las peculiaridades de la carrera militar y la singularidad de los cometidos que tienen asignados.
+
+La estructura retributiva sigue el marco de la de los funcionarios civiles conservando las denominaciones más acordes para el ámbito militar de complemento de empleo, en lugar de complemento de destino, y complemento de dedicación especial, en lugar de complemento de productividad. Se elevan un nivel los complementos de empleo de soldado, cabo, cabo primero, cabo mayor, sargento y sargento primero, medida con la que se mejoran los empleos inferiores de la línea de mando sin alterar la correspondencia de los niveles con la estructura jerarquizada de las Fuerzas Armadas.
+
+El aspecto más significativo de la nueva regulación afecta al complemento específico. El componente general del complemento específico sigue vinculado al empleo alcanzado por el militar. Sus cuantías se elevan con carácter general, pero con incrementos distintos por empleo con la finalidad de racionalizar las existentes hasta ahora para que respondan a la progresión de la carrera profesional del militar. El componente singular deja de estar directamente vinculado al empleo para convertirse en el elemento retributivo que compense las características y circunstancias específicas del puesto desempeñado. De esta forma se cumple mejor el mandato contenido en el artículo 152 de la Ley 17/1999, de 18 de mayo, en el sentido de primar con las retribuciones complementarias la responsabilidad, la disponibilidad permanente, la preparación técnica y las singularidades de determinados cometidos.
+
+Este nuevo tratamiento del complemento específico obligará a una nueva configuración de las características retributivas de las relaciones de puestos militares contempladas en la plantilla de destinos, en las que se recogerá, entre otras características, el componente singular del complemento específico.
+
+Finalmente, se lleva a cabo una nueva regulación de la Comisión Superior de Retribuciones Militares, que se constituye en el órgano encargado de la aprobación y actualización de las características retributivas de las relaciones de puestos militares.
+
+En su virtud, a iniciativa del Ministro de Defensa, a propuesta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de noviembre de 2005,
+
+## D I S P O N G O :
+
+### Artículo único. Aprobación del Reglamento.
+
+Se aprueba el Reglamento de retribuciones del personal de las Fuerzas Armadas, cuyo texto se inserta a continuación.
+
+### Disposición transitoria única. Componente singular del complemento específico.
+
+En tanto no se aprueben las nuevas características retributivas de las relaciones de puestos militares contemplados en la plantilla de destinos, continuará en vigor lo dispuesto para el componente singular del complemento específico en el Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por el Real Decreto 662/2001, de 22 de junio, y en sus normas de desarrollo, así como las asignaciones de este componente derivadas de esta regulación. Las cuantías del componente singular del complemento específico se actualizarán en los términos previstos en las leyes de presupuestos generales del Estado.
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. A la entrada en vigor de este real decreto quedará derogado el Real Decreto 662/2001, de 22 de junio, por el que se aprueba el Reglamento de retribuciones del personal de las Fuerzas Armadas, modificado por el Real Decreto 1745/2003, de 19 de diciembre.
+
+2\. A la entrada en vigor de las normas a que se refiere la disposición final única del Reglamento de retribuciones del personal de las Fuerzas Armadas, quedarán derogados:
+
+a) El Real Decreto del Ministerio de la Guerra, de 7 de diciembre de 1892, por el que se aprueba el reglamento para la revista del comisario de los cuerpos y clases del Ejército.
+
+b) La Orden del Ministerio de Marina, de 1 de enero de 1885, por la que se aprueba el Reglamento de la revista administrativa.
+
+3\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.
+
+### Disposición final primera. Créditos.
+
+El Ministerio de Economía y Hacienda habilitará los créditos necesarios para la plena efectividad de lo dispuesto en este real decreto.
+
+### Disposición final segunda. Fijación de las cuantías del componente singular del complemento específico.
+
+El acuerdo del Consejo de Ministros por el que se aprueben las características retributivas de las relaciones de puestos militares establecidas en las plantillas de destinos fijará las cuantías del componente singular del complemento específico asignado a cada puesto, de entre las establecidas en el anexo IV del reglamento que se aprueba, así como sus efectos económicos, teniendo en cuenta lo dispuesto en el Acuerdo del Consejo de Ministros de 2 de septiembre de 2005.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+La modificación de los importes del complemento de empleo y componente general del complemento específico establecida en el artículo 3 y en los anexos II y III, los nuevos complementos específicos del personal militar destinado en el extranjero regulado en el artículo 12 y anexo V y los nuevos porcentajes del complemento de empleo establecidos en la disposición transitoria cuarta, todos ellos del reglamento que se aprueba, tendrán efectos económicos de 1 de noviembre de 2005.
+
+Dado en Madrid, el 4 de noviembre de 2005.
+
+JUAN CARLOS R.
+
+La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ
+
+## REGLAMENTO DE RETRIBUCIONES DEL PERSONAL DE LAS FUERZAS ARMADAS
+
+## CAPÍTULO I — Ámbito de aplicación
+
+### Artículo 1. Ámbito de aplicación.
+
+Este reglamento será de aplicación a los militares que mantengan alguno de los vínculos contemplados en el artículo 3 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+Este personal sólo podrá ser retribuido por los conceptos y en las condiciones que se determinan en este reglamento.
+
+> Se modifica por el art. 1.1 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+## CAPÍTULO II — Conceptos retributivos
+
+### Artículo 2. Retribuciones básicas.
+
+1\. Son retribuciones básicas el sueldo, los trienios y las pagas extraordinarias.
+
+2\. El sueldo es el asignado a cada uno de los subgrupos de clasificación a que se refiere el artículo 152.2 de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, según la redacción dada por la disposición final tercera de la Ley 39/2007, de 19 de noviembre, en concordancia con el artículo 76 de la Ley 7/2007, de 12 de abril, por la que se aprueba el Estatuto Básico del Empleado Público, con las equivalencias entre los subgrupos de clasificación y empleos militares que figuran en el anexo I.
+
+3\. Los trienios están constituidos por una cuantía que se fijará en las leyes de presupuestos generales del Estado de cada año para cada subgrupo de clasificación, perfeccionándose uno cada tres años de servicios efectivos en cualquier situación en la que se reconozca el tiempo a estos efectos.
+
+En el caso de variación de empleo militar que conlleve cambio de subgrupo de clasificación, el tiempo transcurrido antes del cambio se considerará, a efectos de completar un trienio, como de servicios prestados en el grupo/subgrupo en que se perfecciona.
+
+El importe será el correspondiente a la cuantía fijada para cada subgrupo de clasificación en que cada trienio se haya perfeccionado.
+
+Los militares con una relación de servicios de carácter temporal sólo devengarán trienios a partir de la fecha del inicio del compromiso de larga duración.
+
+4\. Las pagas extraordinarias serán dos al año, por un importe cada una de ellas de una mensualidad del sueldo, y en su caso, trienios, completadas en la forma prevista en las leyes anuales de presupuestos generales del Estado, así como las pensiones anejas a las condecoraciones y recompensas que se tengan reconocidas. Su devengo se realizará con las mismas condiciones que se establecen para los funcionarios civiles de la Administración del Estado.
+
+> Se modifican los apartados 2 y 3 por el art.1.1 y 2 del Real Decreto 843/2013, de 31 de octubre. [Ref. BOE-A-2013-11462](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11462).
+
+> Se modifica por el art. 1.2 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica el apartado 3 por el art. único.1 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 2.
+
+### Artículo 3. Retribuciones complementarias.
+
+1\. Son retribuciones complementarias: el complemento de empleo, el complemento específico, el complemento de dedicación especial y la gratificación por servicios extraordinarios.
+
+Los complementos de empleo, específico y de dedicación especial son conceptos retributivos que se corresponden, respectivamente, con los complementos de destino, específico y de productividad recogidos en la Ley 30/1984, de 2 de agosto, para los funcionarios civiles.
+
+2\. El complemento de empleo retribuirá la distinta responsabilidad según el empleo militar que se tenga, derivada del ejercicio de la profesión militar. Dicho complemento responderá a la estructura jerarquizada de las Fuerzas Armadas.
+
+Los empleos de teniente y de alférez tendrán el mismo complemento de empleo.
+
+Su importe será el establecido para los niveles de complemento de destino asignados a los puestos de trabajo desempeñados por los funcionarios del Estado incluidos en el ámbito de aplicación de la citada Ley 30/1984, de 2 de agosto, excepto los correspondientes a los oficiales generales. Su cuantía se relaciona en el anexo II.
+
+3\. El complemento específico estará constituido por el componente general y el componente singular que tenga asignado el puesto, con las excepciones contempladas en el capítulo IV, y se devengará en las mismas condiciones que se establezcan para el personal funcionario incluido en el ámbito de aplicación de la Ley 30/1984, de 2 de agosto, en los términos de la Ley 7/2007, de 12 de abril.
+
+El componente general es la parte del complemento específico que se percibe en función del empleo que se tenga, siguiendo un orden jerárquico dentro de cada categoría. El importe mensual para cada empleo se establece en el anexo III.
+
+El componente singular es la parte del complemento específico que retribuye las especiales condiciones en que la unidad de destino desarrolla su actividad, así como, dentro de ella, las particulares condiciones de responsabilidad, preparación técnica, peligrosidad y penosidad del puesto. Los puestos podrán tener asignado un componente singular de los establecidos en el anexo IV, que figurará en la correspondiente relación de puestos militares. La percepción de este componente es independiente del empleo del militar que ocupe el puesto.
+
+Las cuantías contempladas en el citado anexo IV se podrán modificar por la Comisión Superior de Retribuciones Militares, previo informe favorable del Ministerio de Economía y Hacienda.
+
+La asignación inicial de las características retributivas de la relación de puestos militares será aprobada por Acuerdo de Consejo de Ministros a propuesta conjunta de los Ministros de Economía y Hacienda y de Administraciones Públicas y a iniciativa del Ministro de Defensa.
+
+La modificación de las características retributivas de la relación de puestos militares que no suponga incremento de gasto, será aprobada por la Comisión Superior de Retribuciones Militares. Cuando dicha modificación suponga un incremento de gasto será aprobada por la citada comisión, previo informe favorable del Ministerio de Economía y Hacienda.
+
+La percepción de este componente singular del complemento específico durante un período de tiempo no originará derecho respecto de las valoraciones o apreciaciones del puesto correspondientes a períodos sucesivos, teniendo carácter permanente para cada puesto de trabajo, en tanto no se modifique la asignación de este componente en la relación de puestos militares.
+
+4\. El complemento de dedicación especial retribuirá el especial rendimiento, la actividad extraordinaria o la iniciativa con que se desempeñe el puesto. Su cuantía podrá estar diferenciada en distintos conceptos y tipos.
+
+El Ministro de Defensa aprobará los criterios de asignación y las cuantías por abonar de dicho complemento dentro de los créditos que se asignen específicamente para esta finalidad.
+
+La percepción de esta retribución complementaria durante un período de tiempo no originará ningún derecho respecto de las valoraciones o apreciaciones correspondientes a otros períodos, ni tendrá carácter permanente para un determinado puesto.
+
+5\. La gratificación por servicios extraordinarios fuera de la jornada normal de trabajo tendrá carácter excepcional y no podrá ser fija en su cuantía ni periódica en su devengo. Se concederá por el Ministro de Defensa dentro de los créditos asignados a tal fin y en las cuantías que éste determine.
+
+> Se modifica el apartado 3 por el art. 1.3 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 4. Otras retribuciones e indemnizaciones.
+
+1\. La ayuda para vestuario se percibirá en una cuantía mensual de 24,54 euros, cuando el interesado se encuentre en las situaciones de servicio activo y en reserva siempre que perciba retribuciones de servicio activo, excepto si procede de reserva transitoria.
+
+Los militares de complemento y los profesionales de tropa y marinería no percibirán dicha ayuda durante el primer año de servicio.
+
+Esta retribución se actualizará anualmente según disponga la Ley de Presupuestos Generales del Estado para el conjunto de las retribuciones.
+
+2\. La indemnización por residencia se percibirá según lo dispuesto en la legislación sobre esta materia.
+
+3\. **(Sin contenido)**
+
+4\. El incentivo por años de servicio se podrá percibir por los militares de tropa y marinería con una relación de servicios de carácter temporal, en un pago único cada vez que cumplan las condiciones que se determinen. Estas condiciones y su cuantía serán fijadas por el Ministro de Defensa, previo informe favorable del Ministerio de Hacienda y Administraciones Públicas, teniendo en cuenta, entre otras, las necesidades del planeamiento de la defensa militar, las disponibilidades presupuestarias y los años de servicio.
+
+5\. Las prestaciones familiares se percibirán según lo dispuesto en la legislación sobre esta materia.
+
+6\. Las pensiones de recompensas y de mutilación se percibirán de acuerdo con su legislación específica, con independencia de la situación militar del interesado y en las respectivas cuantías establecidas en las leyes de presupuestos generales del Estado.
+
+7\. El personal que debido a las previsiones del planeamiento de la defensa, y que por no existir suficientes peticionarios para pasar con carácter voluntario a la situación de reserva en los cupos establecidos por el Ministro de Defensa, pase de manera excepcional a la misma con carácter forzoso o anuente, según las condiciones establecidas en el apartado 3 del artículo 113 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, percibirá al mes siguiente de su pase a esta situación, por una sola vez, una prima en la cuantía resultante de multiplicar el número de años que le falten, calculado con un decimal, redondeado al alza, para alcanzar las edades determinadas en el apartado 4 del mismo artículo, por el importe que se establece en el Anexo VII. Dicho importe se actualizará anualmente en igual porcentaje que el que se establezca con carácter general para el resto de las retribuciones.
+
+No obstante, dichas cuantías se podrán modificar por la Comisión Superior de Retribuciones Militares, previo informe favorable del Ministerio de Economía y Hacienda.
+
+El pago de esta retribución se realizará en un pago único.
+
+En el caso de que el personal que haya percibido esta prima ocupe destino de reserva antes de cumplir la edad establecida en el citado apartado 4 del artículo 113 de la citada Ley 39/2007, de 19 de noviembre, deberá reintegrar el importe correspondiente al tiempo que efectivamente ocupe destino hasta cumplir la citada edad.
+
+Dicho reintegro se realizará cada mes que ocupe destino por el importe resultante de dividir el importe anual abonado por doce.
+
+> Se deja sin contenido el apartado 3 y se modifica el 4 por el art.1.3 y 4 del Real Decreto 843/2013, de 31 de octubre. [Ref. BOE-A-2013-11462](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11462).
+
+> Se modifican los apartados 1, 3 y 4 y se añade el 7 por el art. 1.4 y 5 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+## CAPÍTULO III — Retribuciones según la situación administrativa
+
+### Artículo 5. Servicio activo.
+
+1\. El personal militar profesional que se encuentre ocupando alguno de los puestos en las unidades, centros y organismos del Ministerio de Defensa, así como en sus órganos directivos a que se refiere el artículo 99 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, percibirá las retribuciones básicas y los complementos de empleo y componente general del complemento específico asignados a su empleo, o aquel que tenga concedido con carácter eventual, con las excepciones establecidas en el capítulo IV.
+
+Asimismo, podrá percibir el componente singular del complemento específico, el complemento de dedicación especial y las gratificaciones por servicios extraordinarios, así como las restantes retribuciones, gratificaciones o indemnizaciones contempladas en los artículos 2, 3 y 4, siempre que se cumplan las condiciones previstas en este reglamento para su percepción.
+
+2\. Cuando el militar profesional esté pendiente de asignación de destino, percibirá las retribuciones básicas y los complementos de empleo y componente general del complemento específico asignados a su empleo, y las restantes retribuciones contempladas en el artículo anterior siempre que se cumplan las condiciones previstas en este reglamento para su percepción.
+
+Cuando el militar profesional pierda el destino en aplicación de lo previsto en los apartados 2 y 3 del artículo 121 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, y siempre que la insuficiencia de condiciones psicofísicas esté relacionada con el servicio, y cumpla los requisitos y condiciones fijados por orden del Ministro de Defensa, previo informe favorable del Ministerio de Hacienda y Administraciones Públicas, percibirá hasta la resolución del expediente, además de las retribuciones propias de la situación, un importe que se calculará mediante la suma del componente singular del complemento específico que tenía asignado el puesto que ocupaba, incluyendo la parte de la paga adicional que pudiera corresponderle en los meses de junio y diciembre y el importe medio mensual del complemento de dedicación especial que haya percibido en los seis meses anteriores al del hecho causal, incluido éste.
+
+Si se encontrase en ese momento participando en operaciones de apoyo a la paz y de ayuda humanitaria en el extranjero y por ser incompatible el complemento de dedicación especial con la indemnización, en algunos meses no hubiera percibido este complemento, se considerará que en dichos meses el importe será el relativo al mismo que se toma para el cálculo de la indemnización.
+
+Si no se percibiese el componente singular por estar destinado en el extranjero y por tanto percibiese complemento específico, se tomará para los efectos del párrafo anterior, la diferencia de este complemento con el componente general del complemento específico, siempre que ésta sea positiva.
+
+3\. Los alumnos de los centros docentes militares de formación percibirán mensualmente el 60 por 100 del sueldo del subgrupo C2, sin derecho a pagas extraordinarias.
+
+Los alumnos de la enseñanza militar de formación, una vez concedidos con carácter eventual los empleos de alférez, sargento y soldado, con las denominaciones específicas determinadas en las normas de régimen interior de los centros militares de formación, percibirán una retribución equivalente al porcentaje del sueldo que para cada caso se indica:
+
+a) Alférez alumno: 60 por 100 del subgrupo A2.
+
+b) Sargento alumno: 45 por 100 del subgrupo A2.
+
+c) Soldado alumno: 60 por 100 del subgrupo C2.
+
+También percibirán pagas extraordinarias por un importe igual al porcentaje de sueldo establecido para cada empleo.
+
+Estas pagas extraordinarias se devengarán de acuerdo con lo previsto en el artículo 2.4.
+
+A los militares de carrera, y a los militares de complemento y militares de tropa y marinería con un compromiso de larga duración, que se encuentren en servicio activo e ingresen en un centro militar de formación, si durante el período de formación perfeccionan algún trienio, se les concederá del subgrupo correspondiente al que perciban sus retribuciones.
+
+En el caso de militares de complemento y militares de tropa y marinería con una relación de servicios de carácter temporal, que no tengan suscrito un compromiso de larga duración, que durante su permanencia en un centro militar de formación completen el tiempo necesario para el perfeccionamiento de algún trienio, éste se le reconocerá al acceder a militar de carrera, en ambos casos, o al iniciar dicho compromiso para estos últimos, del subgrupo correspondiente al que percibían sus retribuciones en aquel momento.
+
+Los alumnos de la enseñanza militar de formación no devengarán retribuciones complementarias, salvo en los períodos de prácticas en unidades contemplados en sus respectivos planes de estudio, en los que percibirán el 100 por 100 del complemento de empleo correspondiente al empleo efectivo equivalente al suyo, así como, en su caso, las retribuciones contempladas en los artículos 13, 18 y 19, que pudieran corresponderles.
+
+Aunque las cuantías de referencia responden a una periodicidad mensual, se abonarán por días.
+
+Los alumnos de la enseñanza militar de formación no devengarán trienios. No obstante, al ingresar en las escalas correspondientes como militares de carrera o al firmar el compromiso de larga duración, se les computará, a efectos de trienios, el tiempo transcurrido a partir de la fecha en que fueron nombrados alféreces o sargentos, con carácter eventual, o desde la fecha del compromiso inicial para el personal de tropa y marinería.
+
+Los militares que ingresen en los centros docentes militares de formación podrán optar, al causar alta administrativa en el centro correspondiente, o al obtener un empleo eventual, entre percibir sus retribuciones de acuerdo con lo establecido en los apartados precedentes o percibir las retribuciones correspondientes al empleo que tienen y al destino que ocupan en el centro docente militar.
+
+4\. Al personal militar destinado en la estructura de la Guardia Civil le será de aplicación el Reglamento de Retribuciones de las Fuerzas y Cuerpos de Seguridad del Estado, aprobado por Real Decreto 950/2005, de 29 de julio.
+
+5\. A los militares profesionales que hayan adquirido la condición de personal estatutario temporal del Centro Nacional de Inteligencia les será de aplicación el régimen retributivo establecido en el Estatuto de personal del Centro Nacional de Inteligencia, aprobado por el Real Decreto 327/2004, de 27 de febrero, percibiendo las retribuciones complementarias asignadas al puesto de trabajo que desempeñen.
+
+> Se modifican los apartados 2 y 3 por el art.1.5 y 6 del Real Decreto 843/2013, de 31 de octubre. [Ref. BOE-A-2013-11462](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11462).
+
+> Se modifica por el art. 1.6 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica el apartado 3 y se añade el 5 por el art. único.2 y 3 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 2.
+
+### Artículo 6. Servicios especiales.
+
+En la situación de servicios especiales, contemplada en el artículo 109 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, se percibirán las retribuciones del puesto o cargo efectivo que se desempeñe y no las que correspondan por la condición de militar.
+
+Excepcionalmente, cuando las retribuciones por trienios y pensiones de recompensas y mutilación reconocidas, así como la parte proporcional de la paga extraordinaria correspondiente, en su caso, a los trienios y pensiones citadas en el artículo 2.4 no pudieran ser percibidas con cargo a los correspondientes presupuestos del organismo en que se preste servicio, deberán ser reclamadas y abonadas, en tal concepto, por la correspondiente pagaduría del ejército al que se pertenezca o por la pagaduría del órgano central para el personal perteneciente a los Cuerpos Comunes de las Fuerzas Armadas, previa acreditación de dicha circunstancia, al objeto de evitar una posible duplicidad en la reclamación.
+
+> Se modifica por el art. 1.7 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 7. Excedencia.
+
+1\. En la situación de excedencia no se devengarán retribuciones, excepto si se hubiera pasado a ella por razón de violencia de género. En este caso, durante los dos primeros meses de excedencia se tendrá derecho a percibir las retribuciones íntegras del último destino.
+
+2\. En cualquier caso, se podrán seguir percibiendo las pensiones de recompensas y mutilación que se tuviesen reconocidas.
+
+> Se modifica por el art. 1.8 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifica el apartado 1 por el art. único.4 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 2.
+
+### Artículo 8. Situaciones de suspenso de empleo y de suspenso de funciones.
+
+En estas situaciones se percibirá el 75 por ciento de las retribuciones básicas, así como toda la prestación familiar y de las pensiones de mutilación y recompensas a que se pudiera tener derecho, que serán abonadas por la correspondiente pagaduría del Ejército o del órgano central en cuya estructura se encuentre encuadrado y con cargo a sus recursos económicos.
+
+### Artículo 9. Reserva.
+
+1\. En la situación de reserva, se percibirán las retribuciones básicas y un complemento de disponibilidad en virtud de su empleo, equivalente a la suma de los importes fijados para el complemento de empleo y el componente general del complemento específico, en las cuantías que se indican en el anexo VIII. Además, se percibirá en los meses de junio y diciembre una paga adicional del complemento específico por un importe igual al que se perciba por el componente general del complemento específico por el personal en situación de servicio activo.
+
+2\. Cuando el pase a la situación de reserva se produzca por alguna de las causas previstas en el artículo 113 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, se percibirán las retribuciones del personal en servicio activo señaladas en el artículo 5.2, hasta cumplir la edad de sesenta y tres años.
+
+3\. El personal en situación de reserva que ocupe un puesto, por destino o en comisión de servicios, percibirá en su totalidad las retribuciones previstas en el artículo 5.1.
+
+4\. En la situación de reserva procedente de reserva transitoria, se percibirán las retribuciones básicas, el complemento de empleo y el componente general del complemento específico correspondientes a su empleo, así como las de carácter personal a que se tenga derecho, pero no se percibirá la ayuda para el vestuario.
+
+No obstante, al alcanzarse la edad que tenía fijada este personal para pasar a la reserva en la Ley 17/1989, de 19 de julio, y en todo caso al cumplirse 15 años desde el pase a la situación de reserva transitoria, se percibirán las retribuciones básicas que con carácter general se fijan para la situación de reserva percibiendo el complemento de disponibilidad y la paga adicional del complemento específico, ambas en el 80 por ciento de su importe.
+
+5\. En esta situación se percibirán, además, las pensiones de recompensas y mutilación que se tuviesen reconocidas.
+
+6\. Las retribuciones del personal en reserva serán abonadas por la pagaduría del órgano central, excepto las del personal que ocupe puesto, que serán abonadas por la correspondiente pagaduría del Ejército u organismo en cuya estructura se integre y con cargo a sus recursos económicos.
+
+7\. El tiempo transcurrido en la situación de reserva será computable a los efectos de trienios.
+
+> Se modifican los apartados 1 y 4 por el art. único.1 del Real Decreto 1053/2020, de 1 de diciembre. [Ref. BOE-A-2020-15397](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15397)
+
+> Se modifican los apartados 1 y 2 por el art. 1.9 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 10. Pérdida o renuncia de la condición militar.
+
+La pérdida o renuncia de la condición militar llevará aparejado el cese en el percibo de retribuciones, excepto en lo que se refiere a las pensiones de recompensas y mutilación que se pudieran tener reconocidas.
+
+El abono de la liquidación correspondiente se efectuará por la pagaduría por la que venía percibiendo sus retribuciones y con cargo a sus recursos económicos. En el caso de percibirse pensiones de recompensas o mutilación, el abono se realizará por parte de la correspondiente pagaduría del Ejército a que pertenezcan o por la del órgano central de tratarse de personal militar de los cuerpos comunes.
+
+## CAPÍTULO IV — Retribuciones e indemnizaciones en casos particulares
+
+### Artículo 11. Personal militar incluido en las relaciones de puestos de trabajo del Ministerio de Defensa.
+
+Los miembros de las Fuerzas Armadas que ocupen puestos de trabajo incluidos en las relaciones de puestos de trabajo del Ministerio de Defensa y sus organismos autónomos, percibirán las retribuciones básicas que correspondan de acuerdo con lo dispuesto en este reglamento y las complementarias asignadas al puesto que desempeñen.
+
+En el caso de que la cuantía correspondiente al nivel del complemento de destino del puesto sea menor del importe del complemento de empleo asignado a su empleo, percibirán la correspondiente a este último. En este supuesto se considerará también el complemento de empleo a los efectos de las correspondientes pagas extraordinarias.
+
+> Se modifica por el art. único.5 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde 1 de enero de 2007, según establece la disposición final 2.
+
+### Artículo 12. Personal militar destinado en el extranjero.
+
+El personal militar destinado en el extranjero percibirá sus retribuciones según lo previsto en el Real Decreto 6/1995, de 13 de enero, por el que se regula el régimen de retribuciones de los funcionarios destinados en el extranjero.
+
+Al personal destinado en misiones diplomáticas, representaciones o misiones permanentes, delegaciones, oficinas consulares, e instituciones y servicios de la Administración del Estado en el exterior que ocupe puestos incluidos en las relaciones de puestos de trabajo le será de aplicación lo dispuesto en el artículo anterior.
+
+El personal destinado en unidades y programas percibirá, además de las retribuciones básicas que le correspondan, el complemento de empleo establecido en el artículo 3 y, en función de su empleo, el complemento específico establecido en el anexo V.
+
+> Este art. tiene efectos económicos de 1 de noviembre de 2005, según establece la disposición final 3.
+
+### Artículo 13. Personal militar médico y sanitario.
+
+1\. El personal militar médico y sanitario que ocupe puestos de trabajo en los centros hospitalarios militares que determine el Ministro de Defensa podrá percibir, además de las retribuciones básicas y complementarias previstas en este reglamento, un complemento de dedicación especial en concepto de atención continuada cuya cuantía, condiciones y requisitos se determinarán por el Ministro de Defensa.
+
+La percepción de este complemento es incompatible con la del complemento de dedicación especial definido en el artículo 3.
+
+2\. Las retribuciones del personal militar médico y sanitario que ocupe puestos de trabajo con la condición de plaza vinculada, de acuerdo con lo dispuesto en el Real Decreto 1558/1986, de 28 de junio, por el que se fijan las bases generales del régimen de conciertos entre la universidad y las instituciones sanitarias, con las modificaciones introducidas por el Real Decreto 1652/1991, de 11 de octubre, serán las establecidas en las leyes de presupuestos generales del Estado.
+
+### Artículo 14. Personal militar reservista voluntario.
+
+1\. El personal reservista voluntario durante el período de activación para prestar servicio en el puesto asignado en las unidades, centros y organismos de las Fuerzas Armadas, percibirá las retribuciones fijadas para su empleo militar, según lo estipulado para el personal militar profesional que mantenga una relación de servicios de carácter temporal y no tenga suscrito un compromiso de larga duración.
+
+2\. Durante el período de formación básica militar y, en su caso específica, los seleccionados para adquirir la condición de reservista voluntario, así como el personal reservista voluntario cuando sea activado para la realización de períodos de instrucción y adiestramiento o asistir a cursos de formación y perfeccionamiento, percibirá una indemnización calculada sobre el salario mínimo interprofesional diario vigente y que será:
+
+a) Para los reservistas voluntarios con empleo de categoría de oficial, o en período de formación para acceder a éste, tres veces dicho salario.
+
+b) Para los reservistas voluntarios con empleo de categoría de suboficial, o en período de formación para acceder a éste, dos veces y media dicho salario.
+
+c) Para los reservistas voluntarios con empleo de la categoría de tropa y marinería o en período de formación para acceder al mismo, dos veces dicho salario.
+
+Esta indemnización se abonará con cargo a los créditos para gastos corrientes, teniendo igual consideración que las indemnizaciones por razón del servicio, y siendo incompatible su percepción con el percibo de las previstas en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón de servicio.
+
+No devengarán retribuciones, por lo que no les es de aplicación lo contemplado con carácter general para los alumnos de formación establecido en el artículo 5.3.
+
+3\. En todos los supuestos de incorporación previstos en su reglamento, los reservistas voluntarios tendrán derecho a efectuar por cuenta del Estado los correspondientes viajes de ida y regreso.
+
+> Se modifica por el art. 1.10 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 15. Comisiones de servicio en puestos vacantes.
+
+1\. Cuando a un militar en servicio activo, pendiente de asignación de destino, se le encomiende la realización de una comisión de servicio en un puesto que estuviese vacante, percibirá el componente singular del complemento específico asignado a éste, así como el complemento de dedicación especial, si procediese.
+
+2\. Cuando un militar desempeñe en comisión de servicio un puesto que se encuentre vacante, sin pérdida del destino anterior, percibirá las retribuciones que correspondan al puesto mejor retribuido globalmente.
+
+3\. El abono de todas las retribuciones que le correspondan será efectuado por la correspondiente pagaduría del Ejército o del órgano central en que se encuentre comisionado y con cargo a sus recursos económicos, excepto si siguiera percibiendo las retribuciones de su destino, en tal caso será esa pagaduría la que efectúe la reclamación.
+
+Cuando la comisión de servicio se realice fuera del término municipal donde radique la residencia oficial del comisionado, percibirá además las indemnizaciones por razón del servicio que pudieran corresponderle de acuerdo con la legislación vigente.
+
+> Se modifica el título por el art. 1.11 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 16. Licencia por asuntos propios.
+
+Durante el disfrute de licencia por asuntos propios no se percibirán retribuciones, excepto las correspondientes a las pensiones de mutilación o de recompensas a que se pudiera tener derecho, que serán abonadas por la correspondiente pagaduría del Ejército o del órgano central en que se encuentre encuadrado y con cargo a sus recursos económicos.
+
+### Artículo 17. Personal que disfrute de permiso por maternidad o paternidad.
+
+El personal militar que disfrute del permiso por maternidad o paternidad lo hará sin merma de sus derechos económicos.
+
+> Se modifica por el art. 1.12 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 18. Personal militar que participe en operaciones de apoyo a la paz y de ayuda humanitaria en el extranjero.
+
+El personal de las Fuerzas Armadas que participe en operaciones de apoyo a la paz y de ayuda humanitaria en el extranjero percibirá las retribuciones correspondientes a su empleo y puesto, así como una indemnización que retribuirá las especiales condiciones en que desarrolla su actividad.
+
+Dicha indemnización y los criterios para su percepción serán determinados por el Ministro de Defensa, previo informe del Ministerio de Economía y Hacienda, en función del tipo de misión y del país o países en que se desarrolle.
+
+Esta indemnización, que se abonará con cargo a los créditos destinados a estas operaciones, será incompatible con las previstas en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón de servicio, excepto cuando el personal que se encuentre participando en estas operaciones sea nombrado en comisión de servicio a otra localidad. En este caso percibirá, además, la indemnización establecida en dicho real decreto para el personal que esté en situación de residencia eventual y tenga que desplazarse desde esta.
+
+Su importe se fijará para cada empleo mediante la suma de tres conceptos: el complemento de dedicación especial; un porcentaje, como máximo, del 100 por ciento de la indemnización por residencia eventual; y un porcentaje, como máximo, del 100 por ciento de la suma del sueldo, el complemento de empleo y el componente general del complemento específico.
+
+Esta indemnización tendrá a todos los efectos la consideración de indemnización por razón de servicio.
+
+Esta indemnización se devengará por días pero se abonará con periodicidad mensual.
+
+En los meses de inicio y fin de la misión, la indemnización será compatible con el percibo, en su caso, de los complementos de dedicación especial o productividad que se le pueda asignar por el tiempo de servicios prestados.
+
+### Artículo 19. Personal militar que participe en navegaciones, maniobras o ejercicios.
+
+El personal de las Fuerzas Armadas que participe en navegaciones, maniobras o ejercicios no previstos en el artículo anterior, percibirá las retribuciones básicas y las complementarias que le correspondan según su empleo y puesto.
+
+También percibirá una indemnización que retribuya las especiales condiciones que concurren en estas actividades. Para su cálculo se utilizará un porcentaje del sueldo, complemento de empleo y componente general del complemento específico, porcentaje que se fijará atendiendo a las condiciones en que se desarrollan las navegaciones, maniobras o ejercicios y en proporción al número de días de duración. Esta indemnización será incompatible con las indemnizaciones por razón del servicio previstas en el Real Decreto 462/2002, de 24 de mayo, excepto en los casos en que tenga que alojarse en establecimientos privados, en los que se podrá percibir la dieta de alojamiento.
+
+El Ministro de Defensa, a propuesta de la Comisión Superior de Retribuciones Militares y previo informe favorable del Ministerio de Economía y Hacienda, aprobará la cuantía de esta indemnización y sus criterios de asignación, atendiendo a su duración.
+
+Esta indemnización se devengará por días.
+
+## CAPÍTULO V — Comisión Superior de Retribuciones Militares
+
+### Artículo 20. Comisión Superior de Retribuciones Militares.
+
+1\. La Comisión Superior de Retribuciones Militares será el órgano colegiado superior al que corresponden los cometidos de asesoramiento y desarrollo de la política de retribuciones del personal militar.
+
+2\. La Comisión Superior de Retribuciones Militares, integrada en la Subsecretaría de Defensa, tendrá la siguiente composición:
+
+a) Presidente: el Subsecretario de Defensa.
+
+b) Vicepresidente: el Director General de Personal del Ministerio de Defensa.
+
+c) Vocales: un representante de cada uno de los siguientes centros y organismos con rango de Subdirector General u Oficial General: Ejército de Tierra, Armada, Ejército del Aire, Dirección General de Personal, Dirección General de Reclutamiento y Enseñanza Militar, Dirección General de Asuntos Económicos, Intervención General de la Defensa, Asesoría Jurídica General de la Defensa, Dirección General de la Función Pública del Ministerio de Administraciones Públicas y Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda.
+
+d) Secretario: el Subdirector General de Costes de Recursos Humanos del Ministerio de Defensa.
+
+3\. Bajo la dependencia inmediata de la Comisión Superior de Retribuciones Militares funcionará una Comisión Ejecutiva, cuya composición será la siguiente:
+
+a) Presidente: el Director General de Personal del Ministerio de Defensa.
+
+b) Vocales: los designados en representación del Ejército de Tierra, la Armada, el Ejército del Aire, la Dirección General de Personal, la Dirección General de Asuntos Económicos, la Dirección General de la Función Pública del Ministerio de Administraciones Públicas y la Dirección General de Costes de Personal y Pensiones Públicas del Ministerio de Economía y Hacienda.
+
+c) Secretario: el Subdirector General de Costes de Recursos Humanos del Ministerio de Defensa.
+
+A las reuniones de las Comisiones podrán asistir además aquellos expertos que el Presidente considere oportuno convocar en función de los asuntos que se vayan a tratar.
+
+4\. Corresponden a la Comisión Superior de Retribuciones Militares los siguientes cometidos:
+
+a) Informar las propuestas de modificación de las disposiciones reguladoras de retribuciones del personal militar.
+
+b) Aprobar las modificaciones de las cuantías del componente singular del complemento específico establecidas en el anexo IV, previo informe favorable del Ministerio de Economía y Hacienda.
+
+c) Aprobar las modificaciones de las características retributivas de las relaciones de puestos militares cuando no supongan incremento de gasto.
+
+d) Aprobar las modificaciones de las características retributivas de las relaciones de puestos militares, previo informe favorable del Ministerio de Economía y Hacienda, cuando supongan incremento de gasto.
+
+e) Aprobar las modificaciones de las cuantías del complemento específico establecidas en el anexo V, previo informe favorable del Ministerio de Economía y Hacienda.
+
+f) Aprobar las modificaciones de las cuantías de la prima por pase a la reserva con carácter forzoso o anuente establecidas en el anexo VII, previo informe favorable del Ministerio de Economía y Hacienda.
+
+g) Informar sobre los criterios de concesión y cuantías del complemento de dedicación especial.
+
+h) Informar cualquier otra cuestión en materia de retribuciones de personal militar que someta a su consideración el Ministro de Defensa.
+
+i) Aprobar los complementos específicos previstos en el segundo párrafo del apartado 1.c) del artículo 12 del Real Decreto 1145/1990, de 7 de septiembre, por el que se crea el Servicio de Asistencia Religiosa en las Fuerzas Armadas y se dictan normas sobre su funcionamiento, necesitando el informe previo favorable del Ministerio de Economía y Hacienda, cuando supongan incremento de gasto.
+
+5\. La Comisión Ejecutiva actuará, con carácter ordinario, por delegación de la Comisión Superior de Retribuciones Militares.
+
+6\. En lo no previsto por este artículo, los órganos colegiados citados se atendrán a lo establecido en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+> Se modifican los apartados 2 a 4 por el art. 1.13 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se modifican los apartados 2 y 3 por el art. único.6 del Real Decreto 789/12303, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 2.
+
+## CAPÍTULO VI — Otras disposiciones en materia retributiva
+
+### Artículo 21. Devengo de retribuciones.
+
+1\. Las retribuciones básicas y las complementarias, excepto la gratificación por servicios extraordinarios, se devengarán y harán efectivas por mensualidades completas y de acuerdo con la situación y derechos del militar referidos al día uno del mes al que los haberes correspondan, salvo en los siguientes casos, en que se liquidarán por días:
+
+a) En el mes en que se adquiera, se pierda o se renuncie a la condición de militar.
+
+b) En el mes de obtención del primer empleo militar.
+
+c) En el mes en que se produzca cambio de subgrupo de clasificación.
+
+d) En el mes en que se produzca cambio de situación administrativa que origine el cese o alta en el percibo de retribuciones, salvo que el cese lo sea por motivos de fallecimiento o retiro.
+
+e) En el mes en que se inicie o finalice una licencia por asuntos propios.
+
+f) En aquellos casos expresamente determinados en este Reglamento
+
+2\. Para el percibo de las retribuciones que no se devenguen con carácter mensual, será necesario que, por el órgano competente, se determine el derecho a su percepción como consecuencia de la prestación de los correspondientes servicios.
+
+3\. Cualquier acto administrativo que implique modificaciones retributivas surtirá efectos económicos a partir del día siguiente al de su publicación o notificación, salvo que en él se determine otra fecha. En el caso de ascenso, los efectos económicos se corresponderán con la fecha de antigüedad, teniendo en cuenta lo dispuesto en el apartado 1.
+
+4\. En el caso de reducción de jornada que conlleve disminución de retribuciones, el cálculo de la disminución se efectuará por días.
+
+5\. Sin perjuicio de la sanción disciplinaria que pudiera corresponder, la parte de jornada no realizada dará lugar a la deducción proporcional de haberes que no tendrá carácter sancionador.
+
+> Se modifica el apartado 1 por el art.1.7 del Real Decreto 843/2013, de 31 de octubre. [Ref. BOE-A-2013-11462](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11462).
+
+> Se modifica el apartado 1 y se añade el 5 por el art. 1.14 y 15 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Artículo 22. Plazo para resolver los procedimientos.
+
+En los procedimientos administrativos relativos a retribuciones del personal militar e indemnizaciones por razón del servicio, el plazo máximo en que debe notificarse la resolución expresa es de seis meses, contado a partir de las fechas indicadas en el artículo 42.3 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Disposición adicional primera. Alumnos de la enseñanza militar de formación.
+
+**(Sin contenido)**
+
+> Se deja sin contenido por el art. 1.16 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Disposición adicional segunda. Trienios.
+
+1\. Los trienios que hubiera perfeccionado el personal militar afectado por la reclasificación aprobada por el Real Decreto-ley 12/1995, de 28 de diciembre, de Medidas Urgentes en Materia Presupuestaria, Tributaria y Financiera, con anterioridad a su entrada en vigor, continuarán valorándose de acuerdo con el grupo de clasificación al que pertenecía en el momento de su perfeccionamiento.
+
+2\. Los militares de complemento y los de tropa y marinería con una relación de servicios de carácter temporal, que tuvieran reconocido algún trienio perfeccionado con anterioridad al 14 de abril de 1989 o al 1 de noviembre de 1991, según fueran de la categoría de oficial o de tropa y marinería, respectivamente, lo continuarán percibiendo.
+
+3\. Los trienios perfeccionados con anterioridad a la entrada en vigor de la Ley 39/2007, de 19 de noviembre, de la carrera militar, continuarán valorándose de acuerdo con el grupo/subgrupo de clasificación equivalentes, según lo dispuesto en la disposición final tercera de la misma, de modificación de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, al que pertenecía en el momento de su perfeccionamiento.
+
+4\. El personal militar al que por aplicación de la disposición adicional décima de la Ley 39/2007, de 19 de noviembre, de la carrera militar, de reordenamiento de los escalafones de las escalas auxiliares y del Cuerpo auxiliar de especialistas del Ejército de Tierra se le asigne un empleo que suponga cambio de grupo/subgrupo retributivo, perfeccionará los trienios del nuevo grupo/subgrupo a partir de la fecha del ascenso una vez pase a la reserva, con independencia de que se le asigne una antigüedad anterior.
+
+En el caso del personal que a la entrada en vigor de la citada ley ya estuviese en la situación de reserva, perfeccionará los trienios del nuevo grupo/subgrupo, si el nuevo empleo supone cambio de éste, a partir de la fecha de antigüedad, sin que ésta pueda ser anterior al 1 de enero de 2008, que se tomaría en ese caso.
+
+No tendrá por tanto, en ningún caso, efectos económicos anteriores a la fecha de entrada en vigor de la citada Ley 39/2007, de 19 de noviembre.
+
+5\. Los trienios perfeccionados con anterioridad al presente reglamento se mantendrán de acuerdo con las disposiciones vigentes en el momento en el que se perfeccionaron, así como la exclusión del tiempo del servicio militar obligatorio a efectos de trienios, según la duración de este servicio en las sucesivas leyes que lo han establecido.
+
+> Se modifica por el art. 1.17 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+> Se añade el apartado 4 por el art. único.7 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2007, según establece la disposición final 2.
+
+### Disposición adicional tercera. Personal de la antigua Escala a extinguir de la Guardia Real.
+
+El personal de la antigua Escala a extinguir de la Guardia Real percibirá las retribuciones básicas y complementarias que se detallan en el anexo VI.
+
+### Disposición adicional cuarta. Personal civil funcionario, laboral y del Servicio de Asistencia Religiosa en las Fuerzas Armadas que participe en operaciones de apoyo a la paz y de ayuda humanitaria en el extranjero.
+
+El personal civil funcionario, laboral y del Servicio de Asistencia Religiosa en las Fuerzas Armadas que participe en operaciones de apoyo a la paz y de ayuda humanitaria en el extranjero percibirá las retribuciones que le correspondan por su puesto de trabajo, excluido el complemento de productividad, en su caso, así como una indemnización que retribuirá las especiales condiciones en que se desarrolla su actividad durante su participación en ellas, y les será de aplicación lo dispuesto en el artículo 18.
+
+Cuando, para el cálculo de la indemnización, en dicho artículo se cita el complemento de dedicación especial, el complemento de empleo y el componente general del complemento específico, se entenderá que se refiere al complemento de productividad, al complemento de destino y al complemento específico en el caso del personal funcionario, respectivamente.
+
+Cuando, para el cálculo de la indemnización, en dicho artículo se cita el complemento de dedicación especial, y el componente general del complemento específico, se entenderá que se refiere al complemento de productividad y al complemento específico en el caso del personal del Servicio de Asistencia Religiosa de las Fuerzas Armadas, respectivamente.
+
+En el caso del personal laboral, el complemento de dedicación especial se sustituirá por un importe igual al 25 por ciento del salario base, y la suma del sueldo, el complemento de empleo y el componente general del complemento específico por la suma del salario base, el componente singular del puesto, si su puesto de trabajo lo tiene asignado, y el complemento personal de unificación, en los casos en que los perciba.
+
+Esta indemnización, que se abonará con cargo a los créditos destinados a estas operaciones, será incompatible con las previstas en el Real Decreto 462/2002, de 24 de mayo.
+
+### Disposición adicional quinta. Personal civil funcionario, laboral y del Servicio de Asistencia Religiosa en las Fuerzas Armadas que participe en navegaciones, maniobras o ejercicios.
+
+Cuando por el Ministro de Defensa se establezcan los criterios de asignación y las cuantías de la indemnización establecida en el artículo 19, se podrán establecer las relativas al personal civil funcionario, laboral y del Servicio Religioso en las Fuerzas Armadas que participe en navegaciones, maniobras o ejercicios no previstos en el artículo 18.
+
+Esta indemnización, será incompatible con las previstas en el Real Decreto 462/2002, de 24 de mayo.
+
+### Disposición adicional sexta. Cuantías retributivas.
+
+Las referencias a retribuciones contenidas en este reglamento y en sus anexos se entienden siempre hechas a retribuciones íntegras y valores vigentes en el año 2005.
+
+### Disposición adicional séptima. Servicio de Asistencia Religiosa en las Fuerzas Armadas.
+
+El personal del Servicio de Asistencia Religiosa en las Fuerzas Armadas podrá percibir, además de las retribuciones establecidas en el artículo 12 del Real Decreto 1145/1990, de 7 de septiembre, por el que se crea el Servicio de Asistencia Religiosa en las Fuerzas Armadas y se dictan normas sobre su funcionamiento, el complemento de productividad y la gratificación por servicios extraordinarios.
+
+### Disposición adicional octava. Incorporación de las nuevas tecnologías de la información en los procedimientos en materia de retribuciones.
+
+El Ministerio de Defensa incorporará el uso de medios electrónicos, informáticos y telemáticos en la tramitación, notificación y control de los procedimientos en materia de retribuciones, y procurará la compatibilidad, integración y seguridad de datos y sistemas, así como la unificación de criterios.
+
+Se garantizará y protegerá el almacenamiento y tratamiento de los datos de carácter personal de acuerdo con la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal.
+
+### Disposición adicional novena. Militares profesionales de tropa y marinería con la condición de reservistas de especial disponibilidad.
+
+Los militares de tropa y marinería reservistas de especial disponibilidad a que se refiere el capítulo V de la Ley 8/2006, de 24 de abril, de Tropa y Marinería, percibirán una asignación mensual por disponibilidad, en doce mensualidades al año, por un importe de 624,24 euros, que se actualizará anualmente según disponga la Ley de Presupuestos Generales del Estado con carácter general para las retribuciones del personal al servicio del sector público.
+
+Si es activado y se incorpora a los Ejércitos, recuperará la condición militar, manteniendo el empleo que tenía en el momento de finalizar su compromiso de larga duración, por el que será retribuido en iguales condiciones que al pasar a esa condición.
+
+> Se añade por el art. 1.18 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Disposición transitoria primera. Personal que participe en navegaciones en el extranjero.
+
+Hasta que el Ministro de Defensa establezca los criterios de asignación de la indemnización que retribuya las navegaciones, maniobras o ejercicios regulados en el artículo 19, será de aplicación:
+
+a) Lo dispuesto para el personal militar de las Fuerzas Armadas en el artículo 18 del Reglamento de Retribuciones aprobado por el Real Decreto 662/2001, de 22 de junio.
+
+b) Lo establecido para el personal civil funcionario, laboral y del Servicio Religioso de la Fuerzas Armadas que participe en navegaciones en el extranjero en la disposición adicional novena del Reglamento de retribuciones del personal de las Fuerzas Armadas, aprobado por el Real Decreto 662/2001, de 22 de junio, modificado por el Real Decreto 1745/2003, de 19 de diciembre.
+
+### Disposición transitoria segunda. Personal en reserva.
+
+1\. Los militares de carrera que el día 1 de enero de 2008 se encontraban en la situación de reserva por aplicación del artículo 144 y la disposición transitoria décima de la Ley 17/1999, de 18 de mayo, los coroneles que pasaron a dicha situación por aplicación de la disposición adicional decimosexta de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, y aquellos que pasen a esta situación por la disposición transitoria octava, de la Ley 39/2007, de 19 de noviembre, mantendrán las retribuciones de servicio activo hasta cumplir la edad de sesenta y tres años.
+
+2\. Los oficiales generales, en situación de reserva, que hayan accedido al empleo de general de división con anterioridad al 1 de enero de 2008, percibirán las retribuciones de servicio activo hasta cumplir la edad de sesenta y cinco años.
+
+3\. Los oficiales generales de los cuerpos generales y de Infantería de Marina que hayan pasado a la situación de reserva por aplicación de la disposición transitoria octava de la Ley 17/1999, de 18 de mayo, percibirán las retribuciones básicas y complementarias del personal en servicio activo pendiente de asignación de destino, hasta cumplir las edades previstas en el artículo 144.1.a) de la citada ley.
+
+> Se modifica por el art. 1.19 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Disposición transitoria tercera. Complemento de ascenso a teniente.
+
+El complemento por ascenso al empleo de teniente compensará la pérdida real en cómputo anual de retribuciones básicas, excluidos trienios, complemento de empleo y componente general del complemento específico, que pudieran experimentar los suboficiales al acceder al empleo de teniente por aplicación de las disposiciones transitoria quinta de la Ley 17/1989, de 19 de julio, adicional octava de la Ley 17/1999, de 18 de mayo, y transitoria séptima de la Ley 39/2007, de 19 de noviembre.
+
+El importe será la diferencia entre las retribuciones anuales citadas de los empleos de teniente y suboficial mayor para aquellos que procedan de este empleo referidas a la misma situación administrativa.
+
+> Se modifica por el art. 1.20 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Disposición transitoria cuarta. Situación de segunda reserva.
+
+1\. Los oficiales generales que se encuentren en situación de segunda reserva percibirán las retribuciones básicas y un complemento de una cuantía igual al 50 por ciento del complemento de empleo, en el caso de los generales de ejército, almirante general, general del aire, tenientes generales o almirantes, el 52 por ciento en el de los generales de división o vicealmirantes y el 60 por ciento en el de los generales de brigada o contralmirantes. Asimismo, podrán percibir las pensiones de recompensas o mutilación que pudieran corresponderles.
+
+A partir del pase a la situación de segunda reserva, no se perfeccionarán trienios, ni se cotizará al Régimen de Clases Pasivas ni al Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
+
+En el caso de que el importe íntegro anual de sus retribuciones resultase inferior a la pensión de retiro prevista para el personal militar con sus mismos años de servicio en las Fuerzas Armadas, y con el límite máximo establecido anualmente para las pensiones de clases pasivas, la diferencia resultante incrementaría la cuantía del complemento a percibir.
+
+2\. El personal en esta situación que ocupe destino percibirá las retribuciones correspondientes al puesto de trabajo que desempeñe en iguales condiciones que si estuviese en servicio activo, si bien no perfeccionarán trienios ni cotizarán al Régimen de Clases Pasivas ni al Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
+
+> Esta disposición tiene efectos económicos de 1 de noviembre de 2005, según establece la disposición final 3.
+
+### Disposición transitoria quinta. Personal acogido a la Ley de 17 de julio de 1958
+
+El personal acogido a la Ley de 17 de julio de 1958, sobre pase voluntario de jefes y oficiales del Ejército de tierra al servicio de organismos civiles, se regirá en lo que se refiere a su régimen retributivo, por sus disposiciones específicas.
+
+### Disposición transitoria sexta. Régimen retributivo de los militares de complemento de la Ley 17/1999, de 18 de mayo.
+
+El personal que a la entrada en vigor de la Ley 39/2007, de 19 de noviembre, tenga la condición de militar de complemento, continuará rigiéndose por el régimen de compromisos y ascensos de la Ley 17/1999, de 18 de mayo, y percibirán las retribuciones básicas y complementarias propias de su empleo y puesto, no percibiendo trienios, excepto el que tenga un compromiso de larga duración, que los devengará. También podrá percibir, en su caso, el complemento de dedicación especial y gratificaciones por servicios extraordinarios, según lo dispuesto para ello en este reglamento.
+
+Cumplido el compromiso de larga duración se pasará a reservista de especial disponibilidad en las condiciones establecidas en la Ley 8/2006, de 24 de abril, de Tropa y Marinería, percibiendo una asignación mensual por disponibilidad, en doce mensualidades al año, de 1.186,06 euros, que se actualizará anualmente según disponga la Ley de Presupuestos Generales del Estado con carácter general para las retribuciones del personal al servicio del sector público, no cotizando a derechos pasivos ni a ISFAS, pero pudiendo estar voluntariamente en este régimen de seguridad social siempre que abone las cuotas correspondientes al interesado y al Estado.
+
+Cuando sea activado y se incorpore a los Ejércitos, recuperará la condición militar, manteniendo el empleo que tenía en el momento de finalizar su compromiso de larga duración, por el que será retribuido en iguales condiciones que las establecidas en el primer párrafo de esta disposición.
+
+> Se añade por el art. 1.21 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+### Disposición final única. Acreditación del derecho a percibir retribuciones.
+
+Por el Ministro de Defensa, de conformidad con el Ministro de Economía y Hacienda, se darán las normas sobre la forma en que el personal militar debe acreditar el derecho a percibir retribuciones.
+
+## ANEXO I — Subgrupos de clasificación de empleos militares
+
+| Empleos militares | Subgrupos de clasificación |
+|---|---|
+| De general de ejército / almirante general / general del aire a teniente / alférez de navío | A 1 |
+| De alférez / alférez de fragata a sargento | A 2 |
+| De cabo mayor a soldado / marinero, con una relación de servicios de carácter permanente | C 1 |
+| De cabo primero a soldado / marinero, con una relación de servicios de carácter temporal | C 2 |
+
+> Se modifica por el art.1.8 del Real Decreto 843/2013, de 31 de octubre. [Ref. BOE-A-2013-11462](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-11462).
+
+> Se modifica por el art. 1.22 del Real Decreto 28/2009, de 16 de enero. [Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+## ANEXO II — Complemento de empleo
+
+| Empleos | Niveles | Importe<br> (euros) |
+|---|---|---|
+| General de ejército, almirante general, general del aire |  | 1.473,92 |
+| Teniente general, almirante |  | 1.179,14 |
+| General de división, vicealmirante |  | 1.063,59 |
+| General de brigada, contralmirante |  | 939,22 |
+| Coronel, capitán de navío | 29 | 842,46 |
+| Teniente coronel, capitán de fragata | 28 | 807,03 |
+| Comandante, capitán de corbeta | 27 | 771,59 |
+| Capitán, teniente de navío | 26 | 676,93 |
+| Teniente, alférez de navío | 24 | 565,16 |
+| Alférez, alférez de fragata | 24 | 565,16 |
+| Suboficial mayor | 23 | 529,74 |
+| Subteniente | 22 | 494,29 |
+| Brigada | 21 | 458,91 |
+| Sargento primero | 20 | 426,29 |
+| Sargento | 19 | 404,52 |
+| Cabo mayor | 18 | 382,74 |
+| Cabo primero | 17 | 360,96 |
+| Cabo | 15 | 317,45 |
+| Soldado, marinero | 14 | 331,04 |
+
+> Se modifica por el art. 24.5 de la Ley 11/2020, de 30 de diciembre. [Ref. BOE-A-2020-17339](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-17339)
+
+## ANEXO III — Componente general del complemento específico
+
+| Empleo | Importe mensual<br>–<br>Euros |
+|---|---|
+| Soldado o Marinero. | 382,48 |
+| Cabo. | 436,23 |
+| Cabo Primero. | 498,51 |
+| Cabo Mayor. | 584,84 |
+
+| Empleo | Importe mensual<br>–<br>Euros |
+|---|---|
+| Sargento. | 522,34 |
+| Sargento Primero. | 611,26 |
+| Brigada. | 732,56 |
+| Subteniente. | 883,35 |
+| Suboficial Mayor. | 995,67 |
+
+| Empleo | Importe mensual<br>–<br>Euros |
+|---|---|
+| Alférez o Alférez de Fragata. | 563,85 |
+| Teniente o Alférez de Navío. | 596,09 |
+| Capitán o Teniente de Navío. | 734,52 |
+| Comandante o Capitán de Corbeta. | 844,88 |
+| Teniente Coronel o Capitán de Fragata. | 950,66 |
+| Coronel o Capitán de Navío. | 1.160,44 |
+| General de Brigada o Contralmirante. | 1.320,18 |
+| General de División o Vicealmirante. | 1.541,34 |
+| General Ejército, Almirante General, General Aire, Teniente General o Almirante. | 1.761,83 |
+
+> Se modifica por el art. único del Real Decreto 248/2025, de 25 de marzo. [Ref. BOE-A-2025-6002](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6002)
+
+> Téngase en cuenta que las cuantías señaladas en este anexo III se abonarán con efectos de carácter económico desde el 1 de enero de 2025, según establece la disposición final única del citado Real Decreto.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 76, de 29 de marzo de 2025. [Ref. BOE-A-2025-6294](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6294)
+
+> Se modifica por el art. único del Real Decreto 177/2021, de 23 de marzo. [Ref. BOE-A-2021-4571](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4571)
+
+> Téngase en cuenta que las cuantías señaladas en este anexo III se abonarán con efectos de carácter económico desde el 1 de enero de 2021, según establece la disposición final única del citado Real Decreto.
+
+## ANEXO IV — Tabla de componentes singulares del complemento específico
+
+Importe mensual (euros)
+
+| 1.395,00 | 562,46 | 141,22 |
+|---|---|---|
+| 1.306,82 | 522,57 | 120,12 |
+| 1.231,82 | 484,16 | 100,76 |
+| 1.160,26 | 446,80 | 85,61 |
+| 1.090,68 | 410,55 | 70,70 |
+| 1.023,18 | 375,30 | 58,21 |
+| 957,34 | 341,11 | 46,12 |
+| 892,39 | 308,02 | 35,10 |
+| 829,45 | 276,01 | 25,00 |
+| 767,95 | 245,71 |  |
+| 708,65 | 217,11 |  |
+| 654,09 | 190,07 |  |
+| 605,50 | 164,47 |  |
+
+## ANEXO V — Complementos específicos mensuales de puestos en el extranjero
+
+| Empleos | Importe mensual <br>(euros) |
+|---|---|
+| General de ejército, almirante general, general del aire | 1.846,38 |
+| Teniente general, almirante | 1.770,04 |
+| General de división, vicealmirante | 1.517,15 |
+| General de brigada, contralmirante | 1.258,10 |
+| Coronel, capitán de navío | 1.020,61 |
+| Teniente coronel, capitán de fragata | 717,09 |
+| Comandante, capitán de corbeta | 498,53 |
+| Capitán, teniente de navío | 338,93 |
+| Teniente, alférez de navío | 278,53 |
+| Alférez, alférez de fragata | 222,84 |
+| Suboficial mayor | 584,87 |
+| Subteniente | 500,93 |
+| Brigada | 237,75 |
+| Sargento primero | 206,09 |
+| Sargento | 145,13 |
+| Cabo mayor | 307,57 |
+| Cabo primero | 213,94 |
+| Cabo | 115,28 |
+| Soldado, marinero | 109,09 |
+
+> Se modifica por el art. único.8 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde 1 de enero de 2007, según establece la disposición final 2.
+
+## ANEXO VI — Retribuciones mensuales del personal de tropa de la antigua escala a extinguir de la Guardia Real
+
+| Empleo | Sueldo <br>– <br>(Euros) | C. Destino <br>– <br>(Euros) | C. Especifico <br>– <br>(Euros) |
+|---|---|---|---|
+| Cabo primero | 732,51 | 320,09 | 235,76 |
+| Cabo | 732,51 | 272,93 | 226,11 |
+| Guardia | 732,51 | 225,83 | 222,53 |
+
+> Se modifica, con efectos económicos de 1 de enero de 2009, por el art. único.e) del Real Decreto 1789/2009, de 20 de noviembre [Ref. BOE-A-2009-18505](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-18505).
+
+> Téngase en cuenta que en las letras a) a d) se actualiza este anexo para años anteriores.
+
+> Se anula por Sentencia del TS de 26 de septiembre de 2008. [Ref. BOE-A-2008-18892](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-18892)
+
+> Se modifica por el art. único.9 del Real Decreto 789/2007, de 15 de junio. [Ref. BOE-A-2007-12303](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-12303)
+
+> Esta modificación tiene efectos económicos desde 1 de enero de 2007, según establece la disposición final 2.
+
+## ANEXO VII — Prima por pase a la reserva con carácter forzoso o anuente
+
+| Empleo | Euros |
+|---|---|
+| Coronel/Capitán de Navío | 5.500 |
+| Teniente Coronel/Capitán de Fragata | 4.850 |
+| Comandante/Capitán de Corbeta | 4.220 |
+| Capitán/Teniente de Navío | 3.400 |
+| Teniente/Alférez de Navío | 3.050 |
+| Alférez/Alférez de Fragata | 2.860 |
+| Suboficial Mayor | 2.860 |
+| Subteniente | 2.170 |
+| Brigada | 2.030 |
+| Sargento Primero | 1.930 |
+| Sargento | 1.920 |
+| Cabo Mayor | 1.630 |
+| Cabo Primero (Permanente) | 1.270 |
+| Cabo (Permanente) | 1.140 |
+| Soldado/Marinero (Permanente) | 890 |
+
+> Se añade por el art. 1.23 del Real Decreto 28/2009, de 16 de enero.[Ref. BOE-A-2009-1020](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-1020)<br>
+
+> Esta modificación tiene efectos económicos desde el 1 de enero de 2008, según establece la disposición final 3.
+
+## ANEXO VIII — Complemento de disponibilidad
+
+| Empleos | Complemento de disponibilidad mensual | Cuantía a incluir en pagas adicionales del C. Específico |
+|---|---|---|
+| General de Ejército / Almirante General / General del Aire. | 3.025,35 | 1.375,60 |
+| Teniente General / Almirante. | 2.695,43 | 1.375,60 |
+| General de División / Vicealmirante. | 2.367,71 | 1.177,21 |
+| General de Brigada / Contralmirante. | 2.029,45 | 978,14 |
+| Coronel / Capitán de Navío. | 1.776,00 | 833,03 |
+| Teniente Coronel / Capitán de Fragata. | 1.549,34 | 645,98 |
+| Comandante / Capitán de Corbeta. | 1.389,35 | 525,69 |
+| Capitán / Teniente de Navío. | 1.196,65 | 438,93 |
+| Teniente / Alférez de Navío. | 951,19 | 318,58 |
+| Alférez / Alférez de Fragata. | 924,39 | 291,78 |
+| Suboficial Mayor. | 1.279,59 | 686,59 |
+| Subteniente. | 1.136,40 | 583,09 |
+| Brigada. | 947,63 | 433,91 |
+| Sargento Primero. | 830,55 | 353,35 |
+| Sargento. | 722,08 | 269,24 |
+| Cabo Mayor. | 758,66 | 330,20 |
+| Cabo Primero. | 654,43 | 250,34 |
+| Cabo. | 552,60 | 197,24 |
+| Soldado / Marinero. | 453,00 | 146,35 |
+
+**Personal de Tropa de la antigua Escala de la Guardia Real, declarada a extinguir por la Ley 17/1989, de 19 de julio**
+
+| Empleo | Complemento de disponibilidad mensual | Cuantía a incluir en pagas adicionales del C. Específico |
+|---|---|---|
+| Cabo Primero Escala a extinguir de la Guardia Real. | 574,86 | 243,82 |
+| Cabo Escala a extinguir de la Guardia Real. | 516,10 | 233,84 |
+| Guardia Escala a extinguir de la Guardia Real. | 463,71 | 230,16 |
+
+> Se añade por el art. único.2 del Real Decreto 1053/2020, de 1 de diciembre. [Ref. BOE-A-2020-15397](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-15397)
+
+> Téngase en cuenta que las cuantías señaladas en este anexo se abonarán desde el 1 de noviembre de 2020, según establece la disposición adicional única del citado Real Decreto.

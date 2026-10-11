@@ -1,0 +1,281 @@
+---
+title: "Resolución de 16 de julio de 2004, de la Tesorería General de la Seguridad Social, sobre determinación de funciones en materia de aplazamientos de pago de deudas, reintegros de prestaciones indebidamente percibidas, compensación, desistimiento, convenios o acuerdos en procedimientos concursales y anuncios de subastas en Boletines Oficiales"
+identifier: "BOE-A-2004-15083"
+eli: "https://www.boe.es/eli/es/res/2004/07/16/(3)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2004-07-16
+published: 2004-08-14
+in_force_from: 2004-08-15
+last_amended: 2024-04-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 196"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-15083"
+retrieved: 2026-10-11
+---
+
+# Resolución de 16 de julio de 2004, de la Tesorería General de la Seguridad Social, sobre determinación de funciones en materia de aplazamientos de pago de deudas, reintegros de prestaciones indebidamente percibidas, compensación, desistimiento, convenios o acuerdos en procedimientos concursales y anuncios de subastas en Boletines Oficiales
+
+Esta norma pasa a denominarse **"Resolución de 16 de julio de 2004, de la Tesorería General de la Seguridad Social, sobre determinación de funciones en materia de gestión recaudatoria de la Seguridad Social"**, según establece el apartado 1.1 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+Por Resolución de 1 de marzo de 1996 esta Dirección General dictó Instrucciones sobre reserva y determinación de funciones en materia de gestión recaudatoria, basadas en las previsiones normativas contenidas en el anterior Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por el Real Decreto 1637/1995, de 6 de octubre, y en la Orden de 22 de febrero de 1996, que lo desarrollaba. Concretamente, la citada Resolución en su Instrucción Tercera establecía la determinación de funciones a efectos de aplazamientos de pago de deudas con la Seguridad Social, distinguiendo para ello entre aplazamientos ordinarios y extraordinarios, y en sus Instrucciones Cuarta y Quinta se fijaban las competencias, respectivamente, para los acuerdos sobre compensación de créditos y deudas recíprocos en el ámbito de la Seguridad Social y para la suscripción de convenios o acuerdos en procedimientos concursales.
+
+No obstante, con posterioridad se produjeron importantes modificaciones en el mencionado y anterior Reglamento General, así como la derogación de la Orden de 22 de febrero de 1996 por la de 26 de mayo de 1999, que la sustituyó.
+
+Asimismo, la Ley 52/2003, de 10 de diciembre, de Disposiciones Específicas en materia de Seguridad Social, ha introducido cambios sustantivos en el régimen legal de los aplazamientos, modificando al efecto el artículo 20 del Texto Refundido de la Ley General de la Seguridad Social, cambios que han sido desarrollados en los artículos 31 y siguientes del nuevo Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio.
+
+Concretamente, una de las modificaciones más significativas en esta nueva regulación legal y reglamentaria es la supresión de la distinción entre aplazamientos ordinarios y extraordinarios, distinción en virtud de la cual aquella Resolución de 1 de marzo de 1996 realizaba la determinación de funciones en esta materia.
+
+A su vez, el artículo 51 del citado nuevo Reglamento General de Recaudación de la Seguridad Social regula a ese nivel normativo la compensación, de oficio o a instancia de los interesados, de los créditos y deudas recíprocos en ese ámbito, lo que determina la conveniencia de establecer también una nueva distribución de funciones al respecto en el marco de la Tesorería General y en relación con la que se fijaba en la Instrucción Cuarta de la repetida Resolución de 1 de marzo de 1996.
+
+Por otro lado, la Ley 22/2003 de 9 de julio, Concursal, con vigencia a partir del 1 de septiembre de 2004, ha provocado un gran cambio en los procedimientos de insolvencia, al introducir un nuevo procedimiento concursal en nuestro derecho y derogar todo el conjunto de disposiciones que regulaban esta materia con anterioridad. Ello determina la conveniencia de efectuar también una nueva distribución de competencias respecto de las actuaciones de los órganos de la Tesorería General en tales procedimientos concursales y a partir de la indicada fecha de entrada en vigor de aquella Ley 22/2003, dando un planteamiento distinto a lo que establecía al efecto la Instrucción Quinta de la repetida Resolución de 1 de marzo de 1996.
+
+Además, en materia de reintegro de prestaciones indebidamente percibidas la nueva regulación contenida en el artículo 80 del Reglamento General de Recaudación de la Seguridad Social y la derogación por el mismo de la Orden de 26 de mayo de 1999, hacen necesaria la determinación ahora también de los órganos competentes de la Tesorería General para el establecimiento de los plazos reglamentarios de los citados reintegros.
+
+Por todo cuanto antecede, resulta preciso dictar una nueva Resolución sobre determinación de funciones en las indicadas materias recaudatorias y en el ámbito de la Tesorería General de la Seguridad Social, que sustituya a la anterior al respecto, de 1 de marzo de 1996, lo que conlleva también fijar las correspondientes prescripciones competenciales respecto de las resoluciones sobre desistimiento que deban dictarse por la misma en su caso y en dichas materias.
+
+En ese sentido, esta Dirección General, en función de los términos de la nueva normativa actualmente en vigor, tiene habilitación suficiente para dicha determinación de los órganos competentes de la misma en materia de aplazamientos de pago de deudas con la Seguridad Social, fijación de plazos reglamentarios de ingreso de los reintegros de prestaciones indebidamente percibidas, compensación de créditos y deudas recíprocos en el ámbito de la Seguridad Social y actuaciones en los procedimientos concursales, de acuerdo, respectivamente, con las previsiones de los artículos 31.1, 80.4, 51.1 y 50.6 del Reglamento General de Recaudación de la Seguridad Social. Asimismo, está igualmente facultada para establecer, a efectos de la publicación de los anuncios de subastas en Boletines Oficiales, la cuantía del valor de los bienes embargados objeto de las subastas a partir de la cual será obligatoria la inserción de tales anuncios en dichos Boletines, conforme al artículo 117.1 del propio Reglamento General de Recaudación.
+
+En su virtud, esta Dirección General, en uso de las atribuciones que tiene conferidas al respecto por la normativa reglamentaria de rango superior antes mencionada, ha resuelto dictar las siguientes instrucciones:
+
+## Primera. Aplazamiento. Competencia orgánica.
+
+A) Serán competentes para la concesión de aplazamientos en el pago de las deudas con la Seguridad Social los órganos y unidades que a continuación se relacionan, en función de la cuantía de la deuda aplazable:
+
+1\. Hasta 150.000 €: Los Jefes de las Unidades de Recaudación Ejecutiva de la Seguridad Social y los Directores de las Administraciones de la Seguridad Social, con independencia del periodo de recaudación en que se encuentre la deuda.
+
+2\. De 150.001 a 300.000 €: Los Subdirectores Provinciales de Procedimientos Especiales o, en otro caso, los Subdirectores Provinciales de Recaudación Ejecutiva o de Gestión Recaudatoria, según determine el respectivo Director Provincial de la Tesorería General de la Seguridad Social.
+
+3\. De 300.001 a 1.000.000 €: Los Directores Provinciales de la Tesorería General de la Seguridad Social.
+
+4\. De 1.000.001 a 2.500.000 €: El Subdirector General de Procedimientos Ejecutivos y Especiales de Recaudación de la Tesorería General de la Seguridad Social.
+
+5\. Más de 2.500.000 €: El Director General de la Tesorería General de la Seguridad Social.
+
+B) Cuando se trate de recursos cuya gestión recaudatoria esté reservada a los órganos centrales de la Tesorería General de la Seguridad Social, serán competentes para la resolución del aplazamiento el Subdirector General de Procedimientos Ejecutivos y Especiales de Recaudación, si la cuantía no excede de 2.500.000 €, o el Director General de la Tesorería General de la Seguridad Social cuando la cuantía exceda de dicho importe.
+
+En los casos en que la deuda objeto de aplazamiento esté integrada tanto por recursos cuya gestión recaudatoria se halle reservada a los órganos centrales de la Tesorería General de la Seguridad Social como por recursos cuya gestión recaudatoria se lleve a cabo a través de sus Direcciones Provinciales, será competente para la adopción de la resolución que corresponda el Subdirector General de Procedimientos Ejecutivos y Especiales de Recaudación o el Director General de la Tesorería General, según la cuantía establecida en el párrafo anterior, a cuyo efecto se tendrá en cuenta el importe total de la deuda con independencia de los recursos que la constituyan.
+
+C) De acuerdo con lo dispuesto en el artículo 31.2 del Reglamento General de Recaudación de la Seguridad Social, de 11 de junio de 2004, corresponderá al Director General de la Tesorería General la resolución de solicitudes de aplazamientos por periodos superiores a cinco años, siempre que el expediente contenga propuesta favorable del respectivo Director Provincial de la misma en cuyo ámbito territorial se hubiese tramitado. En caso contrario, es decir, cuando la propuesta del Director Provincial sea desfavorable, la resolución deberá ser adoptada por el órgano competente en razón de la cuantía, sin que en ningún caso el período del aplazamiento pueda ser superior a cinco años.
+
+D) Cuando durante la vigencia del aplazamiento deban dictarse resoluciones que supongan modificación de sus términos, será competente el mismo órgano que dictó la resolución inicial de concesión salvo en los siguientes supuestos:
+
+Que la modificación se deba a error que afecte bien a la cuantificación de la deuda o bien a la duración del aplazamiento, cuando dicha modificación suponga alteración de la competencia. En estos casos, será competente el órgano que hubiera debido resolver el expediente según las normas generales contenidas en los apartados anteriores.
+
+Que la modificación suponga la autorización de un nuevo período de amortización superior a cinco años, sin tener en cuenta el transcurrido hasta la modificación. En este caso se aplicará lo dispuesto en la letra C) anterior.
+
+E) Sin perjuicio de lo dispuesto en los artículos 20, apartado 6, de la Ley General de la Seguridad Social y 36 del Reglamento General de Recaudación de la Seguridad Social, el incumplimiento del aplazamiento podrá declararse mediante resolución dictada al efecto, siendo competente para su emisión el mismo órgano que hubiese concedido dicho aplazamiento.
+
+F) Conforme a lo dispuesto en el artículo 33.4 d) del Reglamento General de Recaudación de la Seguridad Social de 11 de junio de 2004, para la concesión de aplazamientos sin la exigencia de garantías por concurrir causas de carácter extraordinario, se requerirá, cualquiera que sea el órgano competente para resolver la solicitud de aplazamiento, autorización previa del Secretario de Estado de la Seguridad Social. Dicha autorización exigirá la propuesta favorable del Director General de la Tesorería General de la Seguridad Social; en otro caso, es decir, cuando no se de propuesta favorable, se resolverá la solicitud de aplazamiento por el órgano competente en función de la cuantía, debiendo constituirse la garantía en el plazo señalado al efecto en la resolución que lo conceda.
+
+Respecto del plazo de constitución de garantías, el beneficiario del aplazamiento podrá solicitar su ampliación hasta un máximo de seis meses a contar desde la notificación de la resolución previa, petición razonada que será resuelta por el mismo órgano que la dictó.
+
+> Se modifican las letras A) y B) por la instrucción primera de la Resolución de 6 de abril de 2020. [Ref. BOE-A-2020-4380](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-4380)
+
+> Redactado el apartado 2 de la letra A) conforme a la corrección de errores publicada en BOE núm. 233, de 27 de septiembre de 2004. [Ref. BOE-A-2004-16616](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16616)
+
+## Segunda. Aplazamiento. Competencia territorial.
+
+Cuando la deuda objeto de aplazamiento se refiera a identificadores correspondientes a varias Administraciones o Unidades de Recaudación Ejecutiva de la Seguridad Social, de la misma o de distinta Dirección Provincial de la Tesorería General, los órganos provinciales competentes para dictar la resolución, según las normas contenidas en la Instrucción anterior, serán los que resulten de la aplicación de las reglas siguientes:
+
+A) Aplazamientos solicitados por empresas.
+
+Empresa con gestión centralizada: será competente el Subdirector Provincial o Director Provincial de la provincia en que radicase la citada gestión.
+
+Empresa sin gestión centralizada: será competente el Subdirector Provincial o Director Provincial de la provincia a la que corresponda el código de cuenta de cotización principal, siempre que dicho código mantuviese deuda objeto de aplazamiento; si el citado código no tuviese deuda objeto de aplazamiento, la competencia corresponderá al Subdirector Provincial o Director Provincial de la provincia en la que existiese mayor volumen de deuda.
+
+B) Aplazamiento solicitado por trabajadores: la competencia vendrá determinada por el alta del trabajador y, en su defecto, por el domicilio del mismo.
+
+## Tercera. Reintegro de prestaciones indebidamente percibidas.
+
+Los directores de las administraciones de la Seguridad Social serán competentes para autorizar y establecer los plazos para el pago fraccionado del reintegro de prestaciones indebidamente percibidas, cuando así se solicite por los sujetos responsables de su ingreso, por un importe mínimo de 100 euros mensuales y hasta un máximo de 60 meses.
+
+> Se modifica, con efectos a partir del 1 de julio de 2024, por el apartado 1 de la Resolución de 19 de abril de 2024. [Ref. BOE-A-2024-8481](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-8481)
+
+> Se modifica por el apartado 1 de la Resolución de 21 de febrero de 2020. [Ref. BOE-A-2020-3075](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3075)
+
+> Se modifica por el apartado 1 de la Resolución de 13 de mayo de 2015. [Ref. BOE-A-2015-6994](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-6994)
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 233, de 27 de septiembre de 2004. [Ref. BOE-A-2004-16616](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-16616)
+
+## Cuarta. Acuerdos sobre compensación.
+
+1\. Serán competentes para acordar, de oficio o a instancia de los responsables del pago, la compensación de deudas con la Seguridad Social por conceptos distintos a cuotas, recargos, intereses y costas sobre las mismas, con los créditos reconocidos, liquidados y notificados por la Administración de la Seguridad Social a favor del deudor, los órganos que a continuación se indican en función de la cuantía de los créditos y deudas compensables:
+
+1.1 Los Directores de las Administraciones de la Seguridad Social respecto de los créditos y deudas cuya cuantía respectiva no exceda de 12.000 €.
+
+1.2 Los Subdirectores Provinciales de la Tesorería General de la Seguridad Social respecto de los créditos y deudas cuya cuantía no supere los 100.000 €.
+
+1.3 Los Directores Provinciales respecto de los créditos y deudas cuya cuantía no supere los 200.000 €.
+
+1.4 El titular de la Subdirección General de Recaudación en Periodo Voluntario de la Tesorería General de la Seguridad Social, respecto de los créditos y deudas cuya cuantía respectiva no supere los 300.000 euros.
+
+1.5 El Director General de la Tesorería General de la Seguridad Social cuando la compensación por créditos y deudas sea superior a 300.000 €.
+
+2\. Cuando los créditos y deudas susceptibles de compensación hayan sido reconocidos, liquidados o reclamados por distintos órganos centrales o territoriales de las Entidades Gestoras o de la Tesorería General de la Seguridad Social, será competente para acordar la procedencia o improcedencia de la compensación el órgano central o territorial de la Tesorería General ante el que debiera efectuarse el ingreso de la deuda con la Seguridad Social que se pretende compensar, salvo en el supuesto de devolución de ingresos indebidos en el que la facultad para acordar la procedencia o improcedencia de la compensación corresponderá al órgano central o territorial competente para resolver sobre la devolución de ingresos indebidos y aún cuando la compensación supere el límite establecido para cada uno de ellos en el apartado 1 de esta instrucción.
+
+3\. El órgano que acuerde la procedencia de la compensación comunicará a los interesados en ella y, en todo caso, al correspondiente órgano central o territorial de la Tesorería General de la Seguridad Social la extinción de una y otra deuda en la cantidad concurrente, para que por el mismo se sigan las actuaciones que procedan.
+
+> Se modifica el apartado 1.4 por el apartado 1.2 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+## Quinta. Devolución de ingresos indebidos.
+
+1\. Serán competentes para dictar resolución en materia de devolución de ingresos indebidos los órganos de la Tesorería General de la Seguridad Social que a continuación se relacionan, en función de la cantidad que en cada caso pueda ser objeto de devolución:
+
+1.1 El Director de la Administración de la Seguridad Social a la que esté atribuida la gestión recaudatoria respecto del sujeto responsable del ingreso indebido cuya devolución se solicita, siempre que la cantidad a devolver no exceda de 9.000 euros.
+
+Asimismo, corresponderá a dicho Director de la Administración de la Seguridad Social la resolución de las solicitudes de devolución de ingresos indebidos cuando las mismas deban ser claramente desestimadas por evidentes razones sustantivas o formales, cualquiera que fuese el importe de la devolución solicitada.
+
+1.2 El Subdirector Provincial de la Tesorería General de la Seguridad Social que tenga asumidas en cada Dirección Provincial de la misma las funciones de recaudación en período voluntario del recurso cuya devolución se solicita, siempre que la cantidad a devolver sea superior a 9.000 euros y no exceda de 500.000 euros, salvo que no estuviese constituida la Administración de la Seguridad Social correspondiente, en cuyo caso podrá acordar también devoluciones de ingresos indebidos que no excedan de 9.000 euros.
+
+1.3 El respectivo Director Provincial de la Tesorería General de la Seguridad Social, siempre que la cantidad a devolver sea superior a 500.000 euros y no exceda de 1.000.000 euros.
+
+1.4 El titular de la Subdirección General de Recaudación en Período Voluntario de la Tesorería General de la Seguridad Social o de la Subdirección General de la misma que tuviese atribuida la gestión recaudatoria del recurso cuya devolución se solicita, cuando se trate de devoluciones de ingresos indebidos correspondientes a recursos cuya gestión recaudatoria esté atribuida a los órganos centrales de dicho servicio común de la Seguridad Social, siempre que la cantidad objeto de devolución no exceda de 1.000.000 euros.
+
+1.5 El Director General de la Tesorería General de la Seguridad Social, cuando la cantidad objeto de devolución fuere superior a 1.000.000 euros.
+
+2\. La competencia para la expedición y autorización de los documentos contables que instrumentalizan el derecho a la devolución de los ingresos indebidos, cualquiera que sea la cantidad a devolver, corresponderá al titular de la respectiva Dirección Provincial de la Tesorería General de la Seguridad Social, salvo que se trate de recursos cuya gestión recaudatoria este atribuida a sus órganos centrales, en cuyo caso, corresponderá al titular de la Subdirección General de Recaudación en Periodo Voluntario, cualquiera que sea la cantidad a devolver.
+
+Lo dispuesto en el párrafo anterior será de aplicación igualmente a la devolución de los saldos acreedores en las liquidaciones de cuotas a la Seguridad Social presentadas.
+
+> Se modifica por el apartado 1 de la Resolución de 2 de enero de 2018. [Ref. BOE-A-2018-462](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-462)
+
+> Se modifica el apartado 4 por el apartado 1.3 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+> Se modifica por la instrucción primera.2 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior contenido pasa a ser la Séptima.
+
+## Sexta. Reembolso del coste de las garantías.
+
+Serán competentes para dictar resolución en materia de reembolso del coste de las garantías constituidas para la suspensión del procedimiento recaudatorio los mismos órganos de la Tesorería General de la Seguridad Social determinados en la anterior Instrucción Quinta para la resolución de las devoluciones de ingresos indebidos, en función del importe en cada caso a reembolsar o devolver.
+
+> Se modifica por la instrucción primera.3 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior contenido pasa a ser la Octava.
+
+## Séptima. Restitución del sobrante de actuaciones de ejecución forzosa.
+
+Cuando como consecuencia de las actuaciones de ejecución forzosa se produjese un exceso de cobro respecto del importe de la deuda apremiada, serán competentes para proceder a la inmediata restitución del sobrante al apremiado o, en su caso, a quien conste como titular del bien o derecho en cuya ejecución se haya producido, salvo que medie embargo u orden de retención, los mismos órganos de la Tesorería General de la Seguridad Social determinados en la anterior instrucción quinta para la resolución de las devoluciones de ingresos indebidos, en función del importe en cada caso a restituir.
+
+> Se modifica por el apartado 1.1 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior contenido pasa a ser la Octava.
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Quinta.
+
+## Octava. Resoluciones sobre desistimiento.
+
+Cuando deba dictarse resolución de desistimiento conforme a lo dispuesto en el artículo 71.1 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico para las Administraciones Públicas y del Procedimiento Administrativo Común, la competencia para ello corresponderá al mismo órgano que fuese competente para dictar la resolución estimatoria o desestimatoria al respecto según lo establecido en las Instrucciones anteriores, con independencia de que sea el órgano que tramite la solicitud el que deba practicar el requerimiento a que se refiere el mencionado precepto legal.
+
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Séptima.
+
+> Se modifica por el apartado 1.4 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Sexta.
+
+## Novena. Actuaciones en procedimientos concursales.
+
+La gestión de los procedimientos concursales se llevará a cabo por la dirección provincial de la Tesorería General de la Seguridad Social en cuyo ámbito territorial radique el Juzgado de lo Mercantil que haya dictado el auto de declaración de concurso del deudor de la Seguridad Social; asimismo, se le encomienda la elaboración de los distintos certificados de deuda para su presentación en el concurso de acreedores.
+
+La Dirección General de la Tesorería General de la Seguridad Social, a través de la Subdirección General de Procedimientos Ejecutivos y Especiales de Recaudación, podrá asumir directamente la dirección de las actuaciones en los procedimientos concursales, en los supuestos en que se estime necesario.
+
+Las direcciones provinciales de la Tesorería General de la Seguridad Social serán competentes para la adhesión, solo por el crédito ordinario, a los convenios generales de acreedores previstos en la Ley 22/2003, de 9 de julio, Concursal, siempre que en la propuesta de convenio concurran las siguientes circunstancias:
+
+a) Que la quita no exceda del 30 por ciento del crédito ordinario, siempre que dicho porcentaje no supere los 200.000 euros.
+
+b) Que la espera no exceda, en ningún caso, de los cinco años y no contenga más de dos años de carencia total de pago.
+
+En los demás supuestos se requerirá la previa autorización expresa del Director General de la Tesorería General de la Seguridad Social.
+
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Octava.
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Séptima.
+
+## Décima. Delegación de competencia o de firma y avocación.
+
+Lo dispuesto en las Instrucciones precedentes se entiende sin perjuicio de que los órganos centrales y provinciales de la Tesorería General de la Seguridad Social puedan delegar su competencia o su firma o avocar el conocimiento y resolución de los asuntos a que se refiere esta Resolución, en los términos establecidos en los artículos 13 y siguientes de la citada Ley 30/1992, de 26 de noviembre.
+
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Novena.
+
+> Se suprime su contenido anterior y se renumera por el apartado 1.5 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+> Su anterior numeración era Undécima.
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Octava.
+
+## Undécima. Instrucción adicional.
+
+Las referencias que en esta Resolución se hacen al Subdirector o Subdirectores de las Direcciones Provinciales de la Tesorería General, así como a los Directores de las Administraciones de la Seguridad Social, se entenderán efectuadas, cuando tales órganos no existan en una Dirección Provincial, a los órganos que en cada caso designe al respecto el titular de la misma.
+
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Décima.
+
+> Se renumera por el apartado 1.5 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+> Su anterior numeración era Duodécima.
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Novena.
+
+## Duodécima. Instrucción transitoria.
+
+La competencia atribuida en materia de aplazamientos por esta Resolución a los Jefes de las Unidades de Recaudación Ejecutiva de la Seguridad Social será ejercitada por los Directores de las Administraciones de la Seguridad Social en tanto esta Dirección General, mediante Instrucción dictada al efecto, no determine otra cosa en función de las circunstancias concurrentes, tanto organizativas como estructurales y de disponibilidad de recursos humanos, etc., Instrucción que, en su caso, podrá prever que la atribución competencial al respecto a los Jefes de la Unidades de Recaudación Ejecutiva se implante de manera progresiva en el tiempo y en las distintas Direcciones Provinciales de la Tesorería General, en función de las circunstancias concurrentes.
+
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Undécima.
+
+> Se renumera por el apartado 1.5 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+> Su anterior numeración era Decimotercera.
+
+> Se renumera por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Décima.
+
+## Decimotercera. Instrucción derogatoria.
+
+Queda derogada la Resolución de 1 de marzo de 1996, de esta Dirección General, sobre reserva y determinación de funciones en materia de gestión recaudatoria, salvo lo dispuesto en el apartado 2 de la Instrucción Quinta de la misma, que será de aplicación a las propuestas de convenio presentadas hasta el 31 de agosto de 2004.
+
+> Se renumera por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Duodécima.
+
+> Se renumera por el apartado 1.5 de la Resolución de 8 de mayo de 2013. [Ref. BOE-A-2013-5316](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5316)
+
+> Su anterior numeración era Decimocuarta.
+
+> Se añade por la instrucción primera.4 de la Resolución de 4 de julio de 2005. [Ref. BOE-A-2005-12460](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-12460)
+
+> Su anterior numeración era Undécima.
+
+## Decimocuarta. Entrada en vigor.
+
+La presente Resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», excepto lo dispuesto en la Instrucción Octava de la misma, que será de aplicación a las propuestas de convenio concursal presentadas a partir del 1 de septiembre de 2004.
+
+> Se añade por el apartado 1.2 de la Resolución de 10 de febrero de 2016. [Ref. BOE-A-2016-1918](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-1918)
+
+> Su anterior numeración era Decimotercera.
+
+Madrid, 16 de julio de 2004.‒El Director General, Javier Aibar Bernad.

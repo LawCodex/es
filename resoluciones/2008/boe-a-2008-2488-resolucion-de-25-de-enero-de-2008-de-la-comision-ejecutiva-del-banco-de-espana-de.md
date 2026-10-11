@@ -1,0 +1,253 @@
+---
+title: "Resolución de 25 de enero de 2008, de la Comisión Ejecutiva del Banco de España, de aprobación de las cláusulas generales aplicables al Servicio de Liquidación de Depósitos Interbancarios"
+identifier: "BOE-A-2008-2488"
+eli: "https://www.boe.es/eli/es/res/2008/01/25/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Banco de España"
+date: 2008-01-25
+published: 2008-02-13
+in_force_from: 2008-02-18
+last_amended: 2023-03-13
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 38"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-2488"
+retrieved: 2026-10-11
+---
+
+# Resolución de 25 de enero de 2008, de la Comisión Ejecutiva del Banco de España, de aprobación de las cláusulas generales aplicables al Servicio de Liquidación de Depósitos Interbancarios
+
+INTRODUCCIÓN
+
+Como consecuencia de la entrada en funcionamiento, el próximo 18 de febrero de 2008, de TARGET2-Banco de España, sistema integrante de TARGET2, el Servicio de Liquidación del Banco de España (SLBE) desaparecerá como tal.
+
+El nuevo sistema TARGET2, si bien se estructura jurídicamente como una multiplicidad de sistemas de pago, se establece y funciona sobre la base de una única plataforma técnica de pagos a través de la cual se proveerán los mismos servicios, y en condiciones uniformes, para todas las entidades, cualquiera que sea el sistema integrante de TARGET2 a través del que estas participen.
+
+Aunque TARGET2 ofrecerá servicios de pago amplios y avanzados, dicho sistema no incorpora alguna de las funcionalidades que tradicionalmente ha venido ofreciendo el SLBE, al suponer estas, en cierta medida, un servicio de valor añadido y diferencial respecto a los prestados por los demás sistemas que, gestionados por los bancos centrales, integraban el anterior TARGET. Este es, concretamente, el caso de las funcionalidades que, en lo referente a registro y liquidación, el SLBE y, con anterioridad al mismo, el Servicio Telefónico del Mercado de Dinero, han prestado a lo largo de las tres últimas décadas a sus entidades adheridas en relación con las operaciones realizadas entre las mismas en el mercado interbancario de depósitos.
+
+El sistema de registro seguido por el SLBE ha supuesto una herramienta básica a partir de la cual este último ha venido prestando diferentes tipos de servicios a sus entidades usuarias. Estas, tras contratar las operaciones, y por el solo hecho de registrarlas en el SLBE, han obtenido, por una parte, el servicio de liquidación, encargándose aquel de adeudar y abonar las cuentas en las fechas en que las obligaciones de pago implícitas en cada una de las operaciones registradas resultaban exigibles. Por otra parte, dicho registro ha permitido disponer de un servicio de información estadística sobre los importes y tipos de interés negociados entre ellas. El registro ha permitido, además, prestaciones adicionales, tales como evitar a las entidades el cruce de confirmaciones de las operaciones negociadas telefónicamente o errores por fallo u olvidos de las órdenes de pago en las fechas en que estas deben ser comunicadas al sistema de pagos.
+
+Teniendo en cuenta la utilidad de esta funcionalidad, el Banco de España considera conveniente su mantenimiento como un servicio adicional y separado de los servicios ofrecidos dentro de TARGET2, sin perjuicio de su consideración como sistema vinculado a los efectos de lo dispuesto en la normativa que regula dicho sistema.
+
+## TÍTULO I — Disposiciones generales
+
+### Cláusula 1. Régimen jurídico general.
+
+La prestación del servicio de liquidación de depósitos interbancarios se regirá por lo previsto en las presentes Cláusulas Generales y por las aplicaciones técnicas que dicte el Banco de España en desarrollo de las mismas.
+
+### Cláusula 2. Ámbito de aplicación.
+
+El Banco de España prestará el servicio de liquidación de depósitos interbancarios descrito en las presentes Cláusulas Generales a las entidades que sean admitidas como miembros del citado servicio.
+
+## TÍTULO II — Servicio de Liquidación de Depósitos Interbancarios
+
+### Cláusula 3. Descripción general.
+
+El Banco de España mantendrá un Servicio de Liquidación de Depósitos Interbancarios (en adelante, el "Servicio") que se encargará del registro y de la liquidación de las operaciones de depósito interbancarias negociadas entre las entidades de crédito que sean admitidas como miembros del Servicio de conformidad con lo establecido en las presentes Cláusulas y sus aplicaciones técnicas de desarrollo.
+
+Las posiciones de efectivo resultantes de las operaciones de depósito registradas en dicho Servicio se liquidarán a través de TARGET. Por esta razón, el Servicio tendrá la consideración de sistema vinculado a TARGET-Banco de España conforme a la definición establecida en las condiciones uniformes de participación en TARGET-Banco de España, aprobadas por la Resolución de 4 de julio de 2022, de la Comisión Ejecutiva del Banco de España.
+
+> Se modifica por el apartado primero.1 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+## TÍTULO III — Participación
+
+### Cláusula 4. Criterios de participación.
+
+Podrán ser admitidas como miembros del Servicio las entidades de crédito que:
+
+(a) sean participantes en TARGET-Banco de España o en otro sistema integrante de TARGET, así como las que, sin ser participantes en TARGET-Banco de España o en otro sistema integrante de TARGET, tengan acceso a una cuenta dedicada de efectivo para la liquidación bruta en tiempo real de grandes pagos (en adelante, "DCA RTGS", por sus siglas en inglés) como titulares de BIC accesibles o mediante acceso de cuenta múltiple; y que
+
+(b) tengan, a juicio del Banco de España, suficiente solvencia y capacidad jurídica y técnica.
+
+> Se modifica por el apartado primero.2 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 5. Responsabilidades.
+
+La admisión de una entidad como miembro del Servicio no supone, en modo alguno, que el Banco de España garantice el buen fin de sus operaciones. Las entidades miembros asumirán por su propia y exclusiva cuenta los riesgos de crédito, de tipo de interés, de liquidación y cualquier otro que contraigan en la contratación, compensación y liquidación de las operaciones de depósito registradas en dicho Servicio.
+
+Las entidades miembros del Servicio que sean participantes en TARGET y que hayan designado una DCA RTGS propia para liquidar las posiciones de efectivo resultantes de sus operaciones registradas en el Servicio son responsables de que la DCA RTGS designada disponga en cada momento de fondos suficientes para atender dicha liquidación. Las entidades miembros del Servicio que hayan designado la DCA RTGS de un tercero para liquidar las posiciones de efectivo resultantes de sus operaciones registradas en el Servicio son responsables de que dicha DCA RTGS disponga en cada momento de fondos suficientes para atender dicha liquidación.
+
+> Se modifica por el apartado primero.3 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 6. Procedimiento de solicitud.
+
+La solicitud de entidad miembro del Servicio deberá realizarse empleando el modelo que corresponda de entre los que se encuentran disponibles en el sitio web del Banco de España, según se trate:
+
+(a) de entidades solicitantes participantes en TARGET-Banco de España o en otro sistema integrante de TARGET que designen una DCA RTGS propia para liquidar las posiciones de efectivo resultantes de sus operaciones registradas en el Servicio; o
+
+(b) de entidades solicitantes participantes en TARGET-Banco de España o en otro sistema integrante de TARGET que designen la DCA RTGS de un tercero para liquidar las posiciones de efectivo resultantes de sus operaciones registradas en el Servicio; o bien de entidades solicitantes que, sin ser participantes en TARGET-Banco de España o en otro sistema integrante de TARGET, tengan acceso a la DCA RTGS de un tercero como titulares de BIC accesibles o mediante acceso de cuenta múltiple y designen dicha DCA RTGS para liquidar las posiciones de efectivo resultantes de sus operaciones registradas en el Servicio.
+
+En la solicitud, las entidades deberán designar la DCA RTGS en la que solicitan liquidar las posiciones de efectivo resultantes de sus operaciones registradas en el Servicio. En el caso de las entidades solicitantes mencionadas en el párrafo (b) anterior, las entidades solicitantes deberán aportar además autorización del tercero titular de la DCA RTGS para que se puedan liquidar en su DCA RTGS las posiciones de efectivo resultantes de la liquidación de las operaciones de la entidad solicitante registradas en el Servicio.
+
+La solicitud se remitirá al Banco de España firmada por persona debidamente autorizada y acompañada de la documentación e información complementaria que establezcan las correspondientes aplicaciones técnicas que dicte el Banco de España en cada momento.
+
+Asimismo, el titular de la correspondiente DCA RTGS deberá completar los trámites necesarios para que el Banco de España o el banco central que gestiona el sistema integrante de TARGET donde se encuentra abierta la DCA RTGS configure la autorización necesaria para que pueda procederse a la liquidación en dicha DCA RTGS de las posiciones de efectivo resultantes de las operaciones registradas en el Servicio.
+
+> Se modifica por el apartado primero.4 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+## TÍTULO IV — Procedimiento de comunicación, case y registro de órdenes
+
+### Cláusula 7. Comunicación, case y registro.
+
+1\. Una vez contratada una operación de depósito susceptible de registro en el Servicio, cada una de las dos entidades contratantes de la misma, la prestamista y la prestataria, procederán de inmediato a comunicarla al Servicio especificando los términos y condiciones de su contratación según el formato establecido a estos efectos por el Banco de España.
+
+2\. Tras la recepción de las dos comunicaciones a que se refiere el apartado anterior, y siempre que se produzca su case al comprobarse la coincidencia exacta de todos los términos contenidos en las mismas, el Servicio considerará registrada la operación.
+
+3\. Tras el registro de cada operación, y a los efectos de su liquidación, las comunicaciones recibidas de la entidad prestamista y de la entidad prestataria referidas en el punto 1 anterior tendrán la consideración de sendas órdenes de pago con fecha de liquidación diferente: la de la entidad prestamista a favor de la prestataria, en la fecha de inicio de la operación, y la de esta última a favor de la primera, en la fecha de su vencimiento. En consecuencia, alcanzadas las citadas fechas, el Servicio se encargará de gestionar, sobre la base de la información registrada, la liquidación de estas operaciones, por cuenta de ambas entidades, sin necesidad de comunicación adicional alguna por parte de las entidades afectadas, todo ello en los términos que se indican en las cláusulas 8 a 11 siguientes.
+
+4\. Sin perjuicio de lo dispuesto en la cláusula 13.5 siguiente, una vez casada y registrada una operación, no podrá modificarse o darse de baja en el registro. No obstante, con carácter excepcional, el Servicio podrá admitir la modificación o baja de una operación registrada, previo acuerdo de las dos entidades implicadas en la misma, lo que deberá ser notificado al Servicio según los procedimientos que a tal efecto se establezcan mediante aplicación técnica, al menos un día hábil antes de la fecha de liquidación de la operación cuya modificación o baja se solicite.
+
+> Se modifica el apartado 1 por el apartado primero.5 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+## TÍTULO V — Proceso de liquidación
+
+### Cláusula 8. Selección de las órdenes que se han de liquidar.
+
+A partir de la información registrada por el Servicio, este seleccionará las órdenes de pago a que se refiere el apartado 3 de la cláusula 7 anterior que se han de liquidar en cada fecha. La selección de órdenes se repetirá varias veces, de forma que las operaciones a liquidar en cada fecha se distribuirán en diferentes ciclos, todo ello de acuerdo con la periodicidad y criterios que se establezcan en las correspondientes aplicaciones técnicas que dicte el Banco de España en cada momento.
+
+### Cláusula 9. Importes de liquidación.
+
+La liquidación de las posiciones de efectivo dentro de cada ciclo se realizará por su importe bruto. No obstante, en el caso de que existan órdenes de pago recíprocas entre dos entidades, el Servicio llevará a cabo un proceso previo de compensación bilateral de dichas órdenes de pago, mediante el cual se determinará el importe neto bilateral de las obligaciones mutuas de pago y, con ello, la posición de efectivo que se ha de liquidar en las DCA RTGS correspondientes.
+
+Al finalizar cada ciclo, el Servicio cursará a TARGET las instrucciones de adeudo y abono correspondientes a las posiciones de efectivo resultantes conforme a lo previsto en el párrafo anterior, para su liquidación en las DCA RTGS correspondientes.
+
+> Se modifica por el apartado primero.6 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 10. Liquidación de posiciones en TARGET.
+
+La liquidación de las posiciones de efectivo y, por tanto, el correspondiente asiento en cuenta, quedarán en todo caso condicionados a los requisitos de disponibilidad y suficiencia de fondos en la DCA RTGS correspondiente.
+
+> Se modifica por el apartado primero.7 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 11. Implicaciones de una liquidación fallida.
+
+Si, llegado el cierre del día de TARGET, no fuera posible liquidar una posición de efectivo por indisponibilidad o insuficiencia de fondos, el asiento de esta liquidación no se realizará parcialmente, ni se procederá a su desagregación, por lo que el fallo en la liquidación de tal posición de efectivo implicará el fallo en la liquidación de todas las operaciones de depósito implícitas en la misma y que, por tanto, previamente hubieran sido compensadas para determinar dicha posición.
+
+Si el fallo en la liquidación de las posiciones de efectivo a que se refiere el párrafo anterior afectara a una operación de depósito en el momento de su inicio, impidiéndose, por tanto, la cesión de fondos por la entidad prestamista a la prestataria, el Servicio considerará revocada, dándola de baja a efectos de su liquidación, la orden de devolución de fondos que hubiera correspondido, en ausencia de tal fallo, a cargo de la entidad prestataria al vencimiento de la misma.
+
+> Se modifica el primer párrafo por el apartado primero.8 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+## TÍTULO VI — Supuestos de contingencia
+
+### Cláusula 12. Procedimiento de contingencia y continuidad operativa.
+
+En caso de producirse un acontecimiento externo anormal u otro acontecimiento que afecte al funcionamiento del Servicio, se aplicarán los procedimientos de contingencia y continuidad operativa establecidos en las correspondientes aplicaciones técnicas dictadas por el Banco de España en cada momento.
+
+## TÍTULO VII — Terminación de la participación en el Servicio
+
+### Cláusula 13. Duración y terminación de la participación.
+
+1\. La participación de las entidades en el Servicio se pacta por tiempo indefinido.
+
+2\. La entidad miembro podrá poner término a su participación en el Servicio en cualquier momento, notificándolo al Banco de España con un preaviso mínimo de 15 días hábiles, salvo que hubiera acordado con el Banco España un preaviso menor.
+
+3\. El Banco de España podrá poner término a la participación de una entidad en el Servicio en cualquier momento, notificándolo a la entidad con un preaviso mínimo de dos meses, salvo que hubiera acordado con el participante un preaviso menor.
+
+4\. Asimismo, el Banco de España podrá terminar o suspender la participación de una entidad en el Servicio, sin necesidad de preaviso alguno, en los siguientes supuestos:
+
+a) Admisión a trámite de la solicitud de concurso de acreedores de la entidad o adopción del auto de declaración del mismo.
+
+b) La entidad no cumple los criterios establecidos para ser miembro del Servicio por haberse terminado o suspendido su participación en TARGET-Banco de España o en otro sistema integrante de TARGET; por haberse cerrado la DCA RTGS que hubiera designado; por carecer de la oportuna autorización para que se puedan liquidar en la DCA RTGS que hubiera designado las posiciones de efectivo resultantes de la liquidación de sus operaciones registradas en el Servicio, incluyendo, entre otras, por haber dejado de tener acceso a la DCA RTGS que hubiera designado como titular de BIC accesible o mediante acceso de cuenta múltiple; o por no disponer del nivel de solvencia y capacidad técnica o jurídica suficiente a juicio del Banco de España.
+
+c) Revocación de la autorización concedida a la entidad o prohibición de iniciar nuevas operaciones en territorio español, de acuerdo con lo previsto en el artículo 8 de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, o, en su caso, de acuerdo con lo previsto en la normativa de la correspondiente jurisdicción.
+
+d) Adopción, con arreglo a la legislación de otro Estado, de una medida de naturaleza universal dirigida al saneamiento o liquidación de la entidad o revocación o suspensión de la autorización que tenga concedida la misma para la realización de su actividad.
+
+e) Incumplimiento por parte de la entidad miembro del Servicio de alguna de las obligaciones previstas en estas Cláusulas Generales o en las correspondientes aplicaciones técnicas de desarrollo.
+
+f) Declaración escrita de la entidad miembro sobre su incapacidad para pagar todas o parte de sus deudas o para cumplir sus obligaciones.
+
+g) Celebración por la entidad miembro de un acuerdo o convenio general voluntario con sus acreedores.
+
+h) Que la entidad miembro sea insolvente o incapaz de pagar sus deudas a juicio del Banco de España.
+
+i) Que el saldo acreedor de la DCA RTGS donde se asientan las posiciones de efectivo o todos o buena parte de los activos de la entidad miembro estén sujetos a una orden de bloqueo, embargo, ejecución o cualquier otro procedimiento destinado a proteger el interés público o los derechos de los acreedores de la entidad.
+
+j) Que sean incorrectas o falsas cualesquiera aseveraciones sustanciales o manifestaciones precontractuales que la entidad ha formulado o se presume que ha formulado en virtud de la ley aplicable.
+
+k) La cesión por la entidad de todos o una parte sustancial de sus activos.
+
+l) Si se produce cualquier otra circunstancia relacionada con la entidad miembro que, a juicio del Banco de España, pone en peligro la estabilidad, fiabilidad y seguridad generales del Servicio, de TARGET-Banco de España o de otro sistema integrante de TARGET, o el desempeño por el Banco de España de sus funciones conforme a la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, y a los Estatutos del Sistema Europeo de Bancos Centrales y del Banco Central Europeo.
+
+5\. Terminada o suspendida la participación de una entidad en el Servicio, el Banco de España no casará ni registrará nuevas operaciones de la misma. En caso de que existieran operaciones casadas y registradas con anterioridad a la terminación o suspensión de la participación y aún pendientes de liquidación, el Banco de España podrá optar entre:
+
+Exigir a la entidad afectada por la terminación o suspensión y a sus entidades contrapartes en tales operaciones, la comunicación de la baja de las citadas operaciones, siguiendo el procedimiento previsto en la cláusula 7.4 anterior, o
+
+Liquidar tales operaciones de conformidad con lo previsto en las presentes Cláusulas Generales.
+
+6\. Si el Banco de España suspende o pone término a la participación de una entidad en el Servicio conforme a lo dispuesto en los apartados anteriores, informará de ello inmediatamente a dicha entidad y a las demás entidades miembros del Servicio.
+
+7\. Al terminar la participación, los deberes de confidencialidad que se establecen en la cláusula 16 siguiente seguirán vigentes durante los cinco años posteriores a la fecha de terminación.
+
+> Se modifica el apartado 4 por el apartado primero.9 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+## TÍTULO VIII — Disposiciones finales
+
+### Cláusula 14. Modificación y desarrollo.
+
+1\. Las presentes cláusulas generales podrán ser modificadas en cualquier momento por la Comisión Ejecutiva del Banco de España, y la modificación acordada será aplicable desde el momento que se indique en la correspondiente resolución, que se publicará en el "Boletín Oficial del Estado", sin perjuicio de que, además, el Banco de España pueda notificar a las entidades miembros dicha modificación. Las entidades no podrán alegar desconocimiento de las presentes cláusulas generales, ni de sus modificaciones, una vez que hubieran sido hechas públicas por el Banco de España.
+
+2\. Los medios, procedimientos y formatos para llevar a cabo la comunicación de operaciones a este Servicio, así como su calendario, horarios de funcionamiento, periodicidad de los ciclos de liquidación y demás reglas técnicas y operativas de aplicación, serán los que establezcan las correspondientes aplicaciones técnicas que dicte el Banco de España en cada momento.
+
+> Se modifica el apartado 1 por el apartado primero.10 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 15. Tarifas.
+
+La utilización del Servicio quedará sujeta a las tarifas establecidas en las correspondientes aplicaciones técnicas dictadas en cada momento por el Banco de España.
+
+### Cláusula 16. Confidencialidad.
+
+1\. El Banco de España mantendrá la confidencialidad de toda información sensible o secreta registrada por el Servicio, salvo que la entidad miembro consienta por escrito en facilitar o divulgar la información o ello se permita o exija por la Ley española.
+
+2\. Sin perjuicio de lo dispuesto en el apartado 1, la entidad miembro acepta expresamente que el Banco de España facilite información sobre los datos de las operaciones del Servicio a otros bancos centrales, a autoridades de supervisión, resolución y vigilancia de los Estados miembros y de la Unión Europea, en la medida en que desempeñen sus funciones públicas, siempre que ello no sea contrario a la normativa aplicable.
+
+3\. Asimismo, las entidades miembros autorizan expresamente al Banco de España a obtener de cualesquiera autoridades financieras o supervisoras u organismos mercantiles, nacionales o extranjeros, cualquier información a ellas referida que resulte necesaria en relación con su participación en el Servicio.
+
+4\. El Banco de España podrá utilizar, divulgar o publicar información del Servicio con fines estadísticos, históricos, científicos, o de otra índole, en el desempeño de sus funciones públicas o de las funciones de otras entidades públicas a las que se facilite la información, y siempre que ello no permita, directa o indirectamente, identificar a la entidad miembro.
+
+4 bis. El Banco de España no responderá de las consecuencias financieras y comerciales de la divulgación efectuada conforme a lo dispuesto en los apartados 2, 3 y 4 anteriores.
+
+5\. Las entidades miembros solo podrán utilizar la información a que tengan acceso en relación con el funcionamiento del Servicio para los fines establecidos en las cláusulas generales y mantendrán la confidencialidad de esa información, a menos que el Banco de España haya consentido expresamente por escrito su divulgación. Los participantes velarán porque los terceros a quienes externalicen, deleguen o subcontraten tareas que afecten o puedan afectar al cumplimiento de sus obligaciones conforme a las cláusulas generales estén obligados al cumplimiento de los requisitos de confidencialidad de la presente cláusula.
+
+> Se modifica por el apartado primero.11 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 17. Fuerza mayor.
+
+El Banco de España no asume ninguna responsabilidad por los daños y perjuicios que las entidades que se adhieran a estas cláusulas generales pudieran sufrir como consecuencia de hechos o acontecimientos constitutivos de fuerza mayor o caso fortuito, incluidos huelgas (sean del personal propio o no), guerras, actos terroristas, revuelta social, incendio, inundación, escasez de combustible, de energía eléctrica, imposibilidad de transporte, desastre que afecte a la disponibilidad de medios informáticos, actos o resoluciones de autoridades públicas o cualquier otra causa que escape al control razonable del Banco de España.
+
+> Se suprime su contenido, renumerándose la cláusula 18 como 17 por el apartado primero.12 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+### Cláusula 18. Ley aplicable y fuero.
+
+La Ley aplicable a las presentes cláusulas generales es la española. Para cuantas acciones y reclamaciones puedan derivarse de dichas cláusulas generales, serán competentes los juzgados y tribunales de Madrid (capital), renunciando tanto el Banco de España como la entidad miembro a cualquier otro fuero que pudiera corresponderles, y pactando como lugar del cumplimiento de las obligaciones el domicilio de Banco de España, sito en el número 48 de la calle de Alcalá, de Madrid.
+
+> Se renumera por el apartado primero.12 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+> Su anterior numeración era cláusula 19.
+
+### Cláusula 19. Domicilio.
+
+Para todos los efectos de notificaciones y requerimientos, se considerará como domicilio de la entidad el que figure en los registros oficiales que mantiene el Banco de España en relación con la misma.
+
+> Se renumera por el apartado primero.12 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+> Su anterior numeración era cláusula 20.
+
+### Cláusula 20. Entrada en vigor.
+
+Las cláusulas generales entrarán en vigor el 18 de febrero de 2008.
+
+> Se renumera y se suprimen los párrafos segundo y tercero por el apartado primero.12 y 13 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)
+
+> Su anterior numeración era cláusula 21.
+
+Madrid, 25 de enero de 2008.–El Secretario General del Banco de España, José Antonio Alepuz Sánchez.
+
+## ANEJO 1
+
+**(Suprimido)**
+
+> Se suprime por el apartado primero.14 de la Resolución de 7 de marzo de 2023. [Ref. BOE-A-2023-6455](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6455)

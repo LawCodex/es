@@ -1,0 +1,145 @@
+---
+title: "Orden HAC/3625/2003, de 23 de diciembre, por la que se aprueba el modelo 309 de declaración-liquidación no periódica del Impuesto sobre el Valor Añadido"
+identifier: "BOE-A-2003-23809"
+eli: "https://www.boe.es/eli/es/o/2003/12/23/hac3625"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2003-12-23
+published: 2003-12-30
+in_force_from: 2004-01-01
+last_amended: 2022-12-19
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 312"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23809"
+retrieved: 2026-10-11
+---
+
+# Orden HAC/3625/2003, de 23 de diciembre, por la que se aprueba el modelo 309 de declaración-liquidación no periódica del Impuesto sobre el Valor Añadido
+
+El artículo 167 de la Ley 37/1992, de 28 de diciembre (Boletín Oficial del Estado del 29), del Impuesto sobre el Valor Añadido, dispone que los sujetos pasivos del Impuesto deberán determinar e ingresar la deuda tributaria en el lugar, forma, plazos e impresos que establezca el Ministro de Hacienda.
+
+Por su parte, el Reglamento del Impuesto sobre el Valor Añadido, aprobado por el artículo 1 del Real Decreto 1624/1992, de 29 de diciembre (Boletín Oficial del Estado del 31), establece en el apartado 7 del artículo 71 los supuestos de presentación de la declaración-liquidación no periódica del Impuesto sobre el Valor Añadido, que deberá efectuarse en el lugar, forma, plazos e impresos que establezca el Ministro de Hacienda.
+
+En base a dichas habilitaciones, la Orden de 10 de octubre de 2001 (Boletín Oficial del Estado del 12), aprobó el modelo 309 de declaración-liquidación no periódica, en pesetas y en euros, del Impuesto sobre el Valor Añadido.
+
+La aprobación de la presente Orden se justifica por la necesaria adecuación del modelo de declaración a la nueva redacción del artículo 74.2.a) del Reglamento General de Recaudación, aprobado por el Real Decreto 1684/1990, de 20 de diciembre, en su redacción dada por el artículo único del Real Decreto 1248/2003, de 3 de octubre (Boletín Oficial del Estado del 15). Dicho cambio hace necesario modificar el lugar de presentación e ingreso de esta declaración-liquidación para establecer, con carácter general, que el ingreso se efectúe en cualquiera de las entidades colaboradoras en la recaudación sitas en territorio español; a estos efectos se aprueba también un sobre para la remisión a las oficinas gestoras del modelo 309. En este sentido, debe advertirse que la presentación e ingreso de este modelo se efectuaba hasta ahora, exclusivamente, en las entidades que prestan el servicio de caja en las Delegaciones y Administraciones de la Agencia Estatal de Administración Tributaria.
+
+Por otra parte, el citado artículo 71 del Reglamento del Impuesto sobre el Valor Añadido establece en el número 7.º del apartado 7, que deberán presentar declaración-liquidación especial de carácter no periódico los sujetos pasivos que así se determinen por Orden del Ministro de Hacienda.
+
+En base a dicha facultad se establece en esta Orden la obligación de presentar la declaración-liquidación no periódica del Impuesto sobre el Valor Añadido, modelo 309, en relación con aquellos sujetos pasivos del Impuesto acogidos al régimen especial de la agricultura, ganadería y pesca que deban efectuar el reintegro de las compensaciones indebidamente percibidas, según lo dispuesto en el artículo 133 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+Asimismo, teniendo en cuenta lo dispuesto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido (Boletín Oficial del Estado del 29), que añade el artículo 49 bis al mencionado Reglamento, estableciendo la obligación de ingresar mediante la presentación de una declaración-liquidación especial no periódica el resultado de la regularización de existencias practicada como consecuencia de una actividad ya en curso y que pasa a acogerse al régimen especial de la agricultura, ganadería y pesca, se hace necesaria la modificación del modelo 309 para recoger este nuevo supuesto de presentación.
+
+En consecuencia, y haciendo uso de las autorizaciones que tengo conferidas, dispongo:
+
+## Primero. Aprobación del modelo 309.
+
+Uno. Se aprueba el modelo 309 «Declaración-liquidación no periódica del Impuesto sobre el Valor Añadido», que figura como anexo I en la presente Orden y que consta de cuatro ejemplares: Ejemplar para el sujeto pasivo, Ejemplar para la Administración, Ejemplar para la entidad colaboradora y Ejemplar para la matriculación. El número de justificante que habrá de figurar en dicho modelo será un número secuencial cuyos tres primeros dígitos se corresponderán con el código 305.
+
+Asimismo, se aprueba el sobre que figura como anexo II en la presente Orden.
+
+Dos. Este modelo será presentado:
+
+1.º Por las personas y entidades que se indican a continuación en la medida en que realicen adquisiciones intracomunitarias de bienes y estén identificadas a efectos del Impuesto sobre el Valor Añadido por haber alcanzado su volumen de adquisiciones intracomunitarias el límite establecido en el artículo 14 de la Ley 37/1992, del Impuesto sobre el Valor Añadido, o por haber ejercitado la opción contemplada en el mismo artículo:
+
+a) Sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando se trate de adquisiciones intracomunitarias de bienes destinados al desarrollo de la actividad sometida a dicho régimen.
+
+b) Sujetos pasivos que realicen exclusivamente operaciones que no originan el derecho a la deducción total o parcial del Impuesto.
+
+2.º Por los sujetos pasivos que realicen exclusivamente actividades a las que sea aplicable el régimen especial de la agricultura, ganadería y pesca cuando realicen en el ejercicio de su actividad entregas de bienes inmuebles sujetas y no exentas del Impuesto sobre el Valor Añadido, así como cuando resulten ser sujetos pasivos de dicho tributo, de acuerdo con lo dispuesto en el artículo 84, apartado uno, número 2.º, de su Ley reguladora.
+
+3.º Por los sujetos pasivos del Impuesto sobre el Valor Añadido que realicen exclusivamente actividades a las que sea aplicable el régimen especial del recargo de equivalencia y que estén obligados al pago de dicho impuesto y del citado recargo por las adquisiciones intracomunitarias de bienes que efectúen, así como en los supuestos contemplados en el artículo 84, apartado uno, número 2.º, de la Ley 37/1992.
+
+De la misma forma habrán de presentar el modelo citado los sujetos pasivos que realicen exclusivamente actividades a las que sea de aplicación el régimen especial del recargo de equivalencia, cuando realicen operaciones en relación con las cuales hayan ejercitado la renuncia a la aplicación de la exención contemplada en el artículo 20, apartado dos, de la Ley 37/1992, y en el artículo 8, apartado 1, de su Reglamento.
+
+4.º Por las personas o entidades que no tengan la condición de empresarios o profesionales y realicen adquisiciones intracomunitarias de medios de transporte nuevos, a título oneroso.
+
+5.º Por las personas jurídicas que no actúen como empresarios o profesionales, cuando efectúen adquisiciones intracomunitarias de bienes distintos de los medios de transporte nuevos que estén sujetas al Impuesto, así como cuando se reputen empresarios o profesionales de acuerdo con lo dispuesto por el apartado cuatro del artículo 5 de la Ley del Impuesto.
+
+6.º Por los adjudicatarios, en los procedimientos administrativos o judiciales de ejecución forzosa, que tengan la condición de empresarios o profesionales del Impuesto sobre el Valor Añadido, que estén facultados para presentar en nombre y por cuenta del sujeto pasivo de dicho tributo, la declaración-liquidación correspondiente y para ingresar el impuesto resultante de la operación de adjudicación, en los términos previstos en la disposición adicional quinta del Reglamento del Impuesto sobre el Valor Añadido.
+
+7.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando deban efectuar el reintegro de las compensaciones indebidamente percibidas, según lo dispuesto en el artículo 133 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+8.º Por los sujetos pasivos acogidos al régimen especial de la agricultura, ganadería y pesca cuando realicen el ingreso de las regularizaciones practicadas como consecuencia del inicio en la aplicación del citado régimen especial, según lo dispuesto en el artículo 49 bis del Reglamento del Impuesto sobre el Valor Añadido.
+
+9.º Por las personas y entidades que no actúan como empresarios o profesionales, así como por aquellos sujetos pasivos que realizan exclusivamente las operaciones exentas comprendidas en los artículos 20 y 26 de la Ley del Impuesto sobre el Valor Añadido, que resulten deudores de un crédito a favor de la Hacienda Pública, como consecuencia de la modificación de la base imponible de las operaciones que resulten total o parcialmente impagadas, según lo dispuesto en el artículo 80.Cinco.5.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+10.º Por los beneficiarios de la aplicación del tipo reducido del Impuesto sobre el Valor Añadido, establecido en el artículo 91.Dos.1.4.º de la Ley del Impuesto sobre el Valor Añadido, en las operaciones de entregas o adquisiciones intracomunitarias de vehículos, que no siendo sujetos pasivos del Impuesto, incumplan el requisito establecido en el artículo 26 bis.Dos.1.2.º del Reglamento del Impuesto sobre el Valor Añadido. Igualmente, deberá presentar el modelo 309 cualquier otra persona o entidad que no sea sujeto pasivo del Impuesto que deba regularizar su situación tributaria como consecuencia del incumplimiento de los requisitos exigidos para la aplicación de beneficios fiscales en el Impuesto sobre el Valor Añadido excluidos los aplicables al hecho imponible importación.
+
+11.º Por aquellos sujetos pasivos acogidos a los regímenes especiales de la agricultura, ganadería y pesca y del recargo de equivalencia que resulten deudores de un crédito a favor de la Hacienda Pública, como consecuencia de la modificación de la base imponible de las operaciones que resulten total o parcialmente impagadas, según lo dispuesto en el artículo 80.Cinco.5.ª de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+
+> Se modifica el número 11º del apartado Dos por el art. 1 de la Orden HAC/1416/2018, de 28 de diciembre. [Ref. BOE-A-2018-17996](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17996)
+
+> Se modifica el apartado 2 por el art. 2 de la Orden HAP/1222/2014, de 9 de julio. [Ref. BOE-A-2014-7469](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7469)
+
+> Se modifica el apartado 2 por la disposición final 1 de la Orden EHA/769/2010, de 18 de marzo. [Ref. BOE-A-2010-5098](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-5098)
+
+## Segundo. Lugar de presentación del modelo 309.
+
+El importe de la cuota líquida resultante de la declaración-liquidación se ingresará en el momento de la presentación de la misma en cualquier entidad de depósito que actúe como colaboradora en la gestión recaudatoria sita en territorio español.
+
+Las declaraciones-liquidaciones podrán igualmente presentarse para su ingreso en las entidades de depósito que presten el servicio de caja en los locales de las Delegaciones y Administraciones de la Agencia Estatal de Administración Tributaria, cuando así se establezca, de acuerdo con lo previsto en el artículo 74.2 del Reglamento General de Recaudación.
+
+En el caso de que la declaración-liquidación carezca de las etiquetas identificativas elaboradas por la Agencia Estatal de Administración Tributaria se acompañará de fotocopia de la tarjeta o documento acreditativo del número de identificación fiscal. No obstante, en los supuestos de entregas de bienes y prestaciones de servicios efectuadas en el marco de los procedimientos administrativos y judiciales de ejecución forzosa a que se refiere la disposición adicional sexta de la Ley del Impuesto sobre el Valor Añadido, si el adjudicatario carece de etiquetas identificativas del sujeto pasivo, no será preciso aportar la fotocopia de la tarjeta o documento acreditativo del Número de Identificación Fiscal del citado sujeto pasivo.
+
+Las entidades mencionadas anteriormente deberán remitir a las Delegaciones o Administraciones de la Agencia Estatal de Administración Tributaria que correspondan, en el sobre habilitado al efecto que figura como anexo II de la presente Orden, el ejemplar para la Administración del modelo 309.
+
+## Tercero. Plazo de presentación del modelo 309.
+
+La presentación de la declaración-liquidación y el ingreso resultante de la misma se efectuará en los veinte primeros días naturales de los meses de abril, julio y octubre. La correspondiente al último período de liquidación deberá presentarse durante los treinta primeros días naturales del mes de enero del año siguiente.
+
+Los vencimientos que coincidan con un sábado o día inhábil se considerarán trasladados al primer día hábil siguiente.
+
+Se exceptúan de lo anterior las declaraciones-liquidaciones correspondientes a adquisiciones intracomunitarias de medios de transporte nuevos, en cuyo caso el plazo de presentación del presente modelo será de treinta días desde la realización de la operación y en cualquier caso antes de la matriculación definitiva de dichos medios de transporte. Para la matriculación del vehículo, se exigirá a los adquirentes de medios de transporte nuevos mencionados en el artículo 13, número 2.º de la Ley del Impuesto sobre el Valor Añadido la presentación del ejemplar para la matriculación de este modelo con la casilla de ingreso debidamente validada.
+
+Si se trata de procedimientos judiciales o administrativos de ejecución forzosa, el plazo de presentación será de un mes a contar desde el pago del importe de la adjudicación.
+
+## Disposición adicional única.
+
+Modificación de la Orden de 15 de junio de 1995, por la que se desarrolla parcialmente el Reglamento General de Recaudación en la redacción dada al mismo por el Real Decreto 448/1995, de 24 de marzo, en relación con las entidades de depósito que prestan el servicio de colaboración en la gestión recaudatoria.
+
+En el anexo I, Código 021 autoliquidaciones, se incluye el siguiente modelo de declaración:
+
+Código de modelo: 309.
+
+Denominación: Impuesto sobre el Valor Añadido. Declaración-liquidación no periódica.
+
+## Disposición derogatoria única.
+
+Desde la entrada en vigor de la presente Orden quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la misma y, en particular, la Orden de 10 de octubre de 2001 por la que se aprueba el modelo 309 de declaración-liquidación no periódica, en pesetas y en euros, del Impuesto sobre el Valor Añadido.
+
+## Disposición final única.
+
+La presente Orden entrará en vigor el día 1 de enero de 2004.
+
+Lo que comunico a VV. II. para su conocimiento y efectos.
+
+Madrid, 23 de diciembre de 2003.
+
+MONTORO ROMERO
+
+Ilmo. Sr. Director general de la Agencia Estatal de Administración Tributaria e Ilmo. Sr. Director general de Tributos.
+
+## ANEXO I — Impuesto sobre el Valor Añadido. Declaración-liquidación no periódica
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/303/21458_12541830_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/303/21458_12541830_2.png)
+
+> Se sustituye, con efectos de 1 de enero de 2023, por el que figura como anexo de la Orden HFP/1245/2022, de 14 de diciembre de 2022, según establece su art. único. [Ref. BOE-A-2022-21458](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-21458)
+
+> Téngase en cuenta que se aplicará a las autoliquidaciones correspondientes a los ejercicios 2023 y siguientes, según establece la disposición final única de la citada Orden.
+
+> Se sustituye por el art. 1 de la Orden HFP/1247/2017, de 20 de diciembre. [Ref. BOE-A-2017-15190](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-15190)
+
+> El modelo aprobado será utilizado para presentar las autoliquidaciones correspondientes al ejercicio 2018 y siguientes, según establece la disposición final 2 de la citada Orden.
+
+## ANEXO II
+
+![7](https://www.boe.es/datos/imagenes/disp/2003/312/23809_5129.png)
+
+![8](https://www.boe.es/datos/imagenes/disp/2003/312/23809_5244.png)

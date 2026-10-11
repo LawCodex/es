@@ -1,0 +1,209 @@
+---
+title: "Real Decreto 177/2004, de 30 de enero, por el que se determina la composición, funcionamiento y funciones de la Comisión de protección patrimonial de las personas con discapacidad"
+identifier: "BOE-A-2004-2224"
+eli: "https://www.boe.es/eli/es/rd/2004/01/30/177"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2004-01-30
+published: 2004-02-06
+in_force_from: 2004-02-07
+last_amended: 2021-05-26
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 32"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-2224"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 177/2004, de 30 de enero, por el que se determina la composición, funcionamiento y funciones de la Comisión de protección patrimonial de las personas con discapacidad
+
+La Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad y de modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la Normativa Tributaria con esta finalidad, establece nuevos mecanismos de protección de las personas con discapacidad, en el aspecto patrimonial.
+
+El objeto principal de la ley fue la regulación del patrimonio especialmente protegido de las personas con discapacidad, masa patrimonial que queda vinculada a la satisfacción de las necesidades vitales de esta persona, favoreciendo que se constituya este patrimonio y la aportación, a título gratuito, de bienes y derechos a éste.
+
+La ley reguló la necesaria supervisión de la administración del patrimonio protegido de las personas con discapacidad, articulándola de varias formas ; por una parte, el constituyente del patrimonio puede determinar las reglas para efectuarla, pero, por otra, se establece una supervisión institucional a cargo del Ministerio Fiscal.
+
+El Ministerio Fiscal recibe información anual del administrador (salvo que éste sea la propia persona discapacitada o sus padres), quien debe rendir cuentas cuando se le requiera, y por otro lado, siempre que resulte necesario, aquél puede solicitar al juez el establecimiento de cualquier medida en beneficio de la persona con discapacidad, interviniendo en todas las actuaciones judiciales relativas a este patrimonio protegido.
+
+La ley, en su artículo 7, creó la Comisión de protección patrimonial de las personas con discapacidad como órgano externo de apoyo, auxilio y asesoramiento del Ministerio Fiscal en las funciones de supervisión de la administración del patrimonio protegido que a éste le corresponden.
+
+Dicha Comisión, cuya composición, funcionamiento y funciones se regulan a través de este real decreto, está adscrita al Ministerio de Trabajo y Asuntos Sociales, como órgano colegiado interministerial, y cuenta con representantes de la Administración General del Estado y de la asociación de utilidad pública más representativa de ámbito estatal de los diferentes tipos de discapacidad.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Asuntos Sociales y de Justicia, con la aprobación previa de la Ministra de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 30 de enero de 2004,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+1\. Este real decreto tiene por objeto regular la composición, funcionamiento y funciones de la Comisión de protección patrimonial de las personas con discapacidad, como órgano colegiado interministerial, de apoyo, auxilio y asesoramiento del Ministerio Fiscal, en el que participarán representantes de la asociación de utilidad pública más representativa en el ámbito estatal de los diferentes tipos de discapacidad además del Ministerio Fiscal.
+
+2\. La Comisión quedará adscrita al Ministerio de Derechos Sociales y Agenda 2030 a través de la Secretaría de Estado de Derechos Sociales.
+
+> Se modifica el apartado 2 por el art. 3.1 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifica por el art. único.1 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+> Se modifica el apartado 2 por el art. único.1 del Real Decreto 2270/2004, de 3 de septiembre. [Ref. BOE-A-2004-21219](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21219).
+
+### Artículo 2. Funciones.
+
+La Comisión tendrá las siguientes funciones:
+
+a) El auxilio, apoyo y asesoramiento al Ministerio Fiscal en el ejercicio de las funciones de supervisión encomendadas a éste en relación con la administración del patrimonio protegido de las personas con discapacidad, reguladas en el artículo 7 de la Ley 41/2003, de 18 de noviembre, de protección patrimonial de las personas con discapacidad, y de modificación del Código Civil, de la Ley de Enjuiciamiento Civil y de la Normativa Tributaria con esta finalidad, en cuantas actuaciones éste le requiera.
+
+b) El apoyo al Ministerio Fiscal en cualquier actuación judicial relativa al patrimonio protegido de las personas con discapacidad.
+
+c) El asesoramiento al Ministerio Fiscal en el examen de la rendición de cuentas de gestión del administrador del patrimonio protegido de las personas con discapacidad, de la relación de gestión y del inventario de los bienes y derechos que formen parte del reiterado patrimonio.
+
+d) La colaboración con el Ministerio Fiscal para el requerimiento de documentación adicional que se estime pertinente al administrador del patrimonio protegido de las personas con discapacidad.
+
+e) La emisión de informe en cuantos asuntos con relación a la administración del patrimonio protegido de las personas con discapacidad le sean requeridos por el Ministerio Fiscal.
+
+f) Auxiliar al Ministerio Fiscal en sus funciones recabando el asesoramiento de carácter técnico en los asuntos que estime necesario a entidades públicas o privadas.
+
+g) Elaborar una memoria anual sobre la protección patrimonial de las personas con discapacidad, que será elevada, para conocimiento, al Consejo Nacional de la Discapacidad.
+
+h) Proponer al Ministerio de Derechos Sociales y Agenda 2030 la elaboración y difusión de materiales informativos accesibles y prácticos, teniendo en cuenta el diseño para todos y en lectura fácil sobre la legislación patrimonial de las personas con discapacidad, que contribuyan a guiar y a orientar a sus eventuales beneficiarios.
+
+i) Podrá ser consultada sobre cualquier iniciativa normativa que tenga incidencia en el ámbito de la protección patrimonial de las personas con discapacidad.
+
+j) Efectuar estudios e investigaciones que redunden en la mejora de los instrumentos jurídicos de protección patrimonial de dichas personas, así como proponer las actuaciones necesarias para la promoción y ordenación de aquéllos y elevar al Ministerio de Derechos Sociales y Agenda 2030 las propuestas que consideren convenientes.
+
+> Se modifica la letra j) por el art. 3.4.a) del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifican las letras h) y j) por el art. único.2 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+### Artículo 3. Composición.
+
+1\. Integran la Comisión:
+
+a) La presidencia.
+
+b) Las vicepresidencias.
+
+c) Las vocalías.
+
+d) La secretaría.
+
+2\. Ostentará la Presidencia de la Comisión la persona titular de la Secretaría de Estado de Derechos Sociales.
+
+3\. Las vicepresidencias primera y segunda de la Comisión las ostentarán, respectivamente, la persona titular de la Dirección General de Derechos de las Personas con Discapacidad y la persona designada por la persona titular del Ministerio de Derechos Sociales y Agenda 2030, a propuesta de la asociación de utilidad pública más representativa en el ámbito estatal de los diferentes tipos de discapacidad, que sustituirán, por su orden, a quien desempeñe la presidencia en los casos de vacancia, ausencia, enfermedad u otra causa legal.
+
+Asimismo, la persona titular del Ministerio de Derechos Sociales y Agenda 2030 designará las personas suplentes de ambas vicepresidencias en los casos de ausencia o de enfermedad o cuando concurra alguna causa justificada.
+
+4\. Las personas que ostenten en cada momento las vocalías de la Comisión serán:
+
+a) Siete en representación de la Administración General del Estado, designadas por la persona titular del Ministerio de Derechos Sociales y Agenda 2030, a propuesta de cada departamento ministerial competente, conforme a la siguiente distribución:
+
+1.º Por el Ministerio de Derechos Sociales y Agenda 2030, cuatro representantes, uno de la Dirección General de Diversidad Familiar y Servicios Sociales, uno de la Dirección General de Derechos de las Personas con Discapacidad, uno de la Dirección General de Derechos de la Infancia y de la Adolescencia y uno del Instituto de Mayores y Servicios Sociales.
+
+2.º Una persona que ostente la vocalía en representación de cada uno de los siguientes Ministerios: de Justicia, de Hacienda y de la Presidencia, Relaciones con las Cortes y Memoria Democrática.
+
+b) Una persona que ostente la vocalía en representación del Ministerio Fiscal y otra en representación del Consejo General del Poder Judicial que ejerza la Presidencia del órgano Rector del Foro Justicia y Discapacidad.
+
+Las personas suplentes de las vocalías en representación de la Administración General del Estado, del Ministerio Fiscal y del Consejo General del Poder Judicial serán propuestas por sus respectivos departamentos ministeriales, por el Ministerio Fiscal, y por el Consejo General del Poder Judicial, respectivamente, para que sean designadas simultáneamente con sus titulares y de la misma forma para la sustitución de las personas de las vocalías titulares en los casos de ausencia, enfermedad o cualquier otra causa justificada.
+
+c) Nueve en representación del sector asociativo, representantes de la asociación de utilidad pública más representativa en el ámbito estatal de los diferentes tipos de discapacidad. Las personas que ostenten las vocalías, así como las personas suplentes para los supuestos de vacancia, ausencia o enfermedad, u otra causa legal, serán designadas por la persona titular del Ministerio de Derechos Sociales y Agenda 2030, a propuesta de la asociación correspondiente.
+
+5\. La Comisión contará asimismo con dos personas asesoras expertas, designadas por la persona titular de la Secretaría de Estado de Derechos Sociales, de entre quienes cuenten con un reconocido prestigio y trayectoria en materias relacionadas con las personas con discapacidad y sus familias, preferentemente en cuestiones de fiscalidad y protección patrimonial de este grupo social. Las mismas, participarán, con voz y sin voto, en las sesiones de los órganos del Consejo proporcionando un asesoramiento técnico.
+
+6\. Ostentará la secretaría de la Comisión, con voz, pero sin voto, la persona titular de la Subdirección General de Coordinación y Ordenación de la Dirección General de Derechos de las Personas con Discapacidad. Cuando concurra alguno de los supuestos contemplados por el artículo 19 de la Ley 40/2015, de 1 de octubre, será sustituida por la persona titular de la Subdirección General de Diálogo Civil, adscrita a la misma Dirección General.
+
+7\. En la designación de vocalías correspondientes a la Administración General del Estado, y de las personas asesoras externas, deberá atenderse al principio de presencia equilibrada de mujeres y hombres.
+
+> Se modifica por el art. 3.2 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifican los apartados 2 a 5 por el art. 3.1 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+> Se modifican los apartados 2, 3, 4 y 5 por el art. único.3 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+> Se modifican los apartados 2, 3, 4.a) y 5 por el art. único.2 del Real Decreto 2270/2004, de 3 de diciembre. [Ref. BOE-A-2004-21219](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-21219).
+
+### Artículo 4. Funcionamiento.
+
+1\. La Comisión de protección patrimonial de las personas con discapacidad funcionará en Pleno y en Comisión Permanente, sin perjuicio de los grupos de trabajo que puedan crearse para el mejor desempeño de sus fines.
+
+En las ocasiones en que sea necesario se podrán formar estos grupos de trabajo, que estarán integrados por personas que destaquen por sus conocimientos, actividades y otros méritos en materia de discapacidad, expertos en las áreas económica o contable.
+
+2\. La Comisión Permanente realizará las funciones que le encomiende el Pleno y será el órgano ejecutivo de la Comisión de protección patrimonial de las personas con discapacidad. Esta Comisión Permanente estará constituida por quien ostente la presidencia, por las ocho personas que ostenten las vocalías, y por quien desempeñe la secretaría de la Comisión.
+
+3\. La presidencia de la Comisión Permanente la ostenta la persona titular de la vicepresidencia primera de la Comisión de protección patrimonial de las personas con discapacidad.
+
+4\. Las personas que ostenten en cada momento las vocalías de la Comisión Permanente serán designados por el Pleno de la Comisión:
+
+a) Tres, de los que en el Pleno participan en representación de la Administración General del Estado, por los Ministerios de Derechos Sociales y Agenda 2030, Igualdad y Hacienda.
+
+b) Uno en representación del Ministerio Fiscal.
+
+c) Cuatro, en representación del sector asociativo.
+
+5\. Actuará de secretario de la Comisión Permanente el que lo sea de la Comisión de protección patrimonial de las personas con discapacidad.
+
+6\. Las reuniones de la Comisión se celebrarán en dependencias accesibles con arreglo a la legislación de supresión de barreras y promoción de la accesibilidad que resulte de aplicación.
+
+> Se modifica el apartado 4.a) por el art. 3.4.a) y b) del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifican los apartados 2, 3 y 4 por el art. único.4 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+### Artículo 5. Sesiones.
+
+1\. El Pleno se reunirá una vez al semestre con carácter ordinario y, excepcionalmente, cuantas veces sea convocado por su presidente, a iniciativa propia o a propuesta, al menos, de la mitad de sus miembros.
+
+2\. La Comisión Permanente se reunirá cuantas veces sea necesario para el desarrollo de sus funciones.
+
+3\. A las sesiones de la Comisión Permanente, por decisión del presidente o a instancia de la mayoría de sus vocales, podrán asistir las personas y entidades que se considere conveniente por razón de los asuntos a tratar, que tendrán voz pero no voto.
+
+### Artículo 6. Sitio oficial de Internet.
+
+La Comisión dispondrá, en la sede electrónica del Ministerio de Derechos Sociales y Agenda 2030, de una sección dedicada a informar al público sobre la protección patrimonial de las personas con discapacidad. Dicha sección y sede electrónica serán accesibles a las personas con discapacidad y mayores con arreglo a lo dispuesto en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+> Se modifica por el art. 3.4.a) del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifica por el art. único.5 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+### Artículo 7. Legislación supletoria.
+
+En lo no previsto en este real decreto, el funcionamiento de la Comisión se acomodará a las normas contenidas en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, así como en la disposición adicional primera de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos.
+
+> Se modifica por el art. único.6 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+### Disposición adicional primera. Medios personales y materiales.
+
+La Secretaría de Estado de Derechos Sociales atenderá con sus medios personales y materiales al funcionamiento de la Comisión de protección patrimonial de las personas con discapacidad.
+
+> Se modifica por el art. 3.4.c) del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se renumera por el art. 3.2 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+> Su anterior numeración era disposición adicional única.
+
+### Disposición adicional segunda. Referencias a determinados órganos administrativos.
+
+**(Suprimida)**
+
+> Se suprime por el art. 3.3 del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se añade por el art. 3.2 del Real Decreto 1146/2012, de 27 de julio. [Ref. BOE-A-2012-11211](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-11211).
+
+### Disposición final primera. Habilitación para el desarrollo reglamentario.
+
+Se habilita a las personas titulares de los Ministerios de Derechos Sociales y Agenda 2030 y de Justicia para dictar, en el ámbito de sus competencias, las disposiciones que sean necesarias para el cumplimiento de este real decreto.
+
+> Se modifica por el art. 3.4.d) del Real Decreto 369/2021, de 25 de mayo. [Ref. BOE-A-2021-8750](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-8750)
+
+> Se modifica por el art. único.8 del Real Decreto 1853/2009, de 4 de diciembre. [Ref. BOE-A-2009-20158](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-20158).
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid, a 30 de enero de 2004.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de la Presidencia,
+
+JAVIER ARENAS BOCANEGRA

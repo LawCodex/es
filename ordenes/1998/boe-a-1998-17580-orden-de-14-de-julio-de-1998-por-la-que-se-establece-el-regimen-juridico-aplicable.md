@@ -1,0 +1,123 @@
+---
+title: "Orden de 14 de julio de 1998 por la que se establece el régimen jurídico aplicable a los agentes externos para la realización de intercambios intracomunicarios e internacionales de energía eléctrica"
+identifier: "BOE-A-1998-17580"
+eli: "https://www.boe.es/eli/es/o/1998/07/14/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 1998-07-14
+published: 1998-07-23
+in_force_from: 1998-07-24
+last_amended: 2005-12-31
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 175"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-17580"
+retrieved: 2026-10-11
+---
+
+# Orden de 14 de julio de 1998 por la que se establece el régimen jurídico aplicable a los agentes externos para la realización de intercambios intracomunicarios e internacionales de energía eléctrica
+
+La presente Orden se dicta en desarrollo de lo previsto en el Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica que en sus artículos 34 a 37 desarrolló, a su vez, lo previsto en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, en materia de intercambios intracomunitarios e internacionales.
+
+En concreto, la citada Ley atribuye en el artículo 9 la condición de sujetos del sistema eléctrico a aquéllos que realicen la incorporación a las redes nacionales de energía procedente de otros sistemas exteriores y establece en su artículo 13 los principios generales que han de regir estos intercambios. Atendiendo a dichos principios, el Real Decreto 2019/1997 denomina agentes externos a los sujetos que pueden llevar a cabo estos intercambios y delimita los contenidos a los que ha de someterse la autorización que haya de darse a los mismos, remitiendo su concreción a una Orden ministerial.
+
+En este sentido, la presente Orden establece los requisitos que habrán de ser acreditados por los agentes externos para poder participar en el mercado de electricidad, estableciéndose una diferenciación para su otorgamiento entre aquellos agentes comunitarios y los procedentes de países terceros. En el caso de agentes comunitarios, la Ley 54/1997, ya diseña criterios de reciprocidad, de acuerdo con la Directiva 96/92/CEE, de 19 de diciembre, sobre normas comunes para el mercado interior de electricidad que obliga a los Estados miembros a una progresiva apertura de sus mercados eléctricos, criterios que se desarrollan en esta Orden dando un período transitorio en que se podrá autorizar a los agentes externos comunitarios en tanto transcurre el período de dos años de transposición de dicha norma comunitaria.
+
+Además de los requisitos formales que han de cumplir los agentes externos, la Orden determina los criterios que ha de someterse en su participación en el mercado de producción organizado, en función de que las operaciones a llevar a cabo sean de compra, de venta o ambas y se determina el correspondiente régimen retributivo.
+
+Separadamente se regula otra de las modalidades de contratación de energía eléctrica, que es aquélla que se realiza a través de contratos bilaterales físicos, fijando un criterio también fundamentado en la reciprocidad cuando se trate de ventas en España de energía eléctrica procedente de agentes externos y un principio de libertad cuando se trate de adquisiciones en España por consumidores extranjeros sólo matizado por la existencia de posibles riesgos para el suministro nacional.
+
+El contenido de la Orden se completa con el tratamiento de las restricciones técnicas tanto en el ámbito nacional como en lo que se refiere a interconexiones internacionales, estableciéndose la imposibilidad de que exista reserva de capacidad salvo para intercambios de seguridad.
+
+En su virtud, dispongo:
+
+## Primero. Ámbito de aplicación.
+
+De acuerdo con lo establecido en el apartado 2 del artículo 34 del Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, los productores, distribuidores, consumidores y comercializadores de países comunitarios y de países terceros podrán participar en el mercado de producción de electricidad, definido en el artículo 2 del citado Real Decreto, como agentes externos, previo cumplimiento de los requisitos que se establecen en la presente Orden.
+
+## Segundo. Régimen jurídico de los agentes externos.
+
+1\. La obtención de la condición de agente externo está sometida a autorización administrativa previa que será otorgada por la Dirección General de la Energía.
+
+2\. El solicitante de la autorización a que se refiere el párrafo anterior deberá acreditar los siguientes extremos:
+
+Estar habilitado en su país de origen o residencia para comprar o vender energía eléctrica.
+
+Certificación de la autoridad administrativa competente en su país de origen que permita conocer el tratamiento que en dicho país corresponde a los intercambios internacionales o, en su caso, intracomunitarios y sujetos habilitados para llevarlos a cabo, en especial los consumidores que pueden tener la condición de cualificados.
+
+El solicitante de la autorización deberá, además, especificar si la misma se pretende obtener para adquirir energía eléctrica en España, para venderla o para ambos tipos de operaciones.
+
+3\. En el plazo de cuarenta y cinco días hábiles desde la presentación de la solicitud, la Dirección General de la Energía resolverá sobre la misma.
+
+En el caso de que el solicitante sea nacional de un país comunitario, la resolución tan sólo podrá ser negativa cuando en su país de origen o residencia los sujetos equivalentes y, en especial los consumidores cualificados, no tengan reconocida la misma capacidad de contratación.
+
+## Tercero. Reglas de mercado e inscripción en el Registro.
+
+1\. Obtenida la autorización a que se refiere el número anterior, el agente externo deberá, en el plazo de cuarenta y cinco días hábiles, adherirse a las reglas y condiciones de funcionamiento y liquidación del mercado de producción en el contrato de adhesión a que se refiere el artículo 4 del Real Decreto 2019/1997. Transcurrido dicho plazo la autorización perderá su validez.
+
+2\. Formalizada la adhesión a que se refiere el párrafo anterior, el agente externo solicitará su inscripción en el Registro Administrativo correspondiente del Ministerio de Industria y Energía.
+
+Cuando la autorización obtenida se refiere a venta de energía eléctrica, la inscripción se formalizará en el Registro Administrativo de Instalaciones de Producción de Energía Eléctrica a que se refiere el artículo 31 de la Ley 54/1997.
+
+En el caso de que la autorización habilite para la adquisición de energía, la inscripción se realizará en el Registro Administrativo de Distribuciones, Comercializadores y Consumidores Cualificados a que se refiere el artículo 45.4 de la Ley 54/1997. Si la autorización habilita para ambos tipos de operaciones deberá formalizarse la inscripción en ambos Registros Administrativos.
+
+3\. La inscripción será requisito indispensable tanto para la participación en el mercado de producción como para la suscripción por el agente externo de contratos bilaterales físicos que supongan venta de energía eléctrica en España.
+
+## Cuarto. Mercado de producción organizado.
+
+La participación de los agentes externos en el mercado de producción organizado de energía eléctrica se regirá por los siguientes criterios:
+
+Cuando el agente externo esté habilitado para vender energía eléctrica, deberá presentar ofertas para cada uno de los períodos de programación a que se refiere el artículo 6 del Real Decreto 2019/1997.
+
+Cuando el agente externo esté habilitado para adquirir energía eléctrica, podrá presentar ofertas libremente para los períodos de programación en los que esté interesado.
+
+Cuando el agente externo esté habilitado tanto para vender como para adquirir energía eléctrica, deberá presentar ofertas, bien sean de adquisición o bien sean de venta de energía eléctrica, para cada uno de los períodos de programación.
+
+## Quinto. Retribución de las adquisiciones.
+
+1\. Las adquisiciones de energía eléctrica que realicen los agentes externos en el mercado de producción organizado de electricidad deberán abonarse en los términos establecidos para los adquirentes nacionales por la normativa de desarrollo de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+
+2\. Asimismo, en el caso de adquisiciones, el agente externo deberá abonar los peajes que se determinen para los intercambios internacionales, de acuerdo con el artículo 13.6 de la Ley 54/1997, por el uso de redes de transporte y distribución que permitan la colocación de la energía eléctrica adquirida en los puntos de interconexión con sistemas eléctricos exteriores, siéndole aplicable el mismo tratamiento que a los agentes internos en lo que se refiere a las pérdidas y desvíos que puedan producirse en el tránsito de electricidad.
+
+## Sexto. Retribución de las ventas.
+
+En el caso de venta de energía eléctrica por parte de agentes externos en el mercado de producción organizado, corresponderá a éstos percibir la retribución que se derive para cada período de programación en iguales condiciones que los agentes nacionales, siéndoles de aplicación el mismo tratamiento en lo que se refiere a las pérdidas y desvíos que puedan producirse en el tránsito de electricidad.
+
+Las ventas de los agentes externos no serán retribuidas por el concepto de garantía de potencia.
+
+## Séptimo. Contratos bilaterales físicos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden ITC/4112/2005, de 30 de diciembre. [Ref. BOE-A-2005-21611](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21611).
+
+## Octavo. Restricciones técnicas en el sistema eléctrico español.
+
+A la energía adquirida o vendida por los agentes externos en el mercado de producción de electricidad, bien sea a través de su participación en el mercado organizado o a través de contratos bilaterales físicos, les serán aplicables las condiciones generales establecidas para la resolución de restricciones técnicas en lo que afectan al sistema eléctrico español.
+
+## Noveno. Restricciones técnicas en interconexiones internacionales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden ITC/4112/2005, de 30 de diciembre. [Ref. BOE-A-2005-21611](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-21611).
+
+## Décimo. Incumplimientos.
+
+El incumplimiento por parte de los agentes externos de las obligaciones que se deriven de la legislación aplicable al sector eléctrico y, en especial de la presente Orden, del contrato de adhesión o de la autorización que les fue otorgada, podrá determinar la revocación de dicha autorización temporal o indefinidamente, previa substanciación del procedimiento administrativo que corresponda.
+
+## Undécimo. Régimen transitorio.
+
+No obstante lo establecido en el apartado segundo, la Dirección General de la Energía podrá autorizar con carácter temporal como agentes externos a aquellos solicitantes de origen comunitario, en tanto se lleva a cabo en sus legislaciones internas la transposición de la Directiva 96/92/CE, de 19 de diciembre, sobre normas comunes para el mercado interior de la electricidad y, en todo caso, durante un período máximo de dos años desde la entrada en vigor de la citada Directiva, de aquellos supuestos en que en el momento de presentación de la solicitud no se cumplan los requisitos de reciprocidad que justifican la denegación de dicha autorización.
+
+## Duodécimo. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 14 de julio de 1998.
+
+PIQUÉ I CAMPS
+
+Excmo. Sr. Secretario de Estado de Energía y Recursos Minerales.

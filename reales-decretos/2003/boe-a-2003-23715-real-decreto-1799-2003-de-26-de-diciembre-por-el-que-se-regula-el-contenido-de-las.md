@@ -1,0 +1,289 @@
+---
+title: "Real Decreto 1799/2003, de 26 de diciembre, por el que se regula el contenido de las listas electorales y de las copias del censo electoral"
+identifier: "BOE-A-2003-23715"
+eli: "https://www.boe.es/eli/es/rd/2003/12/26/1799"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2003-12-26
+published: 2003-12-27
+in_force_from: 2003-12-28
+last_amended: 2023-03-22
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 310"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-23715"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1799/2003, de 26 de diciembre, por el que se regula el contenido de las listas electorales y de las copias del censo electoral
+
+La Ley Orgánica 1/2003, de 10 de marzo, para la garantía de la democracia en los ayuntamientos y la seguridad de los concejales modifica determinados artículos de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+La nueva redacción del artículo 39.2 establece, con carácter general, la consulta informática del censo electoral, previa identificación del interesado, y mantiene la exposición material de las listas electorales para los ayuntamientos y consulados que no dispongan de los medios adecuados para hacer la consulta por medios informáticos.
+
+El apartado 1 del artículo 41 introduce la habilitación para regular normativamente los datos que deben contener las listas y copias del censo electoral. Un nuevo apartado 6 de este artículo autoriza la exclusión de las personas amenazadas de las copias del censo electoral a entregar a las candidaturas proclamadas y a las Juntas Electorales de Zona.
+
+Por otra parte, la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal establece en su artículo 2.3.a) que se regirán por sus disposiciones específicas, y por lo especialmente previsto, en su caso, por esta ley orgánica, entre otros, los ficheros regulados por la legislación de régimen electoral.
+
+Conforme a ello, procede regular el procedimiento de consulta del censo electoral para rectificación en período electoral, los datos disponibles para consulta, tanto si ésta es por medios informáticos como mediante listados, el contenido de las listas de votación y, finalmente, los datos de electores a incluir en las copias del censo electoral así como la exclusión de éstas de las personas amenazadas o coaccionadas que lo soliciten. Este real decreto ha sido informado favorablemente por la Junta Electoral Central en su sesión de 16 de octubre de 2003.
+
+En su virtud, a propuesta de los Ministros de Economía, de Asuntos Exteriores, del Interior y de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de diciembre de 2003,
+
+## D I S P O N G O :
+
+### Artículo 1. Procedimiento de consulta del censo electoral para rectificación en período electoral.
+
+1\. La identificación de los interesados en la consulta informática de las listas electorales, ante el empleado del ayuntamiento o de la oficina consular o sección consular, se realizará mediante los mismos documentos mencionados en el artículo 85 de la Ley Orgánica 5/1985, de 19 de junio: documento nacional de identidad, pasaporte o permiso de conducir, en el que aparezca la fotografía del titular o, además, tratándose de nacionales de otros Estados con derecho a voto en las elecciones municipales o al Parlamento Europeo, con la tarjeta de residencia o mediante un documento de identidad o pasaporte expedido por las autoridades del país de nacionalidad.
+
+2\. Los ayuntamientos dispondrán de información de los electores, con el siguiente desglose:
+
+a) Españoles residentes en el municipio.
+
+b) Españoles residentes en el extranjero inscritos a efectos electorales en el municipio.
+
+c) Nacionales de otros Estados residentes en el municipio, con derecho a voto en las elecciones municipales o al Parlamento Europeo.
+
+3\. Las oficinas consulares y secciones consulares dispondrán de información de los electores españoles residentes en sus respectivas demarcaciones consulares.
+
+4\. La Oficina del Censo Electoral ofrecerá a todos los ayuntamientos y oficinas consulares, con motivo de cada elección que se celebre en España, un servicio de consulta telemática por internet de los datos de inscripción de los electores incluidos en el censo electoral vigente de su ámbito territorial.
+
+Como refuerzo o como alternativa para la consulta, y siempre que se solicite expresamente, la Oficina del Censo Electoral pondrá a disposición de los ayuntamientos y del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, una aplicación informática y ficheros con los datos de los electores inscritos en el ámbito territorial correspondiente, con el diseño de registro que establezca la Oficina del Censo Electoral, lo que permitirá la atención a las consultas desde puestos sin acceso a internet.
+
+Excepcionalmente, los ayuntamientos que precisen una lista en papel del censo electoral vigente de su ámbito para la consulta podrán solicitarla a la Delegación Provincial de la Oficina del Censo Electoral correspondiente justificando el motivo de no poder utilizar la consulta telemática. Del mismo modo, el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación solicitará a la Oficina del Censo Electoral ficheros para obtener listas en papel de aquellas oficinas consulares que las precisen.
+
+> Se modifica el apartado 4 por el art. único.1 del Real Decreto 189/2023, de 21 de marzo. [Ref. BOE-A-2023-7413](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7413)
+
+> Se modifican los apartados 1 y 2 por el art. único.1 del Real Decreto 288/2014, de 25 de abril. [Ref. BOE-A-2014-4483](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4483).
+
+### Artículo 2. Datos disponibles para consulta.
+
+1\. Los ayuntamientos con servicio de consulta informática, dispondrán de un fichero con la siguiente información:
+
+a) Apellidos y nombre.
+
+b) Fecha de nacimiento: día, mes y año.
+
+c) Sexo.
+
+d) Número del documento nacional de identidad o, en su caso, pasaporte o tarjeta de residencia.
+
+e) Grado de escolaridad.
+
+f) Domicilio.
+
+g) Lugar de nacimiento: provincia y municipio o país.
+
+h) Distrito, sección y mesa electoral.
+
+i) Local electoral: nombre y dirección postal.
+
+j) País de residencia, para los electores españoles residentes en el extranjero.
+
+k) País de nacionalidad, para los electores nacionales de otros Estados.
+
+2\. Los ayuntamientos que no establezcan el servicio de consulta informática, dispondrán de las listas electorales de los electores residentes en el municipio, ordenadas alfabéticamente por apellidos y nombre para la totalidad de los inscritos en el mismo (o por distritos), en listas separadas para españoles y de otras nacionalidades ; los españoles que residan en el extranjero inscritos en el municipio figurarán en otra lista, ordenada por apellidos y nombre.
+
+Las listas electorales contendrán los siguientes datos:
+
+a) Distrito, sección y mesa electoral.
+
+b) Número de orden.
+
+c) Apellidos y nombre.
+
+d) Fecha de nacimiento: día, mes y año.
+
+e) Sexo.
+
+f) Número del documento nacional de identidad o, en su caso, pasaporte o tarjeta de residencia.
+
+g) Grado de escolaridad, para los electores residentes en España.
+
+h) País de residencia, para los electores españoles residentes en el extranjero.
+
+i) País de nacionalidad, para los electores nacionales de otros Estados.
+
+3\. Las oficinas consulares y secciones consulares con servicio de consulta informática dispondrán de un fichero con la siguiente información:
+
+a) Apellidos y nombre.
+
+b) Fecha de nacimiento.
+
+c) Sexo.
+
+d) Número de documento nacional de identidad o pasaporte, si dispone de alguno de ellos.
+
+e) Lugar de nacimiento: provincia y municipio o país.
+
+f) Dirección postal: calle, número, ciudad, código postal.
+
+g) País.
+
+h) Provincia y municipio de inscripción en España a efectos electorales.
+
+4\. Si alguna oficina consular o sección consular precisa el uso de listas de exposición, dispondrá de un fichero de listas con los electores residentes en su demarcación, ordenadas alfabéticamente por apellidos y nombre.
+
+Las listas electorales contendrán los siguientes datos:
+
+a) Número de orden.
+
+b) Apellidos y nombre.
+
+c) Fecha de nacimiento.
+
+d) Sexo.
+
+e) Número de documento nacional de identidad o pasaporte, si dispone de alguno de ellos.
+
+f) Dirección postal: calle, número, ciudad, código postal.
+
+g) País.
+
+h) Provincia y municipio de inscripción en España a efectos electorales.
+
+5\. A efectos de la formulación de reclamaciones por error u omisión de datos censales, para lo que es necesaria la comprobación previa de los datos de su inscripción en el censo electoral, conforme a los artículos 38.2 y 39.3 de la Ley Orgánica 5/1985, de 19 de junio, las listas electorales expuestas por los ayuntamientos, oficinas y secciones consulares, cuando no exista otra alternativa para la consulta por el elector, deberán mostrar todos los datos relacionados en los apartados 2 y 4 y, además, los números de los documentos de identificación a que hacen referencia las letras f) y e) de estos apartados, respectivamente, se deberán publicar únicamente con cuatro cifras numéricas, conforme a lo establecido en la disposición adicional séptima de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+> Se modifican los apartados 4 y 5 por el art. único.2 del Real Decreto 189/2023, de 21 de marzo. [Ref. BOE-A-2023-7413](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7413)
+
+### Artículo 3. Listas de votación.
+
+1\. En los locales electorales se dispondrá de dos listas por cada mesa electoral, una con el callejero de la sección electoral a la que pertenece y el rango alfabético de iniciales del primer apellido de los electores que contiene, para su exposición pública y la otra, con los electores de las listas de votación, para uso de la mesa.
+
+2\. Los electores incluidos en la lista de votación de la mesa electoral estarán ordenados alfabéticamente por apellidos y nombre. En las elecciones locales y al Parlamento Europeo, las listas de españoles y de nacionales de otros Estados residentes en el municipio se obtendrán separadamente.
+
+3\. La Oficina del Censo Electoral pondrá a disposición de las juntas electorales competentes los ficheros necesarios, con los datos de todos los electores residentes ausentes que viven en el extranjero incluidos en el censo electoral vigente, para el escrutinio de los votos recibidos.
+
+> Se modifica el apartado 3 por el art. único.3 del Real Decreto 189/2023, de 21 de marzo. [Ref. BOE-A-2023-7413](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7413)
+
+> Se modifica por el art. único.2 del Real Decreto 288/2014, de 25 de abril. [Ref. BOE-A-2014-4483](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4483).
+
+### Artículo 4. Datos en las listas de votación.
+
+1\. Las listas de los españoles residentes en el municipio incluirán para cada elector los siguientes datos personales:
+
+a) Número de orden.
+
+b) Indicador de voto por correo.
+
+c) Apellidos y nombre.
+
+d) Fecha de nacimiento: Día, mes y año.
+
+e) Número del documento nacional de identidad.
+
+f) Entidad de ámbito territorial inferior al municipio (EATIM), cuando la lista de la mesa de elecciones municipales incluya al menos una EATIM con elección de sus órganos.
+
+2\. Los ficheros de los españoles residentes-ausentes que viven en el extranjero incluirán los siguientes datos:
+
+a) Número de orden.
+
+b) Apellidos y nombre.
+
+c) Fecha de nacimiento: Día, mes y año.
+
+d) País de residencia y oficina consular.
+
+3\. Las listas de electores nacionales de otros Estados incluirán los siguientes datos:
+
+a) Número de orden.
+
+b) Indicador de voto por correo.
+
+c) Apellidos y nombre.
+
+d) Fecha de nacimiento: Día, mes y año.
+
+e) País de nacionalidad.
+
+f) Entidad de ámbito territorial inferior al municipio (EATIM), cuando la lista de la mesa de elecciones municipales incluya al menos una EATIM.
+
+4\. El dato del indicador de voto por correo a que se refieren los apartados 1 y 3 se podrá incluir en listas complementarias.
+
+> Se modifica por el art. único.4 del Real Decreto 189/2023, de 21 de marzo. [Ref. BOE-A-2023-7413](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7413)
+
+> Se modifica el apartado 2 y se añade el apartado 4 por el art. único.3 del Real Decreto 288/2014, de 25 de abril. [Ref. BOE-A-2014-4483](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4483).
+
+### Artículo 5. Copias del censo electoral.
+
+1\. Las copias del censo electoral que se faciliten en virtud de lo dispuesto en el artículo 41, apartados 4 y 5, de la Ley Orgánica 5/1985, de 19 de junio, contendrán a los electores ordenados de igual forma que en las listas de votación, con las exclusiones que correspondan por la aplicación del artículo 6 de este real decreto.
+
+2\. La entrega a los representantes de las candidaturas de la copia del censo de residentes en España y la del censo de electores residentes-ausentes que viven en el extranjero se realizará entre los días vigésimo octavo y vigésimo noveno posteriores a la convocatoria.
+
+3\. Los datos de cada elector serán los siguientes:
+
+3.1 Electores residentes en España (españoles y nacionales de otros Estados con derecho de voto en España).
+
+a) Número de orden.
+
+b) Apellidos y nombre.
+
+c) Provincia y municipio de residencia.
+
+d) Distrito, sección y mesa electoral.
+
+e) Domicilio.
+
+f) Fecha de nacimiento: Día, mes y año.
+
+g) País de nacionalidad, para los electores nacionales de otros Estados.
+
+3.2 Electores residentes-ausentes que viven en el extranjero.
+
+a) Número de orden.
+
+b) Apellidos y nombre.
+
+c) Provincia y municipio de inscripción a efectos electorales.
+
+d) Domicilio.
+
+e) País de residencia.
+
+f) Fecha de nacimiento: Día, mes y año.
+
+En el caso de aquellos electores, residentes en España o en el extranjero, que conforme al artículo 39.3 de la Ley Orgánica 5/1985, de 19 de junio, se hubieran opuesto a la inclusión en las copias del censo electoral que se faciliten a los representantes de las candidaturas para realizar envíos postales de propaganda electoral, la información relativa al domicilio estará en blanco, debiendo especificarse expresamente que dicha omisión se hace en aplicación del mencionado artículo de Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
+
+Las mencionadas solicitudes de exclusión en las copias del censo electoral tendrán efecto permanente hasta que el elector se manifieste en sentido contrario.
+
+4\. Las juntas electorales de zona también tendrán acceso a la consulta telemática del censo electoral vigente de las elecciones, correspondiente a su ámbito, que ofrece la Oficina del Censo Electoral, en los mismos términos establecidos en el artículo 1.4.
+
+> Se modifica por el art. único.5 del Real Decreto 189/2023, de 21 de marzo. [Ref. BOE-A-2023-7413](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-7413)
+
+> Se modifica por el art. único.4 del Real Decreto 288/2014, de 25 de abril. [Ref. BOE-A-2014-4483](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-4483).
+
+> Se añade el último párrafo por el art. único del Real Decreto 102/2009, de 6 de febrero. [Ref. BOE-A-2009-2077](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2077)
+
+### Artículo 6. Personas excluidas en las copias del censo electoral.
+
+1\. De acuerdo con el artículo 41.6 de la Ley Orgánica del Régimen Electoral General, podrá excluirse de las copias del censo electoral a las personas que pudieran ser objeto de amenazas o coacciones que pongan en peligro su vida, su integridad física o su libertad.
+
+2\. Las decisiones de exclusión adoptadas por la autoridad competente, según la Orden INT/646/2003, de 14 de marzo, serán remitidas a la Oficina del Censo Electoral conforme se vayan produciendo y serán también remitidas o puestas en conocimiento de los solicitantes de dicha exclusión.
+
+3\. A los efectos de conformar las copias del censo electoral que se entreguen en un proceso electoral, la Oficina del Censo Electoral repercutirá en éstas las decisiones de exclusión recibidas de la Secretaría de Estado de Seguridad antes del décimo sexto día posterior a la convocatoria electoral.
+
+En otro caso, la exclusión tendrá efecto en próximas convocatorias electorales.
+
+### Disposición transitoria única. Disponibilidad de listados.
+
+Los ayuntamientos y las oficinas consulares y secciones consulares que opten por primera vez por el servicio de consulta informática del censo electoral podrán disponer también de los listados correspondientes, si así lo manifiestan.
+
+### Disposición final primera. Facultades de desarrollo y aplicación.
+
+Se faculta al Ministro de Economía para dictar las normas de desarrollo que sean necesarias para el cumplimiento de este real decreto.
+
+Se faculta al Presidente del Instituto Nacional de Estadística, para dictar las resoluciones precisas para la aplicación de este real decreto, exclusivamente en las materias propias de su competencia.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid, a 26 de diciembre de 2003.
+
+JUAN CARLOS R.
+
+El Vicepresidente Segundo del Gobierno y Ministro de la Presidencia,
+
+JAVIER ARENAS BOCANEGRA

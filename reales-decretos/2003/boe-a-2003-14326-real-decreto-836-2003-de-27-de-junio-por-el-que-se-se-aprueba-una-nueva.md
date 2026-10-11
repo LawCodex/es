@@ -1,0 +1,1767 @@
+---
+title: "Real Decreto 836/2003, de 27 de junio, por el que se se aprueba una nueva Instrucción técnica complementaria \"MIE-AEM-2\" del Reglamento de aparatos de elevación y manutención, referente a grúas torre para obras u otras aplicaciones"
+identifier: "BOE-A-2003-14326"
+eli: "https://www.boe.es/eli/es/rd/2003/06/27/836"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Ciencia y Tecnología"
+date: 2003-06-27
+published: 2003-07-17
+in_force_from: 2003-10-17
+last_amended: 2025-09-03
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 170"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-14326"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 836/2003, de 27 de junio, por el que se se aprueba una nueva Instrucción técnica complementaria "MIE-AEM-2" del Reglamento de aparatos de elevación y manutención, referente a grúas torre para obras u otras aplicaciones
+
+Incluye corrección de errores publicada en BOE núm. 20, de 23 de enero de 2004. [Ref. BOE-A-2004-1370](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1370)
+
+La Instrucción técnica complementaria (ITC) «MIE-AEM-2» del Reglamento de aparatos de elevación y manutención, aprobada por Orden de 28 de junio de 1988, contempla los requisitos constructivos exigibles a las grúas torre desmontables para obra, estableciendo la obligatoriedad de aplicación de la norma UNE 58-101-80, parte I. Asimismo, establece las condiciones aplicables a todas las grúas torre, en cuanto a montaje, utilización e inspecciones periódicas, tanto a las comercializadas de acuerdo con la reglamentación nacional como aquellas que posteriormente han sido fabricadas de acuerdo con el Real Decreto 1435/1992, de 27 de noviembre, modificado por el Real Decreto 56/1995, de 20 de enero, de transposición de la Directiva 89/392/CEE del Consejo, sobre máquinas y sus sucesivas modificaciones.
+
+Dada la experiencia adquirida desde la aplicación de la ITC, parece aconsejable revisar ciertos aspectos contemplados en ella, por lo que se modifica la redacción de algunos puntos, se fijan criterios para la realización de las inspecciones y se actualizan las referencias de las normas en ella contempladas.
+
+Asimismo, los reales decretos de transposición de la directiva de máquinas mencionada obligan a introducir algunas modificaciones en el articulado, con el fin de tener en cuenta la existencia de grúas fabricadas y comercializadas de acuerdo con la referida directiva y que, en consecuencia, llevan el marcado «CE».
+
+Esta disposición ha sido sometida al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, modificada por la Directiva 98/48/CE, de 20 julio de 1998, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora estas directivas al ordenamiento jurídico español, y, de acuerdo con lo dispuesto en el artículo 24.1.c) de la Ley 50/1997, de 27 de noviembre, del Gobierno, al trámite de audiencia que en ella se establece, remitiéndose al sector afectado.
+
+Esta disposición se dicta al amparo de lo establecido en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia para determinar las bases y coordinación de la planificación general de la actividad económica.
+
+En consecuencia, se considera conveniente sustituir el contenido de la Instrucción técnica complementaria (ITC) «MIE-AEM-2» del Reglamento de aparatos de elevación y manutención por un nuevo texto.
+
+En su virtud, a propuesta del Ministro de Ciencia y Tecnología, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 27 de junio de 2003,
+
+DISPONGO:
+
+## Artículo único. Aprobación de la Instrucción técnica complementaria «MIE-AEM-2».
+
+Se aprueba la Instrucción técnica complementaria (ITC) «MIE-AEM-2» del Reglamento de aparatos de elevación y manutención, referente a grúas torre para obras u otras aplicaciones, que se inserta a continuación.
+
+## Disposición adicional primera. Reglamentación aplicable.
+
+Los usuarios de las grúas torre que, con anterioridad a la entrada en vigor de este real decreto, hubieran justificado ante el órgano competente de la comunidad autónoma correspondiente el cumplimiento de los requisitos establecidos en la ITC «MIE-AEM-2», aprobada por Orden de 28 de junio de 1988, podrán seguir utilizándolas siempre que cumplan los requisitos que para su instalación y puesta en servicio se establecen en el artículo 5 de la ITC «MIE-AEM-2» que acompaña a este real decreto y dispongan de la documentación contemplada en los apartados 5 y 6 de la norma UNE 58-101-92, parte 3, y cuyos conceptos se indican a continuación:
+
+a) Manual del fabricante: especificaciones técnicas, instrucciones de instalación y montaje, utilización y mantenimiento, especificación de repuestos.
+
+b) Instrucciones del usuario: instrucciones de instalación, instrucciones de montaje, instrucciones para el trabajo con la grúa, instrucciones de revisión, instrucciones generales de seguridad.
+
+## Disposición adicional segunda. Equipos procedentes de la Unión Europea.
+
+Las grúas torre no incluidas en la disposición adicional primera y que hayan sido comercializadas en la Unión Europea con anterioridad al 1 de enero de 1995 sin cumplir con la Directiva 89/392/CEE del Consejo, sobre máquinas, y sus sucesivas modificaciones, podrán ser instaladas y utilizadas en el territorio nacional, si justifican el cumplimiento de los requisitos técnicos indicados en la norma UNE-58-101-92 parte 1, mediante la certificación de un organismo de control autorizado, y si disponen de la documentación indicada en la disposición adicional anterior coincidente con los apartados 5 y 6 de la norma UNE 58-101-92, parte 3.
+
+No obstante lo expresado en el párrafo anterior, se admitirá en el mercado español la instalación y utilización de grúas torre para obras u otras aplicaciones, procedentes de otros Estados miembros de la Unión Europea o fabricadas dentro del Espacio Económico Europeo, que cumplan con sus normas o reglamentaciones nacionales, siempre que por el órgano competente de la comunidad autónoma en que se instale o comercialice por primera vez se reconozca que tienen un nivel de seguridad equivalente al que se establece en esta ITC.
+
+A estos efectos, el procedimiento a seguir será:
+
+a) Certificado expedido por la autoridad competente del país del que proviene la grúa en el que se indique la conformidad de que la grúa en su estado actual continúa cumpliendo con la reglamentación nacional que le era de aplicación en el momento de su fabricación.
+
+b) Certificado de un organismo de control en el que se indiquen las diferencias entre los requisitos técnicos exigidos en la norma UNE 58-101-92, parte 1, y los exigidos en la reglamentación nacional que era de aplicación a la grúa en el momento de su fabricación. Se especificarán las medidas de seguridad alternativas en la grúa, indicando si, a la vista de dichas alternativas, consideran que tienen un nivel de seguridad equivalente al establecido en esta ITC.
+
+c) El órgano competente de la comunidad autónoma donde se comercialice o se instale por primera vez la grúa, a la vista de la documentación indicada en los dos párrafos anteriores, certificará el cumplimiento de los requisitos de esta ITC.
+
+## Disposición adicional tercera. Cobertura de seguro u otra garantía equivalente suscrito en otro Estado.
+
+Cuando la empresa instaladora o conservadora que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecido, se considerará cumplida la exigencia establecida en el apartado d) del artículo 6.8 y en el apartado d) del artículo 9.9 de la Instrucción Técnica Complementaria aprobada por este Real Decreto 836/2003, de 27 de junio. Si la equivalencia con los requisitos es sólo parcial, la empresa instaladora o conservadora deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.
+
+> Se añade por el art. 8.1 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Disposición adicional cuarta. Aceptación de documentos de otros Estados miembros a efectos de acreditación del cumplimiento de requisitos.
+
+A los efectos de acreditar el cumplimiento de los requisitos exigidos a las empresas instaladoras o conservadoras y a los operadores de grúas torre, se aceptarán los documentos procedentes de otro Estado miembro de los que se desprenda que se cumplen tales requisitos, en los términos previstos en el artículo 17, de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+> Se modifica, con efectos desde el 1 de julio de 2021, por el art. 2 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Se añade por el art. 8.2 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Disposición adicional quinta. Modelo de declaración responsable.
+
+Corresponderá a las comunidades autónomas elaborar y mantener disponibles los modelos de declaración responsable. A efectos de facilitar la introducción de datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, el órgano competente en materia de seguridad industrial del Ministerio de Industria, Turismo y Comercio elaborará y mantendrá actualizada una propuesta de modelos de declaración responsable, que deberá incluir los datos que se suministrarán al indicado registro, y que estará disponible en la sede electrónica de dicho Ministerio.
+
+> Se añade por el art. 8.3 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Disposición adicional sexta. Obligaciones en materia de información y reclamaciones.
+
+Las empresas instaladoras y las conservadoras deben cumplir las obligaciones de información de los prestadores y las obligaciones en materia de reclamaciones establecidas, respectivamente, en los artículos 22 y 23 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+> Se añade por el art. 8.4 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Disposición transitoria primera. Operadores de grúas torre.
+
+Los operadores de grúas torre existentes en la actualidad con experiencia demostrada o que dispongan de la formación específica adecuada deberán obtener el carné de operador de grúa torre a que se refiere el anexo VI, en el plazo de tres años desde la entrada en vigor de este real decreto. Las comunidades autónomas que tuvieran regulada la expedición de carnés en esta materia podrán establecer un plazo inferior.
+
+La acreditación de la experiencia estará formada documentalmente por, al menos:
+
+a) Vida laboral del trabajador, expedida por el Instituto Nacional de la Seguridad Social.
+
+b) Certificación de las empresas titulares de las grúas torre, con las que se ejerció la actividad.
+
+## Disposición transitoria segunda. Grúas torre en otras aplicaciones.
+
+Las grúas incluidas en esta ITC a las que no les era aplicable la Orden de 28 de junio de 1988, por estar destinadas a otras aplicaciones distintas de las obras, y que se encuentren instaladas con anterioridad a la publicación de este real decreto, deberán ser inspeccionadas por un organismo de control autorizado de acuerdo con los criterios indicados en el apartado B del anexo III, en el plazo de un año desde la entrada en vigor de este real decreto, presentándose informe de inspección al órgano competente de la comunidad autónoma.
+
+Estas grúas deberán cumplir las disposiciones de la ITC «MIE-AEM-2» adjunta contenidas en el artículo 7 (utilización), artículo 8 (mantenimiento y revisiones) y artículo 10 (inspecciones extraordinarias).
+
+## Disposición transitoria tercera. Empresas instaladoras.
+
+Las empresas instaladoras autorizadas que no cumplan con los requisitos que se establecen en el artículo 6 de la ITC deberán adaptarse en el plazo de un año desde la entrada en vigor de este real decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+A partir de la entrada en vigor de este real decreto, queda derogada la Instrucción técnica complementaria «MIE-AEM-2», aprobada por Orden del Ministerio de Industria y Energía, de 28 de junio de 1988, y sus modificaciones.
+
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo establecido en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia para determinar las bases y coordinación de la planificación general de la actividad económica.
+
+## Disposición final segunda. Facultades de desarrollo.
+
+Se faculta al Ministro de Ciencia y Tecnología a modificar o desarrollar los anexos de este real decreto o introducir otros nuevos, así como a actualizar periódicamente las normas contempladas en esta ITC, de acuerdo con la evolución de la técnica o cuando dichas normas hayan sido revisadas, anuladas o sustituidas por otras nuevas.
+
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 27 de junio de 2003.
+
+JUAN CARLOS R.
+
+El Ministro de Ciencia y Tecnología,
+
+JOSEP PIQUÉ I CAMPS
+
+## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA «MIE-AEM-2» DEL REGLAMENTO DE APARATOS DE ELEVACIÓN Y MANUTENCIÓN, REFERENTE A GRÚAS TORRE PARA OBRAS U OTRAS APLICACIONES
+
+## Artículo 1. Objeto.
+
+Esta Instrucción técnica complementaria (ITC) tiene por objeto establecer las prescripciones del Reglamento de aparatos de elevación y manutención, en cuanto se refiere a las condiciones de seguridad exigibles para el montaje y utilización de las grúas torre para obras u otras aplicaciones.
+
+## Artículo 2. Definiciones.
+
+Para la aplicación de esta ITC se tendrán en cuenta las definiciones que figuran en las normas UNE 58-110-90, 58-104, partes 1 a 5, y en especial las siguientes:
+
+2.1 Grúa. Aparato de elevación de funcionamiento discontinuo destinado a elevar y distribuir, en el espacio, las cargas suspendidas de un gancho o de cualquier otro accesorio de aprehensión.
+
+2.2 Grúa pluma. Grúa en la que el accesorio de aprehensión está suspendido de la pluma o de un carro que se desplaza a lo largo de ella.
+
+En el primer caso, la distribución de la carga se puede efectuar por variación del ángulo de inclinación de pluma (figura 1 del anexo I) ; en el segundo caso, la posición de la pluma suele ser horizontal (figura 2 del anexo I), aunque puede utilizarse inclinado hasta formar un determinado ángulo (figura 3 del anexo I).
+
+2.3 Grúa torre. Grúa pluma orientable en la que el soporte giratorio de la pluma se monta sobre la parte superior de una torre vertical, cuya parte inferior se une a la base de la grúa (figura 4 del anexo I).
+
+2.4 Grúa torre desmontable. Grúa torre, concebida para su utilización en las obras de construcción u otras aplicaciones, diseñada para soportar frecuentes montajes y desmontajes, así como traslados entre distintos emplazamientos.
+
+2.5 Grúa torre autodesplegable. Grúa pluma orientable en la que la pluma se monta sobre la parte superior de una torre vertical orientable, donde su parte inferior se une a la base de la grúa a través de un soporte giratorio y que está provista de los accesorios necesarios para permitir un rápido plegado y desplegado de la torre y pluma (figura 5 del anexo I).
+
+2.6 Grúa torre autodesplegable monobloc. Grúa torre autodesplegable cuya torre está constituida por un solo bloque y que no requiere elementos estructurales adicionales para su instalación, que puede ir provista de ruedas para facilitar su desplazamiento.
+
+2.7 Grúa torre desplazable en servicio. Es aquella cuya base está dotada de medios propios de traslación sobre carriles u otros medios y cuya altura máxima de montaje es tal que sin ningún medio de anclaje adicional sea estable tanto «en servicio» como «fuera de servicio» para las solicitaciones a las que vaya a estar sometida (figura 6 del anexo I).
+
+2.8 Grúa torre fija (estacionaria). Grúa torre cuya base no posee medios de traslación o que poseyéndolos no son utilizables en el emplazamiento, o aquéllas en que la base es una fundación o cualquier otro conjunto fijo (figura 6 del anexo I).
+
+2.9 Grúa torre trepadora. Grúa torre instalada sobre la estructura de una obra en curso de construcción y que se desplaza de abajo hacia arriba por sus propios medios al ritmo y medida que la construcción progresa (figura 7 del anexo I).
+
+2.10 Emplazamiento de la grúa. Es la zona donde la grúa se ha de situar y por la que, en su caso, se puede desplazar.
+
+2.11 Condición de servicio. Es el conjunto de disposiciones tomadas en la grúa y en sus elementos y mecanismos para que, convenientemente instalada en su emplazamiento, pueda prestar su cometido.
+
+2.12 Condición de fuera de servicio. Es el conjunto de disposiciones tomadas en las grúas y en sus elementos y mecanismos para que, convenientemente instalada en su emplazamiento, pueda permanecer estable sin realizar ningún trabajo.
+
+2.13 Grúa instalada. Es la condición en que se encuentra la grúa erigida por completo en su emplazamiento, sometida a las solicitaciones establecidas en las reglas de cálculo para la condición fuera de servicio, pero sin que sea necesario que esté dispuesta para pasar a la condición de servicio.
+
+2.14 Puesta en servicio. Es el conjunto de comprobaciones y maniobras que deben ejecutarse en una grúa instalada para que pueda pasar inmediatamente a la condición de servicio si las circunstancias lo permiten.
+
+2.15 Instalación de la grúa. Es el proceso material de realizar todas las operaciones necesarias para que la grúa quede en la condición de instalada, incluyendo las de ejecución de sus fundaciones y montaje de la grúa. También incluye, en su caso, al conjunto de fundaciones, camino de rodadura y grúa instalada.
+
+2.16 Montaje de la grúa. Es el proceso real de erigir y montar la grúa sobre su emplazamiento y fundaciones, para que pueda prestar su cometido.
+
+2.17 Fabricante. Es la persona física o jurídica que asume la responsabilidad de su construcción.
+
+2.18 Importador. Es la persona física o jurídica que comercializa en el Estado grúas torre fabricadas fuera del Espacio Económico Europeo.
+
+2.19 Usuario. Es la persona física o jurídica que utiliza la grúa, en calidad de propietario o arrendatario legal, que es responsable de su utilización y custodia, así como de que se realice el adecuado mantenimiento.
+
+2.20 Empresa instaladora. Es aquella persona física o jurídica que realiza el montaje y desmontaje de las grúas torre, cumpliendo los requisitos exigidos en esta Instrucción Técnica Complementaria MIE-AEM-2.
+
+2.21 Empresa conservadora. Es aquella persona física o jurídica que realiza operaciones de mantenimiento periódico y reparaciones en la grúa, distintas de las que pueden corresponder al gruista, cumpliendo los requisitos exigidos en esta Instrucción Técnica Complementaria MIE-AEM-2.
+
+2.22 Gruista u operador de grúa torre. Es la persona física que tiene conocimientos y autorización para manejar y operar directamente la grúa.
+
+2.23 Obra. Es la zona localizada de trabajo donde la grúa va a utilizarse en un solo emplazamiento o en varios sucesivos.
+
+2.24 Jefe de obra. Es la persona física designada por el usuario como responsable de la obra en que se instale la grúa.
+
+2.25 Propietario. Es la persona física o jurídica que ostenta la propiedad legal de la grúa, aunque pueda no usarla por sí mismo.
+
+2.26 Arrendatario. Es la persona física o jurídica que, mediante contrato de arrendamiento, utiliza la grúa.
+
+2.27 Organismo de control autorizado. Entidad acreditada de acuerdo con el Real Decreto 2200/1995, de 28 de diciembre, para la aplicación de esta ITC.
+
+2.28 Arriostramiento. Es la sujeción obligatoria de que se deberá proveer a la grúa cuando ésta supera la altura autoestable definida por el fabricante, para las condiciones de utilización, con el fin de asegurar su estabilidad (figura 8 del anexo I).
+
+2.29 Fundación. Es el elemento a través del cual se transmiten al suelo las acciones de la grúa de acuerdo con las reglas de cálculo.
+
+2.30 Pies, patas, anclajes, garras o zarpas de empotramiento. Elementos mecánicos o estructurales de la grúa que, unidos a la torre, sirven para transmitir las solicitaciones a la fundación.
+
+2.31 Carga nominal. Valor de las cargas indicadas por el fabricante y expresadas en el correspondiente diagrama.
+
+2.32 Carga máxima. Valor máximo de la masa a elevar por la grúa según los datos del fabricante.
+
+2.33 Carga en punta. Valor máximo de la masa a elevar por la grúa en su alcance máximo.
+
+2.34 Diagrama de cargas y alcances. Correlación de cargas y alcances para cada longitud de pluma y cada dispositivo de aprehensión expresada gráficamente.
+
+2.35 Momento nominal o par nominal. Momento máximo de la carga admitido por la grúa a su altura autoestable.
+
+2.36 Altura bajo gancho. Es la distancia vertical entre el plano de emplazamiento de la grúa y el centro del gancho en su posición más elevada (figura 10 del anexo I).
+
+2.37 Altura de montaje. Es la altura bajo gancho en la posición adoptada.
+
+2.38 Altura autoestable. Es la mayor altura bajo gancho que permite que la grúa sea estable tanto en condición de servicio como fuera de servicio, sin ningún medio adicional de anclaje, para las solicitaciones definidas en las reglas de cálculos vigentes.
+
+2.39 Altura máxima. Es la altura bajo gancho máxima de la grúa que permiten las reglas de cálculo y la disposición de los mecanismos, convenientemente arriostrada.
+
+> Se modifican los apartados 2.20 y 2.21 por el art. 8.5 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Artículo 3. Ámbito de aplicación.
+
+Esta ITC es aplicable a todas las grúas torre de más de 15 kN.m de momento nominal, movidas mecánicamente, destinadas a la elevación y distribución de materiales, tanto en obras como en otras aplicaciones.
+
+En el anexo I se incluyen las distintas configuraciones de grúas torre.
+
+## Artículo 4. Fabricación y comercialización.
+
+4.1 Quedan excluidas de la certificación de tipo indicada en el artículo 4 del anexo del Real Decreto 2291/1985, de 8 de noviembre, por el que se aprueba el Reglamento de aparatos de elevación y manutención, las grúas torre y sus componentes, objeto de esta ITC.
+
+4.2 No obstante, los fabricantes o, en su caso, los importadores entregarán, junto con cada grúa torre, la declaración «CE» de conformidad prevista en el Real Decreto 1435/1992, de 27 de noviembre, sobre máquinas, modificado por el Real Decreto 56/1995, de 20 de enero, así como el manual del fabricante y las instrucciones del usuario de acuerdo con lo indicado en los citados reales decretos.
+
+Las instrucciones del usuario deberán ser redactadas al menos en castellano.
+
+4.3 La responsabilidad de la construcción de la grúa torre corresponde al fabricante o, en su caso, al importador.
+
+## Artículo 5. Instalación y puesta en servicio.
+
+5.1 Proyecto de instalación. La instalación de los aparatos incluidos en esta Instrucción Técnica Complementaria requiere la presentación de un proyecto ante el órgano competente de la comunidad autónoma, suscrito por técnico titulado competente.
+
+En el anexo II se indica el contenido mínimo del proyecto de instalación.
+
+Dicho proyecto se realizará de acuerdo con lo expresado en cuanto a condiciones de instalación en la norma UNE 58-101-92, parte 2 «Aparatos pesados de elevación. Condiciones de resistencia y seguridad en las grúas torre desmontables para obras. Condiciones de instalación y utilización».
+
+La referencia a la imposibilidad de contacto de cualquier parte de la grúa, así como de las cargas suspendidas, contenida en el segundo párrafo del apartado 4.1 de la norma UNE 58-101-92, parte 2, se entenderá referida en líneas de baja tensión exclusivamente a la imposibilidad de contacto eléctrico.
+
+El plano de emplazamiento y las características del terreno serán facilitados por la dirección facultativa de la obra al técnico que realice el proyecto.
+
+No se exigirá un nuevo proyecto técnico cuando una misma grúa se desplace dentro de la misma obra y siempre que no se modifiquen sus condiciones de montaje e instalación ni las características del terreno, siendo necesario para la nueva instalación la presentación de los documentos previstos para la puesta en servicio.
+
+En el caso de grúas autodesplegables de tipo monobloc cuyo momento nominal esté comprendido entre 15 kN.m y 170 kN.m, el proyecto de instalación citado anteriormente podrá ser sustituido por un certificado de instalación emitido y firmado por el técnico titulado competente de la empresa instaladora (en el anexo V se incluye el modelo de certificado de instalación de grúa autodesplegable monobloc).
+
+5.2 Los pies de empotramiento y cualquier otro elemento estructural de la grúa que se sustituya estarán fabricados por la misma empresa fabricante de la grúa, y cuando alguno de estos elementos estructurales no sea fabricado por la empresa fabricante de la grúa, deberá certificarse su idoneidad y compatibilidad por un organismo de control autorizado. En este caso, la certificación indicará que el proyecto de diseño, los materiales y la fabricación de ese elemento concreto garantizan la capacidad de soportar las solicitaciones de la grúa.
+
+Antes de comenzar sus actividades, las empresas que deseen fabricar los pies de empotramiento o cualquier otro elemento estructural de la grúa, deberán presentar ante el órgano competente de la comunidad autónoma donde se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por este reglamento, que dispone de la documentación que así lo acredita y que se compromete a mantener su cumplimiento durante la vigencia de la actividad.
+
+Las empresas fabricantes de los pies de empotramiento o cualquier otro elemento estructural de la grúa cumplirán los siguientes requisitos:
+
+a) Disponer en plantilla de un técnico titulado competente.
+
+b) Disponer de soldadores y procesos de soldadura homologados por un organismo de control autorizado.
+
+c) Seguro de responsabilidad civil, u otra garantía equivalente, con cobertura mínima por accidente de 1.000.000 de euros.
+
+Cada tramo de empotramiento, garras o zarpas que se fabrique se identificará con un número y, además de la certificación del organismo de control, se acompañará con el certificado de fabricación expedido por el técnico titulado competente de la empresa.
+
+Igualmente, en el caso de reparaciones de cualquier elemento estructural de la grúa torre, se emitirá certificación del técnico titulado competente de la empresa.
+
+5.3 Montaje. Las grúas incluidas en esta Instrucción Técnica Complementaria se montarán de acuerdo con lo que al respecto se indica en la Norma UNE 58-101-92, parte 2 «Aparatos pesados de elevación. Condiciones de resistencia y seguridad en las grúas-torre desmontables para obras. Condición de instalación y utilización».
+
+En relación con el apartado 6.1 de dicha norma se tendrá en cuenta:
+
+a) El montaje será realizado por empresa instaladora habilitada o por el propio fabricante de la grúa.
+
+b) Los montadores que realicen estas operaciones dependerán del técnico competente de la empresa habilitada responsable del montaje, el cual deberá planificar y responsabilizarse del trabajo que se ejecute, extendiendo al efecto los correspondientes certificados de instalación, según el modelo que figura en el anexo V.
+
+5.4 Instalación de anemómetro. El anemómetro será exigible en las grúas que vayan a instalarse en una zona donde puedan alcanzarse los vientos límite de servicio. Deberá dar un aviso intermitente a la velocidad de viento de 50 km/h y continuo a 70 km/h, parando la señal al dejar la grúa fuera de servicio (en veleta).
+
+5.5 Puesta en servicio. Para la puesta en servicio se presentará ante el órgano competente de la comunidad autónoma la siguiente documentación:
+
+a) Documento firmado por la empresa instaladora y por el usuario, en el que la empresa instaladora acredite que se cumplen las condiciones de instalación de la norma UNE 58-101-92, parte 2, que se ha hecho entrega de la grúa al usuario después de comprobar en presencia de éste y del gruista el correcto funcionamiento de los dispositivos de seguridad y que se ha entregado el manual de instrucciones de utilización.
+
+b) Informe de inspección de la grúa emitido por un organismo de control autorizado en el que se acredite su correcto estado y la idoneidad de la documentación. Para ello se realizará, antes del montaje, una inspección de todos los elementos de la grúa y otra inspección una vez finalizado su montaje. Para ambas inspecciones se tendrán en cuenta los criterios indicados en el anexo III.
+
+En el caso de grúas autodesplegables del tipo monobloc cuyo momento nominal se encuentre comprendido entre 15 kN.m y 170 kN.m, solamente se realizarán las inspecciones cada dos años, independientemente del número de montajes realizados en dicho período.
+
+c) Certificado de instalación emitido por el técnico titulado competente de la empresa instaladora. En el anexo V se indican los modelos de los certificados de instalación que deben utilizarse para grúas torre desmontables y autodesplegables de tipo monobloc, con la información que como mínimo deben contener dichas certificaciones.
+
+d) Declaración «CE» de conformidad o, en su caso, certificación del cumplimiento de las disposiciones adicionales primera o segunda de este real decreto.
+
+e) Contrato de mantenimiento.
+
+f) En su caso, certificación de los elementos mecánicos o estructurales incorporados a la grúa.
+
+> Se modifican los apartados 1, 2 y 3 por el art. 8.6 a 9 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Artículo 6. Empresas instaladoras.
+
+6.1 Antes de comenzar sus actividades como empresas instaladoras, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma donde se establezcan, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que el montaje y desmontaje de las grúas se efectúa de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
+
+6.2 Las empresas instaladoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta instrucción técnica complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que el montaje y desmontaje de las grúas se efectúa de acuerdo con las normas y requisitos que se establecen en esta instrucción técnica complementaria.
+
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI). La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
+
+6.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+6.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+
+6.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+6.6 Al amparo de lo previsto en el apartado 3 del artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas, y de la aplicación del régimen sancionador previsto en la Ley 21/1992, de 16 de julio, de Industria.
+
+6.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
+
+6.8 Las empresas instaladoras cumplirán los siguientes requisitos:
+
+a) Disponer de la documentación que identifique a la empresa instaladora, que, en el caso de persona jurídica, deberá estar constituida legalmente.
+
+b) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
+
+c) Contar con el personal contratado necesario para realizar la actividad en condiciones de seguridad, en número suficiente y durante el tiempo necesario para atender las grúas que tengan contratadas, con un mínimo de una persona técnica titulada universitaria con competencias específicas en la materia objeto de la presente Instrucción Técnica Complementaria, que será la persona responsable técnica de la empresa.
+
+Se entenderá satisfecho el requisito del párrafo anterior cuando el referido personal necesario para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales permitidas en derecho.
+
+d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 600.000 euros por siniestro. Esta cuantía mínima se actualizará por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+6.9 La empresa instaladora habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.
+
+6.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
+
+6.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
+
+> Se modifica la letra c) del apartado 6.8 por el art. 2 del Real Decreto 770/2025, de 2 de septiembre. [Ref. BOE-A-2025-17507](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17507)
+
+> Se modifican, con efectos desde el 1 de julio de 2021, los apartados 2, 6 y 8 por el art. 3.1 a 3 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Se modifica por el art. 8.10 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9716](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716)
+
+## Artículo 7. Utilización.
+
+Las grúas serán manejadas en todo momento por un gruista que reunirá las condiciones fijadas por la norma UNE 58-101-92, parte 2, y estará sometido a las obligaciones que se indican en ésta.
+
+La autorización de los gruistas se realizará de acuerdo con los criterios especificados en el anexo VI. El carné expedido de acuerdo con estos criterios tendrá validez en todo el territorio nacional.
+
+El gruista dispondrá del manual de instrucciones de utilización facilitado por la empresa instaladora/conservadora, cuyo contenido se indica en el anexo IV. En todo momento deberá tener accesibles las cargas de comprobación necesarias para verificar el correcto estado de la grúa (cargas nominales máxima y en punta o en la posición más alejada de la carga en la pluma en la obra concreta, así como las del 10 por ciento de dichos valores).
+
+## Artículo 8. Mantenimiento y revisiones.
+
+Las grúas instaladas incluidas en el ámbito de aplicación de esta ITC y sus accesorios serán revisadas periódicamente al menos cada cuatro meses, de acuerdo con los criterios establecidos en la norma UNE 58-101-92, parte 2.
+
+El usuario deberá suscribir un contrato de mantenimiento con una empresa conservadora habilitada mientras la grúa permanezca instalada.
+
+Las grúas que hayan permanecido en la condición de fuera de servicio durante un período de tiempo superior a tres meses deberán ser revisadas antes de su nueva puesta en servicio.
+
+Estas revisiones podrán efectuarse por el propietario o usuario de la grúa, si se ha demostrado ante el órgano competente de la comunidad autónoma que cumple con las condiciones exigidas a las empresas conservadoras.
+
+Los propietarios o usuarios de las grúas cumplirán lo establecido en el artículo 13 del Reglamento de aparatos de elevación y manutención.
+
+> Se modifica el segundo párrafo por el art. 8.11 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Artículo 9. Empresas conservadoras.
+
+9.1 Las empresas conservadoras cumplirán lo establecido en el artículo 11 del Reglamento de aparatos de elevación y manutención de los mismos, aprobado por Real Decreto 2291/1985, de 8 de noviembre.
+
+9.2 Antes de comenzar sus actividades como empresas conservadoras, las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma donde se establezcan, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de mantenimiento y reparación en las grúas se efectúa de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
+
+9.3 Las empresas conservadoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad, una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta instrucción técnica complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que el montaje y desmontaje de las grúas se efectúa de acuerdo con las normas y requisitos que se establecen en esta instrucción técnica complementaria.
+
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
+
+9.4 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+9.5 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+
+9.6 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa conservadora, desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+9.7 Al amparo de lo previsto en el apartado 3 del artículo 69 de la Ley 39/2015, de 1 de octubre, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas, y de la aplicación del régimen sancionador previsto en la Ley 21/1992, de 16 de julio, de Industria.
+
+9.8 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
+
+9.9 Las empresas conservadoras cumplirán los siguientes requisitos:
+
+a) Disponer de la documentación que identifique a la empresa conservadora, que, en el caso de persona jurídica, deberá estar constituida legalmente.
+
+b) Disponer de los medios técnicos necesarios para realizar sus actividades en condiciones de seguridad.
+
+c) Contar con el personal necesario, durante todo el tiempo que la empresa ofrezca sus servicios, que realice la actividad en condiciones de seguridad y en número suficiente para atender las grúas que deban conservar.
+
+d) Tener cubierta su responsabilidad civil de acuerdo con lo indicado en el artículo 6 para empresas instaladoras.
+
+9.10 La empresa conservadora habilitada no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
+
+9.11 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
+
+9.12 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial, regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
+
+> Se modifican, con efectos desde el 1 de julio de 2021, los apartados 1, 3, 7 y 9 por el art. 3.3 a 7 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Se modifica por el art. 8.12 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9716](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716)
+
+## Artículo 10. Empresa instaladora-conservadora.
+
+Para la habilitación de una empresa como instaladora y conservadora, deberá cumplir lo establecido en los artículos 6 y 9 de esta Instrucción Técnica Complementaria MIE-AEM-2. No obstante, no será necesario suscribir más que una sola póliza por la cuantía indicada, y el personal podrá simultanear ambas funciones.
+
+> Se modifica por el art. 8.13 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## Artículo 11. Inspecciones extraordinarias.
+
+Las grúas incluidas en el ámbito de aplicación de esta ITC, cuya instalación se mantenga en el mismo emplazamiento durante un tiempo prolongado, deberán someterse a una inspección extraordinaria cada dos años, contados desde la puesta en servicio.
+
+Estas inspecciones serán realizadas por un organismo de control autorizado, y no será necesario proceder a su desmontaje.
+
+## Artículo 12. Modificaciones esenciales en grúas instaladas.
+
+Se consideran modificaciones esenciales de la instalación a que se refiere el artículo 18 del Reglamento de aparatos de elevación y manutención los que afectan a los siguientes extremos:
+
+a) Alcance.
+
+b) Altura de montaje.
+
+c) Diagrama de cargas y alcances.
+
+d) Composiciones del mástil, pluma o contrapluma.
+
+e) Cables (tipo o diámetro).
+
+f) Masas de lastre y de contrapeso.
+
+g) Velocidades.
+
+h) Elementos de seguridad.
+
+Estas modificaciones esenciales requerirán la presentación de la documentación prevista en el artículo 5 para la instalación y puesta en servicio.
+
+No se permitirán modificaciones esenciales no previstas por el fabricante de la grúa.
+
+## ANEXO I — Figuras
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_002.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_003.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_005.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_007.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_008.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_009.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/170/14326_010.png)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 20, de 23 de enero de 2004. [Ref. BOE-A-2004-1370](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1370)
+
+## ANEXO II — Proyecto de instalación
+
+El proyecto de instalación deberá incluir como mínimo:
+
+1\. Datos generales:
+
+1.1 Empresa usuaria de la grúa torre (usuario): nombre o razón social, NIF/CIF y domicilio a efectos de notificaciones.
+
+1.2 Empresa propietaria de la grúa torre (propietario): nombre o razón social, NIF/CIF y domicilio a efectos de notificaciones.
+
+1.3 Empresa instaladora.
+
+1.4 Empresa conservadora.
+
+1.5 Obra a la que se destina la instalación (definición).
+
+1.6 Situación y emplazamiento de la obra.
+
+1.7 Referencia del anterior montaje de la grúa.
+
+2\. Identificación y características técnicas de la grúa torre:
+
+2.1 Identificación de la grúa torre (marca, modelo y n.º de fabricación).
+
+2.2 Características técnicas:
+
+2.2.1 Longitud de pluma y alcance útil (inicial y final).
+
+2.2.2 Longitud de contrapluma y peso del contrapeso aéreo.
+
+2.2.3 Altura de montaje y altura autoestable.
+
+2.2.4 Arriostramiento, en su caso (definición).
+
+2.2.5 Elevación: tipo de reenvío.
+
+2.2.6 Velocidades de elevación.
+
+2.2.7 Velocidades de giro.
+
+2.2.8 Velocidades de distribución.
+
+2.2.9 Velocidad de traslación.
+
+2.2.10 Cables: diámetro y tipo.
+
+De elevación.
+
+Del carro.
+
+2.2.11 Sistema de rodadura, en su caso (características, definición del carril ...).
+
+2.2.12 Diagrama de cargas y alcances.
+
+2.2.13 Dispositivos de seguridad disponibles (descripción de los limitadores de par de elevación y distribución, de carga máxima, de carrera inicial y final en distribución o vía de traslación, de elevación, de giro, de puesta en veleta, otros).
+
+2.2.14 Instalación eléctrica (potencia máxima, tensión, descripción de las protecciones eléctricas y la puesta a tierra...).
+
+2.2.15 Indicar la ubicación del puesto de mando (botonera, mando por control remoto o cabina).
+
+3\. Cálculo de la fundación (análisis del estado de tensiones en el terreno en el caso más desfavorable).
+
+4\. Cálculo del arriostramiento, en su caso (según UNE 58-101-92, parte 2, apartado 6.3).
+
+5\. Presupuesto (mano de obra de montaje, medios auxiliares...).
+
+6\. Conclusiones (cumplimiento de las condiciones de instalación de la norma UNE 58-101-92, parte 2).
+
+7\. Documentos anexos:
+
+a) Ficha técnica de la grúa torre.
+
+b) Documentación acreditativa de las características del terreno (informe facilitado por la dirección facultativa de la obra) o estudio geotécnico.
+
+8\. Planos:
+
+a) Plano de situación de la obra (con referencias invariables; escala de aproximada 1:10.000/1:50.000 en formato A4, a ser posible).
+
+b) Plano del emplazamiento de la grúa torre dentro de la obra con indicación expresa de los obstáculos existentes en el alcance y en las proximidades).
+
+c) Plano de la fundación.
+
+d) Plano del arriostramiento, en su caso.
+
+> Se modifica el apartado 7.b) por el art. 8.14 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+## ANEXO III — Criterios indicativos para la inspección de grúas torre
+
+Las inspecciones contemplarán las siguientes comprobaciones:
+
+A. Inspección con la grúa desmontada.
+
+Se realizará una comprobación de la documentación de la instalación y de la grúa:
+
+Proyecto de instalación.
+
+Manual del fabricante.
+
+Certificado de fabricación o Declaración «CE» de conformidad.
+
+Ficha técnica.
+
+Manual de instrucciones de utilización.
+
+Se realizará una inspección ocular de todos los elementos que componen la grúa a ras de suelo, para la comprobación de que los elementos que vayan a instalar estén en correcto estado para resistir las solicitaciones propias del servicio (soldaduras, oxidaciones, grietas, holguras, desgastes, identificación de elementos, etc.).
+
+Los puntos en los que se deberán comprobar posibles deformaciones o anomalías serán:
+
+Estructura y elementos de unión.
+
+Instalación eléctrica.
+
+Protecciones de los órganos móviles, caída de objetos y contrapeso.
+
+Mecanismos (gancho, cables, tambores, poleas).
+
+Dispositivos de seguridad (limitadores y topes).
+
+Indicadores para maniobras (placa fabricación, diagrama, distancias).
+
+De la comprobación se emitirá un informe por ambas partes (inspector y usuario o instalador) donde se anotarán todos aquellos elementos y zonas que presenten deficiencias que deban subsanarse antes del montaje.
+
+Si no presenta deficiencias se podrá realizar el montaje de la grúa para realizar la inspección con la grúa montada. Aquellas grúas que a criterio del O.C.A. presenten dudas razonables sobre su seguridad, para el montaje o para su funcionamiento, deberán ser rechazadas prohibiéndose su instalación. El O.C.A. comunicará al propietario y al órgano competente de la comunidad autónoma los motivos del rechazo.
+
+B. Inspección con la grúa montada.
+
+Para la realización de la inspección será necesario disponer de los elementos adecuados de protección personal (casco, zapatos de seguridad, arnés de seguridad, etc.), y de los adecuados elementos de comprobación (dinamómetro, cinta métrica, calibre, comprobador de diferenciales, multímetro, telurómetro, etc.).
+
+Se realizará una inspección de los apartados que se indican a continuación:
+
+1\. Estabilidad
+
+1.1 Ensayo de carga.
+
+Esta prueba se realizará para demostrar la aptitud de la grúa y verificar el funcionamiento de los mecanismos y de los frenos de la grúa.
+
+El ensayo se considerará favorable si los elementos concernientes se muestran capaces de cumplir sus funciones y si no aparecen grietas, deformaciones permanentes, cuarteado de la pintura u otro daño que afecte al funcionamiento y a la seguridad de la grúa, así como que ningún acoplamiento aparezca aflojado o dañado.
+
+El ensayo se realizará separadamente para cada movimiento de la grúa y para los posibles movimientos simultáneos, en las posiciones que impongan la mayor carga a los mecanismos (las comprobaciones con la pluma se realizarán en las cuarto diagonales de la torre, a ser posible). Se realizarán, durante al menos una hora, arranques y paradas repetidas de cada movimiento en todo su recorrido útil. Se realizarán arranques con la carga suspendida, y no deberán producirse retrocesos de las cargas.
+
+Finalizados los ensayos con las cargas nominales, se comprobará la actuación de los limitadores de cargas.
+
+Para la realización del ensayo se utilizarán las cargas disponibles en la instalación (carga máxima, carga en punta y las del 10 por ciento de dichos valores).
+
+El operador de la grúa será el gruista designado por el propietario o arrendatario de la grúa.
+
+Si existe cabina y se maneja desde ella, deberá disponerse de medios adecuados de comunicación bidireccional entre el inspector y el gruista.
+
+1.2 Inmovilización arrastre viento.
+
+1.3 Emplazamiento.
+
+1.4 Protección contra vuelco.
+
+1.5 Condena del mando de traslación.
+
+1.6 Medios adecuados de inmovilización.
+
+1.7 Varios.
+
+1.8 Otros.
+
+2\. Instalación eléctrica
+
+2.1 Emplazamiento instalación eléctrica.
+
+2.2 Interruptor omnipolar y diferencial de 300 mA en cuadro general de obra.
+
+2.3 Armario eléctrico de la grúa.
+
+2.4 Protección contra sobreintensidades.
+
+2.5 Interruptores para circuitos auxiliares.
+
+2.6 Estado de contactores.
+
+2.7 Conductores y cables eléctricos.
+
+2.8 Esfuerzos mecánicos en conductores.
+
+2.9 Protección de los elementos bajo tensión.
+
+2.10 Botonera de mando.
+
+2.11 Tensión máxima de maniobra.
+
+2.12 Interruptor de emergencia.
+
+2.13 Continuidad de las masas.
+
+2.14 Cable de puesta a tierra.
+
+2.15 Material eléctrico adecuado.
+
+2.16 Otros.
+
+3\. Cabina y medios de acceso
+
+3.1 Localización de la cabina.
+
+3.2 Impermeabilidad y resistencia del techo.
+
+3.3 Puesta a tierra.
+
+3.4 Barandillas, rodapiés, escalas.
+
+3.5 Elementos de sujeción personal. Pluma y contrapluma.
+
+3.6 Materiales de cabina.
+
+3.7 Visibilidad de la cabina.
+
+3.8 Cristales de las cabinas.
+
+3.9 Limpiaparabrisas de cabina.
+
+3.10 Ventilación de la cabina.
+
+3.11 Calefacción de la cabina.
+
+3.12 Dimensiones de la cabina.
+
+3.13 Suelos y plataformas antideslizantes.
+
+3.14 Extintor en cabina.
+
+3.15 Varios.
+
+3.16 Otros.
+
+4\. Protecciones
+
+4.1 Protección de los órganos móviles.
+
+4.2 Protección del aparejo de poleas.
+
+4.3 Ruedas de traslación con guardarruedas.
+
+4.4 Protección contra caída de objetos y órganos montados sobre vacío.
+
+4.5 Sistema de fijación del contrapeso.
+
+4.6 Otros.
+
+5\. Mecanismos
+
+5.1 Ganchos.
+
+5.2 Cables.
+
+5.3 Tambores.
+
+5.4 Arrollamiento del cable en el tambor.
+
+5.5 Poleas.
+
+5.6 Freno elevación.
+
+5.7 Freno de orientación.
+
+5.8 Freno carro pluma (distribución).
+
+5.9 Freno de traslación.
+
+5.10 Freno de elevación de pluma.
+
+5.11 Varios.
+
+5.12 Otros.
+
+6\. Dispositivos de seguridad
+
+6.1 Limitador de par de elevación.
+
+6.2 Limitador de par de distribución.
+
+6.3 Limitador de carga máxima.
+
+6.4 Limitador de recorrido de elevación.
+
+6.5 Limitador de alcance máximo y mínimo del carro.
+
+6.6 Limitador de traslación por vía.
+
+6.7 Limitador de giro.
+
+6.8 Limitador de ángulos superior e inferior.
+
+6.9 Limitador de gran velocidad.
+
+6.10 Dispositivo de puesta en veleta.
+
+6.11 Paragolpes en recorrido del carro de la pluma.
+
+6.12 Posibilidad de instalación de anemómetro.
+
+6.13 Control de pesos.
+
+6.14 Otros.
+
+7\. Indicaciones para maniobras y placas
+
+7.1 Identificación y utilización de mandos.
+
+7.2 Placa de fabricación.
+
+7.3 Placa de cargas y alcances.
+
+7.4 Placas de maniobras, utilización y engrase.
+
+7.5 Placas de distancias en pluma.
+
+7.6 al 7.9 Indicadores de cargas, alcances y par.
+
+7.10 Otros.
+
+8\. Estructura y elementos de unión
+
+8.1 Base y/o tramo de empotramiento.
+
+8.2 Lastre de base.
+
+8.3 Torre.
+
+8.4 Pluma.
+
+8.5 Contrapluma.
+
+8.6 Contrapeso aéreo.
+
+8.7 Torreta portatirantes.
+
+8.8 Tirantes de pluma y contrapluma.
+
+8.9 Carretón de traslación.
+
+8.10 Carro de pluma.
+
+8.11 Plataformas o soporte giratorio.
+
+8.12 Corona de giro y tornillos.
+
+8.13 Tornillería y bulones.
+
+8.14 Corrosión y pintura.
+
+8.15 Varios.
+
+8.16 Otros.
+
+9\. Documentación
+
+9.1 Manual del fabricante.
+
+9.2 Manual de instrucciones de utilización.
+
+9.3 Libro historial de la grúa.
+
+9.4 Certificado de fabricación o Declaración «CE» de conformidad.
+
+9.5 Acreditación del gruista.
+
+9.6 Acreditación del contrato de conservación.
+
+9.7 Otros.
+
+10\. Otros (podrán reseñarse otros aspectos de interés)
+
+Con independencia de las comprobaciones y criterios que se han indicado en este anexo III para la realización de las inspecciones de las grúas torre, el grupo de trabajo específico creado al efecto ha elaborado un manual de inspecciones en el que, de una manera más amplia, se establecen los criterios de valoración de dichas inspecciones. Dicho manual será distribuido entre los sectores afectados por esta instrucción técnica complementaria.
+
+## ANEXO IV — Manual de instrucciones de utilización
+
+**GRÚA TORRE:**
+
+MARCA:
+
+MODELO:
+
+TIPO:
+
+N.º FABRICACIÓN:
+
+AÑO FABRICACIÓN:
+
+**FABRICANTE:**
+
+DIRECCIÓN:
+
+LOCALIDAD: C. Postal:
+
+TFNO.: FAX: e-MAIL:
+
+| (Croquis de la grúa con la situación de los dispositivos de seguridad) |
+|---|
+
+**1. Datos generales**
+
+**PROPIETARIO:**
+
+Dirección:
+
+Localidad: C. Postal:
+
+Tfno.: Fax: e-mail:
+
+**USUARIO**
+
+Dirección:
+
+Localidad: C. Postal:
+
+Tfno.: Fax: e-mail:
+
+**OBRA:**
+
+Dirección:
+
+Localidad:
+
+**EMPRESA CONSERVADORA:**
+
+Dirección:
+
+Localidad: C. Postal:
+
+Tfno.: Fax: e-mail:
+
+**2. Datos técnicos**
+
+**CARACTERÍSTICAS DE LA GRÚA**
+
+| Momento máximo: | kN.m |  |
+|---|---|---|
+| Altura autoestable: | m | □ Limitador de par de elevación tarado a kg |
+| Altura de montaje: | m | □ Limitador de par de distribución tarado con kg a m. |
+| Alcance (*): | m | □ Limitador de carga máxima tarado a kg |
+| Carga en punta: | kg | □ Limitador de recorrido de elevación |
+| Carga máxima: | kg | □ Limitador de alcance máximo y mínimo del carro |
+| Cargas de pruebas: |  | □ Limitador de traslación por la vía |
+| Ppunta (*): | kg | □ Limitador de giro |
+| Pmáxima: | kg | □ Limitador de ángulos superior e inferior |
+| 10 % Ppunta (*): | kg | □ Limitador de gran velocidad tarado con kg |
+| 10 % Pmáxima: | kg |  |
+
+(*) En punta o máximo en la instalación.
+
+Se hace entrega de este manual para ser tenido en cuenta en el manejo diario de la grúa.
+
+Fecha de entrega:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Recibí:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>El responsable del usuario o jefe de obra:</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>El gruista:                         </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p>D.   </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>DNI:</p>
+</td>
+<td>
+<p>DNI:</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>(Firma)</p>
+</td>
+<td>
+<p>(Firma)</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+**3. Obligaciones del gruista**
+
+Reconocimiento de la vía (si procede).
+
+Verificación del aplomado de la grúa.
+
+Verificación de lastres y contrapesos.
+
+Verificación de niveles de aceite y conocimiento de los puntos de engrase.
+
+Comprobación de los mandos en vacío.
+
+Comprobación de la actuación de los dispositivos de seguridad con los pesos tarados.
+
+Correcta puesta fuera de servicio de la grúa.
+
+Comprobación del estado de los cables de acero y accesorios de elevación (eslingas, cadenas, portapalets...).
+
+Comunicar al responsable de la obra cualquier anomalía observada en el funcionamiento de la grúa o en las comprobaciones que efectúe, así como la mala sujeción y amarre de las cargas, deteniendo o no poniendo en funcionamiento la grúa hasta recibir instrucciones.
+
+Prohibiciones
+
+Utilizar los elementos de elevación, para hacer tracciones oblicuas de cualquier tipo y para arrancar cargas adheridas al suelo o paredes entrelazadas, así como cualquier otra operación extraña a las propias de manutención de cargas.
+
+Elevar una carga superior a las especificaciones de la grúa, teniendo en cuenta las condiciones de empleo.
+
+Transportar cargas por encima del personal.
+
+Balancear las cargas para depositarlas en puntos a los que no llega normalmente el aparejo de elevación.
+
+Realizar más de tres rotaciones completas en el mismo sentido de giro, en el caso de que el mecanismo de elevación no gire con la pluma, con el fin de evitar cualquier torsión excesiva del cable de elevación.
+
+Se prohíbe utilizar las grúas para el transporte de personal.
+
+La zona de trabajo de la grúa, por donde han de pasar las cargas, estará señalizada, impidiendo el paso por ella a toda persona que no sea de la obra y no lleve casco de seguridad.
+
+Dejar carga u otros objetos colgando del gancho de la grúa en ausencia del gruista.
+
+Interrupción del trabajo
+
+En caso de vientos fuertes, o de tormenta eléctrica próxima, se interrumpirá el trabajo y se tomarán las medidas prescritas por el fabricante, dejando la grúa en veleta y cortando la corriente en el cuadro general de la obra.
+
+Mantenimiento
+
+Independientemente del mantenimiento que debe realizar la empresa conservadora, el gruista deberá realizar periódicamente una serie de controles y verificaciones para el buen funcionamiento de la grúa, debiendo comprobar los cables, gancho, poleas, limitadores, interruptores, cuadro eléctrico, niveles de aceite, puntos de engrase, etc.
+
+Instrucciones
+
+Descripción de los mandos y su manejo.
+
+Descripción y forma de efectuar la regulación de los frenos.
+
+Funcionamiento de los limitadores y demás dispositivos de seguridad.
+
+Comprobación de niveles y frecuencia de la reposición o sustitución de lubricantes.
+
+Comprobaciones especiales de mecanismos y elementos estructurales.
+
+Inspección de cables y de sus niveles de aptitud.
+
+Par de apriete de los tornillos.
+
+Maniobras para la puesta fuera de servicio.
+
+Valor del desplome máximo que puede admitirse en el mástil de la grúa.
+
+Medidas de actuación en caso de emergencia.
+
+Medidas para evitar daños en los cables de acero.
+
+Limpieza y conservación de todos los elementos en especial del cuadro eléctrico.
+
+**4. Recomendaciones generales**
+
+No utilizar el dispositivo de parada de emergencia para detener un desplazamiento normal.
+
+Instalar un cercado que impida el acceso a la zona de funcionamiento a las personas no autorizadas.
+
+Utilizar siempre el cable de seguridad cuando se deba trabajar o desplazarse sobre la pluma o contrapluma.
+
+La velocidad máxima del viento admitida para el trabajo con esta grúa será de 72 km/h, o la que indique el fabricante, si es menor.
+
+Otras recomendaciones.
+
+**5. Verificaciones y controles**
+
+Deberán realizarse verificaciones antes del inicio de la jornada de trabajo con la grúa y al finalizar la jornada, anotándose las deficiencias detectadas en el parte de control adjunto, solamente el día en que se produzca la deficiencia, para que el responsable de la obra lo comunique a la empresa conservadora. Si no existe ninguna anotación, se entenderá que, realizadas las verificaciones, la grúa está correcta.
+
+5.1 Verificaciones diarias.
+
+5.1.1 Al inicio de la jornada de trabajo:
+
+| Control visual | Accionar |
+|---|---|
+| Estado correcto de la base de apoyo. | Desconectar la puesta en veleta. |
+| Estado correcto de topes y rampas fin de carrera, si es grúa con traslación. | Buen funcionamiento del interruptor de puesta en marcha. |
+| Estado correcto del aplomado de la grúa. | Buen funcionamiento del botón de parada de emergencia. |
+| No existencia de pérdida de lastre de base ni de contrapeso aéreo. | Buen funcionamiento de los mandos en vacío y de cada mecanismo. |
+| Correcto estado del cable de alimentación eléctrica al cuadro de la grúa. | Buen funcionamiento de los frenos. |
+| Correcto estado del cable de puesta a tierra. |  |
+| Correcto estado de las conexiones a tierra de los raíles, estructura y cuadro. |  |
+
+<table>
+<tbody>
+<tr>
+<td colspan="3">
+<p>COMPROBACIÓN DE LOS LIMITADORES UTILIZANDO LAS CARGAS TARADAS</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>CARGA</p>
+</td>
+<td>
+<p>RECORRIDO</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>● PAR ELEVACIÓN (1,1 Ppunta) (*)</p>
+</td>
+<td>
+<p> kg</p>
+</td>
+<td>
+<p>● ALTURA GANCHO (1,5 m del carro)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>● PAR CARRO ADELANTE (dist+10%) m</p>
+</td>
+<td>
+<p> kg</p>
+</td>
+<td>
+<p>● CARRO (0,2 m tope delante y atrás)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>● CARGA MÁXIMA (1,1 Pmáx.)</p>
+</td>
+<td>
+<p> kg</p>
+</td>
+<td>
+<p>● TRASLACIÓN VÍA 0,5 m entre topes)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>● GRAN VELOCIDAD (1,1 P)</p>
+</td>
+<td>
+<p> kg</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) En punta o máximo en la instalación.
+
+Nota: Si algún limitador no funciona ESTÁ PROHIBIDO TRABAJAR HASTA QUE SE REPARE.
+
+5.1.2 Al final de la jornada de trabajo:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>Subir el gancho cerca del límite de subida SIN CARGA.</p>
+<p>Llevar el carro cerca de la torre.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+<strong>PONER EN VELETA</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>
+<strong>Dispositivo manual</strong>
+</p>
+</td>
+<td>
+<p>
+<strong>Dispositivo eléctrico</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Accionar palanca.</p>
+</td>
+<td>
+<p>Poner en veleta.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pulsar botón de parada en la botonera.</p>
+</td>
+<td>
+<p>Pulsar el botón de parada en la botonera</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Colocar las mordazas de fijación a los carriles.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>Cortar la corriente en el cuadro de la grúa y en el cuadro general.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+5.1.3 Parte de verificaciones diarias:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>FECHA</p>
+</td>
+<td rowspan="2">
+<p>DEFECTO OBSERVADO</p>
+</td>
+<td colspan="2">
+<p>REPARACIÓN DEFECTO</p>
+</td>
+<td rowspan="2">
+<p>V.° B.° RESPONSABLE DE OBRA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>FECHA</p>
+</td>
+<td>
+<p>EMPRESA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+5.2 Controles periódicos de grúa torre.
+
+Deberán realizarse controles cada semana, quincenalmente y mensualmente, anotándose las deficiencias encontradas en el parte de control adjunto, para que el responsable de la obra lo comunique a la empresa conservadora.
+
+PARTE DE CONTROL MENSUAL
+
+Grúa marca:
+
+Modelo:
+
+N° de fabricación:
+
+<table>
+<tbody>
+<tr>
+<td colspan="2">
+<p>EMPRESA CONSTRUCTORA:                                                  </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Responsable de la obra:</p>
+</td>
+<td>
+<p>Firma</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gruista:</p>
+</td>
+<td>
+<p>Firma</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>D.</p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2">
+<p>OPERACIÓN REALIZADA</p>
+</td>
+<td colspan="5">
+<p>MES:                                                                                         </p>
+</td>
+</tr>
+<tr>
+<td colspan="5">
+<p>SEMANAS</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivelado vía. Topes. Fines de carrera</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Puesta a tierra. Acometida eléctrica. Diferencial</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Frenos</p>
+</td>
+<td>
+<p>Q</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Lastre de base y contrapesos</p>
+</td>
+<td>
+<p>Q</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nivel de aceite reductores</p>
+</td>
+<td>
+<p>Q</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cables. Poleas. Gancho</p>
+</td>
+<td>
+<p>Q</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Corona de orientación</p>
+</td>
+<td>
+<p>M</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Repretado tornillos estructura</p>
+</td>
+<td>
+<p>Q</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Finales de carrera. Elevación. Carro</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Limitador de par. Elevación. Carro adelante</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Limitador carga máxima</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Limitador gran velocidad</p>
+</td>
+<td>
+<p>S</p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+<td>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+
+TIPO: S: Semanal Q: Quincenal M: Mensual/Semanas: Marcar «X» si está correcto.
+
+OBSERVACIONES:
+
+| FECHA | DESCRIPCIÓN | ENTERADO RESPONSABLE DE LA OBRA |
+|---|---|---|
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+AVERÍAS:
+
+| FECHA AVISO | DESCRIPCIÓN | FECHA CORRECCIÓN | ENTERADO RESPONSABLE DE LA OBRA |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+NOTA: Deberán incluirse en el manual de instrucciones de utilización todos los partes de control correspondientes mientras permanezca la grúa en esta obra.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 20, de 23 de enero de 2004. [Ref. BOE-A-2004-1370](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1370)
+
+## ANEXO V — Certificado de instalación de grúa-torre desmontable para obras u otras aplicaciones
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/125/08190_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/125/08190_002.png)
+
+> Se modifica por el art. 8.15 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 20, de 23 de enero de 2004. [Ref. BOE-A-2004-1370](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-1370)
+
+## ANEXO VI — Carné de gruista u operador de grúa torre
+
+1\. Objeto y ámbito de aplicación.
+
+Este anexo tiene por objeto regular los requisitos y el procedimiento para la obtención del carné de operador de grúa torre (gruista).
+
+2\. Carné de gruista u operador de grúa torre.–Sin perjuicio de lo establecido en la disposición adicional cuarta, el manejo de las grúas torre a las que se refiere esta ITC requerirá la posesión del carné de operador de grúa torre. Para obtenerlo se procederá de acuerdo con lo señalado en este anexo.
+
+3\. Requisitos para la obtención del carné.–Para la obtención del carné se tendrá que acreditar el cumplimiento de los siguientes requisitos:
+
+1\. Ser mayor de edad.
+
+2\. Contar con los conocimientos necesarios para la operación de la grúa torre.
+
+3\. Superar un examen médico sobre agudeza visual, sentido de la orientación, equilibrio y agudeza auditiva y aptitudes psicológicas. En caso de no superar dicho examen, el centro o el médico que realiza dicho examen, deberá comunicarlo al Órgano Competente en Materia de Industria de su Comunidad Autónoma.
+
+Para la acreditación de los conocimientos exigidos en el apartado 2 anterior, se podrá optar por alguna de las siguientes vías:
+
+a) La concurrencia de los siguientes requisitos:
+
+i. Estar en posesión del título de graduado en educación secundaria obligatoria o de un título equivalente a efectos laborales.
+
+ii. Superar un curso teórico-práctico impartido por una entidad habilitada ante el órgano competente de la comunidad autónoma.
+
+iii. Superar un examen realizado por el órgano competente de la comunidad autónoma.
+
+b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto del Reglamento de aparatos de elevación y manutención de los mismos, aprobado por el Real Decreto 2291/1985, de 8 de noviembre, y de esta instrucción técnica complementaria.
+
+c) Poseer una certificación otorgada por entidad acreditada para la certificación de personas por ENAC o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, de acuerdo a la norma UNE- EN ISO 17024.
+
+Todas las entidades acreditadas para la certificación de personas que quieran otorgar estas certificaciones deberán incluir en su esquema de certificación un sistema de evaluación que incluya los contenidos mínimos que se indican en el apartado 4 del presente anexo.
+
+d) Tener reconocida la cualificación profesional de operador de grúa torre adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).
+
+4\. Curso teórico-práctico.
+
+4.1 El curso teórico-práctico a que se refiere el párrafo d) del apartado anterior tendrá, como mínimo, una duración total de 200 horas, repartidas en un módulo teórico de 50 horas y en un módulo práctico de 150 horas, con el siguiente programa:
+
+a) Formación teórica:
+
+Descripción de la grúa-torre y componentes (perfiles, cables, lastres, etc.).
+
+Definición de grúa torre desmontable. Clasificación. Composición estructural. Pluma.
+
+Lastres de estabilidad. Contrapesos de equilibrios. Condiciones que deben cumplir. Masa.
+
+Cables de acero. Manipulación. Engrase. Inspecciones. Sustitución.
+
+Emplazamiento de la grúa. Desniveles de base. Vía. Proximidad de edificios y líneas eléctricas. Instalaciones con varias grúas. Zona de seguridad. Puesta a tierra.
+
+Elementos de seguridad en grúas. Limitadores. Seguridad de momento de par. Seguridad de carga máxima. Puesta en veleta.
+
+Condiciones de estabilidad en servicio y fuera de servicio.
+
+Arriostramientos rígidos. Arriostramientos elásticos.
+
+Operación y manipulación. Obligaciones y prohibiciones. Conocimiento y características. Diagrama de cargas. Cálculo de diagramas.
+
+Mantenimiento y conservación de la grúa torre.
+
+Regulación y puesta en servicio.
+
+Legislación básica: reglamentación y normas UNE.
+
+b) Formación práctica:
+
+Normas de manejo (maniobras permitidas y prohibidas).
+
+Normas de seguridad en el trabajo.
+
+Realización de las comprobaciones diarias y semanales de seguridad y mantenimiento.
+
+Manejo de una grúa torre.
+
+Manejo de una grúa torre autodesplegable.
+
+4.2 Las personas que en el plazo de un año acrediten experiencia profesional en el manejo de grúa torre por la empresa en que la hubieran adquirido quedarán exceptuadas de la realización del módulo práctico ordinario del curso. La experiencia profesional será justificada mediante acreditación de la empresa y, en dicho supuesto, deberán, además, realizar un módulo práctico de 15 horas de duración. No será necesario justificar el apartado 3.b) de este anexo.
+
+5\. Entidades habilitadas para impartir cursos.
+
+Podrán impartir el curso teórico-práctico de operador de grúa torre las entidades que hayan presentado previamente una declaración responsable ante el órgano competente de la Comunidad Autónoma donde vayan a realizar el curso, y reúnan los siguientes requisitos:
+
+a) Disponer de los medios y recursos mínimos necesarios, personales y materiales (personal competente, locales, elementos de grúas, motores, cables, rodamientos, perfiles, manuales de instalación y mantenimiento, aparatos de medida eléctricos y mecánicos y llaves dinamométricas).
+
+b) Disponer de grúas tipo torre desmontables y autodesplegables, en propiedad o alquiladas, por un período mínimo equivalente a la duración del curso a impartir, en correcto funcionamiento y para uso exclusivo de la entidad habilitada.
+
+6\. Expedición y validez del carné.
+
+6.1 El carné de gruista u operador de grúa torre será expedido por órgano competente de la comunidad autónoma, una vez acreditado por el solicitante el cumplimiento de los requisitos establecidos en el apartado 3 de este anexo.
+
+6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por iguales períodos, previa acreditación del requisito establecido en el apartado 3.c) de este anexo.
+
+> Se modifican, con efectos desde el 1 de julio de 2021, los apartados 2 y 3 por el art. 3.8 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Se modifican los apartados 3 y 5 por el art. 6 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Se modifica el apartado 3 por el art. 8.16 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 207, de 26 de agosto de 2010. [Ref. BOE-A-2010-13429](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13429)

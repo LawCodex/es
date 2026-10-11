@@ -1,0 +1,323 @@
+---
+title: "Orden ITC/1522/2007, de 24 de mayo, por la que se establece la regulación de la garantía del origen de la electricidad procedente de fuentes de energía renovables y de cogeneración de alta eficiencia"
+identifier: "BOE-A-2007-10868"
+eli: "https://www.boe.es/eli/es/o/2007/05/24/itc1522"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2007-05-24
+published: 2007-06-01
+in_force_from: 2007-06-02
+last_amended: 2025-11-07
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 131"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2007-10868"
+retrieved: 2026-10-11
+---
+
+# Orden ITC/1522/2007, de 24 de mayo, por la que se establece la regulación de la garantía del origen de la electricidad procedente de fuentes de energía renovables y de cogeneración de alta eficiencia
+
+Incluye la corrección de errores publicada en BOE núm. 170, de 17 de julio de 2007. [Ref. BOE-A-2007-13750](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13750).
+
+La promoción de la electricidad generada a partir de las fuentes de energía renovables y de cogeneración de alta eficiencia es un objetivo prioritario para la Unión Europea y sus Estados miembros, por razones de seguridad y diversificación del suministro de energía, de protección del medio ambiente y de cohesión económica y social. Además, la explotación de las fuentes de energía renovables puede ser fuente de empleo local, tener repercusiones positivas en la cohesión social, contribuir a la seguridad del aprovisionamiento y contribuir a hacer posible el cumplimiento de los objetivos del Protocolo de Kyoto de la Convención Marco de Naciones Unidas sobre cambio climático.
+
+En ejecución de dicho objetivo, se promulgaron: la Directiva 2001/77/CE del Parlamento Europeo y del Consejo, de 27 de septiembre de 2001, relativa a la promoción de electricidad generada a partir de fuentes de energía renovables en el mercado interior de la electricidad y la Directiva 2004/8/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, relativa al fomento de la cogeneración sobre la base de la demanda de calor útil en el mercado interior de la energía y por la que se modifica la Directiva 92/42/CEE.
+
+Ambas directivas contemplan, como herramienta para contribuir al cumplimiento de dicho objetivo, la implantación de un sistema de garantía de origen de la electricidad que permita a los productores de electricidad que utilicen fuentes de energía renovables o cogeneración de alta eficiencia demostrar que la electricidad que venden ha sido generada de acuerdo a tales principios, y cuyo instrumento fundamental será el sistema de anotaciones en cuenta creado para su gestión.
+
+La presente orden regula el sistema de garantía de origen de la electricidad generada a partir de fuentes de energía renovables y de cogeneración de alta eficiencia, en virtud de la facultad otorgada al Ministro de Industria, Turismo y Comercio en el apartado 2 de la disposición final primera del Real Decreto 1634/2006, de 29 de diciembre, por el que se establece la tarifa eléctrica a partir de 1 de enero de 2007.
+
+Para la elaboración de la orden se ha realizado el preceptivo trámite de audiencia a los interesados a través del Consejo Consultivo de Electricidad cuyas alegaciones se han tenido en cuenta para elaborar el preceptivo informe de la Comisión Nacional de Energía de 23 de febrero de 2006.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
+
+## CAPÍTULO I — Disposiciones generales
+
+### Artículo 1. Objeto.
+
+La presente orden tiene por objeto regular la garantía de origen de la electricidad generada a partir de fuentes de energía renovables y de cogeneración de alta eficiencia, con objeto de fomentar su contribución a la producción de electricidad y poder demostrar ante los consumidores finales que una cuota o cantidad determinada de energía se ha obtenido a partir de dichas fuentes, así como facilitar el comercio de electricidad producida a partir de fuentes de energía renovables y de cogeneración de alta eficiencia.
+
+Igualmente, se establecen una serie de obligaciones de información por parte del Ministerio de Industria, Turismo y Comercio y de la Comisión Nacional de Energía, en relación, por un lado, con el establecimiento de objetivos indicativos nacionales y las medidas previstas para alcanzarlos, y por otro, con la evaluación del marco normativo respecto de los procedimientos de autorización de estas instalaciones.
+
+> Se modifica el párrafo primero por el art. único.1 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 2. Ámbito de aplicación.
+
+Podrán acogerse al sistema de garantía de origen de la electricidad regulado en esta orden todas las instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables y de cogeneración de alta eficiencia, así como la fracción biodegradable de los residuos industriales y municipales, siempre y cuando dicha fracción biodegradable sea cuantificable de forma objetiva.
+
+La electricidad producida en unidades de acumulación por bombeo que utilizan agua que se ha bombeado aguas arriba no debe considerarse electricidad producida a partir de fuentes renovables.
+
+> Se modifica el apartado 1 por el art. único.1 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+> Se añade el párrafo segundo por el art. único.2 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 3. Definiciones.
+
+A los efectos de esta orden, serán de aplicación las siguientes definiciones:
+
+a) Energía eléctrica procedente de fuentes renovables: la energía eléctrica procedente de fuentes renovables no fósiles, es decir, energía eólica, solar, aerotérmica, geotérmica, hidrotérmica y oceánica, hidráulica, biomasa, gases de vertedero, gases de plantas de depuración y biogás.
+
+b) Biomasa: la fracción biodegradable de los productos, desechos y residuos de origen biológico procedentes de actividades agrarias (incluidas las sustancias de origen vegetal y de origen animal), de la silvicultura y de las industrias conexas, incluidas la pesca y la acuicultura, así como la fracción biodegradable de los residuos industriales y municipales.
+
+c) Producción eléctrica neta: energía bruta generada menos la consumida por los servicios auxiliares medida en barras de central, esto es, teniendo en cuenta las pérdidas para elevar la energía a barras de central.
+
+d) Energía bruta generada: energía producida por un grupo generador medida en bornas de alternador.
+
+e) Servicios auxiliares de producción: suministros de energía eléctrica necesarios para proveer el servicio básico en cualquier régimen de funcionamiento de la central.
+
+f) Barras de central: barras a las que se conecta el lado de alta del transformador de grupo de un grupo generador.
+
+g) Cogeneración de alta eficiencia: la cogeneración que cumpla los criterios establecidos en el anexo III del Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración.
+
+h) Sistema de apoyo: cualquier instrumento, sistema o mecanismo que promueve el uso de energía procedente de fuentes renovables gracias a la reducción del coste de esta energía, aumentando su precio de venta o el volumen de energía renovable adquirida, mediante una obligación de utilizar energías renovables o mediante otras medidas. Ello incluye, sin limitarse a estos, las ayudas a la inversión, las exenciones o desgravaciones fiscales, las devoluciones de impuestos, los sistemas de apoyo a la obligación de utilizar energías renovables incluidos los que emplean los certificados verdes, y los sistemas de apoyo directo a los precios, entre los que se encuentran la retribución a la operación, la retribución a la inversión, así como cualesquiera otros conceptos incluidos en el régimen retributivo específico.
+
+> Se modifica por el art. único.2 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+> Se modifica por el art. único.3 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 4. Concepto de garantía de origen.
+
+1\. La garantía de origen es una acreditación, en formato electrónico, expedida a solicitud del interesado, que asegura que un número determinado de megavatios-hora de energía eléctrica producidos en una central, en un periodo temporal determinado, han sido generados a partir de fuentes de energía renovables o de cogeneración de alta eficiencia.
+
+Las garantías de origen tendrán un formato normalizado de 1 MWh. Asimismo, las garantías de origen incluirán, al menos, los datos relativos a la identificación, situación, fecha de puesta en servicio, tipo de energía, capacidad de la instalación, periodo de funcionamiento y sistema de apoyo, así como la fecha y el país expedidor y un número de identificación único, sin perjuicio de que esta información pueda detallarse con mayor precisión por Circular de la Comisión Nacional de los Mercados y la Competencia, que deberá publicarse en el "Boletín Oficial del Estado".
+
+2\. A los efectos de la expedición de la garantía de origen, los datos a consignar relativos a la instalación generadora de la electricidad, y que identificarán a dicha garantía de origen, serán los que consten, en cada momento, en el Registro administrativo de instalaciones de producción de energía eléctrica, dependiente del Ministerio de Industria, Turismo y Comercio.
+
+> Se modifica el apartado 1 por el art. único.3 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+> Véase, en cuanto al régimen transitorio de esta modificación, la disposición transitoria única de la citada norma.
+
+> Se modifica el apartado 1 por el art. único.4 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril del 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 5. Organismo responsable de la expedición y gestión.
+
+1\. Se designa a la Comisión Nacional de Energía como organismo responsable, en todo el territorio español, para la expedición de la garantía de origen de la electricidad generada a partir de fuentes de energía renovables y de cogeneración de alta eficiencia, así como para su gestión, pudiendo realizar dichas labores bien directamente o a través de un tercero, previa autorización por parte de la Secretaría de Estado de Energía del Ministerio de Industria, Turismo y Comercio, que deberá ser independiente de las actividades de generación, distribución y comercialización y ser designado conforme a lo establecido por la legislación de contratos del sector público.
+
+2\. La Comisión Nacional de Energía publicará regularmente la lista de órganos autorizados, a los mismos efectos, en el resto de Estados miembros de la Unión Europea que hubieran sido comunicados por la Comisión Europea.
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 6. Sistema de anotaciones en cuenta de la garantía de origen.
+
+1\. La Comisión Nacional de Energía establecerá un sistema de anotaciones en cuenta de la garantía de origen de la electricidad generada a partir de fuentes de energía renovables y de cogeneración de alta eficiencia, que tendrá como objetivo el registro de la información y la gestión de las citadas garantías de origen.
+
+Conforme a lo previsto en el artículo 27.6 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos y en el artículo 32 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente dicha Ley, la gestión del sistema se realizará obligatoriamente por procedimientos y medios electrónicos a través del Registro Electrónico de la Comisión Nacional de Energía.
+
+En dicho sistema de anotaciones en cuenta se mantendrá información sobre la cantidad de garantías de origen expedidas, así como las transferencias de las mismas.
+
+2\. Para la correcta gestión del sistema, se crearán una serie de cuentas de generación, asociadas cada una de ellas a una instalación, con información relativa a las garantías de origen expedidas para dicha instalación a lo largo de un periodo de tiempo concreto. Las garantías serán identificables por tecnología.
+
+En las mismas cuentas se realizarán apuntes necesarios de las transferencias experimentadas por cada una de las garantías de origen expedidas, hasta su cancelación por redención con su venta a un consumidor final, revocación o caducidad.
+
+3\. Para cada instalación de generación, los datos identificativos asociados a cada cuenta serán, además de los consignados en el Registro administrativo de instalaciones de producción de energía eléctrica, los siguientes:
+
+a) En el caso de la cogeneración de alta eficiencia, capacidad térmica de la instalación, eficiencia nominal eléctrica y térmica de la instalación, valor calorífico inferior del combustible, cantidad y uso del calor generado juntamente con la electricidad, rendimiento eléctrico equivalente (REE), así como electricidad de cogeneración y ahorro de energía primaria (PES), tal y como se definen en los anexos II y III del Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración.
+
+b) Aquella otra información que considere necesaria la Comisión Nacional de Energía.
+
+c) Cuando se produzca cualquier modificación en la situación administrativa o técnica que afecte a las características de una instalación, su titular será el responsable de comunicarlo a la Comisión Nacional de Energía.
+
+4\. La información gestionada por el mencionado sistema, cuando no esté sometida a protección de datos, será accesible a través de la página web de la Comisión Nacional de Energía.
+
+5\. La Comisión Nacional de Energía presentará anualmente ante el Ministerio de Industria, Turismo y Comercio la memoria de la actividad de expedición de la garantía de origen de la energía procedente de fuentes de energía renovables y de cogeneración de alta eficiencia.
+
+> Se modifica el apartado 3.a) por el art. único.4 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+> Véase, en cuanto al régimen transitorio de esta modificación, la disposición transitoria única de la citada norma.
+
+> Se modifica el apartado 1 por el art. único.6 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 7. Separación contable.
+
+**(Suprimido)**
+
+> Se suprime por el art. 1.1 de la Orden TED/1252/2025, de 27 de octubre. [Ref. BOE-A-2025-22527](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22527)
+
+> Se modifica por el art. único.5 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635)
+
+## CAPÍTULO II — Procedimientos relativos a la garantía de origen
+
+### Artículo 8. Solicitud.
+
+1\. El titular de una instalación de generación de energía eléctrica podrá solicitar, por vía electrónica obligatoria, a la Comisión Nacional de Energía, con carácter voluntario, la expedición de las garantías de origen de la energía eléctrica generada en la instalación a partir de fuentes de energía renovables o de cogeneración de alta eficiencia durante un período de tiempo, que deberá ser múltiplo de meses naturales. La solicitud de garantías de origen correspondientes al mes de producción m será presentada antes del último día del mes m+8 y en todo caso antes del 31 de enero de cada año para las garantías correspondientes al año anterior.
+
+2\. Junto con la solicitud de una garantía de origen, el interesado presentará ante la Comisión Nacional de Energía la siguiente información especificada con un desglose mensual:
+
+a) La primera vez, o cuando se haya producido una modificación en los datos consignados en el Registro administrativo de producción de energía eléctrica, copia de la inscripción definitiva en el Registro administrativo de producción de energía eléctrica, y, en su caso, de la inscripción definitiva en el registro administrativo autonómico correspondiente. En los demás casos, únicamente claves de identificación en los registros anteriores.
+
+b) Energía y período para el que se solicita la garantía de origen.
+
+c) Declaración del solicitante de no haber solicitado y de no pretender solicitar más garantías de origen ni certificaciones similares por la electricidad que sea garantizada, ni en España ni en ningún otro Estado.
+
+d) Declaración de mediciones eléctricas durante el periodo para el que se solicitan las garantías de origen.
+
+e) En el caso de sistemas que utilicen conjuntamente fuentes de energías renovables y no renovables, el solicitante deberá remitir el consumo de los distintos combustibles utilizados, así como las propiedades caloríficas de cada uno de ellos.
+
+f) En el caso de instalaciones de bombeo, el solicitante deberá remitir documentación que especifique la producción total menos la producción asociada al consumo del bombeo.
+
+3\. La Comisión Nacional de Energía podrá requerir, además, un certificado emitido por el encargado de la lectura que acredite el cumplimiento de lo dispuesto en el Reglamento de puntos de medida de los consumos y tránsitos de energía eléctrica, aprobado por el Real Decreto 2018/1997, de 26 de diciembre, así como cualquier documentación adicional que estime pertinente.
+
+4\. Una garantía de origen no podrá ser solicitada por adelantado en relación a la energía que vaya a ser producida.
+
+5\. La cantidad total de energía para la que se solicita garantía de origen en el periodo señalado no podrá ser superior a la producción eléctrica neta efectivamente generada con fuentes de energía renovables y cogeneración de alta eficiencia en ese período.
+
+> Se modifican los apartados 1 y 2 por el art. único.7 y 8 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 9. Expedición.
+
+La Comisión Nacional de Energía, tras verificar la información aportada en la solicitud, procederá a la expedición de la garantía de origen, que consistirá en una anotación en la cuenta correspondiente de la electricidad producida.
+
+La expedición de la garantía de origen se llevará a cabo por la producción neta mensual efectivamente generada con fuentes de energía renovables y cogeneración de alta eficiencia, medida en MWh.
+
+La expedición de las garantías de origen correspondientes al mes de producción m tendrá lugar antes del último día del mes m+10, y en todo caso, antes del 28 de febrero de cada año para las garantías correspondientes al año anterior y se entenderá realizada a favor del titular de la instalación que será el tenedor inicial de las mismas.
+
+> Se modifican los párrafos segundo y tercero por el art. único.9 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 10. Transferencia.
+
+Las transferencias de cualquier garantía de origen habrán de ser solicitadas por el tenedor de la garantía a la Comisión Nacional de Energía para que proceda a la correspondiente anotación en la cuenta correspondiente.
+
+### Artículo 11. Importación y exportación.
+
+1\. La importación de garantías de origen será considerada de forma análoga a la expedición de las mismas.
+
+Las acreditaciones de garantías de origen expedidas en otro Estado miembro podrán presentarse por los comercializadores ante la Comisión Nacional de los Mercados y la Competencia para que obtengan el mismo reconocimiento que las expedidas por el Sistema de garantía de origen en España, siempre que sean expedidas de acuerdo con los requisitos exigidos por las Directivas 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, por la que se modifican las Directivas 2009/125/CE y 2010/30/UE, y por la que se derogan las Directivas 2004/8/CE y 2006/32/CE, y 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energía procedente de fuentes renovables y por la que se modifican y se derogan las Directivas 2001/77/CE y 2003/30/CE. La garantía de origen deberá ser expedida por el órgano expedidor designado por un Estado miembro de la Unión Europea. Cuando existieran dudas fundadas sobre la exactitud, fiabilidad o veracidad de una garantía de origen expedida por otro Estado miembro, la Comisión Nacional de los Mercados y la Competencia podrá negar el reconocimiento de la misma, debiendo ponerlo en conocimiento de la Secretaría de Estado de Energía para su notificación a la Comisión Europea.
+
+2\. La exportación de garantías de origen sólo podrá ser realizada por los titulares de las instalaciones de generación de electricidad.
+
+> Se modifica el apartado 2 por el art. 1.2 de la Orden TED/1252/2025, de 27 de octubre. [Ref. BOE-A-2025-22527](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-22527)
+
+> Se modifican los apartados 1 y 2 por el art. único.6 y 7 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+> Se modifica el apartado 1 por el art. único.10 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Artículo 12. Cancelación.
+
+1\. La cancelación de una garantía de origen podrá ser motivada por su redención (venta de una garantía de origen a un consumidor final), revocación (por comisión de un error o deficiencia en la expedición de una garantía) o caducidad (transcurrido el periodo máximo establecido), y así figurará en la cuenta correspondiente.
+
+2\. A medida que el tenedor vaya asignando las garantías a los clientes en sus facturas, deberá solicitar a la Comisión Nacional de Energía su cancelación por redención. Ésta procederá a su anotación en la cuenta correspondiente, incluyendo asimismo la información del cliente.
+
+En el caso de exportación de garantías de origen, éstas no podrán ser redimidas en España.
+
+Las garantías de origen podrán ser contabilizadas a efectos del cumplimiento de los compromisos de los comercializadores contraídos con sus consumidores y del cumplimiento de los objetivos de energías renovables y de cogeneración de alta eficiencia.
+
+3\. Una garantía de origen podrá ser objeto de cancelación por revocación en los términos previstos legalmente, en el supuesto de que se acredite que la información aportada para su expedición fue incorrecta, o no se ajustó a la normativa en vigor.
+
+4\. Las garantías de origen expedidas correspondientes a energía generada en el mes de producción m que no hayan sido previamente canceladas se cancelarán de forma automática por caducidad el primer día del mes m+12.
+
+A partir del día 31 de marzo no podrán ser redimidas garantías de origen que correspondan a energía producida en el año anterior.
+
+> Se modifica el apartado 4 por el art. único.11 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+> Redactado el apartado 4 conforme a la corrección de errores publicada en BOE núm. 170, de 17 de julio de 2007. [Ref. BOE-A-2007-13750](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13750).
+
+## CAPÍTULO III — Control y régimen sancionador
+
+### Artículo 13. Verificación e inspección de las instalaciones.
+
+1\. La Comisión Nacional de Energía efectuará las comprobaciones e inspecciones que considere necesarias en ejercicio de su competencia en materia de expedición de garantía de origen de la electricidad generada a partir de fuentes de energía renovables y de cogeneración de alta eficiencia.
+
+2\. Los titulares de las instalaciones objeto de la presente orden deberán garantizar el acceso físico a las mismas en condiciones adecuadas, para la realización de los trabajos que correspondan de comprobación, verificación y, en su caso, de inspección.
+
+3\. Las empresas comercializadoras deberán facilitar asimismo el acceso a sus registros y contabilidad para la comprobación y verificación de las transferencias y cancelación de las garantías de origen, de la medida de la energía en consumidor final y de los ingresos obtenidos por la venta de las garantías de origen.
+
+### Artículo 14. Régimen de infracciones y sanciones.
+
+Al incumplimiento de las obligaciones previstas en la presente orden le será de aplicación el régimen de infracciones y sanciones previsto en el Título X de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
+> Se modifica por el art. único.8 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+## CAPÍTULO IV — Informes
+
+### Artículo 15. Objetivos indicativos nacionales.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única de la Orden TC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+### Artículo 16. Evaluación del marco normativo.
+
+La Comisión Nacional de Energía remitirá periódicamente al Ministerio de Industria, Turismo y Comercio, a petición de éste, un informe sobre la evaluación del marco legislativo y reglamentario vigente respecto a los procedimientos de autorización, aplicables a las instalaciones de las centrales de producción de electricidad a partir de fuentes de energía renovables y de cogeneración de alta eficiencia, indicando, cuando corresponda, las acciones emprendidas.
+
+Esta evaluación se efectuará con vistas a reducir los obstáculos reglamentarios y no reglamentarios al incremento de la producción de electricidad a partir de fuentes de energía renovables, y de cogeneración de alta eficiencia, racionalizar y agilizar los procedimientos al nivel administrativo que corresponda, asegurarse de que las normas sean objetivas, transparentes y no discriminatorias y tengan en cuenta las particularidades de las diferentes tecnologías y fomentar el diseño de unidades de cogeneración que respondan a demandas económicamente justificables de calor útil y evitar la producción de calor excedentario en relación con el calor útil.
+
+El informe también deberá referirse a las medidas que se prevea adoptar para facilitar el acceso a la red de la electricidad generada a partir de fuentes de energía renovables, estudiando, entre otras cosas, la viabilidad de la introducción de la medición bidireccional.
+
+Dicho informe tendrá carácter público y será de libre acceso.
+
+### Disposición adicional única.
+
+Detalle de las garantías de origen en las facturas de los comercializadores a los clientes finales, de acuerdo con el artículo 110 bis del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.
+
+1\. La información que, de acuerdo con el apartado 2 del artículo 110 bis del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, debe reflejar toda empresa comercializadora que venda electricidad a clientes finales en sus facturas se calculará a partir de la mezcla global de generación indicada en el párrafo a) del apartado 1 del citado artículo 110 bis y teniendo en cuenta las garantías de origen relativas a la energía del año anterior.
+
+A estos efectos, con objeto de reflejar la información relativa a la empresa comercializadora, se deducirá, de la mezcla global de generación indicada, la parte correspondiente a las garantías de origen totales emitidas y, en su caso, se incluirá la correspondiente a las garantías de origen que hasta 31 de marzo del año posterior al de producción de la energía hubieran obrado en la cuenta de dicha empresa.
+
+Igualmente en dicha información debe reflejar para cada cliente, en su caso, el número de garantías de origen que se hubieran redimido a su favor hasta la citada fecha, relativas a la energía del año anterior.
+
+2\. Las informaciones a que se hace referencia en los apartados 1 y 2 del artículo 110 bis citado, relativas a la producción energética del año anterior, serán reflejadas en las facturas de los clientes desde el mes de abril,
+
+Durante los meses de enero a marzo, ambos inclusive se reproducirá la misma información que en los meses precedentes del año anterior.
+
+3\. En el caso de los comercializadores de último recurso, las garantías de origen que hubieran podido ser adquiridas o redimidas serán imputadas, exclusivamente a la actividad de suministro distinta de la de último recurso.
+
+> Se modifica el apartado 1 por el art. único.9 de la Orden IET/931/2015, de 24 de mayo. [Ref. BOE-A-2015-5635](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5635).
+
+> Se añade por el art. único.12 de la Orden ITC/2914/2011, de 27 de octubre. [Ref. BOE-A-2011-17070](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-17070).
+
+> Esta modificación es aplicable a partir del 1 de abril de 2012, según establece la disposición transitoria única, en la redacción dada por la disposición final 4 de la Orden IET/3586/2011, de 30 de diciembre. [Ref. BOE-A-2011-20646](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-20646).
+
+### Disposición transitoria primera. Plazo para el inicio de funcionamiento del sistema de anotaciones en cuenta.
+
+El sistema de anotaciones en cuenta de la garantía de origen comenzará a funcionar una vez sean establecidos por parte de la Comisión Nacional de Energía los procedimientos necesarios, siendo la fecha límite para ello el 1 de diciembre de 2007.
+
+### Disposición transitoria segunda. Solicitud y expedición de garantías de origen correspondientes a energía producida durante los años 2004, 2005 y 2006.
+
+Las solicitudes de garantías de origen correspondientes a la energía producida durante los años 2004, 2005 y 2006, serán presentadas durante el primer mes natural siguiente al de entrada en funcionamiento del sistema de garantía de origen, de acuerdo con la disposición transitoria primera de la presente orden.
+
+Para la expedición de las garantías de origen correspondientes a la energía generada en los años 2004, 2005 y 2006, la Comisión Nacional de Energía dispondrá de un plazo de seis meses naturales completos a contar a partir del primer día del mes siguiente a la fecha de entrada en funcionamiento del sistema de garantía de origen.
+
+Las garantías de origen correspondientes a la energía producida durante los años 2004, 2005 y 2006 serán canceladas de forma automática por caducidad en el registro en el mismo momento de su expedición, y consecuentemente no podrán ser objeto de transferencia a ningún otro tenedor, ni en España, ni en el extranjero.
+
+### Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en las reglas 13.ª y 25.ª del artículo 149.1 de la Constitución, que atribuyen al Estado la competencia sobre bases y coordinación de la planificación general de la actividad económica y sobre bases del régimen energético y minero, respectivamente.
+
+### Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante esta orden se incorporan al derecho español los artículos 5 y 9 de la Directiva 2004/8/CE del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, relativa al fomento de la cogeneración sobre la base de la demanda de calor útil en el mercado interior de la energía y por la que se modifica la Directiva 92/42/CEE, así como los aspectos pendientes de transposición de la Directiva 2001/77/CE del Parlamento Europeo y del Consejo, de 27 de septiembre de 2001, relativa a la promoción de la electricidad generada a partir de fuentes de energía renovables en el mercado interior de la electricidad, excepto los apartados 4 y 5 de su artículo 7.
+
+### Disposición final tercera. Ejecución y aplicación de la orden.
+
+1\. Por la Dirección General de Política Energética y Minas y la Comisión Nacional de Energía se adoptarán, en el ámbito de sus respectivas competencias, las disposiciones y medidas que exija la ejecución y aplicación de esta orden.
+
+2\. En particular, se autoriza a la Comisión Nacional de Energía para determinar las cuantías de la retribución objeto de liquidación indicadas en el artículo 11 de la presente orden, así como para establecer los procedimientos relativos a la garantía de origen que sean necesarios, de acuerdo con lo especificado en esta orden, todo ello mediante circulares que serán publicadas en el «Boletín Oficial del Estado».
+
+### Disposición final cuarta. Entrada en vigor.
+
+Esta orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 24 de mayo de 2007.–El Ministro de Industria, Turismo y Comercio, Joan Clos i Matheu.

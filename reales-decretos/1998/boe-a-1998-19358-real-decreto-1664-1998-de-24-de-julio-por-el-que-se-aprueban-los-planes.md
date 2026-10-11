@@ -1,0 +1,159 @@
+---
+title: "Real Decreto 1664/1998, de 24 de julio, por el que se aprueban los Planes Hidrológicos de cuenca"
+identifier: "BOE-A-1998-19358"
+eli: "https://www.boe.es/eli/es/rd/1998/07/24/1664"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Medio Ambiente"
+date: 1998-07-24
+published: 1998-08-11
+in_force_from: 1998-08-31
+last_amended: 2015-11-27
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 191"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-19358"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1664/1998, de 24 de julio, por el que se aprueban los Planes Hidrológicos de cuenca
+
+El artículo 38.1 de la Ley 29/1985, de 2 de agosto, de Aguas, configura la planificación hidrológica como instrumento para «conseguir la mejor satisfacción de las demandas de agua y equilibrar y armonizar el desarrollo regional y sectorial, incrementando las disponibilidades del recurso, protegiendo su calidad, economizando su empleo y racionalizando sus usos en armonía con el medio ambiente y los demás recursos naturales». En su apartado 2 el artículo 38 establece igualmente que la «planificación se realizará mediante los Planes Hidrológicos de cuenca y el Plan Hidrológico Nacional».
+
+La elaboración de los Planes Hidrológicos de cuenca ha supuesto un proceso largo y complejo, que ha durado más de una década y que ha culminado con el informe preceptivo del Consejo Nacional del Agua, que exige el artículo 18.1.b) de la vigente Ley 29/1985, de 2 de agosto, de Aguas, que, en su reunión del pasado 27 de abril de 1998, emitió un dictamen favorable a la aprobación por el Gobierno de los mencionados Planes.
+
+El Consejo Nacional del Agua constata en su informe que «los planes informados cumplen adecuadamente lo establecido en la Ley 29/1985, de 2 de agosto, de Aguas, recomendando su aprobación unitaria como tal conjunto de documentos interrelacionados». En este sentido el Consejo afirma que es necesario proceder a la aprobación inmediata de los citados planes, en las condiciones en que estime oportuno el Gobierno, pues la situación actual de ausencia de planificación hidrológica induce a una provisionalidad, en fundamentales determinaciones de la Administración hidráulica, que no puede prolongarse por más tiempo sin que produzca una profunda quiebra en el régimen jurídico-administrativo de las aguas en España.
+
+Los Planes Hidrológicos de cuenca, que se aprueban por el presente Real Decreto, han sido elaborados por cada Confederación Hidrográfica o Administración hidráulica competente, según lo preceptuado en el artículo 39.1 de la Ley 29/1985, de 2 de agosto, de Aguas. En consecuencia, los planes son heterogéneos y adaptados a la realidad propia de cada cuenca hidrográfica y a las sensibilidades, experiencia y expectativas de cada una de ellas. Esta realidad no sólo no es un dato negativo, sino que es el fruto lógico y querido de un proceso planificador hecho desde la base, para conseguir que cada plan se adapte a las necesidades de la cuenca a la que se refiere.
+
+Por todo lo anterior, el artículo 1 del presente Real Decreto, según prescribe el artículo 105.3 del Reglamento de Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio, procede a la aprobación de los Planes Hidrológicos de cuenca que se citan, entendidos como el conjunto interrelacionado de documentos informados favorablemente por los respectivos Consejos del Agua de cada cuenca, y por la Comisión de Gobierno de la Junta de Aguas, en el caso del plan de las cuencas intracomunitarias de Cataluña, en las fechas que se indican.
+
+La positiva valoración que merece la plural configuración de los distintos planes y su heterogeneidad no es óbice a la necesidad de que el Gobierno aclare determinadas materias en el mismo acto de aprobación de los planes, al amparo de lo previsto en el artículo 38.5 de la Ley 29/1985, de 2 de agosto, de Aguas, y sólo respecto de los planes de cuenca intercomunitarios. A tal efecto, el artículo 2 del presente Real Decreto establece una serie de criterios de interpretación de los planes que responden a sugerencias específicas del Consejo Nacional del Agua en su informe, conforme a las recomendaciones y a las razones señaladas por dicho órgano consultivo. Estos criterios se refieren a:
+
+a) Garantizar la uniformidad en los conceptos técnico-jurídicos establecidos en el citado Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio, que algún plan no reproduce con la necesaria fidelidad textual, para evitar cualquier duda de interpretación.
+
+b) Homogeneizar el tratamiento de los caudales ecológicos a fin de garantizar la salvaguardia del medio ambiente en la explotación de los recursos hídricos.
+
+c) Asegurar que los acuerdos tomados sobre el establecimiento de reservas de recursos se revisarán con los propios planes para evitar el mantenimiento de aquéllas que devengan innecesarias por el transcurso del tiempo.
+
+d) Salvaguardar los criterios técnicos, económicos, medioambientales y de congruencia con otras planificaciones que deben presidir la decisión, por parte de la Administración General del Estado, sobre las infraestructuras a promover, seleccionando y priorizando, conforme a tales criterios, las que deben ser construidas de entre el amplio catálogo que los planes prevén.
+
+El artículo 3, de conformidad con lo sugerido por el Consejo Nacional del Agua, enuncia algunas de las materias en las que los Planes Hidrológicos de cuenca deberán adaptarse a las normas de coordinación del Plan Hidrológico Nacional.
+
+El artículo 4 prevé el libre acceso de todos los ciudadanos al contenido de los planes, conforme a la legislación vigente en materia de derechos de acceso a los registros públicos y, en particular, respecto a la información en materia de medio ambiente.
+
+Por último, la disposición adicional prevé la reforma del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio, respecto al procedimiento de actualización de los Planes Hidrológicos de cuenca, según lo aconsejado, expresamente, por el Consejo Nacional del Agua.
+
+El Consejo Nacional del Agua, en su informe sobre los Planes Hidrológicos de cuenca, sugirió un mecanismo que facilitase la consulta de los mismos por parte de todos los interesados. Conforme a esta sugerencia, la disposición final establece la publicación en el «Boletín Oficial del Estado» en un plazo máximo de nueve meses, de un texto único en el que se recojan, sistemática y homogéneamente, las determinaciones normativas de cada plan. A este respecto se prevé que el texto a publicar no podrá introducir modificaciones en los planes aprobados y exige, como garantía, el previo informe del Consejo del Agua de cada cuenca.
+
+La aprobación de los Planes Hidrológicos de cuenca, mediante el presente Real Decreto, culmina un proceso planificador, que se encuadra en el título competencial que le asigna al Estado el artículo 149.1.13. a de la Constitución, que ha supuesto más de una década de trabajo y lo hace en un clima de consenso entre usuarios y Administraciones implicadas que abre la puerta al Plan Hidrológico Nacional, que cerrará, en el horizonte previsto en la Ley 29/1985, de 2 de agosto, de Aguas, una etapa abierta con la aprobación de la misma.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente y previa deliberación del Consejo de Ministros en su reunión del día 24 de julio de 1998,
+
+## DISPONGO:
+
+### Artículo 1. Aprobación de los Planes Hidrológicos de cuenca.
+
+1\. Según lo dispuesto en el artículo 38 de la Ley 29/1985, de 2 de agosto, de Aguas, y sin perjuicio de lo previsto en el artículo 2 del presente Real Decreto, se aprueban los Planes Hidrológicos de cuenca intercomunitarios que a continuación se indican, que cuentan con la conformidad de sus respectivos Consejos del Agua:
+
+a) Confederación Hidrográfica del Norte:
+
+1\. **(Derogado)**
+
+2\. **(Derogado)**
+
+3\. **(Derogado)**
+
+Informados favorablemente por el Consejo del Agua de la cuenca el 29 de junio de 1994.
+
+b) **(Derogado)**
+
+c) **(Derogado)**
+
+d) **(Derogado)**
+
+e) **(Derogado)**
+
+f) **(Derogado)**
+
+g) **(Derogado)**
+
+h) **(Derogado)**
+
+i) Confederación Hidrográfica del Sur: Plan Hidrológico único, informado favorablemente por la Junta de Gobierno de la cuenca el 8 de junio de 1995.
+
+2.**(Derogado)**
+
+3\. El ámbito territorial de cada uno de los Planes Hidrológicos que se aprueban conforme al apartado 1 del presente artículo será, en todo caso, el definido en el artículo 2 y la disposición transitoria segunda del Real Decreto 650/1987, de 8 de mayo, por el que se definen los ámbitos territoriales de los Organismos de cuenca y de los Planes Hidrológicos.
+
+> Se derogan los apartados 2 y 4 por el art. 4 del Real Decreto 1008/2015, de 6 de noviembre. [Ref. BOE-A-2015-12816](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-12816).
+
+> Téngase en cuenta que estos apartados ya habían sido derogados por la disposición derogatoria única del Real Decreto 1219/2011, de 5 de septiembre, [Ref. BOE-A-2011-14985](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14985), declarado ineficaz según establece el fundamento jurídico 3 de la Sentencia del TS 2674/2014, de 20 de junio. Véase también la Sentencia del TS 1499/2014, de 4 de abril.
+
+> Se derogan los apartados 1.g) y f) por la disposición derogatoria única del Real Decreto 594/2014, de 11 de julio [Ref. BOE-A-2014-7370](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7370). y del Real Decreto 595/2014, de 11 de julio. [Ref. BOE-A-2014-7371](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-7371).
+
+> Se deroga el apartado 1.c) por la disposición derogatoria única del Real Decreto 270/2014, de 11 de abril. [Ref. BOE-A-2014-3957](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3957).
+
+> Se deroga el apartado 1.h) por la disposición derogatoria única del Real Decreto 129/2014, de 28 de febrero. [Ref. BOE-A-2014-2223](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-2223).
+
+> Se deroga el apartado 1.b) por la disposición derogatoria única del Real Decreto 478/2013, de 21 de junio. [Ref. BOE-A-2013-6761](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6761).
+
+> Se derogan los apartados 1.a).2 y 3 por la disposición derogatoria única del Real Decreto 399/2013, de 7 de junio. [Ref. BOE-A-2013-6077](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6077). y del Real Deceto 400/2013, de 7 de junio. [Ref. BOE-A-2013-6078](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-6078).
+
+> Se derogan los apartado 1.d) y e) por la disposición derogatoria única del Real Decreto 354/2013, de 17 de mayo. [Ref. BOE-A-2013-5318](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5318). y del Real Decreto 355/2013, de 17 de mayo. [Ref. BOE-A-2013-5319](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5319).
+
+> Se deroga el apartado 1.a).1 por la disposición derogatoria única del Real Decreto 285/2013, de 19 de abril. [Ref. BOE-A-2013-4209](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4209).
+
+> Se derogan los apartados 2 y 4 por la disposición derogatoria única del Real Decreto 1219/2011, de 5 de septiembre. [Ref. BOE-A-2011-14985](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14985).
+
+### Artículo 2. Criterios para la aplicación de los Planes Hidrológicos de cuenca de carácter intercomunitario.
+
+En la aplicación de los Planes Hidrológicos de cuenca de carácter intercomunitario se tendrán en cuenta los siguientes criterios:
+
+a) Los conceptos técnicos y jurídicos definidos en el Real Decreto 927/1988, de 29 de julio, por el que se aprueba el Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, serán de aplicación a todos los Planes Hidrológicos de cuenca aprobados.
+
+b) Con independencia de las fechas concretas especificadas en los diferentes Planes Hidrológicos los horizontes temporales serán, en todo caso, los previstos en el artículo 73.4 del citado Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, y empezarán a contarse a partir de la fecha de publicación del presente Real Decreto en el «Boletín Oficial del Estado».
+
+c) Los caudales ecológicos o demandas ambientales establecidos en los planes no tendrán el carácter de usos a efectos de los artículos 57 y siguientes de la Ley 29/1985, de Aguas, debiendo considerarse como una restricción que se impone con carácter general a los sistemas de explotación de los Planes Hidrológicos.
+
+En todo caso, en el análisis de los citados sistemas será aplicable a los caudales medioambientales la regla sobre supremacía del uso para abastecimiento de poblaciones recogida en el párrafo final del apartado 3 del artículo 58 de la Ley 29/1985, de Aguas. Todo ello sin perjuicio del derecho a indemnización previsto en el artículo 63.c) de la citada disposición legal en relación con las posibles revisiones de las concesiones vigentes cuando lo exija su adecuación a los Planes Hidrológicos.
+
+d) Las reservas de recursos previstas en los Planes Hidrológicos de cuenca se aplicarán exclusivamente para el destino concreto y en el plazo máximo fijado en el propio plan. En ausencia de tal previsión, se entenderá como plazo máximo el de ocho años establecido en el artículo 110.2 del citado Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, salvo que en la revisión del correspondiente plan se establezca otro diferente.
+
+e) Las infraestructuras hidráulicas promovidas por la Administración General del Estado y previstas en los Planes Hidrológicos de cuenca serán sometidas, previamente a su realización, a un análisis sobre su viabilidad técnica, económica y ambiental. En cualquier caso, su construcción se supeditará a la normativa vigente sobre evaluación de impacto ambiental, a las previsiones presupuestarias y a los correspondientes planes sectoriales cuando su normativa específica así lo prevea. En especial, en materia de regadíos las actuaciones e inversiones de la Administración General del Estado se atendrán a los programas, plazos y previsiones establecidos en el Plan Nacional de Regadíos vigente en cada momento.
+
+### Artículo 3. Coordinación con el Plan Hidrológico Nacional.
+
+De acuerdo con lo previsto en el artículo 43.1.a) de la Ley 29/1985, de Aguas, los Planes Hidrológicos de cuenca de carácter intercomunitario, que se aprueban por medio del presente Real Decreto, deberán adaptarse a los criterios de coordinación que fije el Plan Hidrológico Nacional especialmente respecto a los siguientes contenidos:
+
+a) Establecimiento de un sistema de explotación único en cada plan, en el que queden incluidos los sistemas parciales de forma simplificada.
+
+b) Identificación y delimitación de las unidades hidrogeológicas compartidas entre dos o más cuencas.
+
+c) Metodología para homogeneizar los procedimientos y técnicas a aplicar para fijar las demandas consolidadas y los balances de recursos y demandas.
+
+### Artículo 4. Publicación y edición.
+
+Atendiendo el carácter público de los Planes Hidrológicos que determina el artículo 38.3 de la Ley 29/1985, de 2 de agosto, de Aguas, y conforme a lo establecido en el artículo 115 del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio, cualquier persona podrá consultar el contenido de los Planes Hidrológicos de cuenca intercomunitarios y obtener copias o certificaciones de los extremos del mismo, de acuerdo con lo dispuesto en el artículo 37 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y acceder a su contenido en los términos previstos en la Ley 38/1995, de 12 de diciembre, sobre el Derecho de acceso a la información en materia de medio ambiente. El Ministerio de Medio Ambiente adoptará las medidas necesarias para la puesta a disposición del público del contenido íntegro de los Planes Hidrológicos de cuenca intercomunitarios aprobados por este Real Decreto y, a tal efecto, promoverá una edición oficial de los mismos.
+
+### Disposición adicional única. Modificación del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica.
+
+En el plazo de nueve meses, a partir de la fecha de aprobación del presente Real Decreto, el Ministerio de Medio Ambiente remitirá al Consejo Nacional del Agua, para informe, una propuesta de modificación del Reglamento de la Administración Pública del Agua y de la Planificación Hidrológica, aprobado por Real Decreto 927/1988, de 29 de julio, con el objeto de simplificar el proceso permanente de actualización de los Planes Hidrológicos de cuenca.
+
+### Disposición final única. Elaboración de un texto único.
+
+Con el objeto de facilitar la consulta de los Planes Hidrológicos de cuenca de carácter intercomunitario, el Ministerio de Medio Ambiente elaborará un texto único en el que se recojan de forma sistemática y homogénea las determinaciones de contenido normativo incluidas en los diferentes planes. Dicho texto, que en ningún caso podrá introducir modificaciones sobre los planes aprobados, una vez informado por los Consejos del Agua de cada cuenca, será publicado en el «Boletín Oficial del Estado» en el plazo de nueve meses a partir de la fecha de aprobación del presente Real Decreto.
+
+Dado en Palma de Mallorca a 24 de julio de 1998.
+
+JUAN CARLOS R.
+
+La Ministra de Medio Ambiente,
+
+ISABEL TOCINO BISCAROLASAGA
+
+> Información relacionada
+
+> Véase la Sentencia del TS de 20 de octubre de 2004, [Ref. BOE-A-2006-3950](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-3950), que declara la nulidad de las determinaciones normativas del presente Real Decreto que fueron publicadas en los artículos de la Orden Ministerial de 13 de agosto de 1999 que se anulan en esta Sentencia. [Ref. BOE-A-1999-18186](https://www.boe.es/buscar/doc.php?id=BOE-A-1999-18186).

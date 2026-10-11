@@ -1,0 +1,513 @@
+---
+title: "Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación, y se modifica el Reglamento del Impuesto sobre el Valor Añadido"
+identifier: "BOE-A-2003-21845"
+eli: "https://www.boe.es/eli/es/rd/2003/11/28/1496"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Hacienda"
+date: 2003-11-28
+published: 2003-11-29
+in_force_from: 2003-12-19
+last_amended: 2014-12-20
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 286"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-21845"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación, y se modifica el Reglamento del Impuesto sobre el Valor Añadido
+
+La correcta gestión de los distintos tributos exige que la Administración tributaria disponga de una adecuada información, especialmente en lo referente a las transacciones económicas derivadas del desarrollo de actividades empresariales o profesionales. De ahí la importancia de que los empresarios y profesionales cumplan correctamente el deber de expedir factura por cada una de las operaciones que realicen sin que ello, por otra parte, deba perturbar el normal desarrollo de sus actividades.
+
+Por esta razón, la disposición adicional séptima de la Ley 10/1985, de 26 de abril, de modificación parcial de la Ley General Tributaria, estableció para los empresarios y profesionales la obligación de expedir y entregar factura por las operaciones que realicen.
+
+A partir del contenido de esta disposición, y en desarrollo de ésta, se aprobó el Real Decreto 2402/1985, de 18 de diciembre, que ha regulado hasta la actualidad el deber de expedir y entregar factura que incumbe a los empresarios y profesionales.
+
+Por otra parte, el artículo 35.2 de la Ley 230/1963, de 28 de diciembre, General Tributaria, establece para los sujetos pasivos la obligación de conservar los documentos que en cada caso se establezcan. De acuerdo con este precepto, la justificación documental de gastos, reducciones o minoraciones se realiza en numerosas ocasiones a través de la oportuna factura, la cual, por consiguiente, ha de ser conservada durante el plazo de prescripción tributaria, sin perjuicio de las obligaciones establecidas en este tenor por la normativa mercantil.
+
+En lo concerniente al Impuesto sobre el Valor Añadido, al Impuesto General Indirecto Canario y al Impuesto sobre la Producción, los Servicios y la Importación, la expedición de la factura tiene un significado especialmente trascendente, ya que en estos tributos la factura va a permitir el correcto funcionamiento de su técnica impositiva, pues a través de ella va a efectuarse su repercusión, a la vez que la posesión de una factura que cumpla los requisitos que se establecen en el Reglamento por el que se regulan las obligaciones de facturación va a permitir, en su caso, que el destinatario de la operación practique la deducción de las cuotas soportadas.
+
+Estas circunstancias quedan recogidas en la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, y en particular, entre otros, en el apartado uno del artículo 164 y en el artículo 165, a los que se ha dado nueva redacción por la Ley 53/2002, de 30 de diciembre, de medidas fiscales, administrativas y del orden social. Este Reglamento los desarrolla en aplicación de la habilitación que se contiene en aquéllos. Por su parte, los apartados 1.b) y 4 del artículo 59 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, según redacción dada por la Ley 53/2002, de 30 de diciembre, contienen en relación con el Impuesto General Indirecto Canario una remisión a la normativa estatal en materia de facturación. Lo mismo cabe decir del artículo 21.1.c) de la Ley 8/1991, de 25 de marzo, por la que se crea el Impuesto sobre la Producción, los Servicios y la Importación en las Ciudades de Ceuta y Melilla.
+
+En todo caso, ha de señalarse que la exigencia de la factura como justificante para el ejercicio del derecho a la deducción de las cuotas del Impuesto sobre el Valor Añadido soportado por los empresarios o profesionales, tal y como dispone el artículo 97 de la Ley del Impuesto, lejos de configurarse como un medio de prueba tasada, ha de caracterizarse como un requisito de deducibilidad establecido por la normativa comunitaria, y, en consecuencia, por la ley, en virtud del cual las cuotas se deducen por los empresarios o profesionales en la medida en que dichas cuotas han sido soportadas, sin perjuicio del cumplimiento de los restantes requisitos de deducibilidad establecidos por la ley, lo que se acredita con este documento.
+
+En materia de facturación, la normativa comunitaria en esta materia había sido muy parca hasta fecha reciente, pues se limitaba a señalar unos requisitos mínimos que los Estados miembros de la Comunidad Europea habían de exigir a toda factura. Con la aprobación de la Directiva 2001/115/CE del Consejo, de 20 de diciembre de 2001, se han regulado en el ámbito comunitario una serie de cuestiones relativas a la facturación, y se ha simplificado y armonizado la expedición de facturas en el ámbito del Impuesto sobre el Valor Añadido.
+
+La citada directiva señala los supuestos en los que la expedición de factura es obligatoria para los empresarios o profesionales y otros sujetos pasivos del Impuesto sobre el Valor Añadido, a la vez que permite a los Estados miembros establecer la obligación de expedir factura en otros supuestos, y autoriza en estos casos a que se simplifique el contenido de los documentos que se expidan. Igualmente, establece la obligación para los Estados miembros de admitir la expedición de las facturas por parte de los destinatarios de las operaciones o por terceros.
+
+Asimismo, la directiva establece las menciones que son obligatorias en toda factura, armonizando los requisitos que hasta el presente exigían los Estados miembros a las facturas expedidas por las operaciones que hubieran de considerarse efectuadas en su territorio. Estas menciones han de constar en las facturas cuya expedición es obligatoria conforme a la directiva, si bien los Estados miembros pueden autorizar para determinados supuestos la expedición de facturas en las que dichos requisitos se simplifiquen, aunque hay ciertas menciones de obligada consignación.
+
+En relación con los supuestos en que la documentación de las operaciones se decide por parte de los Estados miembros, como ocurre en las operaciones realizadas para particulares, las menciones que han de constar en los documentos que se expiden pueden establecerse libremente por aquéllos, habida cuenta de que se trata de documentos que no se expiden para ser utilizados como justificantes del derecho a la deducción. En este marco, el reglamento mantiene inalterados los requisitos de los documentos sustitutivos de las facturas, es decir, los tiques, que son los que se expiden en estos supuestos.
+
+Por último, la directiva impone a los Estados miembros la obligación de admitir la utilización de las nuevas tecnologías, tanto en la remisión de facturas como en su conservación.
+
+Por otra parte, hay que tener en cuenta la evolución producida en las prácticas empresariales desde 1986, fecha de entrada en vigor del real decreto que ha regulado hasta la actualidad el deber de expedir y entregar factura que incumbe a los empresarios y profesionales, lo cual, junto con la aprobación de la directiva a la que se ha hecho referencia en los párrafos anteriores, de obligada transposición antes del 1 de enero de 2004, obligan a una revisión en profundidad de las normas reguladoras del citado deber de expedición y entrega de factura, que asimismo será de aplicación en el Impuesto sobre la Producción, los Servicios y la Importación y en el Impuesto General Indirecto Canario en virtud de la remisión a la normativa estatal a la que se ha hecho referencia.
+
+En todo caso, debe señalarse que la factura, cuyo significado mercantil y fiscal es indiscutible, no sólo ha de ser regulada desde la perspectiva de los impuestos sobre el volumen de ventas, sino también respecto de la generalidad de nuestro sistema impositivo, sin perjuicio de las especialidades de aquel tributo. Se justifica así la regulación del deber de facturación desde una perspectiva más amplia.
+
+Por último, se prevén dos supuestos específicos en los que se excepciona la obligación de expedir factura por parte de los empresarios o profesionales que realizan las operaciones, permitiendo que sean otros empresarios o profesionales quienes procedan a dicha expedición. Se trata de las operaciones que se realizan en el mercado de energía eléctrica y de ciertas prestaciones de servicios en las que intervienen en nombre y por cuenta ajena agencias de viajes, supuestos ambos en los que las particularidades de las operaciones que han de documentarse justifican este tratamiento.
+
+El texto reglamentario se completa con la disposición transitoria que establece las condiciones en las que se pasa del régimen de facturación previsto por el Real Decreto 2402/1985 de 18 de diciembre, a la nueva regulación que se contiene en el texto que se aprueba, y se detalla, en particular, el régimen transitorio para diversas autorizaciones concedidas al amparo de lo dispuesto por el real decreto que se deroga.
+
+Por todas estas razones, el artículo primero de este real decreto aprueba el Reglamento por el que se regulan las obligaciones de facturación.
+
+Toda norma integrante del ordenamiento jurídico debe ser concebida para que su comprensión por parte de los destinatarios sea lo más sencilla posible, de forma que se facilite el cumplimiento de los derechos, deberes y obligaciones contenidos en ella. Dada la extensión y complejidad del nuevo Reglamento por el que se regulan las obligaciones de facturación, se entiende oportuna la inclusión de un índice de artículos que permita la rápida localización y ubicación sistemática de los preceptos de este reglamento.
+
+Por otra parte, el artículo segundo de este Real Decreto introduce diversas modificaciones en el Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre.
+
+Las modificaciones que se introducen en el Reglamento del Impuesto sobre el Valor Añadido son las siguientes:
+
+En primer lugar, se añade un nuevo artículo, el 24 bis, en el que se establecen las normas para el cumplimiento de lo dispuesto en el apartado diez del artículo 79 de la Ley del Impuesto con respecto a la fijación de la base imponible en determinadas operaciones efectuadas sobre oro de inversión adquirido o importado con exención por quien lo aporte para su transformación.
+
+De un tenor similar es el nuevo artículo 26 bis del Reglamento del Impuesto, con el que se pretende hacer operativo el nuevo supuesto de tributación al tipo reducido del cuatro por ciento de las entregas de ciertas viviendas adquiridas por sociedades que las dedicarán a su arrendamiento y que se ha introducido como novedad por el artículo cuarto de la Ley 36/2003, de 11 de noviembre, de medidas de reforma económica, proveniente del Real Decreto Ley 2/2003, de 25 de abril, ya que la aplicación de este beneficio fiscal depende del destino que se dé a la vivienda adquirida por parte de la sociedad que efectúa la adquisición.
+
+En segundo lugar, se efectúan una serie de ajustes en el artículo 31 del citado reglamento, que desarrolla el procedimiento de devolución a los empresarios o profesionales no establecidos en el territorio de aplicación del impuesto, al objeto de adaptar su contenido a la redacción que la Ley 24/2001, de 27 de diciembre, de medidas fiscales, administrativas y del orden social, dio al artículo 119 de la Ley del Impuesto, al nuevo régimen especial aplicable a los servicios prestados por vía electrónica, regulado en los artículos 163 bis a 163 quáter de la citada Ley 37/1992, de 28 de diciembre, añadidos a ésta por la Ley 53/2002, de 30 de diciembre, además de permitir una gestión más ágil de dichas devoluciones.
+
+Con la finalidad de recoger los cambios introducidos en los artículos 122, 123 y 124 de la Ley del Impuesto por la Ley 53/2002, de 30 de diciembre, se adapta la redacción de los artículos 36, 38, 39 y 43 de dicho reglamento, relativos a los regímenes especiales simplificado y de la agricultura, ganadería y pesca.
+
+Se introducen, asimismo, modificaciones en los artículos 40, 49 y 51 del Reglamento del Impuesto, relativos a las obligaciones formales correspondientes, respectivamente, a los regímenes especiales simplificado, de la agricultura, ganadería y pesca y de los bienes usados, objetos de arte, antigüedades y objetos de colección, para coordinar el contenido de estos artículos con lo establecido en el Reglamento por el que se regulan las obligaciones de facturación.
+
+Con la misma finalidad de adaptar su contenido a la nueva normativa en materia de facturación, se deroga el apartado 4 del artículo 61 del reglamento en lo referente al régimen especial de recargo de equivalencia.
+
+Además, al objeto de desarrollar reglamentariamente el artículo 134 bis de la Ley del Impuesto, introducido por la Ley 53/2002, de 30 de diciembre, se añade un artículo, el 49 bis, que establece las obligaciones formales que han de cumplirse para realizar los ajustes que se prevén para los supuestos de comienzo o cese en la aplicación del régimen especial de la agricultura, ganadería y pesca. También en relación con este régimen especial se encuentra la nueva redacción del apartado 2 del artículo 48, con la que se abre la posibilidad de que el pago de la compensación a tanto alzado propia del régimen especial se haga efectivo de forma fraccionada a medida que se reciben por parte del titular de la explotación cantidades a cuenta del precio de los bienes o servicios por cuya entrega o prestación se tiene derecho a su percepción.
+
+En consonancia con las modificaciones que produce la aprobación del Reglamento por el que se regulan las obligaciones de facturación, se procede a la revisión de las obligaciones existentes en materia de libros registro a los efectos del Impuesto sobre el Valor Añadido. Por tal razón, se modifica la redacción de los artículos 62, 63, 64, 68 y 69 del reglamento.
+
+Por otro lado, se adaptan los artículos 3 y 81 del texto reglamentario para recoger en euros los umbrales aplicables, respectivamente, para determinar la no sujeción de ciertas adquisiciones intracomunitarias de bienes y para la presentación de la declaración recapitulativa con periodicidad anual, respectivamente.
+
+También se da nueva redacción al artículo 82 del Reglamento del Impuesto, relativo al nombramiento de representante, al objeto de tomar en consideración la redacción que la Ley 24/2001, de 27 de diciembre, dio al artículo 164.uno.7.º de la Ley del Impuesto.
+
+Finalmente, se añade una nueva disposición adicional, la sexta, al Reglamento del Impuesto, que trae causa de la regulación contenida en la disposición adicional undécima de la Ley 66/1997, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, en relación con la gestión de determinadas tasas y precios que constituyan contraprestación de operaciones sujetas al Impuesto.
+
+En el artículo tercero del Real Decreto se incluyen una serie de disposiciones, convenientemente actualizadas, que hasta su aprobación se habían contenido en el Real Decreto 2402/1985, que se deroga. Estas disposiciones tienen que ver con la justificación documental de ciertas operaciones financieras a efectos tributarios. Se trata de supuestos en los que se contemplan ciertos documentos que se expiden habitualmente, si bien, con la finalidad de respetar la coherencia interna del Reglamento por el que se regulan las obligaciones de facturación, que se refiere a un único documento, que es la factura, y a los documentos que se expiden en sustitución de ésta, se ha considerado oportuno su mantenimiento a través de una disposición distinta al propio Reglamento.
+
+Por último, se adecua el desarrollo reglamentario de la disposición adicional única de la Ley 9/1998, de 21 de abril, por la que se modifica la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido en lo relativo al reembolso del impuesto en las importaciones de bienes mediante agentes de aduanas y personas o entidades que actúen en nombre propio y por cuenta de los importadores, habida cuenta de la redacción que la Ley 53/2002, de 30 de diciembre, ha dado a aquella.
+
+Todo lo anterior justifica la aprobación de este real decreto, que ha sido informado previamente por la Comunidad Autónoma de Canarias.
+
+En su virtud, a propuesta del Ministro de Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de noviembre de 2003,
+
+## D I S P O N G O :
+
+### Artículo primero. Aprobación del Reglamento por el que se regulan las obligaciones de facturación.
+
+Se aprueba el Reglamento por el que se regulan las obligaciones de facturación, cuyo texto se inserta a continuación de este Real Decreto.
+
+### Artículo segundo. Modificaciones del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el artículo 1 del Real Decreto 1624/1992, de 29 de diciembre.
+
+El Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, se modifica en los siguientes términos:
+
+Uno. Se modifica el apartado 1 del artículo 3, que queda redactado como sigue:
+
+«1. Las personas o entidades comprendidas en el artículo 14.uno de la Ley del Impuesto podrán optar por la sujeción a éste por las adquisiciones intracomunitarias de bienes que realicen, aun cuando no hubiesen superado en el año natural en curso o en el precedente el límite de 10.000 euros.»
+
+Dos. Se añade un nuevo artículo 24 bis, con la siguiente redacción:
+
+«Artículo 24 bis. Base imponible para ciertas operaciones.
+
+En las operaciones en las que la base imponible deba determinarse conforme a lo dispuesto por el artículo 79diez de la Ley del Impuesto, la concurrencia o no de los requisitos que establece dicho precepto se podrá acreditar mediante una declaración escrita firmada por el destinatario de las mismas dirigida al sujeto pasivo en la que aquél haga constar, bajo su responsabilidad, que el oro aportado fue adquirido o importado con exención del impuesto por aplicación de lo dispuesto en el artículo 140 bis.uno.1.º de la Ley del Impuesto, o no fue así.»
+
+Tres. El actual artículo 24 bis pasa a ser artículo 24 ter.
+
+Cuatro. Se añade un nuevo artículo 26 bis, con la siguiente redacción:
+
+«Artículo 26 bis. Tipo impositivo reducido.
+
+A efectos de lo previsto en el artículo 91.dos.1.6.º, párrafo segundo, de la Ley del Impuesto, las circunstancias de que el destinatario aplica el régimen especial previsto en el capítulo III del título VIII de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, y de que a las rentas derivadas de su posterior arrendamiento les es aplicable la bonificación establecida en el artículo 68 quinquies.1.b) de dicha ley, podrán acreditarse mediante una declaración escrita firmada por el referido destinatario dirigida al sujeto pasivo, en la que aquél haga constar, bajo su responsabilidad, su cumplimiento.
+
+De mediar las circunstancias previstas en el artículo 87.uno.1.º de la Ley del Impuesto, el citado destinatario responderá solidariamente de la deuda tributaria correspondiente, sin perjuicio, asimismo, de la aplicación de lo dispuesto en el artículo 170.dos.2.º de la misma ley.»
+
+Cinco. Se modifica el artículo 31, que queda redactado como sigue:
+
+«Artículo 31. Devoluciones a determinados empresarios o profesionales no establecidos en el territorio de aplicación del impuesto.
+
+1\. El ejercicio del derecho a la devolución previsto en el artículo 119 de la Ley del Impuesto quedará condicionado al cumplimiento de los siguientes requisitos:
+
+a) El interesado o su representante deberán solicitar la devolución del impuesto en el impreso sujeto a modelo oficial que se apruebe por el Ministro de Hacienda, acompañando los siguientes documentos:
+
+1.º Declaración suscrita por el interesado o su representante en la que manifieste que no realiza, en el territorio de aplicación del impuesto, operaciones distintas de las indicadas en el artículo 119.dos.2.º de la ley. Cuando se trate de un empresario o profesional titular de un establecimiento permanente situado en el territorio de aplicación del impuesto, deberá manifestarse en dicha declaración que el interesado no realiza entregas de bienes ni prestaciones de servicios desde dicho establecimiento permanente.
+
+Los empresarios o profesionales no establecidos en la Comunidad Europea que se acojan al régimen especial aplicable a los servicios prestados por vía electrónica, regulado en los artículos 163 bis a 163 quáter de la Ley del Impuesto, no estarán obligados al cumplimiento de lo dispuesto en este ordinal 1.º
+
+2.º Compromiso suscrito por el interesado o su representante de reembolsar a la Hacienda pública el importe de las devoluciones que resulten improcedentes.
+
+b) El interesado o su representante deberá mantener a disposición de la Administración tributaria, durante el plazo de prescripción del impuesto, una certificación expedida por las autoridades competentes del Estado donde radique el establecimiento del interesado, en la que se acredite que realiza en dicho Estado actividades empresariales o profesionales sujetas al Impuesto sobre el Valor Añadido o a un tributo análogo durante el periodo en el que se hayan devengado las cuotas cuya devolución se solicita.
+
+c) Los originales de las facturas y demás documentos justificativos del derecho a la devolución deberán mantenerse a disposición de la Administración tributaria durante el plazo de prescripción del impuesto.
+
+d) La Agencia Estatal de Administración Tributaria será la competente para la tramitación y resolución de las solicitudes de devolución reguladas en este artículo.
+
+e) Las solicitudes de devolución podrán referirse a las cuotas soportadas durante un trimestre natural o en el curso de un año natural. También podrán referirse a un período inferior a un trimestre cuando constituyan el conjunto de operaciones realizadas en un año natural.
+
+El plazo para la presentación de las mencionadas solicitudes concluirá al término de los seis meses siguientes al año natural en el que se hayan soportado las cuotas a que se refieran aquellas.
+
+f) No serán admisibles las solicitudes de devolución por un importe global inferior a 200 euros.
+
+No obstante, podrán admitirse las solicitudes de devolución por un importe superior a 25 euros cuando el período de referencia sea el año natural.
+
+2\. La decisión respecto a la solicitud de devolución deberá adoptarse y notificarse al interesado o su representante durante los seis meses siguientes a la fecha de su presentación, y se ordenará en dicho plazo el pago, en su caso, del importe de la devolución.
+
+3\. Transcurrido el plazo establecido en el apartado anterior para notificar el acuerdo adoptado sin que se haya ordenado el pago de la devolución por causa imputable a la Administración tributaria, se aplicará a la cantidad pendiente de devolución el interés de demora a que se refiere el artículo 58.2.c) de la Ley General Tributaria, desde el día siguiente al de la finalización de dicho plazo y hasta la fecha del ordenamiento de su pago, sin necesidad de que el interesado así lo reclame.»
+
+Seis. Se modifica el artículo 36, que queda redactado como sigue:
+
+«Artículo 36. Exclusión del régimen simplificado.
+
+1\. Son circunstancias determinantes de la exclusión del régimen simplificado las siguientes:
+
+a) Haber superado los límites que, para cada actividad, determine el Ministro de Hacienda, con efectos en el año inmediato posterior a aquel en que se produzca esta circunstancia, salvo en el supuesto de inicio de la actividad, en que la exclusión surtirá efectos a partir del momento de comienzo de aquélla. Los sujetos pasivos previamente excluidos por esta causa que no superen los citados límites en ejercicios sucesivos quedarán sometidos al régimen simplificado, salvo que renuncien a él.
+
+b) Haber superado en un año natural, y para el conjunto de las operaciones que se indican a continuación, un importe de 450.000 euros:
+
+1.ª Las que deban anotarse en los libros registro previstos en el artículo 40.1, párrafo tercero, y en el artículo 47.1 de este reglamento.
+
+2.ª Aquellas por las que los sujetos pasivos estén obligados a expedir factura, con excepción de las operaciones comprendidas en el artículo 121.tres de la Ley del Impuesto y de los arrendamientos de bienes inmuebles cuya realización no suponga el desarrollo de una actividad económica de acuerdo con lo dispuesto en la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas.
+
+Cuando en el año inmediato anterior se hubiese iniciado una actividad, dicho importe se elevará al año.
+
+Los efectos de esta causa de exclusión tendrán lugar en el año inmediato posterior a aquel en que se produzca. Los sujetos pasivos previamente excluidos por esta causa que no superen los citados límites en ejercicios sucesivos quedarán sometidos al régimen simplificado, salvo que renuncien a él.
+
+c) Modificación normativa del ámbito objetivo de aplicación del régimen simplificado que determine la no aplicación de dicho régimen a las actividades empresariales realizadas por el sujeto pasivo, con efectos a partir del momento que fije la correspondiente norma de modificación de dicho ámbito objetivo.
+
+d) Haber quedado excluido de la aplicación del régimen de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas.
+
+e) Realizar actividades no acogidas a los regímenes especiales simplificado, de la agricultura, ganadería y pesca o del recargo de equivalencia. No obstante, la realización por el sujeto pasivo de otras actividades en cuyo desarrollo efectúe exclusivamente operaciones exentas del Impuesto por aplicación del artículo 20 de su Ley reguladora o arrendamientos de bienes inmuebles cuya realización no suponga el desarrollo de una actividad económica de acuerdo con lo dispuesto en la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas no supondrá la exclusión del régimen simplificado.
+
+f) Haber superado en un año natural el importe de 300.000 euros anuales, excluido el Impuesto sobre el Valor Añadido, por las adquisiciones o importaciones de bienes y servicios para el conjunto de las actividades empresariales o profesionales del sujeto pasivo, excluidas las relativas a elementos del inmovilizado.
+
+Cuando el año inmediato anterior se hubiese iniciado una actividad el importe de las citadas adquisiciones e importaciones se elevará al año.
+
+Los efectos de esta causa de exclusión tendrán lugar en el año inmediato posterior a aquel en que se produzca. Los sujetos pasivos previamente excluidos por esta causa que no superen los citados límites en ejercicios sucesivos quedarán sometidos al régimen simplificado, salvo que renuncien a él.
+
+2\. Lo previsto en los párrafos d) y e) del apartado anterior surtirán efectos a partir del año inmediato posterior a aquel en que se produzcan, salvo que el sujeto pasivo no viniera realizando actividades empresariales o profesionales ; en tal caso la exclusión surtirá efectos desde el momento en que se produzca el inicio de tales actividades.
+
+3\. Cuando en el desarrollo de actuaciones de comprobación e investigación de la situación tributaria del sujeto pasivo se constate la existencia de circunstancias determinantes de la exclusión del régimen simplificado, se procederá a su oportuna regularización en régimen general.»
+
+Siete. Se modifica el artículo 38, que queda redactado como sigue:
+
+«Artículo 38. Contenido del régimen simplificado.
+
+1\. La determinación de las cuotas a ingresar a que se refiere el artículo 123.uno.A) de la Ley del Impuesto se efectuará por el propio sujeto pasivo, calculando el importe total de las cuotas devengadas mediante la imputación a su actividad económica de los índices y módulos que, con referencia concreta a cada actividad y por el período de tiempo anual correspondiente, haya fijado el Ministro de Hacienda, y podrá deducir de dicho importe las cuotas soportadas o satisfechas por la adquisición o importación de bienes y servicios referidos en el artículo 123.uno.A), párrafo segundo.
+
+El Ministro de Hacienda podrá establecer, en el procedimiento que desarrolle el cálculo de lo previsto en el párrafo anterior, un importe mínimo de las cuotas a ingresar para cada actividad a la que se aplique este régimen especial.
+
+2\. A efectos de lo previsto en el artículo 123.uno.C) de la Ley del Impuesto, la deducción de las cuotas soportadas o satisfechas por la adquisición de activos fijos, considerándose como tales los elementos del inmovilizado, se practicará conforme al capítulo I del título VIII de dicha ley. No obstante, cuando el sujeto pasivo liquide en la declaraciónliquidación del último periodo del ejercicio las cuotas correspondientes a adquisiciones intracomunitarias de activos fijos, o a adquisiciones de tales activos con inversión del sujeto pasivo, la deducción de dichas cuotas no podrá efectuarse en una declaración-liquidación anterior a aquella en que se liquiden tales cuotas.
+
+La percepción de subvenciones de capital concedidas para financiar la compra de determinados bienes y servicios, adquiridos en virtud de operaciones sujetas y no exentas del impuesto, minorarán exclusivamente el importe de la deducción de las cuotas soportadas o satisfechas por dichas operaciones en la misma medida en que hayan contribuido a su financiación. La minoración de las deducciones se practicará en la declaración-liquidación del último período del año en que se hayan percibido, y se regularizarán las deducciones que se hubiesen practicado anteriormente, sin que, en ningún caso, ello suponga el pago de intereses o recargos.
+
+Lo dispuesto en el párrafo anterior no será de aplicación a las subvenciones a que se refiere el artículo 104.dos.2.º, párrafo tercero, de la Ley del Impuesto.
+
+3\. Cuando el desarrollo de actividades a las que resulte de aplicación el régimen simplificado se viese afectado por incendios, inundaciones u otras circunstancias excepcionales que afectasen a un sector o zona determinada, el Ministro de Hacienda podrá autorizar, con carácter excepcional, la reducción de los índices o módulos.
+
+4\. Cuando el desarrollo de actividades a las que resulte de aplicación el régimen simplificado se viese afectado por incendios, inundaciones, hundimientos o grandes averías en el equipo industrial que supongan alteraciones graves en el desarrollo de la actividad, los interesados podrán solicitar la reducción de los índices o módulos en la Administración o Delegación de la Agencia Estatal de Administración Tributaria correspondiente a su domicilio fiscal en el plazo de 30 días a contar desde la fecha en que se produzcan dichas circunstancias, y aportarán las pruebas que consideren oportunas. Acreditada la efectividad de dichas alteraciones ante la Administración tributaria, se acordará la reducción de los índices o módulos que proceda.
+
+Asimismo, conforme al mismo procedimiento indicado en el párrafo anterior, se podrá solicitar la reducción de los índices o módulos en los casos en que el titular de la actividad se encuentre en situación de incapacidad temporal y no tenga otro personal empleado.»
+
+Ocho. Se modifica el artículo 39, que queda redactado como sigue:
+
+«Artículo 39. Periodificación de los ingresos.
+
+El resultado de aplicar lo dispuesto en el artículo anterior se determinará por el sujeto pasivo al término de cada año natural, realizándose, sin embargo, en las declaraciones-liquidaciones correspondientes a los tres primeros trimestres del mismo el ingreso a cuenta de una parte de dicho resultado, calculado conforme al procedimiento que establezca el Ministro de Hacienda.
+
+La liquidación de las operaciones a que se refiere el artículo 123.uno.B) de la Ley del Impuesto se efectuará en la declaración-liquidación correspondiente al período de liquidación en que se devengue el impuesto. No obstante, el sujeto pasivo podrá liquidar las operaciones comprendidas en este párrafo en la declaración-liquidación correspondiente al último período del año natural.»
+
+Nueve. Se modifica el artículo 40, que queda redactado como sigue:
+
+«Artículo 40. Obligaciones formales.
+
+1\. Los sujetos pasivos acogidos al régimen simplificado deberán llevar un libro registro de facturas recibidas en el que anotarán las facturas y documentos relativos a las adquisiciones e importaciones de bienes y servicios por los que se haya sopor tado o satisfecho el impuesto y destinados a su utilización en las actividades por las que resulte aplicable el referido régimen especial. En este libro registro deberán anotarse con la debida separación las importaciones y adquisiciones de los activos fijos a que se refiere el artículo 123.uno.B) y C) de la Ley del Impuesto, y se harán constar, en relación con estos últimos, todos los datos necesarios para efectuar las regularizaciones que, en su caso, hubieran de realizarse.
+
+Los sujetos pasivos que realicen otras actividades a las que no sea aplicable el régimen simplificado deberán anotar con la debida separación las facturas relativas a las adquisiciones correspondientes a cada sector diferenciado de actividad.
+
+Los sujetos pasivos acogidos al régimen simplificado por actividades cuyos índices o módulos operen sobre el volumen de ingresos realizado habrán de llevar asimismo un libro registro en el que anotarán las operaciones efectuadas en desarrollo de las referidas actividades.
+
+2\. Los sujetos pasivos acogidos a este régimen deberán conservar los justificantes de los índices o módulos aplicados de conformidad con lo que, en su caso, prevea la orden ministerial que los apruebe.»
+
+Diez. Se modifica el artículo 43, que queda redactado como sigue:
+
+«Artículo 43. Ámbito subjetivo de aplicación.
+
+1\. El régimen especial de la agricultura, ganadería y pesca será de aplicación a los titulares de explotaciones agrícolas, forestales, ganaderas o pesqueras en quienes concurran los requisitos señalados en la Ley del Impuesto y en este reglamento, siempre que no hayan renunciado a él conforme a lo previsto en el artículo 33 de este último.
+
+2\. Quedarán excluidos del régimen especial de la agricultura, ganadería y pesca:
+
+a) Los sujetos pasivos que superen, para el conjunto de las operaciones relativas a las actividades comprendidas en aquél, un importe de 300.000 euros durante el año inmediato anterior, salvo que la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas estableciera otra cifra a efectos de la aplicación del régimen de estimación objetiva para la determinación del rendimiento de las actividades a que se refiere el apartado anterior, en cuyo caso se estará a esta última.
+
+b) Los sujetos pasivos que superen, para la totalidad de las operaciones realizadas, durante el año inmediato anterior un importe de 450.000 euros.
+
+c) Los sujetos pasivos que hayan superado en el año inmediato anterior el importe de 300.000 euros anuales, excluido el Impuesto sobre el Valor Añadido, por las adquisiciones o importaciones de bienes y servicios para el conjunto de las actividades empresariales o profesionales del sujeto pasivo, excluidas las relativas a elementos del inmovilizado.
+
+Cuando el año inmediato anterior se hubiese iniciado una actividad, los importes citados en los párrafos anteriores se elevarán al año.
+
+3\. La determinación del importe de operaciones a que se refieren los párrafos a) y b) del apartado 2 anterior se efectuará aplicando las siguientes reglas:
+
+a) En el caso de operaciones realizadas en el desarrollo de actividades a las que hubiese resultado aplicable el régimen simplificado, el régimen especial de la agricultura, ganadería y pesca o el régimen especial del recargo de equivalencia se computarán únicamente aquellas que deban anotarse en los libros registro a que se refieren el artículo 40.1, párrafo tercero, y el artículo 47.1, ambos de este reglamento, excepto las operaciones a que se refiere el artículo 121.tres de la Ley del Impuesto, así como aquellas otras por las que exista obligación de expedir factura.
+
+b) En el caso de operaciones realizadas en el desarrollo de actividades que hubiesen tributado por el régimen general del impuesto o un régimen especial distinto de los mencionados en el párrafo a) anterior, éstas se computarán según lo dispuesto en el artículo 121 de la Ley del Impuesto. No obstante, no se computarán las operaciones de arrendamiento de bienes inmuebles cuya realización no suponga el desarrollo de una actividad económica de acuerdo con lo dispuesto en la normativa reguladora del Impuesto sobre la Renta de las Personas Físicas.
+
+4\. La renuncia al régimen especial de la agricultura, ganadería y pesca deberá efectuarse en la forma y plazos previstos por el artículo 33 de este reglamento. La renuncia a dicho régimen por las entidades en régimen de atribución de rentas en el Impuesto sobre la Renta de las Personas Físicas deberá formularse por todos los socios, herederos, comuneros o partícipes.
+
+5\. No se considerarán titulares de explotaciones agrícolas, forestales, ganaderas o pesqueras a efectos de este régimen especial:
+
+a) Los propietarios de fincas o explotaciones que las cedan en arrendamiento o en aparcería o que de cualquier otra forma cedan su explotación.
+
+b) Los que realicen explotaciones ganaderas en régimen de ganadería integrada.»
+
+Once. Se modifica el apartado 2 del artículo 48, que queda redactado como sigue:
+
+«2. El reintegro de las compensaciones que, de acuerdo con lo dispuesto en el artículo 131.2.º de la Ley del Impuesto, deba ser efectuado por el adquirente de los bienes o el destinatario de los servicios comprendidos en el régimen especial se realizará en el momento en que tenga lugar la entrega de los productos agrícolas, forestales, ganaderos o pesqueros o se presten los servicios accesorios indicados, cualquiera que sea el día fijado para el pago del precio que le sirve de base. El reintegro se documentará mediante la expedición del recibo al que se refiere el artículo 14.1 del Reglamento por el que se regulan las obligaciones de facturación.
+
+No obstante lo dispuesto en el párrafo anterior, el reintegro de las compensaciones podrá efectuarse, mediando acuerdo entre los interesados, en el momento del cobro total o parcial del precio correspondiente a los bienes o servicios de que se trate y en proporción a ellos.»
+
+Doce. Se modifica el artículo 49, que queda redactado como sigue:
+
+«Artículo 49. Deducción de las compensaciones.
+
+1\. Para ejercitar el derecho a la deducción de las compensaciones a que se refiere el artículo 134 de la Ley del Impuesto, los empresarios o profesionales que las hayan satisfecho deberán estar en posesión del recibo expedido por ellos mismos a que se refiere el artículo 14.1 del Reglamento por el que se regulan las obligaciones de facturación. Dicho documento constituirá el justificante de las adquisiciones efectuadas a los efectos de la referida deducción.
+
+2\. Los citados documentos únicamente justificarán el derecho a la deducción cuando se ajusten a lo dispuesto en el artículo 14 del mencionado reglamento y se anoten en un libro registro especial que dichos adquirentes deberán cumplimentar. A este libro registro le serán aplicables, en cuanto resulten procedentes, los mismos requisitos que se establecen para el libro registro de facturas recibidas.
+
+3\. Los originales y las copias de los recibos a que se refieren los apartados 1 y 2 anteriores se conservarán durante el plazo de prescripción del impuesto.»
+
+Trece. Se añade un nuevo artículo 49 bis, con la siguiente redacción:
+
+«Artículo 49 bis. Comienzo o cese en la aplicación del régimen especial.
+
+1\. En los supuestos de actividades ya en curso, respecto de las cuales se produzca la iniciación o cese en la aplicación de este régimen especial, el titular de las respectivas explotaciones agrícolas, ganaderas, forestales o pesqueras deberá confeccionar un inventario de sus existencias de bienes destinados a ser utilizados en sus actividades y respecto de los cuales resulte aplicable el régimen especial, con referencia al día inmediatamente anterior al de iniciación o cese en la aplicación de aquél.
+
+Asimismo, en dicho inventario deberán constar los productos naturales obtenidos en las respectivas explotaciones que no se hubiesen entregado a la fecha del cambio de régimen de tributación.
+
+El referido inventario, firmado por dicho titular, deberá ser presentado en la Administración o Delegación de la Agencia Estatal de Administración Tributaria correspondiente a su domicilio fiscal en el plazo de 15 días a partir del día de comienzo o cese en la aplicación del régimen especial.
+
+2\. La deducción derivada de la regularización de las situaciones a que se refiere el mencionado inventario deberá efectuarse en la declaraciónliquidación correspondiente al período de liquidación en que se haya producido el cese en la aplicación del régimen especial.
+
+El ingreso derivado de la citada regularización que debe realizarse en caso de inicio en la aplicación del régimen especial deberá efectuarse mediante la presentación de una declaración-liquidación especial de carácter no periódico, que se presentará en el lugar, forma, plazos e impresos que establezca el Ministro de Hacienda.»
+
+Catorce. Se modifica el artículo 51, que queda redactado como sigue:
+
+«Artículo 51. Obligaciones formales y registrales específicas.
+
+Además de las establecidas con carácter general, los sujetos pasivos que apliquen el régimen especial de los bienes usados, objetos de arte, antigüedades y objetos de colección deberán cumplir, respecto de las operaciones afectadas por el referido régimen especial, las siguientes obligaciones específicas:
+
+a) Llevar un libro registro específico en el que se anotarán, de manera individualizada y con la debida separación, cada una de las adquisiciones, importaciones y entregas, realizadas por el sujeto pasivo, a las que resulte aplicable la determinación de la base imponible mediante el margen de beneficio de cada operación.
+
+Dicho libro deberá reflejar los siguientes datos:
+
+1.º Descripción del bien adquirido o importado.
+
+2.º Número de factura, documento de compra o documento de importación de dicho bien.
+
+3.º Precio de compra.
+
+4.º Número de la factura o documento sustitutivo expedido por el sujeto pasivo con ocasión de la transmisión de dicho bien.
+
+5.º Precio de venta.
+
+6.º Impuesto sobre el Valor Añadido correspondiente a la venta o, en su caso, indicación de la exención aplicada.
+
+7.º Indicación, en su caso, de la aplicación del régimen general en la entrega de los bienes.
+
+b) Llevar un libro registro específico, distinto del indicado en el párrafo a) anterior, en el que se anotarán las adquisiciones, importaciones y entregas, realizadas por el sujeto pasivo durante cada período de liquidación, a las que resulte aplicable la determinación de la base imponible mediante el margen de beneficio global.
+
+Dicho libro deberá reflejar los siguientes datos:
+
+1.º Descripción de los bienes adquiridos, importados o entregados en cada operación.
+
+2.º Número de factura o documento de compra o documento de importación de los bienes.
+
+3.º Precio de compra.
+
+4.º Número de factura o documento sustitutivo, emitido por el sujeto pasivo con ocasión de la transmisión de los bienes.
+
+5.º Precio de venta.
+
+6.º Indicación, en su caso, de la exención aplicada.
+
+7.º Valor de las existencias iniciales y finales correspondientes a cada año natural, a los efectos de practicar la regularización prevista en el artículo 137.dos de la Ley del Impuesto. Para el cálculo de estos valores se aplicarán las normas de valoración establecidas en el Plan General de Contabilidad.
+
+c) En los supuestos de iniciación o cese y a los efectos de la regularización prevista en el artículo 137.dos.6.ª de la Ley del Impuesto, los sujetos pasivos deberán confeccionar inventarios de sus existencias, respecto de las cuales resulte aplicable la modalidad del margen de beneficio global para determinar la base imponible, con referencia al día inmediatamente anterior al de iniciación o cese en la aplicación de aquélla.
+
+Los mencionados inventarios, firmados por el sujeto pasivo, deberán ser presentados en la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente a su domicilio fiscal en el plazo de 15 días a partir del día de comienzo o cese en la aplicación de la mencionada modalidad de determinación de la base imponible.»
+
+Quince. Queda derogado el apartado 4 del artículo 61.
+
+Dieciséis. Se modifica el artículo 62, que queda redactado como sigue:
+
+«Artículo 62. Libros registros del Impuesto sobre el Valor Añadido.
+
+1\. Los empresarios o profesionales y otros sujetos pasivos del Impuesto sobre el Valor Añadido deberán llevar, con carácter general y en los términos dispuestos por este reglamento, los siguientes libros registros:
+
+a) Libro registro de facturas expedidas.
+
+b) Libro registro de facturas recibidas.
+
+c) Libro registro de bienes de inversión.
+
+d) Libro registro de determinadas operaciones intracomunitarias.
+
+2\. Lo dispuesto en el apartado anterior no será de aplicación respecto de las actividades acogidas a los regímenes especiales simplificado, de la agricultura, ganadería y pesca, del recargo de equivalencia y del aplicable a los servicios prestados por vía electrónica, con las salvedades establecidas en las normas reguladoras de dichos regímenes especiales, ni respecto de las entregas a título ocasional de medios de transporte nuevos realizadas por las personas a que se refiere el artículo 5.uno.e) de la Ley del Impuesto.
+
+3\. Los libros o registros, incluidos los de carácter informático que, en cumplimiento de sus obligaciones fiscales o contables, deban llevar los empresarios o profesionales y otros sujetos pasivos del Impuesto sobre el Valor Añadido, podrán ser utilizados a efectos de este impuesto, siempre que se ajusten a los requisitos que se establecen en este reglamento.
+
+4\. Quienes fuesen titulares de diversos establecimientos situados en el territorio de aplicación del impuesto podrán llevar, en cada uno de ellos, los libros registros establecidos en el apartado 1, en los que anotarán por separado las operaciones efectuadas desde dichos establecimientos, siempre que los asientos resúmenes de éstos se trasladen a los correspondientes libros registros generales que deberán llevarse en el domicilio fiscal.
+
+5\. El Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria podrá autorizar, previas las comprobaciones que estime oportunas, la sustitución de los libros registros mencionados en el apartado 1 por sistemas de registro diferentes, así como la modificación de los requisitos exigidos para las anotaciones registrales, siempre que respondan a la organización administrativa y contable de los empresarios o profesionales o sujetos pasivos y, al mismo tiempo, quede garantizada plenamente la comprobación de sus obligaciones tributarias por el Impuesto sobre el Valor Añadido. Dichas autorizaciones serán revocables en cualquier momento».
+
+Diecisiete. Se modifica el artículo 63, que queda redactado como sigue:
+
+«Artículo 63. Libro registro de facturas expedidas.
+
+1\. Los empresarios o profesionales deberán llevar y conservar un libro registro de las facturas y documentos sustitutivos que hayan expedido, en el que se anotarán, con la debida separación, el total de los referidos documentos.
+
+La misma obligación incumbirá a quienes, sin tener la condición de empresarios o profesionales a los efectos del Impuesto sobre el Valor Añadido, sean sujetos pasivos de éste, en relación con las facturas que expidan en su condición de tales.
+
+2\. Será válida, sin embargo, la realización de asientos o anotaciones, por cualquier procedimiento idóneo, sobre hojas separadas, que después habrán de ser numeradas y encuadernadas correlativamente para formar el libro mencionado en el apartado anterior.
+
+3\. En el libro registro de facturas expedidas se inscribirán, una por una, las facturas o documentos sustitutivos expedidos, reflejando el número y, en su caso, serie, la fecha de expedición, identificación del destinatario, base imponible o importe de las operaciones y, en su caso, el tipo impositivo y cuota tributaria.
+
+4\. La anotación individualizada de las facturas o documentos sustitutivos a que se refiere el apartado anterior se podrá sustituir por la de asientos resúmenes en los que se harán constar la fecha, números, base imponible global, el tipo impositivo y la cuota global de facturas o documentos sustitutivos numerados correlativamente y expedidos en la misma fecha, cuyo importe total conjunto, Impuesto sobre el Valor Añadido no incluido, no exceda de 6.000 euros.
+
+Igualmente será válida la anotación de una misma factura en varios asientos correlativos cuando incluya operaciones que tributen a distintos tipos impositivos.
+
+5\. Las facturas a que se refiere el artículo 2.3 del Reglamento por el que se regulan las obligaciones de facturación deberán ser anotadas en este libro registro con la debida separación, reflejando el número, la fecha de expedición, identificación del proveedor, naturaleza de la operación, base imponible, tipo impositivo y cuota.
+
+6\. Igualmente, deberán anotarse por separado las facturas o documentos sustitutivos rectificativos a que se refiere el artículo 13 del reglamento citado en el apartado anterior, consignando asimismo los datos citados en dicho apartado.»
+
+Dieciocho. Se modifica el artículo 64, que queda redactado como sigue:
+
+«Artículo 64. Libro registro de facturas recibidas.
+
+1\. Los empresarios o profesionales, a los efectos del Impuesto sobre el Valor Añadido, deberán numerar correlativamente todas las facturas y documentos de aduanas correspondientes a los bienes adquiridos o importados y a los servicios recibidos en el desarrollo de su actividad empresarial o profesional. Esta numeración podrá realizarse mediante series separadas siempre que existan razones que lo justifiquen.
+
+2\. Los documentos a que se refiere el apartado anterior se anotarán en el libro registro de facturas recibidas.
+
+En particular, se anotarán las facturas correspondientes a las entregas que den lugar a las adquisiciones intracomunitarias de bienes sujetas al impuesto efectuadas por los empresarios o profesionales.
+
+Igualmente, deberán anotarse las facturas a que se refiere el apartado 5 del artículo anterior.
+
+3\. Será válida, sin embargo, la realización de asientos o anotaciones, por cualquier procedimiento idóneo, sobre hojas separadas que, después, habrán de ser numeradas y encuadernadas correlativamente para formar el libro regulado en este artículo.
+
+4\. En el libro registro de facturas recibidas se anotarán, una por una, las facturas recibidas y, en su caso, los documentos de aduanas y los demás indicados anteriormente, reflejando su número de recepción, fecha, nombre y apellidos o razón social del obligado a su expedición, base imponible y, en su caso, el tipo impositivo y cuota.
+
+En el caso de las facturas a que se refiere el párrafo segundo del apartado 2, las cuotas tributarias correspondientes a las adquisiciones intra comunitarias de bienes a que den lugar las entregas en ellas documentadas habrán de calcularse y consignarse en la anotación relativa a dichas facturas.
+
+5\. Podrá hacerse un asiento resumen global de las facturas recibidas en una misma fecha, en el que se harán constar los números de las facturas recibidas asignados por el destinatario, la suma global de la base imponible y la cuota impositiva global, siempre que el importe total conjunto, Impuesto sobre el Valor Añadido no incluido, no exceda de 6.000 euros, y que el importe de las operaciones documentadas en cada una de ellas no supere 500 euros, Impuesto sobre el Valor Añadido no incluido.
+
+Igualmente será válida la anotación de una misma factura en varios asientos correlativos cuando incluya operaciones que tributen a distintos tipos impositivos.»
+
+Diecinueve. Se modifica el artículo 68, que queda redactado como sigue:
+
+«Artículo 68. Requisitos formales.
+
+1\. Todos los libros registro mencionados en este reglamento deberán ser llevados, cualquiera que sea el procedimiento utilizado, con claridad y exactitud, por orden de fechas, sin espacios en blanco y sin interpolaciones, raspaduras ni tachaduras. Deberán salvarse a continuación, inmediatamente que se adviertan, los errores u omisiones padecidos en las anotaciones registrales.
+
+Las anotaciones registrales deberán hacerse expresando los valores en euros. Cuando la factura se hubiese expedido en una unidad de cuenta o divisa distinta del euro, tendrá que efectuarse la correspondiente conversión para su reflejo en los libros registro.
+
+2\. Los requisitos mencionados en el apartado anterior se entenderán sin perjuicio de los posibles espacios en blanco en el libro registro de bienes de inversión, en previsión de la realización de los sucesivos cálculos y ajustes de la prorrata definitiva.
+
+3\. Las páginas de los libros registros deberán estar numeradas correlativamente.»
+
+Veinte. Se modifica el artículo 69, que queda redactado como sigue:
+
+«Artículo 69. Plazos para las anotaciones registrales.
+
+1\. Las operaciones que hayan de ser objeto de anotación registral deberán hallarse asentadas en los correspondientes libros registros en el momento en que se realice la liquidación y pago del impuesto relativo a dichas operaciones o, en cualquier caso, antes de que finalice el plazo legal para realizar la referida liquidación y pago en período voluntario.
+
+2\. No obstante, las operaciones efectuadas por el sujeto pasivo respecto de las cuales no se expidan facturas o se expidiesen documentos sustitutivos deberán anotarse en el plazo de siete días a partir del momento de la realización de las operaciones o de la expedición de los documentos, siempre que este plazo sea menor que el señalado en el apartado anterior.
+
+3\. Las facturas recibidas deberán anotarse en el correspondiente libro registro por el orden en que se reciban, y dentro del período de liquidación en que proceda efectuar su deducción.
+
+4\. Las operaciones a que se refiere el artículo 66.1 deberán anotarse en el plazo de siete días a partir del momento de inicio de la expedición o transporte de los bienes a que se refieren.»
+
+Veintiuno. Se modifica el apartado 3 del artículo 81, que queda redactado como sigue:
+
+«3. No obstante lo dispuesto en el apartado anterior, el Ministro de Hacienda podrá autorizar que las declaraciones recapitulativas se refieran al año natural respecto de aquellos sujetos pasivos en los que concurran las dos circunstancias siguientes:
+
+a) Que el importe total de las entregas de bienes y prestaciones de servicios, excluido el Impuesto sobre el Valor Añadido, realizadas durante el año natural anterior no haya sobrepasado 35.000 euros.
+
+b) Que el importe total de las entregas de bienes, que no sean medios de transporte nuevos, exentas del impuesto de acuerdo con lo dispuesto en el artículo 25.uno y tres de la Ley del Impuesto realizadas durante el año natural anterior, no exceda de 15.000 euros».
+
+Veintidós. Se modifica el artículo 82, que queda redactado como sigue:
+
+«Artículo 82. Obligaciones de los sujetos pasivos no establecidos.
+
+1\. De conformidad con lo previsto en el artículo 164.uno.7.º de la Ley del Impuesto, y sin perjuicio de lo establecido en el apartado 3 siguiente, los sujetos pasivos no establecidos en el territorio de aplicación del impuesto vendrán obligados a nombrar y poner en conocimiento de la Administración tributaria, con anterioridad a la realización de las operaciones sujetas, una persona física o jurídica con domicilio en dicho territorio para que les represente en relación con el cumplimiento de las obligaciones establecidas en dicha ley y en este reglamento.
+
+Esta obligación no existirá en relación con los sujetos pasivos que se encuentren establecidos en Canarias, Ceuta o Melilla, en otro Estado miembro de la Comunidad Europea o en un Estado con el que existan instrumentos de asistencia mutua análogos a los instituidos en la Comunidad Europea, o que se acojan al régimen especial aplicable a los servicios prestados por vía electrónica.
+
+2\. Los sujetos pasivos no establecidos en el territorio de aplicación del impuesto que realicen exclusivamente las operaciones exentas contempladas en los artículos 23 y 24 de la Ley del Impuesto no tendrán que cumplir las obligaciones formales a que se refiere el artículo 164 de la misma ley.
+
+3\. Lo dispuesto en este artículo se entiende sin perjuicio de lo previsto en el artículo 119.tres de la Ley del Impuesto.»
+
+Veintitrés. Se añade una nueva disposición adicional sexta, con la siguiente redacción:
+
+«Disposición adicional sexta. Obligación de gestión de determinadas tasas y precios, que constituyan contraprestación de operaciones realizadas por la Administración, sujetas al Impuesto sobre el Valor Añadido.
+
+1\. Los contribuyentes y los sustitutos del contribuyente, así como quienes vengan obligados legalmente en su plazo voluntario a recaudar, por cuenta del titular o del concesionario de un servicio o actividad pública, las tasas o precios que constituyan las contraprestaciones de aquéllas estarán sometidos, cuando la operación esté sujeta al Impuesto sobre el Valor Añadido, a las siguientes obligaciones:
+
+a) Exigir el importe del Impuesto sobre el Valor Añadido que grava la citada operación al contribuyente de la tasa o al usuario o destinatario del servicio o actividad de que se trate.
+
+b) Expedir la factura o documento sustitutivo relativo a dicha operación a que se refiere el artículo 88 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, en nombre y por cuenta del sujeto pasivo. Esta obligación se cumplirá de acuerdo con lo establecido en el Reglamento por el que se regulan las obligaciones de facturación. No obstante, el Departamento de Gestión Tributaria de la Agencia Estatal de Administración Tributaria podrá autorizar fórmulas simplificadas para el cumplimiento de esta obligación.
+
+c) Abonar al sujeto pasivo del Impuesto sobre el Valor Añadido el importe que haya percibido por aplicación de lo previsto en el párrafo a) anterior en la misma forma y plazos que los establecidos para el ingreso de la tasa o precio correspondiente.
+
+2\. En los supuestos a los que se refiere el apartado anterior, los usuarios o destinatarios del servicio o actividad estarán obligados a soportar la traslación del Impuesto sobre el Valor Añadido correspondiente, en las condiciones establecidas en dicho apartado.»
+
+### Artículo tercero. Justificación de determinadas operaciones financieras.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1619/2012, de 30 de noviembre. [Ref. BOE-A-2012-14696](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14696).
+
+### Disposición adicional única. Reembolso del Impuesto sobre el Valor Añadido en importaciones de bienes mediante Agentes de Aduanas y personas o entidades que, debidamente habilitadas por la Administración aduanera, actúen en nombre propio y por cuenta de los importadores.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única del Real Decreto 1073/2014, de 19 de diciembre. [Ref. BOE-A-2014-13252](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-13252).
+
+### Disposición transitoria única. Régimen de facturación hasta el 31 de diciembre de 2003, y régimen de vigencia de las autorizaciones concedidas de acuerdo con el Real Decreto 2402/1985, de 18 de diciembre.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.b) del Real Decreto 1619/2012, de 30 de noviembre. [Ref. BOE-A-2012-14696](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14696).
+
+### Disposición derogatoria única. Derogación normativa.
+
+1\. Sin perjuicio de lo establecido en la disposición transitoria única, queda derogado el Real Decreto 2402/1985, de 18 de diciembre, por el que se regula el deber de expedir y entregar factura que incumbe a los empresarios y profesionales.
+
+2\. Queda derogado el artículo segundo del Real Decreto 296/1998, de 27 de febrero, por el que se modifica el artículo 1 del Real Decreto 1624/1992, de 29 de diciembre, que aprueba el Reglamento del Impuesto sobre el Valor Añadido, así como el Real Decreto 2402/1985, de 18 de diciembre, que regula el deber de expedir y entregar factura que incumbe a los empresarios y profesionales, el Real Decreto 338/1990, de 9 de marzo, sobre composición y forma de utilización del Número de Identificación Fiscal, y el Real Decreto 1041/1990, de 27 de julio, que regula las declaraciones censales que han de presentar a efectos fiscales los empresarios, profesionales y otros obligados tributarios, y por el que se dictan normas para el reembolso del impuesto a los agentes de aduanas y para los servicios de telecomunicación.
+
+3\. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor a los 20 días de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 28 de noviembre de 2003.
+
+JUAN CARLOS R.
+
+El Ministro de Hacienda,
+
+CRISTÓBAL MONTORO ROMERO
+
+## REGLAMENTO POR EL QUE SE REGULAN LAS OBLIGACIONES DE FACTURACIÓN
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 1619/2012, de 30 de noviembre. [Ref. BOE-A-2012-14696](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14696).
+
+> Téngase en cuenta la vigencia de determinadas autorizaciones, según establece la disposición transitoria 1 del citado Real Decreto.
+
+### (Arts. 1 a 26)
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.a) del Real Decreto 1619/2012, de 30 de noviembre. [Ref. BOE-A-2012-14696](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14696).
+
+### (Disposiciones adicionales 1 a 6)
+
+**(Derogadas)**
+
+> Se derogan por la disposición derogatoria única.a) del Real Decreto 1619/2012, de 30 de noviembre. [Ref. BOE-A-2012-14696](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-14696).

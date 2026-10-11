@@ -1,0 +1,787 @@
+---
+title: "Real Decreto 365/2005, de 8 de abril, por el que se aprueba la Instrucción técnica complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos»"
+identifier: "BOE-A-2005-6793"
+eli: "https://www.boe.es/eli/es/rd/2005/04/08/365"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2005-04-08
+published: 2005-04-27
+in_force_from: 2005-07-27
+last_amended: 2025-09-03
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 100"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2005-6793"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 365/2005, de 8 de abril, por el que se aprueba la Instrucción técnica complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos»
+
+La Ley 21/1992, de 16 de julio, de Industria, establece en el artículo 12.5 que los reglamentos de seguridad de ámbito estatal se aprobarán por el Gobierno de la Nación, sin perjuicio de que las comunidades autónomas con competencias legislativas sobre industria puedan introducir requisitos adicionales sobre las mismas materias cuando se trate de instalaciones radicadas en su territorio.
+
+En el capítulo II del Reglamento de instalaciones petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, se establecen los requisitos de carácter general que son exigibles a las empresas dedicadas al montaje y desmontaje de las instalaciones incluidas en el citado reglamento.
+
+En los apartados 37 y 38 de las Instrucciones MI-IP 03 y MI-IP 04, aprobadas por el Real Decreto 1523/1999, de 1 de octubre, se establece que el montaje, mantenimiento, conservación y, en su caso, la reparación de las instalaciones deberán realizarse por equipos propios o por empresas instaladoras debidamente autorizadas, y se indican, con carácter general, las obligaciones y responsabilidades de las citadas empresas.
+
+Por lo expuesto, resulta necesario establecer las características y requisitos que deben reunir tanto las empresas como los profesionales dedicados a la realización y reparación de instalaciones de productos petrolíferos líquidos para lograr una mayor calidad que garantice la seguridad de las personas, de los bienes y del medio ambiente y las adecuadas condiciones técnicas para un correcto funcionamiento de las instalaciones mediante una adecuada cualificación profesional y para evitar el intrusismo que pueda producirse en la ejecución de dichos trabajos.
+
+Este real decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, regulado en el Real Decreto 1337/1999, de 31 de julio, a los efectos de dar cumplimiento a lo dispuesto en la Directiva 98/34/CE del Parla-mento Europeo y del Consejo, de 22 de junio de 1998, modificada por la Directiva 98/48/CE del Parlamento Europeo y del Consejo, de 20 de julio de 1998.
+
+Este real decreto se aprueba en ejercicio de las competencias que, en relación con la materia de seguridad industrial, han venido a atribuir expresamente a la Administración General del Estado todos los Estatutos de Autonomía, conforme ha declarado reiteradamente la jurisprudencia constitucional recaída al respecto (por todas ellas, las Sentencias del Tribunal Constitucional 203/1992, de 26 de noviembre; 243/1994, de 21 de julio, y 175/2003, de 30 de septiembre).
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de abril de 2005,
+
+##### D I S P O N G O :
+
+###### Artículo único. Aprobación de la Instrucción técnica complementaria MI‑IP05.
+
+Se aprueba la Instrucción técnica complementaria (ITC) MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», que se inserta a continuación.
+
+###### Disposición adicional primera. Cobertura de seguro u otra garantía equivalente suscrito en otro Estado.
+
+Cuando la empresa instaladora o reparadora de P.P.L. que se establece o ejerce la actividad en España, ya esté cubierta por un seguro de responsabilidad civil profesional u otra garantía equivalente o comparable en lo esencial en cuanto a su finalidad y a la cobertura que ofrezca en términos de riesgo asegurado, suma asegurada o límite de la garantía en otro Estado miembro en el que ya esté establecido, se considerará cumplida la exigencia establecida en el párrafo c) del apartado 5.8 de la ITC aprobada por este real decreto. Si la equivalencia con los requisitos es sólo parcial, la empresa instaladora o reparadora de P.P.L. deberá ampliar el seguro o garantía equivalente hasta completar las condiciones exigidas. En el caso de seguros u otras garantías suscritas con entidades aseguradoras y entidades de crédito autorizadas en otro Estado miembro, se aceptarán a efectos de acreditación los certificados emitidos por éstas.
+
+> Se añade por el art. 11.2 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+###### Disposición adicional segunda. Aceptación de documentos de otros Estados miembros a efectos de acreditación del cumplimiento de requisitos.
+
+A los efectos de acreditar el cumplimiento de los requisitos exigidos a las empresas instaladoras o reparadoras de P.P.L., se aceptarán los documentos procedentes de otro Estado miembro de los que se desprenda que se cumplen tales requisitos, en los términos previstos en el artículo 17 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+> Se añade por el art. 11.3 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+###### Disposición adicional tercera. Modelo de declaración responsable.
+
+Corresponderá a las comunidades autónomas elaborar y mantener disponibles los modelos de declaración responsable. A efectos de facilitar la introducción de datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, el órgano competente en materia de seguridad industrial del Ministerio de Industria, Turismo y Comercio elaborará y mantendrá actualizada una propuesta de modelos de declaración responsable, que deberá incluir los datos que se suministrarán al indicado registro, y que estará disponible en la sede electrónica de dicho Ministerio.
+
+> Se añade por el art. 11.4 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+###### Disposición adicional cuarta. Obligaciones en materia de información y reclamaciones.
+
+Las empresas instaladoras y las reparadoras de P.P.L. deben cumplir las obligaciones de información de los prestadores y las obligaciones en materia de reclamaciones establecidas, respectivamente, en los artículos 22 y 23 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio.
+
+> Se añade por el art. 11.5 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+###### Disposición transitoria primera. Convalidación de carnés profesionales.
+
+Los titulares de carné de instalador de productos petrolíferos líquidos, así como los titulares de carné de calefacción y agua caliente sanitaria, emitidos por la Administración competente, a la fecha de publicación de este real decreto, dispondrán de dos años a partir de su entrada en vigor para convalidarlos por los correspondientes que se prevén en la nueva ITC MI-IP05, siempre que no les hubiera sido retirado por sanción, mediante la presentación ante el órgano competente de la comunidad autónoma de una memoria en la que se acredite la respectiva experiencia profesional en instalaciones petrolíferas correspondientes a la categoría cuya convalidación se solicita. A partir de la convalidación, para la renovación de los carnés deberán seguir el procedimiento indicado en la ITC aprobada por este real decreto.
+
+La memoria de acreditación de la experiencia profesional incluirá, como mínimo, la relación de empresas en las que ha prestado servicio, especificará las fechas y acreditará la pertenencia a las mismas.
+
+> Se modifica por el art. 11.1 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+###### Disposición transitoria segunda. Empresas instaladoras o reparadoras existentes.
+
+Las empresas instaladoras o reparadoras a la fecha de la publicación de este real decreto podrán seguir realizando actividad, en las mismas condiciones, durante un período de dos años, a partir de su entrada en vigor, siempre que la autorización no les hubiera sido retirada por sanción. A partir de este período, deberán cumplir con los requisitos indicados en la ITC aprobada por este real decreto.
+
+> Se modifica por el art. 11.1 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+###### Disposición final primera. Título competencial.
+
+Este real decreto constituye una norma reglamentaria de seguridad industrial, que se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución.
+
+###### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor a los tres meses de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 8 de abril de 2005.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Turismo y Comercio,
+
+JOSÉ MONTILLA AGUILERA
+
+## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA MI-IP05 «INSTALADORES O REPARADORES Y EMPRESAS INSTALADORAS O REPARADORAS DE PRODUCTOS PETROLÍFEROS LÍQUIDOS»
+
+###### 1. Objeto.
+
+Esta instrucción técnica complementaria (ITC) tiene por objeto establecer las condiciones y requisitos que deben cumplir los instaladores o reparadores y las empresas instaladoras o reparadoras en el ámbito del Reglamento de Instalaciones Petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre.
+
+###### 2. Instalador o reparador y empresa instaladora o reparadora de productos petrolíferos líquidos (P.P.L.).
+
+2.1 A los efectos de la aplicación de esta instrucción, debe entenderse por:
+
+a) Instalador de P.P.L.: persona física que realiza y mantiene las instalaciones de productos petrolíferos líquidos (exceptuando, una vez puesta en servicio la instalación, la realización de estas operaciones dentro de recintos confinados), dentro de las categorías y condiciones que se establecen en esta ITC y que realiza su función en el ámbito de una empresa.
+
+Un recinto confinado es cualquier espacio con abertura limitada de entrada y salida y ventilación natural desfavorable, en el que pueden acumularse contaminantes tóxicos o inflamables, o tener una atmósfera deficiente de oxígeno, y que no está concebido para una ocupación continuada por parte del trabajador.
+
+b) Reparador de P.P.L.: persona física que repara y mantiene el almacenamiento de las instalaciones de P.P.L. (ampliando su campo de actividad a todas las operaciones que sea necesario realizar dentro de recintos confinados), y que realiza su función en el ámbito de una empresa.
+
+c) Empresa instaladora de P.P.L.: persona física o jurídica que realiza, mantiene o desmonta las instalaciones de productos petrolíferos líquidos (excepto la realización de estas operaciones dentro de un recinto confinado), y que dispone de los medios técnicos y de personal, dentro de las categorías y condiciones que se establecen en esta ITC.
+
+d) Empresa reparadora de P.P.L.: persona física o jurídica que repara y mantiene el almacenamiento de las instalaciones de P.P.L. (ampliando su campo de actividad a todas las operaciones que sea necesario realizar dentro de recintos confinados), y que dispone de los medios técnicos y de personal, dentro de las categorías y condiciones que se establecen en esta ITC.
+
+###### 3. Clasificación de los instaladores o reparadores y las empresas instaladoras o reparadoras para P.P.L.
+
+3.1 Los instaladores o reparadores y las empresas instaladoras o reparadoras de P.P.L. se clasifican en las siguientes categorías:
+
+a) Categoría I. Instaladores y empresas instaladoras de P.P.L.
+
+b) Categoría II. Instaladores y empresas instaladoras de P.P.L.
+
+c) Categoría III. Reparadores y empresas reparadoras de P.P.L.
+
+3.2 Los instaladores habilitados y las empresas instaladoras de PPL de categoría I podrán realizar, modificar y mantener instalaciones de hidrocarburos de las clases C y D, con un límite de almacenamiento de 10.000 litros, pero una vez puesta en funcionamiento la instalación, en ningún caso podrán acceder al interior del tanque, ni soldar o desmontar la boca de hombre. Únicamente podrán acceder al interior de la arqueta de boca de hombre, una vez puesta en funcionamiento la instalación, si disponen del sistema de rescate necesario (trípode, rescatador y arnés), exposímetro y sistema de ventilación adecuado.
+
+3.3 Los instaladores habilitados y las empresas instaladoras de PPL de categoría II podrán realizar, modificar y mantener instalaciones de hidrocarburos de las clases B, C y D sin límite de almacenamiento, pero una vez puesta en funcionamiento la instalación, en ningún caso podrán acceder al interior del tanque, ni soldar o desmontar la boca de hombre. Únicamente podrán acceder al interior de la arqueta de la boca de hombre, una vez puesta en funcionamiento la instalación, si disponen de sistema de rescate (trípode, rescatador y arnés), exposímetro y sistema de ventilación adecuado.
+
+3.4 Los reparadores y las empresas reparadoras de P.P.L. podrán realizar actividades de reparación de la instalación en los recintos confinados, en el interior de las arquetas de los tanques, la desgasificación, limpieza y reparación de tanques y tuberías, preparación de la instalación para la realización de las pruebas de estanqueidad al tanque y a las tuberías y ejecución de éstas, después de la puesta en marcha de la instalación.
+
+###### 4. Instalador o reparador de P.P.L.
+
+El instalador de P.P.L. en sus diferentes categorías o el reparador de P.P.L. deberá desarrollar su actividad en el seno de una empresa instaladora o reparadora de P.P.L., según corresponda, habilitada y deberá cumplir y poder acreditar ante la Administración competente, cuando esta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control, y para la categoría que corresponda de las establecidas en el apartado 3 anterior, una de las siguientes situaciones:
+
+a) Disponer de un título universitario cuyo ámbito competencial, atribuciones legales o plan de estudios cubra las materias objeto del Reglamento de instalaciones petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, y de esta instrucción técnica complementaria.
+
+b) Disponer de un título de formación profesional o de un certificado de profesionalidad incluido en el Repertorio Nacional de Certificados de Profesionalidad, cuyo ámbito competencial incluya las materias objeto del Reglamento de instalaciones petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, y de esta instrucción técnica complementaria.
+
+c) Haber superado un examen teórico-práctico ante la comunidad autónoma sobre los contenidos mínimos que se indican en los apéndices II, III o IV, según corresponda, de esta instrucción técnica complementaria.
+
+d) Tener reconocida una competencia profesional adquirida por experiencia laboral, de acuerdo con lo estipulado en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, en las materias objeto del Reglamento de instalaciones petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre, y de esta instrucción técnica complementaria.
+
+e) Tener reconocida la cualificación profesional de instalador/reparador de P.P.L. adquirida en otro u otros Estados miembros de la Unión Europea, de acuerdo con lo establecido en el Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI).
+
+f) Poseer una certificación otorgada por entidad acreditada para la certificación de personas por ENAC o cualquier otro Organismo Nacional de Acreditación designado de acuerdo a lo establecido en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93, de acuerdo a la norma UNE-EN ISO/IEC 17024.
+
+Todas las entidades acreditadas para la certificación de personas que quieran otorgar estas certificaciones deberán incluir en su esquema de certificación un sistema de evaluación que incluya los contenidos mínimos que se indican en los apéndices II, III o IV, según corresponda, de esta instrucción técnica complementaria.
+
+Cualquiera de las situaciones o titulaciones previstas (título universitario, título de formación profesional o certificado de profesionalidad, examen teórico-práctico de la Comunidad Autónoma, experiencia laboral reconocida o certificación otorgada por entidad acreditada) son válidas indistintamente para las distintas categorías de instalador de P.P.L., o reparador de P.P.L., en función de los conocimientos acreditados.
+
+De acuerdo con la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, el personal habilitado por una Comunidad Autónoma podrá ejecutar esta actividad dentro de una empresa instaladora en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+###### 5. Empresas instaladoras o reparadoras.
+
+5.1 Antes de comenzar sus actividades como empresas instaladoras o reparadoras de P.P.L., las personas físicas o jurídicas que deseen establecerse en España deberán presentar ante el órgano competente de la comunidad autónoma en la que se establezcan una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría va a desempeñar la actividad, que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución o reparación de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento de instalaciones petrolíferas y sus respectivas Instrucción Técnica Complementaria.
+
+5.2 Las empresas instaladoras o reparadoras de P.P.L. legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare para qué categoría va a desempeñar la actividad, que cumple los requisitos que se exigen por esta instrucción técnica complementaria, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que la ejecución o reparación de las instalaciones se efectúa de acuerdo con las normas y requisitos que se establecen en el Reglamento de instalaciones petrolíferas y sus respectivas instrucciones técnicas complementarias.
+
+Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 581/2017, de 9 de junio. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del citado real decreto.
+
+5.3 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
+
+No se podrá exigir la presentación de documentación acreditativa del cumplimiento de los requisitos junto con la declaración responsable. No obstante, esta documentación deberá estar disponible para su presentación inmediata ante la Administración competente cuando ésta así lo requiera en el ejercicio de sus facultades de inspección, comprobación y control.
+
+5.4 El órgano competente de la comunidad autónoma, asignará, de oficio, un número de identificación a la empresa y remitirá los datos necesarios para su inclusión en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria y en su normativa reglamentaria de desarrollo.
+
+5.5 De acuerdo con la Ley 21/1992, de 16 de julio, de Industria, la declaración responsable habilita por tiempo indefinido a la empresa instaladora o reparadora de P.P.L., desde el momento de su presentación ante la Administración competente, para el ejercicio de la actividad en todo el territorio español, sin que puedan imponerse requisitos o condiciones adicionales.
+
+5.6 Al amparo de lo previsto en el apartado 3 del artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
+
+En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad, sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas, y de la aplicación del régimen sancionador previsto en la Ley 21/1992, de 16 de julio, de Industria.
+
+5.7 Cualquier hecho que suponga modificación de alguno de los datos incluidos en la declaración originaria, así como el cese de las actividades, deberá ser comunicado por el interesado al órgano competente de la comunidad autónoma donde presentó la declaración responsable en el plazo de un mes.
+
+5.8 Las empresas instaladoras o reparadoras de P.P.L. cumplirán lo siguiente:
+
+a) Disponer de la documentación que identifique a la empresa instaladora o reparadora de P.P.L., que, en el caso de persona jurídica, deberá estar constituida legalmente.
+
+b) En el caso de empresa reparadora de P.P.L., haber presentado ante el órgano competente de la comunidad autónoma el procedimiento de reparación o sistemas para realizar la reparación, de acuerdo con lo establecido en las instrucciones técnicas complementarias del Reglamento de instalaciones petrolíferas.
+
+c) Contar con los medios técnicos y humanos necesarios para realizar su actividad en condiciones de seguridad, que, como mínimo serán los que se determinan en el Apéndice I de esta instrucción técnica complementaria.
+
+d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio por una cuantía mínima de 300.000 euros por siniestro para la categoría I y de 600.000 euros por siniestro para las categorías II y III. Estas cuantías mínimas se actualizarán por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+5.9 La empresa instaladora o reparadora de P.P.L. habilitada no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
+
+5.10 El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
+
+La autoridad competente, en este caso, abrirá un expediente informativo al titular de la instalación, que tendrá quince días naturales a partir de la comunicación para aportar las evidencias o descargos correspondientes.
+
+5.11 El órgano competente de la comunidad autónoma dará traslado inmediato al Ministerio de Industria, Turismo y Comercio de la inhabilitación temporal, las modificaciones y el cese de la actividad a los que se refieren los apartados precedentes para la actualización de los datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, tal y como lo establece su normativa reglamentaria de desarrollo.
+
+###### 6. Actuaciones de las empresas instaladoras o reparadoras de P.P.L. en Comunidades Autónomas distintas de aquella donde obtuvieron la autorización.
+
+**(Suprimido)**
+
+###### 7. Responsabilidad de las empresas instaladoras o reparadoras de P.P.L.
+
+7.1 Será responsabilidad de las empresas instaladoras de P.P.L. de las categorías I y II lo siguiente:
+
+7.1.1 Que la ejecución, montaje, modificación o ampliación antes de la puesta en servicio y, posteriormente, la revisión, mantenimiento y sustitución de partes de las instalaciones que le sean confiadas, así como los materiales empleados, estén en conformidad con la normativa vigente y, en su caso, con el proyecto de la instalación.
+
+7.1.2 Efectuar las pruebas y ensayos reglamentarios bajo su directa responsabilidad o, en su caso, bajo el control y responsabilidad del director técnico de la obra, avalado por la correcta ejecución de las operaciones que le sean encomendadas.
+
+7.1.3 Garantizar, durante un período de cuatro años, las deficiencias atribuidas a una mala ejecución de las operaciones que les hayan sido encomendadas, así como las consecuencias que de ellas se deriven.
+
+7.1.4 Asegurarse de que los equipos y accesorios cumplan la normativa vigente.
+
+7.1.5 Que las revisiones que le sean encomendadas se efectúen en la forma y plazos previstos en la reglamentación vigente.
+
+7.2 Será responsabilidad de la empresa reparadora de P.P.L. lo siguiente:
+
+7.2.1 Que la reparación, revisión y mantenimiento después de la puesta en servicio de las instalaciones que les sean confiadas, así como los materiales empleados, estén en conformidad con la normativa vigente.
+
+7.2.2 Efectuar las pruebas y ensayos reglamentarios después de la puesta en servicio (revisiones periódicas), bajo su directa responsabilidad o, en su caso, en concordancia con el criterio y responsabilidad del organismo de control avalando la correcta ejecución de las operaciones que les sean encomendadas.
+
+7.2.3 Que las operaciones de reparación, revisión y mantenimiento que les sean encomendadas se efectúen en la forma y plazos previstos en la reglamentación vigente.
+
+7.2.4 Garantizar durante un período de cuatro años las deficiencias atribuidas a una mala ejecución de las operaciones que les hayan sido encomendadas, así como las consecuencias que de ellas se deriven.
+
+7.2.5 Asegurarse de que los equipos y accesorios cumplan con la normativa vigente.
+
+###### 8. Obligaciones de las empresas instaladoras o reparadoras de P.P.L.
+
+Será obligación de las empresas instaladoras o reparadoras de P.P.L.:
+
+8.1**(Suprimido)**
+
+8.2**(Suprimido)**
+
+8.3 Cumplir con las condiciones mínimas establecidas para la categoría en la que se encuentre inscrita.
+
+8.4 Tener, en todo momento, cubiertos los riesgos de su responsabilidad, respecto a daños materiales y personales a terceros, por la cuantía mínima exigible para la categoría en la que está inscrita, mediante la suscripción de una póliza de responsabilidad civil, avales u otras garantías financieras otorgadas por una entidad debidamente.
+
+8.5 Emitir los preceptivos certificados de instalación o reparación de P.P.L., así como de revisión que se fijen en las reglamentaciones vigentes. Dichos documentos serán suscritos por un instalador o reparador de P.P.L. de la categoría que corresponda en función de la actividad desarrollada, que pertenezca a la empresa instaladora o reparadora. La empresa no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
+
+8.6 Coordinar con la empresa suministradora y con los usuarios las operaciones que impliquen interrupción del suministro. No obstante, en aquellos casos en que se presente una incidencia que suponga grave peligro de accidente o éste haya tenido lugar, interrumpirá el servicio en las partes afectadas y dará cuenta inmediata a los usuarios, a la empresa suministradora y al organismo competente de la comunidad autónoma.
+
+8.7 Concertar con el organismo territorial competente las visitas reglamentarias o de oficio que efectúe a las instalaciones que se encuentren en estado de inspección tras haber citado a todas las partes que reglamentariamente tengan que concurrir.
+
+> Se modifican, con efectos desde el 1 de julio de 2021, los apartados 4, 5.2, 5.6 y 5.8 por art. 6.1 a 4 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Se modifican los apartados 3.2 y 3.3 por la disposición final 1 del Real Decreto 706/2017, de 7 de julio. [Ref. BOE-A-2017-9188](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-9188)
+
+> Se modifica por el art. 11.1, 6 a 12 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+> Redactado el apartado 5.2 conforme a la corrección de errores publicada en BOE núm. 149, de 19 de junio de 2010. [Ref. BOE-A-2010-9716](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-9716).
+
+### APÉNDICE I — Medios mínimos, técnicos y humanos, requeridos para las empresas instaladoras o reparadoras de P.P.L.
+
+1\. Medios humanos:
+
+Contar con el personal contratado necesario para realizar la actividad en condiciones de seguridad, en número suficiente y durante el tiempo necesario para atender las instalaciones que tengan contratadas, con un mínimo de una persona instaladora o reparadora de P.P.L. de categoría igual o superior a cada una de las categorías de la empresa instaladora o reparadora. En el caso de que una misma persona tenga dichas categorías, bastará para cubrir este requisito.
+
+Se entenderá satisfecho el requisito del párrafo anterior cuando el referido personal necesario para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales permitidas en derecho.
+
+2\. Medios técnicos:
+
+2.1 Categoría I: disponer de los medios técnicos adecuados para el desarrollo de sus actividades en condiciones de seguridad.
+
+2.2 Categoría II: disponer de los medios técnicos adecuados para el desarrollo de sus actividades en condiciones de seguridad.
+
+2.3 Categoría III:
+
+a) Disponer de los medios técnicos adecuados para el desarrollo de sus actividades en condiciones de seguridad, con especial mención de los condicionantes del informe UNE 53 991.
+
+b) Haber presentado ante el órgano competente de la comunidad autónoma el procedimiento de reparación o sistemas para realizar la reparación, de acuerdo con lo establecido en las Instrucciones técnicas complementarias del Reglamento de instalaciones petrolíferas.
+
+> Se modifica el apartado 1 por el art. 3 del Real Decreto 770/2025, de 2 de septiembre. [Ref. BOE-A-2025-17507](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-17507)
+
+> Se modifica, con efectos desde el 1 de julio de 2021, el apartado 1 por el art. 6.5 del Real Decreto 298/2021, de 27 de abril. [Ref. BOE-A-2021-6879](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6879)
+
+> Se modifica por el art. 11.13 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### APÉNDICE II — Conocimientos teórico-prácticos - Categoría I
+
+#### A. Requerimientos teóricos
+
+A.1 Matemáticas:
+
+Números enteros y decimales.
+
+Operaciones básicas con números enteros y decimales.
+
+Números quebrados.
+
+Proporcionalidades.
+
+Regla de tres simple.
+
+Porcentaje.
+
+Longitud, superficies y volúmenes.
+
+Líneas rectas, curvas, paralelas, etc.
+
+Ángulos.
+
+Polígonos.
+
+Círculo, diámetro y circunferencia.
+
+Superficies: cuadrado, triángulo y rectángulo.
+
+Volúmenes.
+
+A.2 Física:
+
+La materia.
+
+Estados de la materia.
+
+Fuerza, masa, aceleración y peso.
+
+Masa volumétrica y densidad relativa.
+
+Presión: concepto de presión, presión estática, principio de Pascal, presión atmosférica, etc.
+
+Energía, potencia y rendimiento.
+
+El calor: concepto, unidades, calor específico, etc.
+
+Temperatura: concepto, medidas, escala Celsius.
+
+Efectos del calor.
+
+Transmisión del calor.
+
+Caudal: concepto y unidades.
+
+Transmisión de vapor.
+
+Nociones de electricidad.
+
+Cuerpos aislantes y conductores.
+
+Ley de Ohm. Efecto Joule. Ejemplos aplicados a la soldadura.
+
+Corrientes de fugas, corrientes galvánicas.
+
+Bases y funcionamiento de la protección catódica.
+
+Viscosidad: tipos y unidades.
+
+A.3 Química:
+
+Elementos y compuestos presentes en los productos petrolíferos.
+
+El aire como mezcla.
+
+Clasificación de los P.P.L.
+
+Productos petrolíferos comerciales (hidrocarburos clases C y D).
+
+Combustión.
+
+Corrosión, clases y causas. Protecciones: activas y pasivas.
+
+A.4 Materiales, uniones y accesorios:
+
+Tuberías: características técnicas y comerciales de tuberías de acero, de cobre y flexibles.
+
+Uniones mecánicas y soldadas.
+
+Accesorios: de tuberías, para sujeción de tuberías, pasamuros, fundas o vainas, protecciones mecánicas.
+
+Tubería de material plástico.
+
+Uniones, tipos de soldadura, uniones de tubos de material plástico.
+
+A.5 Instalaciones mecánicas, pruebas, ensayos y verificación. Pruebas de estanqueidad y ensayos no destructivos:
+
+Pruebas reglamentarias.
+
+Ensayos no destructivos.
+
+Pruebas de estanqueidad.
+
+A.6 Ventilación de locales: Evacuación de gases, entrada de aire para la combustión.
+
+A.7. Protección y seguridad en instalaciones: Conocimientos generales sobre instalaciones de protección contra Incendios.
+
+A.8 Tanques fijos y móviles, equipos de bombeo, trasiego y accesorios:
+
+Tipos de tanques y características.
+
+Equipos de distribución.
+
+Válvulas en general.
+
+Válvulas de tres vías.
+
+Acoplamientos rígidos y flexibles.
+
+Normas de aplicación.
+
+Bombas, conocimientos básicos.
+
+Compresores de funcionamiento y utilización.
+
+Conocimientos y normativa sobre instalaciones eléctricas.
+
+A.9 Esquema de instalaciones: Croquización, uso de tablas, simbología, planos y esquemas de instalaciones.
+
+A.10 Cálculo de instalaciones:
+
+Características de los productos petrolíferos.
+
+Consumos de tales productos y capacidad de almacenamiento.
+
+Trazado conducción.
+
+Tablas de consumo por aparatos.
+
+Tablas de determinación de diámetros en función de caudal, longitud de cálculo, pérdida de carga.
+
+A.11 Conocimiento de normativa técnica y legal:
+
+Reglamento de instalaciones petrolíferas e Instrucciones técnicas complementarias ITC-IP03 e ITC-IP04.
+
+Normativa en materia de prevención de riesgos laborales.
+
+A.12 Protección medioambiental.
+
+#### B. Requerimientos prácticos
+
+B.1 Instalaciones:
+
+Croquis, trazado y medición de tuberías.
+
+Curvado de tubos.
+
+Corte de tubos.
+
+Soldeo de tubos de acero, cobre y materiales plásticos homologados para su uso.
+
+Injertos y derivaciones.
+
+Uniones mecánicas: racores, ermetos o similares, bridas.
+
+Fijación de tuberías y colocación de protecciones, pasamuros, vaina y sellado.
+
+Pruebas de estanqueidad.
+
+Tubería de materias plásticas. Corte, uniones.
+
+Colocación de tubería en zanja.
+
+Aplicación de las protecciones pasivas (desoxidantes, pinturas, cintas, etc.).
+
+Montaje de tanques. Sus accesorios.
+
+Pruebas y tarado de una válvula de seguridad.
+
+Pruebas hidráulicas o neumáticas.
+
+B.2 Aparatos:
+
+Grupos de trasiego.
+
+Aparatos de medida en general.
+
+B.3 Realización práctica de una instalación con tanque, equipo de trasiego y equipo de medida.
+
+> Se modifica por el art. 11.14 y 15 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### APÉNDICE III — Conocimientos teórico-prácticos - Categoría II
+
+#### A. Requerimientos teóricos
+
+A.1 Química:
+
+Elementos y compuestos presentes en los productos petrolíferos.
+
+El aire como mezcla.
+
+Productos petrolíferos comerciales (hidrocarburos clases B, C y D).
+
+Combustión.
+
+Corrosión, clases y causas. Protecciones: activas y pasivas.
+
+A.2 Materiales, uniones y accesorios:
+
+Tuberías: características técnicas y comerciales de tuberías de acero, de cobre y flexibles.
+
+Uniones mecánicas y soldadas.
+
+Accesorios: de tuberías, para sujeción de tuberías, pasamuros, fundas o vainas, protecciones mecánicas.
+
+Tubería de material plástico y otros materiales.
+
+Uniones, tipos de soldadura, uniones de tubos de material plástico.
+
+A.3 Nociones sobre mecánica de fluidos. Sistemas y procedimientos de detección de fugas.
+
+A.4 Instalaciones mecánicas, pruebas, ensayos y verificación.
+
+A.5 Acometidas e instalación de contadores.
+
+A.6 Ventilación de locales: Evacuación de gases, entrada de aire para la combustión.
+
+A.7 Protección y seguridad en instalaciones:
+
+Protecciones pasivas.
+
+Protecciones activas.
+
+Protección contra incendios.
+
+A.8 Tanques fijos y móviles, equipos de bombeo, trasiego y accesorios:
+
+Tipos de tanques y características.
+
+Equipos de distribución.
+
+Válvulas en general.
+
+Válvulas de tres vías.
+
+Acoplamientos rígidos y flexibles.
+
+Normas de aplicación.
+
+Bombas.
+
+Compresores de funcionamiento y utilización.
+
+Conocimientos y normativa sobre instalaciones eléctricas aplicable.
+
+A.9 Esquema de instalaciones: Croquización, uso de tablas, simbología, planos y esquemas de instalaciones.
+
+A.10 Cálculo de instalaciones:
+
+Características de los productos petrolíferos.
+
+Consumos de los mismos y capacidad de almacenamiento.
+
+Trazado conducción.
+
+Tablas de consumo por aparatos.
+
+Tablas de determinación de diámetros en función de caudal, longitud de cálculo, pérdida de carga.
+
+A.11 Conocimiento normativa vigente:
+
+Reglamento de instalaciones petrolíferas e Instrucciones técnicas complementarias ITC-IP01, ITC-IP02, ITC-IP03 e ITC-IP04.
+
+Normativa en materia de prevención de riesgos laborales.
+
+A.12 Medidas especiales en instalaciones de hidrocarburos clase B.
+
+A.13 Protección medioambiental:
+
+Recuperación de gases fase 1 y fase 2.
+
+Efluentes contaminantes.
+
+A.14 Conocimientos de procedimientos especiales de medida de volumen.
+
+A.15 Aparatos surtidores:
+
+Tipos.
+
+Conexiones mecánicas y eléctricas.
+
+Medida de volumen.
+
+#### B. Requerimientos prácticos
+
+B.1 Instalaciones:
+
+Croquis, trazado y medición de tuberías.
+
+Curvado de tubos.
+
+Corte de tubos.
+
+Soldeo de tubos de acero, cobre y materiales plásticos homologados para su uso.
+
+Injertos y derivaciones.
+
+Uniones mecánicas: racores, ermetos o similares, bridas.
+
+Fijación de tuberías y colocación de protecciones, pasamuros, vainas y sellados.
+
+Pruebas de estanquidad.
+
+Tubería de materias plásticas. Corte, uniones.
+
+Tendido y colocación de tuberías.
+
+Aplicación de las protecciones pasivas (desoxidantes, pinturas, cintas, etc.).
+
+Aplicación de las protecciones activas.
+
+Control de la protección catódica, lectura de aparatos.
+
+Montaje de tanques e instalación de sus accesorios.
+
+Pruebas y tarado de una válvula de seguridad.
+
+Pruebas hidráulicas y neumáticas.
+
+Puesta a tierra.
+
+B.2 Aparatos:
+
+Grupos de trasiego.
+
+Aparatos de medida en general. Surtidores.
+
+B.3 Realización práctica de una instalación con tanque, equipo de trasiego y equipo de medida.
+
+> Se modifica por el art. 11.16 y 17 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).
+
+### APÉNDICE IV
+
+## Conocimientos teórico-prácticos - Categoría III
+
+#### A. Requerimientos teóricos
+
+A.1 Matemáticas:
+
+Números enteros y decimales.
+
+Operaciones básicas.
+
+Quebrados.
+
+Regla de tres simple y proporciones.
+
+Porcentajes.
+
+Longitud, superficies y volúmenes.
+
+Unidades y equivalencias.
+
+Ángulos y pendientes.
+
+Polígonos.
+
+Círculo, circunferencia, radio y diámetro.
+
+Triángulo, cuadrado y rectángulo.
+
+Superficies y volúmenes: cilindros y paralelepípedos.
+
+A.2 Física:
+
+La materia: estados de la materia.
+
+Temperatura, calor, calor específico, conductividad térmica.
+
+Efecto del calor sobre los gases en atmósferas explosivas.
+
+Ultrasonidos: fundamentos de la medición de espesor de chapa.
+
+Elasticidad y plasticidad.
+
+Resistencia física.
+
+Adherencia: normal y tangencial
+
+Velocidad, aceleración, masa, peso, fuerza, presión: concepto y unidades.
+
+Ley de Pascal, caudal: concepto y unidades.
+
+Corrientes galvánicas y de fugas.
+
+Protección catódica: fundamentos y tipología.
+
+A.3 Química:
+
+Tipos de combustible: propiedades.
+
+Concentración.
+
+Densidad.
+
+Viscosidad.
+
+Curado: elementos residuales.
+
+Dureza: ensayos y unidades.
+
+Resistencia química.
+
+Corrosión: clases y causas.
+
+Protecciones: activas y pasivas.
+
+A.4 Medio ambiente:
+
+Residuos peligrosos.
+
+Acuíferos.
+
+Contaminación.
+
+Causas y efectos de la propagación de la contaminación.
+
+Contaminación confinada.
+
+Sobrenadante.
+
+Concentraciones máximas permitidas: tabla danesa.
+
+Gestión de residuos.
+
+A.5 Seguridad:
+
+Clasificación de las zonas.
+
+Señalización de zonas de trabajo: criterios.
+
+Explosividad, L.I.E., inflamabilidad, punto de ignición.
+
+Puesta a tierra.
+
+Manejo del explosímetro.
+
+Extintores: clases y manejo.
+
+Desgasificación.
+
+Protección corporal: contra impactos, respiratoria.
+
+Ergonomía y esfuerzos.
+
+Primeros auxilios: nociones y aplicación.
+
+A.6 Instalaciones mecánicas:
+
+Tuberías normalizadas: metálicas y plásticas.
+
+Conexiones y uniones: mecánicas, soldadas, termofundidas.
+
+Accesorios: valvulería, medidores de nivel, cortallamas...
+
+Manómetros, manotermógrafos, equipos de precisión, fondo de escala, resolución.
+
+Ensayos no destructivos: espesor de chapa.
+
+A.7 Normativa:
+
+Reglamento de instalaciones petrolíferas e Instrucciones técnicas complementarias ITC-IP01, ITC-IP02, ITC-IP03 e ITC-IP04.
+
+UNE 53 991.
+
+Normas de seguridad: trabajos en recintos confinados.
+
+Normas medioambientales: almacenamiento y gestión de residuos peligrosos.
+
+Normativa en materia de prevención de riesgos laborales.
+
+#### B. Requerimientos prácticos
+
+Manejo de medidor de espesores de chapa.
+
+Manejo de explosímetro.
+
+Manejo de extintores.
+
+Prácticas de primeros auxilios.
+
+Acceso y evacuación en recintos confinados (arquetas, depósitos...).
+
+Puesta a tierra. Instalación de una pica y conexiones.
+
+Corte y unión de tubos de acero, cobre y plástico. Medidas de seguridad.
+
+Uniones mecánicas: codos, tuercas de unión, racores, llaves de corte.
+
+Fijación de tuberías y colocación de protecciones, pasamuros, vainas y sellados.
+
+Aplicación de protecciones pasivas (antioxidantes, cintas, etc.).
+
+Pruebas y tarado de válvulas de seguridad.
+
+Pruebas hidráulicas y neumáticas.
+
+Reparación y revestimiento de depósitos (se podrá elegir uno de los diferentes sistemas que prevé el informe UNE 53 991: Epoxi, Poliéster, Viniléster...).
+
+> Se modifica por el art. 11.18 del Real Decreto 560/2010, de 7 de mayo. [Ref. BOE-A-2010-8190](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-8190).

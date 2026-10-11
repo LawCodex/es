@@ -1,0 +1,61 @@
+---
+title: "Orden de 7 de marzo de 2001 por la que se crean, dependientes del Archivo General del Ministerio del Interior, las Secciones de las Direcciones Generales de la Policía y de la Guardia Civil"
+identifier: "BOE-A-2001-5183"
+eli: "https://www.boe.es/eli/es/o/2001/03/07/(2)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio del Interior"
+date: 2001-03-07
+published: 2001-03-16
+in_force_from: 2001-03-17
+last_amended: 2014-04-05
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 65"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2001-5183"
+retrieved: 2026-10-11
+---
+
+# Orden de 7 de marzo de 2001 por la que se crean, dependientes del Archivo General del Ministerio del Interior, las Secciones de las Direcciones Generales de la Policía y de la Guardia Civil
+
+La Orden de 21 de diciembre de 2000, por la que se crea la Comisión Calificadora de Documentos Administrativos del Ministerio del Interior y se regula el acceso a los archivos de él dependientes, aborda dos cuestiones fundamentales tal y como son la organización de los archivos departamentales y el régimen de acceso de los ciudadanos a la documentación obrante en los mismos. Con ello se ha dado un gran paso ante el reto que hoy en día supone para la Administración actual acometer con eficacia y transparencia la gestión de la cada vez más creciente documentación administrativa.
+
+Mediante la citada Orden se da cumplimiento a los artículos 58 y 65 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, articulando el sistema archivístico del Departamento, creando la Comisión Calificadora de Documentos Administrativos del Ministerio del Interior y estableciendo un cauce procedimental específico para la tramitación de las solicitudes de consulta de fondos documentales.
+
+Por otra parte, aunque el Archivo General del Ministerio del Interior es único, el apartado décimo de la citada Orden prevé que podrán crearse, mediante Orden del Ministro del Interior, Secciones del Archivo General en los órganos directivos del Departamento, cuando el volumen o la naturaleza de los documentos obrantes en los mismos así lo aconsejen.
+
+En este sentido, las Direcciones Generales de la Policía y de la Guardia Civil ejercen el mando directo de las Fuerzas y Cuerpos de Seguridad del Estado, a las cuales la Constitución y la Ley Orgánica 2/1986, de 13 de marzo, les atribuyen la misión de proteger el libre ejercicio de los derechos y libertades, velando por el cumplimiento de las leyes, previniendo o, en su caso, investigando la comisión de actos delictivos, y todo ello con el objeto de mantener el orden y la seguridad ciudadana.
+
+Pues bien, si a la especial naturaleza de estas funciones se añade la ingente cantidad y el crecimiento exponencial de la documentación existente en los archivos de ambas Direcciones Generales, surge la necesidad de hacer uso de la previsión contenida en el apartado décimo de la citada Orden, creando dos Secciones del Archivo General del Departamento en los citados órganos directivos.
+
+En su virtud, dispongo:
+
+## Primero. Creación.
+
+Se crean, dependientes del Archivo General del Ministerio del Interior, las Secciones de la Dirección General de la Policía y de la Dirección General de la Guardia Civil.
+
+## Segundo. Adscripción.
+
+1\. La Sección de la Dirección General de la Policía queda adscrita a la Subdirección General de Logística.
+
+2\. La Sección de la Dirección General de la Guardia Civil quedará adscrita a la Subdirección General de Personal.
+
+> Se modifica por la disposición final 1 de la Orden INT/533/2014, de 19 de marzo. [Ref. BOE-A-2014-3653](https://www.boe.es/buscar/doc.php?id=BOE-A-2014-3653).
+
+## Tercero. Coordinación.
+
+La Secretaría General Técnica, a través del Archivo General del Ministerio del Interior, desempeñará las funciones de coordinación y asistencia técnica de estas Secciones.
+
+## Cuarto. Gasto público.
+
+La constitución y el funcionamiento de estas Secciones serán atendidos con los actuales medios personales y materiales del Departamento, sin que la aprobación de esta norma suponga incremento de gasto público.
+
+## Quinto. Entrada en vigor.
+
+La presente Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 7 de marzo de 2001.
+
+RAJOY BREY

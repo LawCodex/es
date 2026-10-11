@@ -1,0 +1,1373 @@
+---
+title: "Real Decreto 687/2002, de 12 de julio, por el que se aprueba el Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas"
+identifier: "BOE-A-2002-13981"
+eli: "https://www.boe.es/eli/es/rd/2002/07/12/687"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Ciencia y Tecnología"
+date: 2002-07-12
+published: 2002-07-13
+in_force_from: 2002-07-31
+last_amended: 2019-04-30
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 167"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-13981"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 687/2002, de 12 de julio, por el que se aprueba el Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas
+
+La Ley 17/2001, de 7 de diciembre, de Marcas, en su disposición final segunda autoriza al Consejo de Ministros a dictar cuantas disposiciones de aplicación y desarrollo de dicha Ley sean necesarias. Asimismo, son cuantiosos los artículos de la citada Ley -artículos 1.2, 11.6 y 7, 12.3, 16.1.c) y 2, 18.1 y 4, 19.1, 30.2 y 4, 49.1, 82.2 y 4 y 86.2, entre otros- que prevén su desarrollo por vía reglamentaria. A estos efectos, se ha procedido a la elaboración del Reglamento de ejecución de la Ley, ordenándolo en ocho títulos, tres disposiciones adicionales y tres disposiciones transitorias.
+
+El presente Real Decreto y el Reglamento ejecutivo que aprueba se dictan al amparo de la competencia exclusiva del Estado en materia de legislación sobre propiedad industrial, prevista por el artículo 149.1.9.ª de la Constitución.
+
+El Título I se destina a regular la solicitud de registro como conjunto de documentos esenciales no sólo para obtener la protección solicitada sino también para delimitar, frente a los terceros, los elementos constitutivos del derecho solicitado. Con esta finalidad se establecen pormenorizadamente los requisitos que ha de cumplir la identificación del solicitante, la reproducción del signo en que consista la marca y el ámbito de protección de la misma, es decir, los productos y servicios a que se aplicará en el mercado. Dentro de este mismo título se regula la presentación de la solicitud y la reivindicación de los derechos de prioridad unionista y de exposiciones (Convenio de la Unión de París para la Protección de la Propiedad Industrial de 20 de marzo de 1883), también como elementos esenciales del derecho solicitado, en cuanto fijan la fecha de nacimiento del mismo, si la solicitud fuera concedida, y, por tanto, la preferencia o prelación de dicho derecho frente a otros posteriores incompatibles con el mismo.
+
+El Título II versa sobre el procedimiento de registro y consta de seis capítulos, en consonancia con las seis fases procedimentales fundamentales del registro de los signos distintivos. El capítulo I regula el examen de forma de la solicitud, estableciendo los distintos elementos que comprende dicho examen: Requisitos relativos a la fecha de presentación (documentación mínima), a las formalidades de la solicitud y a la legitimación del solicitante.
+
+Se prevé la posibilidad de que todos estos requisitos sean examinados en un único acto y se fijan las condiciones en que los órganos competentes de las Comunidades Autónomas han de remitir la solicitud, con todo lo actuado, a la Oficina Española de Patentes y Marcas.
+
+El capítulo II regula el examen de licitud de la marca solicitada, sin cuya superación la solicitud de marca no podrá ser publicada por incurrir en defectos atinentes al orden público o las buenas costumbres. El capítulo III fija detalladamente los elementos de la solicitud de marca que han de ser publicados en el "Boletín Oficial de la Propiedad Industrial" para conocimiento y defensa, vía oposición, de posibles terceros interesados.
+
+Previamente a esta publicación, la Oficina Española de Patentes y Marcas deberá haber efectuado una búsqueda de anterioridades respecto de la solicitud presentada y, según los resultados de esta búsqueda, informar de la publicación de la nueva solicitud a los titulares de signos anteriores que pudieran formular justificadamente una oposición contra la misma. El capítulo IV establece los requisitos formales que deben concurrir en la formulación del escrito de oposición y los motivos que pueden determinar la inadmisión de la misma. El capítulo V regula el examen de fondo y la resolución final del expediente, previendo el oportuno y preceptivo tramite de audiencia al solicitante para la defensa de su solicitud, en el supuesto de que la misma hubiera tenido oposiciones o hubiera sido reparada de oficio por la Administración.
+
+Finalmente, el capítulo VI, referido al registro de la marca, establece las menciones y datos que han de constar en la publicación de la concesión de la marca y en el título registro de la misma.
+
+El Título III desarrolla todo lo concerniente a la renovación del registro de la marca: Contenido de la solicitud, renovación solicitada por derechohabiente y procedimiento de renovación.
+
+El Título IV regula la transmisión de la marca, otorgamiento de licencias sobre la misma, constitución de derechos reales y demás modificaciones de derechos, así como el procedimiento de inscripción, cancelación o modificación de estos derechos o negocios en el Registro de Marcas.
+
+El Título V se destina exclusivamente a regular la renuncia de la marca, tanto total como parcial, y el procedimiento de inscripción de la misma.
+
+El Título VI, marcas colectivas y de garantía y nombres comerciales, establece, en relación con estos signos distintivos, el principio normativo de la aplicación, mutatis mutandis, de las normas previstas en el Reglamento para las marcas individuales, precisando, no obstante, ciertas especificidades de estas modalidades registrales y el contenido del Reglamento de uso y su modificación, en el caso de las marcas colectivas o de garantía.
+
+El Título VII versa sobre ciertas solicitudes y procedimientos propios y específicos de las marcas internacionales y comunitarias. En concreto, se desarrolla el examen preliminar de la solicitud de registro internacional y las solicitudes de transformación de los registros internacionales y marcas comunitarias.
+
+El Título VIII prevé las disposiciones generales sobre los distintos procedimientos y consta de seis capítulos.
+
+El capítulo I precisa todo lo referente a la modificación de la solicitud o registro de la marca, así como la rectificación de errores y los cambios de nombre o dirección del interesado o representante. El capítulo II regula la división de la solicitud o registro de la marca, figura de nuevo cuño, impuesta por el Tratado sobre el Derecho de Marcas de 27 de octubre de 1994 (ratificado por Instrumento de 13 de noviembre de 1998). El capítulo III desarrolla la solicitud y procedimiento de restablecimiento de derechos, figura también novedosa, que se recepciona del derecho comunitario de marcas y europeo de patentes. El capítulo IV se destina a precisar ciertos elementos referidos a las notificaciones y comunicaciones de los interesados, abriéndose a la nueva sociedad de la información. El capítulo V se consagra al Registro de Marcas y a la información al público, estableciendo minuciosamente los datos que han de inscribirse en dicho Registro y los diferentes modos en que los interesados pueden acceder a la información pública contenida en el mismo. Finalmente, el capítulo VI precisa determinadas cuestiones relacionadas con la representación, debiendo destacarse la admisión de poderes generales de representación.
+
+Por su parte, la disposición adicional primera desarrolla la disposición adicional cuarta de la Ley, explicitando el sentido del vocablo "trámite" dentro del ámbito de los procedimientos en materia de la propiedad industrial.
+
+La disposición adicional segunda, en desarrollo de la disposición adicional séptima de la Ley, prevé la aplicación, mutatis mutandis, de las disposiciones del Reglamento, referidas al restablecimiento de derechos, a las demás modalidades de propiedad industrial. Finalmente, la disposición adicional tercera establece como principio general del cómputo de los plazos administrativos lo previsto en el artículo 48 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Por último, las disposiciones transitorias primera, segunda y tercera regulan ciertos procedimientos de carácter intertemporal, como son la renovación por una sola vez de los rótulos de establecimiento, la clasificación de los nombres comerciales conforme a la Clasificación Internacional y la fusión de registros.
+
+En su virtud, a propuesta del Ministro de Ciencia y Tecnología, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 12 de julio de 2002,
+
+##### D I S P O N G O :
+
+###### Artículo único. Aprobación del Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas.
+
+Se aprueba el Reglamento para la ejecución de la Ley 17/2001, de 7 de diciembre, de Marcas, cuyo texto se inserta a continuación.
+
+###### Disposición derogatoria única. Derogación normativa.
+
+1\. Quedan derogadas todas aquellas disposiciones de igual o inferior rango en cuanto contradigan o se opongan a lo dispuesto en el Reglamento que se aprueba por este Real Decreto.
+
+2\. Quedan derogadas expresamente las siguientes disposiciones:
+
+a) El Reglamento para la ejecución de la Ley 32/1988, de 10 de noviembre, de Marcas, aprobado por el Real Decreto 645/1990, de 18 de mayo.
+
+b) El Reglamento de los procedimientos relativos a la concesión, mantenimiento y modificación de los derechos de propiedad industrial, aprobado por el Real Decreto 441/1994, de 11 de marzo, en cuanto afecta a las marcas, nombres comerciales y rótulos de establecimiento.
+
+###### Disposición final primera. Título competencial.
+
+El presente Real Decreto se dicta al amparo de la competencia estatal exclusiva en materia de legislación sobre propiedad industrial, prevista en el artículo 149.1.9.ª de la Constitución.
+
+###### Disposición final segunda. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el 31 de julio de 2002.
+
+Dado en Madrid a 12 de julio de 2002.
+
+JUAN CARLOS R.
+
+El Ministro de Ciencia y Tecnología,
+
+JOSEP PIQUÉ I CAMPS
+
+## REGLAMENTO PARA LA EJECUCIÓN DE LA LEY 17/2001, DE 7 DE DICIEMBRE, DE MARCAS
+
+### TÍTULO I — Solicitud de registro
+
+###### Artículo 1. Contenido de la solicitud de registro.
+
+1\. La solicitud de registro de marca deberá contener:
+
+a) Una petición de registro de la marca.
+
+b) El nombre y dirección del solicitante, así como el Estado en el que tenga su domicilio, su sede o un establecimiento industrial o comercial serio y efectivo. En el supuesto de que la solicitud se presentara en una Comunidad Autónoma distinta de la del domicilio del solicitante, indicación del establecimiento industrial o comercial serio y efectivo que se posee en el territorio de la Comunidad Autónoma de presentación de la solicitud; esta última indicación no será necesaria si el solicitante actúa por medio de representante y este tuviera su domicilio o una sucursal seria y efectiva en el territorio de la Comunidad Autónoma de presentación de la solicitud. Cuando el solicitante sea una persona física, se indicará su nombre y apellidos; y cuando sea una entidad de derecho público o una persona jurídica, se indicará su denominación oficial, que incluirá la forma jurídica de la misma y que se podrá abreviar de la manera usual.
+
+A efectos de notificaciones, se podrá consignar otra dirección postal. Asimismo, se podrá indicar el número de teléfono, correo electrónico u otro medio de comunicación, indicando de entre ellas la forma preferente de notificación. En el supuesto de que hubiera varios solicitantes, se especificará la dirección o medio de comunicación de uno de ellos a efectos de notificaciones; de no hacerse así, las notificaciones se dirigirán al solicitante mencionado en primer lugar en la solicitud.
+
+c) En el supuesto de que el solicitante actúe por sí mismo y no tenga domicilio ni sede social en territorio del Estado español, deberá designar, a efecto de notificaciones, una dirección postal en España o en el Espacio Económico Europeo o, alternativamente, indicar que las notificaciones le sean dirigidas por cualquier otro medio técnico de comunicación de que disponga la Oficina Española de Patentes y Marcas, sin perjuicio de lo dispuesto en el artículo 175.2 de la Ley 24/2015, de 24 de julio, de Patentes.
+
+d) La representación de la marca de conformidad con lo previsto en el artículo 2 de este Reglamento.
+
+e) La lista de productos o servicios para los que se solicite el registro de la marca, con arreglo a lo establecido en el artículo 3 de este Reglamento.
+
+f) Cuando el solicitante actúe por medio de un representante, el nombre y dirección del mismo de conformidad con el párrafo b), indicando, cuando proceda conforme a lo previsto en el apartado 4 del artículo 11 de la Ley 17/2001, de 7 de diciembre, de Marcas, la sucursal seria y efectiva que se posee en el territorio de la Comunidad Autónoma de presentación de la solicitud. Esta última indicación no será necesaria si el solicitante tiene su domicilio, su sede o un establecimiento industrial o comercial serio y efectivo en el territorio de la Comunidad Autónoma de presentación de la solicitud.
+
+g) Cuando el solicitante desee prevalerse de la prioridad de una solicitud anterior, de conformidad con lo previsto en el artículo 14 de la Ley 17/2001, una declaración en tal sentido en la que se indique el país y fecha de presentación de dicha solicitud anterior y, a ser posible, el número de la misma, y si la reivindicación de la prioridad no se aplica a todos los productos o servicios enumerados en la solicitud, la indicación de los productos o servicios a que dicha reivindicación se refiera.
+
+h) Cuando el solicitante desee prevalerse de la prioridad de exposición, de conformidad con lo previsto en el artículo 15 de la Ley 17/2001, una declaración en tal sentido en la que se indique la denominación de la exposición y la fecha de la primera presentación de los productos o servicios, y si la reivindicación de la prioridad no se aplica a todos los productos o servicios enumerados en la solicitud, la indicación de los afectados por dicha reivindicación.
+
+i) Cuando proceda, una mención de que la solicitud se refiere al registro de una marca colectiva o de garantía de conformidad con lo dispuesto, respectivamente, en los artículos 62 y 68 de la Ley 17/2001.
+
+j) Cuando la solicitud se refiera al registro de una marca por transformación de un registro internacional, una mención en dicho sentido, con indicación del número y fecha del registro internacional y si está concedido o pendiente de concesión en España, de conformidad con lo dispuesto en el artículo 83 de la Ley 17/2001.
+
+k) Firma del solicitante o de su representante.
+
+2\. La solicitud de marca colectiva y de garantía deberán incluir su Reglamento de uso.
+
+3\. En la solicitud podrá incluirse una reivindicación de que el signo solicitado ha adquirido carácter distintivo por el uso, en el sentido del artículo 5.2 de la Ley 17/2001, de 7 de diciembre. Esta reivindicación también podrá presentarse en el plazo previsto en el artículo 20.2 de este Reglamento.
+
+> Se modifican las letras b), c) y d) del apartado 1 y se añade el apartado 3 por el art. único.1 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Se modifica el apartado 1.c) por el art. 4.1 del Real Decreto 1431/2008, de 29 de agosto. [Ref. BOE-A-2008-14979](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14979)
+
+###### Artículo 2. Representación de la marca.
+
+1\. La marca deberá estar representada en cualquier forma que se considere adecuada usando la tecnología generalmente disponible, siempre que pueda reproducirse en el registro de manera clara, precisa, completa en sí misma, fácilmente accesible, inteligible, duradera y objetiva, de un modo que permita a las autoridades competentes y al público en general determinar con claridad y exactitud el objeto preciso de la protección otorgada a su titular.
+
+2\. La representación de la marca definirá el objeto del registro. En los casos en que la representación vaya acompañada de una descripción escrita, esta deberá concordar con la representación y no extender su ámbito de protección.
+
+3\. Cuando la solicitud se refiera a alguno de los tipos de marcas enumerados en las letras a) a j) siguientes, deberá contener una indicación al respecto. Sin perjuicio de lo dispuesto en los apartados 1 o 2 del presente artículo, el tipo de la marca y su representación se ajustarán a lo previsto a continuación:
+
+a) En el caso de una marca constituida exclusivamente por palabras o letras, números u otros caracteres tipográficos estándar o una combinación de ambos (marca denominativa), la marca estará representada por la presentación de una reproducción del signo en escritura y disposición estándar, sin características gráficas o color. En este caso, la marca se publicará y registrará en los caracteres estándar que utilice la Oficina Española de Patentes y Marcas. En el “Boletín Oficial de la Propiedad Industrial” se publicará el conjunto de caracteres estándar utilizados por dicha Oficina.
+
+b) En el caso de una marca con caracteres, estilización o disposición especiales o con una característica gráfica o un color (marca figurativa), incluidas las marcas que estén compuestas exclusivamente por elementos figurativos o por una combinación de elementos denominativos y figurativos, la marca estará representada por la presentación de una reproducción del signo con todos sus elementos y, en su caso, sus colores.
+
+c) En el caso de que la marca consista en una forma tridimensional en sí misma, incluidos los recipientes, el embalaje, el producto mismo o su apariencia, o en una forma que además contenga otros elementos (marca tridimensional), la marca estará representada por la presentación o bien de una reproducción gráfica de dicha forma, incluidas las imágenes generadas por ordenador, o bien de una reproducción fotográfica. La reproducción gráfica o fotográfica podrá contener distintas vistas. Cuando la representación no se facilite electrónicamente, podrá contener hasta seis vistas diferentes.
+
+d) En el caso de una marca consistente en la manera específica en que la marca se coloca o figura en el producto (marca de posición), la marca se representará mediante la presentación de una reproducción que identifique adecuadamente la posición de la marca y su tamaño o proporción en relación con los productos de que se trate. Los elementos que no formen parte del objeto del registro deberán ser excluidos visualmente, preferentemente por líneas discontinuas o punteadas. La representación podrá ir acompañada de una descripción en la que se detalle la forma en que se coloca el signo sobre los productos.
+
+e) En el caso de una marca constituida exclusivamente por un conjunto de elementos que se repiten periódicamente (marca de patrón), la marca estará representada por la presentación de una reproducción que muestre el patrón de repetición. La representación podrá ir acompañada de una descripción que detalle cómo sus elementos se repiten periódicamente.
+
+f) En el caso de una marca de color, cuando la marca esté compuesta exclusivamente de un solo color sin contornos, estará representada por la presentación de una reproducción del color y una indicación de dicho color por referencia a un código de color generalmente reconocido. Cuando la marca de color esté constituida exclusivamente por una combinación de colores sin contornos, estará representada por la presentación de una reproducción que muestre la disposición sistemática de la combinación de los colores de manera uniforme y predeterminada y una indicación de esos colores por referencia a un código de color generalmente reconocido; podrá añadirse también una descripción detallada de la disposición sistemática de los colores.
+
+g) En el caso de una marca constituida exclusivamente por un sonido o combinación de sonidos (marca sonora), la marca estará representada por la presentación de un archivo de audio que reproduzca el sonido o por una representación exacta del sonido en notación musical.
+
+h) En el caso de una marca compuesta de un movimiento o un cambio en la posición de los elementos de la marca, o que los incluya, (marca de movimiento), la marca estará representada por la presentación de un archivo de vídeo o una serie de imágenes que muestre el movimiento o cambio de posición o de una serie de imágenes secuenciales fijas que muestren el movimiento o el cambio de posición; en aquellos casos en los se utilicen imágenes fijas, éstas podrán ir numeradas o acompañadas de una descripción explicativa de la secuencia.
+
+i) En el caso de una marca constituida por la combinación de imagen y sonido, o que los incluya (marca multimedia), la marca estará representada por la presentación de un archivo audiovisual que contenga la combinación de la imagen y del sonido.
+
+j) En el caso de una marca compuesta por elementos con características holográficas (marca holograma), la marca estará representada por la presentación de un archivo de vídeo o una reproducción gráfica o fotográfica que contengan las vistas necesarias para identificar suficientemente el efecto holográfico en su totalidad.
+
+4\. Cuando la marca no esté cubierta por ninguno de los tipos enumerados en el apartado 3, su representación cumplirá las normas establecidas en el apartado 1 y podrá ir acompañada de una descripción.
+
+5\. El Director de la Oficina Española de Patentes y Marcas podrá disponer mediante resolución las especificaciones técnicas que ha de cumplir la representación de la marca, así como los formatos, tamaño máximo y modo de presentación de los archivos electrónicos en que se represente la marca.
+
+6\. Cuando la representación no se presente por medios electrónicos, la marca podrá reproducirse en hoja aparte separada de aquella en la que figure el texto de la solicitud. La hoja en la que se reproduzca la marca deberá contener todas las visiones o imágenes pertinentes y sus dimensiones se limitarán al formato DIN A4 (29,7 cm de alto y 21 cm de ancho). Se dejará en toda su superficie un margen mínimo de 2,5 cm.
+
+7\. Si la correcta orientación de la marca no resulta evidente, se indicará con la mención “parte superior” en cada reproducción.
+
+8\. La reproducción de la marca será de calidad tal que pueda:
+
+a) Reducirse a un tamaño no inferior a 8 cm de ancho por 8 cm de alto; o
+
+b) Ampliarse a un tamaño no superior a 8 cm de ancho por 8 cm de alto.
+
+9\. La presentación de una muestra o un modelo no constituirá una representación adecuada de la marca.
+
+10\. Cuando el solicitante desee, de conformidad con lo previsto en el artículo 21.2 de la Ley 17/2001, de 7 de diciembre, excluir de la protección solicitada alguno de los elementos que conforman la marca, efectuará una declaración en este sentido en la solicitud e indicará los elementos sobre los que no reivindica un derecho exclusivo de utilización.
+
+> Se modifica por el art. único.2 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 3. Lista de productos y servicios.
+
+1\. Los productos y servicios para los que se solicita el registro de la marca se clasificarán de conformidad con el sistema de clasificación establecido por el Arreglo de Niza relativo a la Clasificación Internacional de Productos y Servicios para el Registro de las Marcas, de 15 de junio de 1957 (“la Clasificación Internacional”).
+
+2\. El solicitante identificará los productos y servicios para los que se solicita la protección de la marca con la suficiente claridad y precisión para permitir que las autoridades competentes y los operadores económicos determinen, sobre esa única base, el grado de protección perseguido.
+
+3\. A efectos de lo dispuesto en el apartado 2, podrán utilizarse las indicaciones de carácter general que figuran en los títulos de las clases de la Clasificación Internacional u otros términos generales, a condición de que se ajusten a los niveles exigidos de claridad y precisión establecidos en el presente artículo.
+
+4\. La Oficina Española de Patentes y Marcas rechazará las solicitudes que contengan indicaciones o términos poco claros o imprecisos en caso de que el solicitante no proponga una formulación aceptable en el plazo que a tal efecto se le conceda.
+
+5\. Cuando se utilicen términos generales, incluidas las indicaciones de carácter general de los títulos de las clases de la Clasificación Internacional, se entenderá que estos incluyen todos los productos o servicios claramente comprendidos en el tenor literal de la indicación o el término considerado. No deberá entenderse que tales términos o indicaciones incluyen productos o servicios que no puedan considerarse comprendidos en ese tenor literal.
+
+6\. Cuando el solicitante solicite el registro para más de una clase, agrupará los productos y servicios con arreglo a las clases de la Clasificación Internacional, cada grupo irá precedido del número de la clase a la que ese grupo de productos o servicios pertenezca, y los presentará en el orden de las clases.
+
+7\. Los productos y servicios no se considerarán similares entre sí por el hecho de figurar en la misma clase de la Clasificación Internacional. Los productos y servicios no se considerarán distintos entre sí por el hecho de incluirse en distintas clases de la Clasificación Internacional.
+
+> Se modifica por el art. único.3 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 4. Justificante del pago de la tasa de solicitud.
+
+1\. A la solicitud de registro de la marca deberá adjuntarse el justificante del pago de la tasa de solicitud. Este justificante consistirá en el formulario que a tal efecto disponga la Oficina Española de Patentes y Marcas y en el mismo constará, además de la tasa e importe abonado, el nombre del solicitante, del representante si lo hubiere, y el número de la clase o clases en cuyo concepto se abona la tasa.
+
+2\. Cuando el pago de la tasa se efectúe por medios informáticos, electrónicos o telemáticos, el justificante del pago consistirá en el recibo que se expida de acuerdo con las características del soporte utilizado y deberá reunir los requisitos expresados anteriormente.
+
+###### Artículo 5. Presentación de la solicitud.
+
+1\. La solicitud de registro de la marca se presentará en los lugares mencionados en el artículo 11 de la Ley 17/2001 y de conformidad con lo previsto en el mismo.
+
+2\. La solicitud deberá presentarse en los impresos normalizados que a tal efecto establezca la Oficina Española de Patentes y Marcas. No obstante, no se rechazará la solicitud si la misma es presentada en el formulario internacional tipo previsto en el Reglamento del Tratado sobre el Derecho de Marcas de 27 de octubre de 1994.
+
+3\. El Ministerio de Ciencia y Tecnología, a propuesta de la Oficina Española de Patentes y Marcas, podrá establecer que la presentación de la solicitud de registro de marca pueda o, en su caso, deba llevarse a cabo en soporte magnético o por medios electrónicos o telemáticos.
+
+4\. El órgano competente para recibir la solicitud hará constar en los documentos que la compongan el número del expediente que le haya correspondido y el lugar, día, hora y minuto de su presentación. La Oficina Española de Patentes y Marcas establecerá, para su empleo generalizado por los distintos órganos competentes, sistemas normalizados de numeración y datación de las solicitudes de registro.
+
+5\. En el mismo momento de la recepción, el órgano competente expedirá al depositante un recibo acreditativo de la presentación de la solicitud. Si ésta fuera acompañada de una copia, se verificará la concordancia de la misma con la solicitud y el recibo consistirá en la entrega de dicha copia, en la que se hará constar el número del expediente y el lugar, día, hora y minuto de presentación. De no acompañarse copia, el órgano competente podrá optar por realizarla a su costa, entregándosela al depositante con los mismos requisitos anteriormente señalados o por la expedición de un recibo en el que conste el número de expediente, una reproducción, descripción u otra identificación de la marca, la naturaleza y el número de documentos, y el lugar, día, hora y minuto de presentación. Cuando un mismo depositante presente simultáneamente más de 10 solicitudes sin copia, podrá expedirse el recibo de presentación dentro de los dos días hábiles siguientes, entregándose en el acto de recepción un justificante con la indicación de las solicitudes recibidas, los números de expedientes otorgados y el día, hora y minuto de su presentación.
+
+6\. Cuando la solicitud se presente en los soportes o por los medios previstos en el apartado 3, el recibo se expedirá de conformidad con dichos soportes o medios y deberá reunir los requisitos expresados en el apartado anterior.
+
+7\. Dentro de los cinco días siguientes al de recepción de la solicitud, el órgano competente de la Comunidad Autónoma remitirá a la Oficina Española de Patentes y Marcas una copia de la solicitud en la que conste el número de expediente y el lugar, día, hora y minuto de la presentación. La Oficina Española de Patentes y Marcas podrá establecer medios informáticos, electrónicos o telemáticos para la transmisión inmediata de la copia de la solicitud o de los datos en ella contenidos.
+
+###### Artículo 6. Reivindicación del derecho de prioridad unionista.
+
+1\. Si en la solicitud de registro se reivindicara la prioridad de una o varias solicitudes anteriores, el solicitante deberá comunicar el número de éstas, si aún no lo hubiera hecho, y presentar una copia de las mismas certificada conforme por la oficina de origen en el plazo de tres meses, a contar desde la fecha de presentación de la solicitud de registro. En dicha copia deberá constar la fecha de presentación de la solicitud anterior y deberá venir acompañada de una traducción al castellano, si dicha solicitud anterior no estuviere redactada en esta lengua.
+
+2\. La Oficina Española de Patentes y Marcas podrá disponer que la copia certificada por la oficina de origen pueda ser obtenida de una biblioteca digital aceptada por ambas oficinas. La traducción a que se refiere el apartado 1 deberá ser presentada en el plazo fijado en dicho apartado.
+
+> Se modifica por el art. único.4 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 7. Reivindicación del derecho de prioridad de exposición.
+
+Si en la solicitud de registro se hubiera reivindicado prioridad de exposición, el solicitante deberá presentar un certificado expedido por la autoridad de la exposición encargada de la protección de la propiedad industrial en el plazo de tres meses, a contar desde la fecha de presentación de la solicitud de registro. En dicho certificado se hará constar que la marca fue efectivamente utilizada en la exposición, el nombre del titular de la misma, los productos o servicios concretos para los que fue usada, el día de inauguración de la exposición y de la primera utilización pública de la marca en la exposición. El certificado deberá ir acompañado de una identificación de la marca tal como fue realmente utilizada en la exposición, debidamente certificada por la autoridad anteriormente mencionada.
+
+### TÍTULO II — Procedimiento de registro
+
+#### CAPÍTULO I — Examen de forma
+
+###### Artículo 8. Examen de los requisitos formales de la solicitud necesarios para obtener fecha de presentación.
+
+1\. El órgano competente examinará si la solicitud incluye:
+
+a) Una indicación expresa o implícita de que se solicita el registro de la marca.
+
+b) La información que permita identificar al solicitante.
+
+c) Una representación de la marca que cumpla los requisitos establecidos en el artículo 4.b) de la Ley 17/2001, de 7 de diciembre.
+
+d) Una lista de los productos o servicios para los que se solicite la marca.
+
+2\. Si del examen resultara que la solicitud no cumple con alguno de los requisitos previstos en el apartado anterior, el órgano competente notificará al solicitante la imposibilidad de otorgar una fecha de presentación a la solicitud y le señalará las irregularidades observadas, con indicación de que, si no las subsanase, se le tendrá por desistido de su solicitud. Para la subsanación de estas irregularidades se otorgará al solicitante el plazo de un mes, si tuviera su dirección en España, o de dos meses, si dicha dirección estuviera fuera del territorio español.
+
+3\. Si se subsanasen las irregularidades señaladas en el plazo prescrito conforme al apartado anterior, la fecha de presentación de la solicitud será la del día en que el órgano competente hubiera recibido el escrito de subsanación. Si las irregularidades no se subsanaran en la debida forma y en el plazo prescrito, la solicitud se tendrá por desistida. La resolución de desistimiento será notificada al solicitante.
+
+> Se modifica el apartado 1 por el art. único.5 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 9. Examen de los requisitos formales de la solicitud.
+
+1\. Una vez efectuado el examen previsto en el artículo anterior, el órgano competente procederá a examinar si la solicitud cumple los requisitos enunciados en los artículos 1, 2, 3, 4 y 5.2 del presente Reglamento y, si se hubiera reivindicado prioridad, los exigidos en los artículos 6 y 7 del mismo.
+
+2\. Si del examen efectuado resultara que la solicitud no cumple alguno de los requisitos previstos en el apartado anterior, el órgano competente notificará al solicitante los defectos observados, otorgándole el plazo de un mes para que proceda a su subsanación, con indicación de que, si así no lo hiciera, se le tendrá por desistido total o parcialmente de su petición. El solicitante al contestar al suspenso podrá retirar, limitar, modificar o dividir la solicitud.
+
+3\. Si en el plazo prescrito no se subsanaran los defectos señalados, se tendrá por desistida la solicitud, salvo lo previsto en los apartados siguientes.
+
+4\. Si el defecto señalado fuera la falta de pago o el pago incompleto de la tasa de solicitud, y en el plazo prescrito no se hubieran subsanado estas irregularidades, se tendrá por desistida la solicitud, salvo en el supuesto de que la cuantía abonada cubriera el importe de la tasa de solicitud para una o más clases. En este caso, se considerará desistida la solicitud únicamente respecto de las clases por las que no se hubiera abonado la tasa de solicitud o se hubiera abonado parcialmente. A falta de indicación del solicitante, se considerarán pagadas las clases incluidas en primer lugar en la solicitud.
+
+5\. En el caso de que los defectos observados se refirieran a la reivindicación de prioridad, la no subsanación de los mismos sólo determinará la pérdida de dicho derecho para la solicitud.
+
+6\. Cuando los defectos observados sólo afecten a algunos de los productos o servicios solicitados, y los mismos no hubieran sido subsanados, se tendrá por desistida la solicitud o por perdido el derecho de prioridad únicamente respecto de tales productos o servicios.
+
+La resolución en la que se tenga por desistida total o parcialmente la solicitud o por perdido el derecho de prioridad se notificará al solicitante.
+
+###### Artículo 10. Examen de la legitimación del solicitante.
+
+Cuando en virtud de lo dispuesto en el artículo 3 de la Ley 17/2001, de 7 de diciembre, el solicitante no pudiera ser titular de una marca, el órgano competente se lo notificará al solicitante y le otorgará el plazo de un mes para que desista de la solicitud o presente las alegaciones que estime oportunas, con indicación de que, si así no lo hiciera, se le tendrá por desistido de su solicitud. En el caso de que el solicitante no subsane este defecto, se le tendrá por desistido de la solicitud. La resolución de desistimiento se notificará al solicitante.
+
+> Se modifica por el art. único.6 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 11. Notificación conjunta de defectos y plazo de subsanación.
+
+1\. Todos los defectos en que incurriera la solicitud, tanto por incumplimiento de los requisitos exigidos en el artículo 8.1 como por incumplimiento de los exigidos en los artículos 9.1 y 10 de este Reglamento, podrán ser comunicados al solicitante conjuntamente mediante una única notificación.
+
+2\. El órgano competente otorgará al solicitante, para la subsanación de los defectos señalados, el plazo de un mes, si el solicitante tuviera su dirección dentro del territorio español, o dos meses, si la tuviera fuera de España y alguno de los defectos señalados se basara en el incumplimiento de los requisitos previstos en el artículo 8.1 de este Reglamento.
+
+###### Artículo 12. Remisión de la solicitud.
+
+1\. La remisión de las solicitudes, con todo lo actuado, y las notificaciones previstas en el artículo 17 de la Ley 17/2001, por parte de los órganos competentes de las Comunidades Autónomas, podrán efectuarse por medios electrónicos o telemáticos cuando así se disponga por Orden del Ministro de Ciencia y Tecnología.
+
+Las condiciones generales y los requisitos y características técnicas de estas comunicaciones serán fijadas por resolución del Director de la Oficina Española de Patentes y Marcas.
+
+2\. Las solicitudes que no tuvieran defectos o que hubieran sido subsanadas serán remitidas inmediatamente a la Oficina Española de Patentes y Marcas.
+
+3\. Si una solicitud hubiera sido tenida por desistida parcialmente, sólo se remitirá cuando esa resolución fuera firme, salvo que, por una división de la solicitud presentada en la contestación al suspenso o en la interposición del recurso, la parte de la solicitud que no incurriera en defectos constituyera el objeto de una solicitud divisional, en cuyo caso se remitirá como tal solicitud divisional, conforme a lo previsto en el artículo 46.5 de este Reglamento.
+
+4\. El acuerdo de desistimiento será comunicado a la Oficina Española de Patentes y Marcas por el órgano competente de la correspondiente Comunidad Autónoma cuando sea firme, salvo que el mismo fuera recurrido, en cuyo caso, además de dicho acuerdo, se comunicará la interposición del recurso, su resolución y, si procede, los recursos jurisdiccionales interpuestos contra aquélla y sentencias recaídas.
+
+#### CAPÍTULO II — Examen de licitud
+
+###### Artículo 13. Examen de licitud.
+
+1\. Recibida la solicitud de registro de marca, la Oficina Española de Patentes y Marcas procederá a examinar si la misma incurre en la prohibición prevista en el artículo 5.1.f) de la Ley 17/2001 y si padece algún defecto que imposibilite su publicación.
+
+2\. Si del examen efectuado resultara que la solicitud incurre, para la totalidad o parte de los productos o servicios solicitados, en la prohibición o en alguno de los defectos a que se refiere el apartado 1, se decretará la suspensión del expediente y se comunicarán al solicitante los defectos o motivos de denegación detectados, otorgándole el plazo de un mes para que los subsane o conteste a los mismos. Cuando el motivo del suspenso se refiriera a un defecto formal, se indicará al interesado que, si no lo subsanase, se le tendrá por desistido total o parcialmente de su petición.
+
+3\. En la contestación al suspenso, el solicitante podrá retirar, limitar, modificar o dividir la solicitud.
+
+4\. En el caso de que el solicitante no supere los reparos señalados, la Oficina Española de Patentes y Marcas tendrá por desistida o denegará la solicitud total o parcialmente ; estas resoluciones se notificarán al solicitante. En el caso de desistimiento o denegación parcial, la parte de la solicitud que no incurra en ningún reparo no será publicada hasta que dicha resolución sea firme, salvo que, por una división de la solicitud presentada en la contestación al suspenso o en la interposición del recurso, dicha parte de la solicitud constituyera el objeto de una solicitud divisional, en cuyo caso se publicará como tal solicitud divisional.
+
+###### Artículo 14. Examen conjunto de licitud y forma.
+
+1\. Cuando la Oficina Española de Patentes y Marcas fuera el órgano competente para recibir y examinar formalmente la solicitud, podrá efectuar el examen de licitud conjuntamente con el examen de forma previsto en el capítulo anterior, comunicando al solicitante mediante una única notificación tanto los defectos de forma como los de licitud que hubiera observado.
+
+2\. En el caso de efectuarse el examen conjunto, se estará a lo dispuesto en el apartado 2 del artículo 11 del presente Reglamento.
+
+#### CAPÍTULO III — Búsqueda de anterioridades y publicación de la solicitud
+
+###### Artículo 15. Búsqueda de anterioridades.
+
+1\. Si la solicitud de registro de marca no incurriera en los motivos de denegación o defectos contemplados en el artículo anterior o éstos hubieran sido subsanados, la Oficina Española de Patentes y Marcas procederá a efectuar una búsqueda informática sobre los signos anteriores inscritos en el Registro de Marcas que en virtud de los artículos 6 y 7 de la Ley 17/2001 pudieran oponerse al registro de la marca solicitada y cuya existencia hubiera sido descubierta.
+
+2\. Simultáneamente a la orden de publicación de la solicitud de registro de la marca, la Oficina Española de Patentes y Marcas informará de dicha publicación a los titulares de los signos anteriores que hubieran sido descubiertos en la búsqueda efectuada. Esta información se comunicará a dichos titulares o a sus representantes, si los hubiere, de acuerdo con lo dispuesto en el artículo 49 de este Reglamento.
+
+###### Artículo 16. Publicación de la solicitud.
+
+1\. Superado el examen previsto en el artículo 13 y efectuada la búsqueda de anterioridades contemplada en el artículo anterior, la Oficina Española de Patentes y Marcas ordenará la publicación de la solicitud de registro de la marca en el “Boletín Oficial de la Propiedad Industrial”.
+
+2\. La publicación de la solicitud deberá incluir:
+
+a) El nombre y dirección del solicitante; si hubiera varios, únicamente se incluirá, seguido de la mención “y otros”, el nombre y dirección del solicitante que hubiera sido designado para recibir las notificaciones o, en su defecto, del que hubiera sido mencionado en primer lugar en la solicitud.
+
+b) Si lo hubiere, el nombre y dirección del representante, siempre que no se trate del representante a que se refiere el apartado 3 del artículo 56 de este Reglamento.
+
+c) Número del expediente, fecha de presentación y fecha de recepción de la solicitud en la Oficina Española de Patentes y Marcas en los casos en que la misma le haya sido remitida conforme a lo dispuesto en el artículo 12 de este Reglamento.
+
+d) La representación de la marca junto con la indicación de su tipo conforme a lo previsto en el artículo 2.3 de este Reglamento, y, cuando la representación se haya facilitado en forma de archivo electrónico, un enlace a dicho archivo. Cuando se trate de una marca de color con arreglo a lo previsto en la letra f) del artículo 2.3 antes citado, indicación del color o colores reivindicados con su código de referencia.
+
+e) La lista de los productos y servicios, agrupados por clases conforme a la Clasificación Internacional. Cada grupo de productos o servicios irá precedido del número de la clase a que pertenezcan y presentado en el mismo orden que sigue la Clasificación Internacional.
+
+f) Cuando se reivindique prioridad unionista o de exposición, país, número y fecha de la solicitud cuya prioridad unionista se reivindica o nombre de la exposición y fecha de la primera presentación.
+
+g) Cuando proceda, la indicación de que se trata de una marca colectiva o de garantía.
+
+h) Si se hubiera efectuado una descripción de la marca o presentado una declaración conforme a lo previsto en los artículos 1.3 y 2.10 de este Reglamento, una indicación en este sentido con el contenido de las mismas.
+
+3\. La publicación de una solicitud de marca por transformación de un registro internacional o solicitud de marca de la Unión Europea (en adelante marca de la Unión) deberá incluir, además de los datos contemplados en el apartado anterior:
+
+a) Una indicación de que se trata de una solicitud de transformación.
+
+b) El número del registro internacional o de la solicitud de marca de la Unión de que proceda.
+
+c) La fecha del registro internacional o de presentación de la solicitud de marca de la Unión.
+
+d) Si gozara de derecho de prioridad, las menciones señaladas en el párrafo f) del apartado anterior.
+
+e) Si se reivindicara antigüedad de una marca española o con efectos en España, el número y la fecha de presentación o, en su caso, de prioridad del registro del que se reivindica la antigüedad.
+
+> Se modifica por el art. único.7 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+#### CAPÍTULO IV — Oposiciones y observaciones de terceros
+
+###### Artículo 17. Presentación y contenido del escrito de oposición.
+
+1\. Cualquier persona que, conforme al artículo 19.1 de la Ley 17/2001, de 7 de diciembre, esté legitimada, podrá formular ante la Oficina Española de Patentes y Marcas oposición al registro de una marca en el plazo de dos meses, a contar desde la fecha de publicación de la solicitud de dicha marca en el “Boletín Oficial de la Propiedad Industrial”.
+
+2\. En el escrito de oposición deberán figurar los siguientes datos:
+
+a) El número de expediente, fecha de publicación y nombre del solicitante de la marca contra la que se formula la oposición.
+
+b) Indicación clara e inequívoca de los productos o servicios enumerados en la solicitud de la marca contra los que se presenta la oposición, con indicación de la clase en la que estén ordenados.
+
+c) El nombre y dirección, de acuerdo con lo dispuesto en los párrafos b) y c) del artículo 1.1 de este Reglamento, de la persona que formula la oposición.
+
+d) En el caso de que se actúe por medio de representante, el nombre y dirección de éste, de acuerdo con lo previsto en el párrafo f) del artículo 1.1 de este Reglamento.
+
+e) Si la oposición se basa en alguno de los motivos previstos en el artículo 5.1 de la Ley 17/2001, una indicación en tal sentido, especificando la prohibición absoluta en que se funda en concreto la oposición.
+
+f) Cuando la oposición se base en una marca anterior, el número de ésta, su fecha de presentación y prioridad, y si la misma está solicitada o registrada.
+
+g) Si la oposición se basa en una marca anterior notoriamente conocida en el sentido del artículo 6.2.d) de la Ley 17/2001, una indicación en tal sentido.
+
+h) Si la oposición se basa en una marca anterior renombrada en el sentido del artículo 8 de la Ley 17/2001, de 7 de diciembre, una indicación en tal sentido.
+
+i) En el caso de que la oposición se base en uno de los derechos anteriores contemplados en los artículos 9 y 10 de la Ley 17/2001, una indicación en tal sentido.
+
+j) Cuando proceda, una representación y descripción del derecho o marca anteriores no registrados en la Oficina Española de Patentes y Marcas.
+
+k) Los productos y servicios para los que la marca anterior ha sido registrada o solicitada, o para los que la marca anterior sea notoriamente conocida en el sentido del artículo 6.2.d) de la Ley 17/2001, de 7 de diciembre o goce de renombre conforme a lo establecido en el artículo 8 de la citada Ley. El oponente deberá incluir, solamente, los productos o servicios protegidos por la marca anterior en los que se base la oposición.
+
+l) Las razones, motivos o fundamentos en que se basa la oposición.
+
+m) La firma del interesado o de su representante.
+
+n) El justificante de pago de la tasa de oposición.
+
+3\. Cuando una marca anterior tenga más de un titular o un derecho anterior pueda ser ejercido por más de una persona, la oposición podrá ser presentada por una parte o por la totalidad de los titulares o personas autorizadas.
+
+4\. En el supuesto de que la oposición sea presentada por un licenciatario o una persona facultada a ejercer un derecho anterior, deberá incluirse en el escrito de oposición una declaración en este sentido y la acreditación de la autorización o facultad para presentar la oposición.
+
+5\. Lo dispuesto en este capítulo será aplicable, en lo que proceda, a la formulación de observaciones de tercero conforme a lo previsto en el artículo 19.4 de la Ley 17/2001, de 7 de diciembre.
+
+> Se modifica por el art. único.8 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 18. Presentación de pruebas y documentos.
+
+1\. El escrito de oposición podrá ser acompañado de los documentos y pruebas que se consideren pertinentes.
+
+2\. Si la oposición se basa en una marca de la Unión, el escrito de oposición irá acompañado preferentemente de pruebas del registro o de la solicitud de dicha marca de la Unión, tales como una copia del certificado de registro o depósito de la solicitud. Cuando la oposición se base en una marca no registrada notoriamente conocida, conforme a lo previsto en el artículo 6.2.d) de la Ley 17/2001, de 7 de diciembre o en una marca registrada renombrada, conforme a lo previsto en el artículo 8 de dicha Ley, el escrito de oposición irá acompañado preferentemente de las pruebas que acrediten el conocimiento notorio o el renombre de dichas marcas anteriores. Si la oposición se basa en alguno de los derechos anteriores contemplados en los artículos 9 y 10 de la citada Ley, el escrito de oposición irá acompañado de las pruebas adecuadas que acrediten la titularidad y el ámbito de protección de tales derechos anteriores.
+
+3\. Los documentos acreditativos a que se refieren los apartados anteriores, así como cualquier otro documento o prueba justificativa, deberán presentarse con el escrito de oposición o con posterioridad al mismo, pero siempre antes de la fecha en que se hubiera dado traslado de la oposición al solicitante.
+
+4\. Lo dispuesto en los apartados 2, 3 y 4 del artículo 60 de este Reglamento será de aplicación a la presentación de pruebas en el trámite de oposición.
+
+> Se modifica el apartado 2 y se añade el 4 por el art. único.9 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 19. Inadmisión o desistimiento de la oposición.
+
+1\. La Oficina Española de Patentes y Marcas no admitirá la oposición cuando:
+
+a) El escrito de oposición no se presentase dentro del plazo previsto en el artículo 17.1.
+
+b) No se hubiera abonado la tasa de oposición.
+
+c) El escrito de oposición no permitiese identificar inequívocamente la solicitud contra la que se formula oposición, la identidad del oponente o la marca o el derecho anterior en virtud de los cuales se presenta la oposición.
+
+d) No se hubiese presentado el poder de representación en el plazo previsto en el artículo 57.3.
+
+2\. Si el escrito de oposición no se ajusta a la demás disposiciones de la Ley 17/2001 o del presente Reglamento, la Oficina Española de Patentes y Marcas notificará las irregularidades observadas al oponente para que en el plazo de diez días las subsane, con indicación de que si así no lo hiciera se le tendrá por desistido de la oposición. La resolución que ponga fin al procedimiento se pronunciará, de forma expresa, sobre la circunstancia que da lugar a que se le tenga por desistido.
+
+> Se modifica por el art. 4.2 del Real Decreto 1431/2008, de 29 de agosto. [Ref. BOE-A-2008-14979](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14979)
+
+#### CAPÍTULO V — Examen de fondo y resolución del expediente
+
+###### Artículo 20. Examen de oficio y suspensión del expediente.
+
+1\. Transcurrido el plazo para la presentación de oposiciones, hayan sido éstas presentadas o no, se procederá por la Oficina Española de Patentes y Marcas a realizar el examen de fondo previsto en el artículo 20.1 de la Ley 17/2001.
+
+2\. Si del examen efectuado resultara que la solicitud incurre, para la totalidad o parte de los productos o servicios solicitados, en alguna prohibición o defecto conforme a lo previsto en el artículo 20.1 de la Ley 17/2001, de 7 de diciembre, o si se hubieran presentado oposiciones u observaciones de terceros, y éstas no hubieran sido inadmitidas o tenidas por desistidas conforme a lo dispuesto en el artículo anterior la Oficina Española de Patentes y Marcas decretará la suspensión del expediente y comunicará al solicitante los reparos observados y las oposiciones u observaciones formuladas para que en el plazo de un mes, a contar desde la publicación del suspenso en el ''Boletín Oficial de la Propiedad Industrial'' presente sus alegaciones, contestando al suspenso decretado. Para las marcas internacionales dicho plazo tendrá una duración de entre dos y cuatro meses y se establecerá por resolución del Director de la Oficina Española de Patentes y Marcas, debiendo comunicarse a la Oficina Internacional y publicarse en el ''Boletín Oficial de la Propiedad Industrial''.
+
+> Se modifica el apartado 2 por el art. 4.3 del Real Decreto 1431/2008, de 29 de agosto. [Ref. BOE-A-2008-14979](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14979)
+
+###### Artículo 21. Contestación al suspenso.
+
+1\. El escrito de contestación al suspenso deberá especificar los datos identificativos de la solicitud de registro, la fecha de publicación del suspenso, las causas que motivaron el mismo y cuantas alegaciones o pruebas se estimen pertinentes para la defensa del registro de la marca.
+
+2\. En la contestación al suspenso, el solicitante podrá retirar, limitar, modificar o dividir la solicitud conforme a lo previsto en los artículos 23 y 24 de la Ley 17/2001, de 7 de diciembre, o, si procediera, presentar la declaración prevista en el apartado 2 del artículo 21 de dicha Ley. Así mismo podrá solicitar que el titular de la marca oponente pruebe el uso de la misma conforme a lo previsto en el artículo 21.3 de la Ley.
+
+3\. Toda modificación o división de la solicitud deberá acompañarse, respectivamente, de la documentación prevista en los artículos 43 y 46 de este Reglamento.
+
+> Se modifica el apartado 2 por el art. único.10 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1 del citado Real Decreto.
+
+###### Artículo 21 bis. Prueba de uso.
+
+1\. La petición de la prueba de uso de una marca oponente, conforme a lo previsto en el artículo 21.3 de la Ley 17/2001, de 7 diciembre, sólo será admisible si se efectúa formal y expresamente en documento separado y de modo incondicional, en el plazo previsto en el artículo 20.2 de este Reglamento.
+
+2\. En el caso de que se hubiera presentado una solicitud de prueba de uso de una marca anterior que cumpla los requisitos del artículo 21.3 de la Ley 17/2001, de 7 de diciembre, la Oficina Española de Patentes y Marcas dará traslado de esta solicitud al oponente para que en el plazo de un mes presente la correspondiente prueba de uso. Si en el referido plazo el oponente no aportara prueba alguna o esta fuera insuficiente o, en su caso, no se acreditara causa justificativa para la falta de uso, se desestimará la oposición.
+
+3\. La prueba de uso de la marca contendrá indicaciones sobre el lugar, tiempo, alcance y naturaleza del uso de la marca oponente en relación con los productos o servicios para los que esté registrada y se base la oposición.
+
+4\. Las pruebas de uso se limitarán a la presentación de documentos y elementos acreditativos como facturas, catálogos, listas de precios, anuncios, envases, etiquetas, fotografías y declaraciones escritas relevantes. Será de aplicación a la prueba de uso lo previsto en los apartados 3 y 4 del artículo 60 de este Reglamento.
+
+5\. En el supuesto de que las pruebas aportadas no estuvieran redactadas en idioma español, de conformidad con el artículo 11.9 de la Ley 17/2001, de 7 de diciembre el oponente deberá presentar al mismo tiempo una traducción a dicha lengua de las partes relevantes de esas pruebas.
+
+6\. La petición de la prueba de uso podrá presentarse al mismo tiempo que las alegaciones de contestación al suspenso previsto en el artículo 21.1 de este Reglamento. Estas alegaciones también podrán presentarse junto con las que se formulen en respuesta a la prueba de uso.
+
+7\. Recibida la prueba de uso, la Oficina Española de Patentes y Marcas dará traslado de la misma al solicitante para que en el plazo de un mes presente las alegaciones y observaciones que considere oportunas.
+
+> Se añade por el art. único.11 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta para su aplicación la disposición transitoria 1 del citado Real Decreto.
+
+###### Artículo 22. Resolución del expediente.
+
+1\. Transcurrido el plazo prescrito para la contestación al suspenso, o en su caso los plazos previstos en los apartados 2 y 7 del artículo 21 bis, hayan contestado o no los interesados, la Oficina Española de Patentes y Marcas resolverá el expediente, acordando la concesión o denegación total o parcial del registro de la marca, especificando, sucintamente, los motivos en que se funda dicha resolución.
+
+2\. En el supuesto de que el solicitante en la contestación al suspenso o a la prueba de uso hubiera dividido la solicitud, separando los productos o servicios afectados por el suspenso u oposición de los no afectados, la Oficina Española de Patentes y Marcas, una vez admitida la división, acordará la concesión del registro de la solicitud divisional no afectada por el suspenso u oposición y resolverá, conforme al apartado anterior, la solicitud divisional afectada por dicho suspenso u oposición.
+
+3\. La publicación de la denegación total del registro de la marca en el "Boletín Oficial de la Propiedad Industrial" deberá incluir:
+
+a) Número del expediente.
+
+b) Nombre del solicitante.
+
+c) Fecha del acuerdo de denegación.
+
+d) Fecha de publicación de la solicitud y número y página del "Boletín Oficial de la Propiedad Industrial" en que apareció publicada la solicitud.
+
+e) El número de las clases para las que la marca hubiera sido denegada.
+
+f) En el caso de renuncia parcial, limitación o modificación efectuadas después de la publicación de la solicitud, el número de las clases renunciadas, limitadas o modificadas, seguidas, en los dos últimos casos, de los productos o servicios tal como quedaron limitados o modificados.
+
+4\. En caso de concesión parcial del registro, la publicación de la parte de la solicitud que hubiera sido denegada se efectuará conforme a lo previsto en el artículo siguiente, en su apartado 2.f).
+
+> Se modifican los apartados 1 y 2 por el art. único.12 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+#### CAPÍTULO VI — Registro de la marca
+
+###### Artículo 23. Publicación del registro de la marca.
+
+1\. Si del examen de oficio efectuado resultara que la solicitud de registro de marca no incurre en las prohibiciones o defectos contemplados en el artículo 20.1 de la Ley 17/2001 y no se hubieran presentado oposiciones contra la misma, o éstas hubieren sido inadmitidas, retiradas o desestimadas total o parcialmente, o, tras el suspenso decretado, los defectos señalados de oficio se hubieren tenido por superados, la Oficina Española de Patentes y Marcas acordará, según proceda, la concesión total o parcial del registro de la marca y ordenará su publicación en el "Boletín Oficial de la Propiedad Industrial".
+
+2\. La publicación de la concesión del registro de la marca en el "Boletín Oficial de la Propiedad Industrial" deberá incluir:
+
+a) El número del registro.
+
+b) El nombre del titular del registro.
+
+c) La fecha de concesión del registro.
+
+d) La fecha del "Boletín Oficial de la Propiedad Industrial" en que apareció publicada la solicitud.
+
+e) El número de las clases para las que se concede el registro, con la indicación de si es una concesión total o parcial respecto de la solicitud publicada. Si la concesión del registro sólo abarcara parte de los productos o servicios comprendidos en alguna de las clases solicitadas y publicadas, junto al número de estas clases se indicarán los productos o servicios para los que hubiera sido finalmente acordado el registro de la marca.
+
+f) En el supuesto de concesión parcial, el número de las clases para las que hubiera sido denegado el registro de la marca.
+
+g) En el caso de renuncia parcial, limitación o modificación efectuadas por el solicitante después de la publicación de la solicitud, el número de las clases renunciadas, limitadas o modificadas, seguidas, en los dos últimos casos, de los productos o servicios tal como quedaron limitados o modificados.
+
+h) Si después de la publicación de la solicitud hubiera sido modificado el distintivo de la marca conforme a lo previsto en el artículo 23.2 de la Ley 17/2001 o se hubiera presentado la declaración a que se refiere el artículo 21.2 de dicha Ley, el nuevo distintivo tal como hubiera quedado modificado y el contenido de la citada declaración.
+
+i) Si después de la publicación de la solicitud no hubiere sido concedida la prioridad unionista o de exposición o la antigüedad reivindicada, o hubieren sido modificados alguno de los datos relativos a estos derechos, una indicación en tal sentido o la mención del nuevo dato tal como hubiere quedado modificado.
+
+3\. La publicación de la concesión directa del registro de una marca por transformación de un registro internacional o marca de la Unión deberá incluir, además de los datos a que se refieren los apartados 2 y 3 del artículo 16 de este Reglamento, los siguientes:
+
+a) Una mención de que se trata de una concesión directa por transformación.
+
+b) Fecha de adopción del acuerdo de concesión directa.
+
+c) Fecha de concesión en España del registro internacional transformado o fecha de concesión en la Oficina de la Propiedad Intelectual de la Unión Europea de la marca de la Unión transformada, según proceda.
+
+> Se modifica el apartado 3 por el art. único.13 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 24. Expedición del título de registro de la marca.
+
+1\. Ordenada la publicación del registro de la marca, la Oficina Española de Patentes y Marcas expedirá electrónicamente el título registro de la misma, en el que figurarán los siguientes elementos:
+
+a) El número de la marca.
+
+b) El nombre del titular.
+
+c) La representación de la marca o, cuando esta se facilite en forma de archivo electrónico no reproducible en papel, un enlace a dicho archivo.
+
+d) La fecha de presentación de la solicitud, de concesión del registro y, en su caso, de la prioridad otorgada.
+
+e) Si procediera, la descripción de la marca y la indicación de los elementos no reivindicados en exclusiva.
+
+f) El listado de productos o servicios para los que haya quedado registrada, con el número de la Clasificación Internacional a que pertenezcan.
+
+2\. En el supuesto de marcas transformadas, además de los elementos señalados en el apartado anterior, deberán figurar en el título registro la marca de origen y su número, la fecha de presentación en la oficina de origen y, en su caso, los datos relativos a la antigüedad reivindicada.
+
+> Se modifica por el art. único.14 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+### TÍTULO III — Renovación de la marca
+
+###### Artículo 25. Aviso de la expiración del registro de la marca.
+
+La Oficina Española de Patentes y Marcas comunicará al titular de la marca, a efectos meramente informativos, la próxima expiración del registro de la misma al menos seis meses antes de dicha expiración. La ausencia de esta comunicación no afectará a la expiración del registro, ni determinará la ampliación del plazo legal de renovación.
+
+> Se modifica por el art. único.15 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 26. Presentación y contenido de la solicitud de renovación.
+
+1\. La solicitud de renovación deberá presentarse ante la Oficina Española de Patentes y Marcas o el órgano competente de la Comunidad Autónoma correspondiente en el plazo previsto en el artículo 32.3 de la Ley 17/2001. La solicitud se presentará en los impresos normalizados que establezca la Oficina Española de Patentes y Marcas. No obstante, no se rechazará la solicitud si la misma es presentada en el formulario internacional tipo previsto en el Reglamento del Tratado sobre el Derecho de Marcas de 27 de octubre de 1994.
+
+2\. La solicitud de renovación del registro de la marca deberá incluir:
+
+a) Una indicación de que se solicita la renovación de la marca.
+
+b) Si la solicitud fuera presentada por el titular de la marca, su nombre y dirección, conforme a lo dispuesto en el párrafo b) del artículo 1.1 de este Reglamento.
+
+c) Si la solicitud fuera presentada por un derechohabiente del titular de la marca, el nombre y dirección de dicho derechohabiente, conforme a lo dispuesto en el párrafo b) del artículo 1.1 de este Reglamento.
+
+d) En el caso de que se hubiera designado representante, el nombre y dirección de éste, conforme a lo previsto en el párrafo f) del artículo 1.1 de este Reglamento.
+
+e) El número del registro cuya renovación se solicita.
+
+f) La fecha de presentación de la solicitud de marca que dio lugar al registro cuya renovación se solicita.
+
+g) La indicación de que la renovación se solicita para todos los productos y servicios amparados por el registro, o sólo para una parte de ellos. En este último caso, se indicarán los productos y servicios para los que se pide la renovación, agrupados según la clase a que pertenezcan de la Clasificación Internacional, precedido cada grupo por el número de su clase.
+
+h) Firma del solicitante de la renovación o de su representante.
+
+3\. Con la solicitud de renovación deberá acompañarse el justificante de pago de la tasa de renovación según las clases que comprenda y, en su caso, de los recargos que procedan, conforme a lo previsto en los apartados 2 y 3 del artículo 32 de la Ley 17/2001.
+
+4\. De conformidad con lo previsto en el artículo 32.8 de la Ley 17/2001, de 7 de diciembre, el pago de la tasa de renovación se considerará una solicitud de renovación total de la marca si dicho pago se efectúa electrónicamente y en el documento que a tal efecto habilite la Oficina Española de Patentes y Marcas. Esta modalidad de renovación solo podrá efectuarse en los seis meses anteriores a la expiración del registro, siempre que no haya modificación del titular registral o de los demás datos registrales de la marca.
+
+> Se añade el apartado 4 por el art. único.16 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 27. Renovación solicitada por derechohabientes.
+
+1\. Cuando la renovación del registro sea solicitada por un derechohabiente del titular, se indicará esta circunstancia en la solicitud y se acreditará tal condición en el correspondiente expediente de cambio de titularidad. La solicitud de renovación podrá presentarse previamente a la solicitud de cambio de titularidad, simultáneamente o con posterioridad a la misma. En la solicitud de renovación se indicará el número del expediente de cambio de titularidad o, si éste no fuera conocido, la fecha de presentación del mismo o la intención de presentarlo próximamente.
+
+2\. El procedimiento de renovación quedará en suspenso hasta la resolución del expediente de cambio de titularidad. Si la solicitud de cambio de titularidad no fuera presentada, a lo más tardar, antes de la finalización de los plazos que contempla el artículo 32.3 de la Ley 17/2001, la solicitud de renovación será denegada.
+
+###### Artículo 28. Procedimiento de renovación.
+
+1\. Si la solicitud de renovación es presentada dentro de los plazos contemplados en el artículo 32.3 de la Ley 17/2001, pero no cumple alguno de los demás requisitos fijados en dicha Ley o en el presente Reglamento, la Oficina Española de Patentes y Marcas declarará en suspenso la tramitación y notificará al solicitante las irregularidades observadas para que las subsane en el plazo de un mes a contar desde la publicación de dicho suspenso en el "Boletín Oficial de la Propiedad Industrial".
+
+2\. Si la solicitud no presentase irregularidades o éstas hubieran sido subsanadas en el plazo prescrito, se acordará la renovación del registro de la marca y se expedirá el correspondiente título de renovación. El acuerdo de renovación se publicará en el "Boletín Oficial de la Propiedad Industrial".
+
+3\. Si las irregularidades no fueran subsanadas en el plazo prescrito, la solicitud de renovación será denegada. No obstante, si la irregularidad consistiera en el pago insuficiente de las tasas de renovación o de los recargos correspondientes, pero la cantidad abonada fuera suficiente para cubrir alguna de las clases para las que se solicitó la renovación, la Oficina Española de Patentes y Marcas acordará la renovación del registro únicamente respecto de las clases cuyas tasas hubieran sido pagadas en su totalidad, incluida la parte del recargo correspondiente. A falta de indicación del solicitante, se considerarán abonadas las clases incluidas en primer lugar en la inscripción del registro.
+
+4\. El reembolso de la tasa de renovación a que se refiere el apartado 7 del artículo 32 de la Ley 17/2001, se acordará en la propia resolución de denegación de la renovación, pero sólo se abonará cuando dicha resolución sea firme y a solicitud del interesado.
+
+###### Artículo 29. Caducidad por falta de renovación.
+
+1\. La Oficina Española de Patentes y Marcas declarará la caducidad de la marca cuando no se hubiere presentado una solicitud de renovación del registro de la marca o la misma hubiere sido presentada una vez expirados los plazos previstos en el artículo 32.3 de la Ley 17/2001.
+
+2\. Asimismo, se declarará la caducidad de la marca cuando, habiendo sido denegada la renovación, transcurrieran los plazos a que se refiere el apartado anterior sin que el interesado hubiera presentado una nueva solicitud de renovación en debida forma.
+
+3\. La Oficina Española de Patentes y Marcas publicará la declaración de caducidad en el "Boletín Oficial de la Propiedad Industrial" y cancelará el registro de la marca.
+
+### TÍTULO IV — Transmisiones, licencias y otras modificaciones de derechos
+
+###### Artículo 30. Contenido de la solicitud de inscripción de transmisiones.
+
+1\. La solicitud de inscripción de una transmisión de marca o de su solicitud deberá presentarse en los impresos normalizados que establezca la Oficina Española de Patentes y Marcas. No obstante, no se rechazará la solicitud si la misma es presentada en el formulario internacional tipo previsto en el Reglamento del Tratado sobre el Derecho de Marcas de 27 de octubre de 1994.
+
+2\. La solicitud de inscripción de transmisión deberá incluir:
+
+a) El nombre y dirección del solicitante o titular de la marca (cedente).
+
+b) El nombre y dirección del nuevo titular (cesionario), conforme a lo dispuesto en los párrafos b) y c) del artículo 1.1 de este Reglamento.
+
+c) Cuando el solicitante de la inscripción de transmisión actúe por medio de representante, nombre y dirección de éste, conforme a lo previsto en el párrafo f) del artículo 1.1 de este Reglamento.
+
+d) Indicación del documento o acto acreditativo de la transmisión.
+
+e) Número del registro o solicitud de marca que se transmite.
+
+f) Firma del solicitante o de su representante.
+
+3\. La solicitud de inscripción de transmisión deberá presentarse acompañada de los siguientes documentos:
+
+a) Documento acreditativo de la transmisión, conforme a lo previsto en los apartados 2 y 3 del artículo 49 de la Ley 17/2001.
+
+b) Justificante del abono de la tasa correspondiente.
+
+4\. La solicitud de inscripción de transmisión podrá comprender varios registros y solicitudes de marca, a condición de que el titular registral actual y el nuevo titular sean los mismos para cada uno de los registros o solicitudes afectadas.
+
+5\. Cuando el documento acreditativo de la transmisión sea alguno de los previstos en el párrafo c) del artículo 49.2 de la Ley 17/2001, los mismos consistirán en los impresos normalizados que establezca la Oficina Española de Patentes y Marcas, sin perjuicio de que los mismos también puedan presentarse en los formularios internacionales tipo, conforme a lo previsto en la última frase del apartado 1 del presente artículo.
+
+###### Artículo 31. Transmisión parcial.
+
+1\. Cuando la transmisión no afecte a todos los productos y servicios para los que estuviera solicitada o registrada la marca, en la solicitud de inscripción de transmisión deberá indicarse esta circunstancia y especificarse los productos y servicios concretos que se transmiten. No obstante, cuando la transmisión parcial afecte a la totalidad de los productos o servicios comprendidos en una clase, bastará con indicar el número correspondiente de la clase o clases del Nomenclátor Internacional que se transmiten.
+
+2\. Con la solicitud de inscripción de la transmisión parcial deberá acompañarse la documentación prevista en el apartado 2 del artículo 46 de este Reglamento, siendo de aplicación, en lo que proceda, los demás apartados de dicho artículo.
+
+3\. La solicitud de inscripción de una transmisión parcial se ajustará a lo dispuesto en el artículo 30 de este Reglamento.
+
+###### Artículo 32. Contenido de la solicitud de inscripción de licencias.
+
+1\. La solicitud de inscripción de una licencia de marca o de su solicitud se presentará en los impresos normalizados que establezca la Oficina Española de Patentes y Marcas.
+
+2\. La solicitud de inscripción de licencia deberá incluir las menciones contenidas en el apartado 2 del artículo 30 de este Reglamento y presentarse acompañada de los documentos contemplados en el apartado 3 de dicho artículo, si bien, referidas, en este caso, al licenciante y licenciatario, registros o solicitudes licenciadas y documento acreditativo de la licencia.
+
+3\. Cuando el documento acreditativo de la licencia sea alguno de los previstos en el párrafo c) del apartado 2 del artículo 49 de la Ley 17/2001, dichos documentos consistirán en los impresos normalizados que a tal efecto establezca la Oficina Española de Patentes y Marcas.
+
+4\. En la solicitud de inscripción de la licencia se deberá indicar si es exclusiva o no exclusiva; total o parcial, según comprenda todos o parte de los productos para los que está registrada o solicitada la marca; ilimitada o limitada, según se conceda para todo o parte del territorio nacional; e indefinida o temporal, según se otorgue para toda la vida de la marca o por un período de tiempo determinado. Así mismo, se deberá indicar si el licenciatario puede ceder la licencia a terceros o conceder sublicencias.
+
+5\. En el caso de que en la solicitud de inscripción no se indicara alguno de los extremos previstos en el apartado anterior, la licencia se inscribirá conforme a las presunciones legales establecidas en el artículo 48 de la Ley 17/2001.
+
+###### Artículo 33. Inscripción de otros derechos.
+
+1\. La solicitud de inscripción en el Registro de Marcas de los demás actos y derechos inscribibles contemplados en el artículo 46.2 de la Ley 17/2001, salvo la hipoteca mobiliaria que se regirá por sus disposiciones específicas, se ajustará a los requisitos y condiciones previstas en los artículos 30 y 31 de este Reglamento, debidamente adecuados a la naturaleza del acto o derecho a inscribir. La solicitud de inscripción de opciones de compra o constitución de derechos reales deberá, además, acompañarse de documento público, conforme a lo previsto en el artículo 49.4 de la Ley 17/2001.
+
+2\. En el supuesto de inscripción de embargos u otras medidas de ejecución forzosa o cuando la marca esté afectada por un procedimiento de quiebra o similar, la solicitud de inscripción en el Registro de Marcas presentada por la autoridad competente no estará sujeta al pago de tasas.
+
+###### Artículo 34. Procedimiento de inscripción.
+
+1\. Recibida la solicitud de inscripción del cambio de titularidad o de cualquier otra modificación de derechos, el órgano competente procederá conforme a lo previsto en el artículo 50.2 de la Ley 17/2001 y expedirá al depositante el recibo acreditativo de la presentación de acuerdo con lo previsto en los apartados 5 ó 6 del artículo 5 del presente Reglamento. En el supuesto de que el órgano competente opte por emitir un recibo de presentación, en el mismo se hará constar el número de expediente, el registro o registros afectados, la naturaleza del acto a inscribir, el número de documentos presentados y el lugar, día, hora y minuto de presentación.
+
+2\. El órgano competente de la Comunidad Autónoma que reciba la solicitud procederá conforme a lo previsto en el apartado 7 del artículo 5 de este Reglamento, y la Oficina Española de Patentes y Marcas, una vez recibidos los datos de la solicitud, efectuará las anotaciones registrales procedentes.
+
+3\. El órgano competente de la Comunidad Autónoma correspondiente examinará la documentación presentada conforme a lo previsto en el artículo 50.3 de la Ley 17/2001 y si observara alguna irregularidad, comunicará ésta al solicitante, otorgándole el plazo de un mes para su subsanación. En el supuesto de que se solicite una transmisión parcial, el órgano competente de la Comunidad Autónoma también examinará si se acompaña la documentación prevista en el artículo 31.2 de este Reglamento, pero sin entrar a conocer sobre la legalidad y validez de la misma.
+
+4\. La Oficina Española de Patentes y Marcas, una vez recibida la solicitud de inscripción, la examinará conforme a lo previsto en el artículo 50.5 de la Ley 17/2001 y, si observara algún defecto, suspenderá la tramitación del expediente, notificando los defectos observados al solicitante para que en el plazo de un mes, a contar desde la publicación del suspenso en el "Boletín Oficial de la Propiedad Industrial", presente sus alegaciones.
+
+5\. Cuando el órgano competente para recibir la solicitud fuera la Oficina Española de Patentes y Marcas, los exámenes contemplados en los apartados 3 y 5 del artículo 50 de la Ley 17/2001 podrán efectuarse conjuntamente y, en el caso de observarse irregularidades o defectos, comunicarse éstos al solicitante mediante una única notificación de suspenso para que en el plazo de un mes los subsane o presente sus alegaciones.
+
+6\. La Oficina Española de Patentes y Marcas no inscribirá transmisiones a favor de entidades que, por carecer de personalidad jurídica, no puedan ser titulares de marcas conforme a lo previsto en el artículo 3.1 de la Ley 17/2001, de 7 de diciembre.
+
+> Se modifica el apartado 6 por el art. único.17 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 35. Cancelación y modificación de la inscripción de licencias y de otros derechos.
+
+1\. La inscripción de licencias y de los actos y derechos a que se refiere el artículo 33 de este Reglamento se cancelarán a petición de una de las partes.
+
+2\. La solicitud de cancelación contendrá las siguientes indicaciones:
+
+a) Identificación del solicitante.
+
+b) Número del expediente bajo el que se inscribió el derecho que se pretende cancelar.
+
+c) Número de la solicitud o registro de marca afectado por el derecho que se ha de cancelar.
+
+d) Indicación del derecho que se solicita cancelar.
+
+e) Firma del solicitante o de su representante.
+
+3\. La solicitud de cancelación deberá presentarse acompañada de los siguientes documentos:
+
+a) Documento público acreditativo de la extinción del derecho o declaración firmada por el licenciatario o titular del derecho consintiendo en la cancelación de la inscripción.
+
+b) Justificante de abono de la tasa correspondiente.
+
+4\. La solicitud de cancelación se presentará y tramitará conforme a lo previsto en los artículos 50 de la Ley 17/2001 y 34 de este Reglamento.
+
+5\. Los cuatro apartados anteriores serán de aplicación, con las modificaciones que procedan en atención a su distinta naturaleza, a las solicitudes de modificación de las inscripciones de los actos y derechos a que se refiere el apartado 1 de este artículo. Toda solicitud de modificación de la inscripción de uno de estos actos o derechos deberá acompañarse del documento público acreditativo de dicha modificación o de la declaración firmada por el licenciatario o titular del derecho consintiendo en la misma.
+
+### TÍTULO V — Renuncia de la marca
+
+###### Artículo 36. Renuncia total o parcial de la marca.
+
+1\. La solicitud de renuncia de la marca con arreglo a lo dispuesto en el artículo 56 de la Ley deberá presentarse ante la Oficina Española de Patentes y Marcas o el órgano competente de la Comunidad Autónoma correspondiente y deberá incluir:
+
+a) Una indicación de que se solicita la renuncia parcial o total de la marca.
+
+b) El nombre y dirección del titular de la marca, conforme a lo dispuesto en el párrafo b) del artículo 1.1 de este Reglamento.
+
+c) El número del registro de la marca cuya renuncia se solicita.
+
+d) En el caso de que se hubiera designado representante, el nombre y dirección de éste, conforme a lo previsto en el párrafo f) del artículo 1.1 de este Reglamento.
+
+e) En el supuesto de que se solicite la renuncia únicamente en relación con algunos de los productos y servicios para los que esté registrada la marca, los productos y servicios para los que se efectúa la renuncia, agrupados según la clase a que pertenezcan de la Clasificación Internacional, precedido cada grupo por el número de su clase. Cuando la renuncia afecte a todos los productos o servicios de una clase, bastará con indicar el número de esta clase.
+
+f) Firma del titular de la marca o de su representante.
+
+2\. Cuando, con arreglo a lo previsto en el apartado 3 del artículo 56 de la Ley 17/2001, de 7 de diciembre sea preciso para aceptar la renuncia que conste el consentimiento del titular de algún derecho inscrito sobre la marca, bastará con acompañar a la solicitud una declaración firmada por dicho titular del derecho o por su representante, aceptando dicha renuncia.
+
+3\. La Oficina Española de Patentes y Marcas examinará si la solicitud de renuncia cumple los requisitos y condiciones previstas en la Ley 17/2001 y en este Reglamento. En el supuesto de que existieran irregularidades, se suspenderá la tramitación y se notificarán éstas al interesado para que, en el plazo de un mes, a contar desde la publicación del suspenso en el “Boletín Oficial de la Propiedad Industrial”, conteste las mismas.
+
+Si en el plazo establecido no se subsanaran los defectos señalados, se denegará la inscripción de la renuncia solicitada.
+
+4\. La Oficina Española de Patentes y Marcas publicará en el “Boletín Oficial de la Propiedad Industrial” el acuerdo de aceptación de la renuncia, especificando, en caso de renuncia parcial, los productos y servicios que hubieran sido objeto de la renuncia y aquéllos para los que hubiera quedado subsistente la marca. En caso de renuncia total se procederá a la cancelación del registro de la marca.
+
+> Se modifica por el art. único.18 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+### TÍTULO VI — Marcas colectivas y de garantía y nombres comerciales
+
+###### Artículo 37. Disposiciones aplicables.
+
+Sin perjuicio de lo dispuesto en este Título VI, las disposiciones del presente Reglamento serán aplicables a las marcas colectivas y de garantía y a los nombres comerciales, en la medida en que no sean incompatibles con su propia naturaleza.
+
+###### Artículo 38. Reglamento de uso de las marcas colectivas y de garantía.
+
+1\. El Reglamento de uso de las marcas colectivas deberá contener, al menos, las siguientes indicaciones:
+
+a) El nombre y domicilio social de la asociación o entidad de Derecho Público solicitante.
+
+b) El objeto de la asociación o de la entidad de Derecho público.
+
+c) Los órganos autorizados a representar a la asociación o entidad de Derecho público.
+
+d) Las condiciones de afiliación a la asociación.
+
+e) Las personas autorizadas a utilizar la marca.
+
+f) Si procede, las condiciones de uso de la marca, incluidas las sanciones.
+
+g) Si procede, la previsión contenida en el apartado 2 del artículo 63 de la Ley 17/2001.
+
+2\. El Reglamento de uso de las marcas de garantía deberá contener, al menos, las siguientes indicaciones:
+
+a) El nombre y domicilio social del solicitante de la marca.
+
+b) Los requisitos, componentes, elementos, condiciones, origen o cualesquiera otras características que el titular de la marca va a certificar o garantizar que cumplen los productos o servicios a que se aplique la marca.
+
+c) Las medidas que se adoptarán para verificar estas características.
+
+d) Los sistemas de control y vigilancia del uso de la marca.
+
+e) Las responsabilidades y sanciones en que se pueda incurrir por un uso inadecuado de la marca.
+
+f) El canon que se exigirá a quienes utilicen la marca.
+
+g) Si procede, la previsión establecida en el apartado 3 del artículo 69 de la Ley 17/2001.
+
+3\. El Reglamento de uso deberá acompañarse, en el caso de las marcas colectivas, de los estatutos de la asociación o entidad solicitante, debidamente constituidos e inscritos, y, en el caso de las marcas de garantía, del informe favorable del órgano administrativo competente en atención a la naturaleza de los productos o servicios a los que se destine la marca. Cuando, conforme al apartado 2 del artículo 69 de la Ley 17/2001, deba entenderse que el informe es favorable por silencio administrativo, deberá acreditarse dicho acto y la competencia del órgano ante el que se solicitó dicho informe.
+
+4\. Toda modificación del Reglamento de uso deberá someterse a la aprobación de la Oficina Española de Patentes y Marcas. En el caso de las marcas de garantía, la modificación deberá acompañarse del correspondiente informe favorable emitido por el órgano competente en atención a la naturaleza de los productos o servicios a los que se destine la marca. La Oficina Española de Patentes y Marcas examinará si las modificaciones solicitadas cumplen las condiciones y requisitos previstos en la Ley 17/2001 y en este Reglamento, dando traslado, en su caso, de las irregularidades o defectos observados al solicitante para que en el plazo de un mes las subsane o presente sus alegaciones.
+
+5\. El acuerdo de inscripción o denegación de la modificación del Reglamento de uso se publicará en el "Boletín Oficial de la Propiedad Industrial".
+
+###### Artículo 39. Nombres comerciales.
+
+1\. En la solicitud de registro de nombre comercial se indicará expresamente que se solicita esta modalidad de signo distintivo. Idéntica mención habrá de efectuarse en las demás solicitudes que se presenten referidas a un nombre comercial.
+
+2\. Los nombres comerciales se ajustarán a las previsiones del artículo 2. A estos efectos, su representación podrá presentarse en soporte electrónico de video o audio.
+
+3\. Cumpliéndose las condiciones previstas en el apartado 4 del artículo 30 de este Reglamento, la solicitud de inscripción de la transmisión de un nombre comercial o de su solicitud podrá efectuarse conjuntamente con solicitudes o registros de marcas.
+
+> Se modifica por el art. único.19 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+### TÍTULO VII — Marcas internacionales y marcas de la Unión
+
+> Se modifica el enunciado por el art. único.20.a) del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 40. Examen preliminar de la solicitud de registro internacional.
+
+1\. El órgano competente que reciba la solicitud de registro internacional examinará la documentación presentada conforme a lo previsto en el apartado 1 del artículo 82 de la Ley 17/2001 y, si observara alguna irregularidad, comunicará ésta al solicitante, otorgándole el plazo de diez días para su subsanación.
+
+2\. La Oficina Española de Patentes y Marcas, una vez recibida la solicitud remitida por el órgano competente de la correspondiente Comunidad Autónoma, la examinará conforme a lo previsto en el artículo 82.3 de la Ley 17/2001 y, si observara algún defecto, lo comunicará al solicitante, otorgándole el plazo de diez días para su subsanación.
+
+3\. Cuando el órgano competente para recibir la solicitud fuera la Oficina Española de Patentes y Marcas, los exámenes contemplados en los apartados 1 y 3 del artículo 82 de la Ley 17/2001 podrán efectuarse conjuntamente y, en el caso de observarse irregularidades o defectos, comunicarse éstos al solicitante mediante una única notificación para que en el plazo de diez días los subsane o presente sus alegaciones.
+
+###### Artículo 41. Solicitud de transformación de un registro internacional.
+
+1\. Recibida la solicitud de transformación, la Oficina Española de Patentes y Marcas examinará:
+
+a) Si el registro internacional en que se basa ha sido cancelado conforme a lo previsto en el artículo 6.4 del Protocolo concerniente al Arreglo de Madrid de 27 de junio de 1989.
+
+b) Si la documentación contemplada en el apartado 2 del artículo 83 de la Ley 17/2001 ha sido presentada en el plazo previsto en el apartado 1 de dicho artículo de la citada Ley.
+
+c) Si los productos y servicios que comprende la solicitud de transformación estaban cubiertos para España por el registro internacional de que procede.
+
+2\. Si del examen anteriormente efectuado, se observara el incumplimiento de alguno de los requisitos señalados en el apartado anterior, se comunicarán los defectos observados al solicitante para que en el plazo de un mes presente sus alegaciones. La Oficina Española de Patentes y Marcas tendrá por desistida la solicitud de transformación si en la contestación presentada el solicitante no justificara el cumplimiento de dichos requisitos o no presentara la correspondiente limitación o modificación de los productos y servicios, ajustados a los efectivamente cubiertos por el registro internacional.
+
+3\. Superado este examen, la solicitud de transformación se tramitará como una solicitud de marca nacional, salvo en el caso de que se trate de la transformación de un registro internacional ya concedido para España, en cuyo caso se estará a lo dispuesto en el apartado 3 del artículo 83 de la Ley 17/2001 y no se efectuará la publicación de la solicitud, sino de la concesión del registro con arreglo a lo previsto en el artículo 23.3 de este Reglamento.
+
+###### Artículo 42. Solicitud de transformación de una marca de la Unión.
+
+1\. La solicitud de transformación de una marca de la Unión deberá presentarse en el plazo de dos meses a contar desde la recepción de la petición de transformación por la Oficina Española de Patentes y Marcas acompañada de los documentos y cumpliendo los requisitos previstos en el apartado 2 del artículo 86 de la Ley 17/2001. Dicha solicitud podrá presentarse utilizando el formulario que a tal efecto habilite la Oficina Española de Patentes y Marcas.
+
+2\. Cuando, conforme al apartado 3 del artículo 86 de la Ley 17/2001, de 7 de diciembre, la Oficina Española de Patentes y Marcas considere que la solicitud de transformación no puede ser aceptada por concurrir alguno de los motivos previstos en el artículo 139.2 del Reglamento (UE) 2017/1001 del Parlamento Europeo y del Consejo, de 14 de junio de 2017, sobre la marca de la Unión Europea, lo notificará al solicitante, otorgándole el plazo de un mes para que presente sus alegaciones. Este mismo plazo se concederá al solicitante cuando, conforme al apartado 4 del citado artículo de la citada Ley, se considere que la marca de la Unión no puede ser concedida directamente. Recibida la contestación del solicitante, la Oficina Española de Patentes y Marcas resolverá lo procedente.
+
+3\. En el supuesto de transformación de una marca de la Unión ya registrada, se estará a lo previsto en el apartado 4 del artículo 86 de la Ley 17/2001, de 7 de diciembre, y no se efectuará la publicación de la solicitud, sino de la concesión del registro con arreglo a lo previsto en el artículo 23.3 de este Reglamento.
+
+> Se modifica por el art. único.20.b) del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+### TÍTULO VIII — Disposiciones generales sobre los procedimientos
+
+#### CAPÍTULO I — Modificación de la solicitud o registro y rectificación de errores
+
+###### Artículo 43. Modificación de la solicitud o del registro de la marca.
+
+1\. La solicitud de modificación de la solicitud o registro de la marca, conforme a lo previsto, respectivamente, en los artículos 23 y 33 de la Ley 17/2001, deberá incluir:
+
+a) El número de la solicitud o registro de la marca.
+
+b) El nombre y dirección del solicitante o titular de la marca, conforme a lo dispuesto en el párrafo b) del artículo 1.1 de este Reglamento.
+
+c) Si se hubiera designado representante, el nombre y dirección de éste, conforme a lo previsto en el párrafo f) del artículo 1.1 de este Reglamento.
+
+d) Si se trata de una modificación de la solicitud, la indicación del elemento de la misma que haya de ser modificado y la versión modificada de dicho elemento.
+
+e) Si se trata de una modificación del registro, la mención del elemento del nombre o de la dirección del titular que haya de ser modificado en la representación de la marca y el elemento en su versión modificada.
+
+f) Cuando la modificación afecte a la representación de la marca, la reproducción de la marca modificada de conformidad con lo dispuesto en el artículo 2 de este Reglamento.
+
+g) La firma del interesado o de su representante.
+
+h) El justificante del pago de la tasa de modificación.
+
+2\. La solicitud de modificación se presentará ante el órgano que en ese momento esté tramitando la solicitud de registro de la marca. Cuando la solicitud de modificación se refiera a una marca ya registrada, deberá presentarse ante la Oficina Española de Patentes y Marcas o el órgano competente de la correspondiente Comunidad Autónoma, que la remitirá a dicha Oficina, de acuerdo con lo dispuesto en el apartado 2 del artículo 33 de la Ley 17/2001.
+
+3\. Si no se cumplieran los requisitos previstos en la Ley 17/2001 y en este Reglamento para la modificación de la solicitud o del registro de la marca, se notificarán al solicitante las irregularidades o los reparos observados y, si no se subsanasen en el plazo de diez días, la solicitud de modificación será denegada, continuándose la tramitación en el caso de que la modificación solicitada se refiera a una solicitud de registro.
+
+Cuando la modificación se refiera a una marca registrada, el acuerdo de denegación se notificará al solicitante.
+
+4\. El órgano competente de la Comunidad Autónoma que hubiera acordado la modificación solicitada, comunicará a la Oficina Española de Patentes y Marcas, en el plazo de cinco días a contar desde la adopción del acuerdo, los datos de la solicitud tal como hubieren quedado modificados. La Oficina anotará las correspondientes modificaciones en los asientos registrales.
+
+5\. Cuando la modificación de la solicitud de la marca se refiera a la representación de la misma o a la lista de productos o servicios y se introdujera después de la publicación de la solicitud, en el acuerdo de resolución del expediente se publicará la reproducción de la marca o la lista de productos y servicios tal como hubieran quedado modificados. La modificación del registro de la marca también será publicada conforme a lo dispuesto en el artículo 33.2 de la Ley 17/2001.
+
+###### Artículo 44. Rectificación de errores.
+
+1\. Las faltas de expresión o transcripción y los errores materiales contenidos en la solicitud, registro de la marca o en cualquier documento dirigido a la Oficina Española de Patentes y Marcas u órgano competente de la correspondiente Comunidad Autónoma podrán ser rectificados a petición del interesado. No obstante, si la petición de rectificación tuviera por objeto el distintivo, su descripción, sus elementos reivindicados o la enumeración de los productos o servicios, la rectificación deberá ser de tal naturaleza que resulte evidente que el único texto que podría haber sido propuesto por el interesado es el rectificado y siempre que ello no afecte substancialmente a la identidad de la marca o al ámbito de su protección. La Oficina Española de Patentes y Marcas u órgano competente podrán exigir pruebas adicionales cuando duden, razonablemente, de que la rectificación solicitada constituya efectivamente un error.
+
+2\. Cuando en las resoluciones, asientos registrales o en la publicación de la solicitud o registro se hubiera cometido alguna falta o error imputable a la Oficina Española de Patentes y Marcas, ésta lo corregirá de oficio o a petición del interesado. En caso de petición del interesado, la solicitud de corrección de estas faltas o errores no estará sujeta al pago de tasa alguna.
+
+3\. Serán aplicables a las rectificaciones reguladas en los apartados anteriores las previsiones establecidas en el artículo 43 del Reglamento en todo aquello que no sea incompatible con su propia naturaleza o contrario a lo dispuesto en el presente artículo.
+
+4\. La solicitud de rectificación de errores podrá comprender varias solicitudes o registros de la misma persona, cuando el error o falta y la corrección solicitada sean los mismos. En este supuesto, habrán de indicarse los números de todas las solicitudes o registros que deban rectificarse, abonándose la tasa correspondiente por cada una de las solicitudes o registros afectados.
+
+###### Artículo 45. Cambios de nombre o dirección del interesado o del representante.
+
+1\. Cuando no haya cambio en la persona del titular o solicitante de la marca, pero sí en su nombre o dirección, se inscribirá dicho cambio en el Registro de Marcas a solicitud de dicho titular o solicitante.
+
+2\. Las solicitudes de cambio de nombre o dirección deberán incluir:
+
+a) El número de la solicitud o registro de la marca.
+
+b) El nombre y dirección del solicitante o titular de la marca, tal como figuren en el Registro de Marcas.
+
+c) Si se hubiera designado representante, el nombre y dirección de éste, conforme a lo previsto en el párrafo f) del artículo 1.1 de este Reglamento.
+
+d) La indicación del nuevo nombre o dirección del solicitante o titular de la marca, tal como haya de inscribirse en el Registro de Marcas tras el cambio producido.
+
+e) La firma del interesado o de su representante.
+
+f) Cuando proceda, el justificante de pago de la tasa correspondiente, prevista en la tarifa 2.2 del anexo de la Ley 17/2001.
+
+3\. Se podrán agrupar en una única solicitud de cambio de nombre o dirección todos los registros o solicitudes que pertenezcan al interesado. En este caso, habrán de indicarse los números de todas las solicitudes o registros afectados, abonándose la tasa correspondiente por cada uno de ellos.
+
+4\. Cuando la Oficina Española de Patentes y Marcas dude, razonablemente, de la veracidad del cambio de nombre o dirección solicitados, podrá pedir al interesado la presentación de las pruebas que acrediten dicho cambio.
+
+5\. Los apartados anteriores serán de aplicación al cambio de nombre o dirección del representante.
+
+6\. Los cambios en la dirección del solicitante o titular de la marca no estarán sujetos al pago de tasa alguna.
+
+7\. Serán aplicables a los cambios de nombre y dirección regulados en los apartados anteriores las previsiones establecidas en el artículo 43 del Reglamento en todo aquello que no sea incompatible con su propia naturaleza o contrario a lo dispuesto en el presente artículo.
+
+8\. Lo dispuesto en los apartados anteriores será aplicable, conforme a su propia naturaleza, a los cambios de nacionalidad del solicitante o titular de la marca o del Estado en que tenga su domicilio, sede o establecimiento.
+
+#### CAPÍTULO II — División de la solicitud
+
+###### Artículo 46. División de la solicitud o del registro de la marca.
+
+1\. En la contestación al suspenso por defectos de forma, fondo u oposiciones, el solicitante podrá dividir su solicitud de marca en dos o más solicitudes divisionales. También podrá dividirse la solicitud al presentarse el oportuno recurso administrativo contra la denegación de la marca o cuando se solicite una transmisión parcial de acuerdo con lo previsto en el artículo 31.2 del presente Reglamento. La solicitud de división se presentará ante el órgano que en ese momento estuviese tramitando la solicitud de registro o que fuese competente para resolver el recurso o fuese competente para recibir la solicitud de transferencia, según proceda.
+
+2\. Por cada solicitud divisional resultante se presentará instancia separada, indicando los productos y servicios que se desglosan de la solicitud inicial y que conforman la solicitud divisional correspondiente. Cada instancia de división irá acompañada de las correspondientes solicitudes segregadas de registro con las menciones, requisitos y documentos que exigen los artículos 1 a 4 del presente Reglamento. En dichas solicitudes segregadas de registro se indicará además el carácter divisional de las mismas y el número, fecha de presentación y clases de la solicitud inicial de que proceden.
+
+El justificante del pago de la tasa de solicitud a que se refiere el citado artículo 4 será sustituido para las solicitudes divisionales por el justificante de pago de la tasa de división.
+
+3\. La lista de productos y servicios de las solicitudes divisionales no podrá exceder del total de productos y servicios que comprenda la solicitud inicial dividida. Si en la solicitud inicial se utilizara algún concepto general, en las solicitudes divisionales se deberá utilizar ese mismo concepto general, aunque el mismo podrá ser restringido mediante adiciones que especifiquen los productos o servicios a que se concreta cada solicitud divisional, sin que en ningún caso puedan producirse superposiciones entre ellas.
+
+4\. Recibida la solicitud de división, el órgano competente examinará si la misma se ajusta a lo previsto en el artículo 24 de la Ley 17/2001 y si cumple los requisitos exigidos en los apartados anteriores. Si se observaran defectos o irregularidades, se notificarán al solicitante para que en el plazo de un mes los subsane o presente alegaciones. Si los defectos no fueran subsanados, la división se tendrá por desistida, continuándose la tramitación del expediente inicial. Durante el procedimiento de división, el procedimiento de registro o recurso quedará en suspenso conforme a lo previsto en el artículo 26.c) de la Ley 17/2001.
+
+5\. Acordada la división de la solicitud, La Oficina Española de Patentes y Marcas u órgano competente abrirá un nuevo expediente por cada solicitud divisional presentada e incluirá en cada solicitud divisional una copia completa del expediente de la solicitud inicial y en este expediente inicial una copia de las solicitudes divisionales presentadas. El órgano competente de la Comunidad Autónoma remitirá inmediatamente a la Oficina Española de Patentes y Marcas el expediente de la solicitud inicial y de la solicitud divisional no afectada por el suspenso, continuando con la tramitación de la solicitud divisional afectada por el suspenso. La Oficina Española de Patentes y Marcas asignará un nuevo número a cada solicitud divisional y efectuará las anotaciones registrales pertinentes. El nuevo número de la solicitud divisional será comunicado al órgano competente de la Comunidad Autónoma.
+
+6\. Toda solicitud, petición o declaración hecha por el solicitante en relación con la solicitud inicial será válida y aplicable a las solicitudes divisionales.
+
+7\. Los apartados anteriores serán aplicables, en lo que proceda, a la división del registro de la marca. La división del registro de la marca, salvo lo previsto en el artículo 31 de este Reglamento, sólo podrá ser solicitada en el procedimiento de recurso contra la concesión de la marca. En este caso, la solicitud de división habrá de presentarse ante la Oficina Española de Patentes y Marcas a lo más tardar en el momento de contestar al recurso interpuesto.
+
+#### CAPÍTULO III — Restablecimiento de derechos
+
+###### Artículo 47. Solicitud de restablecimiento de derechos.
+
+1\. La solicitud para el restablecimiento de un derecho deberá presentarse en el plazo de dos meses a contar desde el cese del impedimento. La solicitud se presentará ante la Oficina Española de Patentes y Marcas o el órgano competente de la correspondiente Comunidad Autónoma frente al que se hubiera incumplido el plazo determinante de la pérdida del derecho.
+
+2\. La solicitud de restablecimiento deberá incluir:
+
+a) Nombre y dirección del solicitante o titular de la marca cuyo restablecimiento se solicita.
+
+b) Si procede, nombre y dirección del representante.
+
+c) Plazo o trámite incumplido.
+
+d) Si procede, acuerdo y fecha de la extinción del derecho y de su publicación o notificación.
+
+e) Fecha de cese del impedimento.
+
+f) Motivos del incumplimiento, justificación, pruebas y alegaciones en apoyo de la pretensión.
+
+g) Firma del interesado o de su representante.
+
+h) Justificante del abono de la tasa de restablecimiento de derechos.
+
+3\. Con la solicitud de restablecimiento del derecho deberá cumplirse el trámite omitido, acompañándose la formalización del acto o la solicitud, escrito o documentación que se omitió en su día en dicho trámite y cuya ausencia determinó la pérdida del derecho.
+
+###### Artículo 48. Examen y resolución de la solicitud.
+
+1\. El órgano competente examinará si la solicitud de restablecimiento del derecho cumple los requisitos previstos en el artículo anterior y en el apartado 2 del artículo 25 de la Ley 17/2001 y si el acto o trámite omitido ha sido debidamente cumplido en todas sus formalidades al presentarse la solicitud de restablecimiento.
+
+2\. Si se observara alguna irregularidad o defecto en la documentación presentada, tanto respecto de la solicitud de restablecimiento como del cumplimiento del trámite omitido, se comunicarán éstos al solicitante para que en el plazo de diez días los subsane. De no subsanarse en dicho plazo las irregularidades o defectos señalados, la solicitud de restablecimiento se tendrá por desistida.
+
+3\. Cuando en la documentación presentada no se observaran irregularidades o defectos o éstos hubieran sido subsanados, el órgano competente examinará si, conforme a lo dispuesto en los apartados 1, 5 y 7 del artículo 25 de la Ley 17/2001:
+
+a) Se ha acreditado la diligencia debida en las circunstancias del caso.
+
+b) El plazo incumplido es susceptible de restablecimiento.
+
+c) No existe ningún derecho de tercero que impida el restablecimiento solicitado.
+
+4\. Efectuado el examen previsto en el apartado anterior, el órgano competente resolverá, estimando o desestimando el restablecimiento del derecho. No obstante, si concurriera el impedimento previsto en la letra c) del apartado anterior, el órgano competente, antes de resolver, comunicará dicha circunstancia al solicitante y al titular del signo presuntamente impeditivo del restablecimiento solicitado para que en el plazo de un mes presenten sus alegaciones. A la vista de estas alegaciones, el órgano competente resolverá. Contra la resolución que restablezca en sus derechos al solicitante podrá interponer recurso el tercero que pueda prevalerse de las disposiciones de los apartados 6 y 7 del artículo 25 de la Ley 17/2001, de Marcas.
+
+5\. La Oficina Española de Patentes y Marcas publicará su resolución en el Boletín Oficial de la Propiedad Industrial.
+
+6\. Cuando el órgano competente para resolver la solicitud de restablecimiento de derechos sea un órgano autonómico, éste comunicará a la Oficina Española de Patentes y Marcas la presentación de la solicitud y la resolución definitiva que adopte.
+
+#### CAPÍTULO IV — Notificaciones y comunicaciones
+
+###### Artículo 49. Notificaciones y comunicaciones de la Oficina Española de Patentes y Marcas.
+
+1\. Las notificaciones y comunicaciones que haya de realizar la Oficina Española de Patentes y Marcas se efectuarán mediante la entrega o remisión del documento original, una copia del mismo firmada o sellada, o un documento elaborado por ordenador que incorpore impreso dicho sello.
+
+2\. Además de los medios de notificación previstos en el artículo 29 de la Ley 17/2001, las notificaciones podrán efectuarse en los locales de la Oficina Española de Patentes y Marcas mediante entrega directa del documento al interesado que acusará recibo del mismo.
+
+3\. Cuando la notificación se efectúe mediante el depósito del documento en el buzón de que disponga el interesado en la Oficina Española de Patentes y Marcas, se hará constar la fecha del depósito en el documento notificado y en la copia que obre en el expediente.
+
+4\. Las notificaciones electrónicas se efectuarán transmitiendo una copia electrónica del documento tal como se prevé en el apartado 1.
+
+5\. Las comunicaciones de carácter simplemente informativo que haya de realizar la Oficina Española de Patentes y Marcas, podrán efectuarse por correo ordinario, electrónico u otro medio técnico de que disponga la Oficina.
+
+> Se modifica el apartado 4 por el art. único.21 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 50. Comunicaciones de los interesados.
+
+1\. Las solicitudes de registro de marca, así como cualquier otra solicitud prevista en la Ley 17/2001, de 7 de diciembre, o en este Reglamento, y todas las demás comunicaciones dirigidas a la Oficina Española de Patentes y Marcas u órganos competentes de las Comunidades Autónomas por los interesados se efectuarán mediante la presentación en dicha Oficina u órganos competentes o en los lugares que prevé el artículo 16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, del documento firmado de que se trate.
+
+2\. Dichas solicitudes y comunicaciones también podrán efectuarse mediante la presentación del documento por medios electrónicos. El Director de la Oficina Española de Patentes y Marcas establecerá las condiciones, requisitos y características de estos medios de presentación o transmisión, tales como el equipo, aplicación o material que hayan de utilizarse y los pormenores técnicos de comunicación. El registro electrónico para la recepción de solicitudes transmitidas por medios electrónicos se ajustará a lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre.
+
+3\. Cuando las solicitudes y comunicaciones sean transmitidas a la Oficina Española de Patentes y Marcas por medios electrónicos, la mención del nombre del remitente se considerará equivalente a la firma.
+
+> Se modifica por el art. único.22 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 51. Impresos normalizados.
+
+1\. La Oficina Española de Patentes y Marcas, además de los impresos normalizados previstos en este Reglamento, podrá establecer otros para la presentación de las demás solicitudes y comunicaciones de los interesados. La aprobación de todos los impresos se efectuará mediante resolución del Director general de la Oficina Española de Patentes y Marcas.
+
+2\. Los interesados en los procedimientos ante la Oficina Española de Patentes y Marcas deberán usar dichos impresos normalizados, copias de esos impresos o impresos con el mismo contenido y formato, tales como impresos creados mediante tratamiento electrónico de datos.
+
+3\. Los impresos deberán ser cumplimentados de manera que su contenido pueda ser introducido de forma automática en un ordenador mediante, por ejemplo, el reconocimiento de caracteres y la lectura óptica.
+
+4\. La Oficina Española de Patentes y Marcas hará accesibles al público los impresos normalizados a que se refiere el apartado 1 del presente artículo mediante su puesta a disposición en redes de comunicación telemática.
+
+#### CAPÍTULO V — Registro de marcas e información al público
+
+###### Artículo 52. Forma y contenido del Registro de Marcas.
+
+1\. El Registro de Marcas a que se refiere el artículo 1 de la Ley 17/2001, de 7 de diciembre podrá llevarse en forma de base de datos electrónica.
+
+2\. En el Registro de Marcas se inscribirán, en relación con las marcas nacionales, marcas internacionales y nombres comerciales, las menciones siguientes:
+
+a) Número de la solicitud de registro.
+
+b) Fecha de presentación de la solicitud.
+
+c) Nombre, dirección y nacionalidad del solicitante o titular del registro y el Estado en que tenga su domicilio, su sede o establecimiento.
+
+d) Nombre y dirección profesional del representante, siempre que no se trate del representante a que se refiere el apartado 3 del artículo 56 de este Reglamento.
+
+e) La representación de la marca o nombre comercial con indicación de su tipo conforme a lo previsto en el artículo 2.3 de este Reglamento; y, cuando proceda, una descripción de la marca o nombre comercial. Cuando la representación se hubiera suministrado en forma de archivo electrónico, un enlace a dicho archivo. Cuando se trate de una marca o nombre comercial de color con arreglo a lo previsto en la letra f) del artículo 2.3 antes citado, indicación del color o colores reivindicados con su código de referencia.
+
+f) La lista de productos y servicios, agrupados conforme a las clases de la Clasificación Internacional. Cada grupo irá precedido del número de la clase a que corresponda, figurando en el orden seguido por dicha Clasificación Internacional.
+
+g) Las indicaciones relativas a la prioridad unionista reivindicada.
+
+h) Las indicaciones relativas a la reivindicación de prioridad de exposición.
+
+i) Las indicaciones relativas a la reivindicación de la antigüedad.
+
+j) La declaración del solicitante excluyendo de protección alguno de los elementos de la marca o nombre comercial o, en su caso, la mención de que el solicitante ha reivindicado, con arreglo a lo dispuesto en el artículo 1, apartado 3 de este Reglamento, que la marca o nombre comercial han adquirido un carácter distintivo como consecuencia del uso que se ha hecho de los mismos.
+
+k) La indicación de que se trata de una marca colectiva, de garantía o internacional.
+
+l) La indicación de que se trata de una marca nacional por transformación de un registro internacional o marca de la Unión y los datos relativos a estas solicitudes o registros (fecha presentación y número solicitud o registro).
+
+m) La indicación de que se trata de una solicitud divisional y la fecha de presentación y número de la solicitud o registro de que procede.
+
+n) La indicación de que se trata de un registro fusionado y la fecha de presentación y números de los registros de que procede.
+
+o) Fecha del acuerdo de desistimiento de la solicitud y, en su caso, de su publicación.
+
+p) Fecha de publicación de la solicitud.
+
+q) Los signos anteriores, identificados por su número de solicitud, respecto de los cuales, en virtud de lo previsto en el artículo 15.2 de este Reglamento, se hubiera comunicado la publicación de la solicitud a los titulares de los mismos.
+
+r) Fecha del suspenso y de su publicación.
+
+s) Fecha del acuerdo de denegación o concesión del registro y de su publicación.
+
+t) Datos relativos a la interposición y resolución de los recursos administrativos y jurisdiccionales.
+
+u) Datos relativos a la suscripción de un convenio arbitral, al laudo que recaiga y, en su caso, a los recursos interpuestos contra éste y a las resoluciones adoptadas en relación con los mismos.
+
+3\. En el Registro de Marcas se inscribirán también los siguientes datos:
+
+a) Toda modificación del nombre, dirección o nacionalidad del titular o solicitante del registro, o del Estado en que tenga su domicilio, su sede o establecimiento.
+
+b) Toda modificación del nombre o la dirección profesional del representante, salvo cuando se trate del representante a que se refiere el apartado 3 del artículo 56 de este Reglamento.
+
+c) Cuando se designe a un nuevo representante, su nombre y dirección profesional.
+
+d) Toda modificación de la marca o nombre comercial con arreglo a lo dispuesto en el artículo 33 de la Ley 17/2001.
+
+e) La mención de la modificación del Reglamento de uso de las marcas colectivas o de garantía con arreglo a lo dispuesto, respectivamente, en los artículos 65 y 71 de la Ley 17/2001.
+
+f) Las solicitudes de transmisión total o parcial de la solicitud o registro y la fecha de denegación o concesión de la inscripción.
+
+g) La constitución, modificación o cesión de un derecho real y la fecha de la denegación o concesión de su inscripción. En el caso de una hipoteca mobiliaria se anotará la fecha de su inscripción en el Registro de Bienes Muebles.
+
+h) Las medidas de ejecución forzosa y los procedimientos de concurso de acreedores o análogos.
+
+i) Las solicitudes de inscripción, modificación o cesión de licencias y la fecha de denegación o concesión de su inscripción.
+
+j) Las solicitudes de cancelación de las inscripciones mencionadas en los párrafos g), h) e i) y la fecha de inscripción de su cancelación.
+
+k) La solicitud de renovación del registro y su fecha de concesión o denegación y publicación.
+
+l) La solicitud de renuncia del registro y de la cancelación del mismo.
+
+m) La fecha del acuerdo de caducidad por falta de renovación y de su publicación.
+
+n) Las solicitudes y demandas de nulidad y caducidad, las acciones reivindicatorias y las resoluciones y sentencias recaídas sobre las mismas, de conformidad con lo previsto en los artículos 2 y 61 ter de la Ley 17/2001, de 7 de diciembre.
+
+4\. La Oficina Española de Patentes y Marcas podrá inscribir en el Registro de Marcas otras menciones, además de las previstas en los apartados anteriores.
+
+> Se modifica por el art. único.23 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 53. Publicidad.
+
+1\. El Registro de Marcas es público. La publicidad se hará efectiva mediante consulta a la base de datos, obtención de listados informáticos o certificación expedida por el funcionario competente.
+
+2\. La Oficina Española de Patentes y Marcas podrá facilitar, con carácter gratuito, la consulta pública de la base de datos mediante su puesta a disposición pública en redes de comunicación telemática.
+
+3\. La certificación será el único medio de acreditar fehacientemente el contenido de las inscripciones registrales.
+
+4\. La certificación se solicitará por el interesado mediante la presentación ante la Oficina Española de Patentes y Marcas del correspondiente impreso normalizado en el que se indicarán los particulares sobre los que ha de versar la misma. Cuando se solicite una certificación general sobre las inscripciones registrales de una marca o nombre comercial, la misma podrá consistir en el correspondiente listado informático de la base de datos certificado por el funcionario competente. Con la solicitud de certificación deberá acompañarse el justificante de pago de la tasa correspondiente.
+
+###### Artículo 54. Consulta pública de expedientes.
+
+1\. La consulta pública de expedientes se efectuará sobre los documentos originales o copias de los mismos.
+
+Cuando los expedientes se conservasen mediante soportes técnicos de almacenamiento, la consulta pública se efectuará sobre estos medios técnicos. La Oficina Española de Patentes y Marcas establecerá la forma de llevarse a término la consulta. Hasta que no se haya abonado la tasa correspondiente, no se tendrá por presentada la solicitud de consulta pública.
+
+2\. Estarán excluidas de consulta pública las partes del expediente que el interesado haya manifestado, antes de la presentación de la solicitud de consulta pública, que se mantengan confidenciales, a menos que la consulta de tales partes del expediente esté justificada por intereses legítimos y preponderantes de la parte que solicita la consulta.
+
+3\. Cuando se solicite la consulta pública de un expediente de solicitud de registro todavía no publicada, la parte interesada en la consulta deberá indicar y probar que el solicitante del expediente:
+
+a) Ha dado su consentimiento, o b) Ha pretendido hacer valer frente a dicha parte los derechos derivados de su solicitud.
+
+4\. La consulta tendrá lugar en los locales de la Oficina Española de Patentes y Marcas.
+
+5\. Previa solicitud, la consulta pública se realizará mediante la expedición de copias de los documentos del expediente. Para la obtención de tales copias deberá pagarse la tasa correspondiente.
+
+6\. La consulta pública de expedientes también podrá efectuarse en línea sobre los medios técnicos de almacenamiento, en este caso no nacerá la obligación de pagar la tasa de consulta pública.
+
+> Se añade el apartado 6 por el art. único.24 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Artículo 55. Conservación de expedientes.
+
+1\. La Oficina Española de Patentes y Marcas conservará los expedientes de todo procedimiento relativo a una solicitud o a un registro de marca o nombre comercial. El Director de la Oficina establecerá la forma de conservación de los expedientes conforme a lo dispuesto en la legislación vigente.
+
+2\. La conservación de los expedientes electrónicos, de los expedientes en formato electrónico, y de sus copias de seguridad, será por tiempo ilimitado. Los documentos originales presentados por las partes, una vez trasladados a formato electrónico, así como todos los documentos que no puedan pasarse a este formato, podrán destruirse con sujeción a lo dispuesto con carácter general para la Administración General del Estado y sus organismos públicos.
+
+3\. En el caso de expedientes o parte de expedientes conservados en formato no electrónico, la Oficina Española de Patentes y Marcas conservará dichos expedientes durante al menos cinco años a partir del final del año en que:
+
+a) La solicitud haya sido denegada, desistida o tenida por desistida.
+
+b) El registro de la marca o nombre comercial haya expirado totalmente conforme a lo dispuesto en la letra a) del artículo 54.3 de la Ley 17/2001, de 7 de diciembre.
+
+c) Se haya inscrito en el Registro la renuncia total de la marca o nombre comercial conforme a lo dispuesto en la letra b) del artículo 54.3 de la Ley 17/2001, de 7 de diciembre.
+
+d) La marca o nombre comercial hubieran sido totalmente cancelados del Registro conforme a lo dispuesto en el apartado 5 del artículo 61 ter de la Ley 17/2001, de 7 de diciembre.
+
+4\. La Oficina Española de Patentes y Marcas conservará los expedientes de todos aquellos registros respecto de los cuales se hubiera reivindicado su antigüedad en una marca de la Unión, aunque dichos registros hubieran sido renunciados o se hubieran dejado extinguir por su titular una vez registrada la marca de la Unión y en tanto en cuanto dicha marca de la Unión continúe en vigor.
+
+> Se modifica por el art. único.25 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+#### CAPÍTULO VI — Representación
+
+###### Artículo 56. Representación.
+
+1\. Salvo lo dispuesto en el apartado siguiente, nadie tendrá obligación de hacerse representar ante la Oficina Española de Patentes y Marcas o los órganos competentes de las Comunidades Autónomas. No obstante, en el supuesto de que el interesado actúe por sí mismo y no tenga domicilio ni sede social en territorio del Estado español, deberá designar, a efecto de notificaciones, una dirección postal en España o en el Espacio Económico Europeo o, alternativamente, indicar que las notificaciones le sean dirigidas por cualquier otro medio técnico de comunicación de que disponga la citada Oficina.
+
+2\. Sin perjuicio de lo dispuesto en el último inciso del apartado siguiente, las personas físicas o jurídicas que no tengan ni domicilio ni establecimiento industrial o comercial efectivo y serio en el Espacio Económico Europeo deberán, conforme a lo dispuesto en el artículo 175.2 de la Ley 24/2015, de 24 de julio, de Patentes, hacerse representar mediante Agente de la Propiedad Industrial en cualquiera de los procedimientos establecidos por la Ley 17/2001, de 7 de diciembre o el presente Reglamento.
+
+3\. Las personas físicas o jurídicas que tengan su domicilio o un establecimiento industrial o comercial efectivo y serio en el Espacio Económico Europeo podrán actuar mediante un empleado de las mismas, siempre que este empleado acredite ante la Oficina Española de Patentes y Marcas u órganos competentes de la Comunidad Autónoma correspondiente su poder de representación y cumpla las condiciones establecidas en el apartado 1 a efectos de notificaciones. El empleado de una persona jurídica de las contempladas en el presente apartado podrá actuar también en representación de otras personas jurídicas que estén económicamente vinculadas con aquella, incluso si estas personas jurídicas no tuvieren ni domicilio, ni establecimiento industrial o comercial efectivo y serio en el Espacio Económico Europeo.
+
+4\. A los efectos de lo dispuesto en el artículo 1.1.f) del presente Reglamento, se presumirá que el representante tiene una sucursal seria y efectiva en el territorio de la Comunidad Autónoma de presentación de la solicitud, si tiene un acuerdo de colaboración con otro representante o si actúa por medio de empleados, auxiliares o mandatarios, domiciliados cualquiera de ellos en el territorio de la referida Comunidad Autónoma.
+
+> Se modifica por el art. único.26 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Se modifican los apartados 1 y 3 por el art. 4.4 del Real Decreto 1431/2008, de 29 de agosto. [Ref. BOE-A-2008-14979](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14979)
+
+###### Artículo 57. Acreditación de la representación.
+
+1\. Los representantes deberán presentar ante la Oficina Española de Patentes y Marcas u órgano competente de la Comunidad Autónoma el correspondiente poder firmado por el interesado para su inclusión en el expediente. Los poderes podrán otorgarse para una o más solicitudes o para uno o más registros identificados en el poder.
+
+2\. Se podrá presentar un poder general por el que se faculte al representante para actuar en relación con todas las operaciones de marcas o nombres comerciales del poderdante. La Oficina Española de Patentes y Marcas llevará a estos efectos un registro de poderes generales.
+
+3\. Cuando se comunique a la Oficina Española de Patentes y Marcas u órgano competente de la Comunidad Autónoma la designación de un representante, el correspondiente poder se deberá presentar en el plazo de un mes a contar desde la recepción de dicha comunicación, si la dirección del poderdante se encuentra dentro del territorio español, o en el plazo de dos meses, si tal dirección se hallare fuera de dicho territorio. En el caso de que no se presentase el poder en los plazos prescritos anteriormente, el procedimiento continuará con el representado. Los actos realizados por el representante no acreditado, con excepción de la presentación de la solicitud de registro, se tendrán por no efectuados, si no son confirmados por el representado en los plazos anteriormente previstos. Todo ello se entenderá sin perjuicio de lo dispuesto en la última frase del apartado 1 y en el apartado 2 del artículo 56 de este Reglamento.
+
+4\. Todo representante que deje de estar apoderado seguirá siendo considerado como tal hasta que no se haya comunicado a la Oficina Española de Patentes y Marcas u órgano competente la expiración de su poder.
+
+5\. Salvo que el propio poder disponga otra cosa, su extinción por el fallecimiento del poderdante no impedirá al apoderado realizar ante la Oficina Española de Patentes y Marcas u órganos competentes de las Comunidades Autónomas los actos de conservación, defensa y mantenimiento de las solicitudes y registros del poderdante que resulten imprescindibles hasta la designación de un nuevo apoderado por los herederos de aquél o la comparecencia personal de éstos.
+
+6\. En los supuestos de solicitudes, escritos o comunicaciones presentadas electrónicamente que no impliquen renuncia, enajenación, gravamen o limitación de derechos podrá aportarse, en lugar del poder original otorgado por el interesado, un archivo electrónico que contenga la copia integra del mismo. No obstante, el documento original del poder deberá presentarse para su inclusión en el expediente cuando se desista totalmente de la solicitud, cuando la Oficina Española de Patentes y Marcas así lo requiera, o cuando cualquier parte en el procedimiento justifique la posible existencia de falsedad del mismo o cualquier otro defecto grave y así lo solicite expresamente.
+
+7\. Cuando, de acuerdo con el apartado anterior, haya de presentarse el poder original, éste deberá aportarse en el plazo de diez días que conceda la Oficina Española de Patentes y Marcas o en el que reste para que se cumpla el plazo previsto en el apartado 3 de este artículo, si este plazo fuera superior. En el supuesto de que el poder sea requerido en alguno de los trámites previstos en los artículos 11, 14 ó 20 de este Reglamento, su aportación se efectuará en los plazos establecidos en los mismos. Una vez requerida la aportación del poder original, el incumplimiento o su aportación extemporánea producirá los efectos previstos en el apartado 3 de este artículo.
+
+> Se añaden los apartados 6 y 7 por el art. 4.5 del Real Decreto 1431/2008, de 29 de agosto. [Ref. BOE-A-2008-14979](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14979)
+
+### TÍTULO IX — Solicitud de nulidad y caducidad
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Artículo 58. Contenido de la solicitud de nulidad o caducidad.
+
+1\. La solicitud de nulidad o caducidad de una marca deberá incluir:
+
+a) El nombre y dirección de la persona que formula la solicitud, de acuerdo con lo previsto en las letras b) y c) del artículo 1.1 de este Reglamento.
+
+b) En caso de que se actúe por medio de representante, el nombre y dirección de este, de acuerdo con lo previsto en la letra f) del artículo 1.1 de este Reglamento.
+
+c) El número de la marca cuya nulidad o caducidad se solicite y el nombre de su titular.
+
+d) La causa en la que se basa la solicitud de nulidad o caducidad mediante una declaración en el sentido de que se cumplen los requisitos establecidos en los artículos 51, 52, 54, 66, 67, 72, 73 y 91 de la Ley 17/2001, de 7 de diciembre.
+
+e) La indicación de los productos o servicios respecto de los que se solicita la nulidad o caducidad de la marca. En ausencia de esta indicación se considerará que la solicitud se formula contra todos los productos o servicios amparados por la marca impugnada.
+
+f) El justificante de pago de la tasa de solicitud de nulidad o caducidad.
+
+g) Firma del interesado o de su representante.
+
+2\. Además de los requisitos establecidos en el apartado anterior, las solicitudes de nulidad basadas en causas relativas deberán incluir:
+
+a) Cuando la solicitud de nulidad se base en una marca anterior de las contempladas en las letras a), b) y c) del artículo 6.2 de la Ley 17/2001, de 7 de diciembre, el número de dicha marca, su fecha de presentación o prioridad, y si la misma está solicitada o registrada.
+
+b) Si la solicitud de nulidad se basa en una marca anterior notoriamente conocida en el sentido del artículo 6.2.d) de la Ley 17/2001, de 7 de diciembre, una indicación en tal sentido y una representación de la misma.
+
+c) Si la solicitud se basa en una marca anterior renombrada conforme a lo previsto en el artículo 8 de la Ley 17/2001, de 7 de diciembre, además de las menciones señaladas en la letra a) anterior, una indicación en este sentido.
+
+d) Cuando la solicitud de nulidad se base en alguno de los derechos anteriores previstos en los artículos 9 y 10 de la Ley 17/2001, de 7 de diciembre, una indicación de la naturaleza del derecho anterior en que se basa la solicitud y su representación. Si el derecho anterior fuera uno de los contemplados en el apartado 3 del artículo 9, la fecha de solicitud del registro o, si no estuviera disponible, la fecha a partir de la cual se concede la protección.
+
+e) Si la solicitud de nulidad se basa en un registro o solicitud anterior, una representación de dicho registro o solicitud. Si se tratara de una marca anterior en color, la representación deberá ser en color.
+
+f) Indicación de los productos o servicios en los que se basa cada uno de los motivos de la solicitud de nulidad.
+
+g) En el caso de que presente la solicitud de nulidad un licenciatario o una persona facultada a ejercer un derecho anterior, la acreditación de la autorización o el derecho que le faculte para presentar dicha solicitud.
+
+3\. Cuando la solicitud de nulidad presentada conforme al artículo 52 de la Ley 17/2001, de 7 de diciembre se base en más de una marca o derecho anterior, serán de aplicación los apartados 1, letra d), y 2 del presente artículo para cada una de dichas marcas o derechos.
+
+4\. La solicitud podrá incluir las razones, motivos y fundamentos en que se base la solicitud y las pruebas acreditativas que se consideren pertinentes.
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Artículo 59. Inadmisión de la solicitud de nulidad o caducidad.
+
+1\. La Oficina Española de Patentes y Marcas inadmitirá la solicitud de nulidad o caducidad cuando no cumpla lo dispuesto en las letras c), d) y f) del artículo 58.1, o, cuando proceda, en las letras a), b) o d), primera frase, del artículo 58.2 del presente Reglamento.
+
+2\. Si la solicitud de nulidad o caducidad no se ajusta a las demás disposiciones de la Ley 17/2001, de 7 de diciembre o del presente Reglamento, la Oficina Española de Patentes y Marcas notificará las irregularidades observadas al solicitante para que en el plazo de diez días las subsane. Si en dicho plazo las irregularidades no fueran subsanadas, la Oficina decretará la inadmisión de la solicitud.
+
+3\. La Oficina informará al solicitante y al titular de la marca de las resoluciones adoptadas conforme a lo dispuesto en los apartados anteriores y publicará una mención de las mismas en el “Boletín Oficial de la Propiedad Industrial”.
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Artículo 60. Fundamentación de la solicitud de nulidad o caducidad.
+
+1\. El solicitante deberá presentar los hechos, las pruebas y las alegaciones en apoyo de su solicitud hasta el cierre de la fase contradictoria del procedimiento de nulidad o caducidad. En particular, el solicitante aportará lo siguiente:
+
+a) En caso de una solicitud presentada con arreglo al artículo 51 o al artículo 54, apartado 1, letras b) o c) de la Ley 17/2001, de 7 de diciembre los hechos, las pruebas y los argumentos en apoyo de los motivos en que se base la solicitud de nulidad o caducidad.
+
+b) En caso de que la solicitud se base en una marca anterior de la Unión, pruebas del registro o de la solicitud de registro de dicha marca, tales como una copia del certificado de registro o del certificado de presentación de la solicitud y, en su caso, del último certificado de renovación que acredite la vigencia de dicha marca.
+
+c) En caso de que la solicitud se base en una marca anterior notoriamente conocida en el sentido del artículo 6.2.d) de la Ley 17/2001, de 7 de diciembre, prueba de la existencia o registro de dicha marca y de que la misma es notoriamente conocida en España para los productos o servicios en los que se basa dicha solicitud de nulidad.
+
+d) En el caso de que la solicitud se base en una marca anterior renombrada en el sentido del artículo 8 de la Ley 17/2001, de 7 de diciembre, además de la pruebas a que se refiere la letra b) del presente apartado, prueba de que la marca goza de renombre en España o en la Unión para los productos o servicios en los que se basa dicha solicitud de nulidad, así como prueba o alegaciones que demuestren que el uso sin justa causa de la marca impugnada se aprovecharía indebidamente del carácter distintivo o el renombre de la marca anterior, o bien sería perjudicial para dicho carácter distintivo o dicho renombre.
+
+e) En el caso de que la solicitud se base en alguno de los motivos previstos en las letras a) y b) del artículo 9.1 de la Ley 17/2001, de 7 de diciembre, prueba de la existencia del nombre, apellidos u otro signo identificativo de la persona afectada y, en su caso, del alcance y divulgación entre la generalidad del público de dicho medio de identificación.
+
+f) En el caso de que la solicitud se base en alguno de los motivos previstos en la letra c) del artículo 9.1 de la Ley 17/2001, de 7 de diciembre, prueba de la adquisición, existencia continuada y ámbito de protección del derecho anterior, así como acreditación de que el solicitante tiene derecho a presentar la solicitud.
+
+g) En el caso de que la solicitud se base en la letra d) del artículo 9.1 de la Ley 17/2001, de 7 de diciembre, prueba del uso o del conocimiento notorio del signo en el tráfico económico del conjunto del territorio nacional.
+
+h) En el caso de que la solicitud se base en una denominación de origen o en una indicación geográfica protegida a tenor de lo previsto en artículo 9.3 de la Ley 17/2001, de 7 de diciembre, prueba de la adquisición, existencia continuada y ámbito de protección de dicho derecho.
+
+i) En el caso de que la solicitud se base en la inexistencia del consentimiento del titular de la marca tal como se contempla en el artículo 10.1 de la Ley 17/2001, de 7 de diciembre, prueba de la propiedad de dicha marca y de la relación con el agente o representante.
+
+2\. Cuando los elementos de prueba relativos a la presentación o registro de los derechos anteriores a que se refieren las letras b), c), d), f) y h) del apartado anterior obren en una base de datos oficial accesible en línea de forma gratuita y en idioma español, la parte que presente la solicitud de nulidad podrá aportar esas pruebas haciendo referencia a dicha base de datos.
+
+3\. Los documentos y demás pruebas se adjuntarán en anexos que se numerarán consecutivamente. La presentación deberá incluir un índice que contenga, para cada documento o elemento de prueba presentado como anexo:
+
+a) El número del anexo;
+
+b) Una breve descripción del documento o del elemento y, si procede, el número de páginas;
+
+c) Una indicación de las partes concretas del documento o elemento que invoca en apoyo de sus alegaciones, si procede;
+
+d) El número de página de las alegaciones en la que se menciona el documento o el elemento.
+
+Si el índice o los anexos no cumplieran con estos requisitos, la Oficina podrá requerir al interesado para que en el plazo previsto en el artículo 61.5 subsane las irregularidades detectadas. Si en dicho plazo las irregularidades no fueran subsanadas, el documento o elemento irregular no será tenido en cuenta.
+
+4\. El Director de la Oficina Española de Patentes y Marcas podrá disponer mediante resolución los modos de presentación, especificaciones técnicas, formatos y soportes en los que los interesados habrán de presentar sus pruebas.
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Artículo 61. Examen de fondo de la solicitud de nulidad o caducidad.
+
+1\. Si la solicitud fuera admitida, la Oficina Española de Patentes y Marcas enviará una comunicación a las partes mediante la cual les informará de que se ha iniciado la fase contradictoria del procedimiento de caducidad o de nulidad y requerirá al titular de la marca impugnada para que presente sus observaciones en el plazo de dos meses.
+
+2\. En el caso de que la Oficina Española de Patentes y Marcas hubiera requerido a una parte, de conformidad con el artículo 59.1 de la Ley 17/2001, de 7 de diciembre para que formulara observaciones y dicha parte no hubiera presentado observación alguna dentro del plazo establecido, la Oficina procederá al cierre de la fase contradictoria del procedimiento y se pronunciará sobre la caducidad o nulidad con arreglo a las pruebas de que disponga.
+
+3\. En el caso de que el solicitante no hubiera presentado los hechos, alegaciones o pruebas necesarios para fundamentar su solicitud, la misma será desestimada por infundada.
+
+4\. Toda observación presentada por las partes se notificará a la otra parte interesada. Cuando la misma no contenga elementos nuevos o ya se hubieran reunidos los elementos necesarios para dictar una resolución en el asunto, la notificación será facultativa.
+
+5\. Si la Oficina Española de Patentes y Marcas hiciera uso de la facultad que le confiere la segunda frase del apartado 1 del artículo 59 de la Ley 17/2001, de 7 de diciembre, concederá a la parte requerida un plazo no superior a un mes ni inferior a diez días para presentar sus observaciones.
+
+6\. Cuando el titular de la marca impugnada renuncie a los productos o servicios contra los que se hubiera formulado la solicitud de nulidad o caducidad, o dicha marca hubiera expirado o hubiera sido anulada en un proceso paralelo, se cerrara el procedimiento, salvo que el solicitante demuestre un interés legítimo en obtener una resolución sobre el fondo.
+
+7\. En caso de que el titular renuncie parcialmente a la marca impugnada mediante la supresión de algunos de los productos o servicios contra los que se dirige la solicitud, la Oficina requerirá al solicitante para que declare, dentro del plazo que se le otorgue de acuerdo con el apartado 5, si mantiene su solicitud y, en caso afirmativo, contra cuáles de los productos y servicios restantes. En el caso de que el solicitante retire la solicitud a la luz de la renuncia, o se informe a la Oficina de un acuerdo entre las partes, el procedimiento finalizará.
+
+8\. En el caso de que el titular desee renunciar a la marca impugnada, deberá hacerlo mediante un documento separado.
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Artículo 62. Suspensión y sobreseimiento de solicitudes de nulidad o caducidad.
+
+1\. Cuando se presenten varias solicitudes de nulidad o caducidad contra la misma marca, la Oficina Española de Patentes y Marcas las tramitará siguiendo el orden de incoación, decretando la suspensión de oficio de las demás solicitudes presentadas. La Oficina informará de ello a los solicitantes afectados.
+
+2\. Si como consecuencia de un previo procedimiento de nulidad o caducidad recayera una resolución firme que determinara la extinción de la marca impugnada, las solicitudes de nulidad o caducidad que hubieran sido suspendidas conforme al apartado anterior quedarán sobreseídas, salvo que el solicitante acredite un interés legítimo en obtener una resolución sobre el fondo de su solicitud. La Oficina informará del sobreseimiento a las partes afectadas.
+
+3\. En caso de sobreseimiento, a petición del interesado, la Oficina Española de Patentes y Marcas reembolsará el cincuenta por ciento de la tasa de nulidad o caducidad abonada.
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Artículo 63. Prueba de uso en las solicitudes de nulidad o caducidad.
+
+1\. Cuando se trate de una solicitud de caducidad basada en los artículos 54.1.a) y 57 de la Ley 17/2001, de 7 de diciembre, la Oficina instará al titular de la marca impugnada a aportar, en el plazo de dos meses, la prueba del uso efectivo de dicha marca o la concurrencia de causas justificativas de la falta de uso. En el caso de que, en el plazo indicado, el titular no aporte dicha prueba o la concurrencia de causas justificativas de la falta de uso o, en su caso, las pruebas o causas alegadas sean manifiestamente insuficientes o carentes de pertinencia, se declarará la caducidad de la marca impugnada. El artículo 21 bis, apartados 3, 4, 5 y 7 del presente Reglamento se aplicarán mutatis mutandis.
+
+2\. La petición de la prueba de uso con arreglo a lo dispuesto en el artículo 59, apartados 2, 3 y 7 de la Ley 17/2001, de 7 de diciembre se admitirá si el titular de la marca impugnada presenta una petición incondicional en un documento separado dentro del plazo previsto en el artículo 61, apartado 1 del presente Reglamento. En el caso de que el titular de la marca impugnada hubiera presentado una solicitud de prueba del uso de la marca anterior que cumpla los requisitos del artículo 59, apartados 2, 3 y 7 de la Ley 17/2001, de 7 de diciembre la Oficina requerirá al solicitante de la nulidad para que aporte las pruebas exigidas en el plazo de un mes. En el caso de que, en el plazo indicado, el solicitante de la nulidad no facilite dichas pruebas o acredite la concurrencia de causas justificativas de la falta de uso o los motivos alegados fueran manifiestamente insuficientes o carentes de pertinencia, la Oficina denegará la solicitud de declaración de nulidad en la medida en que se base en dicha marca anterior. El artículo 21 bis, apartados 3, 4, 5 y 7 del presente Reglamento se aplicarán mutatis mutandis.
+
+3\. La petición de la prueba de uso podrá ir acompañada de las alegaciones de contestación a la solicitud de nulidad formulada. Dichas alegaciones también podrán presentarse junto con las que se formulen en respuesta a la prueba de uso presentada.
+
+> Se añade por el art. único.27 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+> Téngase en cuenta que se aplicará a partir del día 14 de enero de 2023, sin perjuicio de la aplicación inmediata de aquellos preceptos a los que remitan otras partes del Reglamento, según establece la disposición transitoria 2 del citado Real Decreto.
+
+###### Disposición adicional primera. Cumplimiento de trámites.
+
+A efectos de lo dispuesto en la disposición adicional cuarta de la Ley 17/2001, se entenderán por trámites de un procedimiento en materia de propiedad industrial cualesquiera actuaciones relativas a la solicitud, tramitación, oposición, renovación, reivindicación de prioridad, pago de tasas o incluso formulación de recursos respecto de cualquier modalidad de propiedad industrial. En consecuencia, las actuaciones o trámites con ese objeto cuyo plazo hubiera de expirar en sábado, podrán efectuarse válidamente en el primer día hábil siguiente a ese sábado.
+
+###### Disposición adicional segunda. Restablecimiento de derechos de las demás modalidades de propiedad industrial.
+
+Los artículos 47 y 48 del presente Reglamento serán de aplicación, en todo aquello que no sea incompatible con su propia naturaleza o con lo dispuesto en la disposición adicional séptima de la Ley 17/2001, de Marcas, a las patentes, modelos de utilidad, topografías de los productos semiconductores y modelos y dibujos industriales y artísticos.
+
+###### Disposición adicional tercera. Cómputo de plazos.
+
+Los plazos establecidos en este Reglamento se computarán conforme a lo dispuesto en el artículo 30 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifica por el art. único.28 del Real Decreto 306/2019, de 26 de abril. [Ref. BOE-A-2019-6345](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-6345)
+
+###### Disposición transitoria primera. Normas transitorias aplicables a los rótulos de establecimiento.
+
+1\. Mientras dure la vigencia registral de los rótulos de establecimiento serán aplicables a los mismos las disposiciones del presente Reglamento en todo aquello que no sea incompatible con su propia naturaleza, o contrario al régimen transitorio previsto en la Ley 17/2001. En particular, le serán aplicables el artículo 15.2, el capítulo IV del Título II y el Título IV de este Reglamento.
+
+2\. De acuerdo con lo previsto en el párrafo a) del apartado 2 de Ia disposición transitoria tercera de Ia Ley 17/2001, cuando la renovación del rótulo de establecimiento sólo comprenda municipios ubicados en una única Comunidad Autónoma la solicitud de renovación se presentará ante los órganos competentes de dicha Comunidad Autónoma. La solicitud de renovación se presentará ante Ia Oficina Española de Patentes y Marcas cuando comprenda los municipios de las Ciudades de Ceuta o Melilla o cuando, refiriéndose a cualesquiera otros municipios, los órganos de Ia Comunidad Autónoma que resultase competente no hubieren iniciado sus actividades registrales, conforme a lo previsto en Ia disposición transitoria quinta de Ia citada Ley.
+
+3\. La solicitud y procedimiento de renovación se ajustarán a lo dispuesto en los artículos 26, 27 y 28 del Reglamento, en todo aquello que no sea incompatible con su propia naturaleza o contrario a lo dispuesto en la Ley 17/2001 y en la presente disposición. En particular no le será aplicable a la renovación de los rótulos de establecimiento, el plazo de demora contemplado en el artículo 32.3 de la citada Ley, ni la indicación de los productos o servicios previstos en el párrafo g) del artículo 26.2 del Reglamento, que deberá sustituirse por la indicación de los municipios, sucursales y actividades concretas para las que se solicita la renovación.
+
+4\. Cuando la competencia para resolver la solicitud de renovación corresponda a los órganos de las Comunidades Autónomas, el justificante de abono de la tasa correspondiente se ajustará a lo que aquéllas dispongan.
+
+Dentro de los cinco días siguientes a la recepción de la solicitud, el órgano competente comunicará a la Oficina Española de Patentes y Marcas los datos de la solicitud de renovación en la forma prevista en el apartado 7 del artículo 5 de este Reglamento. Una vez resuelta la solicitud de renovación, en el mismo plazo y del mismo modo se comunicará a dicha Oficina la resolución adoptada y, en su caso, los recursos administrativos y jurisdiccionales que se interpongan contra la misma y la resolución que recaiga sobre los mismos. La Oficina Española de Patentes y Marcas, a instancia del órgano competente, suministrará copia del expediente o cuantos datos se le soliciten del mismo.
+
+###### Disposición transitoria segunda. Aplicación de la Clasificación Internacional a los nombres comerciales renovados.
+
+1\. De conformidad con lo previsto en la disposición transitoria sexta de la Ley 17/2001, en la primera renovación que se produzca tras la entrada en vigor de dicha Ley, los nombres comerciales concedidos bajo la legislación anterior se clasificarán de acuerdo con la Clasificación Internacional de productos y servicios.
+
+2\. La solicitud de esta renovación se ajustará a lo previsto en el artículo 26 del Reglamento. No obstante, en la misma deberá precisarse que se trata de una primera renovación con adaptación a la Clasificación Internacional e indicarse los productos o servicios para los que se pide la renovación, agrupados según la clase a que pertenezca de la Clasificación Internacional, precedido cada grupo por el número de su clase. La lista presentada no podrá incluir productos o servicios distintos de los comprendidos en la lista de actividades protegidas por el nombre comercial.
+
+Cuando la lista de actividades contenga conceptos excesivamente genéricos y totalmente indeterminados, habrá de prescindirse de los mismos en la adaptación a la Clasificación Internacional.
+
+3\. El procedimiento de renovación se ajustará a lo dispuesto en el artículo 28 del Reglamento. Los defectos o reparos observados en la clasificación propuesta por el interesado serán notificados al mismo, conforme a lo previsto en el apartado 1 del artículo antes citado. La Oficina Española de Patentes y Marcas, a la vista de la contestación del interesado, resolverá concediendo la renovación para los productos o servicios que considere correctamente clasificados, salvo que existan otras irregularidades no subsanadas que impidan la concesión de la renovación solicitada.
+
+###### Disposición transitoria tercera. Fusión de registros.
+
+1\. Cuando, conforme a la disposición transitoria séptima de la Ley 17/2001, se solicite, en la primera renovación que se efectúe tras la entrada en vigor de la citada Ley, la fusión en un único registro de varias marcas concedidas, el interesado deberá presentar la solicitud de renovación con arreglo a lo dispuesto en el artículo 26 del Reglamento. La solicitud de renovación deberá incluir además:
+
+a) Una mención indicando que se solicita la fusión de varias marcas en un único registro.
+
+b) Los números de los registros de marca respecto de los que se solicita la fusión.
+
+c) La mención de los productos y servicios de los registro fusionados para los que se solicita la renovación, agrupados según la clase a que pertenezcan de la Clasificación Internacional, precedido cada grupo por el número de su clase y dispuestos éstos correlativamente siguiendo el orden numérico de dicha Clasificación. Esta enumeración de los productos y servicios se efectuará aun en el caso de que la renovación se solicite para todos los productos y servicios protegidos por los distintos registros fusionados.
+
+2\. El procedimiento de renovación se ajustará a lo dispuesto en el artículo 28 del Reglamento. No obstante, la Oficina Española de Patentes y Marcas examinará además si la fusión solicitada cumple los requisitos previstos en la disposición transitoria séptima de la Ley y en la presente disposición. Si se observara algún defecto o reparo, serán notificados al interesado con arreglo a lo dispuesto en el apartado 1 del artículo 28 antes citado.
+
+3\. Si los defectos o reparos relativos a la solicitud de fusión no fueran subsanados en el plazo prescrito, la fusión será denegada. No obstante, no se denegará la renovación solicitada si la misma cumple los requisitos legalmente previstos respecto de los registros para los que se solicitó la fusión. En este supuesto, la Oficina Española de Patentes y Marcas notificará al interesado la denegación de la fusión y la concesión de la renovación respecto de los registros que procedan. En los expedientes de estos registros se incorporará una copia de la solicitud de renovación presentada y de la resolución adoptada.
+
+4\. Cuando se conceda la renovación y fusión solicitada, se abrirá un nuevo expediente en el que se incorporarán los expedientes de los registros fusionados, asignando un nuevo número al registro fusionado resultante.
+
+La Oficina Española de Patentes y Marcas, asimismo, efectuará las anotaciones registrales pertinentes, cancelando cada uno de los registros fusionados, indicando el motivo de esta cancelación y el número del expediente en que han sido incorporados.

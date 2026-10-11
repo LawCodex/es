@@ -1,0 +1,2580 @@
+---
+title: "Resolución de 13 de marzo de 2006, de la Dirección General de Política Energética y Minas, por la que se establecen los protocolos de detalle de las Normas de Gestión Técnica del Sistema Gasista"
+identifier: "BOE-A-2006-6003"
+eli: "https://www.boe.es/eli/es/res/2006/03/13/(1)"
+type: resolution
+rank: "Resolución"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria, Turismo y Comercio"
+date: 2006-03-13
+published: 2006-04-04
+in_force_from: 2006-04-05
+last_amended: 2019-03-14
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 80"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2006-6003"
+retrieved: 2026-10-11
+---
+
+# Resolución de 13 de marzo de 2006, de la Dirección General de Política Energética y Minas, por la que se establecen los protocolos de detalle de las Normas de Gestión Técnica del Sistema Gasista
+
+El Real Decreto 949/2001, de 3 de agosto, por el que se regula el acceso de terceros a las instalaciones gasistas y se establece un sistema económico integrado del sector de gas natural, desarrolla las líneas básicas que deben contener las Normas de Gestión Técnica del Sistema de gas natural, y en su artículo 13 establece que el Gestor Técnico del Sistema, en colaboración con el resto de los sujetos implicados, elaborará una propuesta de Normas de Gestión Técnica del Sistema, que elevará al Ministro de Economía para su aprobación o modificación.
+
+Asimismo, el citado Real Decreto 949/2001, en su artículo 13, establece que «El Gestor Técnico del Sistema propondrá a la Dirección General de Política Energética y Minas, del Ministerio de Economía, los protocolos de detalle en relación con las Normas de Gestión Técnica del Sistema, los cuales serán objeto de aprobación o modificación por parte de ésta, previo informe de la Comisión Nacional de Energía».
+
+El Real Decreto 1554/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica del Ministerio de Industria, Turismo y Comercio, modificado por el Real Decreto 254/2006, de 3 de marzo, en su artículo 1, asigna este Departamento ministerial la elaboración y ejecución de la política energética del Gobierno. Por su parte, el artículo 4 de la Ley 50/1997, de 27 de noviembre, del Gobierno, atribuye a los Ministros el ejercicio de la potestad reglamentaria en las materias propias de su Departamento.
+
+En cumplimiento de lo anterior, el Ministro de Industria, Turismo y Comercio dictó la Orden ITC/3126/2005, de 5 de octubre, por la que se aprueban las Normas de Gestión Técnica del Sistema Gasista. Dicha orden, en su disposición final primera, faculta a la Dirección General de Política Energética y Minas para adoptar las medidas necesarias para la aplicación y ejecución de la orden, en particular para aprobar y modificar los protocolos de detalle de las Normas de Gestión Técnica y demás requisitos, reglas, documentos y procedimientos de operación establecidos para permitir el correcto funcionamiento del sistema.
+
+De acuerdo con lo anterior y con la disposición adicional undécima, apartado tercero, de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y con el artículo 13 del Real Decreto 949/2001, de 3 de agosto, la presente resolución ha sido sometida al preceptivo informe de la Comisión Nacional de Energía.
+
+Sobre la base de lo anterior, esta Dirección General resuelve:
+
+## Artículo primero. Aprobación de los Protocolos de Detalle.
+
+Se aprueban los Protocolos de Detalle referentes a las Normas de Gestión Técnica del Sistema que se insertan como Anejo a continuación.
+
+## Artículo segundo. Ámbito de aplicación.
+
+Los Protocolos de Detalle de las Normas de Gestión Técnica del Sistema Gasista serán de aplicación al propio Gestor Técnico del Sistema, a todos los sujetos que accedan al mismo, a los titulares de las instalaciones gasistas y a los consumidores, y se aplicarán en todas las instalaciones del sistema gasista español, según se determina en el artículo 59 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos.
+
+## Artículo tercero. Recursos.
+
+Contra la presente resolución podrá interponerse, en el plazo de un mes, recurso de alzada ante el Excmo. Sr. Secretario General de la Energía, de acuerdo con lo establecido en la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+## Disposición adicional primera. Mermas.
+
+En un plazo inferior a 60 días a contar desde el día siguiente a la publicación de esta resolución, el Grupo de Trabajo de Modificación de las Normas de Gestión Técnica del Sistema establecerá un subgrupo de trabajo para estudio de las repercusiones en las mermas reconocidas de la aplicación del sistema de medición SGERG-88 incluido en el Protocolo 01 «Medición». Las conclusiones de dicho estudio serán tenidas en cuenta en la propuesta anual sobre mermas que debe realizar el Gestor Técnico de la Energía, en cumplimiento de lo establecido en el apartado 2.4.3 «Mermas y autoconsumos» de la Norma de Gestión Técnica NGTS-02.
+
+## Disposición transitoria primera. Publicación de información sobre poderes caloríficos y factores correctores.
+
+En un plazo de tres meses, a partir del día siguiente a la publicación de la presente resolución, el Gestor Técnico del Sistema publicará en su página web información comprensible para el consumidor final relativa a los factores de corrección por presión y temperatura (a las presiones relativas estandarizadas), aplicables en cada municipio suministrado mediante gas natural, así como el poder calorífico diario asignado.
+
+En el caso de los municipios con suministro de gas natural obtenido a partir de plantas satélites o alimentados mediante gas manufacturado, la información anterior será publicada en la página web de la empresa distribuidora, que será responsable de mantener dicha información actualizada.
+
+## Disposición transitoria segunda. Adaptación de los equipos de medida.
+
+Los sujetos titulares de equipos de medición dispondrán de un período de un mes desde la fecha de publicación de esta resolución para la adaptación de dichos equipos a lo establecido en el Protocolo de Detalle 1.
+
+## Disposición final primera. Entrada en vigor.
+
+Esta resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 13 de marzo de 2006.–El Director General, Jorge Sanz Oliva.
+
+## ANEJO — Protocolos de detalle
+
+## Protocolo de detalle PD-01 — Medición, calidad y odorización de gas
+
+1\. Objeto.
+
+El presente protocolo de detalle tiene como objeto desarrollar la Norma de Gestión Técnica del Sistema Gasista NGTS-05 «Medición». Para ello, se definen conceptos y procedimientos relacionados con la medición, la calidad y la odorización del gas natural, de los gases manufacturados, y de los gases procedentes de fuentes no convencionales, tales como el biogás, el gas obtenido a partir de la biomasa u otros tipos de gas, siempre y cuando resulte técnicamente posible y seguro inyectar tales gases en las redes de transporte y distribución de gas natural.
+
+2\. Glosario.
+
+En el presente protocolo de detalle se utilizan las definiciones recogidas en la Norma de Gestión Técnica del Sistema Gasista NGTS-01 «Conceptos generales» y, en lo referente al control metrológico, las contenidas en el artículo 2 y los Anexos III, IV y VI del Real Decreto 889/2006, de 21 de julio, por el que se regula el control metrológico del Estado sobre instrumentos de medida.
+
+3\. Condiciones generales.
+
+Todas las obligaciones y responsabilidades asociadas al correcto funcionamiento y control metrológico de los equipos e instalaciones de medición, análisis y odorización, así como aquellas relacionadas con su mantenimiento, reparación y/o sustitución en su caso, junto con la seguridad exigible para los equipos e instalaciones involucradas, corresponderán y serán asumidas por los titulares de los mismos, según lo establecido en la normativa legal vigente.
+
+3.1 Derecho de acceso a las instalaciones de medida y su comprobación.
+
+En los puntos de conexión transporte-transporte (incluidas las conexiones de salida de las plantas de regasificación de GNL y de los almacenamientos subterráneos), transporte-distribución, distribución-distribución y en los puntos de suministro a los consumidores, el titular de la instalación deberá permitir el acceso a los equipos de medida a la otra parte implicada, tras la previa concertación de la visita.
+
+A estos efectos, se consideran partes implicadas en los puntos de conexión los titulares de las instalaciones interconectadas, el Gestor Técnico del Sistema (GTS) y los comercializadores titulares del gas vehiculado.
+
+Por su parte, en los puntos de suministro se considerarán partes implicadas el consumidor, el distribuidor/transportista titular de la red a la que están conectados y el comercializador que suministre. El GTS se considerará parte implicada de un punto de suministro cuando, de acuerdo con la definición incluida en la NGTS-01, se trate de un consumidor que puede condicionar con su comportamiento la operación normal de la red a la que está conectado.
+
+Cuando el titular de los equipos de medición sea el sujeto que recibe el gas, el sujeto que lo entrega tendrá el derecho de realizar comprobaciones periódicas, tales como por ejemplo: la toma de lecturas, visitas de comprobación de elementos de medida y el estado de los elementos precintables de los sistemas de medición.
+
+Adicionalmente a las obligaciones de control metrológico que puedan derivarse de la Ley 3/1985, de 18 de marzo, de Metrología, del Real Decreto 889/2006, y de sus normativas de desarrollo, los sujetos del Sistema Gasista (transportistas, distribuidores, comercializadores y consumidores) podrán solicitar comprobaciones extraordinarias de los sistemas de medición. Dichas comprobaciones extraordinarias deberán tener un alcance idéntico a la verificación periódica prevista en el control metrológico del equipo.
+
+Los gastos generados por la comprobación extraordinaria de los equipos de medida serán a cargo del solicitante salvo que el control metrológico de los mismos confirmase la existencia de una desviación superior a la admisible, en cuyo caso correrán a cargo del titular del equipo.
+
+3.2 Derecho de acceso a la información de la telemedida.
+
+El GTS dispondrá de acceso continuo a las telemedidas de todos los puntos de salida de la Red Básica. Este acceso no supondrá ningún coste para los usuarios. El GTS recibirá las señales de telemedida de los consumidores que pueden condicionar con su comportamiento la operación normal de la red a la que están conectados diariamente, bien de forma directa o bien a través del distribuidor.
+
+Asimismo, los distribuidores recibirán en su centro gestor de telemedida, los datos de medida de los puntos de suministro de aquellos consumidores que dispongan de ella. Estos datos serán puestos a disposición de los agentes participantes (comercializadores, transportistas y GTS) a través del Sistema de Comunicación Transporte-Distribución (SCTD), con detalle diario, antes de las diez horas del día siguiente al día de consumo.
+
+3.3 Derecho a instalar telemedida en los equipos de medida de los puntos de conexión.
+
+En los puntos de conexión transporte-transporte (incluidas las conexiones de salida de las plantas de regasificación de GNL y de los almacenamientos subterráneos), transporte-distribución, distribución-distribución y en los puntos de suministro a los consumidores, que puedan tener incidencia en la operación de la red, o cuando pueda ser necesario para la realización de los balances, el titular de la instalación deberá permitir a la otra parte la instalación de telemedida en el equipo de medida. El coste de la instalación la asumirá la parte que instale el equipo.
+
+3.4 Disposiciones normativas y normas aplicables en medición, calidad y odorización de gas.
+
+El GTS publicará y mantendrá actualizado en su página web el listado de disposiciones normativas y normas (UNE-EN y otras) en vigor, aplicables a la medición, calidad y odorización de gas y sus equipos, habilitando la descarga de aquellos documentos que sean de acceso libre y gratuito. Asimismo, recopilará de forma comprensible para el consumidor aquella información relevante contenida en ella.
+
+En relación con la normativa, el listado, al menos, hará referencia a:
+
+– El extracto de las disposiciones de la normativa sectorial relativas a la lectura y medición, así como al proceso de regularización de las medidas.
+
+– La normativa metrológica legal española y normas UNE-EN aplicables a los diferentes equipos: contadores, conversores, cromatógrafos, etc.
+
+– La normativa española vigente y las normas UNE-EN que permiten determinar el tamaño del contador para puntos de suministro aplicable de acuerdo con el punto 4.4.4 de este protocolo de detalle.
+
+– Las normas UNE o internacionalmente aceptadas que permiten determinar las características de calidad del gas al objeto de comprobar si cumple con las especificaciones recogidas en el epígrafe 5 de este protocolo de detalle.
+
+– Las normas UNE o internacionalmente aceptadas que establecen los procedimientos de medida y cálculo que aplican de acuerdo con el epígrafe 6 de este protocolo de detalle.
+
+– La altitud en metros de los municipios que se utiliza para el cálculo del factor de conversión por presión (K<sub>p</sub>), así como el organismo oficial de estadística competente que lo publica.
+
+Al objeto de difundir y facilitar la información anterior a los consumidores finales, tanto los distribuidores como los comercializadores deberán publicar en su página web bien una reproducción del contenido de la página del GTS, o bien un vínculo a esta página.
+
+3.5 Manuales de operación y protocolos de medición.
+
+Los manuales de operación y/o protocolos de medición que los titulares de las instalaciones del sistema gasista establezcan con otros titulares de instalaciones adyacentes o con consumidores, deberán ser consistentes con lo indicado en este protocolo sin perjuicio de que se puedan acordar otros aspectos no regulados entre las partes.
+
+Los transportistas publicaran en su página web los modelos de manuales de operación y de protocolos de medición que utilicen.
+
+4\. Equipos de medición y análisis del gas.
+
+En los puntos de conexión transporte-transporte (incluidas las conexiones de salida de plantas de regasificación de GNL y almacenamientos subterráneos), transporte-distribución, distribución-distribución y en los puntos de suministro a los consumidores, las instalaciones y equipos de medida deberán ser sometidos a las obligaciones de control metrológico que puedan derivarse de la Ley 3/1985, del Real Decreto 889/2006, y de sus normativas de desarrollo.
+
+En cualquier caso, será requisito imprescindible disponer del certificado de conformidad previo de la instalación y equipo de medida, según lo establecido en la normativa metrológica legal española. Por otra parte, las partes implicadas, de acuerdo a la definición incluida en el apartado 3.1, tendrán derecho a constatar documentalmente que la instalación y equipo de medida disponen de la oportuna certificación de conformidad metrológica, tras la previa concertación de una visita con el titular de los mismos.
+
+4.1 Titularidad.
+
+En los puntos de conexión transporte-transporte, transporte-distribución, distribución-distribución y en los puntos de suministro a los consumidores finales, la titularidad de estos equipos vendrá determinada por la legislación vigente o, en su defecto, por los acuerdos alcanzados por las partes.
+
+4.2 Puntos del Sistema Gasista que deben poseer equipos de análisis de calidad del gas.
+
+Las instalaciones de medida de los siguientes puntos de conexión deben contar con analizadores de composición, PCS y densidad:
+
+1\. Puntos de conexión con gasoductos o yacimientos internacionales.
+
+2\. Puntos de conexión con yacimientos nacionales.
+
+3\. Puntos de descarga de buques en las plantas de regasificación de GNL.
+
+4\. Puntos de conexión con plantas de regasificación de GNL.
+
+5\. Puntos de carga de cisternas de GNL.
+
+6\. Puntos de conexión con almacenamientos subterráneos.
+
+7\. Puntos de conexión con plantas de producción de gases manufacturados y de gases procedentes de fuentes no convencionales, tales como el biogás, el gas obtenido a partir de la biomasa u otros tipos de gas.
+
+8\. Puntos donde se pueda alterar la composición del gas, o que por su representatividad sean precisos para el adecuado cálculo de composición. Estos puntos se denominarán puntos singulares de medición de la calidad del gas de la Red Básica.
+
+9\. Puntos de conexión de consumidores que puedan condicionar la operación normal de la red a la que estén conectados, de acuerdo con definición incluida en la NGTS-01.
+
+4.3 Puntos del sistema gasista cuyos equipos de medición y análisis deben contar con telemedida.
+
+Las instalaciones de medida de los siguientes puntos de conexión deberán contar con telemedida digital:
+
+1\. Puntos de conexión con gasoductos o yacimientos internacionales.
+
+2\. Puntos de conexión con yacimientos nacionales.
+
+3\. Puntos de conexión con plantas de regasificación de GNL.
+
+4\. Puntos de conexión con almacenamientos subterráneos.
+
+5\. Puntos de conexión con plantas de producción de gases manufacturados y de gases procedentes de fuentes no convencionales, tales como el biogás, el gas obtenido a partir de la biomasa u otros tipos de gas.
+
+6\. Puntos de conexión de consumidores que puedan condicionar la operación normal de la red a la que estén conectados, de acuerdo con la definición incluida en la NGTS-01, o de cualquier otro consumidor que esté obligado a disponer de telemedida de acuerdo con la legislación en vigor.
+
+4.4 Características y especificaciones técnicas de los equipos de medida.
+
+Con carácter general, los equipos de medida deberán estar sometidos a los siguientes criterios de actuación:
+
+– En las líneas de medida de las conexiones transporte-transporte (incluidas las conexiones de salida de las plantas de regasificación de GNL y de los almacenamientos subterráneos), transporte-distribución y distribución-distribución, el contador deberá estar trabajando por encima del caudal de transición (Q<sub>t</sub>) del mismo el 80% del tiempo y en ningún caso por debajo del caudal mínimo (Q<sub>min</sub>).
+
+– En los casos indicados en el párrafo anterior en que se detecte que el contador está trabajando fuera del rango para el que estaba previsto, se adoptarán, por orden de prioridad, las siguientes medidas:
+
+1\. Adopción de acuerdos provisionales entre los responsables de la explotación de la red aguas abajo y arriba del contador.
+
+2\. Sustitución del contador por uno de rango adecuado, o en todo caso, por el de menor rango posible sin necesidad de obra mecánica.
+
+3\. Realización de modificaciones en la línea de medida en aquellos supuestos en que no sea técnicamente posible la opción 2. Para ello, el titular de la instalación deberá poner en marcha un plan de adecuación que deberá ser aprobado por el GTS, quien marcará los plazos de presentación de la propuesta y de realización de la misma.
+
+Estas actuaciones se deberán realizar a la mayor brevedad posible, una vez detectada la disfunción.
+
+4.4.1 Puntos de carga de cisternas de GNL.
+
+En cada punto de carga de cisternas de GNL, el titular de la planta de regasificación deberá disponer de una báscula de las siguientes características:
+
+– Rango: 60 Toneladas.
+
+– Escala de lectura: 20 kg.
+
+– Precisión: no inferior al 0,2% del valor leído.
+
+La báscula y el resto de equipos utilizados para la medición, como por ejemplo los cromatógrafos, estarán sometidos al control metrológico legal que sea de aplicación, tanto en su puesta en servicio como en las verificaciones periódicas y después de su reparación o modificación, a fin de garantizar su exactitud dentro de los rangos establecidos.
+
+4.4.2 Puntos de entrada a las redes de transporte y puntos de salida de la Red Básica de transporte.
+
+En los puntos de entrada a las redes de transporte y en los puntos de salida de la Red Básica de transporte, cada línea de la instalación de medida constará de los siguientes elementos:
+
+1\. Un contador de gas que haya superado la evaluación de conformidad metrológica establecida en la Unión Europea y cumpla con las normas UNE-EN que le sean de aplicación, y de dinámica adecuada para cubrir el rango de caudales que circulen por el mismo. Dicho contador estará equipado con un emisor de pulsos para su comunicación con el conversor de caudal.
+
+2\. Un conversor de caudal tipo PTZ que haya superado la evaluación de conformidad metrológica establecida en la Unión Europea y cumpla con las normas UNE-EN que le sean de aplicación, con transmisor de presión absoluta y temperatura asociados, siendo el conjunto de clase 0,5 según la norma UNE correspondiente.
+
+3\. Una línea auxiliar de medida idéntica a la principal.
+
+4\. Las instalaciones de medida deberán disponer de una unidad remota, de acuerdo con las especificaciones definidas por el operador que entregue el gas, que le permita disponer de los datos de medida y de calidad del gas (en caso de que existan) en sus centros de gestión de las telemedidas, y de acuerdo con la legislación vigente.
+
+4.4.3 Puntos de conexión entre redes de distribución.
+
+Los sistemas de medición en los puntos de conexión entre distribuidores, independientemente de su presión de contaje, deberán operar en el rango de caudales que el fabricante haya establecido para los mismos, disponiendo de doble línea de medición en el supuesto que el consumo de verano e invierno así lo aconseje.
+
+En el caso de que la instalación no tenga doble línea de contaje, esta deberá disponer de un bypass que permita el cambio de contador. Asimismo, en los casos en los que se prevea, o exista, reversibilidad en el flujo entre las dos redes, el sistema de medida estará preparado para medir en ambas direcciones.
+
+La composición de cada una de las líneas que compongan la instalación de medida dependerá de su capacidad, expresada en caudal horario nominal, y de la presión de contaje.
+
+En sistemas de medición con presiones de contaje superiores a 4 bar, las instalaciones constarán de los mismos elementos que se indican en el apartado 4.4.2.
+
+En sistemas de medición con presiones de contaje menores o iguales a 4 bar, las instalaciones constarán de:
+
+1\. Un contador de gas que haya superado la evaluación de conformidad metrológica establecida en la Unión Europea y cumpla con las normas UNE-EN que le sean de aplicación, y que sea de dinámica adecuada para cubrir el rango de caudales que circulen por el mismo.
+
+2\. Un conversor de caudal tipo PT o PTZ que haya superado la evaluación de conformidad metrológica establecida en la Unión Europea y cumpla con las normas UNE-EN que le sean de aplicación. La opción escogida se concretará de acuerdo entre las partes, caso por caso, y quedará reflejada en un protocolo firmado por ambas partes, donde se definirán además los derechos y obligaciones respectivos.
+
+Aquellos sistemas de medición que estuvieran operando con anterioridad a la entrada en vigor del presente protocolo, y cuyos esquemas no se ajusten a lo establecido en este apartado, podrán seguir siendo utilizados hasta el fin de su vida útil, o hasta su modificación, sin perjuicio de lo dispuesto en los párrafos anteriores.
+
+En los casos previstos en el apartado 3.2, los sistemas de medida deberán disponer de un equipo de telemedida que permita acceder a los datos en el centro gestor de la telemedida del distribuidor.
+
+4.4.4 Puntos de suministro.
+
+En el caso concreto de los sistemas de medición en los puntos de suministro la tipología de los sistemas de medición en cuanto a configuración y elementos constitutivos se determinarán en función del caudal horario máximo medido en las condiciones de referencia del sistema gasista (considerando como tales presión igual a 1,01325 bar y temperatura igual a 273,15 K) y del consumo anual, según se indica en las siguientes tablas, y en los esquemas de sistemas de medición definidos en el apartado 4.4.5.
+
+Tabla 1: Sistemas de medición en función del caudal máximo horario y el consumo final para presiones de medición > 0,4 bar
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Caudal máximo [m<sup>3</sup>/h]</p>
+</td>
+<td colspan="4">
+<p>Consumo anual (GWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&lt; 10</p>
+</td>
+<td>
+<p>≥ 10 y &lt; 100</p>
+</td>
+<td>
+<p>≥ 100 y &lt; 150</p>
+</td>
+<td>
+<p>≥ 150</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Q &lt; 150</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>150 ≤ Q &lt; 350</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>350 ≤ Q &lt; 600</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>600 ≤ Q &lt; 3500</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PTZ</p>
+</td>
+<td>
+<p>Fig IV con conversor PTZ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3500 ≤ Q &lt; 6500</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PTZ</p>
+</td>
+<td>
+<p>Fig IV con conversor PTZ</p>
+</td>
+<td>
+<p>Fig IV con conversor PTZ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Q ≥ 6500</p>
+</td>
+<td> </td>
+<td>
+<p>Fig IV con conversor PTZ</p>
+</td>
+<td>
+<p>Fig IV con conversor PTZ</p>
+</td>
+<td>
+<p>Fig IV con conversor PTZ</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Tabla 2: Sistemas de medición en función del caudal máximo horario y el consumo final para presiones de medición ≤ 0,4 bar
+
+<table>
+<thead>
+<tr>
+<td rowspan="2">
+<p>Caudal máximo [m<sup>3</sup>/h]</p>
+</td>
+<td colspan="5">
+<p>Consumo anual (GWh)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>&lt; 2</p>
+</td>
+<td>
+<p>≥ 2 y &lt; 5</p>
+</td>
+<td>
+<p>≥ 5 y &lt; 10</p>
+</td>
+<td>
+<p>≥ 10 y &lt; 100</p>
+</td>
+<td>
+<p>≥ 100</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Q &lt; 150</p>
+</td>
+<td>
+<p>Fig I</p>
+</td>
+<td>
+<p>Fig I</p>
+</td>
+<td>
+<p>Fig I</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>150 ≤ Q &lt; 350</p>
+</td>
+<td>
+<p>Fig I</p>
+</td>
+<td>
+<p>Fig II</p>
+</td>
+<td>
+<p>Fig II</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>350 ≤ Q &lt; 600</p>
+</td>
+<td>
+<p>Fig I</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>–</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Q ≥ 600</p>
+</td>
+<td> </td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+<td>
+<p>Fig III con conversor PT</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Nota 1: En las instalaciones de medición con esquemas I y II, la corrección se efectuará mediante el factor de conversión fijo resultante de aplicar lo dispuesto en el epígrafe 6.2.
+
+Nota 2: Las instalaciones que deban disponer del esquema I pero que por necesidades operativas no se pueda cambiar el contador en horario laboral (de 8 a 18 horas), deberán pasar a disponer del esquema II.
+
+Nota 3: Para los conjuntos de regulación y medida de los tipos A-6, A-10-B y A-10-U recogidos en la norma UNE 60404-1, el sistema de medición deberá cumplir los requisitos de diseño y funcionamiento establecidos en dicha norma, no siendo de aplicación los requisitos de este apartado.
+
+Los sistemas de medición se diseñarán en base al caudal horario máximo previsto, así como a su modulación, es decir, se deberá asegurar que el contador elegido cubra en todo momento el rango de caudales que circule por el mismo, incluido el caudal horario mínimo, de acuerdo con lo que reglamentariamente esté establecido.
+
+En los consumidores cuyas variaciones de consumo imposibiliten que un sistema de medición con un solo contador cubra con su extensión de medida las citadas variaciones, la medición de gas se deberá realizar en base a un sistema de conmutación en paralelo que cubra estas variaciones de caudal o bien se deberán independizar los consumos.
+
+En los casos en los cuales el consumidor contrate un suministro superior al que tenía, que conlleve un cambio en la tipología de la instalación de contaje existente, el titular de la instalación deberá poner en marcha un plan de adecuación que será previamente aprobado por el operador de la red correspondiente, asistiendo al comercializador análogo derecho.
+
+En los casos en que se detecte que el consumidor ha bajado su consumo de forma que conlleve un cambio de equipos en la instalación de contaje existente, el titular de la instalación deberá poner en marcha un plan de adecuación que será previamente aprobado por el operador de la red correspondiente, asistiendo al comercializador análogo derecho.
+
+Los operadores de las redes, deberán comunicar a los consumidores conectados a sus redes y que están obligados a disponer de telemedida en sus instalaciones de medición, sus protocolos de comunicación de forma que permitan recibir dicha información en su centro gestor de telemedidas.
+
+Aquellos sistemas de medición que estuvieran operando con anterioridad a la entrada en vigor del presente protocolo, y cuyos esquemas no se ajustaran a lo establecido en este apartado, podrán seguir siendo utilizados hasta el fin de la vida útil de los mismos, sin perjuicio de lo dispuesto en los párrafos anteriores.
+
+4.4.5 Esquemas de los sistemas de medición en función del caudal máximo horario y el consumo anual.
+
+Figura I
+
+![6460.png](https://www.boe.es/datos/imagenes/disp/2011/238/15496_6460.png)
+
+1\. Válvula de cierre
+
+2\. Válvula de 3 vías con toma de ¼″ para manómetro patrón de constrastación
+
+3\. Manómetro adecuado a pa presión de trabajo (*)
+
+4\. Contador
+
+5\. Toma de presión débil calibre (PC<150 mbar)
+
+Figura II
+
+![7395.png](https://www.boe.es/datos/imagenes/disp/2011/238/15496_7395.png)
+
+1\. Válvula de cierre
+
+2\. Válvula de 3 vías con toma de ¼″ para manómetro patrón
+
+3\. Manómetro adecuado a la presión de trabajo (*)
+
+4\. Contador
+
+5\. Termómetro
+
+6\. Disco en ocho
+
+![1](https://www.boe.es/datos/imagenes/disp/2013/6/00185_4961.png)
+
+1\. Válvula de cierre
+
+2\. Válvula de 3 vías con toma de ¼″ para manómetro patrón
+
+3\. Manómetro adecuado a la presión de trabajo (*)
+
+4\. Contador
+
+5\. Termómetro
+
+6\. Disco en ocho
+
+7\. Conversor electrónico de volumen
+
+8\. Sonda de temperatura
+
+9\. Transmisor de presión (puede ir incorporado dentro del CR)
+
+10\. Toma de presión de ¼″ con válvula precintable para constrastaciones
+
+![1](https://www.boe.es/datos/imagenes/disp/2013/6/00185_5018.png)
+
+1\. Válvula de cierre
+
+2\. Válvula de 3 vías con toma de ¼″ para manómetro patrón
+
+3\. Manómetro adecuado a la presión de trabajo (*)
+
+4\. Contador
+
+5\. Termómetro
+
+6\. Disco en ocho
+
+7\. Conversor electrónico de volumen
+
+8\. Sonda de temperatura
+
+9\. Transmisor de presión
+
+10\. Toma de presión de ¼″ con válvula precintable para constrastaciones
+
+(*) En función de la casuística existente y de la presión de trabajo del contador (Pr), se utilizarán los siguientes tipos de manómetros:
+
+| Pr ≤ 0.08 bar | esfera de Φ 80-100 mm y clase 1.6 o bien esfera de Φ 100 mm y clase 1. |
+|---|---|
+| 0.08bar < Pr ≤ 0.4 bar | esfera de Φ 100 mm y clase 1 o bien esfera de Φ 150-160 mm y clase 0.6. |
+| Pr > 0.4 bar | esfera de Φ 150-160 mm y clase 0.6. |
+
+4.5 Características y especificaciones técnicas de los equipos de análisis.
+
+Los equipos de determinación de la calidad deberán disponer de la evaluación de conformidad metrológica otorgada por la autoridad competente de la Unión Europea, ser digitales, con registros horarios y diarios, con una capacidad de almacenamiento mínimo de 31 días y deberán poder facilitar como mínimo la siguiente información mediante análisis continuo del flujo de gas:
+
+– Porcentajes molares de cada uno de los siguientes componentes: Nitrógeno, Dióxido de Carbono, Metano, Etano, Propano, Iso-butano, n-butano, n-pentano, Iso-pentano, fracción C6+.
+
+– Poder calorífico inferior (PCI) y poder calorífico superior (PCS) en kWh/m<sup>3 </sup>(en condiciones de referencia).
+
+– Densidad relativa (d).
+
+– Índice de Wobbe (W) en kWh/m<sup>3 </sup>(en condiciones de referencia).
+
+Estos cálculos se realizarán conforme a la norma UNE correspondiente. El cálculo del PCS del gas en base volumétrica se expresará como H<sub>s</sub> [t<sub>1</sub>,p<sub>1</sub>,V(t<sub>2</sub>,p<sub>2</sub>)] en las condiciones de referencia [0 ºC, V (0 ºC, 1,01325 bar)].
+
+En las conexiones internacionales por gasoducto con Europa, para el cálculo del PCS del gas se utilizará lo dispuesto en el protocolo de detalle que sea de aplicación en su caso.
+
+En las conexiones con plantas de producción de gases manufacturados y de gases procedentes de fuentes no convencionales, tales como el biogás, el gas obtenido a partir de la biomasa u otros tipos de gas, se deberán instalar equipos de análisis y control que permitan realizar las comprobaciones en continuo del gas introducido al sistema. Dichos equipos deberán ser aceptados por las partes interconectadas y disponer de las certificaciones correspondientes.
+
+Los titulares de instalaciones que dispongan de equipos que no cumplan las características indicadas, deberán diseñar un plan para sustituir o adaptar sus equipos que deberá ser validado por el GTS.
+
+5\. Análisis de la calidad del gas.
+
+5.1 Responsabilidad de los agentes.
+
+5.1.1 Puntos de medición y control periódico de los equipos y sistemas de medida.
+
+Corresponderá al GTS la definición de los puntos singulares de medición de la calidad del gas de la Red Básica donde sea necesaria la instalación de un equipo de análisis de los parámetros de la calidad del gas.
+
+El titular de la instalación dónde se ubica un equipo de análisis de calidad del gas controlará periódicamente el sistema de medición con objeto de comprobar su correcto funcionamiento y enviará al GTS, en el menor plazo posible, una descripción detallada de las incidencias del equipo de análisis de calidad de gas detectadas, junto con los resultados obtenidos en el caso de aplicación de medidas correctoras.
+
+El GTS supervisará la realización de estos controles, y emitirá un informe anual señalando, por cada titular y para cada instalación, un resumen comprensivo de las incidencias detectadas en el año, agrupándolas por tipos homogéneos, un detalle de cada incidencia detectada, una valoración del impacto en la medición, así como las medidas correctoras aplicadas o que se deben aplicar. Los titulares de los equipos recibirán la parte del informe referida a los mismos, y la totalidad del informe podrá ser solicitado por la Comisión Nacional de Energía y por la Dirección General de Política Energética y Minas.
+
+Todos y cada uno de los titulares de las instalaciones de control de calidad del gas estarán obligados a almacenar los resultados de los controles y análisis realizados.
+
+Cada seis meses el GTS debe emitir una relación de las redes donde se debe cambiar la calidad del gas y la nueva composición a introducir en los conversores PTZ.
+
+5.1.2 Calidad del gas.
+
+Los usuarios del Sistema Gasista que introduzcan gas serán los responsables de su calidad y del cumplimiento de las especificaciones recogidas en este protocolo de detalle.
+
+Los usuarios que inyecten en el Sistema Gasista gases manufacturados o gases procedentes de fuentes no convencionales, tales como el biogás, el gas obtenido a partir de la biomasa u otros tipos de gas, deberán justificar, mediante certificación emitida por los organismos competentes correspondientes, que el gas aportado cumple las especificaciones establecidas en el apartado 5.2, para su entrada en la red de transporte.
+
+Adicionalmente, la introducción de gases producidos mediante procesos de digestión microbiana estará condicionada a la evaluación, por parte del usuario, del riesgo que los microorganismos y otros posibles componentes minoritarios de estos gases puedan representar para la salud de las personas o para la integridad de las instalaciones o aparatos de consumo.
+
+El titular del punto de entrada de gas en el Sistema Gasista deberá supervisar la calidad del gas que se introduce al objeto de informar al GTS y a todos los sujetos afectados, tan pronto como sea posible, de cualquier deficiencia de la calidad del gas, estimando la duración posible del incumplimiento. En cualquier caso, el GTS podrá adoptar las medidas que considere necesarias para anular o minimizar el impacto que esta eventualidad pueda tener en el Sistema Gasista.
+
+No obstante, cuando el transportista sea avisado o compruebe que va a recibir o está recibiendo un gas en el punto de entrada fuera de las especificaciones de calidad establecidas, podrá:
+
+1\. Rechazar total o parcialmente el gas fuera de especificaciones.
+
+2\. Aceptar, excepcionalmente en el caso de las plantas de regasificación, total o parcialmente el gas, respetando los criterios de fiabilidad y seguridad del Sistema Gasista, es decir, el gas que se introduzca en el sistema de transporte y distribución sí deberá cumplir las especificaciones de calidad. En este caso, el propietario del gas pagará al transportista los costes, debidamente justificados, incurridos por éste con motivo de la aceptación del gas natural fuera de especificaciones.
+
+El titular de la instalación con un punto de entrada de gas en el Sistema Gasista no tiene la obligación de entregar el gas natural en los puntos de salida con exactamente las mismas características que el gas que fue introducido por los puntos de entrada, siempre que se entregue la cantidad acordada en términos de energía.
+
+El gas entregado al consumidor, sea cual fuera su origen, no deberá contener partículas de polvo u otras impurezas en cantidades tales que pudieran perjudicar la salud de los consumidores o dañar las instalaciones de los mismos.
+
+5.2 Especificaciones de calidad del gas.
+
+Todo el gas introducido en los puntos de entrada del Sistema Gasista, deberá cumplir con las especificaciones de calidad de la siguiente tabla:
+
+Tabla 3. Especificaciones de calidad del gas introducido en el Sistema Gasista
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Propiedad (*)</p>
+</td>
+<td>
+<p>Unidad</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Índice de Wobbe</p>
+</td>
+<td>
+<p>kWh/m<sup>3</sup></p>
+</td>
+<td>
+<p>13,403</p>
+</td>
+<td>
+<p>16,058</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>PCS</p>
+</td>
+<td>
+<p>kWh/m<sup>3</sup></p>
+</td>
+<td>
+<p>10,26</p>
+</td>
+<td>
+<p>13,26</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Densidad relativa</p>
+</td>
+<td> </td>
+<td>
+<p>0,555</p>
+</td>
+<td>
+<p>0,700</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>S Total</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>50</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>H<sub>2</sub>S + COS (como S)</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>15</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>RSH (como S)</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>17</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>O<sub>2</sub></p>
+</td>
+<td>
+<p>mol %</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>0,01</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>CO<sub>2 </sub></p>
+</td>
+<td>
+<p>mol %</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>H<sub>2</sub>O (Punto de rocío)</p>
+</td>
+<td>
+<p>ºC a 70 bar (a)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>+ 2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>HC (Punto de rocío)</p>
+</td>
+<td>
+<p>ºC a 1-70 bar (a)</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>+ 5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polvo/Partículas</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td colspan="2">
+<p>Técnicamente puro</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) Tabla expresada en las siguientes condiciones de referencia: [0ºC, V(0ºC, 1,01325 bar)].
+
+Además de las características anteriores, los gases procedentes de fuentes no convencionales, tales como el biogás, el gas obtenido a partir de biomasa u otro tipo de gas producido mediante procesos de digestión microbiana, deberán cumplir con las especificaciones de calidad de la siguiente tabla:
+
+Tabla 4: Especificaciones de calidad del gas procedente de fuentes no convencionales introducido en el sistema gasista:
+
+<table>
+<thead>
+<tr>
+<td>
+<p>Propiedad (*)</p>
+</td>
+<td>
+<p>Unidad</p>
+</td>
+<td>
+<p>Mínimo</p>
+</td>
+<td>
+<p>Máximo</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Metano (CH<sub>4</sub>).</p>
+</td>
+<td>
+<p>mol %</p>
+</td>
+<td>
+<p>90</p>
+</td>
+<td> </td>
+</tr>
+<tr>
+<td>
+<p>CO</p>
+</td>
+<td>
+<p>mol %</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>H<sub>2</sub></p>
+</td>
+<td>
+<p>mol %</p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Compuestos Halogenados:</p>
+<p>– Flúor/Cloro.</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>10/1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Amoníaco.</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>3</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Mercurio.</p>
+</td>
+<td>
+<p>μg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Siloxanos.</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>10</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Benceno, Tolueno, Xileno (BTX).</p>
+</td>
+<td>
+<p>mg/m<sup>3</sup></p>
+</td>
+<td>
+<p>–</p>
+</td>
+<td>
+<p>500</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Microorganismos.</p>
+</td>
+<td> </td>
+<td colspan="2">
+<p>Técnicamente puro.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Polvo/Partículas.</p>
+</td>
+<td> </td>
+<td colspan="2">
+<p>Técnicamente puro.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) Tabla expresada en las siguientes condiciones de referencia: [0 ºC, V(0 ºC, 1,01325 bar)].
+
+En relación con el contenido de O<sub>2</sub> del biogás inyectado en las redes, la inyección de biogás deberá de cumplir lo siguiente:
+
+a) Inyección de biogás en redes de transporte.
+
+Con carácter general, se aceptará la inyección de biogás en la red de transporte con un contenido de O<sub>2</sub> hasta el 0,3 mol % siempre que concurran simultáneamente las siguientes circunstancias en el punto de inyección:
+
+1\. El contenido en CO<sub>2</sub> no deberá superar en ningún momento el 2 mol %.
+
+2\. El punto de rocío de agua no deberá superar en ningún momento los menos ocho grados centígrados (-8 ºC).
+
+3\. El volumen de inyección de biogás en la red de transporte troncal nunca excederá de 5.000 m<sup>3</sup>/h (en condiciones de referencia). Para volúmenes mayores y en todo caso para el resto de puntos de entrada al sistema gasista de transporte, el volumen máximo de inyección de biogás se determinará para cada caso concreto en función de la calidad y el volumen del gas vehiculado de la red a la que se conecte, por el titular de la misma y se comunicará a la Dirección General de Política Energética y Minas, al GTS y a la Comisión Nacional de los Mercados y la Competencia.
+
+b) Inyección de biogás en redes de distribución.
+
+Con carácter general se aceptará la inyección de biogás en la red con un contenido de O<sub>2</sub> hasta el 1 mol % siempre que concurran simultáneamente las siguientes circunstancias en el punto de inyección:
+
+1\. El contenido en CO<sub>2</sub>, no deberá superar en ningún momento el 2 mol %.
+
+2\. El punto de rocío de agua no deberá superar en ningún momento los menos ocho grados centígrados (-8 ºC).
+
+Cuando la inyección tenga lugar en la red de distribución y no se cuente con las instalaciones necesarias para evacuar el gas a la red de transporte, el distribuidor comunicará al usuario el caudal máximo que podrá inyectar. A los efectos del cálculo del caudal máximo admisible, el titular de la red de distribución podrá solicitar información al Gestor Técnico del Sistema o a los titulares de redes de distribución en cascada.
+
+La Comisión Nacional de los Mercados y la Competencia resolverá las discrepancias que puedan presentarse entre agentes en los puntos de inyección de biogás en la red de distribución.
+
+En aquellos casos en los que la inyección del biogás se realice a través de una estación de regulación y medida, a los efectos de cumplir las exigencias anteriormente expuestas en relación a la calidad del gas, se medirán las características del gas en el punto de salida de la estación de regulación y medida en la que el biogás es inyectado.
+
+5.3 Criterios generales para el procedimiento de análisis de la composición del gas.
+
+Adicionalmente a los requisitos establecidos para los instrumentos de medida en el ámbito del control metrológico, derivados de la Ley 3/1985 y de sus normativas de desarrollo, diariamente, el cromatógrafo llevará a cabo una calibración automática utilizándose para ello botellas de gas patrón elaboradas por suministradores acreditados para el análisis del gas natural según la norma ISO 17025.
+
+El cromatógrafo se calibrará con un gas patrón de composición similar al gas analizado.
+
+Los datos sobre la calidad del gas, necesarios para realizar las funciones encomendadas al GTS, se enviarán a través del Sistema Logístico de Acceso de Terceros a la Red (SL-ATR).
+
+5.4 Cambio de la calidad del gas en los conversores PTZ.
+
+Cada seis meses el GTS debe emitir una relación de las redes donde se debe cambiar la calidad del gas y la nueva composición a introducir en los conversores PTZ.
+
+Formarán parte de esta relación, aquellas redes donde el PCS medio del semestre supere en ±1% al PCS del gas que está introducido en los correctores PTZ de los equipos de medida de una red.
+
+En aquellas redes que estén dentro del rango de variación de ±1% del PCS, el GTS analizará la variación de Z que supone la composición media del gas en el último semestre respecto a la composición del gas utilizado en esos momentos en los correctores PTZ. De observarse que es significativa en relación con los rangos de error permitidos en los equipos de medición, incluirá también estas redes en la relación que tiene que emitir.
+
+A los efectos de realizar modificaciones de parámetros en los equipos de medida se aplicará la normativa metrológica en vigor, pudiendo asistir al cambio las partes implicadas, si así lo manifiestan.
+
+En el caso de los conversores de caudal conectados a cromatógrafo en continuo, estos valores se introducirán como valores por defecto, aunque en caso de fallo de la señal del cromatógrafo se tomará el último dato válido.
+
+6\. Medición del gas.
+
+6.1 Procedimientos de medición en puntos del Sistema Gasista.
+
+Como criterio general, los procedimientos de medida y cálculo se ajustarán a lo establecido en la norma UNE correspondiente.
+
+6.1.1 Procedimiento de medida en la descarga de buques.
+
+Será de aplicación lo dispuesto en el Protocolo de Detalle PD-05 «Procedimiento de determinación de energía descargada por buques metaneros».
+
+6.1.2 Procedimiento de medida en los puntos de entrada y salida de la red de transporte y en los puntos de conexión transporte-transporte, transporte-distribución y distribución- distribución.
+
+En los puntos de entrada y salida de la red de transporte, las conexiones con plantas de regasificación de GNL, las conexiones internacionales, las conexiones con yacimientos nacionales, las conexiones con almacenamientos subterráneos y las conexiones con plantas de producción de gas manufacturado y de gas procedente de fuentes no convencionales, el titular de la instalación de medida realizará la lectura de los equipos.
+
+En los puntos de transferencia de gas entre dos distribuidores, la lectura de los equipos de medida la realizará el distribuidor titular de la instalación.
+
+En ambos casos, independientemente del derecho a asistir a la toma de lecturas que ampara a la otra parte, en el supuesto de que no asista, el responsable de la toma de la lectura la pondrá a su disposición en un plazo no superior a los dos días hábiles.
+
+La toma de lecturas se realizará al final del período de lectura mensual, según calendario aprobado por ambas partes. En los puntos de entrega que estén telemedidos, este período de lectura «in situ» podrá ampliarse, siempre que las dos partes lleguen a un consenso.
+
+El operador correspondiente elaborará un parte diario de emisión de gas, que facilitará al distribuidor aguas arriba o al transportista, en función de la red a la que esté conectada la instalación para que éste pueda realizar sus funciones. Esta información se facilitará a través del SCTD o del SL-ATR, según sea el destinatario.
+
+6.1.3 Procedimiento de medida en la carga de cisternas de GNL.
+
+Las cisternas de transporte de GNL deberán cumplir con la normativa y reglamentación vigente en España para este tipo de transportes.
+
+A efectos de medición y antes de la primera carga, el propietario de la cisterna deberá poner a disposición del titular de la planta de regasificación la siguiente documentación:
+
+– Placa de características de la cisterna.
+
+– Certificado de capacidad emitido por una entidad debidamente autorizada.
+
+La medición del GNL entregado en cada cisterna se realizará en kWh, en base a:
+
+– Al peso neto (en kg) determinado en báscula, por diferencia entre las pesadas de salida y de entrada del camión cisterna.
+
+– La calidad del GNL (PCS expresado en kWh/kg y kWh/m<sup>3</sup> en condiciones de referencia) obtenido a partir del análisis en continuo por cromatografía de muestras representativas del GNL cargado en cisternas.
+
+La cantidad de GNL cargado en cada cisterna se obtendrá partiendo de los conceptos anteriores, la cual constará en la documentación que se entregue.
+
+Asimismo, el titular de la planta de regasificación informará diariamente al GTS, a través del SL-ATR, de las salidas de GNL para cada distribuidor, comercializador o consumidor que aporte gas al sistema.
+
+6.1.4 Procedimiento de medida en los puntos de suministro.
+
+Para el caso de consumidores que dispongan de equipos de telemedida en sus instalaciones de medición, los datos de consumo diario serán transmitidos al operador de la red a la que se hallen conectados, mediante un equipo de telemedida que utilice el protocolo de comunicación definido por dicho operador.
+
+Los consumidores obligados a disponer de telemedida y que no la tengan operativa deberán facilitar al distribuidor/transportista al que estén conectados, cada día antes de las 6 horas, las lecturas de los equipos de medición correspondientes al consumo del día anterior. Para ello utilizarán los formatos que les habrá facilitado el distribuidor/transportista y los envíos se realizarán, preferentemente, por correo electrónico.
+
+El operador de la red realizará una lectura mensual de toma de datos de todos los consumidores con volumen anual superior a 100.000 kWh, que no dispongan de telemedida, o ésta no esté operativa.
+
+En aquellos consumidores que reglamentariamente estén obligados a disponer de telemedida, y no dispongan de ella o teniéndola no esté operativa, siendo ello responsabilidad del consumidor, el reparto diario de consumos se efectuará aplicando un procedimiento establecido a tal fin que, de forma previa a su aplicación, deberá ser conocido por el consumidor y por el comercializador afectados.
+
+El operador de la red será el responsable de transformar estos datos en unidades de energía e incorporarlos al SL-ATR para que se puedan realizar los correspondientes Balances y Repartos.
+
+Para consumidores con volumen anual igual o inferior a 100.000 kWh, se realizarán lecturas de toma de datos con la periodicidad indicada en la legislación vigente. En estos casos, el reparto diario de consumos se basará en lo dispuesto en las normas de gestión técnica del sistema NGTS-06 «Repartos» y NGTS-07 «Balance».
+
+En cualquier caso, se estará a lo dispuesto en la legislación vigente.
+
+6.2 Conversión de unidades de volumen a energéticas.
+
+Para efectuar la conversión de la unidad de medida de los contadores, m<sup>3</sup>, a la unidad de medida de energía establecida, kWh, se utilizará el valor energético del gas natural referido al poder calorífico superior (PCS), medido en las condiciones de referencia del sistema gasista de 1,01325 bar (1 bar = 10<sup>5</sup> Pa) y 273,15 K. La fórmula de cálculo a aplicar será la siguiente:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6494.png)
+
+Siendo:
+
+E = Energía entregada en el punto de suministro.
+
+V = Volumen medido en las condiciones de suministro.
+
+Fc’ = Factor de conversión de volumen.
+
+El factor de conversión por las condiciones de medida se calculará como:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6582.png)
+
+Siendo:
+
+PCS = Poder calorífico del gas en el punto de medida medido en las condiciones de referencia (1,01325 bar y 273,15 K).
+
+Fc = Factor de conversión de volumen para pasar de las condiciones de medida a las condiciones de referencia.
+
+La conversión de los m<sup>3</sup> medidos por el contador a m<sup>3</sup> en las condiciones de referencia se realizará mediante el empleo de equipos electrónicos de conversión (conversores) que realizan el cálculo de forma continua, integrando las señales de presión, temperatura y compresibilidad medidas en los correspondientes transmisores, y utilizando un factor de conversión (Fc) que viene dado por la fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6625.png)
+
+Siendo Z el factor de compresibilidad, definido como la relación entre el volumen molar de un gas real y el volumen molar del mismo gas considerado como ideal.
+
+El cálculo del factor de compresibilidad tanto en las condiciones de referencia como en las condiciones de suministro se realizará según el procedimiento SGERG-88 incluido en la norma UNE-EN ISO 12213.
+
+En el apartado 4.4 del presente protocolo se establecen los requisitos de instalación de conversores de presión, temperatura y factor de compresibilidad (conversores PTZ y conversores PT) en función de la presión a la que se realiza la medida y el caudal máximo horario.
+
+Para consumidores suministrados a presiones inferiores o iguales a 0,4 bar se despreciará la influencia del factor Z, es decir, se asumirá que su valor es próximo a la unidad, y en consecuencia el factor de conversión por el que se multiplicará el volumen medido en m<sup>3</sup> para expresarlo en las condiciones de referencia de presión y temperatura será:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6668.png)
+
+Siendo:
+
+K<sub>t</sub> = Factor de conversión por temperatura.
+
+K<sub>p</sub> = Factor de conversión por presión.
+
+El factor de conversión por temperatura se calculará mediante la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6712.png)
+
+Donde T<sub>gas</sub> es la temperatura de 10ºC.
+
+El factor de conversión por presión se calculará mediante la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6753.png)
+
+Donde:
+
+P<sub>c</sub> = Presión relativa de suministro (bar).
+
+P<sub>atm</sub> = Presión atmosférica (bar).
+
+El valor de la presión atmosférica es función de la altitud (A) del municipio donde se encuentre el punto de suministro y se calculará de acuerdo a la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6795.png)
+
+Donde “A” es la altitud en metros del municipio donde se encuentre situado el punto de suministro, publicada por el organismo oficial de estadística competente.
+
+Por su parte, el factor “k” se calculará por aplicación de la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2019/63/03691_6839.png)
+
+Siendo “d” la densidad del aire (ISO 6976) interpolada a Tgas (10ºC) y “g” la aceleración estándar de la gravedad, con valores:
+
+d = 1,2471
+
+g = 9,8065 (m/s<sup>2</sup>)
+
+En el caso de las instalaciones de suministro a consumidores que no dispongan de corrector de presión en sus instalaciones, pero que dispongan de un regulador previo a la medición del gas, el factor de conversión por presión (Kp) se calculará considerando como presión de suministro la presión de tarado del regulador de gas.
+
+En el caso de las instalaciones de suministro a consumidores conectadas a redes de presión máxima de servicio de 22 mbar y que no dispongan de un regulador previo a la medición del gas. el factor de conversión por presión (Kp) se calculará considerando como presión de suministro la presión de 22 mbar, salvo en los casos en los que los reguladores de las estaciones de regulación y medida que alimenten a dicha red estén tarados a una presión inferior, en cuyo caso se tomará dicha presión como referencia.
+
+6.3 PCS aplicable a consumidores conectados a redes de transporte.
+
+En el caso de consumidores conectados a redes de transporte se aplicarán los valores diarios de PCS que correspondan al punto de medición más próximo situado aguas arriba.
+
+6.4 PCS aplicable a consumidores conectados a redes de distribución.
+
+Para los puntos de suministro, que no dispongan de equipos de medición del poder calorífico superior (PCS), se les asignará, a efectos de facturación, el poder calorífico superior medio diario (PCS<sub>Diario</sub>) correspondiente a la red de distribución donde se ubiquen, calculado de acuerdo con la siguiente fórmula.
+
+![6939.png](https://www.boe.es/datos/imagenes/disp/2011/238/15496_6939.png)
+
+Donde:
+
+i = Conexión de la red de distribución donde se ubica el punto de suministro, con la red de transporte.
+
+m = Número de conexiones de la red de distribución donde se ubica el punto de suministro, con la red de transporte.
+
+V<sub>i</sub> = Volumen de gas vehiculado el día «d» a través de la conexión «i» de la red de distribución donde se ubica el punto de suministro.
+
+PCS<sub>i</sub> = PCS medio del gas medido por el cromatógrafo asociado a la conexión «i» de la red de distribución, ya sea el que se ubique en el PCTD o el más próximo situado aguas arriba.
+
+6.4.1 Consumidores sin equipo de telemedida.
+
+En el caso de consumidores de lectura mensual o superior, para determinar el poder calorífico superior medio (PCS<sub>Medio</sub>) a utilizar en el cálculo de los kWh consumidos en el período de facturación, se aplicará la media de los valores diarios del PCS<sub>Diario </sub>de la red de distribución donde se ubique el consumidor, ponderada por el volumen diario de gas vehiculado a través de la misma, durante los 30 ó 60 días inmediatamente anteriores al día «n-2» de la última lectura, en función de si la lectura es mensual o bimensual, y de acuerdo con las siguiente fórmulas.
+
+![7009.png](https://www.boe.es/datos/imagenes/disp/2011/238/15496_7009.png)
+
+Donde:
+
+PCS<sub>Medio</sub> = Poder calorífico superior medio aplicable a los periodos de facturación cuya última lectura se realice el día «n»
+
+d = Día del periodo de facturación.
+
+n = Día de la última lectura.
+
+V<sub>d</sub> = Suma del volumen de gas vehiculado el día «d» a través de todas las conexiones de la red de distribución donde se ubica el consumidor, con la red de transporte.
+
+PCS<sub>Diario,d</sub> = PCS<sub>Diario</sub> del gas vehiculado a la red de distribución dónde se ubica el punto de suministro durante el día «d».
+
+6.4.2 Consumidores con equipo de telemedida.
+
+En el caso de puntos de suministro con telemedida, se aplicará al menos el poder calorífico superior diario (PCS<sub>Diario</sub>), calculado según se ha descrito, al consumo diario, pudiendo utilizarse los datos horarios (PCS<sub>Horario</sub>) en caso de disponer de dicha información.
+
+Cuando se utilicen los datos horarios del PCS, estos se asignarán de la siguiente manera:
+
+– Si el punto de suministro está situado en una red de distribución con un único punto de conexión con la red de transporte se le asignará el PCS<sub>Horario</sub> que determine el equipo de análisis asociado a la conexión.
+
+– Si el punto de suministro está situado en una red de distribución con varios puntos de conexión con la red de transporte, el valor del PCS<sub>Horario</sub> se corresponderá con el valor medio de los datos de PCS<sub>Horario</sub> que determinen los equipos de análisis asociados a cada una de las diferentes conexiones, ponderados por el volumen horario de gas vehiculado por cada una de ellas.
+
+6.5 Información a publicar sobre el factor de conversión.
+
+El GTS publicará en el SL-ATR el listado de municipios suministrados mediante gas natural (incluyendo los suministrados a partir de plantas satélites de GNL), gas manufacturado y gas procedente de fuentes no convencionales, con los factores de conversión de volumen aplicables a los consumidores que no disponen de conversores de presión y temperatura.
+
+Este listado incluirá, para cada municipio, la altitud considerada y el valor del factor de conversión Fc correspondiente a las presiones de suministro, incluyendo al menos las seis presiones relativas estandarizadas (20 mbar, 22 mbar, 50 mbar, 55 mbar, 100 mbar y 150 mbar) y a una temperatura media de suministro de 10ºC, que se considerará la temperatura media ponderada a nivel nacional. Será responsabilidad de la compañía distribuidora la comunicación al GTS de los municipios en los que se realiza la actividad de distribución de gas, junto con la identificación de las conexiones de las redes de distribución de dichos municipios con la red de transporte.
+
+Asimismo, en el SL-ATR se identificará para cada red municipal, el número de conexiones con la red de transporte, así como los cromatógrafos asociados a cada conexión, recogiendo para cada una de ellas el poder calorífico superior medio diario (PCS<sub>i</sub>) y el volumen diario de gas vehiculado a través de ellas (Vi), así como el poder calorífico superior medio diario de la red donde se ubiquen los puntos de suministro (PCS<sub>Diario</sub>), calculado según lo establecido en el apartado 6.4.
+
+Diariamente, el GTS publicará en el SL-ATR el poder calorífico superior medio de cada red de distribución (PCS<sub>Medio</sub>) correspondiente al día anterior (día «n») y calculado según lo establecido en el apartado 6.4.1.
+
+El SL-ATR deberá mantener un histórico de al menos 24 meses con esta información, al objeto de poder permitir la verificación, por parte de los órganos competentes, del cálculo del PCS<sub>Medio</sub> utilizado a efectos de determinar los kWh consumidos en el período de facturación.
+
+La información anterior, comprensible para el usuario final, que incluya el factor de conversión Fc aplicable a las presiones de suministro, incluyendo cada una de las seis presiones relativas estandarizadas (20 mbar, 22 mbar, 50 mbar, 55 mbar, 100 mbar y 150 mbar) de cada red de distribución, junto con su poder calorífico superior medio diario (PCS<sub>Diario</sub>), será publicado en la página web del GTS. Asimismo, dicha página incluirá la posibilidad de que los consumidores de lectura mensual o superior, introduciendo la red de distribución del punto de suministro y la fecha de inicio y de final del periodo de facturación, puedan obtener el PCSMedio aplicable en la factura.
+
+7\. Control metrológico de las instalaciones de medida.
+
+Las instalaciones de medición y análisis de gas deberán cumplir aquellos aspectos regulados por la normativa metrológica legal española de aplicación y, en particular, por lo dispuesto en la Ley 3/1985, de 18 de marzo, de Metrología, y sus normativas de desarrollo.
+
+Los contadores y conversores incluidos en el alcance de la Orden Ministerial de 26 de diciembre de 1988, y/o de la Directiva 2004/22/CE del Parlamento Europeo y del Consejo, de 31 de marzo de 2004, deberán haber sido puestos en servicio de acuerdo con la correspondiente normativa que les sea de aplicación.
+
+Desde el 30 de octubre de 2006, la fase de comercialización y puesta en servicio de los contadores y conversores deberá cumplir con lo previsto en el Anexo VI del Real Decreto 889/2006, de 21 de julio, por el que se regula el control metrológico del Estado sobre instrumentos de medida, y en su normativa de desarrollo que les sea de aplicación.
+
+En aquellos aspectos en los que no exista desarrollo normativo, será de aplicación lo dispuesto en este epígrafe.
+
+7.1 Responsabilidad de los agentes.
+
+El control metrológico de los equipos, incluyendo las verificaciones metrológicas, se realizará según lo establecido en materia de competencias, ejecución y obligaciones de los diferentes agentes, en la Ley 3/1985 y en el Real Decreto 889/2006, corriendo los gastos generados a cargo del sujeto titular de los equipos, salvo acuerdos firmados entre las partes o subrogados a ellos por una de las partes, firmados con anterioridad a la entrada en vigor de este protocolo de detalle.
+
+7.2 Requisitos generales
+
+Como criterio general, el marco competencial para la ejecución del control metrológico de los sistemas de medida, los agentes intervinientes en el mismo y su designación, así como los requisitos que deben cumplir, serán los definidos en la normativa metrológica legal vigente.
+
+Se deberán establecer programas de verificación metrológica periódica de los sistemas de medición para averiguar si éstos conservan la precisión de medida requerida, o si resulta necesario ajustar o reparar alguno de los elementos que constituyen el sistema.
+
+La verificación metrológica periódica de los contadores, excepto los ultrasónicos, se deberá realizar por medio de laboratorios acreditados conforme a los criterios de la Norma ISO 17025 para la realización de calibraciones de contadores de gas. En el caso de que la presión de operación del contador sea superior a 35 bar, la verificación metrológica deberá realizarse por medio de laboratorios acreditados conforme a los criterios de la Norma ISO 17025 para la realización de calibraciones de contadores de gas, utilizando como fluido gas natural y a una presión superior a 35 bar.
+
+La verificación metrológica periódica de los contadores ultrasónicos se deberá efectuar «in-situ», aplicando un procedimiento particular que deberá haber sido aprobado previamente por las partes afectadas e incluido en el protocolo de medición.
+
+Los resultados que se obtengan de la misma, si están fuera de los márgenes de error aceptados por la reglamentación aplicable, darán lugar a regularizaciones.
+
+Cuando las condiciones de operación obliguen a la verificación metrológica a alta presión (mayor de 35 bar) o el contador se instale por primera vez, la curva de errores resultante del ensayo a diferentes caudales se introducirá en el conversor de caudal, con el objeto de corregir los errores en los caudales de operación habituales del contador.
+
+La verificación metrológica periódica de los conversores de caudal con sus elementos asociados, transmisor de presión y sonda de temperatura, se deberá realizar «in-situ», con los elementos patrones necesarios.
+
+En los puntos del Sistema Gasista, los comercializadores afectados por la medición así como los operadores de las redes correspondientes, vendrán autorizados para exigir su verificación metrológica periódica con la frecuencia que reglamentariamente corresponda o se establezca mediante este protocolo de detalle.
+
+Como norma general, los operadores de las redes serán los encargados de comprobar que se realiza la verificación metrológica periódica de los sistemas de medición, tomando como base de partida el inventario de equipos de medida de los puntos del Sistema Gasista conectados a su red, para garantizar que la totalidad de equipos sean sometidos a verificación metrológica dentro del período establecido en este protocolo de detalle. En el supuesto de que el titular del sistema de medición no cumpliera con su obligación, pasado un plazo máximo de tres meses tras recibir la notificación por escrito, el operador de la red podrá solicitar la realización de la verificación a los agentes competentes para ello, yendo a cargo de dicho titular los costes que se generen.
+
+De igual modo, los distribuidores podrán comprobar si se han realizado las verificaciones metrológicas periódicas de los sistemas de medición de los puntos de suministro conectados a sus redes. En el supuesto de que el titular del sistema de medición no cumpliera con su obligación, pasado un plazo máximo de tres meses tras recibir la notificación por escrito, el distribuidor podrá solicitar la realización de la verificación a los agentes competentes para ello, yendo a cargo de dicho titular los costes que se generen.
+
+Como resultado de estos procesos de verificación metrológica periódica, se generará un certificado de verificación de cada equipo en el que se reflejará la precisión de la medida en cada intervalo de caudal frente a los valores límite aceptables definidos en la legislación metrológica vigente, o en su ausencia en la directiva europea vigente, o en su ausencia en la norma UNE correspondiente. En los períodos en que dichos equipos estuviesen fuera de servicio por estar sometidos a verificación metrológica, se deberá previamente acordar entre los sujetos involucrados el consumo a contabilizar a efectos de reparto, asignación o facturación del gas entregado o de los servicios de acceso prestados.
+
+Lo dispuesto para la verificación metrológica periódica, será también de aplicación para la verificación metrológica después de reparación o modificación.
+
+La reparación/ajuste/modificación se efectuará cuando exista avería, o cuando el resultado de la verificación metrológica periódica así lo aconseje o por el acuerdo entre los sujetos implicados.
+
+Si, como consecuencia de una verificación metrológica periódica, o por una avería, se debe proceder a reparar/ajustar/modificar el contador, el titular del equipo deberá instalar, lo antes posible o en un plazo máximo de 5 días laborables, salvo causa justificada, un contador alternativo durante el tiempo en que el contador original se encuentre fuera de su ubicación, excepto si el diseño de la instalación permite utilizar otra línea de medición durante dicho período.
+
+Para la estimación de los consumos diarios, en aquellos casos en los que el consumidor sea el propietario del equipo, y cuando el período exceda el máximo de 5 días laborables establecido, el valor estimado de su consumo diario se calculará como el menor valor entre el caudal diario contratado y el caudal máximo horario del contador durante 24 horas.
+
+En los consumidores con obligación de estar telemedidos, si como consecuencia de una verificación metrológica periódica, o por una avería, se debe proceder a reparar/ajustar/modificar el conversor con sus elementos asociados, transmisor de presión y sonda de temperatura, el titular del equipo deberá instalar un conversor alternativo durante el tiempo en que el conversor original se encuentre fuera de su ubicación, excepto si el diseño de la instalación permite una medición alternativa durante dicho período.
+
+7.3 Verificaciones metrológicas periódicas de los equipos de medida.
+
+Las periodicidades recogidas en este protocolo de detalle se deberán adaptar a cualquier reglamentación vigente de rango superior.
+
+7.3.1 Puntos de entrada de la red de transporte.
+
+En los puntos de conexión del sistema de transporte con plantas de regasificación, conexiones internacionales, yacimientos, almacenamientos subterráneos y plantas de producción de gases manufacturados y de gases procedentes de fuentes no convencionales, las verificaciones metrológicas periódicas correspondientes al factor de conversión, lazos de presión y de temperatura, medida y volumen (prueba en serie) se realizarán con frecuencia mensual.
+
+No obstante, si después de realizar estas operaciones mensuales durante un período de tiempo, los errores se encuentran dentro de la tolerancia admitida se podría, previo acuerdo de los operadores implicados y el GTS, disminuir la frecuencia indicada anteriormente, sin que el período de verificación metrológica exceda de dos meses.
+
+7.3.2 Puntos de salida de la red de transporte.
+
+Las verificaciones metrológicas periódicas se realizarán con la periodicidad indicada en la tabla siguiente:
+
+Tabla 5: Verificaciones metrológicas periódicas de equipos de medida en los puntos de salida de la red de transporte
+
+|  | Periodicidad | Tipo de prueba |
+|---|---|---|
+| Factor de conversión | 6 meses <sup>1</sup> | Campo |
+| Lazo de presión | 6 meses <sup>1</sup> | Campo |
+| Lazo de temperatura | 6 meses <sup>1</sup> | Campo |
+| Medida y volumen (prueba en serie) | 6 meses <sup>1</sup> | Campo |
+| Cromatógrafo, cambio de gas patrón | El cambio del gas patrón se realizará antes de la fecha de fin de la validez de la muestra y siempre dentro de las condiciones de utilización que se indiquen en el certificado. | Campo |
+| Verificación metrológica de contadores | 6 años <sup>2</sup> | Laboratorio |
+
+<sup>1 </sup>Si después de realizar estas operaciones con la periodicidad indicada durante un período de tiempo los errores se encuentran dentro de la tolerancia admitida, se podría, previo acuerdo de los operadores implicados y el Gestor Técnico del Sistema, disminuir la frecuencia indicada anteriormente, sin que el período de verificación metrológica exceda de doce meses.
+
+<sup>2 </sup>Siempre que se hagan las pruebas en serie cada año y el resultado de las mismas esté dentro de los límites exigidos.
+
+Si el diseño de la instalación no permite la realización de la prueba en serie, la verificación metrológica del contador en laboratorio será cada dos años.
+
+Los contadores a instalar deberán disponer de un certificado de verificación de menos de 2 años de antigüedad en todos los casos.
+
+7.3.3 Puntos de suministro a consumidores finales y puntos de entrega entre redes de distribución.
+
+Las verificaciones metrológicas periódicas de los elementos de medida se realizarán según lo indicado a continuación:
+
+Contadores:
+
+La periodicidad de la verificación metrológica de los contadores será la indicada en el cuadro siguiente:
+
+Tabla 6: Verificaciones metrológicas periódicas de los contadores
+
+<table>
+<thead>
+<tr>
+<td> </td>
+<td colspan="3">
+<p>Consumo anual por línea (C)</p>
+<p>(GWh/año)</p>
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<p>Tipo contador</p>
+</td>
+<td>
+<p>C ≤ 3 (*)</p>
+</td>
+<td>
+<p>3 &lt; C ≤ 30</p>
+</td>
+<td>
+<p>C &gt; 30 (**)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Turbina</p>
+</td>
+<td>
+<p>4 años</p>
+</td>
+<td>
+<p>4 años</p>
+</td>
+<td>
+<p>2 años</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pistón</p>
+</td>
+<td>
+<p>6 años</p>
+</td>
+<td>
+<p>6 años</p>
+</td>
+<td>
+<p>NA</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Membrana</p>
+</td>
+<td>
+<p>15 años</p>
+</td>
+<td>
+<p>15 años</p>
+</td>
+<td>
+<p>NA</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+(*) En los contadores instalados en instalaciones domésticas se podrá sustituir la operativa indicada por técnicas estadísticas de muestreo continuo.
+
+(**) Si el diseño de la instalación lo permite, prueba en serie anual y verificación metrológica del contador como máximo cada 6 años.
+
+Los contadores a instalar deberán disponer de un certificado de verificación de menos de 2 años de antigüedad.
+
+Lazos de medida:
+
+La periodicidad de la verificación metrológica de los lazos de medida (transmisor de presión y sonda de temperatura) será la indicada en el cuadro siguiente:
+
+Tabla 7: Verificaciones metrológicas periódicas de los lazos de medida de presión y temperatura
+
+| Consumos (C) (GWh/año) | C ≤ 5 | 5 < C ≤ 100 | 100 < C ≤ 1.000 | C > 1.000 |
+|---|---|---|---|---|
+| Periodicidad | 4 años | 2 años | 1 año | 6 meses |
+
+Los conversores a instalar deberán disponer de un certificado de verificación de al menos la mitad del período de verificación que le corresponda.
+
+Cromatógrafos:
+
+Las botellas de gas patrón estarán certificadas por un laboratorio acreditado para el análisis del gas natural según la Norma ISO 17025.
+
+El cambio del gas patrón se realizará antes de la fecha de fin de la validez de la muestra y siempre dentro de las condiciones de utilización que se indiquen en el certificado.
+
+Se procederá a la verificación metrológica periódica del cromatógrafo como mínimo cada 12 meses y siempre que se realice el cambio de gas patrón.
+
+7.4 Comprobaciones extraordinarias a petición de parte.
+
+Adicionalmente a las obligaciones de control metrológico que puedan derivarse de la Ley 3/1985, de Metrología, del Real Decreto 889/2006, por el que se regula el control metrológico del Estado sobre instrumentos de medida, y de sus normativas de desarrollo, para todos los puntos de medida del Sistema Gasista, cualquier sujeto afectado por la medida de éstos podrá exigir la comprobación extraordinaria de la instalación de medición, en aquellas situaciones en las que existiese presunción justificada de un incorrecto funcionamiento de los equipos de medida instalados.
+
+En tales casos, el alcance de la comprobación extraordinaria será idéntico al de la verificación periódica prevista en el control metrológico, debiendo realizarse estas operaciones en el equipo de medida por agentes competentes para efectuar verificaciones metrológicas, con la mayor brevedad posible, y respetando en todo caso la continuidad del suministro. Los gastos generados por la comprobación extraordinaria de los equipos de medida serán a cargo del solicitante salvo que el control metrológico de los mismos confirmase la existencia de una desviación superior a la admisible, en cuyo caso correrán a cargo del titular del equipo.
+
+8\. Regularización de lecturas y mediciones.
+
+En los casos de verificación metrológica periódica, de verificación después de reparación o modificación, y/o de comprobación extraordinaria realizada a petición de parte de los equipos de medida o análisis de calidad, si se observa que se exceden las tolerancias admitidas para el equipo en cuestión, se procederá a la regularización de los suministros efectuados conforme a lo establecido en este apartado.
+
+En el supuesto de detectarse errores que excedan las tolerancias admisibles, se corregirán y regularizarán las cantidades previamente determinadas a partir de las lecturas originales. La regularización de las cantidades se extenderá a un cierto período de tiempo previo a la fecha de realización de la comprobación que detectó el error y se establecerán en base a los siguientes criterios.
+
+El período de tiempo sujeto a corrección y la refacturación complementaria a que diera lugar, se calculará de acuerdo con lo establecido en la legislación vigente.
+
+El GTS publicará en su página web el procedimiento estándar de cálculo de regularizaciones derivadas de excesos sobre las tolerancias máximas establecidas.
+
+Una vez conocido el error, mientras la causa origen del mismo no sea subsanada, las limitaciones del período de tiempo afectado no serán de aplicación y, en consecuencia, dicho período se extenderá al total de la duración de la causa, sin perjuicio de la responsabilidad que podría derivarse de la no rectificación del error detectado. La corrección por cantidad que se aplicará durante el período afectado será la correspondiente al exceso que supere el error máximo admisible.
+
+9\. Odorización del gas natural.
+
+El gas deberá ser odorizado de forma que cualquier fuga pueda ser detectada con facilidad por el olfato humano normal cuando exista una mezcla cuya concentración volumétrica sea un quinto de la correspondiente al límite inferior de inflamabilidad.
+
+9.1 Responsabilidad de los agentes.
+
+Los transportistas de la red primaria entregarán el gas natural odorizado en las entradas al sistema de transporte, en las entradas a las redes de distribución y a los consumidores directamente conectados a sus redes.
+
+Para optimizar los costes de instalación, en el caso de nuevas instalaciones de transporte secundario en las que el destino del gas sea básicamente el consumo doméstico, el responsable de la odorización hasta los niveles indicados en el apartado 9.3 será el titular del punto de entrega transporte-transporte secundario.
+
+Los distribuidores deberán asegurarse de que el gas natural que entreguen a los consumidores posea el olor característico, añadiendo compuestos odorizantes en la proporción necesaria cuando fuera preciso, de forma que se detecte su presencia.
+
+Los niveles de odorización, en su caso, de aquellos gasoductos de transporte para tránsito a terceros países, se acordarán por los transportistas implicados.
+
+9.2 Requisitos de los odorizantes.
+
+El odorizante empleado deberá reunir las siguientes condiciones:
+
+– Proporcionar un olor característico y persistente.
+
+– Proporcionar un olor específico para no ser confundido con otros olores encontrados corrientemente: olor de derivados del petróleo, gases de combustión, cocinas, perfumes, etc.
+
+– Fácil de manipular y adicionar al gas.
+
+– No tóxico en las concentraciones adicionadas al gas.
+
+– Insoluble en agua y soluble en fase gas.
+
+– Inerte frente a los diferentes tipos de materiales usados en las canalizaciones y poco absorbido por los residuos que se pueden hallar en el interior de la red.
+
+– Poco absorbido por el terreno.
+
+– De combustión sin producción de productos perjudiciales.
+
+– Estabilidad química frente a los componentes del gas.
+
+9.3 Criterios generales para la odorización.
+
+Los transportistas de la red primaria entregarán el gas natural odorizado, siguiendo los siguientes criterios:
+
+a) Añadirán 15 mg de THT/m<sup>3</sup> de gas en las entradas al sistema de transporte-distribución.
+
+b) Añadirán 7 mg de THT/m<sup>3</sup> de gas en las entregas a transporte secundario que actualmente esté odorizando el transportista primario.
+
+c) Añadirán 7 mg de THT/m<sup>3</sup> de gas en las entradas a las redes de distribución con consumo doméstico.
+
+d) Para la odorización del anillo de 35 bar de Barcelona, se añadirán a la salida de la planta de regasificación 22 mg de THT/m<sup>3</sup> de gas.
+
+En los casos b) y c) que alimenten a redes con consumo doméstico se recomienda que en este caso el contenido mínimo de odorizante sea de 18 mg de THT/m<sup>3</sup> de gas.
+
+En caso de utilizar un producto odorizante diferente al THT, la concentración de odorizante a adicionar se adecuará para obtener un nivel de detección equivalente.
+
+Cuando el gas recibido tenga algún contenido en odorizante se deberá analizar de qué tipo de odorizante se trata y qué compatibilidad tendrá con el que se añada, ya que podría darse el caso de que el añadido contrarrestase el efecto del olor del propio gas recibido.
+
+Las concentraciones de productos odorizantes a adicionar se considerarán expresadas en las condiciones de referencia del sistema gasista.
+
+> Se modifican los apartados 6.2 y 6.5 por el apartado tercero de la Resolución de 15 de febrero de 2019. [Ref. BOE-A-2019-3691](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3691)
+
+> Se modifica por el apartado cuarto de la Resolución de 8 de octubre de 2018. [Ref. BOE-A-2018-14557](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14557)
+
+> Se modifica por el apartado primero de la Resolución de 21 de diciembre de 2012. [Ref. BOE-A-2013-185](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-185)
+
+> Se modifica la tabla del apartado 4.4.5 por el apartado tercero de la Resolución de 29 de marzo de 2012. [Ref. BOE-A-2012-5366](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5366)
+
+> Se reemplaza por el texto incluido en el Anexo según establece el apartado primero de la Resolución de 22 de septiembre de 2011. [Ref. BOE-A-2011-15496](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15496)
+
+> Téngase en cuenta, para la entrada en vigor de esta modificación, lo establecido en el apartado segundo de la citada Resolución.
+
+## Protocolo de detalle PD-02 — Procedimiento de reparto en puntos de conexión transporte-distribución (PCTD) y en puntos de conexión distribución-distribución (PCDD).
+
+1\. Reparto Diario Provisional.
+
+El Reparto Diario Provisional es la asignación del gas propiedad del usuario correspondiente al día d, que se realiza el día d+1.
+
+Para realizar el cálculo del reparto se parte de las mediciones en los puntos de conexión en transporte y distribución, los puntos de conexión de las plantas de producción de biogás con redes de distribución, y de las mediciones de los consumos.
+
+1.1 Reparto de las emisiones en los puntos de conexión en transporte y distribución.
+
+La cantidad total de gas a repartir será la emisión expresada en kWh en los Puntos de Conexión Transporte-Distribución (PCTD) o Puntos de Conexión Distribución-Distribución (PCDD), incluyendo las entregas desde plantas de producción de biogás a redes de distribución (PPBD). En el caso de que el PCTD/PCDD suministre aguas abajo a un PCDD de otro distribuidor, el gas a repartir será la cantidad resultante de restar al PCTD/PCDD de cabecera la cantidad medida por el PCDD aguas abajo.
+
+El responsable del reparto repartirá la medida entre los usuarios de las instalaciones. El reparto se realizará desglosado por cada PCTD/PCDD en función de la demanda diaria que corresponda a cada usuario en el PCTD o PCDD.
+
+El responsable de la medida enviará diariamente a través del SL-ATR la cantidad a repartir en cada PCTD/PCDD. Dicha cantidad será la registrada por los equipos de medida instalados según establece el protocolo de detalle PD-01. Si no se dispone de la medida, la cantidad a repartir se obtendrá según lo establecido en los procedimientos de medición vigentes entre los operadores interconectados, que serán públicos y accesibles a los agentes afectados.
+
+El distribuidor informará a los operadores interconectados de aquellos PCTD/PCDD donde no existan puntos de suministro activos, con el fin de coordinar las acciones que de esta situación se deriven.
+
+En el caso de que el PCTD/PCDD no tenga puntos de suministro activos ni existan redes interconectadas aguas abajo, el responsable del reparto asignará dicha emisión de forma proporcional entre todos los usuarios con repartos diarios provisionales en el conjunto de las redes de dicho distribuidor. Este reparto se hará proporcional al total de reparto del día anterior y se le asignará al saldo de mermas.
+
+En el caso de que el PCTD suministre aguas abajo a un PCDD de otro distribuidor, y no haya ningún punto de suministro a consumo activo en la red aguas arriba alimentada por el PCTD/PCDD de cabecera, el SL-ATR, asignará automáticamente en nombre del distribuidor responsable de repartir la medida del PCDD aguas arriba, la emisión neta de forma proporcional entre todos los usuarios con reparto en el PCDD situado aguas abajo. Este reparto se realizará de forma proporcional al total del reparto del día anterior de esos usuarios y se lo asignará en su totalidad al saldo de mermas.
+
+De forma transitoria, y hasta que el SL-ATR esté adaptado para realizar el reparto de forma automática y de acuerdo a la metodología anteriormente descrita, el distribuidor responsable de repartir la emisión neta del PCTD/PCDD aguas arriba realizará dicho reparto según la metodología definida para el caso de PCTD/PCDD sin puntos de suministro activos ni redes interconectadas aguas abajo.
+
+Para cada PCTD/PCDD, PPBD o PCLD con envío de emisión en el proceso de repartos diarios provisionales, el SL-ATR dispondrá de un concepto denominado «máxima emisión previsible» definido por el transportista o distribuidor responsable de la medida. Dichos valores serán calculados inicialmente en el SL-ATR como la máxima emisión histórica real de cada PCTD/PCDD, PPBD o PCLD, siendo el responsable de su supervisión el responsable de la medida. Posteriormente, el transportista o distribuidor podrá modificarlos en función de las previsiones de emisión asociadas al PCTD/PCDD, PPBD o PCLD. Se fija un mínimo de 1 GWh/día para la máxima emisión histórica previsible de un PCTD/PCDD o PCLD.
+
+En el caso de altas de nuevos PCTD/PCDD, PPBD o PCLD, será el transportista o distribuidor, responsable de la emisión, el encargado de determinar el valor de la máxima emisión previsible y comunicarla al GTS para que sea implementada en el SL-ATR.
+
+Cada día, el SL-ATR realizará una comparativa entre la emisión enviada por el responsable de la medida en cada PCTD/PCDD y PPBD y su emisión máxima previsible. En el caso de que la emisión diaria enviada por el transportista o distribuidor para un PCTD/PCDD, PPBD o PCLD supere en un 50% el valor de la máxima emisión previsible cargada en el SL-ATR, dicha emisión diaria será estimada por el SL-ATR. En el supuesto de que el punto de conexión sea un PCTD o un PCDD, la estimación se realizará a partir de la suma de los repartos telemedidos y no telemedidos calculados por el distribuidor (asumiendo el saldo de mermas diario provisional nulo) y las emisiones de los PCDD conectados directamente con la red aguas abajo. Si se trata de un PCLD o PPBD dicha estimación será el propio parámetro de emisión máxima previsible.
+
+El hecho será comunicado a través del módulo de comunicación de incidencias a los transportistas, distribuidores y comercializadores afectados para que, dentro de los plazos establecidos en el proceso diario de repartos diarios, puedan revisar, modificar o reclamar sus datos.
+
+En cada ejecución del algoritmo de repartos diarios en PCTD/PCDD o PCLD, siempre que el acumulado de todas las asignaciones por comercializador enviadas por el responsable del reparto no coincida con la emisión de acuerdo con lo dispuesto en el apartado 1.2, actuará el algoritmo de revisión del GTS descrito en el apartado 3 del Anexo. Dicho algoritmo asignará a los comercializadores la diferencia entre la emisión neta a repartir y la suma de los repartos enviados por el distribuidor.
+
+1.2 Reparto del consumo.
+
+a. Reparto del consumo diario en puntos de suministro con telemedida.
+
+Para los puntos de suministro con equipo de telemedida se utilizará la lectura registrada por el distribuidor, conforme al procedimiento de medición vigente entre las partes interconectadas.
+
+Para los puntos de suministro con equipo de telemedida de los que no se dispone de dicha telemedida se estimará tomando como base la media de las tres últimas medidas registradas (reales) de días equivalentes de consumo. Se considerarán tres tipos de días equivalentes: laborables; sábados no festivos; y domingos y festivos. Los calendarios laborales que determinen los días laborables y festivos serán los publicados oficialmente por cada Comunidad Autónoma. No obstante, cuando el usuario, con doce horas de antelación a la finalización del día de gas, haya enviado al distribuidor una actualización de su valor de consumo, éste será utilizado por el distribuidor como estimación del valor de la telemedida. Este valor no será tomado como referencia para estimaciones futuras.
+
+En el caso de nuevos consumidores sin historial de consumo, si no se dispone de telemedida se realizará la siguiente estimación:
+
+• Para los consumidores acogidos al peaje 3.4, el consumo diario (C<sub>d</sub>) se calculará dividiendo el caudal anual contratado expresado en kWh/año (Q<sub>a</sub>) entre 210 días.
+
+Cd = Q<sub>a</sub>/210
+
+• Para los consumidores acogidos al resto de peajes que dispongan de información de caudal diario contratado (Q<sub>d</sub>), se considerará como consumo diario el caudal diario contratado multiplicado por el factor corrector de utilización (f<sub>c</sub>).
+
+Cd = Q<sub>d</sub> * fc
+
+El factor fc se obtendrá calculando la ratio de consumo sobre el caudal diario contratado de una muestra representativa de consumidores telemedidos y su valor inicial es 0,75. Este valor podrá ser revisado anualmente por parte del Grupo de Trabajo para la Actualización, Revisión y Modificación de las Normas y Protocolos de Gestión Técnica del Sistema Gasista, y en caso de modificación el nuevo valor será publicado en el SL-ATR con una antelación mínima de un mes a su aplicación.
+
+b. Reparto del consumo diario en puntos de suministro sin telemedida.
+
+El consumo diario en los puntos de suministro que carecen de telemedida se estima mediante la desagregación diaria de su consumo mensual estimado.
+
+b.1 Cálculo del consumo mensual C<sub>m</sub>.
+
+Para determinar C<sub>m</sub> se seguirán los siguientes pasos, en función de la existencia o no de valores históricos de dicho punto de suministro:
+
+Si existe consumo mensual del año anterior correspondiente al mismo mes (C<sub>m-12</sub>), se tomará como Cm el valor incluido en la factura del año anterior que tenga más días facturados en el mes que se esté evaluando, incluyendo un coeficiente de corrección (C<sub>C</sub>) sobre el consumo del año anterior que represente la evolución o variación del consumo de un año respecto de otro, de acuerdo a la información de evolución de demanda convencional publicada por el GTS. Este coeficiente de corrección se publicará en el SL-ATR.
+
+C<sub>m</sub> = C<sub>m–12 </sub>* C<sub>C</sub>
+
+Donde C<sub>C</sub> es la variación del consumo de los últimos doce meses disponibles en relación al mismo dato del año anterior.
+
+En el caso de los consumidores acogidos al peaje 3.4, se aplicará un coeficiente de corrección por temperatura (Ctemp1) sobre el consumo del año anterior que tenga en cuenta la variación del consumo por efecto de la temperatura.
+
+C<sub>m</sub> = C<sub>m–12 </sub>* C<sub>temp1</sub>
+
+El término C<sub>temp1</sub> se calculará para cada zona climática como el cociente entre los grados día (base 15) del día de gas «n» y el promedio diario de los grados día del mismo mes del año anterior, utilizando temperaturas reales hasta el día «n-1», y, en su defecto, la mejor estimación posible, utilizando en ambos casos información de la Agencia Estatal de Meteorología.
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6300.png)
+
+Siendo N el número de días del mes y calculándose los grados día gas (n) según la siguiente expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6467.png)
+
+Donde Tmax es la temperatura máxima diaria, Tmin, la temperatura mínima diaria y Tmed la temperatura media diaria calculada como (Tmax + Tmin)/2.
+
+El valor inicial del coeficiente KT1 es 4. Este valor podrá ser revisado anualmente por Resolución de la Dirección General de Política Energética y Minas.
+
+En el caso de consumidores de reciente incorporación al sistema gasista, sin la serie completa de datos del año anterior, se considerará el consumo del último mes disponible.
+
+En el caso de nuevos consumidores sin ningún dato de consumo, se usará el caudal anual contratado (Q<sub>a</sub>) o el caudal diario contratado (Q<sub>d</sub>) en función del tipo de peaje:
+
+– Para los consumidores acogidos al peaje 3.4 el consumo mensual será el resultado de dividir el caudal anual contratado expresado en kWh/año (Qa) por 12 meses.
+
+Cm = Qa /12
+
+– Para los consumidores acogidos al resto de peajes, para los cuales se dispone de la información de caudal diario contratado (Q<sub>d</sub>), el consumo mensual será el caudal diario contratado multiplicado por el factor corrector de utilización (fc) y el número de días del mes (N).
+
+Cm = Q<sub>d</sub> * fc * N
+
+El factor fc se calculará conforme a lo indicado en el apartado 1.1.
+
+b.2 Desagregación diaria del consumo mensual por tipo de consumidor.
+
+b.2.1 Consumidores pertenecientes a los grupos de peaje 2.
+
+El consumo diario se calculará diferenciando si es día laborable o no laborable. A los efectos de esta norma se consideran no laborables el sábado, domingo y festivos.
+
+• Día laborable:
+
+El consumo diario (Cd) se obtendrá como el producto del consumo mensual (Cm) y el coeficiente de funcionamiento (Cf) dividido entre el número de días laborables del mes (Nlab), de acuerdo a la expresión:
+
+Cd = Cm * Cf / Nlab
+
+Donde Cf tendrá por defecto un valor de 0,85, que podrá ser revisado anualmente por parte del grupo de trabajo para la actualización, revisión y modificación de las normas y protocolos de gestión técnica del sistema gasista. En caso de modificarse el nuevo valor será publicado en el SL-ATR con una antelación mínima de un mes antes de su aplicación.
+
+• Resto de días (sábados, domingos y festivos):
+
+El consumo diario (Cd) se obtendrá como el producto del consumo mensual (Cm) y el parámetro (1-Cf) dividido entre el número de días no laborables del mes (Nres), de acuerdo con la expresión:
+
+Cd = Cm * (1 – Cf)/ Nres
+
+Donde Cf tendrá el mismo valor que en el caso de días laborables.
+
+Los calendarios laborales que determinen los días laborables y festivos serán los publicados oficialmente por cada comunidad autónoma.
+
+b.2.2 Consumidores pertenecientes al grupo de peaje 3.4.
+
+El consumo diario se calculará como el consumo mensual (Cm) dividido por el número de días del mes (N).
+
+Cd = Cm/N
+
+b.2.3 Consumidores pertenecientes a los grupos de peaje 3.1, 3.2 y 3.3.
+
+El consumo a asignar a nivel diario en un PCTD/PCDD se calculará de acuerdo a la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6690.png)
+
+Siendo:
+
+• j: Usuarios en el PCTD/PCDD.
+
+• k: Grupo de peaje.
+
+• N° Consumidores<sub>jk</sub>: Número de consumidores suministrados por el usuario «j» dentro del grupo de peaje «k».
+
+• Puk: perfil unitario en el mes que se considere correspondiente al grupo de peaje «k» en la zona climática del PCTD/PCDD.
+
+• Ctemp2: coeficiente corrector del perfil por efecto de la temperatura.
+
+El coeficiente Ctemp2 se calculará para cada zona climática como el cociente entre los grados día (base 15) del día de gas (n) y el promedio diario de los grados día del mismo mes del año anterior, utilizando temperaturas reales hasta el día «n–1», y, en su defecto, la mejor estimación posible, utilizando en ambos casos información de la Agencia Estatal de Meteorología.
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6734.png)
+
+Los grados díagas(n) se calcularán según la siguiente expresión:
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6775.png)
+
+Donde Tmax es la temperatura máxima diaria, Tmin, la temperatura mínima diaria, Tmed la temperatura media diaria calculada como (Tmax + Tmin)/2.
+
+El valor inicial del coeficiente KT2 será igual a 4. Este valor podrá ser revisado por Resolución de la Dirección General de Política Energética y Minas.
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6817.png)
+
+Siendo N el número de días del mes y K el número de periodos invernales utilizados para el cálculo del perfil.
+
+La zona climática se determinará en base a la información histórica de temperaturas facilitadas por la Agencia Estatal de Meteorología. Inicialmente se definen 4 zonas climáticas, establecidas en el apartado 1.4, de forma que cada provincia y cada PCTD/PCDD pertenecerán a una única zona. Antes del 1 de octubre de cada año, el GTS determinará y publicará en el SL-ATR, para el año siguiente, las estaciones meteorológicas que se utilizarán para el cálculo de las temperaturas significativas de cada zona climática y de los coeficientes correctores de temperatura (Ctemp1 y Ctemp2), así como la relación de PCTD/PCDD incluidos en cada zona climática. El GTS podrá solicitar información a transportistas y distribuidores respecto a los PCTDs/PCDDs incluidos en cada zona.
+
+Se definirá un perfil unitario de consumo Puk por mes, grupo de peaje «k» y zona climática «z», que se determinará de acuerdo a la siguiente fórmula:
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6859.png)
+
+Siendo:
+
+• F (k,z,mes): consumo mensual para el grupo de peaje «k» en la zona climática «z» en el mes del año i.
+
+• NC (k,z,mes): número de consumidores para el grupo de peaje «k» en la zona climática «z» en el mes del año i.
+
+• N: número de días del mes del año i.
+
+Los distribuidores calcularán los perfiles unitarios de consumo según la fórmula anterior utilizando los datos históricos de los dos años anteriores facilitados por los distribuidores que operen en cada zona. Dichos perfiles, para el año siguiente, serán presentados en el Grupo de Trabajo para la Actualización, Revisión y Modificación de las Normas y Protocolos de Gestión Técnica del Sistema Gasista y publicados en el SL-ATR por el GTS antes del 1 de noviembre de cada año. La Comisión Nacional de los Mercados y la Competencia y la Dirección General de Política Energética y Minas podrán solicitar el acceso a los perfiles y a los datos empleados para su cálculo, para la supervisión de los mismos.
+
+Los coeficientes correctores de temperatura, los perfiles unitarios y las zonas climáticas serán comunes para todos los distribuidores.
+
+1.3 Reparto del saldo de mermas diario provisional.
+
+La diferencia entre la emisión del PCTD/PCDD y los consumos asignados (incrementados en sus mermas reconocidas correspondientes) más las entregas de gas a operadores conectados aguas abajo se corresponde con el saldo de mermas de distribución, que de igual forma que el reparto diario podrá ser diario provisional, diario final provisional o diario final definitivo, en función de cuándo se realice su cálculo.
+
+Saldo de Mermas = Emisión de Entrada – ∑ Consumo TM<sub>C</sub> – ∑ ConsumoNoTM<sub>C</sub> – – Emisión Entregada Aguas Abajo.
+
+Siendo:
+
+• Emisión de Entrada: Emisión en el PCTD/PCDD y PPBD en kWh.
+
+• Consumo TMc: lectura de los puntos de suministro con dato de telemedida disponible del usuario «c», más las mermas reconocidas, en el PCTD/PCDD en kWh.
+
+• ConsumoNoTMc: Estimación del consumo en los puntos de suministro no telemedidos o con telemedida no disponible del usuario «c», más las mermas reconocidas, en el PCTD/PCDD en kWh.
+
+• Emisión Entregada Aguas Abajo: Emisión que se entrega a otras distribuidoras en el PCDD en kWh.
+
+El saldo de mermas diario provisional, también denominado «residuo», podrá ser positivo o negativo, y será repartido por el distribuidor entre todos los usuarios presentes en el PCTD/PCDD, proporcionalmente a su consumo estimado (incluyendo el de los consumidores con telemedida no disponible). Adicionalmente se identificará para cada usuario el saldo de mermas asignado a cada tipo de consumo estimado (telemedido estimado, tipo 1 no telemedido con peaje 3.4, tipo 1 no telemedido con peaje distinto de 3.4 y tipo 2).
+
+En el caso de que el porcentaje de consumo telemedido de un PCTD/PCDD sea del 100%, el saldo de mermas diario provisional o residuo se repercutirá sobre toda la demanda de forma proporcional al consumo asignado a cada usuario. Este porcentaje podrá ser revisado anualmente por parte del grupo de trabajo para la actualización, revisión y modificación de las normas y protocolos de gestión técnica del sistema gasista. En caso de modificarse el nuevo valor será publicado en el SL-ATR con una antelación mínima de un mes antes de su aplicación.
+
+1.4 Cálculo del reparto diario provisional.
+
+Se asignará a cada usuario presente en el PCTD/PCDD como reparto diario provisional el consumo diario, incluyendo las mermas correspondientes, y el saldo de mermas diario provisional o residuo que le corresponda, calculados según los apartados anteriores.
+
+1.5 Envío de la información del reparto diario provisional.
+
+El reparto diario se enviará por el distribuidor al SL-ATR con el detalle que se indica a continuación, por PCTD/PCDD, comercializador y cliente directo a mercado, y día:
+
+• Código distribuidora: según codificación SL-ATR.
+
+• Código comercializadora: según codificación SL-ATR.
+
+• Fecha de gas.
+
+• Código PCTD/PCDD: según codificación SL-ATR.
+
+• Revisado: S/N.
+
+• Emisión global a repartir por PCTD/PCDD.
+
+• Saldo de Mermas por PCTD/PCDD (total y asignado al usuario correspondiente) y su porcentaje sobre el total de emisión.
+
+• Valor agregado de consumos con telemedida disponible (total y asignado al usuario correspondiente).
+
+• Valor agregado de consumos telemedidos no disponibles y por tanto estimados (total y asignado al usuario correspondiente).
+
+• Valor agregado de consumos no telemedidos estimados Tipo 1 (total y asignado al usuario correspondiente), distinguiendo entre consumos con peaje 3.4 y consumos con peaje distinto al peaje 3.4.
+
+• Valor agregado de consumos no telemedidos estimados Tipo 2 (total y asignado al usuario correspondiente).
+
+• Valor agregado de las mermas reconocidas que corresponderían a los consumos asignados.
+
+• Valor agregado de Revisión GTS (total y asignado al usuario correspondiente).
+
+• Valor agregado del Reparto diario provisional incluyendo saldo de mermas y revisión GTS (total y asignado al usuario correspondiente).
+
+Toda la información para que los datos y cálculos relativos al reparto diario provisional sean trazables por el usuario estará disponible en el SL-ATR.
+
+El distribuidor mantendrá disponible en el SCTD para cada comercializador un inventario del número de clientes desglosado por punto de conexión (PCTD/PCDD), peaje y zona climática. Concretamente, cada día pondrá a disposición de los usuarios:
+
+Para los clientes Tipo 1:
+
+• Código Distribuidora: según codificación SL-ATR.
+
+• Código Comercializadora: según codificación SL-ATR.
+
+• Código PCTD: según codificación SL-ATR.
+
+• Fecha de Reparto.
+
+• CUPS.
+
+• Consumo diario en kWh.
+
+• Tipo de Consumo: Real, Estimado, Estimado Comercializador; No Telemedido.
+
+• Fecha y hora de publicación.
+
+Para los clientes Tipo 2:
+
+• Código Distribuidora: según codificación SL-ATR.
+
+• Código Comercializadora: según codificación SL-ATR.
+
+• Fecha de Reparto.
+
+• Código PCTD: según codificación SL-ATR.
+
+• Grupo de Peaje: según codificación SL-ATR.
+
+• Número de consumidores.
+
+• Consumo diario en kWh.
+
+• Fecha y hora de publicación.
+
+Esta información se publicará para todos los PCTD/PCDD en los que el usuario tenga puntos de suministro de cada una de las tipologías. Además del dato asociado a cada usuario se aportará a éstos el número total de clientes por peaje correspondiente a cada punto de conexión.
+
+En caso de disconformidad por parte de un usuario respecto al reparto agrupado de sus clientes de Tipo 2, el distribuidor estará obligado a remitir la información utilizada para realizar el cálculo.
+
+1.6 Zonas climáticas.
+
+Las provincias se clasifican en las 4 siguientes zonas climáticas:
+
+• Zona Climática 1: Promedio de grados día menor que 1,7.
+
+• Zona Climática 2: Promedio de grados día entre 1,7 y 2,4.
+
+• Zona Climática 3: Promedio de grados día entre 2,4 y 3,8.
+
+• Zona Climática 4: Promedio de grados día superior a 3,8.
+
+La asignación de provincias a cada zona, con su correspondiente valor de grados día, se publicará en el SL-ATR. Las zonas climáticas podrán ser revisadas anualmente por el Grupo de Trabajo para la Actualización, Revisión y Modificación de las Normas y Protocolos de Gestión Técnica del Sistema Gasista. Las actualizaciones serán publicadas en el SL-ATR con una antelación mínima de un mes antes de su aplicación.
+
+Zona climática 1
+
+|  | Grados / día |
+|---|---|
+| A Coruña | 1,44 |
+| Alicante | 1,17 |
+| Almería | 0,56 |
+| Cádiz | 0,36 |
+| Castellón | 1,18 |
+| Córdoba | 1,39 |
+| Huelva | 0,85 |
+| Baleares | 1,17 |
+| Málaga | 0,59 |
+| Murcia | 1,03 |
+| Sevilla | 0,82 |
+| Valencia | 1,64 |
+
+Zona climática 2
+
+|  | Grados / día |
+|---|---|
+| Asturias | 1,82 |
+| Badajoz | 1,80 |
+| Barcelona | 1,84 |
+| Bizkaia | 2,00 |
+| Cáceres | 2,20 |
+| Cantabria | 1,78 |
+| Gipuzkoa | 2,15 |
+| Jaén | 2,00 |
+| Ourense | 2,21 |
+| Pontevedra | 1,96 |
+| Tarragona | 2,00 |
+
+Zona climática 3
+
+|  | Grados / día |
+|---|---|
+| Albacete | 3,30 |
+| Ciudad Real | 2,75 |
+| Cuenca | 3,64 |
+| Girona | 2,50 |
+| Granada | 2,79 |
+| Huesca | 3,52 |
+| La Rioja | 3,14 |
+| Lleida | 2,95 |
+| Lugo | 3,60 |
+| Madrid | 3,18 |
+| Navarra | 3,52 |
+| Toledo | 2,67 |
+| Zaragoza | 2,64 |
+
+Zona climática 4
+
+|  | Grados / día |
+|---|---|
+| Araba | 4,02 |
+| Ávila | 4,74 |
+| Burgos | 5,06 |
+| Guadalajara | 5,23 |
+| León | 4,92 |
+| Palencia | 5,17 |
+| Salamanca | 4,23 |
+| Segovia | 4,27 |
+| Soria | 5,25 |
+| Teruel | 4,31 |
+| Valladolid | 4,05 |
+| Zamora | 4,14 |
+
+2\. Reparto Diario Final Provisional.
+
+El Reparto Diario Final Provisional es el cálculo del consumo del día d por usuario que se realiza en el mes m+3 (tres meses después del mes correspondiente al día d).
+
+Para realizar el cálculo se parte, de manera análoga al reparto diario provisional, de las mediciones en los puntos de conexión en transporte y distribución, y de las mediciones de los consumos.
+
+2.1 Reparto de las emisiones en los puntos de conexión en transporte y distribución.
+
+El titular responsable de la unidad de medida enviará, en los plazos establecidos, al SL-ATR, la cantidad mensual a repartir en cada PCTD/PCDD con desglose diario.
+
+El proceso será similar al desarrollado en el reparto diario provisional.
+
+2.2 Reparto del consumo.
+
+a. Puntos de suministro con telemedida.
+
+En el caso de consumidores con telemedida, se asignará a cada usuario el valor de la telemedida diaria asignada en el reparto diario provisional, incrementada en las mermas correspondientes, incluyendo las correcciones por subsanación de errores que sean necesarias. Si no existen correcciones, el valor coincidirá con el asignado en el cálculo del reparto diario provisional.
+
+b. Puntos de suministro sin telemedida.
+
+Los responsables de la lectura de consumos de los clientes comunicarán dichas lecturas a los responsables del reparto cuando corresponda y tan pronto como disponga de ellas.
+
+En cada PCTD/PCDD, para cada día n dentro del periodo de lectura y para cada tipo de consumo sin telemedida, el responsable del reparto procederá de la siguiente manera:
+
+1\. Se calculará el saldo de mermas de cada día en el reparto diario provisional, que corresponde al tipo de consumo por aplicación del apartado 1.3 de este Protocolo de Detalle, como suma de los saldos de mermas provisionales asignados a dicho tipo de consumos en el PCTD/PCDD.
+
+2\. Para cada tipo de consumo, se obtendrá el peso del reparto diario provisional del día d, incluido su saldo de mermas asignado, respecto a la suma de los repartos diarios provisionales de ese tipo de cliente, incluidos sus saldos de mermas asignado, de los días del periodo de lectura del consumo:
+
+![1](https://www.boe.es/datos/imagenes/disp/2018/256/14557_6996.png)
+
+3\. Para distribuir en días la lectura del consumo del cliente, el peso obtenido en el punto 2 se multiplicará por el valor del consumo acumulado proporcionado por la citada lectura.
+
+El resultado de la operación será el valor de consumo asignado al día d para ese cliente en el PCTD/PCDD.
+
+Para calcular el consumo asignada en el PCTD/PCDD de un usuario se sumarán todos los consumos de los clientes de dicho usuario.
+
+3\. Reparto de los saldos de mermas finales provisionales.
+
+La diferencia entre la emisión del PCTD/PCDD y los consumos asignados conforme al apartado anterior (incrementados en sus mermas reconocidas correspondientes) más las entregas de gas a operadores conectados aguas abajo se corresponde con el saldo de mermas de distribución. En este caso, final provisional.
+
+Saldo de Mermas = Emisión de Entrada – ∑ Consumo TMc – ∑ ConsumoNoTMc – – Emisión Entregada Aguas Abajo
+
+Siendo:
+
+• Emisión de Entrada: Emisión en el PCTD/PCDD y PPBD en kWh.
+
+• ConsumoTMc: consumo de los puntos de suministro con dato de telemedida disponible del usuario «c», más las mermas reconocidas, en el PCTD/PCDD en kWh.
+
+• ConsumoNoTMc: consumo en los puntos de suministro no telemedidos o con telemedida no disponible del usuario «c», más las mermas reconocidas, en el PCTD/PCDD en kWh.
+
+• Emisión Entregada Aguas Abajo: Emisión que se entrega a otras distribuidoras en el PCDC en kWh.
+
+a. Cálculo del reparto diario final provisional.
+
+Se asignará a cada usuario presente en el PCTD/PCDD como reparto diario final provisional el consumo diario, incluyendo las mermas correspondientes, y el saldo de mermas que le corresponda, calculados según los apartados anteriores.
+
+b. Envío de la información del reparto diario final provisional
+
+En los plazos establecidos, el distribuidor enviará al otro titular interconectado y al Gestor Técnico del Sistema, a través del SL-ATR, el reparto diario final provisional con desglose diario por PCTD/PCDD y comercializador. Asimismo, enviará el saldo de mermas en cada PCTD/PCDD por comercializador.
+
+Dicho reparto por comercializador, tendrá además el siguiente detalle por PCTD/PCDD:
+
+• Código distribuidora: según codificación SL-ATR.
+
+• Código comercializadora: según codificación SL-ATR.
+
+• Fecha de gas.
+
+• Código PCTD/PCDD: según codificación SL-ATR.
+
+• Revisado: S/N.
+
+• Emisión global a repartir por PCTD/PCDD.
+
+• Valor agregado de consumos telemedidos (total y asignado al usuario correspondiente).
+
+• Valor agregado de consumos Tipo 1 no telemedido con grupo de peaje 3.4 (total y asignado al usuario correspondiente).
+
+• Valor agregado de consumos Tipo 1 no telemedido con grupo de peaje distinto de 3.4 (total y asignado al usuario correspondiente).
+
+• Valor agregado de consumos Tipo 2 (total y asignado al usuario correspondiente).
+
+• Valor agregado de las mermas reconocidas que corresponderían a los consumos telemedidos (total y asignado al usuario correspondiente).
+
+• Valor agregado de las mermas reconocidas que corresponderían a los consumos asignados Tipo 1 no telemedido con grupo de peaje 3.4 (total y asignado al usuario correspondiente).
+
+• Valor agregado de las mermas reconocidas que corresponderían a los consumos asignados Tipo 1 no telemedido con grupo de peaje distinto de 3.4 (total y asignado al usuario correspondiente).
+
+• Valor agregado de las mermas reconocidas que corresponderían a los consumos asignados Tipo 2 (total y asignado al usuario correspondiente).
+
+• Valor agregado del saldo de mermas (total y asignado al usuario correspondiente).
+
+• Valor agregado del Reparto diario final provisional incluyendo saldo de mermas (total y asignado al usuario correspondiente).
+
+Toda la información para que los datos y cálculos relativos al reparto diario final provisional sean trazables por el usuario estará disponible en el SL-ATR.
+
+Adicionalmente, los distribuidores pondrán a disposición de los usuarios la información utilizada para la elaboración de sus repartos, concretamente:
+
+Para los clientes Tipo 1:
+
+• Código Distribuidora: según codificación SL-ATR.
+
+• Código Comercializadora: según codificación SL-ATR.
+
+• Código PCTD: según codificación SL-ATR.
+
+• Mes de Reparto.
+
+• CUPS.
+
+• Consumo diario en kWh.
+
+• Tipo de Consumo: Real, Estimado, Estimado Comercializador; No Telemedido.
+
+• Fecha y hora de publicación.
+
+Para los clientes Tipo 2:
+
+• Código Distribuidora: según codificación SL-ATR.
+
+• Código Comercializadora: según codificación SL-ATR.
+
+• Código PCTD: según codificación SL-ATR.
+
+• Mes de Reparto.
+
+• Grupo de Peaje: según codificación SL-ATR.
+
+• Número de consumidores.
+
+• Consumo diario en kWh.
+
+• Fecha y hora de publicación.
+
+En caso de disconformidad por parte de un usuario respecto al reparto agrupado de sus clientes de Tipo 2, el distribuidor estará obligado a remitir la información utilizada para realizar el cálculo.
+
+4\. Reparto Diario Final Definitivo.
+
+El Reparto Diario Final Definitivo es el cálculo del consumo del día d por usuario que se realiza en el mes m+15 (quince meses después del mes correspondiente al día d).
+
+En el mes m+15, en el caso de que exista nueva información sobre emisiones o consumos en un PCTD/PCDD que modifique las emisiones o los consumos empleados en la elaboración del reparto diario final provisional, se calculará un reparto diario final definitivo de acuerdo con la metodología detallada en el apartado 2 de este Protocolo.
+
+Toda la información para que los datos y cálculos relativos al reparto diario final definitivo sean trazables por el usuario y estarán disponibles en el SL-ATR con el mismo detalle que el reparto diario final provisional.
+
+## ANEXO — Controles adicionales del reparto diario provisional
+
+1\. Intervención especial del GTS en el proceso de reparto diario provisional en PCTD/PCDD y PCLD ante situaciones excepcionales de alto impacto.
+
+1.1 Definición de intervención especial en el proceso de repartos diarios Provisionales.
+
+Se define como «intervención especial en el proceso de repartos diarios provisionales» aquella que realiza el GTS en situaciones excepcionales de alto impacto en la calidad del reparto diario provisional que se pudieran producir durante el proceso. Para identificar estas situaciones el GTS aplicará diariamente los controles expuestos en el apartado 1.2 de este anexo.
+
+La declaración de «intervención especial en el proceso de repartos diarios provisionales» también podrá ser solicitada al GTS por cualquier sujeto del sistema que interviene en el proceso (transportistas, distribuidores y comercializadores). La solicitud deberá realizarse por escrito y deberá ir acompañada, al menos, de la siguiente información:
+
+• Sujeto solicitante.
+
+• Tipo de sujeto: Transportista/Distribuidor/Comercializador.
+
+• Día de Gas.
+
+• Información afectada: Emisiones/Repartos/Ambos.
+
+• Etapa del proceso afectada: Inicial – V1 / Revisión – V2.
+
+• Control o filtro establecido no superado por el proceso y por el que se solicita la declaración de «intervención especial en el proceso de repartos diarios provisionales».
+
+Una vez analizado el impacto sobre los usuarios y/o la operativa del sistema, el GTS podrá declarar «intervención especial en el proceso de repartos diarios provisionales».
+
+1.2 Motivos de intervención especial en el proceso de repartos diarios provisionales.
+
+1\. El saldo de mermas diario provisional o residuo a repartir en cada PCTD/PCDD o PCLD supera, en valor absoluto, dos veces la emisión máxima previsible definida en el apartado 1.2 del Protocolo.
+
+2\. La suma de las emisiones totales a repartir en el proceso difiere, en valor absoluto, en más de 100 GWh/día de la estimación global del GTS en función de su información operativa.
+
+3\. Fallos del proceso de repartos o del sistema SL-ATR que no permiten disponer de la información a los comercializadores del reparto diario en los plazos estipulados en el punto 6.4 de la NGTS-06 «Repartos».
+
+4\. Fallo total de los sistemas de un distribuidor que no permitan disponer de ninguna información de la primera o de la segunda versión del reparto diario provisional en los plazos estipulados en el punto 6.4 de la NGTS-06 «Repartos», en el caso de que la Revisión del reparto realizada por el GTS suponga más del 5% en valor absoluto de la emisión global del sistema.
+
+5\. Cuando la Revisión del reparto realizada por el GTS supone más del 5%, en valor absoluto, de la emisión global del Sistema.
+
+6\. Fallos del proceso de repartos diarios o de los sistemas del GTS que no permiten disponer de la información que los distribuidores necesitan para la elaboración del reparto diario provisional en los plazos estipulados en el punto 6.4 de la NGTS–06 «Repartos». Este punto se aplicaría a ficheros de PCS, coeficientes de temperatura, información de emisiones diarias enviadas desde el SL-ATR a los distribuidores o fallos de comunicaciones con el GTS.
+
+Dentro de los motivos de intervención no se considerarán errores las variaciones diarias del reparto diario provisional resultado de la aplicación correcta de las fórmulas establecidas en este Protocolo de Detalle, por grandes que fueran.
+
+1.3 Consecuencias de la intervención especial en el proceso de repartos diarios.
+
+1\. Paradas de las cadenas en el SL-ATR y no publicación de repartos diarios provisionales. En el caso en que los problemas afecten a un único transportista o distribuidor, la parada de las cadenas no impedirá que el resto de operadores puedan continuar enviando su información dentro de los plazos establecidos.
+
+2\. Comunicación en caso de intervención especial en el proceso de repartos diarios:
+
+2.1 Declaración de Intervención especial en el proceso de repartos diarios provisionales.
+
+La declaración de «Intervención especial en el proceso de repartos diarios provisionales» será comunicada, tan pronto como sea posible y por escrito, a todos los sujetos afectados. Para ello, el GTS emitirá una comunicación a todos los agentes, transportistas, distribuidores y comercializadores, indicando el motivo del fallo, en caso de que esté identificado, y los pasos a seguir.
+
+2.2 Seguimiento de la Intervención especial en el proceso de repartos diarios provisionales.
+
+Tan pronto como se identifique el origen del fallo y se disponga de una estimación del plazo de resolución del mismo, el GTS procederá a comunicar el avance a todos los agentes afectados. En el caso de que la declaración de Intervención especial en el proceso de repartos diarios provisionales esté motivada por un fallo en los sistemas de transportistas o distribuidores, será responsabilidad de éstos mantener informado al GTS de las acciones correctoras llevadas a cabo para restablecer la situación normal y el avance de las mismas.
+
+2.3 Restablecimiento de situación normal en el proceso de repartos diarios provisionales.
+
+Cuando se considere que la situación del proceso de repartos diarios provisionales se haya restablecido, se procederá a informar a los agentes afectados.
+
+En el caso de tratarse de un fallo generalizado en el proceso de repartos diarios provisionales, será responsabilidad del GTS emitir la comunicación a todos los agentes, indicando que se ha restablecido la situación normal y que la información referente a repartos diarios se encuentra a disposición de los usuarios a través de los cauces habituales.
+
+En el caso de que el fallo haya estado originado por los sistemas de transportistas o distribuidores, será responsabilidad de éstos verificar el restablecimiento de sus procesos. Tan pronto como los transportistas o distribuidores hayan subsanado los fallos que han originado la intervención especial, lo pondrán en conocimiento del GTS que emitirá la comunicación a todos los agentes indicando que se ha restablecido la situación normal y que la información referente a repartos diarios se encuentra a disposición de los usuarios a través de los cauces habituales.
+
+3\. Retraso en la publicación de los repartos diarios provisionales, hasta que el GTS dé por resuelta la incidencia que provocó la intervención especial comunicando adecuadamente la evolución del mismo a todos los agentes.
+
+2\. Controles en origen a los repartos diarios provisionales d+1 en PCTD/PCDD y PCLD.
+
+Con independencia de los mecanismos de control desarrollados por los participantes en la elaboración de los repartos diarios provisionales, el reparto diario provisional contará al menos los siguientes controles comunes:
+
+2.1 Control a la emisión.
+
+• Responsable: transportistas y distribuidores.
+
+• Control: comprobar que la emisión no supera la emisión máxima previsible disponible en el SL-ATR.
+
+• Acción: el responsable de la medición revisará y corregirá el valor de la emisión en caso necesario, y notificará la situación a los agentes. En el caso de que tenga certeza que la emisión es correcta deberá actualizar el valor de emisión máxima previsible en sus sistemas y en el SL-ATR.
+
+2.2 Control del reparto diario provisional.
+
+• Responsable: distribuidores.
+
+• Control: comprobar que la telemedida real agregada de un PCTD no supera 1,3 veces el valor de la emisión.
+
+• Acción: el distribuidor revisará la telemedida, en el caso de que esta sea correcta, generará una reclamación a la emisión mediante el módulo de reclamaciones disponible en el SL-ATR. En el caso de que esta reclamación conlleve una modificación de la emisión, ésta será corregida en el segundo envío de los repartos diarios. En caso de que se compruebe que el error pudiera estar en una o varias telemedidas reales, el distribuidor aplicará el procedimiento de estimación del reparto diario provisional para el cliente telemedido. Esta corrección será recogida en el envío de la primera versión de repartos diarios.
+
+2.3 Control de la telemedida.
+
+• Responsable: distribuidores.
+
+• Control: comprobar que la lectura diaria de una telemedida no supera en 2 veces la capacidad contratada.
+
+• Acción: el distribuidor revisará antes del envío del reparto las telemedidas que superen este valor. En el caso que tras su análisis se considere que es errónea, pero no se disponga del valor correcto, se estimará la medida.
+
+3\. Cálculo y Asignación de la Revisión GTS en el proceso de reparto diario provisional de PCTD/PCDD.
+
+Para cada día y punto de conexión PCTD/PCDD, el SL-ATR calcula la diferencia entre la medida real de la emisión diaria enviada por el transportista o distribuidor responsable y el reparto provisional diario d+1 de dicha medida asignado a los usuarios. Esta comprobación es lo que se denomina «Revisión del GTS». En el caso de que el valor absoluto de dicha diferencia en un PCTD/PCDD sea superior a un margen de tolerancia establecido (TrevGTS), el SL-ATR asignará de forma automática dicha diferencia entre los usuarios.
+
+Inicialmente el margen de tolerancia TrevGTS queda fijado en 100 kWh/día, dicho valor podrá ser revisado anualmente por parte del Grupo de Trabajo para la Actualización, Revisión y Modificación de las Normas y Protocolos de Gestión Técnica del Sistema Gasista, y en caso de modificación el nuevo valor será publicado en el SL-ATR con una antelación mínima de un mes a su aplicación.
+
+Revisión del GTS d, p = Emisión Diaria a repartir d, p – Repartos Diarios d, p
+
+Donde:
+
+• Emisión Diaria a repartir d, p: valor de la medida real de la emisión diaria a repartir en el día «d» y punto «p».
+
+• Repartos Diarios d, p: suma de los repartos provisionales diarios d+1 de la demanda en distribución asignados a los usuarios para un día «d» y punto «p», enviados por los distribuidores y/o procesados por el SL-ATR. Esta cantidad incluirá los datos de consumo telemedido y estimado, residuo y saldos de mermas.
+
+Cuando el valor absoluto de la Revisión del GTS en un punto de conexión supere el margen de tolerancia, el SL-ATR asignará esta diferencia entre los usuarios según los criterios definidos en el apartado 3.1.
+
+3.1 Criterios de Asignación de la Revisión del GTS cuando esta supera el margen de tolerancia.
+
+a) Se dispone de medida de emisión diaria a repartir, así como de cantidades de reparto provisional diario d+1 asignadas a usuarios diferentes de cero, para el día en proceso de reparto en el punto de conexión considerado.
+
+En este caso, el SL-ATR procederá a la asignación de la Revisión del GTS entre los usuarios, de forma proporcional a las cantidades asignadas por el reparto inicialmente enviado por el distribuidor y/o procesado por el SL-ATR.
+
+Si la medida de emisión diaria a repartir es cero, el algoritmo se ejecuta igualmente, con lo que asignaría cantidades negativas a cada usuario.
+
+Sin embargo, si en el SL-ATR no se dispone de medida de emisión diaria a repartir, el algoritmo no se ejecutaria.
+
+b) Se dispone de medida de emisión diaria a repartir, pero no se dispone de cantidades de reparto provisional diario d+1 asignadas a usuarios para el día en proceso de reparto en el punto de conexión considerado.
+
+En este caso, el SL-ATR procederá a la asignación de la Revisión del GTS entre los usuarios que tengan cantidades asignadas por el proceso de repartos en el día anterior al día tratado, de forma proporcional a dichas cantidades. Si dicha información tampoco estuviera disponible, el SL-ATR iniciaría una búsqueda de información en los 15 días anteriores.
+
+Si en el proceso de búsqueda en los 15 días anteriores, el primer día que encuentra tiene asignado una cantidad de 0 kWh para cada uno de los usuarios allí ubicados, la Revisión del GTS se repartiría a partes iguales entre todos ellos.
+
+Si se tratase de un punto de conexión sin histórico de repartos suficiente, de tal forma que el algoritmo de búsqueda hacia atrás no localiza un reparto diario cuyas condiciones pueda replicar, la Revisión del GTS se repartiría entre todos los usuarios del Sistema con reparto diario en el día anterior al día tratado, de forma proporcional al mismo.
+
+c) Se dispone de medida de emisión diaria a repartir distinta de cero, pero todas las cantidades de reparto provisional diario d+1 asignadas a usuarios para el día en proceso de reparto en el punto de conexión considerado son cero.
+
+En este caso, el valor de la Revisión del GTS global se repartiría a partes iguales entre todos los usuarios.
+
+> Se modifica el apartado 1.5, en los términos que se recogen en el anexo III, por el apartado cuarto de la Resolución de 15 de febrero de 2019. [Ref. BOE-A-2019-3691](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3691)
+
+> Esta modificación produce efectos desde el 15 de septiembre de 2019, según establece el apartado séptimo de la citada Resolución.
+
+> Se modifica, en los términos que se indican en el Anexo III, por el apartado tercero de la Resolución de 8 de octubre de 2018. [Ref. BOE-A-2018-14557](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-14557)
+
+> Se modifican los apartados 1.2, 1.3, 1.4 y 1.6 del protocolo y 1.2 y 3 de su anejo, en los términos del anexo II, según establece el apartado segundo de la Resolución de 4 de mayo de 2016. [Ref. BOE-A-2016-4445](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4445)
+
+> Se modifica en los términos que se indican en el anexo según establece el apartado primero de la Resolución de 23 de diciembre de 2015. [Ref. BOE-A-2015-14346](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-14346)
+
+> Se modifica el apartado 1, en la redacción dada por el anexo de la Resolución de 7 de febrero de 2013, por el apartado primero.3 a 5 de la Resolución de 30 de abril de 2013. [Ref. BOE-A-2013-5128](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5128)
+
+> Se modifica el título y el apartado 1 por el apartado cuarto y el anexo de la Resolución de 7 de febrero de 2013. [Ref. BOE-A-2013-1464](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1464)
+
+> Se reemplaza esta Protocolo por el documento que aparece publicado en la página web del Ministerio de Industria, Turismo y Comercio según establece el apartado tercero de la Resolución de 4 de julio de 2008. [Ref. BOE-A-2008-12051](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-12051).
+
+## Protocolo de detalle PD-03 — Predicción de la demanda
+
+1\. Objeto de la Predicción de la Demanda.–La predicción de la demanda es una estimación del consumo de gas en el Sistema Gasista, referido a un período de tiempo que puede ser anual, mensual, semanal, diario e incluso horario.
+
+Los usuarios se basarán en su predicción de la demanda para la elaboración de programaciones, para la solicitud de una reserva de capacidad, así como en la confección de sus nominaciones.
+
+Los operadores utilizarán sus propias predicciones de demanda como instrumento para la realización del plan de operación y en general para la gestión de sus sistemas.
+
+Para poder analizar en todo momento el comportamiento del Sistema, el Gestor Técnico del Sistema realizará, en coordinación con todos los sujetos involucrados, el seguimiento de la demanda del Sistema en su conjunto, con los alcances mencionados.
+
+Cada sujeto del Sistema Gasista será responsable de realizar su propia predicción de la demanda.
+
+2\. Sistemas de predicción de la demanda.
+
+2.1 Predicción para horizonte estratégico a medio/largo plazo:
+
+Se utilizarán instrumentos de predicción obtenidos por extrapolación de modelos a corto plazo, y teniendo en cuenta, cuando proceda, los factores siguientes:
+
+Índices de crecimiento demográfico por zonas de consumo.
+
+Previsiones de precios para el gas y otras formas alternativas de energía.
+
+Desarrollo de infraestructuras aprobadas.
+
+Parámetros políticos.
+
+Parámetros macroeconómicos.
+
+2.2 Predicción para la operación a corto plazo:
+
+2.2.1 Horizonte anual.
+
+Se utilizarán herramientas de predicción basadas en modelos matemáticos de reconocido prestigio teniendo en cuenta históricos de años anteriores que sean significativos y considerando el año programado como climatológicamente normal. Esta predicción estará desagregada a nivel mensual y con desglose diario.
+
+En el caso de que se detecten desviaciones sobre las predicciones realizadas a lo largo del año, esta se volverá a actualizar con la información más reciente.
+
+2.2.2 Horizonte mensual, semanal y diario.
+
+Los operadores deberán disponer de un sistema de predicción soportado en un modelo matemático de reconocido prestigio, que tenga en cuenta los datos históricos de consumo de los últimos años, las temperaturas, el número de clientes y el nivel de equipamiento de éstos. Los consumos inmediatos se deben determinar, a partir de estos datos y de la predicción meteorológica facilitada por organismos competentes.
+
+Se obtendrá como resultado:
+
+Demanda base total.
+
+Demanda base zonal para las distintas áreas geográficas.
+
+Cuando sea necesario se efectuará un proceso automático cada día que actualizará la última predicción diaria y horaria basada en modelos matemáticos de reconocida solvencia.
+
+3\. Datos históricos.–Los consumidores tendrán derecho a obtener de su suministrador sus datos históricos de consumo.
+
+Los datos de consumo históricos son aquellos valores registrados, reales, obtenidos por medida diaria en puntos de suministro del Sistema Gasista. Se utilizarán asimismo datos provenientes de estimación en puntos que no dispongan de telemedida.
+
+## Protocolo de detalle PD-04 — Mecanismos de comunicación
+
+1\. Objeto.
+
+Con el objetivo de disponer de una herramienta de comunicación fluida y en tiempo real entre los distintos sujetos del sistema gasista, que sirva de soporte a la gestión del ciclo completo de gas: Solicitud de capacidad, contratación, programaciones y nominaciones, mediciones, repartos, balances y facturación, el Gestor Técnico del Sistema (GTS) pondrá a disposición de los usuarios el sistema de información SL-ATR (Sistema Logístico de Acceso de Terceros a las Redes).
+
+El GTS mantendrá actualizado y operativo dicho sistema, que será fácilmente accesible, garantizando la veracidad y actualidad de la información suministrada, su seguridad y confidencialidad, así como el respeto a los principios de transparencia, objetividad y no discriminación.
+
+Los distribuidores dispondrán de un sistema informatizado, denominado Sistema de Comunicación Transporte-Distribución (SCTD), que soporte la gestión de sus interrelaciones con comercializadores y con el GTS, respetando los principios recogidos en las Normas de Gestión Técnica del Sistema y en el Real Decreto 1434/2002, de 27 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministros y procedimientos de autorización de instalaciones de gas natural.
+
+El SCTD respetará los principios de transparencia, objetividad, no discriminación y confidencialidad. Será accesible para los comercializadores y para el GTS en base a procedimientos y formatos establecidos que permitan un tratamiento automatizado de la información. El sistema soportará los procesos de contratación, medición, repartos, acceso al registro, programaciones y nominaciones, y utilizará interfases con los sistemas propios de cada distribuidor, con el GTS, con otros distribuidores, y con los comercializadores.
+
+Todos los sujetos del sistema gasista deberán disponer de los medios técnicos necesarios y homologados utilizando en cada momento las tecnologías más adecuadas para realizar las comunicaciones electrónicas y el acceso a los sistemas informáticos anteriores así como para cumplir cualquier otra obligación que requiera su participación en el sistema gasista. Cualquier modificación en los sistemas de comunicación de información se comunicará a los afectados con la suficiente antelación para que estos puedan realizar las oportunas modificaciones en sus sistemas de información.
+
+Para el acceso a los sistemas anteriores será necesaria la implementación de sistemas para la autenticación de los usuarios.
+
+El GTS, tras consultar con transportistas y distribuidores, definirá en cada momento el mecanismo idóneo para esta autenticación, comunicándolo con un plazo de tiempo suficiente que permita a los afectados la adaptación de sus sistemas.
+
+1.1 Especificaciones.
+
+1.1.1 Especificaciones básicas del SL-ATR: El SL-ATR contendrá, entre otros, los datos identificativos de:
+
+Usuarios y perfiles de usuarios.
+
+Infraestructuras de transporte, y puntos de conexión entre redes de transporte y transporte con distribución.
+
+Solicitudes de reserva de capacidad y contratación.
+
+Programaciones, nominaciones y renominaciones.
+
+Mediciones realizadas en los puntos del sistema gasista en los que es necesario instalar unidades de medida.
+
+Información de calidad de gas.
+
+Repartos.
+
+Balances por instalación/comercializador, conforme a lo dispuesto en la NGTS-07 «Balance».
+
+Desbalances.
+
+Interfaces con otros sistemas externos, como por ejemplo facturación.
+
+Se modelizarán en el sistema SL-ATR todas las infraestructuras que se vayan poniendo en operación por los diferentes transportistas.
+
+El SL-ATR también dispondrá de una capacidad potente y versátil de acceso a la información que permita diseñar y emitir informes, manteniendo siempre el grado adecuado de seguridad y confidencialidad.
+
+1.1.2 Especificaciones básicas del SCTD: El SCTD contendrá, entre otros, los datos identificativos de:
+
+Usuarios y perfiles de usuarios.
+
+Solicitudes de reserva de capacidad y contratación.
+
+Programaciones y nominaciones relativas al consumo de gas, de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+Mediciones.
+
+Repartos del gas vehiculado en las redes de distribución, conforme a lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+Interfases con sistemas externos (GTS y comercializadores) e internos de cada distribuidor.
+
+El SCTD empleará un sistema normalizado de codificación de infraestructuras, que será coincidente con el del SL-ATR.
+
+1.2 Intercambio de información.
+
+El usuario:
+
+a) Se dirigirá al SL-ATR para gestionar la siguiente información:
+
+Solicitudes de contratación en clientes conectados a redes de transporte.
+
+Reservas de capacidad en puntos de entrada a la red de transporte, plantas de regasificación y almacenamiento.
+
+Programaciones trimestrales, programaciones semanales, nominaciones y renominaciones a planta de regasificación y en las entradas a la red de transporte, conexiones internacionales, yacimientos nacionales o almacenamientos subterráneos.
+
+Consultas de información y reclamaciones relativas a solicitudes de acceso, contratación, programaciones, nominaciones, repartos y balances.
+
+Consulta de los contratos vigentes del usuario en plantas de regasificación, entradas a las redes de transporte, conexiones internacionales, yacimientos nacionales o almacenamientos subterráneos.
+
+b) Se dirigirá al SCTD para gestionar la siguiente información:
+
+Solicitudes de contratación en clientes conectados a redes de distribución.
+
+Solicitudes de acceso al registro de puntos de suministro.
+
+Programaciones y nominaciones relativas al consumo de gas, de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+Consulta de información relativa a programaciones, nominaciones y solicitudes de contratación presentadas.
+
+Consulta accesible de clientes telemedidos.
+
+El distribuidor:
+
+a) Recibirá a través del SCTD todas las solicitudes, consultas de información, programaciones y nominaciones de los comercializadores y clientes cualificados dándoles el trámite oportuno.
+
+b) Enviará desde el SCTD al SL-ATR la siguiente información:
+
+Programaciones y nominaciones relativas al consumo de gas, de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+Repartos mensuales y regularizaciones de reparto por usuario de sus redes, de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+Repartos diarios por usuario de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+Revisión de repartos de usuario de sus redes de acuerdo con lo dispuesto en las Normas de Gestión del Sistema.
+
+Peticiones de validación a solicitudes de contratación de usuarios en redes de distribución, si así lo establece la legislación vigente.
+
+Consumo anual y número de clientes agregados por punto de entrega transporte-distribución.
+
+Mediciones en puntos de entrega entre distribuidores.
+
+c) Recibirá a través del SCTD todas las comunicaciones de solicitudes del SL-ATR y les dará el trámite oportuno.
+
+El transportista:
+
+a) Recibirá a través del SL-ATR toda la información enviada desde el SCTD por los distribuidores.
+
+b) Recibirá a través del SL-ATR todas las solicitudes, reservas de capacidad, consultas de información y reclamaciones, programaciones y nominaciones de los usuarios que correspondan, dándoles el trámite oportuno.
+
+c) Enviará desde el SL-ATR a los distribuidores y a través del SCTD:
+
+Confirmación/Denegación de solicitudes de contratación de usuarios en redes de distribución si así lo establece la legislación vigente.
+
+Información de medición de puntos de entrega a distribuidores.
+
+Confirmación/Denegación a las programaciones y nominaciones, de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+d) Enviará al SL-ATR:
+
+Repartos mensuales y regularizaciones del reparto por usuario de buques, cisternas y líneas directas.
+
+Repartos diarios por usuario de buques, cisternas y líneas directas.
+
+Revisión de repartos de usuario de acuerdo con lo dispuesto en las Normas de Gestión del Sistema.
+
+Mediciones de autoconsumos.
+
+e) El GTS publicará en el SL-ATR el balance diario, información detallada de repartos definitivos en sus redes para consulta de todos los agentes implicados y desbalances de acuerdo con lo dispuesto en las Normas de Gestión Técnica del Sistema.
+
+El SL-ATR y el SCTD presentarán la información con el nivel de agregación establecido para cada perfil de acceso.
+
+2\. Publicación de información.
+
+2.1 Objeto: Para facilitar y simplificar el cumplimiento de los requisitos de transparencia, el presente Protocolo establece todas las obligaciones de publicación de información por parte de los agentes del sistema gasista que actualmente se encuentran dispersas en diversas y variadas disposiciones.
+
+2.2 Legislación aplicable: Los requisitos de transparencia aplicables a los agentes del sistema están establecidos en la regulación, tanto nacional como europea, donde se recogen una serie de requerimientos de divulgación de información.
+
+2.3 Contenido: Todos los agentes del sistema pondrán a disposición del sector (en el SL-ATR y en el SCTD) y de agentes externos (mediante publicación en sus páginas web) toda aquella información requerida en la normativa vigente.
+
+El Gestor Técnico del Sistema publicará en su página web, previa aprobación por la CNE, todas las obligaciones de publicación de información incluidas en la regulación en vigor, incluyendo:
+
+El contenido de la información a publicar.
+
+Nivel de agregación.
+
+El responsable de la publicación.
+
+Periodicidad (diaria, semanal, mensual…).
+
+El medio (SL-ATR, SCTD, página web pública).
+
+La legislación que establece la obligación.
+
+2.4 Mecanismo de actualización: En el plazo máximo de diez días desde la publicación en el correspondiente boletín oficial de la norma que implique las modificaciones antes indicadas, el Gestor Técnico del Sistema remitirá a la CNE para su aprobación, la propuesta de actualización que proceda. Una vez aprobada la propuesta por el organismo regulador, la actualización se llevará a cabo por el Gestor Técnico del Sistema en plazo de cinco días, en los términos que haya establecido el organismo regulador.
+
+> Se reemplaza por el texto del anexo según establece el apartado segundo de la Resolución de 30 de abril de 2013. [Ref. BOE-A-2013-5128](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5128)
+
+## Protocolo de detalle PD-05 — Procedimiento de determinación de energía descargada por buques metaneros
+
+> Téngase en cuenta que el Protocolo PD-05 fue reemplazado por el que aparece publicado en la [página web](https://energia.gob.es/gas/NGTS/Documents/90_PD05.pdf) del Ministerio de Industria, Turismo y Comercio, según establece el apartado segundo de la Resolución de 17 de septiembre de 2007. [Ref. BOE-A-2007-16727](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16727)
+
+> Se añade un nuevo apartado 6.6 por el apartado primero de la Resolución de 22 de marzo de 2011. [Ref. BOE-A-2011-5835](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5835)
+
+> Se modifica el apartado 6.6.2. por el apartado segundo de la Resolución de 4 de mayo de 2015. [Ref. BOE-A-2015-5593](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5593)
+
+> Se modifica el apartado 5.3 por el apartado segundo de la Resolución de 15 de febrero de 2019. [Ref. BOE-A-2019-3691](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3691)
+
+> Se modifica el apartado 5.3 por el apartado segundo de la Resolución de 15 de febrero de 2019. [Ref. BOE-A-2019-3691](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3691)
+
+> Se modifica el apartado 6.6.2. por el apartado segundo de la Resolución de 4 de mayo de 2015. [Ref. BOE-A-2015-5593](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5593)
+
+> Se añade un nuevo apartado 6.6 por el apartado primero de la Resolución de 22 de marzo de 2011. [Ref. BOE-A-2011-5835](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-5835)
+
+> Se reemplaza este Protocolo por el texto que se encuentra en el documento que aparece publicado en la página web del Ministerio de Industria, Turismo y Comercio según establece el apartado segundo de la Resolución de 17 de septiembre de 2007. [Ref. BOE-A-2007-16727](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16727).
+
+## Protocolo de detalle PD-06 — Regla operativa de las actividades de descarga de buques metaneros
+
+1\. Objeto.–El presente documento pretende definir un procedimiento de coordinación de las actividades logísticas que permita gestionar las descargas de GNL.
+
+2\. Inspección de buques metaneros y estudios de compatibilidad.
+
+2.1 Inspección de buques metaneros: Los buques a utilizar para las descargas de GNL en las instalaciones de regasificación deberán haber superado satisfactoriamente los procedimientos de inspección ("vetting") exigidos por una compañía de reconocido prestigio a nivel internacional, especializada en la evaluación de buques de transporte de GNL.
+
+Las inspecciones serán efectuadas por inspectores que posean la acreditación OCIMF ("Oil Companies International Marine Forum") para buques de transporte de GNL, siguiendo las pautas y estando disponibles a través del programa SIRE ("Ship Inspection Report Programme").
+
+La validez de las inspecciones será: para buques menores de 5 años, 18 meses, para buques con antigüedad comprendida entre 5 y 15 años, 12 meses y para buques de más de 15 años, 6 meses.
+
+Si el buque ha cumplido 15 años, deberá haber pasado una inspección de Clase en dique seco durante los últimos 36 meses.
+
+Asimismo, los titulares de las plantas de regasificación podrán exigir a los contratantes de los buques con 20 años o más desde su entrada en servicio la presentación de certificados adicionales de una sociedad de clasificación acerca del estado estructural de los mismos, tales como el CAP ("Condition Assessment Programme") ni-vel 1 ó 2, o similares que acrediten inspecciones específicas para buques de esta antigüedad, debiendo cada Terminal publicar el detalle de sus requerimientos. La modificación de los requerimientos deberá ser anunciada con suficiente antelación.
+
+En el caso de que se pretendan descargar buques metaneros que no hayan superado hasta la fecha ningún procedimiento internacionalmente reconocido de inspección, o bien, que hubieran sufrido alguna modificación importante posterior a la superación del mencionado procedimiento, la compañía comercializadora, transportista, o el consumidor cualificado contratante del buque, deberá facilitar la totalidad de la información solicitada tanto por el titular de la instalación de descarga como por la compañía de inspección que vaya a realizar la evaluación del buque antes de que se proceda a su descarga.
+
+En cualquier caso, la autorización definitiva para que un buque metanero que haya pasado la inspección, amarre y descargue gas natural licuado en una planta de recepción, almacenamiento y regasificación de GNL será otorgada por el titular de la citada planta. La compañía comercializadora, o consumidor cualificado deberá iniciar los trámites con la antelación suficiente, de forma que estén finalizados como paso previo a la realización de la programación vinculante de la descarga del buque.
+
+2.2 Estudios de compatibilidad: En el caso de utilización de buques metaneros que no hayan previamente descargado GNL en la correspondiente instalación, con el fin de poder analizar la compatibilidad entre los buques que transporten el GNL para las diversas comercializadoras y las instalaciones de las terminales, dichas comercializadoras deberán suministrar todos los datos referentes a los buques que le sean solicitados por parte del titular de la instalación.
+
+En función de estos datos se analizará la compatibilidad en lo referente, entre otros, a brazos de descarga, puntos de contacto con las defensas, número de puntos de amarre, posición del «manifold» y pasarela de acceso de tierra al buque, comprometiéndose el titular de la instalación a emitir el correspondiente informe dentro del plazo de 7 días hábiles desde la presentación por parte de la comercializadora de la información pertinente.
+
+3\. Atraque seguro e instalaciones de descarga.–El titular de la instalación de descarga deberá cumplir con las regulaciones internacionales estándar aceptadas en la industria del GNL; entre otros los siguientes:
+
+Iluminación suficiente, hasta los límites permitidos por las autoridades portuarias, que permita realizar las maniobras de acceso o abandono del muelle, de acuerdo con la reglamentación específica de cada Puerto;
+
+Brazos de descarga, tuberías y otros equipos necesarios para permitir la descarga de GNL;
+
+Instalaciones para el retorno de vapor adecuados para mantener una presión operativa en los tanques de carga del buque metanero, siempre dentro de los rangos operativos especificados para el buque;
+
+Acceso/s seguro/s para el personal del buque y el que acceda al mismo;
+
+Un sistema de comunicaciones que cumpla con las regulaciones aplicables y permita estar en comunicación con el Buque Metanero en todo momento;
+
+Instalaciones que faciliten el suministro de nitrógeno a los buques metaneros.
+
+4\. Autorizaciones y Servicios Portuarios.–Será responsabilidad del Buque Metanero o del agente que designe, obtener de la Autoridad Portuaria los correspondientes permisos de descarga, siendo además de su responsabilidad la contratación de los servicios pertinentes para el atraque, entre otros: prácticos, remolcadores y amarradores.
+
+5\. Programación.
+
+La programación de descarga de buques se realizará de acuerdo a lo establecido en las normas de gestión técnica del sistema, apartados 3.6.2.1 y 3.6.2.2 haciendo referencia a la programación anual y mensual, siendo la anual de carácter informativo y la mensual de carácter vinculante, de acuerdo con lo establecido en el apartado 3.6.2.2 de la NGTS-02 «Programaciones».
+
+La programación mensual vinculante, incluirá entre otros datos, la fecha de descarga programada, que establece el día de comienzo del período de tiempo asignado para la llegada del buque. La duración de este intervalo de tiempo, o ventana de descarga, y su hora de comienzo, dependen de la instalación de descarga. Se establecen conforme a lo siguiente:
+
+a) Para Barcelona, Cartagena, Bilbao y Sagunto: 36 horas, desde las 00:00 horas de la fecha de descarga programada, para cualquier tipo de buque.
+
+b) Para Huelva y Mugardos: 36 horas, comenzando la ventana dos horas antes del momento en que se produzca la primera marea alta dentro de la fecha de descarga programada, para cualquier tipo de buque.
+
+6\. Actividades logísticas de GNL.
+
+6.1 Nominación de buques: Al menos 15 días antes de la descarga, y siempre antes de la carga, las diversas comercializadoras o consumidores que se autoabastezcan, conviniendo que se cumplan los criterios establecidos en el punto 6.2, nominará por fax, telex o correo electrónico buques compatibles con el Puerto y con los requerimientos técnicos y legales de las instalaciones de descarga, que deberán cumplir con las regulaciones internacionales estándar aceptadas en la industria del Gas Natural Licuado (en adelante GNL).
+
+Dicha nominación deberá incluir al menos la siguiente información:
+
+Nombre del buque.
+
+ETA, de acuerdo con la Fecha de Descarga Programada establecida.
+
+Cantidad prevista a descargar, igualmente de acuerdo con la programación.
+
+Origen del gas.
+
+El titular de la instalación responderá aceptando o rechazando la nominación dentro de las 72 horas laborables siguientes a la recepción de la misma; en caso de rechazo éste deberá ser razonado.
+
+En cualquier caso, la falta de respuesta por parte del titular dentro del periodo que corresponda, se entenderá como aceptación implícita de la nominación.
+
+6.2 Notificaciones relativas a la carga: Las comercializadoras y consumidores que se autoabastezcan, o quien ellos designen, notificarán al titular de la instalación una vez finalizada la carga del GNL, el origen, la cantidad y calidad del cargamento, por medio de los correspondientes certificados emitidos por un inspector independiente.
+
+6.3 Notificaciones del Tiempo Estimado de Llegada: El capitán del buque metanero o su agente, notificará al titular de la planta el Día y Hora estimada de llegada del buque a la boya de recalada, o «Estimated Time Arrival» (ETA), teniendo en cuenta la duración del viaje en las siguientes ocasiones:
+
+El primer aviso deberá enviarse a la salida del puerto de carga.
+
+El segundo aviso deberá enviarse no más tarde de siete (7) días antes del ETA. Si este ETA es modificado en más de doce (12) horas, el capitán del buque metanero o su agente deberá notificar inmediatamente el ETA corregido al titular de la planta.
+
+El tercer aviso deberá ser enviado no después de setenta y dos (72) horas antes del ETA. Si este ETA se modifica en más de seis (6) horas, el capitán del buque metanero o su agente deberá notificar inmediatamente el ETA corregido al titular de la planta.
+
+El cuarto aviso deberá enviarse no después de cuarenta y ocho (48) horas antes del ETA. Si este ETA se modifica en más de seis (6) horas, el capitán del buque metanero o su agente deberá notificar inmediatamente el ETA corregido al titular de la planta.
+
+El quinto aviso deberá ser enviado no más tarde de veinticuatro (24) horas antes del ETA. Si este ETA se modifica en más de una (1) hora, el capitán del buque metanero o su agente deberá notificar inmediatamente el ETA corregido al titular de la planta.
+
+El Aviso de Alistamiento («Notice of Readiness» – NOR) deberá ser notificada por el capitán del buque metanero al titular de la planta a la llegada a la boya de recalada o a la zona de anclaje a las afueras del puerto de descarga donde el práctico del puerto de descarga sube a bordo del buque metanero. Una vez se hayan finalizado las formalidades necesarias con las autoridades competentes y esté del todo preparado para proceder con el atraque y comenzar la descarga, el buque metanero y el titular procederán con toda diligencia al atraque seguro en el muelle o pantalán de la instalación de descarga.
+
+6.4 Prioridad de atraque de buques.
+
+En caso de que el buque metanero llegue dentro de su ventana de descarga, dicho buque tendrá prioridad de atraque en las instalaciones frente a otros que estuviesen llegando en ese momento fuera de su ventana de descarga, y frente a aquellos que habiendo igualmente llegado fuera de su Fecha de Descarga Programada estuviesen esperando para el atraque, excepto en el caso de que otro buque, habiendo llegado en su ventana de descarga anterior, esté esperando debido a mal tiempo o por Fuerza Mayor.
+
+En caso de que el buque metanero no llegue en su Ventana de Descarga, el titular de la instalación deberá disponer su atraque para la descarga tan pronto como sea posible teniendo en cuenta el régimen habitual de las instalaciones y los programas de descarga de otros buques, bajo el principio de «first come first served» con respecto a otros buques que hubiesen llegado también fuera de sus respectivas Ventanas de Descarga. Esta situación podría verse modificada si el Gestor del Sistema estimase necesario, en aras de garantizar la seguridad del suministro, modificar el orden de las descargas para hacer frente a desbalances.
+
+En el caso de que un buque metanero no llegue en su ventana de descarga y transporte gas de un comercializador o consumidor que se autoabastezcan que se encuentre en situación de desbalance individual, éste tendrá preferencia de descarga frente al resto de los buques que hubieran llegado fuera de su ventana de descarga.
+
+6.5 Operaciones de atraque: Después de que el NOR haya sido notificado de acuerdo con lo establecido en el Apartado 6.3, el capitán del buque deberá proceder a un atraque seguro y rápido del Buque Metanero en el muelle y el titular de la instalación deberá cooperar con que el Buque sea así atracado.
+
+6.6 Operaciones de descarga: El capitán del Buque Metanero y el titular de la instalación procurarán que comience la descarga tan pronto como sea posible después de las operaciones de atraque y deberán cooperar entre ellos para completar o procurar que se complete la descarga de forma segura, efectiva y rápida.
+
+Para realizar una descarga segura del GNL a los ritmos, presiones y temperaturas que sean requeridos por el Buque Metanero y por las Instalaciones de descarga, el GNL deberá ser bombeado desde el Buque Metanero, siguiendo las indicaciones del Terminal, a las instalaciones receptoras, de acuerdo con los tiempos de plancha concertados, y el titular de la instalación retornará gas natural al Buque en las cantidades que sean necesarias.
+
+El capitán del Buque Metanero desatracará de forma segura y rápida después de completada la operación de descarga y el titular de la planta deberá cooperar en que el Buque abandone el muelle segura y rápidamente.
+
+Si ocurre algún problema o si se prevé que pueda ocurrir, de forma que ocasione un retraso del Buque Metanero en el atraque, descarga o desatraque, tal que modifique los tiempos programados para estas operaciones, la Instalación Receptora y el Buque Metanero deberán discutir el problema de buena fe y esforzarse para minimizar o evitar dicho retraso, y al mismo tiempo cooperar entre ellos para tomar alguna medida que minimice o evite cualquier retraso similar en el futuro.
+
+6.7 Tiempos de plancha.
+
+6.7.1 Tiempo de plancha permitido. Es el tiempo máximo asignado al titular de la instalación para la conclusión de la descarga de cada cargamento sin incurrir en demoras. Este tiempo de plancha se detalla a continuación:
+
+a) Buques de capacidad igual o inferior a 200.000 m<sup>3</sup> de GNL: Treinta y seis (36) horas consecutivas, incluidos sábados, domingos y festivos.
+
+b) Buques de capacidad superior a 200.000 m<sup>3</sup> de GNL: Cuarenta y ocho (48) horas consecutivas, incluidos sábados, domingos y festivos.
+
+6.7.2 Comienzo del tiempo de plancha.
+
+6.7.2.1 Cartagena, Barcelona, Bilbao y Sagunto. Si el buque metanero llega a la boya de recalada del puerto de descarga y notifica el Aviso de Alistamiento (Notice of Readiness-NOR*,*en inglés) en su ventana de descarga, el tiempo de plancha empezará seis horas después de ser notificado el NOR, o en el momento en que el barco esté atracado y listo para la descarga, lo que ocurra antes.
+
+Si el buque metanero llega a la boya de recalada del puerto de descarga y notifica el NOR antes de su ventana de descarga, el tiempo de plancha comenzará cuando tenga lugar el primero de los siguientes eventos:
+
+a) En el momento en que el buque metanero esté atracado y listo para la descarga.
+
+b) A las 06:00 horas de la fecha de descarga programada.
+
+Si el buque metanero llega a la boya de recalada del puerto de descarga después de su ventana de descarga o, llegando antes no notifica a tiempo el NOR; el tiempo de plancha empezará en el momento en que el buque metanero esté atracado y listo para iniciar la descarga.
+
+6.7.2.2 Huelva. Si el buque metanero llega a la boya de recalada del puerto de descarga y notifica el NOR en su fecha de descarga programada, o con antelación a la misma, lo que ocurra antes, el tiempo de plancha empezará cuando tenga lugar el primero de los siguientes eventos:
+
+a) Cuatro horas después del momento en que suceda la primera marea alta dentro de su ventana de descarga y que tenga lugar al menos dos horas después de notificar el NOR y que permita al buque metanero atracar con seguridad y descargar de acuerdo con las regulaciones portuarias a tal efecto.
+
+b) En el momento en que el barco esté atracado y listo para la descarga.
+
+Si el buque metanero llega a la boya de recalada del puerto de descarga después de su ventana de descarga o, llegando antes no notifica a tiempo el NOR; el tiempo de plancha empezará en el momento en que el buque metanero esté atracado y listo para iniciar la descarga.
+
+6.7.2.3 Mugardos. Si el buque metanero llega a la boya de recalada del puerto de descarga y notifica el NOR en su fecha de descarga programada, o con antelación a la misma, lo que ocurra antes, el tiempo de plancha empezará cuando tenga lugar el primero de los siguientes eventos:
+
+a) Seis horas después del momento en que suceda la primera marea alta dentro de su ventana de descarga y que tenga lugar al menos una hora después de notificar el NOR y que permita al buque metanero atracar con seguridad y descargar de acuerdo con las regulaciones portuarias a tal efecto.
+
+b) En el momento en que el barco esté atracado y listo para la descarga.
+
+Si el buque metanero llega a la boya de recalada del puerto de descarga después de su ventana de descarga o, llegando antes no notifica a tiempo el NOR; el tiempo de plancha empezará en el momento en que el buque metanero esté atracado y listo para iniciar la descarga.
+
+6.7.3 Conclusión del tiempo de plancha. El tiempo de plancha dejará de contar cuando se desconecten los brazos de descarga.
+
+Se permite extender el tiempo de plancha permitido por cualquier retraso imputable o período de tiempo requerido para lo siguiente:
+
+a) Acción u omisión, del buque metanero o su capitán;
+
+b) Retraso debido a operaciones especiales del barco tales como «heel out», aprovisionamiento, «bunkering», etc.;
+
+c) Cumplimiento del buque metanero de las regulaciones del puerto de descarga;
+
+d) Descarga lenta por alta temperatura del GNL;
+
+e) Por retraso debido a condiciones meteorológicas adversas; y
+
+f) Cualquier otra razón por fuerza mayor.
+
+6.8 Medición de descargas de GNL: La cantidad y calidad del GNL descargado se medirá por el titular de la instalación de descarga, con los equipos de medición de acuerdo con los procedimientos que en cada momento sean de aplicación y por lo que se establezca en los Protocolos de Detalle, de acuerdo con la regla operativa de medición de descargas en energía.
+
+El conjunto de comercializadores y consumidores que se autoabastezcan, que eventualmente compartiesen un cargamento, podrán designar un Inspector Independiente de acuerdo con su suministrador para supervisar y verificar las mediciones, muestreo y análisis del GNL descargado. El coste de esta inspección será asumido por las compañías que compartiesen dicho cargamento.
+
+6.9 Demoras: Si la descarga del cargamento no ha sido completada por causas ajenas al buque metanero o a su capitán, dentro del Tiempo Permitido de Plancha, el titular de la planta deberá pagar demoras según la siguiente tabla de precios por día:
+
+a) Para buques de hasta 60.000 m<sup>3</sup> de capacidad bruta: A1 US$/día.
+
+b) Para buques con capacidad bruta entre 60.000 y 110.000 m<sup>3</sup>: A2 US$/día.
+
+c) Para buques con capacidad superior a 110.000 m<sup>3</sup>: A3 US$/día.
+
+Si, como resultado de cualquier retraso atribuible a la acción u omisión del buque metanero o su capitán, la descarga del cargamento en el puerto de descarga utiliza un tiempo de plancha superior al Tiempo Permitido de Plancha, y a consecuencia de ello, otro buque no puede acceder a las Instalaciones a su llegada al puerto de descarga dentro de su Fecha Descarga Programada, se pagará al titular de las instalaciones, una vez convenientemente justificada la anterior circunstancia, demoras según la siguiente tabla de precios por día:
+
+a) Para buques de hasta 60.000 m<sup>3</sup> de capacidad bruta: A1 US$/día.
+
+b) Para buques con capacidad bruta entre 60.000 y 110.000 m<sup>3</sup>: A2 US$/día.
+
+c) Para buques con capacidad superior a 110.000 m<sup>3</sup>: A3 US$/día.
+
+En cualquiera de los casos anteriores se realizará una prorrata para periodos inferiores a un día.
+
+Los precios anteriores serán actualizados en cada año de aplicación, en función del incremento medio anual de precios recogidos en la OECD «Europe Consumer Prices Index», publicado por la Organización para la Cooperación Económica y el Desarrollo, en su boletín mensual.
+
+Tanto en caso como en otro, las demoras serán pagadas a los veinte (20) días de recibir la factura; en caso de falta de pago dentro del plazo establecido, la parte deudora vendrá obligada a pagar a la parte acreedora un interés de demora equivalente al «USD LIBOR» a tres meses incrementado en tres puntos, calculado desde el día siguiente al vencimiento del pago.
+
+Toda reclamación por demoras se considerará sin efecto si se presenta con documentación fehaciente pasados 90 días naturales después de finalizada la descarga.
+
+Demoras:
+
+A continuación se adjuntan los valores monetarios a los que se hace referencia como A1, A2, A3 en el apartado III.6.9 Demoras, del Procedimiento Operativo de Actividades Logísticas de Descargas de GNL.
+
+A1) Para buques de hasta 60.000 m<sup>3</sup> de capacidad bruta: 26.000 US$/día.
+
+A2) Para buques con capacidad bruta entre 60.000 y 110.000 m<sup>3</sup>: 45.000 US$/día.
+
+A3) Para buques con capacidad superior a 110.000 m<sup>3</sup>: 65.000 US$/día.
+
+> Se modifican los apartados 5 y 6.7 en los términos que se indican en el Anexo I, según establece el apartado primero de la Resolución de 4 de mayo de 2016. [Ref. BOE-A-2016-4445](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-4445)
+
+> Se modifica el apartado 2.1 por el apartado tercero de la Resolución de 17 de septiembre de 2007. [Ref. BOE-A-2007-16727](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-16727).

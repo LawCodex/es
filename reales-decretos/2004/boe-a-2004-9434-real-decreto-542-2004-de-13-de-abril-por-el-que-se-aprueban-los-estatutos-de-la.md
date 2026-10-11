@@ -1,0 +1,405 @@
+---
+title: "Real Decreto 542/2004, de 13 de abril, por el que se aprueban los Estatutos de la Real Academia de Bellas Artes de San Fernando"
+identifier: "BOE-A-2004-9434"
+eli: "https://www.boe.es/eli/es/rd/2004/04/13/542"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Educación, Cultura y Deporte"
+date: 2004-04-13
+published: 2004-05-21
+in_force_from: 2004-05-22
+last_amended: 2022-10-12
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 123"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-9434"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 542/2004, de 13 de abril, por el que se aprueban los Estatutos de la Real Academia de Bellas Artes de San Fernando
+
+La Real Academia de Bellas Artes de San Fernando, desde su creación en 1752, ha venido rigiéndose por diversas normas estatutarias. Sus vigentes estatutos tienen fecha de 3 de diciembre de 1873, aunque han experimentado varias reformas parciales, las últimas de las cuales han sido llevadas a cabo por los Reales Decretos 1737/1982, de 9 de julio, 1101/1987, de 10 de julio, y 2277/1996, de 25 de octubre. La configuración del Estado de las Autonomías y la incorporación a las tareas de la Academia de las Artes de la Imagen hacen aconsejable reformar los Estatutos de la Real Academia de Bellas Artes de San Fernando, sobre la base de la propuesta presentada por la citada corporación y el informe favorable del Instituto de España.
+
+En su virtud, a propuesta de la Ministra de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 13 de abril de 2004,
+
+DISPONGO:
+
+### Artículo único. Aprobación de los Estatutos de la Real Academia de Bellas Artes de San Fernando.
+
+Se aprueban los Estatutos de la Real Academia de Bellas Artes de San Fernando, que se insertan a continuación.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados los Estatutos de la Real Academia de Bellas Artes de San Fernando aprobados por el Decreto de 12 de diciembre de 1873, y las modificaciones aprobadas por el Decreto de 3 de diciembre de 1915, el Decreto de 14 de mayo de 1954, el Decreto de 21 de mayo de 1954, el Decreto de 4 de febrero de 1955, el Decreto de 14 de marzo de 1963, el Decreto de 30 de mayo de 1963, el Real Decreto 1737/1982, de 9 de julio, el Real Decreto 1101/1987, de 10 de julio, y el Real Decreto 2277/1996, de 25 de octubre.
+
+### Disposición final única. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 13 de abril de 2004.
+
+JUAN CARLOS R.
+
+La Ministra de Educación, Cultura y Deporte,
+
+PILAR DEL CASTILLO VERA
+
+## ESTATUTOS DE LA REAL ACADEMIA DE BELLAS ARTES DE SAN FERNANDO
+
+## CAPÍTULO I — Objeto de la Academia
+
+### Artículo 1. Objeto.
+
+El objeto de la Real Academia de Bellas Artes de San Fernando es fomentar la creatividad artística, así como el estudio, difusión y protección de las artes y del patrimonio cultural, muy particularmente de la pintura, la escultura, la arquitectura, la música y las nuevas artes de la imagen.
+
+### Artículo 2. Funciones.
+
+La Academia cumplirá el objeto de su instituto:
+
+a) Fomentando y organizando exposiciones, conciertos, conferencias y cursos destinados a artistas, estudiantes y público en general.
+
+b) Convocando concursos y premios, así como enviando a sus representantes a los patronatos, órganos de gobierno de los museos públicos e instituciones culturales, jurados de concursos y comisiones de alcance artístico, cuando se solicite a la Academia o lo dispongan las normas reguladoras de las entidades correspondientes.
+
+c) Estudiando y debatiendo las cuestiones relacionadas con las artes en general.
+
+d) Recogiendo, conservando, publicando y exhibiendo adecuadamente cuadros, esculturas, dibujos, estampas, diseños, planos y maquetas de arquitectura, manuscritos, obras e instrumentos musicales, fotografías, películas, libros, discos y objetos de arte.
+
+e) Velando por la conservación y enriquecimiento del patrimonio histórico, natural y cultural de España y proponiendo a las autoridades públicas competentes (entidades autonómicas y locales) cuanto juzgue conveniente para su progreso, conocimiento y protección.
+
+### Artículo 3. Consultas y dictámenes.
+
+La Academia atenderá las consultas que le hagan la Administración del Estado, las Administraciones de las comunidades autónomas y las entidades locales, y emitirá los dictámenes, juicios y propuestas procedentes, en las materias de su competencia.
+
+### Artículo 4. Normas del patrimonio histórico español.
+
+La Academia cuidará de la correcta aplicación y respeto de las disposiciones reguladoras del patrimonio histórico español, e instará su adecuado cumplimiento a las autoridades competentes. Estas normas serán aplicables a las relaciones de la corporación con los organismos que deban atender y tutelar la conservación de los bienes muebles e inmuebles, integrantes de aquél.
+
+### Artículo 5. Formación de su reglamento.
+
+La Academia formará su reglamento con sujeción a lo prescrito en estos estatutos, estableciendo el orden con que ha de proceder en sus trabajos y el que ha de seguir en las discusiones y en la organización de las secciones respectivas.
+
+## CAPÍTULO II — Organización de la Academia
+
+### Artículo 6. Miembros de la Academia.
+
+1\. La Academia consta de:
+
+a) 56 Académicos de Número, de nacionalidad española, que podrán ser residentes en todo el territorio nacional.
+
+b) Académicos Honorarios, que podrán ser españoles o extranjeros. Sus medallas serán designadas por letras mayúsculas, de la A a la P, ambas inclusive.
+
+c) Académicos Correspondientes, españoles y extranjeros.
+
+2\. Cuando un Académico de Número no haya asistido a un mínimo de seis sesiones anuales durante tres años consecutivos, la Academia, conservándole todas sus prerrogativas, elegirá un Académico con iguales deberes y derechos que los demás Académicos de Número. El total de Académicos nombrados en estas condiciones no podrá exceder de 12, sin que pueda procederse a la elección de más de tres por año. Estas medallas irán numeradas del 57 al 68. El Académico así elegido pasará automáticamente a ocupar la primera vacante que se produzca en las medallas 1 a 56, en su respectiva sección y clase, quedando libre la medalla que hasta entonces viniera poseyendo.
+
+3\. Cuando un Académico Correspondiente español lleve dos años consecutivos sin contacto alguno, personal o por escrito, con la Academia, o incumpla sus obligaciones con respecto a la corporación, ésta podrá tomar el acuerdo de darle de baja en sus registros.
+
+### Artículo 7. Secciones de la Academia.
+
+La Academia se dividirá en cinco secciones: Pintura, Escultura, Arquitectura, Música y Nuevas Artes de la Imagen.
+
+Corresponden a la primera, tercera y cuarta 12 Académicos de Número, y 10 a la segunda y quinta.
+
+### Artículo 8. Académicos de Número por sección.
+
+Sin perjuicio de lo previsto en los artículos 6 y 7, en cada sección salvo en la de Nuevas Artes de la Imagen, en que se limitarán a tres, habrá cuatro plazas de Académicos de Número ocupadas por personas que hayan acreditado su competencia en las artes, publicando obras sobre la materia o distinguiéndose en la enseñanza o cultivo de materias de estética o arte, en la colección de obras artísticas o por su mecenazgo, o en la protección, conservación y enriquecimiento del patrimonio histórico español.
+
+### Artículo 9. Nombramiento de Académico Honorario.
+
+El nombramiento de Académico Honorario deberá recaer en persona de gran reputación artística o intelectual por su obra, escritos o actuaciones.
+
+### Artículo 10. Concesión del título de Académico Correspondiente.
+
+La Academia podrá conceder el título de Académico Correspondiente a las personas que juzgue acreedoras de esa distinción por el mérito de sus trabajos en los campos del arte, la estética o el patrimonio histórico y cultural, o en recompensa por servicios prestados en el descubrimiento, estudio o conservación de obras de arte o de documentos interesantes sobre ellas.
+
+### Artículo 11. Procedimiento de cobertura de vacantes.
+
+Cuando ocurra alguna vacante de Académico de Número se pondrá en conocimiento del Ministerio de Educación, Cultura y Deporte, para su publicación en el «Boletín Oficial del Estado».
+
+A partir de la fecha del anuncio de la vacante en el «Boletín Oficial del Estado», se abrirá un plazo de un mes para la admisión de propuestas.
+
+Nadie podrá presentar personalmente su candidatura al puesto de Académico. Solamente se admitirán las que sean propuestas firmadas por tres Académicos. No se tramitarán las que lleven más de tres firmas. Las propuestas deberán ir acompañadas de una relación de méritos del candidato.
+
+La sesión en que deba procederse a la votación del nuevo Académico quedará válidamente constituida cuando se encuentren presentes la mitad más uno de los Académicos de Número con derecho a voto.
+
+Para ser elegido Académico en primera votación, el candidato habrá de obtener el voto favorable de las dos terceras partes de los Académicos Numerarios con derecho a voto.
+
+Si en la primera votación ningún candidato resultara elegido, se procederá en la misma sesión a nueva votación y será elegido el que obtenga el voto favorable de los dos tercios de los Académicos Numerarios con derecho a voto que hubieran participado en la primera votación.
+
+Si tampoco en la segunda votación ningún candidato resultara elegido, se procederá en la misma sesión a una tercera votación, en la que bastará que obtenga algún candidato el voto favorable de la mitad más uno de los Académicos Numerarios con derecho a voto que hubieran participado en la primera votación, y si ninguno lo obtuviese, se anunciará de nuevo la vacante, de acuerdo con lo dispuesto en el primer párrafo de este artículo. En esta última votación, de ser impar el total de votos expresados, se entenderá mitad más uno a la mitad aritmética más 0,5.
+
+En todas estas votaciones se admitirá el voto por carta de los Académicos Numerarios con derecho a voto que no puedan asistir a la sesión, computándose a efectos de las mayorías de voto establecidas en este artículo. En cualquier caso, los votos con todos los candidatos sin tachar, o todos tachados, se entenderán como votos en blanco; igual consideración tendrán los votos nulos.
+
+### Artículo 12. Plazo de toma de posesión.
+
+El elegido para Académico de Número deberá tomar posesión en el término de dos años. En los casos de impedimento legítimo, a juicio de la Academia, se prorrogará por un año el citado plazo. Cumplido este término sin que se haya verificado la toma de posesión, se anunciará la vacante de su plaza en la forma ordinaria, reservando al electo el derecho de presentar posteriormente su discurso de ingreso, en cuyo caso ocupará, sin votación, la primera vacante que ocurra en su sección y de su clase, sin dar lugar a la convocatoria que prescribe el artículo 11.
+
+### Artículo 13. Obligaciones de los Académicos de Número.
+
+Será obligación de los Académicos de Número contribuir con sus trabajos artísticos y literarios a los fines de la Academia, asistir a sus reuniones y votar en todos los asuntos que lo requieran. Los Honorarios y Correspondientes deberán concurrir al mismo objeto con trabajos y noticias de interés para el arte.
+
+### Artículo 14. Gratificaciones por asistencia.
+
+Los Académicos de Número percibirán de los fondos propios de la corporación las asistencias que se determinen.
+
+### Artículo 15. Retribución por participación en obras de la Academia.
+
+Los Académicos que tomen parte en las obras que la Academia promueva recibirán una retribución proporcionada a la importancia y extensión de sus trabajos, que serán propiedad de la Academia.
+
+### Artículo 16. Responsabilidad de los autores de las obras.
+
+Los autores de las obras que la Academia publique serán responsables de su doctrina; la corporación, al imprimirlas, sólo reconoce que son merecedoras de ver la luz pública.
+
+### Artículo 17. Secciones.
+
+La Academia entenderá en los asuntos de su competencia, previo dictamen de las secciones o de las comisiones, en su caso. Las secciones despacharán privativamente los asuntos que se les encomienden.
+
+Todos los Académicos pueden asistir y tomar parte en los debates de las secciones, aunque sólo podrán votar cuando formen parte de éstas.
+
+### Artículo 18. Comisiones.
+
+Las comisiones de la Academia serán permanentes y especiales. Serán comisiones permanentes:
+
+a) La de Administración.
+
+b) La de Monumentos y Patrimonio Histórico.
+
+c) La del Museo, Calcografía y Exposiciones.
+
+d) La del Taller de Vaciados y Reproducciones.
+
+e) La de Archivo, Biblioteca, Estudios y Publicaciones.
+
+Por decisión del Director, de la que se dará cuenta a la Comisión de Administración, podrán reunirse conjuntamente dos o más comisiones.
+
+> Se modifica por el art. único.1 del Real Decreto 858/2022, de 11 de octubre. [Ref. BOE-A-2022-16587](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16587)
+
+### Artículo 19. Formación de las comisiones.
+
+Las comisiones permanentes serán elegidas por la Academia, y estarán compuestas, salvo las de Administración y Monumentos y Patrimonio Histórico, por cinco miembros y dos suplentes; las especiales serán nombradas por el Director, quien determinará en cada caso el número de Académicos que han de componerlas, previa consulta a la Comisión de Administración. La de Monumentos y Patrimonio Histórico elegirá de entre sus miembros a su presidente y secretario. Las demás serán presididas conforme a lo establecido en estos estatutos y, en su caso, elegirán a su secretario de entre sus miembros. El mandato de las comisiones permanentes será de tres años, coincidiendo su elección con la del Director.
+
+## CAPÍTULO III — Cargos académicos
+
+### Artículo 20. Mesa de la Academia.
+
+1\. La Mesa de la Academia, a la que corresponde la representación colegiada de la corporación, presidirá las sesiones, y estará formada por:
+
+a) El Director.
+
+b) El Vicedirector-Tesorero.
+
+c) El Secretario General.
+
+d) El Censor.
+
+e) El Bibliotecario.
+
+f) El Delegado del Museo, Calcografía y Exposiciones.
+
+g) El Delegado del Taller de Vaciados y Reproducciones.
+
+2\. Todos los cargos mencionados serán elegidos por el pleno entre los Académicos de Número por un periodo de tres años, pudiendo ser reelegidos.
+
+> Se modifica por el art. único.2 del Real Decreto 858/2022, de 11 de octubre. [Ref. BOE-A-2022-16587](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16587)
+
+### Artículo 21.
+
+1\. La Comisión de Administración, encargada de la dirección de los trabajos de la Academia y de la administración de sus recursos, se compone de los cargos académicos señalados en el artículo anterior, a los que se agregarán hasta tres Académicos de Número elegidos por el pleno. Podrá reunirse y tomar acuerdos incluso en los períodos vacacionales, sin perjuicio de dar cuenta en la primera sesión plenaria que se celebre. Los acuerdos se tomarán por mayoría y en caso de empate será dirimente el voto del Director.
+
+2\. La Comisión de Monumentos y Patrimonio Histórico estará constituida por nueve miembros elegidos por el pleno entre los Académicos de Número que, por sus estudios o conocimientos, sean adecuados para sus fines. Cinco de ellos habrán de ser propuestos por las distintas secciones de la Academia, a razón de uno por cada una. Esta comisión informará a la Academia acerca de las cuestiones que afectan a la protección, conservación, restauración y rehabilitación del patrimonio histórico español. En todos los casos emitirá sus informes a la vista de los estudios previos preparados por una ponencia técnica, designada por la comisión y constituida por tres de sus miembros. Podrá reunirse con la comisión homóloga de la Real Academia de la Historia, dando cuenta de los acuerdos adoptados en estas reuniones a los plenos de ambas Academias, que decidirán en definitiva lo procedente. Asimismo, podrá proponer al pleno la constitución en cada provincia, como órgano interno de apoyo a sus trabajos, de una comisión formada por Académicos Correspondientes de la corporación, a la que podrán incorporarse los Académicos Correspondientes de la Real Academia de la Historia, si media el acuerdo de esta última.
+
+### Artículo 22. Funciones del Director.
+
+Corresponde al Director:
+
+a) Presidir la Academia, así como las secciones y comisiones, cuando asista a ellas.
+
+b) Mantener la observancia de los estatutos y del reglamento y hacer que se ejecuten los acuerdos.
+
+c) Firmar la correspondencia oficial, firmar los dictámenes, consultas e informes que emanen de la Academia y visar las certificaciones y documentos que por la secretaría se expidan.
+
+d) Intervenir las cuentas, gastos y pagos.
+
+e) Representar a la corporación en todos los actos o casos en que sea necesario, incluyéndose expresamente la facultad de firmar documentos públicos en nombre de la Academia, así como la de otorgar poderes notariales a terceros.
+
+f) Providenciar los casos urgentes, sin perjuicio de dar cuenta a la Academia.
+
+g) Señalar los días en que se hayan de celebrar las juntas extraordinarias.
+
+h) Nombrar las comisiones especiales y ejercer las demás funciones que le confieran los estatutos, el reglamento y los acuerdos de la corporación.
+
+### Artículo 23. Memoria anual.
+
+Al final de cada ejercicio, el Director leerá una memoria en que dé cuenta del estado y trabajos de la Academia.
+
+### Artículo 24. Vicedirector-Tesorero.
+
+El Vicedirector-Tesorero sustituirá al Director en caso de ausencia o enfermedad y ejercerá las funciones que aquél le encomiende para la coordinación y supervisión de los distintos servicios y departamentos de la Academia. Desempeñará además la tesorería de la corporación, recaudando las cantidades que por cualquier concepto pertenezcan a aquélla, ordenando los gastos y pagos y llevando cuenta y razón de todo ello en la forma que, con la intervención del Director, se establezca.
+
+### Artículo 25. Secretario General.
+
+Incumbe al Secretario General:
+
+a) Dar cuenta de la correspondencia y de los asuntos que hayan de tratarse en las juntas.
+
+b) Redactar y certificar las actas.
+
+c) Extender y firmar las certificaciones y demás documentos que se hayan de expedir.
+
+d) Actuar como secretario en el pleno y en la Comisión de Administración.
+
+e) Cuidar y mantener la publicación periódica de las actividades de la Academia.
+
+f) Llevar el registro de la Academia.
+
+### Artículo 26. Censor.
+
+Será obligación del Censor:
+
+a) Velar por la puntual observancia de los estatutos, el reglamento y los acuerdos.
+
+b) Tomar en cada junta apuntes para la comprobación del acta.
+
+c) Recordar a los Académicos el desempeño de las comisiones y trabajos literarios y artísticos que les hayan encomendado.
+
+d) Informar sobre los escritos y asuntos que la Academia someta a su examen.
+
+### Artículo 27. Funciones del Bibliotecario y de los Delegados.
+
+1\. El Bibliotecario, con asistencia de la comisión correspondiente, dirigirá los servicios del Departamento de Archivo, Biblioteca, Estudios y Publicaciones y se encargará de la conservación, ordenación y gestión de los libros, partituras de música, manuscritos, estampas, fotografías, filmaciones, grabaciones, publicaciones en cualquier soporte y demás fondos bibliográficos custodiados en la biblioteca, así como del archivo general y sus fondos documentales, de la base de datos y de las actividades informáticas de la Academia, supervisando asimismo sus publicaciones y la actividad de su Centro de Estudios. Efectuará la adquisición de libros y publicaciones con arreglo a los acuerdos de la corporación, se relacionará con las entidades y organismos públicos y privados en el ámbito de su competencia y dirigirá la formación de los catálogos, inventarios e índices de la biblioteca y del archivo general.
+
+2\. El Delegado del Museo, Calcografía y Exposiciones, con asistencia de la comisión correspondiente, dirigirá los servicios de los departamentos del Museo y de la Calcografía Nacional y la preparación y ejecución del programa de exposiciones de la Academia, cuidando de los fondos artísticos del Museo, o depositados en él, de las estampas y planchas asignadas a la Calcografía Nacional, o depositadas en ella, y de la realización de estampaciones por el taller de esta última. Promoverá y supervisará la redacción y puesta al día de los catálogos e inventarios del Museo y de la Calcografía Nacional y la preparación de los catálogos de las exposiciones de la Academia, promoviendo asimismo la de publicaciones sobre el grabado. Propondrá a la Comisión de Administración la adquisición por cualquier título de obras y fondos artísticos con destino al Museo o la Calcografía Nacional, previo informe favorable de la Comisión del Museo, Calcografía y Exposiciones.
+
+3\. El Delegado del Taller de Vaciados y Reproducciones, con asistencia de la comisión correspondiente, dirigirá los servicios de dicho departamento y cuidará de la conservación y realización de los moldes, vaciados y reproducciones artísticas que le estén asignados.
+
+4\. Los cargos académicos a que se refiere este artículo ejercerán sus funciones bajo la superior autoridad de la dirección y de la Comisión de Administración de la Academia y presidirán las respectivas comisiones permanentes, a las que darán asimismo cuenta de su gestión.
+
+5\. La restauración de los fondos y obras integrados en el Archivo y Biblioteca, en el Museo, en la Calcografía Nacional y en el Taller de Vaciados Reproducciones será acordada por la comisión correspondiente, a propuesta de su Delegado, y evacuados los oportunos informes.
+
+> Se modifica por el art. único.3 del Real Decreto 858/2022, de 11 de octubre. [Ref. BOE-A-2022-16587](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16587)
+
+### Artículo 28. Designación de adjuntos y coordinadores.
+
+La Academia, si lo estima oportuno, podrá designar a uno o varios Académicos de Número para desempeñar la función de adjuntos del Bibliotecario, del Delegado del Museo, Calcografía y Exposiciones y del Delegado del Taller de Vaciados y Reproducciones hasta que expire el mandato del cargo académico al que asistan. Asimismo, podrá nombrar a un Académico de Número para coordinar el Centro de Estudios y a otro para coordinar la preparación y edición del Boletín de la Academia, ambos en dependencia directa del Bibliotecario, hasta la terminación del mandato de éste.
+
+> Se modifica por el art. único.4 del Real Decreto 858/2022, de 11 de octubre. [Ref. BOE-A-2022-16](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16)
+
+## CAPÍTULO IV — Juntas
+
+### Artículo 29. Juntas.
+
+La Academia celebrará juntas ordinarias y extraordinarias.
+
+En determinado día de cada semana se celebrará junta ordinaria para tratar de los asuntos de su competencia e interés, reunión que podrá ser suspendida en los meses de julio, agosto y septiembre.
+
+### Artículo 30. Juntas extraordinarias.
+
+Las juntas extraordinarias se celebrarán cuando lo exija la urgencia o importancia de los asuntos. En la citación de estas juntas se expresará el motivo.
+
+### Artículo 31. Asistencia de Académicos.
+
+Los Académicos Honorarios podrán asistir a las juntas ordinarias y extraordinarias, y los Correspondientes podrán asistir a aquéllas conforme disponga el reglamento.
+
+### Artículo 32. Quórum de las sesiones.
+
+No podrá celebrarse sesión sin la asistencia de 16 Académicos de Número.
+
+### Artículo 33. Adopción de acuerdos.
+
+Los acuerdos se tomarán por mayoría, sin perjuicio de lo dispuesto en los artículos 11, 36 y 38.
+
+### Artículo 34. Votación.
+
+La votación será siempre secreta cuando se trate de personas, y en los demás casos, cuando lo pidan cinco o más Académicos; en los restantes supuestos, será pública. Si hubiera empate en una votación pública, decidirá el voto del que presida, y si la votación hubiera sido secreta, se suspenderá el acuerdo y se repetirá la votación en otra junta con citación expresa.
+
+### Artículo 35. Escrutinio.
+
+El escrutinio y resumen de los votos se hará por el Secretario General y el Censor, en presencia del que presida.
+
+### Artículo 36. Elecciones.
+
+Las elecciones de los Académicos, las de los cargos de la Academia y las de las comisiones permanentes se harán en junta extraordinaria, con asistencia, al menos, de la mitad más uno de los Académicos de Número con derecho a voto. En los casos en que la falta de asistencia imposibilitase la elección, se citará a nueva junta en que aquélla deba verificarse. Las elecciones de Académicos requerirán, en todo caso, el quórum expresado; para las de cargos y comisiones bastará, en tercera citación, la presencia de 16 Académicos, a tenor de lo dispuesto en el artículo 32. Las elecciones de los cargos de la Academia y las de las comisiones permanentes se harán en la última sesión de diciembre. En los casos de renuncia o fallecimiento anterior al fin del mandato, la Comisión de Administración designará a un Académico de Número para desempeñar interinamente el cargo vacante, que no obstante será sometido a elección en la última sesión de diciembre; si el así designado viniera desempeñando otro cargo académico, lo simultaneará con la función que interinamente se le haya encomendado.
+
+### Artículo 37. Consecuencias de la falta de asistencia a las sesiones.
+
+Los Académicos de Número que no hayan asistido al menos a 12 sesiones celebradas en el año natural inmediatamente anterior no podrán votar en las elecciones de Académicos, de cargos y comisiones, ni tampoco ser elegidos para dichos cargos o comisiones.
+
+### Artículo 38.
+
+Para la reelección de los cargos expresados en el artículo 20 se necesita reunir, en primer escrutinio, la mitad más uno de los votantes presentes. En segundo escrutinio bastará la mayoría simple.
+
+### Artículo 39.
+
+La elección de todos los cargos de la Comisión de Administración es completamente libre y podrá recaer en cualquier Académico de Número, salvo lo preceptuado en el artículo 37.
+
+### Artículo 40.
+
+Las juntas extraordinarias serán públicas:
+
+a) Para dar posesión a los Académicos electos, salvo en el caso de que se trate de Académicos que, habiendo ostentado previamente la condición de Honorarios, pasen a ser de Número, previa elección.
+
+b) Para la distribución de los premios adjudicados en los concursos que abra la corporación.
+
+c) Siempre que la Academia lo decida en ocasiones especiales.
+
+### Artículo 41.
+
+En las juntas, para dar posesión a un Académico de Número u Honorario, leerá el electo un discurso sobre cualquier punto que tenga relación con las Bellas Artes, contestándole por escrito, en nombre de la Academia, el Director o el Académico que al efecto hubiera aquél designado.
+
+### Artículo 42.
+
+Los electos de la clase de profesionales de pintura y escultura deberán donar a la Academia, con ocasión de su ingreso, una obra artística de su autoría del carácter de la sección en que ingresen y, además, podrán redactar y leer el discurso al que se refiere el artículo anterior en la junta correspondiente. Los electos profesionales de las restantes secciones entregarán a la Academia obras artísticas de su elección, de las que sean autores o intérpretes.
+
+### Artículo 43.
+
+La Academia autorizará previamente la lectura de los discursos que se lean en las juntas públicas.
+
+## CAPÍTULO V — Administración de la Academia
+
+### Artículo 44.
+
+La Academia tendrá los empleados y dependientes que necesite, y serán todos nombrados e inamovibles por su acuerdo.
+
+### Artículo 45.
+
+Consistirán los caudales de la Academia:
+
+a) En la asignación ordinaria que se le concede en los Presupuestos Generales del Estado y en los demás créditos presupuestarios, ayudas y subvenciones que pueda, en su caso, recibir con cargo a los presupuestos de las Administraciones públicas.
+
+b) En los productos y utilidades de sus obras y actividades y de los demás ingresos procedentes de su patrimonio y de las donaciones, herencias y legados que reciba, incluyendo toda clase de bienes muebles, inmuebles y derechos. Estos caudales serán recaudados por el Vicedirector-Tesorero, con cuenta y razón intervenida por el Director, y administrados por la Comisión de Administración.
+
+### Artículo 46.
+
+La Academia invertirá sus fondos en conservar y renovar sus edificios, colecciones e instalaciones; en adquirir y conservar libros, estampas y demás objetos de su instituto; en imprimir obras; en adjudicar premios y retribuir trabajos y asistencias de los Académicos; en el apoyo a la creación, promoción y difusión de las Artes; en sueldos de empleados, salarios de dependientes y gastos en administración ordinaria.
+
+En todo caso, la adquisición de obras de arte y objetos artísticos requerirá el previo informe de la comisión correspondiente.
+
+### Artículo 47.
+
+La Academia rendirá cuentas, en la forma legalmente establecida, de las cantidades que perciba de las Administraciones públicas.
+
+### Disposición transitoria primera. Adscripción de medallas.
+
+1\. Las medallas 53 a 56 se adscriben a la sección de Nuevas Artes de la Imagen. La número 55 seguirá en posesión de su actual titular. Las números 53, 54 y 56 pasarán a ocupar respectivamente las 65, 66 y 67. La número 68 quedará vacante.
+
+2\. Las plazas de Académicos de Número de la sección de Nuevas Artes de la Imagen que corresponden a las medallas 53, 54 y 56 se cubrirán por su orden numérico mediante sucesivas elecciones conforme a lo dispuesto en el artículo 11.
+
+3\. Asimismo, se adscriben a la sección de Nuevas Artes de la Imagen las medallas 49 a 52, que conservarán su clasificación y seguirán en posesión de sus actuales titulares en fecha 1 de enero de 2003. En su día se añadirán a aquélla las primeras dos medallas de la sección de Pintura correspondientes a profesionales que queden vacantes.
+
+4\. Lo anteriormente establecido no impedirá la aplicación de lo previsto en el artículo 6.2.
+
+> Se numera por el art. único.5 del Real Decreto 858/2022, de 11 de octubre. [Ref. BOE-A-2022-16587](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16587)
+
+> Anteriormente era la disposición transitoria única
+
+### Disposición transitoria segunda. Actualización de las Comisiones Permanentes.
+
+1\. A partir del 1 de enero de 2023, la actual Comisión del Museo y Exposiciones y el actual Delegado del Museo pasarán a denominarse Comisión del Museo, Calcografía y Exposiciones y Delegado del Museo, Calcografía y Exposiciones, respectivamente. Sus mandatos terminarán, respectivamente, los días 1 de enero de 2024 y 1 de enero de 2025. El Pleno de la Corporación procederá a realizar las correspondientes elecciones en la última sesión del mes de diciembre anterior a cada una de esas fechas.
+
+2\. En consecuencia, se suprime la Comisión de Calcografía, incorporándose sus actuales miembros a la Comisión del Museo, Calcografía y Exposiciones, de forma excepcional, hasta la expiración del mandato de esta última el día 1 de enero de 2024. De igual manera, el actual Delegado de la Calcografía Nacional cesará en el ejercicio de su función el día 31 de diciembre de 2022, siendo sustituido a partir del día siguiente por el Delegado del Museo, Calcografía y Exposiciones hasta el día 1 de enero de 2025.
+
+3\. Se prorroga, asimismo, el periodo de desempeño del cargo del actual Delegado en funciones del Taller de Vaciados y Reproducciones hasta el día 1 de enero de 2025, debiendo igualmente efectuarse la elección de dicho cargo por el Pleno de la Academia en la última sesión del mes de diciembre del año 2024.
+
+> Se añade por el art. único.5 del Real Decreto 858/2022, de 11 de octubre. [Ref. BOE-A-2022-16587](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-16587)

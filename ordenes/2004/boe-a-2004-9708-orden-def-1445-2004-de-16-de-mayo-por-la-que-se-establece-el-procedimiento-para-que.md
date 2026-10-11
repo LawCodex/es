@@ -1,0 +1,141 @@
+---
+title: "Orden DEF/1445/2004, de 16 de mayo, por la que se establece el procedimiento para que los españoles puedan solicitar y realizar el juramento o promesa ante la Bandera de España"
+identifier: "BOE-A-2004-9708"
+eli: "https://www.boe.es/eli/es/o/2004/05/16/def1445"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Defensa"
+date: 2004-05-16
+published: 2004-05-25
+in_force_from: 2004-05-26
+last_amended: 2022-08-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 126"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-9708"
+retrieved: 2026-10-11
+---
+
+# Orden DEF/1445/2004, de 16 de mayo, por la que se establece el procedimiento para que los españoles puedan solicitar y realizar el juramento o promesa ante la Bandera de España
+
+El juramento o promesa ante la Bandera de España, está legalmente establecido en nuestro Ordenamiento, como requisito previo a la adquisición de la condición de militar profesional, de acuerdo con lo establecido en el artículo 3 de la Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas.
+
+El carácter profesional de la totalidad de los componentes de nuestras Fuerzas Armadas no debe hacer olvidar la necesaria cohesión social que haga sentirse al militar íntimamente ligado al servicio de la sociedad a la que pertenece y a esta parte integrante del gran entramado que constituye la defensa nacional. Por ello, y para permitir que los españoles que, sin querer vincularse a las Fuerzas Armadas con un carácter profesional, puedan manifestar su compromiso con la defensa de España, prestando el juramento o promesa ante la Bandera, se hace necesario fijar el procedimiento para solicitar y realizar dicha prestación.
+
+En la medida que el afianzamiento de los lazos de unión entre los ciudadanos y sus Fuerzas Armadas comienza por la relación entre aquellos y las Unidades ubicadas en su entorno, se trata con la presente Orden de facilitar que sean dichas Unidades las que, en la medida de lo posible, satisfagan las solicitudes de prestación o renovación del juramento o promesa ante la Bandera de España.
+
+En su virtud, y de acuerdo con lo dispuesto en el apartado 3 de la disposición final sexta de la Ley 17/1999, de 18 de mayo,
+
+DISPONGO:
+
+## Primero. Objeto.
+
+Los españoles que deseen prestar juramento o promesa ante la Bandera, manifestando de esta forma su compromiso con la defensa de España, podrán realizarlo con arreglo a lo que establece la presente Orden Ministerial.
+
+## Segundo. Requisitos.
+
+Los requisitos que se tendrán que cumplir son los siguientes:
+
+Tener la nacionalidad española.
+
+Tener cumplidos los dieciocho años de edad en el momento de la jura o promesa ante la Bandera de España.
+
+> Se suprime la última línea del apartado 2 por el art. único.1 de la Orden DEF/750/2022, de 28 de julio. [Ref. BOE-A-2022-13107](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13107)
+
+## Tercero. Instancia.
+
+1\. Los españoles que quieran prestar juramento o promesa ante la Bandera y cumplan los requisitos establecidos en el apartado anterior, remitirán una instancia al Ministro de Defensa a través de la Delegación o Subdelegación de Defensa de su provincia, según modelo que se les facilitará en la misma.
+
+2\. Una vez analizada la instancia, la Delegación o Subdelegación de Defensa la remitirá a la Unidad, Centro u Organismo por el que haya manifestado su preferencia el solicitante. Este último será el encargado de ponerse en contacto con el mismo para comunicarle los detalles de ejecución.
+
+3\. La unidad organizadora, una vez celebrado el acto de juramento o promesa, remitirá a las Delegaciones o Subdelegaciones de Defensa correspondientes, para su inclusión en el Registro centralizado de los españoles que hayan prestado juramento o promesa ante la Bandera de España (REJUPROES), la relación nominal de aquellos que hayan ejercido este derecho.
+
+4\. En el tratamiento de los datos que conforman la relación nominal de los españoles que hayan efectuado el juramento o promesa ante la Bandera, se respetará lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, sobre protección de datos de carácter personal.
+
+> Se modifica el apartado 3 por el art. único.1 de la Orden DEF/8/2017, de 9 de enero. [Ref. BOE-A-2017-429](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-429).
+
+## Cuarto. Acto del juramento o promesa.
+
+1\. Las Unidades, Centros u Organismos de los Ejércitos y de la Armada que se determinen por el Jefe de Estado Mayor respectivo, incluirán en un acto solemne de carácter anual, la realización del juramento o promesa ante la Bandera de los españoles que lo hubiesen solicitado.
+
+2\. La relación de dichas Unidades, Centros u Organismos y la fecha prevista, cierta o aproximada, para cada uno de los actos, figurarán en el modelo de instancia al que se hace referencia en el párrafo primero del apartado tercero de la presente Orden.
+
+3\. En aquellos casos en que el acto de juramento o promesa ante la Bandera no se realice durante la ceremonia de jura de personal militar, se desarrollará de forma similar a la establecida en el artículo 7 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, conforme con la disposición final décima de la citada ley.
+
+> Se modifica el apartado 3 por el art. único.2 de la Orden DEF/8/2017, de 9 de enero. [Ref. BOE-A-2017-429](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-429).
+
+## Quinto. Certificado.
+
+El Jefe de la Unidad que tome el juramento o promesa entregará un certificado individualizado a cada uno de los que lo hubieren realizado.
+
+## Sexto. Renovación del juramento o promesa.
+
+1\. El personal que desee renovar el juramento o promesa ante la Bandera se regirá por lo dispuesto en la presente Orden Ministerial.
+
+2\. Para que no desmerezca la importancia y trascendencia del acto, entre la fecha del juramento o promesa inicial y su renovación deberá mediar un lapso de tiempo de, al menos, veinticinco años. Solamente en circunstancias extraordinarias, apreciadas motivadamente por el titular del órgano responsable del REJUPROES, se podrá autorizar la renovación del juramento o promesa sin necesidad de cumplir dicho plazo.
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden DEF/8/2017, de 9 de enero. [Ref. BOE-A-2017-429](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-429).
+
+## Séptimo. Registro centralizado.
+
+1\. Se creará el Registro centralizado de los españoles que hayan prestado juramento o promesa ante la Bandera de España, para recoger y gestionar de forma automatizada los datos de carácter personal.
+
+2\. La Secretaría General Técnica del Ministerio de Defensa será el órgano responsable de este registro.
+
+3\. El titular del órgano responsable del REJUPROES, adoptará las medidas de gestión y organización que sean necesarias para asegurar, en todo caso, la confidencialidad, seguridad e integridad de los datos automatizados de carácter personal existentes en el REJUPROES y su uso respecto a las finalidades para las que fueron recogidos.
+
+4\. Las medidas de seguridad del citado registro serán de nivel básico, con arreglo a lo dispuesto en la normativa vigente en la materia.
+
+5\. En el REJUPROES figurarán los siguientes datos:
+
+a) Número del Documento Nacional de Identidad (DNI), nombre, apellidos y nacionalidad del solicitante.
+
+b) Fecha, lugar de nacimiento (ayuntamiento y provincia) y sexo del solicitante.
+
+c) Domicilio actual, código postal, municipio y provincia del solicitante.
+
+d) Número de teléfono y/o dirección de correo electrónico del solicitante.
+
+e) Opción elegida entre el Ejército de Tierra, la Armada, el Ejército del Aire u otro organismo, en el que se desea prestar juramento o promesa ante la Bandera.
+
+f) Unidad del ámbito elegido con fecha prevista, cierta o aproximada, según propuesta de actos.
+
+g) En caso de renovación, especificar el organismo o la unidad, localidad y fecha donde realizó su anterior prestación del juramento o promesa ante la Bandera.
+
+h) En su caso, tipo de discapacidad que pueda limitar su participación en el acto.
+
+i) **(Suprimida).**
+
+j) El organismo o la unidad, localidad y fecha donde realizó su prestación de juramento o promesa ante la Bandera.
+
+> Se suprime la letra i) del párrafo 5 por el art. único.2 de la Orden DEF/750/2022, de 28 de julio. [Ref. BOE-A-2022-13107](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-13107)
+
+> Se añade por el art. único.4 de la Orden DEF/8/2017, de 9 de enero. [Ref. BOE-A-2017-429](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-429).
+
+## Disposición adicional única. Residentes en el extranjero.
+
+1\. Para la prestación o renovación del juramento o promesa ante la Bandera por los españoles residentes en el extranjero, se observarán las siguientes particularidades:
+
+a) La instancia se dirigirá a la Agregaduría de Defensa correspondiente al país de residencia.
+
+b) El acto podrá realizarse en la propia Agregaduría, Embajada, Oficina Consular o en el lugar en que eventualmente se hallen destacadas fuerzas españolas, y sin sujeción a la periodicidad que se establece en el apartado cuarto de esta orden ministerial.
+
+2\. Las Agregadurías de Defensa remitirán anualmente a la Delegación de Defensa en la Comunidad de Madrid, para su inclusión en el registro centralizado, la relación nominal de los españoles residentes en el extranjero, que hayan prestado el juramento o promesa ante la Bandera.
+
+3\. En las misiones diplomáticas permanentes de España en el extranjero, en las que no exista acreditada Agregaduría de Defensa, las funciones que a esta última se atribuyen en esta orden ministerial, serán realizadas por la Oficina Consular correspondiente.
+
+> Se modifica por el art. único.5 de la Orden DEF/8/2017, de 9 de enero. [Ref. BOE-A-2017-429](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-429).
+
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada la Orden 169/1999, de 24 de junio, por la que se dictan normas de desarrollo de la disposición final sexta de la Ley 17/1999, de 18 de mayo, de Régimen de Personal de las Fuerzas Armadas, para establecer el procedimiento de solicitar y ejercer el derecho de juramento o promesa ante la Bandera de España.
+
+## Disposición final única. Entrada en vigor.
+
+La presente Orden ministerial entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 16 de mayo de 2004.
+
+BONO MARTÍNEZ

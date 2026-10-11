@@ -1,0 +1,362 @@
+---
+title: "Real Decreto 71/1998, de 23 de enero, por el que se regula el ejercicio de la pesca de túnidos y especies afines en el Mediterráneo"
+identifier: "BOE-A-1998-2743"
+eli: "https://www.boe.es/eli/es/rd/1998/01/23/71"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1998-01-23
+published: 1998-02-07
+in_force_from: 1998-02-08
+last_amended: 2019-02-09
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 33"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1998-2743"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 71/1998, de 23 de enero, por el que se regula el ejercicio de la pesca de túnidos y especies afines en el Mediterráneo
+
+La pesca de túnidos en el Mediterráneo se ha venido realizando tradicionalmente por medio de dos métodos de pesca de características claramente diferenciadas. Por una parte, se han utilizado artes de almadraba, empleados desde tiempos remotos y, por otra, artes y aparejos activos, tales como redes de cerco, redes de enmalle y varios aparejos de anzuelo.
+
+En lo que se refiere al atún rojo, la Comisión Internacional para la Conservación del Atún Atlántico (ICCAT) ha adoptado, desde el año 1975, medidas de ordenación para el «stock» oriental, que incluye el Mediterráneo. Dichas medidas limitan el esfuerzo de pesca y establecen una talla mínima de los ejemplares. En la reunión anual de 1994, esta Organización ha recomen­dado a las partes contratantes una serie de medidas encaminadas a impedir cualquier aumento de la tasa de mortalidad por pesca a partir del año 1995, así como evitar que se sobrepase el nivel de las capturas de 1993 o 1994, tomando en consideración el que sea más elevado. En este sentido y en lo que se refiere al «stock» del Atlántico Este, que incluye el Mediterráneo, en la ya citada IX reunión de ICCAT de 1994, se adoptó una recomendación para que, a partir de 1996, se tomen las medidas necesarias para reducir en un 25 por 100 las capturas respecto al nivel antes indicado, reducción que debe conseguirse a finales de 1998.
+
+En cuanto a medidas técnicas, el Reglamento CE número 1626/94, del Consejo, de 27 de junio, por el que se establecen determinadas medidas técnicas de conservación de los recursos pesqueros en el Mediterráneo, establece las tallas mínimas del atún rojo, tanto en longitud como en peso. Asimismo, regula la longitud y la altura de las redes de cerco, con excepción de las jábegas atuneras.
+
+El Real Decreto 2349/1984, de 28 de noviembre, por el que se regula la pesca de cerco en el Caladero Nacional, establece las condiciones de empleo del arte de cerco para la captura de pequeños pelágicos y otras especies. Sin embargo, no contempla la pesca de atún rojo con este arte, motivo por el cual se hace preciso regularlo.
+
+Por otra parte, la Orden de 24 de noviembre de 1981, por la que se regula el ejercicio de la actividad pesquera con artes fijos o de deriva en el Mediterráneo, y la Orden de 22 de octubre de 1990, por la que se prohíbe el uso de las redes de deriva y se regula su empleo como artes menores en el Mediterráneo, modificada por las Órdenes de 28 de febrero de 1991 y de 12 de junio de 1992, establece las condiciones de empleo de los artes de enmalle para la captura de bonito y especies afines.
+
+Por lo que respecta a las almadrabas, el Real Decreto de 4 de julio de 1924, por el que se aprueba el Reglamento para la pesca con artes de almadraba, y disposiciones que lo modifican y desarrollan, establece las normas técnicas de concesión y explotación de la pesca con artes de almadraba.
+
+De todo ello se desprende que, debido al estado de los recursos de túnidos en el Mediterráneo, se hace preciso adoptar medidas técnicas, de control y de gestión de los recursos, con objeto de recuperar las poblaciones de los mismos a niveles del rendimiento máximo sostenible que permitan, por una parte, conservar estos recursos y, de otra, el mantenimiento en el futuro de la actividad pesquera dirigida a esta especie.
+
+La normativa comunitaria exime, hasta el 1 de enero de 1999, a los patrones de los buques que ejercen sus actividades pesqueras en el Mediterráneo de llevar a bordo el Diario de Pesca y cumplimentar la Declaración de Desembarque. No obstante, al haberse fijado, a partir del presente año, una cuota de atún rojo para España en este caladero y con el fin de conseguir un control más eficaz de las cantidades desembarcadas, se hace aconsejable el establecimiento inmediato de dicha obligación para los buques cerqueros españoles que se dedican específicamente a la captura de la referida especie. La Constitución Española atribuye al Estado en su artículo 149.1.19.ª la competencia exclusiva para regular la pesca marítima y para dictar las bases de ordenación del sector pesquero, sin perjuicio de lo establecido en el Reglamento (CE) 1626/94, del Consejo, por el que se establecen medidas técnicas de conservación en el Mediterráneo.
+
+En la elaboración del presente Real Decreto han sido consultados las Comunidades Autónomas del litoral mediterráneo y el sector afectado. Asimismo, se ha cumplido el trámite previsto en el artículo 17 del Reglamento (CE) 894/97, de 29 de abril.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado, previa deliberación del Consejo de Ministros en su reunión del día 23 de enero de 1998,
+
+DISPONGO:
+
+## CAPÍTULO I — Normas generales
+
+### Artículo 1. Ámbito de aplicación.
+
+Las normas contenidas en el presente Real Decreto serán de aplicación a los buques españoles que ejerzan la pesca de túnidos y especies afines en el mar Mediterráneo, excluidas las aguas interiores, teniendo como límite occidental el meridiano de Punta Marroquí, de longitud 05° 36' E, en las proximidades de Tarifa, tanto en aguas jurisdiccionales españolas como en alta mar, por fuera de las aguas jurisdiccionales de los países ribereños.
+
+### Artículo 2. Especies objetivo.
+
+Las especies cuya captura es objeto de regulación en este Real Decreto son las siguientes:
+
+a) **(Derogada).**
+
+b) Melva (*Auxis* spp.).
+
+c) Bonito (*Sarda sarda*).
+
+d) Atún blanco (*Thunnus alalunga*).
+
+e) Bacoreta (*Euthynnus alleteratus*).
+
+> Se deroga la letra a) por la disposición derogatoria única.1.a) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+## CAPÍTULO II — Medidas técnicas de conservación
+
+### Artículo 3. Artes y aparejos de pesca autorizados.
+
+Únicamente se autorizan los siguientes artes y aparejos para la captura de las especies referidas en el artículo 2:
+
+a) Almadrabas y artes análogos.
+
+b) Artes de red de enmalle.
+
+c) Artes de cerco con jareta.
+
+d) Aparejos de anzuelo.
+
+### Artículo 4. Pesca con artes de almadraba.
+
+El ejercicio de la pesca con el arte de almadraba se efectuará conforme a lo establecido en el Real Decreto de 4 de julio de 1924, por el que se aprueba el Reglamento para la pesca con el arte de almadraba y disposiciones que lo modifican y desarrollan.
+
+### Artículo 5. Pesca con artes de red de enmalle.
+
+El arte de enmalle está formado por redes compuestas de elementos rectangulares llamadas piezas o unidades de captura que se largan a la mar con la finalidad de efectuar capturas por el método de enmalle. La relinga superior va provista de flotadores y la inferior de lastres.
+
+La pieza o unidad de captura tendrá una longitud de 50 metros y una altura de 25 metros. La longitud total del arte no podrá exceder de los 2.500 metros.
+
+Las dimensiones mínimas de las mallas serán de 50 milímetros.
+
+Queda prohibida la captura de pez espada, marrajo, atún rojo y atún blanco con este tipo de arte.
+
+### Artículo 6. Pesca de atún rojo con artes de cerco con jareta.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+### Artículo 7. Pesca con aparejos de anzuelo.
+
+Únicamente se autorizan los siguientes aparejos de anzuelo para la captura de las especies objeto de regulación en este Real Decreto:
+
+a) Palangre de superficie.
+
+b) Línea de mano.
+
+c) Cacea al curricán.
+
+d) Cañas-cebo vivo.
+
+El palangre de superficie es un aparejo formado por un cabo denominado madre, del que penden, a intervalos, otros cabos llamados brazoladas a los que se empatan anzuelos. En los extremos y a lo largo del cabo madre se disponen los elementos necesarios de fondeo y flotación para mantener el aparejo en superficie o media agua, sin apoyar ni tener contacto alguno con el fondo marino.
+
+La línea de mano es un aparejo compuesto de un cabo madre que trabaja perpendicular al fondo. Del extremo inferior del cabo madre parten una o varias brazoladas o sedales en los que van empatados los anzuelos.
+
+La cacea al curricán es un aparejo que trabaja remolcado por una embarcación. En ambos costados de la embarcación se sitúan tangones o alas de los que penden los curricanes, consistentes en líneas que trabajan paralelas al fondo. De cada línea penden uno o varios sedales con anzuelos.
+
+Las cañas-cebo vivo son aparejos formados por cañas, en cada una de las cuales va montada una línea de poliamida monofilamento u otro material en cuyo extremo se empata un anzuelo con cebo vivo insertado en el mismo.
+
+Los tamaños de los anzuelos no podrán ser inferiores a las dimensiones que a continuación se indican, según la especie objetivo:
+
+| Especies objetivo | Largo anzuelo<br>(cms.) | Ancho seno<br>(cms.) |
+|---|---|---|
+| Melva. | 3,0 | 1,5 |
+| Bonito. | 3,0 | 1,5 |
+| Atún blanco. | 3,7 | 1,7 |
+| Bacoreta | 3,7 | 1,7 |
+
+> Se deroga a fila reguladora del atún rojo de la tabla por la disposición derogatoria única.1.c) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+### Artículo 8. Fondos mínimos.
+
+La pesca de túnidos, con excepción de la pesca con almadraba y artes análogos, queda prohibida en la franja costera situada por dentro de la isobática de 50 metros.
+
+### Artículo 9. Vedas.
+
+Sin perjuicio de lo contenido en el Reglamento (CE) 1626/94, del Consejo, por el que se establecen medidas técnicas de conservación en el Mediterráneo, en materia de vedas, el Ministerio de Agricultura, Pesca y Alimentación podrá establecer, para cada año o para períodos de tiempo superiores, vedas temporales y por zonas, previo informe del Instituto Español de Oceanografía y de las Comunidades Autónomas, oídas las entidades representativas del sector pesquero.
+
+## CAPÍTULO III — Medidas de gestión de la pesquería
+
+### Artículo 10. Censo de buques cerqueros dedicados a la captura de atún rojo.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.1.d) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+### Artículo 11. Limitaciones de los niveles de esfuerzo.
+
+El Ministerio de Agricultura, Pesca y Alimentación podrá establecer limitaciones de los niveles de esfuerzo, expresados en días de presencia en zona o en días de actividad del arte o aparejo, con objeto de adecuar los recursos existentes a la capacidad de la flota, en función del estado de los recursos.
+
+### Artículo 12. Límite máximo de capturas.
+
+El Ministerio de Agricultura, Pesca y Alimentación conforme a las recomendaciones de la Comisión Internacional para la Conservación del Atún Atlántico, del Consejo General de Pesca de Mediterráneo, del Instituto Español de Oceanografía y en base al estado de los recursos y disponibilidades de pesca, podrá establecer límites máximos de capturas, incluidas cuotas individuales por buque o por arte, así como suspender o prohibir la pesca de una o varias de las especies reguladas en este Real Decreto.
+
+### Artículo 13. Autorizaciones para la pesca.
+
+Los buques que se dediquen a la pesca de túnidos y especies afines deberán estar en posesión de una autorización expresa expedida por el Ministerio de Agricultura, Pesca y Alimentación.
+
+### Artículo 14. Cambios de modalidad.
+
+Los cambios temporales de otras modalidades reglamentadas a cualquiera de las autorizadas para la captura de túnidos y especies afines sólo podrán ser autorizados por el Ministerio de Agricultura, Pesca y Alimentación para períodos de tiempo no superiores a seis meses, teniendo en cuenta el estado de los recursos.
+
+No obstante, cuando el estado de los recursos lo permita y previo informe favorable del Instituto Español de Oceanografía, el Ministerio de Agricultura, Pesca y Alimentación podrá autorizar cambios de modalidad por períodos superiores.
+
+> Se deroga el párrafo primero por la disposición derogatoria única.1.e) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+## CAPÍTULO IV — Normas de control de la pesquería
+
+### Artículo 15. Diario de Pesca.
+
+Todos los buques que utilicen artes de cerco deberán llevar el Diario de Pesca y cumplimentar la Declaración de Desembarque previstos en la normativa comunitaria, contabilizando todas las capturas y desembarques de las especies reguladas en este Real Decreto.
+
+### Artículo 16. Control de las capturas.
+
+Los capitanes de los buques o sus representantes, cualquiera que sea su modalidad de pesca, que capturen especies contempladas en este Real Decreto deberán remitir a la Dirección General de Recursos Pesqueros de la Secretaría General de Pesca Marítima, antes del día 15 de cada mes, una comunicación, de acuerdo con el modelo de impreso del anejo, que contenga la siguiente información:
+
+a) Especies capturadas durante el mes anterior.
+
+b) Número de unidades.
+
+c) Peso.
+
+d) Presentación.
+
+e) Días de pesca.
+
+f) Puerto de descarga.
+
+g) Destino.
+
+### Disposición adicional primera. Renovación de los buques cerqueros.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única.1.f) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+### Disposición adicional segunda. Publicación del censo de cerqueros para atún rojo.
+
+**(Derogada).**
+
+> Se deroga por la disposición derogatoria única.1.g) del Real Decreto 46/2019, de 8 de febrero. [Ref. BOE-A-2019-1789](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-1789)
+
+### Disposición final primera. Competencia.
+
+El presente Real Decreto se dicta al amparo de la competencia exclusiva del Estado en materia de pesca marítima, de acuerdo con lo previsto en el artículo 149.1.19.ª de la Constitución, salvo lo regulado en el artículo 6.1 y en la disposición adicional primera, que constituye normativa básica en materia de ordenación del sector pesquero.
+
+### Disposición final segunda. Facultad de desarrollo.
+
+Se faculta a la Ministra de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las disposiciones necesarias para el desarrollo y aplicación de este Real Decreto y en particular para adoptar las medidas técnicas contenidas en los artículos de acuerdo con la normativa comunitaria.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 23 de enero de 1998.
+
+JUAN CARLOS R.
+
+La Ministra de Agricultura, Pesca y Alimentación,
+
+LOYOLA DE PALACIO DEL VALLE-LERSUNDI
+
+## ANEXO
+
+Cofradía/Asociación de Armadores de:
+
+Mes:
+
+<table>
+<thead>
+<tr>
+<th>Buque</th>
+<th>Especies</th>
+<th>
+<p>Unidades</p>
+<p>capturadas</p>
+</th>
+<th>Peso en kgs.</th>
+<th>
+<p>Presentación</p>
+<p>(1)</p>
+</th>
+<th>
+<p>Días de pesca</p>
+<p>en el mes</p>
+</th>
+<th>Puerto de descarga</th>
+<th>Destino de las capturas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5"> </td>
+<td>Atún rojo</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="5"> </td>
+<td rowspan="5"> </td>
+<td rowspan="5"> </td>
+</tr>
+<tr>
+<td>Melva</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bonito</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Atún blanco</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bacoreta</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="5"> </td>
+<td>Atún rojo</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="5"> </td>
+<td rowspan="5"> </td>
+<td rowspan="5"> </td>
+</tr>
+<tr>
+<td>Melva</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bonito</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Atún blanco</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bacoreta</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td rowspan="5"> </td>
+<td>Atún rojo</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td rowspan="5"> </td>
+<td rowspan="5"> </td>
+<td rowspan="5"> </td>
+</tr>
+<tr>
+<td>Melva</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bonito</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Atún blanco</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Bacoreta</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+
+(1) Entero.
+
+Eviscerado.
+
+Eviscerado y descabezado.

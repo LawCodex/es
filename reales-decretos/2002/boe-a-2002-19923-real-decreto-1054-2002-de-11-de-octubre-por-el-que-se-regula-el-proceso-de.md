@@ -1,0 +1,4603 @@
+---
+title: "Real Decreto 1054/2002, de 11 de octubre, por el que se regula el proceso de evaluación para el registro, autorización y comercialización de biocidas"
+identifier: "BOE-A-2002-19923"
+eli: "https://www.boe.es/eli/es/rd/2002/10/11/1054"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de la Presidencia"
+date: 2002-10-11
+published: 2002-10-15
+in_force_from: 2002-10-16
+last_amended: 2013-09-23
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 247"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2002-19923"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1054/2002, de 11 de octubre, por el que se regula el proceso de evaluación para el registro, autorización y comercialización de biocidas
+
+El Real Decreto 3349/1983, de 30 noviembre, aprobó la Reglamentación técnico-sanitaria para la fabricación, comercialización y utilización de plaguicidas, estableciendo como objeto de la norma la ordenación técnico-sanitaria de estos productos en cuanto concierne a la salud pública, así como la fijación de los requisitos para la fabricación, comercialización y utilización de plaguicidas, y el establecimiento de las bases para la fijación de sus límites máximos de residuos, todo ello con el fin de prevenir accidentes e intoxicaciones y evitar o limitar los peligros asociados a su uso directo e indirecto.
+
+Asimismo, reguló la homologación de los diferentes tipos de plaguicidas, los cuales deberían continuar inscribiéndose en sus respectivos Registros Oficiales: los productos fitosanitarios así como los plaguicidas de uso ganadero, en el Ministerio de Agricultura, Pesca y Alimentación, y los de uso en la industria alimentaria y los de uso ambiental así como los de uso en higiene personal y los desinfectantes de material clínico y farmacéutico y de ambientes clínicos y quirúrgicos, en el Ministerio de Sanidad y Consumo.
+
+Para la inscripción de los plaguicidas en sus respectivos Registros Oficiales, el citado Real Decreto establece que, como requisito previo, sean homologados sus aspectos de peligrosidad para la salud humana conforme a las disposiciones contenidas en el mismo, cometido que se atribuye a la Dirección General de Salud Pública, a la que corresponde determinar, entre otros aspectos, su clasificación, los símbolos y frases de riesgo que deben incluirse en el etiquetado, así como la aceptabilidad de su utilización para uso doméstico.
+
+Mediante el Real Decreto 162/1991, de 8 de febrero, se modificó la Reglamentación técnico-sanitaria para la fabricación, comercialización y utilización de los plaguicidas, con el fin de trasponer las disposiciones de la Directiva 78/631/CEE, de 26 de junio, sobre clasificación, envasado y etiquetado de preparados peligrosos (plaguicidas), introduciendo ciertos criterios para la clasificación de preparados de naturaleza no química y atribuyendo al Ministerio de Sanidad y Consumo la competencia de promover la iniciación de expedientes para suspender o limitar la comercialización de preparados cuando compruebe que supongan un peligro para la seguridad o salud humana.
+
+Igualmente, el Real Decreto 443/1994, de 30 de marzo, modificó una vez más la citada Reglamentación técnico-sanitaria, con el fin de incluir a los plaguicidas de uso en la industria alimentaria entre los que deberían inscribirse en el Registro de la Dirección General de Salud Pública.
+
+Asimismo, la clasificación e identificación de los peligros y del riesgo de cada sustancia y preparado debe realizarse de conformidad con lo dispuesto en el Real Decreto 363/1995, de 10 de marzo, sobre la clasificación, envasado y etiquetado de sustancias peligrosas, el Real Decreto 1078/1993, de 2 de julio, sobre preparados peligrosos, el Reglamento (CEE) 793/1993 del Consejo, sobre evaluación y control del riesgo de las sustancias existentes, y el Real Decreto 1406/1989, de 10 de noviembre, por el que se imponen limitaciones a la comercialización y al uso de ciertas sustancias y preparados peligrosos, siendo la Dirección General de Salud Pública la autoridad competente en esta materia. Por su parte, el Real Decreto 1415/2000, de 21 de julio, establece, en su artículo 11, que la Dirección General de Calidad y Evaluación Ambiental del Ministerio de Medio Ambiente será la autoridad competente para los aspectos medio ambientales.
+
+Posteriormente, la publicación de la Directiva 98/8/CE, del Parlamento Europeo y del Consejo, de 16 de febrero, relativa a la comercialización de biocidas, armoniza a nivel europeo la legislación sobre estos productos, anteriormente conocidos como plaguicidas no agrícolas. Estos productos biocidas son necesarios para el control de los organismos perjudiciales para la salud humana y de los animales, y para el control de los organismos dañinos para los productos naturales o manufacturados.
+
+Además, con fecha 7 de septiembre de 2000, fue aprobado el Reglamento (CE) 1896/2000 de la Comisión, que pone en marcha la primera fase del programa contemplado en el artículo 16.2 de la mencionada Directiva.
+
+Para alcanzar, entre otros objetivos, la libre circulación de dichos productos en el territorio comunitario, garantizando a la vez un elevado nivel de protección de la salud humana, de los animales y del medio ambiente, la mencionada Directiva establece los procedimientos de autorización y registro, así como un conjunto básico de datos comunes para las sustancias y los preparados biocidas. Estos principios comunes de evaluación estarán destinados a evitar los riesgos para la salud humana y el medio ambiente mediante el control epidemiológico, el reconocimiento mutuo entre los Estados miembros, la elaboración de una lista comunitaria de sustancias activas autorizadas como ingredientes de biocidas, un sistema de intercambio de información técnica y administrativa entre las autoridades competentes, así como un procedimiento comunitario para la inclusión de sustancias en la lista, entre otros aspectos, contribuyendo a reducir al mínimo el número de ensayos con animales y garantizando que los biocidas autorizados, cuando se utilicen adecuadamente para los fines previstos, sean lo suficientemente eficaces y no tengan efectos inaceptables sobre los organismos a los que se destina.
+
+Con el objetivo de dar cumplimiento a los principios de funcionamiento que deben regir la actuación de la Administración General del Estado, de conformidad con el artículo 3 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y concretamente, los de eficacia en el cumplimiento de los objetivos, eficiencia en la asignación y utilización de recursos públicos, racionalización y agilidad de los procedimientos administrativos, y servicio efectivo a los ciudadanos, así como para facilitar la gestión de la Directiva, se ha considerado oportuno refundir en un solo Registro la inscripción de los diferentes tipos de biocidas.
+
+En la actualidad, gran parte de estas actividades las desarrolla la Dirección General de Salud Pública como centro directivo encargado de la gestión de las funciones estatales en salud pública, en concreto las actividades de los Registros específicos de Plaguicidas de Salud Pública y de Notificación de Sustancias Nuevas, así como las actividades con ellos relacionadas, en especial las relativas a la evaluación de la peligrosidad y del riesgo y la clasificación y etiquetado para la salud humana.
+
+Del mismo modo, desarrolla las competencias exclusivas del Estado en relación con los preparados peligrosos, limitación y prohibición de puesta en el mercado de sustancias peligrosas y evaluación de riesgo para sustancias comercializadas existentes. Asimismo, tiene asignadas las funciones sobre reglamentación del control sanitario de productos químicos y de la gestión de la red de vigilancia ambiental.
+
+Mediante este Real Decreto se incorpora a nuestro derecho interno la Directiva 98/8/CE, con excepción de lo relativo al establecimiento de un sistema de tasas, que debe ser objeto de regulación, en sus elementos esenciales, mediante una norma con rango de Ley, en cumplimiento del principio de legalidad en esta materia establecido en la Constitución.
+
+El presente Real Decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.16.ª y 23.ª de la Constitución y de acuerdo con lo previsto en el artículo 40, apartados 1, 2, 5 y 6, de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En la elaboración de la presente disposición han sido oídas las Comunidades Autónomas, así como los sectores afectados y ha emitido su preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo y de los Ministros de Agricultura, Pesca y Alimentación y de Medio Ambiente, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de octubre de 2002,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto y ámbito de aplicación.
+
+1\. Este Real Decreto tiene por objeto regular:
+
+a) Los requisitos de autorización y la comercialización de biocidas en el territorio español.
+
+b) La evaluación de la peligrosidad y del riesgo de los biocidas.
+
+c) Las normas para el reconocimiento mutuo de autorizaciones y registros de biocidas en el territorio de la Unión Europea.
+
+d) Las reglas para la elaboración de la lista positiva de sustancias activas que puedan utilizarse en los biocidas.
+
+2\. Esta disposición será de aplicación a los biocidas definidos en el párrafo a) del artículo 2. Quedan excluidos del ámbito de aplicación del presente Real Decreto los aspectos relacionados a continuación, que se regirán por su normativa específica, así como los productos definidos o que entren en el ámbito de aplicación de dicha normativa especifica:
+
+a) Los medicamentos de uso humano.
+
+b) Los medicamentos de uso veterinario.
+
+c) Los productos sanitarios y los productos sanitarios implantables activos. Así como los productos sanitarios para diagnóstico "in vitro".
+
+d) Los aromas para productos alimenticios y materiales de base para su producción.
+
+e) Los aditivos alimentarios autorizados en los productos alimenticios destinados al consumo humano.
+
+f) Los materiales y objetos destinados a entrar en contacto con los productos alimenticios.
+
+g) La leche cruda, la leche tratada térmicamente y los productos lácteos.
+
+h) Las normas higiénico-sanitarias relativas a la producción y la puesta en el mercado de los ovoproductos.
+
+i) Las normas sanitarias aplicables a la producción y a la puesta en el mercado de los productos pesqueros.
+
+j) Los productos utilizados en alimentación animal, los piensos y los piensos medicamentosos.
+
+k) Los productos cosméticos.
+
+l) Los productos fitosanitarios.
+
+m) Las condiciones de concesión de excepciones temporales y limitadas respecto de las normas comunitarias sanitarias específicas aplicables a la producción y comercialización de determinados productos de origen animal.
+
+3\. El presente Real Decreto se aplicará sin perjuicio de las disposiciones pertinentes o de las medidas tomadas en virtud de dichas disposiciones, en particular, de las relativas a:
+
+a) La limitación a la comercialización y uso de determinadas sustancias y preparados peligrosos.
+
+b) La prohibición de comercialización y de utilización de productos fitosanitarios que contengan determinadas sustancias activas.
+
+c) La exportación e importación de determinados productos químicos peligrosos.
+
+d) La protección de los trabajadores contra los riesgos relacionados con la exposición a agentes químicos, físicos y biológicos durante el trabajo. La aplicación de medidas para promover la mejora de la seguridad y de la salud de los trabajadores en el lugar de trabajo.
+
+e) La publicidad engañosa.
+
+4\. El presente Real Decreto obliga a los fabricantes, importadores, formuladores, empresas comercializadoras y empresas de servicios biocidas que así se determinen reglamentariamente, entendiéndose como tales, toda persona física o jurídica que realice servicios de aplicación de estos productos.
+
+5\. Lo dispuesto en el artículo 19 no será aplicable al transporte de biocidas por tren, carreteras, vías fluviales, mar o aire.
+
+### Artículo 2. Definiciones.
+
+A efectos del presente Real Decreto se entiende por:
+
+a) Biocidas: las sustancias activas y preparados que contengan una o más sustancias activas, presentados en la forma en que son suministrados al usuario, destinados a destruir, contrarrestar, neutralizar, impedir la acción o ejercer un control de otro tipo sobre cualquier organismo nocivo por medios químicos o biológicos. En el anexo V figura una lista exhaustiva de veintitrés tipos de productos y, dentro de cada uno de ellos, una serie de descripciones de carácter indicativo.
+
+b) Biocidas de bajo riesgo: los biocidas que sólo contienen como sustancia activa una o más de las incluidas en el anexo IA y que no contienen ninguna sustancia de posible riesgo. En condiciones de uso, el biocida sólo planteará un bajo riesgo al ser humano, a los animales y al medio ambiente.
+
+c) Sustancias básicas: las sustancias que están clasificadas en el anexo IB y cuyo uso principal no es como plaguicidas, pero que tienen un uso de menor importancia como biocidas, bien directamente, bien en un producto formado por la sustancia y un simple diluyente que no sea, a su vez, una sustancia de posible riesgo y que no esté directamente comercializado para su uso como biocida.
+
+d) Sustancia activa: una sustancia o microorganismo, incluido un virus o un hongo, que ejerza una acción general o específica contra organismos nocivos.
+
+e) Sustancia de posible riesgo: toda sustancia que no sea la sustancia activa, que tenga la capacidad intrínseca de producir efectos adversos en el ser humano, los animales o el medio ambiente, y esté presente o se produzca en un biocida en concentración suficiente para manifestar tal efecto. Este tipo de sustancia, a menos que presente otros posibles riesgos, deberá estar clasificada como peligrosa, de acuerdo con el Real Decreto 363/1995, y estará presente en el biocida a una concentración tal que el producto debería ser considerado peligroso, según el Real Decreto 1078/1993.
+
+f) Organismo nocivo: todo organismo cuya presencia sea indeseable o que tenga un efecto dañino sobre el ser humano, sus actividades o los productos que utiliza o produce, o sobre los animales, o el medio ambiente.
+
+g) Residuos: una o varias de las sustancias presentes en un biocida que constituyan los restos de su utilización, incluidos los metabolitos de dichas sustancias y los productos resultantes de su degradación o reacción.
+
+h) Comercialización: cualquier suministro, a título oneroso o gratuito, o subsiguiente almacenamiento que no sea el almacenamiento seguido de la expedición fuera del territorio aduanero de la Unión Europea o de su eliminación. La importación de un biocida en el territorio aduanero de la Unión Europea se considerará como comercialización a efectos del presente Real Decreto.
+
+i) Autorización: el acto administrativo por el que, previa presentación de una solicitud por parte del interesado a la autoridad competente, se autoriza la comercialización de un biocida.
+
+j) Formulación marco: las especificaciones para un grupo de biocidas destinados al mismo uso y tipo de usuario. Dicho grupo de productos deberá contener las mismas sustancias activas con las mismas especificaciones, y su composición sólo deberá presentar variaciones respecto de un biocida autorizado anteriormente, que no afecten ni al nivel de riesgo de aquéllos ni a su eficacia. Se entenderá por variación la tolerancia de una reducción del porcentaje de la sustancia activa, y/o una alteración de la composición porcentual de una o de más sustancias no activas y/o la sustitución de uno o más pigmentos, tintes o aromas por otros que presenten igual o menor riesgo y no disminuyan su eficacia.
+
+k) Registro: el acto administrativo por el que previa presentación de una solicitud por parte del interesado a la autoridad competente, y después de la verificación por ésta de que el expediente cumple los requisitos correspondientes del presente Real Decreto, se autoriza la comercialización de un biocida de bajo riesgo.
+
+l) Carta de acceso: un documento firmado por el propietario o los propietarios de los datos pertinentes, protegidos en virtud de lo establecido en este Real Decreto, en el que se declara que dichos datos podrán ser utilizados por la autoridad competente, a los efectos de conceder una autorización o un registro del biocida.
+
+m) Coadyuvante: las sustancias tales como tensoactivos, fluidificantes, estabilizantes y demás que sean útiles en la elaboración de biocidas por su capacidad de modificar adecuadamente las propiedades físicas y químicas de los ingredientes activos.
+
+n) Sustancias: los elementos químicos y sus compuestos en estado natural, o los obtenidos mediante cualquier procedimiento de producción, incluidos los aditivos necesarios para conservar la estabilidad del producto y las impurezas que resulten del procedimiento utilizado, excluidos los disolventes que puedan separarse sin afectar la estabilidad ni modificar la composición.
+
+ñ) Preparados: las mezclas o soluciones compuestas de dos o más sustancias.
+
+o) Investigación y desarrollo científico: las investigaciones químicas, los análisis y los experimentos científicos efectuados bajo condiciones controladas. Esta definición incluye la determinación de las propiedades intrínsecas, del rendimiento y de la eficacia, así como la investigación científica relacionada con el desarrollo de productos.
+
+p) Investigación y desarrollo de la producción: el desarrollo ulterior de una sustancia durante el cual se prueban sus ámbitos de aplicación, utilizando producciones piloto o ensayos de producción.
+
+### Artículo 3. Autorización de comercialización de biocidas.
+
+1\. Los biocidas sólo podrán comercializarse y utilizarse en el territorio nacional si han sido previamente autorizados e inscritos en el Registro Oficial de Biocidas de la Dirección General de Salud Pública del Ministerio de Sanidad y Consumo, según lo dispuesto en el artículo 26 de este Real Decreto.
+
+2\. No obstante lo dispuesto en el apartado anterior:
+
+a) Los biocidas de bajo riesgo podrán comercializarse y utilizarse tras la presentación a la Dirección General de Salud Pública de un expediente, de acuerdo con lo establecido en el artículo 8.4, siempre que se registren debidamente, conforme a lo establecido en el artículo 26 del presente Real Decreto.
+
+b) Las sustancias básicas podrán comercializarse y usarse como biocidas cuando se hayan introducido en el anexo IB.
+
+3\. Plazos de resolución de solicitudes:
+
+a) En los procedimientos relativos a las solicitudes de autorización, la Dirección General de Salud Pública deberá dictar resolución y notificarla al interesado en un plazo de seis meses. En cuanto al procedimiento, se estará a lo dispuesto en la Ley 30/1992, de 20 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero.
+
+b) Para las solicitudes de biocidas, que por ser de bajo riesgo requieran registro, la Dirección General de Salud Pública tendrá un plazo de sesenta días para dictar y notificar la resolución correspondiente.
+
+4\. La Dirección General de Salud Pública deberá, previa petición o podrá por propia iniciativa, y cuando sea pertinente, establecer una formulación marco, que se comunicará al solicitante cuando conceda una autorización para un determinado biocida.
+
+Sin perjuicio de lo dispuesto en los artículos 8 y 12 de este Real Decreto y siempre que el solicitante tenga derecho a acceder a la formulación marco en forma de carta de acceso, cuando una solicitud posterior de autorización para un nuevo biocida se base en dicha formulación marco, la Dirección General de Salud Pública adoptará una decisión al respecto en un plazo de sesenta días.
+
+5\. Los biocidas deberán clasificarse, envasarse y etiquetarse según lo establecido en el presente Real Decreto.
+
+6\. Sin perjuicio de lo dispuesto en el apartado 1 del artículo 7, un biocida será autorizado por un periodo máximo de diez años a partir de la fecha de la primera inscripción o de la reinscripción de la sustancia activa en el anexo I o IA para este tipo de producto. El periodo de autorización no deberá superar el plazo fijado para la sustancia activa en dichos anexos. En caso de renovación de la autorización del producto biocida, ésta podrá efectuarse tras verificar que se cumplen todavía las condiciones que imponen los apartados 1 y 2 del artículo 5.
+
+Así mismo, podrá concederse la renovación, si procede, por el periodo de tiempo necesario para que la Dirección General de Salud Pública pueda efectuar la verificación de que se siguen cumpliendo dichas condiciones.
+
+7\. Los biocidas deberán utilizarse de la forma adecuada, lo cual implicará que se cumplan las condiciones establecidas en el artículo 5 y las especificadas en el artículo 19 en lo relativo al etiquetado. Dicha utilización llevará consigo la aplicación de las medidas apropiadas físicas, biológicas, químicas o de otro tipo que limiten al mínimo necesario el uso de biocidas. Cuando se utilicen biocidas en el lugar de trabajo, su uso se realizará conforme a lo dispuesto en las normas relativas a la protección de los trabajadores.
+
+### Artículo 4. Reconocimiento mutuo de autorizaciones y registros.
+
+1\. Sin perjuicio de lo dispuesto en el artículo 12, un biocida que haya sido autorizado o registrado en un Estado miembro, será autorizado o registrado antes de transcurridos ciento veinte días o sesenta días, respectivamente, desde la recepción de la solicitud en España, siempre que la sustancia activa del biocida esté incluida en los anexos I o IA y se ajuste a los requisitos de dichos anexos.
+
+Cuando se trate de reconocimiento mutuo de autorizaciones, la solicitud incluirá un resumen del expediente, conforme a lo dispuesto en el párrafo a) del apartado 3 del artículo 8 y en la sección X del anexo IIB o en la sección X del anexo IVB, según proceda, así como una copia legalizada de la primera autorización concedida.
+
+Para el reconocimiento mutuo de registros de biocidas de bajo riesgo, la solicitud incluirá los requisitos establecidos en el apartado 4 del artículo 8, excepto en lo que se refiere a los datos de eficacia, para los que será suficiente un resumen ; así mismo será necesario una copia legalizada del primer registro concedido.
+
+Si la solicitud se refiere a biocidas de uso ganadero, será remitida, con la documentación presentada, a la Dirección General de Ganadería, a efectos de su estudio y valoración.
+
+La autorización podrá estar sujeta también a disposiciones derivadas de la aplicación de otras medidas establecidas en la normativa relacionada con las condiciones de distribución y uso de los biocidas, destinada a proteger la salud de los distribuidores, usuarios y trabajadores afectados.
+
+Este procedimiento de reconocimiento mutuo se entiende sin perjuicio de lo regulado en las disposiciones legales destinadas a proteger la salud de los trabajadores.
+
+2\. Si, de acuerdo con lo dispuesto en el artículo 5, la Dirección General de Salud Pública determina que:
+
+a) La especie a la que se destina el biocida no está presente en cantidades nocivas,
+
+b) Se demuestra una tolerancia o resistencia inaceptable del organismo al que se destina el biocida, o
+
+c) Las circunstancias pertinentes relativas al uso del biocida, como el clima o el período de reproducción de las especies a las que se destina, difieren de forma significativa de las del Estado miembro en que se autorizó o registró por primera vez el biocida, y si su autorización no modificada puede presentar por ello riesgos inaceptables para el ser humano o el medio ambiente, podrá exigir que se incluyan las condiciones a las que se refieren los párrafos e), f), h), j) y l) del apartado 2 del artículo 19 para las diferentes circunstancias, de modo que se cumplan los requisitos del artículo 5.
+
+3\. La Dirección General de Salud Pública podrá denegar, provisionalmente, el registro de un biocida, registrado por otro Estado miembro, si no cumple con la definición establecida en el párrafo b) del artículo 2 y lo comunicará inmediatamente a la autoridad competente de dicho Estado miembro. Si dentro del plazo máximo de noventa días no se ha llegado a un acuerdo entre las correspondientes autoridades, el asunto se remitirá a la Comisión para una decisión conforme al procedimiento establecido en el apartado siguiente.
+
+4\. No obstante lo dispuesto en los apartados 2 y 3 de este artículo, cuando la Dirección General de Salud Pública considere que un biocida autorizado por otro Estado miembro no puede cumplir las condiciones del apartado 1 del artículo 5 y, por consiguiente, se proponga denegar la autorización o el registro o establecer limitaciones a la autorización, deberá notificarlo a los demás Estados miembros, a la Comisión y al solicitante. Les proporcionará además un documento explicativo en el que constarán el nombre y las especificaciones del producto y se explicarán los motivos por los que se propone denegar la autorización o establecer limitaciones a la misma.
+
+5\. Si el procedimiento del apartado 4 lleva a la confirmación o a la denegación de la autorización o del registro por parte de los órganos comunitarios competentes en el ámbito de la Unión Europea, la Dirección General de Salud Pública adoptará una decisión confirmando o denegando la autorización o el registro de acuerdo con la decisión adoptada por dichos órganos comunitarios, y en su caso, revisará su registro de conformidad con el articulo 6.
+
+6\. No obstante lo dispuesto en el apartado 1 de este artículo, la Dirección General de Salud Pública podrá rechazar, si su decisión está justificada, el reconocimiento mutuo de autorizaciones concedidas para biocidas de los tipos de producto 15, 17 y 23 del anexo V de este Real Decreto y deberá informar de su decisión a los demás Estados miembros y a la Comisión.
+
+### Artículo 5. Condiciones para la concesión de una autorización.
+
+1\. La Dirección General de Salud Pública autorizará o registrará un biocida y lo inscribirá en el Registro Oficial de Biocidas cuando:
+
+a) La sustancia o sustancias activas en él incluidas estén recogidas en las listas de los anexos I o IA y se cumplan todos los requisitos que disponen los anexos ;
+
+b) A la luz de los conocimientos científicos y técnicos actuales y como consecuencia del examen del expediente al que se refiere el artículo 8 y de acuerdo con los principios de evaluación establecidos en el anexo VI y teniendo en cuenta: Todas las condiciones normales de uso del biocida, la utilización del material tratado con el mismo, y las consecuencias del uso y la eliminación.
+
+El biocida:
+
+1.º Es suficientemente efectivo.
+
+2.º No tiene efectos inaceptables en los organismos a los que se destina, tal como resistencia inaceptable, o resistencia cruzada, o sufrimientos y dolores innecesarios para los vertebrados.
+
+3.º No tiene efectos inaceptables, por sí mismo o como consecuencia de sus residuos, en la salud humana o animal, directa o indirectamente (por ejemplo, por el agua potable o los alimentos destinados al consumo humano o animal, el aire interior o consecuencias en el lugar de trabajo), o en las aguas superficiales y subterráneas.
+
+4.º No tiene efectos inaceptables por sí mismo o como consecuencia de sus residuos en el medio ambiente, teniendo en cuenta su destino y distribución en el mismo, en particular la contaminación de las aguas superficiales (inclusive las aguas marinas y de estuario), el agua potable y el agua subterránea, y su repercusión en los organismos distintos de aquellos a los que se destina.
+
+c) Pueda determinarse la naturaleza y cantidad de sus sustancias activas y, cuando proceda, toda impureza o coadyuvante toxicológica o ecotoxicológicamente significativas, así como sus residuos de importancia toxicológica o ambiental que resulten de los usos autorizados, siguiendo los requisitos pertinentes de los anexos IIA, IIB, IIIA, IIIB, IVA o IVB ;
+
+d) Se hayan determinado sus propiedades físicas y químicas y se consideren aceptables para los fines de uso, almacenamiento y transporte adecuados del producto ;
+
+e) Haya sido evaluado previamente, en lo que respecta a los aspectos medioambientales, por la Dirección General de Calidad y Evaluación Ambiental del Ministerio de Medio Ambiente, y exista un informe favorable al respecto ;
+
+f) Exista un informe favorable de la Dirección General de Farmacia y Productos Sanitarios del Ministerio de Sanidad y Consumo, en el caso de los biocidas destinados a aplicarse sobre el cuerpo humano y en el área sanitaria ;
+
+g) Exista un informe preceptivo y vinculante de la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación en el supuesto de biocidas para usos entre los cuales se incluya el ganadero.
+
+2\. Un biocida clasificado con arreglo al apartado 1 del artículo 19 como tóxico, muy tóxico o como carcinogénico o mutagénico, categoría 1 ó 2 o tóxico para la reproducción categoría 1 ó 2, no será autorizado para la comercialización o el uso por el público en general.
+
+3\. Cuando se expida una autorización, se tendrán en cuenta los requisitos establecidos en otras normas o disposiciones que afecten a las condiciones de autorización y uso del biocida y, en especial, las que estén destinadas a proteger la salud de los distribuidores, usuarios, trabajadores y consumidores, la de los animales, o el medio ambiente.
+
+4\. La autorización o registro e inscripción en el Registro Oficial de Biocidas estará condicionada al cumplimiento de los requisitos establecidos en el apartado 1 de este artículo y deberá determinar las condiciones de comercialización y uso necesarias para garantizar su observancia.
+
+### Artículo 6. Revisión de una autorización.
+
+Toda autorización podrá ser revisada en cualquier momento, por ejemplo a la luz de la nueva información recibida de acuerdo con el artículo 14, cuando existan indicios de que ya no se cumplen las condiciones establecidas en el artículo 5. En este caso se podrá exigir la información adicional necesaria al titular de la autorización o al solicitante al que se le hubiera concedido una modificación de la autorización, con arreglo a lo dispuesto en el artículo 7.
+
+En caso necesario, deberá prorrogarse la autorización para completar la revisión así como para facilitar la información adicional.
+
+### Artículo 7. Revocación o modificación de una autorización.
+
+1\. Se revocará una autorización si:
+
+a) La sustancia activa ya no está incluida en los anexos I o IA, de conformidad con el párrafo a) del apartado 1 del artículo 5.
+
+b) Ya no se cumplen las condiciones del apartado 1 del artículo 5.
+
+c) Se descubre que la información en virtud de la cual se concedió la autorización contiene elementos falsos o engañosos.
+
+d) El titular de la autorización así lo solicita e indica los motivos de la revocación.
+
+2\. Cuando la Dirección General de Salud Pública considere necesario revocar una autorización, informará de ello al titular de la misma y le abrirá un periodo de audiencia. Así mismo, sin perjuicio de lo establecido en el Real Decreto 1406/1989, de 10 de noviembre, por el que se imponen limitaciones a la comercialización y el uso de ciertas sustancias y preparados peligrosos, y en el párrafo a) del apartado 1 de este artículo, se podrá conceder para la eliminación o para el almacenamiento, comercialización y utilización de las existencias del producto, un plazo, cuya duración dependerá del motivo de la revocación.
+
+3\. Según la evolución de los conocimientos científicos y técnicos y a fin de proteger la salud humana, la Dirección General de Salud Pública, cuando lo considere necesario, podrá modificar las condiciones de utilización de una autorización y, en particular, la forma de utilización o las cantidades que deban utilizarse, informará de ello al titular de la misma y le abrirá un periodo de audiencia.
+
+También podrá modificarse una autorización si el titular de la autorización así lo solicita e indica los motivos de la modificación.
+
+4\. Cuando la Dirección General de Calidad y Evaluación Ambiental considere necesario en el ámbito de sus competencias, según la evolución de los conocimientos científicos y técnicos y a fin de proteger el medio ambiente, revocar o modificar las condiciones de utilización de una autorización, se lo notificará a la Dirección General de Salud Pública, quien informará de las mismas al titular de la autorización y le abrirá un periodo de audiencia.
+
+5\. Cuando la modificación que se propone se refiera a una ampliación de la utilización, la Dirección General de Salud Pública ampliará la autorización con las condiciones particulares a que está sometida la sustancia activa con arreglo a los anexos I o IA.
+
+6\. Cuando la propuesta de modificación de una autorización implique cambios en las condiciones particulares a que está sometida la sustancia activa en los anexos I o IA, tales cambios solamente se realizaran después de la evaluación de la sustancia activa con respecto a los cambios propuestos, de acuerdo con los procedimientos establecidos en el artículo 11.
+
+7\. Cuando la Dirección General de Farmacia y Productos Sanitarios o la Dirección General de Ganadería consideren necesario en el ámbito de sus competencias, según la evolución de los conocimientos científicos y técnicos, revocar o modificar las condiciones de utilización de una autorización, se lo notificará a la Dirección General de Salud Pública, quien informará de las mismas al titular de la autorización y le abrirá un periodo de audiencia. Así mismo, en las modificaciones o revocaciones de los productos biocidas autorizados, que fueron informados por la Dirección General de Farmacia y Productos Sanitarios o por la Dirección General de Ganadería, será preciso contar igualmente con el informe preceptivo de estos centros directivos en relación con la modificación o revocación propuesta.
+
+8\. Sólo se concederán modificaciones si se ha comprobado que siguen cumpliéndose las condiciones exigidas en el artículo 5.
+
+### Artículo 8. Requisitos para la autorización y registro.
+
+1\. La solicitud de autorización se hará por o en nombre de la persona responsable de la primera comercialización de un biocida y se dirigirá a la Dirección General de Salud Pública.
+
+2\. Los solicitantes tendrán una oficina permanente en un país de la Unión Europea.
+
+3\. El solicitante de una autorización deberá presentar:
+
+a) Un expediente o una carta de acceso sobre el biocida que, con arreglo a los conocimientos científicos y técnicos del momento, responda a los requisitos del anexo IVB o del anexo IIB y, cuando así se especifique, a las partes pertinentes del anexo IIIB, y
+
+b) Para cada una de las sustancias activas del biocida, un expediente o una carta de acceso que responda a los requisitos del anexo IVA o del anexo IIA y, cuando se especifique, a las partes pertinentes del anexo IIIA.
+
+4\. No obstante lo dispuesto en el párrafo a) del apartado 3, para un biocida de bajo riesgo se tendrá que presentar un expediente con los siguientes datos:
+
+a) Solicitante: Nombre, apellidos y dirección, fabricantes del biocida y de las sustancias activas (nombres y direcciones, incluida la sede del fabricante de la sustancia activa), en su caso, una carta de acceso a todos los datos necesarios.
+
+b) Denominación y composición del biocida: Denominación comercial, composición completa, las propiedades físicas y químicas contempladas en el párrafo d) del apartado 1 del artículo 5.
+
+c) Usos previstos: Tipo de producto de acuerdo con el anexo V de este Real Decreto y ámbito de uso, categoría de usuarios, método de uso.
+
+d) Datos sobre la eficacia.
+
+e) Métodos analíticos.
+
+f) Clasificación, envasado y etiquetado, incluido un proyecto de etiqueta, conforme a lo dispuesto en el artículo 19 de esta disposición.
+
+g) Ficha de datos de seguridad con arreglo a lo establecido en el Real Decreto 1078/1993 o en el Real Decreto 363/1995.
+
+5\. Los expedientes técnicos se remitirán a la Dirección General de Salud Pública e incluirán una descripción completa y detallada de los estudios realizados y de los métodos empleados, o una referencia bibliográfica de los mismos y contendrán la información y los resultados de los estudios mencionados en los anexos IVA y IVB o en los anexos IIA y IIB y, cuando así se especifique, en las partes pertinentes de los anexos IIIA y IIIB.
+
+La información aportada con arreglo a lo dispuesto en el apartado 3 de este artículo deberá ser suficiente para hacer una evaluación de los efectos y las propiedades a las que se hace mención en los párrafos b), c) y d) del apartado 1 del artículo 5.
+
+6\. No tendrá que facilitarse información cuando no sea necesaria por la naturaleza del biocida o de los usos a que se destine, o cuando científicamente o técnicamente no sea posible facilitarla, presentándose, en estos casos, una justificación ante la Dirección General de Salud Pública, como podría ser la existencia de una formulación marco que el solicitante tenga derecho a conocer.
+
+7\. Si, después de la evaluación del expediente, se considera que es necesaria más información, incluidos datos y resultados de ensayos complementarios, para evaluar los peligros del biocida, se requerirá al solicitante dicha información. El cómputo del plazo máximo del procedimiento se suspenderá hasta la fecha en que se reciba la información solicitada.
+
+8\. La denominación de la sustancia activa se ajustará a las denominaciones que figuran en el anexo I del Reglamento sobre Notificación de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas, aprobado por el Real Decreto 363/1995, de 10 de mayo. Cuando las sustancias no estuvieran incluidas en dicho anexo, se ajustarán al Inventario Europeo de Sustancias Químicas Comercializadas Existentes (EINECS). Si no estuvieran incluidas en él, se les dará la denominación común de la Organización Internacional de Normalización (ISO). Si en estas últimas tampoco estuvieran incluidas las sustancias, se designará por su denominación química de acuerdo con las reglas de la Unión Internacional de Química Pura y Aplicada (IUPAC).
+
+9\. Los ensayos se realizarán conforme a lo dispuesto en el Real Decreto 822/1993, de 28 de mayo, por el que se establecen los principios de buenas prácticas de laboratorio y en el Real Decreto 223/1988, de 14 de marzo, sobre protección de animales utilizados para experimentación y otros fines científicos y conforme a los métodos recogidos en el anexo V del Reglamento sobre Notificación de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas, aprobado por el Real Decreto 363/1995, de 10 de mayo. En caso de que un método no sea adecuado o no esté descrito, se usarán otros métodos justificados y reconocidos internacionalmente.
+
+10\. No obstante, cuando existan datos anteriores al 14 de mayo de 2000 y que sean distintos de los establecidos en el anexo V del Real Decreto 363/1995, la Dirección General de Salud Pública en coordinación con la Dirección General de Calidad y Evaluación Ambiental, decidirán, caso por caso, si los datos son pertinentes a los efectos del presente Real Decreto y si es necesario realizar nuevos ensayos de acuerdo con el apartado anterior, teniendo en cuenta, entre otros factores, la necesidad de reducir al mínimo los ensayos efectuados con animales vertebrados.
+
+11\. La Dirección General de Salud Pública abrirá un expediente administrativo para cada solicitud que contendrá, al menos, una copia de la misma, un registro de las decisiones administrativas relativas a ésta y a los expedientes presentados con arreglo al apartado 3 de este artículo, junto con un resumen de estos últimos. La Dirección General de Salud Pública, a petición de las autoridades competentes de los Estados miembros y de la Comisión, proporcionará a éstas los expedientes administrativos referidos en este apartado, así como toda información necesaria para la completa comprensión de las solicitudes y, si se les pide, velarán por que los solicitantes aporten una copia de la documentación técnica prevista en el apartado 3 de este artículo.
+
+12\. Las solicitudes presentadas de acuerdo con lo establecido en el presente Real Decreto deberán estar redactadas, al menos, en la lengua española oficial del Estado.
+
+### Artículo 9. Comercialización de sustancias activas.
+
+Las sustancias activas para uso en biocidas sólo se podrán comercializar cuando:
+
+a) Se haya presentado un expediente con la sustancia activa no comercializada con anterioridad al 14 de mayo de 2000, que satisfaga los requisitos del apartado 1 del artículo 11 y vaya acompañado de una declaración de que la misma está destinada a formar parte de un biocida. Estos requisitos no serán de aplicación a las sustancias que vayan a usarse en investigación y desarrollo, de acuerdo con el artículo 16.
+
+b) Estén clasificadas, envasadas y etiquetadas con arreglo a lo dispuesto en el Reglamento sobre Notificación de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas, aprobado por el Real Decreto 363/1995, de 10 de mayo.
+
+### Artículo 10. Inclusión de una sustancia activa en los anexos I, IA o IB.
+
+1\. Una sustancia activa se incluirá en los anexos I, IA o IB, por un período inicial no superior a diez años, cuando:
+
+a) los biocidas que contengan dicha sustancia activa,
+
+b) los biocidas de bajo riesgo, definidos en el párrafo b) del artículo 2,
+
+c) las sustancias definidas en el párrafo c) del artículo 2, cumplan las condiciones de los párrafos b), c), d) y e) del apartado 1 del artículo 5, teniendo en cuenta los conocimientos científicos y técnicos del momento y, cuando proceda, los efectos acumulativos derivados del uso de biocidas que contengan las mismas sustancias activas.
+
+2\. Una sustancia activa no podrá incluirse en el anexo IA cuando se clasifique, con arreglo al Real Decreto 363/1995, como carcinógena, mutágena, tóxica para la reproducción, sensibilizante, o cuando se bioacumule y no se degrade fácilmente.
+
+Cuando fuera necesario, la inclusión de sustancias activas en el anexo IA se referirá a los intervalos de concentración entre los cuales puede emplearse la sustancia.
+
+3\. La inclusión de una sustancia activa en los anexos I, IA o IB estará condicionada, en su caso:
+
+a) A requisitos sobre:
+
+1.º El grado de pureza mínimo de la sustancia activa, 2.º La naturaleza y el contenido máximo de determinadas impurezas,
+
+3.º El tipo de producto en el que puede ser usada,
+
+4.º El modo y el área de utilización,
+
+5.º La designación de categorías de usuarios (por ejemplo, industriales, profesionales o no profesionales),
+
+6.º Otras condiciones particulares que resulten de la evaluación de la información, de acuerdo con el presente Real Decreto.
+
+b) Al establecimiento de:
+
+1.º Un nivel aceptable de exposición del operario (NAEO), en caso necesario,
+
+2.º Cuando sea pertinente, una ingesta diaria admisible (IDA) para el ser humano y un límite máximo de residuo (LMR),
+
+3.º Su destino y comportamiento en el medio ambiente y su repercusión sobre los organismos distintos a los que se destina.
+
+4\. La inclusión de una sustancia activa en los anexos I, IA o IB se limitará a aquellos tipos de productos mencionados en el anexo V de esta disposición, y de los que se hubieran presentado datos de acuerdo con el artículo 8.
+
+5\. La inclusión de una sustancia activa en los anexos I, IA o IB podrá renovarse, una o más veces, por periodos que no excedan de diez años. La inclusión inicial, así como cualquier renovación de inclusión, podrá revisarse en cualquier momento cuando existan indicios de que ya no se cumple alguno de los requisitos mencionados en el apartado 1 de este artículo. En su caso, la renovación podrá concederse solamente durante el tiempo necesario para proceder a la revisión, previa solicitud de renovación y se concederá por un periodo limitado para facilitar la nueva información que establece el apartado 2 del artículo 11.
+
+6\. a) Podrá denegarse o retirarse la inclusión de una sustancia activa en el anexo I o, en su caso, en los anexos IA o IB:
+
+1.º Si la evaluación de la sustancia activa con arreglo al apartado 2 del artículo 11 pone de manifiesto que, en las condiciones normales en que se puede utilizar en los biocidas autorizados, sigue causando preocupación para la salud o el medio ambiente, y
+
+2.º Si en dicho anexo ya existe para el mismo tipo de producto otra sustancia activa que, según los conocimientos científicos y técnicos, presente un riesgo significativamente menor para la salud o para el medio ambiente.
+
+Cuando se considere la denegación o la retirada por esta causa, se presentará una evaluación de una o de varias sustancias activas alternativas que demuestren que pueden utilizarse con un efecto similar en el organismo al que se destina, sin desventajas prácticas ni económicas importantes para el usuario y sin incremento de riesgo para la salud y el medio ambiente.
+
+La evaluación se difundirá con arreglo al procedimiento establecido en el apartado 2 del artículo 11.
+
+b) La denegación o retirada de una sustancia incluida en el anexo I y cuando sea pertinente de los anexos IA o IB, se realizará en las siguientes condiciones:
+
+1.º La diversidad química de las sustancias activas deberá ser adecuada para reducir al mínimo la aparición de resistencia en el organismo al que se destina.
+
+2.º Deberá aplicarse sólo a sustancias activas que, cuando se utilicen en condiciones normales en biocidas autorizados, presenten un nivel de riesgo significativamente distinto.
+
+3.º Deberá aplicarse únicamente a las sustancias activas utilizadas en productos del mismo tipo.
+
+4.º Deberá aplicarse sólo tras permitir, si fuera necesario, adquirir experiencia de su uso en la práctica cuando no exista ya.
+
+c) La decisión de retirar una sustancia del anexo I no tendrá efecto inmediato, sino que se retrasará hasta un período máximo de cuatro años, a contar desde la fecha de la decisión.
+
+### Artículo 11. Procedimiento de inclusión de una sustancia activa en los anexos I, IA o IB.
+
+1\. La Dirección General de Salud Pública estudiará la inclusión, o las modificaciones posteriores a dicha inclusión, de una sustancia activa en los anexos I, IA o IB, cuando:
+
+a) Un solicitante haya presentado:
+
+1.º Un expediente sobre la sustancia activa que cumpla los requisitos del anexo IVA o los del anexo IIA y, cuando así se especifique, de las partes correspondientes del anexo IIIA.
+
+2.º Un expediente al menos de un biocida que contenga la sustancia activa que cumpla los requisitos del artículo 8, a excepción de su apartado 4.
+
+b) Haya verificado los expedientes y considere que cumplen los requisitos de los anexos IVA y IVB o los de los anexos IIA y IIB, así como los de los anexos IIIA y IIIB cuando proceda, acepte dichos expedientes y autorice al solicitante a que envíe un resumen de los mismos a los demás Estados miembros y a la Comisión.
+
+2\. En el plazo de los doce meses siguientes a la aceptación de los expedientes, se hará una evaluación de los mismos y se enviará una copia a la Comisión, a los demás Estados miembros y al solicitante, junto con una recomendación de inclusión de la sustancia activa en los anexos I, IA o IB, u otro tipo de decisión, para su posterior tramitación.
+
+Si de la evaluación de los expedientes se considera necesaria información complementaria para hacer una evaluación completa, se requerirá del solicitante dicha información. Este periodo de doce meses queda suspendido desde la fecha de emisión del requerimiento hasta la fecha en que se reciba la información solicitada. La Dirección General de Salud Pública informará de sus actuaciones a los demás Estados miembros y a la Comisión, al mismo tiempo que al solicitante.
+
+3\. La Dirección General de Salud Pública, una vez recibidos los expedientes, podrá solicitar a la Comisión, motivadamente, que la evaluación de los mismos se realice por otros Estados miembros.
+
+### Artículo 12. Utilización de datos en poder de la Dirección General de Salud Pública por otros solicitantes.
+
+1\. No se hará uso de la información a la que se refiere el artículo 8 de este Real Decreto, relativo a un principio activo, en beneficio de un segundo solicitante u otro solicitante posterior:
+
+a) A menos que el segundo o posterior solicitante tenga una autorización escrita en forma de carta de acceso del primer solicitante, para poder utilizar dicha información, o
+
+b) cuando se trate de una sustancia activa no comercializada con anterioridad al 14 de mayo de 2000, hasta transcurridos quince años a partir de la fecha de su primera inclusión en los anexos I o IA, o
+
+c) cuando se trate de una sustancia activa, que se encuentre ya comercializada a fecha 14 de mayo de 2000, supuesto en el cual:
+
+1.º El periodo de protección será de 14 años, a partir del 14 de mayo de 2000, para cualquier información presentada, salvo que se prorrogue el plazo para evaluar una sustancia activa a nivel comunitario, en cuyo caso el periodo de protección no podrá superar la fecha límite de esa nueva prórroga.
+
+2.º El periodo de protección será de diez años, a partir de la fecha de la inclusión de una sustancia activa en los anexos I o IA, en el caso de información presentada por primera vez en apoyo de la primera inclusión en los citados anexos, bien de la sustancia activa, bien de un nuevo tipo de producto correspondiente a dicha sustancia activa.
+
+d) Cuando se trate de información adicional presentada por primera vez y relativa a la modificación de los requisitos de inclusión en los anexos I o IA, o al mantenimiento de la inclusión en los anexos I o IA, el periodo de protección será de cinco años a partir de la fecha de la recepción de la información adicional, a menos que dicho período finalice antes del fijado en los párrafos b) y c) del apartado 1, en cuyo caso se ampliará de modo que el periodo de protección de los informes finalice al mismo tiempo.
+
+2\. No se hará uso de la información a la que se hace referencia en el artículo 8 de este Real Decreto, relativa a un biocida y a un biocida de bajo riesgo, en beneficio de un segundo solicitante u otro solicitante posterior:
+
+a) a menos que el segundo o posterior solicitante tenga una autorización escrita en forma de carta de acceso del primer solicitante para poder utilizar dicha información, o
+
+b) cuando se trate de biocidas que contengan una sustancia activa que no esté comercializada con anterioridad al 14 de mayo de 2000, en cuyo caso el periodo de protección será de diez años a partir de la fecha de la primera autorización de comercialización en un Estado miembro, o
+
+c) cuando se trate de un biocida que contenga una sustancia activa, que esté ya comercializada a fecha de 14 de mayo de 2000, en cuyo caso el periodo de protección será:
+
+1.º de 14 años, a partir de la fecha antes mencionada, para cualquier información presentada de acuerdo con el mismo, salvo que se prorrogue el plazo para evaluar la sustancia activa del biocida a nivel comunitario, en cuyo caso el periodo de protección no podrá superar la fecha límite de esa nueva prórroga.
+
+2.º de diez años, a partir de la fecha de la inclusión de una sustancia activa en los anexos I o IA, en el caso de información presentada por primera vez en apoyo de la primera inclusión en los citados anexos, bien de la sustancia activa, bien de un nuevo tipo de producto correspondiente a dicha sustancia activa ;
+
+d) cuando se trate de datos presentados por primera vez y que afecten a una modificación de las condiciones de autorización de un biocida o al mantenimiento de la inclusión de una sustancia activa en los anexos I o IA, en cuyo caso el período de protección será de cinco años a partir de la fecha de la recepción de la información adicional ; a menos que dicho período finalice antes del fijado en los párrafos b) y c), en cuyo caso se ampliará de modo que finalice en la misma fecha que dichos períodos.
+
+3\. La Dirección General de Salud Pública podrá remitir a la Comisión y a los Estados miembros la información a que se refieren los apartados 1 y 2 del presente artículo, a efectos de lo dispuesto en el apartado 6 del artículo 10.
+
+> Se modifican los números 1 del apartado 1.c) y 2.c) por el art. único.1 y 2 del Real Decreto 1090/2010, de 3 de septiembre. [Ref. BOE-A-2010-14138](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14138).
+
+### Artículo 13. Cooperación en la utilización de los datos para la segunda solicitud de autorización y siguientes.
+
+1\. En el caso de un biocida que ya haya sido autorizado de acuerdo con los artículos 3 y 5, y sin perjuicio de los requisitos del artículo 12, se podrá aceptar que un segundo solicitante u otros posteriores hagan referencia a los datos facilitados por el primer solicitante o solicitantes posteriores, siempre y cuando éstos demuestren que el biocida es semejante y sus sustancias activas son las mismas que las autorizadas en primer lugar, incluidos el grado de pureza y la naturaleza de las impurezas.
+
+2\. No obstante lo dispuesto en el apartado 3 del artículo 8:
+
+a) El solicitante de autorización para un biocida, antes de llevar a cabo ensayos con animales vertebrados, recabará de la Dirección General de Salud Pública información sobre si el biocida para el que se vaya a presentar la solicitud es semejante a otro biocida que haya sido autorizado, y el nombre y dirección del titular o titulares de la autorización o autorizaciones anteriores.
+
+La petición de información irá acompañada de documentos que acrediten que el solicitante potencial tiene intención de pedir una autorización por cuenta propia y que tiene disponible el resto de la información especificada en el apartado 3 del artículo 8.
+
+b) La Dirección General de Salud Pública facilitará el nombre y la dirección del titular o titulares de autorizaciones anteriores y comunicará a éstos el nombre y la dirección del nuevo solicitante, tras asegurarse de que el mismo tiene intención de presentar tal solicitud.
+
+El titular o titulares de autorizaciones anteriores y el nuevo solicitante deberán compartir, entre ellos, la información existente. Para ello, la Dirección General de Salud Pública instará a los poseedores de dicha información a colaborar en la aportación de los datos exigidos con el fin de evitar, si es posible, la repetición de ensayos sobre animales vertebrados.
+
+En caso de desacuerdo, la Dirección General de Salud Pública, con el objeto de evitar que se repitan ensayos sobre animales vertebrados, podrá adoptar medidas que les obliguen a compartir la información, determinando al mismo tiempo el procedimiento para su utilización, teniendo en cuenta los intereses de las partes afectadas.
+
+### Artículo 14. Nueva información.
+
+1\. Todo poseedor de una autorización para un biocida deberá, por propia iniciativa y bajo su responsabilidad, notificar inmediatamente por escrito a la Dirección General de Salud Pública la información que conozca relativa a una sustancia activa o un biocida que la contenga y que pueda influir en la continuidad de la autorización, notificando en particular, lo siguiente:
+
+Los nuevos conocimientos o información sobre los efectos de la sustancia activa o del biocida en el ser humano o el medio ambiente, los cambios en el origen o composición de la sustancia activa, los cambios en la composición de un biocida, el desarrollo de resistencia, los cambios de tipo administrativo u otros aspectos como el tipo de envasado.
+
+2\. La Dirección General de Salud Pública comunicará inmediatamente, a los demás Estados miembros, a la Comisión y a las autoridades competentes nacionales, cualquier información que reciba referente a efectos potencialmente peligrosos para la salud humana o el medio ambiente o a la nueva composición de un biocida, sus sustancias activas, impurezas, coadyuvantes o residuos.
+
+### Artículo 15. Excepciones a los requisitos para la comercialización.
+
+1\. No obstante lo dispuesto en los artículos 3 y 5, la Dirección General de Salud Pública, previo informe de las Direcciones Generales mencionadas en el artículo 5 apartados 1.e), 1.f) y 1.g), podrá autorizar, por un plazo no superior a ciento veinte días, la comercialización de biocidas que no cumplan con los requisitos de este Real Decreto, para una utilización controlada y limitada, si tal medida fuera necesaria debido a un peligro imprevisto que no pueda controlarse por otros medios, informando inmediatamente a los demás Estados miembros y a la Comisión de la medida tomada y de su justificación. La Dirección General de Salud Pública podrá ampliar el plazo mencionado o reiterar la medida adoptada, previa conformidad de los órganos comunitarios competentes.
+
+Asimismo, a instancia de la Dirección General de Ganadería, la Dirección General de Salud Pública autorizará los productos biocidas que sean necesarios en caso de urgencia.
+
+2\. No obstante lo dispuesto en el párrafo a) del apartado 1 del artículo 5, y hasta que una sustancia activa se incluya en la Lista Comunitaria de los anexos I o IA, la Dirección General de Salud Pública podrá autorizar provisionalmente y por un período no superior a tres años, la comercialización de un biocida que contenga una sustancia activa no incluida en dichos anexos siempre que sea una sustancia activa no comercializada con anterioridad al 14 de mayo de 2000, cuya finalidad no sea la investigación y el desarrollo científico y de los procesos de producción. Dicha autorización podrá concederse únicamente si, tras la evaluación de los expedientes, de acuerdo con lo establecido en el artículo 11, se considera que la sustancia activa cumple los requisitos del artículo 10 y que el biocida cumple las condiciones de los párrafos b), c), d), e) y en su caso f) y g) del apartado 1 del artículo 5 y ningún otro Estado miembro, plantea objeciones, en virtud del apartado 2, párrafo c), del artículo 17.
+
+La Dirección General de Salud Pública revocará la autorización provisional cuando los órganos comunitarios competentes decidan que las objeciones formuladas, en su caso, están fundadas, bien sea porque los expedientes no estén completos o porque la sustancia activa no cumpla los requisitos especificados en el artículo 10.
+
+Si transcurrido el periodo de tres años, no se hubiere completado la evaluación de los expedientes para la inclusión de la sustancia activa en los anexos I o IA, se podrá seguir autorizando de manera provisional el producto, por un periodo no superior a un año, siempre que la sustancia activa cumpla los requisitos del artículo 10, informando de ello a los demás Estados miembros y a la Comisión.
+
+### Artículo 16. Investigación y desarrollo.
+
+1\. No obstante lo dispuesto en el artículo 3, cualquier ensayo o experimento con fines de investigación y desarrollo que implique la comercialización de un biocida no autorizado o de una sustancia activa destinada exclusivamente a utilizarse en un biocida, no podrá llevarse a cabo a menos que:
+
+a) En el caso de investigación y desarrollo científico, toda persona interesada lleve un registro con la identidad del biocida o de la sustancia activa, datos del etiquetado, cantidades facilitadas y los nombres y direcciones de aquellas personas que reciben el biocida o la sustancia activa, y todos los datos disponibles sobre los posibles efectos en la salud humana o animal o el impacto en el medio ambiente. Esta información deberá hallarse a disposición de la Dirección General de Salud Pública.
+
+b) En el caso de la investigación y desarrollo en procesos de producción, la información solicitada en el párrafo a) se notifique a la Dirección General de Salud Pública, tanto para efectuar la comercialización como para realizar los ensayos o experimentos.
+
+2\. Un biocida no autorizado o una sustancia activa para uso exclusivo en un biocida no podrá comercializarse con fines de investigación y desarrollo cuando pueda existir una liberación al medio durante los ensayos o experimentos del mismo, salvo cuando una vez evaluados los datos de que dispone la Dirección General de Salud Pública, con el informe previo de la Dirección General de Calidad y Evaluación Ambiental y, en su caso, de la Dirección General de Ganadería, para los aspectos de sus respectivas competencias y, cuando sea necesario, el informe no vinculante del Ministerio de Ciencia y Tecnología haya dado una autorización que limite las cantidades que se vayan a usar, las zonas que vayan a tratarse y se ajuste a las condiciones adicionales que se hayan adoptado a este efecto.
+
+3\. Cualquier experimento o ensayo que vaya a realizarse en territorio español deberá obtener la previa autorización de la Dirección General de Salud Pública.
+
+Si los ensayos o experimentos propuestos que se mencionan en los apartados 1 y 2 pudieran tener efectos nocivos para la salud humana o animal o una influencia adversa inaceptable para el medio ambiente, la Dirección General de Salud Pública podrá prohibirlos o autorizarlos sólo en las condiciones necesarias para evitar dichas consecuencias.
+
+4\. El apartado 2 de este artículo no se aplicará cuando se haya concedido a la persona interesada el derecho de realizar determinados experimentos y ensayos, y se hayan fijado las condiciones bajo las que deben llevarse a cabo.
+
+5\. Los criterios comunes, en particular las cantidades máximas de sustancias activas o biocidas que puedan liberarse durante los experimentos y los datos mínimos que deben presentarse de acuerdo con el apartado 2 de este artículo, se adoptarán a nivel comunitario.
+
+### Artículo 17. Funciones de la autoridad competente.
+
+Serán funciones de la Dirección General de Salud Pública:
+
+1\. Examinar la información y documentación a que hace referencia el presente Real Decreto, pudiendo además:
+
+a) Recabar del solicitante los ensayos y la información adicional, si tras la evaluación de los expedientes considera que es necesaria información complementaria para hacer una evaluación completa de los mismos.
+
+b) Solicitar los expedientes administrativos a los que se refiere al apartado 11 del artículo 8, así como toda la información necesaria para la completa comprensión de las solicitudes, incluido, si fuera preciso, una copia de la documentación técnica prevista en el apartado 3 del artículo 8.
+
+c) Exigir que se faciliten muestras del preparado y de sus componentes, así como muestras, modelos o proyectos de los envases, las etiquetas y los prospectos.
+
+2\. Participar en el intercambio de información entre la Comisión y las autoridades competentes de los Estados miembros, comunicando e informando:
+
+a) En el plazo de un mes, después de finalizar cada trimestre, de todos los biocidas que hayan sido autorizados o registrados o de los que se hayan denegado, modificado, renovado o cancelado una autorización o un registro, indicando como mínimo:
+
+1.º El nombre y apellidos o razón social del solicitante o del titular de la autorización o del registro.
+
+2.º La denominación comercial del biocida.
+
+3.º El nombre y la cantidad de cada sustancia activa que contenga, así como el nombre y cantidad de cada una de las sustancias peligrosas y su clasificación.
+
+4.º El tipo de producto y el uso o los usos para los que esté autorizado.
+
+5.º El tipo de formulación.
+
+6.º Los límites propuestos de residuos que se hayan determinado.
+
+7.º Las condiciones de la autorización y, cuando proceda, los motivos de la modificación o cancelación de una autorización.
+
+8.º Si el producto es de un tipo especial (por ejemplo, un producto incluido en una formulación marco o un biocida de bajo riesgo).
+
+b) Cuando rechace el reconocimiento mutuo de autorizaciones concedidas para los tipos de producto biocida 15, 17 y 23 del anexo V del presente Real Decreto.
+
+c) Sin retraso injustificado, a la autoridad competente responsable de la evaluación de los expedientes, así como a la Comisión y a los demás Estados miembros, cuando reciba el resumen de los expedientes con arreglo al párrafo b) del apartado 1 del artículo 11 y al apartado 2 del artículo 15 y tenga motivos legítimos para creer que está incompleto.
+
+d) Cuando debido a un peligro imprevisto que no pueda controlarse por otros medios, autorice para una utilización controlada y limitada, por un plazo no superior a ciento veinte días, la comercialización de biocidas que no cumplan con los requisitos de este Real Decreto.
+
+e) Una lista anual de los biocidas autorizados o registrados, a los demás Estados miembros y a la Comisión.
+
+f) Sobre su actuación en esta materia, así como sobre cualquier intoxicación debida a biocidas, después del 14 de mayo de 2000, cada tres años a la Comisión, antes del 30 de noviembre.
+
+3\. Informar a la Comisión, a las autoridades competentes y al solicitante cuando se proponga denegar la autorización o el registro o establecer limitaciones a la autorización en determinadas circunstancias, para un biocida autorizado por otro Estado miembro en los términos establecidos en el apartado 4 del artículo 4.
+
+4\. Remitir una copia de los expedientes administrativos tras su aceptación a la Comisión, a los Estados miembros y al solicitante con las recomendaciones y decisiones que considere oportunas.
+
+5\. Garantizar la confidencialidad de los datos relativos a la composición de las formulaciones de un producto.
+
+6\. Recabar, si lo estima oportuno, la colaboración y asesoría de expertos científicos y, en su caso, constituir grupos de trabajo especializados para el estudio de los expedientes.
+
+7\. Velar tras la inclusión o no de una sustancia activa en los anexos I, IA o IB, para que se concedan, se modifiquen o se cancelen, según proceda, las autorizaciones o, en su caso, los registros de biocidas que contengan dichas sustancias activas y cumplan lo dispuesto en el presente Real Decreto.
+
+8\. Establecer, cuando proceda, modelos y sistemas normalizados de las solicitudes correspondientes para la presentación de los documentos del expediente de autorización y registro.
+
+9\. Coordinar las actuaciones necesarias para el cumplimiento de los principios establecidos en esta disposición.
+
+10\. Elaborar la legislación básica destinada a la armonización de la política sanitaria de las Comunidades Autónomas en materia de vigilancia y control de biocidas.
+
+11\. Enviar a las Direcciones Generales de Calidad y Evaluación Ambiental, de Farmacia y Productos Sanitarios, y de Ganadería, la documentación técnica necesaria para la emisión de los correspondientes informes, así como cualquier información que les afecte.
+
+Serán funciones de la Dirección General de Calidad y Evaluación Ambiental, y en su caso, de la Dirección General de Farmacia y Productos Sanitarios y de la Dirección General de Ganadería, las especificadas en los apartados 1.a) y b), 6, 7 y 10 del presente artículo, en el ámbito de sus respectivas competencias, colaborando con la Dirección General de Salud Pública para el desempeño de las funciones mencionadas con anterioridad. La Dirección General de Ganadería será la autoridad competente para realizar la evaluación de seguridad y eficacia de los productos biocidas de su competencia.
+
+### Artículo 18. Confidencialidad.
+
+1\. No obstante lo dispuesto en la Ley 38/1995, de 12 de diciembre, sobre el derecho de acceso a la información en materia de medio ambiente, todo solicitante podrá indicar la información que puede considerarse sensible desde el punto de vista comercial y cuya difusión podría producirle un perjuicio comercial o industrial y que, por ello, desea que sea confidencial respecto a cualquier persona que no sea la autoridad competente o la Comisión. En cada caso se exigirá una justificación completa. Sin perjuicio de lo establecido tanto en apartado 3 de este artículo como en los Reales Decretos 363/1995 y 1078/1993, la Dirección General de Salud Pública tomará las medidas necesarias para garantizar la confidencialidad de la composición de las formulaciones de un producto si así lo pide el solicitante.
+
+2\. La Dirección General de Salud Pública, cuando reciba la solicitud, decidirá, basándose en las pruebas documentales presentadas por el solicitante, la información que se considerará confidencial según lo dispuesto en el apartado 1.
+
+La información considerada confidencial por la Dirección General de Salud Pública será tratada como tal por las demás autoridades competentes de los Estados miembros y la Comisión. Así mismo, la Dirección General de Salud Pública tratará como confidencial aquella información considerada como tal por las autoridades competentes de los Estados miembros y la Comisión.
+
+3\. Una vez que se haya concedido la autorización, en ningún caso tendrán carácter confidencial:
+
+a) El nombre y la dirección del solicitante.
+
+b) El nombre y la dirección del fabricante del biocida.
+
+c) El nombre y la dirección del fabricante de la sustancia activa.
+
+d) La denominación y el contenido de la sustancia o las sustancias activas en el biocida, ni la denominación del biocida.
+
+e) Las denominaciones de otras sustancias que se consideren peligrosas con arreglo a lo dispuesto en el Real Decreto 363/1995, y que contribuyan a la clasificación del producto.
+
+f) Los datos físicos y químicos relativos a la sustancia activa y al biocida.
+
+g) Cualquier método utilizado para hacer inofensivos la sustancia activa o el biocida.
+
+h) El resumen de los resultados de los ensayos que exige el artículo 8 para determinar la eficacia del producto o de la sustancia y sus efectos en los seres humanos, los animales y el medio ambiente, así como su capacidad para provocar resistencia, en su caso.
+
+i) Los métodos y precauciones recomendados para reducir los riesgos debidos a la manipulación, el almacenamiento, el transporte, el uso, el incendio y otros riesgos.
+
+j) Las fichas de datos de seguridad.
+
+k) Los métodos de análisis que establece el párrafo c) del apartado 1 del artículo 5.
+
+l) Los métodos de eliminación del producto y su envase.
+
+m) Los procedimientos que deberán seguirse y las medidas que deberán adoptarse en caso de derrame o fuga.
+
+n) Los primeros auxilios que deberán dispensarse y los consejos médicos que deberán darse en caso de que se produzcan daños a personas.
+
+Si el solicitante, fabricante o importador del biocida o de la sustancia activa revelara posteriormente información que antes era confidencial, deberá informar de ello a la Dirección General de Salud Pública.
+
+### Artículo 19. Clasificación, envasado y etiquetado de biocidas.
+
+1\. Los biocidas se clasificarán y se envasarán con arreglo a lo dispuesto en el Reglamento de preparados peligrosos, aprobado por el Real Decreto 1078/1993. Además, los productos que estén al alcance del público en general y puedan confundirse con alimentos, bebidas o piensos, contendrán componentes que disuadan de su consumo y se envasarán de forma que se reduzca al mínimo la posibilidad de tal confusión. Esta exigencia podrá ser requerida en el procedimiento de autorización para aquellos otros biocidas de uso profesional cuyas características así lo precisen.
+
+2\. Los biocidas se etiquetarán con arreglo a lo dispuesto en el Reglamento de preparados peligrosos, aprobado por el Real Decreto 1078/1993. Las etiquetas no deberán inducir a error ni dar una imagen exagerada del producto, y tampoco mencionarán, en ningún caso, las indicaciones "biocida de bajo riesgo", "no tóxico", "inofensivo", ni advertencias similares. Además, la etiqueta mostrará de forma clara e indeleble lo siguiente:
+
+a) Identidad de todas las sustancias activas y su concentración en unidades métricas.
+
+b) Número de autorización concedido al biocida por la Dirección General de Salud Pública.
+
+c) Tipo de preparado.
+
+d) Usos para los que se autoriza el biocida (por ejemplo, protector para madera, desinfección, biocida de superficie, antiincrustante, etc.).
+
+e) Instrucciones de uso y dosificación, expresada en unidades métricas, para cada uso contemplado en los términos de la autorización.
+
+f) Detalles de efectos adversos probables, directos o indirectos, e instrucciones de primeros auxilios.
+
+g) La frase "Léanse las instrucciones adjuntas antes de utilizar el producto", en caso de que vaya acompañado de un prospecto.
+
+h) Instrucciones para la eliminación segura del biocida y de su envase, incluida, cuando proceda, cualquier prohibición de reutilización del envase.
+
+i) El número o designación del lote del preparado y la fecha de caducidad pertinente para las condiciones normales de almacenamiento.
+
+j) El período de tiempo necesario para que se produzca el efecto biocida, el intervalo que debe observarse entre aplicaciones del biocida, cuando proceda ; el intervalo de tiempo que debe observarse entre la aplicación y el próximo uso del producto tratado o el próximo acceso del ser humano o los animales a la zona afectada por el tratamiento biocida, cuando proceda ; incluidos detalles sobre los medios y las medidas de descontaminación y la duración de la ventilación necesaria de las zonas tratadas ; detalles sobre el modo de limpiar adecuadamente el equipo ; detalles sobre las medidas preventivas necesarias durante la utilización, el almacenamiento y el transporte (por ejemplo, ropa y equipo de protección personal, medidas de protección contra el fuego, protección de muebles, traslado de alimentos o de piensos e instrucciones para evitar la exposición de animales).
+
+Y, cuando proceda:
+
+k) Las categorías de usuarios a los que se limita el biocida.
+
+l) Información de cualquier peligro específico para el medio ambiente, en particular en lo que respecta a la protección de los organismos distintos del organismo al que se destina y a evitar la contaminación del agua.
+
+m) En el caso de los biocidas microbiológicos, los requisitos de etiquetado establecidos de conformidad con lo dispuesto en el Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo.
+
+La Dirección General de Salud Pública exigirá que los requisitos de los párrafo a), b), d) y, cuando proceda, g) y k) vayan siempre indicados en la etiqueta del producto y permitirá que los requisitos de los párrafos c), e), f), h), i), j) y l) de este apartado vayan indicados en otro lugar del envase o en un folleto adicional que forme parte integrante del envase, considerándose que esta información forma parte de la etiqueta a los efectos de este Real Decreto.
+
+3\. Cuando un biocida identificado como insecticida, acaricida, rodenticida, avicida y molusquicida esté autorizado conforme a lo dispuesto en esta disposición y esté sometido a clasificación, envasado y etiquetado con arreglo a la Reglamentación técnico-sanitaria de Plaguicidas, aprobado por el Real Decreto 3349/1983 y posteriores modificaciones, la Dirección General de Salud Pública podrá permitir efectuar cambios en el envasado y etiquetado de dicho producto que pueden ser necesarios como consecuencia de dichas disposiciones, siempre y cuando no entren en conflicto con las condiciones de una autorización expedida con arreglo al presente Real Decreto.
+
+4\. La Dirección General de Salud Pública podrá exigir que se le suministren muestras, modelos o proyectos de los envases, las etiquetas y los prospectos.
+
+5\. El etiquetado de los biocidas deberá expresarse al menos en la lengua española oficial del Estado.
+
+### Artículo 20. Ficha de datos de seguridad.
+
+Para garantizar un sistema específico de información que permita a los usuarios profesionales e industriales de biocidas y, en su caso, otros usuarios, tomar las medidas necesarias tanto para la protección de la salud humana y el medio ambiente como para la higiene y seguridad en el lugar de trabajo, se utilizará una ficha de datos de seguridad de cada producto comercializado que facilitarán los fabricantes o responsables de la comercialización. Una copia de la misma se entregará a la Dirección General de Salud Pública, preferiblemente por medios telemáticos o en su defecto en soporte magnético. La Dirección General de Salud Pública enviará a la Dirección General de Ganadería una copia de dichas fichas de los productos de su competencia.
+
+La ficha de datos de seguridad se elaborará del siguiente modo:
+
+a) Para los biocidas clasificados como peligrosos, de conformidad con lo establecido en el artículo 10 del Real Decreto 1078/1993.
+
+b) Para las sustancias activas utilizadas exclusivamente en biocidas, de conformidad con lo dispuesto en el artículo 23 del Real Decreto 363/1995.
+
+### Artículo 21. Publicidad.
+
+1\. Toda publicidad de un biocida irá acompañada de las frases "Utilice los biocidas de forma segura. Lea siempre la etiqueta y la información sobre el producto antes de usarlo". Estas frases destacarán claramente dentro del conjunto de la publicidad, y la palabra "biocida" podrá ser sustituida por la descripción exacta del tipo de producto que se anuncia, por ejemplo, protectores de la madera, desinfectantes, biocidas de superficie, productos antiincrustantes, etc.
+
+2\. La publicidad de biocidas no deberá presentar el producto de forma que pueda inducir a error en cuanto a los riesgos para el ser humano o el medio ambiente, ni incluirá ninguna mención como "producto biocida de bajo riesgo", "no tóxico", "inofensivo", ni cualquier indicación similar.
+
+### Artículo 22. Prevención y control toxicológico de biocidas.
+
+El Ministerio de Sanidad y Consumo establecerá un sistema de información sanitaria y toxicovigilancia epidemiológica destinado a prevenir, detectar, diagnosticar y tratar los problemas sanitarios relacionados o causados por los biocidas.
+
+La información recogida por este sistema de información permitirá adoptar medidas para la prevención y control de la toxicidad aguda, subaguda, crónica (carcinogénesis), y toxicidad a la reproducción.
+
+El sistema de información que estará coordinado por la Dirección General de Salud Pública recogerá información y la facilitará, cuando proceda, a las siguientes fuentes:
+
+a) Registros propios de la Dirección General de Salud Pública sobre biocidas, sustancias químicas nuevas, existentes, preparados peligrosos y bases científicas nacionales e internacionales.
+
+b) Red Nacional de Vigilancia, Inspección y Control de Productos Químicos y Sistema de Intercambio Rápido de Información de Productos Químicos (SIRIPQ).
+
+c) Servicios de urgencia de la Red Hospitalaria, Unidades de Toxicología Clínica y Red de Atención Primaria.
+
+d) Estadísticas sanitarias establecidas por el Sistema Nacional de Salud y el Instituto Nacional de Estadística.
+
+e) Autoridades sanitarias responsables del control toxicológico de las Consejerías de Sanidad de las Comunidades Autónomas.
+
+f) Servicios de Información Toxicológica telefónica del Instituto Nacional de Toxicología (de Madrid, Sevilla y Barcelona).
+
+g) Sociedades Científicas, como la Asociación Española de Toxicología. Sección de Toxicología Clínica y otras entidades relacionadas.
+
+La Dirección General de Salud Pública mantendrá informados, por los medios más rápidos posibles, a las unidades médicas asistenciales del Sistema Nacional de Salud o de aquellos centros hospitalarios de titularidad privada que lo necesiten, respecto a las medidas preventivas y curativas en caso de urgencia, con la colaboración del Instituto Nacional de Toxicologia a través de su Servicio de Información Toxicológica. La información facilitada, incluida la composición será considerada confidencial.
+
+### Artículo 23. Competencias administrativas y autoridad competente:
+
+1\. Competencias de la Administración General del Estado.
+
+a) De acuerdo con lo establecido en el artículo 18 apartados 6 y 11, artículo 19, artículo 23, artículo 24, artículo 25, artículo 26, artículo 27, artículo 28 y artículo 40, apartados 1, 2, 5 y 6 de la Ley 14/1986, de 25 de abril, General de Sanidad, y el Real Decreto 840/2002, de 2 de agosto, la Dirección General de Salud Pública del Ministerio de Sanidad y Consumo será la autoridad competente para todo lo dispuesto en este Real Decreto.
+
+b) De acuerdo con el Real Decreto 1415/2000, de 21 de julio, artículo 11, la Dirección General de Calidad y Evaluación Ambiental del Ministerio de Medio Ambiente, será autoridad competente para los aspectos medio ambientales.
+
+c) La Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación será autoridad competente para los aspectos relacionados con la seguridad animal.
+
+d) Para el ejercicio de estas competencias, y en orden a una correcta aplicación de lo dispuesto en el presente Real Decreto, el Ministerio de Sanidad y Consumo, cuando sea necesario, coordinará sus actuaciones con los restantes organismos de las Administraciones Públicas, facilitando, de acuerdo con lo previsto en el artículo 4.1.c) de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de noviembre, la información que precisen para el ejercicio de sus funciones.
+
+2\. Competencias de las Comunidades Autónomas: Corresponderán a los órganos competentes de las Comunidades Autónomas las funciones de vigilancia, inspección y control del correcto cumplimiento de cuanto se establece en este Real Decreto, en sus respectivos territorios, así como el ejercicio de la potestad sancionadora.
+
+### Artículo 24. Intercambio de información con las Comunidades Autónomas.
+
+1\. El Ministerio de Sanidad y Consumo suministrará a las Comunidades Autónomas las orientaciones, informaciones o cualquier otro elemento de que disponga, para que éstas puedan ejercer adecuadamente sus funciones. Para ello utilizará tanto la Red Nacional de Vigilancia, Inspección y Control, como el Sistema de Intercambio Rápido de Información sobre Productos Químicos, establecidos por la Dirección General de Salud Pública del Ministerio de Sanidad y Consumo y las Consejerías de Sanidad de las Comunidades Autónomas, en los órganos de coordinación de la Ponencia de Sanidad Ambiental y en la Comisión de Salud Pública del Sistema Nacional de Salud. Igualmente podrá poner en práctica las medidas que resulten más adecuadas para lograr la efectiva coordinación de las actuaciones orientadas a la prevención de los riesgos, a la vigilancia epidemiológica y al cumplimiento de lo establecido en este Real Decreto.
+
+2\. Sin perjuicio de las medidas de coordinación y colaboración que se establezcan, las autoridades de las Comunidades Autónomas informarán anualmente al Ministerio de Sanidad y Consumo de las actividades que realicen para garantizar la aplicación de esta disposición.
+
+3\. El Ministerio de Sanidad y Consumo, mantendrá informado al Ministerio de Agricultura, Pesca y Alimentación sobre los biocidas de uso ganadero, en orden a facilitar sus tareas de coordinación con las Comunidades Autónomas.
+
+### Artículo 25. Cláusula de salvaguardia.
+
+Cuando un biocida autorizado o registrado de conformidad con el presente Real Decreto, constituya un riesgo inaceptable para la salud humana o animal o para el medio ambiente, el Ministerio de Sanidad y Consumo y, en su caso, cuando proceda, en coordinación con el Ministerio de Medio Ambiente y/o Ministerio de Agricultura, Pesca y Alimentación para los aspectos de sus respectivas competencias, podrá restringir o prohibir provisionalmente el uso o la venta de dicho producto. El Ministerio de Sanidad y Consumo informará inmediatamente a la Comisión y a los demás Estados miembros, exponiendo las razones de su decisión. Así mismo comunicará al fabricante o responsable de la comercialización del biocida las medidas adoptadas.
+
+En todo caso, se estará a lo que se decida definitivamente por los órganos comunitarios competentes.
+
+### Artículo 26. Registro Oficial de Biocidas.
+
+Todos los biocidas, evaluados conforme a los procedimientos establecidos en este Real Decreto, tanto para su autorización como para su registro como biocidas de bajo riesgo, se inscribirán en el Registro Oficial de Biocidas de la Dirección General de Salud Pública del Ministerio de Sanidad y Consumo.
+
+### Artículo 27. Requisitos para la fabricación, almacenamiento, comercialización y aplicación.
+
+Los locales o instalaciones donde se fabriquen y/o formulen biocidas, así como los que almacenen y/o comercialicen biocidas autorizados para uso profesional y las empresas de servicios biocidas que así se determinen reglamentariamente, deberán inscribirse en el Registro Oficial de Establecimientos y Servicios Biocidas de cada Comunidad Autónoma. Este Registro será gestionado por la autoridad sanitaria competente.
+
+### Artículo 28. Libro Oficial de movimientos de Biocidas
+
+Los biocidas clasificados en las categorías de tóxicos y muy tóxicos se comercializarán y aplicarán bajo un sistema de control basado en el registro de cada operación, con la correspondiente referencia del lote de fabricación y el número del Registro Oficial de Establecimientos y Servicios Biocidas, en un libro Oficial de Movimientos de Biocidas, que será supervisado por la autoridad competente de la Comunidad Autónoma.
+
+### Artículo 29. Cursos de formación.
+
+Sin perjuicio de lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y en sus normas de desarrollo, la acreditación de la formación del personal de los servicios biocidas será la que se establece en el Real Decreto 830/2010, por el que se establece la normativa reguladora de la capacitación para realizar tratamientos con biocidas.
+
+> Se modifica por la disposición final 2 del Real Decreto 830/2010, de 25 de junio. [Ref. BOE-A-2010-11157](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-11157).
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 210, de 30 de agosto de 2010. [Ref. BOE-A-2010-13540](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-13540).
+
+### Artículo 30. Infracciones.
+
+Sin perjuicio de otra normativa que pudiera resultar de aplicación, las infracciones cometidas contra lo dispuesto en el presente Real Decreto tendrán la consideración de infracciones administrativas a la normativa sanitaria, de conformidad con lo dispuesto en el capítulo VI del título I, de la Ley 14/1986, de 25 de abril, General de Sanidad y, de las restantes disposiciones que resulten de aplicación.
+
+Las infracciones se califican como leves, graves y muy graves, atendiendo a los criterios de riesgo para la salud, cuantía del eventual beneficio obtenido, grado de intencionalidad, gravedad de la alteración sanitaria y social producida, generalización de la infracción y reincidencia.
+
+1\. Se consideran infracciones leves: El incumplimiento de los requisitos, obligaciones o prohibiciones establecidos en este Real Decreto o en las disposiciones que lo desarrollen, en cuanto que no sean considerados como falta grave o muy grave según, preceptúa el artículo 35-A-3.ª de la Ley General de Sanidad.
+
+2\. Se consideran infracciones graves:
+
+a) La resistencia a facilitar datos a la autoridad competente, en relación con los datos exigidos para el proceso de evaluación para el registro, autorización y comercialización de biocidas, según lo preceptuado en el artículo 35-B-4.ª y 5.ª de la Ley General de Sanidad.
+
+b) La no aportación de los datos exigidos en la ficha de datos de seguridad del biocida, a los que se refiere el artículo 20, como supuesto de los previstos en el artículo 35-B-1.ª y 2.ª de la Ley General de Sanidad.
+
+c) El incumplimiento de la obligación de información y de los requisitos establecidos en los artículos 14.1 y 16, cuando no proceda su calificación como falta muy grave, considerado como supuesto de los previstos en el artículo 35-B-1.ª y 4.ª de la Ley General de Sanidad.
+
+d) El incumplimiento de los requisitos sobre clasificación, envasado y etiquetado establecidos en el artículo 19, considerado como supuesto de los previstos en el artículo 35-B-1.ª y 2.ª de la Ley General de Sanidad.
+
+e) La comercialización de biocidas cuya autorización o registro esté caducado, salvo prórroga provisional del mismo, como supuesto de los previstos en el artículo 35-B-1.ª y 4.ª de la Ley General de Sanidad.
+
+f) La realización de publicidad de biocidas que no se ajuste a lo dispuesto en el artículo 21 de este Real Decreto y demás normas de aplicación, considerado como supuesto de los previstos en el artículo 35-B-1.ª y 4.ª de la Ley General de Sanidad.
+
+g) La reincidencia en la comisión de infracciones leves en los últimos tres meses, según lo previsto en el artículo 35-B-7.ª de la Ley General de Sanidad.
+
+3\. Se consideran infracciones muy graves:
+
+a) La comercialización de biocidas sin previa autorización o registro, considerado como supuesto en los previstos en el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+b) La comercialización de biocidas prohibidos o limitados para un uso determinado, así como los que se les hubiera ordenado su retirada del mercado, considerado como supuesto de los previstos en el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+c) La comercialización de biocidas con sustancias activas no incluidas en los anexos I o IA y la comercialización como sustancias básicas de sustancias no incluidas en el anexo IB, considerado como supuesto de los previstos en el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+d) La fabricación, almacenamiento, comercialización o aplicación de biocidas, en condiciones que supongan grave riesgo para la salud pública o que incumplan lo establecido en los Registros de Establecimientos y Servicios Biocidas, según preceptúa el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+e) El falseamiento de la información necesaria para la autorización o registro, sus modificaciones y renovaciones, así como de la que debe figurar en el etiquetado y en la ficha de datos de seguridad, según preceptúa el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+f) La utilización de biocidas en aplicaciones, condiciones o técnicas de aplicación distintas de las autorizadas, así como el incumplimiento de los plazos de seguridad establecidos, según lo previsto en el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+g) Los cambios de composición no autorizados que afecten a las sustancias activas o de posible riesgo, así como los cambios no autorizados de los demás componentes del biocida, considerados como supuestos de lo previsto en el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+h) El incumplimiento de las medidas adoptadas en aplicación de la cláusula de salvaguardia, según lo previsto en el artículo 35-C-1.ª y 2.ª de la Ley General de Sanidad.
+
+i) La reincidencia en la comisión de faltas graves en los últimos cinco años, según preceptúa el artículo 35-C-8.ª de la Ley General de Sanidad.
+
+### Artículo 31. Sanciones.
+
+1\. Las acciones u omisiones constitutivas de infracción, según lo previsto en el artículo 30 de este Real Decreto, serán objeto de las sanciones administrativas previstas en el artículo 36 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+2\. Dichas sanciones se impondrán previa instrucción del correspondiente expediente, de acuerdo con lo previsto en la Ley 30/1992, de 26 de noviembre, del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, modificada por la Ley 4/1999, de 13 de enero y en las normas de desarrollo de las mismas.
+
+3\. Estas sanciones serán independientes de las que puedan imponerse por otras autoridades competentes, estatales o autonómicas, en base a fundamentos distintos a los de infracción a la normativa sanitaria.
+
+A tales efectos, las distintas autoridades intercambiarán los antecedentes e informaciones que obren en su poder.
+
+### Disposición adicional única. Registros.
+
+Los plaguicidas de uso ambiental y los de uso en la industria alimentaria, los de uso en higiene personal y los desinfectantes de ambientes clínicos y quirúrgicos y los de uso ganadero adscritos a los registros contemplados en el Real Decreto 3349/1983, de 30 de noviembre, y Real Decreto 443/1994, de 11 de marzo, seguirán inscribiéndose en sus respectivos registros de la Dirección General de Salud Pública y de la Dirección General de Farmacia y Productos Sanitarios del Ministerio de Sanidad y Consumo, y de la Dirección General de Ganadería del Ministerio de Agricultura, Pesca y Alimentación, durante el periodo transitorio establecido en la disposición transitoria primera de este real decreto. Asimismo, para estos productos, durante dicho periodo transitorio y en tanto no se apruebe disposición expresa que regule esta materia, seguirá siendo de aplicación la Orden de 24 de febrero de 1993, por la que se normalizan la inscripción y funcionamiento del Registro de Establecimientos y Servicios Plaguicidas.
+
+Una vez que se haya tomado una decisión a nivel comunitario en relación con la inclusión o no de la sustancia activa en el anexo I, IA o IB, estos productos biocidas serán adscritos al Registro Oficial de Biocidas de la Dirección General de Salud Pública, quien concederá, modificará o revocará, según el caso, las autorizaciones o, en su caso, los registros de biocidas que contengan dichas sustancias activas y cumplan con los procedimientos establecidos en este Real Decreto.
+
+Los plaguicidas utilizados como protectores para conservación de maderas aserradas, elaboradas o transformadas inscritos en el Registro Oficial de Productos y Material Fitosanitario de la Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación, serán transferidos en un plazo de seis meses, a partir de la publicación del presente Real Decreto, al Registro de la Dirección General de Salud Pública.
+
+> Se modifica el párrafo primero por la disposición final 1 del Real Decreto 1114/2006, de 29 de septiembre. [Ref. BOE-A-2006-17096](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-17096).
+
+### Disposición transitoria primera. Plazos de revisión de sustancias activas.
+
+No obstante lo dispuesto en el apartado 1 del artículo 3, en el apartado 1 del artículo 5, en los apartados 3 y 5 del artículo 8 y sin perjuicio del apartado 7 del artículo 17, así como de lo establecido en el párrafo tercero de esta disposición, durante un periodo de 14 años, a partir del 14 de mayo de 2000, se podrá seguir aplicando el Real Decreto 3349/1983, de 30 de noviembre, por el que se aprueba la Reglamentación técnico-sanitaria para la fabricación, comercialización y utilización de plaguicidas, para los productos plaguicidas no agrícolas (biocidas) regulados en el mismo y que contengan sustancias activas comercializadas en la fecha indicada, hasta que se haya tomado una decisión a nivel comunitario sobre la inclusión o no de la sustancia activa en el anexo I, IA o IB.
+
+El resto de los productos biocidas que contengan sustancias activas comercializadas en la fecha 14 de mayo de 2000 y para los cuales no es de aplicación el mencionado real decreto, podrán seguir comercializándose hasta que se haya tomado una decisión a nivel comunitario sobre la inclusión o no de dichas sustancias activas en el anexo I, IA o IB. Una vez que se haya tomado tal decisión, los productos biocidas que contengan dichas sustancias activas y cumplan lo dispuesto en este real decreto, deberán ser inscritos en el Registro Oficial de Biocidas de la Dirección General de Salud Pública y Sanidad Exterior, quien concederá las autorizaciones o en su caso los registros de dichos biocidas.
+
+Durante un periodo de 14 años se establecerá un procedimiento de revisión de las sustancias activas comercializadas con anterioridad al 14 de mayo de 2000 como sustancias activas de biocidas con fines distintos de los definidos en los párrafos o) y p) del artículo 2. Esta revisión se efectuará de acuerdo con los reglamentos que la Comisión de la Unión Europea publicará periódicamente, los cuales recogerán las disposiciones necesarias para el establecimiento y la aplicación del programa, incluida la fijación de prioridades para la evaluación de las diferentes sustancias activas y el calendario correspondiente. El último reglamento publicado, que deroga a los anteriores, es el Reglamento (CE) nº 1451/2007 de la Comisión, de 4 de diciembre de 2007, relativo a la segunda fase del programa de trabajo de 10 años contemplado en el artículo 16, apartado 2, de la Directiva 98/8/CE del Parlamento Europeo y del Consejo relativa a la comercialización de biocidas.
+
+> Se modifica por el art. único.3 del Real Decreto 1090/2010, de 3 de septiembre. [Ref. BOE-A-2010-14138](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14138).
+
+### Disposición transitoria segunda. Control de biocidas con sustancias activas existentes.
+
+Con el fin de dar respuesta a un requerimiento de orden médico y de acuerdo con lo establecido en el artículo 22 de este Real Decreto, los fabricantes o las personas responsables de comercialización de los productos biocidas referidos en el segundo párrafo de la disposición transitoria primera, deberán enviar a la Dirección General de Salud Pública, antes del 14 de mayo de 2003, preferiblemente en formato electrónico, la información relativa a la composición química, etiqueta y en su caso folleto explicativo, de todos los productos biocidas comercializados antes de la fecha de la entrada en vigor de este Real Decreto.
+
+Asimismo, deberán enviar a la Dirección General de Salud Pública, a la vez que el producto se pone en el mercado, la información antes mencionada, para todos los productos biocidas que se comercialicen después de la entrada en vigor de este Real Decreto.
+
+### Disposición transitoria tercera. Plazos para la actualización de antiguos registros.
+
+Todos los productos inscritos en los registros correspondientes de la Dirección General de Farmacia y Productos Sanitarios que hayan sido transferidos a la Dirección General de Salud Pública, en base al Real Decreto 162/1991 y que no se hayan acomodado a los preceptos establecidos en la reglamentación técnico-sanitaria de plaguicidas, tendrán un plazo de seis meses a partir de la entrada en vigor de este Real Decreto para solicitar su adaptación y reclasificación. Así mismo, los productos desinfectantes de uso ambiental y de uso en la industria alimentaria, registrados con anterioridad al año 1991 en la Dirección General de Farmacia y Productos Sanitarios o en el Registro General Sanitario de Alimentos, tendrán un plazo de seis meses a partir de la entrada en vigor de este Real Decreto para solicitar su adaptación y reclasificación.
+
+Del mismo modo, todos los productos desinfectantes para uso ambiental y de uso en la industria alimentaria que estén comercializándose y no se encuentren registrados, tendrán un plazo de seis meses a partir de la entrada en vigor de este Real Decreto para solicitar su registro. El mismo plazo se aplicará para la regularización de los protectores de madera para los cuales ya no será aplicable lo establecido en la disposición adicional segunda del Real Decreto 2163/1994, de 4 de noviembre, por el que se implanta el sistema armonizado comunitario de autorización para comercializar y utilizar productos fitosanitarios.
+
+### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto
+
+### Disposición final primera. Título competencial.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª y 23.ª de la Constitución y de acuerdo con lo establecido en el artículo 40, apartados 1, 2, 5 y 6 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+### Disposición final segunda. Facultad de desarrollo.
+
+Se faculta a los Ministros de Sanidad y Consumo, de Agricultura, Pesca y Alimentación y de Medio Ambiente para que, en el ámbito de sus competencias, procedan al desarrollo de lo dispuesto en este Real Decreto, así como para dictar las normas necesarias para la actualización de los anexos técnicos contenidos en el mismo y la coordinación de los requisitos de inscripción en los Registros de las Comunidades Autónomas, determinando las condiciones de fabricación, almacenamiento, comercialización y aplicación y las condiciones y programas de los cursos de formación para el personal de las empresas de servicios biocidas.
+
+### Disposición final tercera. Adaptación presupuestaria.
+
+El Ministerio de Hacienda llevará a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en el presente Real Decreto.
+
+### Disposición final cuarta. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid a 11 de octubre de 2002.
+
+JUAN CARLOS R.
+
+El Vicepresidente Primero del Gobierno y Ministro de la Presidencia,
+
+MARIANO RAJOY BREY
+
+## ANEXO I — Lista de sustancias activas para su inclusión en biocidas
+
+Número 1
+
+Nombre común:
+
+Denominación UIQPA: Fluoruro de sulfurilo.
+
+Números de identificación: N.º CE 220-281-5
+
+N.º CAS 2699-79-8
+
+Grado de pureza mínimo de la sustancia activa (*): Mayor de 994 g/kg
+
+Fecha de inclusión: 1 de enero de 2009
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de diciembre de 2010
+
+Fecha del vencimiento de la inclusión: 31 de diciembre de 2018
+
+Tipo de producto: 8 (Protectores de la madera)
+
+Disposiciones específicas (***):
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1\. Sólo podrán vender y utilizar el producto los profesionales formados para ello.
+
+2\. Se incluirán medidas adecuadas de reducción del riesgo para los operarios y las personas presentes.
+
+3\. Se controlarán las concentraciones de fluoruro de sulfurilo en el aire troposférico remoto.
+
+Número 1 bis.
+
+Nombre común:
+
+Denominación UIQPA: Fluoruro de sulfurilo.
+
+Números de identificación: N.º CE 220-281-5. N.º CAS 2699-79-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 994 g/kg.
+
+Fecha de inclusión: 1 de julio de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2013
+
+Fecha del vencimiento de la inclusión: 30 de junio de 2021.
+
+Tipo de producto: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1\. Sólo podrán vender y utilizar el producto los profesionales formados para ello.
+
+2\. Se adoptarán medidas adecuadas de protección de los fumigadores y de las personas presentes durante la fumigación y de ventilación de los edificios tratados o demás recintos.
+
+3\. En las etiquetas o fichas de datos de seguridad de los productos deberá indicarse que deben retirarse todos los alimentos antes de proceder a la fumigación de los recintos.
+
+4\. Se controlarán las concentraciones de fluoruro de sulfurilo en el aire troposférico remoto. El límite de detección del análisis será de 0,5 ppt (equivalente a 2,1 ng de fluoruro de sulfurilo/m<sup>3</sup> de aire troposférico). Los titulares de la autorización remitirán directamente a la Comisión de la UE estos informes de control, cada cinco años, a partir del quinto año siguiente a la autorización, a más tardar.
+
+Número 2
+
+Nombre común: Diclofluanida
+
+Denominación UIQPA: N-diclorofluorometiltio-N', N'dimetil-N-fenil-sulfamida
+
+Números de identificación:
+
+N.º CE 214-118-7.
+
+N.º CAS 1085-98-9.
+
+Grado de pureza mínimo de la sustancia activa (*):
+
+Mayor de 96% en peso.
+
+Fecha de inclusión: 1 de marzo de 2009.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 28 de febrero de 2011.
+
+Fecha del vencimiento de la inclusión: 28 de febrero de 2019.
+
+Tipo de producto: 8 (Protectores de la madera).
+
+Disposiciones específicas (***):
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1\. Los productos autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección individual adecuado.
+
+2\. Adopción de las medidas adecuadas de reducción de riesgo para proteger el compartimento edáfico.
+
+3\. En las etiquetas y/o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse, tras el tratamiento, en una superficie dura impermeable para evitar derrames directos al suelo y que los derrames tienen que recogerse para reutilizarlos o eliminarlos.
+
+Número 3
+
+Nombre común: Difetialona.
+
+Denominación UIQPA: 3[3-(4'bromo(1,1'bifenil)4-il)-1,2,3,4-tetrahidro-1-naftil]-4-hidroxibenzotiopiran-2-ona.
+
+Números de identificación: N.º CE por determinar. N.º CAS 104653-34-1
+
+Grado de pureza mínimo de la sustancia activa (*): 976 g/kg.
+
+Fecha de inclusión: 1 de noviembre de 2009
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de octubre de 2011.
+
+Fecha del vencimiento de la inclusión: 31 de octubre de 2014
+
+Tipo de producto: 14 (rodenticidas)
+
+Disposiciones específicas (***):
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en los productos no deberá exceder de un 0,0025% en peso y sólo se autorizarán cebos listos para el uso.
+
+2\. Los productos deberán contener un agente aversivo y, si procede, un tinte.
+
+3\. Los productos no deberán utilizarse como polvo de rastreo.
+
+4\. Se reducirá al mínimo la exposición directa e indirecta de seres humanos, animales a los que no va dirigida la sustancia y medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción del riesgo. Se trata, entre otras medidas, de la restricción para uso profesional, el establecimiento de un límite máximo para el envase y la obligación de utilizar cajas de cebos seguras y a prueba de manipulaciones.
+
+Número 4
+
+Nombre común: Clotianidina.
+
+Denominación UIQPA: (E)-1-(2-cloro-1,3-tiazol-5-ilmetil)-3-metil-2-nitroguanidina.
+
+Números de identificación:
+
+N.º CE: 433-460-1.
+
+N.º CAS 210880-92-5.
+
+Grado de pureza mínimo de la sustancia activa (*): 950 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2012.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2020.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Disposiciones específicas (***): Cuando se evalúe la solicitud de autorización de un producto, se tendrán en cuenta los usos/los casos de exposición y/o las poblaciones que no se hayan analizado de forma representativa en la evaluación de riesgo a nivel comunitario y que pueden estar expuestas a este producto. Se evaluarán los riesgos y se garantizará que se adopten las medidas adecuadas o se impondrán condiciones específicas a fin de paliar los riesgos detectados. Sólo se autorizará el producto si la solicitud demuestra que los riesgos puedan reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes: Habida cuenta del riesgo detectado para el suelo y los compartimentos de las aguas superficiales y subterráneas, los productos no podrán ser autorizados para el tratamiento de madera destinada a uso exterior, salvo que se presenten datos que demuestren que el producto cumple los requisitos del artículo 5 y del anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de medidas adecuadas a la reducción del riesgo. En particular, en las etiquetas y/o fichas de datos de seguridad de productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse, tras el tratamiento, en una superficie dura impermeable para evitar derrames directos al suelo y que los derrames tienen que recogerse para reutilizarlos o eliminarlos.
+
+Número 5
+
+Nombre común: Etofenprox.
+
+Eter 3-fenoxibencílico de 2-(4-etoxifenil)-2-metilpropilo (denominación IUPAC).
+
+Números de identificación:
+
+N.º CE: 407-980-2.
+
+N.º CAS 80844-07-1.
+
+Grado de pureza mínimo de la sustancia activa (*): 970 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2012.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2020.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Cuando se evalúe la solicitud de autorización de un producto, se tendrán en cuenta los usos/los casos de exposición y/o las poblaciones que no se hayan analizado de forma representativa en la evaluación de riesgo a nivel comunitario y que pueden estar expuestas a este producto. Se evaluarán los riesgos y se garantizará que se adopten las medidas adecuadas o se impondrán condiciones específicas a fin de paliar los riesgos detectados. Sólo se autorizará el producto si la solicitud demuestra que los riesgos puedan reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes: Habida cuenta del riesgo detectado para los trabajadores, los productos no podrán ser utilizados todo el año, salvo que se presenten datos de absorción cutánea que demuestren que no existen riesgos inaceptables derivados de una exposición crónica. Además, los productos destinados a un uso industrial deberán utilizarse con el equipo de protección individual adecuado.
+
+Número 6.
+
+Nombre común: Dióxido de carbono.
+
+Denominación UIQPA: Dióxido de carbono.
+
+Números de identificación:
+
+N.º CE: 204-696-9.
+
+N.º CAS: 124-38-9.
+
+Grado de pureza mínimo de la sustancia activa (*): 990 ml/litro.
+
+Fecha de inclusión: 1 de noviembre de 2009.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de octubre de 2011.
+
+Fecha de vencimiento de la inclusión: 31 de octubre de 2019.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, se evaluará cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y se establecerán las medidas adecuadas o se impondrán condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización de los productos sólo podrá concederse cuando la solicitud demuestre que los riesgos pueden reducirse a niveles aceptables.
+
+(Condiciones de inclusión de la sustancia activa biocida dióxido de carbono para tipo de producto 18)
+
+Grado de pureza mínimo de la sustancia activa (*): 990 ml/l.
+
+Fecha de inclusión: 1 de noviembre de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: 31 de octubre de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de octubre de 2022.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se tomaran las medidas adecuadas o se impondrán condiciones específicas a fin de mitigar los riesgos detectados.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1) Los productos solo se venderán a profesionales formados para utilizarlos, y solo ellos los podrán usar.
+
+2) Se adoptarán las medidas adecuadas para proteger a los operarios a fin de minimizar el riesgo, incluida la disponibilidad de equipos de protección individual si resulta necesario.
+
+3) Se tomarán las medidas adecuadas para proteger a las personas ajenas, como la exclusión de esas personas de la zona de tratamiento durante la fumigación.
+
+Número 7.
+
+Nombre común: Difenacum.
+
+Denominación UIQPA: 3-(3-bifenil-4-il-1,2,3,4-tetrahidro-1-naftil)-4-hidroxicumarina.
+
+Números de identificación:
+
+N.º CE: 259-978-4.
+
+N.º CAS: 56073-07-5.
+
+Grado de pureza mínimo de la sustancia activa (*): 960 g/kg.
+
+Fecha de inclusión: 1 de abril de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de marzo de 2012.
+
+Fecha de vencimiento de la inclusión: 31 de marzo de 2015.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+Dado que las características de la sustancia activa la hacen potencialmente persistente, propensa a la bioacumulación o tóxica, o muy persistente y muy propensa a la bioacumulación, la sustancia activa deberá ser objeto de una evaluación de riesgos comparativa que tenga en cuenta posibles alternativas antes de que se renueve su inclusión en este anexo.
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1) La concentración nominal de la sustancia activa en los productos no deberá exceder de 75 mg/kg y sólo se autorizarán productos listos para el uso.
+
+2) Los productos deberán contener un agente repelente y, si procede, un colorante.
+
+3) Los productos no deberán utilizarse como polvo de rastreo.
+
+4) Se reducirá al mínimo la exposición directa e indirecta de seres humanos, animales a los que no va dirigida la sustancia y medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción de riesgo. Se trata, entre otras medidas, de la restricción para uso profesional exclusivo, el establecimiento de un límite máximo para el envase y la obligación de utilizar cajas de cebo seguras y a prueba de manipulaciones.
+
+Número 8.
+
+Nombre común: Tiametoxam.
+
+Denominación UIQPA: (E,Z)-3-(2-clorotiazol-5-ilmetil)-5-metil-[1,3,5] oxadiazinan-4-ilideno-N-nitroamina.
+
+Números de identificación:
+
+N.º CE: 428-650-4.
+
+N.º CAS: 153719-23-4.
+
+Grado de pureza mínimo de la sustancia activa (*): 980 g/kg.
+
+Fecha de inclusión: 1 de julio de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2012.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2020.
+
+Tipo de producto: 8 (protectores de madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, se tendrán en cuenta las condiciones siguientes:
+
+Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial y/o profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Habida cuenta del riesgo detectado para el suelo y los compartimentos acuáticos, deberán adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas y/o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura e impermeable, para evitar derrames directos al suelo o al agua, y que los derrames tienen que recogerse para reutilizarse o eliminarse.
+
+No se autorizará el uso de los productos para el tratamiento in situ de la madera en el exterior o para la madera que vaya a estar expuesta a los efectos de la intemperie, a menos que se presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 9.
+
+Nombre común: Propiconazol.
+
+Denominación UIQPA: 1-[2-(2,4-diclorofenil)-4-propil-1,3-dioxolan-2-ilmetil]-1-H-1,2,4-triazol.
+
+Números de identificación:
+
+N.º CE: 262-104-4.
+
+N.º CAS: 60207-90-1.
+
+Grado de pureza mínimo de la sustancia activa (*): 930 g/kg.
+
+Fecha de inclusión: 1 de abril de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de marzo de 2012.
+
+Fecha de vencimiento de la inclusión: 31 de marzo de 2020.
+
+Tipo de producto: 8 (protectores de madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto se tendrán en cuenta las condiciones siguientes:
+
+Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial y/o profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Habida cuenta del riesgo detectado para el suelo y los compartimentos acuáticos, deberán adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas y/o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura e impermeable, para evitar derrames directos al suelo o al agua, y que los derrames tienen que recogerse para reutilizarse o eliminarse.
+
+Además, no se autorizará el uso de los productos para el tratamiento in situ de la madera en el exterior o para la madera que vaya a estar expuesta a los efectos de la intemperie, a menos que se presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 10.
+
+Nombre común: IPBC.
+
+Denominación UIQPA: Butilcarbamato de 3-yodo-2-propinilo.
+
+Números de identificación:
+
+N.º CE: 259-627-5.
+
+N.º CAS: 55406-53-6.
+
+Grado de pureza mínimo de la sustancia activa (*): 980 g/kg.
+
+Fecha de inclusión: 1 de julio de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2012.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2020.
+
+Tipo de producto: 8 (protectores de madera).
+
+Disposiciones específicas (***):
+
+Las evaluaciones se supeditarán a las condiciones siguientes:
+
+Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial y/o profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Habida cuenta del riesgo detectado para el suelo y los compartimentos acuáticos, deberán adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas y/o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura e impermeable, para evitar derrames directos al suelo o al agua, y que los derrames tienen que recogerse para reutilizarse o eliminarse.
+
+Número 11.
+
+Nombre común: K-HDO.
+
+Denominación UIQPA: 1-óxido de ciclohexilhidroxidiazeno, sal de potasio.
+
+Números de identificación:
+
+N.º CE: No disponible.
+
+N.º CAS: 66603-10-9 (esta entrada incluye también las formas hidratadas de K-HDO).
+
+Grado de pureza mínimo de la sustancia activa (*): 977 g/kg.
+
+Fecha de inclusión: 1 de julio de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2012.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2020.
+
+Tipo de producto: 8 (protectores de madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los problemas que puedan estar expuestos al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evolución del riesgo a nivel comunitario.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Habida cuenta de los posibles riesgos para el medio ambiente y los trabajadores, no se autorizarán los productos que vayan a usarse en sistemas que no sean industriales, totalmente automáticos y cerrados, a no ser que en la solicitud de autorización del producto se demuestre que los riesgos pueden reducirse a niveles aceptables, de acuerdo con el artículo 5 y el anexo VI del Real Decreto 1054/2002.
+
+2\. Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial y/o profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+3\. A la vista de los riesgos detectados para los niños pequeños, los productos no se utilizarán para el tratamiento de maderas que puedan entrar en contacto con ellos.
+
+Número 12.
+
+Nombre común: Tiabendazol.
+
+Denominación UIQPA: 2-tiazol-4-il-1H-bencimidazol.
+
+Números de identificación:
+
+N.º CE: 205-725-8.
+
+N.º CAS: 148-79-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 985 g/kg.
+
+Fecha de inclusión: 1 de julio de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2012.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2020.
+
+Tipo de producto: 8 (protectores de madera).
+
+Disposiciones específicas (***):
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial y/o profesional en relación con las aplicaciones por inmersión y doble vacío, deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Habida cuenta del riesgo detectado para el suelo y los compartimentos acuáticos, deberán adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas y/o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura e impermeable, para evitar derrames directos al suelo o al agua, y que los derrames tienen que recogerse para reutilizarse o eliminarse.
+
+No se autorizará el uso de los productos para el tratamiento in situ de la madera en el exterior o para la madera que vaya a estar expuesta a los efectos de la intemperie, a menos que se presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 13.
+
+Nombre común: Tebuconazol.
+
+Denominación UIQPA: 1-(4-clorfenil)-4-4-dimetil-3-(1,2,4-triazol-1-ilmetil) pentan-3-ol.
+
+Números de identificación:
+
+N.º CE: 403-640-2.
+
+N.º CAS: 107534-96-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 950 g/kg.
+
+Fecha de inclusión: 1 de abril de 2010.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de marzo de 2012.
+
+Fecha de vencimiento de la inclusión: 31 de marzo de 2020.
+
+Tipo de producto: 8 (protectores de madera).
+
+Disposiciones específicas (***):
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+Habida cuenta del riesgo detectado para el suelo y los compartimentos acuáticos, deberán adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas y/o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura e impermeable, para evitar derrames directos al suelo o al agua, y que los derrames tienen que recogerse para reutilizarlos o eliminarlos.
+
+Además, no se autorizará el uso de los productos para el tratamiento in situ de la madera en el exterior o para la madera que vaya a estar expuesta en contacto permanente con el agua, a menos que se presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, de 11 de octubre, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 14.
+
+Nombre común: Indoxacarb (masa de reacción 75:25 de los enantiómeros S y R).
+
+Denominación UIQPA: masa de reacción de (S)-y (R) -7 cloro - 2, 3, 4a, 5-tetrahidro-2 [metoxicarbonil (-4-trifluorometoxifenil) carbamoil] indeno [1,2-e] [1, 3, 4] oxadiazina-4a-carboxilato de metilo (se refiere a la masa de reacción 75:25 de los enantiómeros S y R).
+
+Números de identificación:
+
+N.º CE: No aplicable.
+
+N.º CAS: enantiómero S: 173584-44-6 y enantiómero R: 185608-75-7.
+
+Grado de pureza mínimo de la sustancia activa (*): 796 g/kg.
+
+Fecha de inclusión: A la fecha de entrada en vigor de esta orden.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): No aplicable.
+
+Fecha de vencimiento de la inclusión: 31 de diciembre de 2019.
+
+Tipo de producto: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación del riesgo a escala comunitaria.
+
+Al concederse la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurará de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a los niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes: deben tomarse las medidas adecuadas de reducción del riesgo para minimizar la exposición potencial del hombre, de las especies no diana y del medio acuático. En particular, en las etiquetas o fichas de datos de seguridad de los productos autorizados se indicará que:
+
+1) Los productos no deben ponerse en zonas accesibles a niños ni animales de compañía.
+
+2) Los productos deben mantenerse lejos de los desagües exteriores.
+
+3) Los productos no utilizables se deben eliminar de forma adecuada, y no verterse por los desagües.
+
+Para los usos no profesionales, sólo deben autorizarse productos ya listos para su empleo.
+
+Número 15.
+
+Nombre común: Tiacloprid.
+
+Denominación UIQPA: (z)-3-(6-cloro-3-piridilmetil)-1,3-tiazolidin-2-ilidencia-namida.
+
+Números de identificación:
+
+N.º CE: No aplicable.
+
+N.º CAS: 111988-49-9.
+
+Grado de pureza mínimo de la sustancia activa (*): 975 g/kg.
+
+Fecha de inclusión: A la fecha de entrada en vigor de esta orden.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): No aplicable.
+
+Fecha de vencimiento de la inclusión: 31 de diciembre de 2019.
+
+Tipo de producto: 8 (protectores para la madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluará cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación del riesgo a escala comunitaria.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurará de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial o profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+2\. Habida cuenta del riesgo detectado para los compartimentos acuático y edáfico, deben adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura e impermeable para evitar derrames directos al suelo o al agua, y que los eventuales derrames tienen que recogerse para reutilizarse o eliminarse.
+
+3\. No se autorizará el uso de los productos para el tratamiento in situ de estructuras de madera en la proximidad del agua, donde no pueden evitarse pérdidas directas al compartimento acuático ni para madera que vaya a estar en contacto con aguas superficiales, a menos que se hayan presentado datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 16.
+
+Nombre común:
+
+Denominación UIQPA: Cumatetralilo.
+
+Números de identificación: N.º CE 227-424-0. N.º CAS 5836-29-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 980 g/kg.
+
+Fecha de inclusión: 1 de julio de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2013.
+
+Fecha del vencimiento de la inclusión: 30 de junio de 2016.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+A la vista de los riesgos detectados para los animales a los que no va dirigida la sustancia, ésta deberá someterse a una evaluación comparativa a nivel comunitario antes de que se renueve su inclusión en este anexo.
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en productos que no sean polvo de rastreo no deberá exceder de 375 mg/kg y sólo se autorizarán productos listos para su uso.
+
+2\. Los productos deberán contener un agente repelente y, si procede, un colorante.
+
+3\. Se reducirá al mínimo la exposición directa e indirecta de los seres humanos, los animales a los que no va dirigida la sustancia y al medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción del riesgo disponibles. Se trata, entre otras medidas, de la restricción para uso profesional exclusivo, el establecimiento de un límite máximo para el tamaño del envase y la obligación de utilizar cajas de cebos seguros y a pruebas de manipulaciones.
+
+Número 17.
+
+Nombre común: fenpropimorf.
+
+Denominación UIQPA: (+/-)cis-4-[3-(p-terc-butil-fenil)-2-metilpropil]-2,6-dimetilmorfolina.
+
+Números de identificación: N.º CE 266-719-9. N.º CAS 67564-91-4.
+
+Grado de pureza mínimo de la sustancia activa (*): 930 g/kg.
+
+Fecha de inclusión: 1 de julio de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2013.
+
+Fecha del vencimiento de la inclusión: 30 de junio de 2021.
+
+Tipo de producto: 8 (protectores para la madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, de 11 de octubre, se evaluará cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a escala comunitaria.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurará de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales pueden reducirse a un nivel aceptable por otros medios.
+
+2\. Habida cuenta del riesgo detectado para los compartimentos acuático y edáfico, deben adoptarse las medidas de reducción del riesgo adecuadas para proteger dichos compartimentos. En particular, en las etiquetas o fichas de datos de seguridad de los productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura impermeable para evitar derrames directos al suelo o al agua y que los derrames tienen que recogerse para reutilizarlos o eliminarlos.
+
+Número 18.
+
+Nombre común: Bromadiolona.
+
+Denominación UIQPA: 3-[3-(4’-bromo[1,1’-bifenil]-4-il)-3-hidroxi-1-fenilpropil]-4-hidroxi-2H1-benzopiran-2-ona.
+
+Números de identificación: N.º CE 249-205-9. N.º CAS 28772-56-7.
+
+Grado de pureza mínimo de la sustancia activa (*): 969 g/kg.
+
+Fecha de inclusión: 1 de julio de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2013.
+
+Fecha del vencimiento de la inclusión: 30 de junio de 2016.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+Dado que las características de la sustancia activa la hacen potencialmente persistente, propensa a la bioacumulación o tóxica o muy persistente y muy propensa a la bioacumulación, la sustancia activa deberá ser objeto de una evaluación de riesgos comparativa a nivel comunitario antes de que se renueve su inclusión en este anexo.
+
+Las actuaciones se supeditarán a las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en los productos no deberá exceder de 50 mg/kg y sólo se autorizarán productos listos para el uso.
+
+2\. Los productos deberán contener un agente repelente y, si procede, un colorante.
+
+3\. Los productos no deberán utilizarse como polvo de rastreo.
+
+4\. Se reducirá al mínimo la exposición directa e indirecta de seres humanos, animales a los que no va dirigida la sustancia y el medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción de riesgo. Se trata, entre otras medidas, de la restricción para uso profesional exclusivo, el establecimiento de un límite máximo para el tamaño del envase y la obligación de utilizar cajas de cebos seguras y a prueba de manipulaciones.
+
+Número 19.
+
+Nombre común: Alfacloralosa.
+
+Denominación UIQPA: (R)-1,2-0-(2,2,2-tricloroetiliden)-α-d-gluco furanosa.
+
+Números de identificación: N.º CE 240-016-7. N.º CAS 15879-93-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 825 g/kg.
+
+Fecha de inclusión: 1 de julio de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2013.
+
+Fecha del vencimiento de la inclusión: 30 de junio de 2021.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, de 11 de octubre, se evaluará cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a escala comunitaria.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurará de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables.
+
+En particular, no pueden autorizarse productos para uso en exterior salvo que se presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, de 11 de octubre, si procede mediante la aplicación de las medidas adecuadas de reducción del riesgo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en los productos no debe exceder los 40 g/kg.
+
+2\. Los productos deben contener un agente repelente y, si procede, un colorante.
+
+3\. Sólo se autorizarán los productos destinados a utilizarse en cajas de cebos cerradas de forma segura y a prueba de manipulaciones.
+
+Número 20.
+
+Nombre común: Clorofacinona.
+
+Denominación UIQPA: clorofacinona.
+
+Números de identificación: N.º CE 223-003-0. N.º CAS 3691-35-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 978 g/kg.
+
+Fecha de inclusión: 1 de julio de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2013.
+
+Fecha del vencimiento de la inclusión: 30 de junio de 2016.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+A la vista de los riesgos detectados para los animales a los que no va dirigida la sustancia, la sustancia activa deberá someterse a una evaluación comparativa de riesgo a nivel comunitario antes de que se renueve su inclusión en este anexo.
+
+Las autorizaciones habrán de cumplir las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en productos que no sean polvo de rastreo no deberá exceder de 50 mg/kg y sólo se autorizarán productos listos para su uso.
+
+2\. Los productos que vayan a utilizarse como polvo de rastreo sólo se comercializarán para uso por profesionales con la debida formación.
+
+3\. Los productos deberán contener un agente repelente y, si procede, un colorante.
+
+4\. Se reducirá al mínimo la exposición directa e indirecta de los seres humanos, los animales a los que no va dirigida la sustancia y al medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción del riesgo disponibles. Se trata, entre otras medidas, de la restricción para uso profesional exclusivo, el establecimiento de un límite máximo para el tamaño del envase y la obligación de utilizar cajas de cebos seguros y a pruebas de manipulaciones.
+
+Número 21.
+
+Nombre común: Nitrógeno.
+
+Denominación UIQPA: Nitrógeno.
+
+Números de identificación:
+
+N.º CE 231-783-9.
+
+N.º CAS 7727-37-9.
+
+Grado de pureza mínimo de la sustancia activa (*): 999g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de agosto de 2013.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2021.
+
+Tipo de producto: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurarán de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización de los productos sólo podrá concederse cuando la solicitud demuestre que los riesgos pueden reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Sólo podrá venderse el producto a profesionales formados para utilizarlo, y sólo ellos lo podrán usar.
+
+2\. Deberán implantarse prácticas de trabajo seguras y sistemas de trabajo seguros para minimizar el riesgo, incluida la disponibilidad de equipos de protección individual adecuados si resulta necesario.
+
+Número 22.
+
+Nombre común: Tetraborato de disodio.
+
+Denominación UIQPA: Tetraborato de disodio.
+
+Números de identificación:
+
+N.º CE: 215-540-4.
+
+N.º CAS (anhidro):1330-43-4.
+
+N.º CAS (pentahidrato):12179-04-3.
+
+N.º CAS (decahidrato): 1303-96-4..
+
+Grado de pureza mínimo de la sustancia activa (*): 990g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de agosto de 2013.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2021.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán cuando preceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Al conceder la autorización de un producto se evaluarán los riesgos y a continuación, se asegurarán de que se tomen todas las medidas adecuadas o se impondrán condiciones específicas a fin de mitigar los riegos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos puede reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección individual adecuado, a menos que la solicitud de autorización del producto demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+2\. Habida cuenta de los riesgos detectados para el suelo y los compartimentos de las aguas, los productos no podrán ser autorizados para el tratamiento in situ de la madera destinada a un uso exterior o expuesta a los efectos de la intemperie, salvo que se presenten datos que demuestren que el producto cumplirá los requisitos del artículo 5 y del anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de medidas adecuadas de reducción del riesgo. En particular, en las etiquetas o fichas de datos de seguridad de productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura impermeable para evitar derrames directos al suelo o al agua y que los derrames tienen que recogerse para su reutilización o eliminación.
+
+Número 23.
+
+Nombre común: Ácido Bórico.
+
+Denominación UIQPA: Ácido bórico.
+
+Números de identificación:
+
+N.º CE 233-139-2.
+
+N.º CAS 10043-35-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 990g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de agosto de 2013.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2021.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluará cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a escala comunitaria.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurarán de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección individual adecuado, a menos que la solicitud de autorización del producto demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+2\. Habida cuenta de los riesgos detectados para el suelo y los compartimentos de las aguas, los productos no podrán ser autorizados para el tratamiento in situ de la madera destinada a un uso exterior o para la madera que vaya a estar expuesta a los efectos de la intemperie, salvo que se presenten datos que demuestren que el producto cumplirá los requisitos del artículo 5 y del anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de medidas adecuadas de reducción del riesgo. En particular, en las etiquetas o fichas de datos de seguridad de productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura impermeable para evitar derrames directos al suelo o al agua y que los derrames tienen que recogerse para su reutilización o eliminación.
+
+Número 24.
+
+Nombre común: Octaborato de disodio tetrahidratado.
+
+Denominación UIQPA: octaborato de disodio tetrahidratado.
+
+Números de identificación:
+
+N.º CE 234-541-0.
+
+N.º CAS 12280-03-4.
+
+Grado de pureza mínimo de la sustancia activa (*): 975g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de agosto de 2013.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2021.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurarán de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección individual adecuado, a menos que la solicitud de autorización del producto demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+2\. Habida cuenta de los riesgos detectados para el suelo y los compartimentos de las aguas, los productos no podrán ser autorizados para el tratamiento in situ de la madera destinada a un uso exterior o expuesta a los efectos de la intemperie, salvo que se presenten datos que demuestren que el producto cumplirá los requisitos del artículo 5 y del anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de medidas adecuadas de reducción del riesgo. En particular, en las etiquetas o fichas de datos de seguridad de productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura impermeable para evitar derrames directos al suelo o al agua y que los derrames tienen que recogerse para su reutilización o eliminación.
+
+Número 25.
+
+Nombre común: Óxido Bórico.
+
+Denominación UIQPA: Trióxido de diboro.
+
+Números de identificación:
+
+N.º CE 215-125-8.
+
+N.º CAS 1303-86-2.
+
+Grado de pureza mínimo de la sustancia activa (*): 975g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de agosto de 2013.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2021.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurarán de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección personal adecuado, a menos que la solicitud de autorización del producto demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+2\. Habida cuenta de los riesgos detectados para el suelo y los compartimentos de las aguas, los productos no podrán ser autorizados para el tratamiento in situ de la madera destinada a un uso exterior o expuesta a los efectos de la intemperie, salvo que se presenten datos que demuestren que el producto cumplirá los requisitos del artículo 5 y del anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de medidas adecuadas de reducción del riesgo. En particular, en las etiquetas o fichas de datos de seguridad de productos autorizados para uso industrial debe indicarse que la madera recién tratada tiene que almacenarse tras el tratamiento a cubierto o en una superficie dura impermeable para evitar derrames directos al suelo o al agua y que los derrames tienen que recogerse para su reutilización o eliminación.
+
+Número 26.
+
+Nombre común: Fosfuro de aluminio generador de fosfina.
+
+Denominación UIQPA: Fosfuro de aluminio.
+
+Números de identificación:
+
+N.º CE 244-088-0.
+
+N.º CAS 20859-73-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 830g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de agosto de 2013.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2021.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Al conceder la autorización de un producto, se evaluarán los riesgos y, a continuación, se asegurarán de que se toman las medidas adecuadas o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+La autorización del producto sólo podrá concederse si la solicitud demuestra que los riesgos pueden reducirse a niveles aceptables. En particular, no podrán autorizarse productos para uso en interior salvo que presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI del Real Decreto 1054/2002, si procede mediante la aplicación de las medidas de reducción de riesgo adecuadas.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos sólo podrán venderse a profesionales formados específicamente, que serán los únicos usuarios.
+
+2\. Dados los riesgos detectados para los operarios, deben aplicarse medidas adecuadas de reducción del riesgo, entre las que se incluirá el uso del equipo de protección individual adecuado, el uso de aplicadores y la presentación del producto en una forma adecuada para reducir la exposición del operario hasta un nivel aceptable.
+
+3\. Dados los riesgos detectados para las especies terrestres no diana, deben aplicarse medidas adecuadas de reducción del riesgo, entre las que se incluirá la ausencia de tratamiento de las zonas en que estén presentes animales que cavan madrigueras, distintos de las especies diana.
+
+Número 26 bis.
+
+Nombre común: Fosfuro de aluminio generador de fosfina.
+
+Denominación UIQPA: Fosfuro de aluminio.
+
+Números de identificación:
+
+N.º CE 244-088-0.
+
+N.º CAS 20859-73-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 830 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2022.
+
+Tipo de producto: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el Anexo VI del Real Decreto 1054/2002, se evaluará cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión. En particular, cuando proceda, se evaluará el uso en exteriores.
+
+Al conceder la autorización de un producto, se asegurará de que se presentan ensayos adecuados de residuos que permitan la evaluación del riesgo para el consumidor y de que se tomen las medidas necesarias o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos sólo pueden suministrarse a profesionales formados específicamente, que serán los únicos usuarios, en forma de productos listos para el uso.
+
+2\. Dados los riesgos detectados para los operarios, deben aplicarse medidas adecuadas de reducción del riesgo, entre las que se incluyen el uso de equipos de protección respiratoria e individual adecuados, el uso de aplicadores y la presentación del producto en una forma adecuada para reducir la exposición del operario hasta un nivel aceptable. Por lo que respecta al uso en interiores, esas medidas han de incluir asimismo la protección de los operarios y trabajadores durante las labores de fumigación, la protección de los trabajadores a su vuelta al lugar de trabajo (después del período de fumigación) y la protección de personas ajenas contra las fugas de gas.
+
+3\. Por lo que respecta a los productos que contengan fosfuro de aluminio que puedan dar lugar a residuos en alimentos o pienso, las etiquetas o las fichas de datos de seguridad de los productos autorizados tienen que incluir instrucciones de uso, como la observancia de plazos de espera, de manera que se garantice el cumplimiento de lo establecido en el artículo 18 del Reglamento (CE) n.º 396/2005 del Parlamento Europeo y del Consejo (DO L 70 de 16-3-2005, p.1).
+
+Número 27.
+
+Nombre común: Flocumafén.
+
+Denominación UIQPA: 4-hidroxi-3-[(1RS,3RS;1RS,3RS)-1,2,3,4-tetrahidro-3-[4-(4-trifluorometil-benciloxi)fenil]-1-naftil]cumarina.
+
+Números de identificación:
+
+N.º CE 421-960-0.
+
+N.º CAS 90035-08-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 955g/Kg.
+
+Fecha de inclusión: 1 de octubre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2013.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2016.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+Dado que las características de la sustancia activa la hacen potencialmente persistente, propensa a la bioacumulación o tóxica, o muy persistente y muy propensa a la bioacumulación, la sustancia activa debe ser objeto de una evaluación a nivel comunitario, antes de que se renueve su inclusión en el presente anexo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en los productos no debe exceder 50 mg/Kg y solo se pueden autorizar productos listos para el uso.
+
+2\. Los productos deben contener un agente repelente y, si procede, un colorante.
+
+3\. Los productos no deben utilizarse como polvo de rastreo.
+
+4\. Se ha de reducir al mínimo la exposición directa e indirecta de seres humanos, animales a los que no va dirigida la sustancia y medio ambiente, teniendo en cuanta y aplicando todas las medidas oportunas de reducción del riesgo. Se trata, entre otras medidas, de la restricción para uso profesional, el establecimiento de un límite máximo para el tamaño y el envase y la obligación de utilizar cajas de cebos seguras y a prueba de manipulaciones.
+
+Número 28.
+
+Nombre común: Tolilfluanida.
+
+Denominación UIQPA: Dicloro-N_[(dimetilamino)sulfonil] Fluoro-N-(p-tolil)metanosulfenamida.
+
+Números de identificación:
+
+N.º CE 211-986-9.
+
+N.º CAS 731-27-1.
+
+Grado de pureza mínimo de la sustancia activa (*): 960g/Kg.
+
+Fecha de inclusión: 1 de octubre de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: 30 de septiembre de 2013.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2021.
+
+Tipo de producto: 8 (protectores de la madera).
+
+Disposiciones específicas (***):
+
+No se deben autorizar productos para el tratamiento in situ de la madera en el exterior o para madera que vaya a ser expuesta a los efectos de la intemperie.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Habida cuenta de las hipótesis establecidas durante la evaluación del riesgo, los productos autorizados para uso industrial o profesional deben utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del producto que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+2\. Habida cuenta del riesgo detectado para los compartimentos acuáticos y edáfico, deben adoptarse las medidas de reducción del riesgo adecuada para proteger dichos compartimentos. En particular, en las etiquetas o fichas de seguridad de los productos autorizados para uso industrial o profesional debe indicarse que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable para evitar derrames directos al suelo o al agua y que los derrames tienen que recogerse para su reutilización o eliminación.
+
+Número 29.
+
+Nombre común: Acroleína.
+
+Denominación UIQPA: Acril-aldehido.
+
+Números de identificación:
+
+N.º CE 203-453-4.
+
+N.º CAS 107-02-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 913g/Kg.
+
+Fecha de inclusión: 1 de septiembre de 2010.
+
+Fecha de vencimiento de la inclusión: 31 de agosto de 2020.
+
+Tipo de producto: 12 (producto antimoho).
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): No procede.
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se determinarán, cuando proceda según el producto, las poblaciones que puedan estar expuestas al producto y el uso o los supuestos de exposición a los que no se haya referido de manera representativa la evaluación de riesgos a nivel comunitario.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Las aguas residuales que contengan acroleína se controlarán antes de su evacuación, a menos que pueda demostrarse que es posible reducir por otros medios riesgos para el medio ambiente. Cuando resulte necesario habida cuenta de los riesgos para el medio marino, las aguas residuales se guardarán en tanques o depósitos adecuados o se someterán al tratamiento apropiado antes de su evacuación.
+
+2\. Los biocidas autorizados para el uso industrial o profesional se utilizarán con el equipo de protección individual adecuado, y se establecerán procedimientos operativos seguros tales como utilizar sistemas de vigilancia de la calidad del aire y delimitar perímetros de seguridad, a menos que pueda demostrarse en la solicitud de autorización del biocida que los riesgos para los usuarios industriales o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Número 30.
+
+Nombre común: Fosfuro de magnesio generador de fosfina.
+
+Denominación UIQPA: Difosfuro de trimagnesio.
+
+Números de identificación:
+
+N.º CE 235-023-7.
+
+N.º CAS 12057-74-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 880 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2022.
+
+Tipo de producto: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el Anexo VI del Real Decreto 1054/2002, se evaluará, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión Europea. En particular, cuando preceda, se evaluará el uso en exteriores.
+
+Al conceder la autorización de un producto, se asegurará de que se presentan ensayos adecuados de residuos que permitan la evaluación del riesgo para el consumidor y de que se tomen las medidas necesarias o se imponen condiciones específicas a fin de mitigar los riesgos detectados.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Los productos solo pueden suministrarse a profesionales formados específicamente, que serán los únicos usuarios, en forma de productos listos para el uso.
+
+2\. Dados los riesgos detectados para los operarios, deben aplicarse medidas adecuadas de reducción del riesgo, entre las que se incluyen el uso de equipos de protección respiratoria e individual adecuados, el uso de aplicadores y la presentación del producto en una forma adecuada para reducir la exposición del operario hasta un nivel aceptable. Por lo que respecta al uso en interiores, esas medidas han de incluir, asimismo, la protección de los operarios y trabajadores durante las labores de fumigación, la protección de los trabajadores a su vuelta al lugar de trabajo (después del período de fumigación) y la protección de personas ajenas contra las fugas de gas.
+
+3\. Por lo que respecta a los productos que contengan fosfuro de magnesio que puedan dar lugar a residuos en alimentos o piensos, las etiquetas o las fichas de datos de seguridad de los productos autorizados tienen que incluir instrucciones de uso, como la observancia de plazos de espera, de manera que se garantice el cumplimiento de lo establecido en el artículo 18 del Reglamento (CE) n.º 396/2005 del Parlamento Europeo y del Consejo (DO L 70 de 16-3-2005, p. 1).
+
+Número 31.
+
+Nombre común: Warfarina de sodio.
+
+Denominación UIQPA: 2-oxo-3 (1-fenil-3-oxo-butil) cromen-4-olato sódico.
+
+Números de identificación:
+
+Nº CE 204-929-4.
+
+Nº CAS 129-06-6.
+
+Grado de pureza mínimo de la sustancia activa (*): 910 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2017.
+
+Tipo de producto: 14 (rodenticida).
+
+Disposiciones específicas (***):
+
+La sustancia activa deberá someterse a una evaluación comparativa del riesgo a nivel comunitario, antes de que se renueve su inclusión en el presente Anexo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en los productos no debe exceder de 790 mg/kg y solo se pueden autorizar productos listos para el uso.
+
+2\. Los productos deben contener un agente repelente y, si procede, un colorante.
+
+3\. Se reducirá al mínimo la exposición directa e indirecta de seres humanos, animales a los que no va dirigida la sustancia y el medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción del riesgo. Se trata, entre otras medidas, de la posibilidad de restricción para uso profesional, el establecimiento de un límite máximo para el tamaño del envase y la obligación de utilizar cajas de cebos seguras y a prueba de manipulaciones.
+
+Número 32.
+
+Nombre común: Brodifacum.
+
+Denominación UIQPA: 3-[3-(4’-bromobifenil -4-il)-1,2,3,4-tetrahidro-1-naftil]-4-hidroxi-cumarina.
+
+Números de identificación:
+
+N.º CE 259-980-5.
+
+N.º CAS 56073-10-0.
+
+Grado de pureza mínimo de la sustancia activa (*): 950 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2017.
+
+Tipo de producto: 14 (rodenticida).
+
+Disposiciones específicas (***):
+
+Dado que las características de la sustancia activa la hacen potencialmente persistente, propensa a la bioacumulación o tóxica, o muy persistente y muy propensa a la bioacumulación, la sustancia activa deberá ser objeto de una evaluación de riesgos comparativa a nivel comunitario, antes de que se renueve su inclusión en el presente Anexo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa en los productos no deberá exceder de 50 mg/kg y sólo se autorizarán productos listos para el uso.
+
+2\. Los productos deberán contener un agente repelente y, si procede, un colorante.
+
+3\. Los productos no deberán utilizarse como polvo de rastreo.
+
+4\. Se reducirá al mínimo la exposición directa e indirecta de seres humanos, animales a los que no va dirigida la sustancia y medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción del riesgo. Se trata, entre otras medidas, de la restricción para uso profesional exclusivo, el establecimiento de un límite máximo para el tamaño del envase y la obligación de utilizar cajas de cebos seguras y a prueba de manipulaciones.
+
+Número 33.
+
+Nombre común: Warfarina.
+
+Denominación UIQPA: (RS)-4-hidroxi-3-(1-fenil-3-oxo-butil)-cumarina.
+
+Números de identificación:
+
+N.º CE 201-377-6.
+
+N.º CAS 81-81-2.
+
+Grado de pureza mínimo de la sustancia activa (*): 990 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2017.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas (***):
+
+La sustancia deberá someterse a una evaluación comparativa del riesgo a nivel comunitario, antes de que se renueve su inclusión en el presente Anexo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. La concentración nominal de la sustancia activa no debe exceder de 790 mg/kg y sólo se pueden autorizar productos listos para el uso.
+
+2\. Los productos deben contener un agente repelente y, si procede, un colorante.
+
+3\. Se reducirá al mínimo la exposición directa o indirecta de seres humanos, animales a los que no va dirigida la sustancia y el medio ambiente, teniendo en cuenta y aplicando todas las medidas oportunas de reducción del riesgo. Se trata, entre otras medidas, de la posibilidad de restricción para uso profesional, el establecimiento de un límite máximo para el tamaño del envase y la obligación de utilizar cajas de cebos seguras y a prueba de manipulaciones.
+
+Número 34.
+
+Nombre común: Dazomet.
+
+Denominación UIQPA: Tetrahidro-3,5-dimetil-1,3,5-tiadiazina-2-tiona.
+
+Números de identificación:
+
+N.º CE 208-576-7.
+
+N.º CAS 533-74-4.
+
+Grado de pureza mínimo de la sustancia activa (*): 960g/Kg.
+
+Fecha de inclusión: 1 de agosto de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de julio de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de julio de 2022.
+
+Tipo de biocida: 8 (protectores de la madera).
+
+Disposiciones específicas (***): Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluará, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión Europea. En particular, cuando preceda, se ha de evaluar todo uso distinto del uso profesional en exteriores para el tratamiento reparador de postes de madera mediante la inserción de gránulos.
+
+Las autorizaciones se supeditarán a la condición siguiente: Los biocidas autorizados para uso industrial y/o profesional se utilizarán con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del biocida que los riesgos para los usuarios industriales y/o profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Número 35.
+
+Nombre común: N,N-dietil-meta-toluamida.
+
+Denominación UIQPA: N,N-dietil-m-toluamida.
+
+Números de identificación:
+
+N.º CE 205-149-7.
+
+N.º CAS 134-62-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 970g/Kg.
+
+Fecha de inclusión: 1 de agosto de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de julio de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de julio de 2022.
+
+Tipo de biocida: 19 (Repelentes y atrayentes).
+
+Disposiciones específicas (***): Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. Se reducirá al mínimo la exposición directa e indirecta de seres humanos mediante el estudio y la aplicación de las medidas oportunas para paliar el riesgo, incluidas, cuando proceda, instrucciones sobre la cantidad y frecuencia de la aplicación del producto sobre la piel humana.
+
+2\. Las etiquetas de los biocidas destinados a la aplicación sobre la piel, el pelo, o la ropa de los seres humanos indicarán que, en niños de entre dos y doce años, el producto solo debe usarse de forma restringida y que no se debe utilizar en niños menores de dos años, a no ser que se demuestre en la solicitud de autorización del producto que éste cumple los requisitos del artículo 5 y del anexo VI del Real Decreto 1054/2002 sin tales medidas.
+
+3\. Los productos deben contener ingredientes que disuadan de la ingestión.
+
+Número 36.
+
+Nombre común: Metoflutrina.
+
+Denominación UIQPA: Isómero RTZ: (1R,3R)-2,2-dimetil-3-(Z)-(prop-1-enil) ciclopropanocarboxilato de 2, 3, 5, 6-tetrafluoro-4-(metoximetil) bencilo.
+
+Suma de todos los isómeros: (EZ)-(1RS,3RS;1SR,3SR)-2,2-dimetil-3-prop-1-enilciclopropanocarboxilato de 2,3,5,6-tetrafluoro-4-(metoximetil)bencilo.
+
+Números de identificación:
+
+N.º CE: No aplicable.
+
+N.º CAS: Isómero RTZ: 240494-71-7 y suma de todos los isómeros: 240494-70-6.
+
+Grado de pureza mínimo de la sustancia activa (*): La sustancia activa debe respetar las dos purezas mínimas siguientes:
+
+Isómero RTZ: 754 g/kg.
+
+Suma de todos los isómeros: 930 g/kg.
+
+Fecha de inclusión: 1 de mayo de 2011.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): No aplicable.
+
+Fecha de vencimiento de la inclusión: 30 de abril de 2021.
+
+Tipo de biocida: 18 (insecticida, acaricida, producto para controlar otros artrópodos).
+
+Disposiciones específicas (***): Al evaluar la solicitud de autorización de un producto, conforme el artículo 5 y el anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a escala europea.
+
+Número 37.
+
+Nombre común: Espinosad.
+
+Números de identificación:
+
+N.º CE: 434-300-1.
+
+N.º CAS: 168316-95-8.
+
+Denominación UIQPA: El espinosad es una mezcla de un 50-95 % de espinosina A y un 5-50 % de espinosina D.
+
+Espinosina A(2R,3aS,5aR,5bS,9S,13S,14R,16aS,16bR)-2-[(6-desoxi-2,3,4-tri-O-metil-α-L-manopiranosil)oxi]-13-{[(2R,5S,6R)-5-(dimetilamino)tetrahidro-6-metil-2H-piran-2-il]oxi}-9-etil-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b-tetradecahidro-14-metil- 1H-as-indaceno[3,2-d]oxaciclododecin-7,15-diona. N.º CAS: 131929-60-7.
+
+Espinosina D(2S,3aR,5aS,5bS,9S,13S,14R,16aS,16bS)-2-[(6-desoxi-2,3,4-tri-O-metil-α-L-manopiranosil)oxi]-13-{[(2R,5S,6R)-5-(dimetilamino)tetrahidro-6-metil-2H-piran-2-il]oxi}-9-etil-2,3,3a,5a,5b,6,9,10,11,12,13,14,16a,16b tetradecahidro-4,14-dimetil-1H-as-indaceno[3,2-d]oxaciclododecin-7,15-diona.N.º CAS: 131929-63-0.
+
+Grado de pureza mínimo de la sustancia activa (*): 850g/kg.
+
+Fecha de inclusión: 1 de noviembre de 2012.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de octubre de 2014.
+
+Fecha de vencimiento de la inclusión: 31 de octubre de 2022.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el producto, los usos o los supuestos de exposición y los riesgos para los compartimentos y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+– Los biocidas autorizados para uso profesional mediante pulverización deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del biocida que los riesgos para los usuarios profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+– En caso de biocidas que contengan espinosad que pueden dar lugar a residuos en alimentos o piensos, se comprobará la necesidad de establecer límites máximos de residuos (LMR) nuevos o modificar los existentes de conformidad con el Reglamento (CE) n.º 470/2009 y/o el Reglamento (CE) n.º 396/2005, y adoptar las medidas de reducción del riesgo necesarias para garantizar que no se superen los LMR aplicables.
+
+Número 38.
+
+Nombre común: Bifentrina.
+
+Números de identificación:
+
+N.º CE: n.a.
+
+N.º CAS: 82657-04-3.
+
+Denominación UIQPA: 2-metilbifenil-3-ilmetil(1RS)-cis-3-[(Z)-2-cloro-3,3,3-trifluoroprop-1-enil]-2,2-dimetilciclopropancarboxilato.
+
+Grado de pureza mínimo de la sustancia activa (*): 911g/kg.
+
+Fecha de inclusión: 1 de febrero de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: 31 de enero de 2015.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2023.
+
+Tipo de biocida: 8 (protectores para maderas).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+– Los biocidas se autorizarán únicamente para uso industrial o profesional, a menos que en la solicitud de autorización del biocida se demuestre que los riesgos para usuarios no profesionales pueden reducirse a un nivel aceptable, de conformidad con el artículo 5 y el anexo VI.
+
+– Los biocidas autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+– Se tomarán las medidas adecuadas de reducción del riesgo para proteger los compartimentos edáfico y acuático. En particular, en las etiquetas y, si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable, o de ambos modos, para evitar derrames directos al suelo o al agua y que los eventuales derrames que se produzcan durante la aplicación del biocida tienen que recogerse para su reutilización o eliminación.
+
+– No se autorizará el uso de los biocidas para el tratamiento in situ de la madera en el exterior ni para el tratamiento de madera que o bien va a estar constantemente expuesta a los efectos de la intemperie o bien que, aun estando protegida de esta, va a estar sujeta a mojadura con frecuencia, a menos que se presenten datos que demuestren que el biocida va a cumplir lo dispuesto en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 39.
+
+Nombre común: Acetato de (Z,E)-tetradeca-9,12-dienilo.
+
+Números de identificación:
+
+N.º CE: n.a.
+
+N.º CAS: 30507-70-1
+
+Denominación UIQPA: Acetato de (9Z,12E)-tetradecadien-1-ilo.
+
+Grado de pureza mínimo de la sustancia activa (*): 977g/kg.
+
+Fecha de inclusión: 1 de febrero de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2015.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2023.
+
+Tipo de biocida: 19 (repelentes y atrayentes).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto biocida, conforme el artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Las autorizaciones se supeditarán a la siguiente condición:
+
+– En las etiquetas de biocidas que contengan acetato de (Z,E)-tetradeca-9,12- dienilo debe indicarse que esos productos no deben usarse en espacios donde se mantienen alimentos o piensos no envasados.
+
+Número 40.
+
+Nombre común: Fenoxicarb.
+
+Números de identificación:
+
+N.º CE: 276-696-7.
+
+N.º CAS: 72490-01-8.
+
+Denominación UIQPA: [2-(4-fenoxifenoxi)etil]carbamato de etilo.
+
+Grado de pureza mínimo de la sustancia activa (*): 960 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2015.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2023.
+
+Tipo de biocida: 8 (protectores para madera).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+– Se tomarán las medidas adecuadas de reducción del riesgo para proteger los compartimentos edáfico y acuático. En particular, en las etiquetas y, si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable bajo techo, o de ambos modos, para evitar derrames directos al suelo o al agua y que los eventuales derrames que se produzcan durante la aplicación del biocida tienen que recogerse para reutilizarse o eliminarse.
+
+– No se autorizará el uso de los biocidas para el tratamiento de madera que vaya a utilizarse en construcciones al aire libre sobre el agua o en sus proximidades, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 41.
+
+Nombre común: Ácido nonanoico, ácido pelargónico.
+
+Números de identificación:
+
+N.º CE: 203-931-2.
+
+N.º CAS: 112-05-0.
+
+Denominación UIQPA: Ácido nonanoico.
+
+Grado de pureza mínimo de la sustancia activa (*): 896 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2015.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2023.
+
+Tipo de biocida: 19 (repelentes y atrayentes).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un producto biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel europeo.
+
+Fecha de inclusión: 1 de octubre de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2016.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2024.
+
+Tipo de producto: 2 (desinfectantes utilizados en los ámbitos de la vida privada y de la salud pública y otros biocidas).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para las poblaciones humanas y los compartimentos medioambientales que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones de productos destinados a un uso no profesional estén condicionadas a que el envase esté diseñado para minimizar la exposición del usuario, a menos que en la solicitud de autorización del producto pueda demostrarse que los riesgos para la salud humana pueden reducirse a niveles aceptables por otros medios.
+
+(**) En el caso de los biocidas que contengan más de una sustancia activa a los que se aplique la disposición transitoria primera de este real decreto, el plazo de vencimiento de las condiciones de inclusión, es el de la última de sus sustancias activas incluidas en el presente anexo. En el caso de los biocidas para los que la primera autorización se haya concedido después de la fecha correspondiente a 120 días antes de la fecha límite inicial de vencimiento de las condiciones de inclusión, y para los que se haya presentado una solicitud completa de reconocimiento mutuo de conformidad con el artículo 4, apartado 1, dentro de los 60 días de la concesión de la primera autorización, el plazo de vencimiento de las condiciones de inclusión, en relación con dicha solicitud se amplía a 120 días a partir de la fecha de recepción de la solicitud completa de reconocimiento mutuo. En el caso de los biocidas para los que un Estado miembro haya propuesto establecer una excepción al reconocimiento mutuo de conformidad con el artículo 4, apartado 4, el plazo de vencimiento de las condiciones de inclusión, se amplía a 30 días a partir de la fecha de adopción de la decisión de la Comisión de conformidad con el artículo 4, apartado 4, párrafo segundo de la Directiva 98/8/CE.
+
+(***) A efectos de la aplicación de los principios comunes del anexo VI, el contenido y las conclusiones de los informes de evaluación se pueden consultar en el sitio web de la Comisión: http://ec.europa.eu/comm/environment/biocides/index.htm
+
+Número 42.
+
+Nombre común: Imidacloprid.
+
+Denominación UIQPA: 1-(6-cloropiridin-3-ilmetil)-N-nitroimidazolidin-2-ilidenamina.
+
+Números de identificación:
+
+N.º CE: 428-040-8.
+
+N.º CAS: 138261-41-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 970 g/kg.
+
+Fecha de inclusión: 1 de julio de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2023.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al examinar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para las poblaciones humanas y los compartimentos medioambientales que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión Europea.
+
+No se autorizará el uso de biocidas en alojamientos de animales en caso de que no pueda evitarse su llegada a una instalación de tratamiento de aguas residuales o su emisión directa a aguas superficiales, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Las autorizaciones estarán supeditadas a la adopción de medidas adecuadas de reducción del riesgo. En particular, se adoptarán medidas adecuadas de reducción del riesgo para minimizar la exposición potencial de los niños.
+
+Por lo que respecta a los biocidas que contengan imidacloprid que pueden dar lugar a residuos en alimentos o piensos, los Estados miembros comprobarán la necesidad de establecer límites máximos de residuos (LMR) nuevos o modificar los existentes según el Reglamento (CE) n.º 470/2009 o el Reglamento (CE) n.º 396/2005, y adoptarán las medidas adecuadas de reducción del riesgo que garanticen que no van a excederse los límites máximos de residuos aplicables.
+
+Número 43.
+
+Nombre común: Abamectina.
+
+La abamectina es una mezcla de avermectina B<sub>1a</sub> y avermectina B<sub>1b</sub>.
+
+Abamectina:
+
+Denominación UIQPA: n.a.
+
+Números de identificación:
+
+N.º CE: n.a.
+
+N.º CAS: 71751-41-2.
+
+Avermectina B<sub>1a</sub>:
+
+Denominación UIQPA: 2,6-didesoxi-4-O-(2,6-didesoxi-3-O-metil-α-L-arabino-hexopiranosil)-3-O-metil-α-L-arabino-hexopiranósido de (10E,14E,16E,22Z)-(1R,4S,5'S,6S,6'R,8R,12S,13S,20R,21R,24S)-6'-[(S)-sec-butil]-21,24-dihidroxi-5',11,13,22-tetrametil-2-oxo-(3,7,19-trioxatetraciclo[15.6.1.1<sup>4,8</sup>.0<sup>20,24</sup>]pentacosa-10,14,16,22-tetraeno)-6-espiro-2'-(5',6'-dihidro-2'H-piran)-12-ilo.
+
+Números de identificación:
+
+N.º CE: 265-610-3.
+
+N.º CAS: 65195-55-3.
+
+Avermectina B<sub>1b</sub>:
+
+Denominación UIQPA: 2,6-didesoxi-4-O-(2,6-didesoxi-3-O-metil-α-L-arabino-hexopiranosil)-3-O-metil-α-L-arabino-hexopiranósido de (10E,14E,16E,22Z)-(1R,4S,5'S,6S,6'R,8R,12S,13S,20R,21R,24S)-21,24-dihidroxi-6'-isopropil-5',11,13,22-tetrametil-2-oxo-(3,7,19-trioxatetraciclo[15.6.1.1<sup>4,8</sup>.0<sup>20,24</sup>]pentacosa-10,14,16,22-tetraeno)-6-espiro-2'-(5',6'-dihidro-2'H-piran)-12-ilo.
+
+Números de identificación:
+
+N.º CE: 265-611-9.
+
+N.º CAS: 65195-56-4.
+
+Grado de pureza mínimo de la sustancia activa (*): La pureza de la sustancia activa se ajustará a lo siguiente:
+
+Abamectina: 900 g/kg como mínimo.
+
+Avermectina B<sub>1a</sub>: 830 g/kg como mínimo.
+
+Avermectina B<sub>1b</sub>: 80 g/kg como máximo.
+
+Fecha de inclusión: 1 de julio de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2023.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para las poblaciones humanas y los compartimentos medioambientales que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión Europea.
+
+Los biocidas aplicados de tal manera que no pueda evitarse su llegada a una instalación de tratamiento de aguas residuales no podrán autorizarse para usos a dosis a las cuales la evaluación del riesgo a nivel de la Unión haya puesto de manifiesto riesgos inaceptables, a no ser que se presenten datos que demuestren que el producto cumple los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Las autorizaciones estarán supeditadas a la adopción de medidas adecuadas de reducción del riesgo. En particular, se adoptarán medidas adecuadas de reducción del riesgo para minimizar la exposición potencial de los niños.
+
+Número 44.
+
+Nombre común: 4,5-dicloro-2-octil-2H-isotiazol-3-ona.
+
+Denominación UIQPA: 4,5-dicloro-2-octilisotiazol-3(2H)-ona.
+
+Números de identificación:
+
+N.º CE: 264-843-8.
+
+N.º CAS: 64359-81-5.
+
+Grado de pureza mínimo de la sustancia activa (*): 950 g/kg.
+
+Fecha de inclusión: 1 de julio de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de junio de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de junio de 2023.
+
+Tipo de biocida: 8 (protectores para maderas).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para las poblaciones humanas y los compartimentos medioambientales que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión Europea.
+
+No se autorizará el uso de los biocidas para el tratamiento de madera que va a estar constantemente expuesta a los efectos de la intemperie, protegida de esta pero sujeta a mojadura con frecuencia, o en contacto con agua dulce, a menos que se presenten datos que demuestren que el biocida va a cumplir lo dispuesto en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+En relación con los biocidas autorizados para uso industrial o profesional se establecerán procedimientos operativos seguros, y los biocidas se utilizarán con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+En las etiquetas y, si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable bajo techo, o de ambos modos, para evitar pérdidas directas al suelo o al agua y que las pérdidas que se produzcan durante la aplicación del biocida tienen que recogerse para reutilizarse o eliminarse.
+
+Número 45.
+
+Nombre común: Creosota.
+
+Números de identificación:
+
+N.º CE: 232-287-5.
+
+N.º CAS: 8001-58-9.
+
+Denominación UIQPA: Creosota.
+
+Grado de pureza mínimo de la sustancia activa (*): Creosota de grado B o de grado C, según se especifica en la norma europea EN 13991:2003.
+
+Fecha de inclusión: 1 de mayo de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de abril de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de abril de 2018.
+
+Tipo de biocida: 8 (protectores para maderas).
+
+Disposiciones específicas (***):
+
+Los biocidas que contienen creosota pueden autorizarse solo para usos respecto a los cuales el Estado miembro que conceda la autorización haya llegado a la conclusión de que no se dispone de alternativas apropiadas, sobre la base de un análisis de la viabilidad técnica y económica de la sustitución, que habrá pedido al solicitante, y demás información de que disponga al respecto. Los Estados miembros que autoricen tales biocidas en sus territorios presentarán a la Comisión, a más tardar el 31 de julio de 2016, un informe en el que justifiquen su conclusión de que no hay alternativas apropiadas e indiquen cómo se fomenta el desarrollo de alternativas. La Comisión pondrá dichos informes a disposición del público.
+
+La sustancia activa debe someterse a una evaluación comparativa del riesgo, de acuerdo con el artículo 10, apartado 6, párrafo segundo, del Real Decreto 1054/2002, antes de que se renueve su inclusión en el presente anexo.
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión Europea.
+
+Las autorizaciones se supeditarán a las condiciones siguientes:
+
+1\. La creosota solo podrá utilizarse en las condiciones mencionadas en el punto 2 de la columna 2 de la entrada n.º 31 del anexo XVII del Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y del Consejo, de 18 de diciembre de 2006, relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados químicos (REACH), por el que se crea la Agencia Europea de Sustancias y Preparados Químicos, se modifica la Directiva 1999/45/CE y se derogan el Reglamento (CEE) n.º 793/93 del Consejo y el Reglamento (CE) n.º 1488/94 de la Comisión así como la Directiva 76/769/CEE del Consejo y las Directivas 91/155/CEE, 93/67/CEE, 93/105/CE y 2000/21/CE de la Comisión.
+
+2\. La creosota no se utilizará para el tratamiento de madera destinada a los usos contemplados en el punto 3 de la columna 2 de la entrada n.º 31 del anexo XVII del Reglamento (CE) n.º 1907/2006.
+
+3\. Se tomarán las medidas adecuadas de reducción del riesgo para proteger a los trabajadores, incluidos los usuarios posteriores, frente a la exposición durante el tratamiento y manipulación de la madera tratada, de acuerdo con el Reglamento (CE) n.º 1907/2006 y con la Directiva 2004/37/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativa a la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes carcinógenos o mutágenos durante el trabajo (sexta Directiva específica con arreglo al apartado 1 del artículo 16 de la Directiva 89/391/CEE del Consejo).
+
+4\. Se tomarán las medidas adecuadas de reducción del riesgo para proteger los compartimentos edáfico y acuático. En particular, en las etiquetas y en las fichas de datos de seguridad, cuando se disponga de éstas, de los biocidas autorizados debe indicarse que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable (o de ambos modos) para evitar pérdidas directas al suelo o al agua y que las eventuales pérdidas tienen que recogerse para su reutilización o eliminación.
+
+Número 46.
+
+Nombre común: Bacillus thuringiensis, subsp. israelensis, serotipo H14, cepa AM65-52.
+
+Denominación UIQPA: No aplicable.
+
+Números de identificación: No aplicable.
+
+Grado de pureza mínimo de la sustancia activa (*): Ninguna impureza relevante.
+
+Fecha de inclusión: 1 de octubre de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2023.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, de 11 de octubre, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Los biocidas autorizados para uso profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del biocida que los riesgos para los usuarios profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Por lo que respecta a los biocidas que contengan Bacillus thuringiensis, subsp. israelensis, serotipo H14, cepa AM65-52, y que puedan dar lugar a residuos en alimentos o piensos, los Estados miembros comprobarán la necesidad de establecer límites máximos de residuos (LMR) nuevos o modificar los existentes según el Reglamento (CE) n.º 470/2009 del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, o el Reglamento (CE) n.º 396/2005, del Parlamento Europeo y del Consejo, de 23 de febrero de 2005, y adoptarán las medidas adecuadas de reducción del riesgo que garanticen que no van a excederse los límites máximos de residuos aplicables.
+
+Número 47.
+
+Nombre común: Fipronil.
+
+Denominación UIQPA: (±)-5-amino-1-(2,6-dicloro-α,α,α-trifluoro-p-tolil)-4-trifluorometilsulfinilpirazol-3-carbonitrilo (1:1).
+
+Números de identificación:
+
+N.º CE: 424-610-5.
+
+N.º CAS: 120068-37-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 950g/kg.
+
+Fecha de inclusión: 1 de octubre de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2023.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+En la evaluación del riesgo realizada a escala de la Unión solo se ha abordado el uso profesional en interiores en lugares normalmente inaccesibles, tras la aplicación, para seres humanos y animales domésticos. Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, de 11 de octubre, se evaluarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Número 48.
+
+Nombre común: lambda-cihalotrina.
+
+Denominación UIQPA: Masa de reacción de (1S,3S)-3-[(Z)-2-cloro-3,3,3-trifluoropropenil]-2,2-dimetilciclopropanocarboxilato de (R)-α-ciano-3-fenoxibencilo y (1R,3R)-3-[(Z)-2-cloro-3,3,3-trifluoropropenil]-2,2-dimetilciclopropanocarboxilato de (S)-α-ciano-3-fenoxibencilo (1:1).
+
+Números de identificación:
+
+N.º CE: 415-130-7.
+
+N.º CAS: 91465-08-6.
+
+Grado de pureza mínimo de la sustancia activa (*): 900g/kg.
+
+Fecha de inclusión: 1 de octubre de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2023.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, de 11 de octubre, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+No se autorizarán los biocidas aplicados de manera tal que no puedan evitarse emisiones a una planta de tratamiento de aguas residuales, a no ser que se presenten datos que demuestren que el producto va a cumplir los requisitos del artículo 5 y del anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Los biocidas autorizados para uso profesional deberán utilizarse con el equipo de protección individual adecuado, a menos que pueda demostrarse en la solicitud de autorización del biocida que los riesgos para los usuarios profesionales pueden reducirse a un nivel aceptable por otros medios.
+
+Por lo que respecta a los biocidas que contengan lambda-cihalotrina que puedan dar lugar a residuos en alimentos o piensos, los Estados miembros comprobarán la necesidad de establecer límites máximos de residuos (LMR) nuevos o modificar los existentes según el Reglamento (CE) nº 470/2009 del Parlamento Europeo y del Consejo, de 6 de mayo de 2009, o el Reglamento (CE) nº 396/2005 del Parlamento Europeo y del Consejo, de 23 de febrero de 2005, y adoptarán las medidas adecuadas de reducción del riesgo que garanticen que no van a excederse los límites máximos de residuos aplicables.
+
+Número 49.
+
+Nombre común: Deltametrina.
+
+Denominación UIQPA: (1R,3R)-3-(2,2) dibromovinil-2,2-dimetilciclopropanocarboxilato de (S)-α-ciano-3-fenoxibencilo.
+
+Números de identificación:
+
+N.º CE: 258-256-6.
+
+N.º CAS: 52918-63-5.
+
+Grado de pureza mínimo de la sustancia activa (*): 985g/kg.
+
+Fecha de inclusión: 1 de octubre de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2015.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2023.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, de 11 de octubre, se examinarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Los biocidas no se utilizarán para tratamientos en interiores que provoquen emisiones que lleguen a plantas de tratamiento de aguas residuales a una escala tal que, según se indica en la evaluación del riesgo a nivel de la Unión, plantee riesgos inaceptables, a no ser que se presenten datos que demuestren que el biocida va a cumplir los requisitos del artículo 5 y del anexo VI, si procede mediante la aplicación de las medidas adecuadas de reducción del riesgo.
+
+Número 50.
+
+Nombre común: Hidróxido de cobre.
+
+Denominación UIQPA: Hidróxido de cobre (II)
+
+Números de identificación:
+
+N.º CE: 243-815-9.
+
+N.º CAS: 20427-59-2.
+
+Grado de pureza mínimo de la sustancia activa (*): 965 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2016.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2024.
+
+Tipo de producto: 8 (protectores para maderas).
+
+Disposiciones específicas (***): Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a las condiciones siguientes:
+
+1) No se autorizarán biocidas para la aplicación por inmersión, a menos que en la solicitud de autorización del biocida se hayan presentado datos que demuestren que la aplicación cumple los requisitos del artículo 5 y del anexo VI, si procede mediante la ejecución de las medidas de reducción del riesgo adecuadas.
+
+2) En relación con los biocidas autorizados para uso industrial, se establecerán procedimientos operativos seguros, y los biocidas se utilizarán con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales pueden reducirse a niveles aceptables por otros medios.
+
+3) En las etiquetas y, si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable, o de ambos modos, para evitar pérdidas directas al suelo o al agua, y que las pérdidas que se produzcan durante la aplicación del biocida tienen que recogerse para reutilizarse o eliminarse.
+
+4) No se autorizará el uso de biocidas para el tratamiento de madera que vaya a utilizarse en construcciones al aire libre sobre el agua o en sus proximidades, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 51.
+
+Nombre común: Óxido de cobre (II).
+
+Denominación UIQPA: Óxido de cobre (II).
+
+Números de identificación:
+
+N.º CE: 215-269-1.
+
+N.º CAS: 1317-38-0.
+
+Grado de pureza mínimo de la sustancia activa (*): 976 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2016.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2024.
+
+Tipo de producto: 8 (protectores para maderas).
+
+Disposiciones específicas (***): Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a las condiciones siguientes:
+
+1) En relación con los biocidas autorizados para uso industrial, se establecerán procedimientos operativos seguros, y los biocidas se utilizarán con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales pueden reducirse a niveles aceptables por otros medios.
+
+2) En las etiquetas y, si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable, o de ambos modos, para evitar pérdidas directas al suelo o al agua, y que las pérdidas que se produzcan durante la aplicación del biocida tienen que recogerse para reutilizarse o eliminarse.
+
+3) No se autorizará el uso de biocidas para el tratamiento de madera que vaya a utilizarse en construcciones al aire libre sobre el agua o en sus proximidades ni para el tratamiento de madera en contacto con agua dulce, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 52.
+
+Nombre común: Carbonato básico de cobre.
+
+Denominación UIQPA: Carbonato de cobre (II)-hidróxido de cobre (II) (1:1).
+
+Números de identificación:
+
+N.º CE: 235-113-6.
+
+N.º CAS: 12069-69-1.
+
+Grado de pureza mínimo de la sustancia activa (*): 957 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: 31 de enero de 2016.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2024.
+
+Tipo de producto: 8 (protectores para maderas).
+
+Disposiciones específicas (***): Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a las condiciones siguientes:
+
+1) No se autorizarán biocidas para la aplicación por inmersión, a menos que en la solicitud de autorización del biocida se hayan presentado datos que demuestren que la aplicación cumple los requisitos del artículo 5 y del anexo VI, si procede mediante la ejecución de las medidas de reducción del riesgo adecuadas.
+
+2) En relación con los biocidas autorizados para uso industrial, se establecerán procedimientos operativos seguros, y los biocidas se utilizarán con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales pueden reducirse a niveles aceptables por otros medios.
+
+3) En las etiquetas y, si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable, o de ambos modos, para evitar pérdidas directas al suelo o al agua, y que las pérdidas que se produzcan durante la aplicación del biocida tienen que recogerse para reutilizarse o eliminarse.
+
+4) No se autorizará el uso de biocidas para el tratamiento de madera que vaya a utilizarse en construcciones al aire libre sobre el agua o en sus proximidades ni para el tratamiento de madera en contacto directo con agua dulce, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Número 53.
+
+Nombre común: Bendiocarb.
+
+Denominación UIQPA: Metilcarbamato de 2,2-dimetil-1,3-benzodioxol-4-il.
+
+Números de identificación:
+
+N.º CE: 245-216-8.
+
+N.º CAS: 22781-23-3.
+
+Grado de pureza mínimo de la sustancia activa (*): 970 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 31 de enero de 2016.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2024.
+
+Tipo de producto: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***): La evaluación de riesgos a nivel de la Unión no consideró todos los usos posibles, sino que se refirió, por ejemplo, a la aplicación por profesionales únicamente y excluyó el contacto con alimentos o piensos, así como la aplicación directa al suelo. Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas a los que no se hayan referido de forma representativa en la evaluación de riesgos a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a las condiciones siguientes:
+
+No se autorizará el uso de los biocidas para el tratamiento de superficies sujetas a una limpieza en húmedo frecuente, fuera del tratamiento de grietas y hendiduras o puntos localizados, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+Los biocidas autorizados para uso industrial o profesional tienen que utilizarse con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+Cuando proceda, se deben tomar medidas para prevenir que las pecoreadoras accedan a los nidos tratados retirando los paneles o bloqueando la entrada a los nidos.
+
+Número 54.
+
+Nombre común: Metilnonilcetona.
+
+Denominación UIQPA: Undecan-2-ona.
+
+Números de identificación:
+
+N.º CAS: 112-12-9.
+
+N.º CE: 203-937-5.
+
+Grado de pureza mínimo de la sustancia activa (*): 975 g/kg.
+
+Fecha de inclusión: 1 de mayo de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de abril de 2016.
+
+Fecha de vencimiento de la inclusión: 30 de abril de 2024.
+
+Tipo de biocida: 19 (repelentes y atrayentes).
+
+Disposiciones específicas (***):
+
+La evaluación del riesgo a escala de la Unión se refirió al uso en espacios interiores por usuarios no profesionales.
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Número 55.
+
+Nombre común: Extracto de margosa.
+
+Denominación UIQPA: no aplicable.
+
+Números de identificación:
+
+N.º CE: 283-644-7.
+
+N.º CAS: 84696-25-3.
+
+Descripción: extracto de margosa de semillas de Azadirachta indica obtenido con agua y tratado posteriormente con disolventes orgánicos.
+
+Grado de pureza mínimo de la sustancia activa (*): 1.000 g/kg.
+
+Fecha de inclusión: 1 de mayo de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: 30 de abril de 2016.
+
+Fecha de vencimiento de la inclusión: 30 de abril de 2024.
+
+Tipo de biocida: 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación de riesgos a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a medidas de reducción del riesgo adecuadas para la protección de las aguas superficiales, los sedimentos y los artrópodos no diana.
+
+Número 56.
+
+Nombre común: Ácido clorhídrico.
+
+Denominación UIQPA: Ácido clorhídrico.
+
+Números de identificación:
+
+N.º CE: 231-595-7.
+
+N.º CAS: no aplicable.
+
+Grado de pureza mínimo de la sustancia activa (*): 999 g/kg.
+
+Fecha de inclusión: 1 de mayo de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de abril de 2016.
+
+Fecha de vencimiento de la inclusión: 30 de abril de 2024.
+
+Tipo de biocida: 2 (desinfectantes y otros biocidas utilizados en el ámbito de la vida privada y en el de la salud pública).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones de productos destinados a un uso no profesional sean objeto de un envase concebido para minimizar la exposición del usuario, a menos que en la solicitud de autorización del producto pueda demostrarse que los riesgos para la salud humana pueden reducirse a niveles aceptables por otros medios.
+
+Número 57.
+
+Nombre común: Flufenoxurón.
+
+Denominación UIQPA: 1-(4-(2-cloro-α,α,α-trifluoro-para-toliloxi)-2-fluorofenil)-3-(2,6-difluorobenzolil)urea.
+
+Números de identificación:
+
+N.º CE: 417-680-3.
+
+N.º CAS: 101463-69-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 960 g/kg.
+
+Fecha de inclusión: 1 de febrero de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: 31 de enero de 2016.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2017.
+
+Tipo de producto: 8 (protectores para maderas).
+
+Disposiciones específicas (***): El flufenoxurón deberá someterse a una evaluación comparativa del riesgo, de acuerdo con el artículo 10, apartado 6, inciso a), párrafo segundo, del Real Decreto 1054/2002, antes de que se renueve su inclusión en el presente anexo.
+
+La evaluación de riesgos a nivel de la Unión se refirió al tratamiento de madera no destinada a la utilización en locales de estabulación o que no entrará en contacto con alimentos ni piensos. Los biocidas no se autorizarán para usos o supuestos de exposición a los que no se haya referido de forma representativa la evaluación de riesgos a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a las condiciones siguientes:
+
+1\. Los biocidas se utilizarán únicamente a efectos del tratamiento de madera destinada a uso en interiores.
+
+2\. En relación con los biocidas autorizados para uso industrial o profesional, se establecerán procedimientos operativos seguros, y los biocidas se utilizarán con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos para los usuarios industriales o profesionales pueden reducirse a niveles aceptables por otros medios.
+
+3\. Se tomarán las medidas adecuadas de reducción del riesgo para proteger los compartimentos edáfico y acuático. En particular, en las etiquetas, y si se facilitan, en las fichas de datos de seguridad de los biocidas autorizados se indicará que la madera recién tratada tiene que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable, o de ambos modos, para evitar derrames directos al suelo o al agua y que los eventuales derrames que se produzcan durante la aplicación del biocida tienen que recogerse para su reutilización o eliminación.
+
+Número 58.
+
+Nombre común: Carbonato de didecildimetilamonio.
+
+Denominación UIQPA: Masa de reacción de carbonato de N,N-didecil-N,N-dimetilamonio y bicarbonato de N,N-didecil-N,N-dimetilamonio.
+
+Números de identificación:
+
+N.º CAS: 894406-76-9.
+
+N.º CE: 451-900-9.
+
+Grado de pureza mínimo de la sustancia activa (*): 740g/kg.
+
+Fecha de inclusión: 1 de febrero de 2013.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**):: No aplicable.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2023.
+
+Tipo de biocida: 8 (protectores para maderas).
+
+Disposiciones específicas (***):
+
+La evaluación de riesgos a nivel de la Unión no consideró todos los usos posibles; determinados usos, como la utilización por parte de no profesionales, quedaron excluidos.
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para los compartimentos medioambientales y las poblaciones humanas que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones se supediten a las condiciones siguientes:
+
+1\. Se establecerán procedimientos operativos seguros para los usuarios industriales y los biocidas tendrán que utilizarse con el equipo de protección individual adecuado, a menos que la solicitud de autorización del biocida demuestre que los riesgos pueden reducirse a niveles aceptables por otros medios.
+
+2\. En las etiquetas y en las fichas de datos de seguridad, cuando se disponga de estas, de los biocidas autorizados se indicará que la aplicación industrial debe efectuarse dentro de un área confinada o en una superficie dura e impermeable con barreras de protección, que la madera recién tratada tendrá que almacenarse, tras el tratamiento, a cubierto o en una superficie dura e impermeable, o de ambos modos, para evitar pérdidas directas al suelo o al agua y que las eventuales pérdidas deberán recogerse para su reutilización o eliminación.
+
+3\. No se autorizará el uso de biocidas para el tratamiento de madera que vaya a quedar en contacto con agua dulce, que vaya a utilizarse en construcciones al aire libre sobre el agua o en sus proximidades ni para el tratamiento de madera por inmersión que vaya a quedar expuesta constantemente a la intemperie o sujeta a mojadura frecuente, a menos que se presenten datos que demuestren que el biocida va a cumplir los requisitos establecidos en el artículo 5 y en el anexo VI, si procede mediante la aplicación de las medidas de reducción del riesgo adecuadas.
+
+(*): La pureza indicada en este epígrafe es el grado de pureza mínimo de la sustancia activa utilizada para la evaluación realizada de conformidad con el artículo 11. La sustancia activa en el biocida comercializado puede tener una pureza igual o diferente, si se demuestra que es técnicamente equivalente a la sustancia evaluada.
+
+(**): En el caso de los biocidas que contengan más de una sustancia activa a los que se aplique la disposición transitoria primera de este real decreto, el plazo de vencimiento de las condiciones de inclusión, es el de la última de sus sustancias activas incluidas en el presente anexo. En el caso de los biocidas para los que la primera autorización se haya concedido después de la fecha correspondiente a 120 días antes de la fecha límite inicial de vencimiento de las condiciones de inclusión, y para los que se haya presentado una solicitud completa de reconocimiento mutuo de conformidad con el artículo 4, apartado 1, dentro de los 60 días de la concesión de la primera autorización, el plazo de vencimiento de las condiciones de inclusión, en relación con dicha solicitud se amplía a 120 días a partir de la fecha de recepción de la solicitud completa de reconocimiento mutuo. En el caso de los biocidas para los que un Estado miembro haya propuesto establecer una excepción al reconocimiento mutuo de conformidad con el artículo 4, apartado 4, el plazo de vencimiento de las condiciones de inclusión, se amplía a 30 días a partir de la fecha de adopción de la decisión de la Comisión de conformidad con el artículo 4, apartado 4, párrafo segundo de la Directiva 98/8/CE.
+
+(***): A efectos de la aplicación de los principios comunes del anexo VI, el contenido y las conclusiones de los informes de evaluación se pueden consultar en el sitio Web de la Comisión: http://ec.europa.eu/comm/environment/biocides/index.htm.
+
+Número 59.
+
+Nombre común: cis-Tricos-9-eno (Muscalure).
+
+Denominación IUQPA: cis-Tricos-9-eno; (Z)-Tricos-9-eno.
+
+Números de identificación:
+
+N.º CE: 248-505-7.
+
+N.º CAS: 27519-02-4.
+
+Grado de pureza mínimo de la sustancia activa (*): 801 g/kg.
+
+Fecha de inclusión: 1 de octubre de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2016.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2024.
+
+Tipo de producto: 19 (repelentes y atrayentes).
+
+Disposiciones específicas (***):
+
+La evaluación de riesgos a nivel de la Unión no consideró todos los usos y supuestos de exposición posibles; quedaron excluidos determinados usos y supuestos de exposición, como el uso en exteriores y la exposición de alimentos y piensos. Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se examinarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para las poblaciones humanas y los compartimentos medioambientales que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Por lo que respecta a los biocidas que contengan cis-Tricos-9-eno que puedan dar lugar a residuos en alimentos o piensos, se comprobará la necesidad de establecer límites máximos de residuos (LMR) nuevos o modificar los existentes según el Reglamento (CE) n.º 470/2009 o el Reglamento (CE) n.º 396/2005, y se adoptarán las medidas adecuadas de reducción del riesgo que garanticen que no van a excederse los límites máximos de residuos aplicables.
+
+(*) La pureza indicada en este epígrafe es el grado de pureza mínimo de la sustancia activa utilizada para la evaluación realizada de conformidad con el artículo 11. La sustancia activa en el biocida comercializado puede tener una pureza igual o diferente, si se demuestra que es técnicamente equivalente a la sustancia evaluada.
+
+(**) En el caso de los biocidas que contengan más de una sustancia activa a los que se aplique la disposición transitoria primera de este real decreto, el plazo de vencimiento de las condiciones de inclusión, es el de la última de sus sustancias activas incluidas en el presente anexo. En el caso de los biocidas para los que la primera autorización se haya concedido después de la fecha correspondiente a 120 días antes de la fecha límite inicial de vencimiento de las condiciones de inclusión, y para los que se haya presentado una solicitud completa de reconocimiento mutuo de conformidad con el artículo 4, apartado 1, dentro de los 60 días de la concesión de la primera autorización, el plazo de vencimiento de las condiciones de inclusión, en relación con dicha solicitud se amplía a 120 días a partir de la fecha de recepción de la solicitud completa de reconocimiento mutuo. En el caso de los biocidas para los que un Estado miembro haya propuesto establecer una excepción al reconocimiento mutuo de conformidad con el artículo 4, apartado 4, el plazo de vencimiento de las condiciones de inclusión, se amplía a 30 días a partir de la fecha de adopción de la decisión de la Comisión de conformidad con el artículo 4, apartado 4, párrafo segundo de la Directiva 98/8/CE.
+
+(***) A efectos de la aplicación de los principios comunes del anexo VI, el contenido y las conclusiones de los informes de evaluación se pueden consultar en el sitio web de la Comisión: http://ec.europa.eu/comm/environment/biocides/index.htm
+
+Número 60.
+
+Nombre común: Cianuro de hidrógeno.
+
+Denominación IUQPA: Cianuro de hidrógeno.
+
+Números de identificación:
+
+N.º CE: 200-821-6.
+
+N.º CAS: 74-90-8.
+
+Grado de pureza mínimo de la sustancia activa (*): 976 g/kg.
+
+Fecha de inclusión: 1 de octubre de 2014.
+
+Plazo de vencimiento de las condiciones de inclusión, a menos que se aplique una de las excepciones indicadas en la nota a pie de página de este epígrafe (**): 30 de septiembre de 2016.
+
+Fecha de vencimiento de la inclusión: 30 de septiembre de 2024.
+
+Tipo de producto: 8 (protectores para maderas), 14 (rodenticidas) y 18 (insecticidas, acaricidas y productos para controlar otros artrópodos).
+
+Disposiciones específicas (***):
+
+Al evaluar la solicitud de autorización de un biocida, conforme al artículo 5 y al anexo VI del Real Decreto 1054/2002, se evaluarán, cuando proceda según el biocida concreto, los usos o los supuestos de exposición y los riesgos para las poblaciones humanas y los compartimentos medioambientales que no se hayan abordado de forma representativa en la evaluación del riesgo a nivel de la Unión.
+
+Se velará por que las autorizaciones de biocidas para su uso como fumigante se supediten a las condiciones siguientes:
+
+1) los productos solo se suministrarán a profesionales con la formación adecuada para utilizarlos, y solo ellos los podrán usar;
+
+2) se establecerán procedimientos operativos seguros para los operadores y las personas presentes durante la fumigación y la ventilación;
+
+3) los biocidas se utilizarán con el equipo de protección individual adecuado, incluidos, en su caso, aparatos respiratorios autónomos y ropa estanca al gas;
+
+4) se prohibirá el reingreso en las zonas fumigadas mientras no se haya conseguido, mediante ventilación, un nivel de concentración en el aire que sea seguro para los operadores y las personas presentes;
+
+5) deberá impedirse que la exposición durante y después de la ventilación supere niveles seguros para los operadores y las personas presentes mediante el establecimiento de una zona de exclusión supervisada;
+
+6) antes de la fumigación, cualquier alimento o material poroso que pueda absorber la sustancia activa, excepto la madera destinada a tratamiento, deberá retirarse de la zona que va a fumigarse, o protegerse de la absorción mediante medios adecuados, y la zona que va a fumigarse deberá protegerse contra la inflamación accidental.
+
+(*) La pureza indicada en este epígrafe es el grado de pureza mínimo de la sustancia activa utilizada para la evaluación realizada de conformidad con el artículo 11. La sustancia activa en el biocida comercializado puede tener una pureza igual o diferente, si se demuestra que es técnicamente equivalente a la sustancia evaluada.
+
+(**) En el caso de los biocidas que contengan más de una sustancia activa a los que se aplique la disposición transitoria primera de este real decreto, el plazo de vencimiento de las condiciones de inclusión, es el de la última de sus sustancias activas incluidas en el presente anexo. En el caso de los biocidas para los que la primera autorización se haya concedido después de la fecha correspondiente a 120 días antes de la fecha límite inicial de vencimiento de las condiciones de inclusión, y para los que se haya presentado una solicitud completa de reconocimiento mutuo de conformidad con el artículo 4, apartado 1, dentro de los 60 días de la concesión de la primera autorización, el plazo de vencimiento de las condiciones de inclusión, en relación con dicha solicitud se amplía a 120 días a partir de la fecha de recepción de la solicitud completa de reconocimiento mutuo. En el caso de los biocidas para los que un Estado miembro haya propuesto establecer una excepción al reconocimiento mutuo de conformidad con el artículo 4, apartado 4, el plazo de vencimiento de las condiciones de inclusión, se amplía a 30 días a partir de la fecha de adopción de la decisión de la Comisión de conformidad con el artículo 4, apartado 4, párrafo segundo de la Directiva 98/8/CE.
+
+(***) A efectos de la aplicación de los principios comunes del anexo VI, el contenido y las conclusiones de los informes de evaluación se pueden consultar en el sitio web de la Comisión: http://ec.europa.eu/comm/environment/biocides/index.htm.
+
+> Se añaden los apartados Nº 59 y 60 y se amplia el Nº 41 por el art. único y anexo de la Orden PRE/1691/2013, de 17 de septiembre. [Ref. BOE-A-2013-9814](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-9814).
+
+> Se modifica por el art.único.1 y 2 de la Orden PRE/1293/2013, de 4 de julio. [Ref. BOE-A-2013-7475](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-7475).
+
+> Se añaden los apartados Nº 54 a 56 por el art. único y anexo de la Orden PRE/675/2013, de 22 de abril. [Ref. BOE-A-2013-4362](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4362).
+
+> Se añade el apartado Nº 58 por el art. único y Anexo de la Orden PRE/662/2013, de 22 de abril. [Ref. BOE-A-2013-4292](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4292).
+
+> Se añaden los apartados Nº 50 a 53 y 57 por el art. único y anexo de la Orden PRE/255/2013, de 14 de febrero. [Ref. BOE-A-2013-1784](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-1784).
+
+> Se añaden los apartados Nº 46 a 49 por el art. único y anexo de la Orden PRE/2745/2012, de 20 de diciembre. [Ref. BOE-A-2012-15526](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-15526).
+
+> Se añaden los apartados Nº 42 a 44, de aplicación a partir de 1 de julio de 2013, por el art. único y anexo de la Orden PRE/927/2012, de 3 de mayo. [Ref. BOE-A-2012-5917](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5917). y el apartado Nº 45, de aplicación a partir de 1 de mayo de 2013, por el art. único y anexo de la Orden PRE/928/2012, de 3 de mayo. [Ref. BOE-A-2012-5918](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-5918).
+
+> Se añaden los apartados Nº 38 a 41 por el art. único y anexo de la Orden PRE/3271/2011, de 25 de noviembre. [Ref. BOE-A-2011-18788](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18788).
+
+> Se añade el apartado Nº 37 por el art. único y anexo de la Orden PRE/2610/2011, de 27 de septiembre. [Ref. BOE-A-2011-15452](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-15452).
+
+> Se añade al apartado Nº 6, el tipo de producto 18, por el art. único y anexo de la Orden PRE/2421/2011, de 7 de septiembre. [Ref. BOE-A-2011-14700](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-14700).
+
+> Se añade el apartado Nº 36 por el art. único y anexo de la Orden PRE/1069/2011, de 26 de abril. [Ref. BOE-A-2011-7634](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-7634).
+
+> Se añaden los apartados Nº 34 y 35 por el art. único y anexo de la Orden PRE/777/2011, de 4 de abril. [Ref. BOE-A-2011-6177](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-6177).
+
+> Se añaden los apartados Nº 26.bis y Nº 30 a 33 por el art. único y anexo de la Orden PRE/2439/2010, de 16 de septiembre. [Ref. BOE-A-2010-14481](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-14481).
+
+> Se añaden los apartados Nº 1.bis, Nº 16 a 20 por el art. único y anexo de la Orden PRE/2125/2010, de 30 de julio. [Ref. BOE-A-2010-12487](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12487).
+
+> Se añaden los apartados Nº 27 a 29 por el art. único y anexo de la Orden PRE/2046/2010, de 21 de julio. [Ref. BOE-A-2010-12173](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12173). y se añaden los apartados Nº 21 a 26 por el art. único y anexo de la Orden PRE/2047/2010, de 21 de julio. [Ref. BOE-A-2010-12174](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-12174).
+
+> Se añaden los apartados Nº 14 y 15 por el art. único y anexo de la Orden PRE/1164/2010, de 6 de mayo. [Ref. BOE-A-2010-7260](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-7260).
+
+> Se añaden los apartados Nº 6 y 7 por el art. único y anexo de la Orden PRE/864/2009, de 2 de abril. [Ref. BOE-A-2009-5845](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5845). y los apartados Nº 12 y 13 por el art. único y anexo I de la Orden PRE/865/2009, de 2 de abril.[Ref. BOE-A-2009-5846](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5846). y los apartados Nº 8 a 11 por el art. único y anexo de la Orden PRE/866/2009, de 2 de abril. [Ref. BOE-A-2009-5847](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-5847).
+
+> Se añaden los apartados Nº 4 y 5 por el art. único y anexo de la Orden PRE/321/2009, de 13 de febrero. [Ref. BOE-A-2009-2801](https://www.boe.es/buscar/doc.php?id=BOE-A-2009-2801).
+
+> Se añade el apartado Nº 3 por el art. único.1 y anexo I de la Orden PRE/2543/2008, de 4 de septiembre. [Ref. BOE-A-2008-14692](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14692).
+
+> Se añade el apartado Nº 2 por el art. único y anexo I de la Orden PRE/1016/2008, de 8 de abril. [Ref. BOE-A-2008-6574](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-6574).
+
+> Se añade el apartado Nº 1 por el art. único y anexo de la Orden PRE/507/2008, de 26 de febrero. [Ref. BOE-A-2008-3871](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-3871).
+
+## ANEXO IA — Lista de sustancias activas para su inclusión en biocidas de bajo riesgo
+
+N.º 1 Dióxido de carbono (nombre común)
+
+Denominación UIQPA: Dióxido de carbono.
+
+Números de identificación: N.º CE: 204-696-9
+
+N.º CAS: 124-38-9.
+
+Pureza mínima de la sustancia activa en el biocida comercializado: 990 ml/litro.
+
+Fecha de inclusión: 1 de noviembre de 2009.
+
+Plazo para la aplicación de las condiciones de inclusión (excepto en el caso de los biocidas que contengan más de una sustancia activa, cuyo plazo será el último fijado en la última de las decisiones de inclusión relacionadas con sus sustancias activas): 31 de octubre de 2011.
+
+Fecha del vencimiento de la inclusión: 31 de octubre de 2019.
+
+Tipo de producto: 14 (rodenticidas).
+
+Disposiciones específicas:
+
+Sólo para utilización en cartuchos de gas listos para el uso y provistos de un dispositivo de retención.
+
+N.º 2. Acetato de (Z,E)-tetradeca-9,12-dienilo (nombre común)
+
+Números de identificación:
+
+N.º CE: n.a.
+
+N.º CAS: 30507-70-1.
+
+Denominación UIQPA: Acetato de (9Z,12E)-tetradecadien-1-ilo.
+
+Pureza mínima de la sustancia activa en el biocida comercializado: 977g/kg.
+
+Fecha de inclusión: 1 de febrero de 2013.
+
+Plazo para la aplicación de las condiciones de inclusión (excepto en el caso de los biocidas que contengan más de una sustancia activa, cuyo plazo será el último fijado en la última de las decisiones de inclusión relacionadas con las sustancias activas): 31 de enero de 2015.
+
+Fecha de vencimiento de la inclusión: 31 de enero de 2023.
+
+Tipo de biocida: 19 (repelentes y atrayentes).
+
+Disposiciones específicas:
+
+El registro se supeditará a las condiciones siguientes:
+
+– Solo para trampas que contengan un máximo de 2 mg de acetato de (Z,E)-tetradeca-9,12-dienilo para su uso en interiores.
+
+– En las etiquetas de biocidas que contengan acetato de (Z,E)-tetradeca-9,12-dienilo debe indicarse que esos productos solo deben usarse en interiores y que no deben usarse en espacios donde se mantienen alimentos o piensos no envasados.
+
+> Se añade el apartado Nº 2 por el art. único y anexo de la Orden PRE/3271/2011, de 25 de noviembre. [Ref. BOE-A-2011-18788](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18788).
+
+> Se añade el apartado Nº 1 por el art. único.2 y anexo de la Orden PRE/2543/2008, de 4 de septiembre. [Ref. BOE-A-2008-14692](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-14692).
+
+## ANEXO IB — Lista de sustancias básicas
+
+## ANEXO IIA — Documentación fundamental común para sustancias activas
+
+SUSTANCIAS QUÍMICAS
+
+1\. La documentación sobre sustancias activas debe responder, al menos, a todos los puntos mencionados en la lista de "Requisitos de la documentación". Las respuestas deben ir respaldadas por datos. Los requisitos de la documentación deberán estar a la altura de los avances técnicos.
+
+2\. La información que no sea necesaria debido a la naturaleza del biocida o de los usos a que se destine no tendrá que facilitarse. Lo mismo ocurre cuando no sea científicamente necesario ni técnicamente posible proporcionar la información. En estos casos, deberá presentarse una justificación aceptable para la autoridad competente. Dicha justificación podrá ser la existencia de una formulación marco a la que el solicitante tenga derecho a acceder.
+
+Requisitos de la documentación
+
+I. Solicitante.
+
+II. Identificación de la sustancia activa.
+
+III. Propiedades físicas y químicas de la sustancia activa.
+
+IV. Métodos de detección e identificación.
+
+V. Efectividad frente a los organismos a los que se destina y usos previstos.
+
+VI. Perfil toxicológico para el ser humano y los animales, incluido el metabolismo.
+
+VII. Perfil ecotoxicológico, incluidos el alcance y comportamiento en el medio ambiente.
+
+VIII. Medidas necesarias para la protección del ser humano, los animales y el medio ambiente.
+
+IX. Clasificación y etiquetado.
+
+X. Resumen y evaluación de II-IX.
+
+Los puntos anteriores deberán ir apoyados por los datos siguientes:
+
+I. Solicitante:
+
+1.1 Nombre, apellidos y dirección, etc.
+
+1.2 Fabricante de la sustancia activa (nombre, apellidos, dirección y situación de la instalación).
+
+II. Identificación:
+
+2.1 Denominación común propuesta o aceptada por ISO y sinónimos.
+
+2.2 Denominación química (nomenclatura de la IUPAC).
+
+2.3 Número de código de experimentación del fabricante.
+
+2.4 Números CAS y CE (si se conocen).
+
+2.5 Fórmulas empírica y desarrollada (incluidos todos los detalles de cualquier composición isomérica) y masa molecular.
+
+2.6 Método de fabricación (vía de síntesis abreviada) de la sustancia activa.
+
+2.7 Especificación de pureza de la sustancia activa en g/kg o g/l, según proceda.
+
+2.8 Tipo de impurezas y aditivos (por ejemplo, estabilizadores), junto con la fórmula desarrollada y la concentración posible expresada en g/kg o g/l, según proceda.
+
+2.9 Origen de la sustancia activa natural o del precursor o precursores de la sustancia activa, por ejemplo, un extracto floral.
+
+2.10 Datos de exposición conformes al anexo VIIA del Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre Notificación de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas.
+
+III. Propiedades físicas y químicas:
+
+3.1 Punto de fusión, punto de ebullición, densidad relativa (1).
+
+3.2 Presión de vapor (en Pa) (1).
+
+3.3 Aspecto (estado físico, color) (2).
+
+3.4 Espectro de absorción (UV/VIS, IR, RMN) y, cuando proceda, espectro de masa y extinción molar a longitudes de onda pertinentes (1).
+
+3.5 Solubilidad en agua, incluido el efecto del pH (5 a 9) y la temperatura sobre la solubilidad, cuando proceda (1).
+
+3.6 Coeficiente de partición n-octanol/agua, incluido el efecto del pH (5 a 9) y de la temperatura.
+
+3.7 Estabilidad térmica e identidad de los productos de descomposición pertinentes.
+
+3.8 Inflamabilidad, incluida la autoinflamabilidad, e identidad de los productos de combustión.
+
+3.9 Punto de destello.
+
+3.10 Tensión superficial.
+
+3.11 Propiedades explosivas.
+
+3.12 Propiedades comburentes.
+
+3.13 Reactividad con los materiales del envase.
+
+IV. Métodos analíticos de detección e identificación:
+
+4.1 Métodos analíticos para determinación de la sustancia activa pura y, cuando proceda, para la determinación de productos de descomposición, isómeros e impurezas pertinentes de la sustancia activa y los aditivos (por ejemplo, estabilizadores).
+
+4.2 Métodos analíticos, incluidos la tasa de recuperación y los límites de detección de la sustancia activa y sus residuos y, cuando proceda, en:
+
+a) Suelo.
+
+b) Aire.
+
+c) Agua: El solicitante confirmará que la sustancia y cualquiera de sus metabolitos y productos de degradación y reacción entran en la definición de plaguicida definido en la legislación vigente de aguas de consumo humano y que pueden estimarse con fiabilidad adecuada al valor paramétrico especificado en dicha normativa para cada plaguicida individual.
+
+d) Fluidos y tejidos corporales del ser humano y los animales.
+
+V. Efectividad frente a los organismos a los que se destina en los usos indicados:
+
+5.1 Función, por ejemplo, fungicida, rodenticida, insecticida, bactericida.
+
+5.2 Organismo u organismos que deben controlarse y productos, organismos u objetos que deben protegerse.
+
+5.3. Efectos en los organismos a los que se destina y concentración probable del producto cuando se utiliza.
+
+5.4. Modo de acción (incluido el plazo).
+
+5.5. Ámbito de uso previsto.
+
+5.6. Usuario: Industrial, profesional, público en general (no profesional).
+
+5.7. Información sobre aparición o posible aparición de resistencia y estrategias adecuadas para hacerle frente.
+
+5.8. Cantidades estimadas que se comercializará anualmente, expresadas en Tn.
+
+VI. Estudios toxicológicos y metabólicos:
+
+6.1. Toxicidad aguda.– Para los ensayos 6.1.1 a 6.1.3, las sustancias que no sean gases deberán administrarse, al menos, por dos vías, debiendo ser una de ellas la oral. La elección de la segunda vía dependerá de la naturaleza de la sustancia y la posible vía de la exposición humana. Los gases y los líquidos volátiles deberían administrarse por inhalación.
+
+6.1.1. Oral.
+
+6.1.2. Dérmica.
+
+6.1.3. Por inhalación.
+
+6.1.4. Irritación cutánea y ocular (3).
+
+6.1.5. Sensibilización dérmica.
+
+6.2. Estudios metabólicos en mamíferos.– Toxicocinética básica, incluido un estudio de absorción dérmica.
+
+En los estudios siguientes 6.3 (cuando proceda), 6.4, 6.5, 6.7 y 6.8 será obligatorio utilizar como vía de administración la vía oral, salvo que pueda justificarse que es más adecuada otra vía.
+
+6.3. Toxicidad a corto plazo por dosis repetida (veintiocho días).– No se exigirá este estudio cuando se disponga de un estudio de toxicidad subcrónica en roedor.
+
+6.4. Toxicidad subcrónica.– Estudio de noventa días en dos especies, una de roedor y otra de no roedor.
+
+6.5. Toxicidad crónica (4).– Una especie de roedor y otra especie de mamífero.
+
+6.6. Estudios de genotoxicidad.
+
+6.6.1. Estudio in vitro de mutación genética en bacterias.
+
+6.6.2. Estudio citogenético in vitro en células de mamíferos.
+
+6.6.3. Ensayo in vitro y separado de mutación genética en células de mamíferos.
+
+6.6.4. Si los resultados de 6.6.1, 6.6.2 ó 6.6.3 son positivos, será necesario hacer un estudio de mutagenicidad in vivo (ensayo en médula ósea para lesiones cromosómicas o prueba de micronúcleos).
+
+6.6.5. Si los resultados de 6.6.4 son negativos pero los ensayos in vitro son positivos se hará un segundo estudio in vivo para determinar si puede demostrarse mutagenicidad o evidencia de lesión del ADN en tejidos distintos a la médula ósea.
+
+6.6.6. Si los resultados de 6.6.4 son positivos, será necesario hacer un ensayo para evaluar posibles efectos en células germinales.
+
+6.7. Estudio de carcinogenicidad (4).– Una especie de roedor y otra especie de mamífero. Estos estudios pueden combinarse con los de 6.5.
+
+6.8. Toxicidad para la función reproductora (5).
+
+6.8.1. Ensayo de teratogenicidad: Conejo y una especie de roedor.
+
+6.8.2. Estudio de fertilidad: Al menos dos generaciones, una especie, macho y hembra.
+
+6.9. Datos médicos en forma anónima.
+
+6.9.1. Datos de vigilancia médica del personal de las instalaciones de fabricación, si se dispone de ellos.
+
+6.9.2. Observación directa, por ejemplo, casos clínicos o casos de intoxicación, si se dispone de ellos.
+
+6.9.3. Registros de salud, tanto de la industria como de cualquier otra fuente disponible.
+
+6.9.4. Estudios epidemiológicos de la población en general, si se dispone de ellos.
+
+6.9.5. Diagnóstico de intoxicación incluidos los signos específicos de intoxicación y los ensayos clínicos, si se dispone de ellos.
+
+6.9.6. Observaciones de sensibilización o alergenización, si se dispone de ellas.
+
+6.9.7. Tratamiento específico en caso de accidente o intoxicación. Medidas de primeros auxilios, antídotos y tratamiento médico, si se conocieran.
+
+6.9.8. Pronóstico de la intoxicación.
+
+6.10. Resumen de toxicología en los mamíferos y conclusiones, incluido el nivel de efecto adverso no observado (NOAEL), el nivel sin efecto (NOEL), la evaluación global de todos los datos toxicológicos y cualquier otra información sobre la sustancia activa. Cuando sea posible, se incluirá en el impreso de resumen cualquier medida de protección del trabajador que se sugiera.
+
+VII. Estudios ecotoxicológicos sobre la sustancia activa:
+
+7.1. Toxicidad aguda en peces.
+
+7.2. Toxicidad aguda en "Daphnia magna".
+
+7.3. Ensayo de inhibición del crecimiento de algas.
+
+7.4. Inhibición de la actividad microbiana.
+
+7.5. Bioconcentración. Alcance y comportamiento en el medio ambiente.
+
+7.6. Degradación.
+
+7.6.1. Biótica.
+
+7.6.1.1. Biodegradabilidad fácil.
+
+7.6.1.2. Biodegradabilidad intrínseca, cuando proceda.
+
+7.6.2. Abiótica.
+
+7.6.2.1. Hidrólisis en función del pH e identificación de los productos de descomposición.
+
+7.6.2.2. Fototransformación en agua, incluida la identidad de los productos de transformación (I).
+
+7.7. Ensayo preliminar de absorción/desorción.– Cuando los resultados de este ensayo así lo indiquen, será necesario hacer los ensayos descritos en el punto 1.2 de la parte XII.1 del anexo IIIA o los descritos en el punto 2.2 de la parte XII.2 del anexo IIIA.
+
+7.8. Resumen de los efectos ecotoxicológicos y del alcance y comportamiento en el medio ambiente.
+
+VIII. Medidas necesarias para la protección del ser humano, los animales y el medio ambiente:
+
+8.1. Precauciones y métodos recomendados relativos al manejo, utilización, almacenamiento, transporte e incendio.
+
+8.2. En caso de incendio, naturaleza de los productos de reacción, gases de combustión, etc.
+
+8.3. Medidas de emergencia en caso de accidente.
+
+8.4. Posibilidad de destrucción o descontaminación tras liberación a: a) Aire, b) agua, incluida el agua potable, c) suelo.
+
+8.5. Procedimientos de gestión de residuos de la sustancia activa por usuarios industriales o profesionales.
+
+8.5.1. Posibilidad de reutilización o reciclado.
+
+8.5.2. Posibilidad de neutralización de efectos.
+
+8.5.3. Condiciones de vertido controlado, incluidas las condiciones de eliminación del lixiviado.
+
+8.5.4. Condiciones de incineración controlada.
+
+8.6. Observaciones de efectos colaterales indeseados o indeseables, por ejemplo, en organismos beneficiosos u otros organismos distintos del organismo a los que se destina.
+
+IX. Clasificación y etiquetado:
+
+Propuestas, incluidos los argumentos justificativos de las propuestas de clasificación y etiquetado de la sustancia activa con arreglo al Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre Notificación de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas.
+
+Símbolos de peligro.
+
+Indicaciones de peligro.
+
+Frases tipo relativas a los riesgos.
+
+Frases tipo relativas a la seguridad.
+
+X. Resumen y evaluación de II-IX.
+
+(1) Deben presentarse estos datos respecto de la sustancia activa purificada de especificación declarada.
+
+(2) Deben presentarse estos datos respecto de la sustancia activa de especificación declarada.
+
+(3) El ensayo de irritación ocular no será necesario cuando se haya demostrado que la sustancia activa puede tener propiedades corrosivas.
+
+(4) La toxicidad a largo plazo y la carcinogenicidad de una sustancia activa podrán no solicitarse cuando se demuestre de modo concluyente que dichos ensayos no son necesarios.
+
+(5) Si, en circunstancias excepcionales, se declarara que este ensayo no es necesario, deberá justificarse plenamente dicha declaración.
+
+## ANEXO IIB — Datos fundamentales comunes a los biocidas
+
+PRODUCTOS QUÍMICOS
+
+1\. La documentación sobre biocidas debe responder, al menos, a todos los puntos mencionados en la lista de "Requisitos de la documentación". Las respuestas deben ir respaldadas por datos. Los requisitos de la documentación deberán estar a la altura de los avances técnicos.
+
+2\. La información que no sea necesaria debido a la naturaleza del biocida o de los usos a que se destine no tendrá que facilitarse. Lo mismo ocurrirá cuando no sea científicamente necesario ni técnicamente posible proporcionar la información. En estos casos, deberá presentarse una justificación aceptable para la autoridad competente. Dicha justificación podrá ser la existencia de una formulación marco a la que el solicitante tenga derecho a acceder.
+
+3\. La información podrá obtenerse a partir de los datos existentes cuando se presente una justificación aceptable a la autoridad competente. En particular, y siempre que sea posible, a fin de reducir al mínimo los ensayos con animales, deberían aplicarse las disposiciones contenidas en el Real decreto 1078/1993, de 2 de julio, por el que se aprueba el Reglamento sobre Clasificación, Envasado y Etiquetado de Preparados Peligrosos.
+
+Requisitos de la documentación
+
+I. Solicitante.
+
+II. Identificación y composición del biocida.
+
+III. Propiedades físicas y químicas del biocida.
+
+IV. Métodos de identificación y análisis del biocida.
+
+V. Usos previstos del producto y eficacia en estos usos.
+
+VI. Datos toxicológicos del biocida (adicionales a los de la sustancia activa).
+
+VII. Datos ecotoxicológicos del biocida (adicionales a los de la sustancia activa).
+
+VIII. Medidas que deben tomarse para la protección del ser humano, los animales y el medio ambiente.
+
+IX. Clasificación, envasado y etiquetado del biocida.
+
+X. Resumen y evaluación de II-IX.
+
+Los puntos anteriores deberán ir apoyados por los datos siguientes:
+
+I. Solicitante:
+
+1.1. Nombre, apellidos y dirección, etc.
+
+1.2. Fabricante del biocida y de la sustancia activa [nombres y direcciones, incluida situación de la(s) instalación(es)].
+
+II. Identificación:
+
+2.1. Denominación comercial o denominación comercial propuesta, así como número de código de experimentación del fabricante del preparado, cuando proceda.
+
+2.2. Declaración detallada sobre la composición cuantitativa y cualitativa del biocida, por ejemplo, sustancia o sustancias activas, impurezas, coadyuvantes o componentes inertes.
+
+2.3. Estado físico y naturaleza del preparado, por ejemplo, concentrado emulsionable, polvo mojable o solución.
+
+III. Propiedades físicas, químicas y técnicas:
+
+3.1. Aspecto (estado físico, color).
+
+3.2. Propiedades explosivas.
+
+3.3. Propiedades comburentes.
+
+3.4. Punto de destello y otras indicaciones de inflamabilidad o ignición espontánea.
+
+3.5. Acidez o alcalinidad y, si es necesario, pH (al 1 por 100 en agua).
+
+3.6. Densidad relativa.
+
+3.7. Estabilidad en el almacenamiento: Estabilidad y plazo de conservación. Efectos de la luz, temperatura y humedad sobre las características técnicas del biocida ; reactividad frente al material del recipiente.
+
+3.8. Características técnicas del biocida, por ejemplo, humectabilidad, formación de espuma persistente, fluidez, capacidad de vertido y pulverulencia.
+
+3.9. Compatibilidad fisicoquímica con otros productos, incluidos otros biocidas con los que vaya a autorizarse su uso.
+
+IV. Métodos de identificación y análisis:
+
+4.1. Métodos analíticos para determinar la concentración de la(s) sustancia(s) activa(s) en el biocida.
+
+4.2. En la medida en que no estén contemplados en el punto 4.2 del anexo IIA, métodos analíticos, incluidos el porcentaje de recuperación y límites de detección de los componentes toxicológica y ecotoxicológicamente pertinentes del biocida o residuos del mismo cuando sea adecuado en:
+
+a) Suelo.
+
+b) Aire.
+
+c) Agua (incluida el agua potable).
+
+d) Fluidos y tejidos corporales, humanos y animales.
+
+e) Alimentos o piensos tratados.
+
+V. Usos previstos y eficacia de éstos:
+
+5.1. Tipo de producto y ámbito de uso previsto.
+
+5.2. Método de aplicación, incluida la descripción del sistema utilizado.
+
+5.3. Dosis de aplicación y, si procede, concentración final del biocida y de la sustancia activa en el sistema en que vaya a usarse el preparado, por ejemplo, agua de refrigeración, agua de superficie o agua utilizada para calefacción.
+
+5.4. Número y ritmo de las aplicaciones y, cuando proceda, toda información particular relativa a variaciones geográficas o climáticas o a períodos de espera necesarios para proteger al ser humano y a los animales.
+
+5.5. Función, por ejemplo, fungicida, rodenticida, insecticida, bactericida.
+
+5.6. Organismos u organismos nocivos que deben controlarse y productos, organismos u objetos que deben protegerse.
+
+5.7. Efectos en los organismos a los que se destina.
+
+5.8. Modo de acción, incluido el plazo de tiempo, en la medida en que no esté comprendido en el punto 5.4 del anexo IIA.
+
+5.9. Usuario: Industrial, profesional o público en general (no profesional). Datos sobre la eficacia.
+
+5.10. Declaraciones de etiquetado propuestas para el producto y datos relativos a la eficacia para apoyar dichas declaraciones, incluidos cualesquiera protocolos normalizados que se hayan utilizado, ensayos de laboratorio o, cuando proceda, ensayos de campo.
+
+5.11. Cualquier otra limitación de la eficacia que se conozca, incluida la resistencia.
+
+VI. Estudios toxicológicos:
+
+6.1. Toxicidad aguda.– Para los ensayos 6.1.1 a 6.1.3, los biocidas que no sean gases deberán administrarse, al menos, por dos vías, debiendo ser una de ellas la oral. La elección de la segunda vía dependerá de la naturaleza de la sustancia y la posible vía de la exposición humana. Los gases y los líquidos volátiles deberían administrarse por inhalación.
+
+6.1.1. Oral.
+
+6.1.2. Dérmica.
+
+6.1.3. Por inhalación.
+
+6.1.4. En el caso de biocidas que estén destinados a una autorización de uso con otros biocidas, la mezcla de biocidas se someterá a ensayo, si es posible, para estudiar la toxicidad dérmica aguda y la irritación cutánea y ocular, según proceda.
+
+6.2. Irritación cutánea y ocular (1).
+
+6.3. Sensibilización cutánea.
+
+6.4. Información sobre la absorción cutánea.
+
+6.5. Datos toxicológicos de los que se disponga relativos a las sustancias no activas de importancia toxicológica (sustancias de posible riesgo).
+
+6.6. Información sobre la exposición del biocida al ser humano en general y al operador.– Cuando sea necesario, se exigirá(n) el(los) ensayo(s) descrito(s) en el anexo IIA para las sustancias no activas del preparado con importancia toxicológica.
+
+VII. Estudios ecotoxicológicos:
+
+7.1. Vías previsibles de penetración en el medio ambiente en función del uso previsto.
+
+7.2. Información sobre la ecotoxicología de la sustancia activa en el producto, cuando no pueda extrapolarse a partir de la información sobre la propia sustancia activa.
+
+7.3. Información ecotoxicológica de que se disponga relativa a las sustancias no activas de importancia ecotoxicológica (sustancias de posible riesgo), por ejemplo, la información contenida en fichas de datos de seguridad.
+
+VIII. Medidas que deben adoptarse para la protección del ser humano, los animales y el medio ambiente:
+
+8.1. Precauciones y métodos recomendados relativos al manejo, uso, almacenamiento, transporte o incendio.
+
+8.2. Tratamiento específico en caso de accidente, por ejemplo, primeros auxilios, antídotos, tratamiento médico, si fuera posible ; medidas de emergencia para proteger el medio ambiente ; en la medida en que ello no esté comprendido en el punto 8.3 del anexo IIA.
+
+8.3. Procedimientos, si los hay, para la limpieza del equipo de aplicación.
+
+8.4. Identificación de los productos de combustión pertinentes en caso de incendio.
+
+8.5. Procedimientos de gestión de residuos del biocida y de su envase para usuarios industriales y profesionales y para el público en general (usuarios no profesionales), por ejemplo, posibilidad de reutilización o reciclado, neutralización, condiciones de vertido controlado e incineración.
+
+8.6. Posibilidad de destrucción o descontaminación en caso de liberación al:
+
+a) Aire.
+
+b) Agua, incluida el agua potable.
+
+c) Suelo.
+
+8.7. Observaciones de efectos colaterales indeseados o indeseables, por ejemplo, en organismos beneficiosos u otros organismos distintos del organismo objetivo.
+
+8.8. Deberá especificarse cualquier tipo de sustancia repelente o las medidas de control de veneno incluidas en el preparado con vistas a impedir una acción contra los organismos distintos del organismo a los que se destina.
+
+IX. Clasificación, envasado y etiquetado:
+
+Propuestas de envasado y etiquetado.
+
+Propuestas de fichas de datos de seguridad, si procede.
+
+Argumentos justificativos de la clasificación y el etiquetado con arreglo a los principios del artículo 19 del presente Real Decreto: Símbolo(s) de peligro ; indicaciones de peligro ; frases tipo relativas a los riesgos; frases tipo relativas a la seguridad ; instrucciones de uso; envasado (tipo, materiales, tamaño, etc.), compatibilidad del preparado con los materiales de envasado propuestos que vayan a incluirse.
+
+X. Resumen y evaluación de II-IX.
+
+(1) El ensayo de irritación ocular no será necesario cuando se haya demostrado que la sustancia activa puede tener propiedades corrosivas.
+
+## ANEXO IIIA — Documentación adicional para las sustancias activas
+
+SUSTANCIAS QUÍMICAS
+
+1\. La documentación sobre sustancias activas debe responder al menos a todos los puntos mencionados en la lista de "Requisitos de la documentación". Las respuestas deben ir respaldadas por datos. Los requisitos de la documentación deberán estar a la altura de los avances técnicos.
+
+2\. La información que no sea necesaria debido a la naturaleza del biocida o de los usos a que se destine no tendrá que facilitarse. Lo mismo ocurrirá cuando no sea científicamente necesario ni técnicamente posible proporcionar la información. En tales casos deberá presentarse una justificación aceptable para la autoridad competente. Dicha justificación podrá ser la existencia de una formulación marco a la que el solicitante tenga derecho a acceder.
+
+III. Propiedades físicas y químicas:
+
+1\. Solubilidad en disolventes orgánicos, incluido el efecto de la temperatura en la solubilidad (1).
+
+2\. Estabilidad en disolventes orgánicos utilizados en biocidas e identidad de los correspondientes productos de descomposición (2).
+
+IV. Métodos analíticos de detección e identificación:
+
+1\. Métodos analíticos, incluidos los porcentajes de recuperación y los límites de determinación de la sustancia activa y sus correspondientes residuos en alimentos o piensos y, en su caso, otros productos.
+
+VI. Estudios toxicológicos y metabólicos:
+
+1\. Estudio de neurotoxicidad.– Si la sustancia activa es un compuesto organofosforado o si hubiese otras indicaciones de que la sustancia activa podría tener propiedades neurotóxicas, se requerirán estudios neurotóxicos. La especie utilizada en el ensayo será la gallina adulta, a menos que se justifique que es más adecuada otra especie de ensayo. En su caso, se requerirán ensayos de neurotoxicidad retardada. Si se detecta actividad anticolinesterásica, deberá considerarse la posibilidad de efectuar un ensayo de respuesta a agentes reactivantes.
+
+2\. Efectos tóxicos en el ganado y en los animales domésticos.
+
+3\. Estudios relacionados con la exposición del ser humano a la sustancia activa.
+
+4\. Alimentos y piensos.– Si la sustancia activa va a usarse en los preparados utilizados en lugares donde se preparan, consumen o almacenan alimentos para consumo humano o donde se preparan, consumen o almacenan piensos, se exigirán los ensayos mencionados en el punto 1 del apartado XI.
+
+5\. Si se considera necesario efectuar cualesquiera otros ensayos relacionados con la exposición del ser humano a la sustancia activa en los biocidas que se proponen, se exigirán los ensayos mencionados en el punto 2 del apartado XI.
+
+6\. Si la sustancia activa va a usarse en productos destinados a actuar contra vegetales, será necesario efectuar ensayos para evaluar los efectos tóxicos de los metabolitos de las plantas tratadas, si los hay, cuando sean diferentes de los encontrados en animales.
+
+7\. Estudio de los mecanismos de acción.– Cualquier estudio necesario para aclarar los efectos descritos en los estudios de toxicidad.
+
+VII. Estudios ecotoxicológicos:
+
+1\. Ensayo de toxicidad aguda en otro organismo no acuático distinto del organismo a los que se destina.
+
+2\. Si los resultados de los estudios ecotoxicológicos y los usos previstos de la sustancia activa indican un peligro para el medio ambiente, será necesario efectuar los ensayos descritos en los apartados XII y XIII.
+
+3\. Si el resultado de los ensayos del punto 7.6.1.2 del anexo IIA es negativo y si la vía probable de eliminación de la sustancia activa y de sus preparados es el tratamiento de las aguas residuales, será necesario efectuar los ensayos descritos en el punto 4.1 del apartado XIII.
+
+4\. Cualquier otro ensayo de biodegradabilidad que sea pertinente según los resultados de los puntos 7.6.1.1 y 7.6.1.2 del anexo IIA.
+
+5\. Fotólisis en el aire (método de estimación), incluida la identificación de los productos de descomposición (1).
+
+6\. Si los resultados de los ensayos a que se hace mención en el punto 7.6.1.2 del anexo IIA o en el anterior punto 4 indican la necesidad de hacerlo, o si la sustancia activa presenta una degradación abiótica general baja o ausente, será necesario efectuar los ensayos descritos en los puntos 1.1, 2.1 y, en su caso, el punto 3 del apartado XII.
+
+VIII. Medidas que deben adoptarse para la protección del ser humano, los animales y el medio ambiente:
+
+1\. Identificación de las sustancias que se encuentren en la lista I o la lista II del anexo de la Directiva 80/68/CEE, relativa a la protección de las aguas subterráneas frente a la contaminación causada por determinadas sustancias peligrosas transpuesta a nuestro ordenamiento jurídico mediante: Ley 29/1985, de 2 de agosto, de Aguas (artículo 94) ; Reglamento de Dominio Público Hidráulico (artículos 256 al 258) y Real Decreto 1315/1992, de 30 de octubre, por el que se modifica parcialmente el Reglamento del Dominio Público Hidráulico, que desarrolla los Títulos Preliminar, I, IV, V, VI, y VII de la Ley 29/1985, de 2 de agosto, de Aguas, aprobado por el Real Decreto 849/1986, de 11 de abril.
+
+XI. Estudios adicionales relativos a la salud humana:
+
+1\. Estudios en alimentos y piensos:
+
+1.1 Identificación de los productos de descomposición y reacción y de los metabolitos de la sustancia activa en alimentos o piensos tratados o contaminados.
+
+1.2 Comportamiento de los residuos de la sustancia activa, sus productos de descomposición y, cuando proceda, sus metabolitos en los alimentos o piensos tratados o contaminados, incluida la cinética de eliminación.
+
+1.3 Balance global de materia de la sustancia activa.
+
+Datos de los ensayos supervisados sobre los residuos, que demuestren suficientemente que los residuos presumiblemente resultantes del uso propuesto no serán motivo de preocupación para la salud humana o animal.
+
+1.4 Estimación de la exposición real o potencial de seres humanos a la sustancia activa por la dieta u otros medios.
+
+1.5 Si los residuos de la sustancia activa se mantienen en los piensos durante un lapso de tiempo significativo, se exigirán estudios de alimentación y metabolismo en el ganado que permitan la evaluación de los residuos en los alimentos de origen animal.
+
+1.6 Efectos del tratamiento industrial o de la preparación doméstica en la naturaleza y magnitud de los residuos de la sustancia activa.
+
+1.7 Residuos aceptables propuestos y justificación de su aceptabilidad.
+
+1.8 Cualquier otra información disponible que se juzgue pertinente.
+
+1.9 Resumen y evaluación de los datos facilitados en los puntos 1.1 a 1.8.
+
+2\. Otros ensayos relativos a la exposición del ser humano.– Se exigirán ensayos adecuados, así como un caso justificado.
+
+XII. Estudios adicionales sobre el alcance y comportamiento en el medio ambiente:
+
+1\. Alcance y comportamiento en el suelo:
+
+1.1 Velocidad y vías de descomposición, incluida la identificación de los procesos que intervienen y la identificación de cualesquiera metabolitos o productos de descomposición en, al menos, tres tipos de suelo en condiciones adecuadas.
+
+1.2 Absorción y desorción en, al menos, tres tipos de suelo y, cuando proceda, absorción y desorción de los metabolitos y productos de descomposición.
+
+1.3 Movilidad en, al menos, tres tipos de suelo y, cuando proceda, movilidad de los metabolitos y productos de descomposición.
+
+1.4 Magnitud y naturaleza de los residuos fijos.
+
+2\. Alcance y comportamiento en el agua:
+
+2.1 Velocidad y vías de descomposición en sistemas acuáticos (en cuanto no esté contemplado en el punto 7.6 del anexo IIA), incluida la identificación de los metabolitos y productos de descomposición.
+
+2.2 Absorción y desorción en agua (sistemas sedimentarios) y, cuando proceda, absorción y desorción de los metabolitos y productos de descomposición.
+
+3\. Alcance y comportamiento en el aire.– Si la sustancia activa va a ser utilizada en preparados para fumigación, va a ser aplicada mediante pulverización, es volátil o si cualquier otra información indica que es pertinente, se determinarán la velocidad y vía de descomposición en el aire en la medida en que no estén contempladas en el punto 5 del apartado VII.
+
+4\. Resumen y evaluación de las partes 1, 2 y 3.
+
+XIII. Estudios ecotoxicológicos adicionales:
+
+1\. Efectos en pájaros:
+
+1.1 Toxicidad oral aguda: No será necesario si se ha seleccionado una especie de aves en el estudio del punto 1 del apartado VII.
+
+1.2 Toxicidad a corto plazo: Estudio de ocho días de duración en la dieta de, al menos, una especie (distinta del pollo).
+
+1.3 Efectos en la reproducción.
+
+2\. Efectos en organismos acuáticos:
+
+2.1 Toxicidad prolongada en una especie adecuada de peces.
+
+2.2 Efectos en la reproducción y tasa de crecimiento de una especie adecuada de peces.
+
+2.3 Bioacumulación en una especie adecuada de peces.
+
+2.4 Reproducción y tasa de crecimiento de la "Daphnia magna".
+
+3\. Efectos en otros organismos distintos del organismo a los que se destina:
+
+3.1 Toxicidad aguda para las abejas y otros artrópodos beneficiosos, por ejemplo, predadores. Se escogerá un organismo de ensayo distinto del utilizado en el punto 1 del apartado VII.
+
+3.2 Toxicidad para las lombrices de tierra y otros macroorganismos del suelo distintos del organismo a los que se destina.
+
+3.3 Efectos en microorganismos del suelo distintos del organismo a los que se destina.
+
+3.4 Efectos en cualquier otro organismo específico, distinto del organismo a los que se destina (flora y fauna), que se considere en situación de riesgo.
+
+4\. Otros efectos:
+
+4.1 Ensayo de inhibición de la respiración en lodo activado.
+
+5\. Resumen y evaluación de 1, 2, 3 y 4.
+
+(1) Estos datos deberán facilitarse para la sustancia activa purificada cuya especificación se indique.
+
+(2) Estos datos deberán facilitarse para la sustancia activa cuya especificación se indique.
+
+## ANEXO IIIB — Documentación adicional para los biocidas
+
+PRODUCTOS QUÍMICOS
+
+1\. La documentación sobre biocidas debe responder al menos a todos los puntos mencionados en la lista de "Requisitos de la documentación". Las respuestas deben ir respaldadas por datos. Los requisitos de la documentación deberán estar a la altura de los avances técnicos.
+
+2\. No se facilitará información que no resulte necesaria debido al carácter del biocida o de sus utilizaciones propuestas. Lo mismo ocurrirá cuando no sea científicamente necesario ni técnicamente posible facilitar la información. En tales casos deberá presentarse una comunicación aceptable a la autoridad competente. Dicha justificación podrá ser la existencia de una formulación marco a la que el solicitante tenga el derecho de acceder.
+
+3\. La información podrá obtenerse a partir de los datos existentes cuando se presente una justificación aceptable a la autoridad competente. En particular, y siempre que sea posible, a fin de reducir al mínimo los ensayos con animales deberían aplicarse las disposiciones contenidas en el Real Decreto 1078/1993, de 2 de julio, por el que se aprueba el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos.
+
+XI. Estudios adicionales relacionados con la salud humana:
+
+1\. Estudios en alimentos y piensos:
+
+1.1 Si los residuos del biocida se mantienen en los piensos durante un lapso de tiempo significativo, se exigirán estudios de alimentación y metabolismo en el ganado que permitan la evaluación de los residuos en los alimentos de origen animal.
+
+1.2 Efectos de la elaboración industrial o de la preparación doméstica en la naturaleza y magnitud de los residuos del biocida.
+
+2\. Otros ensayos relativos a la exposición del ser humano.– Se exigirán ensayos adecuados, así como un caso razonado para el biocida.
+
+XII. Estudios adicionales sobre el alcance y comportamiento en el medio ambiente:
+
+1\. Cuando sea pertinente, toda la información exigida en el apartado XII del anexo IIIA.
+
+2\. Ensayos de distribución y disipación en:
+
+a) Suelo.
+
+b) Agua.
+
+c) Aire.
+
+Los requisitos de ensayo de los anteriores puntos 1 y 2 son únicamente aplicables a los correspondientes elementos ecotoxicológicos del biocida.
+
+XIII. Estudios ecotoxicológicos adicionales:
+
+1\. Efectos en pájaros:
+
+1.1 Toxicidad oral aguda, si no se ha realizado ya de conformidad con lo dispuesto en el punto 7 del anexo IIB.
+
+2\. Efectos en organismos acuáticos:
+
+2.1 En caso de aplicación sobre, dentro o cerca de las aguas superficiales.
+
+2.1.1 Estudios particulares con peces y otros organismos acuáticos.
+
+2.1.2 Datos de residuos en peces relativos a la sustancia activa, incluidos los metabolitos con importancia toxicológica.
+
+2.1.3 Podrán exigirse los estudios a que se hace mención en los puntos 2.1, 2.2, 2.3 y 2.4 del apartado XIII del anexo IIIA para los correspondientes componentes del biocida.
+
+2.2 Si el biocida debe ser pulverizado cerca de aguas superficiales, podrá requerirse un estudio de la niebla de pulverización a fin de evaluar los riesgos para organismos acuáticos en condiciones de campo.
+
+3\. Efectos en otros organismos distintos de los organismos a los que se destina:
+
+3.1 Toxicidad para vertebrados terrestres distintos de los pájaros.
+
+3.2 Toxicidad aguda para las abejas.
+
+3.3 Efectos en artrópodos beneficiosos distintos de las abejas.
+
+3.4 Efectos en las lombrices de tierra y otros macroorganismos del suelo distintos de los organismos a los que se destina que se consideren en situación de riesgo.
+
+3.5 Efectos en microorganismos del suelo distintos del organismo a los que se destina.
+
+3.6 Efectos en cualesquiera otros organismos específicos distintos del organismo a los que se destina (flora y fauna), que se consideren en situación de riesgo.
+
+3.7 Si el biocida está en forma de cebo o gránulos.
+
+3.7.1 Ensayos supervisados de evaluación de los riesgos para los organismos distintos de los organismos a los que se destina en condiciones de campo.
+
+3.7.2 Estudios de aceptación del biocida por ingestión en cualesquiera organismos distintos de los organismos a los que se destina considerados en situación de riesgo.
+
+4\. Resumen y evaluación de 1, 2 y 3.
+
+## ANEXO IVA — Documentación sobre las sustancias activas
+
+MICROORGANISMOS, INCLUIDOS VIRUS Y HONGOS
+
+1\. A efectos de este anexo, se entenderá que el término "microorganismos" incluye también virus y hongos. Los expedientes sobre microorganismos activos deberán tratar al menos todos los puntos mencionados en la lista de "Requisitos de la documentación". En relación con todos los microorganismos objeto de una solicitud de inclusión en el anexo I o IA, deberán aportarse todos los datos pertinentes de que se disponga y la información presente en la bibliografía. La información relativa a la identificación y caracterización de un microorganismo, incluido su modo de acción, es especialmente importante, debe consignarse en los apartados I a IV y constituye la base para evaluar su posible impacto sobre la salud humana y sobre el medio ambiente.
+
+2\. El artículo 8.6 se aplicará cuando no sea necesaria alguna información por la naturaleza del microorganismo.
+
+3\. Se preparará un expediente según se define en el artículo 11.1, a nivel de la cepa del microorganismo, salvo que se presente información adecuada para demostrar que la especie tiene reconocida una homogeneidad suficiente en relación con todas las características, o que el solicitante aporte otros argumentos de acuerdo con el artículo 8.6.
+
+4\. En caso de que el microorganismo haya sido modificado genéticamente según el artículo 2.b) de la Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, se presentará asimismo una copia de la evaluación de los datos en relación con la evaluación del riesgo para el medio ambiente como establece el artículo 23.2.b) del Real Decreto 178/2004, de 30 de enero, por el que se aprueba el Reglamento general para el desarrollo y ejecución de la Ley 9/2003, de 25 de abril.
+
+5\. Si se sabe que la acción del biocida se debe total o parcialmente al efecto de una toxina/metabolito, o si se prevé la presencia importante de residuos de toxinas/metabolitos no relacionados con el efecto del microorganismo activo, se presentará un expediente sobre la toxina/metabolito de acuerdo con los requisitos del anexo IIA y, cuando se indique, con las partes correspondientes del anexo IIIA.
+
+Requisitos de la documentación
+
+Secciones:
+
+I. Identificación del microorganismo.
+
+II. Propiedades biológicas del microorganismo.
+
+III. Otros datos sobre el microorganismo.
+
+IV. Métodos analíticos.
+
+V. Efectos sobre la salud humana.
+
+VI. Residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos.
+
+VII. Destino y comportamiento en el medio ambiente.
+
+VIII. Efectos en los organismos distintos de los organismos objetivo.
+
+IX. Clasificación y etiquetado.
+
+X. Resumen y evaluación de los apartados I a IX, con conclusiones sobre la evaluación del riesgo y recomendaciones.
+
+Los puntos anteriores deberán ir apoyados por los datos siguientes: I. Identificación del microorganismo:
+
+1.1 Solicitante.
+
+1.2 Fabricante. 1.3 Nombre y descripción de la especie, caracterización de la cepa:
+
+1.3.1 Denominación común del microorganismo (incluidos nombres alternativos y obsoletos).
+
+1.3.2 Denominación taxonómica y cepa, indicándose si se trata de una variante de estirpe, una cepa mutante o un organismo modificado genéticamente (OMG); en el caso de virus, denominación taxonómica del agente, serotipo, cepa o mutante.
+
+1.3.3 Número de referencia del cultivo y colección donde está depositado el cultivo.
+
+1.3.4 Métodos, procedimientos y criterios utilizados para determinar la presencia e identidad del microorganismo (por ejemplo, morfología, bioquímica, serología, etc.).
+
+1.4 Especificación del material utilizado en la fabricación de productos formulados:
+
+1.4.1 Contenido del microorganismo.
+
+1.4.2 Identidad y contenido de impurezas, aditivos y microorganismos contaminantes.
+
+1.4.3 Perfil analítico de los lotes.
+
+II. Propiedades biológicas del microorganismo:
+
+2.1 Historia del microorganismo y de su utilización. Presencia natural y distribución geográfica:
+
+2.1.1 Antecedentes.
+
+2.1.2 Origen y presencia natural.
+
+2.2 Información sobre el organismo u organismos objetivo: 2.2.1 Descripción del organismo u organismos objetivo.
+
+2.2.2 Modo de acción.
+
+2.3 Gama de especificidad de hospedadores y efectos en especies distintas de los organismos objetivo.
+
+2.4 Fases del desarrollo/ciclo vital del microorganismo.
+
+2.5 Infecciosidad, capacidad de dispersión y de colonización.
+
+2.6 Relaciones con patógenos humanos, animales o vegetales conocidos.
+
+2.7 Estabilidad genética y factores de la misma.
+
+2.8 Información sobre la producción de metabolitos (especialmente toxinas).
+
+2.9 Antibióticos y otros agentes antimicrobianos.
+
+2.10 Resistencia ante los factores ambientales.
+
+2.11 Efectos sobre materiales, sustancias y productos.
+
+III. Otros datos sobre el microorganismo:
+
+3.1 Función.
+
+3.2 Ámbito de uso previsto.
+
+3.3 Tipos de productos y categorías de usuarios respecto a los que el microorganismo debería incluirse en el anexo I, IA o IB.
+
+3.4 Método de producción y control de calidad.
+
+3.5 Información sobre la aparición o posible aparición de resistencia en los organismos objetivo.
+
+3.6 Métodos para evitar la pérdida de virulencia del inóculo del microorganismo.
+
+3.7 Medidas y precauciones recomendadas para la manipulación, almacenamiento, transporte o en caso de incendio.
+
+3.8 Procedimientos de destrucción o descontaminación.
+
+3.9 Medidas en caso de accidente.
+
+3.10 Procedimientos de gestión de residuos.
+
+3.11 Plan de seguimiento aplicable al microorganismo activo, incluyendo su manipulación, almacenamiento, transporte y utilización.
+
+IV. Métodos analíticos:
+
+4.1 Métodos de análisis del microorganismo como se produzca finalmente.
+
+4.2 Métodos para detectar y cuantificar los residuos (viables e inviables).
+
+V. Efectos sobre la salud humana:
+
+Etapa I.
+
+5.1 Información básica:
+
+5.1.1 Datos médicos.
+
+5.1.2 Control médico del personal de las instalaciones de producción.
+
+5.1.3 Observaciones sobre sensibilización/alergenicidad.
+
+5.1.4 Observación directa, por ejemplo casos clínicos.
+
+5.2 Estudios básicos:
+
+5.2.1 Sensibilización.
+
+5.2.2 Toxicidad, patogenicidad e infecciosidad agudas:
+
+5.2.2.1 Toxicidad, patogenicidad e infecciosidad agudas por vía oral.
+
+5.2.2.2 Toxicidad, patogenicidad e infecciosidad agudas por inhalación,
+
+5.2.2.3 Administración única intraperitoneal o subcutánea,
+
+5.2.3 Ensayo de genotoxicidad in vitro.
+
+5.2.4 Estudio de cultivos celulares.
+
+5.2.5 Información sobre la toxicidad y patogenicidad a corto plazo:
+
+5.2.5.1 Efectos sobre la salud tras una exposición repetida por inhalación.
+
+5.2.6 Tratamiento propuesto: medidas de primeros auxilios y tratamiento médico.
+
+5.2.7 Cualquier tipo de patogenicidad e infecciosidad para el ser humano y otros mamíferos en condiciones de inmunosupresión.
+
+Fin de la etapa I.
+
+Etapa II.
+
+5.3 Estudios específicos de toxicidad, patogenicidad e infecciosidad.
+
+5.4 Genotoxicidad: estudios in vivo con células somáticas.
+
+5.5 Genotoxicidad: estudios in vivo con células reproductoras.
+
+Fin de la etapa II.
+
+5.6 Resumen de la toxicidad, patogenicidad e infecciosidad en mamíferos y evaluación global.
+
+VI. Residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos:
+
+6.1 Persistencia y probabilidad de multiplicación en la superficie o en el interior de materiales tratados, piensos o alimentos.
+
+6.2 Otra información requerida:
+
+6.2.1 Residuos inviables.
+
+6.2.2 Residuos viables.
+
+6.3 Resumen y evaluación de la presencia de residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos.
+
+VII. Destino y comportamiento en el medio ambiente:
+
+7.1 Persistencia y multiplicación:
+
+7.1.1 Suelo.
+
+7.1.2 Agua.
+
+7.1.3 Aire.
+
+7.2 Movilidad.
+
+7.3 Resumen y evaluación del destino y del comportamiento en el medio ambiente.
+
+VIII. Efectos en los organismos distintos de los organismos objetivo:
+
+8.1 Efectos en las aves.
+
+8.2 Efectos en los organismos acuáticos:
+
+8.2.1 Efectos en los peces.
+
+8.2.2 Efectos en los invertebrados de agua dulce.
+
+8.2.3 Efectos en el crecimiento de las algas.
+
+8.2.4 Efectos en las plantas distintas de las algas.
+
+8.3 Efectos en las abejas.
+
+8.4 Efectos en los artrópodos distintos de las abejas.
+
+8.5 Efectos en las lombrices de tierra.
+
+8.6 Efectos en los microorganismos del suelo.
+
+8.7 Otros estudios sobre:
+
+8.7.1 Plantas terrestres.
+
+8.7.2 Mamíferos.
+
+8.7.3 Otras especies y procesos pertinentes.
+
+8.8 Resumen y evaluación de los efectos en los organismos distintos de los organismos objetivo.
+
+IX. Clasificación y etiquetado:
+
+El expediente irá acompañado por una propuesta razonada para asignar una sustancia activa constituida por un microorganismo a uno de los grupos de riesgo especificados en el artículo 3 del Real Decreto 664/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes biológicos durante el trabajo, junto con indicaciones sobre la necesidad de que los productos lleven la señal de peligro biológico especificada en el anexo III de dicho real decreto.
+
+X. Resumen y evaluación de los apartados I a IX, incluyendo Conclusiones sobre la evaluación del riesgo y recomendaciones.
+
+> Se modifica por el art. único.1 y anexo I de la Orden PRE/1982/2007, de 29 de junio. [Ref. BOE-A-2007-13027](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13027).
+
+## ANEXO IVB — Documentación sobre los biocidas
+
+MICROORGANISMOS, INCLUIDOS VIRUS Y HONGOS
+
+1\. A efectos de este anexo, se entenderá que el término "microorganismos" incluye también virus y hongos. El presente anexo establece requisitos de datos para la autorización de un biocida a base de preparados de microorganismos. Deben presentarse todos los datos pertinentes disponibles así como la información bibliográfica, respecto a todos los biocidas a base de preparados de microorganismos que sean objeto de una solicitud. La información relativa a la identificación y caracterización de todos los componentes de un biocida es especialmente importante, debe consignarse en los apartados I a IV y constituye la base para evaluar su posible impacto sobre la salud humana y sobre el medio ambiente.
+
+2\. El artículo 8.6 se aplicará cuando no sea necesaria alguna información por la naturaleza del biocida.
+
+3\. La información podrá obtenerse a partir de datos existentes cuando se presente a la autoridad competente una justificación aceptable. En particular, para reducir los ensayos con animales siempre que sea posible se aplicarán las disposiciones del Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo, y del Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, aprobado por el Real Decreto 255/2003, de 28 de febrero.
+
+4\. En caso de realización de ensayos, deberá presentarse una descripción detallada (especificación) del material utilizado y sus impurezas, según se dispone en la sección II. En caso necesario, se exigirá la presentación de datos según se establece en los anexos IIB y IIIB en relación con todos los componentes químicos del biocida que sean pertinentes toxicológica o ecotoxicológicamente, en particular si los componentes son sustancias de posible riesgo como se definen en el artículo 2.e).
+
+5\. Cuando se trate de un nuevo preparado, podría aceptarse la extrapolación del anexo IVA, siempre que se evalúen todos los posibles efectos de los componentes, especialmente en lo relativo a la patogenicidad e infecciosidad.
+
+Requisitos de la documentación
+
+Secciones:
+
+I. Identificación del biocida.
+
+II. Propiedades físicas, químicas y técnicas del biocida.
+
+III. Datos sobre la aplicación.
+
+IV. Otros datos sobre el biocida.
+
+V. Métodos analíticos.
+
+VI. Datos sobre la eficacia.
+
+VII. Efectos sobre la salud humana.
+
+VIII. Residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos.
+
+IX. Destino y comportamiento en el medio ambiente.
+
+X. Efectos en los organismos distintos de los organismos objetivo.
+
+XI. Clasificación, envasado y etiquetado del biocida.
+
+XII. Resumen y evaluación de los apartados I a XI, con conclusiones sobre la evaluación del riesgo y recomendaciones.
+
+Los puntos anteriores deberán ir apoyados por los datos siguientes:
+
+I. Identificación del biocida:
+
+1.1 Solicitante.
+
+1.2 Fabricante del biocida y de los microorganismos.
+
+1.3 Denominación comercial o denominación comercial propuesta, así como número de código de experimentación del biocida, dado por el fabricante.
+
+1.4 Información cualitativa y cuantitativa detallada sobre la composición del biocida.
+
+1.5 Estado físico y naturaleza del biocida.
+
+1.6 Función.
+
+II. Propiedades físicas, químicas y técnicas del biocida:
+
+2.1 Aspecto (color y olor).
+
+2.2 Estabilidad en el almacenamiento y plazo de conservación:
+
+2.2.1 Efectos de la luz, temperatura y humedad sobre las características técnicas del biocida.
+
+2.2.2 Otros factores que afectan a la estabilidad.
+
+2.3 Explosividad y propiedades oxidantes.
+
+2.4 Punto de destello y otros datos sobre la inflamabilidad o combustión espontánea.
+
+2.5 Acidez, alcalinidad y valor de pH.
+
+2.6 Viscosidad y tensión superficial.
+
+2.7 Características técnicas del biocida:
+
+2.7.1 Mojabilidad.
+
+2.7.2 Formación de espuma persistente.
+
+2.7.3 Suspensibilidad y estabilidad de la suspensión.
+
+2.7.4 Prueba de tamiz seco y prueba de tamiz húmedo.
+
+2.7.5 Granulometría (polvos espolvoreables y mojables, gránulos), contenido de polvos o finos (gránulos), resistencia al desgaste y friabilidad (gránulos).
+
+2.7.6 Emulsionabilidad, reemulsionabilidad y estabilidad de la emulsión.
+
+2.7.7 Propiedades de flujo, vertido (enjuagado) y pulverización.
+
+2.8 Compatibilidad física, química y biológica con otros productos, incluidos otros biocidas con los que vaya a autorizarse o registrarse su uso:
+
+2.8.1 Compatibilidad física.
+
+2.8.2 Compatibilidad química.
+
+2.8.3 Compatibilidad biológica.
+
+2.9 Resumen y evaluación de las propiedades físicas, químicas y técnicas del biocida.
+
+III. Datos sobre la aplicación:
+
+3.1 Ámbito de uso previsto.
+
+3.2 Modo de acción.
+
+3.3 Datos sobre el uso previsto.
+
+3.4 Tasa de aplicación.
+
+3.5 Contenido del microorganismo en el material utilizado (por ejemplo, en el dispositivo de aplicación o en el cebo).
+
+3.6 Método de aplicación.
+
+3.7 Número y distribución temporal de las aplicaciones y duración de la protección.
+
+3.8 Plazos de espera necesarios u otras precauciones a fin de evitar que se produzcan efectos adversos para la salud humana y animal y para el medio ambiente.
+
+3.9 Instrucciones de uso propuestas.
+
+3.10 Categoría de usuarios.
+
+3.11 Información sobre el posible desarrollo de resistencias.
+
+3.12 Efectos sobre los materiales o productos tratados con el biocida.
+
+IV. Otros datos sobre el biocida:
+
+4.1 Envasado y compatibilidad del biocida con los materiales propuestos de envasado.
+
+4.2 Procedimientos de limpieza del equipo de aplicación.
+
+4.3 Plazos para volver a acceder a las zonas tratadas, plazos de espera necesarios u otras precauciones para la protección de las personas, del ganado y del medio ambiente.
+
+4.4 Métodos recomendados y precauciones en relación con la manipulación, el almacenamiento, el transporte o en caso de incendio.
+
+4.5 Medidas en caso de accidente. 4.6 Procedimientos de destrucción o descontaminación del biocida y de sus envases:
+
+4.6.1 Incineración controlada.
+
+4.6.2 Otros.
+
+4.7 Plan de seguimiento aplicable al microorganismo activo y a otros microorganismos contenidos en el biocida, incluyendo su manipulación, almacenamiento, transporte y utilización.
+
+V Métodos analíticos:
+
+5.1 Métodos para el análisis del biocida.
+
+5.2 Métodos para determinar y cuantificar los residuos.
+
+VI. Datos sobre la eficacia.
+
+VII. Efectos sobre la salud humana:
+
+7.1 Estudios básicos de toxicidad aguda:
+
+7.1.1 Toxicidad aguda oral.
+
+7.1.2 Toxicidad aguda por inhalación.
+
+7.1.3 Toxicidad aguda por vía cutánea
+
+7.2 Estudios complementarios de toxicidad aguda:
+
+7.2.1 Irritación cutánea.
+
+7.2.2 Irritación ocular.
+
+7.2.3 Sensibilización cutánea.
+
+7.3 Datos sobre la exposición.
+
+7.4 Datos toxicológicos disponibles relativos a las sustancias no activas.
+
+7.5 Estudios complementarios sobre combinaciones de biocidas.
+
+7.6 Resumen y evaluación de los efectos sobre la salud humana.
+
+VIII. Residuos en el interior o en la superficie de los materiales tratados, alimentos y piensos.
+
+IX. Destino y comportamiento en el medio ambiente.
+
+X. Efectos en los organismos distintos de los organismos objetivo:
+
+10.1 Efectos en las aves.
+
+10.2 Efectos en los organismos acuáticos.
+
+10.3 Efectos en las abejas.
+
+10.4 Efectos en los artrópodos distintos de las abejas.
+
+10.5 Efectos en las lombrices de tierra.
+
+10.6 Efectos en los microorganismos del suelo.
+
+10.7 Estudios complementarios sobre otras especies o estudios de etapas superiores, como estudios sobre organismos seleccionados distintos de los organismos objetivo:
+
+10.7.1 Plantas terrestres.
+
+10.7.2 Mamíferos.
+
+10.7.3 Otras especies y procesos pertinentes.
+
+10.8 Resumen y evaluación de los efectos en organismos distintos de los organismos objetivo.
+
+XI. Clasificación, envasado y etiquetado del biocida.
+
+Como se establece en el artículo 19, deben presentarse propuestas con su justificación para la clasificación y el etiquetado del biocida de acuerdo con lo dispuesto en el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por el Real Decreto 363/1995, de 10 de marzo, y en el Reglamento sobre clasificación, envasado y etiquetado de preparados peligrosos, aprobado por el Real Decreto 255/2003, de 28 de febrero. La clasificación incluye la descripción de la categoría o categorías de peligro y frases sobre la naturaleza de los riesgos relativas a todas las propiedades peligrosas. A partir de la clasificación, debe formularse una propuesta de etiquetado con inclusión de los símbolos de peligro y las indicaciones de peligro, así como las frases sobre la naturaleza de los riesgos y las medidas de seguridad. La clasificación y el etiquetado tendrán en cuenta las sustancias químicas que contenga el biocida. En caso necesario, se presentarán a la autoridad competente de un Estado miembro muestras del envase propuesto.
+
+El expediente irá acompañado por una propuesta razonada para asignar el biocida a uno de los grupos de riesgo especificados en el artículo 3 del Real Decreto 664/1997, de 12 de mayo, junto con indicaciones sobre la necesidad de que los productos lleven la señal de peligro biológico especificada en el anexo III de dicho real decreto.
+
+XII. Resumen y evaluación de los apartados I a XI, incluyendo conclusiones sobre la evaluación del riesgo y recomendaciones.
+
+> Se modifica por el art. único.2 y anexo II de la Orden PRE/1982/2007, de 29 de junio. [Ref. BOE-A-2007-13027](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-13027).
+
+## ANEXO V — Tipos y descripción de los biocidas a que se refiere la letra a) del artículo 2 del presente Real Decreto
+
+Se excluyen de estos tipos de productos los regulados por sus reglamentaciones específicas mencionadas en el apartado 2 del artículo 1 del presente Real Decreto.
+
+Grupo principal 1: Desinfectantes y biocidas generales:
+
+Estos tipos de productos excluyen los productos de limpieza que no persiguen un efecto biocida, incluidos los detergentes líquidos y en polvo y productos similares.
+
+Tipo de producto 1.– Biocidas para la higiene humana: Los productos de este grupo son los biocidas empleados con fines de higiene humana.
+
+Tipo de producto 2.– Desinfectantes utilizados en los ámbitos de la vida privada y de la salud pública y otros biocidas: Productos empleados para la desinfección del aire, superficies, materiales, equipos y muebles que no se utilicen en contacto directo con alimentos o piensos en zonas de la esfera privada, pública e industrial, incluidos los hospitales, así como los productos empleados como alguicidas.
+
+Las zonas de utilización incluyen, entre otras, las piscinas, acuarios, aguas de baño y otras ; sistemas de aire acondicionado ; paredes y suelos de centros sanitarios y otras instituciones ; retretes químicos, aguas residuales, desechos de hospitales, tierra u otros sustratos (en las áreas de juegos).
+
+Tipo de producto 3.– Biocidas para la higiene veterinaria: Los productos de este grupo son los biocidas empleados con fines de higiene veterinaria, incluidos los productos empleados en las zonas en que se alojan, mantienen o transportan animales.
+
+Tipo de producto 4.– Desinfectantes para las superficies que están en contacto con alimentos y piensos: Productos empleados en la desinfección de equipos, recipientes, utensilios para consumo, superficies o tuberías relacionados con la producción, transporte, almacenamiento o consumo de alimentos, piensos o bebidas (incluida el agua potable) para seres humanos o animales.
+
+Tipo de producto 5.– Desinfectantes para agua potable: Productos empleados para la desinfección del agua potable (tanto para seres humanos como para animales).
+
+Grupo principal 2: Conservantes:
+
+Tipo de producto 6.– Conservantes para productos envasados: Productos para la conservación de productos elaborados que no sean alimentos o piensos, dentro de recipientes, mediante el control del deterioro microbiano con el fin de prolongar su vida útil.
+
+Tipo de producto 7.– Conservantes para películas: Productos empleados para la conservación de películas o recubrimientos mediante el control del deterioro microbiano con el fin de proteger las propiedades iniciales de la superficie de los materiales u objetos como pinturas, plásticos, selladores, adhesivos murales, cubiertas, papeles, obras de arte.
+
+Tipo de producto 8.– Protectores para maderas: Productos empleados para la protección de la madera, desde la fase del aserradero inclusive, o los productos derivados de la madera, mediante el control de los organismos que destruyen o alteran la madera.
+
+Se incluyen en este tipo de productos tanto los de carácter preventivo como curativo.
+
+Tipo de producto 9.– Protectores de fibras, cuero, caucho y materiales polimerizados: Productos empleados para la conservación de materiales fibrosos o polimerizados, como los productos de cuero, caucho, papel o textiles y la goma mediante el control del deterioro microbiano.
+
+Tipo de producto 10.– Protectores de mampostería: Productos empleados para la conservación y tratamiento reparador de los materiales de mampostería u otros materiales de construcción distintos de la madera mediante el control del deterioro microbiano y la afectación por algas.
+
+Tipo de producto 11.– Protectores para líquidos utilizados en sistemas de refrigeración y en procesos industriales: Productos empleados para la conservación del agua u otros líquidos utilizados en sistemas de refrigeración y de elaboración industrial mediante el control de los organismos nocivos, como microbios, algas y moluscos.
+
+No se incluyen en este tipo de productos los empleados para la conservación del agua potable.
+
+Tipo de producto 12.– Productos antimoho: Productos empleados para la prevención o el control de la proliferación de mohos sobre los materiales, equipos y estructuras utilizados en procesos industriales, por ejemplo sobre la madera y pulpa de papel, estratos de arena porosa en la extracción de petróleo.
+
+Tipo de producto 13.– Protectores de líquidos de metalistería: Productos empleados para la conservación de los líquidos de metalistería mediante el control del deterioro microbiano.
+
+Grupo principal 3: Plaguicidas:
+
+Tipo de producto 14.– Rodenticidas: Productos empleados para el control de los ratones, ratas u otros roedores.
+
+Tipo de producto 15.– Avicidas: Productos empleados para el control de las aves.
+
+Tipo de producto 16.– Molusquicidas: Productos empleados para el control de los moluscos.
+
+Tipo de producto 17.– Piscicidas: Productos empleados para el control de los peces ; se excluyen de estos productos los empleados para tratar las enfermedades de los peces.
+
+Tipo de producto 18.– Insecticidas, acaricidas y productos para controlar otros artrópodos: Productos empleados para el control de los artrópodos (insectos, arácnidos, crustáceos, etc.).
+
+Tipo de producto 19.– Repelentes y atrayentes: Productos empleados para el control de los organismos nocivos (invertebrados como las pulgas ; vertebrados como las aves) mediante repulsión o atracción, incluidos los empleados, directa o indirectamente, para la higiene veterinaria o humana.
+
+Grupo principal 4: Otros biocidas:
+
+Tipo de producto 20.– Conservantes para alimentos o piensos: Productos empleados para la conservación de alimentos o de piensos mediante el control de los organismos nocivos.
+
+Tipo de producto 21.– Productos antiincrustantes: Productos empleados para el control de la fijación y crecimiento de organismos incrustantes (microbios o formas superiores de especies animales o vegetales) en barcos, equipos de acuicultura u otras estructuras acuáticas.
+
+Tipo de producto 22.– Líquidos para embalsamamiento y taxidermia: Productos empleados para la desinfección y conservación de cadáveres animales o humanos o de parte de los mismos.
+
+Tipo de producto 23.– Control de otros vertebrados: Productos empleados para el control de los parásitos.
+
+## ANEXO VI — Principios comunes para la evaluación del riesgo de los biocidas
+
+CONTENIDO
+
+Definiciones:
+
+Introducción.
+
+Evaluación.
+
+Principios generales.
+
+Efectos en el ser humano.
+
+Efectos en los animales.
+
+Efectos en el medio ambiente.
+
+Efectos inaceptables.
+
+Eficacia.
+
+Resumen.
+
+Adopción de decisiones:
+
+Principios generales.
+
+Efectos en el ser humano.
+
+Efectos en los animales.
+
+Efectos en el medio ambiente.
+
+Efectos inaceptables.
+
+Eficacia.
+
+Resumen.
+
+Integración general de las conclusiones.
+
+Definiciones
+
+a) Identificación de los peligros: Identificación de los efectos indeseables que un biocida es intrínsecamente capaz de provocar.
+
+b) Evaluación de la relación dosis (concentración) respuesta (efecto): Estimación de la relación entre la dosis, o nivel de exposición, de una sustancia activa o una sustancia de posible riesgo contenida en el biocida y la incidencia y la gravedad del efecto.
+
+c) Evaluación de la exposición: Cálculo de las concentraciones o dosis a las cuales están o pueden estar expuestas las poblaciones humanas, animales o los compartimentos del medio ambiente, resultado de la determinación de las emisiones, vías de transferencia y tasas de movimiento de una sustancia activa o de posible riesgo contenida en un biocida y de su transformación o degradación.
+
+d) Caracterización del riesgo: Estimación de la incidencia y gravedad de los efectos adversos probables en una población humana, animales o compartimentos del medio ambiente, debidos a la exposición real o prevista a cualquier sustancia activa o de posible riesgo contenida en un biocida ; puede incluir la "estimación del riesgo", es decir, la cuantificación de esa probabilidad.
+
+e) Medio ambiente: El agua, incluso los sedimentos, el aire, la tierra, las especies de la fauna, la flora silvestre y todas las interrelaciones entre ellas, así como las relaciones entre todos ellos y cualquier organismo vivo.
+
+Introducción
+
+1\. El presente anexo establece los principios para garantizar que las evaluaciones efectuadas y las decisiones adoptadas por un Estado miembro acerca de la autorización de un biocida que sea un preparado químico den lugar a un alto grado armonizado de protección para el ser humano, los animales o el medio ambiente, con arreglo al párrafo b) del apartado 1 del artículo 5 del presente Real Decreto.
+
+2\. Con objeto de garantizar un alto grado armonizado de protección de la salud humana y animal y del medio ambiente, deberá definirse cualquier riesgo derivado del empleo del biocida. Para ello deberá efectuarse una evaluación del riesgo a fin de determinar la aceptabilidad o no de todo riesgo, detectado en la utilización normal prevista del biocida. Esto se hará mediante la evaluación de los riesgos asociados con cada uno de los componentes pertinentes del biocida.
+
+3\. Siempre deberá efectuarse una evaluación del riesgo de la sustancia o sustancias activas presentes en el biocida. Esto se habrá efectuado ya a los efectos de los anexos I, IA o IB. Esta evaluación del riesgo deberá comportar la identificación de los peligros y, según corresponda, la evaluación de la relación dosis (concentración)-respuesta (efecto), evaluación de la exposición y caracterización del riesgo. Cuando no pueda realizarse una evaluación cuantitativa del riesgo, se efectuará una evaluación cualitativa.
+
+4\. Se realizarán también evaluaciones del riesgo, del mismo modo que se describe anteriormente, de toda otra sustancia de posible riesgo presente en el biocida, cuando sea pertinente según la utilización del biocida.
+
+5\. Para llevar a cabo la evaluación del riesgo debe disponerse de una serie de datos que se especifican en los anexo II, III y IV. Dichos datos son flexibles según el tipo de producto y los riesgos asociados, habida cuenta de la gran variedad de tipos de producto. Los datos mínimos exigidos serán los necesarios para llevar a cabo una evaluación adecuada del riesgo. Los Estados miembros deberán tomar debidamente en cuenta los requisitos de los artículos 12 y 13 del presente Real Decreto, a fin de evitar duplicaciones en la presentación de datos. No obstante, el conjunto mínimo de datos exigidos para una sustancia activa de cualquier tipo de biocida serán los establecidos en el anexo VIIA del Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre notificación de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas ; estos datos se habrán presentado y evaluado ya como parte de la evaluación del riesgo necesaria para que la sustancia activa figure en los anexos I, IA o IB del presente Real Decreto. Podrán también exigirse datos sobre sustancias de posible riesgo presentes en un biocida.
+
+6\. Los resultados de las evaluaciones del riesgo efectuadas sobre una sustancia activa y sobre una sustancia de posible riesgo presente en el biocida se integrarán para elaborar una evaluación global del biocida como tal.
+
+7\. Al efectuar evaluaciones y adoptar decisiones acerca de la autorización de un biocida, el Estado miembro deberá:
+
+a) Tener en cuenta otras informaciones científicas o técnicas pertinentes de que disponga con respecto a las propiedades del biocida, sus componentes, metabolitos o residuos.
+
+b) Evaluar, cuando proceda, las justificaciones presentadas por el solicitante por la no presentación de determinados datos.
+
+8\. La autoridad competente deberá cumplir los requisitos de reconocimiento mutuo establecidos en los apartados 1, 2 y 5 del artículo 4 del presente Real Decreto.
+
+9\. Es sabido que muchos biocidas presentan muy ligeras diferencias en cuanto a su composición, y ello debe tenerse en cuenta al examinar los expedientes. El concepto de "formulación marco" es pertinente en este punto.
+
+10\. Es sabido que se considera que determinados biocidas sólo plantean un riesgo bajo ; estos biocidas, aun observando los requisitos del presente anexo, están sujetos a un procedimiento simplificado, que se especifica en el artículo 3 del presente Real Decreto.
+
+11\. La aplicación de estos principios comunes permitirá a la autoridad competente pronunciarse sobre la autorización de un biocida, autorización que podrá estar sujeta a restricciones de uso o a otras condiciones. En determinados casos, la autoridad competente podrá solicitar datos complementarios antes de adoptar la decisión sobre la autorización.
+
+12\. Durante el proceso de evaluación y adopción de la decisión, los Estados miembros y los solicitantes colaborarán a fin de resolver con rapidez cualquier cuestión solicitada en torno a los datos requeridos, determinar con prontitud la necesidad de realizar estudios complementarios, modificar alguna de las condiciones propuestas para la utilización del biocida, o modificar su naturaleza o composición para garantizar el pleno cumplimiento de los requisitos del presente anexo o del presente Real Decreto. La carga administrativa, en particular para las pequeñas y medianas empresas (PYME), deberá mantenerse al mínimo necesario sin perjudicar el nivel de protección requerido para el ser humano, los animales y el medio ambiente.
+
+13\. Las opiniones de la autoridad competente durante el proceso de evaluación y decisión deberán basarse en principios científicos, preferiblemente reconocidos en la esfera internacional, y contar con el asesoramiento de expertos.
+
+Evaluación
+
+Principios generales:
+
+14\. La autoridad competente comprobará si los datos que les sean presentados para avalar la solicitud de autorización de un biocida son completos y de calidad científica global. Tras la aceptación de estos datos, la autoridad competente los utilizará para realizar una evaluación del riesgo basada en el uso propuesto del biocida.
+
+15\. Siempre deberá realizarse una evaluación del riesgo de la sustancia activa presente en el biocida. Si existen además en el biocida sustancias de posible riesgo, deberá realizarse una evaluación del riesgo para cada una de ellas. Dicha evaluación deberá cubrir la utilización normal prevista del biocida, además del caso realista más desfavorable, incluido todo aspecto pertinente de producción y eliminación, tanto del biocida en sí como de cualquier material tratado con él.
+
+16\. Para cada sustancia activa y cada sustancia de posible riesgo presente en el biocida, la evaluación del riesgo deberá comprender una identificación de los peligros y, de ser posible, el establecimiento de niveles adecuados sin efecto adverso observado (NOAEL). Incluirá también, en su caso, una evaluación de la relación dosis (concentración) respuesta (efecto), una evaluación de la exposición y una caracterización del riesgo.
+
+17\. Deberán integrarse los resultados obtenidos a partir de una comparación de la exposición con el nivel de concentración de efecto nulo para cada una de las sustancias activas y sustancias de posible riesgo con el fin de obtener una evaluación global del riesgo del biocida. Si no se dispone de resultados cuantitativos, se integrarán de manera similar los resultados de las evaluaciones cualitativas.
+
+18\. La evaluación del riesgo determinará:
+
+a) El riesgo para el ser humano y los animales.
+
+b) El riesgo para el medio ambiente.
+
+c) Las medidas necesarias para la protección del ser humano, los animales y el medio ambiente durante el uso normal del biocida y en el caso más desfavorable.
+
+19\. En ciertos casos podrá decidirse que es necesario disponer de más datos para poder concluir una evaluación del riesgo. Los eventuales datos complementarios solicitados serán los mínimos necesarios para completar dicha evaluación del riesgo.
+
+Efectos en el ser humano:
+
+20\. La evaluación del riesgo deberá tener en cuenta los siguientes posibles efectos derivados del uso del biocida y de la población que puede estar expuesta.
+
+21\. Los efectos antes citados se derivan de las propiedades de la sustancia activa y de cualquier sustancia de posible riesgo presente en el biocida. Estos efectos son: Toxicidad aguda y crónica ; irritación; corrosividad; sensibilización ; toxicidad por dosis repetidas; genotoxicidad ; carcinogenicidad; toxicidad para la reproducción; neurotoxicidad ; cualquier otra propiedad especial de la sustancia activa o de posible riesgo ; otros efectos derivados de las propiedades fisicoquímicas.
+
+22\. Las poblaciones antes citadas son: Usuarios profesionales ; usuarios no profesionales; población humana expuesta indirectamente vía medio ambiente.
+
+23\. La identificación del riesgo estudiará las propiedades y posibles efectos adversos de la sustancia activa y de cualquier sustancia de posible riesgo presente en el biocida. Si, a consecuencia de la evaluación, el biocida se clasifica con arreglo a los requisitos del artículo 19 del presente Real Decreto, se requerirá una evaluación de la relación dosis (concentración) respuesta (efecto), una evaluación de la exposición y una caracterización del riesgo.
+
+24\. En los casos en que se hayan realizado las pruebas correspondientes de la identificación de los peligros en relación con determinado posible efecto de una sustancia activa o sustancia de posible riesgo presente en un biocida, sin que los resultados hayan llevado a la clasificación del biocida, no será necesario realizar la caracterización del riesgo en relación con dicho efecto a menos que se den otros motivos razonables de preocupación, por ejemplo, efectos adversos sobre el medio ambiente o residuos inaceptables.
+
+25\. La autoridad competente aplicará los apartados 26 a 29 al realizar una evaluación de la relación dosis (concentración) respuesta (efecto) de una sustancia activa o de posible riesgo presente en un biocida.
+
+26\. Se evaluará la relación entre dosis y respuesta para cada sustancia activa o sustancia de posible riesgo, por lo que respecta a la toxicidad por dosis repetidas y la toxicidad para la reproducción, y, cuando sea posible, se hallará el NOAEL (nivel sin efecto adverso observado). Si no es posible determinar el NOAEL, se hallará el LOAEL (nivel más bajo de efecto adverso observado).
+
+27\. En lo que respecta a la toxicidad aguda, la corrosividad y la irritación, no suele ser posible establecer un NOAEL o un LOAEL basándose en los resultados de los ensayos realizados con arreglo a los requisitos del Real Decreto. Para la toxicidad aguda se calcularán los valores DL50 (dosis letal mediana) o CL50 (concentración letal mediana) o, cuando se haya utilizado el procedimiento de dosis fija, la dosis discriminante. En cuanto a los demás efectos, será suficiente determinar si la sustancia activa o sustancia de posible riesgo tiene una capacidad intrínseca de causar esos efectos durante la utilización del producto.
+
+28\. En lo que se refiere a la genotoxicidad y la carcinogenicidad, bastará con determinar si la sustancia activa o sustancia de posible riesgo tiene una capacidad intrínseca de causar esos efectos durante el uso del biocida. No obstante, si puede demostrarse que una sustancia activa o sustancia de posible riesgo identificada como carcinógeno no es genotóxica, será adecuado determinar un NOAEL o LOAEL como se describe en el apartado 26.
+
+29\. Con respecto a la sensibilización cutánea y respiratoria, al no haber consenso sobre la posibilidad de determinar una dosis concentración por debajo de la cual es poco probable que haya efectos adversos en un sujeto ya sensibilizado a una sustancia dada, bastará evaluar si la sustancia activa o de posible riesgo tiene la capacidad intrínseca de causar esos efectos durante la utilización del biocida.
+
+30\. Cuando existan datos sobre toxicidad resultantes de observaciones de exposición del ser humano, como los datos procedentes de la fabricación, centros de intoxicaciones o de estudios de epidemiología, se prestará especial atención a dichos datos al realizar la evaluación de riesgo.
+
+31\. Se hará una evaluación de la exposición en cada una de las poblaciones humanas (usuarios profesionales, usuarios no profesionales y población expuesta indirectamente vía medio ambiente) en las que hay o es razonable suponer que habrá una exposición al biocida. El objetivo de la evaluación será el cálculo cuantitativo o cualitativo de la dosis/concentración de cada sustancia activa o sustancia de posible riesgo a la que la población está o puede estar expuesta durante el uso del biocida.
+
+32\. La evaluación de la exposición se basará en la información del expediente técnico proporcionado de conformidad con el artículo 8 del presente Real Decreto y en cualquier otra información disponible y pertinente. Se tendrán en cuenta, en particular, según convenga: Los datos de exposición medidos de forma adecuada ; la forma en que se comercializa el producto ; el tipo de biocida ; el método y la tasa de aplicación; las propiedades fisicoquímicas del producto ; las vías probables de exposición y el potencial de absorción ; la frecuencia y duración de la exposición ; el tipo y tamaño de las poblaciones específicas expuestas cuando se disponga de tal información.
+
+33\. En la realización de la evaluación de la exposición debe prestarse atención especial a los datos representativos de la exposición, medidos adecuadamente, de que se disponga. Si se aplican métodos de cálculo para establecer los niveles de exposición deben emplearse modelos adecuados.
+
+Dichos modelos deberán:
+
+a) Calcular de la mejor manera posible todos los procesos significativos, teniendo en cuenta parámetros y supuestos realistas.
+
+b) Someterse a un análisis que tenga en cuenta posibles elementos de incertidumbre.
+
+c) Comprobarse de manera fiable con mediciones realizadas en circunstancias adecuadas a la aplicación del modelo.
+
+d) Ajustarse a las condiciones del campo de utilización.
+
+Deberán también tenerse en cuenta los datos pertinentes del seguimiento de sustancias de utilización y modos de exposición análogos o de propiedades similares.
+
+34\. Cuando, para alguno de los efectos mencionados en el apartado 21 se haya determinado un NOAEL o LOAEL, la caracterización del riesgo comportará la comparación del NOAEL o LOAEL con la evaluación de la dosis/concentración a la que estará expuesta la población. Si no puede establecerse el NOAEL o LOAEL, se efectuará una comparación cualitativa.
+
+Efectos en los animales:
+
+35\. Siguiendo los mismos principios pertinentes descritos en el apartado que trata de los efectos en el ser humano, la autoridad competente estudiará el riesgo que el biocida presente para los animales.
+
+Efectos en el medio ambiente:
+
+36\. La evaluación de riesgo deberá tener en cuenta todo efecto adverso causado por la utilización del biocida en cualquiera de los tres compartimentos medioambientales, aire, suelo, agua (incluidos los sedimentos) y la biota.
+
+37\. La identificación de los peligros estudiará las propiedades y posibles efectos adversos de la sustancia activa y sustancias de posible riesgo presente en un biocida. Si los resultados obtenidos llevan a clasificar el biocida con arreglo a los requisitos del presente Real Decreto, será necesario efectuar la evaluación de la relación dosis (concentración) respuesta (efecto), evaluación de la exposición y caracterización del riesgo.
+
+38\. En aquellos casos en los que se hayan realizado los ensayos adecuados para la identificación de los peligros relacionados con un efecto potencial particular de una sustancia activa o sustancia de posible riesgo presente en un biocida, pero sin haber dado lugar a una clasificación del biocida, no será necesario hacer la caracterización del riesgo relacionado con este efecto, salvo que haya otros motivos razonables de alarma. Estos motivos pueden derivarse de las propiedades y efectos de cualquier sustancia activa o sustancia de posible riesgo presente en un biocida, en particular: Los elementos que indiquen un potencial de bioacumulación ; las características de persistencia ; la forma de la curva toxicidad/tiempo en el ensayo de ecotoxicidad ; indicaciones de otros efectos adversos basadas en los estudios de toxicidad, por ejemplo, clasificación como genotóxico ; datos sobre sustancias de estructura análoga ; efectos endocrinos.
+
+39\. Se efectuará una evaluación de la relación dosis (concentración) respuesta (efecto) para predecir la concentración de la sustancia por debajo de la cual no son de esperar efectos adversos en el compartimento medioambiental de que se trate. La evaluación se realizará para cada sustancia activa y sustancia de posible riesgo presente en un biocida. Esta concentración se conoce como concentración prevista sin efecto (PNEC). No obstante, en algunos casos, puede no ser posible establecer una PNEC y habrá que hacer una estimación cualitativa de la relación dosis (concentración) respuesta (efecto).
+
+40\. La PNEC se determinará basándose en los datos sobre los efectos en los organismos y los estudios de ecotoxicidad, presentados como determina el artículo 7 del Real Decreto. La PNEC se calculará aplicando un factor de evaluación a los valores resultantes de los ensayos con organismos, por ejemplo, DL5O (dosis letal mediana), CL50 (concentración letal mediana), CE50 (concentración eficaz mediana), CI50 (concentración que produce el 50 por 100 de inhibición de un parámetro dado, por ejemplo, crecimiento), NOEL/C (nivel/concentración sin efecto observado) o LOEL/C (nivel/concentración con mínimo efecto observado).
+
+41\. Un factor de evaluación es una expresión del grado de incertidumbre en la extrapolación de los datos de un ensayo con un número limitado de especies al medio ambiente real. Por eso, en general, cuanto más amplios sean los datos y mayor la duración de los ensayos, menor será el grado de incertidumbre y la magnitud del factor de evaluación.
+
+Las especificaciones para los factores de evaluación deberán elaborarse en las notas relativas a la orientación técnica que, a tal efecto, deberán basarse, en particular, en las indicaciones dadas en el artículo 4 y anexo X del Real Decreto 363/1995, de 10 de marzo, por el que se aprueba el Reglamento sobre Notificación de Sustancias Nuevas y Clasificación, Envasado y Etiquetado de Sustancias Peligrosas.
+
+42\. Para cada compartimento medioambiental se realizará una evaluación de la exposición para predecir la concentración que sea probable encontrar de cada sustancia activa o de posible riesgo presente en el biocida. Esta concentración se conoce como concentración ambiental prevista (PEC). No obstante, en algunos casos puede no ser posible establecer una PEC y habrá que hacer entonces una estimación cualitativa de la exposición.
+
+43\. Sólo habrá que determinar una PEC o, cuando sea necesario, una estimación cualitativa de la exposición en el caso de aquellos compartimentos medioambientales en los que se dan o son razonablemente previsibles emisiones, vertidos, eliminaciones o distribuciones, inclusive cualquier contribución pertinente de material tratado con biocidas.
+
+44\. PEC o la estimación cualitativa de la exposición se calcularán teniendo en cuenta, en particular y cuando proceda: Los datos de exposición medidos de forma adecuada ; la forma de comercialización del producto; el tipo de biocida ; el método y la tasa de aplicación; las propiedades fisicoquímicas ; los productos de degradación/transformación ; las vías probables de llegada a los compartimentos medioambientales y potencial de adsorción/desorción y degradación ; la frecuencia y duración de la exposición.
+
+45\. En la realización de la evaluación de la exposición debe prestarse atención especial a los datos representativos de la exposición, medidos adecuadamente, de que se disponga. Si se aplican métodos de cálculo, para establecer los niveles de exposición, deben emplearse modelos adecuados. Las características de dichos modelos se ajustarán a lo dispuesto en el apartado 33. En su caso se tendrán también en cuenta, tomados caso por caso, datos pertinentes del seguimiento de sustancias de utilización y modos de exposición análogos o de propiedades similares.
+
+46\. En cada compartimento medioambiental dado, la caracterización del riesgo llevará aparejada, en la medida de lo posible, una comparación de la PEC con la PNEC, de manera que pueda obtenerse una relación PEC/PNEC.
+
+47\. Si no ha sido posible obtener la relación PEC/PNEC, la caracterización del riesgo llevará aparejada una evaluación cualitativa de la probabilidad de que ocurra o pueda ocurrir un efecto en las condiciones actuales o previstas de exposición.
+
+Efectos inaceptables:
+
+48\. Se presentarán datos a la autoridad competente, que procederá a su evaluación, para determinar si el biocida no causa sufrimiento innecesario en su efecto sobre los vertebrados objetivo. Ello comportará una evaluación del mecanismo por el cual se obtiene el efecto, así como los efectos observados en el comportamiento y la salud de los vertebrados a los que se destina ; si el efecto perseguido es la muerte del vertebrado objetivo, deben evaluarse el tiempo necesario para que se produzca dicha muerte y las condiciones en que se produce.
+
+49\. El Estado miembro evaluará, en su caso, la posibilidad de que el organismo a los que se destina desarrolle resistencia a una sustancia activa del biocida.
+
+50\. Si hubiera indicios de la posible presencia de cualquier otro efecto inaceptable, la autoridad competente evaluará la posibilidad de que se produzcan tales efectos como, por ejemplo, una reacción adversa frente a cierres y accesorios utilizados con la madera tras la aplicación de un conservador de la madera.
+
+Eficacia:
+
+51\. Deben presentarse y evaluarse datos para corroborar las afirmaciones sobre la eficacia del biocida. Los datos presentados por el solicitante o en poder de la autoridad competente deben demostrar la eficacia del biocida con los organismos objetivos en una utilización normal con arreglo a las condiciones de autorización.
+
+52\. Los ensayos se efectuarán de acuerdo con las directrices comunitarias, si éstas son aplicables y se dispone de ellas. En su caso, pueden seguirse otros métodos que figuran en la siguiente lista. Si existen los correspondientes datos aceptables de campo, éstos podrán seguirse.
+
+a) ISO, CEN u otro método de normas internacionales.
+
+b) Método de normas nacionales.
+
+c) Método de normas industriales (aceptadas por la autoridad competente).
+
+d) Método de normas del fabricante (aceptadas por la autoridad Competente).
+
+e) Datos del propio desarrollo del biocida (aceptados por la autoridad competente) ;
+
+Resumen:
+
+53\. En cada uno de los campos en que se haya realizado una evaluación del riesgo, es decir, efectos en el ser humano, los animales y el medio ambiente, la autoridad competente integrará los resultados obtenidos respecto a la sustancia activa con los obtenidos respecto a cualquier sustancia de posible riesgo para elaborar una evaluación global del biocida en sí. Se tendrán en cuenta todos los posibles efectos sinérgicos de las sustancias activas y de posible riesgo del biocida.
+
+54\. Para aquellos biocidas que contengan más de una sustancia activa, se combinarán también los efectos adversos para obtener los efectos globales del biocida en sí.
+
+Adopción de las decisiones
+
+Principios generales:
+
+55\. Sin perjuicio del apartado 96, la autoridad competente adoptará la decisión relativa a la autorización de uso del biocida tras integrar los riesgos derivados de cada sustancia activa con los riesgos derivados de cada sustancia de posible riesgo presente en el biocida. Las evaluaciones de riesgo abarcarán la utilización normal del biocida y el caso realista más desfavorable, inclusive cualquier cuestión pertinente de eliminación tanto del biocida en sí como de cualquier material tratado con él.
+
+56\. Al adoptar la decisión relativa a la autorización, la autoridad competente optará por una de las siguientes conclusiones para cada tipo de producto y para cada área de utilización del biocida respecto al que se haya presentado la solicitud:
+
+1) El biocida no puede ser autorizado.
+
+2) El biocida puede ser autorizado bajo determinadas condiciones/restricciones.
+
+3) Se precisan más datos para proceder a su autorización.
+
+57\. Si la conclusión adoptada por la autoridad competente es que se precisan más datos o más información para adoptar la decisión relativa a la autorización, deberá justificarse la necesidad de tales datos o información. Estos datos o información adicional serán los mínimos necesarios para realizar una nueva evaluación del riesgo.
+
+58\. El Estado miembro cumplirá los principios de reconocimiento mutuo con arreglo al artículo 4 del presente Real Decreto.
+
+59\. La autoridad competente aplicará las normas relativas al concepto de "formulaciones marco" al adoptar una decisión de autorización de un biocida.
+
+60\. La autoridad competente aplicará las normas relativas al concepto de productos de "bajo riesgo" al adoptar una decisión de autorización de dicho biocida.
+
+61\. La autoridad competente únicamente concederá la autorización a aquellos biocidas que, cuando sean utilizados con arreglo a sus condiciones de autorización, no presenten un riesgo inaceptable para el ser humano, los animales o el medio ambiente, sean eficaces y contengan sustancias activas permitidas en la Comunidad como integrantes de tales biocidas.
+
+62\. Al conceder autorizaciones, la autoridad competente impondrá, en caso oportuno, condiciones o restricciones cuya naturaleza y severidad se establecerá en función de la naturaleza y el alcance de las ventajas y riesgos previstos en relación con el uso del biocida.
+
+63\. En la adopción de decisiones, la autoridad competente tendrá en cuenta lo siguiente: Los resultados de la evaluación del riesgo, en especial la relación entre exposición y efecto ; la naturaleza y gravedad del efecto; la gestión del riesgo que puede aplicarse ; el ámbito de utilización del biocida ; la eficacia del biocida; las propiedades físicas del biocida ; las ventajas que ofrece la utilización del biocida.
+
+64\. Al adoptar una decisión relativa a la autorización de un biocida, la autoridad competente tendrá en cuenta la incertidumbre motivada por la variabilidad de los datos empleados en el proceso de evaluación y adopción de la decisión.
+
+65\. La autoridad competente prescribirá la correcta utilización del biocida. Esta utilización correcta consistirá en una dosis eficaz de aplicación y, siempre que ello sea posible, en reducir al mínimo el empleo de biocidas.
+
+66\. Antes de conceder una autorización, la autoridad competente tomará las medidas necesarias para comprobar que el solicitante propone una etiqueta del biocida y, en su caso, la correspondiente ficha de datos de seguridad para el biocida que:
+
+a) Cumple los requisitos de los artículos 19 y 20 del presente Real Decreto.
+
+b) Contiene la información relativa a la protección de los usuarios, exigida por la legislación comunitaria relativa a la protección de los trabajadores.
+
+c) Especifica de manera expresa las condiciones o restricciones en función de las cuales puede o no puede utilizarse el biocida.
+
+Antes de expedir una autorización, la autoridad competente confirmará que deben satisfacerse estos requisitos.
+
+67\. La autoridad competente tomará las medidas necesarias para asegurar que el solicitante propone un envase y que, en su caso, los procedimientos propuestos de destrucción o descontaminación del biocida y de su envase o cualquier otro material pertinente asociado con el biocida están conformes con las disposiciones reglamentarias pertinentes.
+
+Efectos en el ser humano:
+
+68\. La autoridad competente no autorizará un biocida si la evaluación del riesgo confirma que, incluso en el supuesto realista más desfavorable de su aplicación previsible, el producto presenta un riesgo inaceptable para el ser humano.
+
+69\. Al adoptar la decisión relativa a la autorización de un biocida, la autoridad competente tendrá en cuenta los posibles efectos en todas las poblaciones humanas, es decir, usuarios profesionales, usuarios no profesionales y personas expuestas directa o indirectamente vía medio ambiente.
+
+70\. La autoridad competente examinará la relación entre la exposición y el efecto, y la aplicará a la adopción de la decisión. En el examen de esta relación intervienen varios factores y uno de los más importantes es la naturaleza del efecto adverso de la sustancia. Estos efectos pueden ser toxicidad aguda, irritación, corrosividad, sensibilización, toxicidad por dosis repetidas, genotoxicidad, carcinogenicidad, neurotoxicidad, toxicidad para la reproducción, junto con las propiedades fisicoquímicas, y cualquier otra propiedad adversa de la sustancia activa o de posible riesgo.
+
+71\. En la medida de lo posible, la autoridad competente comparará los resultados obtenidos con los de anteriores evaluaciones del riesgo efectuadas sobre efectos idénticos o similares, y se pronunciará con un margen adecuado de seguridad al adoptar su decisión de autorización.
+
+Un margen adecuado de seguridad es típicamente 100, pero un margen de seguridad superior o inferior a éste puede ser adecuado según sea, entre otras cosas, la naturaleza del efecto toxicológico crítico.
+
+72\. La autoridad competente podrá, en caso necesario, imponer como condición para la autorización el uso de equipo de protección personal, como respiradores, mascarillas, vestimenta de protección, guantes y gafas de seguridad para reducir la exposición de los usuarios profesionales, que deberán disponer fácilmente de dicho equipo.
+
+73\. Si el uso de equipo de protección personal es el único método posible para reducir la exposición de los usuarios no profesionales, el producto no será normalmente autorizado.
+
+74\. Si la relación entre la exposición y el efecto no puede reducirse a un nivel aceptable, la autoridad competente no podrá conceder la autorización para el biocida.
+
+75\. No se autorizará para el uso del público en general ningún biocida clasificado, según el apartado 1 del artículo 19 del presente Real Decreto, como tóxico, muy tóxico o como carcinógeno o mutágeno de las categorías 1 ó 2, o clasificado como tóxico para la reproducción de las categorías 1 ó 2.
+
+Efectos en los animales:
+
+76\. La autoridad competente no autorizará un biocida si la evaluación del riesgo confirma que, bajo una autorización normal, el producto presenta un riesgo inaceptable para los animales a los que no se destina.
+
+77\. Empleando los mismos criterios pertinentes descritos en la parte que trata los efectos en el ser humano, la autoridad competente tendrá en cuenta los riesgos que el biocida presenta para los animales al adoptar la decisión relativa a la autorización de un biocida.
+
+Efectos en el medio ambiente:
+
+78\. La autoridad competente no autorizará un biocida si la evaluación del riesgo confirma que la sustancia activa o cualquier sustancia de posible riesgo, o cualquier producto de degradación o reacción, presenta un riesgo inaceptable para alguno de los compartimentos del medio ambiente, agua (incluidos los sedimentos), suelo y aire. Se incluirá aquí la evaluación de riesgos para los organismos a los que no se destina en estos compartimentos.
+
+Al considerar si existe un riesgo inaceptable, la autoridad competente, al tener que tomar una decisión definitiva con arreglo al punto 96, tendrá en cuenta los criterios de los puntos 81 a 91.
+
+79\. La herramienta básica empleada en la adopción de la decisión es la relación PEC/PNEC, o, si no se dispone de ella, una estimación cualitativa. Deberá prestarse la debida atención a la exactitud de esta relación debido a la variabilidad de los datos empleados en la medición de la concentración y de la estimación.
+
+Al determinar la PEC, el modelo más adecuado debería utilizarse teniendo en cuenta lo que ocurre con el biocida en el medio ambiente y su comportamiento en dicho medio.
+
+80\. En cada compartimento medioambiental dado, si la relación PEC/PNEC es igual o inferior a la unidad, la caracterización del riesgo será que no se precisa mayor información ni nuevas pruebas.
+
+Si la relación es superior a la unidad, la autoridad competente juzgará basándose en la magnitud de la relación y en otros factores pertinentes, si se precisa mayor información o nuevas pruebas para aclarar la cuestión o si son necesarias medidas de reducción del riesgo o si no puede concederse autorización alguna al producto. Los factores pertinentes que deben considerarse son los mencionados anteriormente en el apartado 38.
+
+Agua:
+
+81\. La autoridad competente no autorizará un biocida si, en las condiciones propuestas de uso, la concentración previsible de la sustancia activa o de cualquier otra sustancia de posible riesgo y de los metabolitos correspondientes o productos de degradación o de reacción en el agua (o sus sedimentos) tiene una consecuencia inaceptable sobre especies a las que no se destina en el medio ambiente acuático, marino o del estuario, a menos que se demuestre científicamente que no hay efecto inaceptable bajo condiciones de campo pertinentes.
+
+82\. La autoridad competente no autorizará un biocida si, en las condiciones propuestas de uso, la concentración previsible de la sustancia activa o de cualquier sustancia de posible riesgo, o de los correspondientes metabolitos o productos de degradación en las aguas superficiales supera la más baja de las concentraciones siguientes:
+
+a) La concentración máxima permisible que establece la normativa vigente sobre calidad de aguas destinadas al consumo humano.
+
+b) La concentración máxima tal como se establece en función del procedimiento para incluir la sustancia activa en el anexos I, IA o IB del presente Real Decreto en función de los datos pertinentes, en particular los datos toxicológicos, a menos que se demuestre científicamente que dicha concentración inferior no se rebasa en condiciones de campo pertinentes.
+
+83\. La autoridad competente no autorizará un biocida si la concentración previsible de la sustancia activa o de cualquier sustancia de posible riesgo, o de los correspondientes metabolitos o productos de degradación o reacción que presenten las aguas superficiales o sus sedimentos tras el uso del biocida en las condiciones propuestas de uso:
+
+a) Supera, en el caso de que las aguas superficiales de la zona de posible aplicación de biocida (o procedentes de ella) se destinen a la producción de agua potable, los valores establecidos.
+
+b) Por la Directiva 75/440/CEE, del Consejo, de 16 de junio de 1975, relativa a la calidad requerida para las aguas superficiales destinadas a la producción de agua potable en los Estados miembros, transpuesta a nuestro ordenamiento jurídico mediante Reglamento de la Administración Pública del Agua (anexo I) ; Orden de 11 de mayo de 1988, sobre ríos. Características básicas de calidad que deben mantenerse en las corrientes superficiales destinadas a la producción de agua potable, Orden de 15 de mayo de 1990, Aguas. Modifica la Orden de 11 de mayo de 1988, de características básicas de calidad que deben mantenerse en las corrientes superficiales destinadas a la producción de agua potable, Orden de 30 de noviembre de 1994, Aguas. Modifica la Orden de 11 de mayo de 1988, sobre características básicas de calidad que deben mantenerse en las corrientes de aguas continentales superficiales destinadas a la producción de agua potable, y Real Decreto 1541/1994, Aguas. Modifica el anexo 1 del Reglamento de la Administración pública del agua y de la planificación hidrológica, aprobado por el Real Decreto 927/1988, de 29 de julio.
+
+c) Por la normativa vigente sobre calidad del agua destinada al consumo humano, Real Decreto 1138/1990 de 14 de septiembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para el abastecimiento y control de calidad de las aguas potables de consumo público.
+
+d) Presenta un efecto considerado inaceptable para especies a las que no se destina, a menos que se demuestre científicamente que en condiciones de campo pertinentes esta concentración no se supera.
+
+84\. Las instrucciones para la utilización del biocida propuestas, incluido el procedimiento de limpieza de los utensilios de aplicación, deben reducir al mínimo la eventualidad de contaminación accidental del agua o de sus sedimentos.
+
+Suelo:
+
+85\. En caso de que pueda producirse una contaminación inaceptable del suelo, el Estado miembro no autorizará un biocida si, tras el uso de éste en las condiciones previstas, las sustancias activas o de posible riesgo en él contenidas, durante ensayos en el campo persisten en el suelo por espacio de más de un año, o durante ensayos en laboratorio, forman residuos no extraíbles en cantidades superiores al 70 por 100 de la dosis inicial al cabo de cien días, con un índice de mineralización inferior al 5 por 100 en cien días, consecuencias o efectos inaceptables en organismos a los que no se destina, salvo que esté científicamente demostrado que, en condiciones de campo, no se produce ninguna acumulación inaceptable en el suelo.
+
+Aire:
+
+86\. La autoridad competente no autorizará un biocida si existe una posibilidad previsible de que se produzcan efectos inaceptables en el compartimento atmosférico, a menos que se demuestre científicamente que no hay efectos inaceptables en condiciones de campo pertinentes.
+
+Efectos en los organismos a los que no se destina:
+
+87\. La autoridad competente no autorizará un biocida si existe una posibilidad razonable y previsible de que los organismos a los que no se destina estén expuestos al biocida si, respecto a cualquier sustancia activa o de posible riesgo:
+
+La relación PEC/PNEC es superior a la unidad, salvo que se establezca claramente en la evaluación del riesgo que en condiciones de campo no se producen efectos inaceptables por el empleo del biocida en las condiciones propuestas de utilización, o,
+
+El factor de bioconcentración (FBC) correspondiente a los tejidos adiposos de los vertebrados a los que se destina es superior a la unidad, salvo que se establezca claramente en la evaluación del riesgo que, en condiciones de campo, no se producen directa ni indirectamente efectos inaceptables por el empleo del biocida en las condiciones propuestas de utilización.
+
+88\. La autoridad competente no autorizará un biocida si existe una posibilidad razonable y previsible de que los organismos acuáticos, inclusive los organismos marinos y de estuario, estén expuestos al biocida si, respecto a cualquier sustancia activa o de posible riesgo en él incluidas, la relación PEC/PNEC es superior a la unidad, salvo que se establezca claramente en la evaluación del riesgo que, en condiciones de campo, la viabilidad de los organismos acuáticos, incluidos los organismos marinos y de estuario, no se ve amenazada por el biocida en las condiciones propuestas de utilización ; o el factor de bioconcentración (FBC) es superior a 1.000 para las sustancias fácilmente biodegradables, o superior a 100 para aquellas que no son fácilmente biodegradables, salvo que se establezca claramente en la evaluación del riesgo que en condiciones de campo no se produce directa ni indirectamente un impacto inaceptable en la viabilidad de los organismos expuestos, inclusive los organismos marinos y de estuario, por el empleo del biocida en las condiciones propuestas de utilización.
+
+No obstante lo dispuesto en este apartado, la autoridad competente podrá autorizar, sin embargo, un producto antiincrustante utilizado en embarcaciones marítimas, comerciales y de servicio público, durante un período de hasta diez años a partir de la fecha en que entre en vigor este Real Decreto, si no puede realizarse un control antiincrustante por otros medios aplicables. Al aplicar esta disposición, la autoridad competente tendrá en cuenta, en su caso, las resoluciones pertinentes y las recomendaciones de la Organización Marítima Internacional (OMI).
+
+89\. La autoridad competente no autorizará un biocida cuando haya una posibilidad razonablemente previsible de que microorganismos en plantas de tratamiento de aguas residuales estén expuestos al biocida si, a causa de cualquier sustancia activa o de posible riesgo, correspondiente metabolito, degradación o reacción del producto, la relación PEC/PNEC es superior a 1, a menos que esté claramente establecido en la evaluación de riesgo que no se produce ninguna consecuencia inaceptable, directa o indirectamente, sobre la viabilidad de dichos microorganismos en condiciones de campo.
+
+Efectos inaceptables:
+
+90\. Si se prevé el desarrollo de resistencia a la sustancia activa del biocida, la autoridad competente adoptará las medidas necesarias para minimizar las consecuencias de dicha resistencia. Ello puede comportar la modificación de las condiciones de autorización, o incluso su rechazo.
+
+91\. Únicamente se concederá la autorización para un biocida destinado a controlar vertebrados cuando:
+
+a) La muerte se produzca simultáneamente con la extinción de la conciencia, o aparición de sufrimiento.
+
+b) La muerte se produzca inmediatamente, o c) Las funciones vitales se reduzcan gradualmente sin señales de sufrimiento aparente.
+
+Para los productos repelentes, el efecto perseguido se obtendrá sin sufrimiento ni dolor innecesarios del vertebrado al que se destina.
+
+Eficacia:
+
+92\. La autoridad competente no autorizará un biocida que no tenga una eficacia aceptable cuando se emplee de acuerdo con las condiciones especificadas en la etiqueta propuesta o con otras condiciones de autorización.
+
+93\. El nivel, coherencia y duración del control o protección u otros efectos perseguidos deben ser similares, como mínimo, a los derivados de otros productos adecuados de referencia cuando dichos productos existen, o a otros medios de control. De no existir ningún producto de referencia, el biocida debe proporcionar un nivel definido del control o protección en las áreas de utilización propuesta. Las conclusiones en cuanto a la actuación del biocida deben ser válidas para todas las áreas de utilización propuesta en la autoridad competente, excepto cuando la etiqueta propuesta prescriba que el biocida está destinado para un uso en circunstancias específicas. La autoridad competente evaluará los datos de respuesta de dosis generados en las pruebas (que deberán incluir un control sin tratar) en las que intervengan proporciones inferiores a la proporción recomendada, a fin de evaluar si la dosis recomendada es la mínima necesaria para lograr el efecto deseado.
+
+Resumen:
+
+94\. En cada uno de los campos en que se hayan llevado a cabo evaluaciones del riesgo, es decir, efectos en el ser humano, los animales y el medio ambiente, la autoridad competente deberá integrar las conclusiones a las que se haya llegado respecto a la sustancia activa y las sustancias de posible riesgo para elaborar una conclusión global del biocida en sí. Asimismo, debería hacerse un resumen de la evaluación de la eficacia y de los efectos inaceptables.
+
+El resultado será un resumen de: los efectos del biocida en el ser humano, los efectos del biocida en los animales, los efectos del biocida en el medio ambiente, la evaluación de la eficacia, los efectos inaceptables.
+
+Integración global de las conclusiones
+
+95\. La autoridad competente integrará las conclusiones a las que se haya llegado con respecto a los efectos del biocida en los tres sectores en cuestión, el ser humano, los animales y el medio ambiente, para elaborar una conclusión general sobre el efecto global del biocida.
+
+96\. Antes de proceder a la decisión relativa a la autorización de un biocida, la autoridad competente tendrá debidamente en cuenta cualquier efecto inaceptable de consideración, la eficacia del biocida y las ventajas de su utilización.
+
+97\. La autoridad competente decidirá en última instancia si puede procederse a la autorización del biocida y si tal autorización debe estar sujeta a determinadas restricciones o condiciones, de acuerdo con el presente anexo y el Real Decreto.

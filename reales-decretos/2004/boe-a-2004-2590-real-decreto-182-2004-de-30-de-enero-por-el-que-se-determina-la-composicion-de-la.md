@@ -1,0 +1,121 @@
+---
+title: "Real Decreto 182/2004, de 30 de enero, por el que se determina la composición de la Comisión de Recursos Humanos del Sistema Nacional de Salud"
+identifier: "BOE-A-2004-2590"
+eli: "https://www.boe.es/eli/es/rd/2004/01/30/182"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Sanidad y Consumo"
+date: 2004-01-30
+published: 2004-02-12
+in_force_from: 2004-02-13
+last_amended: 2020-07-29
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 37"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2004-2590"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 182/2004, de 30 de enero, por el que se determina la composición de la Comisión de Recursos Humanos del Sistema Nacional de Salud
+
+La Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, crea la Comisión de Recursos Humanos, a la que se atribuye el desarrollo de las actividades generales de planificación, diseño de programas de formación y modernización de los recursos humanos del Sistema Nacional de Salud y definición de los criterios básicos de evaluación de las competencias de los profesionales sanitarios, sin perjuicio de las competencias de las comunidades autónomas.
+
+El artículo 35.3 de la citada ley establece que la Comisión de Recursos Humanos estará presidida por el Ministro de Sanidad y Consumo y que su composición se determinará reglamentariamente. Tal es el objetivo de este real decreto que, además, precisa sus funciones conforme a lo previsto en la ley y prevé las comisiones técnicas y grupos de trabajo que podrán depender de ella.
+
+En la elaboración de este real decreto han sido consultadas las comunidades autónomas.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, con la aprobación previa de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 30 de enero de 2004,
+
+## D I S P O N G O :
+
+### Artículo 1. Objeto.
+
+Este real decreto tiene por objeto determinar la composición de la Comisión de Recursos Humanos del Sistema Nacional de Salud prevista en el artículo 35.3 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, así como establecer las comisiones técnicas y grupos de trabajo que podrán depender de aquélla y el sistema de adopción de sus acuerdos.
+
+### Artículo 2. Composición.
+
+1\. La Comisión de Recursos Humanos del Sistema Nacional de Salud está constituida por el Ministro de Sanidad y Consumo y por los consejeros competentes en materia de sanidad de las comunidades autónomas.
+
+Forman parte también de la Comisión el Subsecretario del Ministerio de Sanidad y Consumo, los Directores Generales de Recursos Humanos y Servicios Económico-Presupuestarios y de Cohesión del Sistema Nacional de Salud y Alta Inspección del Ministerio de Sanidad y Consumo, y un director general en representación de cada uno de los Ministerios de Economía y Hacienda, de Educación y Ciencia, de Trabajo y Asuntos Sociales y de Administraciones Públicas, designado por el titular del correspondiente departamento ministerial. Asimismo, formará parte de la Comisión el Inspector General de Sanidad del Ministerio de Defensa, que velará por que los criterios de dicho órgano, en la medida que sean compatibles con los intereses de la defensa nacional, sean tenidos en cuenta por la sanidad militar.
+
+También formará parte de esta Comisión quien ostente la titularidad de la Dirección General para el Servicio Público de Justicia del Ministerio de Justicia.
+
+2\. Corresponde la presidencia de la Comisión al Ministro de Sanidad y Consumo. En caso de ausencia, le sustituirá el Secretario General de Sanidad.
+
+3\. Los consejeros de las comunidades autónomas que forman parte de la Comisión elegirán, entre ellos, a su vicepresidente.
+
+4\. Cuando así lo aconsejen los asuntos a tratar, podrán ser convocados a las reuniones de la Comisión, con voz pero sin voto, otros representantes de la Administración General del Estado o de las comunidades autónomas.
+
+5\. Las funciones de secretario de la Comisión, con voz pero sin voto en sus reuniones, serán desempeñadas por el subdirector general del Ministerio de Sanidad y Consumo que designe el titular del departamento.
+
+> Se añade el último párrafo al apartado 1 por la disposición final 3 del Real Decreto 704/2020, de 28 de julio. [Ref. BOE-A-2020-8682](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8682)
+
+> Se modifica el apartado 2 por el Real Decreto 1133/2008, de 4 de julio. [Ref. BOE-A-2008-11584](https://www.boe.es/buscar/doc.php?id=BOE-A-2008-11584).
+
+> Se modifican los apartados 1 y 2 por el art. único.1 del Real Decreto 892/2006, de 21 de julio. [Ref. BOE-A-2006-14404](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-14404).
+
+### Artículo 3. Funciones.
+
+La Comisión de Recursos Humanos del Sistema Nacional de Salud desarrollará las funciones que le asignan los artículos 35 a 43 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, las que le atribuyen el resto de las normas legales aplicables y las que le pueda encomendar, en materia de recursos humanos, el Pleno del Consejo Interterritorial del Sistema Nacional de Salud.
+
+### Artículo 4. Reglamento interno.
+
+Para su adecuado funcionamiento, la Comisión aprobará su reglamento interno.
+
+En lo no previsto en dicho reglamento, se aplicarán las previsiones que sobre órganos colegiados figuran en el capítulo II del título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+### Artículo 5. Comisión Técnica Delegada y grupos de trabajo.
+
+1.La Comisión de Recursos Humanos del Sistema Nacional de Salud funcionará en Pleno y en Comisión Técnica Delegada.
+
+2\. La Comisión Técnica Delegada está constituida por el Director General de Recursos Humanos y Servicios Económico-Presupuestarios del Ministerio de Sanidad y Consumo, que la presidirá, así como por los representantes de todas las Administraciones públicas que se indican en el artículo 2.1, en la forma en que se determine en el acuerdo de su constitución.
+
+3\. La Comisión Técnica Delegada estudiará los asuntos que se sometan a la consideración del Pleno de la Comisión, y elevará a este las propuestas que resulten procedentes.
+
+4\. El Pleno de la Comisión de Recursos Humanos del Sistema Nacional de Salud o la Comisión Técnica Delegada, por acuerdo, podrán crear los grupos de trabajo que resulten adecuados para el cumplimiento de sus funciones. En el acuerdo de creación de cada grupo de trabajo se establecerá su composición.
+
+> Se modifica por el art. único.2 del Real Decreto 892/2006, de 21 de julio. [Ref. BOE-A-2006-14404](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-14404).
+
+### Artículo 6. Acuerdos.
+
+1\. Los acuerdos de la Comisión se plasmarán en decisiones, recomendaciones o informes, según proceda, y se aprobarán, en su caso, por consenso.
+
+Los acuerdos de la Comisión se notificarán al Consejo Interterritorial del Sistema Nacional de Salud, así como a los organismos, asociaciones o personas a las que éstos afecten.
+
+2\. Los acuerdos de la Comisión Técnica Delegada se plasmarán en propuestas al Pleno de la Comisión de Recursos Humanos del Sistema Nacional de Salud. La Comisión Técnica Delegada podrá aprobar decisiones en aquellas materias que se hubieran delegado expresamente por el Pleno de la Comisión de Recursos Humanos del Sistema Nacional de Salud.
+
+La toma de decisiones en el seno de la Comisión Técnica Delegada se realizará por consenso. En el caso de que dicho consenso no fuera posible se reflejarán en el acta las distintas posturas mantenidas en la correspondiente reunión.
+
+3\. Los informes que elaboren los grupos de trabajo se presentarán al Pleno de la Comisión de Recursos Humanos del Sistema Nacional de Salud o a la Comisión Técnica Delegada, según proceda.
+
+> Se modifican los apartados 2 y 3 por el art. único.3 del Real Decreto 892/2006, de 21 de julio. [Ref. BOE-A-2006-14404](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-14404).
+
+### Artículo 7. Sede y apoyo técnico y administrativo.
+
+1\. La Comisión tiene su sede en el Ministerio de Sanidad y Consumo, si bien podrá celebrar reuniones en los otros lugares que determine su presidente.
+
+2\. El Ministerio de Sanidad y Consumo prestará el apoyo técnico y administrativo que resulte necesario para el correcto funcionamiento de la Comisión, de la Comisión Técnica Delegada y de los grupos de trabajo que se constituyan.
+
+> Se modifica el apartado 2 por el art. único.4 del Real Decreto 892/2006, de 21 de julio. [Ref. BOE-A-2006-14404](https://www.boe.es/buscar/doc.php?id=BOE-A-2006-14404).
+
+### Artículo 8. Órganos adscritos.
+
+Están adscritos a la Comisión de Recursos Humanos del Sistema Nacional de Salud la Comisión Consultiva Profesional y el Foro Marco para el Diálogo Social, con la composición y funciones que se establecen en la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, y en la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, respectivamente.
+
+### Disposición final primera. Habilitación de desarrollo.
+
+El Ministro de Sanidad y Consumo dictará las disposiciones necesarias para la aplicación y ejecución de lo establecido en este real decreto.
+
+### Disposición final segunda. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado".
+
+Dado en Madrid, a 30 de enero de 2004.
+
+JUAN CARLOS R.
+
+La Ministra de Sanidad y Consumo,
+
+ANA MARÍA PASTOR JULIÁN

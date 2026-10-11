@@ -1,0 +1,111 @@
+---
+title: "Real Decreto 383/2008, de 14 de marzo, por el que se establece el coeficiente reductor de la edad de jubilación en favor de los bomberos al servicio de las administraciones y organismos públicos"
+identifier: "BOE-A-2008-5987"
+eli: "https://www.boe.es/eli/es/rd/2008/03/14/383"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Trabajo y Asuntos Sociales"
+date: 2008-03-14
+published: 2008-04-03
+in_force_from: 2008-04-04
+last_amended: 2025-09-17
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 81"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-5987"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 383/2008, de 14 de marzo, por el que se establece el coeficiente reductor de la edad de jubilación en favor de los bomberos al servicio de las administraciones y organismos públicos
+
+El artículo 161 bis.1 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 1/1994, de 20 de junio, incorporado por la Ley 40/2007, de 4 de diciembre, de medidas en materia de Seguridad Social, prevé que la edad mínima de 65 años exigida para tener derecho a pensión de jubilación en el Régimen General de la Seguridad Social podrá ser rebajada por real decreto, a propuesta del Ministro de Trabajo y Asuntos Sociales, en aquellos grupos o actividades profesionales cuyos trabajos sean de naturaleza excepcionalmente penosa, tóxica, peligrosa o insalubre y acusen elevados índices de morbilidad o mortalidad, siempre que los trabajadores afectados acrediten en la respectiva profesión o trabajo el mínimo de actividad que se establezca.
+
+Por otra parte, por medio de la disposición adicional segunda de la citada Ley 40/2007, de 4 de diciembre, se incorpora una nueva disposición adicional, la cuadragésima quinta, en el texto refundido de la Ley General de la Seguridad Social, a través de la cual se da soporte normativo al compromiso asumido al respecto en el Acuerdo sobre medidas en materia de Seguridad Social, suscrito el 13 de julio de 2006 por el Gobierno y los interlocutores sociales. En dicha disposición y a efectos de lo establecido en el aludido artículo 161 bis.1, se determina, entre otras previsiones, que el establecimiento de coeficientes reductores de la edad de jubilación exige la realización previa de estudios sobre siniestralidad en el sector, penosidad, peligrosidad y toxicidad de las condiciones del trabajo, su incidencia en los procesos de incapacidad laboral que genera en los trabajadores y los requerimientos físicos exigidos para el desarrollo de la actividad.
+
+En relación con el colectivo de bomberos, de los estudios llevados a cabo se desprende que existen índices de peligrosidad y penosidad en el desarrollo de su actividad y que los requerimientos psicofísicos que se exigen para su ingreso en el colectivo y el desarrollo de la actividad no pueden hacerse a partir de unas determinadas edades, cumpliéndose de esta forma los requerimientos exigidos en la legislación para la reducción de la edad de acceso a la jubilación, como consecuencia de la realización de trabajos de naturaleza excepcionalmente penosa, tóxica, peligrosa o insalubre.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 14 de marzo de 2008.
+
+## D I S P O N G O :
+
+### Artículo 1. Ámbito de aplicación.
+
+1\. Lo dispuesto en este real decreto se aplicará a los trabajadores por cuenta ajena y empleados públicos, incluidos en el Régimen General de la Seguridad Social, que presten servicio como bomberos, en sus diferentes escalas, categorías o especialidades, en entidades locales, en comunidades autónomas, en el Ministerio de Defensa, en el Organismo Aeropuertos Españoles y Navegación Aérea, así como en los consorcios o agrupaciones que pudieran tener constituidos las expresadas administraciones.
+
+2\. También se aplicará lo dispuesto en este real decreto a los bomberos forestales al servicio de las administraciones, organismos públicos y entidades de derecho público o privado vinculadas o dependientes de las administraciones públicas, siempre que se encuentren incluidos en el Régimen General de la Seguridad Social y que, con independencia de la naturaleza estatutaria o laboral de su relación de servicio, en el ejercicio profesional realicen las funciones dispuestas en el artículo 4 de la Ley 5/2024, de 8 de noviembre, básica de bomberos forestales, de acuerdo con el artículo 2.1 y 2 de esta misma ley.
+
+> Se modifica por el art. único.1 del Real Decreto 817/2025, de 16 de septiembre. [Ref. BOE-A-2025-18347](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-18347)
+
+### Artículo 2. Reducción de la edad de jubilación.
+
+1\. La edad ordinaria exigida para el acceso a la pensión de jubilación conforme al artículo 205.1.a) y a la disposición transitoria séptima del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, se reducirá, con respecto a los trabajadores o colectivos referidos en el artículo 1, en un periodo equivalente al que resulte de aplicar a los años completos efectivamente trabajados como bombero o bombero forestal el coeficiente reductor del 0,20.
+
+2\. La aplicación de la reducción de la edad de jubilación prevista en el apartado anterior, en ningún caso, dará ocasión a que el interesado pueda acceder a la pensión de jubilación con una edad inferior a los 60 años, o a la de 59 años en los supuestos en que se acrediten 35 o más años de cotización efectiva, sin cómputo de la parte proporcional correspondiente por pagas extraordinarias, por el ejercicio de la actividad de bombero o bombero forestal a que se refiere el artículo 1.
+
+> Se modifica por el art. único.2 del Real Decreto 817/2025, de 16 de septiembre. [Ref. BOE-A-2025-18347](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-18347)
+
+### Artículo 3. Cómputo del tiempo trabajado.
+
+Para el cómputo del tiempo efectivamente trabajado, a efectos de la aplicación del coeficiente establecido en el artículo anterior, se descontarán todas las faltas al trabajo, salvo las siguientes:
+
+a) Las que tengan por motivo la incapacidad temporal por enfermedad común o profesional, o por accidente, sea o no de trabajo.
+
+b) Las que tengan por motivo la suspensión de la prestación de servicios por nacimiento, adopción, guarda con fines de adopción o acogimiento, de conformidad con el Código Civil o las leyes civiles de las comunidades autónomas que lo regulen, de menores de seis años o de menores de edad mayores de seis años con discapacidad o que por sus circunstancias y experiencias personales o por provenir del extranjero, tengan especiales dificultades de inserción social y familiar debidamente acreditadas por los servicios sociales competentes, riesgo durante el embarazo, riesgo durante la lactancia natural, permiso parental y por decisión de la trabajadora que se vea obligada a abandonar su puesto de trabajo como consecuencia de ser víctima de violencia de género o de violencia sexual.
+
+c) Los permisos y licencias retribuidos, disfrutados en virtud de las correspondientes disposiciones normativas o convencionales, incluido el desempeño de una actividad de representación sindical, aunque no resulte retribuida, si bien, en este último caso también será preciso continuar con el abono de la cotización adicional, salvo que el desempeño de dicha actividad no conlleve el alta en algún régimen del sistema, en cuyo caso no se computará como tiempo efectivamente trabajado a efectos de la aplicación de coeficientes reductores.
+
+> Se modifica por el art. único.3 del Real Decreto 817/2025, de 16 de septiembre. [Ref. BOE-A-2025-18347](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-18347)
+
+### Artículo 4. Consideración como cotizado del tiempo de reducción.
+
+El período de tiempo en que resulte reducida la edad de jubilación del trabajador, de acuerdo con lo establecido en los artículos anteriores, se computará como cotizado al exclusivo efecto de determinar el porcentaje aplicable a la correspondiente base reguladora para calcular el importe de la pensión de jubilación.
+
+### Artículo 5. Efectos del coeficiente reductor.
+
+Tanto la reducción de la edad como el cómputo, a efectos de cotización, del tiempo en que resulte reducida aquella que se establecen en los artículos anteriores serán de aplicación a los bomberos o bomberos forestales a los que se refiere el artículo 1 que hayan permanecido en situación de alta por dicha actividad hasta la fecha en que se produzca el hecho causante de la pensión de jubilación.
+
+Asimismo, mantendrán el derecho a estos mismos beneficios quienes, habiendo alcanzado la edad de acceso a la jubilación que en cada caso resulte de la aplicación de lo establecido en el artículo 2, cesen en su actividad como bombero o bombero forestal a que se refiere el artículo 1, pero permanezcan en alta por razón del desempeño de una actividad laboral diferente, cualquiera que sea el régimen de la Seguridad Social en el que por razón de esta queden encuadrados.
+
+> Se modifica por el art. único.4 del Real Decreto 817/2025, de 16 de septiembre. [Ref. BOE-A-2025-18347](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-18347)
+
+### Disposición adicional primera. Cotización adicional.
+
+De acuerdo con lo establecido en el artículo 206.4 del texto refundido de la Ley General de la Seguridad Social y con la finalidad de mantener el equilibrio financiero del sistema, la aplicación de los beneficios establecidos en este real decreto llevará consigo un incremento en la cotización a la Seguridad Social a efectuar en relación con los trabajadores o colectivos delimitados en el artículo 1, en los términos y condiciones que se establezcan legalmente.
+
+> Se modifica por el art. único.5 del Real Decreto 817/2025, de 16 de septiembre. [Ref. BOE-A-2025-18347](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-18347)
+
+> Se renumera como disposición adicional primera por la disposición final 2 del Real Decreto 1698/2011, de 18 de noviembre. [Ref. BOE-A-2011-18401](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18401).
+
+### Disposición adicional segunda. Cambio en la titularidad del servicio público.
+
+Los derechos que se deriven de lo establecido en este real decreto se seguirán reconociendo en sus propios términos a los trabajadores que, conforme a lo dispuesto en el artículo 1, estén comprendidos en su ámbito de aplicación, aunque se produzca un cambio en la titularidad del servicio público que vengan prestando.
+
+> Se añade por la disposición final 2 del Real Decreto 1698/2011, de 18 de noviembre. [Ref. BOE-A-2011-18401](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-18401).
+
+### Disposición transitoria única. Aplicación gradual en determinados supuestos.
+
+Durante el año 2008 el acceso al derecho a la pensión de jubilación con aplicación del coeficiente reductor establecido en este real decreto quedará limitado a quienes hayan cumplido la edad de 63 años, límite que se rebajará a 61 años durante el año 2009.
+
+No obstante lo establecido en el párrafo anterior, cuando, durante los expresados años 2008 y 2009, por aplicación de lo previsto en este real decreto pudiera llegar a causar derecho a la pensión de jubilación un número de bomberos que sobrepasara el 10 por ciento de la correspondiente plantilla, el acceso al derecho a la pensión se pospondrá en el tiempo mínimo indispensable para la renovación de dicha plantilla.
+
+### Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.17.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación básica y régimen económico de la Seguridad Social.
+
+### Disposición final segunda. Facultades de aplicación y desarrollo.
+
+Se faculta al Ministro de Trabajo y Asuntos Sociales para dictar las disposiciones de carácter general necesarias para la aplicación y desarrollo de este real decreto.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, el 14 de marzo de 2008.
+
+JUAN CARLOS R.
+
+El Ministro de Trabajo y Asuntos Sociales,
+
+JESÚS CALDERA SÁNCHEZ-CAPITÁN

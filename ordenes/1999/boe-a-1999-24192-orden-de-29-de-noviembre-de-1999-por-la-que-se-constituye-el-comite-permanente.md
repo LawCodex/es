@@ -1,0 +1,101 @@
+---
+title: "Orden de 29 de noviembre de 1999 por la que se constituye el Comité Permanente para la Gestión y Mantenimiento del Fichero Oleícola Informatizado y el Sistema de Información Geográfica Oleícola Españoles"
+identifier: "BOE-A-1999-24192"
+eli: "https://www.boe.es/eli/es/o/1999/11/29/(3)"
+type: order
+rank: "Orden"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 1999-11-29
+published: 1999-12-21
+in_force_from: 1999-12-22
+last_amended: 2005-07-06
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 304"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-24192"
+retrieved: 2026-10-11
+---
+
+# Orden de 29 de noviembre de 1999 por la que se constituye el Comité Permanente para la Gestión y Mantenimiento del Fichero Oleícola Informatizado y el Sistema de Información Geográfica Oleícola Españoles
+
+El Reglamento (CEE) 154/75 estableció en los Estados miembros productores de aceite de oliva, un Registro Oléicola, y el Reglamento (CEE) 2261/84 ordenó a los Estados miembros crear y mantener al día ficheros permanentes informatizados de datos oleícolas. En cumplimiento de esta disposición, el Ministerio de Agricultura, Pesca y Alimentación aprobó la Orden de 1 de agosto de 1990, de constitución y mantenimiento del fichero oleícola informatizado. La finalidad del fichero es facilitar las operaciones de control necesarias para la correcta gestión del régimen de ayudas a la producción de aceite de oliva.
+
+El Reglamento (CE) 2366/98, de la Comisión, de 30 de octubre, por el que se establecen disposiciones de aplicación del régimen de ayuda a la producción de aceite de oliva para las campañas de comercialización 1998/1999, 1999/2000 y 2000/2001, y el Reglamento (CE) 1638/98, del Consejo, de 20 de julio, que modifica el Reglamento 136/66/CEE por el que se establece la organización común de mercados en el sector de las materias grasas, contienen la nueva regulación a la que habrá de someterse el Registro Oleícola y el Sistema de Información Geográfico Oleícola (SIG), basado en los datos de este Registro.
+
+Con el fin de coordinar las tareas que se están llevando a cabo actualmente para la constitución del Sistema de Información Geográfico Oleícola, con los datos provenientes del Fichero Oleícola Informatizado y del Registro Oleícola, se hace preciso crear un Comité Permanente que se encargue de gestionar dicha información, de capital importancia para llevar a cabo los controles que el Estado tiene asignados en relación con las ayudas al aceite de oliva y la aceituna de mesa, así como de mantenerla y tenerla en todo momento a disposición de las Comunidades Autónomas, entidades gestoras de las ayudas, y de la Agencia para el Aceite de Oliva, organismo encargado de la supervisión de las ayudas, principales usuarios de las bases e información del Fichero Oleícola Informatizado.
+
+En su virtud, previa aprobación del Ministro de Administraciones Públicas, dispongo:
+
+## Artículo 1. Constitución.
+
+Se constituye el Comité Permanente para la Gestión y Mantenimiento del Fichero Oleícola Informatizado, adscrito al Organismo Autónomo Agencia para el Aceite de Oliva.
+
+> Se modifica por el art. único.1 de la Orden APA/2142/2005, de 30 de junio. [Ref. BOE-A-2005-11547](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11547).
+
+## Artículo 2. Funciones.
+
+Las funciones del Comité Permanente para la Gestión y el Mantenimiento del Fichero Oleícola Informatizado, serán las siguientes:
+
+a) Coordinar las acciones necesarias para recoger, actualizar y facilitar la utilización de la información prevista en el artículo 2 de la Orden de 11 de mayo de 2001 sobre la estructura y funcionamiento del Fichero Oleícola Informatizado (FOI) Español.
+
+b) Realizar las funciones de recepción y tratamiento de la información referente a los oleicultores, olivicultores, organizaciones de productores de aceite de oliva reconocidas y sus uniones, almazaras, industrias de transformación, envasadoras, refinerías de aceite de oliva, extractoras de aceite de orujo de oliva y otros operadores que lleven a cabo actuaciones que puedan tener alguna incidencia en el régimen de las ayudas al aceite de oliva y a la aceituna de mesa.
+
+c) Facilitar a los órganos competentes de las Comunidades Autónomas la información que precisen para llevar a cabo las actuaciones de control en el ámbito de las ayudas al aceite de oliva y a la aceituna de mesa.
+
+> Se modifica por el art. único.2 de la Orden APA/2142/2005, de 30 de junio. [Ref. BOE-A-2005-11547](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11547).
+
+## Artículo 3. Composición.
+
+El Comité Permanente para la Gestión y el Mantenimiento del Fichero Oleícola Informatizado tendrá la siguiente composición:
+
+Presidente: El Director de la Agencia para el Aceite de Oliva.
+
+Vicepresidente: El Subdirector general de Armonización Normativa y Sistema Integrado del Fondo Español de Garantía Agraria.
+
+Vocales:
+
+El Subdirector general de Planificación Económica y Coordinación Institucional.
+
+El Subdirector general de Informática y Comunicaciones.
+
+El Subdirector general de Materias Grasas y Cultivos Industriales. Secretario:
+
+El Secretario general de la Agencia para el Aceite de Oliva, con voz pero sin voto.
+
+> Se modifica por el art. único.3 de la Orden APA/2142/2005, de 30 de junio. [Ref. BOE-A-2005-11547](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11547).
+
+## Artículo 4. Colaboración departamental.
+
+Las distintas unidades del Departamento prestarán el apoyo que les demande el Comité Permanente para la Gestión y mantenimiento del Fichero Oleícola Informatizado.
+
+> Se modifica por la disposición adicional única de la Orden APA/2142/2005, de 30 de junio. [Ref. BOE-A-2005-11547](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11547).
+
+## Artículo 5. Coordinación con las Comunidades Autónomas y las organizaciones de productores reconocidas y sus uniones.
+
+1\. El Comité promoverá las reuniones de carácter técnico, de seguimiento, de información y de coordinación con las Comunidades Autónomas que sean necesarias para el mejor cumplimiento de sus fines.
+
+2\. Asimismo, el Comité Permanente para la Gestión y mantenimiento del Fichero Oleícola Informatizado promoverá reuniones periódicas con las organizaciones de productores reconocidas y sus uniones, con objeto de coordinar la información que puedan demandar dichas organizaciones y uniones en su condición de usuarios del Fichero.
+
+> Se modifican los apartados 1 y 2 por el art. único.4 y la disposición adicional única de la Orden APA/2142/2005, de 30 de junio. [Ref. BOE-A-2005-11547](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11547).
+
+## Artículo 6. Medios y gastos de funcionamiento.
+
+1\. El soporte informático y de comunicaciones necesario para el ejercicio de las funciones encomendadas al Comité, será prestado por la Subdirección General de Informática y Comunicaciones de la Subsecretaría.
+
+2\. Los gastos de funcionamiento del Comité se imputarán con cargo al presupuesto ordinario del Ministerio de Agricultura, Pesca y Alimentación, sin que supongan un incremento de gasto.
+
+3\. En lo no previsto en la presente Orden, el Comité se regirá por lo dispuesto en los artículos 22 y siguientes de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y a los artículos 38 y siguientes de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+> Se modifica el apartado 1 por el art. único.5 de la Orden APA/2142/2005, de 30 de junio. [Ref. BOE-A-2005-11547](https://www.boe.es/buscar/doc.php?id=BOE-A-2005-11547).
+
+## Disposición final. Entrada en vigor.
+
+La presente disposición entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Madrid, 29 de noviembre de 1999.
+
+POSADA MORENO
+
+Ilmos. Sres. Subsecretario, Secretario general de Agricultura y Alimentación, Presidenta del Fondo Español de Garantía Agraria y Director de la Agencia para el Aceite de Oliva.

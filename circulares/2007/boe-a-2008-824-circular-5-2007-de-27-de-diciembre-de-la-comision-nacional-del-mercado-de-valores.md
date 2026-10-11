@@ -1,0 +1,103 @@
+---
+title: "Circular 5/2007, de 27 de diciembre, de la Comisión Nacional del Mercado de Valores, sobre hechos relevantes de las Instituciones de Inversión Colectiva"
+identifier: "BOE-A-2008-824"
+eli: "https://www.boe.es/eli/es/cir/2007/12/27/5"
+type: circular
+rank: "Circular"
+jurisdiction: es
+language: es
+department: "Comisión Nacional del Mercado de Valores"
+date: 2007-12-27
+published: 2008-01-17
+in_force_from: 2008-02-06
+last_amended: 2013-05-24
+consolidated: 2025-12-19
+gazette: "Boletín Oficial del Estado núm. 15"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2008-824"
+retrieved: 2026-10-11
+---
+
+# Circular 5/2007, de 27 de diciembre, de la Comisión Nacional del Mercado de Valores, sobre hechos relevantes de las Instituciones de Inversión Colectiva
+
+La Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva (en adelante Ley de IIC), en su artículo 19, relativo a los hechos relevantes de las Instituciones de Inversión Colectiva, se remite a un posterior desarrollo reglamentario.
+
+El Reglamento de la Ley de IIC, aprobado por Real Decreto 1309/2005, de 4 de noviembre, habilita en el artículo 28 a la Comisión Nacional del Mercado de Valores para determinar la forma, el contenido y los plazos de comunicación de los hechos relevantes. Asimismo, el apartado 3 del artículo 19 del Reglamento faculta a la Comisión Nacional del Mercado de Valores para exigir a las IIC extranjeras comercializadas en España cualquier información que sea necesaria para el cumplimiento de sus obligaciones de supervisión.
+
+La presente Circular persigue un triple objetivo: recopilar los supuestos de hechos relevantes para las IIC que aparecen dispersos en la normativa, entre otros, en los artículos 24.2 y 26.4 de la Ley de IIC, artículo 14.2 del Reglamento y artículo 2.4 de la Orden Ministerial de 6 de julio de 1993, agilizar su difusión y aclarar las obligaciones que a este respecto deben cumplir las IIC extranjeras.
+
+En consecuencia, el Consejo de la Comisión Nacional del Mercado de Valores, previo informe del Comité Consultivo, en su reunión de 27 de diciembre 2007, ha dispuesto lo siguiente:
+
+## Norma primera. Ámbito de aplicación.
+
+La presente Circular será de aplicación a las siguientes IIC:
+
+a) A las Instituciones de Inversión Colectiva que tengan en España su domicilio social, en el caso de sociedades de inversión, o que se hayan autorizado en España, en el caso de fondos de inversión.
+
+b) Las comercializadas en España que no se encuentren incluidas en la letra anterior.
+
+> Se modifica el apartado a) por la norma final 1.1 de la Circular 2/2013, de 9 de mayo. [Ref. BOE-A-2013-5453](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5453).
+
+## Norma segunda. Hechos relevantes de las IIC y supuestos que serán publicados de oficio por la Comisión Nacional del Mercado de Valores.
+
+1\. Las IIC referidas en la letra a) de la norma primera, deberán comunicar en la forma establecida en la norma tercera los siguientes hechos relevantes:
+
+a) La sustitución y el cambio de control de la sociedad gestora o del depositario de los fondos de inversión.
+
+b) Todas aquellas decisiones que den lugar a la obligación de actualizar los elementos esenciales del folleto y/o del documento con los datos fundamentales para el inversor.
+
+c) La autorización del proceso de fusión en el que participe un fondo de inversión.
+
+d) Toda modificación del reglamento de un fondo de inversión que requiera autorización previa de la Comisión Nacional del Mercado de Valores.
+
+e) Toda reducción del capital en circulación de las sociedades de inversión o reembolso en los fondos de inversión que supongan una variación o disminución superior al 20% de su capital o de su patrimonio, respectivamente y que se produzcan en un solo acto. También se considerarán como tales cuando el referido porcentaje se alcance como consecuencia de reducciones de capital sucesivas o reembolsos solicitados por un mismo partícipe o por varios pertenecientes al mismo grupo en un periodo de dos meses.
+
+f) Toda operación de endeudamiento, desde el momento en que implique que las obligaciones frente a terceros excedan del 5% del patrimonio de la IIC, salvo que se trate de IIC de Inversión Libre.
+
+g) En el caso de sociedades de inversión, la imposibilidad de la sociedad de poner más acciones en circulación por carecer de acciones en cartera y estar ya desembolsado el capital estatutario máximo.
+
+h) Acuerdos de disolución y liquidación.
+
+i) Suspensión y reanudación de la negociación de las acciones o participaciones, así como la suspensión y reanudación de las suscripciones y reembolsos de participaciones de fondos de inversión.
+
+j) Exclusiones de negociación en Bolsa cuando las acciones pasen a negociarse en un mercado o sistema organizado de negociación de valores.
+
+k) Las bajadas sobrevenidas de la calificación crediticia del garante respecto del rating informado en el folleto registrado en la CNMV que recoge el objetivo de rentabilidad garantizado a vencimiento.
+
+l) Cualquier otro cuyo conocimiento pueda afectar a un inversor razonablemente para adquirir o transmitir las acciones o participaciones de las IIC y, por tanto, pueda influir de forma sensible en su valor liquidativo.
+
+2\. La Comisión Nacional del Mercado de Valores publicará en su página Web, sin necesidad de comunicación por parte de la entidad afectada o su gestora, los hechos relevantes recogidos en las letras a) a d), ambas inclusive, una vez tramitados los correspondientes expedientes administrativos. De igual forma se publicarán de oficio los hechos relevantes que se deriven de una decisión de la Comisión Nacional del Mercado de Valores.
+
+3\. La publicación conforme a los apartados anteriores no eximirá del cumplimiento de las obligaciones a que se refiere el apartado 2 de la norma séptima de la Circular 3/2006, de 26 de octubre, de la Comisión Nacional del Mercado de Valores, sobre folletos explicativos de las IIC.
+
+4\. Las IIC comunicarán a la Comisión Nacional del Mercado de Valores, para general conocimiento de los inversores, el resto de supuestos comprendidos en las letras e) a k), ambas inclusive, inmediatamente, una vez que se haya producido el hecho relevante, en la forma establecida en la norma tercera.
+
+5\. Las IIC referidas en la letra b) de la norma primera, deberán comunicar en la forma establecida en la norma tercera como hechos relevantes:
+
+a) Acontecimientos relevantes que afecten a aquellas IIC admitidas a negociación en la bolsa española.
+
+b) Suspensión y reanudación bien de la negociación bien de las suscripciones y reembolsos de las IIC.
+
+c) Errores relevantes en el cálculo del valor liquidativo.
+
+d) Cierre de la IIC a nuevas suscripciones.
+
+e) Cualquier otro acontecimiento extraordinario y de especial relevancia que afecte a la IIC.
+
+> Se modifican los apartados 1.a), 1.b), 1.k) y el ap.5, y se añade el 1.l) por la norma final 1.2 a 1.5 de la Circular 2/2013, de 9 de mayo. [Ref. BOE-A-2013-5453](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5453).
+
+## Norma tercera. Remisión por vía telemática.
+
+1\. La remisión a la Comisión Nacional del Mercado de Valores de los hechos relevantes deberá realizarse por vía telemática, mediante el servicio CIFRADOC/CNMV, aprobado por Acuerdo del Consejo de 15 de septiembre de 2006, u otro similar, que establezca la Comisión Nacional del Mercado de Valores.
+
+2\. El envío de los hechos relevantes que afecten a las IIC extranjeras armonizadas comercializadas en España deberá realizarse por la misma entidad encargada a que se refiere la letra a) del apartado 1 de la Norma primera de la Circular 2/2011, de 9 de junio, de la Comisión Nacional del Mercado de Valores, sobre información de las instituciones de inversión colectiva extranjeras inscritas en los Registros de la Comisión Nacional del Mercado de Valores.
+
+3\. Sólo podrán presentarse las comunicaciones de hechos relevantes de IIC por vía distinta a la establecida en el apartado 1 de esta Norma cuando lo autorice la Comisión Nacional del Mercado de Valores, previa solicitud justificada.
+
+> Se modifica el apartado 2 por la norma final 1.6 de la Circular 2/2013, de 9 de mayo. [Ref. BOE-A-2013-5453](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5453).
+
+## Norma final. Entrada en vigor.
+
+La presente Circular entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Estado.
+
+Madrid, 27 de diciembre de 2007.–El Presidente de la Comisión Nacional del Mercado de Valores, Julio Segura Sánchez.

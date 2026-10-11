@@ -1,0 +1,665 @@
+---
+title: "Ley 24/2003, de 10 de julio, de la Viña y del Vino"
+identifier: "BOE-A-2003-13864"
+eli: "https://www.boe.es/eli/es/l/2003/07/10/24"
+type: act
+rank: "Ley"
+jurisdiction: es
+language: es
+department: "Jefatura del Estado"
+date: 2003-07-10
+published: 2003-07-11
+in_force_from: 2003-07-12
+last_amended: 2025-04-02
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 165"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-13864"
+retrieved: 2026-10-11
+---
+
+# Ley 24/2003, de 10 de julio, de la Viña y del Vino
+
+#### JUAN CARLOS I
+
+#### REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley.
+
+#### EXPOSICIÓN DE MOTIVOS
+
+#### I
+
+El vino y la viña son inseparables de nuestra cultura.
+
+Desde que el hombre deja testimonios gráficos para la historia, aparece en escena con una jarra de vino en la mano: en las pinturas egipcias, en las ánforas griegas, en los mosaicos romanos.
+
+A pesar de tan ancestral cultura del vino, con su proyección social, literaria y mística, el Derecho tardó mucho en entrar en este campo, que le era ajeno mientras pertenecía al mundo de las satisfacciones de los sentidos o de los sentimientos. Sólo cuando el vino se convirtió en un problema de salud, de orden público o económico -y los poderes públicos se interesaron por estas cuestiones- es cuando las pragmáticas y las leyes hicieron acto de presencia, primero prohibiendo, después fomentando y luego regulando la producción, la comercialización y el consumo.
+
+No se pretende aquí, ni vendría al caso, hacer una síntesis histórica de la legislación vitivinícola; más bien hay que poner de relieve que no la hubo hasta tiempos recientes, salvo algunas medidas de policía de abastos, casi siempre de carácter local, que en España empiezan a adoptarse a mediados del siglo XVII, más para frenar los excesos de algunos vinateros que para regular las campañas. Durante el siglo XIX siguieron publicándose numerosas disposiciones del mismo tenor aunque, por influjo de las nuevas tendencias, se fue sustituyendo la idea de los "abastos" por la de la calidad. Tal vez sea la Real Orden de 23 de febrero de 1890 la primera de las disposiciones relativas a la elaboración de los vinos, real orden que hubo de ser reforzada por el Real Decreto de 7 de enero de 1897, cuyo preámbulo es muy ilustrativo.
+
+A dicha preocupación viene a sumarse, ya casi en los umbrales del siglo XX, la del comercio exterior. Bajo la regencia de María Cristina, se dictó el Real Decreto de 21 de agosto de 1888 por el que se dispone que el Gobierno establecerá en París, Londres y Hamburgo estaciones enotécnicas, con objeto de promover, auxiliar y facilitar el comercio de vinos españoles puros y legítimos.
+
+Y así, prescindiendo de detalles que enturbiarían la claridad del esquema, se llega al Estatuto del Vino de 1932, en el que se intenta por primera vez la regulación completa del sector. Con el paso del tiempo, este notable cuerpo legal quedó desbordado por los avances tecnológicos y la expansión de esta rama de la producción agraria, y sus previsiones resultaron insuficientes o inadecuadas a la nueva situación creada en el entorno por la Comunidad Económica Europea.
+
+Al efecto, por Ley 25/1970, de 2 de diciembre, se aprobó un nuevo Estatuto de la Viña, del Vino y de los Alcoholes, que es el que está formalmente -sólo formalmente- en vigor.
+
+#### II
+
+Porque, después de esto, se han producido dos acontecimientos importantes: la promulgación de la Constitución Española de 1978, que configura el Estado de las Autonomías, y el ingreso de España en las Comunidades Europeas.
+
+En principio, las competencias en materia de agricultura -y, por tanto, las relativas al cultivo de la vid y a sus productos- corresponden a las comunidades autónomas, si bien esa competencia no excluye toda intervención estatal sino que es una competencia compartida, como reiteradamente ha declarado el Tribunal Constitucional.
+
+De otra parte, la integración de España en la hoy llamada Unión Europea supuso la aceptación del acervo comunitario y el reconocimiento de la supremacía de sus normas sobre el ordenamiento jurídico interno. A diferencia de lo ocurrido con otros productos incluidos en el marco de la Política Agrícola Común, que desde los inicios contaron con una Organización Común de Mercado, la OCM del vino no surge en la Europa de los seis hasta 1970, y hasta hace relativamente poco tiempo se ha venido rigiendo por el Reglamento (CEE) 822/1987, del Consejo de 16 de marzo de 1987. Desde entonces se han dictado un sinfín de disposiciones comunitarias de desarrollo y aplicación, lo que hacía que la regulación del sector fuera sumamente compleja. Por fin, se adoptó el Reglamento (CE) 1493/1999, de 17 de mayo, por el que se establece la nueva OCM vitivinícola, que es de aplicación directa en todos los Estados miembros a partir del 1 de agosto de 2000.
+
+El otrora flamante Estatuto del Vino de 1970 ha quedado desfasado de tal forma que sería difícil precisar cuáles de sus preceptos siguen en vigor. De ahí la necesidad de una nueva ley, ya sugerida por el Consejo de Estado en su memoria del año 1996, si no se quiere continuar en este campo como decía Pomponio que estaba el pueblo romano antes de las Doce Tablas: "sine lege certa, sine iure certo" (D.2.1.1.2).
+
+#### III
+
+Consta esta ley de cuatro títulos, que tratan sucesivamente de los aspectos generales de la vitivinicultura, de la protección del origen y la calidad de los vinos, del régimen sancionador y del Consejo Español de Vitivinicultura.
+
+En el primero de ellos, después de definir con lenguaje castizo los productos y las prácticas de cultivo, se abordan, de ordinario según la normativa comunitaria, las cuestiones capitales en esta materia, tales como lo relativo a las plantaciones y replantaciones, al riego de la vid y al aumento artificial de la graduación alcohólica natural, así como a la drástica medida del arranque de las viñas que estrenó en su tiempo el emperador Domiciano, hijo de Vespasiano, cuando para remediar la escasez de trigo y el exceso de vino mandó descepar la mitad de las viñas en todo el Imperio.
+
+En el título II se establece un sistema de protección de la calidad de los vinos con diferentes niveles, que pueden superponerse para los que proceden de una misma parcela, siempre que las uvas utilizadas y el vino obtenido cumplan los requisitos establecidos. De ahí resultan las distintas categorías de vinos: los de mesa con derecho al uso de menciones geográficas, los vinos de calidad producidos en regiones determinadas, los de calidad con indicación geográfica, los vinos con denominación de origen calificada o no, y los vinos de pagos, con sus correspondientes órganos de gestión.
+
+En el título III se regula el régimen sancionador aplicable a las infracciones administrativas en materia de vitivinicultura y en relación con los niveles de protección de los vinos, que necesariamente debe establecerse en una norma de rango legal en cumplimiento del principio de legalidad recogido en la Constitución.
+
+No obstante, no todo el título III tiene carácter de normativa básica, sino únicamente aquellos preceptos que por su trascendencia juegan como niveladores del sistema sancionador, de manera que aseguren unos criterios de mínima y básica homogeneidad al conjunto del sistema.
+
+Por su parte el título IV se dedica al Consejo Español de Vitivinicultura, concebido como un órgano colegiado de carácter consultivo de representación de las Administraciones del Estado y de las comunidades autónomas, así como de las organizaciones económicas y sociales que operan en el sector de la vitivinicultura.
+
+Además de para el cumplimiento de las funciones específicas que le marca la ley, el Consejo aspira a ser un foro de encuentro, debate y formulación de iniciativas en orden a la mejora económica, técnica y social del sector vitivinícola español.
+
+Si se compara este contenido con la amplitud del Estatuto del Vino de 1970, pudiera dar la impresión de que estamos ante un texto incompleto. Sin embargo, no es así. Dado que esta materia se halla minuciosamente regulada por el Derecho comunitario, dejando escaso margen de maniobra a los Estados miembros para el ejercicio de su potestad normativa, sería poco prudente incluir en una ley -cuyo principal objetivo es el de proporcionar una seguridad jurídica que ahora no existe- previsiones contingentes.
+
+#### IV
+
+Según estadísticas fiables, España es el tercer productor de vino y posee la mayor extensión de viñedo del mundo, con una superficie cultivada de 1.140.000 hectáreas. Un tercio de esa producción corresponde a vinos de calidad. Se exportan cada año unos diez millones y medio de hectolitros de vinos y mostos, y aun así hay grandes excedentes.
+
+Lo dicho pone de manifiesto la importancia, la necesidad y la oportunidad de una ley, tan esperada, como ésta, en cuyo proceso de elaboración se ha oído a las comunidades autónomas y se ha recabado el dictamen del Consejo de Estado.
+
+#### V
+
+Por último, esta ley tiene la condición de legislación básica dictada al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, en aquellos preceptos o parte de los mismos que se especifican en la disposición final segunda.
+
+## TÍTULO I — Ámbito de aplicación y aspectos generales de la vitivinicultura
+
+##### Artículo 1. Objeto.
+
+1\. El objeto de esta ley es la ordenación básica, en el marco de la normativa de la Unión Europea, de la viña y del vino, así como su designación, presentación, promoción y publicidad.
+
+2\. Asimismo se regulan en esta ley los niveles diferenciados del origen y la calidad de los vinos, así como el sistema de protección, en defensa de productores y consumidores, de las denominaciones y menciones que legalmente les están reservados frente a su uso indebido.
+
+3\. También se incluye en el ámbito de esta ley el régimen sancionador de las infracciones administrativas en las materias a las que se refieren los dos apartados anteriores.
+
+##### Artículo 2. Definiciones.
+
+1\. Las definiciones de los productos a que se refiere esta ley son las establecidas en la normativa de la Unión Europea, así como las que se establezcan reglamentariamente por el Gobierno a propuesta del Ministro de Agricultura, Pesca y Alimentación o, en su caso, por la legislación de las comunidades autónomas.
+
+2\. En particular, a los efectos de esta ley, se establecen las siguientes definiciones:
+
+a) "Nueva plantación": Es aquella plantación efectuada en virtud de una autorización de nueva plantación concedida de conformidad con la normativa de la Unión Europea.
+
+b) "Replantación": Es aquella plantación realizada en virtud de una autorización de replantación o de conversión de derechos de replantación concedida de conformidad con la normativa de la Unión Europea.
+
+c) "Reposición de marras": es la reposición de cepas improductivas a causa de fallos de arraigo, o por accidentes físicos, biológicos o meteorológicos.
+
+d) "Operadores": son las personas físicas o jurídicas, o la agrupación de estas personas, que intervienen profesionalmente en alguna de las siguientes actividades del sector vitivinícola ; la producción de la uva como materia prima, la elaboración del vino, su almacenamiento, su crianza, su embotellado y su comercialización.
+
+e) "Vino": es el alimento natural obtenido exclusivamente por fermentación alcohólica, total o parcial, de uva fresca, estrujada o no, o de mosto de uva.
+
+3\. Las definiciones de los productos son excluyentes, no pudiendo utilizarse las respectivas denominaciones más que en los productos que se ajusten estrictamente a la definición.
+
+> Se modifican las letras a) y b) del apartado 2, por la disposición final 4.1 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+> Se deroga la letra f) del aparado 2 por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 3. Indicaciones relativas a las características de los vinos.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 4. Promoción.
+
+1\. La Administración General del Estado podrá financiar campañas de información, difusión y promoción del viñedo, del vino y de los mostos de uva, en el marco de la normativa de la Unión Europea y de acuerdo con el ordenamiento jurídico nacional vigente y en particular con la normativa que prohíbe a los menores de edad el consumo de bebidas alcohólicas.
+
+2\. Los criterios orientativos, que deberán seguirse en las campañas financiadas con fondos públicos estatales, serán los siguientes:
+
+a) Recomendar el consumo moderado y responsable del vino.
+
+b) Informar y difundir los beneficios del vino como alimento dentro de la dieta mediterránea.
+
+c) Fomentar el desarrollo sostenible del cultivo de la vid, favoreciendo el respeto del medio ambiente, así como la fijación de la población en el medio rural.
+
+d) Destacar los aspectos históricos, tradicionales y culturales de los vinos españoles; en particular, las peculiaridades específicas de suelo y clima que influyen en ellos.
+
+e) Impulsar el conocimiento de los vinos españoles en los demás Estados miembros de la Unión Europea y en terceros países, con el objeto de lograr su mayor presencia en sus respectivos mercados.
+
+f) Informar y difundir la calidad y los beneficios de los mostos y zumos de uva.
+
+3\. La Administración General del Estado promoverá una política de fomento de proyectos y programas de investigación y desarrollo en el sector vitivinícola.
+
+4\. La Administración General del Estado, las comunidades autónomas, las corporaciones locales y los entes dependientes de las mismas, podrán cooperar de común acuerdo en la realización de campañas concertadas de información, difusión y promoción del viñedo, del vino y de los mostos de uva.
+
+##### Artículo 5. Plantaciones y replantaciones de viñedo de uva de vinificación.
+
+1\. El Gobierno establecerá la normativa básica en materia de plantaciones y replantaciones de viñedo de uva de vinificación.
+
+2\. La reposición de marras no tendrá la consideración de replantación, y podrá efectuarse sin límite durante los cinco primeros años de la plantación o replantación según el régimen que reglamentariamente se establezca por el Gobierno, así como por la normativa autonómica, para los siguientes años.
+
+3\. El material vegetal utilizado en las plantaciones de viñedo de uva de vinificación cumplirá los requisitos establecidos reglamentariamente por el Gobierno, así como los previstos en la normativa autonómica. Además, el material vegetal utilizado como portainjerto, a excepción de en el territorio de las Islas Canarias, deberá ser material de vid americana, o de sus cruzamientos, con probada resistencia a la filoxera.
+
+> Se modifica por la disposición final 4.2 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 6. Transferencia de derechos de replantación.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 7. Variedades.
+
+El Gobierno establecerá las modalidades en las que las comunidades autónomas deberán clasificar como variedades de vid en su ámbito territorial las variedades del género Vitis destinadas a la producción de uva de vinificación o de material de multiplicación vegetativa de la vid. Las variedades destinadas a uva de vinificación deberán pertenecer a la especie Vitis vinífera L, o proceder de un cruce entre la especie Vitis vinifera y otras especies del género Vitis.
+
+> Se modifica por la disposición final 4.3 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 8. Arranque de viñedos.
+
+1\. Las plantaciones destinadas a la producción de vino realizadas con variedades de vid no clasificadas de acuerdo con el artículo 7 deberán ser arrancadas. Se exceptúan aquellos casos contemplados en la normativa europea.
+
+2\. La obligación de arrancar el viñedo por aplicación de la normativa estatal o autonómica, en función del ámbito territorial de que se trate, o de la normativa de la Unión Europea, será declarada mediante resolución de la Administración competente en cada caso, y previa la tramitación del correspondiente procedimiento administrativo.
+
+> Se modifica por la disposición final 4.4 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 9. Riego de la vid.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 10. Aumento artificial de la graduación alcohólica natural.
+
+1\. Queda prohibido el aumento artificial de la graduación alcohólica natural de uva, mostos y vinos, con la excepción de los supuestos en que expresamente se permita.
+
+2\. No obstante, las comunidades autónomas cuando concurran condiciones meteorológicas desfavorables podrán autorizar el aumento de la graduación alcohólica de la uva, de los mostos y del vino nuevo aún en proceso de fermentación. A estos efectos el Gobierno, a propuesta del Ministro de Agricultura, Pesca y Alimentación, previa consulta de las comunidades autónomas, regulará las condiciones básicas de autorización del aumento de graduación alcohólica natural de uvas, mostos y vinos.
+
+A tal fin, sin perjuicio de los métodos establecidos en la normativa comunitaria, se utilizará, con carácter preferente, la adición de mosto concentrado, o mosto concentrado rectificado.
+
+3\. En el marco de la normativa comunitaria vigente, queda prohibida la adición de sacarosa y de otros azúcares no procedentes de uva de vinificación para aumentar la graduación alcohólica natural de mostos y vinos.
+
+##### Artículo 11. Mezclas de tipos de vinos.
+
+En el marco de la normativa comunitaria, queda prohibida en España la mezcla de vinos tintos con vinos blancos.
+
+## TÍTULO II — Sistema de protección del origen y la calidad de los vinos
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículos 12 a 32.
+
+**(Derogados)**
+
+> Se derogan por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+## TÍTULO III — Régimen sancionador
+
+### CAPÍTULO I — Obligaciones de los interesados y facultades de los inspectores
+
+##### Artículo 33. Obligaciones de los interesados.
+
+1\. Las personas físicas o jurídicas, asociaciones o entidades estarán obligadas a cumplir lo establecido en esta ley y en la normativa concordante en materia de vitivinicultura. Estarán obligadas, igualmente, a conservar, en condiciones que permita su comprobación, por un tiempo mínimo de cuatro años, la documentación relativa a las obligaciones que se establecen en el apartado 2 de este artículo.
+
+2\. Asimismo estarán obligadas, a requerimiento de los órganos competentes o de los inspectores:
+
+a) A suministrar toda clase de información sobre instalaciones, productos, servicios o sistemas de producción o elaboración, permitiendo la directa comprobación de los inspectores.
+
+b) A exhibir la documentación que sirva de justificación de las transacciones efectuadas.
+
+c) A facilitar que se obtenga copia o reproducción de la referida documentación.
+
+d) A permitir que se practique la oportuna toma de muestras o cualquier otro tipo de control o ensayo sobre sus viñedos o sobre los productos o mercancías que elaboren, distribuyan o comercialicen, y sobre las materias primas, aditivos o materiales que utilicen.
+
+e) Y, en general, a consentir la realización de las visitas de inspección y a dar toda clase de facilidades para ello.
+
+3\. Los operadores estarán obligados a cumplir con las obligaciones que se deriven de la legislación nacional y de la Unión Europea en materia de comercialización de los vinos y de límites de producción y de transformación de los vinos, incluidos los límites que se acuerden en cuanto a rendimientos por hectárea de las parcelas de uva de vinificación que se destinen a bodegas para su transformación en el sector de los vinos, en aplicación de la normativa de la Unión Europea.
+
+> Se añade el apartado 3 por la disposición final 4.5 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 34. Inspección.
+
+1\. En el ejercicio de sus funciones de control en materia de vitivinicultura, los inspectores de las Administraciones públicas tendrán el carácter de agente de la autoridad, con los efectos del artículo 137.3 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Podrán solicitar el apoyo necesario de cualquier otra autoridad, así como de las Fuerzas y Cuerpos de seguridad estatales, autonómicas o locales.
+
+2\. Podrán acceder directamente a los viñedos, explotaciones, locales e instalaciones y a la documentación industrial, mercantil y contable de las empresas que inspeccionen cuando lo consideren necesario en el curso de sus actuaciones que, en todo caso, tendrán carácter confidencial. Tanto los órganos de las Administraciones públicas como las empresas con participación pública, organismos oficiales, organizaciones profesionales y organizaciones de consumidores prestarán, cuando sean requeridos para ello, la información que se les solicite por los correspondientes servicios de inspección.
+
+3\. Los inspectores están obligados de modo estricto a cumplir el deber de secreto profesional. El incumplimiento de este deber será sancionado conforme a los preceptos del reglamento de régimen disciplinario correspondiente.
+
+##### Artículo 35. Medidas cautelares.
+
+1\. Los inspectores podrán inmovilizar cautelarmente las mercancías, productos, envases, etiquetas, y demás objetos relacionados presuntamente con alguna de las infracciones previstas en esta ley, haciendo constar en acta tanto el objeto como los motivos de la intervención cautelar.
+
+2\. Las medidas cautelares adoptadas por los inspectores deberán ser confirmadas, modificadas o levantadas en un plazo no superior a 15 días por el mismo órgano que sea competente para incoar el correspondiente procedimiento sancionador. Las medidas quedarán sin efecto cuando el acuerdo de iniciación no contenga un pronunciamiento expreso acerca de éstas.
+
+3\. Cuando la presunta infracción detectada fuera imputable a un organismo público o a un órgano de control de los previstos en los párrafos c) y d) del apartado 1 del artículo 27 de esta ley, el órgano competente para incoar el procedimiento sancionador podrá acordar, a propuesta del instructor, la suspensión cautelar del indicado organismo u órgano de control. En tal caso, la resolución que se dicte establecerá el sistema de control aplicable en tanto se sustancia el procedimiento sancionador.
+
+4\. No se podrán adoptar las medidas cautelares referidas en los apartados 1 y 3 anteriores cuando puedan causar perjuicios de difícil o imposible reparación a los interesados o que impliquen violación de derechos amparados por las leyes.
+
+5\. En todo caso, las medidas previstas en este artículo podrán ser alzadas o modificadas, de oficio o a instancia de parte, durante la tramitación del procedimiento por providencia de su Instructor, extinguiéndose con la eficacia de la resolución administrativa que ponga fin al procedimiento correspondiente.
+
+6\. Cuando no pueda iniciarse un procedimiento sancionador por falta de competencia sobre el presunto responsable, y el órgano competente no haya levantado la inmovilización de las mercancías intervenidas cautelarmente, éstas no podrán ser comercializadas en ningún caso. El presunto responsable, o cualquier titular de derechos sobre tales mercancías, optará entre la reexpedición al lugar de origen y la subsanación de los defectos cuando sea posible, o solicitará su decomiso; los gastos de tales operaciones correrán a cargo de quien haya optado por ellas.
+
+##### Artículo 36. Competencia.
+
+Corresponde la titularidad de la potestad sancionadora por las infracciones tipificadas en esta ley:
+
+a) A la Administración General del Estado, en el caso de infracciones relativas a los niveles de protección cuyo ámbito territorial se extienda a más de una comunidad autónoma.
+
+b) Al órgano competente de la Administración de la comunidad autónoma correspondiente, en los demás casos.
+
+### CAPÍTULO II — Infracciones y sanciones
+
+##### Artículo 37. Infracciones.
+
+Los incumplimientos de lo dispuesto en esta ley, en la normativa comunitaria, en las disposiciones de las comunidades autónomas o en las disposiciones de desarrollo serán considerados como infracciones administrativas, que podrán ser leves, graves o muy graves.
+
+##### Artículo 38. Infracciones leves.
+
+1\. Se considerarán infracciones leves:
+
+a) La ausencia de los libros-registro, sin causa justificada, cuando fueren requeridos para su control en actos de inspección.
+
+b) Las inexactitudes o errores en libros-registro, en declaraciones relativas a uvas, vinos y mostos, o en documentos de acompañamiento, cuando la diferencia entre la cantidad consignada y la real no supere un 15 por ciento de esta última.
+
+c) La falta de actualización de los libros-registro cuando no haya transcurrido más de un mes desde la fecha en que debió practicarse el primer asiento no reflejado.
+
+d) La presentación de declaraciones relativas a uvas, vinos y mostos fuera del plazo reglamentario.
+
+e) El suministro de información incorrecta en las solicitudes relativas a viticultura.
+
+f) **(Derogada).**
+
+g) **(Derogada).**
+
+h) La falta de alguna de las indicaciones obligatorias en el etiquetado o presentación de los productos, salvo lo previsto en el párrafo e) del artículo siguiente, o su expresión en forma distinta a la reglamentaria.
+
+i) La falta de identificación de los recipientes destinados al almacenamiento de productos a granel y de la indicación de su volumen nominal, así como de las indicaciones previstas para la identificación de su contenido, a excepción de los recipientes de menos de 600 litros, que se realizará de acuerdo con lo previsto en el artículo 10.5 del Reglamento CE 753/2002.
+
+j) El incumplimiento de la entrega de productos para las destilaciones obligatorias.
+
+k) La aplicación, en forma distinta a la legalmente establecida, de tratamientos, prácticas o procesos autorizados en la elaboración o transformación de los productos regulados en esta ley, siempre que no exista un riesgo para la salud.
+
+l) La regularización de las plantaciones realizadas antes del 1 de septiembre de 1998 de acuerdo con lo dispuesto en el artículo 2.3, párrafos a) y c) del Reglamento (CE) 1493/1999.
+
+m) La no utilización de una autorización de nueva plantación, de replantación o de conversión concedida, salvo en los casos fijados en la normativa nacional o de la Unión Europea.
+
+n) Para las plantaciones realizadas con anterioridad al 1 de enero de 2016, las plantaciones realizadas con variedades de vid o portainjertos no clasificados por la comunidad autónoma correspondiente, el incumplimiento de la obligación del arranque de la parcela que ha sido objeto de la concesión de un derecho de plantación anticipado, o las plantaciones de nuevas vides o de portainjertos sin autorización, cuando el infractor procediere, en un plazo inferior a dos meses desde que la comunidad autónoma lo requiera para el arranque, de la superficie afectada por la infracción.
+
+ñ) La reposición de marras que incumpla las condiciones establecidas en esta Ley.
+
+o) El riego de la vid cuando esté prohibida dicha práctica.
+
+p) El suministro incompleto de la información o documentación necesaria para las funciones de inspección y control administrativo.
+
+q) El incumplimiento de obligaciones meramente formales que impongan las disposiciones generales vigentes en la materia regulada por esta ley ; en particular, la falta de inscripción de explotaciones, empresas, mercancías o productos, en los registros de las Administraciones públicas regulados en dichas disposiciones generales, o la no comunicación de los cambios de titularidad.
+
+2\. Además, para los operadores voluntariamente acogidos a un nivel de protección, constituirán infracciones leves:
+
+a) Las inexactitudes u omisiones en los datos y comprobantes que en cada caso sean precisos en los registros del nivel de protección, cuando la diferencia entre la cantidad consignada y la real no supere un cinco por ciento de esta última.
+
+b) No comunicar cualquier variación que afecte a los datos suministrados en el momento de la inscripción en los registros, cuando no haya transcurrido más de un mes desde que haya acabado el plazo fijado en la norma que regule el nivel de protección.
+
+c) Cualquier otra infracción de la norma reguladora del nivel de protección o de los acuerdos de su órgano de gestión que establezcan obligaciones adicionales a las generales de cualquier vitivinicultor en materia de declaraciones, libros-registro, documentos de acompañamiento y otros documentos de control.
+
+> Téngase en cuenta que el apartado 2 queda derogado, aunque podrá seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en el mismo, según establece la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+> Se añade la letra m) del apartado 1 por la disposición final 6.1 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se degoran las letras f), g) y m) y se modifica la n) del apartado 1 por las disposiciones derogatoria única.a) y final 4.6 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+> Se deroga el apartado 2, aunque podrá seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en el mismo, por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 39. Infracciones graves.
+
+1\. Se considerarán infracciones graves:
+
+a) La falta de libros-registro, documentos de acompañamiento o declaraciones relativas a uvas, vinos y mostos, así como los errores, inexactitudes u omisiones en ellos que afecten a las características de los productos o mercancías consignados.
+
+b) Las inexactitudes o errores en libros-registro, documentos de acompañamiento o declaraciones relativas a uvas, vinos y mostos cuando la diferencia entre la cantidad consignada y la real supere un 15 por ciento de esta última.
+
+c) La falta de actualización de los libros-registro cuando haya transcurrido más de un mes desde la fecha en que debió practicarse el primer asiento no reflejado.
+
+d) La aportación de datos falsos en las solicitudes de ayudas y subvenciones públicas y el suministro de información falsa en las solicitudes relativas a viticultura.
+
+e) La omisión en la etiqueta de la razón social responsable, o la falta de etiquetas o rotulación indeleble que fueran preceptivas, o la utilización de envases o embalajes que no reúnan los requisitos exigidos por las disposiciones vigentes.
+
+f) La utilización en el etiquetado, presentación o publicidad de los productos, de denominaciones, indicaciones, calificaciones, expresiones o signos que no correspondan al producto o induzcan a confusión, salvo lo previsto en los párrafos a) y c) del apartado 2 del artículo siguiente. En particular, la utilización, cuando no se tenga derecho a ello, de las menciones sobre envejecimiento reguladas en el párrafo a) del artículo 3, o de las menciones reservadas a v.c.p.r.d. distintas a las reguladas en el párrafo b) del mismo artículo.
+
+g) El incumplimiento de la entrega de productos para las destilaciones obligatorias de dos o más campañas en el período de cinco años anteriores a la inspección.
+
+h) La tenencia o venta de productos enológicos sin autorización.
+
+i) La elaboración o transformación de los productos regulados en esta ley mediante tratamientos, prácticas o procesos no autorizados, siempre que no existan riesgos para la salud, así como la adición o sustracción de sustancias que modifiquen la composición de los productos regulados con resultados fraudulentos.
+
+j) Las defraudaciones en la naturaleza, composición, calidad, peso o volumen o cualquier discrepancia entre las características reales de los productos de que se trate y las ofrecidas por el productor, elaborador o envasador, así como cualquier acto de naturaleza similar cuyo resultado sea el incumplimiento de las características de los productos establecidas en la legislación vigente.
+
+k) La tenencia de maquinaria, instalaciones o productos no autorizados para la elaboración o almacenamiento de los vinos o mostos en locales de las industrias elaboradoras o envasadoras, siempre que no entrañen riesgos para la salud.
+
+l) Destino de productos a usos no conformes con la normativa relativa al potencial vitícola.
+
+m) Para las plantaciones realizadas con anterioridad al 1 de enero de 2016, las plantaciones realizadas con variedades de vid o portainjertos no clasificados por la comunidad autónoma correspondiente, el incumplimiento de la obligación del arranque de la parcela que ha sido objeto de la concesión de un derecho de plantación anticipado, o las plantaciones de vid o de portainjertos sin autorización, cuando el infractor no procediera, en un plazo inferior a dos meses desde que la comunidad autónoma lo requiera para el arranque, de la superficie afectada por la infracción.
+
+n) La oposición a la toma de muestras, la dilación injustificada o la negativa a suministrar información o documentación necesaria para las funciones de inspección y control administrativo, así como la aportación de documentación o información falsa.
+
+ñ) La manipulación o disposición en cualquier forma, sin contar con la autorización del órgano competente, de mercancías intervenidas cautelarmente, cuando no resulte acreditado que entrañasen un riesgo para la salud.
+
+o) El traslado físico, sin autorización del órgano competente, de las mercancías intervenidas cautelarmente, siempre que no se violen los precintos ni las mercancías salgan de las instalaciones en las que fueron intervenidas.
+
+p) El incumplimiento de las condiciones esenciales de la autorización de plantación o replantación concedida, siempre que la comunidad autónoma que concedió la misma no considere la plantación realizada con el incumplimiento de estas condiciones como una plantación no autorizada.
+
+q) **(Suprimida)**
+
+r) El incumplimiento por los operadores de las obligaciones que resulten de la aplicación del artículo 33.3.
+
+s) La falta de supervisión por parte de los organismos de control de que los operadores cumplen con las obligaciones que resulten de la aplicación del artículo 33.3.
+
+2\. Además, para los operadores voluntariamente acogidos a un nivel de protección, constituirán infracciones graves:
+
+a) Las inexactitudes u omisiones en los datos y comprobantes que en cada caso sean precisos en los registros del nivel de protección correspondiente, cuando la diferencia entre la cantidad consignada y la correcta supere el porcentaje que se establezca en la normativa estatal o autonómica, según corresponda, que en ningún caso podrá ser superior al cinco por ciento de dicha diferencia.
+
+b) El incumplimiento de las normas específicas del nivel de protección, sobre prácticas de producción, elaboración, transformación, conservación, transporte, acondicionamiento, etiquetado, envasado y presentación.
+
+c) La expedición, comercialización o circulación de vinos amparados sin estar provistos de las contraetiquetas, precintas numeradas o cualquier otro medio de control establecido por la norma reguladora del nivel de protección.
+
+d) Efectuar operaciones de elaboración, envasado o etiquetado de vinos amparados en instalaciones no inscritas en el nivel de protección correspondiente ni autorizadas.
+
+e) El impago de las cuotas obligatorias establecidas, en su caso, para la financiación del órgano de gestión.
+
+f) Cualquier otra infracción de la norma específica del nivel de protección, o de los acuerdos de su órgano de gestión en materia de producción, elaboración o características de los vinos amparados.
+
+g) La elaboración y comercialización de un v.e.c.p.r.d. mediante la utilización de vino base procedente de instalaciones no inscritas en el nivel de protección correspondiente, así como la de un v.c.p.r.d. a partir de uvas, mostos o vino procedente de viñas no inscritas en el nivel de protección correspondiente.
+
+h) Para las Denominaciones de Origen Calificadas, la introducción en viñas o bodegas inscritas de uva, mostos, o vinos procedentes de viñas o bodegas no inscritas.
+
+i) Utilizar en la elaboración de productos de un determinado nivel de protección, uva procedente de parcelas en las que los rendimientos hayan sido superiores a los autorizados a los que se refiere el artículo 16.
+
+j) La existencia de uva, mostos o vinos en bodega inscrita sin la preceptiva documentación que ampare su origen como producto por la denominación, o la existencia en bodega de documentación que acredite unas existencias de uva, mostos o vinos protegidos sin la contrapartida de estos productos. Las existencias de vino en bodega deben coincidir con las existencias declaradas documentalmente, admitiéndose una tolerancia del dos por ciento en más o en menos, con carácter general, y del uno por ciento para las Denominaciones de Origen Calificadas.
+
+3\. Para los organismos u órganos de inspección o de control constituirán infracciones graves las siguientes:
+
+a) La expedición de certificados o informes cuyo contenido no se ajuste a la realidad de los hechos.
+
+b) La realización de inspecciones, ensayos o pruebas por los citados organismos u órganos de forma incompleta o con resultados inexactos por una insuficiente constatación de los hechos o por la deficiente aplicación de normas técnicas.
+
+> Téngase en cuenta que los apartados 2 y 3 quedan derogados, aunque podrán seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en los mismos, según establece la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+> Se suprime la letra q) del apartado 1 por la disposición final 6.2 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se modifica el apartado 1 por la disposición final 4.7 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+> Se derogan los apartados 2 y 3, aunque podrán seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en los mismos, por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 40. Infracciones muy graves.
+
+1\. Se considerarán infracciones muy graves:
+
+a) La elaboración, transformación o comercialización de los productos regulados en esta ley mediante tratamientos, prácticas o procesos no autorizados, siempre que existan riesgos para la salud.
+
+b) La no introducción en las etiquetas y presentación de los vinos de los elementos suficientes para diferenciar claramente su calificación y procedencia, a fin de evitar confusión en los consumidores, derivada de la utilización de una misma marca, nombre comercial o razón social en la comercialización de vinos correspondientes a distintos niveles de protección o procedentes de diferentes ámbitos geográficos.
+
+c) La tenencia de maquinaria, instalaciones o productos no autorizados para la elaboración o almacenamiento de los vinos o mostos en locales de las industrias elaboradoras o envasadoras, cuando entrañen riesgos para la salud.
+
+d) La falsificación de productos o la venta de productos falsificados, siempre que no sean constitutivas de delito o falta.
+
+e) La negativa absoluta a la actuación de los servicios públicos de inspección.
+
+f) La manipulación, traslado o disposición, sin autorización, de mercancías intervenidas cautelarmente, si se violan los precintos o si las mercancías salen de las instalaciones donde fueron intervenidas.
+
+g) Las coacciones, amenazas, injurias, represalias, agresiones o cualquier otra forma de presión a los empleados públicos encargados de las funciones de inspección o vigilancia administrativa, siempre que no sean constitutivas de delito o falta.
+
+2\. En relación con los v.c.p.r.d. constituirán, asimismo, infracciones muy graves:
+
+a) La utilización, cuando no se tenga derecho a ello, de indicaciones, nombres comerciales, marcas, símbolos o emblemas que hagan referencia a los nombres amparados por un nivel de protección, o que, por su similitud fonética o gráfica con los nombres protegidos o con los signos o emblemas que le sean característicos, puedan inducir a confusión sobre la naturaleza, calidad u origen de los productos, aunque vayan precedidos por los términos "tipo", "estilo", "género", "imitación", "sucedáneo" u otros análogos.
+
+b) La utilización, cuando no se tenga derecho a ello, de las menciones reservadas a v.c.p.r.d. reguladas en el párrafo b) del artículo 3.
+
+c) El uso de los nombres protegidos en productos a los que expresamente se les haya negado, así como las infracciones de los artículos 18.2 y 18.3.
+
+d) La indebida tenencia, negociación o utilización de los documentos, etiquetas, contraetiquetas, precintas y otros elementos de identificación propios del v.c.p.r.d., así como la falsificación de los mismos, siempre que esto no sea constitutivo de delito o falta.
+
+3\. Para los organismos u órganos de inspección o de control constituirán infracciones muy graves las tipificadas en el apartado 3 del artículo anterior, cuando de las mismas resulte un daño muy grave o se derive un peligro muy grave e inminente para las personas, la flora, la fauna o el medio ambiente.
+
+4\. Para los Consejos Reguladores de los vinos con denominación de origen o con denominación de origen calificada constituirá infracción muy grave la intromisión en la actividad de estos últimos o la perturbación de la independencia o inamovilidad de los controladores.
+
+> Téngase en cuenta que los apartados 2, 3 y 4 quedan derogados, aunque podrán seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en los mismos, según establece la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+> Se derogan los apartados 2, 3 y 4, aunque podrán seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en los mismos, por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 41. Responsabilidad por las infracciones.
+
+1\. De las infracciones en productos envasados serán responsables las firmas o razones sociales que figuren en la etiqueta, bien nominalmente o bien mediante cualquier indicación que permita su identificación cierta.
+
+Asimismo será responsable solidario el elaborador, fabricante o envasador que no figure en la etiqueta si se prueba que conocía la infracción cometida y que prestó su consentimiento. En caso de que se hayan falsificado las etiquetas, la responsabilidad corresponderá a las personas que comercialicen los productos a sabiendas de la falsificación.
+
+2\. De las infracciones en productos a granel, o envasados sin etiqueta, o cuando en la etiqueta no figure ninguna firma o razón social, será responsable su tenedor, excepto cuando se pueda identificar de manera cierta la responsabilidad de un tenedor anterior, sin perjuicio de la responsabilidad que corresponda al actual.
+
+3\. De las infracciones relativas a plantaciones, replantaciones, reposiciones de marras o riego será responsable el titular de la explotación y, subsidiariamente, el propietario de la misma.
+
+4\. De las infracciones cometidas por las personas jurídicas, incluidos los órganos de gestión de los v.c.p.r.d. y los organismos u órganos de inspección o control, serán responsables subsidiariamente los administradores o titulares de los mismos que no realizaren los actos necesarios que fuesen de su incumbencia para el cumplimiento de las obligaciones infringidas, consintieren el incumplimiento por quienes de ellos dependan o adoptaren acuerdos que hicieran posibles tales infracciones.
+
+5\. Asimismo serán responsables subsidiariamente los técnicos responsables de la elaboración y control respecto de las infracciones directamente relacionadas con su actividad profesional.
+
+6\. La responsabilidad administrativa por las infracciones reguladas en esta ley será independiente de la responsabilidad civil o penal que, en su caso, pueda exigirse a sus responsables, sin perjuicio de que no puedan concurrir dos sanciones cuando se aprecie identidad del sujeto, hecho y fundamento.
+
+##### Artículo 42. Sanciones.
+
+1\. Las infracciones leves serán sancionadas con apercibimiento o multa de hasta 2.000 euros, pudiendo rebasarse este importe hasta alcanzar el valor de las mercancías, productos o superficies objeto de la infracción. En materia de viticultura el cálculo del valor de los productos se realizará en la forma que se recoge en el apartado 2.
+
+En el caso de la infracción recogida en el artículo 38.1.m), cuando se trate de una falta de utilización de una autorización de replantación o de conversión concedida, se aplicará siempre un apercibimiento, y, en caso de que se trate de una falta de una utilización de una autorización de nueva plantación concedida, el importe de la sanción será proporcional a la superficie no ejecutada de la autorización, como criterio determinante de la naturaleza de los perjuicios causados.
+
+2\. Las infracciones graves serán sancionadas con multa comprendida entre 2.001 y 30.000 euros, pudiendo rebasarse esta cantidad hasta alcanzar el cinco por ciento del volumen de ventas del producto objeto de infracción, correspondiente al ejercicio económico inmediatamente anterior al de la iniciación del procedimiento sancionador.
+
+En el caso de infracciones graves en materia específica de viticultura, el importe de la sanción será del tanto al quíntuplo del valor de la producción afectada.
+
+Ésta se calculará multiplicando la producción anual media por hectárea en el quinquenio precedente en la zona o provincia donde esté enclavada la superficie afectada por el precio medio ponderado en el mismo período y en la misma zona y provincia.
+
+3\. Las infracciones muy graves serán sancionadas con multa comprendida entre 30.001 y 300.000 euros, pudiendo rebasarse esta cantidad hasta alcanzar el 10 por ciento del volumen de ventas del producto objeto de infracción correspondiente al ejercicio económico, inmediatamente anterior al de la iniciación del procedimiento sancionador.
+
+4\. Cuando las infracciones graves sean cometidas por operadores acogidos a un nivel de protección y afecten a éste, podrá imponerse como sanción accesoria la pérdida temporal del uso del nombre protegido por un plazo máximo de tres años. Si se tratase de infracciones muy graves, podrá imponerse como sanción accesoria la pérdida temporal por un plazo máximo de cinco años o la pérdida definitiva de tal uso.
+
+> Téngase en cuenta que el apartado 4 queda derogado, aunque podrá seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en el mismo, según establece la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+5\. En el supuesto de la comisión de infracción grave o muy grave, el órgano competente para resolver podrá imponer como sanción accesoria alguna de las siguientes:
+
+a) Medidas de corrección, seguridad o control que impidan la continuidad en la producción del daño.
+
+b) Decomiso de mercancías, productos, envases, etiquetas y demás objetos relacionados con la infracción, o cuando se trate de productos no identificados.
+
+c) Clausura temporal, parcial o total, de la empresa sancionada, por un período máximo de cinco años.
+
+d) Suspensión de los organismos públicos u órganos de control, de forma definitiva o por un período máximo de 10 años.
+
+6\. Las sanciones previstas en esta ley serán compatibles con la pérdida o retirada de derechos económicos previstos en la normativa comunitaria.
+
+> Se añade un párrafo al apartado 1 por la disposición final 6.3 de la Ley 1/2025, de 1 de abril. [Ref. BOE-A-2025-6597](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-6597)
+
+> Se deroga el apartado 4, aunque podrá seguir siendo de aplicación para las comunidades autónomas que no hayan desarrollado la materia regulada en el mismo, por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Artículo 43. Medidas complementarias.
+
+1\. Cuando se hayan intervenido cautelarmente mercancías, productos, envases, etiquetas, y demás objetos relacionados con la infracción sancionada, la autoridad a la que corresponda resolver el procedimiento sancionador acordará su destino. Las mercancías o productos deberán ser destruidos si su utilización o consumo constituyera peligro para la salud pública. En todo caso, los gastos originados por el destino alternativo, la destrucción o el decomiso correrán por cuenta del infractor, incluida la indemnización que deba abonarse al propietario de la mercancía decomisada cuando éste no sea el infractor.
+
+2\. Para las plantaciones realizadas con anterioridad al 1 de enero de 2016, cuando el obligado no cumpla la obligación impuesta en el artículo 8, relativa al arranque de viñedos, o lo haga de forma incompleta, así como cuando el infractor no cumpla una obligación impuesta como sanción accesoria, o lo haga de forma incompleta, podrán imponerse multas coercitivas a fin de que se cumpla íntegramente la obligación o la sanción establecida.
+
+3\. Para las plantaciones realizadas con anterioridad al 1 de enero de 2016, en el caso de incumplimiento de la obligación de arranque de viñedos, las multas coercitivas se impondrán con una periodicidad de doce meses hasta el cumplimiento total del arranque y su importe será de hasta 12.000 euros por hectárea. Además, en caso de incumplimiento de la obligación de arranque, el órgano administrativo competente para requerir el arranque del viñedo podrá optar por ejecutar subsidiariamente dicha operación. Los gastos de arranque siempre correrán por cuenta del interesado.
+
+4\. En el caso de incumplimiento de la obligación impuesta como sanción accesoria, las multas coercitivas se impondrán con una periodicidad de tres meses hasta el cumplimiento total de la sanción a que se refieran y su importe no podrá ser superior a 3.000 euros.
+
+Las multas coercitivas serán independientes y compatibles con las multas que procedan como sanción por la infracción cometida.
+
+> Se modifican los apartados 2 y 3 por la disposición final 4.8 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 44. Graduación de las sanciones.
+
+1\. Para la determinación concreta de la sanción que se imponga, entre las asignadas a cada tipo de infracción, se tomarán en consideración los siguientes criterios:
+
+a) La existencia de intencionalidad o de simple negligencia.
+
+b) La reiteración, entendida como la concurrencia de varias irregularidades o infracciones que se sancionen en el mismo procedimiento.
+
+c) La naturaleza de los perjuicios causados ; en particular, el efecto perjudicial que la infracción haya podido producir sobre la salud o intereses económicos de los consumidores, los precios, el consumo o, en su caso, el prestigio del v.c.p.r.d.
+
+d) La reincidencia, por comisión en el término de tres años de más de una infracción de la misma naturaleza, cuando así se haya declarado por resolución firme.
+
+e) El volumen de ventas o producción y la posición de la empresa infractora en el sector vitivinícola.
+
+f) El reconocimiento y la subsanación de las infracciones antes de que se resuelva el correspondiente procedimiento sancionador.
+
+g) La extensión de la superficie de cultivo o el volumen y valor de las mercancías o productos afectados por la infracción.
+
+2\. La cuantía de la sanción podrá minorarse motivadamente cuando los hechos constitutivos de la infracción sancionada ocasionen, al mismo tiempo, la pérdida o retirada de beneficios comunitarios en proporción a la efectiva pérdida o retirada de dichos beneficios.
+
+Asimismo, podrá minorarse motivadamente la sanción, en atención a las circunstancias específicas del caso, cuando la sanción resulte excesivamente onerosa.
+
+3\. Cuando en la instrucción del correspondiente procedimiento sancionador se determine la cuantía del beneficio ilícito obtenido por la comisión de las infracciones sancionadas, la sanción impuesta en ningún caso podrá ser inferior en su cuantía al mismo.
+
+##### Artículo 45. Prescripción de las infracciones y sanciones.
+
+1\. Las infracciones muy graves prescribirán a los tres años, las graves a los dos años, y las leves al año.
+
+2\. Las sanciones impuestas por infracciones muy graves prescribirán a los tres años; las impuestas por infracciones graves a los dos años ; y las impuestas por infracciones leves al año.
+
+## TÍTULO IV — El Consejo Español de Vitivinicultura
+
+##### Artículo 46. Consejo Español de Vitivinicultura.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Artículo 47. Funciones del Consejo Español de Vitivinicultura.
+
+**(Derogado).**
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Disposición adicional primera. Productos derivados de la uva y del vino.
+
+Esta ley será también de aplicación a los productos derivados de la uva o del vino y, en particular, al vinagre de vino, a los vinos aromatizados, al brandy, al aguardiente de orujo y al mosto. Reglamentariamente se regularán, para el brandy, las menciones "Solera", "Solera Reserva" y "Solera Gran Reserva", así como el empleo de indicaciones de edad en las etiquetas.
+
+##### Disposición adicional segunda. Estadística vitícola.
+
+Las comunidades autónomas mantendrán y actualizarán el Registro vitícola comprensivo de los datos relativos al viñedo en su ámbito territorial, dando traslado al Ministerio de Agricultura, Pesca y Alimentación de la información recogida en los mismos para la planificación de las políticas en el sector vitivinícola y para el cumplimiento de las obligaciones impuestas por la normativa comunitaria así como de las variaciones que se produzcan para la conservación y actualización de los datos estadísticos nacionales.
+
+> Se modifica por la disposición final 4.9 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Disposición adicional tercera. Certificaciones del origen y procedencia.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Disposición adicional cuarta. Registros de envasadores de vino.
+
+1\. Cada comunidad autónoma deberá llevar un Registro de envasadores de vinos. Se facilitará el acceso a los datos contenidos en estos Registros, que serán comunicados al Ministerio de Agricultura, Pesca y Alimentación.
+
+En el etiquetado de los productos afectados por el Registro de envasadores de vinos deberá figurar como mención obligatoria el número de registro atribuido por las comunidades autónomas competentes.
+
+2\. Se mantiene vigente el registro de embotelladoras de otras bebidas alcohólicas distintas del vino y su normativa de aplicación en los términos actuales, en tanto no se apruebe la normativa específica de dicho registro para estas bebidas.
+
+##### Disposición adicional quinta. Denominación Cava.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Disposición adicional sexta. Sistemas de control de los niveles de protección de ámbito supraautonómico.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Disposición adicional séptima. Aplicación de la legislación de defensa de los consumidores y usuarios.
+
+Las normas contenidas en esta ley se aplicarán sin perjuicio de lo dispuesto en la legislación sobre protección y defensa de los consumidores y usuarios.
+
+##### Disposición adicional octava. Organizaciones interprofesionales agroalimentarias.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Disposición adicional novena. Denominación de origen.
+
+**(Derogada)**
+
+> Se deroga por la disposición derogatoria única.1 de la Ley 6/2015, de 12 de mayo. [Ref. BOE-A-2015-5288](https://www.boe.es/buscar/doc.php?id=BOE-A-2015-5288).
+
+##### Disposición transitoria primera. Actuaciones previas.
+
+En tanto no se promulguen las normas reglamentarias sobre toma y análisis de muestras y sobre actuaciones previas a la iniciación de procedimientos sancionadores, en dicha materia, será de aplicación, a estos exclusivos efectos, el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la protección agroalimentaria, así como, en su caso, la normativa autonómica sobre defensa de los consumidores y usuarios.
+
+##### Disposición transitoria segunda. Adaptación de los actuales reglamentos de v.c.p.r.d. y órganos de gestión a la nueva regulación.
+
+En el plazo de un año desde la entrada en vigor de esta ley, deberán adaptarse a sus previsiones los actuales reglamentos de v.c.p.r.d., así como sus órganos de gestión.
+
+##### Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en esta ley, y, en particular, la Ley 25/1970, de 2 de diciembre, del Estatuto de la Viña, del Vino y de los Alcoholes, con la excepción de las normas contenidas en dicha ley relativas a los Consejos Reguladores de los productos agroalimentarios, con denominación de origen, distintos del vino, del vinagre de vino, de los vinos aromatizados, del brandy, del mosto y demás productos derivados de la uva.
+
+##### Disposición final primera. Facultad de desarrollo.
+
+Se faculta al Gobierno para que en el ámbito de sus competencias, pueda dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de esta ley, así como para actualizar la cuantía de las sanciones pecuniarias previstas en ella, teniendo en cuenta las variaciones del índice de precios de consumo.
+
+##### Disposición final segunda. Título competencial.
+
+1\. Esta ley es de aplicación directa a la Administración General del Estado y a las entidades de derecho público vinculadas o dependientes de ésta.
+
+2\. Constituyen legislación básica, dictada al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, las partes siguientes:
+
+a) Título I, completo, excepto el artículo 4.
+
+b) Del título II, los preceptos siguientes:
+
+1.º El capítulo I completo, excepto el artículo 16, los apartados 4 y 8 del artículo 25 y los párrafos b), e) y g) del apartado 2 del artículo 26.
+
+2.º El apartado 1 del artículo 31.
+
+3.º El artículo 32.
+
+c) Del título III, los preceptos siguientes:
+
+1.º El artículo 33
+
+2.º El artículo 37.
+
+3.º El apartado 1 del artículo 38.
+
+4.º Los apartados 1 y 3 del artículo 39.
+
+5.º Del artículo 40, los apartados 1, 3 y 4 íntegros; y del apartado 2, los párrafos a) y b).
+
+6.º Los artículos 41, 42, 44 y 45.
+
+> Se modifica la letra c) por la disposición final 4.10 de la Ley 30/2022, de 23 de diciembre. [Ref. BOE-A-2022-22127](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22127)
+
+##### Disposición final tercera. Entrada en vigor.
+
+La presente ley entrará en vigor el día siguiente al de su publicación en el "Boletín Oficial del Estado", a excepción de lo previsto en el artículo 11, que entrará en vigor el día 1 de agosto de 2003.
+
+Por tanto, Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+
+Madrid, 10 de julio de 2003.
+
+JUAN CARLOS R.
+
+El Presidente del Gobierno en funciones,
+
+MARIANO RAJOY BREY
+
+> Información relacionada
+
+> Véase la Sentencia del TC 34/2013, de 14 de febrero. [Ref. BOE-A-2013-2717](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-2717), que declara la vulneración de competencias de la Comunidad Autónoma de Cataluña.
+
+> Véase la Sentencia del TC 82/2013, de 11 de abril. [Ref. BOE-A-2013-4902](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-4902), sobre vulneración del orden de competencias establecido en determinados preceptos en relación con la Comunidad Autónoma de Castilla-La Mancha.

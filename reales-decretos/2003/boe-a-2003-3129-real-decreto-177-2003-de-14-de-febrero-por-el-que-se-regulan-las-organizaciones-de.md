@@ -1,0 +1,219 @@
+---
+title: "Real Decreto 177/2003, de 14 de febrero, por el que se regulan las organizaciones de operadores del sector oleícola"
+identifier: "BOE-A-2003-3129"
+eli: "https://www.boe.es/eli/es/rd/2003/02/14/177"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Agricultura, Pesca y Alimentación"
+date: 2003-02-14
+published: 2003-02-15
+in_force_from: 2003-02-16
+last_amended: 2011-06-04
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 40"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2003-3129"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 177/2003, de 14 de febrero, por el que se regulan las organizaciones de operadores del sector oleícola
+
+Incluye la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 2003. [Ref. BOE-A-2003-10831](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10831)
+
+El Reglamento (CE) número 1334/2002 de la Comisión, de 23 de julio de 2002, por el que se establecen disposiciones de aplicación del Reglamento (CE) número 1638/98 del Consejo, de 20 de julio de 1998, que modifica el Reglamento número 136/66/CEE por el que se establece la organización común de mercados en el sector de las materias grasas, en lo que respecta a los programas de actividades de las organizaciones de operadores del sector oleícola en las campañas de comercialización 2002/2003 y 2003/2004, concreta determinados aspectos en lo que se refiere a los programas de actividades en el marco de la organización común de mercado en el sector de las materias grasas, que requiere del desarrollo por los Estados miembros y, en particular, en el establecimiento de las condiciones relativas a la autorización de las organizaciones de operadores del sector oleícola, líneas de actividades subvencionables y normas para la concesión de anticipos.
+
+Procede, asimismo, dictar determinadas medidas en desarrollo de la facultad de elección sobre los importes retenidos de la ayuda a la producción del aceite de oliva, que atribuye a los Estados miembros productores el Reglamento (CE) número 1873/2002 del Consejo, de 14 de octubre de 2002, que fija los límites de la financiación comunitaria de los programas de actividades de las organizaciones de operadores del sector oleícola prevista en el Reglamento (CE) número 1638/98 y por el que se establece una excepción al Reglamento número 136/66/CEE.
+
+La elaboración del presente Real Decreto ha sido sometida a consulta de las Comunidades Autónomas y entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de febrero de 2003,
+
+D I S P O N G O :
+
+## CAPITULO PRELIMINAR — Objeto
+
+### Artículo 1. Objeto.
+
+El presente Real Decreto tiene por objeto la regulación de las organizaciones de operadores del sector del aceite de oliva, en el marco de lo dispuesto en el Reglamento (CE) 1334/2002 de la Comisión, de 23 de julio de 2002, por el que se establecen disposiciones de aplicación del Reglamento (CE) 1638/98 del Consejo, en lo que se refiere a los programas de actividades de las organizaciones de operadores del sector oleícola en las campañas de comercialización 2002/2003, 2003/2004 y 2004/2005.
+
+> Se modifica por el art. único.1 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+## CAPITULO I — Régimen de autorización de organizaciones de operadores del sector oleícola
+
+### Artículo 2. Requisitos y órganos competentes para la autorización.
+
+1\. Las organizaciones de operadores del sector oleícola serán autorizadas siempre que se ajusten a lo establecido en el artículo 2 del Reglamento (CE) número 1334/2002.
+
+Las organizaciones de productores que, a efectos de obtener la autorización, hayan de acreditar que poseen el número mínimo de productores afiliados o que éstos representan, al menos, el 2 por 100 de los productores de aceitunas de la zona correspondiente a que se refiere el apartado 2.a) del artículo 2 del Reglamento (CE) número 1334/2002, deberán presentar una relación de los citados productores, quedando excluidos aquellos que se mantengan en la organización de productores únicamente a efectos de la gestión de la ayuda a la producción a que se refiere el artículo 5 del Reglamento número 136/66/CEE del Consejo, de 22 de septiembre de 1966, por el que se establece la organización común de mercados en el sector de las materias grasas.
+
+En el caso de entidades asociativas con sección de almazara, el 50 por 100 del volumen de negocios a que se refiere el apartado 2.c) del artículo 2 del Reglamento (CE) número 1334/2002, se entenderá referido al de la citada sección, siempre que ésta disponga de autonomía de gestión, así como patrimonio separado y cuenta de explotación diferenciada respecto de la entidad asociativa.
+
+2\. La autorización de las organizaciones de operadores del sector oleícola se realizará:
+
+a) Cuando su ámbito geográfico no supere el de una Comunidad Autónoma, por el órgano competente de ésta.
+
+b) Cuando su ámbito geográfico supere el de una Comunidad Autónoma, por la Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación.
+
+### Artículo 3. Solicitudes de autorización.
+
+Las organizaciones de operadores del sector oleícola que deseen ser autorizadas a los efectos del presente Real Decreto, deberán dirigir a la autoridad competente, según lo dispuesto en el apartado 2 del artículo 2, la correspondiente solicitud que contenga al menos los datos que figuran en el anexo I antes del día 1 de marzo de 2003.
+
+Sin embargo, para los fines de la autorización exclusivamente para la campaña de comercialización 2004/2005, la fecha límite será el 30 de septiembre de 2004.
+
+> Se añade el segundo párrafo por el art. único.2 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+### Artículo 4. Resolución de autorización.
+
+De acuerdo con lo dispuesto en el apartado 2 del artículo 3 del Reglamento (CE) número 1334/2002, la autoridad competente a que se refiere el apartado 2 del artículo 2 del presente Real Decreto dictará y notificará la resolución que proceda sobre la autorización dentro de los dos meses siguientes a aquel en que se haya presentado el expediente completo de la solicitud, asignando, en su caso, el correspondiente número de autorización.
+
+### Artículo 5. Registro general de organizaciones de operadores del sector oleícola.
+
+1\. Se crea en el Ministerio de Agricultura, Pesca y Alimentación, adscrito a la Dirección General de Agricultura, un Registro general de organizaciones de operadores del sector oleícola, de carácter informativo.
+
+2\. El Registro general de organizaciones de operadores del sector oleícola tendrá carácter público. En dicho Registro se hará constar para cada entidad reconocida la denominación, domicilio social, ámbito territorial de actuación de la organización y demás datos que sean precisos para la completa identificación de aquélla.
+
+Asimismo, en el Registro deberán figurar, referidos a cada campaña y organización de operadores, los datos relativos al número de productores y a la producción de aceite oliva o aceitunas de mesa en kilogramos.
+
+3\. Las Comunidades Autónomas comunicarán al Ministerio de Agricultura, Pesca y Alimentación, en el plazo de quince días hábiles contados a partir de que se produzcan las correspondientes autorizaciones de organizaciones de operadores del sector oleícola, los datos especificados en el apartado anterior, a efectos de su incorporación al Registro general de organizaciones de operadores del sector oleícola, así como las modificaciones que se produzcan.
+
+## CAPITULO II — Financiación de los programas de actividades
+
+### Artículo 6. Financiación comunitaria.
+
+1\. De acuerdo con lo dispuesto en el Reglamento (CE) 1873/2002 del Consejo, de 14 de octubre, que fija para las campañas 2002/2003 y 2003/2004 los límites de la financiación comunitaria de los programas de actividades de las organizaciones reconocidas de agentes del sector oleícola prevista en el Reglamento (CE) 1638/98, se reservarán, tanto para los programas de actividades que abarquen las campañas de comercialización 2002/2003 y 2003/2004, como para los programas de actividades de la campaña 2004/2005, los siguientes porcentajes de la ayuda a la producción de aceite de oliva para los destinos que se especifican a continuación:
+
+a) El 0,8 por 100 de las ayudas pagadas a través de las organizaciones de productores y de sus uniones, para contribuir a la financiación de los gastos ocasionados por sus actividades, a los que se refiere el artículo 20 quinquies del Reglamento número 136/66/CEE.
+
+b) El 1,1 por 100 para los programas de mejora de la calidad de la producción oleícola regulados por el Reglamento (CE) número 528/1999 de la Comisión, de 10 de marzo de 1999.
+
+c) El 0,3 por 100 para la financiación de los programas de actividades de las organizaciones de operadores del sector oleícola regulados por el presente Real Decreto.
+
+2\. En el caso de que la financiación comunitaria de los programas de actividades aprobados de las organizaciones de operadores del sector oleícola no lleguen a alcanzar el porcentaje retenido según el párrafo c) del apartado 1, los recursos no utilizados se destinarán a incrementar la ayuda que se retiene en aplicación del párrafo b).
+
+> Se modifica el primer párrafo del apartado 1 por el art. único.3 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+### Artículo 7. Aprobación de los programas de actividades y solicitud de financiación.
+
+1\. Cuando el ámbito de aplicación de los programas de actividades de las organizaciones de operadores del sector oleícola, a que se refiere el artículo 5 del Reglamento (CE) número 1334/2002, abarquen una sola Comunidad Autónoma, ésta será competente para la aprobación del programa con carácter provisional, a expensas de que exista financiación comunitaria suficiente. Cuando el ámbito de aplicación del programa de actividades supere el de una Comunidad Autónoma, será competente para su aprobación provisional la Dirección General de Agricultura del Ministerio de Agricultura, Pesca y Alimentación.
+
+2\. Las organizaciones de operadores que deseen obtener financiación para sus programas de actividades, incluida la financiación nacional en su caso, antes del 31 de mayo de 2003 en el caso de los programas de actividades que abarquen las campañas de comercialización 2002/2003 y 2003/2004 y antes del 30 de septiembre de 2004 para los programas de actividades de la campaña 2004/2005, presentarán una solicitud de financiación para un solo programa de actividades ante la autoridad competente para la aprobación provisional del mismo y en ella harán constar los datos establecidos en el apartado 2 del artículo 5 del Reglamento (CE) 1334/2002.
+
+3\. La Comunidad Autónoma correspondiente remitirá, con la antelación suficiente y a más tardar antes del 1 de julio de 2003 para los programas de actividades que cubran las campañas de comercialización 2002/2003 y 2003/2004 y antes del 10 de octubre de 2004 para los programas de actividades de la campaña 2004/2005, las solicitudes y copia de la documentación aportada correspondiente a los programas aprobados provisionalmente por ella a la Dirección General de Agricultura para que ésta los eleve, junto a los aprobados provisionalmente por la propia Dirección General, a la Comisión para el análisis y seguimiento de los programas de actividades de las organizaciones de operadores del sector oleícola.
+
+En el supuesto de que los programas aprobados provisionalmente por las Comunidades Autónomas y por el Ministerio de Agricultura, Pesca y Alimentación no superen la financiación prevista en el artículo 6.1.c) del presente Real Decreto, y respeten los porcentajes mínimos previstos en el apartado 2 del artículo 5 bis del Reglamento (CE) número 1334/2002, la Comisión para el análisis y seguimiento de los programas los elevará a la Conferencia Sectorial de Agricultura y Desarrollo Rural para su aprobación definitiva.
+
+En el caso de que los programas aprobados provisionalmente superen la financiación a la que se refiere el párrafo anterior, o no alcancen los porcentajes mínimos previstos en el apartado 2 del artículo 5 bis del Reglamento (CE) número 1334/2002, la Comisión para el análisis y seguimiento de los programas realizará los reajustes necesarios y elevará las correspondientes propuestas a la Conferencia Sectorial de Agricultura y Desarrollo Rural para su aprobación definitiva. En la elaboración de dichas propuestas serán prioritarios los programas que se ajusten a los criterios del artículo 6.1.c) del Reglamento (CE) número 1334/2002.
+
+> Se modifican los apartados 2 y el primer párrafo del 3 por el art. único.4 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+> Se modifican los apartados 2 y el primer párrafo del 3 por el art. único.1 de la Orden APA/691/2003, de 26 de marzo. [Ref. BOE-A-2003-6378](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6378)
+
+### Artículo 8. Comisión para el análisis y seguimiento de los programas de actividades.
+
+**(Derogado)**
+
+> Se deroga por la disposición derogatoria única y anexo del Real Decreto 776/2011, de 3 de junio. [Ref. BOE-A-2011-9736](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9736).
+
+> Se modifica el apartado 5 por el art. único.5 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+> Se modifica el apartado 5 por el art. único.2 de la Orden APA/691/2003, de 26 de marzo. [Ref. BOE-A-2003-6378](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-6378)
+
+### Artículo 9. Modificación de los programas.
+
+1\. Las organizaciones de operadores del sector oleícola que deseen modificar un programa de actividades aprobado definitivamente, siempre y cuando ello no dé lugar a un aumento de financiación para alguno de los ámbitos de actividad a los que se refiere el artículo 4 del Reglamento (CE) número 1334/2002, deberán presentar su solicitud ante el órgano que lo aprobó provisionalmente, el cual lo remitirá a la Comisión para el análisis y seguimiento de los programas de actividades, junto con la aprobación provisional de dicha modificación, en un plazo máximo de veinte días a partir de su presentación.
+
+2\. En el plazo máximo de dos meses desde la solicitud, la Comisión para el análisis y seguimiento de los programas de actividades valorará la modificaciones aprobadas provisionalmente, y las elevará a la Conferencia Sectorial de Agricultura y Desarrollo Rural para su aprobación definitiva.
+
+### Artículo 10. Anticipos y abono de la financiación.
+
+1\. Las organizaciones de operadores del sector oleícola que deseen percibir el anticipo previsto en el artículo 8 del Reglamento (CE) número 1334/2002 deberán presentar, junto con la solicitud de financiación prevista en el artículo 7 del presente Real Decreto, una solicitud que contenga como mínimo los datos del anexo II, ante el órgano competente para la aprobación provisional de los programas de actividades acompañada del compromiso de constituir garantía por un valor igual al 110 por 100 del importe indicado, que estará a disposición del organismo pagador correspondiente.
+
+2\. Entre el 1 de enero y el 31 de mayo de 2004, las organizaciones de operadores podrán presentar al órgano competente para la aprobación provisional de los programas de actividades, una solicitud de reintegro de la garantía. El reintegro será como máximo del 50 por 100 de los gastos realmente sufragados del programa de actividades, y se reintegrarán las garantías correspondientes a los gastos indicados, a más tardar durante el segundo mes siguiente a aquel en el que se haya presentado la solicitud
+
+3\. Antes del 31 de enero de 2005 para los programas de actividades que abarquen las campañas de comercialización 2002/2003 y 2003/2004 y del 31 de enero de 2006 para los programas de la campaña 2004/2005, las organizaciones de operadores del sector oleícola presentarán, ante el órgano competente para la aprobación provisional de los programas de actividades, una solicitud que contenga como mínimo los datos del Anexo III, para el cobro de la correspondiente financiación comunitaria y nacional. Dicha solicitud deberá ir acompañada de la documentación establecida en el apartado 2 del artículo 9 del Reglamento (CE) 1334/2002.
+
+4\. Corresponderá al Fondo Español de Garantía Agraria resolver las solicitudes previstas en los apartados anteriores y gestionar los pagos que correspondan, cuando dichas solicitudes se refieran a programas de actividades de ámbito superior a una comunidad autónoma que las organizaciones de operadores del sector oleícola tengan aprobados definitivamente.
+
+Asimismo, verificará las condiciones necesarias para la concesión de anticipos, el reintegro de las garantías y el abono de la financiación comunitaria y nacional, con la colaboración de la Agencia para el Aceite de Oliva, que llevará a cabo los controles sobre el terreno de las acciones ejecutadas.
+
+> Se modifica el apartado 3 por el art. único.6 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+> Se modifica el apartado 4 por el art. único.1 del Real Decreto 1474/2004, de 18 de junio. [Ref. BOE-A-2004-11440](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-11440)
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 2003. [Ref. BOE-A-2003-10831](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10831)
+
+### Artículo 11. Suministro de información.
+
+1\. Las comunidades autónomas remitirán a la Dirección General de Agricultura, con una antelación mínima de 15 días a las fechas límite señaladas en el artículo 11 del Reglamento (CE) n.º 1334/2002, los informes, documentos y programas que deban presentarse a la Comisión Europea en cumplimiento de lo especificado en dicho artículo.
+
+2\. Las organizaciones de operadores del sector oleícola que tengan aprobados programas de actividades de ámbito superior a una comunidad autónoma enviarán al Fondo Español de Garantía Agraria, antes del día 20 del mes anterior, la información relativa a las actividades que vayan a realizar en el mes siguiente, así como información relativa al grado de ejecución de esos programas, con el fin de que se pueda planificar su control y seguimiento.
+
+3\. El Fondo Español de Garantía Agraria transmitirá a la Dirección General de Agricultura un resumen detallado sobre el grado de ejecución de los programas de ámbito superior a una comunidad autónoma, importes abonados, resultados de los controles, sanciones que hubieran sido impuestas, en su caso, y otros aspectos sobre los que deba remitirse información a la Comisión Europea en aplicación del artículo 11 del Reglamento (CE) n.º 1334/2002.
+
+> Se modifica por el art. único.2 del Real Decreto 1474/2004, de 18 de junio. [Ref. BOE-A-2004-11440](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-11440)
+
+### Artículo 12. Planes de control.
+
+Por el Ministerio de Agricultura, Pesca y Alimentación se elaborará un Plan nacional de controles, teniendo en cuenta los planes elaborados por las Comunidades Autónomas, de acuerdo con las solicitudes de financiación de los programas de actividades que sean objeto de aprobación. En todo caso, se incluirá el listado de aquellas organizaciones de productores reconocidas a efectos del presente Real Decreto que mediante una muestra aleatoria establezca el Ministerio de Agricultura, Pesca y Alimentación para su control por los órganos competentes.
+
+### Artículo 13. Infracciones y sanciones.
+
+Las infracciones contra lo dispuesto en el presente Real Decreto se sancionarán de conformidad con lo previsto en el texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre, y demás normas que resulten de aplicación.
+
+En todo caso, las multas que hayan de imponerse ascenderán al doble del importe de la financiación comunitaria respecto a la cual se haya cometido la infracción, de conformidad con lo establecido en el artículo 10.2 del Reglamento (CE) número 1334/2002.
+
+### Disposición adicional primera. Medios personales y materiales.
+
+El funcionamiento de la Comisión para el análisis y seguimiento de los programas a que se refiere el artículo 8 del presente Real Decreto se atenderá con los medios personales y materiales del Ministerio de Agricultura, Pesca y Alimentación. Asimismo, se atenderán con cargo a los citados medios la constitución y funcionamiento del Registro regulado en el artículo 5.
+
+### Disposición adicional segunda. Utilización de los fondos retenidos para el programa de mejora de la calidad de la producción oleícola.
+
+No obstante lo previsto en el artículo 6.1.b), y teniendo en cuenta que los fondos retenidos para los programas de mejora de la calidad de la producción oleícola en una campaña determinada se aplican en la segunda campaña siguiente, el Ministerio de Agricultura, Pesca y Alimentación decidirá, previa consulta con las Comunidades Autónomas y el sector, la aplicación definitiva de dichos fondos a partir de la campaña 2004/2005 a la vista del nuevo marco comunitario que, en su caso, sea aplicable al sector oleícola.
+
+### Disposición final primera. Facultad de desarrollo y aplicación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las medidas precisas en desarrollo y cumplimiento del presente Real Decreto, así como para la necesaria adecuación a la normativa comunitaria. En particular, se faculta para establecer el régimen de pago con cargo a los presupuestos generales del Estado de las ayudas a que se refiere el presente Real Decreto, sin perjuicio de las atribuciones que confiere al Ministro de Hacienda el artículo 74.1 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.
+
+### Disposición final segunda. Título competencial.
+
+El presente Real Decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
+
+### Disposición final tercera. Entrada en vigor.
+
+El presente Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid, a 14 de febrero de 2003.
+
+JUAN CARLOS R.
+
+El Ministro de Agricultura, Pesca y Alimentación,
+
+MIGUEL ARIAS CAÑETE
+
+## ANEXO I
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_001.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_022.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_023.png)
+
+> Se modifica por el art. único.7 y 8 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+## ANEXO II
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_004.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_025.png)
+
+> Se modifica el apartado V por el art. único.7 de la Orden APA/2937/2004, de 10 de septiembre. [Ref. BOE-A-2004-15987](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-15987)
+
+> Redactado el apartado III.b) conforme a la corrección de errores publicada en BOE núm. 129, de 30 de mayo de 2003. [Ref. BOE-A-2003-10831](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-10831)
+
+## ANEXO III
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_006.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2003/40/03129_007.png)

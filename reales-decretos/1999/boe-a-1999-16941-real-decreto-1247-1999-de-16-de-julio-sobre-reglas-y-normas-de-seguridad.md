@@ -1,0 +1,519 @@
+---
+title: "Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles"
+identifier: "BOE-A-1999-16941"
+eli: "https://www.boe.es/eli/es/rd/1999/07/16/1247"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Fomento"
+date: 1999-07-16
+published: 1999-08-06
+in_force_from: 1999-08-07
+last_amended: 2022-07-20
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 187"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-1999-16941"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 1247/1999, de 16 de julio, sobre reglas y normas de seguridad aplicables a los buques de pasaje que realicen travesías entre puertos españoles
+
+La Directiva 98/18/CE, del Consejo, de 17 de marzo, sobre reglas y normas de seguridad aplicables a los buques de pasaje, establece un marco uniforme de medidas de seguridad del transporte marítimo y de prevención de la contaminación del medio marino aplicable a todos los buques de pasaje, con independencia del pabellón que enarbolen, que realizan viajes nacionales en un Estado miembro, con la finalidad de incrementar la seguridad de la vida humana en la mar y la protección del medio ambiente.
+
+Este Real Decreto tiene por objeto incorporar al ordenamiento jurídico español las medidas previstas en la Directiva 98/18/CE. A tal efecto, se determinan en el mismo las prescripciones técnicas de seguridad que, de acuerdo con las características de las zonas marítimas en las que vayan a operar, deben cumplir los buques de pasaje de nueva construcción que transporten más de 12 pasajeros, los ya existentes cuya eslora sea igual o superior a 24 metros y los buques de gran velocidad para realizar servicios de transporte marítimo entre puertos españoles.
+
+En el procedimiento de elaboración de este Real Decreto han sido oídas las organizaciones y asociaciones afectadas.
+
+En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 16 de julio de 1999,
+
+DISPONGO:
+
+## Artículo 1. Objeto.
+
+Este Reglamento tiene por objeto establecer las normas de seguridad de los pasajeros y bienes y de protección del medio ambiente marino aplicables a los buques de pasaje que realicen servicios de transporte en viajes nacionales desde o entre puertos españoles.
+
+## Artículo 2. Ámbito de aplicación.
+
+1\. Este real decreto se aplicará a los buques de pasaje nuevos o existentes, de eslora igual o superior a 24 metros, así como a las naves de pasaje de gran velocidad, cualquiera que sea el pabellón que enarbolen, que realicen viajes nacionales desde o entre puertos españoles.
+
+2\. Quedan excluidos del ámbito de aplicación de este real decreto los siguientes buques de pasaje o naves de pasaje de gran velocidad:
+
+a) Los buques afectos al servicio de la defensa nacional.
+
+b) Los buques que carezcan de medios de propulsión propios.
+
+c) Los buques construidos con materiales distintos del acero o equivalente y no contemplados en las normas relativas a las naves de gran velocidad, Resoluciones MSC. 36 (63) o MSC.97 (73), del Comité de Seguridad Marítima de la Organización Marítima Internacional (OMI) o naves de sustentación dinámica [Resolución A.373 (X)], de la misma organización.
+
+d) Los buques de madera y de construcción primitiva.
+
+e) Los buques o embarcaciones de recreo.
+
+f) Los buques utilizados exclusivamente en zonas portuarias.
+
+g) Los buques o embarcaciones de vela.
+
+h) Los buques tradicionales.
+
+i) Los buques de servicio para instalaciones en alta mar o embarcaciones auxiliares.
+
+j) Las naves de pasaje de gran velocidad cuando sean utilizados exclusivamente en zonas portuarias o que sean buques de servicio para instalaciones en alta mar
+
+> Se modifica por el art. único.1 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica el apartado 2.c) por el art. único.1 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+## Artículo 3. Definiciones.
+
+A los efectos de lo dispuesto en este real decreto se entiende por:
+
+«a) “Convenios internacionales”: los convenios siguientes, incluidos sus protocolos y modificaciones, es decir, en sus versiones actualizadas:
+
+1.º) El Convenio Internacional para la Seguridad de la Vida Humana en el Mar de 1974 (Convenio SOLAS de 1974), y
+
+2.º) El Convenio Internacional sobre líneas de carga de 1966.
+
+b) “Código de estabilidad sin avería”: el Código de estabilidad sin avería para todos los tipos de buques regidos por los instrumentos de la OMI contenido en la Resolución A.749 (18), de 4 de noviembre de 1993, o el Código Internacional de estabilidad sin avería, 2008, contenido en la Resolución MSC.267 (85) de la OMI, de 4 de diciembre de 2008, en sus versiones actualizadas.
+
+c) “Código de naves de gran velocidad”: el Código internacional de seguridad para las naves de gran velocidad contenido en la Resolución MSC. 36(63) de la OMI de 20 de mayo de 1994 o el Código internacional de seguridad para naves de gran velocidad de 2000 (Código NGV 2000), contenido en la Resolución MSC.97(73) de la OMI de diciembre de 2000, en su forma enmendada.
+
+d) “SMSSM”: el Sistema Mundial de Socorro y Seguridad Marítimos, tal como figura en el capítulo IV del Convenio SOLAS de 1974, en su versión vigente.
+
+e) “Buque de pasaje”: buque mercante que transporte más de 12 pasajeros.
+
+f) “Buque de pasaje de transbordo rodado”: un buque que transporta más de 12 pasajeros y que cuenta con espacios para carga de transporte rodado o bien espacios de categoría especial según la definición dada por la regla II-2/A/2 que se recoge en el anexo I.
+
+g) “Nave de pasaje de gran velocidad”: la nave de gran velocidad definida en la regla 1 del capítulo X del Convenio SOLAS de 1974, en su versión vigente, que transporte más de 12 pasajeros. No se considerarán naves de pasaje de gran velocidad aquellos buques de pasaje que realicen travesías nacionales en zonas marítimas de clase B, C o D, cuando concurran las siguientes circunstancias:
+
+1.º) Su desplazamiento correspondiente a la flotación de proyecto sea inferior a 500 m<sup>3</sup>.
+
+2.º) Su velocidad máxima, tal y como se define en el punto 1.4.30 del Código de naves de gran velocidad, 1994, y en la regla 1.4.38 del Código de naves de gran velocidad, 2000, no sobrepase los 20 nudos.
+
+h) “Buque nuevo”: buque de pasaje cuya quilla esté colocada o se encuentre en una fase de construcción equivalente con posterioridad al 30 de junio de 1998.
+
+Se entiende que un buque se encuentra en fase de construcción equivalente cuando:
+
+1.º) se ha iniciado la construcción identificable como propia de un buque concreto, o
+
+2.º) ha comenzado el montaje del buque que suponga la utilización de no menos de 50 toneladas del total estimado del material estructural, o un 1 por 100 de dicho total, si este segundo valor es menor.
+
+i) “Buque existente”: buque que no sea nuevo conforme a lo previsto en la letra anterior.
+
+j) “Antigüedad”: la antigüedad de un buque, expresada en el número de años transcurridos desde la fecha de su entrega.
+
+k) “Reparaciones, alteraciones y modificaciones de importancia”: alguna de las acciones siguientes:
+
+1.º) Todo cambio que altere considerablemente las dimensiones del buque, como su prolongación mediante la adición de un cuerpo intermedio.
+
+2.º) Todo cambio que altere considerablemente la capacidad de carga de pasajeros de un buque, como convertir la cubierta para vehículos en alojamiento para pasajeros.
+
+3.º) Todo cambio que incremente considerablemente la vida de servicio del buque, como renovar el alojamiento de pasajeros en toda una cubierta,
+
+4.º) Toda conversión de cualquier tipo de buque en buque de pasaje.
+
+l) “Pasajeros”: las personas que vayan a bordo de un buque, excepto los niños menores de un año, el capitán y los miembros de la tripulación, así como las personas empleadas u ocupadas a bordo del buque en cualquier cometido que esté relacionado con las actividades del mismo.
+
+m) “Eslora del buque”: se considera eslora del buque, a menos que expresamente se indique lo contrario, el 96 por 100 de la longitud total de una flotación situada al 85 por 100 del menor puntal de trazado medido desde el canto superior de la quilla, o la longitud desde la cara de proa al eje de la mecha del timón a lo largo de dicha flotación, si esta última medida fuese mayor. En los buques de quilla inclinada, la flotación sobre la que se mida dicha longitud debe ser paralela a la flotación de proyecto.
+
+n) “Altura de proa”: es la que se define en la regla 39 del Convenio internacional sobre líneas de máxima carga de 1966.
+
+o) “Buque con cubierta completa”: el buque provisto de una cubierta completa, expuesta a la intemperie y al mar, dotada de medios permanentes de cierre de todas las aberturas en su parte expuesta a la intemperie y por debajo de la cual todas las aberturas existentes en los costados del buque están provistas como mínimo de medios permanentes de cierre estancos a la intemperie.
+
+La cubierta completa puede ser una cubierta estanca al agua o bien una estructura equivalente compuesta por una cubierta no estanca al agua protegida íntegramente por una estructura estanca a la intemperie de resistencia adecuada para mantener esa estanqueidad y dotada de dispositivos que permitan cerrar las aberturas de manera estanca a la intemperie.
+
+p) “Zonas marítimas”: las zonas definidas de conformidad con lo establecido en el artículo 4.
+
+No obstante, y a efectos de aplicación de las disposiciones en materia de radiocomunicaciones, se considerarán como zonas marítimas las definidas en la regla 2 del capítulo IV del Convenio SOLAS de 1974.
+
+q) “Lugar de abrigo”: toda zona protegida natural o artificialmente en la que pueda refugiarse un buque o nave en caso de peligro.
+
+r) “Organización reconocida”: una organización reconocida de acuerdo con el Real Decreto 877/2011, de 24 de junio, sobre reglas y estándares comunes para las organizaciones de inspección y reconocimiento de buques y para las actividades correspondientes de la Administración marítima.
+
+s) “Organización reconocida”: una organización reconocida de conformidad con el Reglamento (CE) n.º 391/2009 del Parlamento Europeo y del Consejo.
+
+t) “Altura característica de las olas”: la altura media del tercio de las olas de mayor altura observadas durante un período determinado.
+
+u) “Viaje nacional”: todo viaje por aguas marítimas entre un puerto de un Estado miembro de la Unión Europea y el mismo puerto u otro puerto situado en el mismo Estado miembro de la Unión Europea.
+
+v) “Zona portuaria”: el espacio marítimo que abarca las zonas de servicios de los puertos situados en el litoral español, determinadas de acuerdo con el Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, o por la normativa correspondiente de las Comunidades Autónomas sobre la materia.
+
+w) “Estado rector del puerto”: el Estado miembro en cuyo territorio se encuentren el puerto o los puertos entre los cuales efectúa una travesía nacional un buque o nave que enarbola el pabellón de otro Estado miembro.
+
+x) “Persona con movilidad reducida”: cualquier persona que tenga dificultades particulares para utilizar los transportes públicos, incluidas las personas de edad avanzada, las personas con discapacidad, las personas que sufran minusvalías sensoriales, las personas en silla de ruedas, las mujeres embarazadas y las personas que acompañen a niños de corta edad.
+
+z) “Barco o embarcación de vela”: todo buque impulsado por velas, aun cuando esté equipado con propulsión mecánica para fines auxiliares y de emergencia.
+
+z bis) “Material equivalente”: aleación de aluminio o de cualquier otro material incombustible que, por sí o debido al aislamiento de que vaya provisto, mantiene unas propiedades estructurales y de integridad equivalentes a las del acero después de la superación pertinente del ensayo estándar de exposición al fuego.
+
+z ter) “Ensayo estándar de exposición al fuego”: aquel en que unas muestras de los mamparos o cubiertas objeto del ensayo se someten en un horno de pruebas a temperaturas que corresponden aproximadamente a las de la curva estándar tiempo-temperatura, de conformidad con el método de prueba especificado en el Código internacional para la aplicación de procedimientos de ensayo de exposición al fuego, recogido en la Resolución MSC.307(88) de la OMI, de 3 de diciembre de 2010, en su versión actualizada.
+
+z quater) “Buques tradicionales”: toda clase de buques de pasaje históricos diseñados antes de 1965, y sus réplicas, construidos predominantemente con los materiales originales, así como los diseñados para fomentar y promover los oficios tradicionales y la náutica, que sirven como monumentos culturales vivos, maniobrados con arreglo a los principios de la náutica y la técnica tradicionales.
+
+z quinquies) “Buque o embarcación de recreo”: un buque o una embarcación que no se utilice con fines comerciales, con independencia de su medio de propulsión.
+
+z sexties) “Embarcación auxiliar”: toda embarcación transportada en un buque para trasladar a más de doce pasajeros desde un buque de pasaje amarrado a puerto y viceversa.
+
+z septies) “Buque de servicio para instalaciones en alta mar”: todo buque utilizado para transportar y alojar a personal de una actividad industrial que no trabaje a bordo y que no sea esencial para la actividad del buque.
+
+z octies) “Nave de servicio para instalaciones en alta mar”: toda nave utilizada para transportar y alojar a personal de una actividad industrial que no trabaje a bordo y que no sea esencial para la actividad económica de la nave.
+
+> Se modifica por el art. único.2 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifican las letras c) y f) por el art. único.2 y 3 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+> Se añaden los párrafos e bis), h bis) y t) por el art. 1.2 del Real Decreto 1036/2004, de 7 de mayo. [Ref. BOE-A-2004-9350](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-9350)
+
+> Se modifican las letras a), b), c), d) y f) por la disposición adicional 1.4 del Real Decreto 1249/2003, de 3 de octubre. [Ref. BOE-A-2003-18426](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18426)
+
+## Artículo 4. Clasificación de las zonas marítimas y clases de buques de pasaje.
+
+1\. Las zonas marítimas se dividen en las siguientes categorías:
+
+Zona A: zona marítima situada fuera de las zonas B, C y D.
+
+Zona B: zona marítima cuyas coordenadas geográficas no estén a más de 20 millas de la línea de la costa contadas a la altura media de la marea y que esté situada fuera de las zonas C y D.
+
+Zona C: zona marítima cuyas coordenadas geográficas no estén a más de 5 millas de la línea de la costa contadas a la altura media de la marea, pero que esté situada fuera de la zona D, si la hubiere, y en la que además, la probabilidad de que se supere una altura característica de las olas de 2,5 metros debe ser inferior al 10 % en un período de un año si el buque va a utilizarse todo el año, o en un período determinado si va a prestar un servicio estacional como, por ejemplo, en verano.
+
+Zona D: zona marítima cuyas coordenadas geográficas no estén situadas a más de 3 millas de la línea de la costa contadas a la altura media de la marea y en la que además, la probabilidad de que se supere una altura característica de las olas de 1,5 metros debe ser inferior al 10 % en un período de un año si el buque va a utilizarse todo el año, o en un período determinado si va a prestar un servicio estacional como, por ejemplo, en verano.
+
+2\. La Dirección General de la Marina Mercante:
+
+a) Establecerá y actualizará cuando sea necesario, una lista de zonas marítimas bajo su jurisdicción.
+
+b) Determinará el límite interior de la zona marítima más próximo a la línea de costa española;
+
+c) Publicará la lista en una base de datos pública que se podrá consultar en el sitio de internet del Ministerio de Fomento https://www.fomento.es
+
+3\. Los buques de pasaje se dividirán en las clases siguientes, según las zonas en que puedan navegar:
+
+Clase A: buques de pasaje que realizan travesías nacionales por zonas A, B, C y D.
+
+Clase B: buques de pasaje que realizan travesías nacionales por zonas B, C y D.
+
+Clase C: buques de pasaje que realizan travesías nacionales por zonas C y D.
+
+Clase D: buques de pasaje que realizan travesías nacionales por la Zona D.
+
+4\. Para las naves de pasaje de gran velocidad serán de aplicación las categorías definidas en el capítulo 1, apartados 1.4.10 y 1.4.11, del Código de naves de gran velocidad de 1994, o en el capítulo 1, apartados 1.4.12 y 1.4.13, del Código de naves de gran velocidad de 2000.
+
+> Se modifica por el art. único.3 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica el apartado 3 por el art. único.4 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+> Se modifica el apartado 2 por el art. único.2 del Real Decreto 1036/2004, de 7 de mayo. [Ref. BOE-A-2004-9350](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-9350)
+
+## Artículo 5. Equipos marinos.
+
+Todo equipo marino que cumpla los requisitos establecidos en el Real Decreto 701/2016, de 23 de diciembre, por el que se regulan los requisitos que deben cumplir los equipos marinos destinados a ser embarcados en los buques se considera conforme con lo dispuesto en este real decreto.
+
+> Se modifica por el art. único.4 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+## Artículo 6. Prescripciones de seguridad de los buques de pasaje nuevos y existentes.
+
+1\. Los buques de pasaje, nuevos y existentes, de cualquier clase, deberán cumplir las siguientes medidas de seguridad:
+
+a) El casco, la maquinaria principal y auxiliar y las instalaciones eléctricas y automáticas se construirán y mantendrán de acuerdo con las normas especificadas para su respectiva clasificación en las disposiciones dictadas por una organización reconocida u otras equivalentes que utilice la Administración marítima, de acuerdo con lo previsto en el Real Decreto 877/2011, de 24 de junio, sobre reglas y estándares comunes para las organizaciones de inspección y reconocimiento de buques y actividades correspondientes a la Administración marítima.
+
+b) Se aplicará lo dispuesto en los capítulos IV, V y VI del Convenios SOLAS de 1974, en lo que respecta al Sistema Mundial de Socorro y Seguridad Marítima (SMSSM).
+
+c) A los aparatos náuticos les será de aplicación lo dispuesto en las reglas 17, 18, 19, 20 y 21 del capítulo V del Convenio SOLAS, 1974, en su versión vigente. Los aparatos náuticos de a bordo enumerados en el Anexo del Reglamento de Ejecución (UE) 2017/306 de la Comisión de 6 de febrero de 2017 por el que se indican los requisitos de diseño, construcción y rendimiento y las normas de ensayo para equipos marinos se consideran conformes con las prescripciones para la aprobación de la Regla 18.1 del Capítulo V del Convenio SOLAS, 1974.
+
+2\. Las reparaciones, cambios y modificaciones de importancia en buques nuevos y existentes, así como en sus correspondientes equipamientos, cumplirán las prescripciones relativas a los buques nuevos que se establecen en el artículo 7.1.a), siempre teniendo en cuenta que los cambios destinados exclusivamente a mejorar la flotabilidad no se consideran modificaciones de importancia.
+
+> Se modifica por el art. único.5 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica el apartado 3 por el art. único.5 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+## Artículo 6 bis. Prescripciones de estabilidad y retirada progresiva de los buques de pasaje de transbordo rodado.
+
+1\. Los buques de pasaje de transbordo rodado de la Clase C cuyas quillas estuviesen colocadas a partir del 1 de octubre de 2004 o que se encontrasen en una fase similar de construcción a partir del 1 de octubre de 2004 y todos los buques de pasaje de transbordo rodado de las Clases A y B cumplirán lo dispuesto en los artículos 5, 7 y 8 del Real Decreto 1861/2004, de 6 de septiembre, sobre las prescripciones específicas de estabilidad aplicables a los buques de pasaje de transbordo rodado.
+
+2.**(Suprimido)**
+
+> Se modifica el apartado 1 y se suprime el 2 por el art. único.6 y 7 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se añade por el art. único.3 del Real Decreto 1036/2004, de 7 de mayo. [Ref. BOE-A-2004-9350](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-9350)
+
+## Artículo 6 ter. Prescripciones de seguridad para las personas con movilidad reducida.
+
+1\. La Dirección General de la Marina Mercante velará por que se adopten las medidas apropiadas, basándose, en la medida de lo factible, en las directrices del anexo III, para que las personas con movilidad reducida puedan tener acceso y estancia cómodas y seguras a todos los buques de pasaje de las clases A, B, C y D y a todas las naves de pasaje de gran velocidad, utilizados para el transporte público, con quillas colocadas o que se encuentren en una fase similar de construcción a partir del 1 de octubre de 2004.
+
+2\. La Dirección General de la Marina Mercante consultará a las organizaciones representativas de las personas con movilidad reducida y cooperarán con ellas en lo relativo a la aplicación de las directrices incluidas en el anexo III.
+
+3\. A efectos de la modificación de los buques de pasaje de las clases A, B, C y D y de las naves de pasaje de gran velocidad utilizados para el transporte público, con quillas colocadas o que se encuentren en una fase similar de construcción antes del 1 de octubre de 2004, la Dirección General de la Marina Mercante aplicará las directrices del anexo III en la medida en que sea razonable y práctico desde el punto de vista económico.
+
+> Téngase en cuenta que este artículo se encuentra derogado con efectos de 5 de diciembre de 2007, en lo que sea de aplicación a los buques de pabellón español de las clases A, B y C, por la disposición derogatoria única.1 del Real Decreto 1544/2007, de 23 de noviembre. [Ref. BOE-A-2007-20785](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20785)
+
+> Se suprime el párrafo 2 del apartado 3 por el art. único.8 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta supresión entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se deroga, en lo que sea de aplicación a los buques de pabellón español de las clases A, B y C, por la disposición derogatoria única.1 del Real Decreto 1544/2007, de 23 de noviembre. [Ref. BOE-A-2007-20785](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20785)
+
+> Se añade por el art. único.3 del Real Decreto 1036/2004, de 7 de mayo. [Ref. BOE-A-2004-9350](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-9350)
+
+## Artículo 7. Prescripciones de seguridad de los buques de pasaje nuevos.
+
+Los buques de pasaje nuevos deberán cumplir, además de las enumeradas en el artículo anterior, las siguientes prescripciones de seguridad:
+
+1\. Prescripciones generales:
+
+a) Los buques de pasaje nuevos de la clase A cumplirán íntegramente las prescripciones del Convenio SOLAS de 1974, en su versión vigente, así como las prescripciones que les correspondan de las establecidas en este Reglamento y su anexo I. Con respecto a los buques de pasaje para los que el Convenio SOLAS de 1974 prevé que la Administración competente determinará las reglas concretas de aplicación, será la Dirección General de la Marina Mercante quien, en el ejercicio de las citadas competencias, procederá a aplicar las previsiones recogidas en el anexo I de este Reglamento.
+
+b) Los buques de pasaje nuevos de las clases B, C y D cumplirán las prescripciones de este Reglamento y su anexo I, que les sean de aplicación.
+
+2\. Prescripciones del Convenio de líneas de carga:
+
+a) Cualquier buque de pasaje nuevo de eslora igual o superior a 24 metros cumplirá con lo dispuesto en el Convenio internacional sobre líneas de carga de 1966.
+
+b) Los buques de pasaje nuevos de las clases A, B, C y D dispondrán de una cubierta completa.
+
+No obstante lo dispuesto en el apartado a), los buques de pasaje nuevos de la clase D quedan exentos del requisito de «altura mínima de proa» establecido en el Convenio Internacional sobre líneas de carga de 1966.
+
+> Se modifica el apartado 2 por el art. único.9 y 10 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica por la disposición adicional 1.5 del Real Decreto 1249/2003, de 3 de octubre. [Ref. BOE-A-2003-18426](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18426)
+
+## Artículo 8. Prescripciones de seguridad de los buques de pasaje existentes.
+
+Los buques de pasaje existentes deberán cumplir, igualmente, con las siguientes prescripciones:
+
+1\. Los buques de pasaje existentes de clase A cumplirán las reglas aplicables a los buques de pasaje existentes del Convenio SOLAS de 1974, en su versión vigente, así como las prescripciones que les correspondan de las establecidas en este Reglamento y su anexo I. Con respecto a los buques de pasaje para los que el Convenio SOLAS de 1974 prevé que la Administración competente determinará las reglas concretas de aplicación, será la Dirección General de la Marina Mercante quien, en el ejercicio de las citadas competencias, procederá a aplicar las previsiones recogidas en el anexo I de este Reglamento.
+
+2\. Los buques de pasaje existentes de clase B cumplirán las prescripciones que les correspondan de las establecidas en este Reglamento y su anexo I.
+
+3\. Los buques de pasaje existentes de clases C y D cumplirán las prescripciones que les correspondan de las establecidas en este Reglamento y el capítulo III de su anexo I. También deberán cumplir con las normas que establezca la Administración del Estado de abanderamiento, en los aspectos no previstos en este Reglamento. Estas últimas normas deberán garantizar un nivel de seguridad equivalente al que se prevé en los capítulos II-1 y II-2 del Anexo I, teniendo en cuenta, para ello, las condiciones operativas locales específicas de las zonas marítimas en las que las citadas clases de buques están autorizadas a operar.
+
+Para que los buques de pasaje existentes de las clases C y D puedan realizar viajes nacionales regulares en otro Estado rector del puerto, la Administración del Estado de abanderamiento deberá obtener previamente el acuerdo del citado Estado rector del puerto con respecto a dichas normas.
+
+Cuando el citado viaje nacional se realice desde o entre puertos españoles se requerirá la previa aprobación de la Dirección General de la Marina Mercante sobre las mencionadas normas.
+
+> Se modifica el apartado 3 y se suprime el 4 y 5 por el art. único.11 y 12 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica por la disposición adicional 1.5 del Real Decreto 1249/2003, de 3 de octubre. [Ref. BOE-A-2003-18426](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-18426)
+
+## Artículo 9. Prescripciones de seguridad de las naves de pasaje de gran velocidad.
+
+Las naves de pasaje de gran velocidad deberán cumplir las siguientes prescripciones:
+
+1\. Las naves de pasaje de gran velocidad construidas o reparadas, alteradas o modificadas sustancialmente a partir del 1 de enero de 1996 cumplirán las prescripciones que establecen las Reglas 2 y 3 del Capítulo X del Convenio SOLAS, 1974, salvo que concurran las siguientes condiciones:
+
+a) Su quilla haya sido colocada o cuya construcción se halle en una fase equivalente no más tarde de junio de 1998.
+
+b) La entrega y la entrada en servicio haya tenido lugar no más tarde de diciembre de 1998.
+
+c) Cumplan íntegramente las prescripciones del Código de seguridad para naves de sustentación dinámica (Código NSD) contenido en la Resolución A. 373 (10) de OMI, en su versión actualizada.
+
+2\. Las naves de pasaje de gran velocidad construidas antes del 1 de enero de 1996 que cumplan las prescripciones del Código de naves de gran velocidad, continuarán operando certificadas con arreglo a dicho Código.
+
+Cuando las naves de pasaje de gran velocidad construidas antes del 1 de enero de 1996, no cumplan las prescripciones del Código de naves de gran velocidad, no podrán realizar viajes nacionales, a menos que antes de dicha fecha ya estuviesen operando en viajes nacionales, en cuyo caso podrán continuar operando en el litoral español. No obstante, dichas naves deberán cumplir las prescripciones del Código DSC enmendado.
+
+3\. La construcción y mantenimiento de naves de pasaje de gran velocidad y su equipo cumplirán las normas para la clasificación de las naves de gran velocidad de una organización reconocida o normas equivalentes aprobadas por Orden del Ministro de Fomento según lo dispuesto en la Disposición adicional primera del Real Decreto 877/2011 de 21 de junio sobre reglas y estándares comunes para las organizaciones de inspección y control de los buques y para las actividades correspondientes de la Administración marítima.
+
+> Se modifican los apartados 1.c) y 3 por el art. único.12 y 13 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica el apartado 1 por el art. único.6 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+## Artículo 10. Prescripciones de seguridad suplementarias, equivalencias, exenciones y medidas cautelares.
+
+1\. Prescripciones de seguridad suplementarias.
+
+Si el Ministerio de Fomento por sí o de acuerdo con las administraciones marítimas de otros Estados miembros considera que, en determinadas situaciones y debido a circunstancias locales específicas, es necesario mejorar las prescripciones de seguridad, podrá adoptar medidas en tal sentido, previa notificación a la Comisión Europea.
+
+2\. El Ministerio de Fomento podrá adoptar, siguiendo los procedimientos establecidos en el artículo 9 de la Directiva 2009/45/CE –en su versión modificada por el artículo 1, 8), b) de la Directiva 2017/2108–, disposiciones equivalentes a determinados requisitos específicos de este real decreto, siempre que sean al menos tan eficaces como dichos requisitos.
+
+3\. Exenciones.
+
+La Dirección General de la Marina Mercante podrá, mediante resolución motivada, dispensar a algunos buques o naves del cumplimiento de determinadas prescripciones establecidas en este Reglamento, cuando tales buques o naves realicen viajes nacionales desde o entre puertos españoles, en los que concurran circunstancias tales como navegaciones por aguas abrigadas de los efectos del mar abierto en determinadas condiciones operativas, menor altura característica de olas, navegación restringida a ciertos períodos del año, a las horas de luz, o a otras condiciones climáticas apropiadas, duración limitada del viaje o proximidad de los servicios de salvamento; siempre que no se reduzca la seguridad de los buques o naves y con arreglo al procedimiento previsto al efecto.
+
+La solicitud para el otorgamiento de dichas exenciones podrá presentarse ante las Capitanías Marítimas, que las remitirán a la Dirección General de la Marina Mercante.
+
+La Dirección General de la Marina Mercante deberá resolver en un plazo de un mes desde la recepción de la solicitud, debiendo constar en la resolución el ámbito y extensión de la exención, así como el alcance temporal de la misma.
+
+La Dirección General de la Marina Mercante será responsable de mantener un registro actualizado de las exenciones concedidas.
+
+Las exenciones concedidas de acuerdo con lo dispuesto en este apartado serán debidamente reseñadas en un documento oficial, en que se harán constar las razones por las que han sido concedidas y el período máximo de validez.
+
+4\. Medidas cautelares.
+
+Si el capitán marítimo considera que un buque o nave, que a pesar de cumplir con las disposiciones de este Reglamento, entraña un grave riesgo para la seguridad de la vida, las mercancías a bordo o el medio ambiente, podrá no autorizar la salida a la mar o suspender el ejercicio de la actividad de dicho buque o nave, o imponer medidas adicionales de seguridad hasta que dicho riesgo haya desaparecido.
+
+> Se modifica el apartado 2 por el art. único.15 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+## Artículo 11. Reconocimientos.
+
+La Dirección General de la Marina Mercante someterá a los buques españoles de pasaje, según el estado en que se encuentren, a los reconocimientos que se indican a continuación:
+
+1\. Buques de pasaje nuevos y existentes:
+
+a) Un reconocimiento antes de que el buque entre en servicio.
+
+b) Un reconocimiento periódico, que se realizará cada doce meses.
+
+c) Reconocimientos adicionales, cuando se dé alguna de las circunstancias siguientes:
+
+1.ª Después de haber sufrido el buque una varada, abordaje, serias averías por temporal u otro motivo, o averías en elementos importantes de su maquinaria.
+
+2.ª Cuando el buque efectúe reparaciones de importancia en su casco, maquinaria y equipo, o sufra alteraciones que afecten a su seguridad o a sus condiciones para prevenir la contaminación.
+
+3.ª Cuando exista algún defecto que afecte a la seguridad o integridad del buque o a la eficacia o integridad de su equipo.
+
+Los reconocimientos adicionales podrán ser generales o parciales según las circunstancias que lo hayan originado y deben de realizarse de modo que se garantice que las reparaciones o renovaciones se han llevado a cabo adecuadamente y que el buque y su equipo continúan cumpliendo los requisitos que les sean aplicables, y sigan siendo aptos para el servicio al que esté destinado el buque.
+
+2\. Naves españolas de pasaje de gran velocidad.
+
+Todas las naves españolas de gran velocidad que, de conformidad con las disposiciones del artículo 9, hayan de cumplir con las prescripciones del Código de naves de gran velocidad (Código NGV), se las someterá a los reconocimientos prescritos en el mismo.
+
+Igualmente, la Dirección General de la Marina Mercante someterá a las naves españolas de pasaje de gran velocidad que, de conformidad con las disposiciones del artículo 9, hayan de cumplir con las prescripciones del Código de seguridad para las naves de sustentación dinámica (Código CSD), en su versión modificada, a los reconocimientos prescritos en el mismo.
+
+3\. Para realizar los reconocimientos citados, la Dirección General de la Marina Mercante utilizará los procedimientos y directrices pertinentes para efectuar los reconocimientos exigidos en el certificado de seguridad para buque de pasaje especificados en la Resolución A. 997(25) de la OMI, en su versión enmendada, Directrices para efectuar reconocimientos de conformidad con el sistema armonizado de reconocimientos y certificación, 2007, u otros procedimientos elaborados para alcanzar el mismo objetivo.
+
+4\. Los reconocimientos que se señalan en los apartados 1, 2 y 3 serán llevados a cabo por inspectores de la Administración marítima española, o del Estado miembro autorizado por el Gobierno español para realizar los reconocimientos, a fin de garantizar el cumplimiento de todas las prescripciones de este Reglamento que sean de aplicación a los diferentes buques.
+
+No obstante lo dispuesto en el apartado anterior, la actividad inspectora podrá ser llevada a cabo por entidades colaboradoras de acuerdo a lo dispuesto en el artículo 263, e) del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre (BOE de 26 de marzo de 2012).
+
+5\. Los buques o naves no abanderados en España, que pretendan realizar viajes nacionales desde o entre puertos españoles, deberán haber superado, como mínimo, los reconocimientos establecidos en los apartados anteriores, que les realizará la Administración del Estado de abanderamiento, con el fin de garantizar que cumplen las prescripciones exigidas por este Reglamento a los buques españoles.
+
+> Se modifica por el art. único.16 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica el apartado 4 por el art. único.7 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+## Artículo 12. Certificados.
+
+1\. Todos los buques de pasaje nuevos y existentes deberán ir provistos de un certificado de seguridad para buque de pasaje de conformidad con este real decreto.
+
+Dicho certificado se ajustará al modelo que figura en el anexo II y será expedido por la Administración del Estado de abanderamiento, una vez realizado el reconocimiento inicial con resultado satisfactorio, con arreglo a lo dispuesto en el apartado 1.a) del artículo 11.
+
+2\. El certificado de seguridad para buque de pasaje tendrá un período máximo de validez de doce meses, pudiendo la Administración del Estado de abanderamiento o, en su caso, la Dirección General de la Marina Mercante prorrogar su validez por un período adicional de un mes.
+
+Cuando se conceda una prórroga al certificado señalado, dicha prórroga empezará a contar a partir de la fecha de caducidad del certificado.
+
+El certificado de seguridad para buque de pasaje se renovará una vez se hayan realizado con resultado satisfactorio los reconocimientos periódicos previstos en los apartados 1.b) y 2.b) del artículo 11, respectivamente.
+
+3\. En cuanto a las naves de pasaje de gran velocidad que cumplan las prescripciones del Código de naves de esta clase, deberán de ir provistas de un certificado de seguridad y de un permiso de explotación de naves de gran velocidad. La Administración del Estado de abanderamiento expedirá dichos certificados de seguridad y permisos de explotación con arreglo a lo dispuesto en el Código de naves de gran velocidad.
+
+En lo referente a las naves de gran velocidad que cumplen con el Código de sustentación dinámica (Código CSD), deberán de ir provistas de un certificado CSD de construcción y equipo, así como un permiso CSD para operar. La Administración del Estado de abanderamiento expedirá dichos certificado y permiso CSD.
+
+La Dirección General de la Marina Mercante, antes de expedir el permiso de explotación a las naves españolas de pasaje de gran velocidad que vayan a realizar travesías nacionales en un Estado rector del puerto, se pondrá de acuerdo con las autoridades competentes de este Estado sobre las condiciones operacionales aplicables relacionadas con la explotación de las mismas en dicho Estado. La Dirección General de la Marina Mercante hará constar en el permiso de explotación todas esas condiciones.
+
+4\. Las medidas adicionales de seguridad, las equivalencias y las exenciones concedidas a un buque o nave de conformidad con lo dispuesto en los apartados 1, 2 y 3 del artículo 10, se harán constar en el certificado del buque o de la nave.
+
+5\. El Estado español reconocerá el Certificado de Seguridad y el Permiso de Utilización para naves de gran velocidad expedidos por otro Estado miembro de la Unión Europea a naves de pasaje de gran velocidad que realicen viajes nacionales, y el Certificado de Seguridad para buques de pasaje a que se refiere este artículo expedido por otro Estado miembro a buques de pasaje que realicen viajes nacionales.
+
+Cuando dichos certificados o permisos sean expedidos por Estados no miembros de la Unión Europea, podrán ser reconocidos previa aprobación de su conformidad por la Dirección General de la Marina Mercante.
+
+> Se modifica por el art. único.17 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+## Artículo 13. Régimen sancionador.
+
+1\. El incumplimiento por los buques de pasaje incluidos en el ámbito de aplicación del presente real decreto de las prescripciones de seguridad establecidas en el mismo, cuando ocasionen accidentes con daños para las personas, constituirá una infracción administrativa muy grave, de conformidad con lo dispuesto en el artículo 308. 2. g) del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante.
+
+2\. Constituye, asimismo, infracción administrativa muy grave, de conformidad con lo dispuesto en el artículo 308. 2. a) del Texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, la navegación sin que el buque reúna las debidas condiciones de navegabilidad, previstas en este real decreto, haciendo peligrar su seguridad.
+
+3\. Constituyen infracciones administrativas graves, de conformidad con el artículo 307. 2. k) y ñ) del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante las siguientes conductas:
+
+a) El incumplimiento por los navieros, capitanes y patrones de las normas sobre reconocimientos y certificaciones del buque y sus elementos.
+
+b) Las acciones u omisiones que pongan en peligro la seguridad del buque o de la navegación.
+
+> Se modifica por el art. único.18 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+## Disposición adicional única. Referencias a los anexos.
+
+Las referencias efectuadas en este real decreto a sus anexos I, II y III, se entenderán efectuadas, respectivamente, a los anexos I, II y III del Reglamento Delegado (UE) 2020/411 de la Comisión, de 19 de noviembre de 2019, por el que se modifica la Directiva 2009/45/CE del Parlamento Europeo y del Consejo, sobre las reglas y normas de seguridad aplicables a los buques de pasaje, en lo que respecta a las prescripciones de seguridad aplicables a los buques de pasaje que realizan travesías nacionales.
+
+> Se añade por el art. 2.1 del Real Decreto 587/2022, de 19 de julio de 2022. [Ref. BOE-A-2022-12013](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12013)
+
+## Disposición transitoria. Buques construidos con materiales equivalentes.
+
+Los buques construidos en un material equivalente con anterioridad al 20 de diciembre de 2017 deberán cumplir las prescripciones de este real decreto antes del 22 de diciembre de 2025.
+
+> Se añade por el art. único.19 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta disposición entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este Real Decreto.
+
+## Disposición final primera. Habilitación normativa.
+
+Se autoriza al Ministro de Fomento para dictar las disposiciones necesarias para el desarrollo y aplicación de este Real Decreto.
+
+## Disposición final segunda. Entrada en vigor.
+
+Este Real Decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Dado en Madrid a 16 de julio de 1999.
+
+JUAN CARLOS R.
+
+El Ministro de Fomento,
+
+RAFAEL ARIAS-SALGADO MONTALVO
+
+## ANEXO I — Prescripciones de seguridad aplicables a los buques de pasaje nuevos y existentes en travesías nacionales
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 587/2022, de 19 de julio de 2022. [Ref. BOE-A-2022-12013](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12013)
+
+> Se modifican los capítulos II-2, parte A, punto 13.1 y III epígrafe 2, nota 1 del cuadro por el art. único.20 del Real Decreto 596/2019, de 18 de octubre. [Ref. BOE-A-2019-15972](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-15972)
+
+> Esta modificación entra en vigor el 21 de diciembre de 2019, según establece la disposición final 3 del citado real decreto.
+
+> Se modifica por el art. único.1 de la Orden FOM/382/2017, de 21 de abril. [Ref. BOE-A-2017-4870](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-4870)
+
+> Se sustituye por el art. único.8 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+> Se modifica el apartado 5-1 por el art. único del Real Decreto 209/2004, de 6 de febrero. [Ref. BOE-A-2004-2751](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-2751)
+
+> Se sustituye por el art. único del Real Decreto 1423/2002, de 27 de diciembre. [Ref. BOE-A-2002-25288](https://www.boe.es/buscar/doc.php?id=BOE-A-2002-25288)
+
+## ANEXO II — Modelo de certificado de seguridad para buques de pasaje certificado de seguridad para buques de pasaje
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 587/2022, de 19 de julio de 2022. [Ref. BOE-A-2022-12013](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12013)
+
+> Se sustituye por el art. único.8 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+## ANEXO III — Directrices de las prescripciones de seguridad aplicables por los buques de pasaje y las naves de pasaje de gran velocidad para las personas con movilidad reducida
+
+**(Suprimido)**
+
+> Se suprime por el art. 2.2 del Real Decreto 587/2022, de 19 de julio de 2022. [Ref. BOE-A-2022-12013](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-12013)
+
+> Se sustituye por el art. único.8 del Real Decreto 457/2011, de 1 de abril. [Ref. BOE-A-2011-9086](https://www.boe.es/buscar/doc.php?id=BOE-A-2011-9086)
+
+> Se deroga, en lo que sea de aplicación a los buques de pabellón español de las clases A, B y C, por la disposición derogatoria única.1 del Real Decreto 1544/2007, de 23 de noviembre. [Ref. BOE-A-2007-20785](https://www.boe.es/buscar/doc.php?id=BOE-A-2007-20785)
+
+> Se añade por el art. único del Real Decreto 1036/2004, de 7 de mayo. [Ref. BOE-A-2004-9350](https://www.boe.es/buscar/doc.php?id=BOE-A-2004-9350)

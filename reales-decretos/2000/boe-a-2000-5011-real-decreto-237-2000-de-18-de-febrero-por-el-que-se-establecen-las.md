@@ -1,0 +1,2089 @@
+---
+title: "Real Decreto 237/2000, de 18 de febrero, por el que se establecen las especificaciones técnicas que deben cumplir los vehículos especiales para el transporte terrestre de productos alimentarios a temperatura regulada y los procedimientos para el control de conformidad con las especificaciones"
+identifier: "BOE-A-2000-5011"
+eli: "https://www.boe.es/eli/es/rd/2000/02/18/237"
+type: decree
+rank: "Real Decreto"
+jurisdiction: es
+language: es
+department: "Ministerio de Industria y Energía"
+date: 2000-02-18
+published: 2000-03-16
+in_force_from: 2000-04-05
+last_amended: 2024-12-26
+consolidated: 2025-12-18
+gazette: "Boletín Oficial del Estado núm. 65"
+status: in_force
+source: "https://www.boe.es/buscar/act.php?id=BOE-A-2000-5011"
+retrieved: 2026-10-11
+---
+
+# Real Decreto 237/2000, de 18 de febrero, por el que se establecen las especificaciones técnicas que deben cumplir los vehículos especiales para el transporte terrestre de productos alimentarios a temperatura regulada y los procedimientos para el control de conformidad con las especificaciones
+
+Incluye la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+Desde que el año 1972 se firmó el instrumento de adhesión de España al Acuerdo sobre transporte internacional de mercancías perecederas, el uso de las definiciones y normas contenidas en él, para la construcción, control y ensayo de vehículos para el transporte de estas mercancías, se ha ido extendiendo no sólo en España, sino también por el resto de Europa.
+
+El Real Decreto 2312/1985, de 24 de septiembre, por el que se aprueban las normas de homologación, ensayo e inspección del acondicionamiento térmico de los vehículos destinados al transporte de mercancías perecederas, en su anejo y apéndices transcribía gran parte del anejo 1 del citado Acuerdo, intercalándose otras normas para adaptación a la reglamentación nacional.
+
+Sin embargo, tanto el acuerdo, como la reglamentación básica de seguridad industrial, han sufrido en los últimos años importantes modificaciones que hacen aconsejable la actualización de la reglamentación nacional relativa al transporte de mercancías perecederas mediante un nuevo Real Decreto.
+
+El primer objetivo de este Real Decreto es establecer como reglamentación básica para la construcción, control y ensayo de vehículos el anejo 1 del Acuerdo que en cada momento esté en vigor, permitiendo para el transporte nacional unas especialidades perfectamente delimitadas y definidas.
+
+Por otra parte, teniendo en cuenta el marco establecido en el Real Decreto 2200/1995, de 28 de diciembre, que aprueba el Reglamento de la infraestructura para la calidad y la seguridad industrial, se asigna a los organismos de control la mayoría de las funciones relacionadas con los controles a que deben ser sometidos estos vehículos y certificaciones que deben generarse.
+
+La presente disposición ha sido sometida al procedimiento de información previsto en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de la información en materia de normas para la calidad y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, en aplicación de la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 28 de marzo.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, de acuerdo con el Consejo de Estado y previa deliberación en el Consejo de Ministros en su reunión del día 18 de febrero de 2000,
+
+DISPONGO:
+
+## Artículo 1. Normas de referencia y definiciones.
+
+1\. Las definiciones y normas de los vehículos especiales para el transporte de mercancías perecederas, recogidas en el anejo 1 y sus apéndices del Acuerdo sobre transportes internacionales de mercancías perecederas (en lo sucesivo ATP), constituyen la reglamentación técnica para la construcción, control y ensayo de los vehículos especiales para el transporte terrestre de productos alimentarios a temperatura regulada que realicen transportes íntegramente dentro del territorio nacional, con las especialidades recogidas en el anejo 1 de este Real Decreto.
+
+2\. A los efectos de lo dispuesto en este Real Decreto, se entenderá como vehículo especial, los vagones, camiones, remolques, semirremolques, contenedores, cajas móviles y otros vehículos análogos, isotermos, refrigerantes, frigoríficos o caloríficos utilizados de conformidad con la Reglamentación técnico-sanitaria sobre condiciones generales de transporte terrestre de alimentos y productos alimentarios a temperatura regulada, aprobada por Real Decreto 2483/1986, de 14 de noviembre.
+
+## Artículo 2. Certificación de conformidad de tipo.
+
+1\. Salvo los vehículos a que se refiere el apartado 4 del anejo 1, apéndice 1 del ATP, cuando son trasladados de otros países partes contratantes, todos los vehículos especiales que se pongan en servicio deberán corresponder a tipos certificados de acuerdo con este Real Decreto.
+
+No obstante lo establecido en el párrafo anterior, los vehículos especiales legalmente fabricados o comercializados en otros Estados miembros de la Unión Europea, u originarios de uno de los Estados miembros de la Asociación Europea de Libre Comercio, parte contratante del Acuerdo sobre el Espacio Económico Europeo, que respondan a normas, reglas técnicas, ensayos o procedimientos de fabricación en vigor en dichos países y que aseguren un nivel equivalente de precisión y seguridad en el uso al previsto en este Real Decreto, podrán equipararse a los vehículos especiales certificados de acuerdo con este Real Decreto, siempre que el nivel de equivalencia esté acreditado en el correspondiente certificado emitido por un organismo o estación de ensayo debidamente acreditado en el Estado de origen o procedencia del vehículo.
+
+2\. Sin perjuicio de lo previsto en el apartado anterior, los vehículos a motor y sus remolques utilizados como base para construcción de vehículos especiales deberán cumplir con la reglamentación específica de Seguridad Vial que les sea aplicable.
+
+3\. Los fabricantes españoles o de la Unión Europea o representantes legales o mandatarios de otros fabricantes extranjeros, para obtener la certificación de conformidad de tipo de un vehículo especial, deberán solicitarlo a un organismo de control que, conforme a lo dispuesto en el apartado 1 del artículo 8, pueda actuar en la Comunidad Autónoma donde esté radicado el fabricante o su representante legal o mandatario, si el fabricante es extranjero.
+
+Los organismos de control, previa constatación de que el vehículo se ajusta a los requerimientos técnicos exigibles, certificará las características del prototipo, de conformidad con el modelo establecido en el apéndice 1 del presente Real Decreto. El vehículo de referencia será sometido a los ensayos prescritos en la reglamentación vigente en una estación oficial. Caso de ser favorables los ensayos, el organismo de control emitirá un certificado de conformidad según el modelo establecido en el apéndice 2 del presente Real Decreto.
+
+4\. La estación oficial de ensayos será el túnel del frío del Ministerio de Industria y Energía, sito en Getafe, carretera de Andalucía, kilómetro 15,700.
+
+No obstante lo establecido en el párrafo anterior, por el procedimiento previsto en el Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la infraestructura para la calidad y seguridad industrial, podrán ser autorizadas otras estaciones de ensayo que cumplan con requisitos técnicos equivalentes a la estación ya autorizada.
+
+## Artículo 3. Contraseñas de tipo.
+
+1\. Los organismos de control cuando realicen actuaciones de certificación de tipo solicitarán la asignación de contraseña en la forma que el órgano competente de la Comunidad Autónoma donde esté radicado el fabricante disponga.
+
+2\. A los efectos de cumplir con las obligaciones que el ATP establece para los Estados, se mantendrá el Registro centralizado de contraseñas de tipo de vehículos especiales. Dicho registro dependerá de la Dirección General de Industria y de la Pequeña y Mediana Empresa del Ministerio de Industria, Comercio y Turismo, y adoptará medios electrónicos para su funcionamiento. Las solicitudes de alta o baja de contraseñas, se presentarán en la forma que disponga el órgano competente de la Comunidad Autónoma en la que esté radicado el fabricante ante el Registro. Las solicitudes se acompañarán del certificado de conformidad, del certificado de características, y del acta de ensayos del prototipo, y serán resueltas por el citado órgano competente.
+
+Las contraseñas de tipo estarán formadas por la letra F, seguida de un número de cinco cifras correlativas y del número del constructor asignado por el Registro.
+
+3\. De conformidad con lo establecido en el anejo 1, apéndice 2, del ATP, las contraseñas de tipo tendrán una validez máxima de 6 años a partir de la fecha del ensayo de determinación del coeficiente global de transmisión térmica K, por lo que serán dadas de baja en el Registro, de oficio, una vez transcurrido dicho plazo.
+
+> Se modifica, con efectos desde el 1 de julio de 2022, por el art. único.2 del Real Decreto 402/2021, de 8 de junio. [Ref. BOE-A-2021-10960](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10960)
+
+## Artículo 4. Reparaciones y modificaciones.
+
+1\. Sin perjuicio de lo establecido en la reglamentación específica sobre reformas de importancia u otra reglamentación específica de seguridad vial, las reparaciones u otras modificaciones que se pretenda realizar en los recintos isotermos y dispositivos térmicos de los vehículos especiales, deberán ser objeto de informe favorable de un organismo de control de conformidad con el modelo establecido en el apéndice 8 del presente Real Decreto, previo a su ejecución, y sólo podrán ser llevadas a cabo en talleres constructores de recintos isotermos para estos vehículos o talleres de reparación, cuyos medios materiales y tecnología hayan sido sometidos a una auditoría previa por un organismo de control y considerados adecuados.
+
+2\. A los efectos de la aplicación del apartado anterior, se entenderá por reparación toda aquella que suponga la reposición o sustitución de más de 1 m<sup>2</sup> de superficie exterior del recinto isotermo. Se entenderá por modificación toda aquella que altere las dimensiones exteriores del recinto isotermo o sustituya alguno de los dispositivos térmicos por otro diferente o modifique la clasificación del vehículo especial.
+
+## Artículo 5. Inspecciones de los vehículos.
+
+1\. Sólo se permitirá a un vehículo especial ser puesto o mantenido en servicio cuando haya sido sometido a las inspecciones iniciales, periódicas y excepcionales que se establecen en el ATP y este Real Decreto, con objeto de comprobar la conformidad con la reglamentación establecida, así como el mantenimiento de dicha conformidad a lo largo del tiempo.
+
+2\. Además de las comprobaciones previas a que deben ser sometidos los vehículos en las estaciones de ensayo, todas las inspecciones para el control de conformidad antes de la puesta en servicio, periódico o excepcional, serán realizadas por organismos de control que, conforme a lo dispuesto en el apartado 1 del artículo 8, puedan actuar en la Comunidad Autónoma donde se realice la inspección.
+
+Las inspecciones periódicas o excepcionales podrán también ser realizadas por estaciones de inspección técnica de vehículos (ITV), que sean autorizadas para ello por la correspondiente Comunidad Autónoma.
+
+3\. El control de conformidad antes de la puesta en servicio, o inspección inicial de los vehículos especiales, a que se hace referencia en el ATP, tiene por objeto comprobar que el vehículo ha sido fabricado por el titular de certificación de la conformidad de tipo, la verificación de los materiales utilizados, incluida la densidad del aislante, el control de la técnica de aislamiento utilizada, ausencia de rugosidad en las paredes y su continuidad, y la adaptación de la construcción en todos sus aspectos al tipo representado por el vehículo de referencia. Este control se realizará en las instalaciones del fabricante de la caja o cisterna isoterma, o de su representante legal o mandatario, si el fabricante es extranjero, durante su fabricación, y después, una vez montada la caja o cisterna sobre el vehículo portador, para comprobar la correspondencia final con el vehículo aprobado de tipo, emitiéndose un acta según el modelo establecido en el apéndice 3 del presente Real Decreto.
+
+4\. El control de conformidad de los vehículos especiales en servicio se realizará mediante inspección del vehículo, o ensayos si así lo requiere el órgano competente en materia de industria, e inspección y ensayos de sus dispositivos térmicos, para comprobar el mantenimiento de las especificaciones que permitieron su puesta en servicio. Estas inspecciones o ensayos se realizarán conforme a lo establecido en el ATP o, en su caso, en el anejo 1 de este presente Real Decreto, emitiéndose un acta según el modelo establecido en el apéndice 7 del presente Real Decreto.
+
+5\. Cuando las características del vehículo especial o de sus equipos hayan podido ser alteradas como consecuencia de una reparación o modificación, se ha de efectuar una inspección excepcional por el organismo de control que haya emitido el informe favorable a la reparación o modificación efectuada, emitiéndose un acta según el modelo establecido en el apéndice 9 del presente Real Decreto.
+
+6\. En aplicación de lo dispuesto en la Norma general relativa a los ultracongelados destinados a la alimentación humana, aprobada por Real Decreto 1109/1991, de 12 de julio, no estarán sujetos a la obligación de instalar un dispositivo apropiado de medida y registro de la temperatura en el interior de la caja (termógrafo) los vehículos de las clases RRC, FRC y FRF, cuando no realicen transporte de productos ultracongelados, ni tampoco en la distribución local, durante la que podrá instalarse un termómetro colocado en lugar fácilmente visible.
+
+No obstante lo anterior, en aplicación de lo dispuesto en la Orden de 2 de septiembre de 1996 que regula el control metrológico de los termógrafos, durante la inspección de los vehículos, se comprobará el cumplimiento de los plazos de verificación periódica de dichos dispositivos, cuando los vehículos los lleven incorporados.
+
+## Artículo 6. Placa de identificación y ficha de características.
+
+1\. En el caso de inspecciones iniciales de vehículos especiales, si ésta es favorable, el fabricante instalará una placa según modelo que figura en el apéndice 10 del presente Real Decreto, previo troquelado por el organismo de control de todos los datos que en ella deban figurar, incluida la fecha de inspección y el sello del organismo, obteniéndose previamente por el organismo un facsímil por duplicado de la placa. Además, el organismo de control emitirá una ficha de características conforme al modelo que figura en el apéndice 4 del presente Real Decreto. La ficha de características y el facsímil de la placa de fabricante serán presentados por triplicado junto con el certificado de carrozado del vehículo, en la estación ITV que haga la inspección del vehículo para la expedición de la tarjeta ITV. La estación ITV, o la dependencia que la Comunidad Autónoma disponga, archivará una de las copias, sellando las otras y entregándoselas al propietario, quien conservará una en su poder, para las futuras renovaciones del certificado de conformidad, entregando la otra al organismo de control, para su archivo.
+
+2\. En el caso de vehículos especiales trasladados desde otro país Parte Contratante del ATP, para su matriculación en España, en aplicación de lo establecido en el apartado 4 de su anejo 1, apéndice 1, una vez obtenido el certificado de conformidad a que se hace referencia en el apartado 4 del artículo 9, un organismo de control deberá troquelar e instalar la placa a que hace referencia en el apartado anterior, si no la llevase o estuviera incompleta, haciendo constar en el apartado «Contraseña de tipo» el número de acta de ensayo de la estación oficial, bien del vehículo o del vehículo de referencia. Igualmente obtendrá su facsímil y emitirá la ficha de características, procediéndose con estos documentos de la misma forma que en el apartado anterior.
+
+3\. Tras las inspecciones excepcionales a que haya sido sometido el vehículo especial por reparación o modificación, si alguna de sus características ha sido alterada, el organismo de control o estación ITV emitirá una nueva ficha de características por triplicado, anulándose la anterior en poder del propietario. La nueva ficha de características, así como la anterior anulada, serán remitidas a la estación ITV donde el vehículo pasó inspección para matriculación, o dependencia donde se encuentre archivada la ficha de características inicial, procediéndose de la misma forma que en el apartado 1 de este artículo.
+
+4\. En el caso de pérdida de la placa a la que se hace referencia en este artículo, un organismo de control, previas las comprobaciones necesarias, troquelará e instalará una nueva placa con los datos que figuraban en el facsímil de la anterior, sacando nuevo facsímil, anulando el anterior y procediendo de la misma forma que con la ficha de características del apartado anterior.
+
+En caso de pérdida de la ficha de características, se solicitará un duplicado al organismo de control depositario de la ficha sellada por la estación ITV.
+
+## Artículo 7. Certificado de conformidad del vehículo.
+
+1\. Todos los vehículos especiales matriculados en España, para poder transportar por territorio nacional alimentos o productos alimentarios a temperatura regulada, sometidos a reglamentación técnico-sanitaria, deberán llevar a bordo, durante la operación de transporte, uno de los modelos de certificado de conformidad que se establecen en el artículo 9, o fotocopia de él autentificada por el organismo de control emisor. Dicho documento deberá ser presentado a requerimiento de cualquiera de los órganos competentes en materia de sanidad, transportes o industria, o de sus agentes.
+
+2\. En el caso de vehículos matriculados en otro país firmante del Acuerdo ATP, el certificado de conformidad deberá ser del modelo establecido en el ATP.
+
+3\. Si el vehículo tiene fijada la placa de certificación de conformidad que se reproduce en el apéndice 3 del ATP, no será exigible llevar a bordo el certificado de conformidad, en contra de lo establecido en los apartados 1 y 2 de este artículo.
+
+4\. Tanto el certificado de conformidad como la placa de certificación a que hace referencia este artículo deberán ser entregados a requerimiento del organismo de control o estación ITV que los emitió o al órgano competente de la Comunidad Autónoma, cuando el vehículo especial deje de cumplir las especificaciones técnicas requeridas, o al final de su plazo de validez. La placa debe ser retirada de su lugar de fijación cuando finalice el plazo de validez.
+
+## Artículo 8. Requisitos a cumplir por los organismos de control.
+
+1\. Los organismos de control serán acreditados, autorizados y se notificarán, según se dispone en la sección 1.ª del capítulo IV del Reglamento de infraestructura para la calidad y seguridad industrial, aprobado por Real Decreto 2200/1995, de 28 de diciembre.
+
+Los organismos de control y las estaciones ITV para realizar las distintas actividades enunciadas deberán estar acreditados conforme a la norma EN 45.004 y cumplir con los requisitos adicionales establecidos en el anejo 3 del presente Real Decreto.
+
+2\. Cuando del informe o certificación de un organismo de control o estación ITV no resulte acreditado el cumplimiento de las exigencias reglamentarias, el interesado podrá manifestar su disconformidad o desacuerdo por el procedimiento previsto en el artículo 16 de la Ley 21/1992, de Industria. En tanto no exista una revocación del informe o certificación negativa por parte de la Administración, el interesado no podrá solicitar el mismo control de otro organismo.
+
+## Artículo 9. Emisión de los certificados de conformidad.
+
+1\. Por cada vehículo especial que haya pasado una inspección satisfactoria que acredite el cumplimiento de la reglamentación técnica general, según lo establecido en el artículo 6, se expedirá un certificado de conformidad según el modelo del apéndice 5 del presente Real Decreto.
+
+A petición del interesado, el organismo de control o la estación ITV confeccionará una placa conforme el modelo descrito en el anejo 1, apéndice 3 del ATP, según las especificaciones en él descritas. En el apartado «Autorización», figurará una «E» seguida de guión y del número de certificado de conformidad.
+
+Tanto los datos de autorización, como la identificación del vehículo y fecha de validez estarán troquelados. Igualmente el organismo de control o estación ITV troquelará su marca.
+
+2\. En los casos en que el vehículo vaya a ser utilizado únicamente en territorio nacional, conforme a lo establecido en el anejo 1 del presente Real Decreto, será expedido un certificado de conformidad según modelo del apéndice 6 del presente Real Decreto.
+
+3\. Salvo en los casos a que se refiere el siguiente apartado, el organismo de control o estación ITV, que haya realizado la inspección, emitirá y firmará los certificados de conformidad.
+
+4\. En los casos en que deba emitirse certificados de conformidad a vehículos trasladados de otro país parte contratante del ATP, en aplicación de lo establecido en el apartado 4 del anejo 1, apéndice 1 del ATP, la emisión será realizada por el órgano competente en materia de industria de la Comunidad Autónoma del domicilio del solicitante.
+
+5\. Los certificados de conformidad serán emitidos de forma electrónica y serán firmados electrónicamente con firma avanzada basada en certificado reconocido e incorporarán código de verificación. La emisión de certificados de conformidad no será posible si no se satisfacen las disposiciones del apartado 1 del anejo 4 del presente Real Decreto.
+
+6\. Los organismos de control y estaciones ITV remitirán al Registro electrónico de contraseñas de tipo previsto en el artículo 3 copia de los certificados de conformidad del vehículo emitidos, tanto iniciales como sucesivos, quedando estos a disposición de los órganos competentes de las Comunidades Autónomas. En el caso de haberse efectuado ensayo de verificación del coeficiente global de transmisión térmica K se remitirá a dicho Registro copia del acta de ensayo.
+
+> Se añaden los apartados 5 y 6, con efectos desde el 1 de julio de 2022, por el art. único.1 del Real Decreto 402/2021, de 8 de junio. [Ref. BOE-A-2021-10960](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10960)
+
+> Se modifica el apartado 4 por el art. único del Real Decreto 380/2001, de 6 de abril. [Ref. BOE-A-2001-7795](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-7795)
+
+## Artículo 10. Documentación generada.
+
+1\. Como consecuencia de las actuaciones de los organismos de control o estaciones ITV establecidas en los artículos anteriores, dichos organismos generarán los documentos que se relacionan para cada caso en el anejo 2 del presente Real Decreto.
+
+2\. Los documentos a que se hace referencia en el apartado 1 de este artículo, incluidas las actas negativas, así como las actas de ensayo de la estación oficial, serán archivados y custodiados por el organismo de control o estación ITV durante un plazo de al menos diez años o hasta la fecha de caducidad del documento, si es superior a diez años, estando en todo momento a disposición del órgano competente de la Comunidad Autónoma donde se ha realizado la actuación. Sin embargo, con independencia de lo establecido en el artículo 3 para el registro de tipo, en el caso de certificaciones de tipo, inspecciones iniciales e inspecciones excepcionales, será remitida copia de los documentos al órgano competente de la Comunidad Autónoma, en la forma que éste determine.
+
+## Disposición transitoria primera. Validez de las certificaciones vigentes.
+
+Los certificados y homologaciones concedidos hasta la entrada en vigor del presente Real Decreto seguirán teniendo la validez establecida en las disposiciones en base a las cuales fueron emitidos.
+
+## Disposición transitoria segunda. Documentación de los vehículos en servicio.
+
+Durante la primera inspección, para renovación del certificado de conformidad o certificado de autorización, a que sean sometidos los vehículos especiales matriculados en España con anterioridad a la entrada en vigor del presente Real Decreto, el organismo de control deberá emitir una ficha de características y grabar una placa de fabricante, si el vehículo no dispusiese de ella, conforme a los modelos que figuran en los apéndices 4 y 10 del presente Real Decreto, respectivamente. El organismo de control emitirá y sellará ejemplares del facsímil de la placa y de la ficha de características, haciendo constar que se emiten en aplicación de esta disposición transitoria, remitiendo un ejemplar de cada al órgano competente en materia de industria de la provincia donde esté matriculado el vehículo, y entregando el otro juego al propietario del vehículo, quien lo conservará en su poder para futuras renovaciones del certificado de conformidad, y archivando el otro juego.
+
+Los datos que deben figurar en la ficha y en la placa se obtendrán de la documentación aportada por el propietario, de las actas de ensayo de la estación oficial, o de las comprobaciones físicas sobre el vehículo, haciéndose constar cuáles no han podido ser obtenidos.
+
+## Disposición derogatoria única. Normativa específica.
+
+Queda derogado el Real Decreto 2312/1985, de 24 de septiembre, por el que se aprueban las normas de homologación, ensayo e inspección del acondicionamiento térmico de los vehículos destinados al transporte de mercancías perecederas y, en general, cuantas disposiciones de igual o inferior rango sean contrarias a lo dispuesto en este Real Decreto.
+
+## Disposición final única. Habilitación normativa.
+
+Se faculta al Ministro de Industria y Energía para dictar las disposiciones necesarias para el desarrollo y ejecución del presente Real Decreto, así como para modificar los anejos y apéndices del mismo.
+
+Dado en Madrid a 18 de febrero de 2000.
+
+JUAN CARLOS R.
+
+El Ministro de Industria y Energía,
+
+JOSEP PIQUÉ I CAMPS
+
+## ANEJO 1 — Especialidades
+
+A. Para transporte nacional, podrán ser certificados de tipo o ser puestos o mantenidos en servicio, según el caso, los siguientes vehículos:
+
+1\. Podrán ser puestos en servicio y mantenidos aquellos vehículos isotermos especiales que, cumpliendo con todo lo establecido en el presente real decreto, en la tramitación de conformidad de tipo, hagan constar que son para construcción en “kit”, y que una vez ensambladas constituyan una caja cerrada isoterma, y que los componentes hayan sido construidos en “kit” por el fabricante titular de la certificación de prototipo, aunque el ensamblaje final sea realizado por otro fabricante, siempre que ambos fabricantes tengan implantado sistemas de calidad certificados conforme a la norma ISO 9000 por organismos de certificación acreditados según el Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, modificado por el Real Decreto 338/2010, de 19 de marzo.
+
+Se entiende por el “kit” el conjunto de partes y piezas necesarias para que una vez ensambladas constituyan una caja cerrada isoterma.
+
+No obstante lo anterior, la construcción en “kit” esta limitada exclusivamente a las cajas paralelepipédicas (excluidas por lo tanto las furgonetas o furgones) que se construyan para ser montadas mecánicamente en un vehículo incompleto por un fabricante de segunda fase, mediante fijaciones mecánicas de tipo permanente.
+
+Todo el proceso de construcción de estas cajas paralelepipédicas en forma de “kit” será controlada por el mismo organismo de control autorizado. A estos efectos, se controlarán los componentes proporcionados por el titular de la aprobación de tipo y el ensamblaje por el otro fabricante, incluyendo el montaje mecánico en el vehículo incompleto por un fabricante de segunda fase.
+
+Dicho organismo de control es el responsable del envío de una de cada diez que se fabriquen, cajas montadas ya en el vehículo incompleto, a una estación de ensayo autorizada para la verificación del coeficiente “k”, según el párrafo 26 del Acuerdo ATP, anexo 1, apéndice 2.
+
+El fabricante de segunda fase que realiza el ensamblaje final deberá estar inscrito en el Registro de contraseñas del Ministerio de Industria, Turismo y Comercio, como tal y contar al menos con tres certificaciones de conformidad de tipo vigentes en todo momento, del tipo “F” (internacionales), de conformidad con el Acuerdo ATP y el presente real decreto.
+
+2\. Podrán ser mantenidos en servicio los vehículos refrigerantes puestos en servicio antes del 1 de febrero de 1997, cuya reserva de frío fue determinada mediante cálculo conforme a los criterios establecidos en el apéndice 11 del presente real decreto.
+
+3\. Los vehículos multicompartimento que sean conformes a lo establecido en el apéndice 12 del presente real decreto, podrán ser certificados de tipo y puestos en servicio.
+
+4\. Los vehículos cuyo número de puertas sea superior al del vehículo de referencia, pero cuyo perímetro total de puertas sea igual o inferior, podrán ser puestos en servicio y mantenidos.
+
+5\. Cuando un vehículo refrigerante por placas eutécticas fijas, en relación con un vehículo refrigerante certificado de tipo, tenga una fuente de frío cuya potencia de motor por unidad de superficie interior sea igual o superior y la superficie de placas eutécticas por unidad de superficie interior sea igual o superior, siempre que el fluido frigorígeno sea el mismo y ambas soluciones eutécticas tengan la misma temperatura de congelación, podrá considerarse del mismo tipo y ponerse en servicio y mantenerse.
+
+B. Las contraseñas de tipo concedidas conforme a lo dispuesto en este anejo estarán formadas por la letra “N”, seguida de un número de cinco cifras correlativas y del número de constructor asignado por el Registro.
+
+C. El primer control de conformidad de los vehículos especiales, posterior a su puesta en servicio, se realizará a los seis años de la inspección previa a su puesta en servicio, o antes si la autoridad competente lo requiere.
+
+Los controles posteriores se realizarán cada tres años o antes si la autoridad competente lo requiere.
+
+> Se modifica por el art. único.1 de la Orden ITC/2590/2010, de 30 de septiembre. [Ref. BOE-A-2010-15287](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15287)
+
+> Se modifica el apartado A.1 por el apartado 1 de la Orden de 15 de octubre de 2001. [Ref. BOE-A-2001-19999](https://www.boe.es/buscar/doc.php?id=BOE-A-2001-19999)
+
+## ANEJO 2 — Documentos a generar por los organismos de control
+
+a) Certificación de prototipo de vehículos especiales:
+
+1.º Certificado de características de un prototipo de vehículo especial (apéndice 1).
+
+2.º Certificado de conformidad del tipo con los requisitos reglamentarios (apéndice 2).
+
+b) Inspección inicial, antes de la puesta en servicio, de vehículos especiales:
+
+1.º Acta de conformidad del vehículo especial con el tipo (apéndice 3).
+
+2.º Ficha de características del vehículo especial (apéndice 4).
+
+3.º Certificado de conformidad del vehículo (apéndice 5 ó 6) (archivar copia).
+
+c) Inspecciones periódicas de vehículos especiales:
+
+1.º Acta de inspección periódica de un vehículo especial (apéndice 7).
+
+2.º Certificado de conformidad del vehículo (apéndice 5 ó 6) (archivar copia).
+
+d) Inspecciones excepcionales:
+
+1.º Informe previo a la modificación o reparación del vehículo especial (apéndice 8).
+
+2.º Acta de inspección excepcional de un vehículo especial (apéndice 9).
+
+3.º Ficha de características del vehículo especial (tras su modificación o reparación) (apéndice 4).
+
+4.º Certificado de conformidad del vehículo (apéndice 5 ó 6) (archivar copia).
+
+## ANEJO 3 — Requisitos de los procedimientos y equipos de inspección
+
+Los organismos de control deberán disponer al menos de los equipos de inspección que figuran en el cuadro 1, y de los procedimientos técnicos que figuran en el cuadro 2.
+
+Cuadro 1
+
+Equipos de inspección mínimos
+
+| Flexómetro. |
+|---|
+| Calibre. |
+| Pinza amperimétrica, vatímetro. |
+| Resistencia de aletas. |
+| Registrador de temperaturas. |
+| Balanza de precisión *. |
+| Lámpara autónoma. |
+| Troqueles alfanuméricos. |
+| Cámara fotográfica. |
+
+*No exigible a las estaciones ITV.
+
+Los equipos de inspección, estarán sujetos al control metrológico del Estado, de acuerdo con lo establecido en el capítulo III de la Ley 32/2014, de 22 de diciembre, de Metrología, y las disposiciones reglamentarias para su aplicación y desarrollo, cuando exista.
+
+Cuadro 2
+
+Procedimientos técnicos
+
+| Auditoría de conformidad de la producción *. |
+|---|
+| Certificación de conformidad de tipo *. |
+| Inspección de fabricación *. |
+| Inspección inicial *. |
+| Inspección periódica. |
+| Inspección excepcional. |
+
+*No exigible a las estaciones ITV.
+
+> Se modifica, con efectos de 1 de julio de 2021, por el art. único.1 de la Orden ICT/370/2021, de 14 de abril. [Ref. BOE-A-2021-6389](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6389)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## ANEJO 4 — Requisitos para el cumplimiento del Acuerdo ATP en relación con las inspecciones, modificaciones, conformidad de la producción en serie y conformidad de unidades en servicio
+
+1\. Disposiciones relativas a garantizar la conformidad de la producción en serie del fabricante de unidades de transporte.
+
+a) Verificación inicial del fabricante. Antes de emitir el primer certificado de conformidad de tipo a un fabricante, un organismo de control verificará la existencia y la aplicación de procedimientos que permitan el control efectivo de la conformidad de los productos con el tipo a aprobar.
+
+Para evaluar el cumplimento de este requisito podrá tomarse como base un sistema de gestión de la calidad del fabricante certificado según la norma UNE EN ISO 9001, en su versión vigente, o norma equivalente, emitido por una entidad de certificación acreditada, que permita asegurar la conformidad de producto con el tipo a aprobar.
+
+En el caso de fabricantes de vehículos sometidos a conformidad de la producción según el artículo 9 del Real Decreto 750/2010, de 4 de junio, por el que se regulan los procedimientos de homologación de vehículos de motor y sus remolques, máquinas autopropulsadas o remolcadas, vehículos agrícolas, así como de sistemas, partes y piezas de dichos vehículos, también podrá tomarse como base el certificado de conformidad vigente en el momento de la verificación.
+
+En caso contrario, la evaluación inicial se efectuará a satisfacción del organismo de control, emitiendo la correspondiente documentación justificativa de dicha actuación.
+
+Una vez superada la evaluación inicial, el organismo de control solicitará la inscripción del fabricante en el Registro de contraseñas de tipo de vehículos especiales previsto en el artículo 3 de este real decreto, de acuerdo con el procedimiento establecido en el mismo. Dicha inscripción se efectuará aportando el documento que detalle la evaluación efectuada y su resultado.
+
+b) Disposiciones de conformidad del producto. Durante el control de fabricación que se ejecuta como parte del control de conformidad antes de la puesta en servicio de los vehículos especiales, definido en el artículo 5.3 de este real decreto, el organismo de control comprobará lo siguiente:
+
+i) La unidad de transporte ha sido fabricada por el titular de la certificación de conformidad de tipo, llevando a cabo la producción de las unidades correspondientes, dispuestas para su utilización por parte del cliente final.
+
+ii) El fabricante dispone de un certificado de conformidad de la producción ATP vigente, o, en su caso, de verificación inicial, con las excepciones previstas en la disposición transitoria segunda.
+
+iii) La unidad se corresponde en todos sus aspectos al tipo representado por el vehículo de referencia. Para ello, verificará que se cumplen las condiciones mínimas establecidas en el anexo 1, apéndice 1, del Acuerdo ATP, para considerar la unidad fabricada perteneciente al mismo tipo que la unidad sometida a ensayo.
+
+c) Verificación continua del fabricante:
+
+La conformidad de la producción deberá evaluarse de forma periódica por un organismo de control cada tres años. La primera auditoría se producirá a los tres años desde la fecha de inscripción del fabricante en el Registro de contraseñas de tipo de vehículos especiales.
+
+Las disposiciones para estas auditorías periódicas consistirán en un seguimiento de la eficacia continua de los procedimientos establecidos en el apartado 1.a).
+
+Además, en cada revisión de verificación continua, el organismo de control comprobará que el fabricante ha efectuado, como mínimo, un ensayo para la verificación del coeficiente global de transmisión térmica K sobre una unidad fabricada conforme a algún tipo aprobado con contraseña vigente en el momento del ensayo.
+
+Cuando se obtengan resultados insatisfactorios, el organismo de control deberá asegurarse de que se toman todas las medidas necesarias para restablecer la conformidad de la producción a la mayor brevedad. Se concederá un periodo máximo de tres meses durante los cuales podrán seguir emitiéndose certificados de conformidad para ese fabricante.
+
+Una vez superada esta verificación continua de la conformidad de la producción el organismo de control emitirá un certificado de conformidad de la producción ATP, con validez de tres años, que será remitido al Registro de contraseñas de tipo de vehículos especiales, junto con el acta del ensayo de verificación efectuado.
+
+2\. Las modificaciones de la caja o cisterna u otros recintos isotermos, definidas en el artículo 4 del presente real decreto, estarán limitadas por las reglas definidas para considerar una unidad perteneciente a un tipo definidas en el anexo 1, apéndice 1 del Acuerdo ATP, esto es, garantizando que la caja, cisterna o recinto isotermo modificado sigue correspondiendo al tipo aprobado.
+
+Las modificaciones sobre el recinto isotermo podrán realizarse únicamente por un fabricante de vehículos especiales isotermos que tenga como mínimo una aprobación de tipo F internacional vigente.
+
+3\. De conformidad con el anejo 1, apéndice 2 del Acuerdo ATP, en su apartado 5. Control de isotermia de las unidades en servicio:
+
+a) En el caso general, los vehículos deberán someterse a un ensayo de verificación del coeficiente global de transmisión térmica K cuando se alcance una antigüedad de 15 años desde la fecha de fabricación del recinto isotermo, como condición necesaria para la renovación del correspondiente Certificado de Autorización para el Transporte de Mercancías Perecederas (ATP, o en su caso TMP), sin perjuicio del control de eficacia de los dispositivos térmicos, cuando sea de aplicación. Dicho ensayo, deberá efectuarse en una estación de ensayos designada según el artículo 2 del presente real decreto. La categoría que, en su caso, se asignará a cada vehículo en la renovación del certificado será la obtenida en el ensayo correspondiente.
+
+b) En caso de ser mantenidos en servicio, los vehículos volverán a someterse a un ensayo de verificación del coeficiente global de transmisión térmica K cuando se alcance una antigüedad de 24 años desde la fecha de fabricación, y a partir de ese momento, cada tres años.
+
+c) Para la emisión de los certificados de las unidades con una antigüedad de más de 12 años, como resultado de cualquier tipo de inspección, deberá tenerse en cuenta que la fecha de validez debe ser como máximo la que corresponda a los 15 años desde la fecha de fabricación del recinto isotermo. Del mismo modo, esta circunstancia deberá tenerse en cuenta si es necesario renovar certificados a vehículos que deben volver a verificarse de acuerdo con el párrafo anterior.
+
+d) Para aquellos vehículos que efectúen únicamente transporte de mercancías perecederas por territorio de la Comunidad Autónoma de Canarias, lo establecido en las anteriores letras a), b) y c) será de aplicación a partir del día 1 de julio de 2026.
+
+4\. Las estaciones de ensayo deberán utilizar los mecanismos adecuados que impidan el cierre total de las bocas de hombre mientras se efectúan labores en el interior de una unidad cisterna, estando dichos mecanismos vinculados al arnés de seguridad que deberá portar el personal que efectúa el ensayo.
+
+> Se modifica la letra d) del apartado 3 por el art. 1 de la Orden ITU/1468/2024, de 11 de diciembre. [Ref. BOE-A-2024-27081](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-27081)
+
+> Se añade la letra d) al apartado 3 por el art. 1 de la Orden ICT/473/2023, de 10 de mayo. [Ref. BOE-A-2023-11189](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-11189)
+
+> Se modifica, con efectos de 1 de julio de 2021, por el art. único.3 de la Orden ICT/370/2021, de 14 de abril. [Ref. BOE-A-2021-6389](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6389)
+
+> Se deroga el apartado 4 por la disposición derogatoria única.3 del Real Decreto 542/2020, de 26 de mayo. [Ref. BOE-A-2020-6472](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-6472)
+
+> Se añade por el art. único.2 de la Orden ITC/2590/2010, de 30 de septiembre. [Ref. BOE-A-2010-15287](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15287)
+
+## APÉNDICE 1 — Certificado de características de un prototipo de vehículo especial
+
+Organismo de control......................................................................................................
+
+Certificado número .........................................................................................................
+
+Nombre del Inspector......................................................................................................
+
+Fecha de la inspección ..................................................................................................
+
+Lugar de la inspección ...................................................................................................
+
+Especificaciones de la caja
+
+Marca y tipo .................................. Número de identificación ........................................
+
+Construida por ................................................................................................................
+
+Perteneciente o explotada por .......................................................................................
+
+Presentada por ...............................................................................................................
+
+Fecha de contrucción......................................................................................................
+
+Carga útil .................................................................................................................. kg.
+
+Dimensiones principales:
+
+Exteriores: Largo ................... m. Ancho ................... m. Alto ................................... m.
+
+Interiores: Largo ................ m. Ancho ................... m. Alto ....................................... m.
+
+Superficie total del suelo de la caja .......................................................................... m<sup>2</sup>.
+
+Volumen interior total utilizable de la caja ................................................................ m<sup>3</sup>.
+
+Superficie total interior de las paredes de la caja S<sub>i</sub> ................................................ m<sup>2</sup>.
+
+Superficie total exterior de las paredes de la caja S<sub>e</sub> ............................................... m<sup>2</sup>.
+
+Superficie media S=√S<sub>i</sub>•S<sub>e</sub> ...................................................................................... m<sup>2</sup>.
+
+Especificaciones de las paredes de la caja (1):
+
+Techo ..............................................................................................................................
+
+Suelo ..............................................................................................................................
+
+Paredes laterales ...........................................................................................................
+
+Tabique interior fijo longitudinal/transversal (2) (3):
+
+Distancia interior a pared delantera o lateral izquierda ..............................................m.
+
+Especificaciones ............................................................................................................
+
+Particularidades de la estructura exterior de la caja (4):
+
+Número, situación y dimensiones:
+
+De las puertas ................................................................................................................
+
+De las ventanas .............................................................................................................
+
+De los orificios de carga de hielo ...................................................................................
+
+Equipos interiores o dispositivos accesorios (5): ...........................................................
+
+Especificaciones de la cisterna
+
+Marca y tipo .................................. Número de identificación ........................................
+
+Construida por ...............................................................................................................
+
+Perteneciente o explotada por .......................................................................................
+
+Presentada por ...............................................................................................................
+
+Fecha de contrucción .....................................................................................................
+
+Dimensiones principales:
+
+En el exterior: longitud del cilindro ............................................................................ m.
+
+Eje mayor .................................................................................................................. m.
+
+Eje menor .................................................................................................................. m.
+
+En el interior: longitud del cilindro ............................................................................. m.
+
+Eje mayor .................................................................................................................. m.
+
+Eje menor .................................................................................................................. m.
+
+Volumen interior útil .................................................................................................. m<sup>3</sup>.
+
+Volumen interior de cada compartimento ................................................................. m<sup>3</sup>.
+
+Superficie total interior de la cisterna S<sub>i</sub> ................................................................... m<sup>2</sup>.
+
+Superficie total interior de cada compartimento
+
+S<sub>i1 </sub>............... m<sup>2</sup>.
+
+S<sub>i2 </sub>............... m<sup>2</sup>.
+
+Superficie total exterior de la cisterna S<sub>e </sub>.................................................................. m<sup>2</sup>.
+
+Superficie media de la cisterna S=√S<sub>i</sub>S<sub>e </sub>................................................................ m<sup>2</sup>.
+
+Especificaciones de las paredes de la cisterna (1):
+
+Particularidades de la estructura de la cisterna (4):
+
+Número, situación y dimensiones de las bocas de hombre .........................................................................................................................................................................................
+
+Descripción de las tapas de las bocas de hombre .........................................................
+
+Número dimensiones y descripción de las tuberías de vaciado ...................................................................................................................................................................................
+
+Equipos interiores o dispositivos accesorios (5): ...........................................................
+
+Especificaciones de los dispositivos de enfriamiento mediante hielo hídrico o carbónico para vehículos refrigerantes
+
+Descripción del dispositivo de enfriamiento ...................................................................
+
+Naturaleza del frigorígeno................................................................................................
+
+Carga nominal del frigorígeno indicada por el constructor ....................................... kg.
+
+Funcionamiento autónomo/no autónomo conectado a una instalación central (3) ......................................................................................................................................................
+
+Dispositivo de enfriamiento móvil/no móvil (3)
+
+Fabricante ......................................................................................................................
+
+Tipo, serie/número de fabricación ..................................................................................
+
+Año de fabricación..........................................................................................................
+
+Dispositivo de carga (descripción, situación), adjúntese un croquis en caso necesario ...............................................................................................................................................
+
+Dispositivos de ventilación interior:
+
+Descripción (número de aparatos, etc.) .........................................................................
+
+Potencia de los ventiladores eléctricos ..................................................................... W.
+
+Caudal .................................................................................................................... m<sup>3</sup>/h.
+
+Dimensiones de los conductos: sección transversal ................................................ m<sup>2</sup>.
+
+Lontigud .................................................................................................................... m.
+
+Pantalla de toma de aire: descripción (6).
+
+Dispositivos de automatización ......................................................................................
+
+Especificaciones de los dispositivos de enfriamiento mediante placas eutécticas para vehículos refrigerantes
+
+Descripción ....................................................................................................................
+
+Naturaleza de la solución eutéctica ...............................................................................
+
+Carga nominal de solución eutéctica indicada por el fabricante .............................. kg.
+
+Calor latente a la temperatura de congelación indicada por el fabricante ............... kJ/kg a ............... ºC.
+
+Funcionamiento autónomo/no autónomo/conectado a una instalación central (3) ......................................................................................................................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Placas eutécticas: Marca .............................................. Tipo ........................................
+
+Dimensiones, número, emplazamiento de las placas, distancia con relación a las paredes (adjuntar croquis) ...................................................................................................
+
+Reserva de frío total declarado por el fabricante para una temperatura de congelación de ............................................................... ºC ................................. W.
+
+Dispositivo de ventilación interior (si hay):
+
+Descripción ....................................................................................................................
+
+Dispositivos de automatización ......................................................................................
+
+Equipo frigorífico (si hay):
+
+Marca ................................. Tipo ................................. Número ....................................
+
+Emplazamiento ..............................................................................................................
+
+Compresor: Marca ...................................................... Tipo ...........................................
+
+Modo de accionamiento .................................................................................................
+
+Potencia del motor de accionamiento kW a .......................................................... rpm.
+
+Naturaleza del frigorígeno ..............................................................................................
+
+Condensador ..................................................................................................................
+
+Potencia frigorífica indicada por el fabricante para la temperatura de congelación declarada y para una temperatura de +30 ºC ..................................................................W.
+
+Dispositivos de automatización:
+
+Desescarche (si hay) .....................................................................................................
+
+Termostato .....................................................................................................................
+
+Presostato BP ................................................................................................................
+
+Presostato HP ................................................................................................................
+
+Válvula de expansión .....................................................................................................
+
+Otros...............................................................................................................................
+
+Dispositivos accesorios:
+
+Dispositivos de calentamiento eléctrico de las juntas de las puertas.
+
+Potencia por metro lineal de resistencia ................................................................ W/m.
+
+Longitud lineal de resistencia..................................................................................... m.
+
+Especificaciones de los dispositivos de enfriamiento mediante gas licuado para vehículos refrigerantes
+
+Descripción ....................................................................................................................
+
+Funcionamiento de manera autónoma/no autónoma/conectado a una estación central (3).
+
+Dispositivo de enfriamiento móvil/no móvil (3).
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Naturaleza del frigorígeno .............................................................................................
+
+Carga nominal del frigorígeno indicada por el constructor ....................................... kg.
+
+Descripción del depósito ................................................................................................
+
+Dispositivo de carga (descripción, situación) .................................................................
+
+Dispositivos de ventilación interior:
+
+Descripción (número de aparatos, etc.) .........................................................................
+
+Potencia de los ventiladores eléctricos ..................................................................... W.
+
+Caudal .................................................................................................................... m<sup>3</sup>/h.
+
+Dimensiones de los conductos: sección transversal ............ m<sup>2 </sup>; longitud ............... m.
+
+Dispositivos de automatización ......................................................................................
+
+Especificaciones de las máquinas frigoríficas para vehículos frigoríficos
+
+Funcionamiento de forma autónoma/no autónoma conectada a una instalación central (3).
+
+Máquinas frigoríficas movibles/no movibles (3).
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Naturaleza del frigorígeno y carga .................................................................................
+
+Portencia frigorífica útil indicada por el constructor para una temperatura exterior de +30 ºC y para una temperatura interior de:
+
+0 ºC ................................................. W
+
+-10 ºC ............................................. W
+
+-20 ºC ............................................. W
+
+Compresor:
+
+Marca .............................................................. Tipo ......................................................
+
+Modo de accionamiento: eléctrico/térmico/hidráulico (3).
+
+Condensador .................................................................................................................
+
+Evaporador .....................................................................................................................
+
+Motor del/de los ventiladores: Marca ............................... tipo ......................................
+
+número .......................................... potencia ........................ kW a ....................... rpm.
+
+Dispositivos de ventilación interior:
+
+Descripción (número de aparatos, etc.) .........................................................................
+
+Potencia de los ventiladores eléctricos ..................................................................... W.
+
+Caudal ................................................................................................................... m<sup>3</sup>/h.
+
+Dimensiones de los conductos: sección transversal ......................... m<sup>2 </sup>; longitud ......................... m.
+
+Dispositivos de automatización:
+
+Marca ................................................................. Tipo ...................................................
+
+Desescarche (si procede) ..............................................................................................
+
+Termostato .....................................................................................................................
+
+Presostato BP ................................................................................................................
+
+Presostato HP ................................................................................................................
+
+Válvula de expansión .....................................................................................................
+
+Otros ..............................................................................................................................
+
+Especificaciones de los dispositivos de calentamiento para vehículos caloríficos
+
+Descripción ....................................................................................................................
+
+Funcionamiento de forma autónoma/no autónoma conectada a una instalación central (3).
+
+Dispositivos de calentamiento móvil/fija (3).
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Emplazamiento ..............................................................................................................
+
+Superficie global de intercambio de calor ................................................................ m<sup>2</sup>.
+
+Potencia útil indicada por el fabricante ................................................................... kW.
+
+Dispositivos de ventilación interior:
+
+Descripción (número de aparatos, etc.) .........................................................................
+
+Potencia de los ventiladores eléctricos ..................................................................... W.
+
+Caudal ................................................................................................................... m<sup>3</sup>/h.
+
+Dimensiones de los conductos: sección transversal ......................... m<sup>2</sup>, longitud ......................... m.
+
+El abajo firmante certifica que todas las características contenidas en este documento han sido comprobadas por el inspector de este organismo en la fecha y en el lugar que constan al principio.
+
+............................................................., a ................ de ............................ de 200....
+
+El Director técnico del organismo de control
+
+Fdo.:
+
+(1) Naturaleza y espesor de los materiales que constituyen las paredes de la caja, del interior al exterior, modo de construcción, etc.
+
+(2) Abrir un apartado por cada tabique existente. Si no existen, eliminar el apartado.
+
+(3) Táchese lo que no proceda.
+
+(4) Si existen irregularidades en la superficie, indicar el tipo de cálculo efectuado para determinar S<sub>i</sub> y S<sub>e</sub>.
+
+(5) Barras portacarnes, ventiladores, «flettners», etc.
+
+(6) Suprimir este punto si no tiene objeto.
+
+## APÉNDICE 2 — Certificado de conformidad con los requisitos reglamentarios de un tipo de vehículo especial destinado al transporte de mercancías perecederas
+
+Organismo de control: ....................................................................................................
+
+Número de contraseña de tipo .......................................................................................
+
+Vehículo isotermo (1).
+
+Refrigerante.
+
+Frigorífico.
+
+Calorífico.
+
+A la vista de las actas de ensayo abajo referenciadas y del seguimiento que este organismo ha realizado durante su fabricación, se certifica que el vehículo abajo referenciado cumple con la Reglamentación establecida en el Real Decreto 237/2000, de 18 de febrero, pudiendo ser utilizado como vehículo de referencia para la puesta en servicio de vehículos del mismo tipo hasta el día: ............................................................................
+
+A petición del fabricante, se certifica que los componentes del vehículo han sido construidos en «kit» y se utilizará como vehículo de referencia para vehículos en «kit» de conformidad con el apéndice 1 del mencionado Real Decreto (2).
+
+Tipo (3) ...........................................................................................................................
+
+Fabricado por .................................................................................................................
+
+En su caso, representante legal del fabricante ..............................................................
+
+Vehículo (4) ....................................................................................................................
+
+Número de fabricación: ..................................................................................................
+
+Marca .............................................................................................................................
+
+Superficie interior de la caja ..................................................................................... m<sup>2</sup>.
+
+K= .................................................................................................................... W/m<sup>2 </sup>ºC.
+
+Error máximo de medición correspondiente al ensayo efectuado .................................
+
+Si se trata de vehículo refrigerante, naturaleza del agente frigorífico ............................
+
+Si se trata de vehículo frigorífico:
+
+Marca del equipo frigorífico ............................................................................................
+
+Potencia frigorífica para una temperatura externa de +30 ºC y para una temperatura interior de:
+
+0º C .................................................. W.
+
+-10º C .............................................. W.
+
+-20º C ............................................. W.
+
+Si se trata de vehículo calorífico:
+
+Sistema de calentamiento ..............................................................................................
+
+Potencia en kW ..............................................................................................................
+
+Vehículo presentado a ensayos el .................................................................................
+
+Estación Oficial de Ensayos ...........................................................................................
+
+Fecha de las actas de ensayos ......................................................................................
+
+Números de las actas de ensayos .................................................................................
+
+En ....................................................., a .............. de ................................ de 200....
+
+El Director técnico del organismo de control
+
+Observaciones
+
+1\. Las características constructivas de los vehículos que se fabriquen se corresponderán con las que figuran en el/las acta/s de ensayos referenciadas, según la reglamentación vigente.
+
+2\. La conformidad de la producción se comprobará por el procedimiento establecido en la reglamentación vigente.
+
+3\. Este certificado perderá su validez si se comprueba que las características de la producción no coinciden con las del vehículo de referencia.
+
+4\. En el caso de vehículos «kit» se cumplirán las condiciones y restricciones establecidas en la reglamentación vigente.
+
+(1) Táchese lo que no proceda.
+
+(2) Omítase este párrafo si no es de aplicación.
+
+(3) Consígnese la categoría y clase que le corresponda, de acuerdo con el anejo 1 del ATP, así como las letras de la marca de identificación correspondiente que figuran en el apéndice 4 de dicho anejo.
+
+(4) Indíquese el tipo (vagón, camión, furgoneta, remolque, semirremolque, contenedor, etc.); en el caso de vehículos cisterna, añadir la palabra «cisterna».
+
+## APÉNDICE 3 — Acta de conformidad de un vehículo especial con el tipo
+
+Organismo de control .....................................................................................................
+
+Nombre del inspector .....................................................................................................
+
+Fecha de la inspección ..................................................................................................
+
+Dirección completa del lugar de la inspección ...............................................................
+
+Tipo de recinto acondicionado (caja):
+
+Caja cerrada □
+
+Furgoneta □
+
+Cisterna □
+
+Contenedor □
+
+Vagón □
+
+Categoría y clase que se solicita para el vehículo acondicionado:
+
+| IN | □ | IR | □ | RNA | □ | RRA | □ | RRB | □ |
+|---|---|---|---|---|---|---|---|---|---|
+| RRC | □ | RND | □ | RRD | □ | FNA | □ | FRA | □ |
+| FRB | □ | FRC | □ | FND | □ | FRD | □ | FRE | □ |
+| FRF | □ | CNA | □ | CRA | □ | CRB | □ |  |  |
+
+Nombre completo del fabricante ....................................................................................
+
+Marca (si existe) .............................................................................................................
+
+En caso de vehículo para construcción en «kit», nombre completo del fabricante que ha realizado el montaje final ..............
+
+Vehículo portador (excepto contenedores y vagones):
+
+Número de bastidor: ................. Contraseña hom.: ..................... PMA: ........................
+
+Nombre completo del fabricante ....................................................................................
+
+Marca .............................................................................................................................
+
+Vehículo a motor: Chasis cabina □ furgoneta □ deriv. turismo □.
+
+Remolque: Completo □ de eje central □ semirremolque □.
+
+Características del vehículo acondicionado (caja):
+
+Número de fabricación: ..................................... Fecha de fabricación: .........................
+
+Contraseña tipo: ....................................................... Fech. Cert. tipo: ..........................
+
+Acta de ensayo de tipo número: ....................................................................................
+
+Estación de ensayo: .......................................................................................................
+
+Dimensiones exteriores (mm):
+
+L: ..................... A: ..................... H: .....................
+
+Dimensiones interiores (mm):
+
+L: ..................... A: ..................... H: .....................
+
+Superficie interior (m<sup>2 </sup>dos decimales) ............................................................................
+
+Superficie exterior (m<sup>2 </sup>dos decimales) ...........................................................................
+
+Superficie media (m<sup>2 </sup>dos decimales) .............................................................................
+
+Volumen interior (m<sup>3 </sup>dos decimales) ..............................................................................
+
+Carga útil (PMA-TARA) (kg) ...........................................................................................
+
+Composición, calidad y espesor (en mm) de aislamiento de las paredes del interior al exterior:
+
+Techo ..............................................................................................................................
+
+Suelo ..............................................................................................................................
+
+Paredes laterales ...........................................................................................................
+
+Acta de conformidad de los materiales aislantes:
+
+(Organismo de control): ....................... (fecha) .................... (número) .........................
+
+Tabique interior fijo/móvil longitudinal/transversal (1) (2):
+
+Distancia interior a pared delantera o lateral izquierda ............................................. m.
+
+Especificaciones ............................................................................................................
+
+Número, emplazamiento y dimensiones de puertas, trampillas, otras aberturas: Estanquidad al aire: .........................
+
+Equipos interiores o dispositivos accesorios ..................................................................
+
+Orificios de carga de hielo ..............................................................................................
+
+Coeficiente global de transmisión térmica del vehículo de referencia: K= .. W/m<sup>2</sup> ºC.
+
+Características del vehículo acondicionado (cisterna):
+
+Número de fabricación: ..................................... Fecha de fabricación: .........................
+
+Contraseña tipo: ................................................. Fech. Cert. tipo: ................................
+
+Acta de ensayo número: ................................... Estación de ensayo: ...........................
+
+Dimensiones principales (mm):
+
+En el exterior: Longitud del cilindro ................................................................................
+
+Eje mayor .......................................................................................................................
+
+Eje menor .......................................................................................................................
+
+En el interior: Longitud del cilindro .................................................................................
+
+Eje mayor .......................................................................................................................
+
+Eje menor .......................................................................................................................
+
+Volumen interior útil (m<sup>3</sup> dos decimales) ........................................................................
+
+Volumen interior de cada compartimento .......................................................................
+
+Superficie total interior de la cisterna (m<sup>2</sup> dos decimales) .............................................
+
+Superficie total interior de cada compartimento:
+
+S<sub>I1 </sub>....................................................
+
+S<sub>I2 </sub>....................................................
+
+Superficie total exterior de la cisterna (m<sup>2</sup> dos decimales) ............................................
+
+Superficie media de la cisterna S=√S<sub>i</sub>•S<sub>e</sub> ............................................................... m<sup>2</sup>.
+
+Composición, calidad y espesor (en mm) de aislamiento de las paredes del interior al exterior:
+
+Paredes laterales ...........................................................................................................
+
+Acta de conformidad de los materiales aislantes:
+
+(Organismo de control): ....................... (fecha) .................... (número) .........................
+
+Particularidades de la estructura de la cisterna:
+
+Número, situación y dimensiones de las bocas de hombre ...........................................
+
+Descripción de las tapas de las bocas de hombre .........................................................
+
+Número dimensiones y descripción de las tuberías de vaciado ....................................
+
+Equipos interiores o dispositivos accesorios ....................................
+
+Coeficiente global de transmisión térmica del vehículo de referencia K = ...W/m2 ºC.
+
+...............................................................................................................................
+
+Equipo térmico de vehículos refrigerantes
+
+Fuente de frío:
+
+Hielo hídrico □; hielo carbónico □; placas eutécticas □; gas licuado □; autónoma □; no autónoma □; móvil □; no móvil □.
+
+En el caso de placas eutécticas:
+
+Descripción ....................................................................................................................
+
+Naturaleza de la solución eutéctica ...............................................................................
+
+Carga nominal de solución eutéctica indicada por el fabricante .............................. kg.
+
+Calor latente a la temperatura de congelación indicada por el fabricante ..................... kJ/kg A ............... ºC.
+
+Funcionamiento autónomo/no autónomo/conectado a una instalación central (2) .....................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Placas eutécticas: Marca ................................................. Tipo .....................................
+
+Dimensiones, número, emplazamiento de las placas, distancia con relación a las paredes ...............................................
+
+Reserva de frío total declarado por el fabricante para una temperatura de congelación de ................................. ºC ...............W.
+
+Dispositivos de ventilación interior (si hay):
+
+Descripción ....................................................................................................................
+
+Dispositivos de automatización ......................................................................................
+
+Equipo frigorífico (si hay):
+
+Marca ...................................... Tipo ...................................... Número ..........................
+
+Emplazamiento ..............................................................................................................
+
+Compresor: Marca ............................................... Tipo ..................................................
+
+Modo de accionamiento .................................................................................................
+
+Potencia del motor de accionamiento ....................................... kW A .................. rpm.
+
+Naturaleza del frigorígeno ..............................................................................................
+
+Condensador .................................................................................................................
+
+Potencia frigorífica indicada por el fabricante para la temperatura de congelación declarada y para una temperatura de +30 ºC ........ W.
+
+Dispositivos de automatización:
+
+Desescarche (si hay) .....................................................................................................
+
+Termostato .....................................................................................................................
+
+Presostato BP ................................................................................................................
+
+Presostato HP ................................................................................................................
+
+Válvula de expansión .....................................................................................................
+
+Otros ..............................................................................................................................
+
+Dispositivos accesorios:
+
+Dispositivos de calentamiento eléctrico de las juntas de las puertas.
+
+Potencia por metro lineal de resistencia ............................................................... W/m.
+
+Longitud lineal de resistencia .................................................................................... m.
+
+Equipo térmico de vehículos frigoríficos
+
+Si la máquina frigorífica del vehículo de referencia ha sido ensayada separadamente:
+
+Acta y fecha de ensayo: ........................................ Estac. de ensayo: ...........................
+
+Tipo ................................................................................................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Potencia frigorífica indicada por el fabricante a la temperatura exterior de +30 ºC y temperatura interior:
+
+0º C .................................................. W.
+
+-10º C .............................................. W.
+
+-20º C .............................................. W.
+
+Naturaleza del frigorígeno y carga: ................................................................................
+
+Dispositivos de ventilación interior (si existen):
+
+Descripción (número, etc.) .............................................................................................
+
+Potencia de los ventiladores ..................................................................................... W.
+
+Caudal de los ventiladores ..................................................................................... m<sup>3</sup>/h.
+
+Conductos: Sección ........................................................ m<sup>2 </sup>; longitud ..................... m.
+
+Equipo térmico de vehículos caloríficos
+
+Dispositivo de calentamiento:
+
+Tipo ................................................................................................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Emplazamiento ..............................................................................................................
+
+Superficie global de intercambio de calor ................................................................ m<sup>2</sup>.
+
+Potencia útil indicada por el fabricante ................................................................... kW.
+
+Dispositivos de ventilación interior (si existen):
+
+Descripción (número, etc.) .............................................................................................
+
+Potencia de los ventiladores ..................................................................................... W.
+
+Caudal de los ventiladores ..................................................................................... m<sup>3</sup>/h.
+
+Conductos: Sección ......................................... m<sup>2 </sup>; longitud .................................... m.
+
+El vehículo inspeccionado puede/no puede/sólo puede para transporte nacional (2) ser aceptado como vehículo de la categoría y clase ....... (3).
+
+En ................................................., a ................... de ............................ de .............
+
+El inspector del organismo de control
+
+(1) Abrir un apartado por cada tabique existente. Si no existen, eliminar el apartado.
+
+(2) Táchese lo que no proceda.
+
+(3) Indíquese la categoría y clase solicitada.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## APÉNDICE 4 — Ficha de características de un vehículo especial
+
+Ficha de características número: ...................................................................................
+
+Este documento se extenderá por triplicado por el organismo de control que haya realizado la inspección inicial, una vez haya sido montada la caja o cisterna sobre el vehículo portador. Los ejemplares quedarán en poder del fabricante, quien los entregará al propietario del vehículo para ser presentados en la estación ITV para la matriculación del vehículo. Dos de los ejemplares, tras ser sellados por la estación ITV, le serán devueltos al propietario del vehículo quien conservará uno en su poder y entregará el otro al organismo de control para la obtención del certificado de conformidad del vehículo para el transporte de mercancías perecederas. El otro ejemplar se archivará en la estación ITV o dependencia que la Comunidad Autónoma disponga. En caso de extravío, el propietario del vehículo se solicitará un duplicado al organismo de control depositario de la ficha sellada por la estación ITV.
+
+Está prohibido someter al recinto con acondicionamiento térmico o a los equipos de frío o calentamiento a cualquier tipo de modificaciones si no es previamente autorizado por el organismo de control y los cambios no quedan reflejados en esta ficha de características.
+
+Organismo de control: ....................................................................................................
+
+Nombre del inspector: ....................................................................................................
+
+Fecha de la inspección: .................................................................................................
+
+Dirección completa del lugar de la inspección: ..............................................................
+
+Tipo de recinto acondicionado (caja):
+
+Caja cerrada □
+
+Furgoneta □
+
+Cisterna □
+
+Contenedor □
+
+Vagón □
+
+Categoría y clase del vehículo acondicionado:
+
+| IN | □ | IR | □ | RNA | □ | RRA | □ | RRB | □ |
+|---|---|---|---|---|---|---|---|---|---|
+| RRC | □ | RND | □ | RRD | □ | FNA | □ | FRA | □ |
+| FRB | □ | FRC | □ | FND | □ | FRD | □ | FRE | □ |
+| FRF | □ | CNA | □ | CRA | □ | CRB | □ |  |  |
+
+Nombre completo del fabricante ....................................................................................
+
+Marca (si existe) .............................................................................................................
+
+En caso de vehículos para construcción en «kit», nombre completo del fabricante que ha realizado el montaje final ......................................................................................................
+
+Vehículo portador (excepto contenedores y vagones):
+
+Número de bastidor: .................. Contraseña hom.: .................... PMA: ........................
+
+Nombre completo del fabricante ....................................................................................
+
+Marca .............................................................................................................................
+
+Vehículo a motor: Chasis cabina □; furgoneta □; deriv. turismo □.
+
+Remolque: Completo □; de eje central □; semirremolque □.
+
+Características del vehículo acondicionado (caja):
+
+Número de fabricación: ..................................... Fecha de fabricación: .........................
+
+Contraseña tipo: .............................................. Fech. Cert. tipo: ...................................
+
+Acta de ensayo de tipo número: ....................................................................................
+
+Estación de ensayo: .......................................................................................................
+
+Dimensiones exteriores (mm):
+
+L: ..................... A: ..................... H: .....................
+
+Dimensiones interiores (mm):
+
+L: ..................... A: ..................... H: .....................
+
+Superficie interior (m<sup>2</sup> dos decimales) ............................................................................
+
+Superficie exterior (m<sup>2</sup> dos decimales) ...........................................................................
+
+Superficie media (m<sup>2</sup> dos decimales) .............................................................................
+
+Volumen interior (m<sup>3</sup> dos decimales) ..............................................................................
+
+Carga útil (PMA-TARA) (kg) ...........................................................................................
+
+Composición, calidad y espesor (en mm) de aislamiento de las paredes del interior al exterior:
+
+Techo ..............................................................................................................................
+
+Suelo ..............................................................................................................................
+
+Paredes laterales ...........................................................................................................
+
+Acta de conformidad de los materiales aislantes:
+
+(Organismo de control): .......................... (fecha) .................... (número) ......................
+
+Tabique interior fijo/móvil longitudinal/transversal (1) (2):
+
+Distancia interior a pared delantera o lateral izquierda ............................................. m.
+
+Especificaciones ............................................................................................................
+
+Número, emplazamiento y dimensiones de puertas, trampillas, otras aberturas: .................................................................................... Estanquidad al aire: ...................................
+
+Equipos interiores o dispositivos accesorios: .................................................................
+
+Orificios de carga de hielo: .............................................................................................
+
+Coeficiente global de transmisión térmica del vehículo de referencia: K= ......................................................................... W/m<sup>2</sup> ºC.
+
+Características del vehículo acondicionado (cisterna):
+
+Número de fabricación: ............................... Fecha de fabricación: ...............................
+
+Contraseña tipo: ........................................... Fech. Cert. tipo: ......................................
+
+Acta de ensayo número: ............................. Estación de ensayo: .................................
+
+Dimensiones principales (mm):
+
+En el exterior: longitud del cilindro .................................................................................
+
+Eje mayor .......................................................................................................................
+
+Eje menor .......................................................................................................................
+
+En el interior: longitud del cilindro ..................................................................................
+
+Eje mayor .......................................................................................................................
+
+Eje menor .......................................................................................................................
+
+Volumen interior útil (m<sup>3</sup> dos decimales) ........................................................................
+
+Volumen interior de cada compartimento ......................................................................
+
+Superficie total interior de la cisterna (m<sup>2</sup> dos decimales) .............................................
+
+Superficie total interior de cada compartimento:
+
+S<sub>I1</sub> ....................................................
+
+S<sub>I2</sub> ....................................................
+
+Superficie total exterior de la cisterna (m<sup>2</sup> dos decimales) ............................................
+
+Superficie media de la cisterna S=√S<sub>i</sub>S=•S<sub>e </sub>................................................................ m<sup>2</sup>.
+
+Composición, calidad y espesor (en mm) de aislamiento de las paredes del interior al exterior:
+
+Paredes laterales ...........................................................................................................
+
+Acta de conformidad de los materiales aislantes:
+
+(Organismo de control): ....................... (fecha) .......................... (número) ...................
+
+Particularidades de la estructura de la cisterna:
+
+Número, situación y dimensiones de las bocas de hombre ...........................................
+
+Descripción de las tapas de las bocas de hombre .........................................................
+
+Número dimensiones y descripción de las tuberías de vaciado ....................................
+
+Equipos interiores o dispositivos accesorios ..................................................................
+
+Coeficiente global de transmisión térmica del vehículo de referencia K = ...W/m2 ºC.
+
+Equipo térmico de vehículos refrigerantes
+
+Fuente de frío:
+
+Hielo hídrico □; hielo carbónico □; placas eutécticas □; gas licuado □; autónoma □; no autónoma □; móvil □; no móvil □.
+
+En el caso de placas eutécticas:
+
+Descripción ....................................................................................................................
+
+Naturaleza de la solución eutéctica ...............................................................................
+
+Carga nominal de solución eutéctica indicada por el fabricante .............................. kg.
+
+Calor latente a la temperatura de congelación indicada por el fabricante ................................................ kJ/kg A .................................................. ºC.
+
+Funcionamiento autónomo/no autónomo/conectado a una instalación central <sup>2</sup> .........................................................................................................................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Placas eutécticas: Marca .............................................. Tipo ........................................
+
+Dimensiones, número, emplazamiento de las placas, distancia con relación a las paredes ................................................................................................................................
+
+Reserva de frío total declarado por el fabricante para una temperatura de congelación de ......................................... ºC .................................... W.
+
+Dispositivos de ventilación interior (si hay):
+
+Descripción ....................................................................................................................
+
+Dispositivos de automatización ......................................................................................
+
+Equipo frigorífico (si hay):
+
+Marca ............................................... Tipo ................................... Número ....................
+
+Emplazamiento ..............................................................................................................
+
+Compresor: Marca ............................................... Tipo ..................................................
+
+Modo de accionamiento .................................................................................................
+
+Potencia del motor de accionamiento .................................... kW A ...................... rpm.
+
+Naturaleza del frigorígeno ..............................................................................................
+
+Condensador .................................................................................................................
+
+Portencia frigorífica indicada por el fabricante para la temperatura de congelación declarada y para una temperatura de +30 ºC ................................................................. W.
+
+Dispositivos de automatización:
+
+Desescarche (si hay) .....................................................................................................
+
+Termostato .....................................................................................................................
+
+Presostato BP ................................................................................................................
+
+Presostato HP ................................................................................................................
+
+Manorreductor ................................................................................................................
+
+Otros ..............................................................................................................................
+
+Dispositivos accesorios:
+
+Dispositivos de calentamiento eléctrico de las juntas de las puertas.
+
+Potencia por metro lineal de resistencia ............................................................... W/m.
+
+Longitud lineal de resistencia ................................................................................... m.
+
+Equipo térmico de vehículos frigoríficos
+
+Si la máquina frigorífica del vehículo de referencia ha sido ensayada separadamente:
+
+Acta y fecha de ensayo: ........................................... Estac. de ensayo: ........................
+
+Tipo ................................................................................................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Potencia frigorífica indicada por el fabricante a la temperatura exterior de +30 ºC y temperatura interior:
+
+0 ºC .................................................. W.
+
+-10 ºC .............................................. W.
+
+-20 ºC .............................................. W.
+
+Naturaleza del frigorígeno y carga .................................................................................
+
+Dispositivos de ventilación interior (si existen):
+
+Descripción (número, etc.) .............................................................................................
+
+Potencia de los ventiladores: .................................................................................... W.
+
+Caudal de los ventiladores: .................................................................................... m<sup>3</sup>/h.
+
+Conductos: Sección ..................................................... m<sup>2</sup> ; longitud ........................ m.
+
+Equipo térmico de vehículos caloríficos
+
+Dispositivo de calentamiento:
+
+Tipo ................................................................................................................................
+
+Fabricante ......................................................................................................................
+
+Tipo, número de serie/fabricación ..................................................................................
+
+Año de fabricación .........................................................................................................
+
+Emplazamiento ..............................................................................................................
+
+Superficie global de intercambio de calor ................................................................ m<sup>2</sup>.
+
+Potencia útil indicada por el fabricante ................................................................... kW.
+
+Dispositivos de ventilación interior (si existen):
+
+Descripción (número, etc.) .............................................................................................
+
+Potencia de los ventiladores ..................................................................................... W.
+
+Caudal de los ventiladores ..................................................................................... m<sup>3</sup>/h.
+
+Conductos: Sección .................................................. m<sup>2 </sup>; longitud ........................... m.
+
+El abajo firmante certifica que todas las características contenidas en este documento han sido comprobadas por el inspector de este organismo en la fecha y en el lugar que constan al principio y, cotejadas con las actas de ensayo indicadas, resultando admisibles según la reglamentación vigente.
+
+En ................................................, a ............... de .................................... de 20......
+
+El Director técnico del organismo de control
+
+Fdo.:
+
+(1) Abrir un apartado por cada tabique existente. Si no existen, eliminar el apartado.
+
+(2) Táchese lo que no proceda.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## APÉNDICE 5 — Modelo de certificado para las unidades isotermas, refrigerantes, frigoríficas, caloríficas o frigoríficas y caloríficas destinadas a los transportes terrestres internacionales de mercancías perecederas
+
+Definido en el anejo 1, apéndice 3 del Acuerdo ATP en vigor que aparece publicado en el ‟Boletín Oficial del Estado”.
+
+> Se modifica, con efectos de 1 de julio de 2021, por el art. único.2 de la Orden ICT/370/2021, de 14 de abril. [Ref. BOE-A-2021-6389](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6389)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## APÉNDICE 6 — Modelo de certificado de conformidad para los vehículos especiales destinados al transporte nacional de mercancías perecederas (TMP)
+
+Se utilizará el modelo definido en el anejo 1, apéndice 3 del Acuerdo ATP en vigor que aparece publicado en el “Boletín Oficial del Estado”, se eliminará la sigla distintiva del país indicada en este, indicándose el número de acreditación por la Entidad Nacional de Acreditación (ENAC) del organismo de control, y estará redactado en español.
+
+Se añadirá el siguiente texto en el encabezado:
+
+Expedido de conformidad con lo establecido en el apartado 2 del artículo 9 del Real Decreto 237/2000, de 18 de febrero, por el que se establecen las especificaciones técnicas que deben cumplir los vehículos especiales para el transporte terrestre de productos alimentarios a temperatura regulada y los procedimientos para el control de conformidad con las especificaciones.
+
+> Se modifica, con efectos de 1 de julio de 2021, por el art. único.2 de la Orden ICT/370/2021, de 14 de abril. [Ref. BOE-A-2021-6389](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6389)
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## APÉNDICE 7 — Acta de inspección periódica de un vehículo especial
+
+Acta número ...................................................................................................................
+
+Organismo de control .....................................................................................................
+
+Nombre del inspector .....................................................................................................
+
+Fecha de inspección ......................................................................................................
+
+Dirección completa del lugar de inspección ...................................................................
+
+Tipo de recinto acondicionado (caja):
+
+Caja cerrada □
+
+Furgoneta □
+
+Cisterna □
+
+Contenedor □
+
+Vagón □
+
+Categoría y clase del vehículo:
+
+| IN | □ | IR | □ | RNA | □ | RRA | □ | RRB | □ |
+|---|---|---|---|---|---|---|---|---|---|
+| RRC | □ | RND | □ | RRD | □ | FNA | □ | FRA | □ |
+| FRB | □ | FRC | □ | FND | □ | FRD | □ | FRE | □ |
+| FRF | □ | CNA | □ | CRA | □ | CRB | □ |  |  |
+
+Número de matrícula del vehículo portador ...................................................................
+
+Número de bastidor del vehículo portador .....................................................................
+
+Perteneciente a ..............................................................................................................
+
+Características del vehículo acondicionado (caja):
+
+Número de fabricación: ..................................... Fecha de fabricación: .........................
+
+Tipo de dispositivo térmico (si lo incorpora):
+
+Autónomo SI □ NO □
+
+Móvil SI □ NO □
+
+En el caso de vehículos frigoríficos, potencia frigorífica útil de la máquina frigorífica que incorpora para la temperatura exterior de 30 ºC:
+
+y la temperatura interior de ..................................... ºC ........................................... W.
+
+y la temperatura interior de ..................................... ºC ........................................... W.
+
+y la temperatura interior de ..................................... ºC ........................................... W.
+
+El vehículo SI □ NO □ se corresponde con un vehículo ensayado según ATP. En caso positivo:
+
+Estación de ensayo ........................................................................................................
+
+Naturaleza de los ensayos ............................................................................................
+
+Número(s) de acta(s) ................................................................................................
+
+En su caso, número de homologación ...........................................................................
+
+Valor de coeficiente K ....................................................................................................
+
+En caso del vehículo estar en servicio en base a medidas transitorias, indíquese cuáles y coeficiente K si ha sido determinado por cálculo .........................................
+
+¿Dispone el vehículo de ficha de características?: SI □ NO □.
+
+En caso positivo, indíquese número, fecha y organismo de control que la emitió .....................................................................................................
+
+En caso negativo, razones para no tenerla ....................................................................
+
+¿Se corresponden las características físicas del vehículo con las que figuran en la ficha de características?: SI □NO □.
+
+En caso negativo, razones para la no correspondencia:
+
+....................................................................................................................................................................................
+
+Si el vehículo no dispone de ficha de características, puesto en servicio por corresponderse con un vehículo ensayado en laboratorio: SI □ NO □.
+
+En caso positivo, corresponden las características físicas con las que figuran en el acta de ensayo□:
+
+SI □ NO □.
+
+Buen estado de conservación de las paredes y puertas: SI □ NO □.
+
+Buen estado de conservación y continuidad de juntas de estanquidad: SI □ NO □.
+
+Buen estado de conservación de estanquidad del recinto: SI □ NO □.
+
+Resultado admisible de la prueba de eficacia de los dispositivos términos del vehículo, si los hubiere: SI □ NO □.
+
+El vehículo objeto de esta acta, cumple/no cumple (1) con los requisitos exigidos por la reglamentación vigente respecto al control de conformidad de los vehículos en servicio.
+
+En ................................................., a ............. de ..................................... de .............
+
+El inspector del organismo de control
+
+(1) Táchese lo que no proceda.
+
+## APÉNDICE 8 — Informe previo a la modificación o reparación de un vehículo especial
+
+Número de informe ........................................................................................................
+
+Organismo de control .....................................................................................................
+
+□ Modificación (1).
+
+□ Reparación.
+
+Tipo de recinto acondicionado (caja):
+
+Caja cerrada □
+
+Furgoneta □
+
+Cisterna □
+
+Contenedor □
+
+Vagón □
+
+Categoría y clase del vehículo:
+
+| IN | □ | IR | □ | RNA | □ | RRA | □ | RRB | □ |
+|---|---|---|---|---|---|---|---|---|---|
+| RRC | □ | RND | □ | RRD | □ | FNA | □ | FRA | □ |
+| FRB | □ | FRC | □ | FND | □ | FRD | □ | FRE | □ |
+| FRF | □ | CNA | □ | CRA | □ | CRB | □ |  |  |
+
+Número de matrícula ......................................................................................................
+
+Número de bastidor ........................................................................................................
+
+Número/fecha de construcción ......................................................................................
+
+Contraseña de homologación ........................................................................................
+
+Fabricante:
+
+Nombre completo ...........................................................................................................
+
+Domicilio social ..............................................................................................................
+
+Empresa propietaria:
+
+Nombre completo ...........................................................................................................
+
+Domicilio social ..............................................................................................................
+
+Causa de la modificación/reparación .............................................................................
+
+Descripción del alcance de la modificación/reparación ................
+
+Taller de reparación/fabricante donde se ejecuta:
+
+Nombre completo ...........................................................................................................
+
+Domicilio social ..............................................................................................................
+
+Estudiado el proyecto correspondiente a la modificación/reparación del vehículo anteriormente referenciado y vista la reglamentación correspondiente sobre transportes de mercancías perecederas, este organismo de control informa favorablemente tal modificación/reparación por ser conforme con la reglamentación vigente.
+
+En .............................................., a ........... de .................................... de ................
+
+El Director técnico del organismo de control.
+
+(1) Señálese lo que corresponda.
+
+## APÉNDICE 9 — Acta de inspección excepcional de un vehículo especial
+
+Acta número ...................................................................................................................
+
+Motivo de la inspección (1).
+
+□ Modificación.
+
+□ Reparación.
+
+Otra causa (indicar) ........................................................................................................
+
+Número de informe previo (2) ........................................................................................
+
+Organismo de control que lo emitió (2) ..........................................................................
+
+Organismo de control .....................................................................................................
+
+Nombre del inspector .....................................................................................................
+
+Fecha de inspección ......................................................................................................
+
+Dirección completa del lugar de inspección: ..................................................................
+
+Tipo de recinto acondicionado (caja):
+
+Caja cerrada □
+
+Furgoneta □
+
+Cisterna □
+
+Contenedor □
+
+Vagón □
+
+Categoría y clase del vehículo:
+
+| IN | □ | IR | □ | RNA | □ | RRA | □ | RRB | □ |
+|---|---|---|---|---|---|---|---|---|---|
+| RRC | □ | RND | □ | RRD | □ | FNA | □ | FRA | □ |
+| FRB | □ | FRC | □ | FND | □ | FRD | □ | FRE | □ |
+| FRF | □ | CNA | □ | CRA | □ | CRB | □ |  |  |
+
+Número de matrícula del vehículo portador ...................................................................
+
+Número de bastidor del vehículo portador .....................................................................
+
+Perteneciente a ..............................................................................................................
+
+Características del vehículo acondicionado (caja):
+
+Número de fabricación .......................................... Fecha de fabricación ......................
+
+Tipo de dispositivo térmico (si lo incorpora):
+
+Autónomo SI □ NO □
+
+Móvil SI □ NO □
+
+En el caso de vehículos frigoríficos, potencia frigorífica útil de la máquina frigorífica para la temperatura exterior de 30 ºC:
+
+y la temperatura interior de .............. ºC ..............W.
+
+y la temperatura interior de .............. ºC ..............W.
+
+y la temperatura interior de .............. ºC ..............W.
+
+El vehículo SI □ NO □ se corresponde con un vehículo ensayado según ATP. En caso positivo:
+
+Estación de ensayo ........................................................................................................
+
+Naturaleza de los ensayos .............................................................................................
+
+Número(s) de acta(s) .....................................................................................................
+
+En su caso, número de homologación ...........................................................................
+
+Valor de coeficiente K ....................................................................................................
+
+En caso del vehículo estar en servicio en base a medidas transitorias, indíquese cuáles y coeficiente K si ha sido determinado por cálculo .................................................................................................................
+
+¿Dispone el vehículo de ficha de características? SI □ NO □.
+
+En caso positivo, indíquese número, fecha y organismo de control que la emitió ............................................
+
+En caso negativo, razones para no tenerla .................................................................................
+
+¿Se corresponden las características físicas del vehículo con las que figuran en la ficha de características?: SI □ NO □.
+
+En caso negativo, razones de la no correspondencia ........................
+
+Si el vehículo no dispone de ficha de características, ¿fue puesto en servicio por corresponderse con un vehículo ensayado en laboratorio?: SI □ NO □.
+
+En caso positivo, ¿se corresponden las características físicas con las que figuran en el acta de ensayo?:SI □ NO □.
+
+Buen estado de conservación de las paredes y puertas: SI □ NO □.
+
+Buen estado de conservación y continuidad de juntas de estanquidad: SI □ NO □.
+
+Buen estado de conservación de estanquidad del recinto: SI □ NO □.
+
+Resultado admisible de la prueba de eficacia de los dispositivos térmicos del vehículo, si los hubiere: SÍ □ NO □.
+
+Efectuada la inspección excepcional del vehículo anteriormente descrito, el vehículo cumple/no cumple (3) con los requisitos exigidos por la reglamentación vigente respecto al control de conformidad de los vehículos en servicio.
+
+En ...................................................., a .............. de ................................... de .......
+
+El inspector del organismo de control
+
+(1) Señálese lo que corresponda.
+
+(2) Sólo aplicable a inspecciones por modificación o reparación.
+
+(3) Táchese lo que no proceda.
+
+## APÉNDICE 10 — Placa del fabricante
+
+Esta placa debe estar fija al vehículo de manera permanente en lugar bien visible al lado de otras similares, expedidas a efectos oficiales. Esta placa, conforme al modelo reproducido a continuación, debe ser rectangular, resistente a la corrosión y al fuego y de, al menos, 160 mm por 100 mm. Las informaciones siguientes deben ser troqueladas en la placa de forma clara e indelebe.
+
+| CONTRASEÑA DE TIPO: |
+|---|
+| FABRICANTE: |
+| NUMERO DE CONSTRUCCION: |
+| FECHA DE CONSTRUCCION: |
+| FECHA DE INSPECCION INICIAL Y MARCA DEL ORGANISMO DE CONTROL: |
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## APÉNDICE 11 — Criterios que se utilizaron hasta el 1 de febrero de 1997 para admitir vehículos refrigerantes por cálculo
+
+Cálculo de la superficie de las placas eutécticas.
+
+Partiendo de la base que el coeficiente de transmisión práctico de las placas eutécticas es:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>h<sub>c</sub> = 2,16 •</p>
+</td>
+<td rowspan="2">
+<p>(</p>
+</td>
+<td>
+<p>ΔT</p>
+</td>
+<td rowspan="2">
+<p>)</p>
+</td>
+<td rowspan="2">
+<p>
+<sup>0,25</sup>
+</p>
+</td>
+<td>
+<p>W</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>m<sup>2</sup> ºC</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+en la que son:
+
+ΔT: diferencia de temperaturas entre la superficie y el exterior de la placa eutéctica en ºC.
+
+L: anchura de la placa en m.
+
+se obtiene que la capacidad de transmisión de una placa eutéctica, en función de las temperaturas interior y superficial de ella y de su anchura, es:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>C = 2,16 •</p>
+</td>
+<td rowspan="2">
+<p>(</p>
+</td>
+<td>
+<p>ΔT</p>
+</td>
+<td rowspan="2">
+<p>)</p>
+</td>
+<td rowspan="2">
+<p>0,25<br> ·ΔT</p>
+</td>
+<td>
+<p>W</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+<td>
+<p>m<sup>2</sup></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Dado que las pérdidas térmicas del furgón, mayoradas para el dimensionamiento de su equipo de frío, son:
+
+P = 1,35 · K · S<sub>m</sub> (T<sub>e</sub> - T<sub>i</sub>) W
+
+en la que son:
+
+K: Coeficiente global de transmisión del furgón en W/m<sup>2</sup> ºC.
+
+S<sub>m</sub>: Superficie media del furgón en m<sup>2</sup>.
+
+T<sub>e</sub>: Temperatura exterior de referencia (30 ºC).
+
+T<sub>i</sub>: Temperatura interior de referencia (0 ºC ; -10 ºC; -20 ºC).
+
+La capacidad de transmisión de las placas eutécticas tendrá que ser superior a las pérdidas. Es decir que:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>2,16 •</p>
+</td>
+<td rowspan="2">
+<p>(</p>
+</td>
+<td>
+<p>ΔT</p>
+</td>
+<td rowspan="2">
+<p>)</p>
+</td>
+<td rowspan="2">
+<p>0,25<br> ΔT</p>
+</td>
+<td rowspan="2">
+<p>• S<sub>p</sub> &gt; 1,35 • K • S<sub>m</sub> • (T<sub>e</sub> - T<sub>i</sub>)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+y por tanto:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="3">
+<p>S<sub>p</sub> &gt;</p>
+</td>
+<td colspan="6">
+<p>1,35 • K • S<sub>m</sub> • (T<sub>e</sub> - T<sub>i</sub>)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>2,16 •</p>
+</td>
+<td rowspan="2">
+<p>(</p>
+</td>
+<td>
+<p>-T<sub>s</sub> + T<sub>i</sub></p>
+</td>
+<td rowspan="2">
+<p>)</p>
+</td>
+<td rowspan="2">
+<p>
+<sup>0,25</sup>
+</p>
+</td>
+<td rowspan="2">
+<p>·(-T<sub>s</sub>+T<sub>i</sub>)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>L</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+siendo:
+
+S<sub>p</sub>: Superficie total de las placas eutécticas en m<sup>2</sup>.
+
+K: Coeficiente global de transmisión del furgón en W/m<sup>2</sup> ºC.
+
+S<sub>m</sub>: Superficie media del furgón en m<sup>2</sup>.
+
+T<sub>e</sub>: Temperatura exterior de referencia en ºC.
+
+T<sub>i</sub>: Temperatura interior de referencia en ºC.
+
+T<sub>s</sub>: Temperatura superficial de la placa en ºC (aproximadamente temperatura de congelación de la solución).
+
+L: Anchura unitaria de las placas eutécticas en m.
+
+Cálculo de la carga de la solución eutéctica contenida en las placas:
+
+Teniendo en cuenta que, además de que las placas puedan mantener la temperatura interior por debajo de la de referencia, esto debe ocurrir durante al menos doce horas, la reserva de frío contenida en la solución eutéctica congelada debe ser suficiente para compensar el calor que entra en el furgón, debido a las pérdidas térmicas.
+
+Considerando solamente el calor latente de congelación de la solución eutéctica y aceptando como su valor 200 kJ/Kg, deberá ocurrir:
+
+<table>
+<tbody>
+<tr>
+<td>
+<p>m • 200 • 1000</p>
+</td>
+<td rowspan="2">
+<p>&gt;1,35 • K • S<sub>m</sub> • (T<sub>e</sub> - T<sub>i</sub>)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>12 • 3600</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+y, por tanto, la cantidad total de solución eutéctica en las placas deberá ser:
+
+<table>
+<tbody>
+<tr>
+<td rowspan="2">
+<p>m &gt;</p>
+</td>
+<td>
+<p>1,35 • K • S<sub>m</sub> • (T<sub>e</sub> - T<sub>i</sub>) • 12 • 3,6</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>200</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+siendo:
+
+m: Cantidad total de solución eutéctica en las placas en kg.
+
+Capacidad del compresor:
+
+Durante el tiempo de funcionamiento del compresor (veinticuatro horas), se debe:
+
+A: extraer el calor generado durante la prueba.
+
+B: extraer el calor de la placa entre la temperatura de referencia exterior y la de congelación de la solución.
+
+C: enfriar el furgón.
+
+D: enfriar el aire del furgón.
+
+E: compensar las entradas de calor a través de las paredes del furgón.
+
+Estudios experimentales han establecido que un desplazamiento de 2,7 m<sup>3</sup>/h en el compresor, por unidad de placa eutéctica, es suficiente para conseguir los objetivos anteriormente enumerados, es decir, alcanzar una temperatura inferior a la de referencia en el interior del furgón, congelar la solución eutéctica y subenfriarla.
+
+## APÉNDICE 12 — Vehículos multicompartimento
+
+1\. Definición.
+
+Se entiende por vehículo multicompartimento aquel que mediante divisiones interiores aislantes, se encuentra dividido al menos en dos compartimentos de distintas categorías o clases.
+
+2\. Construcción.
+
+Para la construcción de un vehículo multicompartimento, se puede:
+
+a) Compartimentar mediante divisiones interiores un vehículo de un solo compartimento del mismo tipo que uno convencional que ha sido sometido previamente a los ensayos normalizados ATP.
+
+b) Construir un vehículo del mismo tipo que otro vehículo multicompartimento que ha sido ensayado según lo establecido en este apéndice.
+
+3\. Ensayos para la determinación del coeficiente K.
+
+Para la determinación del coeficiente K de un vehículo multicompartimento, se procederá de la siguiente forma:
+
+a) Si el vehículo solamente tiene tabiques interiores móviles, se retirarán éstos, sometiendo el vehículo a los ensayos en la forma establecida en los apartados 1-15 del apéndice 2 del anejo 1 del ATP.
+
+b) Si el vehículo tiene tabiques interiores fijos, se retirarán los móviles, si los hubiera, sometiendo el vehículo a los ensayos en la forma establecida en los apartados 1-15 del apéndice 2 del anejo 1 del ATP, distribuyendo los focos de calentamiento y los puntos de medición de las temperaturas de la forma establecida en los apartados 20 y 21.
+
+4\. Especificaciones de los tabiques interiores.
+
+Los tabiques interiores serán rígidos y estarán construidos de material aislante de, al menos, la misma conductividad térmica que el utilizado para la construcción de los cerramientos exteriores.
+
+Los espesores mínimos de los tabiques interiores serán:
+
+a) Transversales fijos o móviles: 45 mm.
+
+b) Longitudinales: 30 mm.
+
+A los efectos de calcular las pérdidas térmicas de las paredes para dimensionamiento de los dispositivos térmicos, se tomarán como valores del coeficiente K en los tabiques, los siguientes:
+
+a) Tabiques transversales fijos: 0,4 W/m<sup>2</sup> ºC.
+
+b) Tabiques transversales móviles: 0,7 W/m<sup>2</sup> ºC.
+
+c) Tabiques longitudinales fijos: 0,7 W/m<sup>2</sup> ºC.
+
+Los tabiques móviles encajarán perfectamente en la sección interior del vehículo, sin que se aprecien holguras.
+
+5\. Ensayos de eficacia de máquinas frigoríficas de varios evaporadores.
+
+Serán aceptadas las máquinas frigoríficas de varios evaporadores ensayadas por procedimientos establecidos por estaciones de ensayo designadas por otros Estados firmantes del ATP.
+
+6\. Cálculo de la potencia del equipo necesario para un compartimento frigorífico.
+
+La potencia de la máquina frigorífica instalada para producción de frío en un compartimento frigorífico deberá ser la suficiente para contrarrestar las pérdidas térmicas en régimen permanente a través de las paredes del compartimento, mayoradas por el factor 1,75.
+
+Para el cálculo de las pérdidas térmicas, se considerará como temperatura exterior de todas las paredes del compartimento +30 ºC, con independencia de que sea otra inferior como consecuencia de estar en otro compartimento con temperatura regulada.
+
+Como coeficiente K de las paredes, para las paredes, techo y suelo exteriores del vehículo, se tomará el obtenido en los ensayos de isotermia; para los tabiques interiores, se adoptarán los valores establecidos anteriormente.
+
+7\. Vehículos con algún compartimento refrigerante:
+
+A. En el caso que el vehículo tenga uno o más compartimentos refrigerantes, si en su conjunto ocupan más del 30 por 100 del volumen útil del vehículo, deberá partirse de un vehículo de referencia ensayado como refrigerante de la clase cuya temperatura de referencia interior sea la más baja, de entre las que va tener el vehículo.
+
+Las placas eutécticas y la fuente de frío del compartimento a temperatura de referencia más baja tendrán la misma solución eutéctica y fluido frigorígeno que el vehículo ensayado, siendo la proporción, con respecto a la superficie interior, de las superficies de placas eutécticas y potencia de motor de la fuente de frío, superior en el vehículo a construir que en el vehículo de referencia. Las paredes de separación entre este compartimento y el resto serán de las mismas características constructivas y espesor que las exteriores del vehículo de referencia.
+
+En los otros compartimentos refrigerantes, si los hubiese, las placas eutécticas y fuente de frío se dimensionarán conforme a los criterios utilizados en el apéndice 11.
+
+B. En el caso que el volumen útil ocupado sea inferior o igual al 30 por 100, podrá partirse de un vehículo de referencia ensayado como isotermo, calculando la superficie y carga de las placas eutécticas y capacidad del compresor, de cada compartimento, de acuerdo con los criterios utilizados en el apéndice 11 del presente Real Decreto. Para estos cálculos se emplearán los mismos criterios que en el apartado anterior, en cuanto a las temperaturas exteriores y coeficiente K de las paredes.
+
+8\. Marcas de identificación.
+
+Como excepción a lo establecido en el anejo 1, apéndice 4 del ATP, en el vehículo se pondrán todas las marcas que corresponderían a cada uno de los compartimentos, una detrás de otra, separadas por una barra inclinada. Por ejemplo: RRC/FRC/IR.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 180, de 28 de julio de 2000. [Ref. BOE-A-2000-14350](https://www.boe.es/buscar/doc.php?id=BOE-A-2000-14350)
+
+## APÉNDICE 13 — Procedimiento de control de montaje de caja cerrada
+
+**(Suprimido)**
+
+> Se suprime, con efectos de 1 de julio de 2021, por el art. único.2 de la Orden ICT/370/2021, de 14 de abril. [Ref. BOE-A-2021-6389](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-6389)
+
+> Se añade el apéndice 13 por el art. único.3 de la Orden ITC/2590/2010, de 30 de septiembre. [Ref. BOE-A-2010-15287](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-15287)
